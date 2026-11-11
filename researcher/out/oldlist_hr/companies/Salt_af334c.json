@@ -1,0 +1,1975 @@
+{
+ "name": "Salt",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T09:02:10.638482+00:00",
+ "official_url": "https://salt.security",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "See risk beyond the prompt",
+    "url": "https://salt.security/",
+    "pass": 1
+   },
+   {
+    "quote": "100+ enterprise deployments across complex environments.",
+    "url": "https://salt.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by global enterprises",
+    "url": "https://salt.security/",
+    "pass": 1
+   },
+   {
+    "quote": "A secure prompt is not the same as a secure action. Risk moves from model to MCP server to tool to API to a real business system. You cannot secure an agent without securing what it can reach.",
+    "url": "https://salt.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Prompts and responses",
+    "url": "https://salt.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Protects one conversation layer.",
+    "url": "https://salt.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Protects one connection layer.",
+    "url": "https://salt.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Protects one execution layer.",
+    "url": "https://salt.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Point solutions protect components.",
+    "url": "https://salt.security/",
+    "pass": 1
+   },
+   {
+    "quote": "The prompt requests an export. The internal API returns customer records without validating credentials. Salt connects the entire path.",
+    "url": "https://salt.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Prompt → Agent → MCP → Tool → API → Data",
+    "url": "https://salt.security/",
+    "pass": 1
+   },
+   {
+    "quote": "No prompt injection detected.",
+    "url": "https://salt.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Salt found MCP servers we didn't know existed, including two exposed to the internet. That changed how we approve every new agent.",
+    "url": "https://salt.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for the enterprise you have",
+    "url": "https://salt.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with agentless discovery, then add protection through the gateways, WAFs and SOC tools you already run. Nothing to rip out, reroute or rewrite.",
+    "url": "https://salt.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover what they use, understand what they can reach, govern how they operate and protect what happens at runtime.",
+    "url": "https://salt.security/",
+    "pass": 1
+   },
+   {
+    "quote": "We support the broadest range of tools and platforms and can integrate across all your application environments to protect your API-driven applications.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Apigee is an API management platform that helps businesses accelerate with APIs. Apigee gives enterprises control over and visibility into the APIs that connect applications and data, across the enterprise and across clouds.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Salt Security and Bright Security are partnering to deliver a combined approach with unparalleled capabilities in API discovery, runtime protection, pre-production API testing, and continuous hardening of APIs.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Contrast is a world-leading code security platform company purposely built for developers to get secure code moving swiftly and trusted by security teams to protect business applications. Developers, security and operations teams quickly secure code across the complete Software Development Life Cycle (SDLC) with Contrast to protect against today’s targeted AppSec attacks.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Salt Security and Contrast Security are partnering to deliver a combined approach with unparalleled capabilities in API discovery, runtime protection, pre-production API testing, and continuous hardening of APIs.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Press Release - CrowdStrike’s Falcon Fund Invests in API Security Leader, Salt Security",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "CrowdStrike is the pioneer of cloud-delivered endpoint protection. CrowdStrike Falcon has revolutionized endpoint security by being the first and only solution to unify next-generation antivirus, endpoint detection and response (EDR), and a 24/7 threat hunting service — all delivered via a single lightweight agent.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Google Cloud Platform (GCP) is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, file storage, and YouTube.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Product information page",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "HCL AppScan API Security (Powered by Salt Security), provides a robust solution for securing APIs that seamlessly discovers, inventories and analyzes all APIs. With AI-powered insights, it quickly identifies and resolves vulnerabilities, empowering organizations to secure and manage their entire API ecosystem effectively.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Salt Security and Invicti are partnering to deliver a combined approach with unparalleled capabilities in API discovery, runtime protection, pre-production API testing, and continuous hardening of APIs.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Jira is part of Atlassian, a company that provides software that helps teams organize, plan, communicate, and work collaboratively. Jira helps teams plan track, and release software with support for a variety of use cases, from requirements and test case management to agile software development and bug tracking.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Salt Security Joins the MuleSoft Technology Partner Program",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "MuleSoft provides the world’s leading API integration and management platform. MuleSoft makes it easy to connect data from any system — no matter where it resides — to create connected experiences, faster. Thousands of organizations across all types of industries rely on MuleSoft to realize speed, agility, and innovation at scale.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The NGINX Application Platform helps reduce complexity by consolidating common functions such as web server, load balancer, content cache, web application firewall (WAF), and API gateway into a single piece of software.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Salt Security and StackHawk are partnering to deliver a combined approach with unparalleled capabilities in API discovery,",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "runtime protection, pre-production API testing, and continuous hardening of APIs.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We work with leading channel partners who have deep security, application, cloud, and digital transformation expertise, jointly offering services and solutions that protect all your APIs.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "AA-Consulting combines over two decades of experience in supplying leading organizations and institutions with reliable, high-quality products and solutions and a keen focus on Africa.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "AppyThings is a service partner specializing in IT integration, ensuring its customers have the best protection for their API estate.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Avansus provides information technology that allows organizations to work properly and safely.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Bridge IDT offers targeted end-to-end secure-by-design business integration solutions, helping to seamlessly digitize the full extended enterprise and governmental ecosystem – from the production machines or any physical device to the final user and citizen and metaverses. Explore and unleash new business value through the digital disruption.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Making Enterprises Secure, Scalable, & Smart.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Dartalis offers a wide array of services ensuring the protection of clients’ mission critical infrastructure.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Endemik provide pragmatic, localised and specialised IT Consulting Services in the Sub-Saharan African market.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "HCL AppScan API Security: embedded API security for enterprise-scale transformation",
+    "url": "https://salt.security/integrations/hcl",
+    "pass": 1
+   },
+   {
+    "quote": "APIs drive modern business. Salt and HCLSoftware keep them secure. Together, we deliver smart, scalable API security to fuel digital transformation across industries. Whether it's modernizing banking infrastructure, scaling retail platforms, or ensuring healthcare compliance, our integrated solution provides the protection and intelligence needed to keep critical services secure and resilient.",
+    "url": "https://salt.security/integrations/hcl",
+    "pass": 1
+   },
+   {
+    "quote": "Recognized as a Leader in the 2025 Gartner® Magic Quadrant™ for Application Security Testing, HCLSoftware leads global enterprises through complex digital transformations. Salt ensures those journeys are secure from day one:",
+    "url": "https://salt.security/integrations/hcl",
+    "pass": 1
+   },
+   {
+    "quote": "provide a complete solution to identify, assess, and secure APIs with speed and precision.",
+    "url": "https://salt.security/integrations/hcl",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced Posture Governance engine for custom policies and risk prioritization",
+    "url": "https://salt.security/integrations/hcl",
+    "pass": 1
+   },
+   {
+    "quote": "“With Salt integrated from the start, we give clients both the visibility and the protection they need as they modernize critical systems.”",
+    "url": "https://salt.security/integrations/hcl",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored to regulated industries with specific API risk profiles",
+    "url": "https://salt.security/integrations/hcl",
+    "pass": 1
+   },
+   {
+    "quote": "Together, Salt and HCLSoftware provide a security-first foundation for digital transformation, enabling faster innovation, reduced risk, and enterprise-grade resilience from API to app.",
+    "url": "https://salt.security/integrations/hcl",
+    "pass": 1
+   },
+   {
+    "quote": "Start with the problem.",
+    "url": "https://salt.security/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Agents act through MCP servers and APIs, and the risk shows up in different places: what is exposed, what exists, how it is governed, where data goes and who is abusing it. Pick the problem you need to solve.",
+    "url": "https://salt.security/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Protect sensitive data in motion",
+    "url": "https://salt.security/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "See how Salt discovers, governs and protects agents and the MCP servers they use.",
+    "url": "https://salt.security/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Salt gives you breadth across every agent, MCP server and API, and depth across exposure, source code, configuration and runtime behavior. Each solution combines the modules that problem needs.",
+    "url": "https://salt.security/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Prove control, stay audit-",
+    "url": "https://salt.security/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Products built with agents and APIs",
+    "url": "https://salt.security/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "“Salt has been a game-changer for our API security. We now have the visibility and control to protect our data, stay compliant, and build trust with our customers.”",
+    "url": "https://salt.security/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "What problems does Salt Security solve?",
+    "url": "https://salt.security/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Do I need a separate product for each Salt solution?",
+    "url": "https://salt.security/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Book a demo and we will walk through the agents, MCP servers and APIs behind the problem you need to solve.",
+    "url": "https://salt.security/solutions",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by global enterprises",
+    "url": "https://salt.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Contrast is a world-leading code security platform company purposely built for developers to get secure code moving swiftly and trusted by security teams to protect business applications. Developers, security and operations teams quickly secure code across the complete Software Development Life Cycle (SDLC) with Contrast to protect against today’s targeted AppSec attacks.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Proud to be trusted by today’s digital leaders",
+    "url": "https://salt.security/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Read the DeinDeal case study",
+    "url": "https://salt.security/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Berkshire Bank Case Study",
+    "url": "https://salt.security/use-cases/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Ishizuchi Knife Factory",
+    "url": "https://mtckitchen.com/collections/salt-sugar?srsltid=AYCX9vLy4dHrakWtBEMVzeyK_HZJsUmJHD1SAaJHeGKCMwhH9BkLOHZH",
+    "pass": 3
+   },
+   {
+    "quote": "SALT Case Study Examples",
+    "url": "https://www.saltsoftware.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Professor Henderson is the Eastman Kodak Leaders for Manufacturing Professor of Management. Professor Sterman is the",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "At the broadest level, the technology for “manufacturing” salt had not changed much in",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(Carolyn Ann Fost, “The Salt Industry: A Case Study in the Evaluation of Public Policy,” unpublished Ph.D. dissertation, Illinois University, 1970.)",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "evaporation plant was ~ $70 million; the cost of digging a new rock salt mine was ~ $150 million",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "firms operated 85 salt plants, and the four largest firms contributed only 47% of the salt",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "production capacity in each of their dry salt manufacturing establishments. Exhibit 8 maps the",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "geographical location of the salt manufacturing plants by each of the salt manufacturers. The",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "grocery stores, hardware and automotive stores and agricultural feed suppliers, was sold either",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "soil, often killing trees and other plant life. Much of it then washed into streams and rivers,",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(milligrams per liter) damaged land plants. Water with concentrations of 250 mg/l was not",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "caused by road salt suggested, however, that the industry could soon face regulations that would",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "of industrial applications. These general trade products were sold through both their own brands",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The mechanical evaporation plant in Kansas served the central and Midwestern general trade",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Exhibit 8a Map of the Major U.S. Salt Fields and Manufacturing Plants",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ogden, Utah Plant 1,500,000 Solar",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Lyons, Kansas Plant 425,000 Evaporated",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Unity, Saskatchewan Plant 175,000 Evaporated",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Goderich, Ontario Plant 170,000 Evaporated",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Amherst, Nova Scotia Plant 115,000 Evaporated",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Weston Point, Cheshire Plant 850,000 Evaporated",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Launch your own salt or seasoning line without building a factory. We combine award-winning salts and seasonings with your brand: formulation, packaging, label compliance, production, and fulfillment, all from our own FDA-registered facility.",
+    "url": "https://seasaltsuperstore.com/pages/private-label?srsltid=AYCX9vIDTaHnebU0WULJ7ep8chY1O_yV794AOzAIcHoVEuUAqdNb3FnW",
+    "pass": 3
+   },
+   {
+    "quote": "Ship to your warehouse, split shipments, or have us store and drop-ship.",
+    "url": "https://seasaltsuperstore.com/pages/private-label?srsltid=AYCX9vIDTaHnebU0WULJ7ep8chY1O_yV794AOzAIcHoVEuUAqdNb3FnW",
+    "pass": 3
+   },
+   {
+    "quote": "According to CEO Brian Pierce, the company is seeing retailers and foodservice operators “invest more aggressively in building trusted in-house brands.” True Salt provides partners with a full turnkey service — from branding and packaging design to manufacturing, fulfillment, and shipping — aimed at speeding time to market and maintaining consistent quality.",
+    "url": "https://www.grocerytradenews.com/true-salt-expands-private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Private Label Manufacturers",
+    "url": "https://www.grocerytradenews.com/true-salt-expands-private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in Phoenix, Arizona, True Salt supplies all-natural sea salt products to the foodservice, food manufacturing, and consumer sectors. Its operations focus on purity, performance, and sustainability, with a growing private-label division offering end-to-end solutions for partners across North America.",
+    "url": "https://www.grocerytradenews.com/true-salt-expands-private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "DailyPay is a software firm that provides on-demand pay for workers as they earn it. The firm started in Lee’s basement and grew to 1,000 employees with 5 million users; it is used by companies, including McDonald’s, Kroger, Target, Duracell and Calhoun Management, which operates Wendy’s.",
+    "url": "https://www.planadviser.com/startup-salt-labs-seeks-disrupt-savings-benefits-hourly-workers/",
+    "pass": 3
+   },
+   {
+    "quote": "Third Prime, an early-stage venture firm that focuses on financial and industrial technology, provided funding for the seed round. Salt Labs launched in",
+    "url": "https://www.hr-brew.com/stories/2023/12/18/salt-labs-secures-8-million-funding",
+    "pass": 3
+   },
+   {
+    "quote": "In fact, the types and names of salt are determined by their shape and manufacturing method.",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As you can see, each name is categorized based on the characteristics of the salt, such as its raw material, manufacturing method, components, or crystal shape, as follows:",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "👉️ Sun-dried salt, roasted salt → Characteristics of \"manufacturing method\"",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For example, salt made from seawater and crystallized using the power of the sun and wind can be called both \"sea salt\" and \"sun-dried salt.\" It is up to the manufacturer which one to list on the product package.",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "”... A name focusing on the degree of refinement or manufacturing method (e.g.,",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "”... A name focusing on the manufacturing method using a flat pan (e.g.,",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "based on the premise that they match the actual manufacturing method and product characteristics",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As you can see, since manufacturers can name products within the rules in addition to the seven names defined by the agreement, it means there are various names and types of salt.",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Be careful not to look at the back and misunderstand, thinking, \"Is this table salt? Isn't it sun-dried salt?\" Make sure to check the raw materials and manufacturing method carefully.",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "👉️Salt names are named based on characteristics such as raw materials, manufacturing methods, and crystal shapes",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "👉️If there is a specific salt you want, it is important to check the \"raw materials\" and \"manufacturing method\" carefully",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, after the monopoly ended, salt made with various manufacturing methods began to be produced in various places!",
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "③ Takaesu Salt Factory \"Hamahiga Salt\"",
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Salt made with a unique manufacturing method where Okinawan seawater is turned into a mist and crystallized instantly in the air. It is introduced as containing 21 types of minerals.",
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・[Thorough Explanation] 8 Japanese food companies and domestic manufacturers that minimize the use of additives",
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Made using manufacturing methods that utilize the power of natural sun and wind",
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・Not a chemical manufacturing method like \"refined salt\"",
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\" in their manufacturing process.",
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "② Look at the manufacturing method (process)",
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There are 16 main manufacturing processes for salt.",
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "it is not decided that \"natural salt is this manufacturing method\"",
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". In other words, please be aware that other manufacturing methods do not necessarily mean it is not natural salt.",
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I ordered 200g of kebab and a small size of eggplant and tomato stew (second from the bottom).",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Name · Email · Phone · Address",
+    "url": "https://salt.security/",
+    "pass": 1
+   },
+   {
+    "quote": "You can contact any of them at any time with an email to",
+    "url": "https://salt.security/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Salt Labs Research: A Single Email Could Hijack an AI Agent and Reach a User's Connected Accounts",
+    "url": "https://salt.security/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Login using Email Address",
+    "url": "https://www.saltsoftware.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "info@grocerytradenews.com",
+    "url": "https://www.grocerytradenews.com/true-salt-expands-private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Free weekly email · Unsubscribe anytime",
+    "url": "https://www.grocerytradenews.com/true-salt-expands-private-label/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Salt Security Joins the MuleSoft Technology Partner Program",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Salt Channel Partners",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We work with leading channel partners who have deep security, application, cloud, and digital transformation expertise, jointly offering services and solutions that protect all your APIs.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "(Sifto) as well as over 70 private label brands.",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Co-pack & private label salts for retail and niche brands – Sea Salt Superstore",
+    "url": "https://seasaltsuperstore.com/pages/private-label?srsltid=AYCX9vIDTaHnebU0WULJ7ep8chY1O_yV794AOzAIcHoVEuUAqdNb3FnW",
+    "pass": 3
+   },
+   {
+    "quote": "Private Label & Custom Blends",
+    "url": "https://seasaltsuperstore.com/pages/private-label?srsltid=AYCX9vIDTaHnebU0WULJ7ep8chY1O_yV794AOzAIcHoVEuUAqdNb3FnW",
+    "pass": 3
+   },
+   {
+    "quote": "Launch your own salt or seasoning line without building a factory. We combine award-winning salts and seasonings with your brand: formulation, packaging, label compliance, production, and fulfillment, all from our own FDA-registered facility.",
+    "url": "https://seasaltsuperstore.com/pages/private-label?srsltid=AYCX9vIDTaHnebU0WULJ7ep8chY1O_yV794AOzAIcHoVEuUAqdNb3FnW",
+    "pass": 3
+   },
+   {
+    "quote": "Request a free private label quote",
+    "url": "https://seasaltsuperstore.com/pages/private-label?srsltid=AYCX9vIDTaHnebU0WULJ7ep8chY1O_yV794AOzAIcHoVEuUAqdNb3FnW",
+    "pass": 3
+   },
+   {
+    "quote": "True Salt Expands Private Label Sea Salt Range",
+    "url": "https://www.grocerytradenews.com/true-salt-expands-private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "True Salt Expands Private Label Sea Salt Offerings",
+    "url": "https://www.grocerytradenews.com/true-salt-expands-private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Private Label Manufacturers",
+    "url": "https://www.grocerytradenews.com/true-salt-expands-private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "This article is based on the official PR Newswire release “True Salt Expands Private Label Offerings to Meet Growing Market Demand for Store Brand Sea Salt Products” (October 30, 2025) and recent LinkedIn posts by True Salt confirming the same expansion. All information has been verified from official company sources.",
+    "url": "https://www.grocerytradenews.com/true-salt-expands-private-label/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Jira is part of Atlassian, a company that provides software that helps teams organize, plan, communicate, and work collaboratively. Jira helps teams plan track, and release software with support for a variety of use cases, from requirements and test case management to agile software development and bug tracking.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Dartalis offers a wide array of services ensuring the protection of clients’ mission critical infrastructure.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Service offerings designed to help clients generate revenue, increase cost-effectiveness, manage regulatory compliance, analyze information security risk and offer proven solutions to mitigate risks identified, integrate information, and transition to “next-generation” technology.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "From our office in Zoetermeer, the Netherlands, we offer a wide range of products and services; from professional advice and design to sales and delivery, with full implementation services in combination with support and training courses if required. Our approach is characterized by transparency and commitment, where your organization and employees are our focus to accomplish the job.",
+    "url": "https://salt.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Only Salt details each instance of exposed sensitive data, across all your APIs, to reduce your risk. Salt helps Navan identify where APIs could expose sensitive data and see how customers and employees are using APIs",
+    "url": "https://salt.security/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Key Fortune 500 Bank challenges:",
+    "url": "https://salt.security/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Key Fortune 500 Bank use cases:",
+    "url": "https://salt.security/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Management had acquired it from IMC Global.1 Although salt companies were not typical",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "candidates for IPOs, Compass Minerals had done very well in its two years as a stand-alone firm,",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "and Ducey had encouraged his fellow investors to consider exiting via an IPO. With Goldman",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Sachs leading its IPO the following day, Ducey considered the response of investors and his",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ownership changes that began in 1998. On April 1, 1998 IMC Global purchased the salt and chemicals businesses of Harris Chemical Group ($450 MM",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "UK. In May 1998 IMC reorganized its previous and newly acquired business, putting the chemicals products together under IMC Chemicals and",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Company) to affiliates of Apollo management as part of a re-capitalization effort, in a transaction valued at approximately $640 MM. The three salt",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "By the early 2000s, there were 66 establishments owned by 29 firms producing dry salt in the",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Compass Minerals completed its IPO and began trading on December 1 2, 2003. Exhibit 10",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "shows Compass Minerals’ output and revenue by customer segment, and Exhibit 11 provides an",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "share of North American Salt’s overall business by revenue, constituting just over 50% of the",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Cote Blanche, Louisiana mines were located. Part of the salt from the Ogden, Utah facility was",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "As of September 30, 2003 Compass Minerals had 1,541 employees, 725 of which were employed",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "March 2002) of Borden Chemical. Borden Chemical was acquired in 1995 by the private equity firm KKR. KKR restructured the business and sold the",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "dairy, packaging, foods and other businesses. In August of 2004 Borden chemical was acquired by Apollo Management LLC, the same company that",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Mr. Underdown joined the Harris Chemical Group in September 1997, wh ere he served as the",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Director of Corporate Reporting. Prior to his career at Harris Chemical Group, Mr. Underdown was",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "management of Harris Chemical Group. Prior to this position, Mr. Clark served as Vice President,",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Harris Chemical Group, Mr. Clark held various operations positions at US Steel Corporation and",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Chemicals, Inc. was still under the management of Harris Chemical Group. Prior to that position, Mr.",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "management of Harris Chemical Group. Mr. Wolf joined Harris Chemical Group in 1991, assuming",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "various management responsibilities. Prior to his career at Harris Chemical Group, Mr. Wolf was",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Princes Group Revenue Rises 10% to £1.52bn",
+    "url": "https://www.grocerytradenews.com/true-salt-expands-private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "“What we tell the employer is, ‘If you wanted your employees to save money, and you paid them 10 cents more an hour or whatever, that money will disappear,’” he says. “That’s for the simple reason that the 10 cents of your pay looks like the rest of your paycheck. We’ve built technology that actually separates those cash flows.”",
+    "url": "https://www.planadviser.com/startup-salt-labs-seeks-disrupt-savings-benefits-hourly-workers/",
+    "pass": 3
+   },
+   {
+    "quote": "By earning Salt, Lee makes the case that employees will not only be motivated to build the reward, similar to building points in a game, but to stay at the company to keep earning.",
+    "url": "https://www.planadviser.com/startup-salt-labs-seeks-disrupt-savings-benefits-hourly-workers/",
+    "pass": 3
+   },
+   {
+    "quote": "Salt is live with several employers now, Lee says, with plans to add more this year. His team, made up of 10 employees, shares statistics from early samples including: 71% of Salt users have higher tenure as compared to non-Salt users; 58% of users said they would apply for a job that offers Salt; and 90% of workers would pick up an extra shift if they could earn Salt.",
+    "url": "https://www.planadviser.com/startup-salt-labs-seeks-disrupt-savings-benefits-hourly-workers/",
+    "pass": 3
+   },
+   {
+    "quote": "DailyPay is a software firm that provides on-demand pay for workers as they earn it. The firm started in Lee’s basement and grew to 1,000 employees with 5 million users; it is used by companies, including McDonald’s, Kroger, Target, Duracell and Calhoun Management, which operates Wendy’s.",
+    "url": "https://www.planadviser.com/startup-salt-labs-seeks-disrupt-savings-benefits-hourly-workers/",
+    "pass": 3
+   },
+   {
+    "quote": "Salt Labs, a startup that aims to help frontline employees earn rewards for the hours they work, recently closed an $8 million funding round, HR Brew has learned exclusively.",
+    "url": "https://www.hr-brew.com/stories/2023/12/18/salt-labs-secures-8-million-funding",
+    "pass": 3
+   },
+   {
+    "quote": "After leaving DailyPay, an earned-wage access platform he co-founded, Lee started having more conversations with workers and employers about this disconnect, he said. “Employees don’t feel very loyal to their employer,” he said. “It’s a highly transactional relationship…The question I asked myself was, could you incorporate some form of loyalty into the actual workplace environment?”",
+    "url": "https://www.hr-brew.com/stories/2023/12/18/salt-labs-secures-8-million-funding",
+    "pass": 3
+   },
+   {
+    "quote": "The answer Lee came up with was Salt Labs, which he compares to loyalty programs available at major retailers like Starbucks or airlines such as United Airlines. Employees who use the app earn “salt” for every hour they work, which they can then redeem for goods or services. This might look like NASCAR tickets, a trip to Disney, or a savings product, such as a treasury bill, Lee said.",
+    "url": "https://www.hr-brew.com/stories/2023/12/18/salt-labs-secures-8-million-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Lee further noted that the types of benefits that typically reward salaried employees or knowledge workers for sticking around at their jobs—like 401(k) accounts or equity compensation—aren’t typically available to hourly workers. “What we want to do is preserve the work that you’re doing into the future,” he said.",
+    "url": "https://www.hr-brew.com/stories/2023/12/18/salt-labs-secures-8-million-funding",
+    "pass": 3
+   },
+   {
+    "quote": "In the video, it is recommended to choose products that do not have \"dissolution,\" \"standing pan,\" or \"ion membrane\" listed.",
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is the final part of the Jordan series!!",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, I went on a day trip to the World Heritage city of \"Salt,\" located about an hour's drive northwest of Amman in the central-western part of Jordan.",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When I asked Yusef, the hostel staff, how to get to Salt, he arranged a taxi for me for free to the place where the bus to Salt departs ( ; ; )",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Arrived at 10:20.",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I had been holding back from drinking beer since arriving in Jordan, but I finally gave in and bought some at a nearby liquor store.",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The rim of the cup is pitch black, but that's part of the charm",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I arrived at the hill on the west side of the city",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I felt like I caught a glimpse of information saying the evening bus around 5:00 PM was the last one (?), so I headed to the same bus station as when I arrived at 4:30 PM and got on a bus that was shouting \"Amman, Amman.\"",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "SALT TECHNOLOGIESはその正規代理店として、多くの導入実績を誇ります",
+    "url": "https://salt-group.jp/salttechnologies/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社SALT TechnologiesはServiの正規販売代理店です",
+    "url": "https://salt-group.jp/salttechnologies/",
+    "pass": 3
+   },
+   {
+    "quote": "セブン&アイホールディングス、ワタミ、ジェイグループホールディングス、株式会社BYO、株式会社新星苑、㈱ケーツーエス、EVER BREW株式会社、株式会社甲羅、ジローレストランシステム株式会社、おいしい約束株式会社、株式会社ジーテイスト、株式会社ぼんた、株式会社トリコロール、株式会社坂東太郎、株式会社洋麺亭、株式会社丸徳、武蔵株式会社、株式会社音羽、株式会社平四郎、株式会社エムアンドケイ 等",
+    "url": "https://salt-group.jp/salttechnologies/",
+    "pass": 3
+   },
+   {
+    "quote": "NEWS / BLOG - SALT - BMX専門のZEN DISTRIBUTION (輸入代理店)",
+    "url": "https://zendistro.com/category/productsinfo/salt-%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "BMX専門のZEN DISTRIBUTION (輸入代理店)",
+    "url": "https://zendistro.com/category/productsinfo/salt-%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "BMXのストリートライダーが本物のBMXを伝える、BMX専門の輸入代理店",
+    "url": "https://zendistro.com/category/productsinfo/salt-%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "さて、日本海側では雪が降る地域も多くなってきましたが、降雪量の少ない地域で生活するZENにとって、雪が積もり外で乗れなくなってしまう心配や寂しさは知る由もありません",
+    "url": "https://zendistro.com/category/productsinfo/salt-%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "SALT+JAPAN ソルト+ジャパン ITAL STYLE WEAR イタルスタイル ウェア",
+    "url": "https://online.ital-style.com/c/brand_all/brand_womens/saltplusjapan",
+    "pass": 3
+   },
+   {
+    "quote": "SALT＋JAPAN - ソルトプラスジャパン",
+    "url": "https://online.ital-style.com/c/brand_all/brand_womens/saltplusjapan",
+    "pass": 3
+   },
+   {
+    "quote": "SALT+JAPAN / ソルト+ジャパン",
+    "url": "https://online.ital-style.com/c/brand_all/brand_womens/saltplusjapan",
+    "pass": 3
+   },
+   {
+    "quote": "【Exclusive】SALT+JAPAN×La Tiara Itals",
+    "url": "https://online.ital-style.com/c/brand_all/brand_womens/saltplusjapan",
+    "pass": 3
+   },
+   {
+    "quote": "【OUTLET】 在庫一掃 40%OFF【SALE】SALT+JAPAN",
+    "url": "https://online.ital-style.com/c/brand_all/brand_womens/saltplusjapan",
+    "pass": 3
+   },
+   {
+    "quote": "【OUTLET】【SALE】SALT+JAPAN",
+    "url": "https://online.ital-style.com/c/brand_all/brand_womens/saltplusjapan",
+    "pass": 3
+   },
+   {
+    "quote": "【OUTLET】 在庫一掃SS 70%OFF【SALE】SALT+JAPAN",
+    "url": "https://online.ital-style.com/c/brand_all/brand_womens/saltplusjapan",
+    "pass": 3
+   },
+   {
+    "quote": "【OUTLET】 在庫一掃 40%OFF【SALE】】SALT+JAPAN",
+    "url": "https://online.ital-style.com/c/brand_all/brand_womens/saltplusjapan",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Premium Salt and Sugar : MTC Kitchen",
+    "url": "https://mtckitchen.com/collections/salt-sugar?srsltid=AYCX9vLy4dHrakWtBEMVzeyK_HZJsUmJHD1SAaJHeGKCMwhH9BkLOHZH",
+    "pass": 3
+   },
+   {
+    "quote": "JAPANESE KNIFE STYLES",
+    "url": "https://mtckitchen.com/collections/salt-sugar?srsltid=AYCX9vLy4dHrakWtBEMVzeyK_HZJsUmJHD1SAaJHeGKCMwhH9BkLOHZH",
+    "pass": 3
+   },
+   {
+    "quote": "Awajishima no Moshio - Japanese Seaweed Sea Salt 35.2 oz (1kg)",
+    "url": "https://mtckitchen.com/collections/salt-sugar?srsltid=AYCX9vLy4dHrakWtBEMVzeyK_HZJsUmJHD1SAaJHeGKCMwhH9BkLOHZH",
+    "pass": 3
+   },
+   {
+    "quote": "Moshio is the earliest known sea salt produced by our Japanese ancestors nearly 2,500 years ago. Although Japan is surrounded by seawater, the coun...",
+    "url": "https://mtckitchen.com/collections/salt-sugar?srsltid=AYCX9vLy4dHrakWtBEMVzeyK_HZJsUmJHD1SAaJHeGKCMwhH9BkLOHZH",
+    "pass": 3
+   },
+   {
+    "quote": "Hakata Sea Salt is a classic Japanese sea salt made to preserve the natural minerals of the sea. It is smooth in texture, has rounded saltiness and...",
+    "url": "https://mtckitchen.com/collections/salt-sugar?srsltid=AYCX9vLy4dHrakWtBEMVzeyK_HZJsUmJHD1SAaJHeGKCMwhH9BkLOHZH",
+    "pass": 3
+   },
+   {
+    "quote": "This black salt is made by packing sea salt into a three year old bamboo and slowly roasting it over three days using traditional Japanese furnaces...",
+    "url": "https://mtckitchen.com/collections/salt-sugar?srsltid=AYCX9vLy4dHrakWtBEMVzeyK_HZJsUmJHD1SAaJHeGKCMwhH9BkLOHZH",
+    "pass": 3
+   },
+   {
+    "quote": "Amabito-no Moshio - Japanese Seaweed Sea Salt 3.5 oz / 100 g",
+    "url": "https://mtckitchen.com/collections/salt-sugar?srsltid=AYCX9vLy4dHrakWtBEMVzeyK_HZJsUmJHD1SAaJHeGKCMwhH9BkLOHZH",
+    "pass": 3
+   },
+   {
+    "quote": "Amabito-no Moshio - Japanese Seaweed Sea Salt 10.6 oz / 300 g",
+    "url": "https://mtckitchen.com/collections/salt-sugar?srsltid=AYCX9vLy4dHrakWtBEMVzeyK_HZJsUmJHD1SAaJHeGKCMwhH9BkLOHZH",
+    "pass": 3
+   },
+   {
+    "quote": "Elevate everyday dishes with the vibrant, aromatic heat of Kinjirushi Wasabi Salt, crafted by one of Japan’s most trusted wasabi specialists. This ...",
+    "url": "https://mtckitchen.com/collections/salt-sugar?srsltid=AYCX9vLy4dHrakWtBEMVzeyK_HZJsUmJHD1SAaJHeGKCMwhH9BkLOHZH",
+    "pass": 3
+   },
+   {
+    "quote": "Okinawa Kachiwari Kokuto Black Sugar is a traditional Japanese sweetener known for its deep, rich flavor and nutritional value. It\"s made by slowly...",
+    "url": "https://mtckitchen.com/collections/salt-sugar?srsltid=AYCX9vLy4dHrakWtBEMVzeyK_HZJsUmJHD1SAaJHeGKCMwhH9BkLOHZH",
+    "pass": 3
+   },
+   {
+    "quote": "This is a Japanese sugar syrup referred to as Kuromitsu or black honey. It has a similar taste to molasses and caramelized sugar but thinner and m...",
+    "url": "https://mtckitchen.com/collections/salt-sugar?srsltid=AYCX9vLy4dHrakWtBEMVzeyK_HZJsUmJHD1SAaJHeGKCMwhH9BkLOHZH",
+    "pass": 3
+   },
+   {
+    "quote": "By the way, in Japan, salt was a state monopoly until 1997.",
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It has little harshness and goes well with all kinds of Japanese food!!",
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the Dietary Reference Intakes for Japanese, the target amount of salt is less than 7.5g per day for men and less than 6.5g for women.",
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・[Thorough Explanation] 8 Japanese food companies and domestic manufacturers that minimize the use of additives",
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, since rock salt and lake salt cannot be harvested in Japan due to environmental conditions, if you want to choose domestic salt, choose \"",
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is because it may actually be salt that was imported cheaply as sun-dried salt and then dissolved and recrystallized in Japan.",
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A museum built with the cooperation of Japan",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I feel proud as a Japanese person",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "広告 代理店 事業 | 株式会社 ソルト — 広告 代理店 事業 | 株式会社 ソルト salt-2005.com https://salt-2005.com > 業務内容",
+    "url": "https://salt-2005.com/service/advertising-agency/",
+    "pass": 3
+   },
+   {
+    "quote": "Electric power industry新電力事業 - ソルトカンパニー株式会社 — Electric power industry新電力事業 - ソルトカンパニー株式会社 ソルトカンパニー株式会社 https://www.salt-c.com > electric",
+    "url": "https://www.salt-c.com/electric.html",
+    "pass": 3
+   },
+   {
+    "quote": "SALT TECHNOLOGIES - Salt Group — SALT TECHNOLOGIES - Salt Group Salt Group https://salt-group.jp > salttechnologies",
+    "url": "https://salt-group.jp/salttechnologies/",
+    "pass": 3
+   },
+   {
+    "quote": "SALT - BMX専門のZEN DISTRIBUTION (輸入 代理店 ) — SALT - BMX専門のZEN DISTRIBUTION (輸入 代理店 ) zendistro.com https://zendistro.com > 製品情報",
+    "url": "https://zendistro.com/category/productsinfo/salt-%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1",
+    "pass": 3
+   },
+   {
+    "quote": "Application Terms of Use - SALT — Application Terms of Use - SALT ソルト・コンソーシアム https://app.salt-inc.co.jp > terms",
+    "url": "https://app.salt-inc.co.jp/app_info/terms",
+    "pass": 3
+   },
+   {
+    "quote": "SALT + JAPAN / ソルト + ジャパン - ITAL STYLE — SALT + JAPAN / ソルト + ジャパン - ITAL STYLE ITAL STYLE WEAR https://online.ital-style.com > BRAND > WOMEN'S",
+    "url": "https://online.ital-style.com/c/brand_all/brand_womens/saltplusjapan",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Salt - Amazon.com — Japanese Salt - Amazon.com Amazon.com https://www.amazon.com > japanese-s...",
+    "url": "https://www.amazon.com/japanese-salt/s?k=japanese+salt",
+    "pass": 3
+   },
+   {
+    "quote": "saltplusjapan - Instagram — saltplusjapan - Instagram Instagram https://www.instagram.com > saltplusjapan",
+    "url": "https://www.instagram.com/saltplusjapan/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Premium Salt and Sugar - MTC Kitchen — Japanese Premium Salt and Sugar - MTC Kitchen MTC Kitchen https://mtckitchen.com > salt-sugar",
+    "url": "https://mtckitchen.com/collections/salt-sugar?srsltid=AYCX9vLy4dHrakWtBEMVzeyK_HZJsUmJHD1SAaJHeGKCMwhH9BkLOHZH",
+    "pass": 3
+   },
+   {
+    "quote": "ジャパンソルト 株式会社 — ジャパンソルト 株式会社 ジャパンソルト株式会社 https://japan-salt.co.jp",
+    "url": "https://japan-salt.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Graduation Towers and Pan Salt Production in Various ... - MDPI — Graduation Towers and Pan Salt Production in Various ... - MDPI MDPI https://www.mdpi.com > ...",
+    "url": "https://www.mdpi.com/2071-1050/18/2/710",
+    "pass": 3
+   },
+   {
+    "quote": "Economic Feasibility Case Study of Developing a Salt ... — Economic Feasibility Case Study of Developing a Salt ... Taylor & Francis Online https://www.tandfonline.com > full",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/0013791X.2023.2205858",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Salt Software — Case Studies - Salt Software Salt Software https://www.saltsoftware.com > case-s...",
+    "url": "https://www.saltsoftware.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Ventures in Salt : Compass Minerals International - MIT Sloan — Ventures in Salt : Compass Minerals International - MIT Sloan MIT Sloan PDF https://mitsloan.mit.edu > files > Ventures in Salt",
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Reviews & Case Studies | SaltCo — Customer Reviews & Case Studies | SaltCo SaltCo https://saltco.com > about > testimonials",
+    "url": "https://saltco.com/about/testimonials",
+    "pass": 3
+   },
+   {
+    "quote": "Private Label & Custom Blends - Sea Salt Superstore — Private Label & Custom Blends - Sea Salt Superstore Sea Salt Superstore https://seasaltsuperstore.com > pages",
+    "url": "https://seasaltsuperstore.com/pages/private-label?srsltid=AYCX9vIDTaHnebU0WULJ7ep8chY1O_yV794AOzAIcHoVEuUAqdNb3FnW",
+    "pass": 3
+   },
+   {
+    "quote": "True Salt Expands Private Label Sea Salt Range — True Salt Expands Private Label Sea Salt Range Grocery Trade News https://www.grocerytradenews.com > ...",
+    "url": "https://www.grocerytradenews.com/true-salt-expands-private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "API Security Partners - Salt Security Partner Network — API Security Partners - Salt Security Partner Network Salt Security https://salt.security > partners",
+    "url": "https://salt.security/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Salt Labs Seeks to Disrupt Savings Benefits for Hourly ... — Startup Salt Labs Seeks to Disrupt Savings Benefits for Hourly ... planadviser https://www.planadviser.com > startu...",
+    "url": "https://www.planadviser.com/startup-salt-labs-seeks-disrupt-savings-benefits-hourly-workers/",
+    "pass": 3
+   },
+   {
+    "quote": "Morton Salt's Competitors, Revenue , Number of Employees ... — Morton Salt's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > mortonsalt",
+    "url": "https://www.owler.com/company/mortonsalt",
+    "pass": 3
+   },
+   {
+    "quote": "SALT - 2026 Company Profile & Team - Tracxn — SALT - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/salt/__RuuQMk3m3v9lE410bVvx1uaJFyJajvVV9f7TAgB4yqI",
+    "pass": 3
+   },
+   {
+    "quote": "Salt Labs, a rewards platform, secures $8 million in seed funding — Salt Labs, a rewards platform, secures $8 million in seed funding HR Brew https://www.hr-brew.com > 2023/12/18",
+    "url": "https://www.hr-brew.com/stories/2023/12/18/salt-labs-secures-8-million-funding",
+    "pass": 3
+   },
+   {
+    "quote": "Salt - Crunchbase Company Profile & Funding — Salt - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > salt-42...",
+    "url": "https://www.crunchbase.com/organization/salt-42f6",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Learn About Types of Salt ! Explaining the Differences and ... Learn About Types of Salt ! Explaining the Differences and ... note https://note.com > 料理・グルメ > 食材",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Prepared to be deleted  ] I'm revealing the dark side of salt ... 8 ... [Prepared to be deleted  ] I'm revealing the dark side of salt ... 8 ... note https://note.com > ライフスタイル > ダイエット・フィットネス",
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Distinguish Between Natural Salt and Refined ... - note How to Distinguish Between Natural Salt and Refined ... - note note https://note.com > 料理・グルメ > 食材",
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Jordan Travelogue #6] To Salt , a Place of Tolerance ... - note [Jordan Travelogue #6] To Salt , a Place of Tolerance ... - note note https://note.com > ... > 海外旅行",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Learn About Types of Salt! Explaining the Differences and Characteristics of Sun-Dried Salt, Rock Salt, Roasted Salt, Seaweed Salt, and More｜てっちゃん | 自然栽培",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Learn About Types of Salt! Explaining the Differences and Characteristics of Sun-Dried Salt, Rock Salt, Roasted Salt, Seaweed Salt, and More",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Salt is one of the essential foods for human survival.",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When you look for it in supermarkets or online shops, you will see various types of salt sold on product packages, such as \"sea salt,\" \"rock salt,\" \"sun-dried salt,\" \"seaweed salt,\" and \"roasted salt.\"",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"What is the difference between them?\"",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Which one should I choose?\"",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Have you ever wondered about this and felt confused?",
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Prepared to be deleted👊] I'm revealing the dark side of salt... 8 recommended additive-free salts!!｜ 食品添加物研究家 / じゅん",
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Prepared to be deleted👊] I'm revealing the dark side of salt... 8 recommended additive-free salts!!",
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I'm Jun, a food additive researcher.",
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As someone who lives an additive-free life every day, I introduce the \"dangers of additives\" and \"recommended additive-free products\"!",
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I am also active as a creator with 19,000 YouTube subscribers.",
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.youtube.com/watch?v=LvddK0ZlIaA",
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, I will introduce \"how to choose the right salt and additive-free salts\"↓↓",
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Distinguish Between Natural Salt and Refined Salt at the Supermarket | 3 Key Points Explained｜てっちゃん | 自然栽培",
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Distinguish Between Natural Salt and Refined Salt at the Supermarket | 3 Key Points Explained",
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Salt is an essential element that supports the life of all living things, including us humans.",
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since ancient times, people have cherished salt, using it as an ingredient for preserved foods and sometimes as an offering in rituals, and humanity has developed alongside salt.",
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, there are many types of salt.",
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When you go to the supermarket to buy some, you may notice that there are",
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "surprisingly many types",
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Jordan Travelogue #6] To Salt, a Place of Tolerance and Urban Hospitality｜ゆりぽん 🌎 海外一人旅",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Jordan Travelogue #6] To Salt, a Place of Tolerance and Urban Hospitality",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is the final part of the Jordan series!!",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, I went on a day trip to the World Heritage city of \"Salt,\" located about an hour's drive northwest of Amman in the central-western part of Jordan.",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Taxi to the bus station",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It takes about 90 minutes to get from Amman to Salt by",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "transferring between a taxi and a bus.",
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Cheryl ' Salt ' James (@DaOnlySalt) / X Cheryl ' Salt ' James (@DaOnlySalt) / X X https://x.com > DaOnlySalt",
+    "url": "https://x.com/DaOnlySalt",
+    "pass": 3
+   },
+   {
+    "quote": "| Salt (@SaltSSB) / X | Salt (@SaltSSB) / X X https://x.com > SaltSSB",
+    "url": "https://x.com/SaltSSB",
+    "pass": 3
+   },
+   {
+    "quote": "Salt Mobile - X Salt Mobile - X X https://x.com > Salt",
+    "url": "https://x.com/Salt",
+    "pass": 3
+   },
+   {
+    "quote": "Salt (@ilySalt) / X Salt (@ilySalt) / X X https://x.com > ilySalt",
+    "url": "https://x.com/ilySalt",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Salt Security | LinkedIn Salt Security | LinkedIn LinkedIn https://www.linkedin.com > saltsecurity",
+    "url": "https://www.linkedin.com/company/saltsecurity",
+    "pass": 3
+   },
+   {
+    "quote": "Salt - LinkedIn Salt - LinkedIn LinkedIn https://www.linkedin.com > salt",
+    "url": "https://www.linkedin.com/company/salt",
+    "pass": 3
+   },
+   {
+    "quote": "Salt Financial | LinkedIn Salt Financial | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/salt-financial-llc",
+    "pass": 3
+   },
+   {
+    "quote": "SALT - LinkedIn SALT - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/salt-conference",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "This is a handy little explanation of the different forms of salt ... This is a handy little explanation of the different forms of salt ... Facebook https://www.facebook.com > thepioneerwoman > posts > t...",
+    "url": "https://www.facebook.com/thepioneerwoman/posts/this-is-a-handy-little-explanation-of-the-different-forms-of-salt-you-might-have/1433943334766049/",
+    "pass": 3
+   },
+   {
+    "quote": "Table, Kosher & Flake Salt Explained: When to Use Each Type Table, Kosher & Flake Salt Explained: When to Use Each Type Facebook https://www.facebook.com > ... > Stop & Shop > Videos",
+    "url": "https://www.facebook.com/StopandShop/videos/whats-the-difference-between-table-kosher-flake-saltand-when-should-you-use-them/1838400580122919/",
+    "pass": 3
+   },
+   {
+    "quote": "Though most of the time we use salt for seasoning, it also ... Though most of the time we use salt for seasoning, it also ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/americastestkitchen/videos/5-unexpected-ways-to-use-salt-every-cook-should-know/1551738715798136/",
+    "pass": 3
+   },
+   {
+    "quote": "What are the healthiest types? **sea salt , Himalayan, Celtic ... What are the healthiest types? **sea salt , Himalayan, Celtic ... Facebook https://www.facebook.com > Santafefoodies > posts",
+    "url": "https://www.facebook.com/groups/Santafefoodies/posts/3897859743829393/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://salt.security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salt.security/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salt.security/integrations/hcl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salt.security/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salt.security/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salt.security/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salt.security/newsroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salt.security/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salt.security/use-cases/industry",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6334717ca56db62653270dc5/673d182ae3744824fe7c8769_cyberhill.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://salt-2005.com/service/advertising-agency/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.salt-c.com/electric.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://salt-group.jp/salttechnologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zendistro.com/category/productsinfo/salt-%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://online.ital-style.com/c/brand_all/brand_womens/saltplusjapan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.com/japanese-salt/s?k=japanese+salt",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/saltplusjapan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mtckitchen.com/collections/salt-sugar?srsltid=AYCX9vLy4dHrakWtBEMVzeyK_HZJsUmJHD1SAaJHeGKCMwhH9BkLOHZH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/2071-1050/18/2/710",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tandfonline.com/doi/full/10.1080/0013791X.2023.2205858",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saltsoftware.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://seasaltsuperstore.com/pages/private-label?srsltid=AYCX9vIDTaHnebU0WULJ7ep8chY1O_yV794AOzAIcHoVEuUAqdNb3FnW",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.grocerytradenews.com/true-salt-expands-private-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.planadviser.com/startup-salt-labs-seeks-disrupt-savings-benefits-hourly-workers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/mortonsalt",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/salt/__RuuQMk3m3v9lE410bVvx1uaJFyJajvVV9f7TAgB4yqI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hr-brew.com/stories/2023/12/18/salt-labs-secures-8-million-funding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/DaOnlySalt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SaltSSB",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Salt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ilySalt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/saltsecurity",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/salt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/salt-financial-llc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/salt-conference",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thepioneerwoman/posts/this-is-a-handy-little-explanation-of-the-different-forms-of-salt-you-might-have/1433943334766049/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/StopandShop/videos/whats-the-difference-between-table-kosher-flake-saltand-when-should-you-use-them/1838400580122919/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/americastestkitchen/videos/5-unexpected-ways-to-use-salt-every-cook-should-know/1551738715798136/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/Santafefoodies/posts/3897859743829393/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Salt",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Salt 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.aba-j.or.jp/info/industry/20087/",
+    "https://www.goo-net.com/magazine/cartopic/event-report/294321/",
+    "https://documentation.suse.com/ja-jp/ses/7.1/html/ses-all/deploy-salt.html",
+    "https://www.netdenjd.com/archives/708202",
+    "https://www.hyper8.jp/salt",
+    "https://it-trend.jp/operation_management/25806/case"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Salt 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://salt-2005.com/service/advertising-agency/",
+    "https://www.salt-c.com/electric.html",
+    "https://salt-group.jp/salttechnologies/",
+    "https://zendistro.com/category/productsinfo/salt-%E8%A3%BD%E5%93%81%E6%83%85%E5%A0%B1",
+    "https://app.salt-inc.co.jp/app_info/terms",
+    "https://salt.camp/company/",
+    "https://prtimes.jp/main/html/rd/p/000000044.000164131.html",
+    "https://www.suse.com/c/ja/a-bundle-of-salt/",
+    "https://salt.style/company/",
+    "https://b-seeds.com/column/sole-agency-agreement"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Salt Japan",
+   "results": [
+    "https://online.ital-style.com/c/brand_all/brand_womens/saltplusjapan",
+    "https://www.amazon.com/japanese-salt/s?k=japanese+salt",
+    "https://www.instagram.com/saltplusjapan/",
+    "https://mtckitchen.com/collections/salt-sugar?srsltid=AYCX9vLy4dHrakWtBEMVzeyK_HZJsUmJHD1SAaJHeGKCMwhH9BkLOHZH",
+    "https://japan-salt.co.jp/",
+    "https://shinkai-salt.com/",
+    "https://www.japan-experience.com/plan-your-trip/to-know/japanese-food/niigata-salt",
+    "https://www.tokyofoundation.org/research/detail.php?id=245",
+    "https://grokipedia.com/page/Road_Salt_Damage_to_Kei_Cars_in_Japans_Snow_Country",
+    "https://ja.wikipedia.org/wiki/SAVE_JAPAN"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Salt manufacturing customer case study",
+   "results": [
+    "https://www.mdpi.com/2071-1050/18/2/710",
+    "https://www.tandfonline.com/doi/full/10.1080/0013791X.2023.2205858",
+    "https://www.saltsoftware.com/case-studies",
+    "https://mitsloan.mit.edu/sites/default/files/2021-01/Ventures%20in%20Salt.pdf",
+    "https://saltco.com/about/testimonials",
+    "https://www.studocu.com/en-us/document/california-state-university-fresno/productionoperations-management/mgt-124-morton-salt-case-study/2002371",
+    "https://www.scribd.com/document/467136280/Morton-Salt-1A17",
+    "https://c3.ai/customers",
+    "https://finmarkedge.com/case-study/salt/",
+    "https://www.scribd.com/doc/34103991/Case-Study-of-Tata-Salt"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Salt white label OR reseller OR partner program",
+   "results": [
+    "https://seasaltsuperstore.com/pages/private-label?srsltid=AYCX9vIDTaHnebU0WULJ7ep8chY1O_yV794AOzAIcHoVEuUAqdNb3FnW",
+    "https://www.grocerytradenews.com/true-salt-expands-private-label/",
+    "https://salt.security/partners",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.prnewswire.com/news-releases/true-salt-expands-private-label-offerings-to-meet-growing-market-demand-for-store-brand-sea-salt-products-302599374.html",
+    "https://www.saltoftheearthltd.com/private-label/",
+    "https://www.vendasta.com/blog/white-label-software-partner-program/",
+    "https://seedlycrm.com/blog/white-label-crm-playbook"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Salt founded funding employees revenue",
+   "results": [
+    "https://www.planadviser.com/startup-salt-labs-seeks-disrupt-savings-benefits-hourly-workers/",
+    "https://www.owler.com/company/mortonsalt",
+    "https://tracxn.com/d/companies/salt/__RuuQMk3m3v9lE410bVvx1uaJFyJajvVV9f7TAgB4yqI",
+    "https://www.hr-brew.com/stories/2023/12/18/salt-labs-secures-8-million-funding",
+    "https://www.crunchbase.com/organization/salt-42f6",
+    "https://www.saltlabs.com/blog/seed-announcement",
+    "https://www.linkedin.com/posts/katherine-davis-195ab663_exclusive-salt-ai-a-life-sciences-ai-activity-7375970127550320640-L0xN",
+    "https://forgeglobal.com/salt-labs_ipo/",
+    "https://www.salt.ai/blog/salt-ai-raises-10m-to-define-the-next-era-for-contextual-ai-in-life-sciences",
+    "https://pitchbook.com/profiles/company/180925-39"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Salt",
+   "results": [
+    "https://note.com/tetsu_gohan/n/nd55f95737abb?hl=en",
+    "https://note.com/mutenkaj/n/n41f12b78b57c?hl=en",
+    "https://note.com/tetsu_gohan/n/n769ac6dfabe0?hl=en",
+    "https://note.com/world_yuri519/n/n23e210904c0c?hl=en",
+    "https://note.com/tetsu_gohan/n/n1fa26bf8f832?hl=en",
+    "https://note.com/joyful_heron7333/n/n3a9a5dc37389?hl=en",
+    "https://note.com/masa_fitness1999/n/n452b44e60301?hl=en",
+    "https://note.com/travelingfoodlab/n/n2f0e577502bb?hl=en",
+    "https://note.com/mokosamurai/n/n24b467477924?hl=en"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com Salt",
+   "results": [
+    "https://x.com/DaOnlySalt",
+    "https://x.com/SaltSSB",
+    "https://x.com/Salt",
+    "https://x.com/ilySalt",
+    "https://x.com/FBISaltLakeCity",
+    "https://x.com/sltrib",
+    "https://x.com/Coach_Salt",
+    "https://x.com/End_Pepper",
+    "https://x.com/salt3xx",
+    "https://x.com/salt_official__"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Salt",
+   "results": [
+    "https://www.linkedin.com/company/saltsecurity",
+    "https://www.linkedin.com/company/salt",
+    "https://www.linkedin.com/company/salt-financial-llc",
+    "https://www.linkedin.com/company/salt-conference",
+    "https://www.linkedin.com/company/getsalt-ai",
+    "https://www.linkedin.com/company/saltlawgroup",
+    "https://www.linkedin.com/company/salt-hotels",
+    "https://www.linkedin.com/products/saltsecurity-salt-security-api-protection-platform/",
+    "https://www.linkedin.com/posts/jordan-mazur-ms-rd-53552028_i-get-a-lot-of-questions-about-salt-and-activity-7372321121469321216-YzN4",
+    "https://in.linkedin.com/company/salt"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Salt",
+   "results": [
+    "https://www.facebook.com/thepioneerwoman/posts/this-is-a-handy-little-explanation-of-the-different-forms-of-salt-you-might-have/1433943334766049/",
+    "https://www.facebook.com/StopandShop/videos/whats-the-difference-between-table-kosher-flake-saltand-when-should-you-use-them/1838400580122919/",
+    "https://www.facebook.com/americastestkitchen/videos/5-unexpected-ways-to-use-salt-every-cook-should-know/1551738715798136/",
+    "https://www.facebook.com/groups/Santafefoodies/posts/3897859743829393/",
+    "https://www.facebook.com/saltmemphis901/",
+    "https://www.facebook.com/groups/880491847269199/posts/1268737725111274/",
+    "https://www.facebook.com/groups/sourdoughgeeks/posts/8950291318400399/",
+    "https://www.facebook.com/groups/maycomudroomsociety/posts/2753011435077511/",
+    "https://www.facebook.com/saltoutreachinc/",
+    "https://business.facebook.com/groups/78309711198/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Salt note 社長",
+   "results": [
+    "https://note.com/tetsu4441",
+    "https://note.com/haruumi",
+    "https://www.youtube.com/watch?v=x95tSa7ymnA",
+    "https://x.com/sadaaki",
+    "https://note.com/fond_cedum1714/m/m41a0de20d109",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Salt X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=zdtUO67Ll3s",
+    "https://www.saltx.com/saltx_uses_for-fisherman.htm",
+    "https://www.fishing-v.jp/program/series.php?p=1049",
+    "https://x.com/Salt",
+    "https://www.youtube.com/watch?v=Q72I9gR2rB0",
+    "https://www.saltxsol.com/",
+    "https://www.salt-x.no/en",
+    "https://www.youtube.com/playlist?list=PLcqUZZyarYnScMpL3hpxrQWHCuDkSwYX-",
+    "https://x.com/Producer_Salt",
+    "https://www.saltxc.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部40頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部40頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部40頁・検索12回）"
+ }
+}

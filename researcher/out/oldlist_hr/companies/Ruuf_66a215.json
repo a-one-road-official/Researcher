@@ -1,0 +1,971 @@
+{
+ "name": "Ruuf",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜返信あり",
+ "researched_at": "2026-11-11T09:06:35.195838+00:00",
+ "official_url": "https://www.ruuf.cl/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2022",
+    "url": "https://startupintros.com/orgs/ruuf",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Santiago, Chile",
+    "url": "https://startupintros.com/orgs/ruuf",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "4. Seed Round",
+    "value": "01-May-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/503302-60",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "05-Aug-2022 $700K $705K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/503302-60",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Paneles solares para tu empresa",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce los costos de electricidad de tu negocio con un proyecto solar diseñado a tu medida.",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Una empresa muy seria en todo ámbito 100 % gestión hasta en los horarios dados cumplieron excelente",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Ha sido buena experiencia con RUUF, desde el inicio del requerimiento hasta la ejecución del proyecto manteniendo informado en cada etapa del proceso, resolviendo cada duda presentada.",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Hola buenas quiero destacar el servicio, testifico que es real y muy cercanos en el trato y profecionales en lo técnico, gracias a ellos pudimos desarrollar nuestro proyecto de sustentabilidad alimentara a nuestro centro de recreación para funcionarios del servicio de salud de la Red viña Quillota petorca.",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Muy buena experiencia instalando paneles solares con Ruuf. Muy profesionales y lo que más destaco es la comunicación constante y la rápida respuesta a todas mis consultas.",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "A los 11 meses de hecha la instalación, todo funciona normalmente y según lo esperado. Cuando al inicio se produjo una pequeña anomalía, fue atendida rápida y satisfactoriamente. En suma, todo bien.",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Excelente trabajo el de RUUF, especialmente los instaladores super prolijos y profesionales!!! Muy buen trabajo a Pedro y su equipo.",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Gran profesionalismo de los técnicos",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Todo el proceso, desde la cotización a la instalación fueron muy profesionales. Aclararon todas las dudas y fuimos modificando el proyecto final según mis requerimientos. El equipo de instalación altamente capacitado y la instalación muy profesional. Estoy conforme por haber decidido por Ruuf sobre otras opciones!",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Excelente atención de RUUF asesoría en todo momento solo disfrutar de mis dos proyectos de energía que ya están dando resultados 💪 👏",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Muy buena experiencia, todo el proceso fue muy informado y transparente. Realizan un trabajo muy ordenado y profesional",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Respondes unas preguntas sobre tu casa, tu techo y tu consumo. En pocos minutos te mostramos una estimación personalizada de ahorro y cómo podría verse tu sistema solar.",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Beneficio promedio estimado de $120.035 al mes, sumando ahorro en la cuenta y valor de excedentes. Fuente: base RUUF al 3 de noviembre de 2026. El resultado varía según cada hogar.",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "RUUF es la única empresa enfocada exclusivamente en energía solar residencial y por eso lo hacemos mejor.",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Invertimos en desarrollo y automatizamos miles de procesos para lograr más precisión, velocidad y transparencia.",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Tu sistema genera energía durante el día para alimentar tu casa. Si produces más de lo que consumes, el excedente se envía a la red eléctrica.",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "paso de tu proyecto solar",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Sobre diseño, ingeniería y cultura solar que aprendemos en el camino.",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": ". Todo en un lugar. Siempre estamos buscando nuevas herramientas para nuestros clientes.",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Todo en un lugar. Siempre estamos buscando nuevas herramientas para nuestros clientes.",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Nosotros nos preocupamos del resto",
+    "url": "https://ruuf.cl/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Siempre estamos formando alianzas con instaladores a lo largo de todo Chile! 🇨🇱",
+    "url": "https://ruuf.cl/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Súmate a las 10+ empresas de instaladores",
+    "url": "https://ruuf.cl/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Súmate a las 10+ empresas de instaladores que ya están trabajando con nosotros",
+    "url": "https://ruuf.cl/partners",
+    "pass": 1
+   },
+   {
+    "quote": "y tus pagos siempre estarán al día",
+    "url": "https://ruuf.cl/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Compra y despacho de equipos",
+    "url": "https://ruuf.cl/partners",
+    "pass": 1
+   },
+   {
+    "quote": "¿Tienes preguntas? Conversemos",
+    "url": "https://ruuf.cl/partners",
+    "pass": 1
+   },
+   {
+    "quote": "トド、 Proyecto 2 Tipo de techo",
+    "url": "https://framerusercontent.com/images/vRfpU4NvIPDDHoq9crOlJfXOK0Y.png?width=4696&height=2340",
+    "pass": 2
+   },
+   {
+    "quote": "C Visita técnica 人 Instalacion %& Protocolo de Conexion = Pago total",
+    "url": "https://framerusercontent.com/images/vRfpU4NvIPDDHoq9crOlJfXOK0Y.png?width=4696&height=2340",
+    "pass": 2
+   },
+   {
+    "quote": "= Tipo de techo \\\\ Proyecto",
+    "url": "https://framerusercontent.com/images/JS3WYmThBMr7uf8wQbJwXQEWRE.png?width=2290&height=2669",
+    "pass": 2
+   },
+   {
+    "quote": "We built their product team and helped them attract investment.",
+    "url": "https://shft.co/case-study/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "When RUUF came to us, they had a strong product thesis and a founding team that understood the market. What they did not have was an engineering team. No CTO, no developers, no architecture. They needed to go from idea to working product fast enough to validate the model with real users and close a funding round.",
+    "url": "https://shft.co/case-study/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "Hiring a full senior engineering team from scratch takes months. RUUF did not have months. They needed a team that could start immediately, own the architecture decisions, and ship a production-grade product without the overhead of building an internal team first.",
+    "url": "https://shft.co/case-study/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "We became RUUF's product and engineering team end to end.",
+    "url": "https://shft.co/case-study/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "Bank integrations were a core part of the build. Payment processing, installment tracking, and financial compliance in a regulated environment require backend architecture that is built correctly from day one. We owned those decisions.",
+    "url": "https://shft.co/case-study/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "The frontend, mobile, backend, and infrastructure were all built and maintained by our team. Architecture decisions, sprint planning, deployment pipelines, and production monitoring included. RUUF's founding team focused on the business while we focused on the product.",
+    "url": "https://shft.co/case-study/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "The platform moved from idea to production on a timeline that let RUUF run real go-to-market work and close their funding round.",
+    "url": "https://shft.co/case-study/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "RUUF launched a production-grade rent-to-own platform and successfully closed a funding round with a working product in market. The platform handled real users, real properties, and real financial transactions.",
+    "url": "https://shft.co/case-study/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "Other products in production.",
+    "url": "https://shft.co/case-study/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "Payment Platform for Turkey's Largest POS Provider",
+    "url": "https://shft.co/case-study/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile Apps for a Global Security Provider",
+    "url": "https://shft.co/case-study/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "Dedicated Product Team",
+    "url": "https://shft.co/case-study/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "Got a product to build?",
+    "url": "https://shft.co/case-study/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "We offer no-money-down installations that generate free money for homeowners from day one. We are digitalizing the whole process of going solar. Instead of using traditional forms and leaving it up to customers to fill them, we use technology to take all that burden off our customers plate. We only ask for an address and offer free instant quotes.",
+    "url": "https://startupintros.com/orgs/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "Ruuf digitizes the entire solar adoption process, requiring only an address and electricity usage to generate instant quotes and financing options, reducing customer friction dramatically[1][3].",
+    "url": "https://startupintros.com/orgs/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "Connects homeowners with vetted local installers and lenders, ensuring competitive pricing and quality service while streamlining coordination[4][8].",
+    "url": "https://startupintros.com/orgs/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "Operates in Chile, a leader in renewable energy policy with laws incentivizing residential solar adoption, which enhances Ruuf’s value proposition[1].",
+    "url": "https://startupintros.com/orgs/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "lavca.org/wp-content/uploads/2025/05/Positive-Ventures-Ruuf.pdf",
+    "url": "https://startupintros.com/orgs/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "promptloop.com/directory/what-does-ruuf-do",
+    "url": "https://startupintros.com/orgs/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/ruuf.cl",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/ruuf.cl",
+    "pass": 3
+   },
+   {
+    "quote": "Ruuf (Information Services) 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/503302-60",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of a solar marketplace intended to connect homeowners with solar installers and lenders. The company's platform provides customized design, low-cost financing, and competitive offers from local installers, enabling homeowners to utilize sustainable and financially accessible solar energy.",
+    "url": "https://pitchbook.com/profiles/company/503302-60",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/503302-60",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/503302-60",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/503302-60",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/503302-60",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/503302-60",
+    "pass": 3
+   },
+   {
+    "quote": "Ruuf (Information Services)’s primary industry is Other Services (B2C Non-Financial).",
+    "url": "https://pitchbook.com/profiles/company/503302-60",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Hola buenas quiero destacar el servicio, testifico que es real y muy cercanos en el trato y profecionales en lo técnico, gracias a ellos pudimos desarrollar nuestro proyecto de sustentabilidad alimentara a nuestro centro de recreación para funcionarios del servicio de salud de la Red viña Quillota petorca.",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Excelente trabajo el de RUUF, especialmente los instaladores super prolijos y profesionales!!! Muy buen trabajo a Pedro y su equipo.",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Todo el proceso, desde la cotización a la instalación fueron muy profesionales. Aclararon todas las dudas y fuimos modificando el proyecto final según mis requerimientos. El equipo de instalación altamente capacitado y la instalación muy profesional. Estoy conforme por haber decidido por Ruuf sobre otras opciones!",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Invertimos en desarrollo y automatizamos miles de procesos para lograr más precisión, velocidad y transparencia.",
+    "url": "https://ruuf.cl/",
+    "pass": 1
+   },
+   {
+    "quote": "Compra y despacho de equipos",
+    "url": "https://ruuf.cl/partners",
+    "pass": 1
+   },
+   {
+    "quote": "トド、 Proyecto 2 Tipo de techo",
+    "url": "https://framerusercontent.com/images/vRfpU4NvIPDDHoq9crOlJfXOK0Y.png?width=4696&height=2340",
+    "pass": 2
+   },
+   {
+    "quote": "= Tipo de techo \\\\ Proyecto",
+    "url": "https://framerusercontent.com/images/JS3WYmThBMr7uf8wQbJwXQEWRE.png?width=2290&height=2669",
+    "pass": 2
+   },
+   {
+    "quote": "Bank integrations were a core part of the build. Payment processing, installment tracking, and financial compliance in a regulated environment require backend architecture that is built correctly from day one. We owned those decisions.",
+    "url": "https://shft.co/case-study/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "Ruuf Revenue 2024: $3.9M Est.",
+    "url": "https://getlatka.com/companies/ruuf.cl",
+    "pass": 3
+   },
+   {
+    "quote": "Ruuf has not published its revenue. GetLatka estimates it at about $3.9M a year (June 2024).",
+    "url": "https://getlatka.com/companies/ruuf.cl",
+    "pass": 3
+   },
+   {
+    "quote": "Ruuf CEO, founders & employees",
+    "url": "https://getlatka.com/companies/ruuf.cl",
+    "pass": 3
+   },
+   {
+    "quote": "Domingo Garcia-Huidobro founded Ruuf in 2022 and runs it as CEO. Ruuf had 12–26 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/ruuf.cl",
+    "pass": 3
+   },
+   {
+    "quote": "What is Ruuf's revenue?",
+    "url": "https://getlatka.com/companies/ruuf.cl",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Ruuf's revenue at about",
+    "url": "https://getlatka.com/companies/ruuf.cl",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Ruuf have?",
+    "url": "https://getlatka.com/companies/ruuf.cl",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/ruuf.cl",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/ruuf.cl",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/ruuf.cl",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/503302-60",
+    "pass": 3
+   },
+   {
+    "quote": "Ruuf (Information Services) has 44 total employees.",
+    "url": "https://pitchbook.com/profiles/company/503302-60",
+    "pass": 3
+   },
+   {
+    "quote": "What is Ruuf (Information Services)’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/503302-60",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Ruuf (Information Services) is",
+    "url": "https://pitchbook.com/profiles/company/503302-60",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "RUUF: Rent-to-Own Platform for Homeownership - shft.co — RUUF launched a production-grade rent-to-own platform and successfully closed a funding round with a working product in market. The platform handled real users, real properties, and real financial transactions.",
+    "url": "https://shft.co/case-study/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "RUUF: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Ruuf was founded in 2022 in Santiago, Chile, by Domingo García-Huidobro, Tomás Campos, and Pedro Saratscheff.",
+    "url": "https://startupintros.com/orgs/ruuf",
+    "pass": 3
+   },
+   {
+    "quote": "Ruuf Revenue 2024: $3.9M Est. - getlatka.com — Sep 2, 2026 · Ruuf revenue Ruuf has not published its revenue. GetLatka estimates it at about $3.9M a year (June 2024).",
+    "url": "https://getlatka.com/companies/ruuf.cl",
+    "pass": 3
+   },
+   {
+    "quote": "Ruuf — Company Profile | The Company Check — Oct 15, 2026 · Ruuf is a company based in Santiago (Chile) founded in 2022.. Ruuf has raised $125 thousand across 1 funding round from investors including Y Combinator. Ruuf offers products and services including Solar Panel Installation and Online Quoter.",
+    "url": "https://www.thecompanycheck.com/company/b/ruuf/hisngrohhirc46skb",
+    "pass": 3
+   },
+   {
+    "quote": "Ruuf (Information Services) 2026 Company Profile: Valuation ...Ruuf — Funding, Investors & Team | SeedtableRuuf Funding History: $11.9M | Indexed.vcRuuf — investors & funding | gritt.io — Jan 1, 2022 · Information on valuation, funding, cap tables, investors, and executives for Ruuf (Information Services). Use the PitchBook Platform to explore the full profile. Jul 28, 2026 · Chilean solar startup",
+    "url": "https://pitchbook.com/profiles/company/503302-60",
+    "pass": 3
+   },
+   {
+    "quote": "Ruuf — Funding, Investors & Team | Seedtable — Jul 28, 2026 · Chilean solar startup Ruuf raised ~US$700K in pre-seed funding led by Collaborative Fund and Positive Ventures, with former energy minister Juan Carlos Jobet participating.",
+    "url": "https://seedtable.com/companies/ruuf",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/503302-60",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Rahaf (@_ruuf_a) / X 👩🏻💻.. Only approved followers can see @_ruuf_a’s posts.",
+    "url": "https://x.com/_ruuf_a",
+    "pass": 3
+   },
+   {
+    "quote": "رهـف (@ruuf__) / X رهـف @ruuf__ \" مضيئة دائمًا، كما لو أنها نجمة \" جدة, المملكة العربية السعودية Born April 4, 1996",
+    "url": "https://x.com/ruuf__",
+    "pass": 3
+   },
+   {
+    "quote": "RuufPay on X: \"Spot #BitcoinETF inflows just hit a record ... Spot #BitcoinETF inflows just hit a record. Big duos are pile-driving into BTC. Is institutional trust turning into mainstream trust? Stay ready—secure your gains. $RUUF #RuufPay #CryptoNews #Bitcoin",
+    "url": "https://x.com/RuufPay/status/1940476867472982494",
+    "pass": 3
+   },
+   {
+    "quote": "Hskv Ruuf on X: \"@NwekereNdoki @Isaiahsolomon21 @markessien ... U mistake today PH with then PH Then PH was mostly a mixture of Okirka and Ikwerre 2 460 Hskv Ruuf @HskvRuuf13406 You are just delusional 5:11 AM · Aug 28, 2026 ·",
+    "url": "https://x.com/HskvRuuf13406/status/2093310495449067685",
+    "pass": 3
+   },
+   {
+    "quote": "るーふ (@ruuf2024) / X るーふ (@ruuf2024) / X ... ROM用",
+    "url": "https://x.com/ruuf2024",
+    "pass": 3
+   },
+   {
+    "quote": "رهـف (@ruuf__) / X Aug 31, 2012 · \" مضيئة دائمًا، كما لو أنها نجمة \" رحلة الـ Honey moon ️ في ألمانيا - النمسا - سويسرا .. كانت من أحلى الأيام في حياتي ️ ️ طبعا في مقاطع كثيرة ما قدرت احطها بالفيديو لان تويتر مايسمح لأكثر من دقيقتين ..",
+    "url": "https://x.com/ruuf__",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "RUUF - LinkedIn About us Ruuf is the first solar marketplace in LatAm that connects homeowners with solar installers and lenders.",
+    "url": "https://www.linkedin.com/company/ruufsolar",
+    "pass": 3
+   },
+   {
+    "quote": "RUUF - LinkedIn About us RUUF is AI that helps homebuyers decide without the frustration, and helps agents close more deals. Every homebuying portal assumes buyers know what they want.",
+    "url": "https://www.linkedin.com/company/ruufai/",
+    "pass": 3
+   },
+   {
+    "quote": "RUUF | LinkedIn Im Zentrum stand das Restaurant RUUF – ein Ort für kreative vegetarische Küche, regionale Produkte und unvergessliche Genussmomente. Ergänzt wurde das Konzept durch Co-Working Spaces und...",
+    "url": "https://li.linkedin.com/company/ruufconcept",
+    "pass": 3
+   },
+   {
+    "quote": "RUUF | LinkedIn RUUF is a financial technology company that makes homeownership accessible to everyone. We enable people who want to buy a home but are unable to do so under the current financial systems to...",
+    "url": "https://mp.linkedin.com/company/ruuftech?trk=ppro_cprof",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Ruuf - FacebookRUUF Home Store - FacebookRUUF está en la calle ☀️ Lanzamos nuestro ... - Facebook¿Los paneles solares son lo más importante de una instalación ...ruuf | Cairo - FacebookRUUF - FacebookCon Ruuf, hacer el cambio es fácil y rápido. Súmate a la ... ¿Cotizaste paneles solares y ahora qué? 🔅🏠 En RUUF te acompañamos durante todo el proceso: desde el diseño de tu proyecto y la visita técni",
+    "url": "https://www.facebook.com/ruufsolar/",
+    "pass": 3
+   },
+   {
+    "quote": "RUUF Home Store - FacebookRUUF está en la calle ☀️ Lanzamos nuestro ... - Facebook¿Los paneles solares son lo más importante de una instalación ...ruuf | Cairo - FacebookRUUF - FacebookCon Ruuf, hacer el cambio es fácil y rápido. Súmate a la ... Mar 12, 2020 · This product is just the right choice to go! RUUF launch a crowd-funding wooden cabin project on Indiegogo. We'd be honored if you take par",
+    "url": "https://www.facebook.com/RUUF.official/",
+    "pass": 3
+   },
+   {
+    "quote": "RUUF está en la calle ☀️ Lanzamos nuestro ... - Facebook Porque generar tu propia energía también es tomar el control: de tus cuentas, de tu independencia y de la forma en que eliges vivir. ⚡️🏠 Hoy ya son casi 2.000 familias las que han generado el cambio junto a RUUF, convirtiéndonos en el N°1 en energía solar residencial en Chile 🇨🇱 Y esto recién empieza.",
+    "url": "https://www.facebook.com/ruufsolar/videos/ruuf-está-en-la-calle-️lanzamos-nuestro-billboard-y-con-él-nuestra-nueva-campaña/1412290860744398/",
+    "pass": 3
+   },
+   {
+    "quote": "ruuf | Cairo - Facebook ruuf, Cairo, Egypt. 146 likes. Rental. Reimagined.",
+    "url": "https://www.facebook.com/ruuf.co/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ruuf.cl/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ruuf.cl/partners",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://framerusercontent.com/images/vRfpU4NvIPDDHoq9crOlJfXOK0Y.png?width=4696&height=2340",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://framerusercontent.com/images/rLvPHYqInygXhGiVO9c1yfFRCI.png?width=1384&height=1592",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://framerusercontent.com/images/JS3WYmThBMr7uf8wQbJwXQEWRE.png?width=2290&height=2669",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://framerusercontent.com/images/Ttd3DGY6BwnX65UPx6vvbNjLGY.png?width=2519&height=1714",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://rufgroup.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biz/areareports/2026/1c8bb12aa9c39ade.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ruf-web.co.jp/about/rtc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2000683911/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/little-guy-design/case-study/ruff-rd-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shft.co/case-study/ruuf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/just-creative/case-study/ruff-club-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/ruuf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/ruuf.cl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/ruuf/hisngrohhirc46skb",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/503302-60",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/_ruuf_a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ruuf__",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RuufPay/status/1940476867472982494",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HskvRuuf13406/status/2093310495449067685",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ruufsolar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ruufai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://li.linkedin.com/company/ruufconcept",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mp.linkedin.com/company/ruuftech?trk=ppro_cprof",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ruufsolar/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RUUF.official/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ruufsolar/videos/ruuf-está-en-la-calle-️lanzamos-nuestro-billboard-y-con-él-nuestra-nueva-campaña/1412290860744398/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ruuf.co/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ruuf2024",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ruuf__",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ruuf 日本 導入",
+   "results": [
+    "https://rufgroup.com/ja/",
+    "https://www.jetro.go.jp/biz/areareports/2026/1c8bb12aa9c39ade.html",
+    "http://www.ruf-web.co.jp/about/rtc/",
+    "https://mono.ipros.com/product/detail/2000683911/",
+    "https://www.ruf-web.co.jp/",
+    "https://response.jp/article/2021/10/21/350576.html",
+    "https://www.nst-matex.com/asshuku/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ruuf 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ジョージフィッシャー_(企業)",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://industrial.filtrationgroup.com/ja/联系我们/",
+    "https://www.ruf.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ruuf Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Ruuf manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/little-guy-design/case-study/ruff-rd-customer-case-study",
+    "https://shft.co/case-study/ruuf",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.casestudies.com/company/just-creative/case-study/ruff-club-customer-case-study",
+    "https://www.ruffmfg.com/",
+    "https://ruff-worldwide.de/en/ruff-gmbh-page-en/",
+    "https://www.ruffmfg.com/about-us/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ruuf white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.extremenetworks.com/partners"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ruuf founded funding employees revenue",
+   "results": [
+    "https://startupintros.com/orgs/ruuf",
+    "https://getlatka.com/companies/ruuf.cl",
+    "https://www.thecompanycheck.com/company/b/ruuf/hisngrohhirc46skb",
+    "https://pitchbook.com/profiles/company/503302-60",
+    "https://seedtable.com/companies/ruuf",
+    "https://indexed.vc/companies/ruufsolar",
+    "https://www.gritt.io/company/ruufsolar/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Ruuf",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/npaka/n/n557fb948c3cf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Ruuf",
+   "results": [
+    "https://x.com/_ruuf_a",
+    "https://x.com/ruuf__",
+    "https://x.com/RuufPay/status/1940476867472982494",
+    "https://x.com/HskvRuuf13406/status/2093310495449067685",
+    "https://x.com/Ashraxov",
+    "https://x.com/ruuf_a",
+    "https://x.com/RUUF/status/2049807059164749921"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Ruuf",
+   "results": [
+    "https://www.linkedin.com/company/ruufsolar",
+    "https://www.linkedin.com/company/ruufai/",
+    "https://li.linkedin.com/company/ruufconcept",
+    "https://mp.linkedin.com/company/ruuftech?trk=ppro_cprof",
+    "https://cl.linkedin.com/in/tomascamposl",
+    "https://cl.linkedin.com/in/domingo-garcia-huidobro",
+    "https://ch.linkedin.com/in/christianrudin/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Ruuf",
+   "results": [
+    "https://www.facebook.com/ruufsolar/",
+    "https://www.facebook.com/RUUF.official/",
+    "https://www.facebook.com/ruufsolar/videos/ruuf-está-en-la-calle-️lanzamos-nuestro-billboard-y-con-él-nuestra-nueva-campaña/1412290860744398/",
+    "https://www.facebook.com/ruuf.co/",
+    "https://www.facebook.com/ruuftech/",
+    "https://www.facebook.com/ruufsolar/videos/cambiate-a-paneles-solares-️/1408339336918763/",
+    "https://www.facebook.com/ruufsolar/videos/los-paneles-solares-son-lo-más-importante-de-una-instalación-️los-paneles-genera/1113988858186051/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ruuf note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://team.nipponia.or.jp/news_release/2140/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/sadaaki",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ruuf X 投稿",
+   "results": [
+    "https://x.com/ruuf2024",
+    "https://x.com/ruuf__",
+    "https://x.com/crow_pierrot",
+    "https://x.com/star_ruff",
+    "https://x.com/ruf_ruf_523",
+    "https://x.com/RUUF/status/1845754753634234408",
+    "https://x.com/ruff_lab"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部34頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部34頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部34頁・検索12回）"
+ }
+}

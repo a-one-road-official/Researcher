@@ -1,0 +1,1619 @@
+{
+ "name": "Sentra",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Cybersecurity｜AI送信済み",
+ "researched_at": "2026-11-11T09:24:14.504038+00:00",
+ "official_url": "https://www.sentra.io",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "11-Apr-2022 $23M $23M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/494884-72",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "5,612,979 $0.000010  $4.16 $4.16 1x $4.16 16.04%",
+    "url": "https://pitchbook.com/profiles/company/494884-72",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "How a third-party compromise created a path into multiple organizations, and how Sentra uncovered it in less than 24 hours.",
+    "url": "https://sentra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "One platform that runs inside your environment and powers every module, so you see, control, and protect the data your AI touches.",
+    "url": "https://sentra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn access sprawl into least privilege for people and agents.",
+    "url": "https://sentra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Catch misconfigured, compromised or misaligned agents early.",
+    "url": "https://sentra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Right-size agent permissions and monitor usage and prompts.",
+    "url": "https://sentra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent sensitive data exposure",
+    "url": "https://sentra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How Vālenz Health Scaled PHI Protection Post-Merger",
+    "url": "https://sentra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous AI Data Readiness and Governance at Enterprise Scale",
+    "url": "https://sentra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Sentra for On-Premises",
+    "url": "https://sentra.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Data Privacy and Compliance",
+    "url": "https://sentra.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent Sensitive Data Exposure",
+    "url": "https://sentra.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Data Sprawl Reduction",
+    "url": "https://sentra.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Sentra enables AWS based organizations to gain full visibility and control of data as well as to protect against sensitive data breaches across the entire AWS cloud environment.",
+    "url": "https://sentra.io/partners/aws",
+    "pass": 1
+   },
+   {
+    "quote": "Sentra enables agentless full stack coverage of your AWS workloads in minutes.",
+    "url": "https://sentra.io/partners/aws",
+    "pass": 1
+   },
+   {
+    "quote": "Sentra’s data security platform adapts to your environment. Get a quote tailored to your scale, stack, and organization priorities.",
+    "url": "https://sentra.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How is pricing calculated?",
+    "url": "https://sentra.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Sentra’s pricing is straightforward, but depends on a few factors unique to each organization. Complete the form and we’ll reach out to you to learn more about your data stores and use cases.",
+    "url": "https://sentra.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Generally, Sentra licenses are based on the volume of data stored (data at-rest) across all your IaaS, PaaS, DBaaS, SaaS and on-premises environments.",
+    "url": "https://sentra.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous discovery and classification across cloud, SaaS, data warehouses, and on-premises — including every copilot, agent, and model connected to your environment.",
+    "url": "https://sentra.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Agentless, ephemeral scanning inside your own environment. No egress costs, no third-party data retention risk, no attestation burden.",
+    "url": "https://sentra.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Protect sensitive customer information, ensure regulatory compliance, and mitigate risks to safeguard your organization",
+    "url": "https://sentra.io/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting Highly Regulated Financial Data in the Cloud is Complex",
+    "url": "https://sentra.io/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Protect critical data with real-time monitoring and breach prevention",
+    "url": "https://sentra.io/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure compliance with PCI DSS, GDPR, and CCPA",
+    "url": "https://sentra.io/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Meet PCI DSS, GDPR, and CCPA requirements effortlessly",
+    "url": "https://sentra.io/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor suspicious activity to prevent insider threats",
+    "url": "https://sentra.io/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Limit access to financial data with least-privilege policies",
+    "url": "https://sentra.io/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify Healthcare Data Security and Protect Patient Trust",
+    "url": "https://sentra.io/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Protect PHI, ensure compliance with regulations, and reduce breach risks across your cloud environments",
+    "url": "https://sentra.io/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Improper PHI classification results in compliance violations and data misuse",
+    "url": "https://sentra.io/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Discover and Classify High-Risk Patient Data with Precision",
+    "url": "https://sentra.io/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Discover and classify sensitive PHI across cloud environments. Ensure compliance with automated reporting for HIPAA, HITRUST, and more. Protect patient data with continuous monitoring and breach prevention.",
+    "url": "https://sentra.io/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify audits and compliance reporting. Monitor patient data to prevent HIPAA violations. Ensure continuous alignment with changing regulations.",
+    "url": "https://sentra.io/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor PHI data access to prevent unauthorized access. Enable secure interoperability between healthcare systems. Mitigate risks from third-party integrations.",
+    "url": "https://sentra.io/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify Retail Data Security and Protect Customer Trust",
+    "url": "https://sentra.io/solutions/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Retailers Are Under Attack: E-Commerce Threats, Data Privacy Complexities, and Supply Chain Risks Demand Action",
+    "url": "https://sentra.io/solutions/retail",
+    "pass": 1
+   },
+   {
+    "quote": "E-commerce and payment systems are prime targets for cyber threats",
+    "url": "https://sentra.io/solutions/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Navigating complex data privacy regulations like PCI DSS, GDPR, and CCPA is challenging",
+    "url": "https://sentra.io/solutions/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Stay Compliant and Protect Sensitive Customer Data with Sentra's Cloud-Native Security Platform",
+    "url": "https://sentra.io/solutions/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Identify sensitive data across all environments in real time, prevent breaches with proactive monitoring and alerts, and ensure compliance with automated reporting.",
+    "url": "https://sentra.io/solutions/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline adherence to PCI-DSS, GDPR, and other frameworks, detect violations like exposed credit card or customer data, and generate ready-to-use compliance reports effortlessly.",
+    "url": "https://sentra.io/solutions/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent supply chain vulnerabilities and stay ahead of threat",
+    "url": "https://sentra.io/solutions/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce risks from third-party access, detect and prevent unauthorized data movement, and respond instantly to supply chain threats.",
+    "url": "https://sentra.io/solutions/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Securing petabytes of fast-moving data - across every cloud, every AI agent, every corner of the enterprise - takes people who think differently. Is that you?",
+    "url": "https://sentra.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Top Promising Startups",
+    "url": "https://sentra.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your application, you acknowledge that Sentra will process your personal data in accordance with Sentra's",
+    "url": "https://sentra.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Data Analyst — \"At Sentra, I get to work on problems that really matter, and with a team that makes it genuinely fun to show up every day.\"",
+    "url": "https://sentra.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Software Engineer — \"The collaboration, the inclusivity, and the shared mission focus make every project feel meaningful.\"",
+    "url": "https://sentra.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Marketer — \"Strong collaboration and unified goals make Sentra a place where great work happens together.\"",
+    "url": "https://sentra.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The data problem AI just created needs people who can solve it. Browse our open role to find your place on the Sentra team.",
+    "url": "https://sentra.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "(2013–present)",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "1982–present",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "(1999–present)",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": ", while previously it occupied the",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "The model was initially imported from Japan, where it was produced at the",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "as a 1982 model. While previous Sunny models had used a",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": ", high-swirl intake ports and a semi-dual exhaust manifold to provide strong torque at low and medium rpm ranges. Torque peak was",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Environmental Protection Agency",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Trim levels were Standard, Deluxe, and XE, while price ranges were between US$4,949 for the base two-door sedan up to US$6,899 for the two-door XE hatchback coupe. Standard equipment on all models were four-wheel independent suspension, front disc brakes and rear drums,",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "3,500 to 210 employees. $329K saved annually, plus 1 FTE freed from false-positive triage.",
+    "url": "https://sentra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "A Fortune 500 company ran Sentra and a top emerging DSPM vendor side by side on its own environment.",
+    "url": "https://sentra.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Creative Director —\"I love being part of a talented, passionate team that inspires me every day to be creative and bring new ideas to life.\"",
+    "url": "https://sentra.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "This generation carried on the multitude of body styles that the B11 had, including a",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": ". With the arrival of this generation, Sentras for the US market were no longer made in Japan. The 2000–2001 Sentra SE with the SR20DE",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "version of the Sentra, particularly when the price of oil rose to over $100 per barrel.",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "The ninth generation Sentra is based on the same platform as the previous generation and carries over the same 2.0-liter",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "of torque. The CVT is also carried over and is retuned for more linear power delivery.",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Stark, Harry A., ed. (1987).",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Stark, Harry A., ed. (1988).",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Stark, Harry A., ed. (1989).",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Stark, Harry A.; Bush, James W., eds. (1990).",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "\"Carros mais vendidos do Brasil em 2024\"",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "\"Carros mais vendidos do Brasil em 2025\"",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Affected regions and timelines are not yet confirmed, but vehicle arrivals could be impacted.",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "Are you sure you want to remove BF Warranty?",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "To avoid such risks, we recommend using CIF, where the exporter arranges insurance for added protection.",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/494884-72",
+    "pass": 3
+   },
+   {
+    "quote": "Sentra has 130 total employees.",
+    "url": "https://pitchbook.com/profiles/company/494884-72",
+    "pass": 3
+   },
+   {
+    "quote": "What is Sentra’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/494884-72",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Sentra is",
+    "url": "https://pitchbook.com/profiles/company/494884-72",
+    "pass": 3
+   },
+   {
+    "quote": "The \"Revenue Agent Platform,\" where sales representatives and AI agents handle the entire sales process",
+    "url": "https://note.com/startup_now0708/n/n7e714b2dad21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue growing at approximately 3x year-over-year",
+    "url": "https://note.com/startup_now0708/n/n7e714b2dad21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Net Revenue Retention (NRR) is 135%",
+    "url": "https://note.com/startup_now0708/n/n7e714b2dad21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Furthermore, the company has announced the acquisition of radar firm Echodyne for $5.3 billion. On a Bloomberg program, the company's CEO mentioned that the valuation after the acquisition would be approximately $29 billion (a figure from the program), though the Crunchbase article does not list a valuation.",
+    "url": "https://note.com/startup_now0708/n/nfe8a43ccb0af?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3-1. Applied Compute: Over $100 Million in ARR Within 18 Months of Founding",
+    "url": "https://note.com/startup_now0708/n/nfe8a43ccb0af?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "is a company that provides a cloud platform for enterprises and developers to train and run large-scale AI models. It raised $350 million at a valuation of $3.25 billion. Led by Elad Gil, many investors including Nvidia participated. The company stated that its Annual Recurring Revenue (ARR) exceeded $100 million within 18 months of its founding.",
+    "url": "https://note.com/startup_now0708/n/nfe8a43ccb0af?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Sentra for Data Warehouse",
+    "url": "https://sentra.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous discovery and classification across cloud, SaaS, data warehouses, and on-premises — including every copilot, agent, and model connected to your environment.",
+    "url": "https://sentra.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "plant, after a US$85 million investment.",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "In 1984, the Sentra entered production in Nissan Mexicana's Cuernavaca plant as the Nissan Tsuru. It was built there until 1987 when it was replaced by the next generation; in total 210,565 of the first Tsuru were built in Mexico.",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "plant, representing about 22 percent of Sentra sales in North America in 1986.",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "With the new generation, the plant underwent a five-month conversion and when production of the B12 Sentra began on August 12, 1986, it was also built as a four-door sedan. In December, the three-door Hatchback bodystyle was added to the US production, followed by the station wagon bodystyle in January 1987.",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": ", Mexico, and the Smyrna production line was retooled to build the",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "A big brake option featuring Brembo four-piston calipers up front, 12-inch vented front discs and upgraded 10.9-inch rear discs were available for 2004–2006 Spec V models. ABS was unavailable with this option from the factory.",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "plant since December 2012.",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "In Japan, Nissan Sylphy debuted on 5 December 2012, and built at the Oppama plant in",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": ", the manufacturer of Nissan products in Taiwan. The facelift preserves the pre-facelift front fenders and hood with only the headlights and front bumper redesigned to save cost. The rest of the vehicle is inline with the international 2016 facelift versions, including new wheels, taillights and rear bumpers.",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "and Nissan Mexicana issued a recall on 18,857 Sentras of model years 2020 and 2021 in Mexico, due to a manufacturing defect of the steering rods (left or right) which could be bent, resulting in a misalignment in the direction of the car, vibrations while driving, and the breakage of the component that would lead to loss of the unit control.",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Ward's Automotive Yearbook 1987",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Ward's Automotive Yearbook 1988",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Ward's Automotive Yearbook 1989",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Ward's Automotive Yearbook 1990",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "\"OEM Plant Details:Nissan North America, Canton Plant\"",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Paul Tan's Automotive News",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Nissan Manufacturing Rus",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Nissan Motor Manufacturing UK",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "eGT New Energy Automotive",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Renault Nissan Automotive India",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "In 2024, Consignee had to pay 58.5% of the invoice value due to general average caused by an accident by the shipping company before their cargo could be released.",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "Read the case study →",
+    "url": "https://www.sentra.app/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: an aerospace firm reduces exposed IP by 80% with Sentra | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/sentra/case-study/aerospace-firm-cuts-exposed-ip-by-over-80-with-sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: an aerospace firm reduces exposed IP by 80% with Sentra",
+    "url": "https://www.casestudies.com/company/sentra/case-study/aerospace-firm-cuts-exposed-ip-by-over-80-with-sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Firm cuts exposed IP by over 80% with Sentra",
+    "url": "https://www.casestudies.com/company/sentra/case-study/aerospace-firm-cuts-exposed-ip-by-over-80-with-sentra",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/sentra/case-study/aerospace-firm-cuts-exposed-ip-by-over-80-with-sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/sentra/case-study/aerospace-firm-cuts-exposed-ip-by-over-80-with-sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Over 2,000 user companies (including Glean, Notion, Deel, Factory, and Replit)",
+    "url": "https://note.com/startup_now0708/n/n7e714b2dad21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "raised $1.5 billion at a valuation of $21.5 billion (post-money). Led by Paradigm, WCM Investment Management, and Layer Global, the funds will be used to expand U.S. manufacturing facilities and strengthen hiring, with plans to build a nationwide drone delivery network.",
+    "url": "https://note.com/startup_now0708/n/nfe8a43ccb0af?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "3ドアクーペは日本における「",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%94%A3%E3%83%BB%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9",
+    "pass": 3
+   },
+   {
+    "quote": "プラットフォームはCプラットフォームから初代ヴァーサ（日本名：",
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%94%A3%E3%83%BB%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9",
+    "pass": 3
+   },
+   {
+    "quote": "class. Until 2006, Sentra was a rebadged version of the Japanese",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "for markets outside of Japan, but since the 2013 model year, Sentra is a rebadged version of the",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "for markets outside of Japan. The Sentra nameplate is not used in Japan. Several other countries in Latin America sell their versions of the Sunny as the Sentra. In Mexico, the first three generations of the Sentra were known as the",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "The model was initially imported from Japan, where it was produced at the",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "class in 2001, and its wheelbase remained unchanged from the previous generation. While earlier Sentras were very similar to their Japan-market B-series",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": ". With the arrival of this generation, Sentras for the US market were no longer made in Japan. The 2000–2001 Sentra SE with the SR20DE",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "in Japan but under other names elsewhere. In Europe, the Bluebird Sylphy was known as the",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "models. Sentras from this generation were exclusively built in Mexico, with no production in the United States or Japan. The Sentra's standard engine is a 2.0-liter 16-valve",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "2012–2021 (Japan)",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "In Japan, Nissan Sylphy debuted on 5 December 2012, and built at the Oppama plant in",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "(Japan),",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "-market Sentra reflects the styling of the Japanese-market Bluebird Sylphy (also as the Almera/Pulsar sedan but with a luxury emphasis). This N16 model is called Sentra M1. The Nissan Sentra nameplate returned in October 2013 as B17, marketed as Nissan Super Sentra.",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Archived from",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "CS1 Japanese-language sources (ja)",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Best Price Used NISSAN SENTRA for Sale - Japanese Used Cars BE FORWARD",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese used cars exporter",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Time: 6:25 PM",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "Learn more about Live Auction (Japan)",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo 182-0026 Japan",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "Used Nissan Sentra For Sale | CAR FROM JAPAN",
+    "url": "https://carfromjapan.com/cheap-used-nissan-sentra-for-sale",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "\"OEM Plant Details:Nissan North America, Canton Plant\"",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "your email to receive",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "Verify your email address to recieve My Account Points and access all of BE FORWARD's features.",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "Verification email was sent to",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "Resend Verification Email.",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "(It may be automatically sorted to the junk mail folder or trash box, so please check it once if you cannot find the email.)",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "Your email address is verified!",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "You will receive an email shortly with the",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "If you have more questions, please reply to the email so we can assist you.",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "You’ll receive email notification, if any of the vehicles in your list are discounted.",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "Get email alerts to keep track of price drops and new vehicles matching this search",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "You will receive email alerts for price drops and new vehicles matching this search",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": ": With Sentra the compliance and data security teams are able to create a clear view of all the data that needs to be masked and feed this information into their data masking tool for future masking. Sentra can detect whether a dataset contains markers like \"@example.com\" emails or specially formatted SSNs.",
+    "url": "https://sentra.io/resources/case-studies/how-a-mortgage-lender-ensures-sensitive-data-gets-masked-and-stays-masked",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/494884-72",
+    "pass": 3
+   },
+   {
+    "quote": "会社も断片を蓄積して育ちます ─ meetings、Slack threads、emails、customer calls、support tickets、ロードマップ討論、営業 objection、investor update、code review、廊下での雑談 context",
+    "url": "https://note.com/_kihonushi/n/n8f5573dd8996",
+    "pass": 3
+   },
+   {
+    "quote": "domain knowledge scattered across people's heads, emails, Slack threads, tickets, and databases",
+    "url": "https://note.com/_kihonushi/n/n8f5573dd8996",
+    "pass": 3
+   },
+   {
+    "quote": "既存ツール（email / calendar / Slack / docs / CRM / project management / support / code / workflows）にコネクトし、散らばった context を集める",
+    "url": "https://note.com/_kihonushi/n/n8f5573dd8996",
+    "pass": 3
+   },
+   {
+    "quote": "96% of emails created by AI agents are sent without edits",
+    "url": "https://note.com/startup_now0708/n/n7e714b2dad21?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Nissan Sentra - Wikipedia — The Nissan Sentra is a series of automobiles manufactured by the Japanese automaker Nissan since 1982. Since 1999, the Sentra has been categorized as a compact car, while previously it occupied the subcompact class.",
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "pass": 3
+   },
+   {
+    "quote": "日産・セントラ - Wikipedia — セントラ （SENTRA）は、 日産自動車 が 北米 を中心に販売している小型 乗用車 である。 東南アジアでも ブルーバードシルフィ ベースのモデルが「セントラ」の名称で販売されているが、本項では北米版について記述する。 駆動方式が FF となったB11型 サニー の北米版として登場した。 また、このモデルはアメリカ市場で日産ブランドで販売される最初の車であった。 サニーと外観上大きく異なるのは前後の大型バンパー、リアサイドマーカー、フロントマスクなど。 特にヘッドランプはB11サニーのスラント異形形状から、ADバン風の固定角型形状に変更されている。",
+    "url": "https://ja.wikipedia.org/wiki/日産・セントラ",
+    "pass": 3
+   },
+   {
+    "quote": "Best Price Used NISSAN SENTRA for Sale - Japanese Used Cars ... — Find an affordable Used NISSAN SENTRA with No.1 Japanese used car exporter BE FORWARD. We always have a large selection of Low-priced, discounted vehicles in our stock list.",
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "pass": 3
+   },
+   {
+    "quote": "Used Nissan Sentra for sale - CAR FROM JAPAN — Check Out the best deals of used Nissan Sentra at good prices with low mileage big discounts. Great Quality. Fast Shipment. 24/7 Support. Simple Procedure.",
+    "url": "https://carfromjapan.com/cheap-used-nissan-sentra-for-sale",
+    "pass": 3
+   },
+   {
+    "quote": "Nissan Sentra for sale - Japan Partner — Nissan Sentra for sale. 2 stock items.Import Nissan Sentra straight from used cars dealer in Japan without intermediaries. Fair prices. Export paperwork, shipping to any major port. Pre-shipment inspection.",
+    "url": "https://www.japan-partner.com/auction/Nissan/Sentra/cars-for-sale.html",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Sentra — In an industry where speed, data, and customer trust intersect, one of the world’s top travel technology companies found itself at a…",
+    "url": "https://sentra.io/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories · Sentra — Stalled work fell 58% in four weeks, root-cause investigations went from days to 30 minutes, and no one's individual productivity changed. How organizations run on Sentra, the managed organization memory: real deployments, real numbers.",
+    "url": "https://www.sentra.app/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: an aerospace firm reduces exposed IP by 80% with ... — Aerospace Firm (Aviation and Aerospace Component Manufacturing) partnered with Sentra (Computer and Network Security) to solve key challenges. \"Aerospace Firm cuts exposed IP by over 80% with Sentra\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/sentra/case-study/aerospace-firm-cuts-exposed-ip-by-over-80-with-sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Mortgage Lender Automates Data Masking with Sentra DSPM — Mar 22, 2026 · Learn how a top U.S. mortgage lender used Sentra to automate data masking, reduce false positives, and strengthen compliance across cloud environments.",
+    "url": "https://sentra.io/resources/case-studies/how-a-mortgage-lender-ensures-sensitive-data-gets-masked-and-stays-masked",
+    "pass": 3
+   },
+   {
+    "quote": "Sentra B2B Case Studies & Customer Successes — See how Sentra solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Sentra - 2026 Company Profile, Team, Funding & Competitors ...Sentra – Company Profile & Market Insights – 2026Sentra 2026 Company Profile: Valuation, Funding & Investors ...Sentra: $253M Funding, 208 Employees & Latest News | MandosSentra Raises $150 Million for Agentic Data Security as ...Ex-Unit 8200 commander's Sentra raises $150 million to secure ...Sentra Profile 2026: Financials, AI Strateg",
+    "url": "https://tracxn.com/d/companies/sentra/____ILB2eX9Wx5obSZJrxujDRBeLDKMbHbkepZ3ypgi90",
+    "pass": 3
+   },
+   {
+    "quote": "Sentra – Company Profile & Market Insights – 2026 — Discover Sentra's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Sentra 2026 Company Profile: Valuation, Funding & Investors ...Sentra: $253M Funding, 208 Employees & Latest News | MandosSentra Raises $150 Million for Agentic Data Security as ...Ex-Unit 8200 commander's Sentra raises $150 million to secure ...Sentra Profile 2026: Financials, AI Strategy & Cyera, Varonis ... — Information on valuation, funding, cap tables, investors, and executives for Sentra. U",
+    "url": "https://pitchbook.com/profiles/company/494884-72",
+    "pass": 3
+   },
+   {
+    "quote": "Sentra: $253M Funding, 208 Employees & Latest News | Mandos — Nov 4, 2026 · Sentra is a cybersecurity company specializing in Data Protection, founded in 2021 and headquartered in New York, United States. It has raised $253M in equity across 4 priced rounds, employs about 208 people, and is privately held.",
+    "url": "https://mandos.io/data/companies/sentra",
+    "pass": 3
+   },
+   {
+    "quote": "Sentra Raises $150 Million for Agentic Data Security as ... — 6 days ago · The funding accelerates Sentra's innovation in agentic data security: broad visibility into agents, copilots and models and the sensitive data they touch, continuous least privilege for human and ...",
+    "url": "https://www.prnewswire.com/news-releases/sentra-raises-150-million-for-agentic-data-security-as-enterprise-ai-adoption-accelerates-302928476.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Company Brain とは何か ─ Sentra Ashwin が定義する3層モデルと「な... Apr 30, 2026 · 「会社の脳とは何か」という問いに、Sentra Ashwin は3層モデル + 4 wedge の交差点 + 役割別パーソナライズという、極めて強い構造を提示しました。 これは今週公開された他の harness / memory 議論と並べて読むと、 memory 軸の決定版 として残るはずです。",
+    "url": "https://note.com/_kihonushi/n/n8f5573dd8996",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代における「Sentra」の「In-Environment（環境内実行）」アーキ... 4 days ago · 3.1 エージェントレス＆イン・エンバイロメント（VPC内）実行メカニズム Sentraのプラットフォームは完全なエージェントレスで動作し、本番環境（Production）のワークロードにパフォーマンス負荷や遅延を与えません。",
+    "url": "https://note.com/it_tech_trends/n/n8c22f6de69f6",
+    "pass": 3
+   },
+   {
+    "quote": "November 4, 2026: 4 Notable Overseas Startup Funding Rounds 6 days ago · On November 4, 2026 (US time), four AI-related funding rounds were announced in succession: sales support firm Nooks, cardiac catheterization imaging firm Laza Medical, data security firm Sentra, and security operations firm Brava.",
+    "url": "https://note.com/startup_now0708/n/n7e714b2dad21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[10/31 - 11/06] Major Funding Rounds for Notable Overseas ... Sentra is an agent-based data security company that we covered in another article last week. It received a $150 million strategic investment led by Capital One Ventures; the company was founded in 2021 and has headquarters in New York and Tel Aviv.",
+    "url": "https://note.com/startup_now0708/n/nfe8a43ccb0af?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Company Brain とは何か ─ Sentra Ashwin が定義する3層モデルと「なぜ大半の会社にメモリがないのか」｜KiKi@AI",
+    "url": "https://note.com/_kihonushi/n/n8f5573dd8996",
+    "pass": 3
+   },
+   {
+    "quote": "Company Brain とは何か ─ Sentra Ashwin が定義する3層モデルと「なぜ大半の会社にメモリがないのか」",
+    "url": "https://note.com/_kihonushi/n/n8f5573dd8996",
+    "pass": 3
+   },
+   {
+    "quote": "以下の記事が面白かったので、簡単にまとめました。",
+    "url": "https://note.com/_kihonushi/n/n8f5573dd8996",
+    "pass": 3
+   },
+   {
+    "quote": "Company Brain: Why Most Companies Have Data But No Memory",
+    "url": "https://note.com/_kihonushi/n/n8f5573dd8996",
+    "pass": 3
+   },
+   {
+    "quote": "（Ashwin Gopinath / 2026-04-30 / X Article 13,957 字）",
+    "url": "https://note.com/_kihonushi/n/n8f5573dd8996",
+    "pass": 3
+   },
+   {
+    "quote": "1. なぜ「データはあるがメモリがない」状態になるのか",
+    "url": "https://note.com/_kihonushi/n/n8f5573dd8996",
+    "pass": 3
+   },
+   {
+    "quote": "組織が抱える最も難しい問題のひとつは、**institutional friction（組織的摩擦）**だと Ashwin Gopinath は書きます。",
+    "url": "https://note.com/_kihonushi/n/n8f5573dd8996",
+    "pass": 3
+   },
+   {
+    "quote": "出席者は「決まったこと」の異なるバージョンを持って退室する",
+    "url": "https://note.com/_kihonushi/n/n8f5573dd8996",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代における「Sentra」の「In-Environment（環境内実行）」アーキテクチャと自律型エージェントのデータアクセス制御｜IT技術トレンド",
+    "url": "https://note.com/it_tech_trends/n/n8c22f6de69f6",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代における「Sentra」の「In-Environment（環境内実行）」アーキテクチャと自律型エージェントのデータアクセス制御",
+    "url": "https://note.com/it_tech_trends/n/n8c22f6de69f6",
+    "pass": 3
+   },
+   {
+    "quote": "1. はじめに：AIエージェントの爆発的普及が突きつけるデータガバナンスの限界",
+    "url": "https://note.com/it_tech_trends/n/n8c22f6de69f6",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIおよび自律型AIエージェント（Agentic AI）の急速なエンタープライズ導入は、従来のセキュリティアーキテクチャが長年依存してきた「ネットワーク境界（Perimeter）」および「人間主導のアイデンティティ管理（IAM）」モデルを根底から無効化しつつあります。Copilotや自律型エージェントが企業システム内で自律的に意思決定を行い、マシンパワーと機械的スピード（Machine Speed）でデータプレーン（Data Plane）を横断する現代において、CISOおよびセキュリティアーキテクトは「AIイノベーションの加速」と「データアクセスの厳密な統制」というトレードオフの克服を迫られています。従来の境界型セキュリティや静的アクセス制御は、自動化された自律型エージェントの動作特性を想定しておらず、エンタープライズセキュリティは構造的かつ不可逆なパラダイムシフトの渦中にあります。",
+    "url": "https://note.com/it_tech_trends/n/n8c22f6de69f6",
+    "pass": 3
+   },
+   {
+    "quote": "アクセス主体の中心が「人間」から「自律型エージェント／マシンアイデンティティ（サービスプリンシパル、アプリケーション権限）」へ移行したことで、データセキュリティのリスク構造は質的に変化しました。最大の脅威は、AIエージェントが親アイデンティティから過剰な権限を暗黙的に継承し、未分類かつガバナンスの及んでいない未統合データへ縦横無尽にアクセスしてしまう「過剰露出リスク」にあります。AIエージェントは企業内で「最も活動的かつ高速なデータ消費主体」となっており、従来の単一的なアイデンティティ制御だけでは、エージェントが「どのデータへのアクセスを許可されており、実際にどの機密データに触れたのか」を動的に把握・制限することは不可能です。",
+    "url": "https://note.com/it_tech_trends/n/n8c22f6de69f6",
+    "pass": 3
+   },
+   {
+    "quote": "シャドーデータとRAG／ナレッジベースの脅威",
+    "url": "https://note.com/it_tech_trends/n/n8c22f6de69f6",
+    "pass": 3
+   },
+   {
+    "quote": "マルチクラウド基盤の拡張と高速開発の副作用として、開発環境に放置されたストレージスナップショット、未管理のS3バケット、複製されたテストデータベースなどの「",
+    "url": "https://note.com/it_tech_trends/n/n8c22f6de69f6",
+    "pass": 3
+   },
+   {
+    "quote": "」が野放しになっています。これらはセキュリティのインベントリから漏れ、統制の及ばない「暗黙の露出リスク」を形成しています。",
+    "url": "https://note.com/it_tech_trends/n/n8c22f6de69f6",
+    "pass": 3
+   },
+   {
+    "quote": "November 4, 2026: 4 Notable Overseas Startup Funding Rounds｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n7e714b2dad21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/startup_now0708/n/n7e714b2dad21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "November 4, 2026: 4 Notable Overseas Startup Funding Rounds",
+    "url": "https://note.com/startup_now0708/n/n7e714b2dad21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n7e714b2dad21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On November 4, 2026 (US time), four AI-related funding rounds were announced in succession: sales support firm Nooks, cardiac catheterization imaging firm Laza Medical, data security firm Sentra, and security operations firm Brava. While the fields differ, they share a common focus on funding what is missing under the premise that AI agents will handle the work.",
+    "url": "https://note.com/startup_now0708/n/n7e714b2dad21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There is a difference in the funding amounts. Nooks' $500 million is a \"growth capital commitment,\" which differs in nature from standard equity financing. Laza Medical has a staged structure of \"up to\" $160 million. While the face values simply add up to a maximum of approximately $825 million, these are figures with different conditions, so we will look at the details of each company separately.",
+    "url": "https://note.com/startup_now0708/n/n7e714b2dad21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Nooks: $500 million in growth capital and the sales AI assistant \"Node\"",
+    "url": "https://note.com/startup_now0708/n/n7e714b2dad21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. What was announced",
+    "url": "https://note.com/startup_now0708/n/n7e714b2dad21?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[10/31 - 11/06] Major Funding Rounds for Notable Overseas Startups｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/nfe8a43ccb0af?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/startup_now0708/n/nfe8a43ccb0af?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[10/31 - 11/06] Major Funding Rounds for Notable Overseas Startups",
+    "url": "https://note.com/startup_now0708/n/nfe8a43ccb0af?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/nfe8a43ccb0af?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "According to a weekly ranking published by Crunchbase News on November 6, 2026, the top major funding rounds for U.S. companies announced between October 31 and November 6 were dominated by defense tech, drone delivery, space tech, and AI-related sectors. The top spot went to defense tech firm Shield AI with $2 billion, followed by drone delivery company Zipline with $1.5 billion.",
+    "url": "https://note.com/startup_now0708/n/nfe8a43ccb0af?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we will summarize the details of 10 deals (with two companies tied for 10th place) and the trends that can be gleaned from the data. The figures are based on the aforementioned article. Note that for some companies, different figures were reported on Bloomberg programs and other outlets last week, and we will supplement those discrepancies.",
+    "url": "https://note.com/startup_now0708/n/nfe8a43ccb0af?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Overview of the Ranking",
+    "url": "https://note.com/startup_now0708/n/nfe8a43ccb0af?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The scope of the aggregation is funding announced by U.S.-based companies in the Crunchbase database. It is noted that deals reported later in the week may be subject to delayed reflection.",
+    "url": "https://note.com/startup_now0708/n/nfe8a43ccb0af?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Sentra (@sentra_app) / X Sentra @sentra_app Your Organization's Memory System sentra.app Joined May 2025 7 Following 1,246 Followers",
+    "url": "https://x.com/sentra_app",
+    "pass": 3
+   },
+   {
+    "quote": "SENTRA (@SENTRA5onchain) / X SENTRA lets you search the crypto economy wallets, tokens, protocols, transactions, and on-chain activity — and turn raw blockchain data into answers. Search deeper.",
+    "url": "https://x.com/SENTRA5onchain",
+    "pass": 3
+   },
+   {
+    "quote": "Sentra on X: \"interesting part of $SENTRA isn’t simply ... Its resources can be secured through a vault. Its agent can interact with the web and build context over time. That means the token isn’t just reacting to markets. It can operate within an environment. This is what makes autonomous onchain assets possible. Discover $Sentra here. https://t.co/dH6uAwW7AM\" Sentra @SentraSOL",
+    "url": "https://x.com/SentraSOL/status/2107741388280631411",
+    "pass": 3
+   },
+   {
+    "quote": "𝔻𝕒𝕟𝕚𝕖𝕝 𝔹𝕖𝕧𝕚𝕤 on X: \"300bhp Sentra Spec V concept looks... 300bhp Sentra Spec V concept looks so hardcore 😍 10 Nov 2026 15:27:04",
+    "url": "https://x.com/denialvibes/status/2120176422623006741",
+    "pass": 3
+   },
+   {
+    "quote": "せんとら / SENTRA on X: \"インスタの方のマスタングの投稿、コメ欄豪... Sep 17, 2026 · せんとら / SENTRA @SENTRA_ILLUST インスタの方のマスタングの投稿、コメ欄豪華すぎるw 10:14 PM · Sep 17, 2026 · 1,465 Views 2 48",
+    "url": "https://x.com/SENTRA_ILLUST/status/2100710031914369135",
+    "pass": 3
+   },
+   {
+    "quote": "せんとら / SENTRA on X: \"ウマ娘と初音ミク、巨大コンテンツ同士の接... 3 days ago · Conversation せんとら / SENTRA @SENTRA_ILLUST Show translation ウマ娘と初音ミク、巨大コンテンツ同士の接触 5:10 AM · Nov 8, 2026 · 728 Views 10 13",
+    "url": "https://x.com/SENTRA_ILLUST/status/2119296462656025047",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sentra - LinkedIn Sentra is the AI Data Readiness and Data Security Posture Management (DSPM) platform for the enterprise. Organizations are deploying AI agents, Copilots, and LLM pipelines faster than they're ...",
+    "url": "https://www.linkedin.com/company/sentra-io",
+    "pass": 3
+   },
+   {
+    "quote": "Sentra - LinkedIn Empower your enterprise with AI organizational memory | Sentra is your AI organizational memory system that transforms your company's collective knowledge, data and decisions into living...",
+    "url": "https://www.linkedin.com/company/sentra-app",
+    "pass": 3
+   },
+   {
+    "quote": "Sentra - LinkedIn In both IaaS and PaaS environments, Sentra provides automatic visibility, risk assessment, and access analysis for cloud data, ensuring that sensitive data is always secured - regardless of where...",
+    "url": "https://www.linkedin.com/products/sentra-io-sentra/",
+    "pass": 3
+   },
+   {
+    "quote": "Sentra - LinkedIn Sentra is the AI backbone for post-acute and long-term care, automating critical workflows to drive efficiency, financial sustainability, and better patient outcomes.",
+    "url": "https://www.linkedin.com/company/sentrahealth/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "New and used Nissan Sentra for sale | Facebook Marketplace New and used Nissan Sentra for sale near you on Facebook Marketplace. Compare prices and mileage from local sellers.",
+    "url": "https://www.facebook.com/marketplace/category/nissan-sentra/",
+    "pass": 3
+   },
+   {
+    "quote": "Nissan Sentra for sale in Virginia Beach, Virginia - Facebook New and used Nissan Sentra for sale in Virginia Beach, Virginia from $500 to $11,850 on Facebook Marketplace. Compare prices and mileage from local sellers.",
+    "url": "https://www.facebook.com/marketplace/virginiabeach/nissan-sentra/",
+    "pass": 3
+   },
+   {
+    "quote": "Hampton Roads Facebook Classifieds | Facebook Oct 22, 2026 · 0 reactions Cls Smitty 1h · Public 2006 Nissan Sentra · 1.8 S Sedan 4D Photos from Cls Smitty's post 0 reactions Samantha Batkins",
+    "url": "https://business.facebook.com/groups/360519000755280/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sentra.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sentra.io/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sentra.io/partners/aws",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sentra.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sentra.io/solutions/financial-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sentra.io/solutions/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sentra.io/solutions/retail",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sentra.io/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://sentra.io/images/homepage/logos/sentra.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%94%A3%E3%83%BB%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://noru-memo.com/nissan-sunny-2026-new-sentra/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autoc-one.jp/scoop/5036746/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roadect.com/articles/model/nissan-sentra-b19",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E7%94%A3%E3%83%BB%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carfromjapan.com/cheap-used-nissan-sentra-for-sale",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sentra.io/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sentra.app/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/sentra/case-study/aerospace-firm-cuts-exposed-ip-by-over-80-with-sentra",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sentra.io/resources/case-studies/how-a-mortgage-lender-ensures-sensitive-data-gets-masked-and-stays-masked",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/sentra/____ILB2eX9Wx5obSZJrxujDRBeLDKMbHbkepZ3ypgi90",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/sentra",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/494884-72",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mandos.io/data/companies/sentra",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/_kihonushi/n/n8f5573dd8996",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/it_tech_trends/n/n8c22f6de69f6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/n7e714b2dad21?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/nfe8a43ccb0af?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sentra_app",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SENTRA5onchain",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SentraSOL/status/2107741388280631411",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/denialvibes/status/2120176422623006741",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sentra-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sentra-app",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/sentra-io-sentra/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sentrahealth/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/marketplace/category/nissan-sentra/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/marketplace/virginiabeach/nissan-sentra/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/360519000755280/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SENTRA_ILLUST/status/2100710031914369135",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SENTRA_ILLUST/status/2119296462656025047",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sentra 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日産・セントラ",
+    "https://noru-memo.com/nissan-sunny-2026-new-sentra/",
+    "https://autoc-one.jp/scoop/5036746/",
+    "https://roadect.com/articles/model/nissan-sentra-b19",
+    "https://car-repo.jp/blog-entry-2026-nissan-new-sentra-spec-v-concept-sema.html",
+    "https://bestcarweb.jp/feature/column/1183393",
+    "https://premium-cars-life.com/nissan-sentra-japan-release/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sentra 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sentra Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Nissan_Sentra",
+    "https://ja.wikipedia.org/wiki/日産・セントラ",
+    "https://www.beforward.jp/stocklist/make=3/model=1280",
+    "https://carfromjapan.com/cheap-used-nissan-sentra-for-sale",
+    "https://www.japan-partner.com/auction/Nissan/Sentra/cars-for-sale.html",
+    "https://promisekit.org/2022/10/23/what-is-a-sentra-in-japan/",
+    "https://www.gqjapan.jp/article/20250924-nissan-sentra-news"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sentra manufacturing customer case study",
+   "results": [
+    "https://sentra.io/resources/case-studies",
+    "https://www.sentra.app/customers",
+    "https://www.casestudies.com/company/sentra/case-study/aerospace-firm-cuts-exposed-ip-by-over-80-with-sentra",
+    "https://sentra.io/resources/case-studies/how-a-mortgage-lender-ensures-sensitive-data-gets-masked-and-stays-masked",
+    "https://www.casestudies.com/company/sentra",
+    "https://www.featuredcustomers.com/vendor/sentra/case-studies",
+    "https://www.sentra.app/customers/lenskart"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sentra white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/",
+    "https://aws.amazon.com/partners/programs/",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sentra founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/sentra/____ILB2eX9Wx5obSZJrxujDRBeLDKMbHbkepZ3ypgi90",
+    "https://compworth.com/company/sentra",
+    "https://pitchbook.com/profiles/company/494884-72",
+    "https://mandos.io/data/companies/sentra",
+    "https://www.prnewswire.com/news-releases/sentra-raises-150-million-for-agentic-data-security-as-enterprise-ai-adoption-accelerates-302928476.html",
+    "https://www.calcalistech.com/ctechnews/article/s1jextotml",
+    "https://dexteragent.ai/companies/sentra-1771742019"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Sentra",
+   "results": [
+    "https://note.com/_kihonushi/n/n8f5573dd8996",
+    "https://note.com/it_tech_trends/n/n8c22f6de69f6",
+    "https://note.com/startup_now0708/n/n7e714b2dad21?hl=en",
+    "https://note.com/startup_now0708/n/nfe8a43ccb0af?hl=en",
+    "https://note.com/startup_now0708/n/nfe8a43ccb0af",
+    "https://note.com/one_of_these/n/n59767c579848?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Sentra",
+   "results": [
+    "https://x.com/sentra_app",
+    "https://x.com/SENTRA5onchain",
+    "https://x.com/SentraSOL/status/2107741388280631411",
+    "https://x.com/denialvibes/status/2120176422623006741",
+    "https://x.com/TweetThreatNews/status/2118526830751699137",
+    "https://x.com/SENTRA5onchain/status/2103469569247433032",
+    "https://x.com/SENTRA_ILLUST"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Sentra",
+   "results": [
+    "https://www.linkedin.com/company/sentra-io",
+    "https://www.linkedin.com/company/sentra-app",
+    "https://www.linkedin.com/products/sentra-io-sentra/",
+    "https://www.linkedin.com/company/sentrahealth/",
+    "https://www.linkedin.com/posts/sentrahealth_ltc100-postacutecare-healthtech-activity-7336390421121556480-Ollz",
+    "https://www.linkedin.com/in/aviv-zisso",
+    "https://www.linkedin.com/company/sentra-group-au"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Sentra",
+   "results": [
+    "https://www.facebook.com/marketplace/category/nissan-sentra/",
+    "https://www.facebook.com/marketplace/virginiabeach/nissan-sentra/",
+    "https://lite.facebook.com/",
+    "https://business.facebook.com/groups/360519000755280/",
+    "https://business.facebook.com/groups/949696545751668/",
+    "https://l.facebook.com/marketplace/108165025877631/cars/",
+    "https://l.facebook.com/marketplace/arlington/vehicles/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sentra note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sentra X 投稿",
+   "results": [
+    "https://x.com/SENTRA_ILLUST/status/2100710031914369135",
+    "https://x.com/SENTRA_ILLUST/status/2119296462656025047",
+    "https://www.youtube.com/@Sentra-X",
+    "https://www.tiktok.com/@sentra_x",
+    "https://space.bilibili.com/222685537/dynamic",
+    "https://space.bilibili.com/397881838/dynamic",
+    "https://tui.xun.me/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部41頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部41頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部41頁・検索12回）"
+ }
+}

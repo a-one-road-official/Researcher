@@ -1,0 +1,676 @@
+{
+ "name": "Runtrellis",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-11T09:04:54.149694+00:00",
+ "official_url": "https://runtrellis.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Trellis is embedding AI agents across the care journey, starting with specialty providers, to eliminate care gaps and manual administrative workflows.",
+    "url": "https://runtrellis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI engine connects to every node in the care journey, automating the work that slows medicine down. From extracting clinical data from messy referrals, to generating letters of medical necessity, submitting prior authorizations to payer portals, flagging denials before they happen, enrolling in PAP and clinical trials, and keeping patients informed at every step.",
+    "url": "https://runtrellis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trellis’s purpose-built AI agent empowers teams to improve and drive results across the most important business metrics",
+    "url": "https://runtrellis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A system of self-improving, healthcare-native agents",
+    "url": "https://runtrellis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trellis’ suite of AI agents enables end-to-end automation of healthcare processes, shifting the focus back from paperwork to patients",
+    "url": "https://runtrellis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "maps existing business and operational workflows into Trellis RL environments. It completes end-to-end process mapping for any business unit into an equivalent model for our agents to learn in, capturing and creating SOPs and KPIs along the way. This allows seamless integration without needing to change internal workflows.",
+    "url": "https://runtrellis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "turns proprietary data into reliable and executable workflows. It gains unique insights by learning your systems to provide rich iterative self-improvement data for our agents and process optimization recommendations for your workflows. All analytics captured are retained in house for process optimization and added revenue capture.",
+    "url": "https://runtrellis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "breaks down any workflow into a plan made up of steps and actions and then uses extensive library of tools to run and verify the workflow. Our agents can triage documents, run medical benefits and test claims, generate LMNs, use portal navigation to submit prior authorizations, make outbound phone calls, and much more.",
+    "url": "https://runtrellis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trellis AI compresses days of manual work into minutes, from the moment a referral arrives to when a patient starts treatment.",
+    "url": "https://runtrellis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "productivity gains for FTEs",
+    "url": "https://runtrellis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trellis AI 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/590553-37",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Systems (Healthcare)",
+    "url": "https://pitchbook.com/profiles/company/590553-37",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/590553-37",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/590553-37",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/590553-37",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/590553-37",
+    "pass": 3
+   },
+   {
+    "quote": "Trellis AI’s primary industry is Enterprise Systems (Healthcare).",
+    "url": "https://pitchbook.com/profiles/company/590553-37",
+    "pass": 3
+   },
+   {
+    "quote": "Is Trellis AI a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/590553-37",
+    "pass": 3
+   },
+   {
+    "quote": "Trellis AI is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/590553-37",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/590553-37",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/590553-37",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/590553-37",
+    "pass": 3
+   },
+   {
+    "quote": "TRELLIS.2 is a state-of-the-art image-to-3D generation model developed by Microsoft. It adopts a new representation called \"O-Voxel\" that can handle complex topologies (open surfaces, non-manifold shapes, etc.) that traditional 3D generation methods struggled with.",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Processing Speed (H100 GPU)",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "512³ resolution: approx. 3 seconds",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1024³ resolution: approx. 17 seconds",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1536³ resolution: approx. 60 seconds",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "is an ultra-fast build system developed by Google engineers for the Chromium project. It fully utilizes Colab's multi-core CPU to perform parallel builds, significantly shortening the build time for CUDA extension libraries.",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "option disables pip's build isolation, preventing build errors by directly utilizing the standard PyTorch/CUDA environment in Colab.",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "print(f\"🐍 Python: {'.'.join(map(str, __import__('sys').version_info[:3]))}\")",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "print(f\"🔥 PyTorch: {torch.__version__}\")",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "print(f\"⚡ CUDA: {torch.version.cuda}\")",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "vram_gb = torch.cuda.get_device_properties(0).total_memory / 1024**3",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "print(f\"🖥️ GPU: {gpu_name}\")",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "print(f\"💾 VRAM: {vram_gb:.1f} GB\")",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "print(f\"\\n⚠️ 警告: {vram_gb:.0f}GB GPUが割り当てられました\")",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "print(f\"💰 コスト節約のため、ランタイムを再起動します...\")",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "turns proprietary data into reliable and executable workflows. It gains unique insights by learning your systems to provide rich iterative self-improvement data for our agents and process optimization recommendations for your workflows. All analytics captured are retained in house for process optimization and added revenue capture.",
+    "url": "https://runtrellis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trellis AI compresses days of manual work into minutes, from the moment a referral arrives to when a patient starts treatment.",
+    "url": "https://runtrellis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trellis AI has 2 total employees.",
+    "url": "https://pitchbook.com/profiles/company/590553-37",
+    "pass": 3
+   },
+   {
+    "quote": "What is Trellis AI’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/590553-37",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Trellis AI is",
+    "url": "https://pitchbook.com/profiles/company/590553-37",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Runtrellis | ヘルスケアと文書ワークフローのためのAI搭載自動化 - T... — Aug 8, 2025 · 事前承認、患者受付、文書処理を自動化するAIエージェント、Runtrellisをご覧ください。 安全なHIPAA準拠のプラットフォームで、収益を増やし、管理負担を軽減し、ワークフローを加速させましょう。",
+    "url": "https://www.toolmage.com/ja/tool/runtrellis/",
+    "pass": 3
+   },
+   {
+    "quote": "Automate Intake and Prior Authorization at scale - runtrellis.com — Providers who are using Trellis observe the following results: Less time spent on referral and prior authorization processing time from weeks to minutes.",
+    "url": "https://runtrellis.com/solutions",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/590553-37",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Running TRELLIS.2 on Google Colab: Supercharging Environment ... TRELLIS.2, released by Microsoft, is a 4-billion parameter large-scale model capable of generating high-quality 3D assets from images. In this article, I will explain how to efficiently run TRELLIS.2 on Google Colab by utilizing acceleration techniques using wheel caching and ninja + Flash Atten",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Running TRELLIS.2 on Google Colab: Supercharging Environment Setup with Wheel Caching & Ninja Acceleration｜Maki@Sunwood.ai.labs",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Running TRELLIS.2 on Google Colab: Supercharging Environment Setup with Wheel Caching & Ninja Acceleration",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "TRELLIS.2, released by Microsoft, is a 4-billion parameter large-scale model capable of generating high-quality 3D assets from images. In this article, I will explain how to efficiently run TRELLIS.2 on Google Colab by utilizing acceleration techniques using",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ninja + Flash Attention",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft が出した image to 3Dの「TRELLIS 2」 をGoogle colabで動かせた4⃣",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "やっと高速化とか諸々できて＋カスタム画像でも3D化できたぞ！！！！",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://t.co/uPFawyvgfV",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "pic.twitter.com/2paxea13R3",
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Trellis AI - LinkedIn Website https://runtrellis.com/ Industry Hospitals and Health Care Company size 51-200 employees Headquarters San Francisco",
+    "url": "https://www.linkedin.com/company/runtrellis",
+    "pass": 3
+   },
+   {
+    "quote": "Mac Klinkachorn - CEO at Trellis | Building the largest ...Trellis - LinkedInTrellis | LinkedInInfoTrellis | LinkedInTrellis AI: Culture | LinkedInTrellis - LinkedIn Learn more at runtrellis.com. IPHO medalist. · Experience: Trellis · Education: Stanford University · Location: Stanford · 500+ connections on LinkedIn. Trellis | 6,194 followers on LinkedIn. Trellis is a full funnel profitability pla",
+    "url": "https://www.linkedin.com/in/macklink",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mr. Sperat is a Pottstown treasure. - Positives in ... - Facebook Oct 1, 2021 · Pottstown RevitalizationPottstown Area Food CollaborativePottstown Area FamiliesPottstown EventsPottstown Area - The Good ThingsYWCA Tri-County AreaPositives in PottstownPottstown Regional Public LibraryPottstown NAACPHobart's RunTrellis For TomorrowPottstown Regional Community FoundationGrateful Harvest Community Gard",
+    "url": "https://www.facebook.com/PositivesInPottstown/posts/mr-sperat-is-a-pottstown-treasure/4416581168385330/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "@runtrellis | X The latest posts from @runtrellis",
+    "url": "https://x.com/runtrellis",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://runtrellis.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.toolmage.com/ja/tool/runtrellis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retrus.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ridgelinez.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.replacements.com/china-japan-trellis/c/45150",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.wayfair.com/keyword.php?keyword=japanese+outdoor+trellis",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://www.garden.eco/japanese-trellis-ideas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.etsy.com/market/japanese_trellis",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/company/trellis-inc/case-study/maxi-cosi-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/trellis-inc/case-study/air-lift-company-boosts-engagement-with-trellis-incs-visual-configurator",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gotrellis.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gotrellis.com/resources/case-studies/how-4p-automation-grows-ad-sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gofractional.com/companies/trellis-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/590553-37",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/trellis-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/trellis-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/runtrellis",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/macklink",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PositivesInPottstown/posts/mr-sperat-is-a-pottstown-treasure/4416581168385330/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/runtrellis",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Runtrellis 日本 導入",
+   "results": [
+    "https://www.toolmage.com/ja/tool/runtrellis/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://runtrellis.com/",
+    "https://carview.yahoo.co.jp/news/detail/47e6455a7095c54bc0ec0f739549cf4f3c6fa475/",
+    "https://www.aimyflow.com/ja/ai/runtrellis-com",
+    "https://autoprove.net/imported-car/jeep/wrangler/258778/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runtrellis 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.retrus.co.jp/",
+    "https://www.ridgelinez.com/",
+    "https://www.jll.com/ja-jp/about-jll/japan-information",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.3ds.com/ja/about/company/office-locations/japan/tokyo-osaki"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runtrellis Japan",
+   "results": [
+    "https://www.replacements.com/china-japan-trellis/c/45150",
+    "https://www.wayfair.com/keyword.php?keyword=japanese+outdoor+trellis",
+    "https://www.garden.eco/japanese-trellis-ideas",
+    "https://www.etsy.com/market/japanese_trellis",
+    "https://runtrellis.com/",
+    "https://runtrellis.com/solution/prior-authorization",
+    "https://enterprise.prod.dashboard.runtrellis.com/auth/sign-in"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runtrellis manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/trellis-inc/case-study/maxi-cosi-customer-case-study",
+    "https://www.casestudies.com/company/trellis-inc/case-study/air-lift-company-boosts-engagement-with-trellis-incs-visual-configurator",
+    "https://gotrellis.com/resources/case-studies",
+    "https://gotrellis.com/resources/case-studies/how-4p-automation-grows-ad-sales",
+    "https://runtrellis.com/solutions",
+    "https://docs.runtrellis.com/docs/quick-start",
+    "https://runtrellis.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runtrellis white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://upcloud.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runtrellis founded funding employees revenue",
+   "results": [
+    "https://www.gofractional.com/companies/trellis-ai",
+    "https://pitchbook.com/profiles/company/590553-37",
+    "https://getlatka.com/companies/trellis-1",
+    "https://prospeo.io/c/trellis-revenue",
+    "https://www.extruct.ai/hub/runtrellis-com-funding/",
+    "https://www.extruct.ai/hub/runtrellis-com/",
+    "https://compworth.com/company/trellisconnectcom"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Runtrellis",
+   "results": [
+    "https://note.com/alive_fowl8093/n/nba1847a1eaa0?hl=en",
+    "https://note.com/kokonoe_kazari/n/nd10c723f277c?hl=en",
+    "https://note.com/alive_fowl8093/n/n9b2d862c9e06?hl=en",
+    "https://note.com/sunwood_ai_labs/n/n33bbe0877bed?hl=en",
+    "https://note.com/rurirrr/n/n86056f98a46f?hl=en",
+    "https://note.com/catap_art3d/n/nd9db5297e6b3",
+    "https://note.com/kmykpurin/n/n443568c5893b"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Runtrellis",
+   "results": [
+    "https://about.x.com/",
+    "https://x.com/",
+    "https://x.com/TrellisSol",
+    "https://x.com/LeinsterGoy/status/2119714974092173620",
+    "https://x.com/trellistoolscfd",
+    "https://x.com/hashtag/trellis",
+    "https://x.com/RyanAFournier/status/2117296789443240367"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Runtrellis",
+   "results": [
+    "https://www.linkedin.com/company/runtrellis",
+    "https://www.linkedin.com/in/macklink",
+    "https://ca.linkedin.com/company/gotrellis",
+    "https://in.linkedin.com/company/yourtrellis",
+    "https://in.linkedin.com/company/infotrellis",
+    "https://www.linkedin.com/company/trelliscompany",
+    "https://www.linkedin.com/company/runtrellis/life"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Runtrellis",
+   "results": [
+    "https://www.facebook.com/opentrellis.us/posts/946947677898093/",
+    "https://www.facebook.com/fb-answers/luffa-vine-growing-trellis/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/PositivesInPottstown/posts/mr-sperat-is-a-pottstown-treasure/4416581168385330/",
+    "https://business.facebook.com/",
+    "https://www.facebook.com/fb-answers/luffa-gourds-growing-on-trellis/",
+    "https://business.facebook.com/groups/437016784438141/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runtrellis note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/routinenew100",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/routinenew100/all",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://runtrellis.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runtrellis X 投稿",
+   "results": [
+    "https://x.com/runtrellis",
+    "https://www.instagram.com/runtrellis/",
+    "https://runtrellis.com/",
+    "https://x.com/ririlx",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://tweetan.net/x-reply-tree-guide/",
+    "https://enterprise.prod.dashboard.runtrellis.com/auth/sign-in"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

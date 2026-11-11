@@ -1,0 +1,1433 @@
+{
+ "name": "Roserocket",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T09:10:59.130818+00:00",
+ "official_url": "https://www.roserocket.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": ", configured so you set lane-level pricing, accessorial rules and carrier logic on your terms. No support tickets required.",
+    "url": "https://www.roserocket.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy a robust, proven transportation system out of the box that handles your unique freight execution from day one.",
+    "url": "https://www.roserocket.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy a robust, proven TMS out of the box that handles your freight execution from day one.",
+    "url": "https://www.roserocket.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build It Once, and the Process Runs Without Anyone Chasing It",
+    "url": "https://www.roserocket.com/",
+    "pass": 1
+   },
+   {
+    "quote": "$3B+ Processed in 2025",
+    "url": "https://www.roserocket.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Over $3 billion in freight processed in 2025.",
+    "url": "https://www.roserocket.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Say with a regular dispatcher we could do 15 loads in a day, with TED we could double that and do 30 in a day.\"",
+    "url": "https://www.roserocket.com/",
+    "pass": 1
+   },
+   {
+    "quote": "President, Samee Metal Trading",
+    "url": "https://www.roserocket.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Change isn't as scary or costly as you think — the return on investment was well worthwhile. After providing our customers with access to Rose Rocket, almost every customer has said \"thank you — this level of visibility is wonderful.\"",
+    "url": "https://www.roserocket.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Change isn't as scary or costly as you think — the return on investment was well worthwhile. After providing our customers with access to TMS.ai, almost every customer has said \"thank you — this level of visibility is wonderful.\"",
+    "url": "https://www.roserocket.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rose Rocket Pricing — TMS Plans for Brokers & Carriers",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "One transparent price. Complete platform infrastructure the enterprise runs on.",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "One transparent price. Complete platform infrastructure. The flexibility to configure your supply chain exactly how you need it.",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Never worry about onboarding again. Rocky will be your onboarding partner that sets up your business and keeps optimizing how you can use the system, 24/7.",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority support & custom SLAs",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Immediate proof of value. Start processing orders within minutes, not months. Full platform deployment complete within 90 days.",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "TED processes hundreds of emails per sync",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority feature requests",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Need Enterprise capabilities?",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your Freight Order has been placed successfully. Order #002 is now being processed.",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "ESTIMATE DRIVING TIME TORONTO TO NEW YORK (APPROX. 8–9 HRS INCLUDING CUSTOMS)…",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "ACCOUNT FOR NYC/NEW JERSEY CONGESTION AND TOLL ROADS IN ETA…",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "PROFITABILITY BREAKDOWN",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "\"Say with a regular dispatcher we could do 15 loads in a day, with TED we could double that and do 30 in a day.\"",
+    "url": "https://www.roserocket.com/solutions/workflows",
+    "pass": 1
+   },
+   {
+    "quote": "President, Samee Metal Trading",
+    "url": "https://www.roserocket.com/solutions/workflows",
+    "pass": 1
+   },
+   {
+    "quote": "\"Change isn't as scary or costly as you think — the return on investment was well worthwhile. After providing our customers with access to Rose Rocket, almost every customer has said \"thank you — this level of visibility is wonderful.\"",
+    "url": "https://www.roserocket.com/solutions/workflows",
+    "pass": 1
+   },
+   {
+    "quote": "\"Change isn't as scary or costly as you think — the return on investment was well worthwhile. After providing our customers with access to TMS.ai, almost every customer has said \"thank you — this level of visibility is wonderful.\"",
+    "url": "https://www.roserocket.com/solutions/workflows",
+    "pass": 1
+   },
+   {
+    "quote": "Over $3 billion in freight processed in 2025.",
+    "url": "https://www.roserocket.com/solutions/workflows",
+    "pass": 1
+   },
+   {
+    "quote": "Rocky is the generalist on your team. Ask it to build a workflow, dig up an answer, or take something off your plate, and it works across the entire platform in plain language, no training needed.",
+    "url": "https://www.roserocket.com/solutions/agents",
+    "pass": 1
+   },
+   {
+    "quote": "Rosie has full context on whatever record you are looking at. Ask about the load, compare backhaul options, or work through a problem, and get an answer grounded in the actual data, in seconds.",
+    "url": "https://www.roserocket.com/solutions/agents",
+    "pass": 1
+   },
+   {
+    "quote": "TED reads the email your customers are already sending and creates or updates the right records from it. No rekeying, no missed status change, and every action clearly attributed back to TED.",
+    "url": "https://www.roserocket.com/solutions/agents",
+    "pass": 1
+   },
+   {
+    "quote": "Immediate proof of value. Start processing orders within minutes, not months. Full platform deployment complete within 90 days.",
+    "url": "https://www.roserocket.com/solutions/agents",
+    "pass": 1
+   },
+   {
+    "quote": "\"Say with a regular dispatcher we could do 15 loads in a day, with TED we could double that and do 30 in a day.\"",
+    "url": "https://www.roserocket.com/solutions/agents",
+    "pass": 1
+   },
+   {
+    "quote": "President, Samee Metal Trading",
+    "url": "https://www.roserocket.com/solutions/agents",
+    "pass": 1
+   },
+   {
+    "quote": "\"Change isn't as scary or costly as you think — the return on investment was well worthwhile. After providing our customers with access to Rose Rocket, almost every customer has said \"thank you — this level of visibility is wonderful.\"",
+    "url": "https://www.roserocket.com/solutions/agents",
+    "pass": 1
+   },
+   {
+    "quote": "\"Change isn't as scary or costly as you think — the return on investment was well worthwhile. After providing our customers with access to TMS.ai, almost every customer has said \"thank you — this level of visibility is wonderful.\"",
+    "url": "https://www.roserocket.com/solutions/agents",
+    "pass": 1
+   },
+   {
+    "quote": "Over $3 billion in freight processed in 2025.",
+    "url": "https://www.roserocket.com/solutions/agents",
+    "pass": 1
+   },
+   {
+    "quote": "Sum quotes, count unique customers, or flag empty fields directly from any column header. Get the number you need out of the grid you are already looking at, without opening a single spreadsheet.",
+    "url": "https://www.roserocket.com/solutions/analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Store lane rates by mode and status so your pricing stays consistent every time you quote. Activate, deactivate, and update rates in one place instead of chasing the latest emailed spreadsheet.",
+    "url": "https://www.roserocket.com/solutions/analytics",
+    "pass": 1
+   },
+   {
+    "quote": "\"Say with a regular dispatcher we could do 15 loads in a day, with TED we could double that and do 30 in a day.\"",
+    "url": "https://www.roserocket.com/solutions/analytics",
+    "pass": 1
+   },
+   {
+    "quote": "President, Samee Metal Trading",
+    "url": "https://www.roserocket.com/solutions/analytics",
+    "pass": 1
+   },
+   {
+    "quote": "\"Change isn't as scary or costly as you think — the return on investment was well worthwhile. After providing our customers with access to Rose Rocket, almost every customer has said \"thank you — this level of visibility is wonderful.\"",
+    "url": "https://www.roserocket.com/solutions/analytics",
+    "pass": 1
+   },
+   {
+    "quote": "\"Change isn't as scary or costly as you think — the return on investment was well worthwhile. After providing our customers with access to TMS.ai, almost every customer has said \"thank you — this level of visibility is wonderful.\"",
+    "url": "https://www.roserocket.com/solutions/analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Over $3 billion in freight processed in 2025.",
+    "url": "https://www.roserocket.com/solutions/analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Roserocket is SOC 2 audited, so the controls protecting your data are independently tested rather than simply described in a sales deck. Enterprise-grade security your IT team can sign off on.",
+    "url": "https://www.roserocket.com/solutions/security",
+    "pass": 1
+   },
+   {
+    "quote": "Decide exactly what each role can view and create, all the way down to individual widgets. Give brokers, dispatchers, and accounting precisely the access they need, and nothing that they do not.",
+    "url": "https://www.roserocket.com/solutions/security",
+    "pass": 1
+   },
+   {
+    "quote": "Immediate proof of value. Start processing orders within minutes, not months. Full platform deployment complete within 90 days.",
+    "url": "https://www.roserocket.com/solutions/security",
+    "pass": 1
+   },
+   {
+    "quote": "\"Say with a regular dispatcher we could do 15 loads in a day, with TED we could double that and do 30 in a day.\"",
+    "url": "https://www.roserocket.com/solutions/security",
+    "pass": 1
+   },
+   {
+    "quote": "President, Samee Metal Trading",
+    "url": "https://www.roserocket.com/solutions/security",
+    "pass": 1
+   },
+   {
+    "quote": "\"Change isn't as scary or costly as you think — the return on investment was well worthwhile. After providing our customers with access to Rose Rocket, almost every customer has said \"thank you — this level of visibility is wonderful.\"",
+    "url": "https://www.roserocket.com/solutions/security",
+    "pass": 1
+   },
+   {
+    "quote": "\"Change isn't as scary or costly as you think — the return on investment was well worthwhile. After providing our customers with access to TMS.ai, almost every customer has said \"thank you — this level of visibility is wonderful.\"",
+    "url": "https://www.roserocket.com/solutions/security",
+    "pass": 1
+   },
+   {
+    "quote": "Over $3 billion in freight processed in 2025.",
+    "url": "https://www.roserocket.com/solutions/security",
+    "pass": 1
+   },
+   {
+    "quote": "Capture proof of pickup and proof of delivery signatures right on the driver's phone. The moment a signature saves it lands on the order, ready to attach to the invoice and bill the same day.",
+    "url": "https://www.roserocket.com/solutions/mobile",
+    "pass": 1
+   },
+   {
+    "quote": "\"Say with a regular dispatcher we could do 15 loads in a day, with TED we could double that and do 30 in a day.\"",
+    "url": "https://www.roserocket.com/solutions/mobile",
+    "pass": 1
+   },
+   {
+    "quote": "President, Samee Metal Trading",
+    "url": "https://www.roserocket.com/solutions/mobile",
+    "pass": 1
+   },
+   {
+    "quote": "\"Change isn't as scary or costly as you think — the return on investment was well worthwhile. After providing our customers with access to Rose Rocket, almost every customer has said \"thank you — this level of visibility is wonderful.\"",
+    "url": "https://www.roserocket.com/solutions/mobile",
+    "pass": 1
+   },
+   {
+    "quote": "\"Change isn't as scary or costly as you think — the return on investment was well worthwhile. After providing our customers with access to TMS.ai, almost every customer has said \"thank you — this level of visibility is wonderful.\"",
+    "url": "https://www.roserocket.com/solutions/mobile",
+    "pass": 1
+   },
+   {
+    "quote": "Over $3 billion in freight processed in 2025.",
+    "url": "https://www.roserocket.com/solutions/mobile",
+    "pass": 1
+   },
+   {
+    "quote": "At Rose Rocket, work feels different. We’re building a company where people show up because they want to, not because they have to. That means you’ll find a group of people who take their work seriously, but not themselves. We work hard, we laugh a lot, and we care about one another as much as we care about the product.",
+    "url": "https://www.roserocket.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Nothing here is small or simple. You’ll often be asked to figure things out without a perfect playbook, and that’s part of the fun. The problems are big, but so is the impact. Every improvement we make touches real people in trucking and logistics, an industry that keeps the world moving.",
+    "url": "https://www.roserocket.com/careers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "TMS software is designed to manage the past. We built our platform to scale the future - for operators who need flexibility, visibility, and control on their terms.",
+    "url": "https://www.roserocket.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 100K+ People",
+    "url": "https://www.roserocket.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by logistics leaders, Rose Rocket transform complex supply chains into seamless, automated networks that keep the world's commerce in motion.",
+    "url": "https://www.roserocket.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 100,000+ people in supply chain.",
+    "url": "https://www.roserocket.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by logistics leaders, Rose Rocket transform complex supply chains into seamless, automated networks that keep the world's commerce in motion.",
+    "url": "https://www.roserocket.com/solutions/workflows",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 100,000+ people in supply chain.",
+    "url": "https://www.roserocket.com/solutions/workflows",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by logistics leaders, Rose Rocket transform complex supply chains into seamless, automated networks that keep the world's commerce in motion.",
+    "url": "https://www.roserocket.com/solutions/agents",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 100,000+ people in supply chain.",
+    "url": "https://www.roserocket.com/solutions/agents",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by logistics leaders, Rose Rocket transform complex supply chains into seamless, automated networks that keep the world's commerce in motion.",
+    "url": "https://www.roserocket.com/solutions/analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 100,000+ people in supply chain.",
+    "url": "https://www.roserocket.com/solutions/analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by logistics leaders, Rose Rocket transform complex supply chains into seamless, automated networks that keep the world's commerce in motion.",
+    "url": "https://www.roserocket.com/solutions/security",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 100,000+ people in supply chain.",
+    "url": "https://www.roserocket.com/solutions/security",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by logistics leaders, Rose Rocket transform complex supply chains into seamless, automated networks that keep the world's commerce in motion.",
+    "url": "https://www.roserocket.com/solutions/mobile",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 100,000+ people in supply chain.",
+    "url": "https://www.roserocket.com/solutions/mobile",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": ", configured so you set lane-level pricing, accessorial rules and carrier logic on your terms. No support tickets required.",
+    "url": "https://www.roserocket.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rated 4.8 / 5 by real carriers and brokers on G2 and Capterra.",
+    "url": "https://www.roserocket.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rose Rocket Pricing — TMS Plans for Brokers & Carriers",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your Panel, Arranged Your Way",
+    "url": "https://www.roserocket.com/solutions/workflows",
+    "pass": 1
+   },
+   {
+    "quote": "Build formula fields like revenue per mile using your own logic, and let them recalculate the moment the underlying data changes. The metrics your team manages by, live on every single record.",
+    "url": "https://www.roserocket.com/solutions/analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Track order volume, lane performance, and carrier scorecards from dashboards that build themselves off your live data. Spot the trend early, while there is still time to do something about it.",
+    "url": "https://www.roserocket.com/solutions/analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Nothing here is small or simple. You’ll often be asked to figure things out without a perfect playbook, and that’s part of the fun. The problems are big, but so is the impact. Every improvement we make touches real people in trucking and logistics, an industry that keeps the world moving.",
+    "url": "https://www.roserocket.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Getting Started for Carriers",
+    "url": "https://help.roserocket.com/how-to-reach-out-to-us",
+    "pass": 3
+   },
+   {
+    "quote": "Carrier Specific Reports",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "This report provides a comprehensive analysis of order counts, revenue, and costs across various dimensions, including order status and customer.",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Your revenue and cost breakdown for each customer",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "This report offers a detailed breakdown of orders by customer, including timeframe comparisons. It focuses on delivered orders and provides insights into order counts, revenue, costs, margin, weight, skids, and mileage.",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Changes in revenue and costs compared to the previous month or year",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "This report lets you analyze month-over-month trends of delivered order metrics, including order counts, revenue, costs, margins, and weight.",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Track week-over-week variations in order metrics like order counts, revenue, costs, margins, and weight for informed decision-making.",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "This report offers insights into accessorials, including the top 10 by revenue, a comparison of quoted vs. invoiced orders with accessorials, and a breakdown by customer.",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Which accessorials generate the highest revenue for our business",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "This report provides a breakdown of order revenue by people on commission, allowing you to see top performers, pending amounts, billed amounts, total amounts, and a detailed breakdown of commissions.",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "The top-performing salespeople or CSRs based on revenue",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Assess bills owed to drivers or partner carriers, offering detailed bill information for both driver and carrier manifests.",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "What are the bill details for carrier manifests completed within the last month?",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "The on-time performance for specific legs, such as deliveries, origin arrivals, and pickups",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "The order count and revenue trended over time for each mode, especially FTL and LTL",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "The states that have the highest order counts, revenue, and weight for your shipments",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "This report offers a detailed breakdown of open bills by partner carrier, providing insights into the accounts payables owed to your partner carriers.",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "What is owed to specific partner carriers in outstanding bills",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Breakdown of overdue bills for a particular partner carrier",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "🚛 Carrier Specific Reports",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue per mile and cost per mile breakdowns by each driver",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Explore leg and manifest data, including mileage counts, revenues, costs, and margins, all grouped by Dispatcher, facilitating in-depth analysis of your operations.",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "This report reveals insights into the average and total wait times experienced by drivers between their arrival and pickup or delivery, categorized by customer.",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "This report provides insights into legs and manifests profitability, focusing on equipment-specific data, including total legs, revenue, cost, margin, manifest miles, and various other profitability metrics.",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "The summary of total revenue and cost per mile for specific equipment",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Marriott International",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/roserocket",
+    "pass": 3
+   },
+   {
+    "quote": "(revenue, employees, asset)",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/roserocket",
+    "pass": 3
+   },
+   {
+    "quote": "roserocket revenue by industry",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/roserocket",
+    "pass": 3
+   },
+   {
+    "quote": "roserocket revenue by geography",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/roserocket",
+    "pass": 3
+   },
+   {
+    "quote": "roserocket revenue by company size",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/roserocket",
+    "pass": 3
+   },
+   {
+    "quote": "roserocket revenue by revenue type",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/roserocket",
+    "pass": 3
+   },
+   {
+    "quote": "roserocket revenue by channel",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/roserocket",
+    "pass": 3
+   },
+   {
+    "quote": "roserocket revenue by product",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/roserocket",
+    "pass": 3
+   },
+   {
+    "quote": ", a India based Professional Services organization with 10 Employees",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/roserocket",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of transportation management software intended to manage the business requirements of less-than-truckload carriers.",
+    "url": "https://pitchbook.com/profiles/company/156194-65",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/156194-65",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of transportation management software intended to manage the business requirements of less-than-truckload carri",
+    "url": "https://pitchbook.com/profiles/company/156194-65",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/156194-65",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/156194-65",
+    "pass": 3
+   },
+   {
+    "quote": "Rose Rocket’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/156194-65",
+    "pass": 3
+   },
+   {
+    "quote": "To view Rose Rocket’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/156194-65",
+    "pass": 3
+   },
+   {
+    "quote": "Rose Rocket has 129 total employees.",
+    "url": "https://pitchbook.com/profiles/company/156194-65",
+    "pass": 3
+   },
+   {
+    "quote": "What is Rose Rocket’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/156194-65",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Rose Rocket is",
+    "url": "https://pitchbook.com/profiles/company/156194-65",
+    "pass": 3
+   },
+   {
+    "quote": "Rose Rocket Revenue 2024: $20.5M Est.",
+    "url": "https://getlatka.com/companies/rose-rocket",
+    "pass": 3
+   },
+   {
+    "quote": "Rose Rocket has not published its revenue. GetLatka estimates it at about $20.5M a year (October 2024).",
+    "url": "https://getlatka.com/companies/rose-rocket",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/rose-rocket",
+    "pass": 3
+   },
+   {
+    "quote": "Rose Rocket CEO, founders & employees",
+    "url": "https://getlatka.com/companies/rose-rocket",
+    "pass": 3
+   },
+   {
+    "quote": "Justin Bailie founded Rose Rocket in 2015 and runs it as CEO. Rose Rocket had 138 employees (December 2024, LinkedIn), down from 153 a year earlier.",
+    "url": "https://getlatka.com/companies/rose-rocket",
+    "pass": 3
+   },
+   {
+    "quote": "What is Rose Rocket's revenue?",
+    "url": "https://getlatka.com/companies/rose-rocket",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Rose Rocket's revenue at about",
+    "url": "https://getlatka.com/companies/rose-rocket",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Rose Rocket have?",
+    "url": "https://getlatka.com/companies/rose-rocket",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "\"The email-to-order automation is the most valuable feature we're testing right now. It means orders just flow into the system without me touching them.\"",
+    "url": "https://www.roserocket.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your email assistant that’s always working. TED turns emails into orders, keeps these orders updated with every email update, and syncs your documents directly into the TMS.",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Only want AI to extract attachments from emails, but not create orders? Or vice versa? Configure exactly what the AI does.",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "TED processes hundreds of emails per sync",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "EMAIL-2138",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "EMAIL-3154",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "EMAIL-3123",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "EMAIL-3231",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "EMAIL-5323",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "EMAIL-5342",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "EMAIL-7543",
+    "url": "https://www.roserocket.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "\"The email-to-order automation is the most valuable feature we're testing right now. It means orders just flow into the system without me touching them.\"",
+    "url": "https://www.roserocket.com/solutions/workflows",
+    "pass": 1
+   },
+   {
+    "quote": "TED reads the email your customers are already sending and creates or updates the right records from it. No rekeying, no missed status change, and every action clearly attributed back to TED.",
+    "url": "https://www.roserocket.com/solutions/agents",
+    "pass": 1
+   },
+   {
+    "quote": "Drop an AI agent into any workflow and give it the job in plain language. Have it read an email thread, judge why a quote was lost, and write the answer straight back onto the record itself.",
+    "url": "https://www.roserocket.com/solutions/agents",
+    "pass": 1
+   },
+   {
+    "quote": "\"The email-to-order automation is the most valuable feature we're testing right now. It means orders just flow into the system without me touching them.\"",
+    "url": "https://www.roserocket.com/solutions/agents",
+    "pass": 1
+   },
+   {
+    "quote": "Store lane rates by mode and status so your pricing stays consistent every time you quote. Activate, deactivate, and update rates in one place instead of chasing the latest emailed spreadsheet.",
+    "url": "https://www.roserocket.com/solutions/analytics",
+    "pass": 1
+   },
+   {
+    "quote": "\"The email-to-order automation is the most valuable feature we're testing right now. It means orders just flow into the system without me touching them.\"",
+    "url": "https://www.roserocket.com/solutions/analytics",
+    "pass": 1
+   },
+   {
+    "quote": "\"The email-to-order automation is the most valuable feature we're testing right now. It means orders just flow into the system without me touching them.\"",
+    "url": "https://www.roserocket.com/solutions/security",
+    "pass": 1
+   },
+   {
+    "quote": "\"The email-to-order automation is the most valuable feature we're testing right now. It means orders just flow into the system without me touching them.\"",
+    "url": "https://www.roserocket.com/solutions/mobile",
+    "pass": 1
+   },
+   {
+    "quote": "Please provide a valid email address",
+    "url": "https://ko-fi.com/roserocket/shop",
+    "pass": 3
+   },
+   {
+    "quote": "That email and password don't match. Forgot your password, or never set one?",
+    "url": "https://ko-fi.com/roserocket/shop",
+    "pass": 3
+   },
+   {
+    "quote": "We sent a verification code to: {{ emailSignup.email }}",
+    "url": "https://ko-fi.com/roserocket/shop",
+    "pass": 3
+   },
+   {
+    "quote": "Follow the link in your email, or enter the code below:",
+    "url": "https://ko-fi.com/roserocket/shop",
+    "pass": 3
+   },
+   {
+    "quote": "Didn’t get an email? Tap below to resend.",
+    "url": "https://ko-fi.com/roserocket/shop",
+    "pass": 3
+   },
+   {
+    "quote": "...or confirm your email later",
+    "url": "https://ko-fi.com/roserocket/shop",
+    "pass": 3
+   },
+   {
+    "quote": "If you need to contact us for any reason, here are a few ways to do so",
+    "url": "https://help.roserocket.com/how-to-reach-out-to-us",
+    "pass": 3
+   },
+   {
+    "quote": "To reach our main line, call us at 1 (888) 919-0092 or email us at hello@roserocket.com",
+    "url": "https://help.roserocket.com/how-to-reach-out-to-us",
+    "pass": 3
+   },
+   {
+    "quote": "Our Customer Support Team is available by email at support@roserocket.com",
+    "url": "https://help.roserocket.com/how-to-reach-out-to-us",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/156194-65",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Rose Rocket — Rose Rocket is the AI-native transportation platform built for freight brokers, carriers, and 3PLs. Automate dispatch, tendering, and invoicing on one modern platform.",
+    "url": "https://www.roserocket.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Rose Rocket is Not Just Another TMS System — Rose Rocket’s platform redefines what a TMS system can be by embedding AI that truly understands the logistics industry. Our AI is designed specifically for trucking and logistics, ready to work from day one without complex setup or training.",
+    "url": "https://marketing.roserocket.com/blog/tms-system-why-rose-rocket-is-not-just-another",
+    "pass": 3
+   },
+   {
+    "quote": "Transportation Management System Software | Rose Rocket — Rose Rocket's AI-native transportation management system (TMS) runs quoting, dispatch, tracking, and billing for brokers, carriers, and 3PLs in one platform.",
+    "url": "https://www.roserocket.com/tms",
+    "pass": 3
+   },
+   {
+    "quote": "RoseRocket on X: \"Can you guys do me a HUGE favor and come ... — Sep 26, 2026 · Post RoseRocket @RoseRocketYT 48m Streaming day two of the SUPATHON at 3:00 PM EST @ TopothetopYT is hosting a murder mystery event where we wear maid outfits that we will be attending👀",
+    "url": "https://x.com/RoseRocketYT/status/2103905742764089808",
+    "pass": 3
+   },
+   {
+    "quote": "Visit RoseRocket's Shop! - Ko-fi — My goal is to create 15 exclusive premium models at an affordable price on this Kofi page. Making Fandoms favorite characters takes a lot of time and patience. Plus with college, content creation and a hectic schedule, getting these up on my page can take some time.",
+    "url": "https://ko-fi.com/roserocket/shop",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Rose Rocket — To reach our main line, call us at 1 (888) 919-0092 or email us at hello@roserocket.com. Our Customer Support Team is available by email at support@roserocket.com.",
+    "url": "https://help.roserocket.com/how-to-reach-out-to-us",
+    "pass": 3
+   },
+   {
+    "quote": "Transportation Management System Software | Rose Rocket — Run your unique operations on a platform that already knows trucking - start with proven transportation logic then build the workflows you actually do. Work with AI at its core to automate the busywork, accurately. Your Operation Is One of a Kind. Your Transportation Platform Should Be Too.",
+    "url": "https://www.roserocket.com/tms",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories: TMS Results for Freight & Trucking — See how brokers, carriers, and 3PLs scale with Rose Rocket's AI-native TMS. Real customer stories on growth, automation, and operational efficiency.",
+    "url": "https://www.roserocket.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Rose Rocket B2B Case Studies & Customer Successes — Rose Rocket is a platform transportation management software (TMS) that help manage the unique needs of today’s transportation companies. With Rose Rocket’s Platform TMS, companies can improve communications with systems, customers, and the people who move freight.",
+    "url": "https://www.casestudies.com/company/rose-rocket",
+    "pass": 3
+   },
+   {
+    "quote": "Reports Overview - help.roserocket.com — This report offers a detailed breakdown of orders by customer, including timeframe comparisons. It focuses on delivered orders and provides insights into order counts, revenue, costs, margin, weight, skids, and mileage.",
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "pass": 3
+   },
+   {
+    "quote": "List of roserocket Customers - Apps Run The World — List of companies using or evaluating roserocket applications, with details on their revenues, employees, industries, and locations.",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/roserocket",
+    "pass": 3
+   },
+   {
+    "quote": "3 Rose Rocket Case Studies, Success Stories, & Customer ... — Rose Rocket has a 4.8/5 star rating. Learn what their customers think, get 3 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/rose-rocket/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rose Rocket 2026 Company Profile: Valuation, Funding ...RoseRocket - 2026 Company Profile, Team, Funding ... - TracxnRose Rocket Revenue 2024: $20.5M Est. - getlatka.comRoseRocket — Company Profile | The Company CheckRose Rocket: Funding, Investors & Team (Oct 2026) | FundedIQRose Rocket: Funding, Team & Investors | Startup IntrosRose Rocket - Crunchbase Company Profile & Funding — Information on ",
+    "url": "https://pitchbook.com/profiles/company/156194-65",
+    "pass": 3
+   },
+   {
+    "quote": "RoseRocket - 2026 Company Profile, Team, Funding ... - TracxnRose Rocket Revenue 2024: $20.5M Est. - getlatka.comRoseRocket — Company Profile | The Company CheckRose Rocket: Funding, Investors & Team (Oct 2026) | FundedIQRose Rocket: Funding, Team & Investors | Startup IntrosRose Rocket - Crunchbase Company Profile & Funding — Mar 22, 2026 · RoseRocket is a series B company based in Toronto (Canad",
+    "url": "https://tracxn.com/d/companies/roserocket/__otlOUIL1B0CJUTXgrj1AgVMdI2vZpaYiKdzx89a-eAs",
+    "pass": 3
+   },
+   {
+    "quote": "Rose Rocket Revenue 2024: $20.5M Est. - getlatka.com — Oct 30, 2026 · How many employees does Rose Rocket have? Rose Rocket had 138 employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/rose-rocket",
+    "pass": 3
+   },
+   {
+    "quote": "RoseRocket — Company Profile | The Company Check — RoseRocket is a company based in Toronto (Canada) founded in 2015 by Alexander Luksidadi and Justin Hein.. RoseRocket has raised $63.12 million across 4 funding rounds from investors including Scale Venture Partners, Addition Capital and Shine Capital.",
+    "url": "https://www.thecompanycheck.com/company/b/roserocket/uboy7k5qrw2iatib9",
+    "pass": 3
+   },
+   {
+    "quote": "Rose Rocket: Funding, Investors & Team (Oct 2026) | FundedIQ — Rose Rocket is a Consumer Electronics company in Toronto, Canada. Raised $38.0M across 1 round; latest a Series B in Jun 2023. Investors and funding history.",
+    "url": "https://fundediq.co/rose-rocket-roserocket-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "RoseRocket (@RoseRocketYT) / X For those that don't know, a youtuber award ceremony involving creators such as Jamsteo, Roserocket, Vastelle, Jfrostie, For The Record Squad, Fils, Thatmob, Whispy, Bischipp, OneLastTime, Sebci, Kingofcups, Puffgaming81,",
+    "url": "https://x.com/RoseRocketYT",
+    "pass": 3
+   },
+   {
+    "quote": "RoseRocket on X: \"Can you guys do me a HUGE favor and come ... Post RoseRocket @RoseRocketYT 48m Streaming day two of the SUPATHON at 3:00 PM EST @ TopothetopYT is hosting a murder mystery event where we wear maid outfits that we will be attending👀",
+    "url": "https://x.com/RoseRocketYT/status/2103905742764089808",
+    "pass": 3
+   },
+   {
+    "quote": "RoseRocket on X: \"Hey I'm still waiting on @teamyoutube to ... Post RoseRocket @RoseRocketYT Hey I'm still waiting on @TeamYouTube to contact me 6:14 PM · Sep 20, 2026 ·",
+    "url": "https://x.com/RoseRocketYT/status/2101736721859707266",
+    "pass": 3
+   },
+   {
+    "quote": "RoseRocket on X: \"I haven’t watched this yet but IM SO GLAD ... Post RoseRocket @RoseRocketYT I haven’t watched this yet but IM SO GLAD someone is talking about this 😭 10:00 PM · Nov 2, 2026 ·",
+    "url": "https://x.com/RoseRocketYT/status/2117376315565461926",
+    "pass": 3
+   },
+   {
+    "quote": "RoseRocket on X: \"Sweet im in a bilibili ad they got the ... Oct 1, 2026 · Post RoseRocket @RoseRocketYT Sweet im in a bilibili ad they got the wrong skin tho and also i think its ai lol 6:21 PM · Oct 1, 2026 ·",
+    "url": "https://x.com/RoseRocketYT/status/2105724833107525896",
+    "pass": 3
+   },
+   {
+    "quote": "RoseRocket on X: \"Just unboxed the Bilibili plaque (don’t ... Sep 21, 2026 · Post RoseRocket @RoseRocketYT Just unboxed the Bilibili plaque 🔥 (don’t mind my audio filmed this on iphone lmfaoo) 00:00",
+    "url": "https://x.com/RoseRocketYT/status/2102158971184284028",
+    "pass": 3
+   },
+   {
+    "quote": "RoseRocket on X: \"Were streaming now! =) Come join our ... Aug 16, 2026 · Post RoseRocket @RoseRocketYT Were streaming now! =) Come join our streams where we do some Halo Infection Mod. youtube.com/watch?v=oIMRGJ… youtube.com/live/a9V9ROxPu… youtube.com",
+    "url": "https://x.com/RoseRocketYT/status/2089090159832604790",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Christopher M. - Director of Engineering at RoseRocket | LinkedInJunior Software Engineer at Rose Rocket — Toronto, Ontario ...Introducing TMS.ai, A Rose Rocket Company - LinkedIn#roserocket #transportationai #logisticsautomation - LinkedIn#roserocket #transportationsoftware #roserocketacademy # ... Director of Engineering at RoseRocket · Experience: Rose Rocket · Education: Ulster University · Lo",
+    "url": "https://ca.linkedin.com/in/christopher-mc-tague",
+    "pass": 3
+   },
+   {
+    "quote": "Rose Rocket - LinkedIn With deep roots in trucking, we’re building the infrastructure that powers the next generation of Supply Chain technology. Rose Rocket is proudly headquartered in Toronto, Canada.",
+    "url": "https://www.linkedin.com/company/rose-rocket",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing TMS.ai, A Rose Rocket Company - LinkedIn While our roots remain as Rose Rocket, our focus, and our future, is TMS.ai. Follow TMS.ai to see how we’re making every human, superhuman.",
+    "url": "https://www.linkedin.com/posts/rose-rocket_introducing-tmsai-a-rose-rocket-company-activity-7386413486958055424-v7mx",
+    "pass": 3
+   },
+   {
+    "quote": "#roserocket #transportationai #logisticsautomation - LinkedIn With Rose Rocket's DataBot, you can now import orders effortlessly in seconds. 🌟 🖥️ Advanced OCR Technology: Our importer scans texts and converts them into orders instantly. 🔍 Detailed ...",
+    "url": "https://www.linkedin.com/posts/rose-rocket_feature-spotlight-fully-automated-ai-activity-7206301779494330369-FIIo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Rose Rocket | Toronto ON - FacebookRoseRocket - FacebookRoseRocket - FacebookDispatchers, accountants, ops managers: everyone wins with ...Dispatchers, accountants, ops managers: everyone wins with ...Rose Rocket - Your trucking and logistics company will ...Rose Rocket - The Future of Freight is Here ... - Facebook Sep 28, 2026 · In this video, Bret Dawson, one of our Engineering Managers at Rose",
+    "url": "https://www.facebook.com/RoseRocket/",
+    "pass": 3
+   },
+   {
+    "quote": "RoseRocket - Facebook RoseRocket Sep 29, 2025· Minecraft’s Goofiest YouTuber Escape Room • • • • #minecraft #minecrafthorror #minecraftmods #mcyt #horrorminecraft #minecraftmods #minecraftmap #funny #fyp #escaperoom #datapacks #minecrafters #minecraftbuilds #minecraftbuild #fypシ ️💞 ️ #youtuber #youtube Minecraft’s Goofiest YouTuber ...",
+    "url": "https://www.facebook.com/OfficialRoseRocket/",
+    "pass": 3
+   },
+   {
+    "quote": "RoseRocket - Facebook RoseRocket. 7 followers. Just trying to make people laugh",
+    "url": "https://www.facebook.com/OfficialRoseRocket/reels/",
+    "pass": 3
+   },
+   {
+    "quote": "Rose Rocket - Your trucking and logistics company will ... Jun 6, 2023 · Recent Posts Rose Rocket Feb 10 📣 The Future of Freight is Here: Meet TMS.ai The logistics industry is changing—AI isn’t just a buzzword; it’s a game-changer. Today. , we’re making history. Introducing TMS.ai – the first AI-native TMS. Built with 9 years of industry to experience, think, act, and",
+    "url": "https://www.facebook.com/RoseRocket/posts/your-trucking-and-logistics-company-will-thank-you/713907947409106/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.roserocket.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roserocket.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roserocket.com/solutions/workflows",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roserocket.com/solutions/agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roserocket.com/solutions/analytics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roserocket.com/solutions/security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roserocket.com/solutions/mobile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.roserocket.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://marketing.roserocket.com/blog/tms-system-why-rose-rocket-is-not-just-another",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robotstart.info/article/2026/07/07/382117.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://rocketsoap.bsj.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rooster-japan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/RoseRocketYT/status/2103905742764089808",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ko-fi.com/roserocket/shop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.roserocket.com/how-to-reach-out-to-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/rose-rocket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.roserocket.com/reports-details-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/roserocket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://reseller.amazon.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/156194-65",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/roserocket/__otlOUIL1B0CJUTXgrj1AgVMdI2vZpaYiKdzx89a-eAs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/rose-rocket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/roserocket/uboy7k5qrw2iatib9",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/RoseRocketYT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RoseRocketYT/status/2103905742764089808",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RoseRocketYT/status/2101736721859707266",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RoseRocketYT/status/2117376315565461926",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/christopher-mc-tague",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rose-rocket",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/rose-rocket_introducing-tmsai-a-rose-rocket-company-activity-7386413486958055424-v7mx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/rose-rocket_feature-spotlight-fully-automated-ai-activity-7206301779494330369-FIIo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RoseRocket/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OfficialRoseRocket/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OfficialRoseRocket/reels/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RoseRocket/posts/your-trucking-and-logistics-company-will-thank-you/713907947409106/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RoseRocketYT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RoseRocketYT/status/2105724833107525896",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RoseRocketYT/status/2102158971184284028",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RoseRocketYT/status/2089090159832604790",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Roserocket 日本 導入",
+   "results": [
+    "https://www.roserocket.com/",
+    "https://marketing.roserocket.com/blog/tms-system-why-rose-rocket-is-not-just-another",
+    "https://www.roserocket.com/tms",
+    "https://robotstart.info/article/2026/07/07/382117.html",
+    "https://36kr.jp/502580/",
+    "https://moge.ai/ja/product/rose-rocket",
+    "https://huntscreens.com/ja/products/rose-rocket"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roserocket 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://rocketsoap.bsj.jp/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://rooster-japan.com/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.roserocket.com/",
+    "https://maymobility.com/ja"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roserocket Japan",
+   "results": [
+    "https://x.com/RoseRocketYT/status/2103905742764089808",
+    "https://ko-fi.com/roserocket/shop",
+    "https://help.roserocket.com/how-to-reach-out-to-us",
+    "https://www.roserocket.com/",
+    "https://www.roserocket.com/tms",
+    "https://roserocket.readme.io/docs/getting-started",
+    "https://help.roserocket.com/platform/introduction-to-platform"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roserocket manufacturing customer case study",
+   "results": [
+    "https://www.roserocket.com/customer-stories",
+    "https://www.casestudies.com/company/rose-rocket",
+    "https://help.roserocket.com/reports-details-overview",
+    "https://www.appsruntheworld.com/customers-database/vendors/view/roserocket",
+    "https://www.featuredcustomers.com/vendor/rose-rocket/case-studies",
+    "https://help.roserocket.com/platform/all-user-reports",
+    "https://www.roserocket.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roserocket white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://reseller.amazon.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://retailers.bossrevolution.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roserocket founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/156194-65",
+    "https://tracxn.com/d/companies/roserocket/__otlOUIL1B0CJUTXgrj1AgVMdI2vZpaYiKdzx89a-eAs",
+    "https://getlatka.com/companies/rose-rocket",
+    "https://www.thecompanycheck.com/company/b/roserocket/uboy7k5qrw2iatib9",
+    "https://fundediq.co/rose-rocket-roserocket-com-funding/",
+    "https://startupintros.com/orgs/rose-rocket",
+    "https://www.crunchbase.com/organization/rose-rocket"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Roserocket",
+   "results": [
+    "https://note.com/negi_advpcg/n/n71bbfc227364",
+    "https://note.com/kc_tmn/n/n593da9da51c9",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/techlawyer/n/nadead1927cca",
+    "https://note.com/anaumasenka/n/na7fd12deaaa7?hl=en",
+    "https://note.com/kamen_a/n/n332801df94e1?hl=en",
+    "https://note.com/kzstock/n/n8464ba129797"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Roserocket",
+   "results": [
+    "https://x.com/RoseRocketYT",
+    "https://x.com/RoseRocketYT/status/2103905742764089808",
+    "https://x.com/RoseRocketYT/status/2101736721859707266",
+    "https://x.com/RoseRocketYT/status/2117376315565461926",
+    "https://x.com/RoseRocketYT/status/1974520376777724269",
+    "https://x.com/RoseRocketYT/status/2097816002041901539",
+    "https://x.com/RoseRocketYT/status/2091568912324350175"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Roserocket",
+   "results": [
+    "https://ca.linkedin.com/in/christopher-mc-tague",
+    "https://www.linkedin.com/company/rose-rocket",
+    "https://www.linkedin.com/posts/rose-rocket_introducing-tmsai-a-rose-rocket-company-activity-7386413486958055424-v7mx",
+    "https://www.linkedin.com/posts/rose-rocket_feature-spotlight-fully-automated-ai-activity-7206301779494330369-FIIo",
+    "https://www.linkedin.com/posts/rose-rocket_roserocket-transportationsoftware-roserocketacademy-activity-7219041319854166016-8_jz",
+    "https://www.linkedin.com/posts/evansmccann_justin-sky-is-the-ceo-and-co-founder-of-rose-activity-7389287140888780800-0TWF",
+    "https://ca.linkedin.com/jobs/view/junior-software-engineer-at-rose-rocket-4488058684"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Roserocket",
+   "results": [
+    "https://www.facebook.com/RoseRocket/",
+    "https://www.facebook.com/OfficialRoseRocket/",
+    "https://www.facebook.com/OfficialRoseRocket/reels/",
+    "https://www.facebook.com/RoseRocket/posts/your-trucking-and-logistics-company-will-thank-you/713907947409106/",
+    "https://www.facebook.com/RoseRocket/posts/-the-future-of-freight-is-here-meet-tmsai-the-logistics-industry-is-changingai-i/1183198927146670/",
+    "https://www.facebook.com/RoseRocket/videos/a-tms-built-for-trucking-teams/1602455918220183/",
+    "https://www.facebook.com/RoseRocket/videos/ai-built-for-trucking-teams/4161330274011791/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roserocket note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.zaikai.jp/articles/detail/2552",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.buffett-code.com/company/5243/governance",
+    "https://ir.note.jp/message"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roserocket X 投稿",
+   "results": [
+    "https://x.com/RoseRocketYT",
+    "https://x.com/RoseRocketYT/status/2105724833107525896",
+    "https://x.com/RoseRocketYT/status/2102158971184284028",
+    "https://x.com/RoseRocketYT/status/2089090159832604790",
+    "https://x.com/RoseRocketYT/status/2079772799409741877",
+    "https://x.com/RoseRocketYT/status/2091568912324350175",
+    "https://x.com/RoseRocketYT/status/2117884250502377919"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部36頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部36頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部36頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

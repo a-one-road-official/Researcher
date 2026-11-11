@@ -1,0 +1,1474 @@
+{
+ "name": "Rootly",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Software / IT Infrastructure Reliability｜未接触",
+ "researched_at": "2026-11-11T09:09:29.836929+00:00",
+ "official_url": "https://rootly.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "08-Jul-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/469740-34",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "On-call and incident response that’s crafted to bring AI and modern teams together to prevent and resolve incidents faster.",
+    "url": "https://rootly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1/2 the price",
+    "url": "https://rootly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quickly identified probable root causes with confidence scores you can trust.",
+    "url": "https://rootly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time scribe, summaries, and proactive suggestions—all built in. Just ask @Rootly.",
+    "url": "https://rootly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate incident workflows in seconds—best practice templates or tailored to your needs.",
+    "url": "https://rootly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate your post-incident process and save yourself hours.",
+    "url": "https://rootly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time collaboration and AI to help you close the loop faster, continuously improve, and prevent repeat incidents.",
+    "url": "https://rootly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Define a consistent and accountable post-incident process.",
+    "url": "https://rootly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rootly has made way for a shift in our culture. We’re now actively making room for prevention—that’s the real benefit.",
+    "url": "https://rootly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Colin FitzGerald, Problem & Incident Manager",
+    "url": "https://rootly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Responders are guided by proven best practices—simple, intuitive, and carefully crafted.",
+    "url": "https://rootly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed to prevent and resolve incidents faster. We only ship what serves that mission.",
+    "url": "https://rootly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect all your existing tools—Slack, Jira, Zoom—and extend further with our Terraform provider, API, or MCP server.",
+    "url": "https://rootly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Great Incident Principles",
+    "url": "https://rootly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Analytics we use to improve this site stay on. Read Rootly's",
+    "url": "https://rootly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join our Partner Program.",
+    "url": "https://rootly.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partners get direct access to joint pipeline, co-selling support, and intros to customers who are already bought in on the problem.",
+    "url": "https://rootly.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Consulting or extending your product into the incident lifecycle—Rootly gives you the depth and integrations to deliver more, faster.",
+    "url": "https://rootly.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated partner support, co-marketing resources, product training, and a clear path from first introduction to closed deal.",
+    "url": "https://rootly.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver on-call management and incident response as a managed service, powered by Rootly. MSPs get a best-in-class platform to run 24/7 SRE operations for their clients — with the automation and AI to make it scalable and profitable.",
+    "url": "https://rootly.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Help enterprise customers implement and optimize Rootly as part of a broader DevOps or SRE transformation. SIs benefit from a fast-growing platform, strong customer demand, and a dedicated partnership team to support every engagement.",
+    "url": "https://rootly.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate your product with Rootly to create seamless workflows for engineering teams. Whether you're in monitoring, observability, ticketing, or CI/CD, Rootly's open API and 100+ integrations make it easy to build something powerful together.",
+    "url": "https://rootly.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Expand Rootly's reach by bringing our platform to resellers and VARs across your network. Distributors play a critical role in scaling our channel presence regionally and globally, with dedicated support and margin opportunities built in.",
+    "url": "https://rootly.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're embedding your product into the incident lifecycle or bringing Rootly to your customers, the opportunity to create real impact is here.",
+    "url": "https://rootly.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The companies building the future of engineering reliability aren't waiting. They're integrating, co-selling, and going to market together—because the problems worth solving are bigger than any one platform.",
+    "url": "https://rootly.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Great Incident Principles",
+    "url": "https://rootly.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Analytics we use to improve this site stay on. Read Rootly's",
+    "url": "https://rootly.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "using a proactive automated approach",
+    "url": "https://rootly.com/customers/canary-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "Rootly is the platform we built our incident management practice on, and it scaled right alongside us with ease.",
+    "url": "https://rootly.com/customers/canary-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "No process, in the middle of hypergrowth.",
+    "url": "https://rootly.com/customers/canary-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "Building the practice, with Rootly as the foundation.",
+    "url": "https://rootly.com/customers/canary-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "“When I joined we had no incident management process at all, just some light Notion docs. We’ve quadrupled engineering since then. Rootly is the platform we built the whole practice on, and it scaled right alongside us with ease.”",
+    "url": "https://rootly.com/customers/canary-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "“Rootly is the platform we built all our incident processes on because it was easy, it had everything we needed, and we knew we could continue to grow into it for years to come.”",
+    "url": "https://rootly.com/customers/canary-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "Canary today is a very different company than the one Z joined; quadrupled engineering and a much wider service footprint. The incident practice they built on Rootly scaled through all of it without being rebuilt or replaced. That is the quiet proof point. The platform you choose in hypergrowth is either one you will outgrow, or one built for the company you are becoming.",
+    "url": "https://rootly.com/customers/canary-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "“We went from no process to one that actually closes the loop, so the same issue stops coming back months later. Rootly is the platform we built our incident management on because we knew it would grow with us instead of needing to be replaced.”",
+    "url": "https://rootly.com/customers/canary-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "Proof points (Canary lightning round, 1-5)",
+    "url": "https://rootly.com/customers/canary-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "Time to first status update improved: 5",
+    "url": "https://rootly.com/customers/canary-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "Resolution time is something we actually sell, with contractual SLAs and service credits behind it. Rootly is what makes those resolution times repeatable, so we protect the SLAs our customers are paying for.",
+    "url": "https://rootly.com/customers/canary-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manager of Product Support",
+    "url": "https://rootly.com/customers/canary-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "Great Incident Principles",
+    "url": "https://rootly.com/customers/canary-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "Analytics we use to improve this site stay on. Read Rootly's",
+    "url": "https://rootly.com/customers/canary-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "infrastructure and security prioritization through incident trend visibility",
+    "url": "https://rootly.com/customers/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Replit is a collaborative programming environment that allows users to create online projects (called Repls) and write code.",
+    "url": "https://rootly.com/customers/replit",
+    "pass": 1
+   },
+   {
+    "quote": "In Replit’s early days, incident management happened in a single Slack channel. That worked until multiple issues were unfolding at once. Conversations overlapped, context got mixed together, and it became harder to tell which update belonged to which incident. Threads helped somewhat, but they did not scale well and made coordination harder to follow in real time.",
+    "url": "https://rootly.com/customers/replit",
+    "pass": 1
+   },
+   {
+    "quote": "“Once more than one incident was active, the old setup started working against us. We needed a system that kept people in Slack but made the process structured and dependable.”",
+    "url": "https://rootly.com/customers/replit",
+    "pass": 1
+   },
+   {
+    "quote": "This is the strategic leap in the Replit story: Rootly did not just improve incident coordination. It turned incident data into a decision-making asset for engineering leadership.",
+    "url": "https://rootly.com/customers/replit",
+    "pass": 1
+   },
+   {
+    "quote": "“Rootly doesn’t just help us run incidents better. It helps us understand where the system is under pressure so we can make better investment decisions afterward.”",
+    "url": "https://rootly.com/customers/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Replit also cared deeply about the human side of incident response. The team did not want responders slowed down by repetitive admin, tool switching, or process overhead.",
+    "url": "https://rootly.com/customers/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Replit’s view is practical: when a step belongs in every incident, it should be codified once in the workflow instead of retrained manually every time. That reduces toil, improves consistency, and helps new team members ramp faster because they learn inside a system that already reflects the company’s incident response process.",
+    "url": "https://rootly.com/customers/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Replit notes that one advantage of adopting Rootly early was that newer team members have effectively “grown up” with it. That matters because incident maturity compounds. Instead of teaching a loose set of best practices, Replit can onboard engineers into a system that already encodes how incidents should run.",
+    "url": "https://rootly.com/customers/replit",
+    "pass": 1
+   },
+   {
+    "quote": "The result is a more scalable response model: one that improves responder experience in the moment, gives leaders better visibility afterward, and creates a stronger operational foundation as the company grows.",
+    "url": "https://rootly.com/customers/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Great Incident Principles",
+    "url": "https://rootly.com/customers/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Analytics we use to improve this site stay on. Read Rootly's",
+    "url": "https://rootly.com/customers/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Editor’s note: Atlassian is retiring Opsgenie, with end-of-life scheduled for April 2027—factor a migration path into any evaluation.",
+    "url": "https://rootly.com/customers/caribou",
+    "pass": 1
+   },
+   {
+    "quote": "Manual admin work, the number-one problem.",
+    "url": "https://rootly.com/customers/caribou",
+    "pass": 1
+   },
+   {
+    "quote": "The trigger wasn’t a single outage. It was constant growth meeting brittle glue. The Zapier automation kept breaking under duress, which is precisely when it was needed. Caribou needed to get rid of the manual work and the duct tape, which required three things in particular: speed, governance, and real data, especially a true, captured mean time to resolution.",
+    "url": "https://rootly.com/customers/caribou",
+    "pass": 1
+   },
+   {
+    "quote": "The workflow today is unrecognizable from the spreadsheet era. An alert comes in, or a human flags a problem, and Rootly already has the artifacts in place. The incident management team hops on, assigns roles, and the right teams are already present because of how alert sources route into the incident. Devree’s description of it is simply “calm and organized”.",
+    "url": "https://rootly.com/customers/caribou",
+    "pass": 1
+   },
+   {
+    "quote": "Proof points (Caribou lightning round, 1-5)",
+    "url": "https://rootly.com/customers/caribou",
+    "pass": 1
+   },
+   {
+    "quote": "Time to first status update improved: 5",
+    "url": "https://rootly.com/customers/caribou",
+    "pass": 1
+   },
+   {
+    "quote": "Retrospective completion rate improved: 5",
+    "url": "https://rootly.com/customers/caribou",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Built to grow with you—simple at any size. Loved by fast-growing startups and the Fortune 500.",
+    "url": "https://rootly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partners are at the center of how Rootly goes to market. We're building a channel ecosystem that grows with you — driving pipeline, investing in enablement, and creating real revenue opportunities for the firms that help engineering teams run more reliably.",
+    "url": "https://rootly.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Help enterprise customers implement and optimize Rootly as part of a broader DevOps or SRE transformation. SIs benefit from a fast-growing platform, strong customer demand, and a dedicated partnership team to support every engagement.",
+    "url": "https://rootly.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": ". From discovery to post-stay, its solutions streamline operations, boost revenue, and transform the guest experience. Trusted by 20,000+ hotels in 125+ countries, Canary has been recognized by Fast Company, Deloitte, Business Insider and more as an innovation leader.",
+    "url": "https://rootly.com/customers/canary-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "~400 employees",
+    "url": "https://rootly.com/customers/canary-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "~400 employees",
+    "url": "https://rootly.com/customers/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Former CTO and Co-Founder of Blameless (acquired by FireHydrant)",
+    "url": "https://rootly.com/customers/replit",
+    "pass": 1
+   },
+   {
+    "quote": "~400 employees",
+    "url": "https://rootly.com/customers/caribou",
+    "pass": 1
+   },
+   {
+    "quote": "Capa is a regulated fintech expanding into new countries, each with its own rules. The needs on the horizon were not smaller and simpler; they were bigger; more auditability, more granular access control, more compliance. A platform that already price-walled basic customization was not going to be the one that carried them into that.",
+    "url": "https://rootly.com/customers/capa",
+    "pass": 1
+   },
+   {
+    "quote": "~30 employees",
+    "url": "https://rootly.com/customers/reactiv",
+    "pass": 1
+   },
+   {
+    "quote": "~350 employees",
+    "url": "https://rootly.com/customers/spotdraft",
+    "pass": 1
+   },
+   {
+    "quote": "~350 employees",
+    "url": "https://rootly.com/customers/cora",
+    "pass": 1
+   },
+   {
+    "quote": "Rootly is a big part of how we’ve reached our 99.99% of reliability.",
+    "url": "https://rootly.com/customers/cora",
+    "pass": 1
+   },
+   {
+    "quote": "~50 employees",
+    "url": "https://rootly.com/customers/poll-everywhere",
+    "pass": 1
+   },
+   {
+    "quote": "Rootly is a big part of how we’ve reached our 99.99% of reliability.",
+    "url": "https://rootly.com/customers/poll-everywhere",
+    "pass": 1
+   },
+   {
+    "quote": "Former CTO and Co-Founder of Blameless (acquired by FireHydrant)",
+    "url": "https://rootly.com/customers/momentum",
+    "pass": 1
+   },
+   {
+    "quote": "~200 employees",
+    "url": "https://rootly.com/customers/momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Momentum says Rootly AI helps on both sides. Developers can ask operational questions, like how to restart a pod, while SREs can ask application questions, like how to spin up a development environment. In practical terms, that makes on-call more distributed and more resilient because fewer incidents depend on a narrow set of specialists being awake and available at the same time.",
+    "url": "https://rootly.com/customers/momentum",
+    "pass": 1
+   },
+   {
+    "quote": "~2500 employees",
+    "url": "https://rootly.com/customers/knowbe4",
+    "pass": 1
+   },
+   {
+    "quote": "Before Rootly, loud voices often became de facto owners. With Rootly, ownership became explicit and repeatable. Running incidents with clear roles in a public incident channel made accountability part of the workflow, not something teams had to negotiate mid-incident.",
+    "url": "https://rootly.com/customers/knowbe4",
+    "pass": 1
+   },
+   {
+    "quote": "Achievers is a leading employee experience platform that helps organizations across 190 countries. Reliability is foundational to the product: outages or degraded performance directly impact engagement and trust for 4.3M+ employees using the platform worldwide.",
+    "url": "https://rootly.com/customers/achievers",
+    "pass": 1
+   },
+   {
+    "quote": ": ~1200 employees",
+    "url": "https://rootly.com/customers/achievers",
+    "pass": 1
+   },
+   {
+    "quote": "“If you have a way to scope out all your incidents and track them over time and display that to your business, you’re really getting your point across that reliability is an important part of the product.”",
+    "url": "https://rootly.com/customers/achievers",
+    "pass": 1
+   },
+   {
+    "quote": "Rootly is a big part of how we’ve reached our 99.99% of reliability.",
+    "url": "https://rootly.com/customers/motive",
+    "pass": 1
+   },
+   {
+    "quote": "That matters because reliability at Motive is not theoretical. It is directly connected to the company’s ability to deliver at scale for a large customer base and a massive fleet footprint. Rootly’s workflows became part of how Motive sustains that standard in practice, not just how it reacts when something goes wrong.",
+    "url": "https://rootly.com/customers/motive",
+    "pass": 1
+   },
+   {
+    "quote": "For Paul, the product is only part of the story. He also highlights Rootly’s pace of improvement and feature velocity, saying it goes above and beyond what he has used across years of running SaaS and dealing with incidents. That makes Rootly more than a point solution in this story. It positions Rootly as a partner in Motive’s broader reliability strategy.",
+    "url": "https://rootly.com/customers/motive",
+    "pass": 1
+   },
+   {
+    "quote": "Motive’s story is about turning reliability from a manual effort into a repeatable operating system. The company moved from incident setup that could take 15 minutes to over an hour to workflows that now launch in seconds. It replaced Opsgenie with Rootly On-Call, uses Rootly AI to keep responders focused, and credits Rootly as a major part of how it delivers 99.99% reliability at scale.",
+    "url": "https://rootly.com/customers/motive",
+    "pass": 1
+   },
+   {
+    "quote": "Rootly is a big part of how we’ve reached our 99.99% of reliability.",
+    "url": "https://rootly.com/customers/clay",
+    "pass": 1
+   },
+   {
+    "quote": "1. If your startup is < 100 employees, has raised < $50m, and has been in business for < 5 years, Rootly has special discounts for you to save up to 50%.",
+    "url": "https://rootly.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "2. If your company is < 25 employees you pay Rootly what you can, starting at $1.",
+    "url": "https://rootly.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A platform. One engine and one chat surface run underneath Incident Response, On-Call, Status Pages, and AI SRE—rather than each product carrying its own bolt-on. It reads your catalog, telemetry, code, and incident history, you can point it at your own OpenAI, Anthropic, or Gemini keys on Enterprise, and you can drive it from the API, CLI, webhooks, and MCP.",
+    "url": "https://rootly.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Competitive salary, meaningful equity in a high-growth company, and 401(k) matching for US employees.",
+    "url": "https://rootly.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“Rootly has that rare mix of urgency and heart. Every day we help teams turn stressful incidents into calm, coordinated action, and I love being part of a crew that’s obsessed with making engineers’ lives easier.”",
+    "url": "https://rootly.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Former CTO and Co-Founder of Blameless (acquired by FireHydrant)",
+    "url": "https://rootly.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Rootly is a big part of how we’ve reached our 99.99% of reliability.",
+    "url": "https://rootly.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Arrives with a Rootly Garden sticker",
+    "url": "https://www.rootlygarden.us/products/japanese-steel-pruning-shears",
+    "pass": 3
+   },
+   {
+    "quote": "\"Great gift for my mom who regularly cuts and arranges flowers. Heavy duty and packaging was nice\"",
+    "url": "https://www.rootlygarden.us/products/japanese-steel-pruning-shears",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/rootly/case-studies?p=2",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/469740-34",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/469740-34",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/469740-34",
+    "pass": 3
+   },
+   {
+    "quote": "To view Rootly’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/469740-34",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly has 68 total employees.",
+    "url": "https://pitchbook.com/profiles/company/469740-34",
+    "pass": 3
+   },
+   {
+    "quote": "What is Rootly’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/469740-34",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Rootly is",
+    "url": "https://pitchbook.com/profiles/company/469740-34",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly Revenue 2023: $4.1M Est.",
+    "url": "https://getlatka.com/companies/rootly.com",
+    "pass": 3
+   },
+   {
+    "quote": "revenue & acquisition",
+    "url": "https://getlatka.com/companies/rootly.com",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly has not published its revenue. Growjo puts it at about $4.1M a year (December 2023).",
+    "url": "https://getlatka.com/companies/rootly.com",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly CEO, founders & employees",
+    "url": "https://getlatka.com/companies/rootly.com",
+    "pass": 3
+   },
+   {
+    "quote": "JJ Tang founded Rootly and led it as CEO. Rootly had 40 employees (December 2023, Growjo estimate).",
+    "url": "https://getlatka.com/companies/rootly.com",
+    "pass": 3
+   },
+   {
+    "quote": "What was Rootly's revenue?",
+    "url": "https://getlatka.com/companies/rootly.com",
+    "pass": 3
+   },
+   {
+    "quote": "Growjo estimates Rootly's revenue at about",
+    "url": "https://getlatka.com/companies/rootly.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Rootly have?",
+    "url": "https://getlatka.com/companies/rootly.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/rootly.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/rootly.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/rootly.com",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Join our Partner Program.",
+    "url": "https://rootly.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Expand Rootly's reach by bringing our platform to resellers and VARs across your network. Distributors play a critical role in scaling our channel presence regionally and globally, with dedicated support and margin opportunities built in.",
+    "url": "https://rootly.com/partners",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": ". From discovery to post-stay, its solutions streamline operations, boost revenue, and transform the guest experience. Trusted by 20,000+ hotels in 125+ countries, Canary has been recognized by Fast Company, Deloitte, Business Insider and more as an innovation leader.",
+    "url": "https://rootly.com/customers/canary-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "Rootly AI bridged the gap between developers and operators",
+    "url": "https://rootly.com/customers/momentum",
+    "pass": 1
+   },
+   {
+    "quote": "That makes this case study more strategic than tactical. The outcome is not merely a smoother incident process. It is a reliability model designed to help a fast-moving AI company stay lean, reduce overnight burden, and operate with more leverage as it grows.",
+    "url": "https://rootly.com/customers/momentum",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by startups and enterprises alike.",
+    "url": "https://rootly.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“The best thing about working here is the people and the ownership you have. I also get the privilege to take on large, complex problems and build things that will be used by some of the biggest names in tech.”",
+    "url": "https://rootly.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Factoryは、「Droids」と呼ばれる自律エージェントを使用して、ソフトウェア開発ライフサイクル（SDLC）全体を自動化するAI搭載のソフトウェア開発プラットフォームです",
+    "url": "https://www.toolmage.com/ja/tool/rootly/",
+    "pass": 3
+   },
+   {
+    "quote": "Mercury Case Study: Rootly – Rootly - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/mercury/case-study/rootly-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly - Customer Case Study",
+    "url": "https://www.casestudies.com/company/mercury/case-study/rootly-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Rootly used Mercury",
+    "url": "https://www.casestudies.com/company/mercury/case-study/rootly-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/mercury/case-study/rootly-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/mercury/case-study/rootly-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Recall.ai Case Study: Rootly – Rootly - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/recallai/case-study/rootly-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly - Customer Case Study",
+    "url": "https://www.casestudies.com/company/recallai/case-study/rootly-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Rootly used Recall.ai",
+    "url": "https://www.casestudies.com/company/recallai/case-study/rootly-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/recallai/case-study/rootly-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/recallai/case-study/rootly-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/rootly/case-studies?p=2",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Poll Everywhere powers 40M+ presentations, engaging 200M+ participants and 10M+ presenters. The company is fully remote, with most of the team based in the US and additional coverage in Malaysia and Japan—a footprint that supports customers wherever and whenever they’re presenting.",
+    "url": "https://rootly.com/customers/poll-everywhere",
+    "pass": 1
+   },
+   {
+    "quote": "Poll Everywhere has meaningful “awake coverage” across time zones—especially Sunday nights through Friday afternoons in North America. But the paging workflow couldn’t take advantage of it. If a monitor triggered, the US on-call would still get woken up, even if someone in Malaysia or Japan was already working and could have handled the initial response.",
+    "url": "https://rootly.com/customers/poll-everywhere",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社Rootly(Rootly, Inc.)",
+    "url": "https://rootly.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区渋谷2-19-15 宮益坂ビルディング609",
+    "url": "https://rootly.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Pruning Shears | Hand-Forged in Japan | Rootly Garden",
+    "url": "https://www.rootlygarden.us/products/japanese-steel-pruning-shears",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Steel Pruning Shears",
+    "url": "https://www.rootlygarden.us/products/japanese-steel-pruning-shears",
+    "pass": 3
+   },
+   {
+    "quote": "Hand-Forged Japanese Pruning Shears",
+    "url": "https://www.rootlygarden.us/products/japanese-steel-pruning-shears",
+    "pass": 3
+   },
+   {
+    "quote": "Hand-forged in Tsubame-Sanjo, a region of Japan that has shaped blade craft for centuries, these Japanese pruning shears are built from stainless steel chosen for its edge and rust resistance. The grip is designed around one principle: that force from the hand should travel directly to the blade, cleanly, on every cut.",
+    "url": "https://www.rootlygarden.us/products/japanese-steel-pruning-shears",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Ikebana Scissors",
+    "url": "https://www.rootlygarden.us/products/japanese-steel-pruning-shears",
+    "pass": 3
+   },
+   {
+    "quote": "Hand-forged in Tsubame-Sanjo, Japan",
+    "url": "https://www.rootlygarden.us/products/japanese-steel-pruning-shears",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese stainless steel, sharp and rust-resistant",
+    "url": "https://www.rootlygarden.us/products/japanese-steel-pruning-shears",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese stainless steel",
+    "url": "https://www.rootlygarden.us/products/japanese-steel-pruning-shears",
+    "pass": 3
+   },
+   {
+    "quote": "Handmade in Tsubame-Sanjo, Japan",
+    "url": "https://www.rootlygarden.us/products/japanese-steel-pruning-shears",
+    "pass": 3
+   },
+   {
+    "quote": "\"As a former professional horticulturist I used Japanese made tools often because of their high quality and durability. These are so well made and will stand the test of time. Worth every cent!\"",
+    "url": "https://www.rootlygarden.us/products/japanese-steel-pruning-shears",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese steel pruning shears",
+    "url": "https://www.rootlygarden.us/products/japanese-steel-pruning-shears",
+    "pass": 3
+   },
+   {
+    "quote": "\"Wow! Decided to spend a little extra based on web reviews of Japanese made pruning shears and worth every penny. Great fit in hand, precise cutting and smooth motion yield a very clean cut. And super happy with Rootly Garden's speed in shipping.\"",
+    "url": "https://www.rootlygarden.us/products/japanese-steel-pruning-shears",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Rootly | AI搭載のインシデント管理＆オンコールプラットフォーム - T... — Rootlyは、エンジニアリングおよびSREチーム向けに設計されたAI搭載のエンドツーエンドのインシデント管理プラットフォームです。 オンコールスケジューリングやアラート対応から解決、事後分析まで、インシデントのライフサイクル全体を自動化します。",
+    "url": "https://www.toolmage.com/ja/tool/rootly/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-native incident management platform | Rootly — Built for modern incident management and codified from millions of real-world incidents, Rootly is designed for teams that can’t afford downtime yet simple enough for anyone to use.",
+    "url": "https://rootly.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly:AIネイティブのインシデント管理・オンコールプラットフォーム... — AIとの深い連携により、Rootlyはアラート、オンコールスケジューリング、リアルタイムコラボレーション、ワークフロー自動化、事後振り返りまで、インシデントライフサイクル全体をオーケストレーションします。",
+    "url": "https://moge.ai/ja/product/rootly",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly | Microsoft Marketplace株式会社RootlyRootly | エンドツーエンドのインシデント管理プラットフォームRootly | Microsoft Marketplace — From SSO to enhanced user provisioning, Azure's Rootly integration gives you the ability to securely collaborate. Use Microsoft Entra ID to manage user access and enable single sign-on with Rootly. 会社概要 会社名 株式会社Rootly (Rootly, Inc.) 設立 2021年9月15日 所在地 〒150-0002 東京都渋谷区渋谷2-19-15 宮益坂ビルディング609 代表取",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/aad.rootly",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Rootly — 会社概要 会社名 株式会社Rootly (Rootly, Inc.) 設立 2021年9月15日 所在地 〒150-0002 東京都渋谷区渋谷2-19-15 宮益坂ビルディング609 代表取締役 根本 達郎 資本金 100万円",
+    "url": "https://rootly.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Rootly — 過去、現在・・・そして将来、これからも大事なもののためにIT技術で問題解決をお手伝いします。 お客様のご要望をヒアリングしながら、Webシステムの設計・開発・運用まで最適なソリューションをご提供します。 またホームページ制作やWordPressなどを用いたコンテンツサイトの開発・構築も承っております。 © Rootly, Inc. All rights reserved.",
+    "url": "https://rootly.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "About Rootly: the AI-native reliability platform — Rootly is building the future of agentic reliability and proactive intelligence. The complexities of modern technology demand a paradigm shift in how we fundamentally approach reliability. We founded Rootly in 2021 with a simple belief: incident management shouldn’t be chaos.",
+    "url": "https://rootly.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Pruning Shears | Hand-Forged in Japan | Rootly Garden — Hand-forged in Tsubame-Sanjo, a region of Japan that has shaped blade craft for centuries, these Japanese pruning shears are built from stainless steel chosen for its edge and rust resistance.",
+    "url": "https://www.rootlygarden.us/products/japanese-steel-pruning-shears",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly - marketplace.microsoft.com — Rootly is the on-call and incident management platform that helps you resolve incidents faster, improve system resilience, and streamline on-call operations—without leaving Microsoft Teams.",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/saas/wa200007930?tab=overview",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories - Rootly — See how teams from the Fortune 100 to fast-growing startups use Rootly for incident response, on-call, retrospectives, and AI SRE.",
+    "url": "https://rootly.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly - Customer Case Study — Rootly (Computer Software) partnered with Mercury (Financial Services) to solve key challenges. \"Rootly - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/mercury/case-study/rootly-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly - Customer Case Study — Rootly (Computer Software) partnered with Recall.ai (Computer Software) to solve key challenges. \"Rootly - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/recallai/case-study/rootly-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "22 Rootly Case Studies, Success Stories, & Customer Stories — Narrow down 22 case studies by company size & industry to find out how Rootly works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/rootly/case-studies?p=2",
+    "pass": 3
+   },
+   {
+    "quote": "22 Rootly Case Studies, Success Stories, & Customer Stories — Discover how other companies use Rootly, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/rootly/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly – Financials, Industry Trends & Funding Info – 2026 — Rootly Revenue & Valuation Presently, Rootly's annual revenue is estimated to be $7.9M. The company’s workforce productivity is estimated at $132.5K in annual revenue per employee. Funding raised by Rootly over the years amounts to $15M.",
+    "url": "https://compworth.com/company/rootly",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly 2026 Company Profile: Valuation, Funding & Investors ...Rootly - 2026 Company Profile, Team, Funding & Competitors ...Rootly Revenue 2023: $4.1M Est. - getlatka.comRootly — Company Profile & Funding | Indexed.vcRootly Funding | $4-15M Revenue | Complete AnalysisRootly - Overview, News & Similar companies | ZoomInfo.com — Information on valuation, funding, cap tables, investors, and executiv",
+    "url": "https://pitchbook.com/profiles/company/469740-34",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly - 2026 Company Profile, Team, Funding & Competitors ...Rootly Revenue 2023: $4.1M Est. - getlatka.comRootly — Company Profile & Funding | Indexed.vcRootly Funding | $4-15M Revenue | Complete AnalysisRootly - Overview, News & Similar companies | ZoomInfo.com — Mar 11, 2026 · Rootly is a series A company based in San Francisco (United States), founded in 2020 by Quentin Rousseau. It operates ",
+    "url": "https://tracxn.com/d/companies/rootly/__6TW55OlvINzqdUeebvUprEAamdGsQjIcDKZop03TV6Q",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly Revenue 2023: $4.1M Est. - getlatka.com — Oct 5, 2026 · Rootly was acquired. Rootly is an incident management platform and Slackbot that aims to assist companies in resolving incidents more efficiently by automating manual administrative tasks and offering insights to prevent future incidents.",
+    "url": "https://getlatka.com/companies/rootly.com",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly — Company Profile & Funding | Indexed.vc — Rootly is an AI Operations company based in San Francisco, United States, founded in 2020. It has raised $15.2M in total across 2 rounds, most recently a $12.0M Series A round in Aug 2023. Investors include Xyz Venture Capital, Renegade Partners and Google Gradient Ventures.",
+    "url": "https://indexed.vc/companies/rootlyhq",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/rootly/case-studies?p=2",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/rootly/case-studies?p=2",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/469740-34",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Rootly (@rootlyhq) / X The Rootly Agent is now available inside the Rootly mobile app, giving responders the context and tools they need to manage a live incident from wherever they are.",
+    "url": "https://x.com/rootlyhq",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly (@Rootlycc) / X Introducing Rootly Cart Drawer Upsell. A new generation of beautifully designed Shopify apps built to increase conversions and improve customer experience. Apple-inspired design 📈 Conversion-focused features ⚡ Lightning-fast performance 🛍 Built exclusively for Shopify",
+    "url": "https://x.com/Rootlycc",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly on X: \"Introducing Rootly Cart Drawer Upsell. A new ... Aug 1, 2026 · Introducing Rootly Cart Drawer Upsell. A new generation of beautifully designed Shopify apps built to increase conversions and improve customer experience. Apple-inspired design 📈 Conversion-focused features ⚡ Lightning-fast performance 🛍 Built exclusively for Shopify",
+    "url": "https://x.com/Rootlycc/status/2083533792371691759",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly on X: \"Learn more: https://t.co/LXtrN6d6L8\" Oct 29, 2026 · Draft and publish updates directly from Slack, with a review and confirmation before anything goes live. Give customers a clear Show more 00:00 3 6 253 Rootly @rootlyhq Learn more:",
+    "url": "https://x.com/rootlyhq/status/2115840409158943112",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly (@Rootlycc) / X I just launched Rootly Cart Drawer Upsell 🚀 A customizable Shopify cart with: • Smart upsells • Free shipping bar • Sticky cart • Trust badges • Analytics Built for merchants who want more from their cart.",
+    "url": "https://x.com/Rootlycc",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly (@rootlyhq) / X Rootly is featured in @Pragmatic_Eng 's deep dive on AI SRE, with research and incident data contributed by our team. The piece explores a question shaping the next chapter of reliability: as AI accelerates software development, how do we keep failures from accelerating with it?",
+    "url": "https://x.com/rootlyhq",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Rootly - LinkedIn Rootly is the AI-native on-call and incident management platform carefully crafted for your entire organization to prevent and resolve incidents faster, without ever leaving Slack—trusted by ...",
+    "url": "https://www.linkedin.com/company/rootlyhq",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly - LinkedIn Rootly | Rootly is the AI-native on-call and incident management platform carefully crafted for your entire organization to prevent and resolve incidents faster, without ever leaving Slack ...",
+    "url": "https://www.linkedin.com/products/rootlyhq-rootly/",
+    "pass": 3
+   },
+   {
+    "quote": "JJ Tang - Rootly | LinkedInPlatform Engineer, Infrastructure at Rootly — Toronto ...Rootly Nelson - Program Assistant with Logistics Expertise ...FeelRooty | LinkedInIoannis T. - Staff Engineer @ Rootly | AI Infrastructure, AI ... About Rootly is a modern agentic on-call and incident management platform used by Figma, Uber… Oct 28, 2026 · Apply for Platform Engineer, Infrastructure at Rootly in To",
+    "url": "https://ca.linkedin.com/in/jjrichardtang",
+    "pass": 3
+   },
+   {
+    "quote": "Platform Engineer, Infrastructure at Rootly — Toronto ... Oct 28, 2026 · Apply for Platform Engineer, Infrastructure at Rootly in Toronto, Ontario, Canada. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://ca.linkedin.com/jobs/view/platform-engineer-infrastructure-at-rootly-4484424250",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Rootly - FacebookRootly | Los Angeles CA - FacebookRootly Organics - FacebookRootly BD - FacebookRootly - FacebookRootly - FacebookFeelRooty - Facebook May 12, 2023 · Rootly. 195 likes. Rootly is an incident management platform on Slack that helps automate manual admin work during inci Oct 31, 2021 · One of the cool things about being a Rootly subscriber is receiving recipe suggestions each month ",
+    "url": "https://www.facebook.com/rootlyhq/",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly | Los Angeles CA - FacebookRootly Organics - FacebookRootly BD - FacebookRootly - FacebookRootly - FacebookFeelRooty - Facebook Oct 31, 2021 · One of the cool things about being a Rootly subscriber is receiving recipe suggestions each month featuring products in that month’s box. We like to provide some options but still leave room for our incredible Rootly community to still get creative w",
+    "url": "https://www.facebook.com/RootlyShop/",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly Organics - Facebook Nov 3, 2026 · Come enjoy a fun Sunday with wonderful vendors, handmade finds, good food, and Rootly Organics tea! We absolutely love Clover Market and love bringing our products to this area.",
+    "url": "https://www.facebook.com/people/Rootly-Organics/100091760982752/",
+    "pass": 3
+   },
+   {
+    "quote": "Rootly BD - FacebookRootly - FacebookRootly - FacebookFeelRooty - Facebook Oct 24, 2026 · Rootly BD. 74,266 followers · 9,123 talking about this. Beauty Begins at the Roots Mar 16, 2024 · Rootly udvikler plantebaserede produkter. Vores produkter indeholder masser af friske, uforarbejdede grøntsager og meget andet godt! Grøntsagerne kommer fra overskudsgrønt - ren pulp, som upcycles fra økologisk, ",
+    "url": "https://www.facebook.com/rootlybd/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://rootly.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/customers/canary-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/customers/replit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/customers/caribou",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/customers/capa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/customers/reactiv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/customers/spotdraft",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/customers/cora",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/customers/ctso-central",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/customers/poll-everywhere",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/customers/momentum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/customers/knowbe4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/customers/achievers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/customers/motive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/customers/clay",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.com/customers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://rootly.com/_astro/partners-bg-hero.DjBEZ_2J_2hclST.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://rootly.com/media/partners/partners-bg-form.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://rootly.com/media/logos/brex.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://rootly.com/media/logos/sofi.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.toolmage.com/ja/tool/rootly/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moge.ai/ja/product/rootly",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.microsoft.com/ja-jp/product/aad.rootly",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rootly.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rootlygarden.us/products/japanese-steel-pruning-shears",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/mercury/case-study/rootly-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/recallai/case-study/rootly-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/rootly/case-studies?p=2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/rootly",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/469740-34",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/rootly/__6TW55OlvINzqdUeebvUprEAamdGsQjIcDKZop03TV6Q",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/rootly.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/rootlyhq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Rootlycc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Rootlycc/status/2083533792371691759",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/rootlyhq/status/2115840409158943112",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rootlyhq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/rootlyhq-rootly/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/jjrichardtang",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/jobs/view/platform-engineer-infrastructure-at-rootly-4484424250",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rootlyhq/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RootlyShop/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Rootly-Organics/100091760982752/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rootlybd/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Rootlycc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/rootlyhq",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rootly 日本 導入",
+   "results": [
+    "https://www.toolmage.com/ja/tool/rootly/",
+    "https://rootly.com/",
+    "https://moge.ai/ja/product/rootly",
+    "https://marketplace.microsoft.com/ja-jp/product/aad.rootly",
+    "https://rootly.co.jp/",
+    "https://www.navgood.com/ja/tool-details/rootly-b0c6b",
+    "https://marketplace.microsoft.com/ja-jp/product/wa200007930"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rootly 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.fundely.co.jp/company",
+    "https://www.jll.com/ja-jp/about-jll/japan-information"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rootly Japan",
+   "results": [
+    "https://rootly.com/",
+    "https://rootly.co.jp/",
+    "https://rootly.com/about",
+    "https://www.rootlygarden.us/products/japanese-steel-pruning-shears",
+    "https://marketplace.microsoft.com/ja-jp/product/saas/wa200007930?tab=overview",
+    "https://jp.linkedin.com/company/rootlyhq",
+    "https://rootly.space/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rootly manufacturing customer case study",
+   "results": [
+    "https://rootly.com/customers",
+    "https://www.casestudies.com/company/mercury/case-study/rootly-customer-case-study",
+    "https://www.casestudies.com/company/recallai/case-study/rootly-customer-case-study",
+    "https://www.featuredcustomers.com/vendor/rootly/case-studies?p=2",
+    "https://www.featuredcustomers.com/vendor/rootly/case-studies",
+    "https://www.recall.ai/customers/rootly",
+    "https://mash.com/case-studies/rootly/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rootly white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.strikingly.com/reseller-program",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rootly founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/rootly",
+    "https://pitchbook.com/profiles/company/469740-34",
+    "https://tracxn.com/d/companies/rootly/__6TW55OlvINzqdUeebvUprEAamdGsQjIcDKZop03TV6Q",
+    "https://getlatka.com/companies/rootly.com",
+    "https://indexed.vc/companies/rootlyhq",
+    "https://www.extruct.ai/hub/rootly-com-funding/",
+    "https://www.zoominfo.com/c/rootly/566158056"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Rootly",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/tag/スト6",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/ys5465455/n/nf337625d2af3",
+    "https://note.com/cute_willet990/n/n9529041a97d7",
+    "https://note.com/endurance_sports/n/n09a6a32193a0?hl=en",
+    "https://note.com/spaceygoblin/n/n0f0677188638"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Rootly",
+   "results": [
+    "https://x.com/rootlyhq",
+    "https://x.com/Rootlycc",
+    "https://x.com/Rootlycc/status/2083533792371691759",
+    "https://x.com/rootlyhq/status/2115840409158943112",
+    "https://x.com/Rootlycc/status/2085713668667297968",
+    "https://x.com/Rootyvoice",
+    "https://x.com/V7musyo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Rootly",
+   "results": [
+    "https://www.linkedin.com/company/rootlyhq",
+    "https://www.linkedin.com/products/rootlyhq-rootly/",
+    "https://ca.linkedin.com/in/jjrichardtang",
+    "https://ca.linkedin.com/jobs/view/platform-engineer-infrastructure-at-rootly-4484424250",
+    "https://ht.linkedin.com/in/rootly-nelson-828a3a44",
+    "https://si.linkedin.com/company/feelrooty",
+    "https://uk.linkedin.com/in/ioannis-t-1740a839"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Rootly",
+   "results": [
+    "https://www.facebook.com/rootlyhq/",
+    "https://www.facebook.com/RootlyShop/",
+    "https://www.facebook.com/people/Rootly-Organics/100091760982752/",
+    "https://www.facebook.com/rootlybd/",
+    "https://www.facebook.com/rootlyproducts/",
+    "https://www.facebook.com/p/Rootly-61591248729829/",
+    "https://www.facebook.com/feelrooty/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rootly note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://rootly.com/",
+    "https://rootly.com/about",
+    "https://note.jp/n/ncc37a1d4aa0b"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rootly X 投稿",
+   "results": [
+    "https://x.com/Rootlycc",
+    "https://x.com/rootlyhq",
+    "https://rootly.com/",
+    "https://docs.rootly.com/integrations/twitter",
+    "https://docs.rootly.com/communications/sending-communications",
+    "https://www.instagram.com/rootlyhq/",
+    "https://rootly.com/users/sign_in"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）"
+ }
+}

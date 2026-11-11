@@ -1,0 +1,1058 @@
+{
+ "name": "Sarus",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T09:02:06.020318+00:00",
+ "official_url": "https://www.sarus.tech",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Sarus - The Privacy Layer for Analytics & AI",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "The privacy layer that unleashes the full potential of sensitive data.",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Allow minimum privilege for ML & BI",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Use fake data for tests or prototypes",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Make Analytics & AI private by design",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Slash compliance costs with simpler process",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent data breaches",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Audit all processing activities",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "A privacy layer for Analytics & AI",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "With Sarus, data practitioners query sensitive data without having direct access to it. All results are protected, and their experience is fully preserved.",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Built on the state-of-the-art privacy research",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Sarus uses the modern standard of privacy research to ensure each query result is provably safe.",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy-preserving synthetic data",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Sarus provides synthetic data from a generative-AI model trained with differential privacy, to make working on data one cannot see safe and seamless.",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy-first query rewriting",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Sarus rewrites all data processing jobs into a privacy-safe version on-the-fly. It brings the strongest privacy guarantees to all queries and manipulations.",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Put the power of LLMs into action without any privacy risk",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage the full power of open source models without introducing privacy risks.",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Sarus' privacy layer makes using and fine-tuning LLMs with private data safe.",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "As AML data-scientists and analysts, we were able to use these technologies successfully, easily and quickly, without any impact neither on our way of working nor on integration within our processes and systems.",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Sarus is the future of medical data access: it allows to fully leverage the power of the cloud with zero compromise on patients’ privacy!",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy Sarus in minutes, on-premises or in your public cloud, using Docker or Kubernetes.",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Grant query access rights to data consumers and define the level of privacy protection for any query they submit.",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Data consumers leverage data with their favorite tools (SQL, pandas, sklearn...). Sarus guarantees that all outputs comply with their privacy policy.",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Protection Teams",
+    "url": "https://www.sarus.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Sarus provides enterprise-grade data security solutions for financial services organizations to do more with confidential data. They deliver data projects faster, in a more secure way, with simplified security and compliance procedures. Analytics and AI workflows benefit from the highest level of data security and privacy, making the entire organization more agile.",
+    "url": "https://www.sarus.tech/solutions/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Banks and insurers can finally leverage any private data across borders or legal entities to train AI systems, design marketing strategies, improve risk models with finer data, or engage with other banks to better track financial crime, while guaranteeing their clients the unparalleled level of data protection.",
+    "url": "https://www.sarus.tech/solutions/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "All stakeholders can be part of digital transformation efforts. They explore data assets, test and validate hypotheses, and build AI applications without friction, creating unprecedented value.",
+    "url": "https://www.sarus.tech/solutions/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Since data consumers never access source data, anonymization or desensitization processes are no longer necessary and leakage risk is mitigated. Internal processes become lighter, yielding faster decision cycles, reduced time-to-data, and higher project success rate.",
+    "url": "https://www.sarus.tech/solutions/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Strongest data loss prevention",
+    "url": "https://www.sarus.tech/solutions/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "When data is exported, there is little the security team can do to prevent misuse, leakage, breaches, or loss. With Sarus, sensitive data remains inside, only safe outputs can be exported. It provides the best response for insider threat management in all Analytics and AI activities.",
+    "url": "https://www.sarus.tech/solutions/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Removing the need for copying data out allows data owners to track every data processing query. With Sarus, all computations are logged, and the exhaustive lists of outputs produced from confidential data can be analyzed and audited.",
+    "url": "https://www.sarus.tech/solutions/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "A novel architecture combining the confidential computing solutions from Azure and the Sarus privacy layer to pool data from different banks and safely detect fraudulous transactions.",
+    "url": "https://www.sarus.tech/solutions/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Protect patient data to advance medical research",
+    "url": "https://www.sarus.tech/solutions/industries/industry-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Sarus helps healthcare organizations carry out medical research or data projects faster by streamlining compliance processes.",
+    "url": "https://www.sarus.tech/solutions/industries/industry-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "They start research projects in a fraction of the time since the access to patient-level data is never shared. Their partners (e.g. pharmaceutical companies, research centers) can identify cohorts of interest, validate opportunities and launch research projects without having to wait for months-long compliance processes. At the same time, patients are offered the highest level of data protection.",
+    "url": "https://www.sarus.tech/solutions/industries/industry-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Sarus remote query execution approach allows for data discovery from day 1. Researchers access synthetic samples, compute first statistics on cohorts and can even carry out full research projects without having to wait for bespoke compliance and regulatory processes.",
+    "url": "https://www.sarus.tech/solutions/industries/industry-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Granting access to personal health data is extremely challenging under most data protection regulations (e.g.: HIPAA, GDPR, or CCPA). With Sarus, researchers can access high fidelity",
+    "url": "https://www.sarus.tech/solutions/industries/industry-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "for all data assets and explore and validate the opportunity to initiate research projects without wasting time on regulatory filing, internal privacy reviews, or working with anonymization vendors.",
+    "url": "https://www.sarus.tech/solutions/industries/industry-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy-safe data portal for RWD",
+    "url": "https://www.sarus.tech/solutions/industries/industry-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Hospitals, clinics, and other medical institutions can expose a portal with the list of their data assets. Researchers can explore datasets, identify cohorts of interest and validate fit without needing access to patient-level data. Projects get off the ground in a tenth of the time with higher chances of success.",
+    "url": "https://www.sarus.tech/solutions/industries/industry-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Sarus enables researchers to validate their research or AI models across multiple data sources without needing access to patient-level data. By validating across multiple hospitals, even across countries, researchers can improve accuracy and reduce biases.",
+    "url": "https://www.sarus.tech/solutions/industries/industry-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Safely leverage customers data to improve marketing strategy",
+    "url": "https://www.sarus.tech/solutions/industries/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "With Sarus, marketing objectives can be delivered at scale without compromising customer trust. Retailers, distributors, and brands collaborate on their data to better address their customer needs in full compliance.",
+    "url": "https://www.sarus.tech/solutions/industries/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Use cases include: sharing insights with brands, improving retail media experiences, activating audiences on joint data, optimizing marketing strategies with partner data.",
+    "url": "https://www.sarus.tech/solutions/industries/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy-safe data cleanroom",
+    "url": "https://www.sarus.tech/solutions/industries/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "By using Sarus in their data cleanrooms, retailers, brands, distributors, banks, or telcos combine their data with no risk of leaking personal information. The cleanroom can be fully self-served, the data is nonetheless perfectly protected. It is no longer necessary to define a data masking strategy, RBAC rules, or to pre-agree on the code that is allowed to run on private data.",
+    "url": "https://www.sarus.tech/solutions/industries/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Fully protect customer trust",
+    "url": "https://www.sarus.tech/solutions/industries/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "By bringing the gold standard of privacy protection,",
+    "url": "https://www.sarus.tech/solutions/industries/marketing",
+    "pass": 1
+   },
+   {
+    "quote": ", Sarus bolsters customer trust in the solution providers. It helps build strong brands while continuously improving services.",
+    "url": "https://www.sarus.tech/solutions/industries/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage all private data in full compliance",
+    "url": "https://www.sarus.tech/solutions/industries/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "The two governing principles of Sarus are: no data movement and no personal data sharing. This enables companies to leverage data across geographies and business silos in full compliance. It solves data transfers limitations and facilitates data protection impact assessments.",
+    "url": "https://www.sarus.tech/solutions/industries/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "With Sarus, marketers can use identifying information in their models without putting it at risk. Deterministic or non-deterministic matching becomes straightforward. Marketers can analyze audiences, design marketing strategies and push the selected segments to their marketing tools, without ever exposing identifying information.",
+    "url": "https://www.sarus.tech/solutions/industries/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Sarus for Marketing in action",
+    "url": "https://www.sarus.tech/solutions/industries/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing segmentation without data access",
+    "url": "https://www.sarus.tech/solutions/industries/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "You don’t need access to confidential customer data to build your AI-based marketing segments, here’s how!",
+    "url": "https://www.sarus.tech/solutions/industries/marketing",
+    "pass": 1
+   },
+   {
+    "quote": "Sarus helps public bodies design data-driven public policies and improve national statistics while preserving citizen trust.",
+    "url": "https://www.sarus.tech/solutions/industries/public-sector",
+    "pass": 1
+   },
+   {
+    "quote": "Administrations, cities or public agencies need citizen data to improve the efficiency of public policies, design transportation master plans, or energy-efficient cities. Sarus makes it possible by making all data useful for research and innovation, in a fully privacy-preserving way, enhancing citizens' trust.",
+    "url": "https://www.sarus.tech/solutions/industries/public-sector",
+    "pass": 1
+   },
+   {
+    "quote": "With Sarus, personal data is never exposed to analysts, or data scientists for their research. They only access aggregates, machine learning models, or synthetic samples, which is all they need to carry out their projects successfully. This way, public organizations bring the highest privacy and security standards to all data processing.",
+    "url": "https://www.sarus.tech/solutions/industries/public-sector",
+    "pass": 1
+   },
+   {
+    "quote": "Public institutions continuously invest to make public services more efficient and better serve their constituents. This effort often requires extensive data sources, which poses obvious privacy risks. With Sarus, these risks are mitigated, and citizens trust unimpaired.",
+    "url": "https://www.sarus.tech/solutions/industries/public-sector",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "All stakeholders can be part of digital transformation efforts. They explore data assets, test and validate hypotheses, and build AI applications without friction, creating unprecedented value.",
+    "url": "https://www.sarus.tech/solutions/industries/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Sarus helps healthcare organizations carry out medical research or data projects faster by streamlining compliance processes.",
+    "url": "https://www.sarus.tech/solutions/industries/industry-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Sarus remote query execution approach allows for data discovery from day 1. Researchers access synthetic samples, compute first statistics on cohorts and can even carry out full research projects without having to wait for bespoke compliance and regulatory processes.",
+    "url": "https://www.sarus.tech/solutions/industries/industry-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "With Sarus, personal data is never exposed to analysts, or data scientists for their research. They only access aggregates, machine learning models, or synthetic samples, which is all they need to carry out their projects successfully. This way, public organizations bring the highest privacy and security standards to all data processing.",
+    "url": "https://www.sarus.tech/solutions/industries/public-sector",
+    "pass": 1
+   },
+   {
+    "quote": "The public sector often resorts to external contractors to develop IT systems, carry out consulting work, or improve efficiency. With Sarus, those projects no longer require access to data to fulfill their objectives.",
+    "url": "https://www.sarus.tech/solutions/industries/public-sector",
+    "pass": 1
+   },
+   {
+    "quote": "Cities and public bodies have invested in modern data infrastructures and catalogs where personal data is stored. Many public functions require data to explore opportunities, test ideas, prototype services or even carry out training of new stakeholders. With Sarus, they do so without jeopardizing citizen data by using high fidelity",
+    "url": "https://www.sarus.tech/solutions/industries/public-sector",
+    "pass": 1
+   },
+   {
+    "quote": "Maxime, Nicolas and Vincent met while working at the French Treasury. In 2012 they launched AlephD, their first startup which was eventually acquired by Verizon Media in 2016.",
+    "url": "https://www.sarus.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to Sarus, he was AlephD cofounder/CEO and, after the acquisition by Verizon, held a Sr Director role in charge of analytics and optimization products.",
+    "url": "https://www.sarus.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to Sarus he was CPO of Owkin and cofounder/CTO of AlephD until the acquisition.",
+    "url": "https://www.sarus.tech/company",
+    "pass": 1
+   },
+   {
+    "quote": "Organizations embrace a data-mesh approach where each location owns their data assets as a product while removing barriers to collaboration.",
+    "url": "https://www.sarus.tech/solutions/use-cases/analytics-ai/cross-site-analysis",
+    "pass": 1
+   },
+   {
+    "quote": "This contributes to data democratization, encouraging broader adoption of data across roles and departments. It opens new revenue streams and collaboration opportunities with external partners.",
+    "url": "https://www.sarus.tech/solutions/use-cases/collaboration/data-portal",
+    "pass": 1
+   },
+   {
+    "quote": "is the perfect alternative to using personal data for testing, debugging or for designing new applications. This data can also be used for training purposes at no risk or be listed on a public portal to initiate collaborations in a data-mesh mindset.",
+    "url": "https://www.sarus.tech/solutions/use-cases/security-compliance/high-fidelity-test-data",
+    "pass": 1
+   },
+   {
+    "quote": "Every stakeholder with access to data is a liability: some employees may turn rogue, they may lose their credentials or get compromised. Any data stored on their device is at risk.",
+    "url": "https://www.sarus.tech/solutions/use-cases/security-compliance/insider-threat-management",
+    "pass": 1
+   },
+   {
+    "quote": "Sarus enables Data teams to leverage more data faster and maximize their impact. Data scientists no longer need access to the source data to carry out their projects. Sarus accelerates compliance processes for each new project and makes all data assets easy to work with, whether they belong to the organization or to business partners.",
+    "url": "https://www.sarus.tech/solutions/roles/ai-analytics-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Data science and analytics teams can easily validate hypotheses and opportunities, carry out advanced research, explore data assets, train or backtest machine learning models, or extract insights. At no point, privacy considerations get in the way.",
+    "url": "https://www.sarus.tech/solutions/roles/ai-analytics-teams",
+    "pass": 1
+   },
+   {
+    "quote": "With Sarus, delivering successful data projects no longer requires compromising on security. Data teams can carry out research work that consumes large amounts of data without putting it at risk.",
+    "url": "https://www.sarus.tech/solutions/roles/data-security-officer",
+    "pass": 1
+   },
+   {
+    "quote": "Sarus Inc. has raised $10.0 million in new investment capital from investors. The funding round marks a significant milestone for the firm, which specializes in Transaction Tax Automation. Sarus designs and implements solutions for complex indirect tax regimes and businesses, serving as a preferred indirect tax technology partner for numerous Fortune 500 companies for over 15 years.",
+    "url": "https://www.trysignalbase.com/news/funding/sarus-inc-raises-10m-seed",
+    "pass": 3
+   },
+   {
+    "quote": "As part of our goal to serve the",
+    "url": "https://sarusinc.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://sarusinc.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://sarusinc.com/about-us/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Enhance health-certified data warehouses",
+    "url": "https://www.sarus.tech/solutions/industries/industry-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Health-certified data warehouses come with stringent governance requirements with regards to data access and risk mitigation. Thanks to Sarus, data access is the exception and not the rule. Leakage risk is reduced to the maximum, making it easier to fulfill regulatory specifications.",
+    "url": "https://www.sarus.tech/solutions/industries/industry-healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy policies can include exceptions to push selected outputs to endpoints trusted by the data owner. This way, data scientists are able to go all the way from building models to seeing it in action.",
+    "url": "https://www.sarus.tech/solutions/use-cases/collaboration/cohort-activation",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 200+ sales teams",
+    "url": "https://www.trysignalbase.com/news/funding/sarus-inc-raises-10m-seed",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Administrations, cities or public agencies need citizen data to improve the efficiency of public policies, design transportation master plans, or energy-efficient cities. Sarus makes it possible by making all data useful for research and innovation, in a fully privacy-preserving way, enhancing citizens' trust.",
+    "url": "https://www.sarus.tech/solutions/industries/public-sector",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Sarus Inc. Raises $10M Seed | Signalbase — Sarus Inc. Raises $10M Seed | Signalbase Signalbase https://www.trysignalbase.com > news",
+    "url": "https://www.trysignalbase.com/news/funding/sarus-inc-raises-10m-seed",
+    "pass": 3
+   },
+   {
+    "quote": "Finance - Sarus Technologies — Finance - Sarus Technologies Sarus Technologies https://www.sarus.tech > finance",
+    "url": "https://www.sarus.tech/solutions/industries/finance",
+    "pass": 3
+   },
+   {
+    "quote": "About Us - Sarus Inc - Indirect Tax Technology Professionals — About Us - Sarus Inc - Indirect Tax Technology Professionals Sarus Inc https://sarusinc.com > about-us",
+    "url": "https://sarusinc.com/about-us/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "飛ぶ鳥の中で最も背が高い｜オオヅル Sarus Crane - note 飛ぶ鳥の中で最も背が高い｜オオヅル Sarus Crane - note note https://note.com > ホビー > 車・乗り物",
+    "url": "https://note.com/zoo21st/n/n837c4716be6b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "飛ぶ鳥の中で最も背が高い｜オオヅル Sarus Crane｜M_ayumi",
+    "url": "https://note.com/zoo21st/n/n837c4716be6b",
+    "pass": 3
+   },
+   {
+    "quote": "飛ぶ鳥の中で最も背が高い｜オオヅル Sarus Crane",
+    "url": "https://note.com/zoo21st/n/n837c4716be6b",
+    "pass": 3
+   },
+   {
+    "quote": "【ZOO 21st ～21世紀の動物園note～鳥図鑑】",
+    "url": "https://note.com/zoo21st/n/n837c4716be6b",
+    "pass": 3
+   },
+   {
+    "quote": "飛ぶ鳥の中では最も背が高く、ツル類では最大になる種類だ。",
+    "url": "https://note.com/zoo21st/n/n837c4716be6b",
+    "pass": 3
+   },
+   {
+    "quote": "かつてアドベンチャーワールドで大きな羽を広げてばっさばっさやりながら激しいダンスを繰り広げていた。写真集に大きなサイズの画像をアップしたのでお楽しみあれ！",
+    "url": "https://note.com/zoo21st/n/n837c4716be6b",
+    "pass": 3
+   },
+   {
+    "quote": "最近ではオーストラリア北東部にも分布を広げている。",
+    "url": "https://note.com/zoo21st/n/n837c4716be6b",
+    "pass": 3
+   },
+   {
+    "quote": "【見出し画像 2006年5月 アドベンチャーワールド ウォーキングサファリ】",
+    "url": "https://note.com/zoo21st/n/n837c4716be6b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "idrw on X: \" Sarus Aerospace UAV Reaches US Airspace from ... idrw on X: \" Sarus Aerospace UAV Reaches US Airspace from ... X https://x.com > @idrwalerts",
+    "url": "https://x.com/idrwalerts/status/2110984401060581459",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sarus (YC W22) - LinkedIn Sarus (YC W22) - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/sarus-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Sarus Inc. - LinkedIn Sarus Inc. - LinkedIn LinkedIn https://www.linkedin.com > sarus-llc",
+    "url": "https://www.linkedin.com/company/sarus-llc",
+    "pass": 3
+   },
+   {
+    "quote": "Sarus Industrial Group | LinkedIn Sarus Industrial Group | LinkedIn LinkedIn https://www.linkedin.com > sarusig",
+    "url": "https://www.linkedin.com/company/sarusig",
+    "pass": 3
+   },
+   {
+    "quote": "Amit S. - President and CEO at Sarus , Inc - LinkedIn Amit S. - President and CEO at Sarus , Inc - LinkedIn LinkedIn https://www.linkedin.com > amit-k-sa...",
+    "url": "https://www.linkedin.com/in/amit-k-saxena",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Sarus Crane Chicks Dino and Reptar Get Health Check After ... Sarus Crane Chicks Dino and Reptar Get Health Check After ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/savingcranes/videos/meet-two-of-our-newest-sarus-cranes/1770577970491842/",
+    "pass": 3
+   },
+   {
+    "quote": "Sarus Cranes live in and around wetlands, feeding on plants ... Sarus Cranes live in and around wetlands, feeding on plants ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/worldmigratorybirdday/videos/sarus-cranes-live-in-and-around-wetlands-feeding-on-plants-insects-fish-and-othe/5697339233703794/",
+    "pass": 3
+   },
+   {
+    "quote": "Sarus Crane - Facebook Sarus Crane - Facebook Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/Nepalbirdwatching/videos/%F0%9D%90%92%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%AE%F0%9D%90%AC-%F0%9D%90%82%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9E-%F0%9D%91%A8%F0%9D%92%8F%F0%9D%92%95%F0%9D%92%8A%F0%9D%92%88%F0%9D%92%90%F0%9D%92%8F%F0%9D%92%86-%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%95%F0%9D%92%8A%F0%9D%92%88%F0%9D%92%90%F0%9D%92%8F%F0%9D%92%86sarus-crane-is-one-of-the-largest-flying-birds-foun/1332378085229407/",
+    "pass": 3
+   },
+   {
+    "quote": "Sarus crane scientific name and cultural significance - Facebook Sarus crane scientific name and cultural significance - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/221754145895510/posts/1762737885130454/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sarus.tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sarus.tech/solutions/industries/finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sarus.tech/solutions/industries/industry-healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sarus.tech/solutions/industries/marketing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sarus.tech/solutions/industries/public-sector",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sarus.tech/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sarus.tech/solutions/use-cases/analytics-ai/cross-site-analysis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sarus.tech/solutions/use-cases/collaboration/secure-data-cleanroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sarus.tech/solutions/use-cases/collaboration/data-portal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sarus.tech/solutions/use-cases/collaboration/cohort-activation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sarus.tech/solutions/use-cases/security-compliance/high-fidelity-test-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sarus.tech/solutions/use-cases/security-compliance/insider-threat-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sarus.tech/solutions/use-cases/security-compliance/data-protection-by-design",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sarus.tech/solutions/roles/ai-analytics-teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sarus.tech/solutions/roles/data-protection-officer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sarus.tech/solutions/roles/data-security-officer",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/61bc58893bfe8290fd9fa12a/64886a8900f9e6a517876e08_sarus-external-partners.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.subaru.co.jp/news/2026_06_06_101600/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=KYsal88xYB8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC060RJ0W6A600C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.caranddriver.co.jp/newcar/120241/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-dx.com/column/agency_dealer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saurusjapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/saurus_official/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.rakuten.ne.jp/gold/coreplus1/special/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://initial.inc/companies/A-38296",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKxOxUo8eOiZ4bmazSl_4Nz7p2uyWGHKoLBie_keDSNRBXOeqB6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inspeerity.com/blog/after-sales-service-in-manufacturing-a-porsche-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.athenaswc.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trysignalbase.com/news/funding/sarus-inc-raises-10m-seed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/funding-souq/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sarusinc.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zoo21st/n/n837c4716be6b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/idrwalerts/status/2110984401060581459",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sarus-technologies/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sarus-llc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sarusig",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/amit-k-saxena",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/savingcranes/videos/meet-two-of-our-newest-sarus-cranes/1770577970491842/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/worldmigratorybirdday/videos/sarus-cranes-live-in-and-around-wetlands-feeding-on-plants-insects-fish-and-othe/5697339233703794/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Nepalbirdwatching/videos/%F0%9D%90%92%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%AE%F0%9D%90%AC-%F0%9D%90%82%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9E-%F0%9D%91%A8%F0%9D%92%8F%F0%9D%92%95%F0%9D%92%8A%F0%9D%92%88%F0%9D%92%90%F0%9D%92%8F%F0%9D%92%86-%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%95%F0%9D%92%8A%F0%9D%92%88%F0%9D%92%90%F0%9D%92%8F%F0%9D%92%86sarus-crane-is-one-of-the-largest-flying-birds-foun/1332378085229407/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/221754145895510/posts/1762737885130454/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sarus 日本 導入",
+   "results": [
+    "https://www.subaru.co.jp/news/2026_06_06_101600/",
+    "https://www.youtube.com/watch?v=KYsal88xYB8",
+    "https://www.nikkei.com/article/DGXZQOUC060RJ0W6A600C2000000/",
+    "https://www.caranddriver.co.jp/newcar/120241/",
+    "https://autoprove.net/japanese-car/subaru/ascent/255111/",
+    "https://www.stellantis.jp/",
+    "https://bestcarweb.jp/feature/column/1626514",
+    "https://kuruma-news.jp/post/1070441",
+    "https://huntscreens.com/ja/products/sarus",
+    "https://www.traicy.com/posts/20261110387579/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sarus 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://growth-dx.com/column/agency_dealer/",
+    "https://sairu.co.jp/method/6043/",
+    "https://coralcap.co/2022/01/partner-success/",
+    "https://www.persol-bd.co.jp/service/salesmarketing/s-smkt/column/ai-agent/sentei-kasseika/",
+    "https://ebisumart-lite.com/blog/saas-list/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sarus Japan",
+   "results": [
+    "https://saurusjapan.com/",
+    "https://www.instagram.com/saurus_official/",
+    "https://www.rakuten.ne.jp/gold/coreplus1/special/",
+    "https://initial.inc/companies/A-38296",
+    "https://aminosaurus.com/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 5
+  },
+  {
+   "query": "Sarus manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKxOxUo8eOiZ4bmazSl_4Nz7p2uyWGHKoLBie_keDSNRBXOeqB6",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://inspeerity.com/blog/after-sales-service-in-manufacturing-a-porsche-case-study/",
+    "https://www.athenaswc.com/case-studies/",
+    "https://www.sas.com/en_us/customers.html",
+    "https://www.factory-twin.com/casestudies",
+    "https://www.insight.com/en_US/content-and-resources.html?tags=stream-type%3Acase-studies&tags=stream-partner%3Agoogle-cloud&offset=0&limit=10&year=&q=&language=en&pagePath=%2Fcontent%2Finsight-web%2Fen_US%2Fcontent-and-resources&searchPath=%2Fcontent%2Finsight-web%2Fen_US%2Fcontent-and-resources&srsltid=AYCX9vIFWTpdKz6D4dnjfgx68MFByUvO83du9XrVvIGBZXxIixX53tYv",
+    "https://663810.fs1.hubspotusercontent-na1.net/hubfs/663810/2022%20-%20CLEVR%20Success%20Stories%20EBooks/CLEVR%20Success%20Stories%20-%20Manufacturing%20-%20ENG.pdf",
+    "https://www.globalshopsolutions.com/manufacturing-case-studies"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Sarus white label OR reseller OR partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://getreditus.com/resources/glossary/white-label-saas",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sarus founded funding employees revenue",
+   "results": [
+    "https://www.trysignalbase.com/news/funding/sarus-inc-raises-10m-seed",
+    "https://www.reveliolabs.com/companies/funding-souq/employees",
+    "https://www.sarus.tech/solutions/industries/finance",
+    "https://sarusinc.com/about-us/",
+    "https://www.theinformation.com/articles/autonomous-warship-startup-saronic-raising-7-5-billion-valuation",
+    "https://sacra.com/c/saronic/",
+    "https://sarusselectcapital.co.uk/portfolio/",
+    "https://www.quora.com/What-is-Revenue-Employee-for-1-5m-ARR-SaaS-Companies",
+    "https://tracxn.com/d/companies/saasaro/__JnhTlzkJG5XHIC422qXv_UQHZBvKaZ2PksF-KrAxhCQ",
+    "https://www.zoominfo.com/c/sarus-inc/353472593"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Sarus",
+   "results": [
+    "https://note.com/gentle_lion349/n/n646532487422?hl=en",
+    "https://note.com/zoo21st/n/n837c4716be6b",
+    "https://note.com/yuki_game732/n/nc1cb0882891f?hl=en",
+    "https://note.com/kyoto_up/n/n6097702c3dd5?hl=en",
+    "https://note.com/gentle_lion349/n/n73c2d4b1bb1c?hl=en",
+    "https://note.com/uorijemat/n/nc4a6c6ddcdfc?hl=en",
+    "https://note.com/mozhi_gengo/n/na59e84c8e5ab?hl=en",
+    "https://note.com/hiho2351/n/n6463aa956244",
+    "https://note.com/hirokimiyano/n/n464d42ba7a4b?hl=en",
+    "https://note.com/seigo77"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com Sarus",
+   "results": [
+    "https://x.com/ZooBoise/status/2097343537939624140",
+    "https://x.com/idrwalerts/status/2110984401060581459",
+    "https://x.com/paragenetics/status/1260902682816131074",
+    "https://x.com/IndianDefenceT/status/2111084309591548243",
+    "https://x.com/ThePrintIndia/status/2112736991825829910",
+    "https://x.com/skumarias02/status/2069272603009900717",
+    "https://x.com/KhmerTimes/status/2118589553573609572",
+    "https://x.com/AdityaS21674574/status/1720801859114254637",
+    "https://x.com/uptourismgov/status/1885942262565134796",
+    "https://x.com/Le_Sarus"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Sarus",
+   "results": [
+    "https://www.linkedin.com/company/sarus-technologies/",
+    "https://www.linkedin.com/company/sarus-llc",
+    "https://www.linkedin.com/company/sarusig",
+    "https://www.linkedin.com/in/amit-k-saxena",
+    "https://www.linkedin.com/company/sarus-capital-management",
+    "https://www.linkedin.com/in/john-romano-700bbb22",
+    "https://qa.linkedin.com/jobs/view/sales-business-development-executive-at-sarus-trading-contracting-4458895047",
+    "https://kh.linkedin.com/company/sarus-programs",
+    "https://in.linkedin.com/in/rajavardhan-tondapu-540916a",
+    "https://in.linkedin.com/company/sarus-llc"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Sarus",
+   "results": [
+    "https://www.facebook.com/savingcranes/videos/meet-two-of-our-newest-sarus-cranes/1770577970491842/",
+    "https://www.facebook.com/worldmigratorybirdday/videos/sarus-cranes-live-in-and-around-wetlands-feeding-on-plants-insects-fish-and-othe/5697339233703794/",
+    "https://www.facebook.com/Nepalbirdwatching/videos/%F0%9D%90%92%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%AE%F0%9D%90%AC-%F0%9D%90%82%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9E-%F0%9D%91%A8%F0%9D%92%8F%F0%9D%92%95%F0%9D%92%8A%F0%9D%92%88%F0%9D%92%90%F0%9D%92%8F%F0%9D%92%86-%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%95%F0%9D%92%8A%F0%9D%92%88%F0%9D%92%90%F0%9D%92%8F%F0%9D%92%86sarus-crane-is-one-of-the-largest-flying-birds-foun/1332378085229407/",
+    "https://www.facebook.com/groups/221754145895510/posts/1762737885130454/",
+    "https://www.facebook.com/savingcranes/posts/a-new-cohort-of-sarus-cranes-was-released-this-week-in-thailand-this-is-the-15th/1205451195121667/",
+    "https://www.facebook.com/groups/221754145895510/posts/1815379206532988/",
+    "https://www.facebook.com/ABCNews/videos/a-pair-of-sarus-cranes-violetta-and-alfredo-let-out-a-cry-that-signaled-celebrat/472618680255416/",
+    "https://www.facebook.com/WWFNepal/videos/green-lumbini-where-spirituality-meets-conservation/232906766315700/",
+    "https://www.facebook.com/craiggilbertphotography/posts/sarus-cranegrus-antigoneunlike-the-brolga-the-sarus-crane-is-more-wary-and-will-/1415922160297218/",
+    "https://www.facebook.com/SarusInc/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sarus note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://note.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/ai_shacho",
+    "https://online.nikkei-cnbc.co.jp/vod/58940",
+    "https://root-saru.jp/archives-1586/",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://www.sarus.tech/",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sarus X 投稿",
+   "results": [
+    "https://sarus.com/",
+    "https://www.sarus.tech/post/a-complete-video-guide-to-mastering-privacy-safe-and-data-science-and-ai-with-sarus",
+    "http://www.sarus.info/",
+    "https://sarus.readthedocs.io/",
+    "https://sarus-suite.github.io/",
+    "https://github.com/eth-cscs/sarus",
+    "https://sarusinc.com/",
+    "https://x.com/sciencesaru",
+    "https://www.merriam-webster.com/dictionary/sarus",
+    "https://x.com/Sarus"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式16頁／PDF・画像1件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式16頁／PDF・画像1件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像1件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像1件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式16頁／PDF・画像1件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像1件／外部33頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式16頁／PDF・画像1件／外部33頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式16頁／PDF・画像1件／外部33頁・検索12回）"
+ }
+}

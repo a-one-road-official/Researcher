@@ -1,0 +1,768 @@
+{
+ "name": "READY Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T09:29:19.920971+00:00",
+ "official_url": "https://ready-robotics.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Kamis, 16-Aprl-2026 11.33.09",
+    "url": "https://powwowlongbeach.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Impress Watchシリーズ 人気記事",
+    "url": "https://car.watch.impress.co.jp/docs/news/1561774.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "url": "https://car.watch.impress.co.jp/docs/news/1561774.html",
+    "pass": 3
+   },
+   {
+    "quote": "Impress Business Library",
+    "url": "https://car.watch.impress.co.jp/docs/news/1561774.html",
+    "pass": 3
+   },
+   {
+    "quote": "Impress Group Publication Information",
+    "url": "https://car.watch.impress.co.jp/docs/news/1561774.html",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota Motor Corporation Collaborates with READY Robotics to Introduce Sim-to-Real Robotic Programming in Industrial Manufacturing Using NVIDIA Omniverse",
+    "url": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "pass": 3
+   },
+   {
+    "quote": "AICHI PREFECTURE, Japan, Jan. 17, 2024 -- READY Robotics, a pioneer in operating systems for automation and robotics, is collaborating with Toyota Motor Corporation and NVIDIA to bring a significant leap forward in industrial robotics. Toyota will employ READY ForgeOS in tandem with",
+    "url": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "pass": 3
+   },
+   {
+    "quote": ", to build a state-of-the-art simulated robotic programming environment for its aluminum hot forging production lines.",
+    "url": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "pass": 3
+   },
+   {
+    "quote": "READY has integrated ForgeOS with NVIDIA Isaac Sim to provide best-in-class visual and physics-simulation fidelity",
+    "url": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "pass": 3
+   },
+   {
+    "quote": "READY Robotics is the developer of ForgeOS, the industrial OS for robots and automation, and a pioneer in time-saving automation solutions that overcome the obstacles faced by manufacturers. ForgeOS simplifies the programming process, reducing the typical complexities of robotic systems and enabling an easy-to-use experience for any industrial robotic manipulator.",
+    "url": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "pass": 3
+   },
+   {
+    "quote": "Another novel aspect of this \"sim-to-real\" workflow is ForgeOS' ability to relay real-time production data from the cell on the factory floor back to the original NVIDIA Isaac Sim simulation. This forms a digital twin of the live cell, enabling visualizations of its current state and facilitating greater monitoring and oversight.",
+    "url": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota's collaboration with READY Robotics and NVIDIA is poised to create a new frontier for how robotic automation is programmed and deployed with greater efficiency, usability, and safety, and it opens the opportunity for production data to be captured from automation systems for use in process monitoring and improvement, or even artificial intelligence applications.",
+    "url": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "pass": 3
+   },
+   {
+    "quote": "\"We are looking towards a future where machine learning and AI allow for advancements in our manufacturing processes, but everything starts with improving our current processes, all while simultaneously extracting the data out of the factory into simulation where it is useful,\" said Suzuki.",
+    "url": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota Motor Corporation Collaborates with READY Robotics to Introduce Sim-to-Real Robotic Programming in Industrial Manufacturing Using NVIDIA Omniverse",
+    "url": "https://www.ready-robotics.com/resources/ready-newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "READY has integrated ForgeOS with NVIDIA Isaac Sim to provide best-in-class visual and physics-simulation fidelity",
+    "url": "https://www.ready-robotics.com/resources/ready-newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "Shaping the Future of Industrial Progress: READY Robotics and Finch Automation Elevate Manufacturing Efficiency Through Innovation and Reinforced Partnership",
+    "url": "https://www.ready-robotics.com/resources/ready-newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "SCHUNK is proud to announce a partnership with READY Robotics to develop the Automation Explorer simulation tool.",
+    "url": "https://www.ready-robotics.com/resources/ready-newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "テレビの先にある新たなリーチ サテライトオフィスがPrime Video広告を選んだ理由",
+    "url": "https://forbesjapan.com/articles/detail/32680",
+    "pass": 3
+   },
+   {
+    "quote": "移動時間の価値を高める──JR東海が「Supreme Class」に込めた思い",
+    "url": "https://forbesjapan.com/articles/detail/32680",
+    "pass": 3
+   },
+   {
+    "quote": "Ready Robotics created the world’s first universal operating system for industrial robots. Solving labor challenges of programing the diverse set robots, co-bots and associated devices that make up most robotic applications.",
+    "url": "https://www.rtautomation.com/case-studies/ready-robotics-gets-device-connectivity/",
+    "pass": 3
+   },
+   {
+    "quote": "Promising to boost output, improve quality, reduce costs, and augment customers’ workforce through automation, they still needed a way for their system to interact with the factory floor devices.",
+    "url": "https://www.rtautomation.com/case-studies/ready-robotics-gets-device-connectivity/",
+    "pass": 3
+   },
+   {
+    "quote": "RTA provides EtherNet/IP, PROFINET, Modbus TCP, Modbus RTU and Allen-Bradley PLC source code solutions to help connect the robotic system to the devices and control platforms on the factory floor.",
+    "url": "https://www.rtautomation.com/case-studies/ready-robotics-gets-device-connectivity/",
+    "pass": 3
+   },
+   {
+    "quote": "EtherNet/IP / PROFINET / Modbus RTU / Modbus TCP",
+    "url": "https://www.rtautomation.com/case-studies/ready-robotics-gets-device-connectivity/",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-conformance and Lab Testing",
+    "url": "https://www.rtautomation.com/case-studies/ready-robotics-gets-device-connectivity/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "2024年1月17日、日本国愛知県 ー",
+    "url": "https://www.ready-robotics.com/press-releases/toyotazi-dong-che-ready-roboticstoxie-dong-si-nvidia-omniverseshang-denozhi-zao-nisim-to-realrobotutopuroguraminguwodao-ru",
+    "pass": 3
+   },
+   {
+    "quote": "「私どもは日本のITサービス大手であるSCSKとパートナーのNVIDIA Omniverseと協働し、このソリューションをトヨタにお届けできることを嬉しく思います",
+    "url": "https://www.ready-robotics.com/press-releases/toyotazi-dong-che-ready-roboticstoxie-dong-si-nvidia-omniverseshang-denozhi-zao-nisim-to-realrobotutopuroguraminguwodao-ru",
+    "pass": 3
+   },
+   {
+    "quote": "三島光産株式会社、READY Roboticsと提携し、同社のForgeOSをシミュレーションテスト用のNVIDIAのIsaac Simと合わせて導入",
+    "url": "https://www.ready-robotics.com/press-releases/san-dao-guang-chan-zhu-shi-hui-she-ready-roboticstoti-xi-si-tong-she-noforgeoswosimiyuresiyontesutoyong-nonvidianoisaac-simtohe-wasetedao-ru",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月13日、福岡県県北九州市 ― 鉄鋼生産、製品製造、エンジニアリングサービスで強力なプレゼンスを示す多角化企業である三島光産株式会社は、産業用オートメーション用のノーコードソフトウェアのパイオニアであるREADY Roboticsとの戦略的パートナーシップを発表しました",
+    "url": "https://www.ready-robotics.com/press-releases/san-dao-guang-chan-zhu-shi-hui-she-ready-roboticstoti-xi-si-tong-she-noforgeoswosimiyuresiyontesutoyong-nonvidianoisaac-simtohe-wasetedao-ru",
+    "pass": 3
+   },
+   {
+    "quote": "「私どもはREADY Roboticsと提携し、同社のForgeOSプラットフォームを活用できることを嬉しく思います」と三島光産株式会社の執行役員である溝本義史は述べています",
+    "url": "https://www.ready-robotics.com/press-releases/san-dao-guang-chan-zhu-shi-hui-she-ready-roboticstoti-xi-si-tong-she-noforgeoswosimiyuresiyontesutoyong-nonvidianoisaac-simtohe-wasetedao-ru",
+    "pass": 3
+   },
+   {
+    "quote": "ForgeOS の持つローコード/ノーコード機能とロボットにとらわれない制御力は、NVIDIAのIsaac Simを用いたオートメーションワークフローをシミュレーションしテストする能力との組み合わせによって、革新的なソリューションを実現し日本国内外のオートメーションの未来を牽引するうえで多大な優位性をもたらします",
+    "url": "https://www.ready-robotics.com/press-releases/san-dao-guang-chan-zhu-shi-hui-she-ready-roboticstoti-xi-si-tong-she-noforgeoswosimiyuresiyontesutoyong-nonvidianoisaac-simtohe-wasetedao-ru",
+    "pass": 3
+   },
+   {
+    "quote": "三島光産とREADY RoboticsがNVIDIAのシミュレーションツールの力を得てこの戦略的パートナーシップに着手する今、日本そして全世界の産業界は、オートメーションがよりアクセス可能で効率的となり、常に変化し続ける市場ニーズにさらに適応できるものとなる未来を期待することができます",
+    "url": "https://www.ready-robotics.com/press-releases/san-dao-guang-chan-zhu-shi-hui-she-ready-roboticstoti-xi-si-tong-she-noforgeoswosimiyuresiyontesutoyong-nonvidianoisaac-simtohe-wasetedao-ru",
+    "pass": 3
+   },
+   {
+    "quote": "三島光産株式会社は、1916年まで遡る長く豊かな歴史を誇る多角化経営企業です",
+    "url": "https://www.ready-robotics.com/press-releases/san-dao-guang-chan-zhu-shi-hui-she-ready-roboticstoti-xi-si-tong-she-noforgeoswosimiyuresiyontesutoyong-nonvidianoisaac-simtohe-wasetedao-ru",
+    "pass": 3
+   },
+   {
+    "quote": "AICHI PREFECTURE, Japan, Jan. 17, 2024 -- READY Robotics, a pioneer in operating systems for automation and robotics, is collaborating with Toyota Motor Corporation and NVIDIA to bring a significant leap forward in industrial robotics. Toyota will employ READY ForgeOS in tandem with",
+    "url": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "pass": 3
+   },
+   {
+    "quote": "「サービスとしてのロボティクス」で急成長のReady Roboticsの野望 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/32680",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像",
+    "url": "https://forbesjapan.com/articles/detail/32680",
+    "pass": 3
+   },
+   {
+    "quote": "100年続くホテルが、100年先の森を育てる理由──「東京ステーションホテル」が未来へつなぐもの",
+    "url": "https://forbesjapan.com/articles/detail/32680",
+    "pass": 3
+   },
+   {
+    "quote": "上智大学×タキヒヨーの共創が生んだサステナブルTシャツ――「TOKYOエシカル」がつなぐ新たな可能性",
+    "url": "https://forbesjapan.com/articles/detail/32680",
+    "pass": 3
+   },
+   {
+    "quote": "KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来",
+    "url": "https://forbesjapan.com/articles/detail/32680",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPANの最新のニュースをお届けします",
+    "url": "https://forbesjapan.com/articles/detail/32680",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "url": "https://car.watch.impress.co.jp/docs/news/1561774.html",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota Motor Corporation Collaborates with READY Robotics to Introduce Sim-to-Real Robotic Programming in Industrial Manufacturing Using NVIDIA Omniverse",
+    "url": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "pass": 3
+   },
+   {
+    "quote": "AICHI PREFECTURE, Japan, Jan. 17, 2024 -- READY Robotics, a pioneer in operating systems for automation and robotics, is collaborating with Toyota Motor Corporation and NVIDIA to bring a significant leap forward in industrial robotics. Toyota will employ READY ForgeOS in tandem with",
+    "url": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "pass": 3
+   },
+   {
+    "quote": ", to build a state-of-the-art simulated robotic programming environment for its aluminum hot forging production lines.",
+    "url": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "pass": 3
+   },
+   {
+    "quote": "READY Robotics is the developer of ForgeOS, the industrial OS for robots and automation, and a pioneer in time-saving automation solutions that overcome the obstacles faced by manufacturers. ForgeOS simplifies the programming process, reducing the typical complexities of robotic systems and enabling an easy-to-use experience for any industrial robotic manipulator.",
+    "url": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "pass": 3
+   },
+   {
+    "quote": "Another novel aspect of this \"sim-to-real\" workflow is ForgeOS' ability to relay real-time production data from the cell on the factory floor back to the original NVIDIA Isaac Sim simulation. This forms a digital twin of the live cell, enabling visualizations of its current state and facilitating greater monitoring and oversight.",
+    "url": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "pass": 3
+   },
+   {
+    "quote": "\"We are looking towards a future where machine learning and AI allow for advancements in our manufacturing processes, but everything starts with improving our current processes, all while simultaneously extracting the data out of the factory into simulation where it is useful,\" said Suzuki.",
+    "url": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota Motor Corporation Collaborates with READY Robotics to Introduce Sim-to-Real Robotic Programming in Industrial Manufacturing Using NVIDIA Omniverse",
+    "url": "https://www.ready-robotics.com/resources/ready-newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "The industry pioneer brings enhanced data security to industrial automation with their ISO-certified information security management system.",
+    "url": "https://www.ready-robotics.com/resources/ready-newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "READY Robotics and Finch Automation Reinforce Partnership to Drive Groundbreaking Innovation in Manufacturing Automation",
+    "url": "https://www.ready-robotics.com/resources/ready-newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "Shaping the Future of Industrial Progress: READY Robotics and Finch Automation Elevate Manufacturing Efficiency Through Innovation and Reinforced Partnership",
+    "url": "https://www.ready-robotics.com/resources/ready-newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "READY Robotics and the Industrial Solutions Network of CED Partner to Empower Industrial Customers with ForgeOS",
+    "url": "https://www.ready-robotics.com/resources/ready-newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "Ready Robotics created the world’s first universal operating system for industrial robots. Solving labor challenges of programing the diverse set robots, co-bots and associated devices that make up most robotic applications.",
+    "url": "https://www.rtautomation.com/case-studies/ready-robotics-gets-device-connectivity/",
+    "pass": 3
+   },
+   {
+    "quote": "Promising to boost output, improve quality, reduce costs, and augment customers’ workforce through automation, they still needed a way for their system to interact with the factory floor devices.",
+    "url": "https://www.rtautomation.com/case-studies/ready-robotics-gets-device-connectivity/",
+    "pass": 3
+   },
+   {
+    "quote": "RTA provides EtherNet/IP, PROFINET, Modbus TCP, Modbus RTU and Allen-Bradley PLC source code solutions to help connect the robotic system to the devices and control platforms on the factory floor.",
+    "url": "https://www.rtautomation.com/case-studies/ready-robotics-gets-device-connectivity/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "トヨタ自動車、READY Roboticsと協働し、NVIDIA Omniverse上での製造... — トヨタのREADY RoboticsならびにNVIDIAとの協働は、ロボティックプロセスオートメーションがいかにプログラミングされ効率性、可用性、安全性の向上を伴い導入されるかについて新たなフロンティアを創造しようとしています。",
+    "url": "https://www.ready-robotics.com/press-releases/toyotazi-dong-che-ready-roboticstoxie-dong-si-nvidia-omniverseshang-denozhi-zao-nisim-to-realrobotutopuroguraminguwodao-ru",
+    "pass": 3
+   },
+   {
+    "quote": "三島光産株式会社、READY Roboticsと提携し、同社のForgeOSをシミュレ... — 「私どもはREADY Roboticsと提携し、同社のForgeOSプラットフォームを活用できることを嬉しく思います」と三島光産株式会社の執行役員である溝本義史は述べています。",
+    "url": "https://www.ready-robotics.com/press-releases/san-dao-guang-chan-zhu-shi-hui-she-ready-roboticstoti-xi-si-tong-she-noforgeoswosimiyuresiyontesutoyong-nonvidianoisaac-simtohe-wasetedao-ru",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ、READY RoboticsとNVIDIAと協業しロボットシミュレーション環... — Jan 18, 2024 · READY Robotics、NVIDIA、トヨタが協業 ロボット用OSを提供するREADY Roboticsは1月17日、トヨタ自動車およびNVIDIAと産業用ロボットで協業すると発表した。",
+    "url": "https://car.watch.impress.co.jp/docs/news/1561774.html",
+    "pass": 3
+   },
+   {
+    "quote": "レディロボティクスとトヨタ、アルミ鍛造生産をRPA化 | NEXT MOBILITY... — Jan 18, 2024 · 産業ロボット向けOS「ForgeOS」の開発を手掛けるREADY Robotics社は1月17日（ 米オハイオ州コロンバス発 ）、日本のトヨタ自動車並びに米NVIDIA社と協業し、アルミニウム熱間鍛造生産ラインのRPA化（ ロボティック プロセス オートメーション ）に取り組む。",
+    "url": "https://www.nextmobility.jp/car_parts/ready-robotics-and-toyota-implement-rpa-in-aluminum-forging-production20240118/",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota Motor Corporation Collaborates with READY Robotics to ... — Jan 17, 2024 · AICHI PREFECTURE, Japan, Jan. 17, 2024 -- READY Robotics, a pioneer in operating systems for automation and robotics, is collaborating with Toyota Motor Corporation and NVIDIA to bring a significant leap forward in industrial robotics.",
+    "url": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "pass": 3
+   },
+   {
+    "quote": "READY Newsroom - ready-robotics.com — SCHUNK is proud to announce a partnership with READY Robotics to develop the Automation Explorer simulation tool. The collaboration brings READY’s revolutionary ForgeOS to ISN's customers.",
+    "url": "https://www.ready-robotics.com/resources/ready-newsroom",
+    "pass": 3
+   },
+   {
+    "quote": "「サービスとしてのロボティクス」で急成長のReady Roboticsの野望 | ... — Mar 26, 2020 · Ready RoboticsのOS「Forge O/S」は、あらゆるメーカーのロボットに対応しており、ロボティクスやコーディングの知識がない従業員でも、用途に応じてロボットをプログラムすることができる。",
+    "url": "https://forbesjapan.com/articles/detail/32680",
+    "pass": 3
+   },
+   {
+    "quote": "Portfolio — READY Robotics – SIP Capital — READY Roboticsは、共通のインターフェイスで工場や倉庫で稼働するあらゆるメーカーの産業用ロボットを簡単に操作できるエンドユーザー指向のオペレーティングシステム「READY Forge/OS」でオートメーションを加速させます。",
+    "url": "https://sipcapital.vc/ja/ready-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota Motor Corporation Collaborates with READY Robotics to ... — Jan 17, 2024 · AICHI PREFECTURE, Japan, Jan. 17, 2024 /PRNewswire/ -- READY Robotics, a pioneer in operating systems for automation and robotics, is collaborating with Toyota Motor Corporation and NVIDIA to...",
+    "url": "https://www.prnewswire.com/news-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse-302037266.html",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - ready-robotics.com — See how READY Robotics and ForgeOS have transformed manufacturing.",
+    "url": "https://ready-robotics.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Ready Robotics — Nov 5, 2017 · The Infrastructure Innovation Center at Stanley Black & Decker has been working with READY Robotics to identify opportunities where robotic automation might benefit Stanley’s operations. The Center sponsored a one-month trial deployment to a Stanley Infrastructure factory.",
+    "url": "https://ready-robotics.com/category/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Ready Robotics Gets Device Connectivity - Real Time ... — After evaluating the target customer’s need, it was decided that Real Time Automation would provide EtherNet/IP, PROFINET, Modbus TCP, Modbus RTU and Allen-Bradley PLC source code solutions to help connect the robotic system to the devices and control platforms present on the factory floor.",
+    "url": "https://www.rtautomation.com/case-studies/ready-robotics-gets-device-connectivity/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Ready Robotics & AMCI Integrated Motors — May 16, 2024 · READY Robotics designed a modular solution for customers who need an industrial palletizer built to fit their exact needs, without the long deployment times of a traditional custom solution...",
+    "url": "https://www.youtube.com/watch?v=dHwPbKy0aO4",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Need a solution for your challenge? Contact us:",
+    "url": "https://www.rtautomation.com/case-studies/ready-robotics-gets-device-connectivity/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "READY Robotics (@ReadyRobotics) / Posts / X Jun 30, 2016 · Find your way to the Rockwell Automation Innovation Booth #1176 and be part of a paradigm shift with READY Robotics! We're not just making robots better; we're transforming the global perception of automation.",
+    "url": "https://x.com/ReadyRobotics",
+    "pass": 3
+   },
+   {
+    "quote": "READY Robotics on X: \"Within a day’s drive of 60% of US ... Feb 22, 2021 · Within a day’s drive of 60% of US manufacturing, and loaded with tech talent, Columbus, OH has been the perfect place to build READY. We're honored to be featured in this @WSJ article on the strength of the midwest. wsj.com/articles/midwe…",
+    "url": "https://x.com/ReadyRobotics/status/1363920685576421389",
+    "pass": 3
+   },
+   {
+    "quote": "READY Robotics on X: \"Need a break from the work day grind? ... Oct 3, 2019 · Need a break from the work day grind? 😉 The Stay READY monthly news round up is available! Take a break and catch up on news from an interesting September in the #Automation industry.",
+    "url": "https://x.com/ReadyRobotics/status/1179766749048299522",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "READY Robotics - LinkedIn READY Robotics is the developer of ForgeOS, the industrial OS for robots and automation, and a pioneer in cutting-edge automation solutions that overcome the obstacles faced by manufacturers.",
+    "url": "https://www.linkedin.com/company/ready-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "READY Robotics - LinkedIn READY Robotics leverer autonome løsninger som gjør renhold enklere, smartere og mer lønnsomt. Vi kombinerer ledende robotteknologi med tett oppfølging og service, slik at kundene våre kan ...",
+    "url": "https://www.linkedin.com/company/ready-robotics-as",
+    "pass": 3
+   },
+   {
+    "quote": "Benjamin Gibbs - Stealth Startup | LinkedInREADY Robotics, a Columbus, Ohio-based company founded in ...Standard Bots acquires READY Robotics, expands AI-driven ...Noah Ready-Campbell - Founder, CEO & Engineer | LinkedInREADY Robotics is being auctioned off by Rockwell Automation Experience: Stealth Startup · Location: Washington DC-Baltimore Area · 500+ connections on LinkedIn. View Benjamin Gibb",
+    "url": "https://www.linkedin.com/in/benjamingibbs",
+    "pass": 3
+   },
+   {
+    "quote": "READY Robotics, a Columbus, Ohio-based company founded in ... Silicon Valley Disposition is auctioning off READY Robotics' equipment, including nearly 50 robots and CNC machine tools, from August 13-15.",
+    "url": "https://www.linkedin.com/posts/six-degrees-of-robotics_ready-robotics-a-columbus-ohio-based-company-activity-7228007178844975104-Xl8q",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "READY Robotics | Columbus OH - FacebookREADY Robotics - The Forge/Station and the @FlexArm A-32...READY Robotics - READY Robotics co-founders Benjamin Gibbs ...READY Robotics - READY Academy is LIVE! Sign up today, and ...READY Robotics - READY Cells: Palletizing is more than ...Fun fact: Forge/OS 5 is an open platform. This enables OEMs ...But wait, there's more! Introducing READY Cells: Palletiz",
+    "url": "https://www.facebook.com/ReadyRobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "READY Robotics - The Forge/Station and the @FlexArm A-32... READY Robotics pndsooSert0eah0b2at1o6f1hmmu0rh097i4t97,7uvNm491258g683e0a · Shared with Public",
+    "url": "https://www.facebook.com/ReadyRobotics/posts/the-forgestation-and-the-flexarm-a-32-team-up-once-again-to-automate-tapping-ste/1156950958033254/",
+    "pass": 3
+   },
+   {
+    "quote": "READY Robotics - READY Robotics co-founders Benjamin Gibbs ... Feb 25, 2020 · READY Robotics co-founders Benjamin Gibbs and Kel Guerin are featured in Forbes announcing our $23M Series B including some of the world’s most respected...",
+    "url": "https://www.facebook.com/ReadyRobotics/posts/ready-robotics-co-founders-benjamin-gibbs-and-kel-guerin-are-featured-in-forbes-/953042655090753/",
+    "pass": 3
+   },
+   {
+    "quote": "READY Robotics - READY Academy is LIVE! Sign up today, and ... Oct 15, 2020 · READY Academy is LIVE! Sign up today, and learn the skills necessary to design, deploy, manage, and scale",
+    "url": "https://www.facebook.com/ReadyRobotics/posts/1129502060778144/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://powwowlongbeach.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.ready-robotics.com/press-releases/toyotazi-dong-che-ready-roboticstoxie-dong-si-nvidia-omniverseshang-denozhi-zao-nisim-to-realrobotutopuroguraminguwodao-ru",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ready-robotics.com/press-releases/san-dao-guang-chan-zhu-shi-hui-she-ready-roboticstoti-xi-si-tong-she-noforgeoswosimiyuresiyontesutoyong-nonvidianoisaac-simtohe-wasetedao-ru",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/1561774.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://36kr.jp/502923/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pfrobotics.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-maker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ready-robotics.com/resources/ready-newsroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/32680",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sipcapital.vc/ja/ready-robotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ifr.org/case-studies/industry-robots-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rtautomation.com/case-studies/ready-robotics-gets-device-connectivity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.wiz.io/Japanese/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ReadyRobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ReadyRobotics/status/1363920685576421389",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ReadyRobotics/status/1179766749048299522",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ready-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ready-robotics-as",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/benjamingibbs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/six-degrees-of-robotics_ready-robotics-a-columbus-ohio-based-company-activity-7228007178844975104-Xl8q",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ReadyRobotics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ReadyRobotics/posts/the-forgestation-and-the-flexarm-a-32-team-up-once-again-to-automate-tapping-ste/1156950958033254/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ReadyRobotics/posts/ready-robotics-co-founders-benjamin-gibbs-and-kel-guerin-are-featured-in-forbes-/953042655090753/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ReadyRobotics/posts/1129502060778144/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ReadyRobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "READY Robotics 日本 導入",
+   "results": [
+    "https://www.ready-robotics.com/press-releases/toyotazi-dong-che-ready-roboticstoxie-dong-si-nvidia-omniverseshang-denozhi-zao-nisim-to-realrobotutopuroguraminguwodao-ru",
+    "https://www.ready-robotics.com/press-releases/san-dao-guang-chan-zhu-shi-hui-she-ready-roboticstoti-xi-si-tong-she-noforgeoswosimiyuresiyontesutoyong-nonvidianoisaac-simtohe-wasetedao-ru",
+    "https://car.watch.impress.co.jp/docs/news/1561774.html",
+    "https://36kr.jp/502923/",
+    "https://www.nextmobility.jp/car_parts/ready-robotics-and-toyota-implement-rpa-in-aluminum-forging-production20240118/",
+    "https://robotstart.info/article/2026/10/20/382539.html",
+    "https://physicalainews.jp/companies/ready-robotics"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "READY Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.pfrobotics.jp/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.daido-net.co.jp/",
+    "https://maymobility.com/ja",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "READY Robotics Japan",
+   "results": [
+    "https://www.ready-robotics.com/press-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse",
+    "https://www.ready-robotics.com/resources/ready-newsroom",
+    "https://forbesjapan.com/articles/detail/32680",
+    "https://sipcapital.vc/ja/ready-robotics/",
+    "https://www.prnewswire.com/news-releases/toyota-motor-corporation-collaborates-with-ready-robotics-to-introduce-sim-to-real-robotic-programming-in-industrial-manufacturing-using-nvidia-omniverse-302037266.html",
+    "https://www.linkedin.com/company/ready-robotics",
+    "https://www.automation.com/article/toyota-motor-corporation-collaborates-with-ready-r"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "READY Robotics manufacturing customer case study",
+   "results": [
+    "https://ready-robotics.com/resources/case-studies",
+    "https://ready-robotics.com/category/case-study",
+    "https://ifr.org/case-studies/industry-robots-case-studies",
+    "https://www.rtautomation.com/case-studies/ready-robotics-gets-device-connectivity/",
+    "https://www.youtube.com/watch?v=dHwPbKy0aO4",
+    "https://mjmmfg.com/robotics-enclosure-case-study/",
+    "https://www.cnctal.com/robotics-cnc-machining-case-study/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "READY Robotics white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://partners.wiz.io/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "READY Robotics founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com READY Robotics",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com READY Robotics",
+   "results": [
+    "https://x.com/ReadyRobotics",
+    "https://x.com/ReadyRobotics/status/1363920685576421389",
+    "https://x.com/RobotReadyApp",
+    "https://x.com/ReadyRobotics/status/1179766749048299522",
+    "https://x.com/ReadyRobotics/status/1179037768443285505",
+    "https://x.com/ReadyRobotics/status/1534651918815051782",
+    "https://blog.x.com/en/engineering/rebuilding-the-global-town-square-from-scratch"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com READY Robotics",
+   "results": [
+    "https://www.linkedin.com/company/ready-robotics",
+    "https://www.linkedin.com/company/ready-robotics-as",
+    "https://www.linkedin.com/in/benjamingibbs",
+    "https://www.linkedin.com/posts/six-degrees-of-robotics_ready-robotics-a-columbus-ohio-based-company-activity-7228007178844975104-Xl8q",
+    "https://www.linkedin.com/posts/joe-michie-automation_robotics-industrialrobot-acquisition-activity-7333812343656636417-rORD",
+    "https://www.linkedin.com/in/noahreadycampbell",
+    "https://www.linkedin.com/posts/davegriffith23_manufacturing-automation-robotics-activity-7231716686742114304-nNw3"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com READY Robotics",
+   "results": [
+    "https://www.facebook.com/ReadyRobotics/",
+    "https://www.facebook.com/ReadyRobotics/posts/the-forgestation-and-the-flexarm-a-32-team-up-once-again-to-automate-tapping-ste/1156950958033254/",
+    "https://www.facebook.com/ReadyRobotics/posts/ready-robotics-co-founders-benjamin-gibbs-and-kel-guerin-are-featured-in-forbes-/953042655090753/",
+    "https://www.facebook.com/ReadyRobotics/posts/1129502060778144/",
+    "https://www.facebook.com/ReadyRobotics/posts/ready-cells-palletizing-is-more-than-just-modular-design-quick-deployment-no-cod/987257359372845/",
+    "https://www.facebook.com/ReadyRobotics/videos/but-wait-theres-more-introducing-ready-cells-palletizer-the-robot-agnostic-modul/237538689058036/",
+    "https://www.facebook.com/ReadyRobotics/videos/forgeos-5-for-developers-and-builders/903599496864950/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "READY Robotics note 社長",
+   "results": [
+    "https://ready-robotics.com/about/leadership",
+    "https://ready-robotics.com/about/weareready",
+    "https://www.cbinsights.com/company/ready-robotics/people",
+    "https://www.crunchbase.com/person/benjamin-gibbs-2",
+    "https://terukosan.com/yuta-konno-ceo-office-fundraising-unparalleled-20261111/",
+    "https://www.bloomberg.com/profile/company/1613803D:US",
+    "https://tracxn.com/d/companies/ready-robotics/__U6HeSWQXNqahX-K4UatTRdoUhlisfuzfohYwotIkLoQ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "READY Robotics X 投稿",
+   "results": [
+    "https://x.com/ReadyRobotics",
+    "https://www.instagram.com/readyrobotics/",
+    "https://forbesjapan.com/articles/detail/32680",
+    "https://x.com/ROX_Robotics",
+    "https://robo-index.github.io/zh/guides/",
+    "https://blog.csdn.net/a237072751/article/details/129574424",
+    "https://zhuanlan.zhihu.com/p/1896268216097026919"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

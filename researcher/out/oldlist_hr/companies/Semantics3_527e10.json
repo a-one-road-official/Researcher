@@ -1,0 +1,458 @@
+{
+ "name": "Semantics3",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T08:50:42.778696+00:00",
+ "official_url": "http://www.semantics3.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "- Dashboards (Analytics reports, Price monitoring)",
+    "url": "https://www.ycombinator.com/companies/semantics3",
+    "pass": 3
+   },
+   {
+    "quote": "We offer enterprise solutions for:",
+    "url": "https://www.ycombinator.com/companies/semantics3",
+    "pass": 3
+   },
+   {
+    "quote": "- Brands (market share & trend reports, price monitoring)",
+    "url": "https://www.ycombinator.com/companies/semantics3",
+    "pass": 3
+   },
+   {
+    "quote": "Prior that led engineering for the HRIS suite at Lattice (W16) and before that was founder of Semantics3 (W13), which eventually got acquired by Hearst Media.",
+    "url": "https://www.ycombinator.com/companies/semantics3",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Prior that led engineering for the HRIS suite at Lattice (W16) and before that was founder of Semantics3 (W13), which eventually got acquired by Hearst Media.",
+    "url": "https://www.ycombinator.com/companies/semantics3",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Semantics3 : Data and AI platform for Ecommerce & Cross ... — Semantics3 : Data and AI platform for Ecommerce & Cross ... Y Combinator https://www.ycombinator.com > sema...",
+    "url": "https://www.ycombinator.com/companies/semantics3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "The Semantics3 APIs explained #datascience #api #productAPI # ... Rythm Labs 🎮 (@RythmLabs). The Semantics3 APIs explained #datascience #api #productAPI #ecommerce",
+    "url": "https://x.com/RythmLabs/status/626802089897889792",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Semantics3 - LinkedIn Semantics3 - LinkedIn LinkedIn https://www.linkedin.com > semantics3",
+    "url": "https://www.linkedin.com/company/semantics3",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.semantics3.com",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-dx.com/column/agency_dealer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ealc.fas.harvard.edu/handbook-japanese-semantics-and-pragmatics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://manoa.hawaii.edu/catalog-2022-23/category/arts-languages-letters/eall/jpn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Semantics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://link.springer.com/article/10.1007/s10831-004-1289-0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aws.amazon.com/jp/manufacturing/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.emixa.com/cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=qHwK8ughSNk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sales-mind.ai/en/white-label/saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Semantic_AI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/semantics3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tryspecter.com/companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.failory.com/startups/sales-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/RythmLabs/status/626802089897889792",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/semantics3",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Semantics3 日本 導入",
+   "results": [
+    "https://www.stellantis.jp/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "https://www.webcg.net/articles/-/54501",
+    "https://trafficnews.jp/post/725198",
+    "https://x.com/car_watch/status/2117506082629370157",
+    "https://response.jp/article/2026/11/07/418712.html",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160111/",
+    "https://github.com/Semantics3",
+    "https://semanticagp.com/WhatIsSemantics/semantics3-playground"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Semantics3 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://growth-dx.com/column/agency_dealer/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.rakus.co.jp/rakurakucloud/hanbai/column/2021/0202.php",
+    "https://www.provej.jp/column/distributor-vs-agent-2026/",
+    "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97%E7%89%B9%E7%B4%84%E5%BA%97%E3%83%95%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A3%E3%82%A4%E3%82%BA%E5%A5%91%E7%B4%84/%E7%89%B9%E7%B4%84%E5%BA%97%E4%BB%A3%E7%90%86%E5%95%86%E3%81%AE%E9%81%95%E3%81%84/%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97%E3%83%BB%E7%89%B9%E7%B4%84%E5%BA%97%E3%83%BB%E4%BB%A3%E7%90%86%E5%95%86%E3%83%BB%E8%B2%A9%E5%A3%B2%E5%BA%97%E3%81%AE%E6%B3%95%E7%9A%84%E9%81%95%E3%81%84/",
+    "https://www.sidebizz.net/blog/agent/general-agency/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Semantics3 Japan",
+   "results": [
+    "https://ealc.fas.harvard.edu/handbook-japanese-semantics-and-pragmatics",
+    "https://manoa.hawaii.edu/catalog-2022-23/category/arts-languages-letters/eall/jpn/",
+    "https://en.wikipedia.org/wiki/Semantics",
+    "https://link.springer.com/article/10.1007/s10831-004-1289-0",
+    "https://arts-sciences.buffalo.edu/content/dam/arts-sciences/linguistics/AlumniDissertations/Hasegawa%20dissertation.pdf",
+    "https://ocw.mit.edu/courses/21g-503-japanese-iii-fall-2019/pages/syllabus/",
+    "https://www.glossa-journal.org/article/id/5887/",
+    "https://www.facebook.com/sas3japan/?locale=ja_JP",
+    "https://www.ninjal.ac.jp/english/research/cr-project/project/a/Lexicon/",
+    "https://www.ycombinator.com/companies/semantics3"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Semantics3 manufacturing customer case study",
+   "results": [
+    "https://c3.ai/customers",
+    "https://aws.amazon.com/manufacturing/case-studies/",
+    "https://www.emixa.com/cases",
+    "https://www.youtube.com/watch?v=qHwK8ughSNk",
+    "https://www.comtecinfo.com/case-studies/manufacturing/",
+    "https://www.athenaswc.com/case-studies/",
+    "https://www.mendix.com/customer-stories/",
+    "https://www.ibm.com/case-studies",
+    "https://www.syntax.com/why-syntax/case-studies/",
+    "https://www.casestudies.com/customer/semantics3"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Semantics3 white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://sales-mind.ai/en/white-label/saas",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://intandem.vcita.com/blog/partners/different-types-of-white-label-partnerships",
+    "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Semantics3 founded funding employees revenue",
+   "results": [
+    "https://growjo.com/company/Semantic_AI",
+    "https://www.ycombinator.com/companies/semantics3",
+    "https://www.tryspecter.com/companies",
+    "https://www.failory.com/startups/sales-automation",
+    "https://www.demandgenreport.com/financial-news/",
+    "https://pitchbook.com/profiles/company/95081-68",
+    "https://research.contrary.com/company/cognition",
+    "https://www.owler.com/company/wikibuy",
+    "https://eb.fyi/semantics3/",
+    "http://compworth.com/company/semantics3"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Semantics3",
+   "results": [
+    "https://note.com/reading_monkey/n/nf7ac83256b9a?hl=en",
+    "https://note.com/magemanager/n/n5fd4a44c6716",
+    "https://note.com/y0u_msmr/n/nbd77cb8bac95",
+    "https://note.com/fond_hosta5237/n/ndaef9a88a3b2?hl=en",
+    "https://note.com/reading_monkey/n/nfd8c91c5c4e5",
+    "https://note.com/zero_sta/n/n6710b27b104c?hl=en",
+    "https://note.com/310meimi/n/nb748cc2e4e1c",
+    "https://note.com/maxmatsuura/n/n04f20fbdce8e",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/dowaoshark/n/n324242681db8"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com Semantics3",
+   "results": [
+    "https://x.com/OzPerfumeJunkie/status/1477912377836244995",
+    "https://x.com/hashtag/oldherbaceous",
+    "https://x.com/wataruu",
+    "https://x.com/RythmLabs/status/626802089897889792",
+    "https://x.com/",
+    "https://x.com/govind201",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/msjonker/status/514269909153370113",
+    "https://x.com/HV021",
+    "https://x.com/hashtag/ProductAPI"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Semantics3",
+   "results": [
+    "https://www.linkedin.com/company/semantics3",
+    "https://www.linkedin.com/in/vinothgopi",
+    "https://www.linkedin.com/posts/govindchandrasekhar_launch-yc-branch-ai-state-of-the-art-ecommerce-activity-7168090841637482496-oJSZ",
+    "https://uk.linkedin.com/in/praveens07",
+    "https://in.linkedin.com/in/asmitkumar",
+    "https://sg.linkedin.com/in/amarnus",
+    "https://www.linkedin.com/posts/y-combinator_launch-yc-branch-ai-state-of-the-art-ecommerce-activity-7167986693466251265-Emwr",
+    "https://in.linkedin.com/in/govindchandrasekhar",
+    "https://www.linkedin.com/in/raj-bhandari-629b764",
+    "https://www.linkedin.com/pulse/20141113203645-37506046-using-the-semantics3-api-as-a-barcode-lookup-database?articleId=8064426126741950320"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Semantics3",
+   "results": [
+    "https://www.facebook.com/elayabharath/",
+    "https://www.facebook.com/100063861574072/videos/language-pedagogy-most-important-question/1679926130468907/",
+    "https://www.facebook.com/61575790512115/videos/a-little-look-at-some-of-the-orders-ive-been-working-on-recently-and-that-big-pi/944577612055749/",
+    "https://www.facebook.com/groups/WABmail/posts/863424107031126/",
+    "https://www.facebook.com/asjames3/posts/i-had-to-put-verodian-to-restthe-original-idea-was-simple-use-ai-to-help-you-fin/29566631199606630/",
+    "https://www.facebook.com/tools4reading/posts/every-child-can-learn-to-readits-our-job-to-figure-out-how-wise-words-from-louis/1354981526074163/",
+    "https://www.facebook.com/tgplabel/",
+    "https://www.facebook.com/McObject/posts/read-the-article-time-critical-sensor-data-fusion-in-mission-critical-hard-real-/1800505021400403/",
+    "https://www.facebook.com/groups/1617879212293077/posts/2333130167434641/",
+    "https://www.facebook.com/groups/1261019949192693/posts/1510570024237683/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Semantics3 note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/sadaaki",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://diamond.jp/articles/-/388572",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://x.com/sadaaki",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Semantics3 X 投稿",
+   "results": [
+    "https://www.semanticscholar.org/",
+    "https://eb.fyi/semantics3/",
+    "https://x.com/Mention?lang=ja",
+    "https://note.com/miraichi_ai/n/nb9e680aded12",
+    "https://growthseed.jp/experts/sns/twitter-mention/",
+    "https://www.semanticsx.com/",
+    "https://github.com/CVHub520/X-AnyLabeling/blob/main/examples/interactive_video_object_segmentation/sam3/README.md",
+    "https://w3c.github.io/N3/reports/20230703/semantics.html",
+    "https://github.com/Semantics3",
+    "https://x.com/Semantics3"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）"
+ }
+}

@@ -8,7 +8,7 @@
  ],
  "context": "手順・やり方",
  "kind": "market",
- "researched_at": "2026-11-09T12:03:22.413438+00:00",
+ "researched_at": "2026-11-11T08:56:14.624657+00:00",
  "evidence": {
   "手順・やり方": [
    {
@@ -97,6 +97,26 @@
    },
    {
     "quote": "of the DQAF to set a framework for developing backcasted series, integrating them into a National",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "effects the trend or level of GDP, and could be the result of a predictable bias. In this literature",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "the use of the analysis was to build “bias” estimat es into the modelling process used in policy",
+    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "revisions in with the regular revision practices when looking at issues of bias. It could lead to a false",
     "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -286,26 +306,6 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "失敗・落とし穴": [
-   {
-    "quote": "effects the trend or level of GDP, and could be the result of a predictable bias. In this literature",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "the use of the analysis was to build “bias” estimat es into the modelling process used in policy",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "revisions in with the regular revision practices when looking at issues of bias. It could lead to a false",
-    "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "一次情報の探し方": [
    {
     "quote": "EN.PDF/3544793c-0bde-4381-a7ad-a5cfe5d8c8d0",
@@ -393,7 +393,7 @@
    {
     "url": "https://note.com/ripe_ixora5107/n/n65a78d02a269",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://note.com/good_poppy696/n/n9b843577e877",
@@ -421,9 +421,9 @@
     "method": "http"
    },
    {
-    "url": "https://www.stat.go.jp/data/cti/pdf/kaitei_201812.pdf",
+    "url": "https://www.stat.go.jp/data/cpi/2025/sokyu.html",
     "status": "ok",
-    "method": "pdf"
+    "method": "http"
    },
    {
     "url": "https://www.actuaries.jp/info/20251226-1.html",
@@ -436,27 +436,17 @@
     "method": "pdf"
    },
    {
+    "url": "https://www.reuters.com/jp/markets/japan/WVNXT2CYG5MP7HKAWCFB4B5JWA-2026-08-07/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.boj.or.jp/statistics/outline/notice_2022/not220927a.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.vrp-p.jp/acpedia/5900/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/20080418_08.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.boj.or.jp/statistics/outline/notice_2025/not250925a.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stat.go.jp/data/cpi/2025/sokyu.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.actuaries.jp/lib/practice-standard/IAS19_jitumukijun.html",
     "status": "ok",
     "method": "http"
    },
@@ -471,12 +461,22 @@
     "method": "pdf"
    },
    {
+    "url": "https://www.grantthornton.jp/globalassets/pdf/report/monthlyreport/monthlyreportvol48.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://jicpa.or.jp/specialized_field/81_2.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.grantthornton.jp/globalassets/pdf/report/monthlyreport/monthlyreportvol48.pdf",
+    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fsa.go.jp/policy/economic_value-based_solvency/05_1.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -486,17 +486,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://viewpoint.pwc.com/dt/jp/ja/pwc/ifrs_qa/ifrs_qa_JP_ditamap/key14_JP.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ipo-method.com/accounting/1735/",
     "status": "ok",
     "method": "http"
    },
@@ -504,6 +494,16 @@
     "url": "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/AN00234698-20080200-0001.pdf?file_id=16039",
     "status": "ok",
     "method": "pdf"
+   },
+   {
+    "url": "https://www.fsa.go.jp/news/r6/hoken/20241031/20241031.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ey.com/ja_jp/technical/corporate-accounting/accounting-topics/2011/accounting-topics-2011-04-05-01",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://unstats.un.org/unsd/nationalaccount/aeg/2018/M12_8iiib_Backcasting.pdf",
@@ -526,14 +526,14 @@
     "method": "http"
    },
    {
-    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111%2Ftwec.13274",
-    "status": "http_403",
+    "url": "https://ideas.repec.org/p/cbr/cbrwps/wp543.html",
+    "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://stats.stackexchange.com/questions/154577/how-to-work-with-index-numbers",
+    "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2015/08/residual-seasonality-and-monetary-policy/",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    }
   ]
  },
@@ -557,15 +557,15 @@
   {
    "query": "指数の基準年の改定と遡及の作り直し系列を当時の公表値とつながない実務（基準改定・rebasing・backcast） note",
    "results": [
-    "https://www.stat.go.jp/data/cti/pdf/kaitei_201812.pdf",
+    "https://www.stat.go.jp/data/cpi/2025/sokyu.html",
     "https://www.actuaries.jp/info/20251226-1.html",
     "https://www.esri.cao.go.jp/jp/stat/di/20230626osirase.pdf",
+    "https://www.reuters.com/jp/markets/japan/WVNXT2CYG5MP7HKAWCFB4B5JWA-2026-08-07/",
+    "https://www.boj.or.jp/statistics/outline/notice_2022/not220927a.htm",
     "https://www.vrp-p.jp/acpedia/5900/",
     "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/20080418_08.pdf",
-    "https://www.boj.or.jp/statistics/outline/notice_2025/not250925a.htm",
-    "https://www.stat.go.jp/data/cpi/2025/sokyu.html",
     "https://www.fasf-j.jp/jp/wp-content/uploads/sites/2/asbj_20250307_05.pdf",
-    "https://viewpoint.pwc.com/content/dam/pwc-madison/ditaroot/jp/ja/pwc/presentations/trends_in_ifrs/assets/0000000959767679.pdf"
+    "https://www.grantthornton.jp/globalassets/pdf/report/monthlyreport/monthlyreportvol48.pdf"
    ],
    "engines": [
     "yahoo_jp"
@@ -576,14 +576,14 @@
    "query": "指数の基準年の改定と遡及の作り直し系列を当時の公表値とつながない実務（基準改定・rebasing・backcast） やり方",
    "results": [
     "https://www.stat.go.jp/data/cpi/2025/sokyu.html",
-    "https://www.actuaries.jp/lib/practice-standard/IAS19_jitumukijun.html",
+    "https://www.actuaries.jp/info/20251226-1.html",
     "https://www.vrp-p.jp/acpedia/5900/",
     "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/kakosyusei_1-2.pdf",
     "https://www.fasf-j.jp/jp/wp-content/uploads/sites/2/asbj_20250307_05.pdf",
-    "https://jicpa.or.jp/specialized_field/81_2.html",
     "https://www.grantthornton.jp/globalassets/pdf/report/monthlyreport/monthlyreportvol48.pdf",
+    "https://jicpa.or.jp/specialized_field/81_2.html",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://biz.moneyforward.com/contract/basic/19024/"
+    "https://www.fsa.go.jp/policy/economic_value-based_solvency/05_1.pdf"
    ],
    "engines": [
     "yahoo_jp"
@@ -595,13 +595,13 @@
    "results": [
     "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/kakosyusei_1-2.pdf",
     "https://www.actuaries.jp/info/pdf/20251226-1.pdf",
+    "https://www.vrp-p.jp/acpedia/5900/",
     "https://www.grantthornton.jp/globalassets/pdf/report/monthlyreport/monthlyreportvol48.pdf",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.fasf-j.jp/jp/wp-content/uploads/sites/2/asbj_20250307_05.pdf",
     "https://viewpoint.pwc.com/dt/jp/ja/pwc/ifrs_qa/ifrs_qa_JP_ditamap/key14_JP.html",
-    "https://www.vrp-p.jp/acpedia/5900/",
-    "https://ipo-method.com/accounting/1735/",
-    "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/AN00234698-20080200-0001.pdf?file_id=16039"
+    "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/AN00234698-20080200-0001.pdf?file_id=16039",
+    "https://www.fsa.go.jp/news/r6/hoken/20241031/20241031.html",
+    "https://www.ey.com/ja_jp/technical/corporate-accounting/accounting-topics/2011/accounting-topics-2011-04-05-01"
    ],
    "engines": [
     "yahoo_jp"
@@ -615,15 +615,15 @@
     "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Backcasting",
     "https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.20/2018/mtg1/3a_Item_7_Backcasting_UNSD_23_May_2018.pdf",
     "https://www.rabobank.com/knowledge/d011310657-backcasting-the-us-economy-with-dynamic-factor-models",
-    "https://onlinelibrary.wiley.com/doi/full/10.1111%2Ftwec.13274",
-    "https://stats.stackexchange.com/questions/154577/how-to-work-with-index-numbers",
-    "https://www.frbsf.org/research-and-insights/publications/economic-letter/2015/08/residual-seasonality-and-monetary-policy/",
     "https://ideas.repec.org/p/cbr/cbrwps/wp543.html",
-    "https://nyu.databrary.org/volume/1143/session/45831",
-    "https://www.bls.gov/cpi/factsheets/rebasing.htm"
+    "https://www.frbsf.org/research-and-insights/publications/economic-letter/2015/08/residual-seasonality-and-monetary-policy/",
+    "https://onlinelibrary.wiley.com/doi/full/10.1111%2Ftwec.13274",
+    "https://economics.stackexchange.com/questions/15953/how-to-handle-change-in-base-year-of-index",
+    "https://www.nber.org/system/files/chapters/c0727/c0727.pdf",
+    "https://ec.europa.eu/eurostat/web/products-manuals-and-guidelines/w/ks-01-25-030"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -640,26 +640,36 @@
     "https://note.com/todobuono/n/nf32ec35df95a"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "site:x.com 指数の基準年の改定と遡及の作り直し系列を当時の公表値とつながない実務（基準改定・rebasing・backcast）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://x.com/Bank_of_Japan_j/status/2062142579584438631",
+    "https://x.com/MitateR/status/2090732128246075897",
+    "https://x.com/takaichi_sanae/status/2090700182279065679",
+    "https://x.com/8pq3aioo/status/2086178183133728969",
+    "https://x.com/YAMAAKI48487029/status/2092433505435390087",
+    "https://x.com/LiveSquawk/status/2090707152604160199",
+    "https://x.com/platinum_1768_3/status/2079535377099178267"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 指数の基準年の改定と遡及の作り直し系列を当時の公表値とつながない実務（基準改定・rebasing・backcast）",
    "results": [
+    "https://jp.linkedin.com/pulse/time-series-forecasting-univariate-vs-multivariate-rohan-anand-mvgrf?tl=ja",
     "https://jp.linkedin.com/posts/masafumi-ota-66b81a35_日経ビジネス121号富士通特集を読みました-saasai内製化ローコードノーコード-activity-7401194937897279488-rmx6",
     "https://www.linkedin.com/posts/takahiro-s-09119440_国家統計情報庁cpi基準年を改定消費傾向に合わせ対象品目の改廃もペルー-activity-6896576898772668416-9Iiy",
     "https://jp.linkedin.com/posts/kouichimatsuda_この規程いつ誰が変えたんだっけ-まずは当該規定の改定年月日一覧から該当条文-activity-7516616125946716160-mpkk",
     "https://jp.linkedin.com/posts/seiichi-hamaguchi_以前ある会社で評価制度と給与の仕組みを作り直したことがありますそのときの失敗-activity-7520277028902764544-_Z4z",
-    "https://jp.linkedin.com/learning/excel-for-the-web-essential-training/2875367",
     "https://jp.linkedin.com/pulse/understanding-stationarity-differencing-transforming-ravichandran-ktwvc?tl=ja",
-    "https://www.linkedin.com/posts/diden-robotics_physicalai-robotics-didenrobotics-activity-7508798150380314624-Z-n-"
+    "https://jp.linkedin.com/learning/excel-2016-charts/691996"
    ],
    "engines": [
     "ddgs:google"
@@ -673,12 +683,12 @@
     "https://www.facebook.com/Japan.RIETI/posts/ノンテクニカルサマリー卸売小売サービス価格指数の長期遡及推計価格数量の分離問題と生産性野村-浩二-ファカルティフェローを掲載いたしましたhttpswwwriet/2843003312458175/",
     "https://www.facebook.com/EYJapanOfficial/photos/動画公開いまさら聞けない過年度遡及会計方針開示の基礎-過年度遡及-と-会計方針-開示について解説動画を公開しました会計方針表示方法会計上の見積りの定義や会計方針/1105713301566656/",
     "https://www.facebook.com/jarwa.or/posts/解説2025年度-損害保険大手4社による指数対応単価改定方針速報版はじめに指数対応単価とは指数対応単価とは自動車保険修理の際に損害保険会社が整備工場に支払う1時/1237854515012369/",
-    "https://www.facebook.com/jarwa.or/photos/解説2025年度-損害保険大手4社による指数対応単価改定方針速報版はじめに指数対応単価とは指数対応単価とは自動車保険修理の際に損害保険会社が整備工場に支払う1時/1237854485012372/",
     "https://www.facebook.com/taxpolicy/photos/前期損益修正の処理過年度遡及会計基準の導入によって過年度の経理処理のミスを訂正する際に前期損益修正を行わず修正再表示の処理を行うこととなっている-前期損益修正は/591797317513001/",
-    "https://www.facebook.com/Tsujifl/posts/フランス商法関連-第3弾商業賃貸借料の見直しが遡及的かどうかを知る商業賃貸借料の年次見直しを計算する方法ilc指数と35の上限を考慮した場合フランス法-フランス/959610072836878/"
+    "https://www.facebook.com/jarwa.or/photos/解説2025年度-損害保険大手4社による指数対応単価改定方針速報版はじめに指数対応単価とは指数対応単価とは自動車保険修理の際に損害保険会社が整備工場に支払う1時/1237854485012372/",
+    "https://www.facebook.com/PTOTST.NET/posts/中医協総会にて回復期リハビリ病棟に関する重要な論点として下記が議論されました実績指数の除外基準の妥当性重症患者割合4割の是非日常生活機能評価表の役割と負担データ/886907350341402/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -687,12 +697,12 @@
    "results": [
     "https://www.stat.go.jp/data/cpi/2025/sokyu.html",
     "https://www.actuaries.jp/info/20251226-1.html",
-    "https://www.boj.or.jp/statistics/outline/notice_2025/not250925a.htm",
-    "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/20080418_08.pdf",
+    "https://www.reuters.com/jp/markets/japan/WVNXT2CYG5MP7HKAWCFB4B5JWA-2026-08-07/",
+    "https://www.boj.or.jp/statistics/outline/notice_2025/not250911a.htm",
     "https://www.vrp-p.jp/acpedia/5900/",
-    "https://www.ey.com/content/dam/ey-unified-site/ey-com/ja-jp/technical/corporate-accounting/commentary/retroactive-adjustment/pdf/ey-japan-corporate-accounting-commentary-retroactive-adjustment-2012-04-10-04.pdf",
-    "https://jicpa.or.jp/specialized_field/81_2.html",
+    "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/20080418_08.pdf",
     "https://www.fasf-j.jp/jp/wp-content/uploads/sites/2/asbj_20250307_05.pdf",
+    "https://jicpa.or.jp/specialized_field/81_2.html",
     "https://www.grantthornton.jp/globalassets/pdf/report/monthlyreport/monthlyreportvol48.pdf"
    ],
    "engines": [
@@ -704,14 +714,14 @@
    "query": "指数の基準年の改定と遡及の作り直し系列を当時の公表値とつながない実務（基準改定・rebasing・backcast） X 投稿",
    "results": [
     "https://www.stat.go.jp/data/cpi/2025/sokyu.html",
-    "https://www.actuaries.jp/lib/practice-standard/IAS19_jitumukijun.html",
+    "https://www.actuaries.jp/info/20251226-1.html",
     "https://www.vrp-p.jp/acpedia/5900/",
     "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/kakosyusei_1-2.pdf",
     "https://jicpa.or.jp/specialized_field/81_2.html",
     "https://www.fasf-j.jp/jp/wp-content/uploads/sites/2/asbj_20250307_05.pdf",
-    "https://www.fsa.go.jp/news/r7/hoken/20250723/20250723.html",
     "https://www.grantthornton.jp/globalassets/pdf/report/monthlyreport/monthlyreportvol48.pdf",
-    "https://viewpoint.pwc.com/dt/jp/ja/pwc/ifrs_qa/ifrs_qa_JP_ditamap/key14_JP.html"
+    "https://www.fsa.go.jp/news/r7/hoken/20250723/20250723.html",
+    "https://zelos.co.jp/background-to-the-birth-of-the-retrospective-standard"
    ],
    "engines": [
     "yahoo_jp"
@@ -721,22 +731,24 @@
   {
    "query": "index rebasing backcast series contemporaneous publication statistical break site:linkedin.com",
    "results": [
+    "https://lc.linkedin.com/in/abigail-leo-statistician",
     "https://www.linkedin.com/pulse/indias-gdp-rebasing-methodological-upgrade-chaitanya-kamdar-tqxkc",
-    "https://www.linkedin.com/pulse/correcting-lens-picture-indias-statistical-reforms-imfs-ganguly-y6wjc",
+    "https://www.linkedin.com/posts/shivam-jitendra-choubey-b02697217_gdp-gdprebasing-indianeconomy-activity-7502024525048614914-upyT",
     "https://ca.linkedin.com/posts/international-association-of-survey-statisticians-iass_dataintegration-timeseries-activity-7039142358830985216-P2bm",
-    "https://pt.linkedin.com/pulse/foresight-tools-o-backcasting-na-abordagem-de-maurício-de-souza-c5jcf",
     "https://pt.linkedin.com/pulse/forecasting-ou-backcasting-vicente-cavallari",
+    "https://pt.linkedin.com/pulse/foresight-tools-o-backcasting-na-abordagem-de-maurício-de-souza-c5jcf",
     "https://de.linkedin.com/pulse/25-zurück-zu-gegenwart-backcasting-michael-jzulf",
     "https://my.linkedin.com/jobs/view/associate-director-financial-risk-modelling-at-tng-digital-4469847185"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 8
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 14,
+ "runs": 15,
  "first_researched_at": "2026-11-06T07:05:17.932722+00:00"
 }

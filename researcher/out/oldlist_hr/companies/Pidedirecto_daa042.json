@@ -1,0 +1,963 @@
+{
+ "name": "Pidedirecto",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T09:05:08.033654+00:00",
+ "official_url": "https://www.pidedirecto.mx",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "07-Oct-2021    Completed Profitable",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "09-Feb-2020    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Pide Directo busca repartidores entre los proveedores de reparto integrados para encontrar a la persona disponible para entregar tu pedido.",
+    "url": "https://pidedirecto.mx/",
+    "pass": 1
+   },
+   {
+    "quote": "Conecta tus propios repartidores a la plataforma",
+    "url": "https://pidedirecto.mx/",
+    "pass": 1
+   },
+   {
+    "quote": "Pide Directo ha sido reconocida y certificada por Rappi como Top Tech Partner, posicionándonos como líderes en el sector de delivery para restaurantes. Esta alianza asegura una integración perfecta, tecnología de punta y un servicio de delivery optimizado para que tu restaurante esté siempre un paso adelante.",
+    "url": "https://pidedirecto.mx/",
+    "pass": 1
+   },
+   {
+    "quote": "Ofrece tu propio servicio a domicilio a todos tus clientes.",
+    "url": "https://pidedirecto.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Acepta todos los pedidos que puedas sin preocuparte por cuantos repartidores puedes contratar",
+    "url": "https://pidedirecto.io/",
+    "pass": 3
+   },
+   {
+    "quote": "¡Sin comprar más equipo!",
+    "url": "https://pidedirecto.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Rastreo en todo el proceso",
+    "url": "https://pidedirecto.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Prepara el pedido mientras llega el repartidor, el te esperará pacientemente a que lo termines de empacar. Una vez que sale a ruta lo podrás monitorear en el mapa en tiempo real.",
+    "url": "https://pidedirecto.io/",
+    "pass": 3
+   },
+   {
+    "quote": "¡¡No te preocupes más! Tu cliente también recibe el enlace para rastrear en el mapa su pedido, además de notificaciones SMS en cada punto importante de avance. ¿Si el cliente no sale o el pedido se daña? Nosotros nos encargamos.",
+    "url": "https://pidedirecto.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Los inconvenientes en logística siempre existirán, pero resolverlos mientras opera el negocio te resta tiempo y paz mental, con nuestro servicio podrás ahorrar más del 50% del tiempo que ocupas en administrar una flotilla manualmente.",
+    "url": "https://pidedirecto.io/",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto startup from Mexico gives clients alternative to overpriced delivery apps",
+    "url": "https://www.riotimesonline.com/pidedirecto-startup-from-mexico-wants-to-put-the-fear-of-god-into-overpriced-delivery-apps-like-uber-eats/",
+    "pass": 3
+   },
+   {
+    "quote": "The capital received will be used to create a new technology team for future product features. PideDirecto is looking to expand its presence nationwide for the remainder of 2021, and wants to expand into new countries such as Colombia and Costa Rica by the end of next year.",
+    "url": "https://www.riotimesonline.com/pidedirecto-startup-from-mexico-wants-to-put-the-fear-of-god-into-overpriced-delivery-apps-like-uber-eats/",
+    "pass": 3
+   },
+   {
+    "quote": "In principle, this approach proved to be the most effective solution, but they had to accept that a large part of their profits ended up in the hands of the middleman, which inevitably forced them to increase the price of their products or earn less.",
+    "url": "https://www.riotimesonline.com/pidedirecto-startup-from-mexico-wants-to-put-the-fear-of-god-into-overpriced-delivery-apps-like-uber-eats/",
+    "pass": 3
+   },
+   {
+    "quote": "To provide an alternative to the high service fees charged by delivery apps, PideDirecto was launched.",
+    "url": "https://www.riotimesonline.com/pidedirecto-startup-from-mexico-wants-to-put-the-fear-of-god-into-overpriced-delivery-apps-like-uber-eats/",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto’s proposal is to develop its own online store, as well as the logistics of product deliveries, which should arrive in less than 30 minutes. In addition to avoiding commissions for third parties and maintaining good profit margins, companies also have the possibility to generate their own customer base by ordering directly from them.",
+    "url": "https://www.riotimesonline.com/pidedirecto-startup-from-mexico-wants-to-put-the-fear-of-god-into-overpriced-delivery-apps-like-uber-eats/",
+    "pass": 3
+   },
+   {
+    "quote": "This article was produced by The Rio Times’ automated AI newsroom. Editorial responsibility:",
+    "url": "https://www.riotimesonline.com/pidedirecto-startup-from-mexico-wants-to-put-the-fear-of-god-into-overpriced-delivery-apps-like-uber-eats/",
+    "pass": 3
+   },
+   {
+    "quote": "The Rio Times also runs Ask Rio Times, which answers from 100,000+ of our own articles, the daily Latin America Power Map, and prediction-market odds on elections and markets.",
+    "url": "https://www.riotimesonline.com/pidedirecto-startup-from-mexico-wants-to-put-the-fear-of-god-into-overpriced-delivery-apps-like-uber-eats/",
+    "pass": 3
+   },
+   {
+    "quote": "Enjoyed your free reads?",
+    "url": "https://www.riotimesonline.com/pidedirecto-startup-from-mexico-wants-to-put-the-fear-of-god-into-overpriced-delivery-apps-like-uber-eats/",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/pidedirecto",
+    "pass": 3
+   },
+   {
+    "quote": "The Mosaic Score is an algorithm that measures the overall financial health and market potential of private companies.",
+    "url": "https://www.cbinsights.com/company/pidedirecto",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto is a delivery management platform focused on logistics for the restaurant industry. The company provides delivery services that help businesses manage their delivery operations from one platform. It was founded in 2020 and is based in Monterrey, Mexico.",
+    "url": "https://www.cbinsights.com/company/pidedirecto",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/pidedirecto",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto serves restaurants by providing infrastructure to optimize order processing and expand digital reach. The company's vision is to empower food businesses, enabling them to overcome logistical complexities and achieve sustained growth via operational efficiency and a stronger online presence.",
+    "url": "https://startupintros.com/orgs/pidedirecto",
+    "pass": 3
+   },
+   {
+    "quote": ": Bundles POS, payment terminals, online ordering, delivery management, loyalty programs, and third-party integrations under a fixed-fee model that protects margins, unlike commission-heavy competitors.[2]",
+    "url": "https://startupintros.com/orgs/pidedirecto",
+    "pass": 3
+   },
+   {
+    "quote": ": Tailored for regional merchants with transparent pricing and scalability, competing with global players like Toast POS, Restaurant365, and TouchBistro by emphasizing operational lifecycle coverage.[2]",
+    "url": "https://startupintros.com/orgs/pidedirecto",
+    "pass": 3
+   },
+   {
+    "quote": ": Builds infrastructure for multi-channel sales (e.g., direct + marketplaces), leveraging tech for CRM, marketing, and data management to empower brands' customer ownership.[1]",
+    "url": "https://startupintros.com/orgs/pidedirecto",
+    "pass": 3
+   },
+   {
+    "quote": "promptloop.com/directory/what-does-pide-directo-do",
+    "url": "https://startupintros.com/orgs/pidedirecto",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto Company Profile and Key Stats",
+    "url": "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "LaPieza.io provides an automated platform powered by artificial intelligence to assist businesses in…",
+    "url": "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Yaydoo is a procurement platform that combines cloud-based procure-to-pay software and AI tools for automated…",
+    "url": "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Plerk is helping companies to increase productivity (80%) and retention (50%) by making employees happy with…",
+    "url": "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "FundedIQ tracks announced funding rounds and refreshes this profile every week. Round dates,",
+    "url": "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Radar from $49/mo · Pro from $149/mo. Card required, nothing charged until",
+    "url": "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of a food service company intended to provide meal for businesses.",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "2ndary - Private",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of a food service company intended to provide meal for businesses. The company ties up with food providers to provide healthy meals to improve physical and mental health and a cost-effective way for businesses to offer regular meals to their employees, enabling customers to get subsidized food with our virtual dining experience.",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "5. Secondary Transaction - Private",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of a food service company intended to provide meal for businesses. The company ties up with food providers to p",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "Private Equity-Backed",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "Is PideDirecto a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Pide Directo - LinkedIn 日本 — ウェブサイト http://pidedirecto.mx Pide Directoの外部リンク 業種 ITサービス・ITコンサルティング 会社規模 社員 51 - 200名 本社 Roma Norte、Mexico City 種類 非上場企業 創立 2020",
+    "url": "https://jp.linkedin.com/company/pidedirecto",
+    "pass": 3
+   },
+   {
+    "quote": "メキシコのフードデリバリーサービスPide Director | earthkeylab — Jan 8, 2025 · サービス名 Pide Directo サービス概要 Pide Directoはラテンアメリカで活躍するレストランオペレーションの最適化を目指すスタートアップ企業です。 主なサービスは飲食店の収益を増やすための顧客体験を向上させる包括的な管理プラットフォームです。 具体的にポイント制度や決済端末 ...",
+    "url": "https://earthkey.blog/global/メキシコのフードデリバリーサービスpide-director/",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto - Servicio de repartidores en tiempo real para tu ... — Cuando recibas pedidos por llamada, WhatsApp o redes sociales, solicita un repartidor en tu cuenta al momento con un sólo botón, ingresas la dirección y el numero de tu cliente para que reciba el seguimiento del pedido en el mapa en tiempo real.",
+    "url": "https://pidedirecto.io/",
+    "pass": 3
+   },
+   {
+    "quote": "202 Odoo Case Studies, Success Stories, & Customer StoriesPideDirecto startup from Mexico gives clients alternative to ...30 promesas 2024: Pidedirecto, la empresa que nació tras una ...PideDirecto - Products, Competitors, Financials, Employees ...30 promesas 2024: Pidedirecto, la empresa que nació tras una ...PideDirecto: Funding, Investors & Team (Oct 2026) | FundedIQPide Directo: One-stop-shop ",
+    "url": "https://www.featuredcustomers.com/vendor/odoo/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto startup from Mexico gives clients alternative to ... — Oct 11, 2021 · To provide an alternative to the high service fees charged by delivery apps, PideDirecto was launched. PideDirecto is a startup that offers a new platform that allows local businesses to sell and deliver to their own customers without commissions, helping them stay independent of delivery apps.",
+    "url": "https://www.riotimesonline.com/pidedirecto-startup-from-mexico-wants-to-put-the-fear-of-god-into-overpriced-delivery-apps-like-uber-eats/",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto - Products, Competitors, Financials, Employees ... — PideDirecto is a delivery management platform focused on logistics for the restaurant industry. The company provides delivery services that help businesses manage their delivery operations from one platform. It was founded in 2020 and is based in Monterrey, Mexico.",
+    "url": "https://www.cbinsights.com/company/pidedirecto",
+    "pass": 3
+   },
+   {
+    "quote": "30 promesas 2024: Pidedirecto, la empresa que nació tras una ... — As the pandemic shifted dining norms, PideDirecto evolved, offering restaurants the tools to sell and deliver directly to consumers, bypassing third-party dependencies.",
+    "url": "https://www.linkedin.com/posts/jönköping-international-business-school_30-promesas-2024-pidedirecto-la-empresa-activity-7183732954328678400--A11",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto: Funding, Investors & Team (Oct 2026) | FundedIQ — PideDirecto enables local businesses such as restaurants, pharmacies, local grocery stores, flower shops, clothing stores, cake shops, and many more by building out their own branded website, integrating phone and social media orders, and helping them deliver their products in less than 30 minutes.",
+    "url": "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Headquartered in Monterrey, Mexico, it has grown to 50-99 employees and $10M-$25M in revenue, evolving from delivery-focused logistics to a comprehensive restaurant management and CRM platform.",
+    "url": "https://startupintros.com/orgs/pidedirecto",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto: Funding, Investors & Team (Oct 2026) | FundedIQ — PideDirecto is an Administrative Services company in Monterrey, Mexico. Raised $5.3M across 1 round; latest a Seed in Oct 2021. Investors and funding history.",
+    "url": "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto — Funding, Investors & Team | Seedtable — Sep 20, 2026 · View funding, investors, and team on Seedtable.",
+    "url": "https://seedtable.com/companies/pidedirecto",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto 2026 Company Profile: Valuation, Funding ...Pide Directo Revenue 2024: $22.5M Est. ARR - getlatka.comPide Directo — Company Profile & Funding | Indexed.vcPideDirecto - 2025 Company Profile, Funding & Competitors ... — Information on valuation, funding, cap tables, investors, and executives for PideDirecto. Use the PitchBook Platform to explore the full profile. Aug 10, 2026 · Pide Dire",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "Pide Directo Revenue 2024: $22.5M Est. ARR - getlatka.com — Aug 10, 2026 · Pide Directo generates an estimated $22.5M in annual revenue. Who founded Pide Directo? Pide Directo was founded by Hussein Fawzi. Who is the CEO of Pide Directo? The CEO of Pide Directo is Hussein Fawzi. How many employees does Pide Directo have? Pide Directo has 150 employees. Where is Pide Directo headquarters?",
+    "url": "https://getlatka.com/companies/pidedirecto.mx",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "¡Sin comprar más equipo!",
+    "url": "https://pidedirecto.io/",
+    "pass": 3
+   },
+   {
+    "quote": "¡Nuestro equipo de soporte técnico está disponible para tu restaurante en un horario de 8 a 11 con la mejor actitud!",
+    "url": "https://pidedirecto.io/",
+    "pass": 3
+   },
+   {
+    "quote": "¡Contamos con un equipo de atención para nuestros repartidores!",
+    "url": "https://pidedirecto.io/",
+    "pass": 3
+   },
+   {
+    "quote": "In principle, this approach proved to be the most effective solution, but they had to accept that a large part of their profits ended up in the hands of the middleman, which inevitably forced them to increase the price of their products or earn less.",
+    "url": "https://www.riotimesonline.com/pidedirecto-startup-from-mexico-wants-to-put-the-fear-of-god-into-overpriced-delivery-apps-like-uber-eats/",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto’s proposal is to develop its own online store, as well as the logistics of product deliveries, which should arrive in less than 30 minutes. In addition to avoiding commissions for third parties and maintaining good profit margins, companies also have the possibility to generate their own customer base by ordering directly from them.",
+    "url": "https://www.riotimesonline.com/pidedirecto-startup-from-mexico-wants-to-put-the-fear-of-god-into-overpriced-delivery-apps-like-uber-eats/",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/pidedirecto",
+    "pass": 3
+   },
+   {
+    "quote": "Plerk is helping companies to increase productivity (80%) and retention (50%) by making employees happy with…",
+    "url": "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Ronni Samir is listed as CEO at PideDirecto.",
+    "url": "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does PideDirecto have?",
+    "url": "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of a food service company intended to provide meal for businesses. The company ties up with food providers to provide healthy meals to improve physical and mental health and a cost-effective way for businesses to offer regular meals to their employees, enabling customers to get subsidized food with our virtual dining experience.",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "PideDirecto has 155 total employees.",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "What is PideDirecto’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for PideDirecto is",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "story in one morning email",
+    "url": "https://www.riotimesonline.com/pidedirecto-startup-from-mexico-wants-to-put-the-fear-of-god-into-overpriced-delivery-apps-like-uber-eats/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, email me my free daily brief — I can unsubscribe any time.",
+    "url": "https://www.riotimesonline.com/pidedirecto-startup-from-mexico-wants-to-put-the-fear-of-god-into-overpriced-delivery-apps-like-uber-eats/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the PideDirecto team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "As a warehouse and last-mile logistics platform, Cargamos turns excess capacity from malls, parking lots, and…",
+    "url": "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Pide Directo (@pidedirecto) / X Soon on twitter. @pidedirecto hasn’t posted When they do, their posts will show up here.",
+    "url": "https://x.com/pidedirecto",
+    "pass": 3
+   },
+   {
+    "quote": "Los restaurantes de la provincia del Guayas te esperamos con ... AsoRestGuayas (@asorestguayas). 22 likes. Los restaurantes de la provincia del Guayas te esperamos con todos los protocolos de Bioseguridad en nuestros nuevos horarios permitidos. Recuerda #PideDirecto ☺️🇪🇨🙌🏼",
+    "url": "https://x.com/asorestguayas/status/1378565994109603843",
+    "pass": 3
+   },
+   {
+    "quote": "Papá Tortas Hda Los Morales (@PapaTortas_Hda) / X Contamos con ENVÍOS A DOMICILIO!! Consulta el MENÚ y paga en línea con tarjeta💳 o en efectivo papatortas.pidedirecto.mx/hdalosmorales Teléfono ☎ 81-1164-5647 Whatsapp📲 wa.me/528134102223 Diddi Eats, Rappi y UberEats",
+    "url": "https://x.com/PapaTortas_Hda",
+    "pass": 3
+   },
+   {
+    "quote": "Sushi Kat (@SUSHI22VERACRUZ) / X 家族 El paquete Kazoku tiene todo para que disfrutes en familia! #PideDirecto! 🛵📲🍣🍙🍤🍥 Llámanos al 2292169906 bit.ly/SushiKatVeracr… #SushiKat #Sabado #Kazuko #Meow",
+    "url": "https://x.com/SUSHI22VERACRUZ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "30 promesas 2024: Pidedirecto, la empresa que nació tras una ... PideDirecto LATAM continues to thrive within our eco-system of solutions and has become the preferred end-to-end logistics solution for our +5,000 Restaurants and Retail clients to streamline ...",
+    "url": "https://www.linkedin.com/posts/hussein-a-fawzi-4427031a4_30-promesas-2024-pidedirecto-la-empresa-activity-7182103175179513856-s7O7",
+    "pass": 3
+   },
+   {
+    "quote": "Pide Directo en LinkedIn: Pide Directo | Plataforma de delivery Estamos emocionados de presentarles el nuevo sitio web de PideDirecto renovado con nuevas características y productos.",
+    "url": "https://www.linkedin.com/posts/pidedirecto_pidedirecto-recupera-el-control-activity-6822870020704534528-BuZg",
+    "pass": 3
+   },
+   {
+    "quote": "Héctor Eduardo Wong Durán - PideDirecto (YC S21) | LinkedInManoj Shah - Director at pride drugs &pharma Pvt.ltd | LinkedIn¡Damos la bienvenida a #PideDirecto a los nuevos talentos del ...#pidedirecto #pidedirecto #restaurants #software #metrics # ... Experiencia: PideDirecto (YC S21) · Educación: universidad estatal de sonora · Ubicación: Navojoa · Más de 500 contactos en LinkedIn. Ver el perfil d",
+    "url": "https://mx.linkedin.com/in/wongduranhector",
+    "pass": 3
+   },
+   {
+    "quote": "Manoj Shah - Director at pride drugs &pharma Pvt.ltd | LinkedIn¡Damos la bienvenida a #PideDirecto a los nuevos talentos del ...#pidedirecto #pidedirecto #restaurants #software #metrics # ... Director at pride drugs &pharma Pvt.ltd · Experience: pride drugs &pharma Pvt.ltd · Location: Ahmedabad · 1 connection on LinkedIn. View Manoj Shah’s profile on LinkedIn, a professional community of 1 billion",
+    "url": "https://in.linkedin.com/in/manoj-shah-2322983a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Pide Directo | Cuauhtémoc - FacebookPide Directo - ¡Tu 𝐴𝑙𝑖𝑎𝑑𝑜 en Monterrey! Llegamos para ...¿Cómo usar 》PIDE DIRECTO? 1. Ingresa al sitio web de tu ...Pide Directo - Y tu te debes preguntar ¿Cómo es eso?...Pide Directo - Nos encontramos en las principales ciudades ...Pide Directo - Tu como YAMATO, confía en nuestro servicio ...Pide Directo - ¡Activa tu envío a domicilio con... - Facebook Aug 28, ",
+    "url": "https://www.facebook.com/pidedirecto.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "¿Cómo usar 》PIDE DIRECTO? 1. Ingresa al sitio web de tu ...Pide Directo - Y tu te debes preguntar ¿Cómo es eso?...Pide Directo - Nos encontramos en las principales ciudades ...Pide Directo - Tu como YAMATO, confía en nuestro servicio ...Pide Directo - ¡Activa tu envío a domicilio con... - Facebook Jul 14, 2021 · ¿Cómo usar 》PIDE DIRECTO? 1. Ingresa al sitio web de tu restaurante favorito. 🍔🍱🍕🌮🥙 2.",
+    "url": "https://www.facebook.com/pidedirecto.mx/videos/cómo-usar-pide-directo-1-ingresa-al-sitio-web-de-tu-restaurante-favorito-2-elige/507849100495166/",
+    "pass": 3
+   },
+   {
+    "quote": "Pide Directo - Tu como YAMATO, confía en nuestro servicio ... Nov 27, 2022 · El e-commerce de Pide Directo tiene un triple propósito: Ahorrarte tiempo en tomar el pedido de tus clientes Aumentar tu alcance en línea Darle a tus clientes una experiencia de compra fácil y rápida ¿Quieres conocer más? Deja tu DM y escríbenos para una demo.",
+    "url": "https://www.facebook.com/pidedirecto.mx/posts/tu-como-yamato-confía-en-nuestro-servicio-de-logística-pidedirecto-servicio-digi/554423893361652/",
+    "pass": 3
+   },
+   {
+    "quote": "Pide Directo - ¡Activa tu envío a domicilio con... - Facebook Pide Directo eorpnstdSoa9tb1u1lc205,fh0e67l28tcmg63am4aD6c0e890gugfr06e · Shared with Public",
+    "url": "https://www.facebook.com/pidedirecto.mx/posts/activa-tu-envío-a-domicilio-con-pidedirecto-fácil-y-sin-comisiones/114980833769275/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://pidedirecto.mx/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pidedirecto.mx/pricing-old",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/65aecc3906f35f6a86ca9f9d/6619a4194e6c33b30ee27793_logos%20clientes_Mesa%20de%20trabajo%201.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/65aecc3906f35f6a86ca9f9d/6619a419b443ffcda064bff9_logos%20clientes-02.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/65aecc3906f35f6a86ca9f9d/6619a419359c84d9b80211a0_logos%20clientes-04.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/65aecc3906f35f6a86ca9f9d/6619a4191446d1a1430e308e_logos%20clientes-03.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.linkedin.com/company/pidedirecto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://vague.style/post/472437/2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://earthkey.blog/global/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3%E3%81%AE%E3%83%95%E3%83%BC%E3%83%89%E3%83%87%E3%83%AA%E3%83%90%E3%83%AA%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9pide-director/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kuronekokomachi.com/japanesetv-overseas/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/Paidy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://epg.pw/areas/jp.html?lang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pidedirecto.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/playlist?list=PLuyK6AqtCAw92dMAR7K5IjEn060nPDEUl",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://maps.google.com/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/odoo/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.riotimesonline.com/pidedirecto-startup-from-mexico-wants-to-put-the-fear-of-god-into-overpriced-delivery-apps-like-uber-eats/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/pidedirecto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/jönköping-international-business-school_30-promesas-2024-pidedirecto-la-empresa-activity-7183732954328678400--A11",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/pidedirecto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seedtable.com/companies/pidedirecto",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/482237-47",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/pidedirecto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/asorestguayas/status/1378565994109603843",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PapaTortas_Hda",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SUSHI22VERACRUZ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/hussein-a-fawzi-4427031a4_30-promesas-2024-pidedirecto-la-empresa-activity-7182103175179513856-s7O7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/pidedirecto_pidedirecto-recupera-el-control-activity-6822870020704534528-BuZg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/in/wongduranhector",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/manoj-shah-2322983a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pidedirecto.mx/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pidedirecto.mx/videos/cómo-usar-pide-directo-1-ingresa-al-sitio-web-de-tu-restaurante-favorito-2-elige/507849100495166/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pidedirecto.mx/posts/tu-como-yamato-confía-en-nuestro-servicio-de-logística-pidedirecto-servicio-digi/554423893361652/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pidedirecto.mx/posts/activa-tu-envío-a-domicilio-con-pidedirecto-fácil-y-sin-comisiones/114980833769275/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/pidedirecto",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Pidedirecto 日本 導入",
+   "results": [
+    "https://jp.linkedin.com/company/pidedirecto",
+    "https://vague.style/post/472437/2",
+    "https://earthkey.blog/global/メキシコのフードデリバリーサービスpide-director/",
+    "https://kuronekokomachi.com/japanesetv-overseas/",
+    "https://note.com/kaiteki_tv/n/n07ab69f07bdb",
+    "https://reaitimenews.com/entry/npb-pitchcom-2027",
+    "https://bestcarweb.jp/news/entame/1669612"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pidedirecto 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Paidy",
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pidedirecto Japan",
+   "results": [
+    "https://epg.pw/areas/jp.html?lang=en",
+    "https://pidedirecto.io/",
+    "https://www.youtube.com/playlist?list=PLuyK6AqtCAw92dMAR7K5IjEn060nPDEUl",
+    "https://maps.google.com/",
+    "https://rojadirectas.net/",
+    "https://pidedirecto.mx/",
+    "https://pedidodirecto.net/micomercio/login.php"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pidedirecto manufacturing customer case study",
+   "results": [
+    "https://www.featuredcustomers.com/vendor/odoo/case-studies",
+    "https://www.riotimesonline.com/pidedirecto-startup-from-mexico-wants-to-put-the-fear-of-god-into-overpriced-delivery-apps-like-uber-eats/",
+    "https://www.cbinsights.com/company/pidedirecto",
+    "https://www.linkedin.com/posts/jönköping-international-business-school_30-promesas-2024-pidedirecto-la-empresa-activity-7183732954328678400--A11",
+    "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "https://www.linkedin.com/posts/hussein-a-fawzi-4427031a4_30-promesas-2024-pidedirecto-la-empresa-activity-7182103175179513856-s7O7",
+    "https://www.ycombinator.com/companies/pide-directo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pidedirecto white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.canva.com/partners/reseller/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pidedirecto founded funding employees revenue",
+   "results": [
+    "https://startupintros.com/orgs/pidedirecto",
+    "https://fundediq.co/pidedirecto-pidedirecto-mx-funding/",
+    "https://seedtable.com/companies/pidedirecto",
+    "https://pitchbook.com/profiles/company/482237-47",
+    "https://getlatka.com/companies/pidedirecto.mx",
+    "https://indexed.vc/companies/pidedirecto",
+    "https://tracxn.com/d/companies/pidedirecto/__9ECZrulF8Y2_qeKrojJO6067Xr-CHlDQydM_XFiepLQ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Pidedirecto",
+   "results": [
+    "https://note.com/yoniumuhibi",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tender_poppy11/n/n8f48a8c5aa2d?hl=en",
+    "https://note.com/uplift/n/n3edffc0522a3?hl=en",
+    "https://note.com/okb777/n/n6a4932489556",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Pidedirecto",
+   "results": [
+    "https://x.com/pidedirecto",
+    "https://x.com/asorestguayas/status/1378565994109603843",
+    "https://x.com/PapaTortas_Hda",
+    "https://x.com/SUSHI22VERACRUZ",
+    "https://x.com/i/trending/2119512236116816245",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/BearcatPride93/status/2119088883338022917"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Pidedirecto",
+   "results": [
+    "https://www.linkedin.com/posts/hussein-a-fawzi-4427031a4_30-promesas-2024-pidedirecto-la-empresa-activity-7182103175179513856-s7O7",
+    "https://www.linkedin.com/posts/pidedirecto_pidedirecto-recupera-el-control-activity-6822870020704534528-BuZg",
+    "https://mx.linkedin.com/in/wongduranhector",
+    "https://in.linkedin.com/in/manoj-shah-2322983a",
+    "https://es.linkedin.com/posts/pidedirecto_pidedirecto-welcome-talentos-activity-7101926399862525952-L9GN",
+    "https://pe.linkedin.com/posts/pidedirecto_pidedirecto-pidedirecto-restaurants-activity-7130592810407202818-l9Th",
+    "https://mx.linkedin.com/company/pidedirecto"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Pidedirecto",
+   "results": [
+    "https://www.facebook.com/pidedirecto.mx/",
+    "https://www.facebook.com/pidedirecto.mx/videos/cómo-usar-pide-directo-1-ingresa-al-sitio-web-de-tu-restaurante-favorito-2-elige/507849100495166/",
+    "https://www.facebook.com/pidedirecto.mx/posts/tu-como-yamato-confía-en-nuestro-servicio-de-logística-pidedirecto-servicio-digi/554423893361652/",
+    "https://www.facebook.com/pidedirecto.mx/posts/activa-tu-envío-a-domicilio-con-pidedirecto-fácil-y-sin-comisiones/114980833769275/",
+    "https://www.facebook.com/pidedirecto.mx/posts/242028601064497/",
+    "https://www.facebook.com/pidedirecto.mx/posts/313185563948800/",
+    "https://www.facebook.com/pidedirecto.mx/posts/y-tu-te-debes-preguntar-cómo-es-eso-pues-te-explicamos-desde-el-portal-administr/793033859500653/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pidedirecto note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pidedirecto X 投稿",
+   "results": [
+    "https://x.com/pidedirecto",
+    "https://www.instagram.com/pidedirectolatam/",
+    "https://pidedirecto.io/",
+    "https://pidedirecto.mx/",
+    "https://x.com/felixrieseberg/status/2119925633564463609",
+    "https://www.nishinippon.co.jp/item/1558448/",
+    "https://mobile-xvideos.com/?k=個人撮影投稿素人&related"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部37頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部37頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

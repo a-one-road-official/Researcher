@@ -8,7 +8,7 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-09T12:03:58.609732+00:00",
+ "researched_at": "2026-11-11T09:09:04.157941+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -19,32 +19,27 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/knowledgecamp/n/nce363822bc97",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tech_seed/n/na95a165f51d6",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/trick_studio/n/n933472b22529",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tsukurun_d7/n/ne15898931a70",
+    "url": "https://note.com/knowledgecamp/n/nce363822bc97",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/large_shark2393/n/n58c407340d2c",
+    "url": "https://note.com/zenai/n/nef29a49ad6c8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.saycom.jp/product/see-note",
+    "url": "https://note.com/mokichi031/n/nf05b717c8eed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/large_shark2393/n/na93858a8e95e",
     "status": "ok",
     "method": "http"
    },
@@ -54,7 +49,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/jolly_okapi4595/n/na5f7b40a1abd",
+    "url": "https://note.com/ai_kotsukotsu/n/nb0b985e4efc6",
     "status": "ok",
     "method": "http"
    },
@@ -64,12 +59,17 @@
     "method": "http"
    },
    {
-    "url": "https://daigaku-toolbox.hatenablog.com/entry/2026/11/06/182232",
+    "url": "https://techblog.insightedge.jp/entry/eda-checklist",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://roboin-fa.com/2026/11/05/daily-inspection-checklist-formality-failure-routes-2026/",
+    "url": "https://data-viz-lab.com/data-check",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moniplat.valqua.co.jp/safety-management/inspection/measuring-instrument-form-excel/",
     "status": "ok",
     "method": "http"
    },
@@ -84,22 +84,27 @@
     "method": "http"
    },
    {
-    "url": "https://techblog.insightedge.jp/entry/eda-checklist",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.stock-app.info/media/inspection-table-templates/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://data-viz-lab.com/data-check",
+    "url": "https://www.mlit.go.jp/tec/constplan/content/001880737.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://daigaku-toolbox.hatenablog.com/entry/2026/11/06/182232",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://tenkenban.com/column/tenkenhyou-tsukurikata/",
+    "url": "https://www.manegy.com/news/detail/17794/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.electe.net/ja/%E8%A8%98%E4%BA%8B/data-validation-techniques",
     "status": "ok",
     "method": "http"
    },
@@ -109,17 +114,17 @@
     "method": "http"
    },
    {
-    "url": "https://moniplat.valqua.co.jp/safety-management/inspection/measuring-instrument-form-excel/",
+    "url": "https://research.nalalys.com/topics/quality-fraud",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.motenashio.com/hinshitsu-checksheet-template/",
+    "url": "https://ai-keiei.shift-ai.co.jp/human-error-prevention-checklist/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.manegy.com/news/detail/17794/",
+    "url": "https://en.wikipedia.org/wiki/False_precision",
     "status": "ok",
     "method": "http"
    },
@@ -139,17 +144,12 @@
     "method": "http"
    },
    {
-    "url": "https://github.com/Quartz/bad-data-guide/blob/master/README.md",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://gijn.org/stories/10-common-mistakes-data-journalism/",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://writers-camp.org/2026/02/17/false-precision/",
+    "url": "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
     "status": "ok",
     "method": "http"
    }
@@ -160,28 +160,28 @@
    "query": "データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116） site:note.com",
    "results": [
     "https://note.com/shiodome_098/n/n47588a127abd",
-    "https://note.com/knowledgecamp/n/nce363822bc97",
-    "https://note.com/tech_seed/n/na95a165f51d6",
     "https://note.com/trick_studio/n/n933472b22529",
-    "https://note.com/tsukurun_d7/n/ne15898931a70",
-    "https://note.com/large_shark2393/n/n58c407340d2c",
-    "https://note.com/large_shark2393/n/na93858a8e95e"
+    "https://note.com/knowledgecamp/n/nce363822bc97",
+    "https://note.com/zenai/n/nef29a49ad6c8",
+    "https://note.com/mokichi031/n/nf05b717c8eed",
+    "https://note.com/large_shark2393/n/na93858a8e95e",
+    "https://note.com/large_shark2393/n/n58c407340d2c"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116） note",
    "results": [
-    "https://www.saycom.jp/product/see-note",
     "https://note.com/note_hanbai_lab/n/nc535701695ac",
-    "https://note.com/jolly_okapi4595/n/na5f7b40a1abd",
+    "https://note.com/ai_kotsukotsu/n/nb0b985e4efc6",
     "https://analytics-note.jp/blog/2026-11-06-ai-report-fix-diff-table-verification/",
-    "https://daigaku-toolbox.hatenablog.com/entry/2026/11/06/182232",
-    "https://roboin-fa.com/2026/11/05/daily-inspection-checklist-formality-failure-routes-2026/",
-    "https://moniplat.valqua.co.jp/safety-management/inspection/measuring-instrument-form-excel/"
+    "https://techblog.insightedge.jp/entry/eda-checklist",
+    "https://data-viz-lab.com/data-check",
+    "https://moniplat.valqua.co.jp/safety-management/inspection/measuring-instrument-form-excel/",
+    "https://www.electe.net/ja/記事/data-validation-techniques"
    ],
    "engines": [
     "ddgs:google"
@@ -194,26 +194,10 @@
     "https://bijicon.co.jp/blog/inspection-checklist-excel/",
     "https://shirasusolo.net/statistics/quality-control-practice/post-9610/",
     "https://techblog.insightedge.jp/entry/eda-checklist",
-    "https://www.stock-app.info/media/inspection-table-templates/",
     "https://data-viz-lab.com/data-check",
-    "https://tenkenban.com/column/tenkenhyou-tsukurikata/",
-    "https://bijichoai.bijicon.co.jp/blog/tenkenhyo/"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116） 事例",
-   "results": [
-    "https://www.trash-b.tech/tenken-hyo-tsukurikata-2026/",
     "https://www.stock-app.info/media/inspection-table-templates/",
-    "https://bijicon.co.jp/blog/inspection-checklist-excel/",
-    "https://moniplat.valqua.co.jp/safety-management/inspection/measuring-instrument-form-excel/",
-    "https://www.motenashio.com/hinshitsu-checksheet-template/",
-    "https://roboin-fa.com/2026/11/05/daily-inspection-checklist-formality-failure-routes-2026/",
-    "https://www.manegy.com/news/detail/17794/"
+    "https://www.mlit.go.jp/tec/constplan/content/001880737.pdf",
+    "https://daigaku-toolbox.hatenablog.com/entry/2026/11/06/182232"
    ],
    "engines": [
     "ddgs:google"
@@ -221,15 +205,31 @@
    "n_hits": 7
   },
   {
+   "query": "データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116） 事例",
+   "results": [
+    "https://www.manegy.com/news/detail/17794/",
+    "https://www.electe.net/ja/記事/data-validation-techniques",
+    "https://bijicon.co.jp/blog/inspection-checklist-excel/",
+    "https://www.trash-b.tech/tenken-hyo-tsukurikata-2026/",
+    "https://data-viz-lab.com/data-check",
+    "https://research.nalalys.com/topics/quality-fraud",
+    "https://ai-keiei.shift-ai.co.jp/human-error-prevention-checklist/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
    "query": "bad data guide false precision hand-edited data red flags journalism checklist",
    "results": [
+    "https://en.wikipedia.org/wiki/False_precision",
     "https://data.journalism.columbia.edu/content/quartz-guide-bad-data",
     "https://github.com/Quartz/bad-data-guide",
     "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
-    "https://github.com/Quartz/bad-data-guide/blob/master/README.md",
     "https://gijn.org/stories/10-common-mistakes-data-journalism/",
-    "https://writers-camp.org/2026/02/17/false-precision/",
-    "https://data.journalism.columbia.edu/"
+    "https://journalistsresource.org/home/10-simple-data-errors-that-can-ruin-an-investigation/",
+    "https://github.com/Quartz/bad-data-guide/blob/master/README.md"
    ],
    "engines": [
     "ddgs:google"
@@ -239,13 +239,13 @@
   {
    "query": "site:note.com データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116）",
    "results": [
-    "https://note.com/tech_seed/n/na95a165f51d6",
-    "https://note.com/shiodome_098/n/n47588a127abd",
-    "https://note.com/large_shark2393/n/na93858a8e95e",
-    "https://note.com/large_shark2393/n/n58c407340d2c",
+    "https://note.com/trick_studio/n/n933472b22529",
     "https://note.com/knowledgecamp/n/nce363822bc97",
-    "https://note.com/gosuke_gasworker/n/n41470f7b8e25",
-    "https://note.com/tsukurun_d7/n/ne15898931a70"
+    "https://note.com/zenai/n/nef29a49ad6c8",
+    "https://note.com/shiodome_098/n/n47588a127abd",
+    "https://note.com/tech_seed/n/na95a165f51d6",
+    "https://note.com/mokichi031/n/nf05b717c8eed",
+    "https://note.com/shannon_create/n/n2cc74cf6016c"
    ],
    "engines": [
     "ddgs:yahoo"
@@ -255,45 +255,29 @@
   {
    "query": "site:x.com データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116）",
    "results": [
-    "https://x.com/otemachiprep/status/2118878714440167639",
-    "https://x.com/nayuta_office/status/2091707084697915657",
-    "https://x.com/souma_aivideo/status/2118509415989166587",
-    "https://x.com/divergent_codex/status/2119513388326031864",
     "https://x.com/jaikoman/status/246231034058915840",
+    "https://x.com/nayuta_office/status/2091707084697915657",
+    "https://x.com/KenTana2020/status/2110123123345633712",
+    "https://x.com/divergent_codex/status/2119513388326031864",
     "https://x.com/papazo2245/status/2092386734759616730",
-    "https://x.com/tai_excel/status/2080069608565055555"
+    "https://x.com/tai_excel/status/2080069608565055555",
+    "https://x.com/Gsha_design/status/2110910489807208709"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "site:linkedin.com データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116）",
    "results": [
-    "https://www.linkedin.com/jobs/easyjet-accepts-takeover-offerockland-trust-online-bankingfrom-apollo-jobs",
+    "https://www.linkedin.com/in/cjanderson24",
+    "https://et.linkedin.com/company/ethiopian-civil-service-commistion",
+    "https://br.linkedin.com/jobs/nutricionista-vagas",
     "https://jp.linkedin.com/pulse/ultimate-guide-spotting-data-errors-fixing-them-fast-cassamo-jwnpf?tl=ja",
-    "https://jp.linkedin.com/pulse/data-quality-testing-best-practices-from-basics-advanced-qasource-arzqc?tl=ja",
+    "https://jp.linkedin.com/learning/cert-prep-network-for-fundamental-information-technology-engineer-examination/4222180",
     "https://www.linkedin.com/posts/fixstars-corporation_ムーンショット型研究開発事業プロジェクト紹介目標6-誤り耐性型大規模汎用光量子-activity-7160076307458846721-iBPP",
-    "https://jp.linkedin.com/pulse/introduction-error-detection-correction-1-parity-simon-southwell?tl=ja",
-    "https://jp.linkedin.com/pulse/data-duplication-understanding-relationships-preventing-furkan-avcı-mtc2f?tl=ja",
-    "https://jp.linkedin.com/pulse/importance-data-quality-business-analytics-ensuring-reliable-sri-ram-jrq1c?tl=ja"
-   ],
-   "engines": [
-    "ddgs:bing"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "site:facebook.com データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116）",
-   "results": [
-    "https://www.facebook.com/humanzz/",
-    "https://www.facebook.com/imakarasuugaku/videos/この動画ではデータの散らばりとは第3回-分布の形を読む統計学をやさしく解説の記事内容を-notebooklm-を使って分かりやすくダイジェストでご紹介します-a/1253590809970893/",
-    "https://www.facebook.com/61566400814756/posts/紙やfaxの点検表の集計作業も日報dxで効率化日報dxでエレベーター点検表をocrする動画を公開しました日報dxを使えば紙やfaxで受け取った点検表の集計作業が/122119578566546693/",
-    "https://www.facebook.com/MorisawaJapan/photos/今回のmorisawa-dtp-labは印刷データの間違い探しに挑戦です印刷データの中に隠れた誤りを探し出すクイズ形式でお届けします解きながら文書を校正するとき/4461555650591654/",
-    "https://www.facebook.com/mainichishimbun/posts/地上配備型迎撃システムイージスアショアの調査データに誤りが見つかった問題で防衛省はグーグルアースを地図のデータとして使用高さと距離の縮尺が異なっていることに気付/2675111129195463/",
-    "https://www.facebook.com/jsafgaiyouanzen/",
-    "https://www.facebook.com/NewtonScience/photos/ニュートン新書-悪い統計学-データ分析の落とし穴発売-現代はあらゆる分野で評価指標が用いられそれによって目標が定められたり決定がなされたりしていますしかし評価指/565126318750873/"
+    "https://uk.linkedin.com/in/jelaniadams"
    ],
    "engines": [
     "ddgs:google"
@@ -301,18 +285,34 @@
    "n_hits": 7
   },
   {
-   "query": "データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116） note 社長",
+   "query": "site:facebook.com データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116）",
    "results": [
-    "https://isoftbrain.com/人事評価の盲点：データ分析から見えてきた真の/",
-    "https://roboin-fa.com/2026/11/05/daily-inspection-checklist-formality-failure-routes-2026/",
-    "https://note.com/ai_genba_log/n/ne98dcb434809",
-    "https://note.com/syacyo_otasuke/n/nbf5266344f92",
-    "https://www.stock-app.info/media/inspection-table-templates/",
-    "https://bijichoai.bijicon.co.jp/blog/tenkenhyo/",
-    "https://saireco.jp/hr-system-nav/1724/"
+    "https://www.facebook.com/imakarasuugaku/videos/この動画ではデータの散らばりとは第3回-分布の形を読む統計学をやさしく解説の記事内容を-notebooklm-を使って分かりやすくダイジェストでご紹介します-a/1253590809970893/",
+    "https://www.facebook.com/chokokusyoun/posts/ブログを更新しましたお祭りができない今だからこそできることがあるっ山車の点検表無料ダウンロード版作りましたa４サイズ三枚ぜひ活用してくださいブログ内では点検時の/1533228376874120/",
+    "https://www.facebook.com/groups/548266103946448/posts/1433566265416423/",
+    "https://www.facebook.com/shiga.datasience/posts/エレベータ保全データを分析し異常検知時の点検内容通知アプリを構築httpswwwdsshiga-uacjpdscenter_infop4735滋賀大ds/3301865349838748/",
+    "https://www.facebook.com/61566400814756/posts/紙やfaxの点検表の集計作業も日報dxで効率化日報dxでエレベーター点検表をocrする動画を公開しました日報dxを使えば紙やfaxで受け取った点検表の集計作業が/122119578566546693/",
+    "https://www.facebook.com/MorisawaJapan/photos/今回のmorisawa-dtp-labは印刷データの間違い探しに挑戦です印刷データの中に隠れた誤りを探し出すクイズ形式でお届けします解きながら文書を校正するとき/4461555650591654/",
+    "https://www.facebook.com/mainichishimbun/posts/地上配備型迎撃システムイージスアショアの調査データに誤りが見つかった問題で防衛省はグーグルアースを地図のデータとして使用高さと距離の縮尺が異なっていることに気付/2675111129195463/"
    ],
    "engines": [
     "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "データの誤りの型の点検表（見せかけの精度・手で作った表の兆し・基準の年の選び方・先頭の0・Quartz の bad data guide の後継と日本語の記事・4-116） note 社長",
+   "results": [
+    "https://note.com/note_hanbai_lab/n/nc535701695ac",
+    "https://note.com/ai_genba_log/n/ne98dcb434809",
+    "https://ai-keiei.shift-ai.co.jp/human-error-prevention-checklist/",
+    "https://www.stock-app.info/media/inspection-table-templates/",
+    "https://bijicon.co.jp/blog/inspection-checklist-excel/",
+    "https://syojin.com/blog/tools/tenkenban-inspection-templates",
+    "https://sonomamadx.com/2026/01/26/その手書き点検表、監査で説明できますか？「転/"
+   ],
+   "engines": [
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -321,30 +321,27 @@
    "results": [
     "https://bijicon.co.jp/blog/inspection-checklist-excel/",
     "https://www.stock-app.info/media/inspection-table-templates/",
-    "https://www.trash-b.tech/tenken-hyo-tsukurikata-2026/",
     "https://www.bizocean.jp/doc/category/1205/",
-    "https://techblog.insightedge.jp/entry/eda-checklist",
-    "https://note.com/eightlab/n/nca38b0692103",
-    "https://sonomamadx.com/2026/01/26/その手書き点検表、監査で説明できますか？「転/",
     "https://moniplat.valqua.co.jp/safety-management/inspection/measuring-instrument-form-excel/",
-    "https://daigaku-toolbox.hatenablog.com/entry/2026/11/06/182232"
+    "https://www.adrec-jp.com/products/dpro/automated_inspection",
+    "https://sonomamadx.com/2026/01/26/その手書き点検表、監査で説明できますか？「転/",
+    "https://tebiki.jp/genba/useful/checklist-digitalization/"
    ],
    "engines": [
-    "ddgs:bing",
     "ddgs:google"
    ],
-   "n_hits": 9
+   "n_hits": 7
   },
   {
    "query": "bad data guide false precision hand-edited data red flags journalism checklist site:linkedin.com",
    "results": [
     "https://www.linkedin.com/advice/3/what-most-common-data-journalism-pitfalls-avoid-skills-journalism-vmswc",
-    "https://www.linkedin.com/advice/0/whats-your-strategy-handling-bad-data-skills-data-analytics",
     "https://www.linkedin.com/pulse/how-bad-data-sneaks-your-insights-common-mistakes-avoid-amol-pawar-s7pne",
+    "https://www.linkedin.com/advice/0/whats-your-strategy-handling-bad-data-skills-data-analytics",
     "https://www.linkedin.com/pulse/avoiding-bad-practices-data-reporting-ravinder-singh",
-    "https://www.linkedin.com/advice/3/what-do-you-bad-data-skills-research",
     "https://www.linkedin.com/advice/0/whats-your-strategy-dealing-bad-data-skills-data-analysis",
-    "https://www.linkedin.com/pulse/how-spot-fake-misleading-data-why-matters-quantum-analytics-ng-uok1f/"
+    "https://www.linkedin.com/top-content/artificial-intelligence/improving-predictive-accuracy/breaking-the-false-precision-in-story-points/",
+    "https://www.linkedin.com/advice/3/what-do-you-bad-data-skills-research"
    ],
    "engines": [
     "ddgs:google"
@@ -360,6 +357,6 @@
   "実例": "記載なし（読んだ28頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-09T00:55:38.307607+00:00"
 }

@@ -1,0 +1,885 @@
+{
+ "name": "Voxeldance",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜日本進出済",
+ "researched_at": "2026-11-11T09:34:08.087693+00:00",
+ "official_url": "https://www.voxeldance.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1992年6月19日",
+    "url": "https://www.value-press.com/pressrelease/333775",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "VoxelDance | Additive Manufacturing Software | 3D Printing Software Provider",
+    "url": "https://voxeldance.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3DPrinter",
+    "url": "https://idarts.co.jp/3dp/bfull-voxeldance-additive-ultimate/",
+    "pass": 3
+   },
+   {
+    "quote": "3DPrinting",
+    "url": "https://idarts.co.jp/3dp/bfull-voxeldance-additive-ultimate/",
+    "pass": 3
+   },
+   {
+    "quote": "STL・OBJ・3MFといった3Dプリンタに対応する代表的なフォーマットやCLI・SLCといったスライスデータの読み込みはもちろん、CATpart・Prt・sldprtなどのネイティブCADデータ、IGES・STEPといった中間ファイルまで、ほぼすべての3DCAD、CGデータをシームレスに読み込むことができます",
+    "url": "https://systemcreate-inc.co.jp/products/voxeldance-additive",
+    "pass": 3
+   },
+   {
+    "quote": "光造形方式大型3Dプリンタ「SoonSer Mars Pro」",
+    "url": "https://systemcreate-inc.co.jp/products/voxeldance-additive",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelDance is an innovative 3D printing",
+    "url": "https://voxeldance.com/mobile/aboutus.html",
+    "pass": 3
+   },
+   {
+    "quote": "「Revopoint RANGE 3/RANGE 3 Pro」日本国内販売準備開始！",
+    "url": "https://www.value-press.com/pressrelease/333775",
+    "pass": 3
+   },
+   {
+    "quote": "valuepressが許可なくFacebookなどへ投稿することはありません",
+    "url": "https://www.value-press.com/pressrelease/333775",
+    "pass": 3
+   },
+   {
+    "quote": "Blog - VoxelDance | Additive Manufacturing Software | 3D Printing Software Provider",
+    "url": "https://voxeldance.com/case_study",
+    "pass": 3
+   },
+   {
+    "quote": "Boosting SLS 3D Printing with Advanced Nesting Techniques",
+    "url": "https://voxeldance.com/case_study",
+    "pass": 3
+   },
+   {
+    "quote": "Optimizing Shoe Mold Production with VoxelDance Additive: A Case Study in Data Preparation Efficiency and Print Quality Enhancement",
+    "url": "https://voxeldance.com/case_study",
+    "pass": 3
+   },
+   {
+    "quote": "Blog - VoxelDance | Additive Manufacturing Software | 3D Printing Software Provider",
+    "url": "https://voxeldance.com/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "Boosting SLS 3D Printing with Advanced Nesting Techniques",
+    "url": "https://voxeldance.com/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "Optimizing Shoe Mold Production with VoxelDance Additive: A Case Study in Data Preparation Efficiency and Print Quality Enhancement",
+    "url": "https://voxeldance.com/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelDance raised tens of millions in Pre-A to build industrial software for additive manufacturing",
+    "url": "https://voxeldance.com/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "Voxeldance 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of innovative 3D printing software.",
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of innovative 3D printing software. The company focuses on industrial software solutions and services for additive manufacturing, providing powerful 3D printing software solutions to designers and manufacturers in a variety of industries, including healthcare, education, industrial mold making, consumer products, and more.",
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing",
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "pass": 3
+   },
+   {
+    "quote": "Voxeldance’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "pass": 3
+   },
+   {
+    "quote": "Is Voxeldance a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "pass": 3
+   },
+   {
+    "quote": "Voxeldance is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "pass": 3
+   },
+   {
+    "quote": "ChiTuBox Proには、マルチパラメータスライス、プロのモデル修復および編集ツールなどの高度な機能や、自動サポート生成機能が付属しています",
+    "url": "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "pass": 3
+   },
+   {
+    "quote": "https://skhonpo.com/products/formware-slicersoft",
+    "url": "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "pass": 3
+   },
+   {
+    "quote": "PrusaSlicer SLAとFDMの両方に適した最強スライサーソフト",
+    "url": "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "pass": 3
+   },
+   {
+    "quote": "人気急上昇中のスライサーソフトに、PrusaSlicerがあります",
+    "url": "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "pass": 3
+   },
+   {
+    "quote": "PrusaSlicerは数少ないSLA、FDMの両方で使用できるソフトウェアであり、無料で利用可能です",
+    "url": "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "pass": 3
+   },
+   {
+    "quote": "PrusaSlicerはユーザーモードが選べるのが特徴の1つ",
+    "url": "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.prusa3d.com/page/prusaslicer_424/",
+    "url": "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "VoxelDance | Additive Manufacturing Software | 3D Printing Software Provider",
+    "url": "https://voxeldance.com/",
+    "pass": 1
+   },
+   {
+    "quote": "は、中国上海に本社を置くAdditive Manufacturing（3Dプリンティング）関連ソフトウェア企業",
+    "url": "https://idarts.co.jp/3dp/bfull-voxeldance-additive-ultimate/",
+    "pass": 3
+   },
+   {
+    "quote": "Additive Manufacturing用造形準備ソフト",
+    "url": "https://systemcreate-inc.co.jp/products/voxeldance-additive",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelDance Additiveは、Additive Manufacturing専用の造形準備ソフトウェアです",
+    "url": "https://systemcreate-inc.co.jp/products/voxeldance-additive",
+    "pass": 3
+   },
+   {
+    "quote": "software company with, dedicated to industrial software solutions and services for",
+    "url": "https://voxeldance.com/mobile/aboutus.html",
+    "pass": 3
+   },
+   {
+    "quote": "additive manufacturing with the goal of intelligent",
+    "url": "https://voxeldance.com/mobile/aboutus.html",
+    "pass": 3
+   },
+   {
+    "quote": "that will accelerate the advent of the digital factory by contributing with in-depth",
+    "url": "https://voxeldance.com/mobile/aboutus.html",
+    "pass": 3
+   },
+   {
+    "quote": "knowledge of additive manufacturing that benefits our customers",
+    "url": "https://voxeldance.com/mobile/aboutus.html",
+    "pass": 3
+   },
+   {
+    "quote": "Blog - VoxelDance | Additive Manufacturing Software | 3D Printing Software Provider",
+    "url": "https://voxeldance.com/case_study",
+    "pass": 3
+   },
+   {
+    "quote": "Optimizing Shoe Mold Production with VoxelDance Additive: A Case Study in Data Preparation Efficiency and Print Quality Enhancement",
+    "url": "https://voxeldance.com/case_study",
+    "pass": 3
+   },
+   {
+    "quote": "Blog - VoxelDance | Additive Manufacturing Software | 3D Printing Software Provider",
+    "url": "https://voxeldance.com/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelDance Showcases Next-Gen Additive Manufacturing Solutions at TCT Asia 2025",
+    "url": "https://voxeldance.com/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "Optimizing Shoe Mold Production with VoxelDance Additive: A Case Study in Data Preparation Efficiency and Print Quality Enhancement",
+    "url": "https://voxeldance.com/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelDance raised tens of millions in Pre-A to build industrial software for additive manufacturing",
+    "url": "https://voxeldance.com/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of innovative 3D printing software. The company focuses on industrial software solutions and services for additive manufacturing, providing powerful 3D printing software solutions to designers and manufacturers in a variety of industries, including healthcare, education, industrial mold making, consumer products, and more.",
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "産業用3Dプリンタ用ソフトウェア「VoxelDance」日本初登場 | 3DP id.arts",
+    "url": "https://idarts.co.jp/3dp/bfull-voxeldance-additive-ultimate/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用3Dプリンタ用ソフトウェア「VoxelDance」日本初登場",
+    "url": "https://idarts.co.jp/3dp/bfull-voxeldance-additive-ultimate/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用3Dプリンタ本来の生産性を引き出すAM用ソフトウェア「VoxelDance」日本初登場",
+    "url": "https://idarts.co.jp/3dp/bfull-voxeldance-additive-ultimate/",
+    "pass": 3
+   },
+   {
+    "quote": "（ボクセルダンス）とソフトウェア販売の販売代理店契約を締結し、3Dプリンタ向けオール・イン・ワンAM用ソフトウェア「",
+    "url": "https://idarts.co.jp/3dp/bfull-voxeldance-additive-ultimate/",
+    "pass": 3
+   },
+   {
+    "quote": "導入から保守まで、日本サポート完備の正規代理店",
+    "url": "https://nmgiken.jp/software/",
+    "pass": 3
+   },
+   {
+    "quote": "オール・イン・ワン3Dプリントデータ作成ソフト「Voxeldance Additive」販売開始！ - 株式会社システムクリエイトのプレスリリース",
+    "url": "https://www.value-press.com/pressrelease/333775",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社システムクリエイト（東大阪市荒本新町）は、Shanghai Voxeldance Technology Co., LTD.と日本国内販売理店契約を締結し、オール・イン・ワン産業用3Dプリントデータ作成ソフトウェア「Voxeldance Additive」の販売を開始致します",
+    "url": "https://www.value-press.com/pressrelease/333775",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社システムクリエイト、3Dプリントデータ作成ソフト『Voxeldance Additive』の国内販売開始を発表",
+    "url": "https://www.value-press.com/pressrelease/333775",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりツール販売・サポート・受託請負サービスを手掛ける株式会社システムクリエイト（所在地：東大阪市荒本新町、CEO：川上正義）は、オインテリジェント製造を目的とした積層造形のための産業用ソフトウェアを開発するShanghai Voxeldance Technology Co., LTD（所在地：B-02, Building 6, Sizhuan road 351, Songjiang district, Shanghai, China 、代表：CEO Zhang Chaoxin）と、販売代理店契約を締結し、オール・イン・ワン産業用3Dプリントデータ作成ソフトウェア「Voxeldance Additive(ボクセルダンス アディティブ)」の日本国内販売を開始します",
+    "url": "https://www.value-press.com/pressrelease/333775",
+    "pass": 3
+   },
+   {
+    "quote": "「Revopoint RANGE 3/RANGE 3 Pro」日本国内販売準備開始！",
+    "url": "https://www.value-press.com/pressrelease/333775",
+    "pass": 3
+   },
+   {
+    "quote": "日本語にも対応しているため、初心者も安心して使えるソフトウェアです",
+    "url": "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "産業用3Dプリンタ用ソフトウェア「VoxelDance」日本初登場 | 3DP id.a... — Dec 6, 2022 · VoxelDance Additive Ultimate販売経緯 産業用3Dプリンタの導入を進める中で、3Dプリンタ用にデータを変換するAM用ソフトウェアの選択肢は非常に少なく、機器付属のソフトウェアを活用するか、年間数百万円の費用が掛かるAM用ソフトウェアの2択しかなかった。",
+    "url": "https://idarts.co.jp/3dp/bfull-voxeldance-additive-ultimate/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア – 日本未来技研 — 光造形・金属LPBF向け造形準備ソフトVoxelDanceを正規提供。サポート・トレーニング込みで導入支援。",
+    "url": "https://nmgiken.jp/software/",
+    "pass": 3
+   },
+   {
+    "quote": "Voxel Dance – 日本未来技研 — 製品概要 VoxelDance Additiveは、SLM・SLA・DLP・SLS方式に対応した高機能3Dプリント用造形準備ソフトウェアです。 自動・手動サポート生成、最適化されたスライシング、3Dネスティングやラティス生成まで、すべての前処理工程を一元管理します。",
+    "url": "https://nmgiken.jp/home/product/voxeldance/",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelDance | Additive Manufacturing Software | 3D Printing ... — Sep 2, 2025 · VoxelDance is an All-in One Additive Manufacturing software solution provider. The product named VoxelDance Additive is a 3D printing software, which includes all the features you need for data preparation. It is compatible with DLP, SLS, SLA and LPBF technologies. Its optimized algorithm kernel and user-friendly design",
+    "url": "https://voxeldance.com/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリント 造形準備ソフトVoxelDance Additive — 3Dプリントのすべての準備を一本で完結 VoxelDance Additiveは、Additive Manufacturing専用の造形準備ソフトウェアです。 SLA/DLP (樹脂光造形)、SLM/LPBF (金属造形)、SLS (粉末造形)などの産業用3Dプリンタが持つ本来の生産性を最大限に引き出すことが可能です。",
+    "url": "https://systemcreate-inc.co.jp/products/voxeldance-additive",
+    "pass": 3
+   },
+   {
+    "quote": "aboutus - VoxelDance — aboutus VoxelDance is an innovative 3D printing software company with, dedicated to industrial software solutions and services for additive manufacturing with the goal of intelligent manufacturing.",
+    "url": "https://voxeldance.com/mobile/aboutus.html",
+    "pass": 3
+   },
+   {
+    "quote": "オール・イン・ワン3Dプリントデータ作成ソフト「Voxeldance Additive... — Mar 14, 2024 · 株式会社システムクリエイト（東大阪市荒本新町）は、Shanghai Voxeldance Technology Co., LTD.と日本国内販売理店契約を締結し、オール・イン・ワン産業 ...",
+    "url": "https://www.value-press.com/pressrelease/333775",
+    "pass": 3
+   },
+   {
+    "quote": "nTop confirms Voxeldance legal action ongoing - 3D Printing ... — Nov 24, 2024 · Tags Chaoxin Zhang Materialise ntop Valerie Chianuri VoxelDance Michael Petch Michael Petch is the editor-in-chief at 3DPI and the author of several books on 3D printing.",
+    "url": "https://3dprintingindustry.com/news/voxeldance-ntop-confirms-legal-action-234649/",
+    "pass": 3
+   },
+   {
+    "quote": "Blog - VoxelDance | Additive Manufacturing Software | 3D ... — Mar 25, 2024 · Optimizing Shoe Mold Production with VoxelDance Additive: A Case Study in Data Preparation Efficiency and Print Quality Enhancement 2024-03-25 03:28:18",
+    "url": "https://voxeldance.com/case_study",
+    "pass": 3
+   },
+   {
+    "quote": "Blog - VoxelDance | Additive Manufacturing Software | 3D ... — Jun 10, 2022 · Blog Optimizing Shoe Mold Production with VoxelDance Additive: A Case Study in Data Preparation Efficiency and Print Quality Enhancement 2024-03-25 03:28:18",
+    "url": "https://voxeldance.com/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "#additivemanufacturing #voxeldance #cam #cae # ... - LinkedIn — Read the case study to see how VoxelDance Additive (VDA) reduced support structure volume by 60% for an impeller using simulation. With VDA's integrated simulation module, engineers completed ...",
+    "url": "https://www.linkedin.com/posts/voxeldance_additivemanufacturing-voxeldance-cam-activity-7339206845560930306-DIOe",
+    "pass": 3
+   },
+   {
+    "quote": "#voxeldance #additivemanufacturing #3dprinting #simulation ... — Read this case study on how VoxelDance Engineering (VDE) helped a client minimize support usage for a closed impeller, leading to reduced material consumption and lower production costs. Key ...",
+    "url": "https://www.linkedin.com/posts/voxeldance_voxeldance-additivemanufacturing-3dprinting-activity-7267833465180479489-rqf8",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelDance Additive | Lumbar Support Cushion - YouTubeVoxeldance Additive: New software for data preparationFormnext Day Three: Rock & Zoll - 3DPrint.com — Jun 8, 2026 · By leveraging the power of Implicit Modeling in VoxelDance Additive, we achieved: 🔹 Lattice Density Variation: Zoned support tailored for ergonomic comfort. 🔹 Strut Diameter Variation ... Nov 29, 2019 · VoxelDance is a new company",
+    "url": "https://www.youtube.com/watch?v=nxUirqD3DDA",
+    "pass": 3
+   },
+   {
+    "quote": "Voxeldance 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for Voxeldance. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "pass": 3
+   },
+   {
+    "quote": "Voxeldance - 2026 Company Profile, Team, Funding ... - Tracxn — Feb 8, 2026 · Voxeldance is a seed company based in Shanghai (China), founded in 2019 by Chaoxin Zhang and Zhang Chaoxin. It operates as a Provider of data preparation software for additive manufacturing. Voxeldance has raised an undisclosed amount in funding. The company has 61 active competitors, including 10 funded and 15 that have",
+    "url": "https://tracxn.com/d/companies/voxeldance/__ddMkWZX76weqWbOy4SJg2mB5Q1JmiXfaI6bu3d5ktEA",
+    "pass": 3
+   },
+   {
+    "quote": "VoxelDance Information - RocketReach — VoxelDance is a Software Development, Software General, and Software company located in Shanghai, Shanghai with $1 million in revenue and 14 employees. Find top employees, contact details and business statistics at RocketReach.",
+    "url": "https://rocketreach.co/voxeldance-profile_b427ce0bff165074",
+    "pass": 3
+   },
+   {
+    "quote": "Voxeldance - Crunchbase Company Profile & FundingVoxel 2026 Company Profile: Valuation, Funding & Investors ...Voxeldance’s Competitors, Revenue, Number of Employees ...VoxelDance - Overview, News & Similar companies | ZoomInfo.com — VoxelDance is a 3D printing software company that provides data preparation software for additive manufacturing. Voxel has 85 total employees. What industry is Voxel ",
+    "url": "https://www.crunchbase.com/organization/voxeldance",
+    "pass": 3
+   },
+   {
+    "quote": "Voxel 2026 Company Profile: Valuation, Funding & Investors ...Voxeldance’s Competitors, Revenue, Number of Employees ...VoxelDance - Overview, News & Similar companies | ZoomInfo.com — Voxel has 85 total employees. What industry is Voxel in? Voxel’s primary industry is Business/Productivity Software. Is Voxel a private or public company? Voxel is a Private company. What is Voxel’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/471255-31",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "What is Voxeldance’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Voxeldance is",
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "おすすめのスライサーソフト7選｜スライサーソフトの基本も解説！ Feb 27, 2025 · Slic3R 無料で使えるのが嬉しい VoxelDance Tango プロフェッショナル向けのスライサーソフト CURA 初心者からセミプロまで納得 Simplify3D ネクストレベルを目指したい方に PrusaSlicer SLAとFDMの両方に適した最強スライサーソフト おすすめスライサーソフトのまとめ",
+    "url": "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "おすすめのスライサーソフト７選｜スライサーソフトの基本も解説！｜SK本舗",
+    "url": "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめのスライサーソフト７選｜スライサーソフトの基本も解説！",
+    "url": "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリントにとってスライサーソフトはなくてはならない存在です。しかし、プリンター選びは慎重になっても、スライサーソフトに重点を置いている方は少ないのではないでしょうか。",
+    "url": "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "pass": 3
+   },
+   {
+    "quote": "スライサーソフトは3Dプリントの品質に大きく影響し、ソフトによって使いやすさや作業効率性も異なります。",
+    "url": "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、初心者から上級者も満足できる、今オススメのスライサーソフトを7つ紹介します。",
+    "url": "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "pass": 3
+   },
+   {
+    "quote": "STLなどの3Dデータを3Dプリンター用のデータに変換できるソフトウェア",
+    "url": "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "pass": 3
+   },
+   {
+    "quote": "」のことを指します。STLは3DCADや3DCGにおける代表的なファイル形式の1つですが、このままでは3Dプリンターはデータを認識できません。",
+    "url": "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、3Dプリンターにも分かるようにデータを変換する役割を果たすのが、スライサーソフトです。スライサーソフトを使えば、3Dプリンターが認識できる「Gコード」という形式に変換できるようになります。",
+    "url": "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "VoxelDance - LinkedIn VoxelDance is a passionate team of engineers on a mission to provide powerful 3D printing software solutions to designers and manufacturers in a variety of industries, including healthcare ...",
+    "url": "https://www.linkedin.com/company/voxeldance/",
+    "pass": 3
+   },
+   {
+    "quote": "Voxeldance Additive - LinkedIn Voxeldance Additive is a powerful 3D printing build preparation software for mainstream 3D printing applications such as prototype, shoe molds, resin/metal dentistry, jewelry, healthcare ...",
+    "url": "https://www.linkedin.com/products/voxeldance-additive/",
+    "pass": 3
+   },
+   {
+    "quote": "Chaoxin Zhang - Founder & CEO at VoxelDance, 3D Printing ...Seline Chen - Marketing Manager at VoxelDance | 领英Additive software VoxelDance Additive 4.1 what's new ...Topology Optimization for Lightweight Design with VoxelDance ...#formnext #additivemanufacturing #3dprinting #voxeldance # ... Founder & CEO at VoxelDance, 3D Printing Software · 工作经历: VoxelDance · 教育经历: Beihang University · 地点: 松江区 ·",
+    "url": "https://cn.linkedin.com/in/chaoxin-zhang-67669836",
+    "pass": 3
+   },
+   {
+    "quote": "Seline Chen - Marketing Manager at VoxelDance | 领英Additive software VoxelDance Additive 4.1 what's new ...Topology Optimization for Lightweight Design with VoxelDance ...#formnext #additivemanufacturing #3dprinting #voxeldance # ... Marketing Manager at VoxelDance · Two years of experience on PR and Marketing · 工作经历: VoxelDance · 教育经历: New York University · 地点: 上海市 · 403 位领英好友。在领英 (一个拥有 10 亿会员的职业社",
+    "url": "https://cn.linkedin.com/in/seline-chen",
+    "pass": 3
+   },
+   {
+    "quote": "Chaoxin Zhang - Founder & CEO at VoxelDance, 3D Printing ...Voxeldance CEO, Founder, Key Executive Team, Board of ...Voxeldance 2026 Company Profile: Valuation, Funding ...Voxeldance’s Competitors, Revenue, Number of Employees ...VoxelDance - LinkedInVoxeldance - 2026 Company Profile, Team, Funding ... - TracxnVoxelDance: Employee Directory | ZoomInfo.com Founder & CEO at VoxelDance, 3D Printing S",
+    "url": "https://cn.linkedin.com/in/chaoxin-zhang-67669836",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "@VoxelDance | X The latest posts from @VoxelDance",
+    "url": "https://x.com/VoxelDance",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxeldance.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://idarts.co.jp/3dp/bfull-voxeldance-additive-ultimate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nmgiken.jp/software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nmgiken.jp/home/product/voxeldance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.watch.impress.co.jp/docs/news/2155153.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voxeldance.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/products/voxeldance-additive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voxeldance.com/mobile/aboutus.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.value-press.com/pressrelease/333775",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voxeldance.com/case_study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voxeldance.com/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/voxeldance_additivemanufacturing-voxeldance-cam-activity-7339206845560930306-DIOe",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/voxeldance_voxeldance-additivemanufacturing-3dprinting-activity-7267833465180479489-rqf8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/399601-90",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/voxeldance/__ddMkWZX76weqWbOy4SJg2mB5Q1JmiXfaI6bu3d5ktEA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://rocketreach.co/voxeldance-profile_b427ce0bff165074",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/voxeldance",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/voxeldance/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/voxeldance-additive/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/in/chaoxin-zhang-67669836",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/in/seline-chen",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/in/chaoxin-zhang-67669836",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/VoxelDance",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Voxeldance 日本 導入",
+   "results": [
+    "https://idarts.co.jp/3dp/bfull-voxeldance-additive-ultimate/",
+    "https://nmgiken.jp/software/",
+    "https://nmgiken.jp/home/product/voxeldance/",
+    "https://www.watch.impress.co.jp/docs/news/2155153.html",
+    "https://www.asahi.com/articles/ASVCB2J93VCBUTIL00CM.html",
+    "https://www.jreast.co.jp/press/2026/20261110_ho03.pdf",
+    "https://news.yahoo.co.jp/articles/93f5725cfaef9b4c670d1b780bb88219fc883060",
+    "https://systemcreate-inc.co.jp/products/voxeldance-additive"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Voxeldance 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://companydata.tsujigawa.com/company/2010001177818/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://jobs.bytedance.com/jp/home"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Voxeldance Japan",
+   "results": [
+    "https://voxeldance.com/",
+    "https://systemcreate-inc.co.jp/products/voxeldance-additive",
+    "https://voxeldance.com/mobile/aboutus.html",
+    "https://www.value-press.com/pressrelease/333775",
+    "https://3dprintingindustry.com/news/voxeldance-ntop-confirms-legal-action-234649/",
+    "https://nmgiken.jp/home/product/voxeldance/",
+    "https://nmgiken.jp/software/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Voxeldance manufacturing customer case study",
+   "results": [
+    "https://voxeldance.com/case_study",
+    "https://voxeldance.com/blog/",
+    "https://www.linkedin.com/posts/voxeldance_additivemanufacturing-voxeldance-cam-activity-7339206845560930306-DIOe",
+    "https://www.linkedin.com/posts/voxeldance_voxeldance-additivemanufacturing-3dprinting-activity-7267833465180479489-rqf8",
+    "https://www.youtube.com/watch?v=nxUirqD3DDA",
+    "https://3druck.com/en/case-studies/voxeldance-additive-new-software-for-data-preparation-5186882/",
+    "https://3dprint.com/314759/formnext-day-three-rock-zoll/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Voxeldance white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.extremenetworks.com/partners",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Voxeldance founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/399601-90",
+    "https://tracxn.com/d/companies/voxeldance/__ddMkWZX76weqWbOy4SJg2mB5Q1JmiXfaI6bu3d5ktEA",
+    "https://rocketreach.co/voxeldance-profile_b427ce0bff165074",
+    "https://www.crunchbase.com/organization/voxeldance",
+    "https://pitchbook.com/profiles/company/471255-31",
+    "https://www.owler.com/company/voxeldance",
+    "https://www.zoominfo.com/c/voxeldance/471801490",
+    "https://app.dealroom.co/companies/voxeldance",
+    "https://www.crunchbase.com/organization/voxeldance/financial_details"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com Voxeldance",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/skhonpo/n/n5ac1e65cfc1e",
+    "https://note.com/skhonpo/n/n773982729d2b",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kannsou_dustbox/n/n560c8384d4bf",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/100yen_today/n/n143896fc2168",
+    "https://note.com/webdir50/n/n552c8c911177"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com Voxeldance",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Voxeldance",
+   "results": [
+    "https://www.linkedin.com/company/voxeldance/",
+    "https://www.linkedin.com/products/voxeldance-additive/",
+    "https://cn.linkedin.com/in/chaoxin-zhang-67669836",
+    "https://cn.linkedin.com/in/seline-chen",
+    "https://www.linkedin.com/posts/voxeldance_additive-software-voxeldance-additive-41-activity-7046057663419318272-OqP-",
+    "https://www.linkedin.com/posts/voxeldance_additivemanufacturing-topologyoptimization-activity-7450085131555618816-wTQL",
+    "https://www.linkedin.com/posts/voxeldance_formnext-additivemanufacturing-3dprinting-activity-7397823942079590400-czBy",
+    "https://pe.linkedin.com/posts/voxeldance_additivemanufacturing-voxeldance-cae-activity-7282289873409949699-uRnF",
+    "https://www.linkedin.com/posts/voxeldance_3d-printed-bicycle-saddle-from-implicit-activity-7435141349634609152-1wB7"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Voxeldance",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Voxeldance note 社長",
+   "results": [
+    "https://cn.linkedin.com/in/chaoxin-zhang-67669836",
+    "https://www.cbinsights.com/company/voxeldance/people",
+    "https://pitchbook.com/profiles/company/399601-90",
+    "https://www.owler.com/company/voxeldance",
+    "https://www.linkedin.com/company/voxeldance/?viewAsMember=true",
+    "https://tracxn.com/d/companies/voxeldance/__ddMkWZX76weqWbOy4SJg2mB5Q1JmiXfaI6bu3d5ktEA",
+    "https://www.zoominfo.com/pic/voxeldance/471801490"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Voxeldance X 投稿",
+   "results": [
+    "https://x.com/VoxelDance",
+    "https://voxeldance.com/",
+    "https://space.bilibili.com/448046105",
+    "https://space.bilibili.com/448046105/video",
+    "https://voxeldance.com/mobile/support.html",
+    "http://voxeldance.net:5555/",
+    "https://x.com/GENMAI_VOCALOID/status/2120115787948277980"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

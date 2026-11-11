@@ -1,0 +1,1774 @@
+{
+ "name": "Robofy",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T09:15:37.747142+00:00",
+ "official_url": "https://www.robofy.ai",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "AI Credits/month",
+    "value": "1,000,000 1,200,000 1,400,000 1,600,000",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "label": "Crédits IA/mois",
+    "value": "1,000,000 1,200,000 1,400,000 1,600,000",
+    "url": "https://www.robofy.ai/fr/tarifs-revendeur-chatbot-white-label",
+    "pass": 1
+   },
+   {
+    "label": "Pricing Factor",
+    "value": "Robofy Chatbase",
+    "url": "https://www.robofy.ai/blog/chatbase-pricing-vs-robofy",
+    "pass": 1
+   },
+   {
+    "label": "料金プラン",
+    "value": "4 種類（無料プランあり）",
+    "url": "https://my-best.ai/ai-tools/robofy/",
+    "pass": 3
+   },
+   {
+    "label": "料金",
+    "value": "無料プランあり（有料プランは月額49ドル〜）",
+    "url": "https://my-best.ai/ai-tools/robofy/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "Email & Callback",
+    "value": "",
+    "url": "https://www.robofy.ai/ai-chatbot-pricing",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "DEMO - Get a quick product demo and chat with our team.",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture and qualify leads automatically, so your team can focus on closing.",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Security, GDPR and compliance",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your logo, your colors, your domain, your pricing. Keep 100% of what your clients pay.",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Download the agency presentation",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI Platform for Enterprise CX Teams",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Robofy AI agents resolve high-volume conversations, take action, and escalate with full context, giving enterprise CX teams a consistent, always-on layer across Website and WhatsApp.",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "At enterprise scale, every delayed reply, repetitive ticket, and blind spot chips away at customer trust and your team's bandwidth.",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Conversations keep climbing, but headcount doesn't scale that fast. Every new hire barely keeps up with the backlog you already have.",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous agents built for enterprise-scale customer experience.",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "For IT & Product Teams",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-ready, not just enterprise-priced.",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-Grade Security",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO 27001 compliant. TLS 1.2+ encryption in transit, AWS KMS encryption at rest, HMAC-signed webhooks, and full audit logs on every admin action. GDPR-ready, with dedicated VPC or on-premise deployment available.",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Most AI Agent vendors hand you a login and a dashboard, and call it enablement. We work differently. From the first conversation to go-live day, we work with your CX team handling setup, testing, agent training, and every edge case that comes up.",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We don't measure success by seats activated or contracts signed. We measure it by conversations resolved, and a CX team that trusts the agent to represent them. That's the outcome we're here for.\"",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Guided Go-Live Program",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every Robofy enterprise customer gets a structured 4 weeks launch program - agent setup, knowledge base configuration, UAT testing, and team handoff included. No DIY. No guesswork.",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Project Management Oversight",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents have crossed the threshold from promising to production-ready. The businesses moving now will be the hardest to catch.",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive, goal-driven, action-taking. Books appointments. Captures leads. Hands off to humans with context.",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Full business process delegation to AI Agents. Agents can work autonomously and optimize business.",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents are no longer a future investment - they're a present competitive advantage. Early adopters are already automating bookings, support tickets, and capturing leads around the clock.",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Agent Blueprints - Go Live in 1–4 Weeks",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Not a blank canvas. Every blueprint is a worked example for high-volume CX workflows - support, actions, and escalation - built around your own content, so you spend time deploying, not designing from scratch.",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "White Label Pricing for AI Agent Resellers | Robofy",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "DEMO - Get a quick product demo and chat with our team.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Capture and qualify leads automatically, so your team can focus on closing.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Security, GDPR and compliance",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your logo, your colors, your domain, your pricing. Keep 100% of what your clients pay.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Download the agency presentation",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White Label Pricing for Agencies",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White label pricing for agencies reselling AI chatbots and",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You get around 16,000 text AI messages. Pricing vary based on AI model, training resources etc.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1,000 Data Training Files / Webpages",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For professional agencies scaling their AI offerings",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1,200 Data Training Files / Webpages",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1,300 Data Training Files / Webpages",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Website + Payment Gateway",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "· Prices shown as a monthly equivalent and billed once per year.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI Credits power every interaction - text replies, voice calls, and training.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Robofy plan (per month, approx.)",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "GDPR Compliant & EU Ireland Hosted",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Data Processing Agreement (DPA)",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every plan includes our white-label panel. You can customize the branding (logo, colors, widget design) and manage client licenses from your own dashboard. Every paid plan (Accelerator, Growth, Pro and Enterprise) also lets you use your own custom domain, so clients never see the Robofy brand.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No. You manage everything through your white-label panel. Your clients interact with the AI agent on their website and you control the configuration, training data, and analytics. They never need to create a Robofy account.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No setup fees on any plan. You can start creating and deploying AI agents within minutes of signing up. The platform handles website crawling and training automatically.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI credits are a shared pool used for both chat conversations and data training across all your client websites. This gives you flexibility - if one client has high chat volume and another needs frequent retraining, the credits balance out across your account.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Is Robofy GDPR compliant and ISO 27001 certified?",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "and works to GDPR requirements. Accounts are hosted in Europe (Ireland), and AI requests are processed by Google on paid plans under its data processing terms. Customer data is not used to train AI models. A Data Processing Agreement (DPA) is available to download and sign in our Trust Center.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "DEMO - Get a quick product demo and chat with our team.",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "Capture and qualify leads automatically, so your team can focus on closing.",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "Security, GDPR and compliance",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "Your logo, your colors, your domain, your pricing. Keep 100% of what your clients pay.",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "Download the agency presentation",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "“We need pricing for 25 locations.”",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise opportunity",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "We need pricing for 25 locations.",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "With Robofy, you decide what information matters to your business, control the instructions your AI Agent follows while capturing leads, and choose up to five people who should receive every captured lead by email.",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "\"I need pricing for our team...\"",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by enterprise CX teams running high-volume support operations",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Agencies Worldwide",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 1
+   },
+   {
+    "quote": "CNC Machine Manufacturers",
+    "url": "https://www.robofy.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Spares, service, warranty, and sales enquiry support for CNC manufacturers, dealers, and AMC teams.",
+    "url": "https://www.robofy.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Describe what you need. We pick from 200+ real robots, score the fit, and hand you off to the manufacturer.",
+    "url": "https://robofy.world/",
+    "pass": 3
+   },
+   {
+    "quote": "Lightweight bipedal research platform — multi-terrain locomotion and dexterous manipulation for research and industrial pilots.",
+    "url": "https://robofy.world/",
+    "pass": 3
+   },
+   {
+    "quote": "Wheeled humanoid for warehouse picking and material handling in unstructured human-centric layouts.",
+    "url": "https://robofy.world/",
+    "pass": 3
+   },
+   {
+    "quote": "Dual-arm humanoid for precision assembly and handling in confined industrial spaces.",
+    "url": "https://robofy.world/",
+    "pass": 3
+   },
+   {
+    "quote": "Electric humanoid for industrial heavy-lifting and complex terrain work",
+    "url": "https://robofy.world/",
+    "pass": 3
+   },
+   {
+    "quote": "Explosion-proof quadruped — Zone 1 hazmat inspection in oil refineries and chemical plants",
+    "url": "https://robofy.world/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial quadruped — inspection & logistics in extreme terrain, 20 km range",
+    "url": "https://robofy.world/",
+    "pass": 3
+   },
+   {
+    "quote": "Restaurants, hotels, warehouses, and service businesses are adopting narrow but powerful automation.",
+    "url": "https://robofy.world/",
+    "pass": 3
+   },
+   {
+    "quote": "Robofy is an independent intelligence and advisory platform. References to robot manufacturers do not imply official partnership, endorsement, or product availability.",
+    "url": "https://robofy.world/companies/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan invented modern industrial robotics and still sets the bar for reliability. These are its leading robot makers today, ranked on the Robofy Index.",
+    "url": "https://robofy.world/companies/japan",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "White-label reseller plans",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Guides for agencies and businesses",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sell AI agents under your own brand",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Your agent is trained on your website, documents, FAQs, policies, and internal workflows. It speaks for your brand, not a generic script.",
+    "url": "https://www.robofy.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "White Label Pricing for AI Agent Resellers | Robofy",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Start your own white label AI business for $200 less. Any yearly plan, applied automatically.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-label reseller plans",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Guides for agencies and businesses",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Sell AI agents under your own brand",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White Label Pricing for Agencies",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White label pricing for agencies reselling AI chatbots and",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": ". Start with what you need and scale as you grow. Every plan includes the full white-label panel and all core AI agent features.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For small agencies getting started with AI",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For growing agencies scaling their AI offerings",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For professional agencies scaling their AI offerings",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For large agencies with unlimited needs",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Estimate what your white label business could earn. Enter how many clients you expect and what you charge each one.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Start your white label business",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes! You can book a 1-on-1 walkthrough with our team, and every reseller plan starts with a 14-day free trial.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Is it really white-label?",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every plan includes our white-label panel. You can customize the branding (logo, colors, widget design) and manage client licenses from your own dashboard. Every paid plan (Accelerator, Growth, Pro and Enterprise) also lets you use your own custom domain, so clients never see the Robofy brand.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No. You manage everything through your white-label panel. Your clients interact with the AI agent on their website and you control the configuration, training data, and analytics. They never need to create a Robofy account.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-label reseller plans",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "Guides for agencies and businesses",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "Sell AI agents under your own brand",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "White-label reseller plans",
+    "url": "https://www.robofy.ai/ai-chatbot-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Guides for agencies and businesses",
+    "url": "https://www.robofy.ai/ai-chatbot-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Sell AI agents under your own brand",
+    "url": "https://www.robofy.ai/ai-chatbot-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "If you are an agency or want to build your own chatbot business, check out our white label pricing.",
+    "url": "https://www.robofy.ai/ai-chatbot-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A negotiated contract with custom limits, dedicated SLAs, and hands-on support. Suited to large brands, agencies, and multi-location businesses with high volumes.",
+    "url": "https://www.robofy.ai/ai-chatbot-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-label reseller plans",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Guides for agencies and businesses",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Sell AI agents under your own brand",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "White Label AI Agents for MSPs: Resell AI Support",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Can You White Label ChatGPT? Options for Agencies",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "GoHighLevel White Label vs a Dedicated White Label AI Agent Platform",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "What Is White Label SaaS? How Agencies Earn From It (2026 Guide)",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "White Label AI Agent Platform: 10 Things to Check Before You Resell",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "White Label vs Private Label: What's the Difference? (Agency Guide)",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "White Label AI Chatbot Pricing Compared: What Agencies Pay",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "White Label AI Services and Agents Agencies Can Resell",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "11 Best Whitelabel Chatbot Platforms Compared (2026)",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "How to Start a White Label Chatbot Agency in 2026 (Step-by-Step)",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Robofy White Label Reseller Program: Complete Overview (2026)",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "How to Choose a White Label Chatbot Platform: Agency Checklist",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "White Label Reseller Programs for European Agencies (2026 Guide)",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Best Botsonic Alternatives for Agencies in 2026: Honest Comparison",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Best Chatbase Alternatives for Agencies in 2026: Honest Comparison",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Botsonic Alternatives: Best AI Chatbot Platforms for Agencies in 2026",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Botsonic vs Chatbase: Which AI Chatbot Platform Is Better for Agencies?",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Botsonic vs CustomGPT: Which AI Chatbot Platform Is Better for Agencies?",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Botsonic vs SiteGPT: Which AI Chatbot Platform Is Better for Agencies?",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Chatbase Alternatives: Best AI Chatbot Platforms for Agencies in 2026",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Chatbase Pricing vs Robofy: Which Is More Cost-Effective for Agencies?",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Chatbase vs Botsonic: Which AI Chatbot Platform Is Better for Agencies?",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "White-label reseller plans",
+    "url": "https://www.robofy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Guides for agencies and businesses",
+    "url": "https://www.robofy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Sell AI agents under your own brand",
+    "url": "https://www.robofy.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "White Label AI Chatbot Reseller Program for Agencies | Robofy",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Start your own white label AI business for $200 less. Any yearly plan, applied automatically.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Where your revenue goes",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Select the fields your AI Agent should gather from relevant enquiries. Configured fields become part of each captured lead record.",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "Understand the service required, location, and project details before the first call - so your team arrives prepared.",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "Top 13 SaaS Reseller Programs to Increase Your Revenue in 2026",
+    "url": "https://www.robofy.ai/blog",
+    "pass": 1
+   },
+   {
+    "quote": "keep all revenue. No commissions, no revenue sharing. Your business, your margins.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 1
+   },
+   {
+    "quote": ": Set your own monthly or annual rates. Keep all client revenue; 0% commission.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Drag the sliders to estimate your revenue from",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Your Projected Gross Revenue",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Monthly gross revenue",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Gross revenue, before your Robofy subscription and AI usage costs (credits).",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Your clients' data is not used to train AI models. Sub-processors are listed in the Trust Center.",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 1
+   },
+   {
+    "quote": "clients within 60 days. That worked out to $4,200 in monthly recurring revenue. Robofy",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 1
+   },
+   {
+    "quote": "With Robofy, you set your own pricing, keep 100% of the revenue, and manage all clients",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 1
+   },
+   {
+    "quote": "keep 100% of client revenue or pay a commission, how many client licenses and AI credits",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Your order is out for delivery and should arrive on Friday.",
+    "url": "https://www.robofy.ai/white-label-ai-agents",
+    "pass": 1
+   },
+   {
+    "quote": "Spares, service, warranty, and sales enquiry support for CNC manufacturers, dealers, and AMC teams.",
+    "url": "https://www.robofy.ai/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Una estimación para planificar, basada en los datos que introduces. No incluye impuestos ni comisiones de pago y no garantiza ingresos. Los importes usan la moneda elegida arriba.",
+    "url": "https://www.robofy.ai/es/precios-revendedor-chatbot-white-label",
+    "pass": 1
+   },
+   {
+    "quote": "¡Sí! Puedes reservar una demostración personalizada con nuestro equipo, y todos los planes de revendedor empiezan con una prueba gratuita de 14 días.",
+    "url": "https://www.robofy.ai/es/precios-revendedor-chatbot-white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Todos los planes incluyen nuestro panel white label. Puedes personalizar la marca (logotipo, colores, diseño del widget) y gestionar las licencias de cliente desde tu propio panel. Todos los planes de pago (Accelerator, Growth, Pro y Enterprise) te permiten además usar tu propio dominio, así que tus clientes nunca ven la marca Robofy.",
+    "url": "https://www.robofy.ai/es/precios-revendedor-chatbot-white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Vos agents IA ne s'arrêtent pas. Vous pouvez acheter des recharges de crédits et poursuivre votre utilisation.",
+    "url": "https://www.robofy.ai/fr/tarifs-revendeur-chatbot-white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Recarregue qualquer plano pago com",
+    "url": "https://www.robofy.ai/pt/precos-revendedor-chatbot-white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Recarregue US$ 20 e receba 200.000 créditos extras (~3.333 mensagens de IA).",
+    "url": "https://www.robofy.ai/pt/precos-revendedor-chatbot-white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Todos os planos incluem nosso painel white label. Você pode personalizar a marca (logotipo, cores, design do widget) e gerenciar as licenças de cliente no seu próprio painel. Todos os planos pagos (Accelerator, Growth, Pro e Enterprise) também permitem usar seu próprio domínio, então seus clientes nunca veem a marca Robofy.",
+    "url": "https://www.robofy.ai/pt/precos-revendedor-chatbot-white-label",
+    "pass": 1
+   },
+   {
+    "quote": "BotPenguin’s entry partner plan cannot price an AI-chat comparison: its published tier descriptions activate AI chat on Little. Likewise, SiteGPT’s ordinary website plans and agency program use different commercial arrangements. Compare the offering you intend to sell.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-chatbot-pricing-compared",
+    "pass": 1
+   },
+   {
+    "quote": "Provider / arrangement",
+    "url": "https://www.robofy.ai/blog/white-label-ai-chatbot-pricing-compared",
+    "pass": 1
+   },
+   {
+    "quote": "Integration listed; confirm channel/provider charges",
+    "url": "https://www.robofy.ai/blog/white-label-ai-chatbot-pricing-compared",
+    "pass": 1
+   },
+   {
+    "quote": "WhatsApp listed; request the agency channel tariff",
+    "url": "https://www.robofy.ai/blog/white-label-ai-chatbot-pricing-compared",
+    "pass": 1
+   },
+   {
+    "quote": "Confirm WhatsApp deployment and fees for the chosen arrangement",
+    "url": "https://www.robofy.ai/blog/white-label-ai-chatbot-pricing-compared",
+    "pass": 1
+   },
+   {
+    "quote": ", checked 5 October 2026. “Confirm” means this comparison has not established a complete tariff for that arrangement.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-chatbot-pricing-compared",
+    "pass": 1
+   },
+   {
+    "quote": "Client access can add costs too. Count the people who need to edit agents, review conversations, or manage billing. Ask whether seats belong to your agency, each client, or the whole account. Check the price of additional domains and branded email or invoices if those are part of your offer.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-chatbot-pricing-compared",
+    "pass": 1
+   },
+   {
+    "quote": "Add onboarding, support, ongoing training, reporting and your margin. Also set a usage allowance and an agreed process for extra charges. Your platform bill covers only part of the service you deliver.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-chatbot-pricing-compared",
+    "pass": 1
+   },
+   {
+    "quote": "Keep all revenue your clients pay (with no commission going back to the provider)",
+    "url": "https://www.robofy.ai/blog/white-label-reseller-programs-european-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "For agencies, the appeal is straightforward. You add a recurring revenue service line without the product development cost, technical risk, or time investment of building from scratch.",
+    "url": "https://www.robofy.ai/blog/white-label-reseller-programs-european-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "This removes a major barrier for European agency sales. You are not selling “an English chatbot that has a translation layer.” You are selling an AI that speaks the client’s customers’ language natively.",
+    "url": "https://www.robofy.ai/blog/white-label-reseller-programs-european-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "The commercial structure is clean for European resellers: flat monthly fee, 100% revenue retention, euro pricing available. You are not paying a commission on every client invoice.",
+    "url": "https://www.robofy.ai/blog/white-label-reseller-programs-european-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Plans are billed yearly and listed in EUR, USD, GBP and INR on the",
+    "url": "https://www.robofy.ai/blog/white-label-reseller-programs-european-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Clients pay monthly or yearly for the service. This builds predictable revenue as you add clients.",
+    "url": "https://www.robofy.ai/blog/what-is-white-label-saas",
+    "pass": 1
+   },
+   {
+    "quote": "Check the provider’s branding, client management, billing, and data arrangements before calling a product white label.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-services-to-resell",
+    "pass": 1
+   },
+   {
+    "quote": "Include onboarding and maintenance in your price. Access to AI software is only part of what you deliver.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-services-to-resell",
+    "pass": 1
+   },
+   {
+    "quote": "White label AI services can also mean a managed deliverable. A marketing agency might use licensed AI tools to help prepare articles or campaign concepts, then review and deliver the work under its brand. That arrangement needs different capabilities from a client-facing software platform.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-services-to-resell",
+    "pass": 1
+   },
+   {
+    "quote": "Check what you are buying. A tool you use internally, a branded client portal, and a supplier who completes work for you are three different arrangements. Having permission to use AI in your own work does not establish permission to resell access to someone else’s software.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-services-to-resell",
+    "pass": 1
+   },
+   {
+    "quote": "An AI service can extend work you already do for a client. If you build its website, you know where enquiries arrive and who answers them. If you manage its ads, you can ask what happens after someone clicks. Those conversations help you identify a task worth improving.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-services-to-resell",
+    "pass": 1
+   },
+   {
+    "quote": "The ongoing work can support a recurring service: reviewing answers, updating content, checking usage, and helping the client handle enquiries. Recurring revenue depends on clients continuing to find that work useful. Include a review process so your monthly invoice pays for a defined service.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-services-to-resell",
+    "pass": 1
+   },
+   {
+    "quote": "WhatsApp can be part of the same support or lead service when the client uses it for customer enquiries. The client needs the relevant account and connection; your onboarding should explain what it must supply and approve.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-services-to-resell",
+    "pass": 1
+   },
+   {
+    "quote": "support this kind of offer; closing the enquiry remains part of the client’s sales process.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-services-to-resell",
+    "pass": 1
+   },
+   {
+    "quote": "Ask to see the client experience, then inspect the commercial arrangements. A branded widget may cover what visitors see while leaving the client portal, emails, or billing under the provider’s name. Decide which parts need your branding for the service you intend to sell.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-services-to-resell",
+    "pass": 1
+   },
+   {
+    "quote": "What you can export and how clients can move to another arrangement",
+    "url": "https://www.robofy.ai/blog/white-label-ai-services-to-resell",
+    "pass": 1
+   },
+   {
+    "quote": "when building a quote. Example prices help you plan; test whether a client will buy the defined service before relying on them in a revenue forecast.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-services-to-resell",
+    "pass": 1
+   },
+   {
+    "quote": "It is AI software or a service you can offer under your own brand through an authorised provider arrangement. The provider supplies the technology or delivery capacity; your agency handles the client offer and the responsibilities set out in the agreement.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-services-to-resell",
+    "pass": 1
+   },
+   {
+    "quote": "That depends on paying clients, prices, usage, and delivery costs. Subtract the platform, extra usage, labour, and other expenses from revenue. The pricing guide linked above includes hypothetical calculations; they are not customer earnings or guaranteed results.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-services-to-resell",
+    "pass": 1
+   },
+   {
+    "quote": "Add-ons listed on the page:",
+    "url": "https://www.robofy.ai/blog/chatbase-pricing-vs-robofy",
+    "pass": 1
+   },
+   {
+    "quote": "that offer better pricing transparency, stronger reliability, and more agency-friendly revenue models. Whether you’ve run into Stammer’s per-message billing surprises, its lack of a free trial, or reliability concerns reported by users, there are excellent platforms worth considering. This hub page covers the top",
+    "url": "https://www.robofy.ai/blog/stammer-ai-alternatives",
+    "pass": 1
+   },
+   {
+    "quote": "for agencies in 2026, with a full feature comparison, in-depth head-to-head breakdowns, and a clear recommendation for agencies ready to scale their chatbot business with zero revenue commissions.",
+    "url": "https://www.robofy.ai/blog/stammer-ai-alternatives",
+    "pass": 1
+   },
+   {
+    "quote": "0% Revenue Commission",
+    "url": "https://www.robofy.ai/blog/stammer-ai-alternatives",
+    "pass": 1
+   },
+   {
+    "quote": "Start building white-label AI chatbots for your clients with zero per-message fees and 100% revenue retention. No complicated wallet systems. No hidden costs.",
+    "url": "https://www.robofy.ai/blog/stammer-ai-alternatives",
+    "pass": 1
+   },
+   {
+    "quote": "give agencies full branding control, transparent pricing, and revenue models that reward growth rather than penalize it. Robofy stands out as the top choice for agencies that want a simple, white-label chatbot builder with 100% revenue retention and no surprise charges at the end of the month. Explore the",
+    "url": "https://www.robofy.ai/blog/stammer-ai-alternatives",
+    "pass": 1
+   },
+   {
+    "quote": "Your margin, your pricing, your recurring revenue",
+    "url": "https://www.robofy.ai/files/WL-Presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Restaurants, hotels, warehouses, and service businesses are adopting narrow but powerful automation.",
+    "url": "https://robofy.world/",
+    "pass": 3
+   },
+   {
+    "quote": "Listed for market education and future tracking only. Robofy does not claim official partnership or availability.",
+    "url": "https://robofy.world/",
+    "pass": 3
+   },
+   {
+    "quote": "Climbers, new arrivals and the Top 10 — in your inbox every Monday. Free.",
+    "url": "https://robofy.world/companies/japan",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Robofy answers website enquiries, collects the information your business needs, and turns each captured enquiry into structured lead data - then emails it to the people who need to act.",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "Email notifications to up to 5 people",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "sales@yourcompany.com",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "With Robofy, you decide what information matters to your business, control the instructions your AI Agent follows while capturing leads, and choose up to five people who should receive every captured lead by email.",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "Review captured leads inside Robofy and email each new enquiry to up to five people with the context they need for follow-up.",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "Email notifications on",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "Choose up to five email addresses in Lead settings. Every new captured lead is sent with the visitor details and conversation context.",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "Email 5 teammates",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "Can Robofy email new leads to my team?",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Turn on Email notifications in Lead settings and add up to five email addresses. Each time the AI Agent captures a new lead, Robofy emails the configured recipients the lead details and conversation context.",
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "pass": 1
+   },
+   {
+    "quote": "Hands off to WhatsApp, Email, Slack, or human agents with full",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Turn conversations into structured lead records, notify up to five teammates by email, download reports and connect Google Sheets.",
+    "url": "https://www.robofy.ai/white-label-ai-agents",
+    "pass": 1
+   },
+   {
+    "quote": "Set escalation triggers in plain English. Your team receives the customer details, the reason and an AI summary by email.",
+    "url": "https://www.robofy.ai/white-label-ai-agents",
+    "pass": 1
+   },
+   {
+    "quote": "Lead capture stores structured lead records, notifies up to five teammates by email, lets you download reports and can connect to Google Sheets. Webhooks send Lead Capture, Human Handoff and Session End events to your HTTPS endpoint, with optional HMAC-SHA256 signing so your endpoint can verify each request.",
+    "url": "https://www.robofy.ai/white-label-ai-agents",
+    "pass": 1
+   },
+   {
+    "quote": "You set human handoff triggers in plain English. When one is met, your team gets an email with the customer's details, the reason for the handoff, the preferred contact channel and an AI summary of the conversation.",
+    "url": "https://www.robofy.ai/white-label-ai-agents",
+    "pass": 1
+   },
+   {
+    "quote": "Client access can add costs too. Count the people who need to edit agents, review conversations, or manage billing. Ask whether seats belong to your agency, each client, or the whole account. Check the price of additional domains and branded email or invoices if those are part of your offer.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-chatbot-pricing-compared",
+    "pass": 1
+   },
+   {
+    "quote": "Sometimes. Chipp separates full platform branding from its base subscription. Botsonic and Chatbase publish branding-removal add-ons. Compare exactly what each add-on changes, including the login, dashboard, widget and client emails.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-chatbot-pricing-compared",
+    "pass": 1
+   },
+   {
+    "quote": "- Your subdomain, your logo, your colors, your emails. Robofy’s brand is invisible to your clients.",
+    "url": "https://www.robofy.ai/blog/white-label-reseller-programs-european-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "The provider runs one platform. You open an account with the provider and set up your brand: a logo, colours and usually a custom domain. Your clients then sign up or are set up under your brand, each with their own workspace. They see your name on the login page, in emails and in the dashboard.",
+    "url": "https://www.robofy.ai/blog/what-is-white-label-saas",
+    "pass": 1
+   },
+   {
+    "quote": "Ask to see the client experience, then inspect the commercial arrangements. A branded widget may cover what visitors see while leaving the client portal, emails, or billing under the provider’s name. Decide which parts need your branding for the service you intend to sell.",
+    "url": "https://www.robofy.ai/blog/white-label-ai-services-to-resell",
+    "pass": 1
+   },
+   {
+    "quote": "✓Connects with CRM, email, WhatsApp, and more",
+    "url": "https://www.robofy.ai/files/WL-Presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Lead Handling Collects email, nothing more Qualifies intent, scores, and routes leads in real-time",
+    "url": "https://www.robofy.ai/files/WL-Presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Integrations None or very limited WhatsApp, CRM, Zapier, email, Slack, and more",
+    "url": "https://www.robofy.ai/files/WL-Presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Goes far beyond collecting an email address. The agent",
+    "url": "https://www.robofy.ai/files/WL-Presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "WhatsApp Business API (Meta-verified), Email",
+    "url": "https://www.robofy.ai/files/WL-Presentation.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Give option to your visitors to email you so that you can contact them later on.",
+    "url": "https://appsumo.com/products/robofy/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Robofyの機能・料金・日本語対応｜導入前の確認点 | ツール灯台",
+    "url": "https://tool-todai.com/services/robofy/",
+    "pass": 3
+   },
+   {
+    "quote": "Robofyの機能・料金と日本語で確認したこと",
+    "url": "https://tool-todai.com/services/robofy/",
+    "pass": 3
+   },
+   {
+    "quote": "機能や料金を公式サイトで調べ、公開されているサポートチャットにも日本語で3つの質問を送りました",
+    "url": "https://tool-todai.com/services/robofy/",
+    "pass": 3
+   },
+   {
+    "quote": "公式サポートチャットでは、日本語で返答を得られました",
+    "url": "https://tool-todai.com/services/robofy/",
+    "pass": 3
+   },
+   {
+    "quote": "お客さまへ自社ブランドで提供したい方向けに、ホワイトラベルの代理店プランもあります",
+    "url": "https://tool-todai.com/services/robofy/",
+    "pass": 3
+   },
+   {
+    "quote": "今回、この代理店プランの料金は再確認していません",
+    "url": "https://tool-todai.com/services/robofy/",
+    "pass": 3
+   },
+   {
+    "quote": "AIツールの情報を、日本のユーザーに向けて紹介しませんか",
+    "url": "https://my-best.ai/ai-tools/robofy/",
+    "pass": 3
+   },
+   {
+    "quote": "未確認：実際の操作感、導入効果、日本からの契約時の最終支払額",
+    "url": "https://core-rise-tools-gyfqua.v2.appdeploy.ai/robofy-review.html",
+    "pass": 3
+   },
+   {
+    "quote": "Best Japanese Robotics Companies (2026), Ranked — Robofy",
+    "url": "https://robofy.world/companies/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Best Japanese Robotics Companies",
+    "url": "https://robofy.world/companies/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan invented modern industrial robotics and still sets the bar for reliability. These are its leading robot makers today, ranked on the Robofy Index.",
+    "url": "https://robofy.world/companies/japan",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Robofyの機能・料金・日本語対応｜導入前の確認点 | ツール灯台 — Oct 7, 2026 · Robofyの機能と試用・料金を公式情報から整理。 日本語の公開チャット回答と料金ページを照合した確認点も紹介します。 自分のFAQでのボット作成・サイト設置は未検証です。",
+    "url": "https://tool-todai.com/services/robofy/",
+    "pass": 3
+   },
+   {
+    "quote": "Robofyとは｜料金・機能・評判を初心者向けに解説【2026年最新】 — May 21, 2026 · Robofyは、多拠点サービス企業向けの行動型AIエージェントプラットフォームです。 主にレストランチェーン・飲食店グループ、ホテル・宿泊施設運営企業に向いています。",
+    "url": "https://my-best.ai/ai-tools/robofy/",
+    "pass": 3
+   },
+   {
+    "quote": "Robofyの向き・不向きと料金条件｜CORE RISE Tools — 参照元と確認範囲 以下の公式情報を2026-09-19に確認。 向き・不向きは掲載機能からの編集上の判断です。 料金ページの表示確認は製品の利用検証とは区別しています。 Robofy 公式情報 ↗",
+    "url": "https://core-rise-tools-gyfqua.v2.appdeploy.ai/robofy-review.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI Agents for Customer Support & Experience | Robofy — Yes. Robofy is built for scale, not single-agent workloads. It holds response quality steady whether you're running thousands or millions of conversations a month, routes complex issues to the right person, and gives CX leadership visibility into volume and quality, all from a single deployment.",
+    "url": "https://www.robofy.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Robofy：ウェブサイト向けカスタムAIチャットボットビルダー | GPT-4... — Aug 1, 2025 · Robofyを使えば、数分でウェブサイト用のカスタムAIチャットボットを構築できます。 GPT-4を活用してリードを生成し、24時間365日のカスタマーサポートを提供し、ユーザーエンゲージメントを高めましょう。 コーディングは不要です。",
+    "url": "https://www.toolmage.com/ja/tool/robofy/",
+    "pass": 3
+   },
+   {
+    "quote": "Robofy — Robot Rankings, Reviews & Comparison Platform — The definitive ranking of every robot worth deploying. One transparent 0–100 Robofy Score across capability, ROI, price and reliability — plus best-of leaderboards by category, budget, use case and country.",
+    "url": "https://robofy.world/",
+    "pass": 3
+   },
+   {
+    "quote": "Best Japanese Robotics Companies (2026), Ranked — Robofy — Best Japanese Robotics Companies ranked by lineup strength on the Robofy Index — robot count, capability, ROI and reliability.",
+    "url": "https://robofy.world/companies/japan",
+    "pass": 3
+   },
+   {
+    "quote": "About Robofy | AI Agents for Multi-Location Service Businesses — Robofy is a Vadodara-based AI company. We build autonomous agents that handle bookings, customer support, and lead capture for multi-location brands on Website and WhatsApp.",
+    "url": "https://www.robofy.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Robofyの機能・料金・日本語対応｜導入前の確認点 | ツール灯台 — Oct 7, 2026 · 何ができるか Robofyは、サイトの文章や資料をもとに質問へ答えるAIチャットボットです。 よくある問い合わせを減らしたい方や、お客さまのサイトへ導入したい制作会社が検討するサービスです。 公式サポートチャットでは、日本語で返答を得られました。",
+    "url": "https://tool-todai.com/services/robofy/",
+    "pass": 3
+   },
+   {
+    "quote": "Robofy | Enterprise WhatsApp Business Automation Platform — How is our data protected? Robofy is operated in line with ISO 27001, KVKK and GDPR, with AES-256 encryption, two-factor sign-in, role-based access and audit logs.",
+    "url": "https://robofy.net/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label AI Chatbot Reseller Program for Agencies | RobofyRobofy White Label Reseller Program: Complete Overview (2026)Robofy - AppSumoRobofy AI Chatbot Review: Pricing & Alternatives | WhatTheAIRobofy - YouTubeRobofy Review, Pricing & AlternativesAdobe Partner Directory — A white label chatbot reseller program lets agencies buy an AI chatbot platform, brand it with their own logo and domain, a",
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Robofy White Label Reseller Program: Complete Overview (2026) — May 6, 2026 · How Robofy's white label reseller program works: what resellers get, what they earn, plan options, GDPR and US compliance, and step-by-step setup.",
+    "url": "https://www.robofy.ai/blog/robofy-whitelabel-reseller-program-complete-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Robofy - AppSumoRobofy AI Chatbot Review: Pricing & Alternatives | WhatTheAIRobofy - YouTubeRobofy Review, Pricing & AlternativesAdobe Partner Directory — Aug 31, 2023 · Become a Robofy reseller and dive into profits today. Are you a small business or an entrepreneur looking to increase your revenue? Check out Robofy's reselling plan and open doors to new avenues. Whether you're pitching Robofy st",
+    "url": "https://appsumo.com/products/robofy/",
+    "pass": 3
+   },
+   {
+    "quote": "Robofy AI Chatbot Review: Pricing & Alternatives | WhatTheAI — Earn unlimited money by reselling Robofy: an AI chatbot powered by ChatGPT. You get the chance to be your own boss, set your prices, and cater to businesses of all sizes. Robofy reseller plan makes it easy with simple license management and hosted solutions. Join the Robofy Reseller Program today and multiply your income with an easy-t",
+    "url": "https://whattheai.tech/tools/robofy-ai-chatbot",
+    "pass": 3
+   },
+   {
+    "quote": "Robofy - YouTube — Welcome to the Robofy YouTube channel! Discover the power of creating personalized chatbots using your website content. Join us as we explore the world of AI chatbots and unlocking new ...",
+    "url": "https://www.youtube.com/@Robofy01/videos",
+    "pass": 3
+   },
+   {
+    "quote": "Robofy - Products, Competitors, Financials, Employees ... — Robofy is a company that focuses on communication orchestration through its platform within the messaging industry. The company provides services such as incident response, marketing campaigns, and customer support, all facilitated via the WhatsApp Business API.",
+    "url": "https://www.cbinsights.com/company/robofy",
+    "pass": 3
+   },
+   {
+    "quote": "robofy - Crunchbase Company Profile & Funding — Robofy provides consulting services for robotic process automation, artificial intelligence, machine learning, and digital process transformation. It trains organizations on automation concepts, assesses processes for automation suitability, and develops business cases and implementation roadmaps.",
+    "url": "https://www.crunchbase.com/organization/robofy-4f75",
+    "pass": 3
+   },
+   {
+    "quote": "Founder - robofy — Meet the founder behind robofy and learn about the vision, technical expertise, and experience building AI-native WhatsApp automation.",
+    "url": "https://robofy.net/founder",
+    "pass": 3
+   },
+   {
+    "quote": "robofy - Crunchbase Company Profile & Funding — Seamlessly integrated with Meeting, WhatsApp, Email, Messenger, and Call Back functionalities, Robofy chatbot ensures efficient and automated interactions. Whether scheduling meetings, sending messages, managing emails, or facilitating call",
+    "url": "https://www.crunchbase.com/organization/robofy",
+    "pass": 3
+   },
+   {
+    "quote": "Robofy - LinkedIn — Robofy's AI Agents gather data from live sources, including government sources, identify who may be affected, create a communication plan, and automatically reach your employees through...",
+    "url": "https://www.linkedin.com/company/robofynet",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Robofy (@RobofyApp) / X A humanoid robot is now starring in a kung fu film AgiBot's Expedition A3 trades choreographed moves with a human performer No CG, according to AgiBot. Robot breakthrough or cinematic demo? #Robotics #HumanoidRobot Explore more robots at robofy app",
+    "url": "https://x.com/RobofyApp",
+    "pass": 3
+   },
+   {
+    "quote": "Are your Diapers charged, active, and ready to assimilate all ... Push out those thoughts into your pampers and robofy yourself in the next part of the SISSY STAR BATTLES Campaign for the Sissy Lunar Legion! https://t.co/Gn5liYIEOS",
+    "url": "https://x.com/Just_Knicknatz/status/2078190336657027278",
+    "pass": 3
+   },
+   {
+    "quote": "Light Silver on X: \"𝗦𝘂𝗯𝗺𝗶𝘁 𝘆𝗼𝘂𝗿 𝗽𝗿𝗼𝗱𝘂𝗰𝘁 𝗯𝗲𝗹𝗼... Building @robofy_ai What: Autonomous AI support agents that index your site/docs in 60 seconds. Who it's for: E-commerce (WooCommerce/WordPress), SaaS founders, and marketing agencies.",
+    "url": "https://x.com/lightsilver323/status/2091933563059147037",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Robofy - Facebook Jun 22, 2026 · Robofy. 55,434 likes · 1 talking about this. ROBOFY by Startup Selfie is a platform dedicated to the latest robotic innovations.",
+    "url": "https://www.facebook.com/Robofy/",
+    "pass": 3
+   },
+   {
+    "quote": "Robofy - FacebookThis AI robot quietly drives through greenhouses trimming ...Startup Selfie - This robot climbs trees… and trims them ...This AI robot quietly drives through greenhouses trimming ...This robot climbs trees… and trims them for you | RobofyThis tiny warehouse robot casually climbs the shelves like ... Jul 8, 2016 · الحمد لله، Robofy سعيدة جدا بإنجازها السنة دي .. الحصول على لقب بطل ",
+    "url": "https://www.facebook.com/robofyfayoum1stclub/",
+    "pass": 3
+   },
+   {
+    "quote": "This robot climbs trees… and trims them for you | Robofy Mar 27, 2026 · Climbing tall trees with a chainsaw. Yeah, that's one of the toughest jobs out there. Now, imagine this instead. A robot grips the trunk. Starts climbing all by itself. It reaches the branches, cuts them cleanly and then just climbs back down like nothing happened. No ropes, no risk, no exhaustion. This is smart forestry in ac",
+    "url": "https://www.facebook.com/Robofy/videos/this-robot-climbs-trees-and-trims-them-for-you-/1420389396509265/",
+    "pass": 3
+   },
+   {
+    "quote": "This AI robot quietly drives through greenhouses trimming ... May 20, 2026 · This AI robot quietly drives through greenhouses trimming tomato plants 🍅🤖 Robofy",
+    "url": "https://www.facebook.com/StartupSelfieOfficial/videos/this-ai-robot-quietly-drives-through-greenhouses-trimming-tomato-plants-robofy/977414428350945/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.robofy.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/ai-lead-capture",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/ai-chatbot-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/white-label-ai-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/es/precios-revendedor-chatbot-white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/fr/tarifs-revendeur-chatbot-white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/pt/precos-revendedor-chatbot-white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/de/white-label-chatbot-reseller-preise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/blog/white-label-ai-chatbot-pricing-compared",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/blog/white-label-reseller-programs-european-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/blog/white-label-chatgpt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/blog/what-is-white-label-saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/blog/white-label-ai-services-to-resell",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/blog/chatbase-pricing-vs-robofy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/blog/stammer-ai-alternatives",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.robofy.ai/files/WL-Presentation.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://tool-todai.com/services/robofy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://my-best.ai/ai-tools/robofy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://core-rise-tools-gyfqua.v2.appdeploy.ai/robofy-review.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robofy.world/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robofy.world/companies/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tool-todai.com/services/robofy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appsumo.com/products/robofy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://whattheai.tech/tools/robofy-ai-chatbot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/robofy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/robofy-4f75",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://robofy.net/founder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/robofy",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/RobofyApp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Just_Knicknatz/status/2078190336657027278",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lightsilver323/status/2091933563059147037",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Robofy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/robofyfayoum1stclub/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Robofy/videos/this-robot-climbs-trees-and-trims-them-for-you-/1420389396509265/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/StartupSelfieOfficial/videos/this-ai-robot-quietly-drives-through-greenhouses-trimming-tomato-plants-robofy/977414428350945/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RobofyApp",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Robofy 日本 導入",
+   "results": [
+    "https://tool-todai.com/services/robofy/",
+    "https://my-best.ai/ai-tools/robofy/",
+    "https://core-rise-tools-gyfqua.v2.appdeploy.ai/robofy-review.html",
+    "https://www.robofy.ai/",
+    "https://www.toolmage.com/ja/tool/robofy/",
+    "https://www.cxgn.cn/ja/robofy",
+    "https://www.sankei.com/article/20261017-YBLUS5Z3NZIFJM2MKPUTLXRKWM/?outputType=asynd"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Robofy 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Robofy Japan",
+   "results": [
+    "https://robofy.world/",
+    "https://robofy.world/companies/japan",
+    "https://www.robofy.ai/about",
+    "https://tool-todai.com/services/robofy/",
+    "https://robofy.net/",
+    "https://www.robotjapan.com/homepage/",
+    "https://www.robofy.ai/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Robofy manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Robofy white label OR reseller OR partner program",
+   "results": [
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://www.robofy.ai/blog/robofy-whitelabel-reseller-program-complete-overview",
+    "https://appsumo.com/products/robofy/",
+    "https://whattheai.tech/tools/robofy-ai-chatbot",
+    "https://www.youtube.com/@Robofy01/videos",
+    "https://opentools.ai/tools/robofy",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Robofy founded funding employees revenue",
+   "results": [
+    "https://www.cbinsights.com/company/robofy",
+    "https://www.crunchbase.com/organization/robofy-4f75",
+    "https://robofy.net/founder",
+    "https://www.crunchbase.com/organization/robofy",
+    "https://www.linkedin.com/company/robofynet",
+    "https://open.endole.co.uk/insight/company/10559119-robofy-limited",
+    "https://www.linkedin.com/company/robofyco/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Robofy",
+   "results": [
+    "https://note.com/maxmatsuura/n/ne59969fd6e71",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/shinkainoai/n/nf52e6be381d4",
+    "https://note.com/yamirinchann/n/nac773914a154",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/tori_1980/n/n21037c205ade"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Robofy",
+   "results": [
+    "https://x.com/RobofyApp",
+    "https://x.com/",
+    "https://x.com/Just_Knicknatz/status/2078190336657027278",
+    "https://x.com/lightsilver323/status/2091933563059147037",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/Marlayna29/status/2115433590150606880",
+    "https://x.com/aricinnabon/status/2113940214804775104"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Robofy",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Robofy",
+   "results": [
+    "https://www.facebook.com/Robofy/",
+    "https://www.facebook.com/robofyfayoum1stclub/",
+    "https://www.facebook.com/Robofy/videos/this-robot-climbs-trees-and-trims-them-for-you-/1420389396509265/",
+    "https://www.facebook.com/StartupSelfieOfficial/videos/this-ai-robot-quietly-drives-through-greenhouses-trimming-tomato-plants-robofy/977414428350945/",
+    "https://www.facebook.com/StartupSelfieOfficial/posts/this-robot-climbs-trees-and-trims-them-for-you-robofy/1368768915281555/",
+    "https://www.facebook.com/StartupSelfieOfficial/videos/this-tiny-warehouse-robot-casually-climbs-the-shelves-like-spider-man-robofy/1775276916609885/",
+    "https://www.facebook.com/Robofy/videos/this-ai-robot-quietly-drives-through-greenhouses-trimming-tomato-plants-/1195786935951176/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Robofy note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Robofy X 投稿",
+   "results": [
+    "https://x.com/RobofyApp",
+    "https://app.robofy.net/",
+    "https://www.robofy.ai/",
+    "https://robofy.net/",
+    "https://robo-index.github.io/zh/guides/",
+    "https://x.com/robo_jyusshi/status/2112241937919127852",
+    "https://github.com/Robo-Index/Robo-Index.github.io/blob/dev/RA-L+投稿攻略.md"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部24頁・検索12回）"
+ }
+}

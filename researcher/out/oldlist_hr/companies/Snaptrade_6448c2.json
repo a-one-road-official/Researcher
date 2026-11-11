@@ -1,0 +1,1088 @@
+{
+ "name": "Snaptrade",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T09:01:10.562228+00:00",
+ "official_url": "https://snaptrade.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$2,700,000",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "30-Jul-2022    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/300301-39",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "649 Queen St, Fredericton, New Brunswick e3b 1c3, CA",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2022",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Onboard users faster by eliminating the need for manual entry or CSV uploads while ensuring your users’ data stays up-to-date in your platform.",
+    "url": "https://snaptrade.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One of the biggest friction points for us is the portfolio creation process and maintenance. By connecting their portfolios with SnapTrade it lets users import their portfolio in just a few clicks and stays up to date automatically. That is a big value proposition.",
+    "url": "https://snaptrade.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Group Product Manager, Simply Wall Street",
+    "url": "https://snaptrade.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Engage users based on their current holdings and trading activity. Increase customer loyalty with trustworthy tools, eliminate manual verification forever, reduce the potential for fraud and improve compliance.",
+    "url": "https://snaptrade.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You get a published article, LinkedIn post, and links to your product that keep sending readers, search engines and AI assistants your way.",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "We write and produce it. You share the details, review the draft, and we publish.",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "Submitting your app does not guarantee selection, publication or promotion.",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "The problem your team set out to solve",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "It focuses on the problem the app solves, the people it helps, how the experience works and the role SnapTrade plays behind the scenes.",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "Selected App Spotlights may be published on the SnapTrade website and promoted through LinkedIn or other SnapTrade channels.",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "Promotion through SnapTrade’s LinkedIn account",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "The exact content, timing and promotion package may vary.",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "A clear audience and specific user problem",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "A distinctive product, workflow or use case",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "Accurate claims and strong screenshots or other product media",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "A story that SnapTrade would be confident sharing with customers and prospects",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "Submissions with limited product information or no usable media",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "Products that raise credibility, compliance, privacy, security or reputational concerns",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "Submissions that are primarily seeking a SnapTrade endorsement rather than participating in an editorial feature",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "How the App Spotlight process works",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "From your first short form to the published article and its promotion, here is what to expect.",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "We look for a clear problem, a differentiated product story, credible evidence of customer value and a strong example of what teams can build with SnapTrade. We also consider story variety and our current publishing priorities.",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "If we decide to move forward, we send you a private kit and content form. It explains what information, metrics and media to prepare.",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "SnapTrade creates the content",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "Your team can correct factual details, clarify product information and request reasonable edits during this review.",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "After the requested edits are made, SnapTrade finalizes, schedules and publishes the content.",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "The problem your team wanted to solve",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "Screenshots, product images or video",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "Product, website and social links",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "SnapTrade gives your product brokerage data and trading through one integration.",
+    "url": "https://snaptrade.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For getting new products off the ground",
+    "url": "https://snaptrade.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For apps that need custom pricing, higher limits, or additional support.",
+    "url": "https://snaptrade.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored pricing at scale",
+    "url": "https://snaptrade.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated Slack + priority support",
+    "url": "https://snaptrade.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Questions about pricing",
+    "url": "https://snaptrade.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Custom is for apps at scale that need tailored pricing, higher limits, or additional support.",
+    "url": "https://snaptrade.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How does Launch pricing work?",
+    "url": "https://snaptrade.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Daily provides read-only brokerage data refreshed daily. Trading is not included.",
+    "url": "https://snaptrade.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How does Custom pricing work?",
+    "url": "https://snaptrade.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing can include volume discounts, higher rate limits, additional support, and other requirements specific to your integration.",
+    "url": "https://snaptrade.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Contact our team to discuss Custom pricing.",
+    "url": "https://snaptrade.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing is based on your plan and usage, not which supported brokerage a user connects.",
+    "url": "https://snaptrade.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Some brokerages can be available as soon as your application is ready, while others have additional requirements before production access can be enabled.",
+    "url": "https://snaptrade.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prices in USD. Connected-user usage is billed monthly in addition to the Launch platform fee.",
+    "url": "https://snaptrade.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The barriers to entry for Developers creating investing tools are too high; existing Stock Brokers have all the basic functionality needed to launch innovative trading products and tools; and Traders want to connect trading tools to their brokerage account. SnapTrade wants to solve the problem for everyone.",
+    "url": "https://snaptrade.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Creating a stable, unified API product for developers to build to brokers.",
+    "url": "https://snaptrade.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study - SnapTrade | Propel",
+    "url": "https://www.propelict.com/post/case-study---snaptrade",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade is a story of two first time founders who have navigated a series of hurdles and challenges since 2017, and whose non-linear journey saw them participate in Propel during two stages of their startup in 2017 and 2019, followed by YC in 2022. The co-founders came with backgrounds in both technology and their industry - financial investments.",
+    "url": "https://www.propelict.com/post/case-study---snaptrade",
+    "pass": 3
+   },
+   {
+    "quote": "After extensive soul-searching and team alignment conversations, the Brendans decided to pivot into SnapTrade in the fall of 2021. SnapTrade would provide an embedded trading API as a service to other investing apps, and facilitate collaboration between fintech entrepreneurs and established broker dealers.",
+    "url": "https://www.propelict.com/post/case-study---snaptrade",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade has approximately",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/300301-39",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a unified trading API (Application Programming Interface) platform intended to work with existing brokerage accounts.",
+    "url": "https://pitchbook.com/profiles/company/300301-39",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a unified trading API (Application Programming Interface) platform intended to work with existing brokerage accounts. The company's software helps investors connect brokerage accounts to investing tools that run on API, enabling investors to build a new infrastructure layer that enables software-defined investing around the world.",
+    "url": "https://pitchbook.com/profiles/company/300301-39",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/300301-39",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/300301-39",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/300301-39",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "If your app is selected for a SnapTrade App Spotlight, we’ll ask you to include a relevant link to SnapTrade on your website as part of the feature.",
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "pass": 1
+   },
+   {
+    "quote": "The barriers to entry for Developers creating investing tools are too high; existing Stock Brokers have all the basic functionality needed to launch innovative trading products and tools; and Traders want to connect trading tools to their brokerage account. SnapTrade wants to solve the problem for everyone.",
+    "url": "https://snaptrade.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our customers are the developers and founders breaking down the financial economy's barriers. It’s our job to give you the API you need to make it simple and safe for users to invest how, when, and where they want to.",
+    "url": "https://snaptrade.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "SnapTrade Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At SnapTrade",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of SnapTrade?",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does SnapTrade have?",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/300301-39",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/300301-39",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/300301-39",
+    "pass": 3
+   },
+   {
+    "quote": "To view SnapTrade’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/300301-39",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade has 16 total employees.",
+    "url": "https://pitchbook.com/profiles/company/300301-39",
+    "pass": 3
+   },
+   {
+    "quote": "What is SnapTrade’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/300301-39",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for SnapTrade is",
+    "url": "https://pitchbook.com/profiles/company/300301-39",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade Revenue 2024: $2.6M Est.",
+    "url": "https://getlatka.com/companies/snaptrade.com",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade has not published its revenue. GetLatka estimates it at about $2.6M a year (June 2024).",
+    "url": "https://getlatka.com/companies/snaptrade.com",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade CEO, founders & employees",
+    "url": "https://getlatka.com/companies/snaptrade.com",
+    "pass": 3
+   },
+   {
+    "quote": "Brendan Lee Young founded SnapTrade in 2017 and runs it as CEO. SnapTrade had 17 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/snaptrade.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is SnapTrade's revenue?",
+    "url": "https://getlatka.com/companies/snaptrade.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates SnapTrade's revenue at about",
+    "url": "https://getlatka.com/companies/snaptrade.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does SnapTrade have?",
+    "url": "https://getlatka.com/companies/snaptrade.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/snaptrade.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/snaptrade.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/snaptrade.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/snaptrade.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Connect to brokerage accounts for data and trading | SnapTrade — Connect your app to 400M+ retail investor accounts with one API. SnapTrade is the unified trading API for real-time portfolio data, trading, and aggregation.",
+    "url": "https://snaptrade.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade Institution Support | Notion — Aug 12, 2026 · This is a public view of the institutions that SnapTrade supports. Please contact support@snaptrade.com if you have any questions or comments. Use the database views below to navigate support by institution capability. Hover over table column headers for field definitions and caveats.",
+    "url": "https://support.snaptrade.com/brokerages",
+    "pass": 3
+   },
+   {
+    "quote": "Brokerage Integrations / SnapTrade — SnapTrade connects your app to 450M+ retail investor accounts across 40+ financial institutions around the world. Sometimes a single institution can have multiple integrations depending on geography or account type.",
+    "url": "https://docs.snaptrade.com/docs/integrations",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade - AIツールレビュー | AIniche — Jun 8, 2026 · SnapTradeは、個人向けの証券口座をフィンテックアプリケーションに安定して連携するAPIソリューションを提供します。これにより、開発者はユーザーの口座を接続して、リアルタイムの残高、保有銘柄、注文履歴、および取引履歴にアクセスできるように ...",
+    "url": "https://ainiche.net/ja/tools/snaptrade",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade: AIトレーディングボット | よりスマートな取引のためのAI... — SnapTradeは、あらゆる取引チャートを一目で明確で実行可能なインサイトに変えます。 写真やスクリーンショットを撮るだけで、AIがトレンド、主要なレベル、潜在的な取引セットアップを分析します。 複雑なインジケーターや長年の経験は不要です！",
+    "url": "https://mwm.ai/ja/apps/snaptrade-ai-trading-bot/6759501492",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade Personal — Connect your brokerage accounts and access balances, positions, transactions, orders, and more through the SnapTrade API. Build dashboards, automations, analysis tools, trading workflows, or anything else you want for yourself.",
+    "url": "https://snaptrade.com/personal",
+    "pass": 3
+   },
+   {
+    "quote": "About Us | SnapTrade — We are building the future of investment connectivity. Learn how SnapTrade empowers developers to unify the fragmented brokerage ecosystem.",
+    "url": "https://snaptrade.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - SnapTrade | Propel — SnapTrade is a story of two first time founders who have navigated a series of hurdles and challenges since 2017, and whose non-linear journey saw them participate in Propel during two stages of their startup in 2017 and 2019, followed by YC in 2022.",
+    "url": "https://www.propelict.com/post/case-study---snaptrade",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade Press & Media | Company Facts, Brand Assets & Resources — Press and media resources for SnapTrade, including company facts, brokerage integration information, approved descriptions, brand assets and media contact details.",
+    "url": "https://snaptrade.com/press",
+    "pass": 3
+   },
+   {
+    "quote": "Propel ICT - We present a case study on SnapTrade, led by... — We present a case study on SnapTrade, led by Brendan Wood and Brendan Lee Young. From their first coffee shop meeting, their journey exemplifies resilience and strategic agility.",
+    "url": "https://www.facebook.com/propelict/posts/we-present-a-case-study-on-snaptrade-led-by-brendan-wood-and-brendan-lee-young-f/1238306684259652/",
+    "pass": 3
+   },
+   {
+    "quote": "Sohan Kobiri - Operations at SnapTrade (YC W22) | Former ...SnapTrade Reviews: What Developers and Customers SaySnapTrade - Ascent DesignsCase Study: SnapTrade | Konfig | Alex Sutherland - LinkedIn — Now, I lead operations at SnapTrade, a YC-backed fintech company, continuing to learn to build and scale high-growth ventures. As AI reshapes how things are built, I still believe the best... Read Sna",
+    "url": "https://ca.linkedin.com/in/sohan-ak",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade Reviews: What Developers and Customers Say — Read SnapTrade reviews and customer stories from teams using SnapTrade for brokerage connectivity, normalized investment data, reliability and trading.",
+    "url": "https://snaptrade.com/reviews",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade Revenue, Funding & Valuation - prospeo.io — SnapTrade has revenue of $1,197,770, estimated valuation of $3,900,000, $2,700,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade 2026 Company Profile: Valuation, Funding ...SnapTrade - 2026 Company Profile, Team, Funding & Competitors ...SnapTrade Revenue 2024: $2.6M Est. - getlatka.comSnapTrade: Funding, Team & Investors | Startup IntrosSnapTrade - Crunchbase Company Profile & FundingSnapTrade — Funding, Investors & Team | Seedtable — Information on valuation, funding, cap tables, investors, and executives for Sn",
+    "url": "https://pitchbook.com/profiles/company/300301-39",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade - 2026 Company Profile, Team, Funding & Competitors ... — Mar 19, 2026 · SnapTrade has raised $7.5M in funding from Valar Ventures and Citi Ventures. The company has 306 active competitors, including 50 funded and 38 that have exited.",
+    "url": "https://tracxn.com/d/companies/snaptrade/__kZRSLShMtTRnTHK74-dSNGubbyJ7SXCzG3ktvJ-pweo",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade Revenue 2024: $2.6M Est. - getlatka.com — Sep 2, 2026 · SnapTrade is a Financial Services Software company based in Fredericton, founded in 2017.",
+    "url": "https://getlatka.com/companies/snaptrade.com",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade: Funding, Team & Investors | Startup Intros — Founded in 2017 and based in Fredericton, Canada, SnapTrade was co-founded by Brendan Wood (CEO) and Brendan Lee Young (CRO), who met through a mutual friend and quickly partnered to develop an investing app prototype.",
+    "url": "https://startupintros.com/orgs/snaptrade",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Case Study - SnapTrade | Propel",
+    "url": "https://www.propelict.com/post/case-study---snaptrade",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - SnapTrade",
+    "url": "https://www.propelict.com/post/case-study---snaptrade",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/300301-39",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "SnapTrade.us (@SnapTrade_US) / Posts / X Feb 28, 2018 · May 17 Hi, We have decided to close SnapTrade. It was a difficult decision. The site will be taken down within the next seven days. Thanks to all the members for supporting us and giving your feedback during the last 1.5 years. - SnapTrade team 💬 1",
+    "url": "https://x.com/SnapTrade_US",
+    "pass": 3
+   },
+   {
+    "quote": "12Snap Trade (@Snaptrade) / Posts / X May 6, 2009 · 12Snap Trade (@Snaptrade) - Posts - | X (formerly Twitter) 12Snap Trade Snaptrade Joined: May 6, 2009 0 2 7",
+    "url": "https://x.com/snaptrade",
+    "pass": 3
+   },
+   {
+    "quote": "\"#SnapTrade\" - Results on X | Live Posts & Updates Results for \"#SnapTrade\" on X (Twitter). Find the latest posts, discussions, and updates about #SnapTrade. 3 results found.",
+    "url": "https://x.com/hashtag/SnapTrade",
+    "pass": 3
+   },
+   {
+    "quote": "So hard rn dm to help me nutt #bwc #snaptrade - x.com psuavae (P). 1 likes 0 replies. So hard rn dm to help me nutt #bwc #snaptrade",
+    "url": "https://x.com/psuavae/status/2119951120655085887",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade.us (@SnapTrade_US) / Posts / X Feb 28, 2018 · SnapTrade.us (@SnapTrade_US) - Posts - Democratizing Investment Research!! Stocks, ETFs Research made easy and fun. Helping people to get ... | X (formerly Twitter)",
+    "url": "https://x.com/SnapTrade_US",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SnapTrade - LinkedIn SnapTrade | 1,283 followers on LinkedIn. The brokerage API for building investing and trading apps. | SnapTrade helps developers connect investment accounts to their apps through one...",
+    "url": "https://www.linkedin.com/company/snaptrade",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade - LinkedIn About SnapTrade offers you an dynamic repricing for Amazon and eBay. The tool adjusts the prices within previously defined price ranges.",
+    "url": "https://www.linkedin.com/products/snapsoft-gmbh-snaptrade/",
+    "pass": 3
+   },
+   {
+    "quote": "Sohan Kobiri - Operations at SnapTrade (YC W22) | Former ...Brendan Wood - CEO at SnapTrade - Embedded finance and ...Brendan Lee Young - SnapTrade | LinkedInTerry Ma - CTO @ SnapTrade (YC W22) | LinkedInMike Cousins - SnapTrade | LinkedIn Now, I lead operations at SnapTrade, a YC-backed fintech company, continuing to learn to build and scale high-growth ventures. As AI reshapes how things are bui",
+    "url": "https://ca.linkedin.com/in/sohan-ak",
+    "pass": 3
+   },
+   {
+    "quote": "Brendan Wood - CEO at SnapTrade - Embedded finance and ...Brendan Lee Young - SnapTrade | LinkedInTerry Ma - CTO @ SnapTrade (YC W22) | LinkedInMike Cousins - SnapTrade | LinkedIn SnapTrade is an API to connect retail brokerage accounts to any fintech app. We enable API access to real-time account data, historical transactions, and trading. Expérience : SnapTrade · Formation : University of New Br",
+    "url": "https://ca.linkedin.com/in/brendancalebwood",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SnapTrade - Facebook SnapTrade. 4,752 likes. Buy and sell with local people right in Facebook Messenger.",
+    "url": "https://www.facebook.com/snaptradebot/about/",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade - FacebookFacebook - log in or sign upSnapTrade - 𝘽𝙤𝙤𝙨𝙩 𝙮𝙤𝙪𝙧 𝘼𝙢𝙖𝙯𝙤𝙣 𝙨𝙖𝙡𝙚𝙨 𝙬𝙞𝙩𝙝 ...Snap Trading Global Team | WELCOME TO SNAPTRADE ...SnapTrade, a technology leader in... - Atlantic Fintech ...Join Snaptrade and earn from from 2% to 3% per ... - Facebook Jan 7, 2022 · SnapTrade. 118 likes. SnapTrade is a Ecommerce Solution for your business. With our powerful platform you can start sellin",
+    "url": "https://www.facebook.com/gosnaptrade/",
+    "pass": 3
+   },
+   {
+    "quote": "SnapTrade - 𝘽𝙤𝙤𝙨𝙩 𝙮𝙤𝙪𝙧 𝘼𝙢𝙖𝙯𝙤𝙣 𝙨𝙖𝙡𝙚𝙨 𝙬𝙞𝙩𝙝 ... Oct 15, 2025 · With SnapTrade, they reported a +𝟰𝟬𝟬% 𝗿𝗲𝘃𝗲𝗻𝘂𝗲 𝗶𝗻𝗰𝗿𝗲𝗮𝘀𝗲 after implementation – successfully expanding across multiple 𝗘𝗨 𝗺𝗮𝗿𝗸𝗲𝘁𝗽𝗹𝗮𝗰𝗲𝘀 while keeping prices competitive and margins healthy. 💡 𝗛𝗲𝗿𝗲’𝘀 𝗵𝗼𝘄 ...",
+    "url": "https://www.facebook.com/SnapTrade.Repricing/photos/-𝘽𝙤𝙤𝙨𝙩-𝙮𝙤𝙪𝙧-𝘼𝙢𝙖𝙯𝙤𝙣-𝙨𝙖𝙡𝙚𝙨-𝙬𝙞𝙩𝙝-𝙎𝙣𝙖𝙥𝙏𝙧𝙖𝙙𝙚𝙨-𝘽𝙪𝙨𝙞𝙣𝙚𝙨𝙨-𝙄𝙣𝙨𝙞𝙜𝙝𝙩𝙨our-𝗮𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀-𝗳𝗼𝗿-𝗔𝗺𝗮𝘇/122155133696415877/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://snaptrade.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://snaptrade.com/partners/app-spotlight",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://snaptrade.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://snaptrade.com/about-us",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://support.snaptrade.com/brokerages",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.snaptrade.com/docs/integrations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ainiche.net/ja/tools/snaptrade",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai-hikaku.com/?p=36920",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.snaptrade.com/brokerages",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.snaptrade.com/docs/integrations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.propelict.com/post/case-study---snaptrade",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/propelict/posts/we-present-a-case-study-on-snaptrade-led-by-brendan-wood-and-brendan-lee-young-f/1238306684259652/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/sohan-ak",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/snaptrade-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/300301-39",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/snaptrade/__kZRSLShMtTRnTHK74-dSNGubbyJ7SXCzG3ktvJ-pweo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/snaptrade.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SnapTrade_US",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/snaptrade",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/SnapTrade",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/psuavae/status/2119951120655085887",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/snaptrade",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/snapsoft-gmbh-snaptrade/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/sohan-ak",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/brendancalebwood",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/snaptradebot/about/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gosnaptrade/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SnapTrade.Repricing/photos/-𝘽𝙤𝙤𝙨𝙩-𝙮𝙤𝙪𝙧-𝘼𝙢𝙖𝙯𝙤𝙣-𝙨𝙖𝙡𝙚𝙨-𝙬𝙞𝙩𝙝-𝙎𝙣𝙖𝙥𝙏𝙧𝙖𝙙𝙚𝙨-𝘽𝙪𝙨𝙞𝙣𝙚𝙨𝙨-𝙄𝙣𝙨𝙞𝙜𝙝𝙩𝙨our-𝗮𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀-𝗳𝗼𝗿-𝗔𝗺𝗮𝘇/122155133696415877/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SnapTrade_US",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/snaptrade",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/SnapTrade",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Snaptrade 日本 導入",
+   "results": [
+    "https://snaptrade.com/",
+    "https://support.snaptrade.com/brokerages",
+    "https://docs.snaptrade.com/docs/integrations",
+    "https://ainiche.net/ja/tools/snaptrade",
+    "https://mwm.ai/ja/apps/snaptrade-ai-trading-bot/6759501492",
+    "https://snaptrade.com/brokerage-integrations",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snaptrade 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.kkhashi.com/blogs/detail/145/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snaptrade Japan",
+   "results": [
+    "https://snaptrade.com/",
+    "https://support.snaptrade.com/brokerages",
+    "https://docs.snaptrade.com/docs/integrations",
+    "https://snaptrade.com/personal",
+    "https://snaptrade.com/about-us",
+    "https://snaptrade.com/apps",
+    "https://snaptrade.com/brokerage-integrations"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snaptrade manufacturing customer case study",
+   "results": [
+    "https://www.propelict.com/post/case-study---snaptrade",
+    "https://snaptrade.com/press",
+    "https://www.facebook.com/propelict/posts/we-present-a-case-study-on-snaptrade-led-by-brendan-wood-and-brendan-lee-young-f/1238306684259652/",
+    "https://ca.linkedin.com/in/sohan-ak",
+    "https://snaptrade.com/reviews",
+    "https://www.ascentdesigns.io/case-studies/snaptrade",
+    "https://www.linkedin.com/posts/alex-sutherland1993_case-study-snaptrade-konfig-activity-7093613700523143168-Fuaz"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snaptrade white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snaptrade founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/snaptrade-revenue",
+    "https://pitchbook.com/profiles/company/300301-39",
+    "https://tracxn.com/d/companies/snaptrade/__kZRSLShMtTRnTHK74-dSNGubbyJ7SXCzG3ktvJ-pweo",
+    "https://getlatka.com/companies/snaptrade.com",
+    "https://startupintros.com/orgs/snaptrade",
+    "https://www.crunchbase.com/organization/snaptrade-be4e",
+    "https://seedtable.com/companies/snaptrade"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Snaptrade",
+   "results": [
+    "https://note.com/worldpeace2024",
+    "https://note.com/wise_turtle184",
+    "https://note.com/rk611/n/n56e6db823eb1",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/dgmwdgmw/n/n8729faf4785b",
+    "https://note.com/vast_slug4459/n/n771ee0504234",
+    "https://note.com/ryuma_eguchi0777/n/n1bc0b6201269"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Snaptrade",
+   "results": [
+    "https://x.com/SnapTrade_US",
+    "https://x.com/snaptrade",
+    "https://x.com/hashtag/SnapTrade",
+    "https://x.com/psuavae/status/2119951120655085887",
+    "https://x.com/DonaldNate49474/status/2101177353674047534",
+    "https://x.com/MarkLongBWC/status/2113645784789127184",
+    "https://x.com/MarkLongBWC/status/2113638784424407367"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Snaptrade",
+   "results": [
+    "https://www.linkedin.com/company/snaptrade",
+    "https://www.linkedin.com/products/snapsoft-gmbh-snaptrade/",
+    "https://ca.linkedin.com/in/sohan-ak",
+    "https://ca.linkedin.com/in/brendancalebwood",
+    "https://fr.linkedin.com/in/brendanleeyoung",
+    "https://www.linkedin.com/in/terryma",
+    "https://ca.linkedin.com/in/mikecousins"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Snaptrade",
+   "results": [
+    "https://www.facebook.com/snaptradebot/about/",
+    "https://www.facebook.com/gosnaptrade/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/SnapTrade.Repricing/photos/-𝘽𝙤𝙤𝙨𝙩-𝙮𝙤𝙪𝙧-𝘼𝙢𝙖𝙯𝙤𝙣-𝙨𝙖𝙡𝙚𝙨-𝙬𝙞𝙩𝙝-𝙎𝙣𝙖𝙥𝙏𝙧𝙖𝙙𝙚𝙨-𝘽𝙪𝙨𝙞𝙣𝙚𝙨𝙨-𝙄𝙣𝙨𝙞𝙜𝙝𝙩𝙨our-𝗮𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀-𝗳𝗼𝗿-𝗔𝗺𝗮𝘇/122155133696415877/",
+    "https://www.facebook.com/groups/912349984707120/posts/960867626522022/",
+    "https://www.facebook.com/atlanticfintech/posts/snaptrade-a-technology-leader-in-bringing-brokerage-connections-and-trading-capa/1264449019047728/",
+    "https://www.facebook.com/feliciawealthyofficial/videos/snaptrade/1222210589842405/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snaptrade note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://snaptrade.com/about-us",
+    "https://snaptrade.com/press",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Snaptrade X 投稿",
+   "results": [
+    "https://x.com/SnapTrade_US",
+    "https://x.com/snaptrade",
+    "https://snaptrade.com/",
+    "https://x.com/hashtag/SnapTrade",
+    "https://snaptrade.com/build-and-share",
+    "https://snaptrade.com/personal",
+    "https://dashboard.snaptrade.com/apps"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

@@ -1,0 +1,1551 @@
+{
+ "name": "Prophetsecurity",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-11T08:53:07.200276+00:00",
+ "official_url": "https://www.prophetsecurity.ai/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2023年",
+    "url": "https://www.macnica.co.jp/business/security/manufacturers/prophetsecurity/",
+    "pass": 3
+   },
+   {
+    "label": "Established",
+    "value": "Established：2023",
+    "url": "https://www.macnica.co.jp/en/business/security/manufacturers/prophetsecurity/",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2024",
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "349 Selby Lane, Atherton, CA 94027, United States",
+    "url": "https://www.macnica.co.jp/business/security/manufacturers/prophetsecurity/",
+    "pass": 3
+   },
+   {
+    "label": "Headquarters",
+    "value": "Atherton, California, United States",
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "23-Apr-2024    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/595998-91",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$41,000,000",
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI SOC Platform with Agentic AI SOC Analyst | Prophet Security",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Prophet AI in 2 Minutes",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The biggest win is that Prophet AI mimics how a human investigates. It asks the same questions our team would ask, but it does it for every single alert, ensuring nothing gets missed due to fatigue",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Prophet AI works",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Built by security operators, Prophet AI spans autonomous alert investigation and response, continuous threat hunting, and closed-loop detection engineering",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Prophet AI researches emerging threats and provides you the hunt, ready to run or schedule.",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ships tuned and net-new detections, backtested and ready for your approval",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Prophet AI Watchtower",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Watch explainer video",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Why SOC Teams Love Prophet AI",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive AI SOC Platform",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Prophet AI’s constellation of agents works in unison across detection engineering, threat investigation and response, and threat hunting.",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Prophet AI agents execute investigations like a senior analyst, asking the right questions and analyzing evidence to distinguish real threats from noise.",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Prophet AI learns and adapts to a customer's context and policies, previewed, backtested, and applied in real time across the entire platform.",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Prophet AI deploys as a dedicated single-tenant, with bring your own key option and no training of AI models with personal data",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Prophet AI integrates seamlessly with your existing security tools and workflows to deliver value on day 1.",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How security operations teams use Prophet AI as a force multiplier",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Evaluating and implementing Prophet AI was a seamless experience. The depth and quality of the investigations helps us get to the root cause of potential security issues quickly.\"",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Prophet has been a transformative tool for the SOC and has allowed us to leverage Prophet as the first step for detection triage.\"",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Security analysts spend an inordinate amount of time piecing together parts of a puzzle during an incident. Prophet AI enriches alerts with the contextual data we need in minutes and significantly speeds up our investigation process.\"",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Prophet AI cut our alert queue from thousands to dozens. It's a force multiplier that removes investigation bottlenecks, improves analyst focus, and helps us respond to real threats faster.\"",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"It has been a game-changing tool that provides exactly the sort of information that any security analyst would need in the process of investigating a threat.\"",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Prophet AI scales our security operations by delivering the depth, quality, and consistency of a human investigation across 100% of our alert volume.”",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Prophet team has been exceptional from our first sync up until today, it's been extremely easy to complete the integrations and admin the platform. The system scales great even with a large volume of events ingested.\"",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Prophet AI has transformed how we triage and investigate alerts. It has given us scale and capacity to keep up with the volume of alerts, while allowing our analysts to focus on proactive threat hunting and strategic projects.\"",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "About Us - Meet the team and the mission behind Prophet Security",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "About Prophet Security",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Security teams are buried in alerts, fragmented workflows, and tools that don’t talk to each other. Prophet Security is building an AI SOC platform that empowers teams to move faster and make better decisions. It brings reasoning, context, and consistency to every alert and scales with the needs of the mission. We're bringing the future of security operations into the present.",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Previously scaling companies like",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Practicality over Perfection",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We stay lighthearted and create a positive environment that fosters creativity and productivity. We celebrate wins and embody the work hard / play hard approach to life.",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Want to join Prophet Security?",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The Channel Account Manager will report to our Head of Channels and Alliances carrying a primary focus on building pipeline and channel revenue with channel partners. There will also be a heavy focus sourcing strategic new channel relationships. This position requires the candidate to be extremely motivated, results-driven and have a good network within the channel ecosystem.",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Responsible for the day-to-day recruitment and relationship management of channel partners to include value added resellers, systems integrators, and strategic software partners",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Act as a liaison between Prophet Security and assigned channel partners",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Build, maintain, and manage relationships with current and prospective channel partners",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Establish productive, professional relationships with key sales and channel personnel in assigned partner accounts",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Experience delivering partner enablement initiatives. Including product training, competitive positioning, sales plays, and enablement content",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Coordinate the involvement of Prophet Security personnel, including support, service, and management resources, in order to meet partner performance objectives and partners' expectations",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Meet assigned targets for profitable sales volume and strategic objectives in assigned partner accounts",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure partner compliance with Channel Partner programs and agreements",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Participate in a partner planning process that develops mutual performance objectives, financial targets, and critical milestones associated with a productive partner relationship",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Identify partner GTM and/or services offerings; working with partner sales resources, marketing, etc. develop & launch offerings to point of incremental joint revenue achievement",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain channel opportunity registrations and assist the Prophet Security sales team in closing channel generated leads",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Plan and execute on Channel Marketing activities and events to support brand awareness and demand generation with the Strategic Partner group",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Proven success driving revenue growth via channel partners",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Good understanding of Partner Incentive programs and PRM tools",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Must want a career-oriented environment that is both fun and professional",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Employee compensation will be determined based on interview performance, level of experience, specialization of skills, and market rate. During the offer discussion, your recruiter will review the finalized base salary, bonus (for applicable roles), benefits & perks, and stock options as they’ll be reflected in the offer letter.",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "CISO-Voted List Recognizes the 30 Private Cybersecurity Companies Shaping Enterprise Security in the Age of AI",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "See why enterprises use Prophet AI to augment their security operations",
+    "url": "https://www.prophetsecurity.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "What Security Leaders Say About Prophet",
+    "url": "https://www.prophetsecurity.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Hours of toil prevented",
+    "url": "https://www.prophetsecurity.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "productivity increase",
+    "url": "https://www.prophetsecurity.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"The auto-triage cut down our need for manual review by 95%, allowing my analysts to focus on improving our alerting, detections, and response capabilities.\"",
+    "url": "https://www.prophetsecurity.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Prophet AI has transformed how we triage and investigate alerts. It has given us scale and capacity to keep up with the volume of alerts, while allowing our analysts to focus on proactive threat hunting and strategic projects.\"",
+    "url": "https://www.prophetsecurity.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“Prophet AI scales our security operations by delivering the depth, quality, and consistency of a human investigation across 100% of our alert volume.”",
+    "url": "https://www.prophetsecurity.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Using Prophet has been a game changer. The tools are intuitive and powerful, helping to streamline operations.\"",
+    "url": "https://www.prophetsecurity.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Prophet has been a transformative tool for the SOC and has allowed us to leverage Prophet as the first step for detection triage.\"",
+    "url": "https://www.prophetsecurity.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with Prophet Security",
+    "url": "https://www.prophetsecurity.ai/partner",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Built by security operators, Prophet AI spans autonomous alert investigation and response, continuous threat hunting, and closed-loop detection engineering",
+    "url": "https://www.prophetsecurity.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.macnica.co.jp/business/security/manufacturers/prophetsecurity/",
+    "url": "https://www.macnica.co.jp/public-relations/news/2026/150274/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.macnica.co.jp/business/security/manufacturers/prophetsecurity/",
+    "url": "https://true-ega.net/technology/2026/08/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB%E3%80%81%E5%9B%BD%E5%86%85%E5%88%9D%E3%81%A8%E3%81%AA%E3%82%8Bai%E6%B4%BB%E7%94%A8%E6%AC%A1%E4%B8%96%E4%BB%A3soc%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.macnica.co.jp/business/security/manufacturers/prophetsecurity/",
+    "url": "https://ccsi.jp/14275/",
+    "pass": 3
+   },
+   {
+    "quote": "Handling Manufacturer",
+    "url": "https://www.macnica.co.jp/en/business/security/manufacturers/prophetsecurity/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: JB Poindexter & Co unlocks SOC capacity and faster investigations with Prophet Security | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/prophet-security/case-study/jb-poindexter-co-saves-8936-hours-of-soc-toil-with-prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: JB Poindexter & Co unlocks SOC capacity and faster investigations with Prophet Security",
+    "url": "https://www.casestudies.com/company/prophet-security/case-study/jb-poindexter-co-saves-8936-hours-of-soc-toil-with-prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": "JB Poindexter & Co, a major manufacturing firm, faced a significant security challenge as its high volume of daily alerts was overwhelming its SOC team. With manual investigations taking 20 minutes per alert, the company needed a solution to manage the throughput without compromising quality. They turned to the Prophet AI SOC platform from Prophet Security to address this capacity issue.",
+    "url": "https://www.casestudies.com/company/prophet-security/case-study/jb-poindexter-co-saves-8936-hours-of-soc-toil-with-prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/prophet-security/case-study/jb-poindexter-co-saves-8936-hours-of-soc-toil-with-prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/prophet-security/case-study/jb-poindexter-co-saves-8936-hours-of-soc-toil-with-prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Manufacturing organisation with 8000 employees and revenues of $2.00 billion,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, Cabinetworks Group deployed Prophet Security, adopting Security Orchestration, Automation, and Response (SOAR) capabilities to the company SOC in the United States. The implementation targeted reduction of alert backlogs, lower mean time to respond, and scaling of investigations across a complex estate of production sites and cloud workloads managed by the manufacturing organization.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Companies using Prophet Security are most concentrated in Manufacturing and Professional Services, with adoption spanning over 21 industries.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Cabinetworks Group achieves 10x SOC throughput with Prophet Security's Prophet AI | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/prophet-security/case-study/cabinetworks-revolutionizing-soc-efficiency-with-prophet-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Cabinetworks Group achieves 10x SOC throughput with Prophet Security's Prophet AI",
+    "url": "https://www.casestudies.com/company/prophet-security/case-study/cabinetworks-revolutionizing-soc-efficiency-with-prophet-ai",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/prophet-security/case-study/cabinetworks-revolutionizing-soc-efficiency-with-prophet-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/prophet-security/case-study/cabinetworks-revolutionizing-soc-efficiency-with-prophet-ai",
+    "pass": 3
+   },
+   {
+    "quote": "In the \"Generative AI Case Study Collection,\" we feature a series called \"Winning Horses,\" which provides detailed explanations of successful generative AI startups in the United States. We publish two articles per week. Each week, one article is free, and the other is a paid article. (This article is a paid article.)",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "With an individual membership, you get access to articles only, while a corporate membership provides access to articles, detailed explanatory slides, and a company list (spreadsheet). For more details on the Generative AI Case Study Collection's Winning Horses series, including the differences between individual and corporate memberships, please click here.",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "The Channel Account Manager will report to our Head of Channels and Alliances carrying a primary focus on building pipeline and channel revenue with channel partners. There will also be a heavy focus sourcing strategic new channel relationships. This position requires the candidate to be extremely motivated, results-driven and have a good network within the channel ecosystem.",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Responsible for the day-to-day recruitment and relationship management of channel partners to include value added resellers, systems integrators, and strategic software partners",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Act as a liaison between Prophet Security and assigned channel partners",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Build, maintain, and manage relationships with current and prospective channel partners",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Equip channel partners with the tools and joint go-to-market support needed to drive pipeline and revenue growth",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure partner compliance with Channel Partner programs and agreements",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Proven success driving revenue growth via channel partners",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The Channel Account Manager will report to our Head of Channels and Alliances carrying a primary focus on building pipeline and channel revenue with channel partners. There will also be a heavy focus sourcing strategic new channel relationships. This position requires the candidate to be extremely motivated, results-driven and have a good network within the channel ecosystem.",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Equip channel partners with the tools and joint go-to-market support needed to drive pipeline and revenue growth",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Identify partner GTM and/or services offerings; working with partner sales resources, marketing, etc. develop & launch offerings to point of incremental joint revenue achievement",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Proven success driving revenue growth via channel partners",
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "~500 employees",
+    "url": "https://www.prophetsecurity.ai/case-studies/zip-boosting-soc-throughput-with-prophet-ai",
+    "pass": 1
+   },
+   {
+    "quote": "6.3 full-time employees (FTEs)",
+    "url": "https://www.prophetsecurity.ai/case-studies/jb-poindexter-co-unlocking-soc-capacity-and-speed-with-prophet-ai",
+    "pass": 1
+   },
+   {
+    "quote": "John Barrow,",
+    "url": "https://www.prophetsecurity.ai/case-studies/jb-poindexter-co-unlocking-soc-capacity-and-speed-with-prophet-ai",
+    "pass": 1
+   },
+   {
+    "quote": "~8,000 employees",
+    "url": "https://www.prophetsecurity.ai/case-studies/cabinetworks-revolutionizing-soc-efficiency-with-prophet-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-billion-dollar revenue; tens of thousands of affiliated agents nationwide",
+    "url": "https://www.prophetsecurity.ai/case-studies/scaling-security-investigations-for-a-cloud-first-team-with-prophet-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Retail and Logistics: Investigating Every Alert at Scale 24/7 with Prophet AI",
+    "url": "https://www.prophetsecurity.ai/case-studies/fortune-500-retail-and-logistics-investigating-every-alert-at-scale-24-7-with-prophet-ai",
+    "pass": 1
+   },
+   {
+    "quote": "of after-hours alerts handled on arrival (70% of all alerts land after hours)",
+    "url": "https://www.prophetsecurity.ai/case-studies/fortune-500-retail-and-logistics-investigating-every-alert-at-scale-24-7-with-prophet-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Much of the suspicious-authentication volume is from Microsoft identity activity from a workforce that logs in from everywhere, so whether a sign-in is real takes a genuine investigation, not a quick dismissal. Phishing and commodity malware is another source of volume, arriving faster than a team can work them by hand.",
+    "url": "https://www.prophetsecurity.ai/case-studies/fortune-500-retail-and-logistics-investigating-every-alert-at-scale-24-7-with-prophet-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Because the operation runs overnight and on weekends, the after-hours queue was the team's largest exposure, not an edge case. About 70% of alerts land outside standard staffed hours, and Prophet AI now investigates 90% of them as they arrive, so the team starts each day with the overnight queue already worked rather than waiting to be triaged.",
+    "url": "https://www.prophetsecurity.ai/case-studies/fortune-500-retail-and-logistics-investigating-every-alert-at-scale-24-7-with-prophet-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Worked on arrival, not waiting in a queue",
+    "url": "https://www.prophetsecurity.ai/case-studies/fortune-500-retail-and-logistics-investigating-every-alert-at-scale-24-7-with-prophet-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Macnica said the platform is intended to help customers retain operational knowledge inside their organizations and carry it forward even when personnel change. It also adapts to individual customer environments and policies by incorporating analyst decisions and organization-specific characteristics.",
+    "url": "https://jp.ibtimes.com/macnica-launches-prophet-ai-soc-platform-japan-103773",
+    "pass": 3
+   },
+   {
+    "quote": "[Point 2] Narrow down the cases that need to be addressed.",
+    "url": "https://www.macnica.co.jp/en/business/security/manufacturers/prophetsecurity/",
+    "pass": 3
+   },
+   {
+    "quote": "The AI conducts an initial investigation, narrowing down the alerts that require further human review, thereby reducing the workload for responding to such inquiries.",
+    "url": "https://www.macnica.co.jp/en/business/security/manufacturers/prophetsecurity/",
+    "pass": 3
+   },
+   {
+    "quote": "Marriott International",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Manufacturing organisation with 8000 employees and revenues of $2.00 billion,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Professional Services organisation with 610 employees and revenues of $180.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Professional Services organisation with 700 employees and revenues of $180.0 million and many others.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us if you need a completed and verified list of companies using Prophet Security, including the breakdown by industry (21 Verticals), Geography (Region, Country, State, City), Company Size (Revenue, Employees, Asset) and related IT Decision Makers, Key Stakeholders, business and technology executives responsible for the software purchases.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": ", a Japan based Professional Services organization with 2864 Employees",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Companies using Prophet Security range from small businesses with 0-100 employees - 0%, to mid-sized firms with 101-1,000 employees - 66.67%, large organizations with 1,001-10,000 employees - 33.33%, and global enterprises with 10,000+ employees - 0%.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Q7. What is the breakdown by revenue of companies using Prophet Security?",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Customers of Prophet Security include firms across all revenue levels — from $0-100M, to $101M-$1B, $1B-$10B, and $10B+ global corporations.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Contact APPS RUN THE WORLD to access the full verified Prophet Security customer database with detailed Firmographics such as industry, geography, revenue, and employee breakdowns as well as key decision makers in charge of Security Orchestration, Automation, and Response (SOAR).",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/595998-91",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet Security has 41 total employees.",
+    "url": "https://pitchbook.com/profiles/company/595998-91",
+    "pass": 3
+   },
+   {
+    "quote": "What is Prophet Security’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/595998-91",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Prophet Security is",
+    "url": "https://pitchbook.com/profiles/company/595998-91",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet Security Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet Security Revenue",
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Prophet Security",
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Prophet Security?",
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet Security generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Prophet Security have?",
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet Security — AI Cybersecurity Revenue, Funding & Data | IntelPilot.ai",
+    "url": "https://www.intelpilot.ai/company/prophet-security/69b3a95436630f70c2af2213",
+    "pass": 3
+   },
+   {
+    "quote": "$3.3M ARR",
+    "url": "https://www.intelpilot.ai/company/prophet-security/69b3a95436630f70c2af2213",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated $3.3M annual revenue",
+    "url": "https://www.intelpilot.ai/company/prophet-security/69b3a95436630f70c2af2213",
+    "pass": 3
+   },
+   {
+    "quote": "73 employees",
+    "url": "https://www.intelpilot.ai/company/prophet-security/69b3a95436630f70c2af2213",
+    "pass": 3
+   },
+   {
+    "quote": "$5.25B ARR",
+    "url": "https://www.intelpilot.ai/company/prophet-security/69b3a95436630f70c2af2213",
+    "pass": 3
+   },
+   {
+    "quote": "~$481M pre-IPO, now public (NASDAQ: CRWD)",
+    "url": "https://www.intelpilot.ai/company/prophet-security/69b3a95436630f70c2af2213",
+    "pass": 3
+   },
+   {
+    "quote": "$5.5M ARR",
+    "url": "https://www.intelpilot.ai/company/prophet-security/69b3a95436630f70c2af2213",
+    "pass": 3
+   },
+   {
+    "quote": "$35.2M ARR",
+    "url": "https://www.intelpilot.ai/company/prophet-security/69b3a95436630f70c2af2213",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Rapid growth at Zip meant more users, more apps, and a steadily rising volume of identity, email, and endpoint alerts. Manual triage and investigation consumed valuable analyst time and created a real risk of backlog. Zip needed a way to process every alert quickly and consistently without expanding headcount.",
+    "url": "https://www.prophetsecurity.ai/case-studies/zip-boosting-soc-throughput-with-prophet-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Prophet AI connects to Zip’s existing security stack, including AWS, CrowdStrike, Okta, Wiz, and more to triage and investigate alerts automatically, gather context across identity, email, endpoint, and SaaS sources, and escalate only the few that merit human attention. Analysts get transparent reasoning, evidence, and audit-ready steps for quick review and action.",
+    "url": "https://www.prophetsecurity.ai/case-studies/zip-boosting-soc-throughput-with-prophet-ai",
+    "pass": 1
+   },
+   {
+    "quote": "This large, multi-entity U.S. healthcare provider operates across multiple business lines, tenants, and tens of thousands of endpoints has chosen Prophet Security to scale SOC capacity through agentic AI. Its Security Operations team protects a complex environment built on Microsoft Defender XDR and Sentinel, supplemented by Proofpoint for email security, Obsidian for SaaS threat monitoring.",
+    "url": "https://www.prophetsecurity.ai/case-studies/national-health-provider-scales-soc-with-prophet-security",
+    "pass": 1
+   },
+   {
+    "quote": "広報室 宮原、磯﨑 E-mail：",
+    "url": "https://www.macnica.co.jp/public-relations/news/2026/150274/",
+    "pass": 3
+   },
+   {
+    "quote": "Macnica said it will provide end-to-end support for proof-of-concept testing, technical validation, post-deployment use and integration with other products, drawing on its experience with security tools covering EDR, SIEM, identity, cloud, email and threat intelligence. Macnica operates in 100 locations across 33 countries and regions, with semiconductor and cybersecurity businesses at its core.",
+    "url": "https://jp.ibtimes.com/macnica-launches-prophet-ai-soc-platform-japan-103773",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us if you need a completed and verified list of companies using Prophet Security, including the breakdown by industry (21 Verticals), Geography (Region, Country, State, City), Company Size (Revenue, Employees, Asset) and related IT Decision Makers, Key Stakeholders, business and technology executives responsible for the software purchases.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/595998-91",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "株式会社マクニカ（本社：神奈川県横浜市、代表取締役社長：原 一将、以下マクニカ）は、Prophet Security, Inc.（本社：米国カリフォルニア州、CEO：Kamal Shah、以下Prophet Security（プロフェットセキュリティ））と代理店契約を締結し、国内で初めて、AIを活用した次世代SOCプラットフォーム「Prophet Agentic AI SOC Platform （以下Prophet AI）」の提供を開始することを本日発表いたします",
+    "url": "https://www.macnica.co.jp/public-relations/news/2026/150274/",
+    "pass": 3
+   },
+   {
+    "quote": "そして、企業ごとの運用実態に合わせたProphet AIの活用を進め、日本企業の持続可能なセキュリティ運用体制の構築と、社会全体のサイバーセキュリティ強化に貢献してまいります",
+    "url": "https://www.macnica.co.jp/public-relations/news/2026/150274/",
+    "pass": 3
+   },
+   {
+    "quote": "※本文中に記載の社名及び製品名は、株式会社マクニカ及び各社の商標または登録商標です",
+    "url": "https://www.macnica.co.jp/public-relations/news/2026/150274/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マクニカは、Prophet Security, Inc.との代理店契約に基づき、AIを活用した次世代SOCプラットフォーム「Prophet Agentic AI SOC Platform（以下、Prophet AI）」の国内提供を開始しました",
+    "url": "https://true-ega.net/technology/2026/08/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB%E3%80%81%E5%9B%BD%E5%86%85%E5%88%9D%E3%81%A8%E3%81%AA%E3%82%8Bai%E6%B4%BB%E7%94%A8%E6%AC%A1%E4%B8%96%E4%BB%A3soc%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95/",
+    "pass": 3
+   },
+   {
+    "quote": "企業ごとの運用実態に合わせたProphet AIの活用を推進し、日本企業の持続可能なセキュリティ運用体制の構築と、社会全体のサイバーセキュリティ強化に貢献していきます",
+    "url": "https://true-ega.net/technology/2026/08/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB%E3%80%81%E5%9B%BD%E5%86%85%E5%88%9D%E3%81%A8%E3%81%AA%E3%82%8Bai%E6%B4%BB%E7%94%A8%E6%AC%A1%E4%B8%96%E4%BB%A3soc%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マーケットリサーチセンターは、光学式ディスプレイ指紋センサーの世界市場に関する詳細な分析レポートを発表しました",
+    "url": "https://true-ega.net/technology/2026/08/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB%E3%80%81%E5%9B%BD%E5%86%85%E5%88%9D%E3%81%A8%E3%81%AA%E3%82%8Bai%E6%B4%BB%E7%94%A8%E6%AC%A1%E4%B8%96%E4%BB%A3soc%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95/",
+    "pass": 3
+   },
+   {
+    "quote": "IoT-EX株式会社は、Microsoft Intune環境において、地理的境界（ジオフェンス）に応じてデバイスのセキュリティグループを自動的に切り替える新サービス「BizMobile Go! Geofence」の提供を2026年2月17日より開始しました",
+    "url": "https://true-ega.net/technology/2026/08/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB%E3%80%81%E5%9B%BD%E5%86%85%E5%88%9D%E3%81%A8%E3%81%AA%E3%82%8Bai%E6%B4%BB%E7%94%A8%E6%AC%A1%E4%B8%96%E4%BB%A3soc%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95/",
+    "pass": 3
+   },
+   {
+    "quote": "YH Research株式会社は、ASICターンキーサービス業界に関する詳細な調査レポートを発表しました",
+    "url": "https://true-ega.net/technology/2026/08/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB%E3%80%81%E5%9B%BD%E5%86%85%E5%88%9D%E3%81%A8%E3%81%AA%E3%82%8Bai%E6%B4%BB%E7%94%A8%E6%AC%A1%E4%B8%96%E4%BB%A3soc%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95/",
+    "pass": 3
+   },
+   {
+    "quote": "リーガルテック株式会社は、知財AIプラットフォーム「Tokkyo.Ai」において、知財部門を持たない企業向けに「仮想知財部」AI機能の提供を開始しました",
+    "url": "https://true-ega.net/technology/2026/08/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB%E3%80%81%E5%9B%BD%E5%86%85%E5%88%9D%E3%81%A8%E3%81%AA%E3%82%8Bai%E6%B4%BB%E7%94%A8%E6%AC%A1%E4%B8%96%E4%BB%A3soc%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95/",
+    "pass": 3
+   },
+   {
+    "quote": "Fairy Devices、ものづくりワールド[東京]で最先端フィジカルAIを展示 – 特別講演や限定ツアーも開催",
+    "url": "https://true-ega.net/technology/2026/08/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB%E3%80%81%E5%9B%BD%E5%86%85%E5%88%9D%E3%81%A8%E3%81%AA%E3%82%8Bai%E6%B4%BB%E7%94%A8%E6%AC%A1%E4%B8%96%E4%BB%A3soc%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95/",
+    "pass": 3
+   },
+   {
+    "quote": "Fairy Devices株式会社は、「第38回 ものづくりワールド[東京]」に出展し、首掛け型ウェアラブルデバイス「THINKLET®」や新サービス「一人称視点（FPV）動画解析プラン」を紹介します",
+    "url": "https://true-ega.net/technology/2026/08/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB%E3%80%81%E5%9B%BD%E5%86%85%E5%88%9D%E3%81%A8%E3%81%AA%E3%82%8Bai%E6%B4%BB%E7%94%A8%E6%AC%A1%E4%B8%96%E4%BB%A3soc%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マーケットリサーチセンターは、バッテリー恒温試験室の世界市場に関する詳細な調査レポートを発表しました",
+    "url": "https://true-ega.net/technology/2026/08/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB%E3%80%81%E5%9B%BD%E5%86%85%E5%88%9D%E3%81%A8%E3%81%AA%E3%82%8Bai%E6%B4%BB%E7%94%A8%E6%AC%A1%E4%B8%96%E4%BB%A3soc%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マクニカは、Prophet Security, Inc.と代理店契約を締結し、AIを活用した次世代SOCプラットフォーム「Prophet Agentic AI SOC Platform（Prophet AI）」の国内提供を開始した",
+    "url": "https://ccsi.jp/14275/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マクニカ（本社：神奈川県横浜市）は、Prophet Security, Inc.（本社：米国カリフォルニア州）と代理店契約を締結し、AIを活用した次世代SOCプラットフォーム「Prophet Agentic AI SOC Platform（以下、Prophet AI）」の国内提供を2026年8月19日に開始すると発表しました",
+    "url": "https://ccsi.jp/14275/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、企業ごとの運用実態に合わせたProphet AIの活用を進め、日本企業の持続可能なセキュリティ運用体制の構築と、社会全体のサイバーセキュリティ強化に貢献していく方針です",
+    "url": "https://ccsi.jp/14275/",
+    "pass": 3
+   },
+   {
+    "quote": "Macnica launches Prophet AI SOC platform in Japan | IBTimes JP",
+    "url": "https://jp.ibtimes.com/macnica-launches-prophet-ai-soc-platform-japan-103773",
+    "pass": 3
+   },
+   {
+    "quote": "Macnica launches Prophet AI SOC platform in Japan",
+    "url": "https://jp.ibtimes.com/macnica-launches-prophet-ai-soc-platform-japan-103773",
+    "pass": 3
+   },
+   {
+    "quote": "Macnica signs distributor deal with Prophet Security to offer Prophet AI in Japan",
+    "url": "https://jp.ibtimes.com/macnica-launches-prophet-ai-soc-platform-japan-103773",
+    "pass": 3
+   },
+   {
+    "quote": "Macnica will distribute Prophet Security's AI-based SOC platform in Japan, targeting heavier alert loads and cybersecurity staffing shortages. Photo by",
+    "url": "https://jp.ibtimes.com/macnica-launches-prophet-ai-soc-platform-japan-103773",
+    "pass": 3
+   },
+   {
+    "quote": "Macnica said on August 19 it has signed a distributor agreement with California-based Prophet Security and will begin offering the Prophet Agentic AI SOC Platform, branded as Prophet AI, in Japan, saying it is the first company to offer the platform domestically.",
+    "url": "https://jp.ibtimes.com/macnica-launches-prophet-ai-soc-platform-japan-103773",
+    "pass": 3
+   },
+   {
+    "quote": "The launch comes as companies face growing alert volumes and broader monitoring demands as cyberattacks become more sophisticated. In Japan, many companies operate SOC functions internally or through managed security service providers, while a shortage of cybersecurity personnel has remained a persistent issue.",
+    "url": "https://jp.ibtimes.com/macnica-launches-prophet-ai-soc-platform-japan-103773",
+    "pass": 3
+   },
+   {
+    "quote": ", a Japan based Professional Services organization with 2864 Employees",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": "その核心である「自律」と「安全」を両立させる設計戦略から、具体的な導入事例まで、他では読めない深さで徹底解説します",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "検知・調査・対応を加速するAI SOCプラットフォーム - セキュリティ事... — マクニカが国内一次代理店として提供するProphet SecurityはAIを活用した次世代SOCプラットフォームです。 SOC運用で負荷の高い初動調査・トリアージ領域に強みを持ち、大量アラートへの対応を標準化・高速化。",
+    "url": "https://www.macnica.co.jp/business/security/manufacturers/prophetsecurity/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ、国内初となるAI活用次世代SOCプラットフォーム「Prophet AI... — Aug 19, 2026 · マクニカが、Prophet Security, Inc.と代理店契約を締結し、AIを活用した次世代SOCプラットフォーム「Prophet AI」の国内提供を開始します。 これにより、サイバー攻撃の高度化やセキュリティ人材不足といった課題に対し...",
+    "url": "https://true-ega.net/technology/2026/08/マクニカ、国内初となるai活用次世代socプラットフ/",
+    "pass": 3
+   },
+   {
+    "quote": "マクニカ、AI活用でSOC運用を革新 次世代プラットフォーム「Prophet A... — Aug 19, 2026 · 株式会社マクニカは、Prophet Security, Inc.と代理店契約を締結し、AIを活用した次世代SOCプラットフォーム「Prophet Agentic AI SOC Platform（Prophet AI）」の国内提供を開始した。",
+    "url": "https://ccsi.jp/14275/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Prophet Security — Whether you want to see Prophet AI investigate your alerts, scope a proof of value, or just have a question, send us a note. A member of our team will get back to you.",
+    "url": "https://www.prophetsecurity.ai/contact-us",
+    "pass": 3
+   },
+   {
+    "quote": "prophetsecurityai.com — prophetsecurityai.com",
+    "url": "http://prophetsecurityai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Macnica launches Prophet AI SOC platform in Japan — Aug 20, 2026 · Macnica said on August 19 it has signed a distributor agreement with California-based Prophet Security and will begin offering the Prophet Agentic AI SOC Platform, branded as Prophet AI, in...",
+    "url": "https://jp.ibtimes.com/macnica-launches-prophet-ai-soc-platform-japan-103773",
+    "pass": 3
+   },
+   {
+    "quote": "| Prophet Security — Aug 19, 2026 · Macnica launches \"Prophet AI,\" Japan's first AI-powered next-generation SOC platform",
+    "url": "https://www.prophetsecurity.ai/newsroom/macnica-launches-prophet-ai-japans-first-ai-powered-next-generation-soc-platform",
+    "pass": 3
+   },
+   {
+    "quote": "An AI SOC platform that accelerates detection, investigation ... — Prophet Security, offered by Macnica as its primary distributor in Japan, is a next-generation SOC platform that leverages AI. It excels in the high-load initial investigation and triage areas of SOC operations, standardizing and accelerating responses to large volumes of alerts.",
+    "url": "https://www.macnica.co.jp/en/business/security/manufacturers/prophetsecurity/",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet Security Support - Security Business -Macnica — Prophet Security, offered by Macnica as its primary distributor in Japan, is a next-generation SOC platform that leverages AI. It excels in the high-load initial investigation and triage areas of SOC operations, standardizing and accelerating responses to large volumes of alerts.",
+    "url": "https://www.macnica.co.jp/en/business/security/manufacturers/prophetsecurity/support.html",
+    "pass": 3
+   },
+   {
+    "quote": "List of Prophet Security Customers - Apps Run The World — Since 2010, our global team of researchers has been studying Prophet Security customers around the world, aggregating massive amounts of data points that form the basis of our forecast assumptions and perhaps the rise and fall of certain vendors and their products on a quarterly basis.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Our Customers - Meet our customers - prophetsecurity.ai — \"Prophet AI has transformed how we triage and investigate alerts. It has given us scale and capacity to keep up with the volume of alerts, while allowing our analysts to focus on proactive threat hunting and strategic projects.\"",
+    "url": "https://www.prophetsecurity.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Cabinetworks Group achieves 10x SOC throughput ... — Cabinetworks Group (Building Materials) partnered with Prophet Security (Computer & Network Security) to solve key challenges. \"Cabinetworks Revolutionizing SOC Efficiency with Prophet AI\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/prophet-security/case-study/cabinetworks-revolutionizing-soc-efficiency-with-prophet-ai",
+    "pass": 3
+   },
+   {
+    "quote": "4 Prophet Security Case Studies, Success Stories, & Customer ... — Discover how other companies use Prophet Security, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/prophet-security/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet Security 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for Prophet Security. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/595998-91",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet Security: $41M Funding & 93 Employees | Mandos — Oct 24, 2026 · Prophet Security is a cybersecurity company specializing in Security Operations, founded in 2023 and headquartered in Atherton, United States. It has raised $41M in equity across 3 priced rounds, employs about 93 people, and is privately held.",
+    "url": "https://mandos.io/data/companies/prophet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet Security Revenue, Funding & Valuation — Prophet Security has revenue of $3,678,865, estimated valuation of $11,800,000, $41,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet Security — AI Cybersecurity Revenue, Funding & Data — Prophet Security has raised $30 million in Series A funding to accelerate autonomous AI systems for cybersecurity defense.",
+    "url": "https://www.intelpilot.ai/company/prophet-security/69b3a95436630f70c2af2213",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet Security: Funding, Investors & Team (Oct 2026) — Prophet Security is a Consumer Electronics company in Palo Alto, United States. Raised $41.0M across 3 rounds; latest round Feb 2026.",
+    "url": "https://fundediq.co/prophet-security-prophet-security-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Prophet Security: The Next-Generation Security Standard to ... Dec 15, 2025 · In this article, we will explain in unprecedented depth how Prophet Security has evolved AI into a \"trusted executor\" to achieve remarkable results such as a \"90% reduction in investigation and response time\" and a \"5x improvement in security operational efficiency.\"",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet Security: アラート疲れからアナリストを解放する次世代セキ... Dec 16, 2025 · Prophet Securityが提供する次世代型サイバーセキュリティAIプラットフォームは、企業のセキュリティ運用を担うSOC（Security Operations Center、社内のセキュリティ対応組織、以後SOC）のあり方を、まさに根本から変革する可能性を秘めています。",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Prophet Security: The Next-Generation Security Standard to Free Analysts from Alert Fatigue｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet Security: The Next-Generation Security Standard to Free Analysts from Alert Fatigue",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The next-generation cybersecurity AI platform provided by Prophet Security has the potential to fundamentally transform the way Security Operations Centers (SOCs)—the internal organizations responsible for a company's security response—operate.",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The company replaces the series of tasks traditionally performed manually—from receiving alerts to investigating causes, taking action, and creating records—with a system where AI operates autonomously. The AI uses automated reasoning to determine the severity and relevance of warnings (triage), and based on highly reliable analysis, it resolves them itself or reports them to expert security analy",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "high-quality security operations that do not rely on human labor",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The company is addressing the serious challenge of \"alert fatigue\" that corporate SOCs face. According to one study, security teams face an average of 960 alerts per day, and about 40% of them are left uninvestigated. This situation not only leads to burnout among security analysts but also directly results in the fatal risk of missing critical threats.",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In an era where attackers are also advancing automation with AI, there are limits to manual verification. Prophet Security addresses this challenge by reducing average response times and ensuring the reliability of investigations, thereby freeing expert analysts from repetitive tasks and creating an environment where they can focus on more advanced and strategic work.",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we will explain in unprecedented depth how Prophet Security has evolved AI into a \"trusted executor\" to achieve remarkable results such as a \"90% reduction in investigation and response time\" and a \"5x improvement in security operational efficiency.\" We will cover everything from the core design strategy that balances \"autonomy\" and \"safety\" to concrete implementation examples.",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet Security: アラート疲れからアナリストを解放する次世代セキュリティ標準｜生成AI事例集",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet Security: アラート疲れからアナリストを解放する次世代セキュリティ標準",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet Securityが提供する次世代型サイバーセキュリティAIプラットフォームは、企業のセキュリティ運用を担うSOC（Security Operations Center、社内のセキュリティ対応組織、以後SOC）のあり方を、まさに根本から変革する可能性を秘めています。",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482",
+    "pass": 3
+   },
+   {
+    "quote": "従来、人手で行われていたアラートの受信から原因調査、対処、記録作成までの一連の業務を、同社はAIが自律的に実行する仕組みで代替。AIが自動推論で警告の重大度や関連性を判断し（トリアージ）、信頼性の高い分析に基づいて自ら解決、あるいは専門家であるセキュリティアナリストへ報告。これにより、人間による確認作業を必要とする警告の量を劇的に削減し、24時間365日、",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482",
+    "pass": 3
+   },
+   {
+    "quote": "同社が向き合うのは、まさに企業のSOCが直面する「アラート疲れ」という深刻な課題です。ある調査によれば、セキュリティチームは1日に平均960件もの警告に直面し、その約40%が調査されないまま放置されています。この状況は、セキュリティアナリストの燃え尽き症候群を招くだけでなく、重大な脅威の見逃しという致命的なリスクに直結します。",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482",
+    "pass": 3
+   },
+   {
+    "quote": "攻撃側もAIで自動化を進める現代において、人手による確認作業には限界があります。Prophet Securityは、この課題に対し、平均対応時間を短縮し、調査の信頼性を担保することで、専門家であるアナリストを反復作業から解放し、より高度で戦略的な業務に集中できる環境を創出します。",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、Prophet Securityが、いかにしてAIを「信頼できる実行役」へと進化させ、「調査・対応時間90%削減」や「セキュリティ運用効率5倍向上」といった驚異的な成果を上げているのか。その核心である「自律」と「安全」を両立させる設計戦略から、具体的な導入事例まで、他では読めない深さで徹底解説します。",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482",
+    "pass": 3
+   },
+   {
+    "quote": "「生成AI事例集」では、「勝ち馬」シリーズと称して、アメリカの成功している生成AIスタートアップを詳細に解説しています。週2記事のペースで記事を公開しています。毎週、1記事は無料記事、もう1記事は有料記事です。（本記事は有料記事です）",
+    "url": "https://note.com/gen_ai/n/nec2b702d8482",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Vibhav Sreekanti - Co-founder & CTO, Prophet Security | LinkedInAugusto Barros - Building security products that fit into the ...Kamal Shah - Co-founder & CEO at Prophet Security | AI for ...Prophet Security raises $30M to boost security ops with AI ...Prophet Security emerges out of stealth with $11 million in ...AI SOC Platform with Agentic AI SOC Analyst | Prophet ... Co-founder & CTO, Prophet ",
+    "url": "https://www.linkedin.com/in/vibhavs",
+    "pass": 3
+   },
+   {
+    "quote": "Prophet Security - LinkedIn Prophet Security is a leading agentic AI SOC platform, recognized in Rising in Cyber 2026, that autonomously triages, investigates, and responds to security alerts the way an expert analyst...",
+    "url": "https://www.linkedin.com/company/prophetsecurity/",
+    "pass": 3
+   },
+   {
+    "quote": "Augusto Barros - Building security products that fit into the ...Kamal Shah - Co-founder & CEO at Prophet Security | AI for ...Prophet Security raises $30M to boost security ops with AI ...Prophet Security emerges out of stealth with $11 million in ...AI SOC Platform with Agentic AI SOC Analyst | Prophet ... As Principal Product Manager at Prophet Security, I apply my hands-on experience and criti",
+    "url": "https://ca.linkedin.com/in/apbarros",
+    "pass": 3
+   },
+   {
+    "quote": "Kamal Shah - Co-founder & CEO at Prophet Security | AI for ...Prophet Security raises $30M to boost security ops with AI ...Prophet Security emerges out of stealth with $11 million in ...AI SOC Platform with Agentic AI SOC Analyst | Prophet ... Prophet Security’s mission is to transform security operations by automating the triage, investigation and response process for alerts. Prophet Security is",
+    "url": "https://www.linkedin.com/in/kdshah",
+    "pass": 3
+   },
+   {
+    "quote": "Vibhav Sreekanti - Co-founder & CTO, Prophet Security | LinkedInKamal Shah - Co-founder and CEO @ Prophet Security ...I often get asked — how did Prophet Security get started ...Prophet Security: $41M Funding & 93 Employees | Mandos Co-founder & CTO, Prophet Security · Location: San Francisco Bay Area · 500+ connections on LinkedIn. View Vibhav Sreekanti’s profile on LinkedIn, a professional commu",
+    "url": "https://www.linkedin.com/in/vibhavs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Prophet Security - Facebook Jan 13, 2026 · Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.",
+    "url": "https://www.facebook.com/pages/Prophet+Security/864594080080592/",
+    "pass": 3
+   },
+   {
+    "quote": "Colaeb - Prophet Security, led by Kamal Shah, has ... - Facebook Jul 30, 2025 · Prophet Security, led by Kamal Shah, has raised $30 million in Series A financing led by Accel with participation from Bain Capital Ventures and other...",
+    "url": "https://www.facebook.com/colaeb/photos/prophet-security-led-by-kamal-shah-has-raised-30-million-in-series-a-financing-l/1590474398834528/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.prophetsecurity.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prophetsecurity.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prophetsecurity.ai/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prophetsecurity.ai/partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prophetsecurity.ai/case-studies/zip-boosting-soc-throughput-with-prophet-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prophetsecurity.ai/case-studies/jb-poindexter-co-unlocking-soc-capacity-and-speed-with-prophet-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prophetsecurity.ai/case-studies/cabinetworks-revolutionizing-soc-efficiency-with-prophet-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prophetsecurity.ai/case-studies/scaling-security-investigations-for-a-cloud-first-team-with-prophet-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prophetsecurity.ai/case-studies/national-health-provider-scales-soc-with-prophet-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prophetsecurity.ai/case-studies/fortune-500-retail-and-logistics-investigating-every-alert-at-scale-24-7-with-prophet-ai",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/66082cf1d4c6684fb536dfbe/69e86fe72bc7f982cd9f22b8_LogoSymantec.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.macnica.co.jp/public-relations/news/2026/150274/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/business/security/manufacturers/prophetsecurity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://true-ega.net/technology/2026/08/%E3%83%9E%E3%82%AF%E3%83%8B%E3%82%AB%E3%80%81%E5%9B%BD%E5%86%85%E5%88%9D%E3%81%A8%E3%81%AA%E3%82%8Bai%E6%B4%BB%E7%94%A8%E6%AC%A1%E4%B8%96%E4%BB%A3soc%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ccsi.jp/14275/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://prophetsecurityai.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.ibtimes.com/macnica-launches-prophet-ai-soc-platform-japan-103773",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/en/business/security/manufacturers/prophetsecurity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/prophet-security/case-study/jb-poindexter-co-saves-8936-hours-of-soc-toil-with-prophet-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/prophet-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/prophet-security/case-study/cabinetworks-revolutionizing-soc-efficiency-with-prophet-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.superantispyware.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/595998-91",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mandos.io/data/companies/prophet-security",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/prophet-security-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intelpilot.ai/company/prophet-security/69b3a95436630f70c2af2213",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/nec2b702d8482?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gen_ai/n/nec2b702d8482",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/vibhavs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/prophetsecurity/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/apbarros",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/kdshah",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/Prophet+Security/864594080080592/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/colaeb/photos/prophet-security-led-by-kamal-shah-has-raised-30-million-in-series-a-financing-l/1590474398834528/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/vibhavs",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Prophetsecurity 日本 導入",
+   "results": [
+    "https://www.macnica.co.jp/public-relations/news/2026/150274/",
+    "https://www.macnica.co.jp/business/security/manufacturers/prophetsecurity/",
+    "https://true-ega.net/technology/2026/08/マクニカ、国内初となるai活用次世代socプラットフ/",
+    "https://ccsi.jp/14275/",
+    "https://south65.jp/マクニカ、ai活用でsoc運用を高度化するprophet-aiの提供を/",
+    "https://businessnetwork.jp/article/36615/",
+    "https://www.nikkei.com/article/DGXZRSP711282_Z10C26A8000000/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Prophetsecurity 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.prophetsecurity.ai/contact-us",
+    "https://www.prophet-web.com/support/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Prophetsecurity Japan",
+   "results": [
+    "http://prophetsecurityai.com/",
+    "https://jp.ibtimes.com/macnica-launches-prophet-ai-soc-platform-japan-103773",
+    "https://www.prophetsecurity.ai/newsroom/macnica-launches-prophet-ai-japans-first-ai-powered-next-generation-soc-platform",
+    "https://www.macnica.co.jp/en/business/security/manufacturers/prophetsecurity/",
+    "https://www.macnica.co.jp/en/business/security/manufacturers/prophetsecurity/support.html",
+    "https://www.prophetsecurity.ai/",
+    "https://www.linkedin.com/company/prophetsecurity/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Prophetsecurity manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/prophet-security/case-study/jb-poindexter-co-saves-8936-hours-of-soc-toil-with-prophet-security",
+    "https://www.appsruntheworld.com/customers-database/products/view/prophet-security",
+    "https://www.prophetsecurity.ai/customers",
+    "https://www.casestudies.com/company/prophet-security/case-study/cabinetworks-revolutionizing-soc-efficiency-with-prophet-ai",
+    "https://www.featuredcustomers.com/vendor/prophet-security/case-studies",
+    "https://www.prophetsecurity.ai/resources",
+    "https://www.linkedin.com/posts/prophetsecurity_fortune-500-manufacturing-case-study-activity-7470159850057052160-4mLq"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Prophetsecurity white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.superantispyware.com/reseller-program",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.verkada.com/partners/",
+    "https://partners.adobe.com/channelpartners/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Prophetsecurity founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/595998-91",
+    "https://mandos.io/data/companies/prophet-security",
+    "https://prospeo.io/c/prophet-security-revenue",
+    "https://www.intelpilot.ai/company/prophet-security/69b3a95436630f70c2af2213",
+    "https://fundediq.co/prophet-security-prophet-security-funding/",
+    "https://exa.ai/websets/directory/prophet-security-funding",
+    "https://compworth.com/company/prophet-security"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Prophetsecurity",
+   "results": [
+    "https://note.com/gen_ai/n/nec2b702d8482?hl=en",
+    "https://note.com/gen_ai/n/nec2b702d8482",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/chikama_teppei/n/nd5b65fb5e514",
+    "https://note.com/legal_finch9063/n/n6dfaa12f01f9",
+    "https://note.com/tsutushi0628/n/nbeec7ce7ca10",
+    "https://note.com/haru_yuki_i/n/n4ec981874187"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Prophetsecurity",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Prophetsecurity",
+   "results": [
+    "https://www.linkedin.com/in/vibhavs",
+    "https://www.linkedin.com/company/prophetsecurity/",
+    "https://ca.linkedin.com/in/apbarros",
+    "https://www.linkedin.com/in/kdshah",
+    "https://www.linkedin.com/posts/prophetsecurity_ai-soc-platform-with-agentic-ai-soc-analyst-activity-7440515119681486848-l66I",
+    "https://www.linkedin.com/posts/prophetsecurity_prophet-security-raises-30m-in-series-a-activity-7356307586171744258-ZKRs",
+    "https://www.linkedin.com/posts/prophetsecurity_prophet-security-emerges-out-of-stealth-with-activity-7188551131281719296-DaHV"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Prophetsecurity",
+   "results": [
+    "https://www.facebook.com/pages/Prophet+Security/864594080080592/",
+    "https://www.facebook.com/prophetsecurity/",
+    "https://www.facebook.com/colaeb/photos/prophet-security-led-by-kamal-shah-has-raised-30-million-in-series-a-financing-l/1590474398834528/",
+    "https://research.facebook.com/blog/2017/2/prophet-forecasting-at-scale/",
+    "https://www.facebook.com/thecxoforum/photos/part-6-of-the-cxo-forum-it-in-the-d-podcast-is-now-livebob-waltenspiel-tom-doane/769230849391054/",
+    "https://www.facebook.com/thecxoforum/posts/thank-you-to-prophet-security-abnormal-ai-for-sponsoring-our-october-23rd-frankl/826331487014323/",
+    "https://www.facebook.com/thecxoforum/posts/thank-you-to-prophet-security-and-abnormal-ai-for-sponsoring-the-franklin-roundt/792280920419380/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Prophetsecurity note 社長",
+   "results": [
+    "https://www.prophetsecurity.ai/about-us",
+    "https://exa.ai/websets/directory/prophet-security-executives",
+    "https://councils.forbes.com/profile/Kamal-Shah-Cofounder-CEO-Prophet-Security/2a141798-788c-4d82-a1dd-82b89660f0ed",
+    "https://www.linkedin.com/in/vibhavs",
+    "https://www.crunchbase.com/person/kamal-shah-2",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7366107159132057600/",
+    "https://mandos.io/data/companies/prophet-security"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Prophetsecurity X 投稿",
+   "results": [
+    "https://x.com/prophetsec",
+    "https://www.prophetsecurity.ai/",
+    "https://www.prophetsecurity.ai/prophet-security-faq",
+    "https://www.prophetsecurity.ai/blog/announcing-prophet-security",
+    "https://coki.jp/article/column/97274/",
+    "https://www.prophetsecurity.ai/blog",
+    "https://www.prophetsecurity.ai/about-us"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部30頁・検索12回）"
+ }
+}

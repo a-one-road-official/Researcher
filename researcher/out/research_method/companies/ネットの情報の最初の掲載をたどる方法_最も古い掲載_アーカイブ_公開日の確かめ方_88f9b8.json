@@ -8,7 +8,7 @@
  ],
  "context": "一次情報の探し方",
  "kind": "market",
- "researched_at": "2026-11-09T11:56:41.864256+00:00",
+ "researched_at": "2026-11-11T09:01:27.813076+00:00",
  "evidence": {
   "突き合わせ・推定": [
    {
@@ -155,17 +155,17 @@
     "method": "browser"
    },
    {
-    "url": "https://note.intimatemerger.com/n/n3a013272d443?gs=c56b573b92de295ae57b94f7064c8009",
+    "url": "https://note.intimatemerger.com/n/n3a013272d443?gs=2f18cb732f980f906ea7751db1d00c7a",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.help-note.com/hc/ja/articles/4409701626393",
-    "status": "http_403",
-    "method": "http"
+    "status": "ok",
+    "method": "browser"
    },
    {
-    "url": "https://note.com/marumi_works/n/n3aee2bc0bdd5",
+    "url": "https://note.com/kurusaki/n/n2c52c342700c",
     "status": "ok",
     "method": "http"
    },
@@ -175,22 +175,22 @@
     "method": "http"
    },
    {
-    "url": "https://wwstd.jp/media/note-hajimekata/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.help-note.com/hc/ja/articles/360008882914-%E6%96%B0%E8%A6%8F%E8%A8%98%E4%BA%8B%E3%82%92%E6%8A%95%E7%A8%BF%E3%81%8B%E3%82%89%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AE%E6%89%8B%E9%A0%86",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://note.com/info/n/n37f10f29a3f3",
+    "url": "https://www.koukoku.jp/service/suketto/marketer/sns/note%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%EF%BD%9C%E5%A7%8B%E3%82%81%E6%96%B9%E3%83%BB%E6%8A%95%E7%A8%BF%E6%96%B9%E6%B3%95%E3%83%BB%E5%8F%8E%E7%9B%8A/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.koukoku.jp/service/suketto/marketer/sns/note%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%EF%BD%9C%E5%A7%8B%E3%82%81%E6%96%B9%E3%83%BB%E6%8A%95%E7%A8%BF%E6%96%B9%E6%B3%95%E3%83%BB%E5%8F%8E%E7%9B%8A/",
+    "url": "https://wwstd.jp/media/note-hajimekata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/info/n/na4e66d570e91",
     "status": "ok",
     "method": "http"
    },
@@ -235,22 +235,17 @@
     "method": "browser"
    },
    {
+    "url": "https://prtimes.com/magazine/media-coverage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.soumu.go.jp/use_the_internet_wisely/trouble/case/case17.html",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://bindup.jp/camp/post/555953153912/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://prtimes.com/magazine/corporate-information-sharing/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.switchitmaker2.com/marketing/first-information/",
     "status": "ok",
     "method": "http"
    },
@@ -265,6 +260,16 @@
     "method": "http"
    },
    {
+    "url": "https://www.switchitmaker2.com/marketing/first-information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://en.wikipedia.org/wiki/List_of_fact-checking_websites",
     "status": "ok",
     "method": "http"
@@ -275,16 +280,6 @@
     "method": "http"
    },
    {
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.reuters.com/fact-check/",
-    "status": "robots_disallowed",
-    "method": ""
-   },
-   {
     "url": "https://mediahelpingmedia.org/advanced/open-source-intelligence-osint-in-journalism/",
     "status": "ok",
     "method": "http"
@@ -293,6 +288,11 @@
     "url": "https://www.rand.org/research/projects/truth-decay/fighting-disinformation/search.html",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.reuters.com/fact-check/",
+    "status": "robots_disallowed",
+    "method": ""
    }
   ]
  },
@@ -304,35 +304,34 @@
     "https://help.note.com/hc/ja/articles/4402395202841-iframe-RSS%E3%81%A7-%E8%87%AA%E5%88%86%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%ABnote%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B",
     "https://note.com/intimatemerger/n/n3a013272d443",
     "https://help.note.com/hc/ja/articles/4409701626393",
-    "https://note.com/marumi_works/n/n3aee2bc0bdd5",
+    "https://note.com/kurusaki/n/n2c52c342700c",
     "https://note.com/phonet_dx/n/nc493951972bf",
+    "https://note.com/marumi_works/n/n3aee2bc0bdd5",
     "https://note.com/junsakamoto/n/nbd47bce7646d",
-    "https://note.com/tofoofilms/n/n3da0ea38f00c",
-    "https://note.com/shirabeshi/n/n459a422ad332",
-    "https://note.com/google_gemini/n/n75516598b159"
+    "https://note.com/",
+    "https://note.com/shirabeshi/n/n459a422ad332"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 10
   },
   {
    "query": "ネットの情報の最初の掲載をたどる方法（最も古い掲載・アーカイブ・公開日の確かめ方・コピーサイトの見分け・OSINT・ファクトチェック団体の手順・4-128） note",
    "results": [
-    "https://wwstd.jp/media/note-hajimekata/",
     "https://www.help-note.com/hc/ja/articles/360008882914-%E6%96%B0%E8%A6%8F%E8%A8%98%E4%BA%8B%E3%82%92%E6%8A%95%E7%A8%BF%E3%81%8B%E3%82%89%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AE%E6%89%8B%E9%A0%86",
-    "https://note.com/info/n/n37f10f29a3f3",
     "https://www.koukoku.jp/service/suketto/marketer/sns/note%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%EF%BD%9C%E5%A7%8B%E3%82%81%E6%96%B9%E3%83%BB%E6%8A%95%E7%A8%BF%E6%96%B9%E6%B3%95%E3%83%BB%E5%8F%8E%E7%9B%8A/",
+    "https://wwstd.jp/media/note-hajimekata/",
+    "https://note.com/info/n/na4e66d570e91",
     "https://note.com/rashita/n/ne4e96e49ea23",
+    "https://www.youtube.com/watch?v=EBSBsB2mJBI",
     "https://www.value-domain.com/media/note-howto/",
-    "https://www.youtube.com/watch?v=5UzHmsImrZg",
-    "https://note.com/info/n/n409a6ab37519",
-    "https://note.com/harista/n/n1c6c86c65324",
-    "https://note.com/zz08/n/ncd84a61a7641"
+    "https://note.com/info/n/n37f10f29a3f3",
+    "https://note.com/hotaru0821/n/nb99a48410f5a",
+    "https://note.com/ak_hikiyose/n/n2702a7a99cc6"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -348,31 +347,29 @@
     "https://www.nojima.co.jp/support/faq/32564/",
     "https://www.chaco-web.com/blog/to-do-list-when-you-open-website/",
     "https://nerd.co.jp/zine/5274/",
-    "https://www.wikihow.jp/ウェブサイトの公開日を調べる",
-    "https://seo-nippou.com/entry/20250905"
+    "https://webtan.impress.co.jp/e/2009/05/29/5727"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 9
   },
   {
    "query": "ネットの情報の最初の掲載をたどる方法（最も古い掲載・アーカイブ・公開日の確かめ方・コピーサイトの見分け・OSINT・ファクトチェック団体の手順・4-128） 事例",
    "results": [
     "https://nekkyo-navi.jp/recruit-pr/media-keisai/",
+    "https://prtimes.com/magazine/media-coverage/",
     "https://www.soumu.go.jp/use_the_internet_wisely/trouble/case/case17.html",
     "https://bindup.jp/camp/post/555953153912/",
-    "https://prtimes.com/magazine/corporate-information-sharing/",
-    "https://www.switchitmaker2.com/marketing/first-information/",
     "https://techport.co.jp/archives/45077",
     "https://www.sunloft.co.jp/dx/blog/press-release/",
+    "https://www.switchitmaker2.com/marketing/first-information/",
     "https://kigyobengo.com/media/useful/148.html",
     "https://webtan.impress.co.jp/e/2009/05/29/5727",
     "https://note.intimatemerger.com/n/n3a013272d443"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -380,16 +377,16 @@
   {
    "query": "finding earliest publication original source tracing OSINT fact-check archive first appearance",
    "results": [
+    "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
     "https://en.wikipedia.org/wiki/List_of_fact-checking_websites",
     "https://kit.exposingtheinvisible.org/en/fact-checking.html",
-    "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "https://www.reuters.com/fact-check/",
     "https://mediahelpingmedia.org/advanced/open-source-intelligence-osint-in-journalism/",
     "https://www.rand.org/research/projects/truth-decay/fighting-disinformation/search.html",
+    "https://www.reuters.com/fact-check/",
+    "https://www.diva-portal.org/smash/get/diva2:2112110/FULLTEXT02.pdf",
     "https://newsinitiative.withgoogle.com/resources/trainings/google-fact-check-tools/",
     "https://researchguides.journalism.cuny.edu/factchecking-verification/UGC-verification",
-    "https://www.facebook.com/AncestryUS/posts/whats-your-go-to-first-step-when-verifying-a-new-fact-let-us-know-below-looking-/1545520770939828/",
-    "https://headlines360.news/guides/find-original-source/"
+    "https://www.osint.industries/post/unlocking-the-past-osint-with-the-wayback-machine-and-internet-archive"
    ],
    "engines": [
     "ddgs:bing",
@@ -402,17 +399,17 @@
    "results": [
     "https://note.com/chosakuken/n/nff8cfdca2357",
     "https://help.note.com/hc/ja/articles/4402395202841-iframe-RSS%E3%81%A7-%E8%87%AA%E5%88%86%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%ABnote%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B",
+    "https://note.com/kurusaki/n/n2c52c342700c",
     "https://note.com/intimatemerger/n/n3a013272d443",
     "https://help.note.com/hc/ja/articles/4409701626393",
     "https://note.com/phonet_dx/n/nc493951972bf",
     "https://note.com/marumi_works/n/n3aee2bc0bdd5",
-    "https://note.com/junsakamoto/n/nbd47bce7646d",
-    "https://note.com/itousa/n/n8eeeff755fbc",
     "https://note.com/snake_tone/n/n54c2e886938e",
+    "https://note.com/junsakamoto/n/nbd47bce7646d",
     "https://note.com/notemag/n/nc11279ec6f69"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -423,16 +420,16 @@
     "https://x.com/rumicworld1010",
     "https://about.x.com/ja/who-we-are/brand-toolkit",
     "https://help.x.com/ja/managing-your-account/how-to-download-your-x-archive",
-    "https://help.x.com/ja/managing-your-account/forgotten-or-lost-password-reset",
+    "https://x.com/3_lion",
     "https://x.com/hochi_oskhensei",
     "https://help.x.com/ja/rules-and-policies/personal-information",
-    "https://x.com/3_lion",
+    "https://help.x.com/ja/managing-your-account/forgotten-or-lost-password-reset",
     "https://communitynotes.x.com/guide/ja/contributing/signing-up",
-    "https://x.com/osamu_mukai0207",
-    "https://x.com/ytvnewsten"
+    "https://x.com/ytvnewsten",
+    "https://x.com/super_beaver/status/2115047720025211293?lang=da"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -440,19 +437,19 @@
   {
    "query": "site:linkedin.com ネットの情報の最初の掲載をたどる方法（最も古い掲載・アーカイブ・公開日の確かめ方・コピーサイトの見分け・OSINT・ファクトチェック団体の手順・4-128）",
    "results": [
-    "https://www.linkedin.com/help/linkedin/answer/a521474?lang=ja-JP",
     "https://jp.linkedin.com/pulse/linkedin%E5%85%A5%E9%96%80vol009%E5%88%9D%E6%8A%95%E7%A8%BF%E6%99%82%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88-%E5%B0%86%E4%B9%9F-%E9%95%B7%E5%B6%BA-uzcqc",
+    "https://www.linkedin.com/help/linkedin/answer/a521474?lang=ja-JP",
     "https://www.linkedin.com/help/linkedin/answer/a516932?lang=ja-JP",
     "https://www.linkedin.com/help/linkedin/answer/a410692/-recruiter?lang=ja",
-    "https://www.linkedin.com/help/linkedin/answer/a517940?lang=ja",
-    "https://www.linkedin.com/help/linkedin/answer/a517545?lang=ja",
     "https://www.linkedin.com/help/linkedin/answer/a526001?lang=ja-JP",
     "https://www.linkedin.com/help/linkedin/answer/a521792?lang=ja",
     "https://www.linkedin.com/help/linkedin/answer/a1500118?lang=ja-JP",
-    "https://www.linkedin.com/help/linkedin/answer/a1340105?lang=ja"
+    "https://www.linkedin.com/help/linkedin/answer/a517940?lang=ja",
+    "https://www.linkedin.com/help/linkedin/answer/a517545?lang=ja",
+    "https://www.linkedin.com/help/linkedin/answer/a522130?lang=ja"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -460,19 +457,19 @@
   {
    "query": "site:facebook.com ネットの情報の最初の掲載をたどる方法（最も古い掲載・アーカイブ・公開日の確かめ方・コピーサイトの見分け・OSINT・ファクトチェック団体の手順・4-128）",
    "results": [
-    "https://www.facebook.com/help/424946150928896?locale=ja_JP",
+    "https://www.facebook.com/help/1816199038722943?locale=ja_JP",
     "https://ja-jp.facebook.com/ads/library/",
     "https://www.facebook.com/help/289066827791446?locale=ja_JP",
     "https://www.facebook.com/privacy/policy/?locale=ja_JP",
-    "https://www.facebook.com/help/187741037945488?locale=ja_JP",
+    "https://www.facebook.com/help/236898969688346?locale=ja_JP",
     "https://www.facebook.com/help/124518907626945?locale=ja_JP",
-    "https://www.facebook.com/help/218728138156311/Accede+a+las+publicaciones+m%C3%A1s+recientes+del+feed+de+Facebook?locale=ja_JP",
+    "https://www.facebook.com/help/instagram/2922067214679225?locale=ja_JP",
     "https://www.facebook.com/help/218093321677152?locale=ja_JP",
     "https://ja-jp.facebook.com/business/help/407323696966570",
-    "https://www.facebook.com/help/instagram/494561080557017?locale=ja_JP"
+    "https://www.facebook.com/groups/nyjk2020/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -482,14 +479,14 @@
    "results": [
     "https://www.youtube.com/watch?v=HSJEPiC3Bw4",
     "https://wwstd.jp/media/note-hajimekata/",
-    "https://www.koukoku.jp/service/suketto/marketer/sns/note%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E5%AE%8C%E5%85%A8%E3%82%AC%E3%82%A4%E3%83%89%EF%BD%9C%E5%A7%8B%E3%82%81%E6%96%B9%E3%83%BB%E6%8A%95%E7%A8%BF%E6%96%B9%E6%B3%95%E3%83%BB%E5%8F%8E%E7%9B%8A/",
     "https://note.com/hotaru0821/n/nb99a48410f5a",
     "https://www.help-note.com/hc/ja/articles/360008882914-%E6%96%B0%E8%A6%8F%E8%A8%98%E4%BA%8B%E3%82%92%E6%8A%95%E7%A8%BF%E3%81%8B%E3%82%89%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AE%E6%89%8B%E9%A0%86",
-    "https://note.com/info/n/n409a6ab37519",
     "https://note.com/ciotan/n/nae828a0bfe52",
-    "https://note.com/muuu340/n/nf51a7adbd09d",
+    "https://note.com/harista/n/n1c6c86c65324",
+    "https://note.com/personal_editor/n/n463dd48c96e4",
     "https://marketing-planner.com/media/note-matome",
-    "https://www.comnico.jp/we-love-social/note_matome"
+    "https://www.sales-dx.jp/blog/note-how-to-start",
+    "https://note.com/ak_hikiyose/n/n2702a7a99cc6"
    ],
    "engines": [
     "ddgs:bing",
@@ -500,19 +497,19 @@
   {
    "query": "ネットの情報の最初の掲載をたどる方法（最も古い掲載・アーカイブ・公開日の確かめ方・コピーサイトの見分け・OSINT・ファクトチェック団体の手順・4-128） X 投稿",
    "results": [
-    "https://www.youtube.com/watch?v=aDulwGpRAp8",
     "https://help.x.com/ja/resources/new-user-faq",
+    "https://www.youtube.com/watch?v=aDulwGpRAp8",
     "https://www.xserver.ne.jp/blog/twitter-beginner/",
-    "https://koneta.nifty.com/koneta_detail/1141008024346_1.htm",
     "https://www.koukoku.jp/service/suketto/marketer/sns/%E3%80%902025%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91x%EF%BC%88%E6%97%A7twitter%EF%BC%89%E3%81%A8%E3%81%AF%EF%BC%9F%E5%A7%8B%E3%82%81%E6%96%B9%E3%81%8B%E3%82%89%E6%B4%BB%E7%94%A8%E6%96%B9%E6%B3%95/",
     "https://cacco.co.jp/frauddetection/media/for-consumers/20134/",
-    "https://www.kwm.co.jp/blog/twitter-ads/",
-    "https://www.ajsa.or.jp/kentei/sns/x/x-get-recommended.html",
+    "https://koneta.nifty.com/koneta_detail/1141008024346_1.htm",
     "https://webtan.impress.co.jp/e/2023/02/17/44304",
-    "https://www.careerkoumei.jp/articles/x-kako-toukou-miru-houhou-jibun-kensaku-hizuke"
+    "https://contents.digitallab.jp/twitter-for-beginner.html",
+    "https://www.kwm.co.jp/blog/twitter-ads/",
+    "https://roronto.jp/mkt/x/old-post/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -523,154 +520,23 @@
     "https://ch.linkedin.com/in/bowlerderek",
     "https://www.linkedin.com/top-content/recruitment-hr/reference-checking-techniques/how-to-verify-engineering-information-sources/",
     "https://www.linkedin.com/posts/lauraviji_china-linked-targeting-what-should-activity-7511815374032683008-chjk",
-    "https://et.linkedin.com/in/kirubel-tesfaye-osinter",
     "https://www.linkedin.com/posts/searchbistro_developed-three-new-formats-with-ekaterina-activity-7508812902271713281-Yc4z",
-    "https://www.linkedin.com/in/fred-anklam-ba43476a",
+    "https://et.linkedin.com/in/kirubel-tesfaye-osinter",
     "https://fr.linkedin.com/in/mariannebouchart",
+    "https://www.linkedin.com/in/fred-anklam-ba43476a",
     "https://uk.linkedin.com/in/eleanor-whalley-a1153056",
-    "https://ca.linkedin.com/in/bradleyjane",
-    "https://uk.linkedin.com/in/emily-grace-roe"
+    "https://in.linkedin.com/in/neerav-patel",
+    "https://ca.linkedin.com/in/bradleyjane"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 17
+   "n_hits": 16
   }
  ],
  "missing": {},
- "new_this_run": {
-  "突き合わせ・推定": [
-   {
-    "quote": "Cross-check the clock.",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "to estimate time of day. Weather or traffic archives add further confirmation.",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "By identifying the original post, tracing earliest uploads across platforms, and examining account history. Cross-check visuals with geolocation and external reports.",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "Company registries, court filings, and archived bios",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Public registries, local press, and municipal data can often act as ground truth. Official filings anchor OSINT verification when rumor outweighs fact.",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "(past 24 hours or custom range) exposes reporting gaps and potential bias. Specialized resources like",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The inclusion of mainstream bias; niche regions often go under-reported.",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Chronolocation trumps instinctive plausibility and the confirmation bias.",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "don’t replace human judgment—they sharpen it. The key is workflow: knowing how to verify information quickly without getting lost in tabs, speculation, or repetition.",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": ", showing how analysts verify claims, validate sources, and separate authentic digital evidence from manipulation. It blends newsroom verification discipline with open-source intelligence methods built for scale, speed, and reliability.",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "When new content appears—a viral claim, a leaked document, or a breaking video—the first step is a",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Search is still the fastest orientation method. Running multiple engines with",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Reproducible steps with archived artifacts",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "What are quick digital verification methods for tight deadlines?",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Time-filtered searches, multi-engine image checks, and archive comparisons. These methods provide fast, defensible signals when full investigations aren’t possible.",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "OSINT Frameworks: Linking the Evidence",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "across these six categories cover most real-world cases. Fact-checking doesn’t require hundreds of tools, only a",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Examples of Fact-Checking in Action",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Post-case reviews of what has worked in the past and what hasn’t.",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Select one reliable option per category—search, archive, reverse image, domain lookup, and metadata. Test them against past cases to confirm consistency and speed.",
-    "url": "https://blog.sociallinks.io/the-osint-fact-checking-toolkit/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ]
- },
- "runs": 1,
+ "new_this_run": {},
+ "runs": 2,
  "first_researched_at": "2026-11-09T11:56:41.864256+00:00"
 }

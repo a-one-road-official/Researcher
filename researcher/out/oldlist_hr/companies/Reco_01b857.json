@@ -1,0 +1,2105 @@
+{
+ "name": "Reco",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Cybersecurity｜返信あり",
+ "researched_at": "2026-11-11T09:20:51.666529+00:00",
+ "official_url": "https://www.reco.ai",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "12-Nov-2020 $10M $10M  Completed Stealth",
+    "url": "https://pitchbook.com/profiles/company/493571-71",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "64,259,600 $0.010000  $0.07 $0.07 1x $0.07 14.03%",
+    "url": "https://pitchbook.com/profiles/company/493571-71",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "No procurement, no review, no owner. That’s the reality and traditional AI security tools weren’t built for it.",
+    "url": "https://www.reco.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Secure every prompt, action, and event in real time, not after the fact.",
+    "url": "https://www.reco.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reco saved us months of work we would’ve spent building threat detections. Instead of building them manually, Reco comes out-the-box with hundreds of pre-built threat detections. It’s been an enabler for us to expand our threat detection capabilities so we can spend more time responding to threats and less time trying to identify them.",
+    "url": "https://www.reco.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Before we got Reco we didn't know how bad the problem was. And now with Reco, I see how bad the problem is, and how we have to stem the tide. Because every day I am literally having to figure out if I'm sanctioning this project, this application or not sanctioning it. And I'm doing probably 15-20 a day.",
+    "url": "https://www.reco.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Now that we use Reco we’ve reduced our attack surface area and we have the tools we need to deprovision SaaS and also change passwords for users who share their corporate credentials in SaaS applications. We have reduced both the stress and the risk that comes with our business growth because we have a handle on what’s happening across our SaaS deployments and our technology users.",
+    "url": "https://www.reco.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reco Partner Program: Grow Your Security Business",
+    "url": "https://www.reco.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Security to enterprise customers around the world.",
+    "url": "https://www.reco.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Co-sell and co-delivery programs for partners.",
+    "url": "https://www.reco.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "April 15, 2026",
+    "url": "https://www.reco.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Stay ahead of agent sprawl",
+    "url": "https://www.reco.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The average enterprise uses +500 SaaS applications, with 90% remaining unmanaged.",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Manual security operations hit a wall at enterprise scale. Reco Agents operate 24/7, processing thousands of threats while your team sleeps.",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Security teams process 11,000+ daily alerts manually, leading to slow response times and missed threats.",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Security teams lack business context for identity risks, making it impossible to prioritize effectively.",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Agents provide business context for every security decision automatically.",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited ecosystem protection",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Building efficient ecosystem security at unprecedented speed.",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Reco Agents transform manual security operations into autonomous protection.",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Keep a live, trusted record of your SaaS footprint.",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Seamlessly integrate with your entire tech stack for comprehensive agent coverage.",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Protect files and prevent data leaks while keeping your team connected.",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Keep employee information private and compliant with confidence.",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Protect sensitive business and life sciences data with precision.",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Powered Protection",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "You can't secure what manual processes can't handle. Reco Agents work autonomously to detect, analyze, and respond to every threat in your SaaS ecosystem.",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Reco turns threat detection into immediate action. Create prioritized response strategies and trigger automated remediation workflows instantly.",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Investigate threats and provide complete incident narratives",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "These agents operate 24/7, process thousands of alerts in minutes, and provide the business context needed for intelligent security decisions.",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Reco's three specialized AI Agents work together to provide comprehensive risk detection:",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "• Provides business context for every risk assessment",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "• Creates prioritized response plans with specific steps",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "• 70% faster incident response through automated planning with proactive remediation strategies",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "• Alert Story Agent processes thousands of alerts in minutes",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "• Identity Context Agent provides real-time behavioral analysis",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "• Real-time behavioral analysis and automated detection of compromised accounts",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Stories: How Enterprises Secure AI with Reco",
+    "url": "https://www.reco.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "From complex hospital networks to global banks and telecom leaders, organizations use Reco to discover every agent, prioritize risks, and protect their ecosystems.",
+    "url": "https://www.reco.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Inside AT&T's Approach to Securing the Agentic Enterprise",
+    "url": "https://www.reco.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Inside AT&T's Approach to Securing the Agentic Enterprise James Phillips, AT&T's VP of Cyber Risk, and Reco CEO Ofer Klein on the day tools turned on and agent sprawl showed up. Watch now",
+    "url": "https://www.reco.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Inside Tampa General Hospital's Approach to Governing Agent Adoption",
+    "url": "https://www.reco.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Leadership believed \"we don't have SaaS applications\" and that AI was blocked. Reco found active, unapproved AI within days.",
+    "url": "https://www.reco.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Provides MDR services to clients on top of Reco's threat detection.",
+    "url": "https://www.reco.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Ensures data privacy and reduces gen AI security risk for client data.",
+    "url": "https://www.reco.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Protects proprietary IP and patents across a global SaaS footprint.",
+    "url": "https://www.reco.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Prevents data exposure with context-rich, metadata-driven alerts.",
+    "url": "https://www.reco.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Seismic secures its growing Claude and agent footprint with Reco",
+    "url": "https://www.reco.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "I suggest checking Reco out. You will be surprised how much SaaS your company uses, hidden and non-hidden.\" A year of hands-on Reco use, 52+ reactions on LinkedIn.",
+    "url": "https://www.reco.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The most impactful thing was being able to show that dashboard and say: here's the sprawl this has created. Every time this happens, it makes the job harder.",
+    "url": "https://www.reco.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "What surprised me the most was how painless it was: a solution able to come in and give us, almost instantly, a true understanding of our footprint and environment.",
+    "url": "https://www.reco.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "What I like about Reco is not so much their specific capabilities, but rather their approach to solving the problem. Their core value is flexibility.",
+    "url": "https://www.reco.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "About Reco: Securing the Enterprise AI Ecosystem",
+    "url": "https://www.reco.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Reco secures agent sprawl, built for the way enterprises actually run AI today. With app integrations, 1,000+ detection controls, and deployment in 24 hours, we go fast so security leaders don't have to slow down.",
+    "url": "https://www.reco.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Ofer Klein is the Cofounder & CEO of Reco. Ofer is a former Israeli pilot, and a serial entrepreneur with a vast experience in building and growing GTM teams with SaaS companies in the US. He is passionate about leading solutions for the distributed workforce.",
+    "url": "https://www.reco.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Gal is the Cofounder & CPO of Reco. Gal is a former Lieutenant Colonel in the Israeli Prime Minister's Office. He is a tech enthusiast, with a background as a Security Research and Hacker. Gal has led teams in multiple cybersecurity areas with an expertise in the human element.",
+    "url": "https://www.reco.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Tal is the Cofounder & CTO of Reco. Tal has a Ph.D. from Tel Aviv University, and is a former head of a cybersecurity R&D group within the Israeli Prime Minister's Office. In addition to serving as the CTO, Tal is a member of the AI Controls Security Working Group with the Cloud Security Alliance.",
+    "url": "https://www.reco.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Bob Horn is a proven sales leader with over 20 years of experience building and scaling go-to-market teams across startups and global enterprises, including Valence, Illusive, Salesforce, Telogis, and CognitiveScale. He brings deep expertise in SaaS, AI, and security, and is the author of 6 Pillars for Revenue Growth, a framework guiding high-performance revenue organizations.",
+    "url": "https://www.reco.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Reco is the leader in Agentic Ecosystem Security, securing everything around the agent, not just the prompt.",
+    "url": "https://www.reco.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Altamonte Springs, FL 32714",
+    "url": "https://www.reco.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "attack of the AI SPRAWL",
+    "url": "https://www.reco.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Join the Heroes, Defend the Enterprise, Answer the Call",
+    "url": "https://www.reco.ai/careers",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Agents don’t always come in through the front door. They arrive switched on inside the apps",
+    "url": "https://www.reco.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading organizations, including Fortune 500 companies.",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Investigate threats and provide complete incident narratives",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "• Complete attack narratives that map identity compromises to potential data exposure",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Banco BS2 Uses Reco to Gain Visibility into SaaS Security During Mergers & Acquisitions",
+    "url": "https://www.reco.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Bob Horn is a proven sales leader with over 20 years of experience building and scaling go-to-market teams across startups and global enterprises, including Valence, Illusive, Salesforce, Telogis, and CognitiveScale. He brings deep expertise in SaaS, AI, and security, and is the author of 6 Pillars for Revenue Growth, a framework guiding high-performance revenue organizations.",
+    "url": "https://www.reco.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "\"Agents are going to be part of our SaaS applications and part of the business functions that we use, whether or not we approve it. It's certainly something we need to get our arms around quickly, because we don't want to be surprised by it.\"",
+    "url": "https://www.reco.ai/customer-stories/exela-pharma-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "Banco BS2 Uses Reco to Gain Visibility into SaaS Security During Mergers & Acquisitions",
+    "url": "https://www.reco.ai/customer-stories/exela-pharma-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "Banco BS2 is a Brazilian digital bank that's often involved with mergers and acquisitions of other financial institutions. Banco BS2 uses Reco to gain visibility into the security posture of the company they are merging with or acquiring. Douglas Ferreira, Chief Information Security Officer at Banco BS2, shares why he chose Reco for SaaS Security and the benefits for his organization.",
+    "url": "https://www.reco.ai/customer-stories/exela-pharma-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "Reco enabled the team to take a different approach: catalog every application and agent in use, determine which to approve, and redirect employees toward vetted alternatives when they reached for something unsanctioned. Instead of a flat denial, the security team could point users to an approved, secured option that met the same need.",
+    "url": "https://www.reco.ai/customer-stories/tampa-general-hospital",
+    "pass": 1
+   },
+   {
+    "quote": "Banco BS2 Uses Reco to Gain Visibility into SaaS Security During Mergers & Acquisitions",
+    "url": "https://www.reco.ai/customer-stories/tampa-general-hospital",
+    "pass": 1
+   },
+   {
+    "quote": "Banco BS2 is a Brazilian digital bank that's often involved with mergers and acquisitions of other financial institutions. Banco BS2 uses Reco to gain visibility into the security posture of the company they are merging with or acquiring. Douglas Ferreira, Chief Information Security Officer at Banco BS2, shares why he chose Reco for SaaS Security and the benefits for his organization.",
+    "url": "https://www.reco.ai/customer-stories/tampa-general-hospital",
+    "pass": 1
+   },
+   {
+    "quote": "\"The agent by itself is not the target,\" Klein said. Looking at Fortune 500 companies, \"we found, and this is Fortune 500 companies, 40% of your agents have toxic combination.\"",
+    "url": "https://www.reco.ai/customer-stories/att",
+    "pass": 1
+   },
+   {
+    "quote": "Banco BS2 Uses Reco to Gain Visibility into SaaS Security During Mergers & Acquisitions",
+    "url": "https://www.reco.ai/customer-stories/att",
+    "pass": 1
+   },
+   {
+    "quote": "Banco BS2 is a Brazilian digital bank that's often involved with mergers and acquisitions of other financial institutions. Banco BS2 uses Reco to gain visibility into the security posture of the company they are merging with or acquiring. Douglas Ferreira, Chief Information Security Officer at Banco BS2, shares why he chose Reco for SaaS Security and the benefits for his organization.",
+    "url": "https://www.reco.ai/customer-stories/att",
+    "pass": 1
+   },
+   {
+    "quote": "Banco BS2 Uses Reco to Gain Visibility into SaaS Security During Mergers & Acquisitions",
+    "url": "https://www.reco.ai/customer-stories/seismic",
+    "pass": 1
+   },
+   {
+    "quote": "Banco BS2 is a Brazilian digital bank that's often involved with mergers and acquisitions of other financial institutions. Banco BS2 uses Reco to gain visibility into the security posture of the company they are merging with or acquiring. Douglas Ferreira, Chief Information Security Officer at Banco BS2, shares why he chose Reco for SaaS Security and the benefits for his organization.",
+    "url": "https://www.reco.ai/customer-stories/seismic",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading organizations, including Fortune 500 companies.",
+    "url": "https://www.reco.ai/platform/saas-app-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional tools support 20-30 apps and few — if any — agents, leaving a large part of your third-party ecosystem exposed to misconfigurations, data breaches, and insider threats.",
+    "url": "https://www.reco.ai/platform/saas-app-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "By sending us Submissions through any part of the Services you:",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "warrant that any such Submission are original to you or that you have the necessary rights and licenses to submit such Submissions and that you have full authority to grant us the above-mentioned rights in relation to your Submissions; and",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "warrant and represent that your Submissions do not constitute confidential information.",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "By using the Services, you represent and warrant that:",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "Harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Services to you.",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "Except as permitted by applicable law, decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Services.",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "Use the Services as part of any effort to compete with us or otherwise use the Services and/or the Content for any revenue-generating endeavor or commercial enterprise.",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SERVICES, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys’ fees and expenses, made by any third party due to or arising out of: (",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": ") any breach of your representations and warranties set forth in these Legal Terms; (",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "“Third purchase with RECO and every time has been seamless. Good communication, honest condition reports, and the car arr...”",
+    "url": "https://www.reco-export.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“Found the car I wanted, sent an inquiry, and RECO handled everything from there. No stress, no surprises. Car arrived in...”",
+    "url": "https://www.reco-export.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“Have bought over 60 vehicles through RECO and every single one arrived well. I highly recommend RECO.”",
+    "url": "https://www.reco-export.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Can I request a specific make or model not currently listed?",
+    "url": "https://www.reco-export.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes — we carry new parts. Check the Auto Parts section on our homepage for current availability. Stock varies, so if you are looking for something specific, send us an inquiry and we will check what we have.",
+    "url": "https://www.reco-export.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Harrisburg, PA 17109-3917",
+    "url": "https://reco-cs.com/our-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Starr and Company Inc.",
+    "url": "https://reco-cs.com/our-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "We turn waste materials into durable rooftop tiles, flooring, wallpapers and much more, REco listed under startup india's \"Green Technology and waste management\" scheme in year 2023. a Private LTD company.",
+    "url": "https://recomanufacture.com/",
+    "pass": 3
+   },
+   {
+    "quote": "- All U.S. Full-time, direct employees and retirees of eligible VW Partner Program organizations. Your household members are also eligible! Search ‘Our Partners’ to find out if your organization is part of the VW Partner Program.*",
+    "url": "https://partner.vw.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "All U.S. Full-time, direct employees and retirees of eligible VW Partner Program organizations can apply for a certificate under our partner program. Your household members are also eligible!",
+    "url": "https://partner.vw.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "Enjoy full access to our latest web application scanning offering designed for modern applications as part of the Tenable One Exposure Management platform. Safely scan your entire online portfolio for vulnerabilities with a high degree of accuracy without heavy manual effort or disruption to critical web applications.",
+    "url": "https://www.tenable.com/partners/channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Our link acquisition team leverages our relationships with publishers to earn high DR backlinks while creating content customers love.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "How we grew a partner agency with $1.2M/yr worth of New Recurring SEO Revenue",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "With the right business model and our experts working as their backend support, the agency was able to transition from being a business consultancy to a full-service digital provider, achieving record-breaking revenue and profitability. Find out how we provided them with the arsenal to grow their business.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The perks of hiring a professional SEO firm are abundant. One, it’ll help you reach a wider audience via numerous SEO marketing strategies. Two, you’ll be able to establish and retain a long-term relationship with your customers for higher revenue. Three, the optimization is trackable, meaning the firm will make changes in response to major search engine updates.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/493571-71",
+    "pass": 3
+   },
+   {
+    "quote": "Reco has 140 total employees.",
+    "url": "https://pitchbook.com/profiles/company/493571-71",
+    "pass": 3
+   },
+   {
+    "quote": "What is Reco’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/493571-71",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Reco is",
+    "url": "https://pitchbook.com/profiles/company/493571-71",
+    "pass": 3
+   },
+   {
+    "quote": "They are listed in the order I wrote them, sorry if it's hard to read.",
+    "url": "https://note.com/tezzerecco/n/ncfae8bd235fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You will lose the projectile rotation battle, so refrain from spamming arrows.",
+    "url": "https://note.com/tezzerecco/n/ncfae8bd235fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When I have center stage and the opponent can't approach, or when they have their back to the ledge, it might be okay to focus on shooting arrows.",
+    "url": "https://note.com/tezzerecco/n/ncfae8bd235fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Harass the bomb with arrows and punish them even when they are small.",
+    "url": "https://note.com/tezzerecco/n/ncfae8bd235fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Basically, focus on whiff punishing. I want to avoid committing to an approach as much as possible. Arrows are easy to land, so use them for active harassment. Stick to ground combat.",
+    "url": "https://note.com/tezzerecco/n/ncfae8bd235fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Don't force kills; focus on down air and back air to secure the stock or carry him to high percentages",
+    "url": "https://note.com/tezzerecco/n/ncfae8bd235fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "⇨ Carry him to the ledge and be aggressive with edgeguarding, like using forward air",
+    "url": "https://note.com/tezzerecco/n/ncfae8bd235fc?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Reco Partner Program: Grow Your Security Business",
+    "url": "https://www.reco.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "RECO COMPANY LIMITED (formerly Reco Export Agencies) is a 50+ year-old Japanese company that is the leader in sales and exports of Japanese and Foreign Used vehicles, Used Parts, New Parts, and other items. We have been exporting Automobile Spare Parts, Metals, Used Cars, Engines, and other items from Japan since 1956.",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "We are RECO COMPANY LIMITED (formerly Reco Export Agencies) (\"",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "\"), and RECO COMPANY LIMITED (formerly Reco Export Agencies), concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "These Legal Terms shall be governed by and defined following the laws of Japan. RECO COMPANY LIMITED (formerly Reco Export Agencies) and yourself irrevocably consent that the courts of",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "RECO COMPANY LIMITED (formerly Reco Export Agencies)",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "OEMs who use our equipment in their systems…",
+    "url": "https://reco-cs.com/our-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "489 Shoemaker Road",
+    "url": "https://reco-cs.com/our-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "- All U.S. Full-time, direct employees and retirees of eligible VW Partner Program organizations. Your household members are also eligible! Search ‘Our Partners’ to find out if your organization is part of the VW Partner Program.*",
+    "url": "https://partner.vw.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "- You get $500 off the Dealer Invoice Price on a new VW, which is then combinable with all current available retail offers and incentives. The VW Partner Program is designed to give you the best deal on the purchase or lease of a new VW model – the hardest part should be picking the color! †",
+    "url": "https://partner.vw.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "- Once you’ve printed your Partner Program Certificate, you have (30) days to redeem your Certificate.",
+    "url": "https://partner.vw.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "- The VW Partner Program was created to show our appreciation of your support and continued contribution to our success.",
+    "url": "https://partner.vw.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "Want to become a partner?",
+    "url": "https://partner.vw.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "VW Partner Program Certificate",
+    "url": "https://partner.vw.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "All U.S. Full-time, direct employees and retirees of eligible VW Partner Program organizations can apply for a certificate under our partner program. Your household members are also eligible!",
+    "url": "https://partner.vw.com/partner",
+    "pass": 3
+   },
+   {
+    "quote": "Channel Partner / Reseller Program | Tenable®",
+    "url": "https://www.tenable.com/partners/channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partner program",
+    "url": "https://www.tenable.com/partners/channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "The Tenable Assure™ Partner Program offers multiple ways to build your profitability. Partners can build a Tenable practice, cross-sell Tenable integrations with other security vendors, upsell to our 1.6M+ users, and leverage Tenable to build your service business.",
+    "url": "https://www.tenable.com/partners/channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "The Partner Program rewards the investments our valued reseller and distributor partners make in Tenable, while helping our partners build a predictable annuity stream of renewals.",
+    "url": "https://www.tenable.com/partners/channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Our multi-tiered partner program is designed to remain flexible to support your business model and needs today – and tomorrow. Each partnership level offers rewards and incentives based on meeting certain criteria. And as you grow, we’ll grow with you!",
+    "url": "https://www.tenable.com/partners/channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "White Label SEO Agency for Resellers and Agencies | SEOReseller",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Facebook Ads",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Link Building",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SEO & PPC Reseller Program",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We staked our results in the SEO industry with unparalleled campaigns for our agency and reseller partners and now also offer PPC and Paid Social options so that we can continue generating amazing results for all of our campaigns.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our white label SEO packages are designed from the ground up to generate results for all of your client campaigns. We’re ready to help your clients!",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our white label PPC reseller services will help your clients achieve positive ROI by leveraging our weekly optimizations and industry expertise.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Facebook ads",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Facebook Ads and Instagram Ads have risen in popularity and as a result we built a custom program for our resellers that will get results.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White label Tiktok ads",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Do you have clients asking you to run TikTok Ad campaigns? We have you covered with our white label TikTok Ads services that gets results!",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Content is king in this modern age of SEO and our white label content creation services will make sure your clients have the edge in the market.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White label link building",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Looking to learn more about our white label services that can help your agency grow and scale faster? Just click below to view our pricing and packages and get in touch with us to start handling your fulfillment to free you up!",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Solutions",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "for Agencies & Freelances",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Local SEO",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SEOReseller’s white label SEO programs and offerings are designed for optimal results for your clients. Our extensive years of experience in SEO and specifically white label will be sure to elevate the client results you see in your agency so you can be free to focus on growing and scaling.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label TikTok Ads",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Clients asking for white label TikTok Ads campaigns but unsure what to do next? Our experienced team has a lot of experience and expertise with TikTok Ads and can help get your campaigns better results on one of the fastest growing social platforms.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our white label Facebook Ads services are second to none in the industry. Our team of white label Facebook Ads experts will make sure your client campaigns are being optimized weekly and within the industry best practices.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our white label PPC services offer some of the highest quality leads you can get in the paid ads spectrum. Because Google Ads is keyword based our team of experts can help craft the best strategy to achieve a positive ROI for your clients using paid search on Google.",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“We are so impressed with SEOReseller! Your team really captured the essence of our company and what we do best! The way you executed our campaign exceeded all expectations, especially for an SEO agency – thank goodness there’s finally some good ones out there :)”",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“With the help of SEOReseller, our team is able to provide better service and higher quality products for clients. They have allowed us to grow our business as it takes care of all aspects of SEO services!”",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“I hope this email finds its way into your inbox because I wanted to personally thank each member who has helped with our SEO! We’re seeing the results since SEOReseller has been involved and we’re finally making some great progress with our online presence! Thanks to everyone who’s helped us get this way!”",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading organizations, including Fortune 500 companies.",
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Pharmaceutical Manufacturing",
+    "url": "https://www.reco.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by security teams",
+    "url": "https://www.reco.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Reco customers include",
+    "url": "https://www.reco.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Your third-party ecosystem won’t wait for your security team to catch up. Reco Factory closes the gap. When a new SaaS app or agent enters your environment, Reco can build a deep, production-ready integration in hours — with unmatched coverage, speed, and depth.",
+    "url": "https://www.reco.ai/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Factory closes the gap as your stack evolves, not months later.",
+    "url": "https://www.reco.ai/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about Reco Factory",
+    "url": "https://www.reco.ai/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Exela Pharma Sciences Case Study | Reco",
+    "url": "https://www.reco.ai/customer-stories/exela-pharma-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "Pharmaceutical Manufacturing",
+    "url": "https://www.reco.ai/customer-stories/exela-pharma-sciences",
+    "pass": 1
+   },
+   {
+    "quote": "Tampa General Hospital Case Study | Reco",
+    "url": "https://www.reco.ai/customer-stories/tampa-general-hospital",
+    "pass": 1
+   },
+   {
+    "quote": "One specific integration Tampa General needed did not yet exist in the platform. Rather than placing the request on a roadmap for a future release, Reco delivered it within two days via Reco Factory, before the contract was finalized. Deployment itself was completed in a matter of minutes.",
+    "url": "https://www.reco.ai/customer-stories/tampa-general-hospital",
+    "pass": 1
+   },
+   {
+    "quote": "Seismic Case Study | Reco",
+    "url": "https://www.reco.ai/customer-stories/seismic",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS App Factory™: Secure AI Agents & SaaS Apps",
+    "url": "https://www.reco.ai/platform/saas-app-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading organizations, including Fortune 500 companies.",
+    "url": "https://www.reco.ai/platform/saas-app-factory",
+    "pass": 1
+   },
+   {
+    "quote": "What You Get with Reco Factory",
+    "url": "https://www.reco.ai/platform/saas-app-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Their factory model of getting connectivity to other core applications is phenomenal.",
+    "url": "https://www.reco.ai/platform/saas-app-factory",
+    "pass": 1
+   },
+   {
+    "quote": "What is Reco Factory?",
+    "url": "https://www.reco.ai/platform/saas-app-factory",
+    "pass": 1
+   },
+   {
+    "quote": "The SaaS App Factory™ is the automated process of rapidly integrating new SaaS applications into your security platform.",
+    "url": "https://www.reco.ai/platform/saas-app-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Reco uses SaaS App Factory™ and the Knowledge Graph to normalize controls, detect violations, and trigger AI-driven remediation",
+    "url": "https://www.reco.ai/platform/saas-app-factory",
+    "pass": 1
+   },
+   {
+    "quote": "How does Reco Factory simplify third-party AI risk management?",
+    "url": "https://www.reco.ai/platform/saas-app-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Can Reco Factory work with my existing apps and agents?",
+    "url": "https://www.reco.ai/platform/saas-app-factory",
+    "pass": 1
+   },
+   {
+    "quote": "What are the scalability capabilities of Reco Factory for enterprise environments?",
+    "url": "https://www.reco.ai/platform/saas-app-factory",
+    "pass": 1
+   },
+   {
+    "quote": "Organizations using SaaS App Factory™ achieve 85% faster integration cycles and 10x improved security coverage.",
+    "url": "https://www.reco.ai/platform/saas-app-factory",
+    "pass": 1
+   },
+   {
+    "quote": "RECO's reprocessing equipment and maintenance technology are supporting the safe and stable operation of the Rokkasho Reprocessing Plant of Japan Nuclear Fuel Limited, which is the mainstay for Japan's nuclear fuel cycle.",
+    "url": "https://www.reco-ltd.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Spare Parts",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "C Group Case Study: RECO – RECO - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/c-group/case-study/reco-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "RECO - Customer Case Study",
+    "url": "https://www.casestudies.com/company/c-group/case-study/reco-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how RECO used C Group",
+    "url": "https://www.casestudies.com/company/c-group/case-study/reco-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/c-group/case-study/reco-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/c-group/case-study/reco-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "RECO Commercial Systems - Commerical & Industrial Customers",
+    "url": "https://reco-cs.com/our-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial end users of our equipment…",
+    "url": "https://reco-cs.com/our-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTACT FACTORY – RECO COMMERCIAL SYSTEMS",
+    "url": "https://reco-cs.com/our-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "6923 Industrial Ave",
+    "url": "https://reco-cs.com/our-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "6923 Industrial Ave.",
+    "url": "https://reco-cs.com/our-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Factory – RECO Commercial Systems",
+    "url": "https://reco-cs.com/our-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "9783 Green Park Industrial Drive",
+    "url": "https://reco-cs.com/our-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Reco Manufacturing: Sustainable Recycling Solutions | Reco Manufacturing",
+    "url": "https://recomanufacture.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About RECO Manufacturing",
+    "url": "https://recomanufacture.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Flooring manufacturing from waste material.",
+    "url": "https://recomanufacture.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Take a Look Into our factory",
+    "url": "https://recomanufacture.com/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "我が国の原子燃料サイクルを担う日本原燃株式会社殿 六ヶ所再処理工場の安全・安定操業を、RECOの再処理プロセス機器と保修技術が支えてまいります",
+    "url": "https://www.reco-ltd.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "RECO's reprocessing equipment and maintenance technology are supporting the safe and stable operation of the Rokkasho Reprocessing Plant of Japan Nuclear Fuel Limited, which is the mainstay for Japan's nuclear fuel cycle.",
+    "url": "https://www.reco-ltd.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "StepAIが「Reco」を作った理由：AI音声プラットフォームで日本のコールセンターを変える｜StepAI",
+    "url": "https://www.stepai.co.jp/blog/stepai%E3%81%8Creco%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E7%90%86%E7%94%B1-ai%E9%9F%B3%E5%A3%B0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "StepAIが「Reco」を作った理由：AI音声プラットフォームで日本のコールセンターを変える",
+    "url": "https://www.stepai.co.jp/blog/stepai%E3%81%8Creco%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E7%90%86%E7%94%B1-ai%E9%9F%B3%E5%A3%B0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "StepAI創業者が語るReco開発秘話：なぜノーコードAI音声プラットフォームで日本のコールセンター変革に挑むのか",
+    "url": "https://www.stepai.co.jp/blog/stepai%E3%81%8Creco%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E7%90%86%E7%94%B1-ai%E9%9F%B3%E5%A3%B0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月の創業から1年弱で、なぜStepAIは日本のコールセンター業界に革命を起こしつつあるのか",
+    "url": "https://www.stepai.co.jp/blog/stepai%E3%81%8Creco%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E7%90%86%E7%94%B1-ai%E9%9F%B3%E5%A3%B0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "CEO小澤えがおが語るReco誕生の背景には、日本特有の電話業務の課題と、これまでのソリューションでは解決できなかった「現実的な導入障壁」への深い洞察がありました",
+    "url": "https://www.stepai.co.jp/blog/stepai%E3%81%8Creco%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E7%90%86%E7%94%B1-ai%E9%9F%B3%E5%A3%B0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "AI音声技術の可能性を信じながらも、実際の企業現場では「エンジニアが必要」「カスタマイズが困難」「日本語対応が不十分」といった理由で導入が進まない現実",
+    "url": "https://www.stepai.co.jp/blog/stepai%E3%81%8Creco%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E7%90%86%E7%94%B1-ai%E9%9F%B3%E5%A3%B0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、StepAI創業の原点から、なぜ今「電話AIの民主化」が必要なのか、そして日本市場でRecoが目指す未来について詳しく解説します",
+    "url": "https://www.stepai.co.jp/blog/stepai%E3%81%8Creco%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E7%90%86%E7%94%B1-ai%E9%9F%B3%E5%A3%B0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "日本のコールセンターが直面する3つの構造的課題",
+    "url": "https://www.stepai.co.jp/blog/stepai%E3%81%8Creco%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E7%90%86%E7%94%B1-ai%E9%9F%B3%E5%A3%B0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "StepAI創業の背景には、日本のコールセンター業界が長年抱える構造的な問題があります",
+    "url": "https://www.stepai.co.jp/blog/stepai%E3%81%8Creco%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E7%90%86%E7%94%B1-ai%E9%9F%B3%E5%A3%B0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "「Vapiのような海外プラットフォームは確かに優秀ですが、日本の中小企業のコールセンター管理者がAPIを理解してカスタマイズするのは現実的ではありません",
+    "url": "https://www.stepai.co.jp/blog/stepai%E3%81%8Creco%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E7%90%86%E7%94%B1-ai%E9%9F%B3%E5%A3%B0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場への深い理解：言語・文化・商習慣の壁",
+    "url": "https://www.stepai.co.jp/blog/stepai%E3%81%8Creco%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E7%90%86%E7%94%B1-ai%E9%9F%B3%E5%A3%B0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "AI受電とは？電話自動応答の完全ガイド — IVRを超えるAI電話対応でも詳しく解説していますが、日本語の音声AI処理には独特の技術的課題があります",
+    "url": "https://www.stepai.co.jp/blog/stepai%E3%81%8Creco%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E7%90%86%E7%94%B1-ai%E9%9F%B3%E5%A3%B0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "海外製品では見落とされがちな日本企業特有の導入プロセスにも対応しています",
+    "url": "https://www.stepai.co.jp/blog/stepai%E3%81%8Creco%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E7%90%86%E7%94%B1-ai%E9%9F%B3%E5%A3%B0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "IDC Japan「音声AI市場予測レポート」（2025年）によると、日本のボイスボット市場は2029年まで**年平均成長率38%**で拡大予想です",
+    "url": "https://www.stepai.co.jp/blog/stepai%E3%81%8Creco%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E7%90%86%E7%94%B1-ai%E9%9F%B3%E5%A3%B0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "日本のコールセンター業界への impact：データで見る変革",
+    "url": "https://www.stepai.co.jp/blog/stepai%E3%81%8Creco%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E7%90%86%E7%94%B1-ai%E9%9F%B3%E5%A3%B0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "99%以上の日本語認識精度達成",
+    "url": "https://www.stepai.co.jp/blog/stepai%E3%81%8Creco%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E7%90%86%E7%94%B1-ai%E9%9F%B3%E5%A3%B0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B",
+    "pass": 3
+   },
+   {
+    "quote": "「AI音声エージェントの導入は難しそう」「どのくらいの期間と工数が必要なのか」——多くの日本企業がAI音声エージェントに興味を持ちながらも、導入プロセスへの不安を抱えています",
+    "url": "https://www.stepai.co.jp/blog/reco%E5%B0%8E%E5%85%A5%E3%82%AC%E3%82%A4%E3%83%89-%E5%A5%91%E7%B4%84%E3%81%8B%E3%82%89%E5%88%9D%E5%9B%9Eai%E9%9F%B3%E5%A3%B0%E5%AF%BE%E5%BF%9C%E3%81%BE%E3%81%A730%E6%97%A5%E9%96%93%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97%E5%8F%97%E9%9B%BB%E3%83%BB%E6%9E%B6%E9%9B%BB",
+    "pass": 3
+   },
+   {
+    "quote": "StepAI（東京都港区、小澤えがお代表取締役）は、音声AIプラットフォーム『Reco』を活用し、企業の電話業務をBPOとして提供するサービスを開始した",
+    "url": "https://callcenter-japan.com/article/8668/1/",
+    "pass": 3
+   },
+   {
+    "quote": "さて、このたび株式会社ＲＥＣＯジャパンは、本社事務所を移転し、令和３年８月１日より本社を下記住所へ移転する運びとなりましたのでお知らせ申し上げます",
+    "url": "https://www.recojapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "�@＠recojapan.comを受信出来る設定を行ってください",
+    "url": "https://www.recojapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "詳しくはhttps://www.recojapan.com/law.html",
+    "url": "https://www.recojapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Exporter of Japanese Automobile Spare Parts | Japanese Used Car Exporter, Buses, Trucks, Vehicles, Construction Machine, Used Engines, and Steel from Japan | RECO COMPANY LIMITED",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "RECO COMPANY LIMITED (formerly Reco Export Agencies) is a 50+ year-old Japanese company that is the leader in sales and exports of Japanese and Foreign Used vehicles, Used Parts, New Parts, and other items. We have been exporting Automobile Spare Parts, Metals, Used Cars, Engines, and other items from Japan since 1956.",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "Located in the middle of Osaka, Japan we have been promoting high-quality Japanese products to worldwide markets and are leaders in the industry today. We have an extensive and diverse customer base built over the past 50+ years in North America, Central America, South America, the Middle East, South East Asia, South America, Africa, and Oceania.",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "Honmachi 1-5-6, Chuo-ku, Osaka, Japan 541-0053",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "We are proud members of all leading auctions and tender auctions in Japan",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "The Indian Chamber of Commerce in Japan",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "The Osaka Chamber of Commerce Japan",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Auto Appraisal Institute",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "Itachibori Branch, Osaka, Japan. Branch Code: 123",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "at Honmachi 1-5-6, Chuo-ku, Osaka, Japan 541-0053",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "You can contact us by phone at +81-6-6260-5541, email at sales@reco-export.com, or by mail to Honmachi 1-5-6, Chuo-ku, Osaka, Japan 541-0053.",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "These Legal Terms shall be governed by and defined following the laws of Japan. RECO COMPANY LIMITED (formerly Reco Export Agencies) and yourself irrevocably consent that the courts of",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "Exporter of Japanese Automobile Spare Parts | Japanese Used Car Exporter, Buses, Trucks, Vehicles, Construction Machine, Used Engines, and Steel from Japan | RECO COMPANY LIMITED",
+    "url": "https://www.reco-export.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Absolutely! If you are looking for something specific — a particular model, year range, grade, or color — tell us and we will source it from the Japan auction or dealers on your behalf.",
+    "url": "https://www.reco-export.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【日本史】バテレン追放令（1587）",
+    "url": "https://note.com/sz2020",
+    "pass": 3
+   },
+   {
+    "quote": "日本史、世界史",
+    "url": "https://note.com/sz2020",
+    "pass": 3
+   },
+   {
+    "quote": "日本の神社、日本の仏閣、キリスト教（ユダヤ教）関連、民間信仰など",
+    "url": "https://note.com/sz2020",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "再処理機器株式会社 RECO — RECO's reprocessing equipment and maintenance technology are supporting the safe and stable operation of the Rokkasho Reprocessing Plant of Japan Nuclear Fuel Limited, which is the mainstay for Japan's nuclear fuel cycle.",
+    "url": "https://www.reco-ltd.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "StepAIが「Reco」を作った理由：AI音声プラットフォームで日本のコー... — この課題を解決するために生まれたのが、ノーコードAI音声プラットフォーム「Reco（レコ）」です。 今回は、StepAI創業の原点から、なぜ今「電話AIの民主化」が必要なのか、そして日本市場でRecoが目指す未来について詳しく解説します。",
+    "url": "https://www.stepai.co.jp/blog/stepaiがrecoを作った理由-ai音声プラットフォームで日本のコールセンターを変える",
+    "pass": 3
+   },
+   {
+    "quote": "Reco導入ガイド：契約から初回AI音声対応まで30日間ロードマップ（受... — しかし、ノーコードプラットフォームであるRecoなら、従来のAI音声システムとは大きく異なり、わずか30日間で本格運用を開始できます。 開発者不要で、業務担当者が直接設定・運用可能な設計により、導入コストを83%削減し、迅速な立ち上げを実現します。",
+    "url": "https://www.stepai.co.jp/blog/reco導入ガイド-契約から初回ai音声対応まで30日間ロードマップ受電・架電",
+    "pass": 3
+   },
+   {
+    "quote": "コールセンタージャパン・ドットコム | StepAI、音声AI電話「Reco」活... — Feb 12, 2026 · 導入は商談・要件確認の後、台本や分岐設計などの運用設計を行い、最短2日で稼働開始が可能という。 なお、同社はサービス拡大に向け、実証実験や販売連携などを含む協業パートナーの募集も進めている。",
+    "url": "https://callcenter-japan.com/article/8668/1/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 ｜ 再処理機器株式会社 RECO — 当社は、原子燃料サイクル分野で世界トップ企業である Oranoグループの一員として、フランスで実績ある再処理技術を活用するとともに、三菱重工の技術協力も得て、フランスの新技術の国内導入や、既設設備の改良・更新等にも対応してまいります。",
+    "url": "https://www.reco-ltd.co.jp/company/com_index.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品の中古部品・リビルトパーツの検索や購入にRECOジャパン-自... — RECOジャパンでは、純正新品部品の取り扱いを始めました！ ！ ログイン後、車両情報と純正品番を入力してください。 RECOジャパンスタッフが、該当部品をご提示させていただきます。 ぜひご利用ください！ 下の入り口からどうぞ。",
+    "url": "https://www.recojapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Exporter of Japanese Automobile Spare Parts | Japanese Used ... — RECO COMPANY LIMITED (formerly Reco Export Agencies) has been exporting Automobile Spare Parts, Metals, Used Cars, Engines and other items from Japan since 1956. Located in Osaka, Japan we have been exporting high-quality Japanese products to worldwide markets and are leaders in the industry today.",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "冷凍食品専門店 Reco茨木真砂店｜大阪府茨木市 — 3 days ago · 国産野菜、国産惣菜、国産ごはんを中心にアイスやピザなどの定番商品はもちろん、「コショウ不使用のチャーハン」「女性に人気のブルーベリー」も。 Recoの冷凍食品で美味しく料理の時間を短縮し、空いた時間でプライベートを充実！ ぜひ一度お試しください。",
+    "url": "https://reco-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "C Group Case Study: RECO – RECO - Customer Case Study ... — RECO (Real Estate) partnered with C Group (Design) to solve key challenges. \"RECO - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/c-group/case-study/reco-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "RECO Commercial Systems - Commerical & Industrial Customers — RECO USA builds water heating systems and storage tanks for engineering, pulp & paper, utilities & power, chemical & industrial industries",
+    "url": "https://reco-cs.com/our-customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Reco Manufacturing: Sustainable Recycling Solutions | Reco ... — Reco Manufacturing transforms plastic and metal waste into durable rooftop tiles, flooring, and wallpapers, helping build a greener future.",
+    "url": "https://recomanufacture.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Exela Leverages Reco to Reduce its Expanding Attack Surface ... — Remediation leveraging Reco's 'How to Fix' feature, Exela began remediation. As a result, it immediate · Enforced MFA for all administrators · Set up SSO across the SaaS ecosystem · Removed risky applications · Removed guest accounts for stale identities · Increased posture score by 13% in 30 days",
+    "url": "https://go.reco.ai/hubfs/Case+Studies+-+Success+Stories/Reco+++Exela+-+case+study+.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case studies - RECO INTERNATIONAL — With the results, this manufacturer can take concrete actions towards their own customer service teams as well as monitor the performance of third party call-centers.",
+    "url": "https://reco-intl.com/en/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Reco – Growth Analysis & Alternative Companies – 2026 — Sep 29, 2026 · Discover Reco's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/reco",
+    "pass": 3
+   },
+   {
+    "quote": "Reco 2026 Company Profile: Valuation, Funding & Investors ...Reco - 2026 Company Profile, Team, Funding & Competitors - TracxnReco: $140M Funding, 202 Employees & Latest News | MandosReco: Funding, Investors & Team (Nov 2026) - FundedIQReco - Overview, News & Similar companies | ZoomInfo.comRECO - 2025 Company Profile, Team, Funding & Competitors - Tracxn — Information on valuation, funding, cap t",
+    "url": "https://pitchbook.com/profiles/company/493571-71",
+    "pass": 3
+   },
+   {
+    "quote": "Reco - 2026 Company Profile, Team, Funding & Competitors - TracxnReco: $140M Funding, 202 Employees & Latest News | MandosReco: Funding, Investors & Team (Nov 2026) - FundedIQReco - Overview, News & Similar companies | ZoomInfo.comRECO - 2025 Company Profile, Team, Funding & Competitors - Tracxn — Mar 28, 2026 · Reco is a series B company based in New York City (United States), founded in 2020 by ",
+    "url": "https://tracxn.com/d/companies/reco/__9lmZAO_GTKGXiaSGY3s9f2XfCj8SOlfEvgdKGuKIVSs",
+    "pass": 3
+   },
+   {
+    "quote": "Reco: $140M Funding, 202 Employees & Latest News | Mandos — Oct 11, 2026 · Reco is a cybersecurity company specializing in AI Security, founded in 2020 and headquartered in New York, United States. It has raised $140M in equity across 5 priced rounds, employs about 202 people, and is privately held.",
+    "url": "https://mandos.io/data/companies/reco",
+    "pass": 3
+   },
+   {
+    "quote": "Reco: Funding, Investors & Team (Nov 2026) - FundedIQ — Reco has raised $110M across 3 funding rounds on record, the most recent a Series B of $55.0M announced in Sep 2026. That round is above the $6.0M median round size for Artificial Intelligence companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/reco-reco-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "We offer a full range of products and services. Explore our website to understand the full range of products we offer! If you would like to contact us, send us an email at",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "sales@reco-export.com",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "You can contact us by phone at +81-6-6260-5541, email at sales@reco-export.com, or by mail to Honmachi 1-5-6, Chuo-ku, Osaka, Japan 541-0053.",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "27. CONTACT US",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "Make any unauthorized use of the Services, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:",
+    "url": "https://www.reco-export.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "You should receive a confirmation email shortly and one of our representatives will be in touch.",
+    "url": "https://www.tenable.com/partners/channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "You should receive a confirmation email shortly and one of our Sales Development Representatives will be in touch. Route any questions to",
+    "url": "https://www.tenable.com/partners/channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Enter your email and never miss timely alerts and security guidance from the experts at Tenable.",
+    "url": "https://www.tenable.com/partners/channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Please contact us or a",
+    "url": "https://www.tenable.com/partners/channel-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "“I hope this email finds its way into your inbox because I wanted to personally thank each member who has helped with our SEO! We’re seeing the results since SEOReseller has been involved and we’re finally making some great progress with our online presence! Thanks to everyone who’s helped us get this way!”",
+    "url": "https://www.seoreseller.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/493571-71",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Yucho Reco will end on February 28, 2027, at 5:00 PM ... The Japan Post Bank household account app \"Yucho Reco\" will end its service on Sunday, February 28, 2027, at 5:00 PM. It is an app that allows you to view money movements across multiple banks and credit cards in one place, and automatically categorize your spending.",
+    "url": "https://note.com/minicom/n/n23e9e04badd9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Dark Pit Quick Matchup Summary (20261106)｜れこ/reco 5 days ago · I finally reached Elite Smash with Dark Pit last month, I'm so happy.This is a compilation of notes I've been secretly jotting down; it's a rough, subjective summary of Dark Pit matchups.They are listed in the order I wrote them, sorry if it's hard to read.Rosalina & LumaIf Luma is at a dist",
+    "url": "https://note.com/tezzerecco/n/ncfae8bd235fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "RECOの記事一覧｜note（ノート） RECOさんの記事一覧です。 YouTubeに投稿した動画を、note向けにテキスト化・再構成した記事です。動画より文字で読みたい方はこちらをご利用下さい📝",
+    "url": "https://note.com/reco_log/all",
+    "pass": 3
+   },
+   {
+    "quote": "レコの館（やかた）｜note ようこそ「レコの館（やかた）」へ！ 極貧車椅子ライターのRecoが、生活費を稼ぐために頑張って書いてます。 応援、支援 ...",
+    "url": "https://note.com/sz2020",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ゆうちょレコは2027年2月28日17時で終了。手入力の明細や予算の設定は引き継げない。家計簿のデータを残す方法と、代わりのアプリの選び方｜Tai＠トレンド発信",
+    "url": "https://note.com/minicom/n/n23e9e04badd9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ゆうちょレコは2027年2月28日17時で終了。手入力の明細や予算の設定は引き継げない。家計簿のデータを残す方法と、代わりのアプリの選び方",
+    "url": "https://note.com/minicom/n/n23e9e04badd9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ゆうちょ銀行の家計簿アプリ「ゆうちょレコ」が、",
+    "url": "https://note.com/minicom/n/n23e9e04badd9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2027年2月28日（日）17時でサービスを終えます",
+    "url": "https://note.com/minicom/n/n23e9e04badd9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "。複数の銀行やクレジットカードのお金の動きをまとめて見たり、使ったお金を自動で分類したりできるアプリです。3万円以上の入出金や、給料の入金を知らせる通知の機能もあります。",
+    "url": "https://note.com/minicom/n/n23e9e04badd9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "終了後はアプリが使えなくなり、ゆうちょ銀行が保存しているデータも、一定の期間のあとにすべて削除されます。データの控えは、利用者が自分で取る必要があります。",
+    "url": "https://note.com/minicom/n/n23e9e04badd9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ゆうちょ銀行は、続けて使いたい人に向けて、ゆうちょレコで使っていた「Moneytree ID」で、資産管理アプリ「Moneytree」にログインする方法を案内しています。Moneytreeを通じて取り込んだ明細はそのまま見られますが、手で入力した明細や、予算の設定などは移りません。",
+    "url": "https://note.com/minicom/n/n23e9e04badd9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "終了の前に、App StoreやGoogle Playでのダウンロードが先に終わる場合もあるとされています。スマホを買い替える予定がある人は、新しいスマホに入れ直せなくなるおそれもあります。終了にあたって事前の手続きは必要ありませんが、残したい記録は終了日までに控えておく必要があります。",
+    "url": "https://note.com/minicom/n/n23e9e04badd9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Dark Pit Quick Matchup Summary (20261106)｜れこ/reco",
+    "url": "https://note.com/tezzerecco/n/ncfae8bd235fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/tezzerecco/n/ncfae8bd235fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Dark Pit Quick Matchup Summary (20261106)",
+    "url": "https://note.com/tezzerecco/n/ncfae8bd235fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I finally reached Elite Smash with Dark Pit last month, I'm so happy.",
+    "url": "https://note.com/tezzerecco/n/ncfae8bd235fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is a compilation of notes I've been secretly jotting down; it's a rough, subjective summary of Dark Pit matchups.",
+    "url": "https://note.com/tezzerecco/n/ncfae8bd235fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "They are listed in the order I wrote them, sorry if it's hard to read.",
+    "url": "https://note.com/tezzerecco/n/ncfae8bd235fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If Luma is at a distance from Rosalina, using side smash to deal with it is an option.",
+    "url": "https://note.com/tezzerecco/n/ncfae8bd235fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Don't engage in the neutral air RPS, don't shield.",
+    "url": "https://note.com/tezzerecco/n/ncfae8bd235fc?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【M5システム手帳】新作リフィルと日付シールの販売をはじめました📔",
+    "url": "https://note.com/reco_log/all",
+    "pass": 3
+   },
+   {
+    "quote": "メモする頻度を高めた新しい道具 | 2026.8.25",
+    "url": "https://note.com/reco_log/all",
+    "pass": 3
+   },
+   {
+    "quote": "SNSを捨て、編み物をしよう | 2026.8.24",
+    "url": "https://note.com/reco_log/all",
+    "pass": 3
+   },
+   {
+    "quote": "それをお金で買いますか | 2026.8.21",
+    "url": "https://note.com/reco_log/all",
+    "pass": 3
+   },
+   {
+    "quote": "手を動かした分だけ変化が起きる | 2026.8.16",
+    "url": "https://note.com/reco_log/all",
+    "pass": 3
+   },
+   {
+    "quote": "元気でいるための努力 | 2026.8.15",
+    "url": "https://note.com/reco_log/all",
+    "pass": 3
+   },
+   {
+    "quote": "日記を書いて、売って欲しい | 2026.8.14",
+    "url": "https://note.com/reco_log/all",
+    "pass": 3
+   },
+   {
+    "quote": "道具に惹かれる理由 | 2026.8.13",
+    "url": "https://note.com/reco_log/all",
+    "pass": 3
+   },
+   {
+    "quote": "佐々成政の不埒な悪逆条々（「小早川家文書」）",
+    "url": "https://note.com/sz2020",
+    "pass": 3
+   },
+   {
+    "quote": "佐々成政 最後の2年 天正15＆16年（Household Industriesさんの「天下統一期年譜」より抜粋）",
+    "url": "https://note.com/sz2020",
+    "pass": 3
+   },
+   {
+    "quote": "Reco's Diary 2026/11/11",
+    "url": "https://note.com/sz2020",
+    "pass": 3
+   },
+   {
+    "quote": "【原文＆現代語訳】『乙夜之書物』に見る佐々成政の「さらさら越え」",
+    "url": "https://note.com/sz2020",
+    "pass": 3
+   },
+   {
+    "quote": "Reco's Diary 2026/11/10",
+    "url": "https://note.com/sz2020",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Reco (@recolabs_ai) / X Reco has been featured in two Gartner Hype Cycles — Cyber Risk Management & Network Security. Gartner is spotlighting the tech that is reshaping how enterprises secure their digital ecosystems.",
+    "url": "https://x.com/recolabs_ai",
+    "pass": 3
+   },
+   {
+    "quote": "Reco (@reco_cc) / X 漫画家・コスプレイヤーのRecoです ️ 単行本2冊出てます！ 漫画専用垢や写真垢など、すべての活動まとめはこちら→ https://t.co/G3a1N36k32",
+    "url": "https://x.com/reco_cc",
+    "pass": 3
+   },
+   {
+    "quote": "RECO (@RECOhelps) / X The Real Estate Council of Ontario (RECO) regulates real estate agents and brokerages in Ontario.",
+    "url": "https://x.com/RECOhelps",
+    "pass": 3
+   },
+   {
+    "quote": "Reco レコ 雷科 on X: \" Opening of Reco's Wiki With months of ... 📣 Opening of Reco's Wiki With months of work, the archive of artwork categorisation is now open for the public. All image sets are sorted into different characters & series by different pages 💛 (Thanks so much to Yukn for his role in the Wiki) 📚 Wiki: app.affine.pro/workspace/0ca4…",
+    "url": "https://x.com/Reco_Artwork/status/2079893351323803717",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】Reco -習慣記録アプリ- 運営 (@support_reco) / X 自由にカスタマイズが出来る記録アプリ「Reco」の公式アカウントです！ アップデート情報などを発信していきます💪 キャンペーンも実施中です🎁 DLは👇のリンクからどうぞ！",
+    "url": "https://x.com/support_reco",
+    "pass": 3
+   },
+   {
+    "quote": "Reco.（レコ） (@Reco_headline) / X 【Reco.（レコ）】みんなのオススメ投稿アプリ! 雑貨、インテリア、ファッションetc！ 色んなオススメで繋がるモノコミュニケーション♪ 『無料iPhoneアプリ+WEB』 Appstore https://t.co/grZfcVXwXT facebook https://t.co/BiBKsbMNsX",
+    "url": "https://x.com/Reco_headline",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Reco - LinkedIn Built on the Reco Graph, the platform identifies risk, prioritizes threats, and drives precise remediation across every human identity, agent, app, and permission in your environment.",
+    "url": "https://www.linkedin.com/company/recolabs/",
+    "pass": 3
+   },
+   {
+    "quote": "RECO Equipment, Inc - LinkedIn RECO EQUIPMENT INC. is a full line distributor supplying heavy and compact equipment (Bobcat of Pittsburgh, Bobcat of Erie, & Bobcat of Indiana Cty) - new, used, and rental.",
+    "url": "https://www.linkedin.com/company/reco-equipment-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Reco - LinkedIn With 235+ app integrations, 1,000+ detection controls, and deployment in 48 hours, Reco brings agent security, posture management, and threat detection together in one place, with native...",
+    "url": "https://il.linkedin.com/company/recolabs",
+    "pass": 3
+   },
+   {
+    "quote": "Real Estate Council of Ontario - LinkedIn The Real Estate Council of Ontario (RECO) regulates real estate agents and brokerages in Ontario. Our mission is to protect consumers by ensuring that real estate agents and brokerages in Ontario...",
+    "url": "https://ca.linkedin.com/company/real-estate-council-of-ontario",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Roatan Electric Company - RECO | Roatán - FacebookReal Estate Council of Ontario - FacebookRECO Equipment Inc. | Belmont OH - FacebookReco Surfaces | Freiston - FacebookRECO Commercial Systems LLC | Cayce SC - FacebookRECO Auctions | Cookeville TN - FacebookRECO Intensive | Delray Beach FL - Facebook 4 days ago · At RECO, we remain dedicated to strengthening our distribution network, improving the",
+    "url": "https://www.facebook.com/recoroatan/",
+    "pass": 3
+   },
+   {
+    "quote": "Real Estate Council of Ontario - FacebookRECO Equipment Inc. | Belmont OH - FacebookReco Surfaces | Freiston - FacebookRECO Commercial Systems LLC | Cayce SC - FacebookRECO Auctions | Cookeville TN - FacebookRECO Intensive | Delray Beach FL - Facebook Oct 14, 2026 · The Annual Financial Filing (AFF) requirement is now live. Starting today, all Ontario brokerages must submit an AFF to RECO, providi",
+    "url": "https://www.facebook.com/RECOhelps/",
+    "pass": 3
+   },
+   {
+    "quote": "RECO Equipment Inc. | Belmont OH - FacebookReco Surfaces | Freiston - FacebookRECO Commercial Systems LLC | Cayce SC - FacebookRECO Auctions | Cookeville TN - FacebookRECO Intensive | Delray Beach FL - Facebook Sep 21, 2026 · Reco Equipment offers dependable rental solutions to help contractors stay productive without the long-term commitment. Whether you need equipment for a short- term job, seas",
+    "url": "https://www.facebook.com/RECOEquipmentInc/",
+    "pass": 3
+   },
+   {
+    "quote": "Reco Surfaces | Freiston - FacebookRECO Commercial Systems LLC | Cayce SC - FacebookRECO Auctions | Cookeville TN - FacebookRECO Intensive | Delray Beach FL - Facebook Dec 16, 2025 · The Reco Surfaces team are looking forward to attending Housing 2025 this year and will be on hand to showcase why our products the perfect option for the housing sector. Sep 4, 2026 · RECO Commercial Systems LLC, the",
+    "url": "https://www.facebook.com/recosurfaces/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.reco.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reco.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reco.ai/solutions/agentic-security-posture-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reco.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reco.ai/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reco.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reco.ai/platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reco.ai/customer-stories/exela-pharma-sciences",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reco.ai/customer-stories/tampa-general-hospital",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reco.ai/customer-stories/att",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reco.ai/customer-stories/seismic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reco.ai/platform/saas-app-factory",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/644fc991ce69ff0d3bdbeb63/6af217fa39fab59c63624469_au-logo-insight.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.reco-ltd.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stepai.co.jp/blog/stepai%E3%81%8Creco%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E7%90%86%E7%94%B1-ai%E9%9F%B3%E5%A3%B0%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stepai.co.jp/blog/reco%E5%B0%8E%E5%85%A5%E3%82%AC%E3%82%A4%E3%83%89-%E5%A5%91%E7%B4%84%E3%81%8B%E3%82%89%E5%88%9D%E5%9B%9Eai%E9%9F%B3%E5%A3%B0%E5%AF%BE%E5%BF%9C%E3%81%BE%E3%81%A730%E6%97%A5%E9%96%93%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97%E5%8F%97%E9%9B%BB%E3%83%BB%E6%9E%B6%E9%9B%BB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://callcenter-japan.com/article/8668/1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/ROCK_JAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recojapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reco-export.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reco-export.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/c-group/case-study/reco-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reco-cs.com/our-customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recomanufacture.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.reco.ai/hubfs/Case+Studies+-+Success+Stories/Reco+++Exela+-+case+study+.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tenable.com/partners/channel-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/reco",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/493571-71",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/reco/__9lmZAO_GTKGXiaSGY3s9f2XfCj8SOlfEvgdKGuKIVSs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mandos.io/data/companies/reco",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/minicom/n/n23e9e04badd9?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tezzerecco/n/ncfae8bd235fc?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/reco_log/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sz2020",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/recolabs_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/reco_cc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RECOhelps",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Reco_Artwork/status/2079893351323803717",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/recolabs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/reco-equipment-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/company/recolabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/real-estate-council-of-ontario",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/recoroatan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RECOhelps/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RECOEquipmentInc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/recosurfaces/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/reco_cc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/support_reco",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Reco_headline",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Reco 日本 導入",
+   "results": [
+    "https://www.reco-ltd.co.jp/",
+    "https://www.stepai.co.jp/blog/stepaiがrecoを作った理由-ai音声プラットフォームで日本のコールセンターを変える",
+    "https://www.stepai.co.jp/blog/reco導入ガイド-契約から初回ai音声対応まで30日間ロードマップ受電・架電",
+    "https://callcenter-japan.com/article/8668/1/",
+    "https://www.reco-ltd.co.jp/company/com_index.html",
+    "https://www.ricoh.co.jp/products/list/reco-view-visibility-service",
+    "https://recho-ai.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reco 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Reco Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ROCK_JAPAN",
+    "https://www.recojapan.com/",
+    "https://www.reco-export.com/company",
+    "https://www.reco-export.com/",
+    "https://reco-japan.com/",
+    "https://shop.recojapan.com/rps_s/car_info.asp?m=mc",
+    "https://shop.recojapan.com/rps_s/index.asp",
+    "https://www.recojapan.com/about.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Reco manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/c-group/case-study/reco-customer-case-study",
+    "https://reco-cs.com/our-customers/",
+    "https://recomanufacture.com/",
+    "https://go.reco.ai/hubfs/Case+Studies+-+Success+Stories/Reco+++Exela+-+case+study+.pdf",
+    "https://reco-intl.com/en/case-studies/",
+    "https://reco-cs.com/",
+    "https://www.reco.ai/customer-stories/exela-pharma-sciences"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reco white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.tenable.com/partners/channel-partner-program",
+    "https://www.seoreseller.com/",
+    "https://www.canva.com/partners/reseller/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reco founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/reco",
+    "https://pitchbook.com/profiles/company/493571-71",
+    "https://tracxn.com/d/companies/reco/__9lmZAO_GTKGXiaSGY3s9f2XfCj8SOlfEvgdKGuKIVSs",
+    "https://mandos.io/data/companies/reco",
+    "https://fundediq.co/reco-reco-ai-funding/",
+    "https://www.zoominfo.com/c/recolabs-ltd/557305732",
+    "https://tracxn.com/d/companies/reco/__8zq_Osgmtz4A6rDMxHuBKyUkenlVrxWaQyuvHGljKgc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Reco",
+   "results": [
+    "https://note.com/minicom/n/n23e9e04badd9?hl=en",
+    "https://note.com/tezzerecco/n/ncfae8bd235fc?hl=en",
+    "https://note.com/reco_log/all",
+    "https://note.com/sz2020",
+    "https://note.com/lyco_reco",
+    "https://note.com/reco_log/store",
+    "https://note.com/yoshiyuki_jomori/n/n3a0a08a8c06c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Reco",
+   "results": [
+    "https://x.com/recolabs_ai",
+    "https://x.com/reco_cc",
+    "https://x.com/RECOhelps",
+    "https://x.com/Reco_Artwork/status/2079893351323803717",
+    "https://x.com/reco_official_",
+    "https://x.com/helloreco",
+    "https://x.com/reco_thursday"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Reco",
+   "results": [
+    "https://www.linkedin.com/company/recolabs/",
+    "https://www.linkedin.com/company/reco-equipment-inc",
+    "https://il.linkedin.com/company/recolabs",
+    "https://ca.linkedin.com/company/real-estate-council-of-ontario",
+    "https://il.linkedin.com/in/tal-shapira",
+    "https://mx.linkedin.com/company/recodigitalmx",
+    "https://ca.linkedin.com/jobs/view/director-people-culture-at-real-estate-council-of-ontario-4487920841"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Reco",
+   "results": [
+    "https://www.facebook.com/recoroatan/",
+    "https://www.facebook.com/RECOhelps/",
+    "https://www.facebook.com/RECOEquipmentInc/",
+    "https://www.facebook.com/recosurfaces/",
+    "https://www.facebook.com/RECOCommercialSystems/",
+    "https://www.facebook.com/RECOAuctions/",
+    "https://www.facebook.com/recointensive/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reco note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/n51b6ea4b0bd6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reco X 投稿",
+   "results": [
+    "https://x.com/reco_cc",
+    "https://x.com/support_reco",
+    "https://x.com/Reco_headline",
+    "https://fantia.jp/posts/4117840",
+    "https://fantia.jp/fanclubs/28415/posts?locale=zh-tw",
+    "https://x.com/_reco8x",
+    "https://x.com/recokun_/status/2113220482808135727"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部39頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部39頁・検索12回）"
+ }
+}

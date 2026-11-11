@@ -1,0 +1,1537 @@
+{
+ "name": "Pushsecurity",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Cybersecurity｜状態なし",
+ "researched_at": "2026-11-11T09:29:35.728141+00:00",
+ "official_url": "https://pushsecurity.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$49M",
+    "url": "https://getlatka.com/companies/pushsecurity.com",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "19-Jul-2022 $4.1M $4.1M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/471720-88",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "4,100,000 $0.000100  $1 $1 1x $1 9.46%",
+    "url": "https://pitchbook.com/profiles/company/471720-88",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://startupintros.com/orgs/push-security",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Boston, MA, USA",
+    "url": "https://startupintros.com/orgs/push-security",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The Secure Enterprise Browser extension that combines browser telemetry, real-time control, and autonomous agents to stop attacks, secure AI, harden identities, and prevent data loss.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports all popular browsers, including AI and enterprise",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Investigating a new criminal toolkit for ConsentFix being promoted on criminal forums.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Attackers are distributing almost identical cloned sites of popular developer tools like Claude Code with fake install instructions via malicious search engine ads — tricking victims into installing infostealer malware instead.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser does not support the video tag.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Employees use LLMs, paste sensitive data into prompts, authorize AI agents, and install AI browser extensions — at a pace no team can track manually.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The whole workload has moved to the browser. You have all these tools, but they're for yesterday's problems. The browser is where it is now.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I really like how Push approaches things. With Push, I get a platform that let's me know about the stuff I should really worry about.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Push gives me the security context I need in the browser without requiring everyone to converge on a single enterprise browser platform.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Push is the security layer for the browser. Every session produces telemetry that autonomous agents hunt at machine speed, writing detection rules and deploying blocks without waiting on a human analyst. Your security team gets real-time visibility and control across every browser in the environment. One platform. Four outcomes.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Attackers use AI to craft flawless phishing lures, automate credential theft, and evolve techniques faster than any analyst can follow. Push detects AiTM phishing, ClickFix, session hijacking, and AI-enhanced attacks using behavioral signals attackers can't rotate, and blocks them before an account is compromised.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data loss prevention and insider investigations",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The same telemetry that stops external attacks surfaces insider risk. Push captures file uploads, clipboard activity, sensitive data submitted to AI tools, and OAuth grants to third-party apps. Browser-layer controls prevent data loss before it becomes an incident.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Malicious file downloads",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Detect infostealer delivery and respond to a compromise.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify reused and compromised credentials across SaaS logins.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect Chromebooks against in-browser attacks",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Security awareness training",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Block real phishing instead of training users on simulations.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Analyzing a fake event campaign combining AiTM and device code phishing payloads",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Push found fake registration pages for OpenAI, SpaceX, and Anthropic events, using Kali365 to phish Microsoft accounts and VoidProxy to phish Google accounts.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why procurement evaluations should look at the character of a vendor, not just their capabilities.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The 8 best secure enterprise browsers in 2026: Push Security, Island, Prisma Browser and more",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compare the 8 best secure enterprise browsers in 2026, including Push Security, Island, Prisma Browser and Chrome Enterprise, by use case and list price.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compare the top 10 browser security solutions and vendors in 2026, from browser extensions to enterprise browsers and isolation: Push Security, Island, LayerX.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Using Push, the Victoria University of Wellington (VUW) security team found a tool to govern AI tool usage across a diverse workforce, while also solving its phishing problem at the same time.",
+    "url": "https://pushsecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Using Push, Cribl confirmed and remediated unmonitored login paths across critical business apps — risks that had previously gone unquantified.",
+    "url": "https://pushsecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Push helped Inductive find and secure shadow accounts and apps with high-fidelity data in a way that didn't interfere with employees productivity.",
+    "url": "https://pushsecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Instant protection against browser-based attacks",
+    "url": "https://pushsecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "The whole workload has moved to the browser. You have all these tools, but they're for yesterday's problems. The browser is where it is now.",
+    "url": "https://pushsecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "I really like how Push approaches things. With Push, I get a platform that let's me know about the stuff I should really worry about.",
+    "url": "https://pushsecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Push gives me the security context I need in the browser without requiring everyone to converge on a single enterprise browser platform.",
+    "url": "https://pushsecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "We love the product and use it every day. When an employee clicks on a link and opens a browser session, that's where Push is.",
+    "url": "https://pushsecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Push solved key security challenges and delivered real business value for serious security professionals, defending highly targeted organizations.",
+    "url": "https://pushsecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "I think it's one of the very few products in the market where you can enforce a ton of controls and get a lot of visibility at the browser level where you don't need a footprint on the endpoint level.",
+    "url": "https://pushsecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "When I looked at Push, it gave me the security instrumentation and the context I needed in the browser, without being a lift that required everyone to converge or to provide a single entity platform like an enterprise browser.",
+    "url": "https://pushsecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "I love the focus in terms of explaining what the threats are with evidence, practically talking about what attackers are trying to do. With Push, there's no BS, no jargon.",
+    "url": "https://pushsecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "vs Security Awareness Training",
+    "url": "https://pushsecurity.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Protect Chromebooks against in-browser attacks",
+    "url": "https://pushsecurity.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Check out our webinars and downloads",
+    "url": "https://pushsecurity.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "The Push Security Advisor Network (PSAN) is a world-class ecosystem of trusted cyber advisors. Whether you're looking for deal registration, technical documentation, training or support, we've got you covered. Let's work together to stop modern Phishing attacks and secure enterprise identities.",
+    "url": "https://pushsecurity.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Data processing agreement",
+    "url": "https://pushsecurity.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "AitM / reverse-proxy phishing detection",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI prompt & data input monitoring",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Identity provider detection",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Password logging prevention",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Password protection (prevent reuse on critical apps or credential entry on malicious pages)",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "App approval workflows",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Clipboard telemetry and configurable blocking with content pattern rules",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Custom data retention policy",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The whole workload has moved to the browser. You have all these tools, but they're for yesterday's problems. The browser is where it is now.",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "I really like how Push approaches things. With Push, I get a platform that let's me know about the stuff I should really worry about.",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Push gives me the security context I need in the browser without requiring everyone to converge on a single enterprise browser platform.",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Push supports Chrome, Edge, Firefox, Safari, Brave, Opera, and Arc — plus enterprise browsers like Island and Prisma Access Browser, and agentic browsers like Comet, Atlas, and Dia. Because Push is a browser extension rather than a standalone browser, adding support for new Chromium-based browsers is straightforward. See our",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "to discuss Enterprise pricing. The bigger the deployment, the more value Push surfaces — and our pricing reflects that.",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "strategy, product,",
+    "url": "https://pushsecurity.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "combines research-led offensive and defensive cyber security heritage with a proven commercial track record.",
+    "url": "https://pushsecurity.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Push is nothing without its awesome people. The Push team is spread around the world, but we still find the time to get together once in a while (usually in some pretty stunning locations). Take a look.",
+    "url": "https://pushsecurity.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Analyzing a fake event campaign combining AiTM and device code phishing payloads",
+    "url": "https://pushsecurity.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Push found fake registration pages for OpenAI, SpaceX, and Anthropic events, using Kali365 to phish Microsoft accounts and VoidProxy to phish Google accounts.",
+    "url": "https://pushsecurity.com/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Attackers are using AI to hit harder. Employees are adopting AI faster than security can track.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Employees are adopting AI faster than security teams can handle.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Employees use LLMs, paste sensitive data into prompts, authorize AI agents, and install AI browser extensions — at a pace no team can track manually.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every AI interaction starts inside the browser. Push sees which tools employees and agents are using, what data they're sharing, and what permissions they're granting, and enforces your AI usage policy in real time across human and agentic sessions alike.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your IdP shows the identities it manages. Push shows how users are actually logging in: every account, every authentication method, every shadow app, including the ghost logins and breached credentials your IdP will never see. In-browser guardrails guide employees to register MFA, change weak passwords, and adopt SSO at the point of login.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Detect phishing regardless of whether it arrives via email, SMS, or QR code.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Push helped Inductive find and secure shadow accounts and apps with high-fidelity data in a way that didn't interfere with employees productivity.",
+    "url": "https://pushsecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "With Push Security, I get a platform that gives me capabilities and services information and lets me know about stuff that I should worry about. It gives me a way to directly communicate with my fellow employees and empower them to be part of the solution.",
+    "url": "https://pushsecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Guides for employees and admins",
+    "url": "https://pushsecurity.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Up to 500 employees",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "500+ employees",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Most customers deploy Push to their users in under a day, during normal office hours with zero downtime. Push is a browser extension — it can be force-installed via MDM (Intune, Jamf, Google Admin Console), distributed through email enrollment, or self-enrolled by employees via a landing page. No browser migration, no network reconfiguration, no endpoint agent rollout.",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Can I change the number of employees covered in my plan?",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. You can add and remove employees from the Push platform at any time. Go to the Employees page, click Add employees, and select the users you want to cover. If you need additional licenses beyond your current allocation, you'll be guided through the purchase at that point. Licenses from departed employees are freed up automatically.",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. If you have more than 500 employees,",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your MFA isn’t broken — it’s being bypassed, and your employees can’t tell the difference",
+    "url": "https://pushsecurity.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Arrests, cybercrime, and threat intel",
+    "url": "https://pushsecurity.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Former CrowdStrike Sales Leader Joins Push Security as Chief Revenue Officer",
+    "url": "https://pushsecurity.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Push moves fast and the work never stands still. We've got a strong team where everyone carries their share. We're committed to doing things right versus rushing them out the door.",
+    "url": "https://pushsecurity.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Four browser security startups were acquired",
+    "url": "https://pushsecurity.com/blog/the-top-10-browser-security-solutions-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "completed its acquisition of LayerX",
+    "url": "https://pushsecurity.com/blog/the-top-10-browser-security-solutions-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Jamf acquired Keep Aware",
+    "url": "https://pushsecurity.com/blog/the-top-10-browser-security-solutions-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Seraphic works across any browser through an endpoint agent that adds enterprise security without replacing what's deployed. CrowdStrike acquired Seraphic in early 2026 and now sells it as Falcon Seraphic Enterprise Browser.",
+    "url": "https://pushsecurity.com/blog/the-top-10-browser-security-solutions-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Akamai completed its acquisition of LayerX in July 2026 and now sells it as Akamai Workforce Protector, part of its Zero Trust portfolio.",
+    "url": "https://pushsecurity.com/blog/the-top-10-browser-security-solutions-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": ", given Akamai's track record of absorbing acquisitions (Guardicore, Neosec, Inverse) into its broader platform.",
+    "url": "https://pushsecurity.com/blog/the-top-10-browser-security-solutions-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Zscaler acquired SquareX in early 2026, integrating it into the Zero Trust Exchange alongside its existing SSE capabilities.",
+    "url": "https://pushsecurity.com/blog/the-top-10-browser-security-solutions-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Keep Aware is an agentless extension built with security operations in mind. It's quick to deploy through MDM or group policy, and focused on surfacing browser threats, extension risk, and AI usage into existing SOC workflows. Detection and response is the throughline, with SIEM integration as a core part of the offering.",
+    "url": "https://pushsecurity.com/blog/the-top-10-browser-security-solutions-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Browser security refers to the tools and practices that protect users, data, and organizations from threats that originate inside the web browser. The browser is where modern work happens: employees access SaaS applications, interact with AI tools, and handle sensitive data — which makes it",
+    "url": "https://pushsecurity.com/blog/the-top-10-browser-security-solutions-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "What do browser security vendor acquisitions mean for buyers?",
+    "url": "https://pushsecurity.com/blog/the-top-10-browser-security-solutions-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "CrowdStrike, Zscaler, Akamai, and Jamf all acquired browser security startups in 2026.",
+    "url": "https://pushsecurity.com/blog/the-top-10-browser-security-solutions-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "But whether acquired products retain their innovation velocity as they're absorbed into larger platforms is a",
+    "url": "https://pushsecurity.com/blog/the-top-10-browser-security-solutions-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "has become a core part of the attacker’s arsenal too, with 30+ unique attacker kits now offering the technique.",
+    "url": "https://pushsecurity.com/blog/the-top-10-browser-security-solutions-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "like ClickFix that never touch the endpoint in ways EDR can observe. CrowdStrike's acquisition of Seraphic in 2026 reflects the industry recognition that endpoint and browser are separate detection layers that both need to be instrumented.",
+    "url": "https://pushsecurity.com/blog/the-top-10-browser-security-solutions-in-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Guides for employees and admins",
+    "url": "https://pushsecurity.com/demo",
+    "pass": 1
+   },
+   {
+    "quote": "The unification of browser and email security capabilities as part of the Push-Proofpoint collaboration reflects the evolution of modern attacks, which increasingly span both email and the browser.",
+    "url": "https://pushsecurity.com/news/push-partners-with-proofpoint",
+    "pass": 1
+   },
+   {
+    "quote": "As enterprises continue to shore up email defenses, attackers are adapting their delivery techniques. Push data shows a growing number of malicious payloads now arrive outside of email entirely—via messaging apps, social media, search results, and malvertising—making the browser an increasingly important control point for detecting and stopping attacks.",
+    "url": "https://pushsecurity.com/news/push-partners-with-proofpoint",
+    "pass": 1
+   },
+   {
+    "quote": "The browser has become the new endpoint, where employees log into cloud apps, move data, build products, and interact with customers. While traditional security tools still focus on endpoints and networks, the browser remains a blind spot: full of risk, but largely unmonitored.",
+    "url": "https://pushsecurity.com/news/push-security-guidepoint-strategic-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "92% of organizations now allow employees to use public GenAI applications",
+    "url": "https://pushsecurity.com/blog/7-things-omdias-latest-report-tells-us-about-the-secure-enterprise-browser-market",
+    "pass": 1
+   },
+   {
+    "quote": ", and virtually every organization has some kind of policy position: 37% have sanctioned one public app (with everything else unsanctioned), 39% have sanctioned multiple public apps (with others unsanctioned), and 23% restrict employees to a corporate instance while the public versions are unsanctioned.",
+    "url": "https://pushsecurity.com/blog/7-things-omdias-latest-report-tells-us-about-the-secure-enterprise-browser-market",
+    "pass": 1
+   },
+   {
+    "quote": "In the case of attacks that target employees via the browser — using advanced phishing methods, commercial toolkits, abuse of OAuth, abuse of trusted services to deliver phishing lures, etc. — most security teams are also working without the right foundational visibility to even begin to mature their detection process against these TTPs.",
+    "url": "https://pushsecurity.com/blog/agentic-threat-hunting-benefits-for-customers",
+    "pass": 1
+   },
+   {
+    "quote": "On the external intelligence side, the pipeline ingests published research about a campaign Push has never observed, extracts the durable behavioral characteristics, validates them against browser telemetry, refines the query to tune out false positives, and ships detections before the technique is ever used against a Push customer. The protection arrives ahead of the attack.",
+    "url": "https://pushsecurity.com/blog/agentic-threat-hunting-benefits-for-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Employees have been self-adopting apps, creating unmanaged accounts, and introducing third-party software dependencies into their organizations for years, and the core problem hasn't changed: unmanaged software expanding your attack surface without your knowledge.",
+    "url": "https://pushsecurity.com/blog/what-push-data-reveals-about-the-state-of-shadow-ai",
+    "pass": 1
+   },
+   {
+    "quote": "But the rate at which employees are signing up for AI tools is unprecedented, and the depth of interconnectivity those tools demand is fundamentally different from traditional shadow SaaS.",
+    "url": "https://pushsecurity.com/blog/what-push-data-reveals-about-the-state-of-shadow-ai",
+    "pass": 1
+   },
+   {
+    "quote": "45% of employees are now regular AI users on corporate devices",
+    "url": "https://pushsecurity.com/blog/what-push-data-reveals-about-the-state-of-shadow-ai",
+    "pass": 1
+   },
+   {
+    "quote": "presents a stronger picture, finding that 92% allow employees to use public GenAI applications. However, given that the typical company policy sanctions a small number of approved tools, this means everything else employees are using is unsanctioned by default.",
+    "url": "https://pushsecurity.com/blog/what-push-data-reveals-about-the-state-of-shadow-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Shadow apps are AI tools that employees have signed up to and are using for business purposes without approval. This is the most visible dimension of the problem, and the one most people think of when they hear \"shadow AI\" — an employee pastes sensitive internal documents into ChatGPT, uploads confidential files to an AI assistant, or uses an unapproved coding tool to generate production code.",
+    "url": "https://pushsecurity.com/blog/what-push-data-reveals-about-the-state-of-shadow-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Even when an organization has approved an AI tool — say, an enterprise ChatGPT deployment — employees frequently access the same app with personal accounts, creating shadow tenants that sit entirely outside organizational control. The DBIR found that",
+    "url": "https://pushsecurity.com/blog/what-push-data-reveals-about-the-state-of-shadow-ai",
+    "pass": 1
+   },
+   {
+    "quote": "deployed across its workforce, with the highest we observed reaching 163 — and since each of those average 17 different extensions may be installed by multiple employees, the actual number of individual extension installs across the organization is much higher still.",
+    "url": "https://pushsecurity.com/blog/what-push-data-reveals-about-the-state-of-shadow-ai",
+    "pass": 1
+   },
+   {
+    "quote": "acquired and weaponized",
+    "url": "https://pushsecurity.com/blog/what-push-data-reveals-about-the-state-of-shadow-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Examples of imitation AI apps observed in active use by Push. Scammy and misleading, but not necessarily malicious (yet), but probably not something you want employees using.",
+    "url": "https://pushsecurity.com/blog/what-push-data-reveals-about-the-state-of-shadow-ai",
+    "pass": 1
+   },
+   {
+    "quote": "That starts with visibility into which AI tools employees are actually using and which accounts they're using to access them — without that baseline, every other control is built on assumptions.",
+    "url": "https://pushsecurity.com/blog/what-push-data-reveals-about-the-state-of-shadow-ai",
+    "pass": 1
+   },
+   {
+    "quote": "AI doesn't just store data — it actively processes it, and employees submit qualitatively more sensitive material (source code, credentials, internal strategy) into AI prompts than they typically put into a project management tool or file-sharing app.",
+    "url": "https://pushsecurity.com/blog/what-push-data-reveals-about-the-state-of-shadow-ai",
+    "pass": 1
+   },
+   {
+    "quote": "AI also arrives embedded inside tools you've already approved — Salesforce, Google Workspace, Notion, Slack all ship AI features that activate without a separate procurement decision, so there's no sign-up event for a CASB to catch.",
+    "url": "https://pushsecurity.com/blog/what-push-data-reveals-about-the-state-of-shadow-ai",
+    "pass": 1
+   },
+   {
+    "quote": "What's the risk if employees use personal AI accounts for work?",
+    "url": "https://pushsecurity.com/blog/what-push-data-reveals-about-the-state-of-shadow-ai",
+    "pass": 1
+   },
+   {
+    "quote": "as attackers tried to trick Push employees into doing recently",
+    "url": "https://pushsecurity.com/blog/what-push-data-reveals-about-the-state-of-shadow-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Guides for employees and admins",
+    "url": "https://pushsecurity.com/webinar/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Push Security Revenue 2025: $54.8M, $49M Raised",
+    "url": "https://getlatka.com/companies/pushsecurity.com",
+    "pass": 3
+   },
+   {
+    "quote": "Push Security revenue",
+    "url": "https://getlatka.com/companies/pushsecurity.com",
+    "pass": 3
+   },
+   {
+    "quote": "Push Security's annual revenue was $54.8M in June 2025 (source not recorded).",
+    "url": "https://getlatka.com/companies/pushsecurity.com",
+    "pass": 3
+   },
+   {
+    "quote": "Push Security CEO, founders & employees",
+    "url": "https://getlatka.com/companies/pushsecurity.com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Detect phishing regardless of whether it arrives via email, SMS, or QR code.",
+    "url": "https://pushsecurity.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Half of attacks now reach victims outside of email. ClickFix is now the dominant browser attack technique. Get the latest stats and analysis from the Push Security team.",
+    "url": "https://pushsecurity.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "“No matter the channel for phishing — email, LinkedIn, text — the employee clicks a link that opens a browser session. We see the main control point moving from the endpoint to the browser.”",
+    "url": "https://pushsecurity.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Most customers deploy Push to their users in under a day, during normal office hours with zero downtime. Push is a browser extension — it can be force-installed via MDM (Intune, Jamf, Google Admin Console), distributed through email enrollment, or self-enrolled by employees via a landing page. No browser migration, no network reconfiguration, no endpoint agent rollout.",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Calendly emails impersonate major brands in new credential theft scheme",
+    "url": "https://pushsecurity.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Why it's time for phishing prevention to move beyond email",
+    "url": "https://pushsecurity.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Half of attacks now reach victims outside of email. ClickFix is now the dominant browser attack technique. Get the latest stats and analysis from the Push Security team.",
+    "url": "https://pushsecurity.com/demo",
+    "pass": 1
+   },
+   {
+    "quote": "“No matter the channel for phishing — email, LinkedIn, text — the employee clicks a link that opens a browser session. We see the main control point moving from the endpoint to the browser.”",
+    "url": "https://pushsecurity.com/demo",
+    "pass": 1
+   },
+   {
+    "quote": "The unification of browser and email security capabilities as part of the Push-Proofpoint collaboration reflects the evolution of modern attacks, which increasingly span both email and the browser.",
+    "url": "https://pushsecurity.com/news/push-partners-with-proofpoint",
+    "pass": 1
+   },
+   {
+    "quote": "As enterprises continue to shore up email defenses, attackers are adapting their delivery techniques. Push data shows a growing number of malicious payloads now arrive outside of email entirely—via messaging apps, social media, search results, and malvertising—making the browser an increasingly important control point for detecting and stopping attacks.",
+    "url": "https://pushsecurity.com/news/push-partners-with-proofpoint",
+    "pass": 1
+   },
+   {
+    "quote": "Those organizations are not short of security controls. Email security inspects the message before it reaches the inbox, and endpoint security inspects processes and files once something runs on the device. However, the browser session between those two points is covered by neither.",
+    "url": "https://pushsecurity.com/news/push-partners-with-proofpoint",
+    "pass": 1
+   },
+   {
+    "quote": "None of these are attacks where network-layer traffic inspection, endpoint monitoring, or email scanning provides complete coverage, because the attack surface is the browser session itself.",
+    "url": "https://pushsecurity.com/blog/7-things-omdias-latest-report-tells-us-about-the-secure-enterprise-browser-market",
+    "pass": 1
+   },
+   {
+    "quote": "Half of attacks now reach victims outside of email. ClickFix is now the dominant browser attack technique. Get the latest stats and analysis from the Push Security team.",
+    "url": "https://pushsecurity.com/webinar/partner",
+    "pass": 1
+   },
+   {
+    "quote": "“No matter the channel for phishing — email, LinkedIn, text — the employee clicks a link that opens a browser session. We see the main control point moving from the endpoint to the browser.”",
+    "url": "https://pushsecurity.com/webinar/partner",
+    "pass": 1
+   },
+   {
+    "quote": "and to receive email updates from Push. You can unsubscribe at any time.",
+    "url": "https://pushsecurity.com/webinar/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/471720-88",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by security teams doing serious work",
+    "url": "https://pushsecurity.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Attackers upgrade ClickFix with tricks used by online stores",
+    "url": "https://pushsecurity.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "This is Part 1 of a two-part series. In Part 2, we’ll cover a case study of an agentic threat hunt in detail.",
+    "url": "https://pushsecurity.com/blog/agentic-threat-hunting-benefits-for-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Automation Machinery Manufacturing",
+    "url": "https://www.casestudies.com/company/push-security",
+    "pass": 3
+   },
+   {
+    "quote": "See why customers chose Push Security's products and services. Push Security's customers include",
+    "url": "https://www.cbinsights.com/company/push-security/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Inductive Automation develops industrial automation software solutions. The company offers a platform called Ignition, which enables the creation and …",
+    "url": "https://www.cbinsights.com/company/push-security/customers",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Become a partner and access resources",
+    "url": "https://pushsecurity.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Push Security debuts global partner program to address identity-driven threats",
+    "url": "https://pushsecurity.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Push Security rolls out first global partner program",
+    "url": "https://pushsecurity.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Push Security to launch global partner program",
+    "url": "https://pushsecurity.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Push Security Launches Global Partner Program to Accelerate its Channel Go-To-Market Strategy",
+    "url": "https://pushsecurity.com/news",
+    "pass": 1
+   },
+   {
+    "quote": "Become a partner and access resources",
+    "url": "https://pushsecurity.com/demo",
+    "pass": 1
+   },
+   {
+    "quote": ", a leader in browser-based detection and response, today announced a strategic reseller partnership with",
+    "url": "https://pushsecurity.com/news/push-security-guidepoint-strategic-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Push Security Launches Global Partner Program to Accelerate its Channel Go-To-Market Strategy",
+    "url": "https://pushsecurity.com/news/push-security-launches-psan",
+    "pass": 1
+   },
+   {
+    "quote": ", today launched the Push Security Advisor Network (PSAN), its new global partner program designed to strengthen cybersecurity solution provider portfolios with the Push Security platform. With a focus on safeguarding the modern workforce from identity-driven threats, PSAN helps partners close the protection gap left by traditional on-premise security solutions.",
+    "url": "https://pushsecurity.com/news/push-security-launches-psan",
+    "pass": 1
+   },
+   {
+    "quote": "Push Security Partner Program",
+    "url": "https://pushsecurity.com/news/push-security-launches-psan",
+    "pass": 1
+   },
+   {
+    "quote": "Become a partner and access resources",
+    "url": "https://pushsecurity.com/webinar/partner",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Browser Security for the AI Era — Compare the 8 best secure enterprise browsers in 2026, including Push Security, Island, Prisma Browser and Chrome Enterprise, by use case and list price.",
+    "url": "https://pushsecurity.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Push Securityの資金調達・投資家情報 | 海外スタートアップ | FIRST ... — GVのポートフォリオに掲載される海外スタートアップPush Securityの企業プロフィール。 Push Securityは、Webブラウザを起点とするアイデンティティ脅威検知・対応（ITDR）およびブラウザセキュリティを提供するサイバーセキュリティ企業である。",
+    "url": "https://www.firstcvc.jp/global/pushsecurity.com",
+    "pass": 3
+   },
+   {
+    "quote": "About us - Push Security — Compare the 8 best secure enterprise browsers in 2026, including Push Security, Island, Prisma Browser and Chrome Enterprise, by use case and list price.",
+    "url": "https://pushsecurity.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing - Push Security — Stop browser-based attacks from $5/user/month. AI-native detection, real-time control, and AI security. No browser migration required.",
+    "url": "https://pushsecurity.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Push Security | Microsoft MarketplaceJapan adopts an emergency cybersecurity package | AP NewsTrust Portal - Security & ComplianceCybersecurity firms targeted by fraudulent OpenAI ... — Push Security provides browser security for the AI era. Push is the secure enterprise browser extension built for security teams. It delivers high-fidelity telemetry and real-time control across every browser sessi",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/saas/wa200002833",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Native Browser Security Platform — Push Security provides blue teams with net-new visibility of browser-based attacks to complement your existing threat detection & response stack. EDR doesn’t provide security in the browser layer. Push works alongside your EDR deployment to give you protection at the new layer for attackers.",
+    "url": "https://pushsecurity.com/product",
+    "pass": 3
+   },
+   {
+    "quote": "Push Security Range — I'm a security researcher or practitioner interested in the attack techniques demonstrated here. I'm interested in learning more about Push Security.",
+    "url": "https://range.pushsecurity.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Story: Inductive Automation - pushsecurity.com — Inductive Automation, a software company for high-tech manufacturing, needed a way to reduce the security risks associated with unmanaged cloud identities, apps, and integrations.",
+    "url": "https://pushsecurity.com/customer-stories/inductive-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Push Security B2B Case Studies & Customer Successes — See how Push Security solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/push-security",
+    "pass": 3
+   },
+   {
+    "quote": "Push Security Customers - CB Insights — See why customers chose Push Security's products and services. Push Security's customers include Victoria University of Wellington, Cribl, and Inductive Automation.",
+    "url": "https://www.cbinsights.com/company/push-security/customers",
+    "pass": 3
+   },
+   {
+    "quote": "6 Push Security Customer Reviews & References | FeaturedCustomers — Learn more about Push Security - use cases, approaches, & end results from real customers; read customer reviews including 6 testimonials, videos, and case studies.",
+    "url": "https://www.featuredcustomers.com/vendor/push-security",
+    "pass": 3
+   },
+   {
+    "quote": "Push Security Revenue 2025: $54.8M, $49M Raised — Oct 30, 2026 · Push Security 2025 revenue: $54.8M. Total funding: $49M across 3 rounds. 498 employees. Industry: User Threat Prevention Software. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/pushsecurity.com",
+    "pass": 3
+   },
+   {
+    "quote": "Push Security 2026 Company Profile: Valuation, Funding ...Push Security: $49M Funding, 95 Employees & Latest News | MandosPush Security - Overview, News & Similar companies - ZoomInfoPush Security: Funding, Team & Investors | Startup IntrosPush Security: Funding, Investors & Team (Nov 2026) - FundedIQ — Information on valuation, funding, cap tables, investors, and executives for Push Security. Use",
+    "url": "https://pitchbook.com/profiles/company/471720-88",
+    "pass": 3
+   },
+   {
+    "quote": "Push Security: $49M Funding, 95 Employees & Latest News | Mandos — Oct 21, 2026 · Push Security is a cybersecurity company specializing in Endpoint Security, founded in 2021 and headquartered in Boston, United States. It has raised $49M in equity across 3 priced rounds, employs about 95 people, and is privately held.",
+    "url": "https://mandos.io/data/companies/push-security",
+    "pass": 3
+   },
+   {
+    "quote": "Push Security: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Adam Bateman (CEO), Tyrone Erasmus (CTO), and Jacques Louw (CRO) co-founded Push Security. This leadership team brings deep cybersecurity experience from MWR InfoSecurity, Duo Security, and CrowdStrike.",
+    "url": "https://startupintros.com/orgs/push-security",
+    "pass": 3
+   },
+   {
+    "quote": "Push Security: Funding, Investors & Team (Nov 2026) - FundedIQ — Push Security has raised $34.0M across 2 funding rounds on record, the most recent a Series B of $30.0M announced in Apr 2025. That round is above the $6.5M median round size for Information Technology companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/push-security-pushsecurity-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Google広告から偽AIツール導入ページへ誘導――「InstallFix」攻撃が示... Mar 6, 2026 · https://pushsecurity.com/ 攻撃者はAnthropicのCLIツール「Claude Code」の公式インストールページをほぼ完全に複製し、Google広告経由で偽ページへ誘導しています。",
+    "url": "https://note.com/ai_jissennkai/n/n88ab1d57f43d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Google広告から偽AIツール導入ページへ誘導――「InstallFix」攻撃が示すソフトウェア導入の新リスク｜AIで何でも作ってみる部",
+    "url": "https://note.com/ai_jissennkai/n/n88ab1d57f43d",
+    "pass": 3
+   },
+   {
+    "quote": "Google広告から偽AIツール導入ページへ誘導――「InstallFix」攻撃が示すソフトウェア導入の新リスク",
+    "url": "https://note.com/ai_jissennkai/n/n88ab1d57f43d",
+    "pass": 3
+   },
+   {
+    "quote": "2026年3月6日、ブラウザセキュリティ企業Push Securityが「InstallFix」と名付けた新たなマルウェア配布手法のレポートを公開しました。",
+    "url": "https://note.com/ai_jissennkai/n/n88ab1d57f43d",
+    "pass": 3
+   },
+   {
+    "quote": "https://pushsecurity.com/",
+    "url": "https://note.com/ai_jissennkai/n/n88ab1d57f43d",
+    "pass": 3
+   },
+   {
+    "quote": "攻撃者はAnthropicのCLIツール「Claude Code」の公式インストールページをほぼ完全に複製し、Google広告経由で偽ページへ誘導しています。",
+    "url": "https://note.com/ai_jissennkai/n/n88ab1d57f43d",
+    "pass": 3
+   },
+   {
+    "quote": "こういうのはちゃんと理解して、ツールの導入や設定をしたいですよね",
+    "url": "https://note.com/ai_jissennkai/n/n88ab1d57f43d",
+    "pass": 3
+   },
+   {
+    "quote": "偽ページでは正規のインストールコマンドだけが攻撃者サーバーを指すものに差し替えられており、利用者がコマンドをターミナルに貼り付けるとマルウェアが実行されます。",
+    "url": "https://note.com/ai_jissennkai/n/n88ab1d57f43d",
+    "pass": 3
+   },
+   {
+    "quote": "Comparison of the legit page and install commands versus a malicious clone",
+    "url": "https://note.com/ai_jissennkai/n/n88ab1d57f43d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Push (@PushSecurity) / X The secure enterprise browser extension for the AI era. Combining browser telemetry and autonomous agents to stop advanced advanced attacks and secure AI usage.",
+    "url": "https://x.com/pushsecurity",
+    "pass": 3
+   },
+   {
+    "quote": "#PushSecurity adds malicious browser extension detection to ... Eric Vanderburg (@evanderburg). 20 views. #PushSecurity adds malicious browser extension detection to block threats in employee browsers https://t.co/ddzThD7QNU",
+    "url": "https://x.com/evanderburg/status/2029568937013432569",
+    "pass": 3
+   },
+   {
+    "quote": "Tyrone Erasmus (@metall0id) / Posts / X Join Luke Jennings, VP R&D at @PushSecurity, to explore what Snowflake shows us about the complexity of the identity attack surface, and discuss the practical steps that organizations can take to investigate and respond effectively.",
+    "url": "https://x.com/metall0id",
+    "pass": 3
+   },
+   {
+    "quote": "Push on X: \"Link to full ungated report: https://t.co ... Push @PushSecurity Nov 21, 2023 💥 NEW ungated report on how to own a company without touching the endpoint. 💡 New SaaS-focused variations of older attacks 💡 Brand new attack techniques against SaaS-native orgs #redteam #pentesting #pentest #blueteam #SaaSattacks #cloudsecurity #cyberthreats Link in 🧵 1 1 154 Push @PushSecurity",
+    "url": "https://x.com/PushSecurity/status/1726959925815845262",
+    "pass": 3
+   },
+   {
+    "quote": "Jacques Louw (@jacques_sec) / Posts / X We’re excited to announce our investment in @PushSecurity, a new cybersecurity company that uses conversational AI to help users protect themselves while using SaaS applications at work.",
+    "url": "https://x.com/jacques_sec",
+    "pass": 3
+   },
+   {
+    "quote": "Luke Jennings (@jukelennings) / X Now I'm extremely excited to be re-joining some of my closest friends at @PushSecurity to ride the start-up train for a third time.",
+    "url": "https://x.com/jukelennings",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Push Security - LinkedIn Push Security | 9,492 followers on LinkedIn. The Secure Enterprise Browser Extension Built for the AI era | Push Security is the secure enterprise browser extension for the AI era.",
+    "url": "https://www.linkedin.com/company/push-security",
+    "pass": 3
+   },
+   {
+    "quote": "Mark Orlando - Field CTO @ Push Security | Cybersecurity ...Adam Bateman //O - Co-founder, CEO at Push Security - LinkedInTyrone Erasmus //O - Push Security | LinkedInJack Heyden - GTM at Push | The Secure Enterprise Browser ...Push Security on LinkedIn: See a live demo of the Push ... Currently, Field CTO at Push Security; formerly, co-founder and CEO of Bionic Cyber, CTO of Raytheon Cyber, and D",
+    "url": "https://www.linkedin.com/in/marko16",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Bateman //O - Co-founder, CEO at Push Security - LinkedInTyrone Erasmus //O - Push Security | LinkedInJack Heyden - GTM at Push | The Secure Enterprise Browser ...Push Security on LinkedIn: See a live demo of the Push ... Launched into the wild in July 2022, Push Security is the secure enterprise browser extension for the AI era. Experience: Push Security · Education: University of Pretoria/U",
+    "url": "https://uk.linkedin.com/in/a-bateman",
+    "pass": 3
+   },
+   {
+    "quote": "Tyrone Erasmus //O - Push Security | LinkedInJack Heyden - GTM at Push | The Secure Enterprise Browser ...Push Security on LinkedIn: See a live demo of the Push ... Experience: Push Security · Education: University of Pretoria/Universiteit van Pretoria · Location: Pretoria Metropolitan Area · 500+ connections on LinkedIn. View Tyrone Erasmus //O’s... GTM at Push | The Secure Enterprise Browser Ext",
+    "url": "https://za.linkedin.com/in/tyrone-erasmus-o-02853823",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Bateman //O - Co-founder, CEO at Push Security - LinkedInPush Security CEO, Founder, Key Executive Team, Board of ...Adam Bateman - Smashing SecurityBrowser Safety: Push Security Co-Founder & CEO Adam Bateman ...Push Security CEO on browser security at Black Hat 2025Browser Security for the AI Era Launched into the wild in July 2022, Push Security is the secure enterprise browser extension fo",
+    "url": "https://uk.linkedin.com/in/a-bateman",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Celebrating #PushSecurity, Top InfoSec ... - Facebook Aug 5, 2026 · 🏆 Celebrating #PushSecurity, Top InfoSec Innovator Awards Finalist during #BlackHat! Featured in a Cyber Defense Magazine Spotlight Interview with...",
+    "url": "https://www.facebook.com/miliefsky/videos/-celebrating-pushsecurity-top-infosec-innovator-awards-finalist-during-blackhat-/1050784467917909/",
+    "pass": 3
+   },
+   {
+    "quote": "https://pushsecurity.com/blo... - Madison Computer Works, Inc ... https://pushsecurity.com/blog/consentfix PUSHSECURITY.COM ConsentFix: Browser-native ClickFix hijacks OAuth grants",
+    "url": "https://www.facebook.com/mcworks/posts/httpspushsecuritycomblogconsentfix/1388325886422771/",
+    "pass": 3
+   },
+   {
+    "quote": "We’re proud to welcome Access 2 Networks (A2N) and Push ... We’re proud to welcome Access 2 Networks (A2N) and Push Security as Gold Sponsors for the IAM Summit 2026, taking place on 28 January at Novotel Toronto Centre.",
+    "url": "https://www.facebook.com/nkstinc/videos/were-proud-to-welcome-access-2-networks-a2n-and-push-security-as-gold-sponsors-f/1524376248672563/",
+    "pass": 3
+   },
+   {
+    "quote": "New technique for... - West Wind Technology Solutions - Facebook Jul 22, 2021 · pushsecurity.com Consent phishing: the emerging phishing technique that can bypass 2FA | Push Security",
+    "url": "https://www.facebook.com/WestWindTechnologySolutions/posts/new-technique-for-phishing-emails-look-outhttpspushsecuritycomblogconsent-phishi/4458022594221484/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://pushsecurity.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pushsecurity.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pushsecurity.com/partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pushsecurity.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pushsecurity.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pushsecurity.com/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pushsecurity.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pushsecurity.com/resources/browser-attacks-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pushsecurity.com/blog/the-top-10-browser-security-solutions-in-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pushsecurity.com/demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pushsecurity.com/news/push-partners-with-proofpoint",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pushsecurity.com/news/push-security-guidepoint-strategic-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pushsecurity.com/news/push-security-launches-psan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pushsecurity.com/blog/7-things-omdias-latest-report-tells-us-about-the-secure-enterprise-browser-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pushsecurity.com/blog/agentic-threat-hunting-benefits-for-customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pushsecurity.com/blog/what-push-data-reveals-about-the-state-of-shadow-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pushsecurity.com/webinar/partner",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://pushsecurity.com/_ipx/_/site/investor-logos/decibel.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://pushsecurity.com/_ipx/_/site/investor-logos/Google%20Ventures%20Logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://pushsecurity.com/_ipx/_/site/investor-logos/Redpoint.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://pushsecurity.com/_ipx/_/site/investor-logos/B3%20Captial.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mainichi.jp/articles/20261107/k00/00m/010/253000c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/pushsecurity.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jsachukakukai.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.microsoft.com/ja-jp/product/wa200002833",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apnews.com/article/japan-government-takaichi-cybersecurity-package-cyberattack-8ba038fde849e7ea9c49126ecd770972",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/push-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-cybersecurity-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/push-security/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.superantispyware.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crowdstrike.com/en-us/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/pushsecurity.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/471720-88",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mandos.io/data/companies/push-security",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/push-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_jissennkai/n/n88ab1d57f43d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/pushsecurity",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/evanderburg/status/2029568937013432569",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/metall0id",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PushSecurity/status/1726959925815845262",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/push-security",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/marko16",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/a-bateman",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://za.linkedin.com/in/tyrone-erasmus-o-02853823",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/miliefsky/videos/-celebrating-pushsecurity-top-infosec-innovator-awards-finalist-during-blackhat-/1050784467917909/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mcworks/posts/httpspushsecuritycomblogconsentfix/1388325886422771/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nkstinc/videos/were-proud-to-welcome-access-2-networks-a2n-and-push-security-as-gold-sponsors-f/1524376248672563/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/WestWindTechnologySolutions/posts/new-technique-for-phishing-emails-look-outhttpspushsecuritycomblogconsent-phishi/4458022594221484/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/a-bateman",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/pushsecurity",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/metall0id",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/jacques_sec",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/jukelennings",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Pushsecurity 日本 導入",
+   "results": [
+    "https://mainichi.jp/articles/20261107/k00/00m/010/253000c",
+    "https://pushsecurity.com/",
+    "https://www.firstcvc.jp/global/pushsecurity.com",
+    "https://pushsecurity.com/about",
+    "https://jpn.nec.com/press/202609/20260902_03.html",
+    "https://qiita.com/nogataka/items/8448956292aa9cf2d89f",
+    "https://jp.linkedin.com/company/push-security"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pushsecurity 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://jsachukakukai.jp/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://pushsecurity.com/pricing",
+    "https://ja.nozominetworks.com/company",
+    "https://www.aon.com/japan/company-overview",
+    "https://jomon.group/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.digitalorigin.tw/global/ja/taiwan-distributor/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Pushsecurity Japan",
+   "results": [
+    "https://marketplace.microsoft.com/ja-jp/product/saas/wa200002833",
+    "https://apnews.com/article/japan-government-takaichi-cybersecurity-package-cyberattack-8ba038fde849e7ea9c49126ecd770972",
+    "https://pushsecurity.com/",
+    "https://pushsecurity.com/product",
+    "https://range.pushsecurity.com/",
+    "https://trust.pushsecurity.com/",
+    "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pushsecurity manufacturing customer case study",
+   "results": [
+    "https://pushsecurity.com/customer-stories/inductive-automation",
+    "https://www.casestudies.com/company/push-security",
+    "https://digitaldefynd.com/IQ/manufacturing-cybersecurity-case-studies/",
+    "https://www.cbinsights.com/company/push-security/customers",
+    "https://www.featuredcustomers.com/vendor/push-security",
+    "https://www.featuredcustomers.com/vendor/push-security/case-studies",
+    "https://pushsecurity.com/customer-stories"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pushsecurity white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.superantispyware.com/reseller-program",
+    "https://www.crowdstrike.com/en-us/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pushsecurity founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/pushsecurity.com",
+    "https://pitchbook.com/profiles/company/471720-88",
+    "https://mandos.io/data/companies/push-security",
+    "https://startupintros.com/orgs/push-security",
+    "https://fundediq.co/push-security-pushsecurity-com-funding/",
+    "https://compworth.com/company/push-security",
+    "https://www.zoominfo.com/c/push-security-ltd/556192330"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Pushsecurity",
+   "results": [
+    "https://note.com/ai_jissennkai/n/n88ab1d57f43d",
+    "https://note.com/red_structure/n/n26800395f1cf?hl=en",
+    "https://note.com/mb_sec/n/nf4fc61a08e5f",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/ks_kaz_game/n/ne3917b653272",
+    "https://note.com/samurai_ai/n/n4bbd078c4901",
+    "https://note.com/nashinokiyuu/n/n0a96e17802dc"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Pushsecurity",
+   "results": [
+    "https://x.com/pushsecurity",
+    "https://x.com/evanderburg/status/2029568937013432569",
+    "https://x.com/metall0id",
+    "https://x.com/PushSecurity/status/1726959925815845262",
+    "https://x.com/PushSecurity/status/1725189416367337768",
+    "https://x.com/jacques_sec",
+    "https://x.com/jukelennings"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Pushsecurity",
+   "results": [
+    "https://www.linkedin.com/company/push-security",
+    "https://www.linkedin.com/in/marko16",
+    "https://uk.linkedin.com/in/a-bateman",
+    "https://za.linkedin.com/in/tyrone-erasmus-o-02853823",
+    "https://uk.linkedin.com/company/push-security",
+    "https://www.linkedin.com/posts/push-security_see-a-live-demo-of-the-push-platform-push-activity-7264248157134376960-_IQj",
+    "https://www.linkedin.com/in/jack-heyden"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Pushsecurity",
+   "results": [
+    "https://www.facebook.com/miliefsky/videos/-celebrating-pushsecurity-top-infosec-innovator-awards-finalist-during-blackhat-/1050784467917909/",
+    "https://www.facebook.com/mcworks/posts/httpspushsecuritycomblogconsentfix/1388325886422771/",
+    "https://www.facebook.com/nkstinc/videos/were-proud-to-welcome-access-2-networks-a2n-and-push-security-as-gold-sponsors-f/1524376248672563/",
+    "https://www.facebook.com/WestWindTechnologySolutions/posts/new-technique-for-phishing-emails-look-outhttpspushsecuritycomblogconsent-phishi/4458022594221484/",
+    "https://www.facebook.com/pushbypullaapp/",
+    "https://www.facebook.com/100064956254506/posts/push-raises-15-million-and-launches-new-visibility-and-employee-powered-tools-to/606760451499158/",
+    "https://www.facebook.com/thehackernews/posts/did-you-know-security-teams-can-now-enforce-mfa-on-user-accounts-directly-in-the/988532369978013/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pushsecurity note 社長",
+   "results": [
+    "https://pushsecurity.com/about",
+    "https://uk.linkedin.com/in/a-bateman",
+    "https://www.cbinsights.com/company/push-security/people",
+    "https://www.smashingsecurity.com/people/adam-bateman/",
+    "https://tech.yahoo.com/cybersecurity/articles/browser-safety-push-security-co-214934406.html",
+    "https://www.linkedin.com/posts/alanshimel_enhancing-browser-security-with-push-security-activity-7362206811707297793-0jAr",
+    "https://pushsecurity.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pushsecurity X 投稿",
+   "results": [
+    "https://x.com/pushsecurity",
+    "https://x.com/metall0id",
+    "https://x.com/jacques_sec",
+    "https://x.com/jukelennings",
+    "https://github.com/pushsecurity/",
+    "https://pushsecurity.com/",
+    "https://pushsecurity.com/product"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部37頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

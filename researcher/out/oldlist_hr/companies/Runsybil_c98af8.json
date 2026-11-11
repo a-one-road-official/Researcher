@@ -1,0 +1,1289 @@
+{
+ "name": "Runsybil",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜状態なし",
+ "researched_at": "2026-11-11T09:07:38.405329+00:00",
+ "official_url": "https://www.runsybil.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "ENTERPRISE-READY Capabilities",
+    "url": "https://www.runsybil.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sybil delivers measurable improvements to your security posture and development velocity, transforming how you approach offensive security",
+    "url": "https://www.runsybil.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“RunSybil’s expertise was instrumental in enhancing our security posture, providing us with critical insights for a confident launch.”",
+    "url": "https://www.runsybil.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"RunSybil was an excellent partner for us. They pressure-tested our systems ahead of a major release and delivered fast, high-quality results at a competitive price — on par with top pen-testing firms.\"",
+    "url": "https://www.runsybil.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Technical Program Manager, Notion",
+    "url": "https://www.runsybil.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your critical systems, the ones handling customer data, transactions, and access, need more than a scanner and an annual pentest. Sybil tests them the way an elite researcher would: probing logic, chaining vulnerabilities, and validating exploitability. On every deployment.",
+    "url": "https://www.runsybil.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sybil builds a model of your application and infrastructure, and keeps it current. On every deployment, it doesn't re-run generic checks. It evaluates what changed, understands how that change affects your specific attack surface, and surfaces only the risks that are new or newly exploitable. Coverage that gets smarter with every sprint, not just faster.",
+    "url": "https://www.runsybil.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cross-tenant data access, privilege escalation, transaction manipulation, broken authorization. Sybil tests for these through adversarial reasoning, the same way an attacker would find them, not a scanner.",
+    "url": "https://www.runsybil.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bug bounties are expensive and unpredictable. Point-in-time pentests go stale the moment you ship. Sybil replaces both with continuous coverage across application and infrastructure layers, pre-validated findings, zero triage burden, predictable cost.",
+    "url": "https://www.runsybil.com/",
+    "pass": 1
+   },
+   {
+    "quote": "IAM misconfigurations, container escapes, CI/CD secret exposure, lateral movement paths. Most tools test these in isolation. Sybil reasons across layers, identifying how an application vulnerability becomes the entry point for full infrastructure compromise. The chains that connect them are where real breaches happen.",
+    "url": "https://www.runsybil.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most CTEM programs stop at Discovery and Prioritization; finding exposures and ranking them by theoretical risk.",
+    "url": "https://www.runsybil.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sybil continuously attacks your applications and infrastructure with real adversarial reasoning, proving whether what your other tools found is actually exploitable. Not simulated. Not periodic. Continuous offensive testing that turns your CTEM program from a framework into an operational reality.",
+    "url": "https://www.runsybil.com/",
+    "pass": 1
+   },
+   {
+    "quote": "api/routes/invoices.py · PR #4128",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Confirmed: a low-privilege user in Org A can enumerate invoice IDs and read Org B's data via a shared billing proxy.",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "PR opened: scoped query + regression test attached, ready to merge.",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "What an anonymous or low-privilege attacker can actually reach and do from outside your perimeter.",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Every Sybil engagement moves through the same pipeline, whether it's a one-time pentest or ongoing coverage — access confirmed, surface mapped, techniques chained, findings independently reproduced, fixes shipped back.",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Content-Type: text/html; charset=utf-8",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Content-Length: 5088",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Cache-Control: max-age=0, no-cache, no-store, must-revalidate, private",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "X-Content-Type-Options: nosniff",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Testing is prioritized by risk, then real attack techniques get run against the target — not a fixed checklist.",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Anything that looks like a real weakness gets flagged as a candidate finding.",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "A separate pass independently reproduces it into a canonical finding, then chains it to see how far a real attacker could actually get.",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Content-Type: application/json",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Content-Length: 866",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Fix guidance ships precise enough to hand an autonomous coding assistant, with retesting available to confirm it holds.",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Content-Length: 512",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Black box proves what an outsider can reach. Some questions live deeper than the perimeter — broken authorization logic, internal APIs, role boundaries that only show up once you can read the code. That's white box.",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Full source access, credentials across roles, and infra/config — the blueprints, not just the walls.",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Reading the code pointed straight at the check; testing every role and org combination against it confirmed the gap holds in practice, not just on the page.",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Confirmed: a low-privilege account in Org A enumerates invoice IDs and reads Org B's data through a shared billing proxy. —",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Remediation shipped precise enough to hand to an autonomous coding assistant: scoped query + regression test. Retest available to confirm it holds once merged.",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Teams that want an always-on relationship with a human tester pool without re-procuring each time",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Black box, white box, gray box, or a mix — without hiring two vendors or running two separate playbooks.",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Test and prove, not just scan",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Every finding ships with a working exploit and independent reproduction, not a severity score someone else has to argue with.",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Sybil is the automated product security engineering layer for the AI-native SDLC. It discovers what changed, decides what actually needs testing, proves what’s exploitable, and opens a fix back into the pipeline. All of it runs continuously, at the speed your agents are already shipping code.",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "See Sybil on your last 100 PRs",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "api/routes/invoices.py · PR #4128",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Confirmed: a low-privilege user in Org A can enumerate invoice IDs and read Org B's data via a shared billing proxy.",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "PR opened: scoped query + regression test attached, ready to merge.",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "the rate AI coding agents can already out-produce human code review. That's the pace validation now has to match.",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "AppSec engineers per developer at the median enterprise, and that's before we consider how agentic development is scaling their output.",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "(Industry AppSec hiring benchmark, 2026)",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "of AppSec job postings call for scanning tool skills. Only 24% call for remediation.",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Content-Type: text/html; charset=utf-8",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Content-Length: 5088",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Cache-Control: max-age=0, no-cache, no-store, must-revalidate, private",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "X-Content-Type-Options: nosniff",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Authenticated, application-aware testing that proves exploitability, not another theoretical finding to triage.",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Content-Type: application/json",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Content-Length: 866",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Content-Length: 512",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Sybil exercises the application and proves exploitability, rather than adding to a queue of theoretical findings someone else has to triage.",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Validation and remediation land inside the sprint, the PR, the pipeline, not a side queue that depends on someone chasing it down.",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Every validated result updates a live picture of where exposure concentrates and where it’s proven clean, so the next round of testing knows where to look first. That same picture doubles as the defensible record for your board, your auditors, and your next funding round’s security review. We think that’s what “coverage” should mean industry-wide, not an asset count.",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "We sit inside your CTEM program. We don’t ask you to build a new one.",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "You define what the program protects and how success is measured. That stays a human, organizational decision.",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Authenticated, application-aware testing proves which exposures are real. Existing pentest and bounty findings feed in here too.",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by security-serious teams",
+    "url": "https://www.runsybil.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by security & engineering teams",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by high velocity teams",
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by security & engineering teams — including at Carta",
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by security & engineering teams",
+    "url": "https://www.runsybil.com/solutions/continuous-security-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by security & engineering teams — including at Carta",
+    "url": "https://www.runsybil.com/solutions/soc-2-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Hackers, builders, researchers, creatives, and operators building a safer internet.",
+    "url": "https://www.runsybil.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "RunSybil is trusted by security-serious teams.",
+    "url": "https://www.runsybil.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by high velocity teams",
+    "url": "https://www.runsybil.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Carta Case Study: Continuous Security Testing | RunSybil",
+    "url": "https://www.runsybil.com/case-studies/carta",
+    "pass": 1
+   },
+   {
+    "quote": "Carta is the ERP platform for Private Capital, trusted by companies worldwide to manage equity and ownership. To protect the $5 trillion in equity it manages, Carta had already invested in a comprehensive security program, including a growing application security team, SAST, SCA, secrets scanning, CSPM, and bug bounties.",
+    "url": "https://www.runsybil.com/case-studies/carta",
+    "pass": 1
+   },
+   {
+    "quote": "Cursor Case Study: Fast, Validated Pentesting | RunSybil",
+    "url": "https://www.runsybil.com/case-studies/cursor",
+    "pass": 1
+   },
+   {
+    "quote": "Sybil is building towards being a trusted, automated extension of every security team, a security engineer, pentester, and software engineer that works without needing constant attention or coordination, freeing humans to focus on building world-class products used by millions.",
+    "url": "https://www.runsybil.com/case-studies/cursor",
+    "pass": 1
+   },
+   {
+    "quote": "Foundry Robotics is an AI driven robotics company rebuilding manufacturing with advanced assembly automation…",
+    "url": "https://fundediq.co/runsybil-runsybil-com-funding/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "For white box apps, Sybil reads the diff of everything merged since the last test, groups the changes by the part of your app they affect, and ranks each by risk. For black box apps, it compares each crawl to the last and flags what's new. Each test plan explains what changed and what Sybil will focus on, and every recommendation is tied to an actual change.",
+    "url": "https://www.runsybil.com/solutions/continuous-security-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Arrives with the final report",
+    "url": "https://www.runsybil.com/solutions/soc-2-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "CC7.1 covers responding to vulnerabilities, not just finding them. Each finding carries a status, open, remediated, or retest-verified fixed, so your auditor sees a closed loop: what was found, what got fixed, and how the fix was confirmed, all in the same report.",
+    "url": "https://www.runsybil.com/solutions/soc-2-penetration-testing",
+    "pass": 1
+   },
+   {
+    "quote": "RunSybil enabled Carta to complete a fast, thorough security review of an M&A target mid-acquisition, surfacing actionable findings within minutes and now serving as a core part of Carta's evaluation process",
+    "url": "https://www.runsybil.com/case-studies/carta",
+    "pass": 1
+   },
+   {
+    "quote": "Business context and exploitability patterns didn't carry over from year to year",
+    "url": "https://www.runsybil.com/case-studies/carta",
+    "pass": 1
+   },
+   {
+    "quote": "RunSybil's first engagement was a time-sensitive M&A review, where it surfaced exploitable vulnerabilities far faster than Carta's traditional methods could, enabling Carta to remediate them during the M&A process. Today, RunSybil is an integral part of Carta’s evaluation process.",
+    "url": "https://www.runsybil.com/case-studies/carta",
+    "pass": 1
+   },
+   {
+    "quote": "startups like Cursor and Notion, as well as several major financial institutions and Fortune 500 companies",
+    "url": "https://www.ainvest.com/ja/news/runsybil-40m-flow-capital-ai-offensive-security-2603/",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500",
+    "url": "https://fortune.com/2026/03/18/exclusive-ai-cybersecurity-startup-runsybil-founded-by-openais-first-security-hire-raises-40-million-led-by-khosla-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "Down Arrow Button Icon",
+    "url": "https://fortune.com/2026/03/18/exclusive-ai-cybersecurity-startup-runsybil-founded-by-openais-first-security-hire-raises-40-million-led-by-khosla-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "that “what it takes to add security and penetration testing to the AI world is definitely frontier—RunSybil is on the edge.” There is currently little competition in this part of the offensive security market, he said, though security incumbents such as Palo Alto Networks may eventually move into the space.",
+    "url": "https://fortune.com/2026/03/18/exclusive-ai-cybersecurity-startup-runsybil-founded-by-openais-first-security-hire-raises-40-million-led-by-khosla-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "Herbert-Voss has long been steeped in both hacking and AI. Growing up in a mostly Mormon community in Utah, he said he was drawn to the online hacker scene in middle and high school but pivoted away after friends “started getting arrested.” While pursuing a Ph.D. at Harvard University studying machine learning and ways to make algorithms more efficient, he first heard about OpenAI.",
+    "url": "https://fortune.com/2026/03/18/exclusive-ai-cybersecurity-startup-runsybil-founded-by-openais-first-security-hire-raises-40-million-led-by-khosla-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "RunSybil currently works with startups including Cursor, Turbopuffer, Notion, Baseten, and Thinking Machines Lab. The company says it also works with several major financial institutions and Fortune 500 companies, though it declined to name those customers.",
+    "url": "https://fortune.com/2026/03/18/exclusive-ai-cybersecurity-startup-runsybil-founded-by-openais-first-security-hire-raises-40-million-led-by-khosla-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "breaks the traditional barrier between audience and newsroom. The show transforms",
+    "url": "https://fortune.com/2026/03/18/exclusive-ai-cybersecurity-startup-runsybil-founded-by-openais-first-security-hire-raises-40-million-led-by-khosla-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "Right Arrow Button Icon",
+    "url": "https://fortune.com/2026/03/18/exclusive-ai-cybersecurity-startup-runsybil-founded-by-openais-first-security-hire-raises-40-million-led-by-khosla-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500 Europe",
+    "url": "https://fortune.com/2026/03/18/exclusive-ai-cybersecurity-startup-runsybil-founded-by-openais-first-security-hire-raises-40-million-led-by-khosla-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "RunSybil has 17 total employees.",
+    "url": "https://pitchbook.com/profiles/company/535937-32",
+    "pass": 3
+   },
+   {
+    "quote": "What is RunSybil’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/535937-32",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for RunSybil is",
+    "url": "https://pitchbook.com/profiles/company/535937-32",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does RunSybil have?",
+    "url": "https://fundediq.co/runsybil-runsybil-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/runsybil-runsybil-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/runsybil-runsybil-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "60億ドル規模の合併で、世界初級の上場核融合企業と50MWe実証プラントが計画され、トランプ政権は新型炉に",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "RunSybil | Rethink Application Security — RunSybil is an autonomous offensive security solution. Find exploitable vulnerabilities before a breach, eliminate noise, and remediate at enterprise scale.",
+    "url": "https://www.runsybil.com/",
+    "pass": 3
+   },
+   {
+    "quote": "RunSybilの4, 000万ドル： AI攻撃セキュリティへの資本流入 — Mar 18, 2026 · . RunSybilの 4, 000万ドルを調達 リアルタイムアプリケーションの自律的なペネトレーションテストを継続的に実施するSybilという人工知能エージェントに資金を提供。 . これは、Claude Code Securityのような従来の導入前コード分析ツールからの根本的な変更です。 .",
+    "url": "https://www.ainvest.com/ja/news/runsybil-40m-flow-capital-ai-offensive-security-2603/",
+    "pass": 3
+   },
+   {
+    "quote": "RunSybil Raises $40M to Build the AI-Native Platform for ... — About RunSybil RunSybil is building the AI-native platform for offensive security. The Sybil platform dynamically understands your infrastructure and applications to find exploitable vulnerabilities the way attackers do, going beyond code analysis to uncover authentication flows, data exposure, and chained vulnerability paths.",
+    "url": "https://www.runsybil.com/blog/runsybil-raises-40m-to-build-the-ai-native-platform-for-offensive-security",
+    "pass": 3
+   },
+   {
+    "quote": "RunSybil、4000万ドル調達：OpenAI初のセキュリティ研究者がAIペンテ... — Mar 30, 2026 · OpenAIの最初のセキュリティ研究者が退職し、OpenAI自身にはできないものを作った。Ari Herbert-VossはMetaで攻撃的セキュリティレッドチームを率いたVlad Ionescuと共にRunSybilを設立。Khosla Ventures主導の4000万ドルを調達し、本番アプリケーションを自律的にハッ",
+    "url": "https://clauday.com/article/46b48670-0a73-4adc-b5de-e71259e905e2",
+    "pass": 3
+   },
+   {
+    "quote": "AI侵入テストツール「RunSybil」で、バイブコーディングでつくったサ... — Aug 12, 2025 · OpenAI初のセキュリティ研究者が立ち上げたRunSybilは、AIエージェントでウェブサイトの脆弱性を自動検出する技術を開発。サイバー攻撃にAIが使わ ...",
+    "url": "https://wired.jp/article/i-watched-ai-agents-try-to-hack-my-vibe-coded-website/",
+    "pass": 3
+   },
+   {
+    "quote": "Careers | RunSybil — We're looking for people with a hunger to be on the leading edge of AI and security. The industry is clearly changing, and RunSybil is shaping that future.",
+    "url": "https://www.runsybil.com/careers",
+    "pass": 3
+   },
+   {
+    "quote": "RunSybil - LinkedIn — RunSybil is an AI-powered offensive security platform that continuously tests your applications and infrastructure for exploitable vulnerabilities by reasoning about your system the way an elite ...",
+    "url": "https://www.linkedin.com/company/runsybil",
+    "pass": 3
+   },
+   {
+    "quote": "Exclusive: AI cybersecurity startup RunSybil raises $40 ... — Mar 18, 2026 · RunSybil, an AI cybersecurity startup that uses AI agents to automatically hack company software to find security weaknesses, has secured $40 million in venture capital funding.",
+    "url": "https://fortune.com/2026/03/18/exclusive-ai-cybersecurity-startup-runsybil-founded-by-openais-first-security-hire-raises-40-million-led-by-khosla-ventures/",
+    "pass": 3
+   },
+   {
+    "quote": "Exclusive: AI cybersecurity startup RunSybil, founded by ... — Mar 18, 2026 · RunSybil, an AI cybersecurity startup that uses AI agents to automatically hack company software to find security weaknesses, has secured $40 million in venture capital funding.",
+    "url": "https://finance.yahoo.com/news/exclusive-ai-cybersecurity-startup-runsybil-100346844.html?fr=sycsrp_catchall",
+    "pass": 3
+   },
+   {
+    "quote": "Customers | RunSybil — Explore how high-velocity teams use RunSybil for penetration testing and vulnerability assessments. 200+ companies, 1500+ vulnerabilities discovered.",
+    "url": "https://www.runsybil.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "How Furl Landed a New Customer in Days | RunSybil Case Study ... — Check out the first case study that I wrote for RunSybil. Great use by a startup that not only helped them with compliance but also helped them grab a new customer!",
+    "url": "https://www.linkedin.com/posts/sharongaudin_how-furl-landed-a-new-customer-in-days-activity-7513208551771762688-f56q",
+    "pass": 3
+   },
+   {
+    "quote": "Furl.ai Case Study: Pentest Results in Days | RunSybil — See how Furl used RunSybil’s continuous testing to get findings in 17 minutes, cut turnaround time by up to 95%, and secure a key customer deal.",
+    "url": "https://www.runsybil.com/case-studies/furl",
+    "pass": 3
+   },
+   {
+    "quote": "How Furl Landed a New Customer in Days | RunSybil Case Study ... — By deploying RunSybil's continuous autonomous AI agents, Furl was able to: ⚡ Surface the first finding in 17 minutes and receive a report in days. 🎯 Reduce noise by 99%, filtering 543 raw ...",
+    "url": "https://www.linkedin.com/posts/runsybil_how-furl-landed-a-new-customer-in-days-activity-7512911838968168448-RgGm",
+    "pass": 3
+   },
+   {
+    "quote": "RunSybil 2026 Company Profile: Valuation, Funding & Investors ...RunSybil: Funding, Investors & Team (Oct 2026) | FundedIQRunSybil - 2026 Company Profile, Team, Funding & Competitors ...Exclusive: AI cybersecurity startup RunSybil raises $40 ...RunSybil: $40M raised, 20 employees, founded 2023 | MandosExclusive: AI cybersecurity startup RunSybil, founded by ...About RunSybil | AI-Native Offensive ",
+    "url": "https://pitchbook.com/profiles/company/535937-32",
+    "pass": 3
+   },
+   {
+    "quote": "RunSybil: Funding, Investors & Team (Oct 2026) | FundedIQ — Who founded RunSybil? FundedIQ lists Vlad Ionescu (Founder) at RunSybil. Where is RunSybil headquartered? RunSybil is based in San Francisco, California, United States. How many employees does RunSybil have? RunSybil is in the 11-50 employee band. How does RunSybil's funding compare to other Artificial Intelligence startups?",
+    "url": "https://fundediq.co/runsybil-runsybil-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "RunSybil - 2026 Company Profile, Team, Funding & Competitors ... — Mar 21, 2026 · RunSybil is a series C company based in San Francisco (United States), founded in 2023 by Ariel Herbert- Voss. It operates as a Provider of AI based cybersecurity solutions for businesses. RunSybil has raised $40M in funding. The company has 128 active competitors, including 20 funded and 5 that have exited. Its top ",
+    "url": "https://tracxn.com/d/companies/runsybil/__q5jjGdQiO9j14zmSgMRa-v2bmk8UoSDsS310rRPs_gk",
+    "pass": 3
+   },
+   {
+    "quote": "RunSybil: $40M raised, 20 employees, founded 2023 | Mandos — Sep 19, 2026 · RunSybil is a cybersecurity company specializing in Attack Surface, founded in 2023 and headquartered in San Francisco, United States. It has raised $40M in total funding, employs about 20 people, and is privately held.",
+    "url": "https://mandos.io/data/companies/runsybil",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/535937-32",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/runsybil-runsybil-com-funding/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…",
+    "url": "https://fundediq.co/runsybil-runsybil-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【2026-05-03速報】\"5ヶ月→10時間\"でゼロデイが突かれる時代へ ― RunS... May 2, 2026 · 「バグ発見から悪用コード作成までが、5ヶ月から10時間に縮んだ」――2026年4月27日のBlack Hat Asiaで、RunSybil CEOのAri Herbert-Voss氏が壇上で告げたこの数字は、業界をざわつかせた。さらに同月、Anthropicの新型サイバー特化モデル「Claude Mythos Preview」は、人間の介在ゼロで17年間放置されていたFreeBSD ...",
+    "url": "https://note.com/mindorbit_bot_ai/n/n930b8e0441d2",
+    "pass": 3
+   },
+   {
+    "quote": "AIエージェントがウェブサイトに挑戦？自律型AIが示す新たなセキュリ... Jul 31, 2025 · こんにちは、アトムです。 最近は新しいAIサービスが次々と登場し、その進化のスピードには驚かされるばかりです。まさに、私たちの生活や働き方が大きく変わろうとしている過渡期にいるのだと感じます。 I Watched AI Agents Try to Hack My Vibe-Coded Website RunSybil, a startup founded by OpenAI’s first security ...",
+    "url": "https://note.com/atosantasan/n/n0fbba4a237b3",
+    "pass": 3
+   },
+   {
+    "quote": "サイバー・防衛・電力。日本が一番弱い3領域に、いま海外マネーが殺到... Jun 8, 2026 · これはサイバーセキュリティ史上\"最大のシリーズA\"だという。 OpenAIの初代セキュリティ担当が創業した RunSybilは、AIでペネトレーションテスト（侵入テスト）を自動化し、Khosla主導で 4,000万ドル（$40M）を集めている。",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【2026-05-03速報】\"5ヶ月→10時間\"でゼロデイが突かれる時代へ ― RunSybilとClaude MythosのFreeBSD 17年放置RCE自動発見が突きつけた、防御側の3つの構造変化｜MindOrbit AI@Claudeを使った自動ブログ運営",
+    "url": "https://note.com/mindorbit_bot_ai/n/n930b8e0441d2",
+    "pass": 3
+   },
+   {
+    "quote": "【2026-05-03速報】\"5ヶ月→10時間\"でゼロデイが突かれる時代へ ― RunSybilとClaude MythosのFreeBSD 17年放置RCE自動発見が突きつけた、防御側の3つの構造変化（NotebookLM 50ソース集約／マインドマップ＆音声付）",
+    "url": "https://note.com/mindorbit_bot_ai/n/n930b8e0441d2",
+    "pass": 3
+   },
+   {
+    "quote": "MindOrbit AI@Claudeを使った自動ブログ運営",
+    "url": "https://note.com/mindorbit_bot_ai/n/n930b8e0441d2",
+    "pass": 3
+   },
+   {
+    "quote": "「バグ発見から悪用コード作成までが、5ヶ月から10時間に縮んだ」――2026年4月27日のBlack Hat Asiaで、RunSybil CEOのAri Herbert-Voss氏が壇上で告げたこの数字は、業界をざわつかせた。さらに同月、Anthropicの新型サイバー特化モデル「Claude Mythos Preview」は、人間の介在ゼロで17年間放置されていたFreeBSDのカーネルRCEを自律発見・悪用までやってのけた。これはもう「いつかの未来」ではない。今日、CISO/SREが今夜から覚悟しなければならない3つの構造変化を、NotebookLMで50ソースを集約・整理し、マインドマップと音声でいっきに通勤時間に詰め込めるかたちにまとめた。",
+    "url": "https://note.com/mindorbit_bot_ai/n/n930b8e0441d2",
+    "pass": 3
+   },
+   {
+    "quote": "要点は3つ。(1) 攻撃の自動化が「専門家しか書けない高度exploit」を「コモディティの量産品」に押し下げ、攻撃の限界費用がほぼゼロに近づいた。(2) 17年眠っていた脆弱性が一晩で表面化する以上、CVE公表→パッチ適用のSLOを「30日」から「24時間」に切り替えないと持たない。(3) Pentagon × Anthropic Mythosの\"Exit Ramp\"の動きが示す通り、防御側AIへのアクセスは国家戦略級の希少資源化しつつある。",
+    "url": "https://note.com/mindorbit_bot_ai/n/n930b8e0441d2",
+    "pass": 3
+   },
+   {
+    "quote": "■ 構造変化(1)：Offensive AIの限界費用がゼロに近づいた",
+    "url": "https://note.com/mindorbit_bot_ai/n/n930b8e0441d2",
+    "pass": 3
+   },
+   {
+    "quote": "RunSybilのHerbert-Voss氏が示したのは、単一モデルの性能向上ではない。\"agentic offensive security\"――複数の高性能LLMをツール呼び出しで連鎖させ、サービス偵察→脆弱性候補の列挙→PoC生成→exploit化→ROPチェーン構築までを1ジョブで完走させる、というフルスタックの自動化レイヤーが立ち上がりつつある事実だ。Menlo Venturesは同テーマで「Tipping Point」というレポートを出し、攻撃側AIへのVCの資金流入が\"defense\"側を逆転しつつあると指摘する。Palo Alto Unit42のレポート「Fracturing Software Security With Frontier AI Models」も、frontier modelが「フルスペクトラム研究者として動く」現状を認めている。要するに「Bug Bount",
+    "url": "https://note.com/mindorbit_bot_ai/n/n930b8e0441d2",
+    "pass": 3
+   },
+   {
+    "quote": "■ 構造変化(2)：17年眠っていたFreeBSD RCEが一晩で表面化した意味",
+    "url": "https://note.com/mindorbit_bot_ai/n/n930b8e0441d2",
+    "pass": 3
+   },
+   {
+    "quote": "サイバー・防衛・電力。日本が一番弱い3領域に、いま海外マネーが殺到している｜Masa｜ラグレスポータル",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "サイバー・防衛・電力。日本が一番弱い3領域に、いま海外マネーが殺到している",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "今日いちばん面白かったのは「画面の外」の話だった",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "毎朝、米国のテックニュースを横断して「英語圏で流行っているのに日本にまだ無いもの」を探している。正直なところ、ここ数週間はずっと\"AIエージェント\"の話ばかりだった。プロンプト欄が消える、カスタマーサポートをエージェントが全部やる、法律事務所がソフトウェアになる──どれも面白いのだけれど、毎日見ていると少し食傷気味になってくる。",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "ところが今日（2026年6月3日）の収集結果を眺めていて、ハッと手が止まった。資本の流れの\"重心\"が、明らかに一段ズレていたのだ。",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "何にズレたか。ひとことで言えば「画面の中のソフトウェア」から「物理世界と、その土台」へ、である。サイバーセキュリティ（守り）、防衛・ロボティクス（物理）、そしてAIデータセンターの電力＝原子力・核融合（土台）。この3つに、今週だけでも目を疑うような金額が流れ込んでいた。",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "そして面白いのは、この3領域がそろって「日本が構造的にめちゃくちゃ弱いところ」だということ。セキュリティ人材は足りない、防衛テックのスタートアップは事実上いない、電力は制約だらけ。つまり\"ギャップ\"がくっきり見える。今日はこの話をじっくりしたい。読み終わる頃には、明日のあなたの調べものリストが3行くらい増えているはずだ。",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "① サイバーセキュリティが「AI最大の防御フロンティア」になった",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本が一番弱い3領域に、いま海外マネーが殺到している｜Masa｜ラグレスポータル",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "日本が一番弱い3領域に、いま海外マネーが殺到している",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "毎朝、米国のテックニュースを横断して「英語圏で流行っているのに日本にまだ無いもの」を探している",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "そして面白いのは、この3領域がそろって「日本が構造的にめちゃくちゃ弱いところ」だということ",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "では、日本はどうか",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "ここに「アラートを検知し、調査・トリアージ・一次対応まで日本語で自走するエージェント型SOC」というプロダクトを置いたら、どうだろう",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "しかも改正個人情報保護法や経済安全保障推進法でインシデント報告の義務が重くなっている今、「何が起きて、何をしたか」を説明可能なログとして残せる\"日本仕様の自律SOC\"は、それ自体が強い堀になる",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "基盤モデルとEDR連携は外部のものを使えばいいので、勝負どころは日本語のアラート対応と報告様式の作り込みだ",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "② 防衛・自律ロボティクスに世界の資本が殺到、日本はほぼ空白",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "防衛、と聞いた瞬間に「日本では無理でしょ」と思った人もいるかもしれない",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "日本は今、防衛費をGDP比",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "少子化で自衛隊員も警備員もインフラ点検作業員も確保が難しくなっていく日本の構造は、むしろ自律システムの普及を後押しする",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "とりわけSkild AI型の\"ロボット非依存の汎用脳\"は、世界に冠たる製造業ロボット大国・日本のハード資産を活かせる、稀有な領域だ",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "日本はデータセンターの新設が首都圏に集中する一方で、電力系統の制約、再エネ接続の渋滞、原発再稼働の遅れが重なり、「AI向けの安価で安定した大電力」が構造的に足りない",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   },
+   {
+    "quote": "日本にも京都フュージョニアリングのような核融合スタートアップは存在するが、米国のように\"大型資本×データセンター需要\"を直結させるモデルはまだ未成熟だ",
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Sybil (@runsybil) / X RunSybil CEO, @adversariel, is speaking @defcon Asia today at 3:00PM GMT+8. This talk is a technical field report that digs into why it's possible for AI to hack.",
+    "url": "https://x.com/runsybil",
+    "pass": 3
+   },
+   {
+    "quote": "Sybil on X: \"welcome to RunSybil, Alice she’s into open ... welcome to RunSybil, Alice 👋 she’s into open-source cybersecurity, network science, and graphs + hypergraphs. apparently, they’re everywhere. we’ve been warned. when she’s not finding graphs in everything, she’s running, playing music, hosting movie nights, and living, laughing & loving life in …",
+    "url": "https://x.com/runsybil/status/2108225928136462395",
+    "pass": 3
+   },
+   {
+    "quote": "The way we hack is changing and we're building what comes ... Sybil (@runsybil). 62 likes 6 replies. The way we hack is changing and we're building what comes next We've raised a total of $40M to create the AI-native platform for offensive security",
+    "url": "https://x.com/runsybil/status/2034348876082413578",
+    "pass": 3
+   },
+   {
+    "quote": "Sybil on X: \"RunSybil has a new storyteller. Meet Sharon ... RunSybil has a new storyteller. Meet Sharon Gaudin, our Senior Technical Content Marketing Writer. Sharon is a journalist who has written extensively about technology and science, including covering the first insider computer sabotage case in the U.S. Her first-ever interview?",
+    "url": "https://x.com/runsybil/status/2093008650881093850",
+    "pass": 3
+   },
+   {
+    "quote": "Sybil (@runsybil) / X For @cartainc, working with RunSybil means continuous coverage of their attack surface, insight into novel attack vectors beyond known bug patterns, and remediation that matches the speed of development.",
+    "url": "https://x.com/runsybil",
+    "pass": 3
+   },
+   {
+    "quote": "Carter Miller (@Carter_RunSybil) / Posts / X Exclusive: RunSybil, a startup using AI to automate penetration testing, raises $40M in VC funding... fortune.com 💬0 🔄4 🤍7 📊2270 📎 🔁Reposted by Carter Miller Vlad Ionescuucsenoi Mar 18 We built one hell of an 0day printer already, $40M will take us even farther 💬0 🔄7 🤍60 📊18551 📎 🔁Reposted by Carter Miller ...",
+    "url": "https://x.com/Carter_RunSybil",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "RunSybil - LinkedIn RunSybil | 3,611 followers on LinkedIn. Rethink Application Security | RunSybil is an AI-powered offensive security platform that continuously tests your applications and infrastructure for ...",
+    "url": "https://www.linkedin.com/company/runsybil",
+    "pass": 3
+   },
+   {
+    "quote": "Austin Zheutlin - RunSybil | LinkedInAriel Herbert-Voss - CEO and Co-Founder of RunSybil | LinkedInVlad Ionescu - Co-founder & CTO @ RunSybil - LinkedInCarter Miller - Member of Operations at RunSybil | LinkedInEric O'Neill - RunSybil | LinkedInLuca K. - Founding Engineer @ RunSybil | Leader, Software ... Experience: RunSybil · Education: The University of Chicago · Location: San Francisco · 500+ ",
+    "url": "https://www.linkedin.com/in/austindz",
+    "pass": 3
+   },
+   {
+    "quote": "Ariel Herbert-Voss - CEO and Co-Founder of RunSybil | LinkedInVlad Ionescu - Co-founder & CTO @ RunSybil - LinkedInCarter Miller - Member of Operations at RunSybil | LinkedInEric O'Neill - RunSybil | LinkedInLuca K. - Founding Engineer @ RunSybil | Leader, Software ... CEO and Co-Founder of RunSybil · Location: San Francisco · 500+ connections on LinkedIn. View Ariel Herbert-Voss’ profile on Linke",
+    "url": "https://www.linkedin.com/in/adversariel",
+    "pass": 3
+   },
+   {
+    "quote": "Vlad Ionescu - Co-founder & CTO @ RunSybil - LinkedInCarter Miller - Member of Operations at RunSybil | LinkedInEric O'Neill - RunSybil | LinkedInLuca K. - Founding Engineer @ RunSybil | Leader, Software ... Co-founder & CTO @ RunSybil | OffSec ♡ AI | Ex-Meta · If you send me a connect request and we haven't met, make it easy for me to accept by adding a note! Hiring founding engineers: product ..",
+    "url": "https://www.linkedin.com/in/vladionescu0000000000",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Techmeme - RunSybil, whose AI agent runs continuous... | Facebook Mar 18, 2026 · RunSybil, whose AI agent runs continuous autonomous penetration testing on live apps to find and document vulnerabilities, raised $40M led by Khosla Ventures Full context: https://techme.me/eJFS",
+    "url": "https://www.facebook.com/Techmeme/posts/runsybil-whose-ai-agent-runs-continuous-autonomous-penetration-testing-on-live-a/1370332238462420/",
+    "pass": 3
+   },
+   {
+    "quote": "WIRED - RunSybil, a startup founded by OpenAI’s first ... RunSybil, a startup founded by OpenAI’s first security researcher, deploys agents that probe websites for vulnerabilities—part of a new AI era for cybersecurity.",
+    "url": "https://www.facebook.com/wired/posts/runsybil-a-startup-founded-by-openais-first-security-researcher-deploys-agents-t/1124387649556826/",
+    "pass": 3
+   },
+   {
+    "quote": "WIRED.jp - OpenAI初のセキュリティ研究者が立ち上げたRunSybilは、AI... OpenAI初のセキュリティ研究者が立ち上げたRunSybilは、AIエージェントでウェブサイトの脆弱性を自動検出する技術を開発。サイバー攻撃にAIが使われ始めたいま、防御の側でもAIを活用しようとする動きが広がっている。",
+    "url": "https://www.facebook.com/WIRED.jp/posts/openai初のセキュリティ研究者が立ち上げたrunsybilはaiエージェントでウェブサイトの脆弱性を自動検出する技術を開発サイバー攻撃にaiが使われ始めたい/1254621080025586/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.runsybil.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.runsybil.com/solutions/autonomous-penetration-testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.runsybil.com/solutions/adversarial-exposure-validation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.runsybil.com/solutions/continuous-security-testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.runsybil.com/solutions/soc-2-penetration-testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.runsybil.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.runsybil.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.runsybil.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.runsybil.com/case-studies/carta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.runsybil.com/schedule-a-demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.runsybil.com/case-studies/cursor",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.ainvest.com/ja/news/runsybil-40m-flow-capital-ai-offensive-security-2603/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://clauday.com/article/46b48670-0a73-4adc-b5de-e71259e905e2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%80%E3%83%AB%E3%83%88%E3%83%93%E3%83%87%E3%82%AA%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smith-nephew.com/en-us/contact-us/companyinfo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/runsybil",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fortune.com/2026/03/18/exclusive-ai-cybersecurity-startup-runsybil-founded-by-openais-first-security-hire-raises-40-million-led-by-khosla-ventures/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/sharongaudin_how-furl-landed-a-new-customer-in-days-activity-7513208551771762688-f56q",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/runsybil_how-furl-landed-a-new-customer-in-days-activity-7512911838968168448-RgGm",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.rubrik.com/partners",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/535937-32",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/runsybil-runsybil-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/runsybil/__q5jjGdQiO9j14zmSgMRa-v2bmk8UoSDsS310rRPs_gk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fortune.com/2026/03/18/exclusive-ai-cybersecurity-startup-runsybil-founded-by-openais-first-security-hire-raises-40-million-led-by-khosla-ventures/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mindorbit_bot_ai/n/n930b8e0441d2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/atosantasan/n/n0fbba4a237b3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lagless/n/n879a2c57eebb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/runsybil",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/runsybil/status/2108225928136462395",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/runsybil/status/2034348876082413578",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/runsybil/status/2093008650881093850",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/runsybil",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/austindz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/adversariel",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/vladionescu0000000000",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Techmeme/posts/runsybil-whose-ai-agent-runs-continuous-autonomous-penetration-testing-on-live-a/1370332238462420/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/wired/posts/runsybil-a-startup-founded-by-openais-first-security-researcher-deploys-agents-t/1124387649556826/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/WIRED.jp/posts/openai初のセキュリティ研究者が立ち上げたrunsybilはaiエージェントでウェブサイトの脆弱性を自動検出する技術を開発サイバー攻撃にaiが使われ始めたい/1254621080025586/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/runsybil",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/runsybil/status/2108225928136462395",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Carter_RunSybil",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Runsybil 日本 導入",
+   "results": [
+    "https://www.runsybil.com/",
+    "https://www.ainvest.com/ja/news/runsybil-40m-flow-capital-ai-offensive-security-2603/",
+    "https://www.runsybil.com/blog/runsybil-raises-40m-to-build-the-ai-native-platform-for-offensive-security",
+    "https://clauday.com/article/46b48670-0a73-4adc-b5de-e71259e905e2",
+    "https://wired.jp/article/i-watched-ai-agents-try-to-hack-my-vibe-coded-website/",
+    "https://diamond.jp/articles/-/395504",
+    "https://note.com/atosantasan/n/n0fbba4a237b3"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runsybil 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/アダルトビデオメーカー",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://jp.slb.com/",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://www.3ds.com/ja/about/company/office-locations/japan/tokyo-osaki"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runsybil Japan",
+   "results": [
+    "https://www.runsybil.com/",
+    "https://www.runsybil.com/careers",
+    "https://www.linkedin.com/company/runsybil",
+    "https://fortune.com/2026/03/18/exclusive-ai-cybersecurity-startup-runsybil-founded-by-openais-first-security-hire-raises-40-million-led-by-khosla-ventures/",
+    "https://finance.yahoo.com/news/exclusive-ai-cybersecurity-startup-runsybil-100346844.html?fr=sycsrp_catchall",
+    "https://www.linkedin.com/in/austindz",
+    "https://companiesbio.com/CIK-0002113497-company-runsybil-corp-info.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runsybil manufacturing customer case study",
+   "results": [
+    "https://www.runsybil.com/case-studies",
+    "https://www.linkedin.com/posts/sharongaudin_how-furl-landed-a-new-customer-in-days-activity-7513208551771762688-f56q",
+    "https://www.runsybil.com/case-studies/furl",
+    "https://www.linkedin.com/posts/runsybil_how-furl-landed-a-new-customer-in-days-activity-7512911838968168448-RgGm",
+    "https://fortune.com/2026/03/18/exclusive-ai-cybersecurity-startup-runsybil-founded-by-openais-first-security-hire-raises-40-million-led-by-khosla-ventures/",
+    "https://builtin.com/company/runsybil/faq/stability-growth",
+    "https://trust.runsybil.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runsybil white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.rubrik.com/partners",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runsybil founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/535937-32",
+    "https://fundediq.co/runsybil-runsybil-com-funding/",
+    "https://tracxn.com/d/companies/runsybil/__q5jjGdQiO9j14zmSgMRa-v2bmk8UoSDsS310rRPs_gk",
+    "https://fortune.com/2026/03/18/exclusive-ai-cybersecurity-startup-runsybil-founded-by-openais-first-security-hire-raises-40-million-led-by-khosla-ventures/",
+    "https://mandos.io/data/companies/runsybil",
+    "https://finance.yahoo.com/news/exclusive-ai-cybersecurity-startup-runsybil-100346844.html?fr=sycsrp_catchall",
+    "https://www.runsybil.com/company"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Runsybil",
+   "results": [
+    "https://note.com/diparururun",
+    "https://note.com/mindorbit_bot_ai/n/n930b8e0441d2",
+    "https://note.com/atosantasan/n/n0fbba4a237b3",
+    "https://note.com/lagless/n/n879a2c57eebb",
+    "https://note.com/yuky_az/n/n845c225d1089",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kzstock/n/n8464ba129797"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Runsybil",
+   "results": [
+    "https://x.com/runsybil",
+    "https://x.com/runsybil/status/2108225928136462395",
+    "https://x.com/runsybil/status/2034348876082413578",
+    "https://x.com/runsybil/status/2093008650881093850",
+    "https://x.com/raisingfi/status/2034685861330141469",
+    "https://x.com/runsybil/status/2060157051163095204",
+    "https://x.com/runsybil/status/2060157053058854955"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Runsybil",
+   "results": [
+    "https://www.linkedin.com/company/runsybil",
+    "https://www.linkedin.com/in/austindz",
+    "https://www.linkedin.com/in/adversariel",
+    "https://www.linkedin.com/in/vladionescu0000000000",
+    "https://www.linkedin.com/in/cartermiller",
+    "https://www.linkedin.com/in/ericoneill",
+    "https://www.linkedin.com/in/lucakoval"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Runsybil",
+   "results": [
+    "https://www.facebook.com/Techmeme/posts/runsybil-whose-ai-agent-runs-continuous-autonomous-penetration-testing-on-live-a/1370332238462420/",
+    "https://www.facebook.com/wired/posts/runsybil-a-startup-founded-by-openais-first-security-researcher-deploys-agents-t/1124387649556826/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/WIRED.jp/posts/openai初のセキュリティ研究者が立ち上げたrunsybilはaiエージェントでウェブサイトの脆弱性を自動検出する技術を開発サイバー攻撃にaiが使われ始めたい/1254621080025586/",
+    "https://business.facebook.com/groups/124473424353375/",
+    "https://www.facebook.com/OneRSAC/posts/congratulations-to-this-years-rsac-launch-pad-finalists-blue41-runsybil-and-the-/1214921606874132/",
+    "https://www.facebook.com/groups/2408899619294901/posts/3245840235600831/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runsybil note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.insideorg.com/org/runsybil",
+    "https://www.runsybil.com/",
+    "https://www.runsybil.com/company",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runsybil X 投稿",
+   "results": [
+    "https://x.com/runsybil",
+    "https://x.com/runsybil/status/2108225928136462395",
+    "https://x.com/Carter_RunSybil",
+    "https://www.runsybil.com/",
+    "https://x.com/runsybil/status/2039470002936660084",
+    "https://x.com/runsybil/status/2103174113116475480",
+    "https://x.com/runsybil/status/2060157051163095204"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部35頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

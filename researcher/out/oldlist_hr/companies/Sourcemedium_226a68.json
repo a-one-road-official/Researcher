@@ -1,0 +1,1324 @@
+{
+ "name": "Sourcemedium",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T08:57:12.533375+00:00",
+ "official_url": "https://www.sourcemedium.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "North Miami Beach, Florida, United States",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Direct warehouse access is available with Pro.",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You're about to make a call on budget, promo, inventory, or forecast. The room stalls.",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One KPI. Three interpretations.",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Top Products by Net Revenue",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Platform Prioritization",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"What are our top products by net revenue in the last 30 days?\"",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"How should we rebalance paid platform spend next month to improve efficiency?\"",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FROM `your_project.sm_transformed_v2.rpt_executive_summary_daily`",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "microsoft_ads / search_&_content at 8.4x ROAS",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "meta_ads / outcome_sales at 3.0x",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "microsoft_search_content",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FROM `your_project.sm_transformed_v2.rpt_ad_performance_daily`",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What are our top products by net revenue in the last 30 days?",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Common Analysis: Top-Selling Products",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SQL Query Library: product ranking",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data: Top Products by Net Revenue (Last 30 Days)",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "-- Analysis: top product SKUs by net revenue from order lines",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ANY_VALUE(product_title) AS product_title,",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FROM `your_project.sm_transformed_v2.obt_order_lines`",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AND DATE(order_processed_at_local_datetime) >= DATE_SUB(CURRENT_DATE(), INTERVAL 30 DAY)",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "paid_social leads at 8.9%",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FROM `your_project.sm_transformed_v2.rpt_executive_summary_daily` o",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LEFT JOIN `your_project.sm_transformed_v2.fct_returns` r",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DATE_TRUNC(DATE(order_processed_at_local_datetime), WEEK(MONDAY)) AS week_start,",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FROM `your_project.sm_transformed_v2.obt_orders`",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Teams that get the pieces of a modern data stack without standing one up or hiring to maintain it.",
+    "url": "https://sourcemedium.com/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "We were growing fast. We had to stop calling everyone \"active\" and get serious about retention.",
+    "url": "https://sourcemedium.com/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "We consider SourceMedium data as our source of truth and will continue to make strategic decisions based on the metrics presented in the dashboard!",
+    "url": "https://sourcemedium.com/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "SourceMedium is our command center; it helps us identify problems before they get bigger. It’s easy enough for everyone on the team to use, and it empowers all people.",
+    "url": "https://sourcemedium.com/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Once you try to connect Shopify, TikTok Shop, ads, and lifecycle, the numbers stop lining up. We needed one baseline we could ship to clients.",
+    "url": "https://sourcemedium.com/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Foundation and Pro: Pricing and Access | SourceMedium",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Use your commerce data in the AI and reporting tools your team already knows. Add Pro when you need to query the warehouse directly or build your own applications.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Direct project-level BigQuery access and customer-managed warehouse extensions are not included in Foundation; SourceMedium may provide limited read access to your own datasets where supported.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer-added data, custom models, compute, and solution work are defined in your proposal.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Compare the responsibilities you manage today with the scope in your SourceMedium proposal.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Product interfaces with Foundation. Direct BigQuery access and scoped extensions with Pro.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Compute and AI usage allowances in your proposal. See the compute allowance FAQ below for overages.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding, platform support, and solution hours documented before signing.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "SourceMedium runs and maintains the BigQuery warehouse behind your AI and reporting tools. Pro adds direct warehouse access.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "No SourceMedium pixel is required. SourceMedium reconstructs observed purchase journeys from the tracking and first-party data sources already available. Coverage depends on the source data and identity signals available. Inspect coverage through the supported interfaces, or directly in BigQuery with Pro.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding + platform support",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Initial onboarding comes with solution hours from a US-based Customer Solutions Engineer. SourceMedium handles setup for supported standard connectors; your team grants access, confirms definitions, and signs off on the validated outputs.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "“SourceMedium has future-proofed our data infrastructure. Their comprehensive solution not only supports our current needs but is also scalable as we grow. With their managed BigQuery instance, we have full control over our data, creating custom metrics and insights rapidly. This has empowered our team to answer complex business questions and focus on strategic growth initiatives.”",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Common questions about pricing, billing, and what's included.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "How do Foundation and Pro differ?",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Foundation: Work with your commerce data through dashboards, SourceMedium Agent in Slack, and supported AI tools through MCP where enabled. Pro: Everything in Foundation, plus direct BigQuery access, your own SQL, and applications that connect directly to the warehouse. Customer-added data, custom models, compute, and solution work are defined in your proposal.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Your proposal specifies compute allowances, overage rates, and usage notification terms for the selected plan. External AI-client subscriptions and charges are separate.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "When do I receive pricing and usage terms?",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "After we review your sources and access needs, you receive a proposal with the monthly fee and usage terms. You can review the full cost before committing to implementation.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "SourceMedium Agent delivers answers in Slack. Included access and usage are documented in your proposal. Analytical answers can expose the underlying SQL. Documentation and methodology answers cite the governing sources.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "SourceMedium runs and maintains the BigQuery warehouse behind your AI and reporting tools. Pro adds direct warehouse access. Deployment in your own Google Cloud project is scoped separately.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "You can start through supported AI tools and dashboards without knowing SQL. Pro adds direct BigQuery access so your team can query modeled tables, connect compatible tools, and build on the documented schema. Custom extensions are scoped separately.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "If you leave, you keep your copied dashboards, delivered documentation, and, on Pro, customer-built SQL and models, and you can request an export of your modeled data for 30 days after termination. SourceMedium-managed refreshes stop at offboarding, and hosted data may be deleted once the 30-day export window closes.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "The story maps the common buyer journey: Shopify-only reporting, DIY BigQuery, more tools, a data hire, and then a decision to buy.",
+    "url": "https://sourcemedium.com/case-study/wild-earth-build-vs-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "BigQuery-first thinking improved internal alignment",
+    "url": "https://sourcemedium.com/case-study/wild-earth-build-vs-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Steve Simitzis, former CMO of Wild Earth, lived the “build vs. buy” decision in real time. He started with almost no reliable retention or attribution baseline beyond Shopify exports and a few surface-level dashboards, but the business needed answers it could actually run on.",
+    "url": "https://sourcemedium.com/case-study/wild-earth-build-vs-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Over time, Steve went through a familiar four-step path: DIY reporting, pushing Shopify data into BigQuery for cohorting, adding more tools (like Looker Studio and Recharge), hiring a data engineer, and still feeling bottlenecked. Eventually, Wild Earth decided to buy SourceMedium instead of continuing to accumulate technical debt.",
+    "url": "https://sourcemedium.com/case-study/wild-earth-build-vs-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Retention and attribution reporting was “vibes-based,” with surface-level dashboards hiding what was actually happening",
+    "url": "https://sourcemedium.com/case-study/wild-earth-build-vs-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Piecemealing spreadsheets together",
+    "url": "https://sourcemedium.com/case-study/wild-earth-build-vs-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "As Steve dug into the details, he discovered that much of the sales data reflected customer subscriptions, creating a misleading narrative about marketing performance. He set out to build a DIY way of pulling data from different sources to understand what was actually happening.",
+    "url": "https://sourcemedium.com/case-study/wild-earth-build-vs-buy/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by operators at",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Direct warehouse access is available with Pro.",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“At my last company I had ten analytics people and three data scientists. Here I have none of that, and I don't need it. SourceMedium gives me the warehouse, the dashboards, the attribution, and an AI analyst in Slack. That's a full data stack without the headcount.”",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Maintained connections and commerce models, used through your AI and reporting tools. Pro adds direct warehouse access.",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse, dashboards, attribution, and AI without the maintenance burden.",
+    "url": "https://sourcemedium.com/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Use your commerce data in the AI and reporting tools your team already knows. Add Pro when you need to query the warehouse directly or build your own applications.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Direct project-level BigQuery access and customer-managed warehouse extensions are not included in Foundation; SourceMedium may provide limited read access to your own datasets where supported.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Foundation, plus direct BigQuery access, your own SQL, and applications that connect directly to the warehouse.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Managed BigQuery warehouse →",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "SourceMedium runs and maintains the BigQuery warehouse behind your AI and reporting tools. Pro adds direct warehouse access.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Foundation: Work with your commerce data through dashboards, SourceMedium Agent in Slack, and supported AI tools through MCP where enabled. Pro: Everything in Foundation, plus direct BigQuery access, your own SQL, and applications that connect directly to the warehouse. Customer-added data, custom models, compute, and solution work are defined in your proposal.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "SourceMedium runs and maintains the BigQuery warehouse behind your AI and reporting tools. Pro adds direct warehouse access. Deployment in your own Google Cloud project is scoped separately.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "He’s not simply referring to dashboards. It’s about filtering and drill-down through pre-built transformations, so technical and non-technical operators can answer questions without rebuilding the logic.",
+    "url": "https://sourcemedium.com/case-study/wild-earth-build-vs-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Use your commerce data in the AI and reporting tools your team already knows. Add Pro when you need to query the warehouse directly or build your own applications.",
+    "url": "https://sourcemedium.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Direct project-level BigQuery access and customer-managed warehouse extensions are not included in Foundation; SourceMedium may provide limited read access to your own datasets where supported.",
+    "url": "https://sourcemedium.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Foundation, plus direct BigQuery access, your own SQL, and applications that connect directly to the warehouse.",
+    "url": "https://sourcemedium.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Managed BigQuery warehouse →",
+    "url": "https://sourcemedium.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "SourceMedium runs and maintains the BigQuery warehouse behind your AI and reporting tools. Pro adds direct warehouse access.",
+    "url": "https://sourcemedium.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Foundation: Work with your commerce data through dashboards, SourceMedium Agent in Slack, and supported AI tools through MCP where enabled. Pro: Everything in Foundation, plus direct BigQuery access, your own SQL, and applications that connect directly to the warehouse. Customer-added data, custom models, compute, and solution work are defined in your proposal.",
+    "url": "https://sourcemedium.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "SourceMedium runs and maintains the BigQuery warehouse behind your AI and reporting tools. Pro adds direct warehouse access. Deployment in your own Google Cloud project is scoped separately.",
+    "url": "https://sourcemedium.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Operators got one operational view instead of stitching together multiple Amazon consoles.",
+    "url": "https://sourcemedium.com/case-study/sourcemedium-and-wishing-u-well-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "At WishingUWell, the team wanted to give Amazon operators a reporting baseline they could actually run the business on. But Amazon performance data lives in too many consoles, and teams waste time pulling exports and debating which “sales” or “spend” number is the right one.",
+    "url": "https://sourcemedium.com/case-study/sourcemedium-and-wishing-u-well-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "is an Amazon-focused eCommerce agency serving operators across Seller Central, Amazon Ads, and Amazon DSP.",
+    "url": "https://sourcemedium.com/case-study/sourcemedium-and-wishing-u-well-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Cards, payables, and accounting systems landed as warehouse tables.",
+    "url": "https://sourcemedium.com/integrations/",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse, transform, and reference feeds that support reporting.",
+    "url": "https://sourcemedium.com/integrations/",
+    "pass": 3
+   },
+   {
+    "quote": "## Warehouse, dashboards, attribution, and AI without the maintenance burden.",
+    "url": "https://sourcemedium.com/case-study.md",
+    "pass": 3
+   },
+   {
+    "quote": "“At my last company I had ten analytics people and three data scientists. Here I have none of that, and I don't need it. SourceMedium gives me the warehouse, the dashboards, the attribution, and an AI analyst in Slack. That's a full data stack without the headcount.”",
+    "url": "https://sourcemedium.com/case-study.md",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by leading brands like LMNT, iRestore, Catalina Crunch, and Oats Overnight to process billions in GMV while making confident business decisions.",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Understand what changed this week in revenue, margin, and returns",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Top Products by Net Revenue",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"What are our top products by net revenue in the last 30 days?\"",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"What's our return rate and net return cost by acquisition channel last 30 days?\"",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "-- Assumptions: timeframe=last_30_days | metric=roas=platform_reported_revenue/ad_spend | grain=platform+campaign_type | scope=rows_with_spend_and_revenue",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SUM(ad_platform_reported_revenue) AS platform_reported_revenue,",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SAFE_DIVIDE(SUM(ad_platform_reported_revenue), NULLIF(SUM(ad_spend), 0)) AS roas",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AND platform_reported_revenue > 0",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What are our top products by net revenue in the last 30 days?",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "of the top-five revenue in this slice, so performance is concentrated in the flagship device family.",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data: Top Products by Net Revenue (Last 30 Days)",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Chart: Net Revenue by SKU",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "-- Analysis: top product SKUs by net revenue from order lines",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "-- Assumptions: timeframe=last_30_days | metric=net_revenue=SUM(order_line_net_revenue) | grain=sku | scope=valid_orders_only",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SUM(order_line_net_revenue) AS order_line_net_revenue,",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ORDER BY order_line_net_revenue DESC",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What's our return rate and net return cost by acquisition channel last 30 days?",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data: Return Rate by Acquisition Channel (Last 30 Days)",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in the week of 2026-02-02. Revenue unattributed is still high (",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Unattributed %",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SUM(order_net_revenue) AS order_net_revenue,",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SUM(CASE WHEN source_medium = '(none) / (none)' THEN order_net_revenue ELSE 0 END) AS unattributed_revenue,",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ROUND(SAFE_MULTIPLY(SAFE_DIVIDE(unattributed_revenue, NULLIF(order_net_revenue, 0)), 100), 2) AS pct_revenue_unattributed",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "carries the biggest spend (",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue (12w)",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Look up how revenue, acquisition costs, and other metrics are calculated, so your team can inspect a number before relying on it.",
+    "url": "https://sourcemedium.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Moving away from piecemealing dashboards helped the team spend less time creating narratives and more time acting on the data.",
+    "url": "https://sourcemedium.com/case-study/wild-earth-build-vs-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "As Steve dug into the details, he discovered that much of the sales data reflected customer subscriptions, creating a misleading narrative about marketing performance. He set out to build a DIY way of pulling data from different sources to understand what was actually happening.",
+    "url": "https://sourcemedium.com/case-study/wild-earth-build-vs-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "“We were just connecting random tools and hoping to make a narrative out of that.”",
+    "url": "https://sourcemedium.com/case-study/wild-earth-build-vs-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "“We realized that the data was becoming a hugely important part of our business. Everyone wanted answers to questions about data, and we only had one team member to field the barrage of requests,” noted Steve.",
+    "url": "https://sourcemedium.com/case-study/wild-earth-build-vs-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Look up how revenue, acquisition costs, and other metrics are calculated, so your team can inspect a number before relying on it.",
+    "url": "https://sourcemedium.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "WuW could ship a branded Looker Studio reporting layer as part of their service.",
+    "url": "https://sourcemedium.com/case-study/sourcemedium-and-wishing-u-well-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Commerce, order, billing, and subscription systems that anchor revenue and lifecycle reporting.",
+    "url": "https://sourcemedium.com/integrations/",
+    "pass": 3
+   },
+   {
+    "quote": "> Acquiring confidence in your data is literally money. We've nearly doubled revenue in the short time we've used SourceMedium. They are the layer through which all our data flows and gets transformed into a unified, coherent and reliable language that my entire team leverages regardless of analytical capability.",
+    "url": "https://sourcemedium.com/case-study.md",
+    "pass": 3
+   },
+   {
+    "quote": "SourceMedium.com Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SourceMedium.com Revenue",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At SourceMedium.com",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of SourceMedium.com?",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SourceMedium.com generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does SourceMedium.com have?",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SourceMedium has 14 total employees.",
+    "url": "https://pitchbook.com/profiles/company/513025-12",
+    "pass": 3
+   },
+   {
+    "quote": "What is SourceMedium’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/513025-12",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for SourceMedium is",
+    "url": "https://pitchbook.com/profiles/company/513025-12",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "($38.6k). Email/SMS and organic are below 4.5%, less than half the paid_social rate. Paid_social customers are returning nearly 3x more than direct or organic traffic. Worth segmenting by campaign type to find whether specific creatives or audiences are driving the difference.",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“We almost paused three landing pages last quarter. Good thing we checked SourceMedium first - they were driving 30% of our email signups that convert later. Also found out our welcome series is an absolute beast. Game changer for our CRO roadmap.”",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You didn't build your storefront. You bought Shopify. You didn't build email. You bought Klaviyo. There's a reason. Data should work the same way.",
+    "url": "https://sourcemedium.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“I was running around like a crazy person meeting with team members, running queries, maintaining the website, working with our head of growth, managing email, helping the CX team, all while keeping up with my day-to-day,” recalls Steve.",
+    "url": "https://sourcemedium.com/case-study/wild-earth-build-vs-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/513025-12",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Partners and agencies",
+    "url": "https://sourcemedium.com/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "White-labeled dashboard program delivered to clients",
+    "url": "https://sourcemedium.com/case-study/sourcemedium-and-wishing-u-well-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "SourceMedium gave WuW one view they could ship to clients: a consistent, white-labeled reporting layer across Seller Central, Amazon Ads, and Amazon DSP without rebuilding the logic each cycle.",
+    "url": "https://sourcemedium.com/case-study/sourcemedium-and-wishing-u-well-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Matt Bahr, WuW’s VP of Innovation, summarized the problem simply: a dynamic marketplace requires complete data to make decisions, and agencies need a way to operationalize that for clients.",
+    "url": "https://sourcemedium.com/case-study/sourcemedium-and-wishing-u-well-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "White-labeled Looker Studio dashboards as the delivery layer to clients",
+    "url": "https://sourcemedium.com/case-study/sourcemedium-and-wishing-u-well-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "WuW used SourceMedium as the data foundation behind a white-labeled Looker Studio dashboard program for clients.",
+    "url": "https://sourcemedium.com/case-study/sourcemedium-and-wishing-u-well-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Partners and agencies",
+    "url": "https://sourcemedium.com/case-study.md",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Stop moving data. Start using it. | SourceMedium — Put your commerce data to work in AI, reports, and applications. SourceMedium maintains the connections, models, and definitions underneath.",
+    "url": "https://sourcemedium.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ecommerce Data Integrations | SourceMedium — Beyond the prebuilt, SourceMedium-managed connectors, your team can bring additional sources into the same governed foundation: third-party APIs and non-automated uploads via Google Sheets, mapped to the documented schema.",
+    "url": "https://sourcemedium.com/integrations/",
+    "pass": 3
+   },
+   {
+    "quote": "SourceMedium.com - LinkedIn 日本 — SourceMedium delivers turnkey business intelligence infrastructure specifically built for ambitious e-commerce brands scaling from $10mil to $500mil+ in sales. We provide enterprise-grade data...",
+    "url": "https://jp.linkedin.com/company/sourcemedium",
+    "pass": 3
+   },
+   {
+    "quote": "Ecommerce Customer Stories | SourceMedium — Stories from brands, and the partners who serve them, grouped by the job they hired SourceMedium to do. Warehouse, dashboards, attribution, and AI without the maintenance burden. Teams that get the pieces of a modern data stack without standing one up or hiring to maintain it. We were growing fast.",
+    "url": "https://sourcemedium.com/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "sourcemedium.com — SourceMedium has helped us dig into order and return behavior, helping us surface valuable insights that we've acted on. @ The Perfect Jean ](/case-study/the-perfect-jean) [",
+    "url": "https://sourcemedium.com/case-study.md",
+    "pass": 3
+   },
+   {
+    "quote": "CASE STUDY When I first met Brian Tate and ... - LinkedIn — Seeing them grow using insights derived from our platform is why we started SourceMedium in the first place. 🥹 I'm proud to call them a customer and friends!",
+    "url": "https://www.linkedin.com/posts/feifanwang_case-study-when-i-first-met-brian-tate-activity-7115385485098639360-mdaT",
+    "pass": 3
+   },
+   {
+    "quote": "SourceMedium.com Revenue, Funding & Valuation - prospeo.io — Funding Data Explore SourceMedium.com 's funding history, including investment rounds, total capital raised, and key backers.",
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "SourceMedium 2026 Company Profile: Valuation, Funding ...Source Medium - 2026 Company Profile, Team, Funding ... - TracxnSource Medium - Crunchbase Company Profile & FundingSource Medium - Overview, News & Similar companies | ZoomInfo.comSource Medium – Performance Metrics & Competitor Intelligence …Source Medium - Products, Competitors, Financials, Employees ... — Information on valuation, fundin",
+    "url": "https://pitchbook.com/profiles/company/513025-12",
+    "pass": 3
+   },
+   {
+    "quote": "Source Medium - 2026 Company Profile, Team, Funding ... - Tracxn — Apr 1, 2026 · Source Medium is a funded company based in New York City (United States), founded in 2017 by Feifan Wang. It operates as a Provider of sales report & analytics solution for Shopify sellers.",
+    "url": "https://tracxn.com/d/companies/sourcemedium/__7GRF7aToTqC1qbH3FoF-VJCO3MUvNxOyGMjPf9UtQ-U",
+    "pass": 3
+   },
+   {
+    "quote": "Source Medium - Crunchbase Company Profile & FundingSource Medium - Overview, News & Similar companies | ZoomInfo.comSource Medium – Performance Metrics & Competitor Intelligence …Source Medium - Products, Competitors, Financials, Employees ... — Source Medium is a software company that offers data analytics, machine learning, reporting, data automation and visualization services. Check out if Sou",
+    "url": "https://www.crunchbase.com/organization/source-medium",
+    "pass": 3
+   },
+   {
+    "quote": "Source Medium - Products, Competitors, Financials, Employees ... — Source Medium operates as a full-service data and analytics company. It offers a software platform for providing services to omnichannel brands. It helps clients by centralizing their data from key platforms and correcting their reports. It was founded in 2019 and is based in New York, New York.",
+    "url": "https://www.cbinsights.com/company/source-medium",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Source Medium on X: \"What comes after the first order ... What comes after the first order? SourceMedium unifies order and customer data so your AI can find what customers buy next.",
+    "url": "https://x.com/SourceMediumHQ/status/2109367795754672490",
+    "pass": 3
+   },
+   {
+    "quote": "SourceMedium Integrations (@sm_integrations) / Posts / X SourceMedium Integrations (@sm_integrations) - Posts - Account used for authenticating your X Ads data with SourceMedium. | X (formerly Twitter)",
+    "url": "https://x.com/sm_integrations",
+    "pass": 3
+   },
+   {
+    "quote": "How much revenue comes from repeat customers? See ChatGPT ... SourceMediumHQ (Source Medium). 1 likes 0 replies. How much revenue comes from repeat customers? See ChatGPT answer with Shopify data from SourceMedium.",
+    "url": "https://x.com/SourceMediumHQ/status/2103873492730945690",
+    "pass": 3
+   },
+   {
+    "quote": "Fei (@feifanw) / Posts / X SourceMedium.ai doesn't just present data; it delivers insights with Tufte-inspired clarity and purpose, integrating directly into your team's communication channels.The best data visuals aren't the flashiest—they're the ones that disappear, leaving only understanding behind.",
+    "url": "https://x.com/feifanw",
+    "pass": 3
+   },
+   {
+    "quote": "SourceMedium Integrations (@sm_integrations) / Posts / X Aug 6, 2024 · SourceMedium Integrations (@sm_integrations) - Posts - Account used for authenticating your X Ads data with SourceMedium. | X (formerly Twitter)",
+    "url": "https://x.com/sm_integrations",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SourceMedium.com - LinkedIn SourceMedium.com | 746 followers on LinkedIn. 🏗️ Turnkey BI Infrastructure for Ambitious Brands. | SourceMedium delivers turnkey business intelligence infrastructure specifically built for...",
+    "url": "https://www.linkedin.com/company/sourcemedium",
+    "pass": 3
+   },
+   {
+    "quote": "Feifan Wang - Founder @ SourceMedium.com | Turnkey BI for ...Source Medium | LinkedInAnwesha Behera - Social Media Marketer @SourceMedium | MSc in ...SourceMedium on LinkedIn: Source Medium | Watch DemoSourceMedium posted on LinkedInSource Medium London - LinkedIn SourceMedium provides turnkey business intelligence infrastructure for ambitious e-commerce brands scaling from $10M to $500M+ in sales",
+    "url": "https://www.linkedin.com/in/feifanwang",
+    "pass": 3
+   },
+   {
+    "quote": "Source Medium | LinkedIn Source Medium | 2,176 followers on LinkedIn. One place to supercharge your brand’s growth.",
+    "url": "https://in.linkedin.com/company/source-medium",
+    "pass": 3
+   },
+   {
+    "quote": "Anwesha Behera - Social Media Marketer @SourceMedium | MSc in ... Social Media Marketer @SourceMedium | MSc in Digital Marketing and Analytics, University of Kent, England · I have more than a year of experience in project management and customer service role....",
+    "url": "https://in.linkedin.com/in/anwesha-behera",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Source Medium - FacebookSource Medium - FacebookSource Medium - AI is more than just ChatGPT - FacebookSource - AI is more than just ChatGPT - it's ... - FacebookEcommerce Data Demystified: 5 Insights for SuccessSarah Wooldridge Medium - FacebookThis week's Ecommerce... - Successful Shopify Store Owners ... Mar 18, 2020 · Source Medium. 334 likes. Source Medium helps high-performing ecomm growth t",
+    "url": "https://www.facebook.com/SourceMedium/",
+    "pass": 3
+   },
+   {
+    "quote": "Source Medium - FacebookSource Medium - AI is more than just ChatGPT - FacebookSource - AI is more than just ChatGPT - it's ... - FacebookEcommerce Data Demystified: 5 Insights for SuccessSarah Wooldridge Medium - FacebookThis week's Ecommerce... - Successful Shopify Store Owners ... Follow @sourcemedium.co.in for more practical, performance-led Meta Ads insights 🚀 🚀 Meta Ads Simplified for Beginn",
+    "url": "https://www.facebook.com/SM.Sourcemedium.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Source Medium - AI is more than just ChatGPT - Facebook May 5, 2023 · Unlock the true potential of AI with these 27 cutting- edge AI Tools. Tools that will help you stay ahead of the curve and push the boundaries of what's possible. Don't just keep up with AI - lead the way ! 📈🚀. #SourceMedium #performancemarketing #AI #machinelearning #deeplearning #tools #resources #cuttingedge",
+    "url": "https://www.facebook.com/SM.Sourcemedium.in/posts/ai-is-more-than-just-chatgpt-its-the-future-of-technology-and-innovation-unlock-/195107913351858/",
+    "pass": 3
+   },
+   {
+    "quote": "Ecommerce Data Demystified: 5 Insights for Success Feb 7, 2024 · Feifan Wang, CEO of SourceMedium, joins us to unravel top data challenges in ecommerce. From Google Analytics limitations to strategies for success, explore the world of data with a seasoned entrepreneur!",
+    "url": "https://www.facebook.com/ecommercecoffeebreakpodcast/videos/ecommerce-data-demystified-5-insights-for-success/2720718754754492/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sourcemedium.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourcemedium.com/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourcemedium.com/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourcemedium.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourcemedium.com/case-study/wild-earth-build-vs-buy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourcemedium.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourcemedium.com/case-study/sourcemedium-and-wishing-u-well-partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourcemedium.com/case-study/hero-bread-storefront-testing/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://sourcemedium.com/images/logos/sourcemedium-mark-navy.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://sourcemedium.com/images/logos/sourcemedium.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://sourcemedium.com/images/logos/sourcemedium.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://sourcemedium.com/images/logos/heights.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://sourcemedium.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourcemedium.com/integrations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/sourcemedium",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://toyokeizai.net/articles/-/962227",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourcemedium.com/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourcemedium.com/case-study.md",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/feifanwang_case-study-when-i-first-met-brian-tate-activity-7115385485098639360-mdaT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://azure.microsoft.com/en-us/resources/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/sourcemedium-com-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/513025-12",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/sourcemedium/__7GRF7aToTqC1qbH3FoF-VJCO3MUvNxOyGMjPf9UtQ-U",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/source-medium",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SourceMediumHQ/status/2109367795754672490",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sm_integrations",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SourceMediumHQ/status/2103873492730945690",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/feifanw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sourcemedium",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/feifanwang",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/source-medium",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/anwesha-behera",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SourceMedium/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SM.Sourcemedium.in/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SM.Sourcemedium.in/posts/ai-is-more-than-just-chatgpt-its-the-future-of-technology-and-innovation-unlock-/195107913351858/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ecommercecoffeebreakpodcast/videos/ecommerce-data-demystified-5-insights-for-success/2720718754754492/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sm_integrations",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sourcemedium 日本 導入",
+   "results": [
+    "https://sourcemedium.com/",
+    "https://sourcemedium.com/integrations/",
+    "https://jp.linkedin.com/company/sourcemedium",
+    "https://toyokeizai.net/articles/-/962227",
+    "https://codenote.net/ja/posts/japanese-local-llm-development-case-studies/",
+    "https://www.docusign.com/ja-jp/blog/differences-of-technology-adaption-between-japan-and-overseas",
+    "https://ja.accio.com/business/oss日本流行"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sourcemedium 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sourcemedium Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Sourcemedium manufacturing customer case study",
+   "results": [
+    "https://sourcemedium.com/case-study/",
+    "https://sourcemedium.com/case-study.md",
+    "https://www.linkedin.com/posts/feifanwang_case-study-when-i-first-met-brian-tate-activity-7115385485098639360-mdaT",
+    "https://azure.microsoft.com/en-us/resources/customer-stories/",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://avenuez.com/press-release/revolutionizing-dtc-brand-performance-avenue-z-joins-forces-with-sourcemedium/",
+    "https://www.linkedin.com/posts/sourcemedium_sunday-citizen-activity-7037139293160566785-Wfe7"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sourcemedium white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Sourcemedium founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/sourcemedium-com-revenue",
+    "https://pitchbook.com/profiles/company/513025-12",
+    "https://tracxn.com/d/companies/sourcemedium/__7GRF7aToTqC1qbH3FoF-VJCO3MUvNxOyGMjPf9UtQ-U",
+    "https://www.crunchbase.com/organization/source-medium",
+    "https://www.cbinsights.com/company/source-medium",
+    "https://www.zoominfo.com/c/source-medium/481078221",
+    "https://compworth.com/company/source-medium"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Sourcemedium",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/itshenkikan",
+    "https://note.com/roots_saitama/n/neacf115f2419",
+    "https://note.com/morning_life/n/ndd57be3dc90e",
+    "https://note.com/seraphim_llc/n/n3eec2b620aff?hl=en",
+    "https://note.com/mindnote_media/n/n4eaacb51715c",
+    "https://note.com/medicalagent/n/n6e2e5e89b89f"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Sourcemedium",
+   "results": [
+    "https://x.com/SourceMediumHQ/status/2109367795754672490",
+    "https://x.com/sm_integrations",
+    "https://x.com/SourceMediumHQ/status/2103873492730945690",
+    "https://x.com/feifanw",
+    "https://x.com/orihara_bakuro",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/ClaudeDevs/status/2119898687803621427"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Sourcemedium",
+   "results": [
+    "https://www.linkedin.com/company/sourcemedium",
+    "https://www.linkedin.com/in/feifanwang",
+    "https://in.linkedin.com/company/source-medium",
+    "https://in.linkedin.com/in/anwesha-behera",
+    "https://www.linkedin.com/posts/sourcemedium_source-medium-watch-demo-activity-7033530220783534080-yVGk",
+    "https://www.linkedin.com/posts/sourcemedium_what-does-source-medium-do-activity-7092165916540448768-ajAo",
+    "https://www.linkedin.com/company/source-medium-london"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Sourcemedium",
+   "results": [
+    "https://www.facebook.com/SourceMedium/",
+    "https://www.facebook.com/SM.Sourcemedium.in/",
+    "https://www.facebook.com/SM.Sourcemedium.in/posts/ai-is-more-than-just-chatgpt-its-the-future-of-technology-and-innovation-unlock-/195107913351858/",
+    "https://www.facebook.com/ecommercecoffeebreakpodcast/videos/ecommerce-data-demystified-5-insights-for-success/2720718754754492/",
+    "https://www.facebook.com/shopifygrowthmarketing/posts/this-weeks-ecommerce-coffee-break-podcast-will-feature-these-amazing-interview-g/694303206049314/",
+    "https://www.facebook.com/SM.Sourcemedium.in/photos/ai-is-more-than-just-chatgpt-its-the-future-of-technology-and-innovation-unlock-/195107463351903/",
+    "https://www.facebook.com/sarahwooldridgemedium/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sourcemedium note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://net.keizaikai.co.jp/archives/2379"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sourcemedium X 投稿",
+   "results": [
+    "https://x.com/sm_integrations",
+    "https://sourcemedium.com/integrations/x-ads/",
+    "https://sourcemedium.com/",
+    "https://www.instagram.com/sourcemedium.in/",
+    "https://x.com/feifanw",
+    "http://x-sou.com/",
+    "https://news.livedoor.com/article/detail/32710275/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部29頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部29頁・検索12回）"
+ }
+}

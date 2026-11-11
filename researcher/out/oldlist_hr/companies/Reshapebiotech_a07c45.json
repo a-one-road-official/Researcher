@@ -1,0 +1,1142 @@
+{
+ "name": "Reshapebiotech",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T09:19:48.163223+00:00",
+ "official_url": "https://reshapebiotech.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "7. Seed Round",
+    "value": "09-Feb-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/463240-00",
+    "pass": 3
+   },
+   {
+    "label": "6. Seed Round",
+    "value": "27-May-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/463240-00",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2018",
+    "url": "https://startupintros.com/orgs/reshape-biotech",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Copenhagen, Denmark",
+    "url": "https://startupintros.com/orgs/reshape-biotech",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Reshape automates microbiology data capture, structures results, and surfaces insights so your teams can focus on moving science and products forward.",
+    "url": "https://reshapebiotech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reshape is currently working on predictive models that learn from your experimental data to predict results and significantly narrow your R&D funnel.",
+    "url": "https://reshapebiotech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Screen up to 700 samples per hour with automated data capture and built-in documentation, to help you release products faster.",
+    "url": "https://reshapebiotech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Track samples, metadata, and print barcodes for traceability.",
+    "url": "https://reshapebiotech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop stitching together spreadsheets and hunting for data across disconnected tools. Reshape automates routine workflows and turns experiments into reliable, structured results.",
+    "url": "https://reshapebiotech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“With the help of Reshape, we have moved further in improving the workflow in 6 months than in the 3 years before with other solutions we tried.”",
+    "url": "https://reshapebiotech.com/solutions/research-and-development",
+    "pass": 1
+   },
+   {
+    "quote": "After harvest, the time invested in scoring germination ability was very high (4 people for 3 days). Now it’s basically just me operating the Smart Incubator, and the AI model giving me the data. Everyone else can stay on their projects.",
+    "url": "https://reshapebiotech.com/solutions/research-and-development",
+    "pass": 1
+   },
+   {
+    "quote": "\"The Reshape system has revolutionized how we screen and study microbial clones. We can now track metabolite production, release, and diffusion at an unprecedented scale.”",
+    "url": "https://reshapebiotech.com/solutions/research-and-development",
+    "pass": 1
+   },
+   {
+    "quote": "The problem isn't the science. It's the process.",
+    "url": "https://reshapebiotech.com/solutions/quality-control",
+    "pass": 1
+   },
+   {
+    "quote": "Three problems. One root cause:",
+    "url": "https://reshapebiotech.com/solutions/quality-control",
+    "pass": 1
+   },
+   {
+    "quote": "Safe product sits in warehouses while screening and paperwork catches up.",
+    "url": "https://reshapebiotech.com/solutions/quality-control",
+    "pass": 1
+   },
+   {
+    "quote": "Audit prep takes days. It should take minutes.",
+    "url": "https://reshapebiotech.com/solutions/quality-control",
+    "pass": 1
+   },
+   {
+    "quote": "A better device alone doesn't fix the process. Reshape is the infrastructure that connects detection, analysis, documentation, and global oversight into one system, so the same standard applies everywhere, automatically.",
+    "url": "https://reshapebiotech.com/solutions/quality-control",
+    "pass": 1
+   },
+   {
+    "quote": "Define your screening methods once. Deploy it to every device, every site, every shift. No analyst variation or protocol drift.",
+    "url": "https://reshapebiotech.com/solutions/quality-control",
+    "pass": 1
+   },
+   {
+    "quote": "Get product out faster",
+    "url": "https://reshapebiotech.com/solutions/quality-control",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're running one site or one hundred, Reshape gives your team the infrastructure to catch contamination earlier, release product faster, and walk into any audit with confidence. Let's talk.",
+    "url": "https://reshapebiotech.com/solutions/quality-control",
+    "pass": 1
+   },
+   {
+    "quote": "Audit prep takes days. It should take minutes.",
+    "url": "https://reshapebiotech.com/solutions/contract-testing",
+    "pass": 1
+   },
+   {
+    "quote": "High precision tech designed to process 600 plates per hour",
+    "url": "https://reshapebiotech.com/solutions/contract-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Decouple headcount from throughput and process more samples with AI-powered automation.",
+    "url": "https://reshapebiotech.com/solutions/contract-testing",
+    "pass": 1
+   },
+   {
+    "quote": "The Smart Incubator provides early contamination warnings while preserving standard endpoint reads",
+    "url": "https://reshapebiotech.com/solutions/contract-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Use our Imaging Devices to automate and standardize experiment documentation. Track changes over time, compare treatments side by side, and generate rock-solid, reproducible results to accelerate new discoveries.",
+    "url": "https://reshapebiotech.com/solutions/contract-testing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Lab Automation — Scale R&D Reliably | Reshape",
+    "url": "https://reshapebiotech.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Research still depends on a lot of manual work, which leads to errors, inconsistency, and compromised data quality. But even the smartest downstream tools—AI and advanced analytics—are only as good as the data they’re built on. Without clean, structured inputs, you’re just accelerating the noise.Solid decisions start with solid data.",
+    "url": "https://reshapebiotech.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Automate imaging and analysis to eliminate subjectivity and ensure consistent, reproducible results at scale.",
+    "url": "https://reshapebiotech.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Our powerful analysis models handle image data processing automatically, giving you objective, data-backed insights without manual input.",
+    "url": "https://reshapebiotech.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser doesn't support HTML5 video tag.",
+    "url": "https://reshapebiotech.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Detect and quantify recombinant GFP/RFP strains and their expression levels.",
+    "url": "https://reshapebiotech.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage vast, high-fidelity datasets and AI analysis models to jumpstart your work—saving your team months, or even years, on data preparation, model training, and analysis refinement.",
+    "url": "https://reshapebiotech.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Use our Imaging Devices to automate and standardize experiment documentation. Track changes over time, compare treatments side by side, and generate rock-solid, reproducible results to accelerate new discoveries.",
+    "url": "https://reshapebiotech.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Rely on our High-Throughput Imaging Device for large-scale screening. Process up to 200 petri dishes per hour with automated scanning and documentation, ensuring fast, standardized results, while keeping quality consistent at scale.",
+    "url": "https://reshapebiotech.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "A full audit trail keeps your processes transparent, compliant, and review-ready.",
+    "url": "https://reshapebiotech.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Sync your experiment designs directly to Reshape and watch everything come together as your data rolls in. Images and analysis data are contexualized with relevant experiment properties and results sync back to your data management system automatically. No gaps, no guesswork.",
+    "url": "https://reshapebiotech.com/solutions/enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Your team should be solving problems, not counting colonies. Reshape automates data collection, analysis, and documentation, freeing up hours for the high-impact work that actually moves science forward.",
+    "url": "https://reshapebiotech.com/solutions/smb-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser doesn't support HTML5 video tag.",
+    "url": "https://reshapebiotech.com/solutions/smb-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Detect and quantify recombinant GFP/RFP strains and their expression levels.",
+    "url": "https://reshapebiotech.com/solutions/smb-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Avoid the relentless repetition of manual data analysis – and the inconsistencies that it can bring. Reshape handles petri- or microtiter plate-based data analysis with precision and speed: no bias, no fatigue, just reliable data.",
+    "url": "https://reshapebiotech.com/solutions/smb-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Load up the device and hit go. Analysis is fully automated, consistent, and independent of training or interpretation.",
+    "url": "https://reshapebiotech.com/solutions/smb-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Accessing and making sense of current—and past—research has never been easier. Organize, access, and build on previous experiments to avoid duplication and drive better decisions.",
+    "url": "https://reshapebiotech.com/solutions/smb-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "See images, graphs, and data points side by side. Easily update experimental properties to keep everything crystal clear.",
+    "url": "https://reshapebiotech.com/solutions/smb-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Download data as CSV or Excel for quick review or further analysis. You can also export images or videos for presentations or records.",
+    "url": "https://reshapebiotech.com/solutions/smb-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "“Before, we relied on inaccurate visual assessments of experiments that took 1–2 weeks. With Reshape and Food Brewers proprietary software, that guesswork is gone.”",
+    "url": "https://reshapebiotech.com/solutions/smb-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Process Automation, Food Brewer",
+    "url": "https://reshapebiotech.com/solutions/smb-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "\"The Reshape system has revolutionized how we screen and study microbial clones. We can now track metabolite production, release, and diffusion at an unprecedented scale.”",
+    "url": "https://reshapebiotech.com/solutions/smb-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Automate microbial safety and product release testing",
+    "url": "https://reshapebiotech.com/company/events",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate trials for crop protection and traits",
+    "url": "https://reshapebiotech.com/company/events",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure product stability, safety, and shelf life",
+    "url": "https://reshapebiotech.com/company/events",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize microbial processes for bio-based production",
+    "url": "https://reshapebiotech.com/company/events",
+    "pass": 1
+   },
+   {
+    "quote": "Validate product safety, claims, and preservation",
+    "url": "https://reshapebiotech.com/company/events",
+    "pass": 1
+   },
+   {
+    "quote": "Process samples faster for less",
+    "url": "https://reshapebiotech.com/company/events",
+    "pass": 1
+   },
+   {
+    "quote": "Speed up your R&D and reach project targets reliably",
+    "url": "https://reshapebiotech.com/company/events",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how structured biological data can unlock better insights from wet-lab experiments. In this webinar, we show how Reshape’s Library turns assay data and metadata into a searchable, reusable foundation for faster learning, AI-ready analysis, and predictive insights.",
+    "url": "https://reshapebiotech.com/company/events",
+    "pass": 1
+   },
+   {
+    "quote": "In this event, we unveil our upcoming feature: the Experiment Designer. Built to simplify how scientific experiments are planned, mapped, and documented. Designed to replace messy spreadsheets and manual notes with a structured, automated workflow which makes experiments faster, more reliable, and fully traceable.",
+    "url": "https://reshapebiotech.com/company/events",
+    "pass": 1
+   },
+   {
+    "quote": "PhD Microbiology, Marketing",
+    "url": "https://reshapebiotech.com/company/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Marketing Manager",
+    "url": "https://reshapebiotech.com/company/blog",
+    "pass": 1
+   },
+   {
+    "quote": "We’re excited to share that Reshape Biotech is part of RAPIDFUNG, a new 4-year research project funded by Innovation Fund Denmark.",
+    "url": "https://reshapebiotech.com/company/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Food Brewer, a pioneer in plant cellular agriculture, improved growth tracking and reduced experiment cycles with Reshape’s imaging device, gaining more accurate, reliable image input to scale sustainable cacao and coffee production.",
+    "url": "https://reshapebiotech.com/explore/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Ventera Bio, a UK-based agri-biotech developing peptide-based biopesticides, doubled experiment throughput and improved screening precision with Reshape’s platform, accelerating the discovery of insecticides.",
+    "url": "https://reshapebiotech.com/explore/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "\"Our productivity has basically doubled. In the simplest of maths, I’ve doubled my productivity because the Reshape platform helps me generate three extra days worth of data. I now start my Mondays with diving into fresh data collected over the weekend.\"",
+    "url": "https://reshapebiotech.com/explore/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "As a microbiologist developing preservation strategies for a vast portfolio of personal care products, Matt Rienzo was met with a significant challenge, that many scientists face in the lab - the time-consuming process of challenge-testing various microbes to ensure product safety and longevity.",
+    "url": "https://reshapebiotech.com/explore/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "\"With the Reshape Imaging System, we've been able to scale up our screenings and quantitatively benchmark complex metabolite interactions of a variety of microbial clones. The system has significantly enhanced our understanding of metabolite production, release, and diffusion in yeast - a critical area in our pursuit of advanced bioproduction strategies.\"",
+    "url": "https://reshapebiotech.com/explore/customer-stories",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Reshape is currently working on predictive models that learn from your experimental data to predict results and significantly narrow your R&D funnel.",
+    "url": "https://reshapebiotech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every plate, every result, every action, timestamped and structured automatically. When an auditor arrives, the records are already there.",
+    "url": "https://reshapebiotech.com/solutions/quality-control",
+    "pass": 1
+   },
+   {
+    "quote": "We’re excited to share that Reshape Biotech is part of RAPIDFUNG, a new 4-year research project funded by Innovation Fund Denmark.",
+    "url": "https://reshapebiotech.com/company/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Stuart Harrison,",
+    "url": "https://reshapebiotech.com/customer-stories/syngenta",
+    "pass": 1
+   },
+   {
+    "quote": "A key part of this work is determining minimum inhibitory concentrations (MICs) against target bacteria and molds. However, these bioassays are time-sensitive, organism-specific, and difficult to scale using traditional plate readers.",
+    "url": "https://reshapebiotech.com/customer-stories/mascoma-a-lallemand-company",
+    "pass": 1
+   },
+   {
+    "quote": "Working for a global pioneer in personal care products requires consistently striving for new formulas that ensure both product safety and consumer satisfaction. Utilizing a broad array of preservation techniques is crucial to this mission.",
+    "url": "https://reshapebiotech.com/customer-stories/fmcg-company",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/reshape-biotech",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/463240-00",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech has 65 total employees.",
+    "url": "https://pitchbook.com/profiles/company/463240-00",
+    "pass": 3
+   },
+   {
+    "quote": "What is Reshape Biotech’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/463240-00",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Reshape Biotech is",
+    "url": "https://pitchbook.com/profiles/company/463240-00",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "AI models trained on 100 million+ images analyze every plate the same way, every time. Objective, repeatable, and consistent across operators and sites.",
+    "url": "https://reshapebiotech.com/solutions/research-and-development",
+    "pass": 1
+   },
+   {
+    "quote": "Safe product sits in warehouses while screening and paperwork catches up.",
+    "url": "https://reshapebiotech.com/solutions/quality-control",
+    "pass": 1
+   },
+   {
+    "quote": "Food Brewer, a pioneer in plant cellular agriculture, improved growth tracking and reduced experiment cycles with Reshape’s imaging device, gaining more accurate, reliable image input to scale sustainable cacao and coffee production.",
+    "url": "https://reshapebiotech.com/explore/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Food Brewer Case Study — Plant Cellular Agriculture | Reshape",
+    "url": "https://reshapebiotech.com/customer-stories/food-brewer",
+    "pass": 1
+   },
+   {
+    "quote": "“Our work revolves around designing high-throughput workflows to scale plant cell cultures, and for that, reliable, high-quality image data is essential.”",
+    "url": "https://reshapebiotech.com/customer-stories/food-brewer",
+    "pass": 1
+   },
+   {
+    "quote": "From the start, Food Brewer knew that tracking plant cell growth using different compounds across multiple media compositions and concentrations was critical to optimizing production. However, the company faced challenges:",
+    "url": "https://reshapebiotech.com/customer-stories/food-brewer",
+    "pass": 1
+   },
+   {
+    "quote": "With fresh investment from Swiss chocolate manufacturer Lindt & Sprüngli and venture firm Sparkalis (corporate venture capital division of Puratos), Food Brewer is gearing up for its next phase of growth. As the company prepares for its first commercial launch in 2026, it is focused on expanding production capabilities and refining its product development process.",
+    "url": "https://reshapebiotech.com/customer-stories/food-brewer",
+    "pass": 1
+   },
+   {
+    "quote": "Syngenta Case Study. AI-Powered Compound Detection | Reshape",
+    "url": "https://reshapebiotech.com/customer-stories/syngenta",
+    "pass": 1
+   },
+   {
+    "quote": "Imperial College Case Study — Metabolic Engineering | Reshape",
+    "url": "https://reshapebiotech.com/customer-stories/imperial",
+    "pass": 1
+   },
+   {
+    "quote": "Carlsberg Case Study; Barley Germination AI | Reshape",
+    "url": "https://reshapebiotech.com/customer-stories/carlsberg-research-laboratory",
+    "pass": 1
+   },
+   {
+    "quote": "To gauge germination energy, technicians inspected thousands of barley grains at",
+    "url": "https://reshapebiotech.com/customer-stories/carlsberg-research-laboratory",
+    "pass": 1
+   },
+   {
+    "quote": "DTU Biosustain Case Study — Bacterial Evolution | Reshape",
+    "url": "https://reshapebiotech.com/customer-stories/dtu",
+    "pass": 1
+   },
+   {
+    "quote": "Food Brewer, a pioneer in plant cellular agriculture, improved growth tracking and reduced experiment cycles with Reshape’s imaging device, gaining more accurate, reliable image input to scale sustainable cacao and coffee production.",
+    "url": "https://reshapebiotech.com/customer-stories/mascoma-a-lallemand-company",
+    "pass": 1
+   },
+   {
+    "quote": "The digitalization aspect of the system has been transformational, allowing us to gain deeper insights from video representations of our data, bringing a new level of tangibility to our work. Working in a cloud environment has set us on a new path of collaborating with our manufacturing sites as well, where we can work digitally instead of shipping samples across the country.",
+    "url": "https://reshapebiotech.com/customer-stories/fmcg-company",
+    "pass": 1
+   },
+   {
+    "quote": "Ability to share and collaborate with other departments and manufacturing sites",
+    "url": "https://reshapebiotech.com/customer-stories/fmcg-company",
+    "pass": 1
+   },
+   {
+    "quote": "Microbiology laboratories in food, biotech, and industrial applications are increasingly looking to automate workflows such as plate imaging, colony counting, and result documentation. The motivation is clear: improve productivity, strengthen traceability, and ensure governance so quality is consistently upheld.",
+    "url": "https://reshapebiotech.com/blog/iso-17025-compliant-microbiology-automation",
+    "pass": 1
+   },
+   {
+    "quote": "In food and industrial microbiology, most laboratories rely on ISO reference methods such as:",
+    "url": "https://reshapebiotech.com/blog/iso-17025-compliant-microbiology-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/reshape-biotech",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech Case Study: Chr. Hansen – How Chr. Hansen is accelerating their new product development with Reshape | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/reshape-biotech/case-study/how-chr-hansen-is-accelerating-their-new-product-development-with-reshape",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Chr. Hansen used Reshape Biotech",
+    "url": "https://www.casestudies.com/company/reshape-biotech/case-study/how-chr-hansen-is-accelerating-their-new-product-development-with-reshape",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/reshape-biotech/case-study/how-chr-hansen-is-accelerating-their-new-product-development-with-reshape",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/reshape-biotech/case-study/how-chr-hansen-is-accelerating-their-new-product-development-with-reshape",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/463240-00",
+    "pass": 3
+   },
+   {
+    "quote": "The platform emphasizes simplicity and intuitive operation, making automation approachable for microbiologists and lab technicians[7].",
+    "url": "https://startupintros.com/orgs/reshape-biotech",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Reshape QC product guide - reshapebiotech.com — Reshape QC product guide For microbiology QC teams in food, beverage, personal care, and industrials. Fill out the form, and we'll send you the full product guide, covering how the platform works, which ISO methods it supports, and technical specifications. What's inside:",
+    "url": "https://reshapebiotech.com/resources/reshape-qc-product-guide",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech. AI Operating System for Microbiology Labs — Blog Contact us Resources Product updates ↑ Knowledge Base ↑ System Status ↑ API Legal © 2026 Reshape Biotech Based in Copenhagen, Denmark CVR 40 05 61 73",
+    "url": "https://reshapebiotech.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech が 2,000 万ドルのシリーズ A で世界的なコラボレー... — Reshape Biotech は、メカトロニクス、クラウド コンピューティング、機械学習ベースのデータ分析、バイオテクノロジー アプリケーションの深い理解などの高度なテクノロジーを使用して自動化ロボットを開発しています。",
+    "url": "https://www3.to/reshape-biotech-が-2000-万ドルのシリーズ-a-で世界的なコラボレー/",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech - My-Best.AI｜AIツール比較・ランキング・おすすめ... — まとめ Reshape BiotechはAIとロボティクスで生命科学実験を自動化するプラットフォームで、研究の人手負担を減らし、データの再現性と研究スピードを高めます。 大学研究機関や製薬バイオ企業のデジタルラボ導入に最適です。",
+    "url": "https://my-best.ai/ai-tools/reshape-biotech/",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech. AI Operating System for Microbiology Labs — The AI-driven operating system for microbiology Reshape automates microbiology data capture, structures results, and surfaces insights so your teams can focus on moving science and products forward.",
+    "url": "https://reshapebiotech.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech - Sign in • RDP — Sign in • RDP",
+    "url": "https://discovery.reshapebiotech.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape QC product guide - reshapebiotech.com — For microbiology QC teams in food, beverage, personal care, and industrials. Fill out the form, and we'll send you the full product guide, covering how the platform works, which ISO methods it supports, and technical specifications. From sample intake to signed-off result.",
+    "url": "https://reshapebiotech.com/resources/reshape-qc-product-guide",
+    "pass": 3
+   },
+   {
+    "quote": "quality.reshapebiotech.com - Sign in to Reshape — Welcome back! Please sign in to continue.",
+    "url": "https://quality.reshapebiotech.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech. AI Operating System for Microbiology Labs — AI-driven microbiology: automated imaging, analysis, and instant insights. Trusted by Syngenta, Carlsberg, and biotech labs worldwide. Book a demo.",
+    "url": "https://reshapebiotech.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech - LinkedIn — Reshape Biotech is building the next generation of lab automation robots. Our customers are biotech companies tackling the world’s biggest problems - be it alternative protein development or...",
+    "url": "https://www.linkedin.com/company/reshape-biotech/",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech B2B Case Studies & Customer Successes — See how Reshape Biotech solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/reshape-biotech",
+    "pass": 3
+   },
+   {
+    "quote": "10 Reshape Biotech Customer Reviews & References ... — Discover what Featured Customers are saying about Reshape Biotech through testimonials, reviews, & case studies.",
+    "url": "https://www.featuredcustomers.com/vendor/reshape-biotech",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech Case Study: Chr. Hansen – How Chr. Hansen is ... — Chr. Hansen (Biotechnology) partnered with Reshape Biotech (Biotechnology) to solve key challenges. \"How Chr. Hansen is accelerating their new product development with Reshape\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/reshape-biotech/case-study/how-chr-hansen-is-accelerating-their-new-product-development-with-reshape",
+    "pass": 3
+   },
+   {
+    "quote": "5 Reshape Biotech Case Studies, Success Stories, & Customer ... — Discover how other companies use Reshape Biotech, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/reshape-biotech/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech 2026 Company Profile: Valuation, Funding ...Reshape Biotech – Business Snapshot & Rival Analysis – 2026Reshape Biotech - 2026 Company Profile, Team, Funding ...Reshape Biotech - 2026 Company Profile, Funding | The Company ...Reshape Biotech: Funding, Team & Investors | Startup IntrosReshape Biotech: Funding, Investors & Team (Oct 2026)How Reshape Biotech hit $8.3M revenue with a 55",
+    "url": "https://pitchbook.com/profiles/company/463240-00",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech - 2026 Company Profile, Team, Funding ...Reshape Biotech - 2026 Company Profile, Funding | The Company ...Reshape Biotech: Funding, Team & Investors | Startup IntrosReshape Biotech: Funding, Investors & Team (Oct 2026)How Reshape Biotech hit $8.3M revenue with a 55 person team ... — Jan 1, 2026 · Reshape Biotech is a series A company based in Kongens Lyngby (Denmark), founded in 20",
+    "url": "https://tracxn.com/d/companies/reshape-biotech/__WWd7O9x65nqOwF1Sbe9QInV4Z-nQ4tinn2RV2rLgMeo",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech - 2026 Company Profile, Funding | The Company ... — Oct 15, 2026 · Reshape Biotech is an Industrial Goods & Manufacturing company based in Kongens Lyngby, Denmark. It has raised $29.2M across 4 funding rounds.",
+    "url": "https://www.thecompanycheck.com/company/b/reshape-biotech/1grbtotpygq0s9nfj",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Founded in 2018 in Copenhagen, Denmark, Reshape Biotech was created by a team including co-founders Daniel Storgaard and Magnus Madsen, with early support from Y Combinator in 2021.",
+    "url": "https://startupintros.com/orgs/reshape-biotech",
+    "pass": 3
+   },
+   {
+    "quote": "How Reshape Biotech hit $8.3M revenue with a 55 person team ... — Aug 10, 2026 · Explore the complete funding history and valuation milestones for this company. Below you'll find detailed information about each funding round, including investment amounts, lead investors, and key financial metrics that have shaped the company's growth trajectory.",
+    "url": "https://getlatka.com/companies/reshapebiotech.com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/reshape-biotech",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/reshape-biotech",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/463240-00",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Excited to share that we've raised $20M in Series A Thanks ... Reshape Biotech (@ReshapeB). 8 likes 893 views. Excited to share that we've raised $20M in Series A 🚀 Thanks to Astanor Ventures, R7, ACME, Y Combinator, Nicholas Francis, & Per Falholt!",
+    "url": "https://x.com/reshapeb/status/1777671708473807309",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Reshape Biotech - LinkedIn Reshape Biotech is building the next generation of lab automation robots. Our customers are biotech companies tackling the world’s biggest problems - be it alternative protein development or ...",
+    "url": "https://www.linkedin.com/company/reshape-biotech/",
+    "pass": 3
+   },
+   {
+    "quote": "The Reshape Imaging System | Reshape Biotech - LinkedIn Check out our website: www.reshapebiotech.com or reach out to: Diana at dzk@reshapebiotech.com or Sara at sgr@reshapebiotech.com To learn more about the Reshape Imaging System #biotech # ...",
+    "url": "https://www.linkedin.com/posts/reshape-biotech_the-reshape-imaging-system-activity-6896775054655639552-8Vjg",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech - LinkedIn Reshape Biotech | The Reshape platform digitizes experimentation by applying flexible robotics, machine learning, and large-scale data management .",
+    "url": "https://www.linkedin.com/products/reshape-biotech/",
+    "pass": 3
+   },
+   {
+    "quote": "Magnus Madsen - Co-founder at Reshape Biotech | LinkedIn I co-founded Reshape Biotech, where we work with global leaders in food and ingredients, agricultural solutions, enzymes and more. Our product portfolio allows R&D labs to digitize and automate...",
+    "url": "https://dk.linkedin.com/in/magnusnm/da",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Reshape Biotech - FacebookReshape Biotech - FacebookReshape Biotech - Q1 has been an exciting time for Reshape...Reshape Biotech - We got an InnoBooster! ... - FacebookReshape Biotech - POLY MEDIA did us the honor of building ...Reshape Biotech - If you're waking up this morning in the...Reshape Biotech - Y Combinator is one of the most ... - Facebook Jun 6, 2023 · For the next couple of weeks we ",
+    "url": "https://www.facebook.com/reshapebiotech/",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech - Facebook Reshape Biotech - Facebook ... Reshape Biotech",
+    "url": "https://www.facebook.com/Reshape-Biotech-102602798919166/",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech - Y Combinator is one of the most ... - Facebook Oct 17, 2019 · Reshape Biotech - Y Combinator is one of the most successful startup accelerators in the world. With names such as Airbnb, Dropbox and Twitch.tv amongst their alumni, they have a great track record of creating amazing companies.",
+    "url": "https://www.facebook.com/reshapebiotech/photos/y-combinator-is-one-of-the-most-successful-startup-accelerators-in-the-world-wit/1150584311794298/",
+    "pass": 3
+   },
+   {
+    "quote": "Reshape Biotech - We got an InnoBooster! ... - Facebook Nov 5, 2020 · Reshape Biotech, da de blev optaget i prestigefuld ... Reshape Biotech har netop været igennem amerikan...",
+    "url": "https://www.facebook.com/reshapebiotech/posts/we-got-an-innobooster-dkk-795-000-from-innovationsfonden-we-just-received-an-inn/1469049143281145/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://reshapebiotech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/solutions/research-and-development",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/solutions/quality-control",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/solutions/contract-testing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/solutions/enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/solutions/smb-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/company/events",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/company/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/explore/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/customer-stories/food-brewer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/customer-stories/syngenta",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/customer-stories/imperial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/customer-stories/carlsberg-research-laboratory",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/case-studies/novonesis",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/customer-stories/dtu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/customer-stories/imperial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/blog/ai-lunch-and-learn-event",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/customer-stories/mascoma-a-lallemand-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/customer-stories/fmcg-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reshapebiotech.com/blog/iso-17025-compliant-microbiology-automation",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/649a2726261a3112788724d4/69b296c1e75aa6440a39ae17_Company%20logos.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/649a2726261a3112788724d4/69b29977beb5cc7a40221ca8_Company%20logos.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www3.to/reshape-biotech-%E3%81%8C-2000-%E4%B8%87%E3%83%89%E3%83%AB%E3%81%AE%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-a-%E3%81%A7%E4%B8%96%E7%95%8C%E7%9A%84%E3%81%AA%E3%82%B3%E3%83%A9%E3%83%9C%E3%83%AC%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biznews/2026/03/acae2ecee0af690d.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://discovery.reshapebiotech.com/auth/signin",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://quality.reshapebiotech.com/auth/signin",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/reshape-biotech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/reshape-biotech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/reshape-biotech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/reshape-biotech/case-study/how-chr-hansen-is-accelerating-their-new-product-development-with-reshape",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reseller.amazon.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/463240-00",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/reshape-biotech/__WWd7O9x65nqOwF1Sbe9QInV4Z-nQ4tinn2RV2rLgMeo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/reshape-biotech/1grbtotpygq0s9nfj",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/reshape-biotech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/reshapeb/status/1777671708473807309",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/reshape-biotech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/reshape-biotech_the-reshape-imaging-system-activity-6896775054655639552-8Vjg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/reshape-biotech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dk.linkedin.com/in/magnusnm/da",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reshapebiotech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Reshape-Biotech-102602798919166/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reshapebiotech/photos/y-combinator-is-one-of-the-most-successful-startup-accelerators-in-the-world-wit/1150584311794298/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reshapebiotech/posts/we-got-an-innobooster-dkk-795-000-from-innovationsfonden-we-just-received-an-inn/1469049143281145/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Reshapebiotech 日本 導入",
+   "results": [
+    "https://reshapebiotech.com/resources/reshape-qc-product-guide",
+    "https://reshapebiotech.com/",
+    "https://www3.to/reshape-biotech-が-2000-万ドルのシリーズ-a-で世界的なコラボレー/",
+    "https://www.jetro.go.jp/biznews/2026/03/acae2ecee0af690d.html",
+    "https://my-best.ai/ai-tools/reshape-biotech/",
+    "https://www.jetro.go.jp/news/releases/2026/bc723efcdd362498.html",
+    "https://www.toolmage.com/ja/tool/reshape-biotech/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reshapebiotech 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://reshapebiotech.com/",
+    "https://discovery.reshapebiotech.com/",
+    "https://www.cosmobio.co.jp/agency/brevitycode.asp",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reshapebiotech Japan",
+   "results": [
+    "https://reshapebiotech.com/resources/reshape-qc-product-guide",
+    "https://quality.reshapebiotech.com/",
+    "https://reshapebiotech.com/",
+    "https://www.linkedin.com/company/reshape-biotech/",
+    "https://pharma.reshapebiotech.com/",
+    "https://www.linkedin.com/products/reshape-biotech/",
+    "https://presentofai.com/spotlight/reshapebiotech.com"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reshapebiotech manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/reshape-biotech",
+    "https://www.featuredcustomers.com/vendor/reshape-biotech",
+    "https://reshapebiotech.com/explore/customer-stories",
+    "https://www.casestudies.com/company/reshape-biotech/case-study/how-chr-hansen-is-accelerating-their-new-product-development-with-reshape",
+    "https://www.featuredcustomers.com/vendor/reshape-biotech/case-studies",
+    "https://www.linkedin.com/posts/reshape-biotech_how-chr-hansen-is-accelerating-their-new-activity-7085167361976098816-X7HJ",
+    "https://reshapebiotech.com/customer-stories/fmcg-company"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reshapebiotech white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://reseller.amazon.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.shopify.com/blog/reseller-business",
+    "https://razorpay.com/partners/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reshapebiotech founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/463240-00",
+    "https://tracxn.com/d/companies/reshape-biotech/__WWd7O9x65nqOwF1Sbe9QInV4Z-nQ4tinn2RV2rLgMeo",
+    "https://www.thecompanycheck.com/company/b/reshape-biotech/1grbtotpygq0s9nfj",
+    "https://startupintros.com/orgs/reshape-biotech",
+    "https://getlatka.com/companies/reshapebiotech.com",
+    "https://fundediq.co/reshape-biotech-reshapebiotech-com-funding/",
+    "https://compworth.com/company/reshape-biotech"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Reshapebiotech",
+   "results": [
+    "https://note.com/tag/マッチョ華道",
+    "https://note.com/famous_rue1479/n/n3977e06b358b?hl=en",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/nobukume/n/n7ebd4f0e96a3",
+    "https://note.com/kotairaha/n/nb40331b330d4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Reshapebiotech",
+   "results": [
+    "https://x.com/",
+    "https://x.com/reshapeb/status/1777671708473807309",
+    "https://x.com:2096/ReshapeB",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jennmckay007/status/2115109181711908916",
+    "https://x.com/ritama2424/status/2119354543435895260",
+    "https://x.com/Marlayna29/status/2115433590150606880"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Reshapebiotech",
+   "results": [
+    "https://www.linkedin.com/company/reshape-biotech/",
+    "https://www.linkedin.com/posts/reshape-biotech_the-reshape-imaging-system-activity-6896775054655639552-8Vjg",
+    "https://www.linkedin.com/products/reshape-biotech/",
+    "https://dk.linkedin.com/in/magnusnm/da",
+    "https://www.linkedin.com/products/reshape-biotech-reshape/",
+    "https://www.linkedin.com/posts/reshape-biotech_biotech-microbiology-ai-activity-7228767912415641601-sbo7",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7293618935919177728/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Reshapebiotech",
+   "results": [
+    "https://www.facebook.com/reshapebiotech/",
+    "https://www.facebook.com/Reshape-Biotech-102602798919166/",
+    "https://www.facebook.com/reshapebiotech/photos/y-combinator-is-one-of-the-most-successful-startup-accelerators-in-the-world-wit/1150584311794298/",
+    "https://www.facebook.com/reshapebiotech/posts/we-got-an-innobooster-dkk-795-000-from-innovationsfonden-we-just-received-an-inn/1469049143281145/",
+    "https://www.facebook.com/reshapebiotech/posts/if-youre-waking-up-this-morning-in-the-country-of-denmark-and-you-subscribe-to-i/1434087056777354/",
+    "https://www.facebook.com/reshapebiotech/posts/q1-has-been-an-exciting-time-for-reshape-biotech-we-acquired-4-new-amazing-peopl/1271239449728783/",
+    "https://www.facebook.com/reshapebiotech/posts/poly-media-did-us-the-honor-of-building-a-new-website-it-looks-amazing-and-we-ho/1303054149880646/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reshapebiotech note 社長",
+   "results": [
+    "https://www.crunchbase.com/person/carl-emil-grøn",
+    "https://www.cbinsights.com/company/reshape-biotech/people",
+    "https://reshapebiotech.com/",
+    "https://reshapebiotech.com/blog/we-have-raised-20m-in-our-series-a",
+    "https://www.siliconrepublic.com/start-ups/reshape-biotech-robotics-ai-startup-denmark-biology-lab-research-carl-emil",
+    "https://startupintros.com/orgs/reshape-biotech",
+    "https://www.linkedin.com/company/reshape-biotech/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reshapebiotech X 投稿",
+   "results": [
+    "https://www.instagram.com/reshapebiotech/",
+    "https://quality.reshapebiotech.com/auth/signin",
+    "https://x.com:2096/ReshapeB",
+    "https://www.instagram.com/p/DewovxmMJBg/",
+    "https://reshapebiotech.com/",
+    "https://reshapebiotech.com/product/experiment-driven-discovery",
+    "https://reshapebiotech.com/experiments-demo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部27頁・検索12回）"
+ }
+}

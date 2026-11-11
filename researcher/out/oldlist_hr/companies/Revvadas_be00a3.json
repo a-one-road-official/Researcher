@@ -1,0 +1,1654 @@
+{
+ "name": "Revvadas",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜要確認",
+ "researched_at": "2026-11-11T09:12:35.245225+00:00",
+ "official_url": "https://www.revvhq.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/revv-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$53,300,000",
+    "url": "https://prospeo.io/c/revv-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Manhattan, New York, United States",
+    "url": "https://prospeo.io/c/revv-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Standardize ADAS workflows across locations. Centralize calibration tracking, documentation, and claims to reduce costs and improve consistency at scale.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The repair industry works better when everyone has the same information. Revv provides you with accurate OEM requirements and generates documentation. Less time spent on paperwork, more time putting safe cars back on the road.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare documentation as work is completed so each required calibration is supported from submission through carrier review, without rework or back-and-forth.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get support from veteran ADAS professionals to navigate complex repairs, documentation, and insurance questions with confidence.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Education and community built for ADAS professionals",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay current as ADAS requirements evolve with training, education, and a peer community built for repair and calibration professionals",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify required ADAS calibrations and OEM procedures during the first estimate. Work starts with the right scope in place earlier to minimize cycle time.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture proof as work happens",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify calibration requirements after service work. Document everything correctly the first time and avoid liability from missed or incomplete ADAS procedures.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure certified repair facilities follow proper ADAS procedures. Track calibration compliance across your network and maintain vehicle safety standards with verifiable documentation.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Receive standardized, complete calibration documentation from repair partners. Reduce claim review time, minimize supplement requests, and improve accuracy across your network.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We're getting far less pushback from insurance now, the documentation is so detailed, and it properly comes up as mandatory on most of the requirements.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Owner / Precision Calibration",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Set and manage pricing rules that reflect how your shop actually operates.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A simple way to keep shops and insurers aligned so claims move through review and approval without excess back-and-forth.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every required calibration identified, documented, and backed by OEM procedures.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Calibration Center & Mobile Provider Platform | Revv",
+    "url": "https://www.revvhq.com/shops/calibration-specialists",
+    "pass": 1
+   },
+   {
+    "quote": "High-volume calibration providers need more than just tools and space. Revv standardizes documentation across all technicians, simplifies partner shop coordination, and delivers the clean proof packages that keep jobs moving and shops coming back.",
+    "url": "https://www.revvhq.com/shops/calibration-specialists",
+    "pass": 1
+   },
+   {
+    "quote": "Built for providers who serve multiple partners",
+    "url": "https://www.revvhq.com/shops/calibration-specialists",
+    "pass": 1
+   },
+   {
+    "quote": "Generate consistent, adjuster-ready packages across all jobs and technicians. Provide partners with complete proof immediately while still on-site with our mobile-friendly platform that eliminates the follow-up requests that slow down your operation.",
+    "url": "https://www.revvhq.com/shops/calibration-specialists",
+    "pass": 1
+   },
+   {
+    "quote": "Every shop you serve gets documentation that justifies each required calibration. Your intake process is easier, jobs get tracked in real time, and you become the provider shops trust and recommend to others.",
+    "url": "https://www.revvhq.com/shops/calibration-specialists",
+    "pass": 1
+   },
+   {
+    "quote": "Standardized workflows reduce training time and eliminate documentation inconsistencies that create rework. Your technicians spend less time on admin and more time performing the calibrations each vehicle requires.",
+    "url": "https://www.revvhq.com/shops/calibration-specialists",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Diag shifted from chasing warning lights to delivering comprehensive ADAS services to their 150-shop network with Revv automatically identifying required calibrations and optimizing service workflows.",
+    "url": "https://www.revvhq.com/shops/calibration-specialists",
+    "pass": 1
+   },
+   {
+    "quote": "Everything calibration providers need to operate efficiently",
+    "url": "https://www.revvhq.com/shops/calibration-specialists",
+    "pass": 1
+   },
+   {
+    "quote": "Track jobs from multiple partner shops in one system. Clear intake processes capture all necessary vehicle and damage information upfront, reducing coordination time and eliminating the back-and-forth that delays work.",
+    "url": "https://www.revvhq.com/shops/calibration-specialists",
+    "pass": 1
+   },
+   {
+    "quote": "Complete calibration packages include everything adjusters need to review claims. When your partner shops spend less time answering questions, they send you more business. Clean documentation turns you into the provider shops depend on.",
+    "url": "https://www.revvhq.com/shops/calibration-specialists",
+    "pass": 1
+   },
+   {
+    "quote": "Identify missed calibrations, document every required procedure, and cut the usual back-and-forth on every job. Schedule a demo and we'll show you what that looks like for your operation.",
+    "url": "https://www.revvhq.com/shops/calibration-specialists",
+    "pass": 1
+   },
+   {
+    "quote": "How ADAS Pro Solutions hit 90%+ first-submission claim approvals with Revv’s Claim Builder",
+    "url": "https://www.revvhq.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Calibration & Revv",
+    "url": "https://www.revvhq.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Precision Calibration Simplified Operations While Strengthening Customer Relationships",
+    "url": "https://www.revvhq.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "When Manual ADAS Calibration Processes Threaten Business Growth",
+    "url": "https://www.revvhq.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Essential Auto processes 300+ ADAS repairs a month with Revv",
+    "url": "https://www.revvhq.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Customers choose dealerships expecting manufacturer-level service. Revv generates documentation showing you followed OEM procedures exactly, building customer confidence while giving carriers the proof they need to review claims consistently.",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Your technicians juggle multiple systems and procedures daily. Revv provides clear, step-by-step guidance for calibration work, reducing the training burden and helping experienced techs work faster while bringing newer team members up to speed quickly.",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "After their previous diagnostics provider discontinued service accounts overnight, ADAS Diagnostic Solutions deployed Revv across their calibration centers and partner shops, doubling monthly vehicle volume as collision shops began identifying calibration needs before passing vehicles to the calibration center.",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Your service department, now with OEM-level precision for ADAS",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Follow manufacturer procedures without the research time",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Your team already has access to OEM service information, but finding and interpreting calibration requirements takes time. Eliminate hours of research time per vehicle with Revv’s automatic identification of all required procedures.",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Your service department handles everything from collision repairs to routine maintenance, and both trigger calibration requirements. One platform covers all calibration scenarios, standardizing your process regardless of what type of service brought the vehicle in.",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Identify missed calibrations, document every required procedure, and cut the usual back-and-forth on every job. Schedule a demo and we'll show you what that looks like for your operation.",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Fully customizable, easy to set up pricing for any scenario",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Rate Builder lets you create and configure rate cards that enable you to set up customized pricing for any combination of shops, carriers, and makes, and feed directly into the estimated pricing created on Revv reports.",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Save time on configuring pricing, spend more time on getting safe cars back on the road",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Manage pricing quickly and easily",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Quickly and easily customize pricing so you don’t have to choose between managing complexity and pricing accurately.",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Customize your pricing by shop, insurance, make, calibration, and rate type.",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify carrier review with DRP-compliant pricing",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Set up DRP-specific pricing quickly and easily with part codes across shops and carriers, ensuring the correct pricing is applied to the right jobs, and mitigating back and forth with carriers.",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Find the hidden advantage to automating your pricing rules",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Reduction in errors using automatic pricing rules",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "How standard price rules drastically reduced admin overhead for Automotive Diag",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "By standardizing pricing rules across shops and automatically applying discounts, Automotive Diag eliminated manual invoicing work and scaled faster.",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Automated shop- and scenario-specific pricing",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Reduced pricing friction as volume increased",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Turn the complex world of pricing into a simple, set & forget experience that keeps your pricing accurate without compromising claim approval",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Apply tiered pricing models to any job",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Easily support sophisticated pricing models like tiered pricing and apply it to any job",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Customize pricing in one place",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Customize your pricing by shop, insurance, make, calibration and rate type and include any custom services you perform.",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Identify missed calibrations, document every required procedure, and cut the usual back-and-forth on every job. Schedule a demo and we'll show you what that looks like for your operation.",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Owner / Automotive Diag",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams managing ADAS work every day",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "High-volume calibration providers need more than just tools and space. Revv standardizes documentation across all technicians, simplifies partner shop coordination, and delivers the clean proof packages that keep jobs moving and shops coming back.",
+    "url": "https://www.revvhq.com/shops/calibration-specialists",
+    "pass": 1
+   },
+   {
+    "quote": "Generate consistent, adjuster-ready packages across all jobs and technicians. Provide partners with complete proof immediately while still on-site with our mobile-friendly platform that eliminates the follow-up requests that slow down your operation.",
+    "url": "https://www.revvhq.com/shops/calibration-specialists",
+    "pass": 1
+   },
+   {
+    "quote": "Standardized workflows reduce training time and eliminate documentation inconsistencies that create rework. Your technicians spend less time on admin and more time performing the calibrations each vehicle requires.",
+    "url": "https://www.revvhq.com/shops/calibration-specialists",
+    "pass": 1
+   },
+   {
+    "quote": "Owner at Automotive Diag",
+    "url": "https://www.revvhq.com/shops/calibration-specialists",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Diag shifted from chasing warning lights to delivering comprehensive ADAS services to their 150-shop network with Revv automatically identifying required calibrations and optimizing service workflows.",
+    "url": "https://www.revvhq.com/shops/calibration-specialists",
+    "pass": 1
+   },
+   {
+    "quote": "Standardize documentation across all technicians",
+    "url": "https://www.revvhq.com/shops/calibration-specialists",
+    "pass": 1
+   },
+   {
+    "quote": "How Automotive Diag Went from Emergency Calls to 250% Growth",
+    "url": "https://www.revvhq.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Your service department sees alignments or repairs that trigger calibration requirements. Revv identifies what needs calibration based on the service performed, eliminating guesswork and ensuring your team follows manufacturer standards every time.",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Customers choose dealerships expecting manufacturer-level service. Revv generates documentation showing you followed OEM procedures exactly, building customer confidence while giving carriers the proof they need to review claims consistently.",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Your technicians juggle multiple systems and procedures daily. Revv provides clear, step-by-step guidance for calibration work, reducing the training burden and helping experienced techs work faster while bringing newer team members up to speed quickly.",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Owner / Automotive Diag",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Follow manufacturer procedures without the research time",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Owner of Automotive Diag",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "How standard price rules drastically reduced admin overhead for Automotive Diag",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "By standardizing pricing rules across shops and automatically applying discounts, Automotive Diag eliminated manual invoicing work and scaled faster.",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Software Built for the Shop Floor",
+    "url": "https://www.revvhq.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "This is this case study's type:",
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "pass": 1
+   },
+   {
+    "quote": "How Automotive Diag Went from Emergency Calls to 250% Growth",
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "pass": 1
+   },
+   {
+    "quote": "In late 2023, Randal Scot Nichols, owner of Automotive Diag, logged into his business software and saw something that stopped him cold.",
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "pass": 1
+   },
+   {
+    "quote": "One of his client shops had $70,000 worth of potential calibration work—but Automotive Diag had completed only $2,000 of it.",
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "pass": 1
+   },
+   {
+    "quote": "The team at Automotive Diag currently provides their high quality services to over 150 shops in mid-Missouri.",
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "pass": 1
+   },
+   {
+    "quote": "Equipment needs would surface only after technicians arrived on site, leading to delayed services and repeat visits.",
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "pass": 1
+   },
+   {
+    "quote": "More fundamentally, the Automotive Diag team struggled to communicate the value and necessity of calibration services to shop partners. Without clear documentation and systematic validation of required procedures, getting buyin for comprehensive calibration services was an uphill battle.",
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "pass": 1
+   },
+   {
+    "quote": "These operational improvements allowed Automotive Diag to prioritize service quality and business growth instead of administrative tasks.",
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "pass": 1
+   },
+   {
+    "quote": "Plus, each reduction in documentation and invoicing and checking boxes for each ticket translates into more capacity for actual calibration work. Likewise, equipment planning improvements meant technicians arrived prepared for every job, eliminating costly return visits.",
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "pass": 1
+   },
+   {
+    "quote": "With Revv ADAS automatically identifying required calibrations and optimizing service workflows, Automotive Diag shifted from chasing warning lights to delivering comprehensive ADAS services to their 150-shop network.",
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "pass": 1
+   },
+   {
+    "quote": "This is this case study's type:",
+    "url": "https://www.revvhq.com/case-studies/rudy-schmid-total-car-care-revv",
+    "pass": 1
+   },
+   {
+    "quote": "This is this case study's type:",
+    "url": "https://www.revvhq.com/case-studies/precision-calibration-adas-growth-customer-relationships",
+    "pass": 1
+   },
+   {
+    "quote": "\"Submit feedback. That's what I tell my technicians anytime they bring something up,” He said, “I'm always like, 'have you submitted the feedback and recorded it?' Because Revv really does listen and uses our feedback to change the software.\"",
+    "url": "https://www.revvhq.com/case-studies/precision-calibration-adas-growth-customer-relationships",
+    "pass": 1
+   },
+   {
+    "quote": "This is this case study's type:",
+    "url": "https://www.revvhq.com/case-studies/adas-pro-solutions-claim-builder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Guillermo Aparicio has been in the automotive industry for 15 years. The last three have been focused on ADAS calibrations. A year ago, he left the company he'd been working for and launched ADAS Pro Solutions, a mobile calibration business serving roughly 10 body shops across the Santa Barbara County area.",
+    "url": "https://www.revvhq.com/case-studies/adas-pro-solutions-claim-builder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "This is this case study's type:",
+    "url": "https://www.revvhq.com/case-studies/pace-revv-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Automotive Calibration Experts (PACE) is a multi-location ADAS calibration specialist. Using Revv, they’ve cut per-order technician time by 20 minutes and helped their body shop partners capture more ADAS revenue by moving to Revv.",
+    "url": "https://www.revvhq.com/case-studies/pace-revv-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "PACE (Precision Automotive Calibration Experts) was built to handle calibrations the way manufacturers intend: a purpose-built, OEM-compliant facility, with documented procedures and the proof to back them up.",
+    "url": "https://www.revvhq.com/case-studies/pace-revv-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Technicians were averaging 10 to 15 minutes per report, and because PACE quotes a high volume of jobs they may never actually service, that time—and time waste—compounded fast.",
+    "url": "https://www.revvhq.com/case-studies/pace-revv-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "With Revv, they can walk a carrier through the manufacturer's requirement language, the procedure steps, and the photo documentation in real time.",
+    "url": "https://www.revvhq.com/case-studies/pace-revv-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "This is this case study's type:",
+    "url": "https://www.revvhq.com/case-studies/revvadas-fuels-customer-growth-for-texas-based-complete-collision-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "This improved efficiency trickles down to Complete Collision Solutions partner collision centers. Because they receive ADAS reports in a timely manner, technicians at these shops can now work more proactively and incorporate calibrations from the start, leading to increased overall productivity.",
+    "url": "https://www.revvhq.com/case-studies/revvadas-fuels-customer-growth-for-texas-based-complete-collision-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "This is this case study's type:",
+    "url": "https://www.revvhq.com/case-studies/adas-diagnostic-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Revv emerges from stealth to diagnose ADAS for automotive repair shops | semashow.com",
+    "url": "https://semashow.com/press/10262023-1427/revv-emerges-stealth-diagnose-adas-automotive-repair-shops",
+    "pass": 3
+   },
+   {
+    "quote": "Revv emerges from stealth to diagnose ADAS for automotive repair shops LINKS",
+    "url": "https://semashow.com/press/10262023-1427/revv-emerges-stealth-diagnose-adas-automotive-repair-shops",
+    "pass": 3
+   },
+   {
+    "quote": "Revv emerges from stealth to diagnose ADAS for automotive repair shops",
+    "url": "https://semashow.com/press/10262023-1427/revv-emerges-stealth-diagnose-adas-automotive-repair-shops",
+    "pass": 3
+   },
+   {
+    "quote": "“RevvADAS has increased our efficiency in verifying required ADAS services and has helped us drive additional revenue at our shops,” said Matt Braam, Director of Aftermarket Automotive at Ascential Technologies.",
+    "url": "https://semashow.com/press/10262023-1427/revv-emerges-stealth-diagnose-adas-automotive-repair-shops",
+    "pass": 3
+   },
+   {
+    "quote": "RevvADAS was built using a LLM to aggregate data from vehicles across the largest car databases and manufacturer guidelines. The platform makes it easy to search for specific vehicle information by make, model or VIN.",
+    "url": "https://semashow.com/press/10262023-1427/revv-emerges-stealth-diagnose-adas-automotive-repair-shops",
+    "pass": 3
+   },
+   {
+    "quote": "Revv Case Study: Complete Collision Solutions – RevvADAS fuels customer growth for Texas-based Complete Collision Solutions | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/revv/case-study/revvadas-fuels-customer-growth-for-texas-based-complete-collision-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Complete Collision Solutions used Revv",
+    "url": "https://www.casestudies.com/company/revv/case-study/revvadas-fuels-customer-growth-for-texas-based-complete-collision-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/revv/case-study/revvadas-fuels-customer-growth-for-texas-based-complete-collision-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/revv/case-study/revvadas-fuels-customer-growth-for-texas-based-complete-collision-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Revv Case Study: Burke Porter Group – Burke Porter deploys RevvADAS to grow ADAS business | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/revv/case-study/burke-porter-deploys-revvadas-to-grow-adas-business",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Burke Porter Group used Revv",
+    "url": "https://www.casestudies.com/company/revv/case-study/burke-porter-deploys-revvadas-to-grow-adas-business",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/revv/case-study/burke-porter-deploys-revvadas-to-grow-adas-business",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/revv/case-study/burke-porter-deploys-revvadas-to-grow-adas-business",
+    "pass": 3
+   },
+   {
+    "quote": "Smartrend Manufacturing Group (SMG)",
+    "url": "https://prospeo.io/c/revv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ", a software-as-a-service startup, has emerged from stealth mode with the national launch of an automotive repair diagnostics platform underpinned by a",
+    "url": "https://www.autocareweek.com/diagnostics-platform-emerges-from-stealth-mode-with-national-launch-104683.htm",
+    "pass": 3
+   },
+   {
+    "quote": "(LLM). Revv’s platform leverages artificial intelligence (AI) to help technicians diagnose hard-to-identify issues with a vehicle’s ADAS.",
+    "url": "https://www.autocareweek.com/diagnostics-platform-emerges-from-stealth-mode-with-national-launch-104683.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Gears Magazine - Revv Emerges From Stealth to Diagnose ADAS For Automotive Repair Shops",
+    "url": "https://gearsmagazine.com/2023/10/revv-emerges-from-stealth-to-diagnose-adas-for-automotive-repair-shops/",
+    "pass": 3
+   },
+   {
+    "quote": "Revv emerges from stealth to diagnose advanced driver assistance systems (ADAS) for automotive repair shops.",
+    "url": "https://gearsmagazine.com/2023/10/revv-emerges-from-stealth-to-diagnose-adas-for-automotive-repair-shops/",
+    "pass": 3
+   },
+   {
+    "quote": "To properly diagnose problems across these features without automation, repair shops would have to manually gather ADAS operations and procedures from fragmented sources like car manufacturers, aftermarket aggregators, and OEM procedures. This has historically been a time-consuming and costly process.",
+    "url": "https://gearsmagazine.com/2023/10/revv-emerges-from-stealth-to-diagnose-adas-for-automotive-repair-shops/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "ADAS identification, OEM justification & documentation. Built into your workflow.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage ADAS work across the tools and systems teams already use—connecting estimating, calibration identification, OEM requirements, insurance claims, and billing in one place.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connecting shops, OEMs, and insurers around ADAS",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The repair industry works better when everyone has the same information. Revv provides you with accurate OEM requirements and generates documentation. Less time spent on paperwork, more time putting safe cars back on the road.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Surface OEM requirements early",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify required ADAS calibrations and OEM procedures during the first estimate. Work starts with the right scope in place earlier to minimize cycle time.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Calibrate vehicles accurately with the right tools, targets, and requirements, following OEM guidance from start to finish.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Submit complete, OEM-backed documentation in the format insurers expect. Fewer questions. Shorter cycle times.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically identify required calibrations and OEM documentation at the as-built level.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compile clear, OEM-backed documentation into insurance-ready claim packets.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every required calibration identified, documented, and backed by OEM procedures.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dealerships face the same calibration challenges as independent shops: unclear requirements, complex documentation, and insurance pushback. Customers still expect OEM-level expertise. Revv gives your service department the tools to identify calibrations correctly and document them completely for consistent cycle times.",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver the OEM expertise customers expect from your dealership",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Document service that matches OEM expectations",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Customers choose dealerships expecting manufacturer-level service. Revv generates documentation showing you followed OEM procedures exactly, building customer confidence while giving carriers the proof they need to review claims consistently.",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Your service department, now with OEM-level precision for ADAS",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Your team already has access to OEM service information, but finding and interpreting calibration requirements takes time. Eliminate hours of research time per vehicle with Revv’s automatic identification of all required procedures.",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Stay ahead of evolving industry standards and eliminate guesswork. Revv ensures your calibrations align with OEM guidelines and documentation with a centralized, up-to-date database of OEM calibration requirements.",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partner Program Page",
+    "url": "https://www.revvhq.com/channel-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver the OEM expertise customers expect",
+    "url": "https://www.revvhq.com/channel-partner",
+    "pass": 1
+   },
+   {
+    "quote": "As a Revv Channel Partner, you’ll receive:",
+    "url": "https://www.revvhq.com/channel-partner",
+    "pass": 1
+   },
+   {
+    "quote": "A profile on our website to promote your brand",
+    "url": "https://www.revvhq.com/channel-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically generates OEM-compliant documentation",
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver the OEM expertise customers expect",
+    "url": "https://www.revvhq.com/case-studies/rudy-schmid-total-car-care-revv",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically generates OEM-compliant documentation",
+    "url": "https://www.revvhq.com/case-studies/rudy-schmid-total-car-care-revv",
+    "pass": 1
+   },
+   {
+    "quote": "\"At the time using the OEM service data. Then every couple weeks I’d have to check all the updates on everything. Most of the times when someone would ask me [about a specific requirement], I would have to look it up each time in case it changed,\" Patrick recalls.",
+    "url": "https://www.revvhq.com/case-studies/precision-calibration-adas-growth-customer-relationships",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically generates OEM-compliant documentation",
+    "url": "https://www.revvhq.com/case-studies/precision-calibration-adas-growth-customer-relationships",
+    "pass": 1
+   },
+   {
+    "quote": "Before Claim Builder, Guillermo was digging through AllData for OEM position statements and explaining them to adjusters over the phone.",
+    "url": "https://www.revvhq.com/case-studies/adas-pro-solutions-claim-builder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically generates OEM-compliant documentation",
+    "url": "https://www.revvhq.com/case-studies/adas-pro-solutions-claim-builder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "PACE (Precision Automotive Calibration Experts) was built to handle calibrations the way manufacturers intend: a purpose-built, OEM-compliant facility, with documented procedures and the proof to back them up.",
+    "url": "https://www.revvhq.com/case-studies/pace-revv-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "On the documentation side, Revv keeps everything in one place: OEM requirement language, procedure steps, photos, and system outputs. Sometimes that's 100-plus items for a single vehicle.",
+    "url": "https://www.revvhq.com/case-studies/pace-revv-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically generates OEM-compliant documentation",
+    "url": "https://www.revvhq.com/case-studies/pace-revv-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically generates OEM-compliant documentation",
+    "url": "https://www.revvhq.com/case-studies/revvadas-fuels-customer-growth-for-texas-based-complete-collision-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically generates OEM-compliant documentation",
+    "url": "https://www.revvhq.com/case-studies/adas-diagnostic-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "ADAS calibration isn’t just about compliance—it’s a profit opportunity. With OEM requirements growing and more vehicles relying on advanced safety systems, smart shops use ADAS to To make it happen, you need more than tools. You need a complete system: trusted equipment, workflow software, and expert support. That’s where Triad and RevvADAS come in.",
+    "url": "https://www.triad-ds.com/revv-adas/",
+    "pass": 3
+   },
+   {
+    "quote": "Manual OEM research wastes time Value",
+    "url": "https://www.triad-ds.com/revv-adas/",
+    "pass": 3
+   },
+   {
+    "quote": "Generates OEM-compliant reports automatically",
+    "url": "https://www.triad-ds.com/revv-adas/",
+    "pass": 3
+   },
+   {
+    "quote": "Broad OEM coverage (cars, trucks, SUVs, commercial vehicles)",
+    "url": "https://www.triad-ds.com/revv-adas/",
+    "pass": 3
+   },
+   {
+    "quote": "Guided setup with OEM specs",
+    "url": "https://www.triad-ds.com/revv-adas/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM-compliant reports auto-generated",
+    "url": "https://www.triad-ds.com/revv-adas/",
+    "pass": 3
+   },
+   {
+    "quote": "Triad delivers industry-leading diagnostic repair solutions for fleets, OEMs, and shops. Specializing in Jaltest and Autel tools, with expert training, support, and programming.",
+    "url": "https://www.triad-ds.com/revv-adas/",
+    "pass": 3
+   },
+   {
+    "quote": "To properly diagnose problems across these features without automation, repair shops would have to manually gather ADAS operations and procedures from fragmented sources like car manufacturers, aftermarket aggregators, and OEM procedures. This has historically been a time-consuming and costly process.",
+    "url": "https://gearsmagazine.com/2023/10/revv-emerges-from-stealth-to-diagnose-adas-for-automotive-repair-shops/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Prepare documentation as work is completed so each required calibration is supported from submission through carrier review, without rework or back-and-forth.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tools that support every part of ADAS work",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Carry accurate details from estimate through final invoice automatically.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Apply the right rates across vehicles, carriers, and locations without manual adjustments.",
+    "url": "https://www.revvhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customers choose dealerships expecting manufacturer-level service. Revv generates documentation showing you followed OEM procedures exactly, building customer confidence while giving carriers the proof they need to review claims consistently.",
+    "url": "https://www.revvhq.com/shops/dealership",
+    "pass": 1
+   },
+   {
+    "quote": "Rate Builder lets you create and configure rate cards that enable you to set up customized pricing for any combination of shops, carriers, and makes, and feed directly into the estimated pricing created on Revv reports.",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify carrier review with DRP-compliant pricing",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "Set up DRP-specific pricing quickly and easily with part codes across shops and carriers, ensuring the correct pricing is applied to the right jobs, and mitigating back and forth with carriers.",
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "pass": 1
+   },
+   {
+    "quote": "At Revv, we believe that building an ambitious company starts with building a healthy, supported team. Our benefits are designed to reduce stress, protect your time, and support every part of your life, both at work and beyond it. Whether you're growing your family, leveling up in your career, or just taking care of yourself, we’ve got you covered.",
+    "url": "https://www.revvhq.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "In just four months in 2024, monthly revenue grew from $20,000 to $70,000—a 250% increase—made possible by redirecting time from paperwork to profitable service delivery.",
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "pass": 1
+   },
+   {
+    "quote": "250% increase in monthly revenue",
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "pass": 1
+   },
+   {
+    "quote": "In just four months in 2024, monthly revenue grew from $20,000 to $70,000—a 250% increase",
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "pass": 1
+   },
+   {
+    "quote": "\"It was right there in the data from Revv,” Randal recalls. “I basically approached the owner of the shop and said, 'Well, you realize that if we completed everything listed here...I'd owe you thousands of dollars in revenue?'\"",
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "pass": 1
+   },
+   {
+    "quote": "Equipment needs would surface only after technicians arrived on site, leading to delayed services and repeat visits.",
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "pass": 1
+   },
+   {
+    "quote": "From Manual Processes to 250% Revenue Growth",
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "pass": 1
+   },
+   {
+    "quote": "Plus, each reduction in documentation and invoicing and checking boxes for each ticket translates into more capacity for actual calibration work. Likewise, equipment planning improvements meant technicians arrived prepared for every job, eliminating costly return visits.",
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Calibration continues to leverage Revv as part of their broader strategy to become a comprehensive service provider for collision shops.",
+    "url": "https://www.revvhq.com/case-studies/precision-calibration-adas-growth-customer-relationships",
+    "pass": 1
+   },
+   {
+    "quote": "\"We're just trying to maximize the stuff that we already have... trying to find more, maximize the work at the shops we already have. Revv is a major part of that plan.\"",
+    "url": "https://www.revvhq.com/case-studies/precision-calibration-adas-growth-customer-relationships",
+    "pass": 1
+   },
+   {
+    "quote": "No central database, constant phone calls, and revenue walking out the door",
+    "url": "https://www.revvhq.com/case-studies/adas-pro-solutions-claim-builder-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Automotive Calibration Experts (PACE) is a multi-location ADAS calibration specialist. Using Revv, they’ve cut per-order technician time by 20 minutes and helped their body shop partners capture more ADAS revenue by moving to Revv.",
+    "url": "https://www.revvhq.com/case-studies/pace-revv-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Even after adopting Revv for ADAS calibration identification, PACE's workflow still ran across two separate tools, one for identification and quoting, another for documentation and work order creation. Every report required a technician to manually carry data between them.",
+    "url": "https://www.revvhq.com/case-studies/pace-revv-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "And with insurance carriers rolling out their own pricing methodologies, managing rates manually (by carrier, by client, by vehicle type) was becoming unworkable at the volume they were dealing with.",
+    "url": "https://www.revvhq.com/case-studies/pace-revv-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Managing carrier-specific pricing across seven locations means different methodologies for different insurance partners, different rates by client and vehicle type.",
+    "url": "https://www.revvhq.com/case-studies/pace-revv-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "With that time freed up, those hours can go into an increased volume of calibration work boosting revenue for both PACE and shops within their partner network.",
+    "url": "https://www.revvhq.com/case-studies/pace-revv-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The documentation has also changed how insurance conversations go. PACE fields carrier calls weekly, sometimes on jobs invoiced weeks prior.",
+    "url": "https://www.revvhq.com/case-studies/pace-revv-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "With Revv, they can walk a carrier through the manufacturer's requirement language, the procedure steps, and the photo documentation in real time.",
+    "url": "https://www.revvhq.com/case-studies/pace-revv-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "For body shop clients PACE brings onto Revv, the average result is a 3% gain in ADAS revenue as a percentage of collision revenue. For shops with no prior identification software, that number averages closer to 5%.",
+    "url": "https://www.revvhq.com/case-studies/pace-revv-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Each new center comes online with pricing already configured in Revv's Rate Builder. Meaning, carrier-specific methodologies, client-level rates, vehicle type differentials are already there without rebuilding anything from scratch.",
+    "url": "https://www.revvhq.com/case-studies/pace-revv-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Automating ADAS diagnostics with RevvADAS drives revenue for the company and its 50+ partner collision shops",
+    "url": "https://www.revvhq.com/case-studies/revvadas-fuels-customer-growth-for-texas-based-complete-collision-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Distinguishing itself from other auto repair operations many of which are still adjusting to the growing prevalence of advanced driver assistance systems (ADAS) Complete Collision Solutions integrated ADAS calibrations from the start. Stuver joined the business shortly after its founding to grow its ADAS operations, arriving with 20 years of experience in the collision industry.",
+    "url": "https://www.revvhq.com/case-studies/revvadas-fuels-customer-growth-for-texas-based-complete-collision-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to ADAS services, its services include other safety and technology components, such as wiring, SRS replacements, and auto glass repairs. With so much to manage, streamlining and automating the ADAS component of the business has been instrumental in reducing manual workload and growing revenue opportunities.",
+    "url": "https://www.revvhq.com/case-studies/revvadas-fuels-customer-growth-for-texas-based-complete-collision-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Overall, Stuver says integrating RevvADAS software has allowed his team to better support partner shops. They are now generating roughly 2500 reports a month, each one helping them return a safer car to the road and generate increased revenue in the process.",
+    "url": "https://www.revvhq.com/case-studies/revvadas-fuels-customer-growth-for-texas-based-complete-collision-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Given his years of experience in the industry, Stuver knew the revenue and liability protection potential of being able to generate accurate ADAS calibration reports quickly. RevvADAS has solidified that for him and his team.",
+    "url": "https://www.revvhq.com/case-studies/revvadas-fuels-customer-growth-for-texas-based-complete-collision-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Revv unlocks new revenue for a Massachusetts calibration center and its collision shop partners",
+    "url": "https://www.revvhq.com/case-studies/adas-diagnostic-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "More repairs leads to more revenue",
+    "url": "https://www.revvhq.com/case-studies/adas-diagnostic-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Backed by 4 generations of experience, ADAS Diagnostic Solutions specializes in the calibration and diagnostics of ADAS. Revv has helped tap new revenue streams for this Massachusetts calibration center and its collision shop partners.",
+    "url": "https://www.revvhq.com/case-studies/adas-diagnostic-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "According to Revv’s data, 60% of repair estimates by auto repair shops don’t include ADAS repairs, meaning essential fixes aren’t being made. This makes it a potential safety hazard for customers and a missed revenue-generating opportunity for shops.",
+    "url": "https://semashow.com/press/10262023-1427/revv-emerges-stealth-diagnose-adas-automotive-repair-shops",
+    "pass": 3
+   },
+   {
+    "quote": "Enhancing shop revenue streams and customer safety",
+    "url": "https://semashow.com/press/10262023-1427/revv-emerges-stealth-diagnose-adas-automotive-repair-shops",
+    "pass": 3
+   },
+   {
+    "quote": "Mike Ambrosino, ADAS Calibration & Diagnostic Team Leader at ADAS Diagnostic Solutions said, \"RevvADAS opened a new source of revenue for our ADAS shop. We can run estimates through RevvADAS and create a safer repair for our clients, while driving additional revenue through our door.”",
+    "url": "https://semashow.com/press/10262023-1427/revv-emerges-stealth-diagnose-adas-automotive-repair-shops",
+    "pass": 3
+   },
+   {
+    "quote": "RevvADAS has already been implemented in over 250 auto repair shops across the country. Of the estimates processed through the platform to date, over 60% of reports have required ADAS calibrations. On average, shops using RevvADAS generate over $1,200 in undiscovered revenue per estimate. In total across customers, Revv has helped shops generate more than $16M in revenue thus far.",
+    "url": "https://semashow.com/press/10262023-1427/revv-emerges-stealth-diagnose-adas-automotive-repair-shops",
+    "pass": 3
+   },
+   {
+    "quote": "“RevvADAS has increased our efficiency in verifying required ADAS services and has helped us drive additional revenue at our shops,” said Matt Braam, Director of Aftermarket Automotive at Ascential Technologies.",
+    "url": "https://semashow.com/press/10262023-1427/revv-emerges-stealth-diagnose-adas-automotive-repair-shops",
+    "pass": 3
+   },
+   {
+    "quote": "Revv flags missed procedures, increasing revenue 15–20%",
+    "url": "https://www.triad-ds.com/revv-adas/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://www.triad-ds.com/revv-adas/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.triad-ds.com/revv-adas/",
+    "pass": 3
+   },
+   {
+    "quote": "Revv Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/revv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Revv",
+    "url": "https://prospeo.io/c/revv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/revv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/revv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/revv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Revv?",
+    "url": "https://prospeo.io/c/revv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Revv generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/revv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/revv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/revv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Revv have?",
+    "url": "https://prospeo.io/c/revv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/revv-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "LKQ Reports Q3 Specialty Segment Revenue Increase",
+    "url": "https://www.autocareweek.com/diagnostics-platform-emerges-from-stealth-mode-with-national-launch-104683.htm",
+    "pass": 3
+   },
+   {
+    "quote": "Revv raises $2.1M in a funding round led by 1984 Ventures, introduces an AI-enabled software to boost revenue for repair shops and ensure safety for customers",
+    "url": "https://gearsmagazine.com/2023/10/revv-emerges-from-stealth-to-diagnose-adas-for-automotive-repair-shops/",
+    "pass": 3
+   },
+   {
+    "quote": "Yet according to Revv’s data, 60% of repair estimates by auto repair shops don’t include ADAS repairs, meaning essential fixes aren’t being made. This makes it a potential safety hazard for customers and a missed revenue-generating opportunity for shops.",
+    "url": "https://gearsmagazine.com/2023/10/revv-emerges-from-stealth-to-diagnose-adas-for-automotive-repair-shops/",
+    "pass": 3
+   },
+   {
+    "quote": "“ADAS calibration is an ideal market. It’s overlooked, yet fast growing, and will consume the entire auto market in the coming years. Soon, every car on the road will have sensors in need of calibration,” said Samit Kalra, partner at 1984 Ventures. “Revv has experienced strong early traction because it both saves technicians time and generates significant revenue for shops.”",
+    "url": "https://gearsmagazine.com/2023/10/revv-emerges-from-stealth-to-diagnose-adas-for-automotive-repair-shops/",
+    "pass": 3
+   },
+   {
+    "quote": "Enhancing shop revenue streams and customer safety",
+    "url": "https://gearsmagazine.com/2023/10/revv-emerges-from-stealth-to-diagnose-adas-for-automotive-repair-shops/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Burke Porter deploys RevvADAS to grow ADAS business — In short, RevvADAS has enabled the company to stay nimble, seamlessly integrating ADAS diagnostics into their processes. RevvADAS is able to quickly turn a repair estimate into a comprehensive ADAS calibration package, said Morales.",
+    "url": "https://www.revvhq.com/case-studies/multinational-automotive-technology-company-burke-porter-deploys-revvadas-to-grow-adas-business",
+    "pass": 3
+   },
+   {
+    "quote": "RevvADAS — Revv ADAS | AI-Powered ADAS Calibration Identification for Repair Shops",
+    "url": "https://app.revvadas.com/workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Revv ADAS | AI-Powered ADAS Calibration Reporting for Repair ... — Resources Learn ADAS Insights Learning Center Live Events & Workshops Customer Stories Connect Join Our Community Refer a Shop Become a Partner Company Careers Become a Partner Contact support@revvadas.com +1 (831) 480-6028 Become a Partner RevvADAS ©2026 Privacy Terms Cookie Settings",
+    "url": "https://www.revvhq.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Revv emerges from stealth to diagnose ADAS for automotive ... — RevvADAS has already been implemented in over 250 auto repair shops across the country. Of the estimates processed through the platform to date, over 60% of reports have required ADAS calibrations.",
+    "url": "https://semashow.com/press/10262023-1427/revv-emerges-stealth-diagnose-adas-automotive-repair-shops",
+    "pass": 3
+   },
+   {
+    "quote": "Revv Emerges From Stealth to Diagnose ADAS ... - Gears Magazine — Oct 23, 2023 · RevvADAS has already been implemented in over 200 auto repair shops across the country. Of the estimates processed through the platform to date, over 60% of reports have required ADAS calibrations.",
+    "url": "https://gearsmagazine.com/2023/10/revv-emerges-from-stealth-to-diagnose-adas-for-automotive-repair-shops/",
+    "pass": 3
+   },
+   {
+    "quote": "RevvADAS — Revv ADAS | AI-Powered ADAS Calibration Identification for Repair Shops",
+    "url": "https://app.revvadas.com/reports/new",
+    "pass": 3
+   },
+   {
+    "quote": "Burke Porter deploys RevvADAS to grow ADAS business — With RevvADAS, Cesar Morales, an ADAS technician, can run a collision repair estimate through the platform and receive a complete list of ADAS calibrations in seconds.",
+    "url": "https://www.revvhq.com/case-studies/multinational-automotive-technology-company-burke-porter-deploys-revvadas-to-grow-adas-business",
+    "pass": 3
+   },
+   {
+    "quote": "REVV ADAS - LANDING PAGE | Triad Diagnostic Solutions — Jul 8, 2026 · Triad Diagnostic Solutions has partnered with RevvADAS, the experts in ADAS calibration repair procedure solutions, to help shops like yours confidently service vehicles equipped with Advanced Driving Assistance Systems.",
+    "url": "https://www.triad-ds.com/revv-adas/",
+    "pass": 3
+   },
+   {
+    "quote": "Revv ADAS | AI-Powered ADAS Calibration Reporting for Repair ... — ADAS identification, OEM justification & documentation. Built into your workflow. Revv empowers shops to identify needed calibrations, document work, and manage insurance workflows. The Operating System for ADAS workflows.",
+    "url": "https://www.revvhq.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Revv fuels customer growth for Texas-based Complete Collision ... — Since integrating the software into Complete Collision Solutions workflows, RevvADAS has become a critical driver of the company’s ADAS business sector, customer expansion, and overall revenue growth.",
+    "url": "https://www.revvhq.com/case-studies/revvadas-fuels-customer-growth-for-texas-based-complete-collision-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Revv Case Study: Complete Collision Solutions – RevvADAS ... — Complete Collision Solutions (Automotive) partnered with Revv (Computer Software) to solve key challenges. \"RevvADAS fuels customer growth for Texas-based Complete Collision Solutions\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/revv/case-study/revvadas-fuels-customer-growth-for-texas-based-complete-collision-solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Revv Case Study: Burke Porter Group – Burke Porter deploys ... — Burke Porter Group partnered with Revv (Computer Software) to solve key challenges. \"Burke Porter deploys RevvADAS to grow ADAS business\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/revv/case-study/burke-porter-deploys-revvadas-to-grow-adas-business",
+    "pass": 3
+   },
+   {
+    "quote": "Revv ADAS | Case Studies - revvhq.com — See how collision shops, mechanics, and calibration specialists use Revv to identify required ADAS calibrations, document them accurately, and shorten cycle times.",
+    "url": "https://www.revvhq.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "2026 Company Profile, Team, Funding & Competitors - TracxnRevv Revenue, Funding & ValuationDiagnostics Platform Emerges From Stealth Mode With National ...Revv Emerges From Stealth to Diagnose ADAS ... - Gears MagazineRevv Secures $20M Investment to Continue Roll Out of Award ...New York-based Revv launches with $2.1M to use AI for ...Revv - aVenture Company Research — Jul 20, 2026 · Revv is a ser",
+    "url": "https://tracxn.com/d/companies/revv/__K0UZQaz1pYE7LcCipCEJUvnO0fi5rP36jsiCCkc-hIw",
+    "pass": 3
+   },
+   {
+    "quote": "Revv Emerges From Stealth to Diagnose ADAS ... - Gears Magazine — Oct 23, 2023 · Mike Ambrosino, ADAS Calibration & Diagnostic Team Leader at ADAS Diagnostic Solutions said, “RevvADAS opened a new source of revenue for our ADAS shop. We can run estimates through RevvADAS and create a safer repair for our clients, while driving additional revenue through our door.”",
+    "url": "https://gearsmagazine.com/2023/10/revv-emerges-from-stealth-to-diagnose-adas-for-automotive-repair-shops/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/revv-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ADAS + EV = complex calls in the bay. Here’s how to make the ... Hosted by I-CAR Sustaining Partner Revv ADAS, Joel Adcock (Revv) and Kurt Fenzel (I-CAR) team up for The ADAS & EV Calibration Crossroads—a webinar on smart strategy, real risks, and what your shop needs to know. 📅 July 17. Don’t miss it: bit.ly/44HdM0T #ADAS #EVRepair #ICAR #RevvADAS #CollisionPros #TechTalk #CalibrationConfidence",
+    "url": "https://x.com/I_CAR_Education/status/1943400746004734102",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "No more surprises mid-repair. RevvADAS tells you up front ... Sep 18, 2025 · No more surprises mid-repair. RevvADAS tells you up front what calibrations are needed—before a single wrench turns. Just plug in the VIN and get a...",
+    "url": "https://www.facebook.com/reel/1801891107110410/",
+    "pass": 3
+   },
+   {
+    "quote": "Still flipping through OEM portals and PDFs? RevvADAS turns ... Still flipping through OEM portals and PDFs? RevvADAS turns hours of research into seconds with AI-powered VIN decoding. You upload your estimate → it...",
+    "url": "https://www.facebook.com/61555740053486/videos/655328110736619/",
+    "pass": 3
+   },
+   {
+    "quote": "Revv ADAS | New York NY - Facebook Sep 2, 2026 · Revv ADAS, New York. 1,039 likes · 49 talking about this. Our software makes the entire ADAS process easier and more profitable for the entire industry. We stand beside you, supporting your team and...",
+    "url": "https://www.facebook.com/p/Revv-ADAS-61555740053486/",
+    "pass": 3
+   },
+   {
+    "quote": "Missing even one calibration? That’s revenue walking out the ... Sep 17, 2025 · Missing even one calibration? That’s revenue walking out the door. With RevvADAS, just enter the VIN and let it do the heavy lifting. → It decodes the...",
+    "url": "https://www.facebook.com/reel/3989515497964417/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.revvhq.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revvhq.com/shops/calibration-specialists",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revvhq.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revvhq.com/shops/dealership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revvhq.com/features/rate-builder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revvhq.com/channel-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revvhq.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revvhq.com/case-studies/how-automotive-diag-went-from-emergency-calls-to-250-growth-with-adas-calibrations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revvhq.com/case-studies/rudy-schmid-total-car-care-revv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revvhq.com/case-studies/precision-calibration-adas-growth-customer-relationships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revvhq.com/case-studies/adas-pro-solutions-claim-builder-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revvhq.com/case-studies/pace-revv-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revvhq.com/case-studies/revvadas-fuels-customer-growth-for-texas-based-complete-collision-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.revvhq.com/case-studies/adas-diagnostic-solutions",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://app.revvadas.com/workflow",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://semashow.com/press/10262023-1427/revv-emerges-stealth-diagnose-adas-automotive-repair-shops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.revvadas.com/workflow",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.triad-ds.com/revv-adas/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/revv/case-study/revvadas-fuels-customer-growth-for-texas-based-complete-collision-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/revv/case-study/burke-porter-deploys-revvadas-to-grow-adas-business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.verkada.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/revv/__K0UZQaz1pYE7LcCipCEJUvnO0fi5rP36jsiCCkc-hIw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/revv-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autocareweek.com/diagnostics-platform-emerges-from-stealth-mode-with-national-launch-104683.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gearsmagazine.com/2023/10/revv-emerges-from-stealth-to-diagnose-adas-for-automotive-repair-shops/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/I_CAR_Education/status/1943400746004734102",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reel/1801891107110410/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61555740053486/videos/655328110736619/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Revv-ADAS-61555740053486/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reel/3989515497964417/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Revvadas 日本 導入",
+   "results": [
+    "https://www.revvhq.com/case-studies/multinational-automotive-technology-company-burke-porter-deploys-revvadas-to-grow-adas-business",
+    "https://app.revvadas.com/workflow",
+    "https://www.revvhq.com/",
+    "https://semashow.com/press/10262023-1427/revv-emerges-stealth-diagnose-adas-automotive-repair-shops",
+    "https://gearsmagazine.com/2023/10/revv-emerges-from-stealth-to-diagnose-adas-for-automotive-repair-shops/",
+    "https://www.autocareweek.com/diagnostics-platform-emerges-from-stealth-mode-with-national-launch-104683.htm",
+    "https://techfundingnews.com/new-york-based-revv-launches-with-2-1m-to-use-ai-for-automotive-repair-shops/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Revvadas 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://app.revvadas.com/reports/new",
+    "https://www.revvhq.com/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Revvadas Japan",
+   "results": [
+    "https://www.revvhq.com/case-studies/multinational-automotive-technology-company-burke-porter-deploys-revvadas-to-grow-adas-business",
+    "https://app.revvadas.com/workflow",
+    "https://www.triad-ds.com/revv-adas/",
+    "https://www.revvhq.com/",
+    "https://revada-group.com/en/",
+    "https://airprodiagnostics.com/airpro-diagnostics-merges-with-revv-to-create-the-automotive-industrys-leading-end-to-end-adas-platform/",
+    "https://www.linkedin.com/in/adibathla"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Revvadas manufacturing customer case study",
+   "results": [
+    "https://www.revvhq.com/case-studies/revvadas-fuels-customer-growth-for-texas-based-complete-collision-solutions",
+    "https://www.casestudies.com/company/revv/case-study/revvadas-fuels-customer-growth-for-texas-based-complete-collision-solutions",
+    "https://www.casestudies.com/company/revv/case-study/burke-porter-deploys-revvadas-to-grow-adas-business",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.revvhq.com/case-studies",
+    "https://app.revvadas.com/reports/new",
+    "https://www.motor.com/2024/12/the-story-of-three-shops-and-their-adas-repair-experiences/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Revvadas white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.verkada.com/partners/",
+    "https://partner.vw.com/partner",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.iqreseller.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Revvadas founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/revv/__K0UZQaz1pYE7LcCipCEJUvnO0fi5rP36jsiCCkc-hIw",
+    "https://prospeo.io/c/revv-revenue",
+    "https://www.autocareweek.com/diagnostics-platform-emerges-from-stealth-mode-with-national-launch-104683.htm",
+    "https://gearsmagazine.com/2023/10/revv-emerges-from-stealth-to-diagnose-adas-for-automotive-repair-shops/",
+    "https://www.autobodynews.com/news/revv-secures-20m-investment-to-continue-roll-out-of-award-winning-ai-platform",
+    "https://techfundingnews.com/new-york-based-revv-launches-with-2-1m-to-use-ai-for-automotive-repair-shops/",
+    "https://aventure.vc/companies/revv-new-york-city-ny-us"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Revvadas",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/nosuke0607/n/n09d02c47e173",
+    "https://note.com/softcollect/n/n6af0231e205f",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/blackhole174290/n/n11bff147ee42"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Revvadas",
+   "results": [
+    "https://x.com/I_CAR_Education/status/1943400746004734102",
+    "https://x.com/",
+    "https://x.com/BrahmaKumaris/status/1954397372458442883",
+    "https://x.com/Revadastv",
+    "https://x.com/Revadastv/status/1543088022694121476",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/ysk68718338/status/2118604004171374609"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Revvadas",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Revvadas",
+   "results": [
+    "https://www.facebook.com/reel/1801891107110410/",
+    "https://www.facebook.com/61555740053486/videos/655328110736619/",
+    "https://www.facebook.com/p/Revv-ADAS-61555740053486/",
+    "https://www.facebook.com/reel/3989515497964417/",
+    "https://www.facebook.com/reel/1388897923239478/",
+    "https://www.facebook.com/reel/1296760618525221/",
+    "https://www.facebook.com/reel/1424917648952261/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Revvadas note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.com/sanshita_note/n/n06e080c63da4",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Revvadas X 投稿",
+   "results": [
+    "https://app.revvadas.com/reports/new",
+    "https://www.revvhq.com/",
+    "https://x.com/reivunn/status/2119301806920745346",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://www.xvideos.com/?k=素人投稿++無修正",
+    "https://x.com/raizinkatabami/status/2109552811239481618",
+    "https://xkings.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

@@ -1,0 +1,1750 @@
+{
+ "name": "Saleor",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T09:04:57.835078+00:00",
+ "official_url": "https://saleor.io/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Composable commerce requires precise, structured data. Define products and",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "and granular permissions. Integrate seamlessly via OIDC with your existing identity provider.",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trace every request with precision. Detect every checkout slowdown, prove a vendor bottleneck in seconds, and ship fixes fast with",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Process orders from every channel—web, mobile, retail, agentic, and beyond.",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Content and context decoupled. Build commerce into any experience.",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Control your entire solution and protect the core of your business in a shifting commerce landscape. Say goodbye to the vendor lock-in.",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Built on open standards, not proprietary tech and throwaway knowledge.",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Your engineers may not want to work in the programming language they're already proficient with, right? They may not either care about the industry standards. And maybe they love all those obscure DSLs to be part of their job.",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Love proprietary standards",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Who doesn’t!? Well, we don’t. Saleor is for those who prefer loose coupling, flexible service oriented architectures, high degree of independence for individual teams and developers.",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade infrastructure with guaranteed uptime.",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": ", GDPR, PCI-DSS compliant.",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored onboarding by our engineers. Your team ships faster. Your business stays focus on the core.",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Create: Projects, Sandboxes, Snapshots",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re enjoying the modularity and flexibility we can harness from Saleor to deliver on our promise of the best, freshest, handmade cosmetics.",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "for strong developer productivity.",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Adapt data structures on the fly for new products or markets. Model any relationship in your system.",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Future-proof your commerce with composable API",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate anything, adapt to everything. Extend merchant experience on top of Saleor administrative Dashboard. Keep everything in sync across the stack with our expressive API and 160+ webhooks.",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "You and your team have been outstanding! We really appreciate your help through the process and your willingness to include as many engineers as needed.",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Buy now, pay later and installment payment provider.",
+    "url": "https://saleor.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Saleor for Business. Plans and Pricing",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "That is the platform: the Saleor core, the Essential Apps, Engine for your custom logic and storefronts, FDE, priced against your GMV. For the rest of your stack, we write down what it costs and keep bringing it down until every dollar does as much as it can.",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The Saleor core, Engine, and the Essential Apps run on our infrastructure, with one team on call. You inherit SOC 2, PCI DSS, and GDPR.",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Just hoist the sails and start coding. Perfect for prototyping, side quests, and trying out new features before they hit production seas.",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Starting point for new projects and smaller companies.",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Let's match pricing that works for you and business needs.",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Saleor Cloud is the whole system: the commerce core, plus Engine, Pulse, Essential Apps, and migration, on Select, Volume, and Enterprise. Plus, our dedicated Forward Deployed Engineering team.",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "There's more to Saleor Cloud than the core. Customer emails with proper multilingual support, Adyen payments, Google Merchant Center feeds, MCP, ACP/UCP, Ink AI Search, and more. Production-proven, built to scale, and run by us. Only on Saleor Cloud.",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You don't have to figure it all out yourself. Our engineers work with your team to map out how your business fits into Saleor, build the custom parts, and keep improving from there. Included in your subscription.",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Discovery & onboarding sessions",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Delivery lead for your project",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Later → Keep lowering the TCO. Measure, improve, repeat.",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "One of the biggest benefits of going Cloud is access to the delivery team. Different to our past experiences, the Saleor delivery team's support is always prompt, direct, and professional.",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "covers what changes beyond the price. The recurring cost that sits outside both is",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Am I locked into a specific Saleor pricing tier even if I scale?",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No. You're never locked in. If your business begins to outgrow your current plan, we'll move you up to the right tier to fit your GMV, at a predictable, fixed rate.",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Your storefronts, apps, and custom integrations are your intellectual property. Saleor only retains ownership of the underlying platform and Cloud infrastructure.",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Best practice is to build Saleor Apps that connect via GraphQL, webhooks, and pub/sub. This keeps core files untouched, improves security, and lowers maintenance.",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Saleor Cloud runs on fully managed, auto-scaling infrastructure. Our GraphQL API is built for large SKU volumes and traffic spikes, proven in production with global brands.",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Lush champions ethics and sustainability in their products, business, and choice of tech. Saleor powers entire global e-commerce operation and boosts part of the global in-store experience.",
+    "url": "https://saleor.io/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Breitling, Swiss luxury watch brand renowned for precision and technical innovation, chose Saleor as its global commerce engine within a sophisticated infrastructure built with MACH principles.",
+    "url": "https://saleor.io/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Separating commerce from ERP to ship better B2B product experiences",
+    "url": "https://saleor.io/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Saleor for Business. Plans and Pricing",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "That is the platform: the Saleor core, the Essential Apps, Engine for your custom logic and storefronts, FDE, priced against your GMV. For the rest of your stack, we write down what it costs and keep bringing it down until every dollar does as much as it can.",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "The Saleor core, Engine, and the Essential Apps run on our infrastructure, with one team on call. You inherit SOC 2, PCI DSS, and GDPR.",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "Just hoist the sails and start coding. Perfect for prototyping, side quests, and trying out new features before they hit production seas.",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "Starting point for new projects and smaller companies.",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "Let's match pricing that works for you and business needs.",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "Saleor Cloud is the whole system: the commerce core, plus Engine, Pulse, Essential Apps, and migration, on Select, Volume, and Enterprise. Plus, our dedicated Forward Deployed Engineering team.",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "There's more to Saleor Cloud than the core. Customer emails with proper multilingual support, Adyen payments, Google Merchant Center feeds, MCP, ACP/UCP, Ink AI Search, and more. Production-proven, built to scale, and run by us. Only on Saleor Cloud.",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "You don't have to figure it all out yourself. Our engineers work with your team to map out how your business fits into Saleor, build the custom parts, and keep improving from there. Included in your subscription.",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "Discovery & onboarding sessions",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "Delivery lead for your project",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "Later → Keep lowering the TCO. Measure, improve, repeat.",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "One of the biggest benefits of going Cloud is access to the delivery team. Different to our past experiences, the Saleor delivery team's support is always prompt, direct, and professional.",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "covers what changes beyond the price. The recurring cost that sits outside both is",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "Am I locked into a specific Saleor pricing tier even if I scale?",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "No. You're never locked in. If your business begins to outgrow your current plan, we'll move you up to the right tier to fit your GMV, at a predictable, fixed rate.",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Your storefronts, apps, and custom integrations are your intellectual property. Saleor only retains ownership of the underlying platform and Cloud infrastructure.",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Your engineers may not want to work in the programming language they're already proficient with, right? They may not either care about the industry standards. And maybe they love all those obscure DSLs to be part of their job.",
+    "url": "https://saleor.io/",
+    "pass": 1
+   },
+   {
+    "quote": "We believe your commerce partner should be part of your team.",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How's your store doing today? See revenue, orders, returns, and low stock right on your Dashboard home. We'll flag anything that looks off so you know where to look next.",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Lush champions ethics and sustainability in their products, business, and choice of tech. Saleor powers entire global e-commerce operation and boosts part of the global in-store experience.",
+    "url": "https://saleor.io/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "We believe your commerce partner should be part of your team.",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "How's your store doing today? See revenue, orders, returns, and low stock right on your Dashboard home. We'll flag anything that looks off so you know where to look next.",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "Authentication support for 12k+ employees.",
+    "url": "https://saleor.io/case-study/lush",
+    "pass": 1
+   },
+   {
+    "quote": "customizable through plugin modules. It's the “easily” part of the claim that broke down in practice.",
+    "url": "https://saleor.io/case-study/pcdiga",
+    "pass": 1
+   },
+   {
+    "quote": "Lush champions ethics and sustainability in their products, business, and choice of tech. Saleor powers entire global e-commerce operation and boosts part of the global in-store experience.",
+    "url": "https://saleor.io/solutions/multi-channel-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Larger, more complex merchants switch to revenue-based platform pricing. Merchants using external payment gateways also pay an additional 0.2% on eligible transactions.",
+    "url": "https://saleor.io/shopify-plus-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "On Shopify Payments, the smallest plan that carries the volume wins: Advanced costs 0.24% of $2M and 0.10% of $5M, because $399 a month is all it charges. Push the same sales through an external gateway and Advanced's 0.6% takes 0.84% of $2M. Saleor stays at 0.96%, because",
+    "url": "https://saleor.io/shopify-plus-pricing",
+    "pass": 1
+   },
+   {
+    "quote": ", $48,012 a year. On Shopify Payments the same merchant pays $96,000, and the gap narrows to $12. Both vendors negotiate enterprise terms, which can change every crossover point.",
+    "url": "https://saleor.io/shopify-plus-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Platform fees are only part of Shopify's total cost of ownership.",
+    "url": "https://saleor.io/shopify-plus-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "These costs can include Celigo, Pipe17, Recharge, ShipperHQ, Shogun, LoyaltyLion and other software subscriptions. Some provide valuable services. Others rent functionality merchants could own as part of their commerce infrastructure.",
+    "url": "https://saleor.io/shopify-plus-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A migration is usually the most expensive part of the decision, and it is the reason merchants stay on a platform they have outgrown. Budget it before comparing subscriptions, because the subscription is the smaller number.",
+    "url": "https://saleor.io/shopify-plus-pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Safeguarding Revenue for High-Volume Commerce",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "Support becomes a painful add-on instead of a natural part of the service. Whether you run a small business, a growing company, or an established enterprise, the problems are the same: chaos instead of clarity, patchwork instead of process, frustration instead of control.",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "We focus on immediate operational recovery. Every hour of system friction translates to lost revenue and compromised scale. We stop the leak first.",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisition and checkout: checkout directly in a conversation with an AI agent",
+    "url": "https://kt.team/instruments/saleor",
+    "pass": 3
+   },
+   {
+    "quote": "A layered headless commerce architecture: sales channels at the top use a single GraphQL API; Saleor Core (Python/Django) stores the catalog, orders, and payments; an event layer of 160+ webhooks connects the core with nearby business-logic microservices and AI services without modifying the core. The arrows show that any layer can be replaced independently (loose coupling).",
+    "url": "https://kt.team/instruments/saleor",
+    "pass": 3
+   },
+   {
+    "quote": "Customers now segmentable and carry structured data via same attribute system already used for products/models; new MANAGE_CUSTOMER_TYPES_AND_ATTRIBUTES permission gates it.",
+    "url": "https://kt.team/instruments/saleor",
+    "pass": 3
+   },
+   {
+    "quote": "Built-in analytics app (rolling out via Saleor Cloud) surfaces revenue, orders, returns, fulfillment trends, low-stock alerts in Dashboard, with agent-ready data layer for AI agents to query store metrics via permission-aware read-only tools.",
+    "url": "https://kt.team/instruments/saleor",
+    "pass": 3
+   },
+   {
+    "quote": "I personally know many lead gen agencies layer $10K to $30K a month in branded software revenue on top of retainers, while solo sales consultants adding $800 to $2,000 in recurring revenue from 8 to 15 clients on a branded subscription.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "So I tested 10 white label software that I would actually recommend, checked what each one charges and how they share revenue, and pulled the ones that make you money instead of taking it.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "No revenue share. You keep 100% of every client sale, set your own pricing, and can onboard unlimited clients.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "I built Salesforge white label because I realized that GTM consultants and tech companies want a branded outreach tool, but nobody wanted to spend two years and half a million dollars building one from scratch. So we shipped Salesforge as a reseller product where you keep the branding, the client relationship, and the recurring revenue.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Free to join with no maintenance fees. Flat 20% revenue share lets you keep 80% of every client subscription",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Choose between two monetization models: a recurring 20% revenue share or setting your own pricing markup",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforge Whitelabel is free to join. There is no license fee, no minimum commitment, and no setup cost. You pick your revenue model at the start.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "20% revenue share on every client subscription",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Infraforge Whitelabel gives you the same 20% revenue share or custom markup structure as Salesforge Whitelabel, on a different product: private",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Take the 20% revenue share and let us handle billing, or set your own markup above wholesale and keep the full difference. Your call.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Choose between a 20% recurring revenue share or setting your own pricing markup",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Same reseller structure as Salesforge Whitelabel: free to join, choose your revenue model, price your clients however you want.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "20% revenue share on client subscriptions",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "On top of that, the base plan is only part of the bill. Every email your clients send, every SMS they blast, every AI token they use, and every phone minute they burn is billed as usage on top of your subscription. This can still be attractive for small businesses served by agencies, since it bundles several functions into one branded system.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": ", with AI voice agents available on the King and Emperor tiers. Agencies keep 100% of every client sale with no revenue share, and can onboard unlimited clients with custom subscription plans and sub-user accounts for each client’s team.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "How It Helps Build Revenue:",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Supports recurring revenue through resale or revenue share models across multiple products at once",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Simvoly is where I would look if your service line is website design or funnel building and you want to add a monthly recurring revenue layer on top of your project work with customizable solutions for agencies reselling websites and funnels.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Full white-label with custom support arrangements",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "$199/month (monthly billing, as listed on the vendor's pricing page)",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Your clients log in on your custom domain, not ActiveCampaign's. Their campaigns go out with the name and email address they choose. The URL of the account itself carries your brand, not the vendor's.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label software is a product that one company builds, and another company rebrands and resells as their own. You do not build the software yourself. You pay a wholesale rate (or a revenue share) to the original developer, put your logo on the interface, run it on your custom domain, and charge your clients whatever retail price you want. Your clients think they are using your product.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Saleor intends to use the newly acquired funds to drive its expansion, enhance its agency program, and strengthen its core product. The startup also plans to establish a closer collaboration with Zalando, exploring areas of joint work based on a shared vision for scalable multimarket commerce.",
+    "url": "https://www.vestbee.com/insights/articles/polish-platform-saleor-closes-8-m-round-led-by-zalando-and-target-global",
+    "pass": 3
+   },
+   {
+    "quote": "We have data on 73 companies and users that use Saleor. Our Saleor users and customers list is available for download and comes enriched with vital company specifics, including industry classification, organizational size, geographical location, funding rounds, and revenue figures, among others.",
+    "url": "https://theirstack.com/en/technology/saleor",
+    "pass": 3
+   },
+   {
+    "quote": "You can customize this data to your needs by filtering for geography, industry, company size, revenue, technology usage, job postions and more. You can download the data in Excel or CSV format.",
+    "url": "https://theirstack.com/en/technology/saleor",
+    "pass": 3
+   },
+   {
+    "quote": "Since they are categorized by publisher, you can either check everything at a glance or just check the publishers that carry your favorite manga.",
+    "url": "https://note.com/ushigyu/n/n2f0fea7a0bba?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "There's more to Saleor Cloud than the core. Customer emails with proper multilingual support, Adyen payments, Google Merchant Center feeds, MCP, ACP/UCP, Ink AI Search, and more. Production-proven, built to scale, and run by us. Only on Saleor Cloud.",
+    "url": "https://saleor.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "There's more to Saleor Cloud than the core. Customer emails with proper multilingual support, Adyen payments, Google Merchant Center feeds, MCP, ACP/UCP, Ink AI Search, and more. Production-proven, built to scale, and run by us. Only on Saleor Cloud.",
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "pass": 1
+   },
+   {
+    "quote": "- enables email communication with customers.",
+    "url": "https://github.com/saleor/apps",
+    "pass": 3
+   },
+   {
+    "quote": "Get Email & Phone Finder",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Full multichannel outreach (cold email + 6 native LinkedIn actions) resold under your own brand, with your custom domain, your logo, and your pricing plans.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Private email infrastructure resold under your own brand: dedicated IPs, pre-warmed mailboxes, and automated DNS setup for every client domain.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Sales consultants and lead gen agencies reselling cold email + LinkedIn outreach under their own brand.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies reselling private email infrastructure with dedicated IPs and pre-warmed mailboxes.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing agencies reselling email marketing and marketing automation accounts under their own brand.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforge Whitelabel is the only reseller platform that lets you rebrand a full multichannel outreach product (cold email and LinkedIn) with no cap on mailboxes or LinkedIn accounts per client subscription, all sitting under your own custom domain.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Your clients log in at app.youragency.com, see your logo, your color scheme, your support email, and the pricing plans you set. Salesforge is invisible to them.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Your clients can run cold email steps and LinkedIn steps inside the same campaign, with real if-this-then-that logic. If a connection request is accepted, the sequence sends a LinkedIn message. If not, it falls back to email.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Every email and LinkedIn message can pull in prospect-specific details like recent LinkedIn posts, company news, or industry context, then rewrite the message around them. Support for 21+ languages means your clients running outreach in German, Spanish, or Japanese do not need to hire a copywriter per region.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Warmforge (the free unlimited email warm-up product) is not currently included in the Whitelabel program",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Complete white-label experience with your own domain, email, branding, colors, and pricing plans",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Sales consultants and agencies whose clients run cold outreach at real volume (thousands of emails a week, dozens of mailboxes) and need dedicated email infrastructure resold under their own brand.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Shared email infrastructure is fine until one sender in the pool starts blasting spam, gets the IP flagged, and drags every other sender's deliverability down. Dedicated IPs mean each of your clients gets their own IP address to build a sender reputation on, and their own IP address to protect.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "So, if your clients are running 20+ mailboxes across multiple domains and sending thousands of emails a week, that kind of client is where Infraforge fits, and where your reseller economics actually work.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Every mailbox runs on a dedicated IP address that belongs to your client alone. Nobody else's sending behavior can affect their inbox placement. For high-volume clients, you can assign multiple IPs and split their campaigns across them, so a heavy cold outreach push does not hurt the deliverability of their transactional emails.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Every domain you register gets SPF, DKIM, and DMARC configured automatically. These are the email authentication records inbox providers like Gmail and Outlook check to confirm a sender is not spoofing someone else's domain. You skip the manual DNS work, and there is no waiting on propagation troubleshooting when you onboard a new client.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "You see every client's email across every mailbox they run, in one dashboard. If you manage 5 clients each running 20 mailboxes, that is 100 mailboxes to check on manually. Masterbox collapses all of them into a single view so you spot issues in seconds instead of hours.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "They pack a lot into one product, and that is exactly why it works as a white label SaaS platform: a CRM, a funnel and landing page builder, email and SMS campaigns, a calendar tool, forms, membership sites, and review management.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "On top of that, the base plan is only part of the bill. Every email your clients send, every SMS they blast, every AI token they use, and every phone minute they burn is billed as usage on top of your subscription. This can still be attractive for small businesses served by agencies, since it bundles several functions into one branded system.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Multichannel (email, SMS, and voice calls):",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Your clients can send email campaigns, blast SMS, and even make phone calls from one account. This is why the platform reads as a real marketing tool to a client, not just another CRM. Heads up: email, SMS, and phone minutes are all billed as usage on top of your base plan.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Your clients set up flows like \"new lead comes in, wait 5 minutes, send an email, if they do not reply in 24 hours send an SMS, if they book a meeting notify the sales rep.\" These automation tools support broader marketing strategies, not just one-off workflows. This is the feature I hear most agencies use to prove ROI to their clients at renewal time.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "In SaaS Mode, you decide the markup on GoHighLevel's usage charges (email, SMS, AI, phone) and bill your clients at your marked-up rate. Every SMS blast your client sends can generate margin for you on top of their subscription while supporting recurring marketing campaigns and ongoing marketing efforts. Small numbers, but they add up when you have 30 clients running SMS campaigns every month.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Combines CRM, funnels, email, SMS, calendars, memberships, and more in one platform, reducing the need for additional software",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Lush Replatforms to Composable Commerce | Saleor Case Study",
+    "url": "https://saleor.io/case-study/lush",
+    "pass": 1
+   },
+   {
+    "quote": "Manage global inventory across multiple stores and warehouses.",
+    "url": "https://saleor.io/case-study/lush",
+    "pass": 1
+   },
+   {
+    "quote": "PCDIGA: From Magento to Saleor at scale | Saleor Case Study",
+    "url": "https://saleor.io/case-study/pcdiga",
+    "pass": 1
+   },
+   {
+    "quote": "Combine warehouses and physical stores into a unified shopping journey.",
+    "url": "https://saleor.io/solutions/multi-channel-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Split an order into fulfillments from multiple warehouses, stores, or pickup locations.",
+    "url": "https://saleor.io/solutions/multi-channel-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Fullfill from multiple warehouses and 3rd party suppliers.",
+    "url": "https://saleor.io/solutions/b2b-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-warehouse shipping calculations",
+    "url": "https://saleor.io/solutions/b2b-commerce",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-warehouse inventory",
+    "url": "https://saleor.io/solutions/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Each vendor can manage their own inventory and fulfillment independently using Saleor's built-in warehouse system.",
+    "url": "https://saleor.io/solutions/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Configure warehouses for each vendor to manage inventory and shipping independently",
+    "url": "https://saleor.io/solutions/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-warehouse setup",
+    "url": "https://saleor.io/solutions/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate payment splitting between vendors and marketplace operators",
+    "url": "https://saleor.io/solutions/marketplace",
+    "pass": 1
+   },
+   {
+    "quote": "monorepo is used by Saleor to host apps in Saleor infrastructure. While the code remains open source, the decisions in this repository are made to enable Saleor to maintain features needed by its business goals.",
+    "url": "https://github.com/saleor/apps",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] Custom CMS and React Frontend for Lenovo Gaming + AI Agent – Tailored Platform for a National Campaign",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] Odoo CRM implementation for DUNEKO PiG",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] yerbador.com – Rework of International E-Commerce store",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] Empik.com – Generation Of Automatic Return Of Goods To Suppliers – ERP/WMS",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by brands that grow beyond WooCommerce and Magento",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] Microsoft Dynamics AX Implementation – Mitsubishi & Vestas – Onsite Coordination in Denmark",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] ERP G.O.L.D. Retail system implementation for DINO Polska – 1800+ stores, FMCG polish trade chain.",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] Kakadu.pl/blog – Frontend Custom Development",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] Poczta Polska – UX research for Polish Post on the newly created online mailing portal envelo.pl",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] Merlin.pl – ERP Symphony EYC system implementation for one of leading polish e-commerce stores",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] DUNEKO.pl – Website Implementation based on Figma project created by ROXX Agency. API Integration with Daktela CallCenter CRM.",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] Denimou.com – Speed Optimisation",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] sklep.msalamon.pl – E-Commerce Store Rework",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] Aleksandrawachowicz.pl – Beautiful Website Creation With Interactive Lead Form Resulted In Business Growth",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] Kawaprogramisty.pl – Full E-commerce Store Creation / Subscription Store",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] movo.training – Rework of E-Commerce store resulted in sales growth",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] Konsimo.pl – Business Intelligence Tools Integrated With Magento That Fueled The Sales Funnel And Marketing Optimisation",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] Monpresi.com – Full E-Commerce Store Creation That Revolutionised Gifting Services With Super Easy To Use Gift Set Creator.",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] LadiesGym.pl – Full Re-Work of corporate website / Increase conversion rate for lead forms / Get PageSpeed Score over 90+ for mobile and 99+ for desktop.",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] Artimex.pl and Artimex.eu – 2 integrated websites Implementation based on Adobe XD project.",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] AI powered Odoo CRM/ERP implementation for Interior Design Studio. Integration with ChatGPT.",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] Marohome.pl – Setting up the server stack for the highest performance and speed of an online store with a large amount of traffic resulted in an immediate increase in sales. PageSpeed result D95/M91.",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] Odoo CRM/ERP/WMS implementation for E-Commerce Store – MOVO.TRAINING",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] Website Development for SEO/SXO Agency – Vertical SEO",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "[Case Study] Enterprise-Grade Influencer Marketing Web App: Custom WordPress & React Solution for Digital Agency Millermedia.pl",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "Set separate prices, currencies, and warehouses by channel for different customer segments",
+    "url": "https://kt.team/instruments/saleor",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse and support operations: a single window for operators",
+    "url": "https://kt.team/instruments/saleor",
+    "pass": 3
+   },
+   {
+    "quote": "Native multichannel: prices, currencies, warehouses",
+    "url": "https://kt.team/instruments/saleor",
+    "pass": 3
+   },
+   {
+    "quote": "Internal tools are embedded directly into the admin panel, so operators work in one window with fewer context switches.",
+    "url": "https://kt.team/instruments/saleor",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in Poland in 2020 by Mirek Mencel and Patryk Zawadzki, Saleor platform designed to simplify the complexity of multimarket commerce. Its customers include such brands as Lush, Heineken, UNICEF, and Breitling.",
+    "url": "https://www.vestbee.com/insights/articles/polish-platform-saleor-closes-8-m-round-led-by-zalando-and-target-global",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2020 but existing as a project since 2013, Saleor is an open source, headless, composable e-commerce platform. It was originally started by the web agency of founders Mirek Mencel and Patryk Zawadzki, who then spun it out as its own startup. Today, the platform is used by such brands as Lush and Breitling.",
+    "url": "https://techcrunch.com/2024/02/06/open-source-headless-commerce-builder-saleor-pulls-in-8m-round-led-by-target-global-and-zalando/",
+    "pass": 3
+   },
+   {
+    "quote": "Personal Care Product Manufacturing",
+    "url": "https://theirstack.com/en/technology/saleor",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Saleor入門（日本語版） - 海威NS",
+    "url": "https://edu.ujhb.org/?p=2289",
+    "pass": 3
+   },
+   {
+    "quote": "- connects Saleor with NP Atobarai (Japanese: NP 後払い).",
+    "url": "https://github.com/saleor/apps",
+    "pass": 3
+   },
+   {
+    "quote": "Every email and LinkedIn message can pull in prospect-specific details like recent LinkedIn posts, company news, or industry context, then rewrite the message around them. Support for 21+ languages means your clients running outreach in German, Spanish, or Japanese do not need to hire a copywriter per region.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "You get the builder in English, Spanish, French, German, Portuguese, Italian, Dutch, Russian, Chinese, Japanese, Arabic, and 15 more. Handy if you resell to clients outside English-speaking markets.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Saleor 入門（ 日本 語版） - 海威NS — Saleor 入門（ 日本 語版） - 海威NS edu.ujhb.org https://edu.ujhb.org > ...",
+    "url": "https://edu.ujhb.org/?p=2289",
+    "pass": 3
+   },
+   {
+    "quote": "Saleor - Composable, Open Source, Headless Ecommerce ... — Saleor - Composable, Open Source, Headless Ecommerce ... Saleor https://saleor.io",
+    "url": "https://saleor.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Find a composable commerce partner - Saleor — Find a composable commerce partner - Saleor Saleor https://saleor.io > partners",
+    "url": "https://saleor.io/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Saleor Commerce - LinkedIn — Saleor Commerce - LinkedIn LinkedIn https://www.linkedin.com > saleor",
+    "url": "https://www.linkedin.com/company/saleor",
+    "pass": 3
+   },
+   {
+    "quote": "Saleor Commerce App - Contentful — Saleor Commerce App - Contentful Contentful https://www.contentful.com > saleor-c...",
+    "url": "https://www.contentful.com/marketplace/saleor-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "Saleor App Store — Saleor App Store Saleor https://saleor.io > extensions",
+    "url": "https://saleor.io/extensions",
+    "pass": 3
+   },
+   {
+    "quote": "OSS mirror for public Saleor Apps - GitHub — OSS mirror for public Saleor Apps - GitHub GitHub https://github.com > saleor > apps",
+    "url": "https://github.com/saleor/apps",
+    "pass": 3
+   },
+   {
+    "quote": "Saleor's Case Studies – the headless stores' glossary — Saleor's Case Studies – the headless stores' glossary Saleor https://saleor.io > case-study",
+    "url": "https://saleor.io/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Saleor Ecommerce Developers Composable Commerce — Saleor Ecommerce Developers Composable Commerce Cosmonauts.dev https://cosmonauts.dev > saleor-ecom...",
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "pass": 3
+   },
+   {
+    "quote": "Saleor : GraphQL-powered headless commerce - KT.Team — Saleor : GraphQL-powered headless commerce - KT.Team kt.team https://kt.team > Инструменты > Saleor",
+    "url": "https://kt.team/instruments/saleor",
+    "pass": 3
+   },
+   {
+    "quote": "Saleor vs Fabric (2026): Pros, Cons & Pricing - RFP.wiki — Saleor vs Fabric (2026): Pros, Cons & Pricing - RFP.wiki rfp.wiki https://www.rfp.wiki > ... > Saleor",
+    "url": "https://www.rfp.wiki/retail-ecommerce/digital-commerce-platforms/saleor/fabric",
+    "pass": 3
+   },
+   {
+    "quote": "Polish platform Saleor closes $8M round led by Zalando and ... — Polish platform Saleor closes $8M round led by Zalando and ... Vestbee https://vestbee.com > insights > articles",
+    "url": "https://vestbee.com/insights/articles/polish-platform-saleor-closes-8-m-round-led-by-zalando-and-target-global",
+    "pass": 3
+   },
+   {
+    "quote": "Introducing Pulse: Your Store's Vitals, Built Into Saleor — Introducing Pulse: Your Store's Vitals, Built Into Saleor Saleor https://saleor.io > introducing-pulse",
+    "url": "https://saleor.io/blog/introducing-pulse",
+    "pass": 3
+   },
+   {
+    "quote": "Open source 'headless commerce' builder Saleor closes $8M ... — Open source 'headless commerce' builder Saleor closes $8M ... TechCrunch https://techcrunch.com > 2024/02/06",
+    "url": "https://techcrunch.com/2024/02/06/open-source-headless-commerce-builder-saleor-pulls-in-8m-round-led-by-target-global-and-zalando/",
+    "pass": 3
+   },
+   {
+    "quote": "Companies that use Saleor (73) - TheirStack.com — Companies that use Saleor (73) - TheirStack.com TheirStack.com https://theirstack.com > saleor",
+    "url": "https://theirstack.com/en/technology/saleor",
+    "pass": 3
+   },
+   {
+    "quote": "2026 Funding Rounds & List of Investors - Saleor - Tracxn — 2026 Funding Rounds & List of Investors - Saleor - Tracxn Tracxn https://tracxn.com > ... > Saleor",
+    "url": "https://tracxn.com/d/companies/saleor/__jXFfPB5U4cBHpcyt-wEkDR-mm2eJiMUWMEjKdkyj3D8/funding-and-investors",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "11 Best White Label Software to Resell in 2026",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label software is a legitimate way to earn SaaS-style income without writing a single line of code.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "I personally know many lead gen agencies layer $10K to $30K a month in branded software revenue on top of retainers, while solo sales consultants adding $800 to $2,000 in recurring revenue from 8 to 15 clients on a branded subscription.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "That's because plenty of platforms gate white-label behind their most expensive plan or charge per client so scaling to 30 clients turns a $200 subscription into $600.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "So I tested 10 white label software that I would actually recommend, checked what each one charges and how they share revenue, and pulled the ones that make you money instead of taking it.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforge Whitelabel",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Full multichannel outreach (cold email + 6 native LinkedIn actions) resold under your own brand, with your custom domain, your logo, and your pricing plans.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Infraforge Whitelabel",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Private email infrastructure resold under your own brand: dedicated IPs, pre-warmed mailboxes, and automated DNS setup for every client domain.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "GoHighLevel White Label",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "All-in-one agency CRM with unlimited client sub-accounts, plus SaaS Mode where you set your own pricing plans and Stripe bills your clients directly under your brand.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label marketplace with 250+ digital products and in-house fulfillment teams that deliver services (SEO, listings, reputation, websites) under your brand.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "BotPenguin White Label:",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label AI platform with chatbots, AI agents, automations, and voice agents, plus branded WhatsApp and Instagram bots, allowing agencies to resell a complete AI automation stack under their own brand.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "SuiteDash White Label",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "All-in-one client portal, CRM, invoicing, contracts, and file sharing with white-labeling baked into every tier, including custom domain and branded mobile app.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "AgencyAnalytics White Label",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label marketing reporting that connects 80+ ad, SEO, social, and analytics platforms into a single branded client dashboard with your logo and custom domain.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label website, funnel, and community builder for agencies to resell under their own brand, with their own affiliate program and pricing plans.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot White Label",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label social media management with client approval workflows, white-label PDF reports, and Advanced White-Label branding (custom domain, custom login, custom colors).",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "DashClicks White Label",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Agency operations platform with white-label dashboards, CRM, funnels, and pay-per-service fulfillment your clients see as your delivery team.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "ActiveCampaign White Label",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing automation resold through the Agency Partner Program, where you buy client accounts at a volume discount and bill your clients directly under your brand.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Kindle] Links to view a list of manga on sale or with high point ... [Kindle] Links to view a list of manga on sale or with high point ... note https://note.com > マンガ > マンガ全般",
+    "url": "https://note.com/ushigyu/n/n2f0fea7a0bba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Kindle Sale] Manga on sale or with point-up offers (as of Jan ... [Kindle Sale] Manga on sale or with point-up offers (as of Jan ... note https://note.com > マンガ > マンガ全般",
+    "url": "https://note.com/kiimeta777/n/n481b508377fd?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[Kindle] Links to view a list of manga on sale or with high point return rates at any time｜ushigyu",
+    "url": "https://note.com/ushigyu/n/n2f0fea7a0bba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/ushigyu/n/n2f0fea7a0bba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Kindle] Links to view a list of manga on sale or with high point return rates at any time",
+    "url": "https://note.com/ushigyu/n/n2f0fea7a0bba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Kindle manga that are on sale or offer high point returns (31% or more)",
+    "url": "https://note.com/ushigyu/n/n2f0fea7a0bba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "By checking this link, you can always see",
+    "url": "https://note.com/ushigyu/n/n2f0fea7a0bba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "which Kindle manga are currently cheap or offer great value",
+    "url": "https://note.com/ushigyu/n/n2f0fea7a0bba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since they are categorized by publisher, you can either check everything at a glance or just check the publishers that carry your favorite manga.",
+    "url": "https://note.com/ushigyu/n/n2f0fea7a0bba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Shueisha (Jump, Ribon, Margaret, etc.)",
+    "url": "https://note.com/ushigyu/n/n2f0fea7a0bba?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Kindle Sale] Manga on sale or with point-up offers (as of Jan 9, 2024)｜きぃ",
+    "url": "https://note.com/kiimeta777/n/n481b508377fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/kiimeta777/n/n481b508377fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Kindle Sale] Manga on sale or with point-up offers (as of Jan 9, 2024)",
+    "url": "https://note.com/kiimeta777/n/n481b508377fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Recently, I've been having fun looking for manga on sale on Amazon.",
+    "url": "https://note.com/kiimeta777/n/n481b508377fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There's usually a sale at least once a month where you get extra points for buying a certain number of books at once, and I've been running a cycle where I use the points I collect there to buy my next manga at a discount (=ﾟωﾟ)ﾉ",
+    "url": "https://note.com/kiimeta777/n/n481b508377fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I feel like I'm falling right into Amazon's trap, but for now, I'm going to try not to think about it...",
+    "url": "https://note.com/kiimeta777/n/n481b508377fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "So, without further ado, I'm going to introduce some manga I found while browsing Amazon that I thought were a great deal.",
+    "url": "https://note.com/kiimeta777/n/n481b508377fd?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "★Kii's Definition of a Good Deal",
+    "url": "https://note.com/kiimeta777/n/n481b508377fd?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Saleor Commerce - LinkedIn Saleor Commerce - LinkedIn LinkedIn https://www.linkedin.com > saleor",
+    "url": "https://www.linkedin.com/company/saleor",
+    "pass": 3
+   },
+   {
+    "quote": "Mirek Mencel – Saleor Commerce - LinkedIn Mirek Mencel – Saleor Commerce - LinkedIn LinkedIn https://pl.linkedin.com > mirekmencel",
+    "url": "https://pl.linkedin.com/in/mirekmencel/pl",
+    "pass": 3
+   },
+   {
+    "quote": "Building eCommerce sites with Medusa, Saleor , and Vendure Building eCommerce sites with Medusa, Saleor , and Vendure LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/raj-mahil_headlesscommerce-ecommercedevelopment-activity-7365043142540070913-ap4K",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Ukiah for Sale or Trade - The Original - Facebook Ukiah for Sale or Trade - The Original - Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/theoriginalukiahforsaleortrade/",
+    "pass": 3
+   },
+   {
+    "quote": "Scottish smallpipes for sale or swap - Facebook Scottish smallpipes for sale or swap - Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/551289618765525/",
+    "pass": 3
+   },
+   {
+    "quote": "Maggie Valley for sale or rent - Facebook Maggie Valley for sale or rent - Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/1606659999388721/",
+    "pass": 3
+   },
+   {
+    "quote": "Uilleann Pipes for sale or swap - Facebook Uilleann Pipes for sale or swap - Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/1432003387070305/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://saleor.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saleor.io/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saleor.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saleor.io/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saleor.io/pricing?cta=Learn+more&cta_page=%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saleor.io/case-study/lush",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saleor.io/case-study/pcdiga",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saleor.io/solutions/multi-channel-commerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saleor.io/solutions/composable-commerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saleor.io/solutions/b2b-commerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saleor.io/solutions/marketplace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saleor.io/shopify-plus-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saleor.notion.site/open-positions",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://edu.ujhb.org/?p=2289",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/jp/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=FP5k9-aKLts",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reffine.com/ja/How-Jaguar-Land-Rover-mastered-market-specific-e-commerce-customizations-in-Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wadax.ne.jp/company/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/saleor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.contentful.com/marketplace/saleor-commerce/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://github.com/saleor/apps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kt.team/instruments/saleor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vestbee.com/insights/articles/polish-platform-saleor-closes-8-m-round-led-by-zalando-and-target-global",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcrunch.com/2024/02/06/open-source-headless-commerce-builder-saleor-pulls-in-8m-round-led-by-target-global-and-zalando/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://theirstack.com/en/technology/saleor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ushigyu/n/n2f0fea7a0bba?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kiimeta777/n/n481b508377fd?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/saleor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pl.linkedin.com/in/mirekmencel/pl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/raj-mahil_headlesscommerce-ecommercedevelopment-activity-7365043142540070913-ap4K",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/theoriginalukiahforsaleortrade/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/551289618765525/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1606659999388721/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1432003387070305/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Saleor 日本 導入",
+   "results": [
+    "https://edu.ujhb.org/?p=2289",
+    "https://www.salesforce.com/jp/",
+    "https://www.youtube.com/watch?v=FP5k9-aKLts",
+    "https://www.reffine.com/ja/How-Jaguar-Land-Rover-mastered-market-specific-e-commerce-customizations-in-Japan",
+    "https://www.sumitomocorp.com/ja/settings/News-Data/release",
+    "https://www.stellantis.jp/news",
+    "https://www.tesla.com/careers/search/job/regional-sales-manager-265532",
+    "https://kitploit.com/ja/tools/github/lukasz-rybak/cve-2026-22849",
+    "https://promotion.jsol.co.jp/salesforce/blog/blogIndex.html",
+    "https://exbridge.jp/ai-system/saleor/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Saleor 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://saleor.io/",
+    "https://saleor.io/partners",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.wadax.ne.jp/company/agent/",
+    "https://www.manageengine.jp/pace/",
+    "https://b-seeds.com/",
+    "https://dairitenboshu.com/",
+    "https://www.asteal.co.jp/partner.html",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Saleor Japan",
+   "results": [
+    "https://www.linkedin.com/company/saleor",
+    "https://www.contentful.com/marketplace/saleor-commerce/",
+    "https://saleor.io/extensions",
+    "https://github.com/saleor/apps",
+    "https://www.reddit.com/r/ecommerce/comments/zbrase/comparing_open_source_ecommerce_platforms/",
+    "https://asyntai.com/ai-chatbot-for-saleor/",
+    "https://www.sentinelone.com/vulnerability-database/cve-2026-35401/",
+    "https://powergatesoftware.com/tech-blog/medusajs-vs-saleor/",
+    "https://saleor.io/blog/saleor-30-multichannel-extensibility-improvements",
+    "https://en.wikipedia.org/wiki/Sailor_(pen_company)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Saleor manufacturing customer case study",
+   "results": [
+    "https://saleor.io/case-study",
+    "https://cosmonauts.dev/saleor-ecommerce-developers-composable-commerce/",
+    "https://kt.team/instruments/saleor",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.rfp.wiki/retail-ecommerce/digital-commerce-platforms/saleor/fabric",
+    "https://github.com/saleor/saleor",
+    "https://www.rigbyjs.com/blog/saleor-technology-what-is-it-and-why-is-it-worth-getting-interested-in",
+    "https://theirstack.com/en/technology/saleor",
+    "https://oroinc.com/b2b-ecommerce/blog/digital-transformation-in-manufacturing-case-studies/",
+    "https://www.casestudies.com/company/saleor-commerce"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Saleor white label OR reseller OR partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.setproduct.com/blog/white-label-seo-reseller-programs",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Saleor founded funding employees revenue",
+   "results": [
+    "https://vestbee.com/insights/articles/polish-platform-saleor-closes-8-m-round-led-by-zalando-and-target-global",
+    "https://saleor.io/blog/introducing-pulse",
+    "https://techcrunch.com/2024/02/06/open-source-headless-commerce-builder-saleor-pulls-in-8m-round-led-by-target-global-and-zalando/",
+    "https://theirstack.com/en/technology/saleor",
+    "https://tracxn.com/d/companies/saleor/__jXFfPB5U4cBHpcyt-wEkDR-mm2eJiMUWMEjKdkyj3D8/funding-and-investors",
+    "https://www.linkedin.com/company/saleor",
+    "https://www.revenue.io/revenue-investors",
+    "https://retailtechinnovationhub.com/home/2024/2/6/saleor-bags-8-million-in-seed-extension-round-led-by-target-global-supported-by-zalando",
+    "https://www.eu-startups.com/directory/saleor-commerce/",
+    "https://compworth.com/company/saleor"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Saleor",
+   "results": [
+    "https://note.com/ushigyu/n/n2f0fea7a0bba?hl=en",
+    "https://note.com/kiimeta777/n/n481b508377fd?hl=en",
+    "https://note.com/hirosetakao/n/nae26fb1234be?hl=en",
+    "https://note.com/tsunagari1129/n/na3e26b374ca3?hl=en",
+    "https://note.com/smorisaki/n/n2db887de1f39",
+    "https://note.com/nishida_fudosan/n/nfb8f153b7df4?hl=en",
+    "https://note.com/chem_reg_lab/n/nf5dd6814c0aa?hl=en",
+    "https://note.com/suni/n/ne89e52503746?hl=en",
+    "https://note.com/jo56/n/nf31355804c34?hl=en",
+    "https://note.com/udonmikan/n/n2f1e9db07047?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Saleor",
+   "results": [
+    "https://x.com/TechCrunch/status/1754779758770933991",
+    "https://x.com/mirekmencel/status/1960642371391005085",
+    "https://help.x.com/en/rules-and-policies/counterfeit-goods-policy",
+    "https://x.com/business/status/2120076507385114934",
+    "https://x.com/ShiprocketIndia/status/2114371533628227756",
+    "https://x.com/ROINJNews/status/2119810996265009202",
+    "https://x.com/ecomstreur/status/2118608082427093056",
+    "https://help.x.com/en/forms/ipi/counterfeit/trademark-holder",
+    "https://x.com/cgtnamerica/status/2114705533315784985",
+    "https://x.com/getsaleor"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Saleor",
+   "results": [
+    "https://www.linkedin.com/company/saleor",
+    "https://www.linkedin.com/posts/imzeeshan_i-was-exploring-modern-ecommerce-solutions-activity-7522638271772778496-Ybn0",
+    "https://pl.linkedin.com/in/mirekmencel/pl",
+    "https://www.linkedin.com/posts/raj-mahil_headlesscommerce-ecommercedevelopment-activity-7365043142540070913-ap4K",
+    "https://de.linkedin.com/in/dmytri",
+    "https://pl.linkedin.com/in/jonatanwitoszek/en",
+    "https://uk.linkedin.com/jobs/view/junior-merchandiser-womenswear-%E2%80%93-sale-or-return-at-john-lewis-partners-4471351384",
+    "https://pl.linkedin.com/in/marcin-g-4a888599",
+    "https://pl.linkedin.com/in/adrian-pilarczyk",
+    "https://www.linkedin.com/pulse/june-drop-decoding-your-saleor-infrastructure-strategy-mirumee-labs-ajh2f"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Saleor",
+   "results": [
+    "https://www.facebook.com/groups/theoriginalukiahforsaleortrade/",
+    "https://www.facebook.com/groups/551289618765525/",
+    "https://www.facebook.com/groups/1606659999388721/",
+    "https://www.facebook.com/groups/1432003387070305/",
+    "https://www.facebook.com/ChrisKnightCreations/posts/i-make-reclaimed-barn-wood-marquee-letters-for-sale-or-rent-any-size-chrisknight/1695531821943819/",
+    "https://www.facebook.com/FM100.3/posts/is-there-a-difference-between-a-yard-sale-or-a-garage-sale/10160111420834322/",
+    "https://www.facebook.com/groups/fluteforum/posts/4499309890321517/",
+    "https://www.facebook.com/groups/azhorseproperties/",
+    "https://www.facebook.com/groups/OakwoodHomes/",
+    "https://www.facebook.com/p/Saleor-Buyer-61590860158669/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Saleor note 社長",
+   "results": [
+    "https://note.com/shacho_homon/m/m1bd972cc202e",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/saleseed/m/meec5f1d07b34",
+    "https://x.com/sadaaki",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/buffup",
+    "https://note.jp/n/n7408566db9e5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Saleor X 投稿",
+   "results": [
+    "https://docs.saleor.io/developer/community/faq",
+    "https://github.com/saleor/saleor",
+    "https://www.dafei.store/",
+    "https://www.youtube.com/watch?v=6XCpeP73qtA",
+    "https://pypi.org/project/saleor/",
+    "https://blog.logrocket.com/building-an-online-store-with-saleor/",
+    "https://www.contentful.com/marketplace/saleor-commerce/",
+    "https://railway.com/deploy/saleor-most-advanced-open-ecommerce-platform--saleor",
+    "https://x.com/getsaleor",
+    "https://saleor.io/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

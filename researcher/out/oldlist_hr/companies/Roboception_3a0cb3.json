@@ -1,0 +1,1306 @@
+{
+ "name": "Roboception",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T09:14:22.531107+00:00",
+ "official_url": "https://roboception.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Latest funding",
+    "value": "— Strategic investment",
+    "url": "https://mekawire.com/companies/roboception",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "—",
+    "url": "https://mekawire.com/companies/roboception",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://mekawire.com/companies/roboception",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Munich",
+    "url": "https://mekawire.com/companies/roboception",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "Munich, Germany",
+    "url": "https://mekawire.com/companies/roboception",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "Email",
+    "value": "[email protected]",
+    "url": "https://mekawire.com/companies/roboception",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The rc_reason suite of software modules is an advanced AppliedAI solution specifically designed for robotics applications: Users select the plug-and-produce software module that best fits their individual needs, and with just a few mouse clicks task-relevant information such as grasp points is provided to the robot controller.",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The UserSpace feature allows users to deploy custom software directly on Roboception’s (sensor) hardware using Docker containers. The UserSpace is extremely useful for collision-free motion planning, Industry 4.0 applications, vision pipelines, or application programs – all without requiring users to purchase additional hardware to run these custom software tools.",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unique 3D stereo hardware for plug-and-produce machine vision",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3D stereo vision products from Roboception enable user-friendly and easy image capture and processing. Installation and initial setup can be done without prior experience or expertise in machine vision. Connectivity is ensured via e.g. REST-API, ROS and GenICam interfaces.",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive process knowledge for effective vision consulting",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboception’s team of vision experts has extensive process knowledge of many vision applications in robotics. This enables us to advise our customers on the selection of suitable sensor and software solutions and to support them in the development of a functional, stable and flexible robotic application.",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Project requirements evolve over time. That’s why our portfolio concept is modular, making it easy to add new components to existing installations. Apart from that, replicating an existing installation in the same or a different production facility is as easy as it can get, thanks to multiple upload and download options for sharing parameters and database items among our vision systems.",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By processing data locally near or within our 3D stereo sensors, we ensure real-time decision making and minimize latency. Customers benefit from customizable workflows that can reduce operating costs while ensuring greater system resilience. Our edge computing capabilities provide a secure, flexible and efficient solution for various industrial applications.",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Plug-and-produce approach",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Provides task-relevant information",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve scene density and texture",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Can We Help with Your 3D Robot Vision Project?",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We look forward to consulting with you on all aspects of your 3D Robot Vision project.",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“With Roboception’s robot vision solution, we were able to add a third dimension into our automated kitting process, making it significantly more robust and more flexible at the same time.”",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“...thanks to using robot vision for machine tending processes, we solved the issue in a highly satisfactory manner – and provided our customer with the perfect solution.“",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our customer is very impressed. They had not expected that this […] cost-efficient modification would eliminate these errors entirely, nor that the implementation would be as flawless as it was.”",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The rc_visard is an essential element in guiding our Mobile Robot product.“",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use Cases: Our 3D Robot Vision Products in Action",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Robot Vision Helps Reduce Risk and Increase Production Volume",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How the vision-based automation of loading and unloading massive aluminum casts reduces accident risks and leads to ~37% increased production volume",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How a once tedious manual assembly process was reliably automated while minimizing the required floor space.",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboception hosts a workshop and an insight session at ERF 2024: Obtaining Good Data for Agile Production, Logistics and Lab Automation.",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboception Hosts First Joint ESR/Supervisors Workshop for 5GSmartFact EU Project",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboceptions hosts a joint workshop for ESRs and their supervisors in their Munich office as activity in the 5GSmartFact EU-project.",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up to our newsletter and be the first to hear about our news and product highlights.",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboception’s products are vital components of the innovative solutions our customers and partners install and develop. Our modularized off-the-shelf vision solutions as well as our customer-tailored applications enable versatility and flexibility for more and more robots in various industries.",
+    "url": "https://roboception.com/innovative-applications/customers-and-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "KUKA iiQKA Vision Provider",
+    "url": "https://roboception.com/innovative-applications/customers-and-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Products as Vital Components in Our Customers' and Partners' Solutions",
+    "url": "https://roboception.com/innovative-applications/customers-and-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Robot Vision Helps Reduce Risk and Increase Production Volume",
+    "url": "https://roboception.com/innovative-applications/customers-and-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How the vision-based automation of loading and unloading massive aluminum casts reduces accident risks and leads to ~37% increased production volume",
+    "url": "https://roboception.com/innovative-applications/customers-and-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How a once tedious manual assembly process was reliably automated while minimizing the required floor space.",
+    "url": "https://roboception.com/innovative-applications/customers-and-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboception hosts a workshop and an insight session at ERF 2024: Obtaining Good Data for Agile Production, Logistics and Lab Automation.",
+    "url": "https://roboception.com/innovative-applications/customers-and-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboception Hosts First Joint ESR/Supervisors Workshop for 5GSmartFact EU Project",
+    "url": "https://roboception.com/innovative-applications/customers-and-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboceptions hosts a joint workshop for ESRs and their supervisors in their Munich office as activity in the 5GSmartFact EU-project.",
+    "url": "https://roboception.com/innovative-applications/customers-and-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "You would like to find out whether our portfolio is suitable for your robotic application? Simply request a feasibility study free of charge, and get a live demo of our products.",
+    "url": "https://roboception.com/innovative-applications/customers-and-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Would you like to try out one of our sensors and software solutions? Our Try-&-Buy-option gives you the chance to test our products before you decide, and to be sure you make the right choice for your application.",
+    "url": "https://roboception.com/innovative-applications/customers-and-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up to our newsletter and be the first to hear about our news and product highlights:",
+    "url": "https://roboception.com/innovative-applications/customers-and-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboception is a leading provider of intelligent robot vision platforms and systems. The Munich-based company enables robots to see and think, thus providing key elements for flexible automation solutions in Industry 4.0.",
+    "url": "https://roboception.com/innovative-applications/customers-and-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboception supports integrators and end users in creating innovative automation solutions for the future-oriented use of robots in production and logistics.",
+    "url": "https://roboception.com/innovative-applications/customers-and-partners/",
+    "pass": 1
+   },
+   {
+    "quote": ". Together, they have more than 60 years of professional experience not only in robotics, stereo image processing and visual navigation, but also in strategic development, project management and personnel management.",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Responsible for development of stereo data processing and visual navigation.",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "April 2015",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "In April 2015, Roboception is founded by three former employees of the",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "April 2017",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The world-renowned design prize iF DESIGN AWARD is awarded to the",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboception receives the \"Innovationspreis Bayern\" (Bavarian Innovation Award) in the Start-Up Category for exceptionally innovative achievements.",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": ", wins an award in the Red Dot Award: Product Design 2019.",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch of SGM®Producer",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "for high-speed off-board image processing.",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "3D stereo vision products",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": ", an AppliedAI solution for the reliable detection of objects based on a previously taught CAD model.",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": ", expands its product portfolio through the cooperative venture with Roboception. This partnership continues even after their integration with Balluff.",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "April 2022",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboception expands its range of high-performance sensors for industrial 3D image processing in robotics by adding the",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "high-resolution 3D stereo sensor to its product portfolio.",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": ", a leading supplier of image processing components for computer vision applications, acquires 25.1 % of the shares in Roboception.",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Visit our stand at all about automation 2026, and experience how AI-based image processing solutions are advancing automation and Physical AI",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Robot Vision Helps Reduce Risk and Increase Production Volume",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "How the vision-based automation of loading and unloading massive aluminum casts reduces accident risks and leads to ~37% increased production volume",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "You would like to find out whether our portfolio is suitable for your robotic application? Simply request a feasibility study free of charge, and get a live demo of our products.",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "By processing data locally near or within our 3D stereo sensors, we ensure real-time decision making and minimize latency. Customers benefit from customizable workflows that can reduce operating costs while ensuring greater system resilience. Our edge computing capabilities provide a secure, flexible and efficient solution for various industrial applications.",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Technology Engineer at Danfoss Drives A/S",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“...thanks to using robot vision for machine tending processes, we solved the issue in a highly satisfactory manner – and provided our customer with the perfect solution.“",
+    "url": "https://roboception.com/",
+    "pass": 1
+   },
+   {
+    "quote": "German Aerospace Center (DLR)",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "In September 2015, Roboception enters a strategic partnership with a major robot manufacturer.",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "industrial designer Tilo Wuesthoff",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboception expands its range of high-performance sensors for industrial 3D image processing in robotics by adding the",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "rc_cube I Industrial Edge Computer",
+    "url": "https://roboception.com/accessories-for-robot-vision-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "comes into play. Designed specifically for use in industrial environments, it provides additional computing power to meet these unique requirements. And this computing power is not even exclusive to vision applications: With Roboception’s unique",
+    "url": "https://roboception.com/accessories-for-robot-vision-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "rc_cube Industrial Edge Computer - Roboception",
+    "url": "https://roboception.com/accessories-for-robot-vision-solutions/rc-cube-edge-computer/",
+    "pass": 1
+   },
+   {
+    "quote": "rc_cube Industrial Edge Computer",
+    "url": "https://roboception.com/accessories-for-robot-vision-solutions/rc-cube-edge-computer/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize Performance of Your Robot Vision Application with the rc_cube Industrial Edge Computer",
+    "url": "https://roboception.com/accessories-for-robot-vision-solutions/rc-cube-edge-computer/",
+    "pass": 1
+   },
+   {
+    "quote": "The rc_cube I is the industrial edge computer for your",
+    "url": "https://roboception.com/accessories-for-robot-vision-solutions/rc-cube-edge-computer/",
+    "pass": 1
+   },
+   {
+    "quote": "and is especially useful for industrial applications requiring high-speed image processing and/or the use of multiple sensors.",
+    "url": "https://roboception.com/accessories-for-robot-vision-solutions/rc-cube-edge-computer/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial edge IPC increases performance and minimizes latency",
+    "url": "https://roboception.com/accessories-for-robot-vision-solutions/rc-cube-edge-computer/",
+    "pass": 1
+   },
+   {
+    "quote": "The rc_cube I industrial edge computer, designed for use in industrial environments,",
+    "url": "https://roboception.com/accessories-for-robot-vision-solutions/rc-cube-edge-computer/",
+    "pass": 1
+   },
+   {
+    "quote": "The rc_cube I industrial edge computer can be combined with any",
+    "url": "https://roboception.com/accessories-for-robot-vision-solutions/rc-cube-edge-computer/",
+    "pass": 1
+   },
+   {
+    "quote": "is an example of a suitable switch. For operational use in an industrial environment, or to support up to four sensors, please make sure to use an rc_cube I.",
+    "url": "https://roboception.com/accessories-for-robot-vision-solutions/rc-cube-edge-computer/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Automation",
+    "url": "https://roboception.com/innovative-applications/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Applications in the field of industrial automation require high precision. However, absolute accuracy can only be achieved under certain conditions at high costs. The 3D navigation and application solutions of Roboception obviate the need for high absolute precision by combining industrial robots having a moderate relative accuracy with a new kind of relative motion planning.",
+    "url": "https://roboception.com/innovative-applications/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "In agricultural robotics, the recording of dense stereo data is essential for plant recognition and navigation. Roboception provides 3D navigation without external infrastructure as well as the bridging of GPS dropouts by visual navigation.",
+    "url": "https://roboception.com/innovative-applications/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Health analysis of plants",
+    "url": "https://roboception.com/innovative-applications/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboception supports both robotic integrators and end users in creating innovative automation solutions for the future-oriented use of robots in manufacturing and logistics.",
+    "url": "https://roboception.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "RoX will build a digital ecosystem that facilitates or even enables the use of innovative AI-based robotic solutions in various practical applications and industries. Within this project, Roboception will develop new/ extended perception solutions tailored to specific application areas sich as logistics or factory automation, and ensure their efficient integration into the RoX ecosystem.",
+    "url": "https://roboception.com/about/research-and-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile dual arm robotic workers with embedded cognition for hybrid and dynamically reconfigurable manufacturing systems, funded under the project number 723616 within the Horizon 2020 FoF2 – 2016 program.",
+    "url": "https://roboception.com/about/research-and-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Manual and automated production lines must evolve to “produce more and diverse with less”, however they need to address shortcomings such as e.g. lack of cognitive perception systems to allow autonomous reasoning. SMARTHANDLE will research technologies to address these needs and support European industry.",
+    "url": "https://roboception.com/about/research-and-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "The 5gsmartfact project (Future Wireless Connected and Automated Industry Enabled by 5G) is to study, develop, optimize and assess the deployment of 5G networks factory environments and automation applications.",
+    "url": "https://roboception.com/about/research-and-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboception, together with industrial designer Tilo Wuesthoff, has won an award in the Red Dot Award: Product Design 2019. The rc_visard received the Red Dot, which the renowned jury only awards to products that feature an outstanding design.",
+    "url": "https://roboception.com/about/recognition/",
+    "pass": 1
+   },
+   {
+    "quote": "The rc_visard’s combination of functionality and design convinced the iF DESIGN AWARD’s 63-member jury, made up of independent experts from all over the world. Together with industrial designer Tilo Wuesthoff, with whom we collaborated on this project, Roboception’s CEO Michael Suppa picked up the award at the award ceremony in Munich’s BMW Welt on March 9th, 2018.",
+    "url": "https://roboception.com/about/recognition/",
+    "pass": 1
+   },
+   {
+    "quote": "on March 10+11, we invite you to experience the advances AI-based machine vision solutions bring to industrial automation.",
+    "url": "https://roboception.com/visit-us-at-all-about-automation-2026/",
+    "pass": 1
+   },
+   {
+    "quote": ", we are looking forward to demonstrating our latest solutions live. Our focus will be on our latest releases, especially the AI-enabled solution for the industrial sector.",
+    "url": "https://roboception.com/visit-us-at-all-about-automation-2026/",
+    "pass": 1
+   },
+   {
+    "quote": ". Located at booth B4.421, Franka Emika presents a compact industrial production line that utilizes our sensor and software module to efficiently assemble customized bottle openers. The seamless integration of our solutions enables precise and reliable robot-guided assembly processes, empowering manufacturers to achieve greater productivity and flexibility.",
+    "url": "https://roboception.com/roboception-at-automatica-2023/",
+    "pass": 1
+   },
+   {
+    "quote": ". This powerful combination enables Leverage Robotics to demonstrate high-speed, accurate bin picking, enhancing productivity and reducing downtime for manufacturing operations.",
+    "url": "https://roboception.com/roboception-at-automatica-2023/",
+    "pass": 1
+   },
+   {
+    "quote": "in an exciting pick-and-place application. Together with the renowned Fanuc SCARA robot and voraus robotik, we showcase a new level of ease-of-use in vision-guided robotics. Attendees will experience first-hand the simplicity and efficiency of the integrated solution, which streamlines operations and opens up new possibilities for various industrial sectors.",
+    "url": "https://roboception.com/roboception-at-automatica-2023/",
+    "pass": 1
+   },
+   {
+    "quote": "booth (A5.303), get detailed information about the brand-new Pick Accelerator Solution Kit for high-speed picking. It’s designed for picking and packing unknown goods in the warehouse. We are proud to support this powerful bin picking solution with modern 3D sensor technology and the latest algorithms for grasp point determination.",
+    "url": "https://roboception.com/roboception-at-automatica-2023/",
+    "pass": 1
+   },
+   {
+    "quote": "At Danfoss, a globally operating manufacturer of mobile hydraulics as well as electronic and electrical components, robotic systems equipped with 3D sensors now reliably and precisely recognize and move a large number of different components. In the new production line implemented by Danish integrator",
+    "url": "https://www.automate.org/case-studies/3d-vision-key-to-success-in-robotic-applications",
+    "pass": 3
+   },
+   {
+    "quote": "“What works at a trade fair or in a manufacturer’s demonstration room is often not viable under real-world conditions.”",
+    "url": "https://www.automate.org/case-studies/3d-vision-key-to-success-in-robotic-applications",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous mobile robots are one of the fastest-growing segments of the robotics industry. During this live virtual training, you'll be introduced to safety protocols and best practices for working with mobile robots in industrial settings.",
+    "url": "https://www.automate.org/case-studies/3d-vision-key-to-success-in-robotic-applications",
+    "pass": 3
+   },
+   {
+    "quote": "Fast-growing Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) has recently completed its B+ round of fundraising.",
+    "url": "https://www.automate.org/case-studies/3d-vision-key-to-success-in-robotic-applications",
+    "pass": 3
+   },
+   {
+    "quote": "Kitting cell at Danfoss factory becomes robust and fast with Roboception's 3D stereo vision solutions",
+    "url": "https://www.automate.org/case-studies/automated-kitting-solution-with-3d-robot-vision",
+    "pass": 3
+   },
+   {
+    "quote": "Kitting is a common industrial task performed globally every day. It involves preparing parts into a 'kit' for assembly. Workers gather parts from bins, crates, or bags. The task is usually done in a warehouse and trays are then taken to the assembly site. Automating this task is far from easy due to the high demands placed on the vision system used.",
+    "url": "https://www.automate.org/case-studies/automated-kitting-solution-with-3d-robot-vision",
+    "pass": 3
+   },
+   {
+    "quote": "\"We just had way too much downtime and engineering effort with the original setup, and the cycle time wasn't great either,\" recalls Morten Hansen, Manufacturing Technology Engineer at Danfoss. \"With Roboception's vision solution, we were able to add a third dimension to our process, making it much more robust and flexible at the same time.\"",
+    "url": "https://www.automate.org/case-studies/automated-kitting-solution-with-3d-robot-vision",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of 3D vision hardware and software solutions that enable any robotic system to reliably perceive its environment in real time.",
+    "url": "https://pitchbook.com/profiles/company/228704-95",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of 3D vision hardware and software solutions that enable any robotic system to reliably perceive its environment in real time. The company offer 3D stereo vision, software tools, projecter, accessories and software tools.",
+    "url": "https://pitchbook.com/profiles/company/228704-95",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of 3D vision hardware and software solutions that enable any robotic system to reliably perceive its enviro",
+    "url": "https://pitchbook.com/profiles/company/228704-95",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Munich-based Roboception was founded in March 2015 by three former employees of the",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "In April 2015, Roboception is founded by three former employees of the",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Part of TGW's \"Rovolution\"",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The rc_visard is part of",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "MATRIX VISION, now part of",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Part of KUKA.SmartBinPicking",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboceptions AppliedAI-solutions are an integral part of the",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Part of Franka Ecosystem",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboception’s vision solutions become part of the",
+    "url": "https://roboception.com/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We are constantly looking for motivated people to support our team with innovative ideas and a passion for robot vision and AI. By giving our employees a great deal of creative freedom, we encourage innovativeness and promote progress. The friendly atmosphere in our team offers much room for new ideas and personal development.",
+    "url": "https://roboception.com/about/careers-at-roboception/",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to versatile and varied tasks in a company within a future-oriented industry, the following benefits await our future employees:",
+    "url": "https://roboception.com/about/careers-at-roboception/",
+    "pass": 1
+   },
+   {
+    "quote": "Our modern, accessible and spacious office is located in the heart of Pasing, a district of Munich. Pasing station is part of the main S-Bahn line and one of the best connected stations in the city. It takes only 12 minutes to get to Munich Central Station or 20-40 minutes to get to Augsburg Central Station.",
+    "url": "https://roboception.com/about/careers-at-roboception/",
+    "pass": 1
+   },
+   {
+    "quote": "Regular company events, as well as spontaneous after-work parties, give our employees the opportunity to socialize and build community outside of work hours. We also have a regular \"Pasta Day\" where all team members commit to providing the team with homemade pasta.",
+    "url": "https://roboception.com/about/careers-at-roboception/",
+    "pass": 1
+   },
+   {
+    "quote": "To enhance the quality and creativity of our teams, we rely on the appreciation and diversity of our employees. Equal professional opportunities play a central role in this. Regardless of gender, disability or background, we want all our employees to be able to contribute their potential to the success of our company.",
+    "url": "https://roboception.com/about/careers-at-roboception/",
+    "pass": 1
+   },
+   {
+    "quote": "For testing and development purposes, we offer a smaller version of the rc_cube edge computer: rc_cube S. The rc_cube S is suitable for research, development and testing environments. It supports one sensor without additional hardware. A separate 2.5G switch (not part of the product scope) enables the support of two rc_visards or one rc_viscore at a time. The",
+    "url": "https://roboception.com/accessories-for-robot-vision-solutions/rc-cube-edge-computer/",
+    "pass": 1
+   },
+   {
+    "quote": "Successful logistical applications are based on autonomous navigation, reliable human detection and targeted object manipulation. The 3D navigation and application software offers a complete error assessment from the data acquisition to the data product and allows the manipulation of a priori unknown objects in an unknown, disordered environment.",
+    "url": "https://roboception.com/innovative-applications/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboception is actively engaged in research and innovation, cooperates with Universities and Research Institutions and – as a part of SPARC – is involved in strengthening robotic competences across Europe.",
+    "url": "https://roboception.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "As the workforce ages, employees with physical impairments need better support to remain productive. While assistive robots help, they lack flexibility. KiRo4LeMi aims to use AI to enable robots to adapt dynamically to individual performance changes. By leveraging digital models and \"Living Personas,\" AI optimizes robot operations in real time.",
+    "url": "https://roboception.com/about/research-and-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "Robot-supported interaction systems for performance-impaired employees, funded by the Bavarian State Ministry of Economic Affairs, Regional Development and Energy.",
+    "url": "https://roboception.com/about/research-and-innovation/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2017, the Stevie Award was carried out for the 3rd time in Germany. Roboception took part in the competiton and won the Gold Award in the category “Technology Start-up of the year”. This award is a top-class prize for enterprises and would be organized all over the world.",
+    "url": "https://roboception.com/about/recognition/",
+    "pass": 1
+   },
+   {
+    "quote": "Photoneo, now part of Zebra Technologies",
+    "url": "https://www.automate.org/case-studies/automated-kitting-solution-with-3d-robot-vision",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/228704-95",
+    "pass": 3
+   },
+   {
+    "quote": "Roboception has 15 total employees.",
+    "url": "https://pitchbook.com/profiles/company/228704-95",
+    "pass": 3
+   },
+   {
+    "quote": "What is Roboception’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/228704-95",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Roboception is",
+    "url": "https://pitchbook.com/profiles/company/228704-95",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Roboception | 日本フィジカルAI新聞",
+    "url": "https://physicalainews.jp/companies/roboception",
+    "pass": 3
+   },
+   {
+    "quote": "世界のフィジカルAIを、日本語で",
+    "url": "https://physicalainews.jp/companies/roboception",
+    "pass": 3
+   },
+   {
+    "quote": "Osaka, Japan",
+    "url": "https://pitchbook.com/profiles/company/228704-95",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "3D Robot Vision - Roboception — 3D stereo vision products from Roboception enable user-friendly and easy image capture and processing. Installation and initial setup can be done without prior experience or expertise in machine vision.",
+    "url": "https://roboception.com/",
+    "pass": 3
+   },
+   {
+    "quote": "roboception - ケイエルブイ — ピッキングに最適 価格・工数を抑えて導入できます Roboceptionの3Dカメラシステムは、カメラで取り込んだデータから、オンボードで対象の「位置・姿勢・サイズ」を検出。 外部ハードウェア、プログラミングは不要。 また導入プロセスもシンプルです。",
+    "url": "https://www.klv.co.jp/maker/roboception.html",
+    "pass": 3
+   },
+   {
+    "quote": "Roboception | 日本フィジカルAI新聞 — Roboceptionはドイツに拠点を置くセンサー企業であり、産業用ロボット向けの3D知覚および物体認識技術を提供している。同社の製品は、ロボットが環境を認識し、物体の位置や形状を把握することを可能にし、ピッキングや組み立てなどの自動化タスクを支援する。フィジカルAIの分野では ...",
+    "url": "https://physicalainews.jp/companies/roboception",
+    "pass": 3
+   },
+   {
+    "quote": "3Dロボットビジョン RC_VISARD - ケイエルブイRoboceptionの3Dロボットビジョンシステムの特徴と物流現場への導入事...コンビニ向けフィジカルAIロボットを披露 CP AI Roboticsが2027年商用...Roboception - 3Dリアルタイムコンピュータビジョン — Roboceptionの3Dカメラシステムは、カメラで取り込んだデータから、オンボードで対象の「位置・姿勢・サイズ」を検出。 外部ハードウェア、プログラミングは不要。 また導入プロセスもシンプルです。 カメラ側で「画像解析まで自動」で実行 ロボットメーカー「Roboception」について詳しく紹介します。 3Dロボットビジョンシステムの種類や強み、サポート、物流現場への導入事例などについてまとめました。 6 days ago · CP AI Roboticsは、東京国際フォーラムで開催され",
+    "url": "https://www.klv.co.jp/product/3d/rc-visard.html",
+    "pass": 3
+   },
+   {
+    "quote": "Roboceptionの3Dロボットビジョンシステムの特徴と物流現場への導入事... — ロボットメーカー「Roboception」について詳しく紹介します。 3Dロボットビジョンシステムの種類や強み、サポート、物流現場への導入事例などについてまとめました。",
+    "url": "https://www.logi-raku.net/3drobotvision-makers/roboception.html",
+    "pass": 3
+   },
+   {
+    "quote": "3D Robot Vision - Roboception — 3D stereo vision products from Roboception enable user-friendly and easy image capture and processing. Installation and initial setup can be done without prior experience or expertise in machine vision. Connectivity is ensured via e.g. REST-API, ROS and GenICam interfaces.",
+    "url": "https://roboception.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Company - Roboception — Roboception delivers a key component for the advancement of robotic systems in various application areas, and will hence enable an essential expansion of the field of robotics as a whole in the coming years.",
+    "url": "https://roboception.com/about/company/",
+    "pass": 3
+   },
+   {
+    "quote": "roboception - ケイエルブイ — roboception 2015年3月に設立されたドイツのミュンヘンに拠点を置くRoboception社は、3Dステレオカメラ、プロジェクターのコンポーネントの提供だけでなく、3Dカメラによるデータ撮影から画像解析までを含む3Dロボットビジョンソリューションを提供しています。",
+    "url": "https://www.klv.co.jp/maker/roboception.html",
+    "pass": 3
+   },
+   {
+    "quote": "Roboception GmbH - LinkedIn — Eyes and Brains for Your Robot | Roboception offers innovative vision solutions that enable robotic systems across all domains to reliably perceive and act in their environment.",
+    "url": "https://www.linkedin.com/company/roboception-gmbh",
+    "pass": 3
+   },
+   {
+    "quote": "Roboception - 3Dリアルタイムコンピュータビジョン — Roboception offers innovative solutions for navigation, real-time perception and manipulation for industrial robotic systems.",
+    "url": "https://www.toradex.com/ja-jp/applications/industrial-automation-robotics/3d-real-time-computer-vision",
+    "pass": 3
+   },
+   {
+    "quote": "Customers & Partners - Roboception — Roboception’s products are vital components of the innovative solutions our customers and partners install and develop. Our modularized off-the-shelf vision solutions as well as our customer-tailored applications enable versatility and flexibility for more and more robots in various industries.",
+    "url": "https://roboception.com/innovative-applications/customers-and-partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Risk Reduced, Production Volume Increased - roboception.com — Their search for robust hardware (that will with-stand a challenging industrial environment), and user-friendly software (that would not require them to complete a masterclass in robot vision prior to use), led them to Roboception.",
+    "url": "https://roboception.com/wp-content/uploads/Roboception_CaseStudy_Grainger_EN_fin.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Roboception - 2026 Company Profile, Team, Funding ... - TracxnRoboception 2026 Company Profile: Valuation, Funding ...Roboception funding, valuation, investors & robotsRoboception - Crunchbase Company Profile & FundingRoboception Stock Price, Funding, Valuation, Revenue ...Roboception GmbH Information - RocketReachRoboception GmbH, Munich, Germany - North Data — Mar 17, 2026 · Roboception - About ",
+    "url": "https://tracxn.com/d/companies/roboception/__ASORKSm9LWW2bQvSrtL1QrFqDI0UOdWc-OXe1Qr7Ifo",
+    "pass": 3
+   },
+   {
+    "quote": "Roboception 2026 Company Profile: Valuation, Funding ...Roboception funding, valuation, investors & robotsRoboception - Crunchbase Company Profile & FundingRoboception Stock Price, Funding, Valuation, Revenue ...Roboception GmbH Information - RocketReachRoboception GmbH, Munich, Germany - North Data — Information on valuation, funding, acquisitions, investors, and executives for Roboception. Use t",
+    "url": "https://pitchbook.com/profiles/company/228704-95",
+    "pass": 3
+   },
+   {
+    "quote": "Roboception funding, valuation, investors & robots — Roboception GmbH was founded in April 2015 in Munich by three former researchers of the Institute of Robotics and Mechatronics at the German Aerospace Center (DLR): Michael Suppa, Heiko Hirschmüller and Korbinian Schmid.",
+    "url": "https://mekawire.com/companies/roboception",
+    "pass": 3
+   },
+   {
+    "quote": "Roboception - Crunchbase Company Profile & Funding — Roboception GmbH develops software and hardware products for real-time perception and localisation of robotic systems. The name Roboception is comprised of the words “Robotics” and “Perception”.",
+    "url": "https://www.crunchbase.com/organization/roboception",
+    "pass": 3
+   },
+   {
+    "quote": "Roboception Stock Price, Funding, Valuation, Revenue ... — Jun 12, 2024 · See Roboception funding rounds, investors, investments, exits and more. Evaluate their financials based on Roboception's post-money valuation and revenue.",
+    "url": "https://www.cbinsights.com/company/roboception/financials",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/228704-95",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#roboception\" - Results on X | Live Posts & Updates Results for \"#roboception\" on X (Twitter). Find the latest posts, discussions, and updates about #roboception. 20 results found.",
+    "url": "https://x.com/hashtag/roboception",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Roboception GmbH - LinkedIn Eyes and Brains for Your Robot | Roboception offers innovative vision solutions that enable robotic systems across all domains to reliably perceive and act in their environment.",
+    "url": "https://www.linkedin.com/company/roboception-gmbh",
+    "pass": 3
+   },
+   {
+    "quote": "Michael Suppa - CEO and Co-Founder Roboception GmbH | LinkedIn#rox #robotvision | Roboception GmbH - LinkedInMichael Suppa – Geschäftsführender Gesellschafter Roboception ...Roboception GmbH on LinkedIn: #research #innovation #phdRoboception GmbH posted on LinkedInRoboception GmbH on LinkedIn: #robotvision #stereovision # ... CEO and Co-Founder Roboception GmbH · Experience: Roboception GmbH · Loc",
+    "url": "https://de.linkedin.com/in/suppamichael/en",
+    "pass": 3
+   },
+   {
+    "quote": "#rox #robotvision | Roboception GmbH - LinkedIn As the project's #robotvision experts, the Roboception team develops extended perception solutions tailored to specific application areas (e.g. logistics or factory automation), and ensures their...",
+    "url": "https://www.linkedin.com/posts/roboception-gmbh_rox-robotvision-activity-7380576239826317312-HX_P",
+    "pass": 3
+   },
+   {
+    "quote": "Michael Suppa – Geschäftsführender Gesellschafter Roboception ...Roboception GmbH on LinkedIn: #research #innovation #phdRoboception GmbH posted on LinkedInRoboception GmbH on LinkedIn: #robotvision #stereovision # ... Geschäftsführender Gesellschafter Roboception GmbH · Berufserfahrung: Roboception GmbH · Standort: Metropolregion München · 500+ Kontakte auf LinkedIn. Sehen Sie sich das Profil von",
+    "url": "https://de.linkedin.com/in/suppamichael",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Roboception GmbH | Munich - FacebookRoboception GmbH | FacebookTransforming the Future of Robotics... - Roboception GmbH ...At Roboception, we give the robots... - Roboception GmbH ...Robots for the people! We are... - Roboception GmbH ...Roboception demonstrates 3D perception for robotic systemsDid you know that the hand-eye calibration of our rc_visard ... Jun 12, 2024 · True flexibility for any",
+    "url": "https://www.facebook.com/roboception/",
+    "pass": 3
+   },
+   {
+    "quote": "Roboception GmbH | Facebook Nov 24, 2023 · True flexibility for any robot: With Roboception's 3D vision solutions, the robot controller remains the master of the application program, without limiting the functionality of the robot.",
+    "url": "https://www.facebook.com/roboception/posts/864129152383550/",
+    "pass": 3
+   },
+   {
+    "quote": "Transforming the Future of Robotics... - Roboception GmbH ... Jun 20, 2023 · In this engaging discussion, Michael reveals how Roboception is addressing the classical industrial automation, warehouse logistics, and lab automation",
+    "url": "https://www.facebook.com/roboception/posts/transforming-the-future-of-robotics-with-3d-stereo-vision-we-are-thrilled-to-sha/762008219262311/",
+    "pass": 3
+   },
+   {
+    "quote": "At Roboception, we give the robots... - Roboception GmbH ... Mar 14, 2021 · At Roboception, we give the robots eyes: With our innovative hardware and software products, we deliver key elements of our customer’s most...",
+    "url": "https://www.facebook.com/roboception/posts/at-roboception-we-give-the-robots-eyes-with-our-innovative-hardware-and-software/2887044668251312/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://roboception.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboception.com/innovative-applications/customers-and-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboception.com/about/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboception.com/about/careers-at-roboception/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboception.com/accessories-for-robot-vision-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboception.com/accessories-for-robot-vision-solutions/rc-cube-edge-computer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboception.com/accessories-for-robot-vision-solutions/rc-randomdot-pattern-projector/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboception.com/innovative-applications/industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboception.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboception.com/about/research-and-innovation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboception.com/about/recognition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboception.com/visit-us-at-all-about-automation-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboception.com/roboception-at-automatica-2023/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://roboception.com/wp-content/uploads/eit-manufacturing-logo.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://roboception.com/wp-content/uploads/2023/06/Grafik-Partnerstaende-automatica-2023_final.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.klv.co.jp/maker/roboception.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://physicalainews.jp/companies/roboception",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.klv.co.jp/product/3d/rc-visard.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rocelec.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roboshin.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.klv.co.jp/maker/roboception.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/roboception-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.automate.org/case-studies/3d-vision-key-to-success-in-robotic-applications",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automate.org/case-studies/automated-kitting-solution-with-3d-robot-vision",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://reolink.com/distributor-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/roboception/__ASORKSm9LWW2bQvSrtL1QrFqDI0UOdWc-OXe1Qr7Ifo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/228704-95",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mekawire.com/companies/roboception",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/roboception",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/roboception",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/roboception-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/suppamichael/en",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/roboception-gmbh_rox-robotvision-activity-7380576239826317312-HX_P",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/suppamichael",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/roboception/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/roboception/posts/864129152383550/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/roboception/posts/transforming-the-future-of-robotics-with-3d-stereo-vision-we-are-thrilled-to-sha/762008219262311/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/roboception/posts/at-roboception-we-give-the-robots-eyes-with-our-innovative-hardware-and-software/2887044668251312/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/roboception",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Roboception 日本 導入",
+   "results": [
+    "https://roboception.com/",
+    "https://www.klv.co.jp/maker/roboception.html",
+    "https://physicalainews.jp/companies/roboception",
+    "https://www.klv.co.jp/product/3d/rc-visard.html",
+    "https://www.logi-raku.net/3drobotvision-makers/roboception.html",
+    "https://www.toradex.com/ja-jp/applications/industrial-automation-robotics/3d-real-time-computer-vision",
+    "https://robotstart.info/article/2026/11/05/382596.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roboception 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.rocelec.jp/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://roboshin.com/",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2",
+    "https://www.ipsen.com/japan/会社/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://jpmktg.winbond.com/",
+    "https://roboception.com/",
+    "https://www.klv.co.jp/maker/roboception.html",
+    "https://www.klv.co.jp/product/3d/rc-visard.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Roboception Japan",
+   "results": [
+    "https://roboception.com/",
+    "https://roboception.com/about/company/",
+    "https://www.klv.co.jp/maker/roboception.html",
+    "https://www.linkedin.com/company/roboception-gmbh",
+    "https://www.toradex.com/ja-jp/applications/industrial-automation-robotics/3d-real-time-computer-vision",
+    "https://www.max-robotics.com/en/company/roboception",
+    "https://www.klv.co.jp/product/3d/rc-visard.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roboception manufacturing customer case study",
+   "results": [
+    "https://roboception.com/innovative-applications/customers-and-partners/",
+    "https://roboception.com/wp-content/uploads/Roboception_CaseStudy_Grainger_EN_fin.pdf",
+    "https://www.automate.org/case-studies/3d-vision-key-to-success-in-robotic-applications",
+    "https://www.automate.org/case-studies/automated-kitting-solution-with-3d-robot-vision",
+    "https://www.universal-robots.com/case-stories/",
+    "https://www.dlr.de/en/rm/transfer/success-stories/roboception",
+    "https://ifr.org/case-studies/kuka-robots-with-camera-systems-automate-the-production-line-at-danfoss"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roboception white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://reolink.com/distributor-reseller/",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.superantispyware.com/reseller-program",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roboception founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/roboception/__ASORKSm9LWW2bQvSrtL1QrFqDI0UOdWc-OXe1Qr7Ifo",
+    "https://pitchbook.com/profiles/company/228704-95",
+    "https://mekawire.com/companies/roboception",
+    "https://www.crunchbase.com/organization/roboception",
+    "https://www.cbinsights.com/company/roboception/financials",
+    "https://rocketreach.co/roboception-gmbh-profile_b42a6470fe16d41f",
+    "https://www.northdata.com/Roboception+GmbH,+München/HRB+217783"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Roboception",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/takizo540/n/ne3dbef5605cd",
+    "https://note.com/harunatravel/n/n9be3e4d29b2a",
+    "https://note.com/butarounet/n/nd7206f5ae7d2",
+    "https://note.com/mamopu/n/n2456b1d6942a",
+    "https://note.com/quruli/n/n35d2b6cdc37a",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Roboception",
+   "results": [
+    "https://x.com/hashtag/roboception",
+    "https://x.com/",
+    "https://help.x.com/en",
+    "https://help.x.com/zh-cn/managing-your-account",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/colormejassy/status/2118498768739790880",
+    "https://x.com/Marlayna29/status/2115433590150606880"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Roboception",
+   "results": [
+    "https://www.linkedin.com/company/roboception-gmbh",
+    "https://de.linkedin.com/in/suppamichael/en",
+    "https://www.linkedin.com/posts/roboception-gmbh_rox-robotvision-activity-7380576239826317312-HX_P",
+    "https://de.linkedin.com/in/suppamichael",
+    "https://in.linkedin.com/posts/roboception-gmbh_research-innovation-phd-activity-6998928649185804288-8acP",
+    "https://in.linkedin.com/posts/roboception-gmbh_kuka-kukarobotics-automation-activity-7043223794282287104-d-8h",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7061639068660453376/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Roboception",
+   "results": [
+    "https://www.facebook.com/roboception/",
+    "https://www.facebook.com/roboception/posts/864129152383550/",
+    "https://www.facebook.com/roboception/posts/transforming-the-future-of-robotics-with-3d-stereo-vision-we-are-thrilled-to-sha/762008219262311/",
+    "https://www.facebook.com/roboception/posts/at-roboception-we-give-the-robots-eyes-with-our-innovative-hardware-and-software/2887044668251312/",
+    "https://www.facebook.com/roboception/posts/865878322208633/",
+    "https://www.facebook.com/KUKAGlobal/videos/roboception-demonstrates-3d-perception-for-robotic-systems/10154332101806956/",
+    "https://www.facebook.com/roboception/videos/hand-eye-calibration-roboceptions-rc_visard-to-kuka-lbr-iiwa/144275051158418/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roboception note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://roboception.com/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roboception X 投稿",
+   "results": [
+    "https://roboception.com/",
+    "https://roboception.ai/",
+    "https://roboception.com/support/",
+    "https://x.com/hashtag/roboception",
+    "https://doc.rc-cube.com/latest/en/index.html",
+    "https://github.com/roboception",
+    "https://x.com/0x_fokki/status/2116289885870981296"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部29頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式13頁／PDF・画像2件／外部29頁・検索12回）"
+ }
+}

@@ -1,0 +1,1319 @@
+{
+ "name": "Quantstamp",
+ "aliases": [],
+ "context": "旧営業リスト｜Blockchain Security｜NG",
+ "researched_at": "2026-11-11T09:36:35.718128+00:00",
+ "official_url": "https://quantstamp.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded in",
+    "value": "Founded in：2017",
+    "url": "https://quantstamp.com/company",
+    "pass": 1
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：1935年",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "label": "設立年",
+    "value": "設立年：2017年",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2018年12月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000041298.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結 140,365名（2018年 5月31 日現在）",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "35名",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都渋谷区桜丘町12-10\n住友不動産渋谷インフォスアネックス１階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000041298.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都渋谷区桜丘町12-10住友不動産渋谷インフォスアネックス１階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000041298.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Quantstamp has been our dedicated partner for audits over the past year, and the experience has been nothing short of outstanding. We are consistently impressed with the quality and thoughtfulness of their findings and recommendations, not only in their audits but also through our collaboration in advancing ecosystem standards. We look forward to continuing our partnership!",
+    "url": "https://quantstamp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "VP of Product at Kiln",
+    "url": "https://quantstamp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quantstamp's ability to quickly produce comprehensive and insightful audits has proven them to be an invaluable partner for our grantees. The importance of the extra layer of due diligence they provide can't be overstated.",
+    "url": "https://quantstamp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2017, we’ve worked with some of the most recognized names in web3. Discover why hundreds of clients trust Quantstamp to secure their projects.",
+    "url": "https://quantstamp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quantstamp is familiar with a wide range of programming languages and has audited Layer 1s, Layer 2s, DeFi protocols, NFT marketplaces, exchanges, clients, and more. Our team has extensive experience with meta-languages and compilers, both in academia and in the field.",
+    "url": "https://quantstamp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quantstamp provides managed security services for continuous security and monitoring post-deployment. Our insurance product, Chainproof, secures customers against smart contract hacks and slashing risks.",
+    "url": "https://quantstamp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quantstamp is securing web3 through our audits and security services, while also building the future of the ecosystem through our products, partnerships, investments, and education. We have secured two Ethereum 2.0 clients, Prysm and Teku, and received multiple grants from the Ethereum Foundation for L2 security and scaling.",
+    "url": "https://quantstamp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "September 2026: The Approval Layer Was Exploited",
+    "url": "https://quantstamp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In August, the prices going into contracts were wrong. In September, attackers went after the systems that approve transactions in the first place.",
+    "url": "https://quantstamp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "about September 2026: The Approval Layer Was Exploited",
+    "url": "https://quantstamp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "August 2026: The Price Feed Was Exploited",
+    "url": "https://quantstamp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Crypto lost $255.4M across 46 incidents in August 2026, roughly level with July's $254.4M, with more incidents than any month this year. June and July incidents were largely due to key compromises, but August shifted to price manipulation. Eleven oracle and price-manipulation incidents accounted for $135.87M, or 53% of the month.",
+    "url": "https://quantstamp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Two chains stopped producing blocks and rolled back state to undo the damage.",
+    "url": "https://quantstamp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "about August 2026: The Price Feed Was Exploited",
+    "url": "https://quantstamp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quantstamp is a global security company helping fintechs, protocols, enterprises, and institutions build and operate safer systems.",
+    "url": "https://quantstamp.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Programming languages",
+    "url": "https://quantstamp.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Applying our experience protecting digital assets to enterprise systems where security is mission critical.",
+    "url": "https://quantstamp.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Quantstamp partners with Sompo to create Chainproof.",
+    "url": "https://quantstamp.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Chainproof background",
+    "url": "https://quantstamp.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Expanding into enterprise security across AI, robotics, biotechnology, and other mission critical sectors.",
+    "url": "https://quantstamp.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We started in blockchain security, helping protect hundreds of billions of dollars in digital assets. That work demanded close scrutiny of complex code, permissions, infrastructure, and the assumptions connecting them.",
+    "url": "https://quantstamp.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We are bringing that expertise to enterprises building in AI, robotics, biotechnology, and other frontier sectors. Our focus is the software, infrastructure, and operational controls these systems depend on.",
+    "url": "https://quantstamp.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Assessments across application logic, infrastructure, access controls, and operational processes.",
+    "url": "https://quantstamp.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Ethereum client audits: Teku and Prysm",
+    "url": "https://quantstamp.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare for a security audit",
+    "url": "https://quantstamp.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "This month, attackers went after the people and devices with access to the systems that move funds, and back to the moment a key or permission was first set up: an engineer's laptop at Binance, hardware wallets that were tampered with before their owners ever opened them, and token approvals that were unsafe from the day they were given.",
+    "url": "https://quantstamp.com/blog/october-2026-the-worst-month-on-record",
+    "pass": 1
+   },
+   {
+    "quote": "Private key / hot-wallet compromise",
+    "url": "https://quantstamp.com/blog/october-2026-the-worst-month-on-record",
+    "pass": 1
+   },
+   {
+    "quote": "Governance (flash-loan takeover, malicious proposals)",
+    "url": "https://quantstamp.com/blog/october-2026-the-worst-month-on-record",
+    "pass": 1
+   },
+   {
+    "quote": "Oracle / price manipulation",
+    "url": "https://quantstamp.com/blog/october-2026-the-worst-month-on-record",
+    "pass": 1
+   },
+   {
+    "quote": "Protocol logic (withdrawals)",
+    "url": "https://quantstamp.com/blog/october-2026-the-worst-month-on-record",
+    "pass": 1
+   },
+   {
+    "quote": "Approvals outlive the reason they were granted.",
+    "url": "https://quantstamp.com/blog/october-2026-the-worst-month-on-record",
+    "pass": 1
+   },
+   {
+    "quote": "The Avalanche Safe gave spending permission to an address that only existed on other chains, and that permission sat open for seven months. Check the token approvals your treasury and multisig wallets have given out on every chain they use, and revoke any that are no longer needed.",
+    "url": "https://quantstamp.com/blog/october-2026-the-worst-month-on-record",
+    "pass": 1
+   },
+   {
+    "quote": "One of Binance's hot wallets was handed to an attacker's contract and emptied about four minutes later. Built-in waiting periods, such as timelocks and minimum holding times on approval and governance changes, give your monitoring a chance to catch a bad change before funds leave.",
+    "url": "https://quantstamp.com/blog/october-2026-the-worst-month-on-record",
+    "pass": 1
+   },
+   {
+    "quote": "This report aggregates publicly reported information as of the publication date and may be revised as investigations evolve and post-mortems are released. Recommendations are general guidance. Verify against primary sources before acting on any specific claim.",
+    "url": "https://quantstamp.com/blog/october-2026-the-worst-month-on-record",
+    "pass": 1
+   },
+   {
+    "quote": "September 2026: The Approval Layer Was Exploited",
+    "url": "https://quantstamp.com/blog/october-2026-the-worst-month-on-record",
+    "pass": 1
+   },
+   {
+    "quote": "In August, the prices going into contracts were wrong. In September, attackers went after the systems that approve transactions in the first place.",
+    "url": "https://quantstamp.com/blog/october-2026-the-worst-month-on-record",
+    "pass": 1
+   },
+   {
+    "quote": "about September 2026: The Approval Layer Was Exploited",
+    "url": "https://quantstamp.com/blog/october-2026-the-worst-month-on-record",
+    "pass": 1
+   },
+   {
+    "quote": "August 2026: The Price Feed Was Exploited",
+    "url": "https://quantstamp.com/blog/october-2026-the-worst-month-on-record",
+    "pass": 1
+   },
+   {
+    "quote": "Crypto lost $255.4M across 46 incidents in August 2026, roughly level with July's $254.4M, with more incidents than any month this year. June and July incidents were largely due to key compromises, but August shifted to price manipulation. Eleven oracle and price-manipulation incidents accounted for $135.87M, or 53% of the month.",
+    "url": "https://quantstamp.com/blog/october-2026-the-worst-month-on-record",
+    "pass": 1
+   },
+   {
+    "quote": "Two chains stopped producing blocks and rolled back state to undo the damage.",
+    "url": "https://quantstamp.com/blog/october-2026-the-worst-month-on-record",
+    "pass": 1
+   },
+   {
+    "quote": "about August 2026: The Price Feed Was Exploited",
+    "url": "https://quantstamp.com/blog/october-2026-the-worst-month-on-record",
+    "pass": 1
+   },
+   {
+    "quote": "September 2026: The Approval Layer Was Exploited",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "In August, the prices going into contracts were wrong. In September, attackers went after the systems that approve transactions in the first place.",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "Private key / hot-wallet compromise",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "Malicious governance protocol",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "Oracle / price manipulation",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "Protocol logic (swap, reward)",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "Both protocols had multisigs on their contracts, but Neutron's chain governance can reassign any contract's admin, and that power sits above anything an app sets up. The attacker bought enough NTRN to pass a proposal for roughly $20K, then migrated ten contracts to their own code and drained them in 24 minutes. The official postmortem puts the net loss at around $2.23M.",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "It followed the same pattern as Tectonic and Moonwell in August, where a thinly traded governance token was pumped and then used as collateral. NSTR's price went from about $0.006 to $49.50 on Starknet, and the attacker borrowed around $3.5M against it before Nostra paused the market.",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "Trezor's breach at its fulfillment provider ShipMonk grew to 81,000 customers, exposing names, phone numbers, and home addresses that ShipMonk had told Trezor were deleted.",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "A few days later, attackers abused Brevo's SSO setup to take over 138 email marketing accounts and sent 347,000 Trezor users a fake security alert asking for their wallet backup phrases.",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "Separately, a joint advisory from the FBI and allied agencies tied the WaterPlum fake job interview campaign to North Korea, after malicious coding tests infected more than 30,000 devices and moved $10.7M in crypto.",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "Bitget's attacker got in through a compromised third-party security product, took a high-level credential to an internal system, and used it to push forged withdrawals that the signer treated as legitimate. Every tool and credential with a path to signing belongs in the threat model.",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "This report aggregates publicly reported information as of the publication date and may be revised as investigations evolve and post-mortems are released. Recommendations are general guidance. Verify against primary sources before acting on any specific claim.",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "August 2026: The Price Feed Was Exploited",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "Crypto lost $255.4M across 46 incidents in August 2026, roughly level with July's $254.4M, with more incidents than any month this year. June and July incidents were largely due to key compromises, but August shifted to price manipulation. Eleven oracle and price-manipulation incidents accounted for $135.87M, or 53% of the month.",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "Two chains stopped producing blocks and rolled back state to undo the damage.",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "about August 2026: The Price Feed Was Exploited",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "August 2026: The Price Feed Was Exploited",
+    "url": "https://quantstamp.com/blog/august-2026-the-price-feed-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "Crypto lost $255.4M across 46 incidents in August 2026, roughly level with July's $254.4M, with more incidents than any month this year. June and July incidents were largely due to key compromises, but August shifted to price manipulation. Eleven oracle and price-manipulation incidents accounted for $135.87M, or 53% of the month.",
+    "url": "https://quantstamp.com/blog/august-2026-the-price-feed-was-exploited",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the industry’s most",
+    "url": "https://quantstamp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams across blockchain and finance",
+    "url": "https://quantstamp.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "1 Quantstamp Case Study, Success Story, & Customer Story | FeaturedCustomers",
+    "url": "https://www.featuredcustomers.com/vendor/quantstamp/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/quantstamp/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Turtle Design Case Study: Quantstamp – The first decentralized smart contract security platform | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/turtle-design/case-study/the-first-decentralized-smart-contract-security-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Quantstamp used Turtle Design",
+    "url": "https://www.casestudies.com/company/turtle-design/case-study/the-first-decentralized-smart-contract-security-platform",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/turtle-design/case-study/the-first-decentralized-smart-contract-security-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/turtle-design/case-study/the-first-decentralized-smart-contract-security-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Hedera Hashgraph - Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/quantstamp",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/quantstamp",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "As we build blockchain experiences that thrive in the mainstream, alongside thousands of talented independent builders on Flow, Quantstamp is bringing to the ecosystem the high-quality security and code review their firm has long been recognized for. Quantstamp will no doubt be an important part of Flow's continued scaling and success.",
+    "url": "https://quantstamp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/quantstamp/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/quantstamp",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/222320-44",
+    "pass": 3
+   },
+   {
+    "quote": "Quantstamp has 51 total employees.",
+    "url": "https://pitchbook.com/profiles/company/222320-44",
+    "pass": 3
+   },
+   {
+    "quote": "What is Quantstamp’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/222320-44",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Quantstamp is",
+    "url": "https://pitchbook.com/profiles/company/222320-44",
+    "pass": 3
+   },
+   {
+    "quote": "FOUNDED 2017 HQ San Francisco, California EMPLOYEES 80 WEBSITE quantstamp.com",
+    "url": "https://siliconvalleyinvestclub.com/companies/quantstamp/tear-sheet.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "REVENUE / ARR (2024",
+    "url": "https://siliconvalleyinvestclub.com/companies/quantstamp/tear-sheet.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue estimate — $5 million-$10 million Salary.com",
+    "url": "https://siliconvalleyinvestclub.com/companies/quantstamp/tear-sheet.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Annual revenue estimate — $4,000,000 Prospeo",
+    "url": "https://siliconvalleyinvestclub.com/companies/quantstamp/tear-sheet.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue estimate — $5.7 million ZoomInfo",
+    "url": "https://siliconvalleyinvestclub.com/companies/quantstamp/tear-sheet.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2023 revenue estimate — $5.9 million Latka",
+    "url": "https://siliconvalleyinvestclub.com/companies/quantstamp/tear-sheet.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "2024 revenue / ARR estimate — $11.4 million Latka",
+    "url": "https://siliconvalleyinvestclub.com/companies/quantstamp/tear-sheet.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Annual revenue estimate — $20.4 million Growjo",
+    "url": "https://siliconvalleyinvestclub.com/companies/quantstamp/tear-sheet.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Maker -- with Smart Contract Coverage Warranty via Chainproof",
+    "url": "https://siliconvalleyinvestclub.com/companies/quantstamp/tear-sheet.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "というブロックチェーンインフラ企業にてマーケティング施策の考案や暗号資産取引所へのトークン上場支援を行っています",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   },
+   {
+    "quote": "Quantstampの保険サービスは、2022年7月にChainproof（チェインプルーフ）という子会社にて展開され始めました",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Separately, a joint advisory from the FBI and allied agencies tied the WaterPlum fake job interview campaign to North Korea, after malicious coding tests infected more than 30,000 devices and moved $10.7M in crypto.",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "A few days later, attackers abused Brevo's SSO setup to take over 138 email marketing accounts and sent 347,000 Trezor users a fake security alert asking for their wallet backup phrases.",
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "Manchester Airports Group disclosed a breach affecting 8.7M customers, most of whom had only an email address exposed. Extortion group FulcrumSec says it pulled the data using live Iterable API keys that MAG shipped in its own client-side JavaScript, and independent analysis found those keys in the public bundles going back to 2022. MAG has not confirmed the root cause.",
+    "url": "https://quantstamp.com/blog/august-2026-the-price-feed-was-exploited",
+    "pass": 1
+   },
+   {
+    "quote": "Crypto lost more than $240 million across 29 incidents in July 2026, up roughly 216% from June's $75.87M, even as the number of attacks fell from 40 to 29. For the second month running, the damage didn't come from clever contract exploits. The same failure class ran through Web2, from a $12.3M rail-industry ransom to a 1TB bank breach that started with one employee's email.",
+    "url": "https://quantstamp.com/blog/july-security-beat-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/quantstamp/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/quantstamp/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/quantstamp",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/quantstamp",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/222320-44",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "加速する日本のオープンイノベーションの現場（富士通×Quantstamp）",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "〜海外のスタートアップと日本の大手企業の協業事例〜",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "富士通株式会社 グローバルマーケティング本部 ビジネス開発統括部 安西潔 氏（写真左）",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "これまで日本の大手企業というと、「保守的」で「クローズド」なイメージをもつ",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本で加速するスタートアップと大手企業のコラボレーション",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "企業と日本のスタートアップだが、海外スタートアップとの協業も増えてきてい",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "通アクセラレータプログラム』を実施している富士通株式会社と、昨年日本に進出",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Quantstampはサンフランシスコ、トロントおよび日本に拠点を置く、ブロックチェ",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（富士通株式会社 安西氏（以下、安西））",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "富士通は83年の歴史を持ち、2017年度は売上高ベースで世界第 7位、日本では第1",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "富士通様とはPlug and Play Japan(※2)のプログラムでお会いしたのが初めてで、",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "進出当時の2018年の 1月、日本は仮想通貨だけでなくブロックチェーン(※3)に対し",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "てとても前向きで、弊社としてもアジアの拠点を日本に置くメリットがありまし",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "が多いですが、日本ではシステム開発会社や金融機関などの大手企業の方々と接す",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Plug and Playには、アメリカでも日本でもスポンサーとして参画しており、その",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本のブロックチェーンコミュニティは拡大中ですが、まだ大きくはないので必然",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本に来て知ったのは、比較的オープンで透明性があると言われる分散型ア",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本にはブロックチェーンのリーダーシップをとってもらい",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内にも有望なスタートアップもいますが、グローバルに見た方が量的にも質",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "また我々の事業部門は多くが日本に在籍して、スタートアップとそれら事業部のマ",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本と海外の大きな違いでは「日本ではリレーションシップが大事」という点で",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本の場合は信頼を築くのに時間がかかりますが、一回パートナーと認められる",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "思いますが、長期戦略で日本市場を見ているので、上下関係をフラットに見てくれ",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "見せるというのは日本進出を目指す海外のスタートアップにとって大事だと思いま",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではスタートアップの活動も活発になっていますが、大手企業の中には将来的",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本上陸！サンフランシスコ発のテックベンチャーQuantstamp、ブロックチェーン・スマートコントラクトの担保を日本で本格展開 | クォントスタンプジャパン合同会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000041298.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本上陸！サンフランシスコ発のテックベンチ�ャーQuantstamp、ブロックチェーン・スマートコントラクトの担保を日本で本格展開",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000041298.html",
+    "pass": 3
+   },
+   {
+    "quote": "ブロックチェーンやスマートコントラクトを担保するサービスを展開しているQuantstamp Inc.（本社：アメリカ・サンフランシスコ州、共同創業者・最高経営責任者：リチャード・マ）は、日本におけるサービスを拡充するためにクォントスタンプ・ジャパン合同会社（東京都渋谷区、職務執行者：リチャード・マ、小田啓）を設立しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000041298.html",
+    "pass": 3
+   },
+   {
+    "quote": "これまでにクォントスタンプは独自のソフトウェアや機密情報監査サービスを通じて、5億米ドル以上のスマートコントラクトにおける取引額を担保しており、2018年夏にはプロサッカー選手 本田圭佑氏の手がける個人ファンド「KSK Angel Fund」、TransLink Capital、野村ホールディングス株式会社及び株式会社DGインキュベーションからの資金調達に成功しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000041298.html",
+    "pass": 3
+   },
+   {
+    "quote": "「クォントスタンプの正式な日本進出を発表することができてとても嬉しく思います",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000041298.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本はデジタル決済における重要なマーケットであり、このテクノロジーを取り巻く企業からの興味関心はとても高いと考えています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000041298.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、野村ホールディングス株式会社イノベーション推進担当の八木忠三郎執行役員は次のように述べています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000041298.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社DGインキュベーションの取締役である三村泰弘は次のように述べています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000041298.html",
+    "pass": 3
+   },
+   {
+    "quote": "Quantstamp Japan GK概要",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000041298.html",
+    "pass": 3
+   },
+   {
+    "quote": "所在地 : 東京都渋谷区桜丘町12-10住友不動産渋谷インフォスアネックス１階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000041298.html",
+    "pass": 3
+   },
+   {
+    "quote": "Twitter : @quantstampjapan",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000041298.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区桜丘町12-10",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000041298.html",
+    "pass": 3
+   },
+   {
+    "quote": "OFFICES San Francisco, Toronto, Paris, Berlin, London, Scottsdale, Ottawa, Singapore, Tokyo,",
+    "url": "https://siliconvalleyinvestclub.com/companies/quantstamp/tear-sheet.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Quantstamp announced expansion to Japan with investment from Nomura Holdings and Digital Garage (date not provided in",
+    "url": "https://siliconvalleyinvestclub.com/companies/quantstamp/tear-sheet.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "取引先の具体例としては、アメリカ司法省、オーストラリア連邦警察、フィンランドやスウェーデンの警察組織や税務庁、日本の国税庁、国際的な金融グループであるBARCLAYSやBNY MELLONなどがあります",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   },
+   {
+    "quote": "Blockdeamonの顧客として公開情報となっているのは、大和証券グループのFintertech株式会社、野村グループが出資するカストディ事業会社であるkomainuなどです",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   },
+   {
+    "quote": "なお、Chainproofは日本の大手保険会社の持株会社であるSOMPOホールディングスによる出資を受けています",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   },
+   {
+    "quote": "日本支社（Securitize Japan株式会社）による国内ST発行の推進も多く行われており、具体的にはNTT DATA、SBINFT、ソニー銀行、三井住友信託銀行との取り組みが実施されています",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   },
+   {
+    "quote": "米国現地法人GMO-Z.com Trust Companyが発行する日本円ステーブルコイン「GYEN」 と米ドルステーブルコイン「ZUSD」をステラネットワークにて提供開始",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   },
+   {
+    "quote": "Blockdaemon、日本でブロックチェーンの取り組みを拡大・強化",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   },
+   {
+    "quote": "STO分野を牽引するSecuritize Japanが日本で選ばれる理由とは？",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   },
+   {
+    "quote": "Securitize Japan公式LinkedIn【2023 Lookback 振り返り】",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "加速する日本のオープンイノベーションの現場（富士通×Quantstamp — Quantstamp はサンフランシスコ、トロントおよび日本に拠点を置く、ブロックチェーンのセキュリティ会社です。特に注力しているのがスマートコントラクト(※1)のセキュリティです。スマートコントラクトは人間が作ったソフトウェアプログラムなので、人為的なミスやバグなどの脆弱性が入る ...",
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Quantstamp Expands to Japan with Investment from Nomura ... — Feb 27, 2019 · Quantstamp, a Y Combinator-backed smart contract security company, is proud to announce it is establishing a limited liability company, Quantstamp Japan GK, to assist Japanese startups and enterprises in using secure blockchain technology. This establishment follows significant investment from Nomura Holdings and Digital ",
+    "url": "https://quantstamp.com/blog/quantstamp-expands-to-japan-with-investment-from-nomura-holdings-and-digital-garage",
+    "pass": 3
+   },
+   {
+    "quote": "日本上陸！サンフランシスコ発のテックベンチャーQuantstamp、ブロッ... — Feb 25, 2019 · クォントスタンプジャパン合同会社のプレスリリース（2019年2月25日 12時20分）日本上陸！サンフランシスコ発のテックベンチャーQuantstamp ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000041298.html",
+    "pass": 3
+   },
+   {
+    "quote": "協業事例インタビュー - Quantstamp, Inc｜富士通 — 小田： Quantstampとしても、元々アジアの拠点を日本に置きたいという話があったんです。 日本でビジネスを展開するのは海外のスタートアップにとっては特に難しい。 他の国では案件ベースでサクサク始まり、手離れも早い。",
+    "url": "https://global.fujitsu/ja-jp/about/activities/venture/interview/quantstamp",
+    "pass": 3
+   },
+   {
+    "quote": "加速する日本のオープンイノベーションの現場（富士通×Quantstamp） |... — まずは会社概要を教えてください。 Quantstamp Inc. 小田氏（以下、小田） Quantstampはサンフランシスコ、トロントおよび日本に拠点を置く、ブロックチェーンのセキュリティ会社です。 特に注力しているのがスマートコントラクト (※1)のセキュリティです。",
+    "url": "https://www.jetro.go.jp/invest/investment_environment/success_stories/case1906001.html",
+    "pass": 3
+   },
+   {
+    "quote": "1 Quantstamp Case Study, Success Story, & Customer Story — Discover how other companies use Quantstamp, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/quantstamp/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Turtle Design Case Study: Quantstamp – The first ... — Quantstamp (Computer & Network Security) partnered with Turtle Design (Design) to solve key challenges. \"The first decentralized smart contract security platform\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/turtle-design/case-study/the-first-decentralized-smart-contract-security-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Quantstamp: Securing the Future of Web3 — Quantstamp is securing web3 through our audits and security services, while also building the future of the ecosystem through our products, partnerships, investments, and education.",
+    "url": "https://quantstamp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "7 Quantstamp Customer Reviews & References | FeaturedCustomers — Quantstamp Read 6 Quantstamp reviews and testimonials from customers, explore 1 case studies and customer success stories, and watch customer videos to see why companies chose Quantstamp as their Penetration Testing Services Quantstamp is a global leader in blockchain security, on a mission to secure the future of web3.",
+    "url": "https://www.featuredcustomers.com/vendor/quantstamp",
+    "pass": 3
+   },
+   {
+    "quote": "a while ago, we did branding and web design for @Quantstamp ... — Dec 20, 2024 · a while ago, we did branding and web design for @Quantstamp. full case study has just landed on our website. Quanstamp is a strong brand that everyone in Web3 knows. a world leader in blockchain security.",
+    "url": "https://x.com/properlystudio/status/1870100238276669476",
+    "pass": 3
+   },
+   {
+    "quote": "Quantstamp 2026 Company Profile: Valuation, Funding ...Quantstamp: Revenue, Worth, Valuation & Competitors 2025Quantstamp - 2026 Company Profile, Team, Funding ... - TracxnQuantstamp AS OF AUG 2026 - siliconvalleyinvestclub.comQuantstamp — $1.02B · San FranciscoQuantstamp — Company Profile | The Company CheckQuantstamp - Overview, News & Similar companies | ZoomInfo.com — Aug 18, 2018 · Quantstamp",
+    "url": "https://pitchbook.com/profiles/company/222320-44",
+    "pass": 3
+   },
+   {
+    "quote": "Quantstamp: Revenue, Worth, Valuation & Competitors 2025 — About Quantstamp Quantstamp is an IT Security related company founded in 2017 and based in San Francisco with 95 employees an estimated revenue of $19.4M, and. It has 11 competitors including CertiK, Bishop Fox and Terra Verde Services. Quantstamp is a smart contract security company that is developing the Quantstamp protocol and automated",
+    "url": "https://compworth.com/company/quantstamp",
+    "pass": 3
+   },
+   {
+    "quote": "Quantstamp - 2026 Company Profile, Team, Funding ... - TracxnQuantstamp AS OF AUG 2026 - siliconvalleyinvestclub.comQuantstamp — $1.02B · San FranciscoQuantstamp — Company Profile | The Company CheckQuantstamp - Overview, News & Similar companies | ZoomInfo.com — Apr 8, 2026 · Quantstamp is a seed company based in San Francisco (United States), founded in 2017 by Richard Ma and Steven Stewart. It ",
+    "url": "https://tracxn.com/d/companies/quantstamp/__sqPcFgR-0t2zQMu9h13SVv4eIiue74rsXPe78PKpzJc",
+    "pass": 3
+   },
+   {
+    "quote": "Quantstamp AS OF AUG 2026 - siliconvalleyinvestclub.com — OVERVIEW Quantstamp is a Web3 and blockchain security company focused on smart contract audits, managed security, penetration testing, infrastructure security reviews, and Chainproof insurance. The company was founded in 2017 and says Richard Ma founded Quantstamp.",
+    "url": "https://siliconvalleyinvestclub.com/companies/quantstamp/tear-sheet.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Quantstamp — $1.02B · San Francisco — Quantstamp funding, valuation and leadership. Latest valuation $1.02B. HQ San Francisco, California. Founded 2017.",
+    "url": "https://siliconvalleyinvestclub.com/companies/quantstamp/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "知っているようで知らない暗号資産・ブロックチェーン関連の事業者8選... Feb 4, 2024 · 知っているようで知らない暗号資産・ブロックチェーン関連の事業者8選【Chainalysis、CertiK、Quantstamp、ConsenSys、Securitize、Fireblocks、DigiFT、Blockdeamon】",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "知っているようで知らない暗号資産・ブロックチェーン関連の事業者8選【Chainalysis、CertiK、Quantstamp、ConsenSys、Securitize、Fireblocks、DigiF｜プリズム",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   },
+   {
+    "quote": "知っているようで知らない暗号資産・ブロックチェーン関連の事業者8選【Chainalysis、CertiK、Quantstamp、ConsenSys、Securitize、Fireblocks、DigiFT、Blockdeamon】",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   },
+   {
+    "quote": "というブロックチェーンインフラ企業にてマーケティング施策の考案や暗号資産取引所へのトークン上場支援を行っています。個人の活動では、暗号資産に関するデータ分析（オンチェーン分析）もしています。以後お見知りおきを。",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   },
+   {
+    "quote": "このnoteでは暗号資産業界で頻繁に名前を聞く企業を8社ピックアップし、その概要を解説していきます。解説に際しては、その企業が具体的にどんなサービスを提供しているのか、顧客は誰か、等を明確に記載することを意識しました。",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   },
+   {
+    "quote": "いずれの企業もグローバルレベルで高い評価を受けている企業なので、暗号資産・ブロックチェーン業界以外の方が見ても参考になる点があると思います。",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   },
+   {
+    "quote": "Consensys Software Inc.",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   },
+   {
+    "quote": "ConsenSysトップページ（画像引用元：",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   },
+   {
+    "quote": "1社目として、ブロックチェーン（主にイーサリアム）のインフラレイヤーのソフトウェアを提供するConsensys（コンセンシス）を紹介します。ConsenSysは2014年にイーサリアム財団の共同設立者であるJoseph Lubin（ジョセフ・ルービン）により創業されました。",
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Quantstamp, Inc. - LinkedIn Quantstamp is a global leader in blockchain security, on a mission to secure the future of web3. Founded in 2017, the team has honed its expertise through hundreds of audits and worked with some ...",
+    "url": "https://www.linkedin.com/company/quantstamp/",
+    "pass": 3
+   },
+   {
+    "quote": "Quantstamp, Inc. - LinkedIn Quantstamp is a global leader in blockchain security, on a mission to secure the future of web3. Founded in 2017, the team has honed its expertise through hundreds of audits and worked with some of the top projects in the industry including Maker, Compound, Polygon, Arbitrum, Sandbox, and many more. To date, Quantstamp has performed 750+ audits and secured over $200 bil",
+    "url": "https://ca.linkedin.com/company/quantstamp",
+    "pass": 3
+   },
+   {
+    "quote": "Quantstamp, Inc. - LinkedIn Quantstamp is a global leader in blockchain security, on a mission to secure the future of web3. Founded in 2017, the team has honed its expertise through hundreds of audits and worked with some of the top projects in the industry including Maker, Compound, Polygon, Arbitrum, Sandbox, and many more. To date, Quantstamp has performed 750+ audits and secured over $200 bil",
+    "url": "https://sg.linkedin.com/company/quantstamp",
+    "pass": 3
+   },
+   {
+    "quote": "Quantstamp, Inc. - LinkedIn Quantstamp is a global leader in blockchain security, on a mission to secure the future of web3. Founded in 2017, the team has honed its expertise through hundreds of audits and worked with some of the top projects in the industry including Maker, Compound, Polygon, Arbitrum, Sandbox, and many more. To date, Quantstamp has performed 750+ audits and secured over $200 bil",
+    "url": "https://uk.linkedin.com/company/quantstamp",
+    "pass": 3
+   },
+   {
+    "quote": "Richard Ma - CEO at Common Defense/Quantstamp | LinkedIn CEO at Common Defense/Quantstamp · I founded and raised $150M for Quantstamp, which protects $300B+ of assets, across 1,000+ organizations Strategic thinker who cares for the wellbeing of those ...",
+    "url": "https://www.linkedin.com/in/rtmtd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Quantstamp, Inc - FacebookQuantstamp Protocol (QSP) - FacebookQuantstamp, Inc - We are proud to be featured in a Member ...Quantstamp is here to secure Ethereum. | Quantstamp, IncQuantstamp Scalable Smart Contract Security Protocol ...Quantstamp, Inc | FacebookQuantstamp, Inc - Defending against DeFi hacks and... | Facebook Sep 14, 2022 · Quantstamp, Inc. 36,801 likes · 3 talking about this. Leade",
+    "url": "https://www.facebook.com/quantstamp/",
+    "pass": 3
+   },
+   {
+    "quote": "Quantstamp Protocol (QSP) - Facebook Oct 18, 2017 · Quantstamp is the first scalable security-audit protocol designed to find vulnerabilities in Ethereum smart contracts. Quantstamp is a specialized network that connects developers, investors and users around a transparent and scalable proof-of-audit. The network acts as a critical piece of transparency by enabling automated checks on smart contra",
+    "url": "https://www.facebook.com/groups/quantstamp/",
+    "pass": 3
+   },
+   {
+    "quote": "Quantstamp, Inc - We are proud to be featured in a Member ... Jun 9, 2021 · 16 112 Quantstamp, Inc Mar 8, 2022 🦄 Record-setting attendance at ETHDenver 🛡️ Securing Gelt Finance, Hashflow's Governance Token, the KeeperDAO Staking Contracts, and more ⏱️ Ethereum scaling developments Here's what happened at Quantstamp in February 👇🏽 QUANTSTAMP.COM Quantstamp Community Update ...",
+    "url": "https://www.facebook.com/quantstamp/posts/we-are-proud-to-be-featured-in-a-member-spotlight-by-the-enterprise-ethereum-all/2385924584885406/",
+    "pass": 3
+   },
+   {
+    "quote": "Quantstamp is here to secure Ethereum. | Quantstamp, IncQuantstamp Scalable Smart Contract Security Protocol ...Quantstamp, Inc | FacebookQuantstamp, Inc - Defending against DeFi hacks and... | Facebook Oct 16, 2017 · Quantstamp is here to secure Ethereum. удачи в реализации запланированного!😉 9y 1 Sambhu Raj Karkee लोचन सर ... Quantstamp to the rescue The QS protocol first runs through a series o",
+    "url": "https://www.facebook.com/quantstamp/videos/quantstamp-is-here-to-secure-ethereum/1195728703905006/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://quantstamp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quantstamp.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quantstamp.com/blog/october-2026-the-worst-month-on-record",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quantstamp.com/blog/september-2026-the-approval-layer-was-exploited",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quantstamp.com/blog/august-2026-the-price-feed-was-exploited",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://quantstamp.com/blog/july-security-beat-2026",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000041298.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.fujitsu/ja-jp/about/activities/venture/interview/quantstamp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/quantstamp/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/turtle-design/case-study/the-first-decentralized-smart-contract-security-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/quantstamp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.superantispyware.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/222320-44",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/quantstamp",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/quantstamp/__sqPcFgR-0t2zQMu9h13SVv4eIiue74rsXPe78PKpzJc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://siliconvalleyinvestclub.com/companies/quantstamp/tear-sheet.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/quantstamp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/quantstamp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/company/quantstamp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/quantstamp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/quantstamp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/quantstamp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/quantstamp/posts/we-are-proud-to-be-featured-in-a-member-spotlight-by-the-enterprise-ethereum-all/2385924584885406/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/quantstamp/videos/quantstamp-is-here-to-secure-ethereum/1195728703905006/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/rtmtd",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Quantstamp 日本 導入",
+   "results": [
+    "https://www.jetro.go.jp/ext_images/invest/successful_collaboration/case1906001/1906001.pdf",
+    "https://quantstamp.com/blog/quantstamp-expands-to-japan-with-investment-from-nomura-holdings-and-digital-garage",
+    "https://prtimes.jp/main/html/rd/p/000000001.000041298.html",
+    "https://global.fujitsu/ja-jp/about/activities/venture/interview/quantstamp",
+    "https://www.jetro.go.jp/invest/investment_environment/success_stories/case1906001.html",
+    "https://blocktribune.com/blockchain-security-firm-quantstamp-expands-to-japan/",
+    "https://www.wantedly.com/companies/company_7521925/post_articles/230785"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Quantstamp 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Quantstamp Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Quantstamp manufacturing customer case study",
+   "results": [
+    "https://www.featuredcustomers.com/vendor/quantstamp/case-studies",
+    "https://www.casestudies.com/company/turtle-design/case-study/the-first-decentralized-smart-contract-security-platform",
+    "https://quantstamp.com/",
+    "https://www.featuredcustomers.com/vendor/quantstamp",
+    "https://x.com/properlystudio/status/1870100238276669476",
+    "https://www.jetro.go.jp/en/invest/investment_environment/success_stories/case1906001.html",
+    "https://www.grantthornton.com/insights/case-studies/manufacturing/2025/customer-experience-transformation-at-a-global-manufacturer"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Quantstamp white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.superantispyware.com/reseller-program",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.ninjaone.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Quantstamp founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/222320-44",
+    "https://compworth.com/company/quantstamp",
+    "https://tracxn.com/d/companies/quantstamp/__sqPcFgR-0t2zQMu9h13SVv4eIiue74rsXPe78PKpzJc",
+    "https://siliconvalleyinvestclub.com/companies/quantstamp/tear-sheet.pdf",
+    "https://siliconvalleyinvestclub.com/companies/quantstamp/",
+    "https://www.thecompanycheck.com/company/b/quantstamp/tb0jsx7nynd7z6eb0",
+    "https://www.zoominfo.com/c/quantstamp-inc/433603009"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Quantstamp",
+   "results": [
+    "https://note.com/lithe_allium4803",
+    "https://note.com/prism_crypto/n/n4d8697b8c81f",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/harunezumiii/n/n13ee9f13a484"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Quantstamp",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Quantstamp",
+   "results": [
+    "https://www.linkedin.com/company/quantstamp/",
+    "https://ca.linkedin.com/company/quantstamp",
+    "https://sg.linkedin.com/company/quantstamp",
+    "https://uk.linkedin.com/company/quantstamp",
+    "https://br.linkedin.com/company/quantstamp",
+    "https://it.linkedin.com/company/quantstamp",
+    "https://fr.linkedin.com/company/quantstamp"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Quantstamp",
+   "results": [
+    "https://www.facebook.com/quantstamp/",
+    "https://www.facebook.com/groups/quantstamp/",
+    "https://www.facebook.com/quantstamp/posts/we-are-proud-to-be-featured-in-a-member-spotlight-by-the-enterprise-ethereum-all/2385924584885406/",
+    "https://www.facebook.com/quantstamp/videos/quantstamp-is-here-to-secure-ethereum/1195728703905006/",
+    "https://www.facebook.com/quantstamp/videos/quantstamp-scalable-smart-contract-security-protocol-explained/1193468350797708/",
+    "https://www.facebook.com/quantstamp/posts/1423784901099384/",
+    "https://www.facebook.com/quantstamp/posts/defending-against-defi-hacks-and-exploits-notable-audits-the-new-quantstamp-seal/2411408875670310/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Quantstamp note 社長",
+   "results": [
+    "https://quantstamp.com/",
+    "https://www.linkedin.com/in/rtmtd",
+    "https://shizune.co/investors/profile/richard-ma-3325",
+    "https://www.fastgrow.jp/media_articles/4118",
+    "https://quantstamp.com/team",
+    "https://entethalliance.org/eea-member-spotlight-with-richard-ma-ceo-and-co-founder-at-quantstamp/",
+    "https://scalarprotocolnews.substack.com/p/scalar-investor-spotlight-richard"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Quantstamp X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

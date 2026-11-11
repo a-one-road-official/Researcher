@@ -1,0 +1,1485 @@
+{
+ "name": "SafeAI",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T09:01:50.791334+00:00",
+ "official_url": "https://pronto.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Pronto.ai – Autonomous Haulage Systems – Autonomy Simplified",
+    "url": "https://pronto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pronto delivers off-road autonomous haulage systems (AHS) specifically engineered for a variety of rugged environments. Complex industrial sites like mines and quarries rely on Pronto’s AHS to improve productivity and safety and lower costs.",
+    "url": "https://pronto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AHS is as simple as driving from A to B. Pronto’s software learns a haul route from a mining operator driving a vehicle manually on the desired route, just one time. Operators then dispatch trucks to saved routes from their smartphones via Pronto’s easy-to-operate mobile app.",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "To meet the rigid safety requirements of mine operators, Pronto’s turnkey software+hardware system enables protection that includes:",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Precise situational awareness",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "to actuate any vehicle with precision",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Easily programmable software",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "provided in all manually operated equipment that interact with our AHS",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Our rugged, proven system is fully cognizant of its surroundings day or night, regardless of weather or season, with a layered, redundant safety system platform. Reduce accidents, fender benders, and scrapes to lower insurance and minimize body corrosion.",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Pronto is OEM, vehicle, and application agnostic. It can be used in various off-road applications and power trains as well as on class 8 haulers and support vehicles.",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve Operational Efficiency",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Our over-the-air software updates and system upgradability allows constant improvement without physical maintenance. Your operations will get smarter and more efficient automatically.",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximizes fuel mileage with a smooth application of throttle and a strict adherence to speed limits. We provide consistent vehicle speeds which can ease congestion in the queuing process and reduce idling and truck waiting time.",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Pronto’s convenient smartphone app does away with the need for a complex, expensive AHS control room while still providing:",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed to respond to unpredictable events in high-traffic environments",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "We deliver safe, proven autonomous haulage",
+    "url": "https://pronto.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Pronto was founded in 2018 and in that same year became the first and only system to drive coast-to-coast – from San Francisco to New York City – without a single driver input.",
+    "url": "https://pronto.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Combined with seamless integration, ease of use, and a practical, iterative approach, we work with you every step of the way. This new model for advanced technology deployment is cost-effective and pragmatic, making Pronto the safest and best value autonomous haulage system, period.",
+    "url": "https://pronto.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "An industry prodigy, excels in all areas of AI development and deployment; Lucid, Ford, MS University of Michigan – Electrical Engineering and Control Systems, specializing in autonomous vehicle control",
+    "url": "https://pronto.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "テレビの先にある新たなリーチ サテライトオフィスがPrime Video広告を選んだ理由",
+    "url": "https://forbesjapan.com/articles/detail/53074",
+    "pass": 3
+   },
+   {
+    "quote": "移動時間の価値を高める──JR東海が「Supreme Class」に込めた思い",
+    "url": "https://forbesjapan.com/articles/detail/53074",
+    "pass": 3
+   },
+   {
+    "quote": "経営企画部 広報企画課 宮原 e-Mail：macpr@macnica.co.jp",
+    "url": "https://www.macnica.co.jp/business/maas/news/2020/134871/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.softcreate.co.jp/safeai/gateway/service/sag-onpremise",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "・視度調整内蔵でSwitch 2も美麗にプレイできた＝5万円で買えるARグラス「VITURE Pro 2」実機レビュー",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "Win＋Qで何ができるか知っている？ Windows 11 Proを使いこなすなら絶対知っておくべき3大機能",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "デザインも機能も大幅進化した定番スマートウォッチ！ ファーウェイ「HUAWEI WATCH GT 7 Pro」を詳細レビュー",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "CIO フラットスパイラルケーブル CtoC (Type-C/USB-C) PD 急速充電 平型 磁石 マグネット吸着 まとまる 充電ケーブル PD 240W データ転送 480Mbps 形状記憶 iPhone 17 / 16 / 15 Macbook Pro/Air/iPad用/ノートパソコン Galaxy Google Pixel Android (ライトブラック, 1.5m)",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "Anker USB Type C ケーブル PowerLine USB-C & USB-A 3.0 ケーブル iPhone 17 / 16 / 15 /Xperia/Galaxy/LG/iPad Pro/MacBook その他 Android 等 USB-C機器対応 テレワーク リモート 在宅勤務 0.9m ホワイト",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "Anker Zolo USB-C & USB-C ケーブル (240W, 高耐久ナイロン) 1.8m ブラック iPhone 17 / 16 / 15 Galaxy iPad Pro MacBook Pro/Air 各種対応",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "Anker iPhone充電ケーブル PowerLine II ライトニングケーブル MFi認証 超高耐久 iPhone 14 / 14 Pro Max / 14 Plus / 13 / 13 Pro / 12 / 11 / X/XS/XR / 8 Plus 各種対応 (0.9m ホワイト)",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "【お詫びと訂正】週刊アスキー特別編集 週アス2026April（2026年3月23日発売）につきまして",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "Rio Tinto approves US$144 million investment to advance Resolution Copper project",
+    "url": "https://www.globalminingreview.com/finance-business/27102021/safeai-launches-in-japan-and-india/",
+    "pass": 3
+   },
+   {
+    "quote": "6 letters. No hyphens. Perfectly pronounceable. Instantly memorable in any language.",
+    "url": "https://safeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "From Congressional hearings to EU AI Act compliance, every major AI company faces the same challenge: proving they can be trusted. safeai.com positions your brand at the vanguard of responsible AI — before a competitor does.",
+    "url": "https://safeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise AI Platforms",
+    "url": "https://safeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Government & Defense AI Programs",
+    "url": "https://safeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“We have seen and experienced deploying autonomous mining truck in production for last 10 years,” explained SafeAI Founder and CEO, Bibhrajit Halder in an email. “Now it’s time to take it to next level. At SafeAI, we are super excited to built the future of autonomous mine by creating autonomous mining equipment that just works.”",
+    "url": "https://techcrunch.com/2019/06/18/safeai-raises-5m-to-develop-and-deploy-autonomy-for-mining-and-construction-vehicles/",
+    "pass": 3
+   },
+   {
+    "quote": "Writer covering space, science and health tech. Formerly covering automotive and mobility tech, and previously an employee of Apple and also of Shopify.",
+    "url": "https://techcrunch.com/2019/06/18/safeai-raises-5m-to-develop-and-deploy-autonomy-for-mining-and-construction-vehicles/",
+    "pass": 3
+   },
+   {
+    "quote": "Microprocessors / SoCs",
+    "url": "https://www.therobotreport.com/safeai-brings-in-38m-for-construction-retrofit-kits/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how your comment data is processed.",
+    "url": "https://www.therobotreport.com/safeai-brings-in-38m-for-construction-retrofit-kits/",
+    "pass": 3
+   },
+   {
+    "quote": "Why predictive maintenance matters more as factories add robots",
+    "url": "https://www.therobotreport.com/safeai-brings-in-38m-for-construction-retrofit-kits/",
+    "pass": 3
+   },
+   {
+    "quote": "Get the latest info on technologies, tools and strategies for Robotics Professionals.",
+    "url": "https://www.therobotreport.com/safeai-brings-in-38m-for-construction-retrofit-kits/",
+    "pass": 3
+   },
+   {
+    "quote": "WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions",
+    "url": "https://www.therobotreport.com/safeai-brings-in-38m-for-construction-retrofit-kits/",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto.ai Acquires SafeAI: A Strategic Consolidation to Dominate Off-Road Autonomous Driving｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto.ai Acquires SafeAI: A Strategic Consolidation to Dominate Off-Road Autonomous Driving",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", a competitor in the same field. This article provides a professional yet accessible explanation of the background and purpose of this acquisition, technical differences, industry impact, and future prospects.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", absorbing approximately 12 engineers and the company's intellectual property. According to TechCrunch, the acquisition price is in the \"multi-million dollar\" range.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The primary objective of the terms was the \"acquisition of technology and talent,\" which is part of strengthening resources essential for a startup.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the field of off-road Autonomous Haulage Systems (AHS), there were primarily two major players: Pronto.ai and SafeAI. This acquisition has created a structure where Pronto clearly holds the lead.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2. Differences in Technical Approaches and Integration Strategy",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2-1. Pronto.ai's Camera-Centric Approach",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "provides AHS that can be deployed quickly and at low cost by using cameras and GNSS (satellite positioning) on existing heavy machinery.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "With its proprietary communication network called Pollen Mobile, it can be used even at sites without established communication infrastructure.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2-2. SafeAI's Multi-Sensor-Centric Approach",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "adopts a multi-sensor approach that combines not only cameras but also radar and LiDAR to enhance safety and robustness.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "will offer a two-tiered structure: an economy tier using only cameras and a premium tier using the SafeAI method. This allows for flexible deployment tailored to customer needs, from small quarries to large-scale mines.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3-1. Progress in Customer Base and Track Record",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "By incorporating SafeAI's technology and talent, international service capabilities are enhanced. Pronto.ai will be able to secure projects in a wider range of regions.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Let's Build a Safe AI Agent Environment Without Getting Discouraged, Even as a Non-Pro! Our Goal to Progress 'One Step a Day' [One Step a Day Antigravity 03]｜タカハシノリアキ",
+    "url": "https://note.com/ntakahashi0505/n/ndc07be6e1ee9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Let's Build a Safe AI Agent Environment Without Getting Discouraged, Even as a Non-Pro! Our Goal to Progress 'One Step a Day' [One Step a Day Antigravity 03]",
+    "url": "https://note.com/ntakahashi0505/n/ndc07be6e1ee9?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Pronto delivers off-road autonomous haulage systems (AHS) specifically engineered for a variety of rugged environments. Complex industrial sites like mines and quarries rely on Pronto’s AHS to improve productivity and safety and lower costs.",
+    "url": "https://pronto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AHS is as simple as driving from A to B. Pronto’s software learns a haul route from a mining operator driving a vehicle manually on the desired route, just one time. Operators then dispatch trucks to saved routes from their smartphones via Pronto’s easy-to-operate mobile app.",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "To meet the rigid safety requirements of mine operators, Pronto’s turnkey software+hardware system enables protection that includes:",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Writer covering space, science and health tech. Formerly covering automotive and mobility tech, and previously an employee of Apple and also of Shopify.",
+    "url": "https://techcrunch.com/2019/06/18/safeai-raises-5m-to-develop-and-deploy-autonomy-for-mining-and-construction-vehicles/",
+    "pass": 3
+   },
+   {
+    "quote": "Automated Warehouse Research Reports",
+    "url": "https://www.therobotreport.com/safeai-brings-in-38m-for-construction-retrofit-kits/",
+    "pass": 3
+   },
+   {
+    "quote": "SafeAI’s retrofit kits equip aftermarket vehicles and fleets with autonomous capabilities, regardless of manufacturer or vehicle type.",
+    "url": "https://www.therobotreport.com/safeai-brings-in-38m-for-construction-retrofit-kits/",
+    "pass": 3
+   },
+   {
+    "quote": "Why predictive maintenance matters more as factories add robots",
+    "url": "https://www.therobotreport.com/safeai-brings-in-38m-for-construction-retrofit-kits/",
+    "pass": 3
+   },
+   {
+    "quote": "Notably, its safety framework has achieved ISO standard ASIL D (the highest level of Automotive Safety Integrity Level).",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "4. Industrial Significance and Impact",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In quarries and mines where securing heavy machinery operators is difficult, autonomous driving directly contributes to alleviating labor shortages and reducing operator fatigue.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Pronto delivers off-road autonomous haulage systems (AHS) specifically engineered for a variety of rugged environments. Complex industrial sites like mines and quarries rely on Pronto’s AHS to improve productivity and safety and lower costs.",
+    "url": "https://pronto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "safeai.com - Domain Acquisition",
+    "url": "https://safeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Inquire About Acquisition",
+    "url": "https://safeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "This acquisition is designed for organizations operating at the highest level of AI development.",
+    "url": "https://safeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Recent high-tier AI and legacy asset acquisitions.",
+    "url": "https://safeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mergers & Acquisitions",
+    "url": "https://www.therobotreport.com/safeai-brings-in-38m-for-construction-retrofit-kits/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2022, Safe AI announced partnerships with MACA to deploy 100 mining trucks, Siemens on a collaboration for vehicle electrification and autonomy and Obayashi Corporation, to develop solutions for construction. The company has employees in the U.S., Australia, Japan and India, and was able to more than double its headcount in 2022.",
+    "url": "https://www.therobotreport.com/safeai-brings-in-38m-for-construction-retrofit-kits/",
+    "pass": 3
+   },
+   {
+    "quote": ", a startup developing autonomous driving systems specialized for off-road environments such as quarries and mines, announced on July 15, 2025, that it has acquired",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", a competitor in the same field. This article provides a professional yet accessible explanation of the background and purpose of this acquisition, technical differences, industry impact, and future prospects.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Overview and Background of the Acquisition",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. Acquisition Details and Terms",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", absorbing approximately 12 engineers and the company's intellectual property. According to TechCrunch, the acquisition price is in the \"multi-million dollar\" range.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The primary objective of the terms was the \"acquisition of technology and talent,\" which is part of strengthening resources essential for a startup.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the field of off-road Autonomous Haulage Systems (AHS), there were primarily two major players: Pronto.ai and SafeAI. This acquisition has created a structure where Pronto clearly holds the lead.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "After the acquisition,",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "will offer a two-tiered structure: an economy tier using only cameras and a premium tier using the SafeAI method. This allows for flexible deployment tailored to customer needs, from small quarries to large-scale mines.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3. Market Expansion and International Strategy Through Acquisition",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "has implemented autonomous driving technology on Komatsu dump trucks at the Bridgeport quarry in Texas and continues its partnership with Heidelberg Materials North America (a construction materials company).",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In quarries and mines where securing heavy machinery operators is difficult, autonomous driving directly contributes to alleviating labor shortages and reducing operator fatigue.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto.ai's acquisition of SafeAI is a",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "▼ Click here for \"Learn with Illustrations: Google Apps Script for First-Year Employees,\" released on 2/20",
+    "url": "https://note.com/ntakahashi0505/n/ndc07be6e1ee9?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Pronto is OEM, vehicle, and application agnostic. It can be used in various off-road applications and power trains as well as on class 8 haulers and support vehicles.",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "In a landscape of regulatory scrutiny, public trust, and trillion-dollar stakes, your brand's commitment to safety isn't just a value — it's your competitive moat.",
+    "url": "https://safeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "From Congressional hearings to EU AI Act compliance, every major AI company faces the same challenge: proving they can be trusted. safeai.com positions your brand at the vanguard of responsible AI — before a competitor does.",
+    "url": "https://safeai.com/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Safe AI Gateway | 企業向け生成AIを「安全・簡単」に導入 | 株式会社ソフトクリエイト",
+    "url": "https://www.softcreate.co.jp/solution/ax/safeai/gateway",
+    "pass": 3
+   },
+   {
+    "quote": "大林組が採用の「重機の自動化」テクノロジーのSafeAIが50億円調達 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/53074",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像",
+    "url": "https://forbesjapan.com/articles/detail/53074",
+    "pass": 3
+   },
+   {
+    "quote": "上智大学×タキヒヨーの共創が生んだサステナブルTシャツ――「TOKYOエシカル」がつなぐ新たな可能性",
+    "url": "https://forbesjapan.com/articles/detail/53074",
+    "pass": 3
+   },
+   {
+    "quote": "100年続くホテルが、100年先の森を育てる理由──「東京ステーションホテル」が未来へつなぐもの",
+    "url": "https://forbesjapan.com/articles/detail/53074",
+    "pass": 3
+   },
+   {
+    "quote": "KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来",
+    "url": "https://forbesjapan.com/articles/detail/53074",
+    "pass": 3
+   },
+   {
+    "quote": "SafeAIは、シーメンスと共同で日本の大林組の自律走行トラックと電気自動車（EV）のフリートを構築し、採掘請負大手のMACAとの契約では100台の採掘トラックを配備している",
+    "url": "https://forbesjapan.com/articles/detail/53074",
+    "pass": 3
+   },
+   {
+    "quote": "SafeAIは今年、従業員数を以前の2倍以上の90人強に増やし、オーストラリアのパースや日本の東京、インドのデリーにオフィスを構えている",
+    "url": "https://forbesjapan.com/articles/detail/53074",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPANの最新のニュースをお届けします",
+    "url": "https://forbesjapan.com/articles/detail/53074",
+    "pass": 3
+   },
+   {
+    "quote": "半導体、ネットワーク、サイバーセキュリティ、AI/IoTにおけるトータルサービス/ソリューション・プロバイダーの株式会社マクニカ（以下マクニカ、本社所在地：神奈川県横浜市、代表取締役社長：原 一将、資本金111億94百万円）は、米国SafeAI, Inc.（以下SafeAI、本社所在地：米国カリフォルニア州、CEO：Bibhrajit Halder）と、日本国内におけるパートナーシップを締結し、建設機械自動化のためのトータルソリューションを提供いたします",
+    "url": "https://www.macnica.co.jp/business/maas/news/2020/134871/",
+    "pass": 3
+   },
+   {
+    "quote": "少子高齢化が進み、作業員の平均年齢が急速に上昇している日本においては、特に影響が大きくなっています",
+    "url": "https://www.macnica.co.jp/business/maas/news/2020/134871/",
+    "pass": 3
+   },
+   {
+    "quote": "※本文中に記載の社名及び製品名は、株式会社マクニカおよび各社の商標または登録商標です",
+    "url": "https://www.macnica.co.jp/business/maas/news/2020/134871/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マクニカ モビリティソリューション事業部",
+    "url": "https://www.macnica.co.jp/business/maas/news/2020/134871/",
+    "pass": 3
+   },
+   {
+    "quote": "Safe AI Insights｜日本語指示でデータ連携・マスタ統合を自動化 | 株式会社ソフトクリエイト",
+    "url": "https://www.softcreate.co.jp/solution/ax/safeai/insights",
+    "pass": 3
+   },
+   {
+    "quote": "“正しいデータ”が“自動でつながる”環境を、日本語の指示だけでAIが構築します",
+    "url": "https://www.softcreate.co.jp/solution/ax/safeai/insights",
+    "pass": 3
+   },
+   {
+    "quote": "日本語指示でデータ連携・加工・変換を自動化するデータ連携基盤です",
+    "url": "https://www.softcreate.co.jp/solution/ax/safeai/insights",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の指示で、",
+    "url": "https://www.softcreate.co.jp/solution/ax/safeai/insights",
+    "pass": 3
+   },
+   {
+    "quote": "日本語でデータ連携の仕様を定義できるため、専門スキルへの依存を大幅に削減できます",
+    "url": "https://www.softcreate.co.jp/solution/ax/safeai/insights",
+    "pass": 3
+   },
+   {
+    "quote": "連携ロジックが日本語定義として残るため、ブラックボックス化を防ぎ、引き継ぎしやすくなります",
+    "url": "https://www.softcreate.co.jp/solution/ax/safeai/insights",
+    "pass": 3
+   },
+   {
+    "quote": "日本語定義が仕様として残るため、専門スキルへの依存を減らし、担当者が変わっても引き継ぎやすい運用を実現します",
+    "url": "https://www.softcreate.co.jp/solution/ax/safeai/insights",
+    "pass": 3
+   },
+   {
+    "quote": "日本語定義が残るため、引き継ぎが容易",
+    "url": "https://www.softcreate.co.jp/solution/ax/safeai/insights",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ソフトクリエイト（本社：東京都渋谷区／代表取締役社長：林 宗治、以下 ソフトクリエイト）は、企業・団体向け生成AIサービス「Safe AI Gateway オンプレミス」を2025年3月25日（火）にリリースいたします",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "40年以上にわたり、お客様と共に培った経験を生かし、日本全国の企業へサービスを届けていきます",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "所在地：〒150-0002 東京都渋谷区渋谷 2 丁目 15 番 1 号 渋谷クロスタワー",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "マイクロソフトが日本の警察庁と連携、中国系の詐欺インフラを無力化",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "・マイクロソフトが日本の警察庁と連携、中国系の詐欺インフラを無力化",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "軽くて頑丈な1kgパソコンが誕生！ 日本起点、世界基準で開発した新世代のノートパソコン「HP EliteBook 8 G2iW 14」とは？",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "【会場レポート】スポーツエンターテインメントの観戦体験をより楽しくする、アルバルク東京とZoom AIの取り組み",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "「学生フォーミュラ日本大会2026」で総合3位の快挙！",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "2027年には東名阪ルートの容量拡大と冗長化、大阪－福岡間の西日本ルートも完成へ",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "国内バックボーンNWを大幅増強したColt 東京－大阪間の低遅延サービスも提供へ",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "SafeAI launches in Japan and India | Global Mining Review",
+    "url": "https://www.globalminingreview.com/finance-business/27102021/safeai-launches-in-japan-and-india/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2022, Safe AI announced partnerships with MACA to deploy 100 mining trucks, Siemens on a collaboration for vehicle electrification and autonomy and Obayashi Corporation, to develop solutions for construction. The company has employees in the U.S., Australia, Japan and India, and was able to more than double its headcount in 2022.",
+    "url": "https://www.therobotreport.com/safeai-brings-in-38m-for-construction-retrofit-kits/",
+    "pass": 3
+   },
+   {
+    "quote": "Safe AI Utilization with M365 Copilot! ⚠ Points to Note Regarding Personal Information Leakage｜協立情報通信株式会社 教育チーム",
+    "url": "https://note.com/kccnet/n/n91834832743e?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "経営企画部 広報企画課 宮原 e-Mail：macpr@macnica.co.jp",
+    "url": "https://www.macnica.co.jp/business/maas/news/2020/134871/",
+    "pass": 3
+   },
+   {
+    "quote": "“We have seen and experienced deploying autonomous mining truck in production for last 10 years,” explained SafeAI Founder and CEO, Bibhrajit Halder in an email. “Now it’s time to take it to next level. At SafeAI, we are super excited to built the future of autonomous mine by creating autonomous mining equipment that just works.”",
+    "url": "https://techcrunch.com/2019/06/18/safeai-raises-5m-to-develop-and-deploy-autonomy-for-mining-and-construction-vehicles/",
+    "pass": 3
+   },
+   {
+    "quote": "Example: Name, date of birth, email address, My Number, etc.",
+    "url": "https://note.com/kccnet/n/n91834832743e?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SafeAI と大林組が 日本 の建設現場で自律走行車を稼働 — SafeAI と大林組が 日本 の建設現場で自律走行車を稼働 GlobeNewswire https://www.globenewswire.com > 2022/07/26 > safeaiと...",
+    "url": "https://www.globenewswire.com/news-release/2022/07/26/2485473/0/ja/safeai%E3%81%A8%E5%A4%A7%E6%9E%97%E7%B5%84%E3%81%8C%E6%97%A5%E6%9C%AC%E3%81%AE%E5%BB%BA%E8%A8%AD%E7%8F%BE%E5%A0%B4%E3%81%A7%E8%87%AA%E5%BE%8B%E8%B5%B0%E8%A1%8C%E8%BB%8A%E3%82%92%E7%A8%BC%E5%83%8D.html",
+    "pass": 3
+   },
+   {
+    "quote": "Safe AI Gateway | 企業向け生成AIを「安全・簡単」に 導入 — Safe AI Gateway | 企業向け生成AIを「安全・簡単」に 導入 ソフトクリエイト https://www.softcreate.co.jp > ... > Safe AI Gateway",
+    "url": "https://www.softcreate.co.jp/solution/ax/safeai/gateway",
+    "pass": 3
+   },
+   {
+    "quote": "大林組が採用の「重機の自動化」テクノロジーの SafeAI が50億 ... — 大林組が採用の「重機の自動化」テクノロジーの SafeAI が50億 ... Forbes JAPAN https://forbesjapan.com > テクノロジー",
+    "url": "https://forbesjapan.com/articles/detail/53074",
+    "pass": 3
+   },
+   {
+    "quote": "米国 SafeAI 社と戦略的パートナーシップを締結 ～建設機械 ... — 米国 SafeAI 社と戦略的パートナーシップを締結 ～建設機械 ... 株式会社マクニカ https://www.macnica.co.jp > ... > 最新情報",
+    "url": "https://www.macnica.co.jp/business/maas/news/2020/134871/",
+    "pass": 3
+   },
+   {
+    "quote": "重機の自動運転による安全な建設現場！ SafeAI が挑む ... — 重機の自動運転による安全な建設現場！ SafeAI が挑む ... contech.jp https://contech.jp > 海外事例",
+    "url": "https://contech.jp/safeai/",
+    "pass": 3
+   },
+   {
+    "quote": "Safe AI Gateway | 企業向け生成AIを「安全・簡単」に導入 — Safe AI Gateway | 企業向け生成AIを「安全・簡単」に導入 ソフトクリエイト https://www.softcreate.co.jp > ... > Safe AI Gateway",
+    "url": "https://www.softcreate.co.jp/solution/ax/safeai/gateway",
+    "pass": 3
+   },
+   {
+    "quote": "SafeAI ジャパン合同会社 閉鎖 - アラームボックス — SafeAI ジャパン合同会社 閉鎖 - アラームボックス alarmbox.jp https://alarmbox.jp > アラームボックス企業情報 > 東京都",
+    "url": "https://alarmbox.jp/companyinfo/entities/3010003035972",
+    "pass": 3
+   },
+   {
+    "quote": "Safe AI Insights が データ連携とマスタ統合を自動化 — Safe AI Insights が データ連携とマスタ統合を自動化 ソフトクリエイト https://www.softcreate.co.jp > solution > safeai > insights",
+    "url": "https://www.softcreate.co.jp/solution/ax/safeai/insights",
+    "pass": 3
+   },
+   {
+    "quote": "企業・団体向け生成AI「Safe AI Gateway オンプレミス」を ... — 企業・団体向け生成AI「Safe AI Gateway オンプレミス」を ... ASCII.jp https://ascii.jp > elem",
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "pass": 3
+   },
+   {
+    "quote": "企業・団体向け生成AI「Safe AI Gateway」がAPI連携機能を ... — 企業・団体向け生成AI「Safe AI Gateway」がAPI連携機能を ... PR TIMES https://prtimes.jp > 商品サービス",
+    "url": "https://prtimes.jp/main/html/rd/p/000000036.000012489.html",
+    "pass": 3
+   },
+   {
+    "quote": "SafeAI (now part of Pronto) - LinkedIn — SafeAI (now part of Pronto) - LinkedIn LinkedIn https://jp.linkedin.com > company > safeai",
+    "url": "https://jp.linkedin.com/company/safeai",
+    "pass": 3
+   },
+   {
+    "quote": "SafeAI launches in Japan and India - Global Mining Review — SafeAI launches in Japan and India - Global Mining Review Global Mining Review https://www.globalminingreview.com > ...",
+    "url": "https://www.globalminingreview.com/finance-business/27102021/safeai-launches-in-japan-and-india/",
+    "pass": 3
+   },
+   {
+    "quote": "safeai .com - Domain Acquisition — safeai .com - Domain Acquisition safeai.com https://safeai.com",
+    "url": "https://safeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SafeAI - BuiltWorlds — SafeAI - BuiltWorlds BuiltWorlds https://builtworlds.com > safeai",
+    "url": "https://builtworlds.com/companies/safeai/",
+    "pass": 3
+   },
+   {
+    "quote": "SafeAI - Crunchbase Company Profile & Funding — SafeAI - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > safeai",
+    "url": "https://www.crunchbase.com/organization/safeai",
+    "pass": 3
+   },
+   {
+    "quote": "SafeAI raises $5M to develop and deploy autonomy for mining ... — SafeAI raises $5M to develop and deploy autonomy for mining ... TechCrunch https://techcrunch.com > 2019/06/18",
+    "url": "https://techcrunch.com/2019/06/18/safeai-raises-5m-to-develop-and-deploy-autonomy-for-mining-and-construction-vehicles/",
+    "pass": 3
+   },
+   {
+    "quote": "SafeAI , Inc. Information - RocketReach — SafeAI , Inc. Information - RocketReach RocketReach https://rocketreach.co > safeai-inc-pro...",
+    "url": "https://rocketreach.co/safeai-inc-profile_b455d9b5fc94d773",
+    "pass": 3
+   },
+   {
+    "quote": "SafeAI brings in $38M for construction retrofit kits — SafeAI brings in $38M for construction retrofit kits The Robot Report https://www.therobotreport.com > saf...",
+    "url": "https://www.therobotreport.com/safeai-brings-in-38m-for-construction-retrofit-kits/",
+    "pass": 3
+   },
+   {
+    "quote": "Safe AI - 2026 Company Profile, Team, Funding & Competitors — Safe AI - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/safe-ai/__2kwKx3tCVcUslXks21NxXbsB0rsHKebZhqnXThSNslk",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Pronto.ai Acquires SafeAI : A Strategic Consolidation to ... - note Pronto.ai Acquires SafeAI : A Strategic Consolidation to ... - note note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Let's Build a Safe AI Agent Environment Without Getting ... - note Let's Build a Safe AI Agent Environment Without Getting ... - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/ntakahashi0505/n/ndc07be6e1ee9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Safe AI Utilization with M365 Copilot! Points to Note ... Safe AI Utilization with M365 Copilot! Points to Note ... note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/kccnet/n/n91834832743e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPT／Copilot／ Safe AI Gatewayを比較。生成AIツール ... ChatGPT／Copilot／ Safe AI Gatewayを比較。生成AIツール ... note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/fine_duck830/n/n3a5acfefa371",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Pronto.ai Acquires SafeAI: A Strategic Consolidation to Dominate Off-Road Autonomous Driving｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto.ai Acquires SafeAI: A Strategic Consolidation to Dominate Off-Road Autonomous Driving",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", a startup developing autonomous driving systems specialized for off-road environments such as quarries and mines, announced on July 15, 2025, that it has acquired",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", a competitor in the same field. This article provides a professional yet accessible explanation of the background and purpose of this acquisition, technical differences, industry impact, and future prospects.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Overview and Background of the Acquisition",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. Acquisition Details and Terms",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Let's Build a Safe AI Agent Environment Without Getting Discouraged, Even as a Non-Pro! Our Goal to Progress 'One Step a Day' [One Step a Day Antigravity 03]｜タカハシノリアキ",
+    "url": "https://note.com/ntakahashi0505/n/ndc07be6e1ee9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/ntakahashi0505/n/ndc07be6e1ee9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Let's Build a Safe AI Agent Environment Without Getting Discouraged, Even as a Non-Pro! Our Goal to Progress 'One Step a Day' [One Step a Day Antigravity 03]",
+    "url": "https://note.com/ntakahashi0505/n/ndc07be6e1ee9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello! This is Noriaki Takahashi.",
+    "url": "https://note.com/ntakahashi0505/n/ndc07be6e1ee9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "One Step a Day! Understanding Antigravity IDE Through Audio",
+    "url": "https://note.com/ntakahashi0505/n/ndc07be6e1ee9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ",\" I am gently sharing the steps for non-engineers to build their own writing environment, one step at a time, using the free development tool Antigravity IDE, starting from the basics of AI agents.",
+    "url": "https://note.com/ntakahashi0505/n/ndc07be6e1ee9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Last time, I talked about the overall picture, including what Antigravity IDE is in the first place and the difference between instruction-waiting chat-type AI and autonomously operating agent-type AI.",
+    "url": "https://note.com/ntakahashi0505/n/ndc07be6e1ee9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, I will explain in detail about the \"",
+    "url": "https://note.com/ntakahashi0505/n/ndc07be6e1ee9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Safe AI Utilization with M365 Copilot! ⚠ Points to Note Regarding Personal Information Leakage｜協立情報通信株式会社 教育チーム",
+    "url": "https://note.com/kccnet/n/n91834832743e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/kccnet/n/n91834832743e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Safe AI Utilization with M365 Copilot! ⚠ Points to Note Regarding Personal Information Leakage",
+    "url": "https://note.com/kccnet/n/n91834832743e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I am M.U. from the Education Team at Kyoritsu Information & Communication Co., Ltd.🌻",
+    "url": "https://note.com/kccnet/n/n91834832743e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Recently, the number of free AI tools has increased, and many people are now using AI in their work for research and proofreading. However, when using AI, it is necessary to be very careful about the \"leakage of personal information.\" In this article, I will introduce some points to keep in mind for using AI safely.",
+    "url": "https://note.com/kccnet/n/n91834832743e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "* This article was created with reference to",
+    "url": "https://note.com/kccnet/n/n91834832743e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Alerts regarding the use of generative AI services | Personal Information Protection Commission",
+    "url": "https://note.com/kccnet/n/n91834832743e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is personal information?",
+    "url": "https://note.com/kccnet/n/n91834832743e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPT／Copilot／Safe AI Gatewayを比較。生成AIツール選びのポイントを解説｜北英59",
+    "url": "https://note.com/fine_duck830/n/n3a5acfefa371",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPT／Copilot／Safe AI Gatewayを比較。生成AIツール選びのポイントを解説",
+    "url": "https://note.com/fine_duck830/n/n3a5acfefa371",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPTは、幅広い作業を相談しながら進める候補",
+    "url": "https://note.com/fine_duck830/n/n3a5acfefa371",
+    "pass": 3
+   },
+   {
+    "quote": "Copilotは、Microsoft 365での仕事の流れを見る",
+    "url": "https://note.com/fine_duck830/n/n3a5acfefa371",
+    "pass": 3
+   },
+   {
+    "quote": "Safe AI Gatewayは、社内データと運用設計を見る",
+    "url": "https://note.com/fine_duck830/n/n3a5acfefa371",
+    "pass": 3
+   },
+   {
+    "quote": "まとめ｜「一番のAI」より「自社で使い続けられるAI」",
+    "url": "https://note.com/fine_duck830/n/n3a5acfefa371",
+    "pass": 3
+   },
+   {
+    "quote": "「会社でも生成AIを使いたい。でも、結局どれを選べばいいのだろう」",
+    "url": "https://note.com/fine_duck830/n/n3a5acfefa371",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPT、Copilot、Safe AI Gateway。名前を並べても、違いがすぐ分かるとは限りません。文章が上手なものを選べばよいのか、普段の業務ツールに合わせるのか。情報の扱いも気になります。",
+    "url": "https://note.com/fine_duck830/n/n3a5acfefa371",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "# safeai - Search / X # safeai - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/safeai?src=hashtag_click",
+    "pass": 3
+   },
+   {
+    "quote": "ELSA - European Lighthouse on Secure and Safe AI - X ELSA - European Lighthouse on Secure and Safe AI - X X https://x.com > elsa_lighthouse",
+    "url": "https://x.com/elsa_lighthouse",
+    "pass": 3
+   },
+   {
+    "quote": "London Initiative for Safe AI (@LondonSafeAI) / X London Initiative for Safe AI (@LondonSafeAI) / X X https://x.com > LondonSafeAI",
+    "url": "https://x.com/LondonSafeAI",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SafeAI (now part of Pronto) - LinkedIn SafeAI (now part of Pronto) - LinkedIn LinkedIn https://www.linkedin.com > safeai",
+    "url": "https://www.linkedin.com/company/safeai",
+    "pass": 3
+   },
+   {
+    "quote": "SafeAI | LinkedIn SafeAI | LinkedIn LinkedIn https://il.linkedin.com > safeaiapp",
+    "url": "https://il.linkedin.com/company/safeaiapp",
+    "pass": 3
+   },
+   {
+    "quote": "SafeAI Singapore | LinkedIn SafeAI Singapore | LinkedIn LinkedIn https://www.linkedin.com > safeai-sg",
+    "url": "https://www.linkedin.com/company/safeai-sg",
+    "pass": 3
+   },
+   {
+    "quote": "SAFE AI - LinkedIn SAFE AI - LinkedIn LinkedIn https://www.linkedin.com > safe-ai",
+    "url": "https://www.linkedin.com/company/safe-ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Safe AI Philippines (@safeaiphilippines) - Facebook Safe AI Philippines (@safeaiphilippines) - Facebook Facebook https://www.facebook.com > ... > Interest > Science & Tech",
+    "url": "https://www.facebook.com/safeaiphilippines/",
+    "pass": 3
+   },
+   {
+    "quote": "Safeai Youth Initiative | Mombasa - Facebook Safeai Youth Initiative | Mombasa - Facebook Facebook https://www.facebook.com > Safeai-Youth-Initiative-6159...",
+    "url": "https://www.facebook.com/p/Safeai-Youth-Initiative-61594233815903/",
+    "pass": 3
+   },
+   {
+    "quote": "The SAFE AI Launch Experience, held this weekend in ... The SAFE AI Launch Experience, held this weekend in ... Facebook https://www.facebook.com > guardianng > posts > the-saf...",
+    "url": "https://www.facebook.com/guardianng/posts/the-safe-ai-launch-experience-held-this-weekend-in-springfield-missouri-delivere/1413460910141335/",
+    "pass": 3
+   },
+   {
+    "quote": "Safe AI Learning America | New York NY - Facebook Safe AI Learning America | New York NY - Facebook Facebook https://www.facebook.com > ... > Education website",
+    "url": "https://www.facebook.com/p/Safe-AI-Learning-America-61581472109781/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://pronto.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pronto.ai/solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pronto.ai/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.globenewswire.com/news-release/2022/07/26/2485473/0/ja/safeai%E3%81%A8%E5%A4%A7%E6%9E%97%E7%B5%84%E3%81%8C%E6%97%A5%E6%9C%AC%E3%81%AE%E5%BB%BA%E8%A8%AD%E7%8F%BE%E5%A0%B4%E3%81%A7%E8%87%AA%E5%BE%8B%E8%B5%B0%E8%A1%8C%E8%BB%8A%E3%82%92%E7%A8%BC%E5%83%8D.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softcreate.co.jp/solution/ax/safeai/gateway",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/53074",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/business/maas/news/2020/134871/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softcreate.co.jp/solution/ax/safeai/gateway",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alarmbox.jp/companyinfo/entities/3010003035972",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.softcreate.co.jp/solution/ax/safeai/insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ascii.jp/elem/000/004/259/4259108/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/safeai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.globalminingreview.com/finance-business/27102021/safeai-launches-in-japan-and-india/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.softcreate.co.jp/solution/ax/safeai/insights",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://safeai.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://f7i.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thirdeyedata.ai/case-studies/manufacturing-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nist.gov/blogs/manufacturing-innovation-blog/artificial-intelligence-manufacturing-real-world-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eightgen.ai/case-studies/case-study-4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agencyplatform.com/seo-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://customgpt.ai/white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/safeai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://techcrunch.com/2019/06/18/safeai-raises-5m-to-develop-and-deploy-autonomy-for-mining-and-construction-vehicles/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/safeai-inc-profile_b455d9b5fc94d773",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.therobotreport.com/safeai-brings-in-38m-for-construction-retrofit-kits/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ntakahashi0505/n/ndc07be6e1ee9?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kccnet/n/n91834832743e?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fine_duck830/n/n3a5acfefa371",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/safeai?src=hashtag_click",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/elsa_lighthouse",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LondonSafeAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/safeai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/company/safeaiapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/safeai-sg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/safe-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/safeaiphilippines/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Safeai-Youth-Initiative-61594233815903/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/guardianng/posts/the-safe-ai-launch-experience-held-this-weekend-in-springfield-missouri-delivere/1413460910141335/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Safe-AI-Learning-America-61581472109781/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SafeAI 日本 導入",
+   "results": [
+    "https://www.globenewswire.com/news-release/2022/07/26/2485473/0/ja/safeai%E3%81%A8%E5%A4%A7%E6%9E%97%E7%B5%84%E3%81%8C%E6%97%A5%E6%9C%AC%E3%81%AE%E5%BB%BA%E8%A8%AD%E7%8F%BE%E5%A0%B4%E3%81%A7%E8%87%AA%E5%BE%8B%E8%B5%B0%E8%A1%8C%E8%BB%8A%E3%82%92%E7%A8%BC%E5%83%8D.html",
+    "https://www.softcreate.co.jp/solution/ax/safeai/gateway",
+    "https://forbesjapan.com/articles/detail/53074",
+    "https://www.macnica.co.jp/business/maas/news/2020/134871/",
+    "https://contech.jp/safeai/",
+    "https://www.softcreate.co.jp/solution/ax/safeai/insights",
+    "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "https://marketplace.microsoft.com/ja-jp/product/softcreatecorp.safe_ai_gateway",
+    "https://prtimes.jp/main/html/rd/p/000000020.000012489.html",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00142/01197/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "SafeAI 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.softcreate.co.jp/solution/ax/safeai/gateway",
+    "https://alarmbox.jp/companyinfo/entities/3010003035972",
+    "https://www.softcreate.co.jp/solution/ax/safeai/insights",
+    "https://ascii.jp/elem/000/004/259/4259108/",
+    "https://prtimes.jp/main/html/rd/p/000000036.000012489.html",
+    "https://b-seeds.com/business/product/aiit",
+    "https://partner.forcenet.jp/",
+    "https://tigereye.ai/partners/",
+    "https://www.knowleful.ai/partner/",
+    "https://ja.wikipedia.org/wiki/SAPジャパン"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "SafeAI Japan",
+   "results": [
+    "https://jp.linkedin.com/company/safeai",
+    "https://www.globalminingreview.com/finance-business/27102021/safeai-launches-in-japan-and-india/",
+    "https://www.softcreate.co.jp/solution/ax/safeai/insights",
+    "https://safeai.com/",
+    "https://builtworlds.com/companies/safeai/",
+    "https://safeai.today/",
+    "https://www.youtube.com/watch?v=SqZYGUbqZe8",
+    "https://pronto.ai/pronto-acquires-safeai-expanding-leadership-in-off-road-autonomy/",
+    "https://x.com/SafeAIAutonomy",
+    "https://www.dnb.com/business-directory/company-profiles.safe_ai_japan_limited_liability_company.c4271b82c52720987524ba35bee51963.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "SafeAI manufacturing customer case study",
+   "results": [
+    "https://f7i.ai/case-studies",
+    "https://thirdeyedata.ai/case-studies/manufacturing-industry/",
+    "https://www.nist.gov/blogs/manufacturing-innovation-blog/artificial-intelligence-manufacturing-real-world-success-stories",
+    "https://eightgen.ai/case-studies/case-study-4",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://www.intenseye.com/customers/case-studies",
+    "https://safetychain.com/resources/case-studies",
+    "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "https://freshbi.com/case-studies/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "SafeAI white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.agencyplatform.com/seo-reseller-program/",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://customgpt.ai/white-label-software-to-resell/",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://www.agentz.ai/partners",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "SafeAI founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/safeai",
+    "https://techcrunch.com/2019/06/18/safeai-raises-5m-to-develop-and-deploy-autonomy-for-mining-and-construction-vehicles/",
+    "https://rocketreach.co/safeai-inc-profile_b455d9b5fc94d773",
+    "https://www.therobotreport.com/safeai-brings-in-38m-for-construction-retrofit-kits/",
+    "https://tracxn.com/d/companies/safe-ai/__2kwKx3tCVcUslXks21NxXbsB0rsHKebZhqnXThSNslk",
+    "https://www.youtube.com/watch?v=Lo046M-jprs",
+    "https://www.inc.com/kit-eaton/openai-co-founder-raises-1-billion-for-new-safe-ai-startup.html",
+    "https://www.privco.com/company/safeai",
+    "https://www.linkedin.com/posts/markdhirsch_ai-venturecapital-ssi-activity-7488375310418157568-J0TN",
+    "https://compworth.com/company/safeai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com SafeAI",
+   "results": [
+    "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "https://note.com/ntakahashi0505/n/ndc07be6e1ee9?hl=en",
+    "https://note.com/kccnet/n/n91834832743e?hl=en",
+    "https://note.com/fine_duck830/n/n3a5acfefa371",
+    "https://note.com/startuplog/n/nf0a7cff9ad6f",
+    "https://note.com/legit_sorrel1078/n/n48089b396f3a?hl=en",
+    "https://note.com/ai_audit/n/n05f116388dda?hl=en",
+    "https://note.com/biwakonbu/n/n4ace4ed177d9?hl=en",
+    "https://note.com/lucid_pothos8277/n/n4bd5355c570e?hl=en",
+    "https://note.com/startup_now0708/n/ne5ba5e796a5e"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com SafeAI",
+   "results": [
+    "https://x.com/hashtag/safeai?src=hashtag_click",
+    "https://x.com/NorwayUN/status/2115838664374972762",
+    "https://x.com/elsa_lighthouse",
+    "https://x.com/LondonSafeAI",
+    "https://x.com/9aufal/status/2095258220235301356",
+    "https://x.com/velvetatom/status/2117467205994455372",
+    "https://x.com/Bibhra/status/1782862688617472241",
+    "https://x.com/tmiyatake1/status/1945274178539598083",
+    "https://x.com/SecuritiAI/status/2117587692825264256",
+    "https://x.com/safeAI_official"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com SafeAI",
+   "results": [
+    "https://www.linkedin.com/company/safeai",
+    "https://il.linkedin.com/company/safeaiapp",
+    "https://www.linkedin.com/company/safeai-sg",
+    "https://www.linkedin.com/company/safe-ai",
+    "https://www.linkedin.com/pulse/safe-ai-secure-accountable-fair-explainable-systems-earn-sameer-goyal-zdtwc",
+    "https://www.linkedin.com/posts/mpechen_safeaiuai-2026-2nd-workshop-on-safe-ai-activity-7450269991427567617-yYPr",
+    "https://in.linkedin.com/company/safeaiglobal",
+    "https://www.linkedin.com/company/safe-ai-forum",
+    "https://www.linkedin.com/in/bibhrajit",
+    "https://www.linkedin.com/company/safeaiapp"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com SafeAI",
+   "results": [
+    "https://www.facebook.com/safeaiphilippines/",
+    "https://www.facebook.com/p/Safeai-Youth-Initiative-61594233815903/",
+    "https://www.facebook.com/guardianng/posts/the-safe-ai-launch-experience-held-this-weekend-in-springfield-missouri-delivere/1413460910141335/",
+    "https://www.facebook.com/p/Safe-AI-Learning-America-61581472109781/",
+    "https://www.facebook.com/RichlandSC/posts/artificial-intelligence-ai-can-affect-people-of-all-agesrichland-county-neighbor/1589560783214382/",
+    "https://www.facebook.com/watch/hashtag/safeai/",
+    "https://www.facebook.com/sroychowdhury06/videos/safe-ai-is-ai-you-can-trust-as-generative-tools-evolve-guardrails-are-crucial-to/961178717043077/",
+    "https://www.facebook.com/groups/artificialintelligence.lt/posts/25403118315988666/",
+    "https://www.facebook.com/firehouse.technology/posts/safe-ai-is-the-answersafe-ai-is-the-practice-of-using-advanced-artificial-intell/1600143540927276/",
+    "https://www.facebook.com/p/Safeai-Coalition-61580007718446/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "SafeAI note 社長",
+   "results": [
+    "https://note.com/ai_shacho",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/ai_shacho/n/n4f9f55532375",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/shorts/KLy9f-TGcmI",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.com/note_ir/n/n858393bef18a",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://kaijiwire.jp/kaisan/01a07c28-d6a4-7103-99f2-03a4aa909bfb"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "SafeAI X 投稿",
+   "results": [
+    "https://openreview.net/group?id=auai.org/UAI/2026/Workshop/SafeAI&referrer=%5BHomepage%5D(%2F)",
+    "https://www.safeai.lu/",
+    "https://safe-ai-workshop.github.io/uai-2026/",
+    "https://github.com/marketplace/actions/safeai-static-analysis",
+    "https://safeaitf.org/",
+    "https://safeai.today/",
+    "https://x.ai/safety",
+    "https://tech-lab.sios.jp/archives/54667",
+    "https://debono.co.jp/media/x-toko-ai-sakusei/",
+    "https://x.com/safeai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部39頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部39頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部39頁・検索12回）"
+ }
+}

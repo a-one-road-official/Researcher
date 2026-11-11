@@ -1,0 +1,684 @@
+{
+ "name": "Unchained Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜送付済み",
+ "researched_at": "2026-11-11T09:08:43.832530+00:00",
+ "official_url": "https://unchainedrobotics.de/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://startupintros.com/orgs/unchained-robotics",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Paderborn, Nordrhein-Westfalen, Germany",
+    "url": "https://startupintros.com/orgs/unchained-robotics",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Effektive Automatisierung für kleine und große Projekte.",
+    "url": "https://unchainedrobotics.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Den idealen Roboter für Produkt tests finden mit CLARIANT",
+    "url": "https://unchainedrobotics.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Den idealen Roboter für Produkt tests finden mit COMPRION",
+    "url": "https://unchainedrobotics.de/",
+    "pass": 1
+   },
+   {
+    "quote": "ist ein privater deutscher Anbieter von Funkkommunikationstests. Für eines ihrer Projekte mussten sie einen NFC-Chip testen... immer und immer wieder.",
+    "url": "https://unchainedrobotics.de/",
+    "pass": 1
+   },
+   {
+    "quote": "ist das Lasergravieren von Metallteilen. Mit modernen Lasermaschinen sind sie in der Lage, sehr hohe Produktionsmengen zu erreichen - der größte limitierende Faktor ist der Arbeiter.",
+    "url": "https://unchainedrobotics.de/",
+    "pass": 1
+   },
+   {
+    "quote": "automatisierte die Palettierung von Lebensmitteln am Ende ihrer Kaffeeproduktionslinie in Kaltenkirchen, Deutschland. Das Ziel? Eine Personallücke schließen, den Durchsatz stabilisieren und Mitarbeiter für schwerer zu automatisierende Arbeitsschritte einsetzen.",
+    "url": "https://unchainedrobotics.de/",
+    "pass": 1
+   },
+   {
+    "quote": "hat in Ulm eine automatisierte Palettierung von Lebensmitteln am Ende der Produktionslinie eingerichtet, um den Durchsatz über bis zu drei Schichten pro Tag zu stabilisieren, den Personaldruck zu verringern und Umrüstzeiten zu verkürzen.",
+    "url": "https://unchainedrobotics.de/",
+    "pass": 1
+   },
+   {
+    "quote": "DEUTZ in Köln reduziert manuelle Prozesse im Logistikzentrum mit einer automatisierten Palettierung für KLT-Behälter.",
+    "url": "https://unchainedrobotics.de/",
+    "pass": 1
+   },
+   {
+    "quote": "InfectoPharm depalettiert Pharmaprodukte automatisch und übergibt die Kartons an ein automatisiertes Lagersystem.",
+    "url": "https://unchainedrobotics.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Bringe deine Produktion auf ein neues Level mit MalocherBot. Powered by",
+    "url": "https://unchainedrobotics.de/",
+    "pass": 1
+   },
+   {
+    "quote": "bietet MalocherBot ein komplettes Ökosystem für häufig automatisierte Prozesse.",
+    "url": "https://unchainedrobotics.de/",
+    "pass": 1
+   },
+   {
+    "quote": "Produktionsschritte mit Leichtigkeit. Entdecke hier die MalocherBot Modelle.",
+    "url": "https://unchainedrobotics.de/",
+    "pass": 1
+   },
+   {
+    "quote": "ist das Lasergravieren von Metallteilen. Mit modernen Lasermaschinen sind sie in der Lage, sehr hohe Produktionsmengen zu erreichen - der größte limitierende Faktor ist der Arbeiter.",
+    "url": "https://unchainedrobotics.de/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "automatisierte die Palettierung von Lebensmitteln am Ende ihrer Kaffeeproduktionslinie in Kaltenkirchen, Deutschland. Das Ziel? Eine Personallücke schließen, den Durchsatz stabilisieren und Mitarbeiter für schwerer zu automatisierende Arbeitsschritte einsetzen.",
+    "url": "https://unchainedrobotics.de/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Den idealen Roboter für Produkt tests finden mit CLARIANT",
+    "url": "https://unchainedrobotics.de/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Den idealen Roboter für Produkt tests finden mit COMPRION",
+    "url": "https://unchainedrobotics.de/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "ist ein privater deutscher Anbieter von Funkkommunikationstests. Für eines ihrer Projekte mussten sie einen NFC-Chip testen... immer und immer wieder.",
+    "url": "https://unchainedrobotics.de/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "hat in Ulm eine automatisierte Palettierung von Lebensmitteln am Ende der Produktionslinie eingerichtet, um den Durchsatz über bis zu drei Schichten pro Tag zu stabilisieren, den Personaldruck zu verringern und Umrüstzeiten zu verkürzen.",
+    "url": "https://unchainedrobotics.de/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "DEUTZ in Köln reduziert manuelle Prozesse im Logistikzentrum mit einer automatisierten Palettierung für KLT-Behälter.",
+    "url": "https://unchainedrobotics.de/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "InfectoPharm depalettiert Pharmaprodukte automatisch und übergibt die Kartons an ein automatisiertes Lagersystem.",
+    "url": "https://unchainedrobotics.de/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "“Automation today must achieve one thing above all: deliver impact quickly,” says Frank Schirrmeister, CEO of Arvato. “Through our partnership with Unchained Robotics, we are accelerating the deployment of robotics in our operational logistics. We develop solutions from practice for practice — and use robotics specifically as an accelerator for scalable implementations.”",
+    "url": "https://arvato.com/about/insights/we-accelerate-robotics-implementation-through-a-strategic-partnership-with-unchained-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Unchained Robotics offers a platform that simplifies industrial automation for manufacturers. Its product allows factories to discover and compare robots and components. It also offers the Unchained MalocherBot, a modular automation system providing configurable, standardized turnkey solutions for diverse manufacturing tasks, streamlining robotics integration.",
+    "url": "https://startupintros.com/orgs/unchained-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Unchained Robotics primarily serves small and medium-sized manufacturers implementing or scaling automation. The company's vision is to enable every factory to effortlessly find, procure, and integrate robotic solutions. Simplifying access, Unchained Robotics aims to enhance industrial efficiency and productivity.",
+    "url": "https://startupintros.com/orgs/unchained-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Product Differentiators:",
+    "url": "https://startupintros.com/orgs/unchained-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "MalocherBot is a modular, prefabricated automation system that can be quickly installed (in hours rather than weeks) and is compatible with a wide range of robotics components, including arms, grippers, and cameras from leading brands.",
+    "url": "https://startupintros.com/orgs/unchained-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "The LUNA operating system offers a graphical user interface that simplifies programming and operation, removing the need for specialized robotics expertise.",
+    "url": "https://startupintros.com/orgs/unchained-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "The turnkey nature of MalocherBot and the platform’s ability to streamline the search and selection process for automation solutions significantly reduce deployment time and cost.",
+    "url": "https://startupintros.com/orgs/unchained-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Unchained Robotics supports customers throughout the entire automation journey, from conception to commissioning and ongoing training, fostering long-term partnerships.",
+    "url": "https://startupintros.com/orgs/unchained-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Their platform supports over a dozen robotics manufacturers, providing flexibility and choice to customers[1][2][4][5].",
+    "url": "https://startupintros.com/orgs/unchained-robotics",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "For clients, this close integration means one thing above all: automation at industrial scale without sacrificing flexibility. Scaling to a three-digit number of robots creates experience, standards, and implementation reliability from which clients benefit directly — through shorter implementation times, reduced risks, and faster realization of added value.",
+    "url": "https://arvato.com/about/insights/we-accelerate-robotics-implementation-through-a-strategic-partnership-with-unchained-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Unchained Robotics offers a platform that simplifies industrial automation for manufacturers. Its product allows factories to discover and compare robots and components. It also offers the Unchained MalocherBot, a modular automation system providing configurable, standardized turnkey solutions for diverse manufacturing tasks, streamlining robotics integration.",
+    "url": "https://startupintros.com/orgs/unchained-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Co-founded in 2019 by Kevin Freise and Mladen Milicevic, Unchained Robotics arose from industrial automation's complex, opaque acquisition. Based in Paderborn, Germany, Freise and Milicevic envisioned a transparent, accessible ecosystem, empowering factories to adopt advanced automation.",
+    "url": "https://startupintros.com/orgs/unchained-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Unchained Robotics primarily serves small and medium-sized manufacturers implementing or scaling automation. The company's vision is to enable every factory to effortlessly find, procure, and integrate robotic solutions. Simplifying access, Unchained Robotics aims to enhance industrial efficiency and productivity.",
+    "url": "https://startupintros.com/orgs/unchained-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Their platform supports over a dozen robotics manufacturers, providing flexibility and choice to customers[1][2][4][5].",
+    "url": "https://startupintros.com/orgs/unchained-robotics",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Please feel free to contact us.",
+    "url": "https://arvato.com/about/insights/we-accelerate-robotics-implementation-through-a-strategic-partnership-with-unchained-robotics",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Unchained Robotics - Automation. Simplified. — Discover and compare robots, grippers, cameras and more from the leading brands in robotics. Automation is accessible with Unchained! With us, automation is accessible.",
+    "url": "https://unchainedrobotics.de/en",
+    "pass": 3
+   },
+   {
+    "quote": "Arvato accelerates Robotics Implementation through a ... — Mar 9, 2026 · Arvato is taking the next step to bring automation and robotics into operational use faster and more effectively. Through a strategic partnership with technology company Unchained Robotics, Arvato is accelerating the development and implementation of modular, vendor-independent robotics solutions for logistics and fulfillment",
+    "url": "https://arvato.com/about/insights/we-accelerate-robotics-implementation-through-a-strategic-partnership-with-unchained-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "About - Unchained Robotics — About Us Who we are Founded in 2019 in Paderborn, Unchained Robotics is an automation company with a mission: we want to revolutionize industrial automation. And we're doing this by redefining the way companies find, build, and buy automation solutions. With the help of our online platform and modular, turnkey solution, MalocherBot, we are simplifying and accelerating ",
+    "url": "https://unchainedrobotics.de/en/about",
+    "pass": 3
+   },
+   {
+    "quote": "Unchained Robotics - 2026 Company Profile, Team, Funding ...Unchained Robotics – Funding, Acquisitions & Key Rivals – 2026Unchained Robotics — Company Profile, Funding & InvestorsUnchained Robotics: Funding, Team & Investors | Startup IntrosUnchained Robotics — Company Profile & Funding (2026 ...Unchained Robotics — Company Profile | The Company CheckUnchained Robotics — Funding, Investors & Team ",
+    "url": "https://tracxn.com/d/companies/unchained-robotics/__KaULeH4_OyUYobCvrOlJDgCGo-BWF012RDJxAo6ocec",
+    "pass": 3
+   },
+   {
+    "quote": "Unchained Robotics – Funding, Acquisitions & Key Rivals – 2026 — Unchained Robotics reports estimated revenue of $27.7M, team of around 50+ employees, located in Paderborn, as part of its current growth phase.",
+    "url": "https://compworth.com/company/unchained-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Unchained Robotics — Company Profile, Funding & Investors — Unchained Robotics company profile with $16.45M raised across 3 funding rounds, HQ in Paderborn, Germany, founded 2019. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/unchained-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Unchained Robotics: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · It also offers the Unchained MalocherBot, a modular automation system providing configurable, standardized turnkey solutions for diverse manufacturing tasks, streamlining robotics integration. Co-founded in 2019 by Kevin Freise and Mladen Milicevic, Unchained Robotics arose from industrial automation's complex, opaque ",
+    "url": "https://startupintros.com/orgs/unchained-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Unchained Robotics — Company Profile & Funding (2026 ... — Unchained Robotics is an Artificial Intelligence company based in Paderborn, Germany, founded in 2019. Its most recent funding was an Extension Round in Jun 2025. Investors include Born2Grow Ventures, Future Industry Investment Fund and vent.io. LinkedIn",
+    "url": "https://indexed.vc/companies/unchained-robotics",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Co-founded in 2019 by Kevin Freise and Mladen Milicevic, Unchained Robotics arose from industrial automation's complex, opaque acquisition. Based in Paderborn, Germany, Freise and Milicevic envisioned a transparent, accessible ecosystem, empowering factories to adopt advanced automation.",
+    "url": "https://startupintros.com/orgs/unchained-robotics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Chjango Unchained⛓️ (@chjango) / X Robotics is crossing the chasm from the lab and into the real world. Anyone paying attention can see that humanity's next technological unlock will emerge from physical AI. That's why @AexodusCapital was born. Problem statement from our summit last wk: Robotics investments have hit ATH. Yet the technical breakthrough that's needed to arrive at ...",
+    "url": "https://x.com/chjango",
+    "pass": 3
+   },
+   {
+    "quote": "IFA Berlin on X: \"Humanoid robots can walk, dance and grab ... Humanoid robots can walk, dance and grab things. But are they ready for the factory floor? 🎧 Mladen Milicevic, CEO and Co-Founder of Unchained Robotics, on the gap between impressive trade show demos and real industrial use, and why reliability and safety matter just as much as spectacular skills…",
+    "url": "https://x.com/IFA_Berlin/status/2106052471483457780",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Unchained Robotics - LinkedIn Unchained Robotics | 16,153 followers on LinkedIn. Making robotics and industrial automation transparent and accessible. | Unchained Robotics hat es sich zur Aufgabe gemacht, die Automatisierung ...",
+    "url": "https://www.linkedin.com/company/unchained-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "#unchained #investment #growth #automation # ... - LinkedIn [Big Announcement 🎉] Here at Unchained Robotics, we are on a mission to make automation accessible and affordable. Every factory can benefit from automation and we're removing the roadblocks ...",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:6892406150168506368/",
+    "pass": 3
+   },
+   {
+    "quote": "Kevin Freise – Unchained Robotics | LinkedInSebastian Hren – Key-Account-Manager bei Unchained Robotics ...Unchained Robotics on LinkedIn: #unchainedrobotics#unchainedrobotics | Unchained Robotics - LinkedIn#innovation #challenges #growth #fiveyears #anniversary # ... Berufserfahrung: Unchained Robotics · Ausbildung: Universität Paderborn · Ort: Bielefeld und Umgebung · 500+ Kontakte auf LinkedIn.",
+    "url": "https://de.linkedin.com/in/kevin-freise-6a982719b",
+    "pass": 3
+   },
+   {
+    "quote": "Sebastian Hren – Key-Account-Manager bei Unchained Robotics ...Unchained Robotics on LinkedIn: #unchainedrobotics#unchainedrobotics | Unchained Robotics - LinkedIn#innovation #challenges #growth #fiveyears #anniversary # ... Key-Account-Manager bei Unchained Robotics | Betreuung von Großkunden · Berufserfahrung: Unchained Robotics · Ausbildung: Universität Paderborn · Standort: Wachtendonk · 500+ ",
+    "url": "https://de.linkedin.com/in/sebastian-hren-668a70202",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Unchained Robotics - Facebook[Neuer Unchainer ] Wir freuen uns,... - Unchained Robotics ...[Neuer Unchainer ] Wir freuen uns... - Unchained Robotics ...[Strategische Partnerschaft: Arvato x... - Unchained Robotics ...[Willkommen zurück! ] Nach ihrer... - Unchained Robotics ...[Vertrieb im Fokus ] Kennt ihr... - Unchained Robotics ...[Los geht’s in Brüssel! ] Die... - Unchained Robotics ... Oct 20,",
+    "url": "https://www.facebook.com/unchainedrobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "[Neuer Unchainer ] Wir freuen uns... - Unchained Robotics ... Aug 20, 2025 · Unchained Robotics Jun 2, 2026· Heute geht’s los: Die All About Automation Hamburg startet — und wir sind bereit! 🤖 Unser Team ist vor Ort und freut sich auf spannende Gespräche und neue Kontakte. Kommt vorbei und erlebt unseren MalocherBot live in Aktion. Wir freuen uns auf euc Heute geht’s los: Die All About Automation ",
+    "url": "https://www.facebook.com/unchainedrobotics/posts/neuer-unchainer-wir-freuen-uns-einen-weiteren-unchainer-im-team-begrüßen-zu-dürf/1566123441399546/",
+    "pass": 3
+   },
+   {
+    "quote": "[Strategische Partnerschaft: Arvato x... - Unchained Robotics ... Mar 9, 2026 · [Strategische Partnerschaft: Arvato x Unchained Robotics] Wir freuen uns, eine neue strategische Partnerschaft zwischen Arvato und Unchained Robotics bekannt zu geben. Gemeinsam wollen wir den...",
+    "url": "https://www.facebook.com/unchainedrobotics/posts/strategische-partnerschaft-arvato-x-unchained-roboticswir-freuen-uns-eine-neue-s/1742352260443329/",
+    "pass": 3
+   },
+   {
+    "quote": "[Los geht’s in Brüssel! ] Die... - Unchained Robotics ... Mar 26, 2025 · Unchained Robotics May 26, 2026· In einer Woche ist es so weit: Die All About Automation Hamburg startet und wir können es kaum erwarten! 🤖 Besucht uns vor Ort und erlebt unseren MalocherBot live in Aktion. Unser Team freut sich auf euch und auf viele spannende Gespräche. 📅 2. In einer Woche ist es so weit: Die All About ...",
+    "url": "https://www.facebook.com/unchainedrobotics/posts/los-gehts-in-brüssel-die-machineering-expo-2025-hat-begonnen-und-wir-sind-live-v/1439446444067247/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://unchainedrobotics.de/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unchainedrobotics.de/case-studies",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://unchainedrobotics.de/cdn-cgi/image/width=640,quality=80/assets/img/logos/Nachi-Fujikoshi_Corp.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://unchainedrobotics.de/cdn-cgi/image/width=640,quality=80/assets/img/logos/NeuraRobotics_Logo.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://unchainedrobotics.de/cdn-cgi/image/width=640,quality=80/assets/img/logos/Epson%20Bildmarke%20Logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://unchainedrobotics.de/cdn-cgi/image/width=640,quality=80/assets/img/logos/RNA%20logo.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://robotstart.info/article/2026/07/01/382100.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://36kr.jp/502670/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.mynavi.jp/techplus/article/20261019-5155447/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://robotstart.info/article/2026/10/20/382539.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.unchainedlabs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dic-global.com/ja/news/2026/ir/20260928054549.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unchainedlabs.com/jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arvato.com/about/insights/we-accelerate-robotics-implementation-through-a-strategic-partnership-with-unchained-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/unchained-robotics/__KaULeH4_OyUYobCvrOlJDgCGo-BWF012RDJxAo6ocec",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/unchained-robotics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://acquirezy.com/organization/unchained-robotics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/unchained-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/chjango",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IFA_Berlin/status/2106052471483457780",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/unchained-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:6892406150168506368/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/kevin-freise-6a982719b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/sebastian-hren-668a70202",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/unchainedrobotics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/unchainedrobotics/posts/neuer-unchainer-wir-freuen-uns-einen-weiteren-unchainer-im-team-begrüßen-zu-dürf/1566123441399546/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/unchainedrobotics/posts/strategische-partnerschaft-arvato-x-unchained-roboticswir-freuen-uns-eine-neue-s/1742352260443329/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/unchainedrobotics/posts/los-gehts-in-brüssel-die-machineering-expo-2025-hat-begonnen-und-wir-sind-live-v/1439446444067247/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Unchained Robotics 日本 導入",
+   "results": [
+    "https://robotstart.info/article/2026/07/01/382100.html",
+    "https://36kr.jp/502670/",
+    "https://news.mynavi.jp/techplus/article/20261019-5155447/",
+    "https://robotstart.info/article/2026/10/20/382539.html",
+    "https://36kr.jp/502923/",
+    "https://logishift.net/2026/04/14/post-4159/",
+    "https://japan.cnet.com/article/35251908/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unchained Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.unchainedlabs.com/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dic-global.com/ja/news/2026/ir/20260928054549.html",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unchained Robotics Japan",
+   "results": [
+    "https://unchainedrobotics.de/en",
+    "https://unchainedlabs.com/jp/",
+    "https://arvato.com/about/insights/we-accelerate-robotics-implementation-through-a-strategic-partnership-with-unchained-robotics",
+    "https://unchainedrobotics.de/en/about",
+    "https://www.unchainedlabs.com/",
+    "https://unchained.jp/",
+    "https://www.linkedin.com/company/unchained-robotics"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unchained Robotics manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Unchained Robotics white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.seoreseller.com/",
+    "https://www.arista.com/en/partner/partner-program",
+    "https://retailers.bossrevolution.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unchained Robotics founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/unchained-robotics/__KaULeH4_OyUYobCvrOlJDgCGo-BWF012RDJxAo6ocec",
+    "https://compworth.com/company/unchained-robotics",
+    "https://acquirezy.com/organization/unchained-robotics",
+    "https://startupintros.com/orgs/unchained-robotics",
+    "https://indexed.vc/companies/unchained-robotics",
+    "https://www.thecompanycheck.com/company/b/unchained-robotics/w65k4kdlmvq0warzx",
+    "https://seedtable.com/companies/unchained-robotics"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Unchained Robotics",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/eager_tiger5557",
+    "https://note.com/sekasu/n/n985d4263a09c",
+    "https://note.com/kzstock/n/n8464ba129797",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/fond_clam2634/n/n06d26defb95d",
+    "https://note.com/ikedanob/n/nf9fd1f265432"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Unchained Robotics",
+   "results": [
+    "https://x.com/chjango",
+    "https://x.com/unchained",
+    "https://x.com/unchained_game",
+    "https://x.com/IFA_Berlin/status/2106052471483457780",
+    "https://x.com/IFA_Berlin",
+    "https://x.com/OddDiligence/status/2108163229943767293",
+    "https://x.com/ShizzyUnchained/status/2120171289608355924"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Unchained Robotics",
+   "results": [
+    "https://www.linkedin.com/company/unchained-robotics",
+    "https://www.linkedin.com/feed/update/urn:li:activity:6892406150168506368/",
+    "https://de.linkedin.com/in/kevin-freise-6a982719b",
+    "https://de.linkedin.com/in/sebastian-hren-668a70202",
+    "https://in.linkedin.com/posts/unchained-robotics_unchainedrobotics-activity-7032308210283724802-OQn6",
+    "https://www.linkedin.com/posts/unchained-robotics_unchainedrobotics-activity-7137776464120143872-25yy",
+    "https://www.linkedin.com/posts/unchained-robotics_innovation-challenges-growth-activity-7270697278951112705-fFBK"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Unchained Robotics",
+   "results": [
+    "https://www.facebook.com/unchainedrobotics/",
+    "https://www.facebook.com/unchainedrobotics/posts/neuer-unchainer-wir-freuen-uns-einen-weiteren-unchainer-im-team-begrüßen-zu-dürf/1566123441399546/",
+    "https://www.facebook.com/unchainedrobotics/posts/strategische-partnerschaft-arvato-x-unchained-roboticswir-freuen-uns-eine-neue-s/1742352260443329/",
+    "https://www.facebook.com/unchainedrobotics/posts/los-gehts-in-brüssel-die-machineering-expo-2025-hat-begonnen-und-wir-sind-live-v/1439446444067247/",
+    "https://www.facebook.com/unchainedrobotics/posts/neuer-unchainer-wir-freuen-uns-dass-jens-berg-unser-team-ab-sofort-als-sales-eng/1536438841034673/",
+    "https://www.facebook.com/unchainedrobotics/posts/willkommen-zurücknach-ihrer-elternzeit-ist-svenja-kiesewetter-nun-seit-drei-mona/1438415494170342/",
+    "https://www.facebook.com/unchainedrobotics/posts/vertrieb-im-fokus-kennt-ihr-schon-henning-stoppel-aus-unserem-sales-team-in-drei/1546225946722629/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unchained Robotics note 社長",
+   "results": [
+    "https://unchainedrobotics.de/en",
+    "https://tracxn.com/d/companies/unchained-robotics/__KaULeH4_OyUYobCvrOlJDgCGo-BWF012RDJxAo6ocec",
+    "https://unchainedlabs.com/jp/our-tribe/",
+    "https://www.crunchbase.com/person/kevin-freise-1ebb",
+    "https://www.cbinsights.com/company/unchained-robotics/people",
+    "https://www.starting-up.de/news/news-investments/unchained-robotics-55-mio-euro-investment-fuer-robotic-start-up.html",
+    "https://onrobot.com/en/blog/thoughtsonrobots-mladen-milicevic"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Unchained Robotics X 投稿",
+   "results": [
+    "https://unchainedrobotics.de/en",
+    "https://www.instagram.com/unchained_robotics/",
+    "https://arvato.com/about/insights/we-accelerate-robotics-implementation-through-a-strategic-partnership-with-unchained-robotics",
+    "https://unchainedrobotics.de/en/about",
+    "https://www.linkedin.com/company/unchained-robotics",
+    "https://x.com/ShizzyUnchained/status/2120171289608355924",
+    "https://x.com/uchuuneko_/status/2119012589044908158"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部28頁・検索12回）"
+ }
+}

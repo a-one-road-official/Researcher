@@ -1527,6 +1527,12 @@
 - 「, TSMC is spending around $60 billion in 2026 and still cannot make enough advanced chips, because the machines that build them are themselves scarce: a single ASML EUV scanner takes 18 months to assemble from a handful of suppliers in Germany, the Netherlands, and Japan.」（https://www.avataar.vc/insights/why-we-backed-ethereal-machines-redefining-precision-engineering-from-machine-to-factory-to-software）
 - 「Indian software industry ($254 billion FY24; Zoho $1B+ ARR; Freshworks NASDAQ-listed; AI foundation model players Krutrim and Sarvam): NASSCOM Strategic Review 2024; company disclosures.」（https://www.avataar.vc/insights/why-we-backed-ethereal-machines-redefining-precision-engineering-from-machine-to-factory-to-software）
 
+## Fairmat（https://www.fairmat.tech/）
+- 「日本分析機器工業会（JAIMA）が中心となって開発を進め、2024年には」（https://note.com/dapper_pony2721/n/n292640110278）
+- 「MaiMLは日本発の規格ですが、国内だけで利用することを目指しているわけではありません」（https://note.com/dapper_pony2721/n/n292640110278）
+- 「日本でも、こうした標準規格を利用した実験環境の整備が始まっています」（https://note.com/dapper_pony2721/n/n292640110278）
+- 「Salt Lake City, UT, May 21, 2024 – Hexcel Corporation (NYSE: HXL) and Fairmat announced today a 10-year agreement to recycle carbon fiber composite materials from Hexcel Salt Lake City for reuse in composite materials sold into various commercial markets.」（https://www.hexcel.com/hexcel-and-fairmat-bolster-sustainability-efforts-by-expanding-composite-material-recycling-in-the-united-states/）
+
 ## Modvion（https://modvion.com/）
 - 「日本の木材市場は、輸入木材にとってますます大きな課題に直面している」（https://ja.woodandpanel.com/%E3%82%A6%E3%83%83%E3%83%89%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/%E8%A8%98%E4%BA%8B/Modvion%E3%81%AF%E6%9C%80%E6%96%B0%E3%81%AE%E6%9C%A8%E8%A3%BD%E9%A2%A8%E5%8A%9B%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3%E3%82%92IQPC%E9%A2%A8%E5%8A%9B%E9%80%B1%E9%96%93%E3%81%A7%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/）
 - 「Hosted under the theme �Join Sweden to Pioneer the Possible,� the day brought together government leaders, innovators, and business representatives to highlight Sweden�s forward-looking solutions and strengthen ties with international partners � especially Japan.」（https://www.gulfoilandgas.com/webpro1/main/mainnews.asp?id=1061866）
@@ -1542,6 +1548,11 @@
 - 「YC の会社ページに本人が掲載している情報（日本語訳は AI 翻訳」（https://ycpedia.com/companies/spaceium-inc）
 - 「トヨタは、日本のスタートアップ」（https://note.com/startup_now0708/n/nc83ba14bb4da）
 - 「この投資は、日本の宇宙技術の進化を加速させる重要な一歩です」（https://note.com/startup_now0708/n/nc83ba14bb4da）
+
+## Standard Bots（https://standardbots.com/）
+- 「日本のFA業界、つまり工場自動化の業界も、基本的にはこの分業の上にあります」（https://note.com/hiroki_morishima/n/n306eb7a642c9）
+- 「FANUCは日本のロボットメーカー、KUKAはドイツ発のロボットメーカー、ABBはスイスに本社を置く産業機器・ロボット大手です」（https://note.com/hiroki_morishima/n/n306eb7a642c9）
+- 「この流れは、日本メーカーにとって追い風にも向かい風にも成り得ます」（https://note.com/hiroki_morishima/n/n306eb7a642c9）
 
 ## Tiamat Energy（https://www.tiamat-energy.com/）
 - 「Overview: In Japan, the Feed-in Tariff (FIT) and Feed-in Premium (FIP) schemes are being promoted based on the Act on Special Measures Concerning Renewable Energy.」（https://note.com/tiamat_trauncer/n/n33793f9f7c35?hl=en）
@@ -1564,6 +1575,12 @@
 - 「Headquartered in Finland, Canatu also operates in the US, Japan and Taiwan. Founded in 2004 as a spin-off from Aalto University’s Nanomaterials Group, Canatu has 182 full-time equivalent employees representing over 35 nationalities, with nearly 20% holding or pursuing doctorates (as of 30 June 2026)」（https://canatu.com/company/canatu-news/canatu-sharpens-commercial-focus-and-accelerates-long-term-value-creation-with-new-strategy-and-updated-long-term-financial-targets/）
 - 「Canatu Plc (CANATU, Nasdaq First North Growth Market Finland) has received an order for further CNT100 SEMI reactor from Korean semiconductor company FINE SEMITECH CORPORATION (FST).」（https://canatu.com/company/canatu-news/canatu-receives-further-reactor-order-from-fst-validating-its-cnt-technology-for-pellicle-manufacturing/）
 
+## Amtechnologies（https://amtechnologies.com）
+- 「Also in APAC: Hong Kong, India, Japan, New Zealand, Singapore, Taiwan.」（https://amtechnologies.com/postpro-partners/）
+- 「Japan 3D Printer Co., Ltd」（https://amtechnologies.com/postpro-partners/）
+- 「Japan 3D Printer Co., Ltd: PostPro Reseller | AMT PostPro」（https://amtechnologies.com/global-resellers/japan-3d-printer-co-ltd/）
+- 「Partners listed on AMT’s partner map in Sep 2026」（https://amtechnologies.com/postpro-partners/）
+
 ## Authentise（https://www.authentise.com）
 - 「Authentise社がChatGPT機能を積層造形に導入 | CAD Japan.com（大塚商会）」（https://www.cadjapan.com/news/2023/d20230614_02.html）
 
@@ -1571,6 +1588,11 @@
 - 「Twice as fast as today’s airliners, 50% faster when boomless. More comfortable, safer, and dramatically more affordable than Concorde. Pre-ordered by United, American, and Japan Airlines.」（https://boomsupersonic.com/careers）
 - 「Twice as fast as today's airliners, 50% faster when boomless. More comfortable, safer, and dramatically more affordable than Concorde. Pre-ordered by United, American, and Japan Airlines.」（https://boomsupersonic.com/company）
 - 「Overture will fly passengers between global destinations in half the time of today's aircraft, with orders and pre-orders from United, American and Japan Airlines.」（https://boomsupersonic.com/overture）
+
+## Corvus Robotics（https://www.corvus-robotics.com）
+- 「タイムラインを合わせる日本、次に必要なものは [相良静造のUnmanned World] Vol.14」（https://drone.jp/news/20241009125554100050.html）
+- 「DRONE.jp（https://drone.jp/、以下本サイト）は、ドローンやマルチコプターについての本格的な解説やおすすめ、最新情報を発信する日本初のメディアとして、「Explore the Future」をタグラインに2015年スタートしました」（https://drone.jp/news/20241009125554100050.html）
+- 「日本国内において、完全に屋内空間となる倉庫であれば、ドローンの飛行に適応される航空法の管轄外となる」（https://note.com/drone_biz/n/ne9015641e0a7）
 
 ## Deepnight（https://www.deepnight.ai/）
 - 「They aren't the only ones bringing colour to the club. They're joined by Seiji, Ken, Great, DJ James and sunny waiter Japan.」（https://mydramalist.com/750883-deep-night）
@@ -1803,6 +1825,11 @@
 - 「国を挙げて半導体産業振興を図るインドに日本はどう向き合えばよいのか」（https://xtech.nikkei.com/dm/article/NEWS/20080914/158002/?ST=nxt_thmdm_device）
 - 「決算調査で判明、日本の大規模ITプロジェクトの真実」（https://xtech.nikkei.com/dm/article/NEWS/20080914/158002/?ST=nxt_thmdm_device）
 
+## Tajir（https://tajir.app）
+- 「Is Tajiri Japan's smallest town? Well... - YouTube」（https://www.youtube.com/watch?v=d9kH7Hc5Eew）
+- 「Is Tajiri Japan's smallest town? Well...」（https://www.youtube.com/watch?v=d9kH7Hc5Eew）
+- 「谷底だった渋谷、900年を早送り｜建物1個だった渋谷が、日本有数の繁華街になるまで」（https://www.youtube.com/watch?v=d9kH7Hc5Eew）
+
 ## Synthflow（https://synthflow.ai）
 - 「Synthflowの料金・機能アップデート・代替ツール情報を日本語でお届けします」（https://oai-market.com/products/synthflow）
 - 「多言語に対応しているため、日本語以外のお客様にも自動で自然な会話ができ、海外とのやり取りやグローバル展開がスムーズに進められます」（https://oai-market.com/products/synthflow）
@@ -1856,10 +1883,30 @@
 - 「is a Japanese television」（https://en.wikipedia.org/wiki/Iron_Chef）
 - 「as a Judge that were shown on Food Network were not listed on FilmRise.」（https://en.wikipedia.org/wiki/Iron_Chef）
 
+## Scienceexchange（https://www.scienceexchange.com/）
+- 「The 5th Japan-India Universities Forum」（https://ssp.jst.go.jp/en/）
+- 「Send Your Students, Teachers, and Researchers to Japan by Sakura Science Exchange Program」（https://ssp.jst.go.jp/en/）
+- 「Report of "Japan-Africa Universities Exchange Meeting 2026" has been published.」（https://ssp.jst.go.jp/en/）
+
+## Salvy（https://www.salvy.com.br）
+- 「を掛け合わせた造語をブランド名とした［salvy;］では、伝統的な技術や文化を根底とした、日本人だからこそ表現出来ることを追究」（https://mastered.jp/news/salvy-2013aw-collection/）
+- 「【Endeavor Article】ラテンアメリカで唯一Y Combinatorに選ばれた”Salvy”を生んだ、活気あるブラジル🇧🇷のエコシステム｜EndeavorJapan」（https://note.com/endeavorjapan/n/nc3edbb207e30）
+- 「現在、その顧客リストには、世界有数のWindow coverings 製造業者であるオランダのHunter Douglas社、5カ国で189店舗を運営する日本のThe Coffee 、85カ国以上に展開する教育テクノロジー企業であるブラジルのWiser Educaçãoなどが含まれています」（https://note.com/endeavorjapan/n/nc3edbb207e30）
+
 ## Salsify（https://www.salsify.com）
 - 「Ecommerce stores using Salsify in Japan」（https://storeleads.app/reports/technology/Salsify/country/JP）
 - 「Salsify is currently installed on 5 ecommerce stores in Japan.」（https://storeleads.app/reports/technology/Salsify/country/JP）
 - 「Here are the top 5 stores in Japan running Salsify ordered by store rank.」（https://storeleads.app/reports/technology/Salsify/country/JP）
+
+## Sales OS (sales.you)（https://sales.you/）
+- 「Who on earth is seriously thinking about the careers of people working in sales in Japan?」（https://note.com/fromlink/n/n64a7fb4fa6ed?hl=en）
+- 「I want to install the mechanisms and structure of the sales profession into Japanese companies and sales floors.」（https://note.com/fromlink/n/n64a7fb4fa6ed?hl=en）
+
+## Saleor（https://saleor.io/）
+- 「Saleor入門（日本語版） - 海威NS」（https://edu.ujhb.org/?p=2289）
+- 「- connects Saleor with NP Atobarai (Japanese: NP 後払い).」（https://github.com/saleor/apps）
+- 「Every email and LinkedIn message can pull in prospect-specific details like recent LinkedIn posts, company news, or industry context, then rewrite the message around them. Support for 21+ languages means your clients running outreach in German, Spanish, or Japanese do not need to hire a copywriter p」（https://www.salesforge.ai/blog/white-label-software）
+- 「$199/month (monthly billing, as listed on the vendor's pricing page)」（https://www.salesforge.ai/blog/white-label-software）
 
 ## Safetywing（https://www.safetywing.com）
 - 「【※日本語解説】海外旅行保険セーフティーウィング（Safetywing）を日本語で解説するサイト」（https://xn--dckai5bxcvd6e8ktcd.com/）
@@ -1867,10 +1914,61 @@
 - 「本記事はそんな疑問に、実際に加入・利用した経験をもとに日本語でお答えします」（https://xn--dckai5bxcvd6e8ktcd.com/）
 - 「Fleet serves fast-growing startups, scaling SMBs and international companies. Typically they have 10 to 1,000 employees with distributed or international teams. The platform is built for speed, not bureaucracy.」（https://fleet.co/en/our-clients/customerstory-safetywing）
 
+## Saccade Vision（https://www.saccadevision.com）
+- 「Jakore はイスラエルと日本をつなぐプラットフォームです」（https://www.jetro.go.jp/ext_images/theme/innovation/gahub/telaviv/report202208.pdf）
+- 「分野で革新的なソリ ューション・イネイブラーを探す日本企業や投資家のサポート、日本市場への進出を」（https://www.jetro.go.jp/ext_images/theme/innovation/gahub/telaviv/report202208.pdf）
+- 「彼らの創業過程や事業戦略、今後の展望、さらには日本市場への思いや本音を聞いた」（https://www.jetro.go.jp/ext_images/theme/innovation/gahub/telaviv/report202208.pdf）
+
+## Runsybil（https://www.runsybil.com）
+- 「日本が一番弱い3領域に、いま海外マネーが殺到している｜Masa｜ラグレスポータル」（https://note.com/lagless/n/n879a2c57eebb）
+- 「日本が一番弱い3領域に、いま海外マネーが殺到している」（https://note.com/lagless/n/n879a2c57eebb）
+- 「毎朝、米国のテックニュースを横断して「英語圏で流行っているのに日本にまだ無いもの」を探している」（https://note.com/lagless/n/n879a2c57eebb）
+- 「60億ドル規模の合併で、世界初級の上場核融合企業と50MWe実証プラントが計画され、トランプ政権は新型炉に」（https://note.com/lagless/n/n879a2c57eebb）
+
+## Rudderstack（https://www.rudderstack.com）
+- 「Sites using RudderStack in Japan: top list (2026) | scraping.pro」（https://scraping.pro/technologies/rudderstack/websites/jp）
+- 「Websites using RudderStack in Japan」（https://scraping.pro/technologies/rudderstack/websites/jp）
+- 「List of Japanese websites that use RudderStack, ranked by popularity (Tranco). 0 sites in our sample, checked by our own crawler.」（https://scraping.pro/technologies/rudderstack/websites/jp）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/rudderstack/case-studies）
+
+## Rocsys（https://www.rocsys.com/）
+- 「No.4472 EV & Mobility News Digest — Japan & Global（2026年4月30日作成）｜EV COMMONS JAPAN」（https://note.com/aslan_2001/n/n5e354cb3b614）
+- 「No.4472 EV & Mobility News Digest — Japan & Global（2026年4月30日作成）」（https://note.com/aslan_2001/n/n5e354cb3b614）
+- 「、2026/4/30 06:00 JST、日本）」（https://note.com/aslan_2001/n/n5e354cb3b614）
+
+## Robofy（https://www.robofy.ai）
+- 「Robofyの機能・料金・日本語対応｜導入前の確認点 | ツール灯台」（https://tool-todai.com/services/robofy/）
+- 「Robofyの機能・料金と日本語で確認したこと」（https://tool-todai.com/services/robofy/）
+- 「機能や料金を公式サイトで調べ、公開されているサポートチャットにも日本語で3つの質問を送りました」（https://tool-todai.com/services/robofy/）
+- 「Add-ons listed on the page:」（https://www.robofy.ai/blog/chatbase-pricing-vs-robofy）
+
+## Roboception（https://roboception.com/）
+- 「Roboception | 日本フィジカルAI新聞」（https://physicalainews.jp/companies/roboception）
+- 「世界のフィジカルAIを、日本語で」（https://physicalainews.jp/companies/roboception）
+- 「Osaka, Japan」（https://pitchbook.com/profiles/company/228704-95）
+
+## RingReady（https://www.ring-ready.com/）
+- 「The "such a" (the possessive particle 'no' in Japanese) is the key.」（https://note.com/sakurakoparis/n/n866057ae833b?hl=en）
+- 「In Japanese, these emotions can be packed into the short phrase '○○-kun no baka' (You idiot). Moreover, you can say it while laughing through tears. This sensation where tears and laughter coexist is the true essence of this expression.」（https://note.com/sakurakoparis/n/n866057ae833b?hl=en）
+- 「. However, just like in Japanese, the meaning changes significantly depending on」（https://note.com/sakurakoparis/n/n866057ae833b?hl=en）
+
 ## Ringlyn（https://www.ringlyn.com）
 - 「Ringlyn supports 6 languages: English, Spanish, French, German, Japanese, and Hindi. Our speech recognition is trained on diverse accents for each language, ensuring accurate understanding across different regions.」（https://www.ringlyn.com/）
 - 「English, Spanish, French, German, Hindi, and Japanese out of the box — an immediate upsell in any market with a bilingual customer base.」（https://www.ringlyn.com/agency/）
 - 「Answer in English, Spanish, French, German, Hindi, and Japanese — an easy upsell in any market with a bilingual customer base.」（https://www.ringlyn.com/white-label-ai-receptionist/）
+
+## Rescuetime（https://www.rescuetime.com）
+- 「**日本語環境では引っかかる場所があります」（https://note.com/t_furuta/n/n8bd4f3a28d66）
+- 「**ウィンドウタイトルに日本語が含まれる場合の文字列マッチングでつまずいたという報告があり、設定に正規表現が必要な場面もあります」（https://note.com/t_furuta/n/n8bd4f3a28d66）
+- 「導入前に日本語の情報を一通り読んでおくと安全です」（https://note.com/t_furuta/n/n8bd4f3a28d66）
+
+## Reducto（https://reducto.ai）
+- 「.Aiエージェントを手掛けるカスタマークラウドは、日本初となる企業AI脳「LBAI」やAIがAIを進化させる「AI2AI」の概念を提唱し、 数百社におよぶレガシー産業のDX化・AI導入を成功に導いてきました」（https://note.com/hiroshikinoshita/n/n75a31a11615e）
+- 「✅ 日本初のLLMO特化サービス「.Ai SEO」でPRを革新」（https://note.com/hiroshikinoshita/n/n75a31a11615e）
+- 「But accuracy and speed is just the foundation. Reducto provides granular control: it can extract only handwritten portions, summarize specific tables, or parse complex multilingual technical documents – all through simple prompts. Whether it’s a Japanese algebra textbook or handwritten notes, Reduct」（https://a16z.com/announcement/investing-in-reducto/）
+
+## Pointone（https://pointone.ai/）
+- 「with offices and representatives around the globe we speak Chinese, Japanese, Korean, French, Spanish, German, Russian, Lithuanian, English and can work with most other languages.」（https://pointoneintl.com/）
 
 ## Metalpine GmbH（https://www.metalpine.at）
 - 「METALPINE is part of the internationally represented htm Group (hightech metal invest) with locations in Germany, Austria, Bahrain and Japan.」（https://metalpine.at/）

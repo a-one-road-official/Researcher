@@ -1,0 +1,1736 @@
+{
+ "name": "Siteminder",
+ "aliases": [],
+ "context": "旧営業リスト｜Hotel Commerce Platform｜状態なし",
+ "researched_at": "2026-11-11T09:06:17.118432+00:00",
+ "official_url": "https://www.siteminder.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Learn more about this provider",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "downloads.siteminder.com",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Used to keep settings on the website's accessibility widget. This helps people with e.g. vision disabilities to properly navigate the site.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "wistia-video-progress-# [x3]",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Contains a timestamp for the website’s video-content. This allows the user to resume watching without having to start over, if the user leaves the video or website.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "_hjAbsoluteSessionInProgress",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Contains data on visitor behaviour and website interaction. This is used in context with the email marketing service Marketo.com, which allows the website to target visitors via email.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tracks the user’s interaction with the website’s search-bar-function. This data can be used to present the user with relevant products or services.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "i/adsct [x2]",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Used to track user’s interaction with embedded content.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stores the user's video player preferences using embedded YouTube video",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Necessary for the implementation and functionality of YouTube video-content on the website.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tries to estimate the users' bandwidth on pages with integrated YouTube videos.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Registers a unique ID to keep statistics of what videos from YouTube the user has seen.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Used in context with the website’s pop-up questionnaires and messengering. The data is used for statistical or marketing purposes.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-Property | SiteMinder",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about this provider",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "downloads.siteminder.com",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Used to keep settings on the website's accessibility widget. This helps people with e.g. vision disabilities to properly navigate the site.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "wistia-video-progress-# [x3]",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Contains a timestamp for the website’s video-content. This allows the user to resume watching without having to start over, if the user leaves the video or website.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "_hjAbsoluteSessionInProgress",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Contains data on visitor behaviour and website interaction. This is used in context with the email marketing service Marketo.com, which allows the website to target visitors via email.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Tracks the user’s interaction with the website’s search-bar-function. This data can be used to present the user with relevant products or services.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "i/adsct [x2]",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Used to track user’s interaction with embedded content.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Stores the user's video player preferences using embedded YouTube video",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Necessary for the implementation and functionality of YouTube video-content on the website.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Tries to estimate the users' bandwidth on pages with integrated YouTube videos.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Registers a unique ID to keep statistics of what videos from YouTube the user has seen.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing SiteMinder Partner Programs | SiteMinder",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about this provider",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "downloads.siteminder.com",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Used to keep settings on the website's accessibility widget. This helps people with e.g. vision disabilities to properly navigate the site.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "wistia-video-progress-# [x3]",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Contains a timestamp for the website’s video-content. This allows the user to resume watching without having to start over, if the user leaves the video or website.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "_hjAbsoluteSessionInProgress",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Used by Google Tag Manager to control the loading of a Google Analytics script tag.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google Analytics to throttle request rate",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the social networking service, LinkedIn, for tracking the use of embedded services.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google Tag Manager to control the loading of a Google Analytics script tag.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google Analytics to throttle request rate",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the social networking service, LinkedIn, for tracking the use of embedded services.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 56,000 hotels worldwide",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google Tag Manager to control the loading of a Google Analytics script tag.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google Analytics to throttle request rate",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the social networking service, LinkedIn, for tracking the use of embedded services.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "We are an award-winning, revenue-driving hotel platform trusted by thousands of hoteliers and property owners, across 150 countries. Driving over 140 million reservations annually, we want to partner with you to provide everything your customers need to achieve unbeatable revenue results.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google Tag Manager to control the loading of a Google Analytics script tag.",
+    "url": "https://www.siteminder.com/integrations/online-travel-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.",
+    "url": "https://www.siteminder.com/integrations/online-travel-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google Analytics to throttle request rate",
+    "url": "https://www.siteminder.com/integrations/online-travel-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.",
+    "url": "https://www.siteminder.com/integrations/online-travel-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.",
+    "url": "https://www.siteminder.com/integrations/online-travel-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.",
+    "url": "https://www.siteminder.com/integrations/online-travel-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.",
+    "url": "https://www.siteminder.com/integrations/online-travel-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the social networking service, LinkedIn, for tracking the use of embedded services.",
+    "url": "https://www.siteminder.com/integrations/online-travel-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google Tag Manager to control the loading of a Google Analytics script tag.",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google Analytics to throttle request rate",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the social networking service, LinkedIn, for tracking the use of embedded services.",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/siteminder/case-studies",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Turn traveller insights into your next revenue opportunity.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SiteMinder unifies AI-powered insight, distribution and revenue so you can reach more guests, fill more rooms, and earn the rates you deserve.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximise revenue on every stay with dynamic price recommendations, demand forecasts and real-time market insights that help you stay ahead of the market.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ana Sánchez, Revenue Manager",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We have seen significant increases in revenue and cost savings across the board at our properties. As our portfolio expands in what is a competitive market, we look forward to working with SiteMinder to reach more markets.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower your team to capture every revenue opportunity with streamlined rate management and powerful, centralised distribution.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Centralise rate management and free your team to focus on strategy and revenue growth.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify and resolve distribution issues swiftly, before they affect bookings or revenue.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your existing systems to SiteMinder’s platform with ease. Give every property in your portfolio the tools to drive more revenue from day one.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect seamlessly across 450+ leading PMS and a wide range of revenue management systems – with the flexibility to integrate your way.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Swiftly connect new properties to SiteMinder’s command so your inventory is live and generating revenue as quickly as possible.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Access best-of-breed applications via the Hotel App Store to increase conversions, improve guest reviews and drive more revenue across your portfolio. See what apps are available in the",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect seamlessly across 350+ leading PMS and a wide range of revenue management systems – with the flexibility to integrate your way.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Display real-time rates and availability across your entire portfolio in one seamless, map-based experience. Keep guests within your group and drive more direct revenue across every property.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "SiteMinder Multi-Property is built for hotel groups and chains that need to manage distribution, rates and performance across multiple properties from one place. If your team is spending too much time on manual distribution work and not enough time driving revenue, Multi-Property is designed for you.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-Property gives hotel groups and chains a unified command centre to manage their entire distribution strategy at scale. Deploy rates and campaigns across your portfolio in minutes, monitor performance with real-time insights, and respond dynamically to demand shifts - all from one powerful platform. Less complexity, faster execution and stronger revenue outcomes across every property.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Gain access to resources, tools, and rewards as our trusted partner, whilst delivering to your customers and community the world’s leading hotel distribution and revenue platform.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "We are an award-winning, revenue-driving hotel platform trusted by thousands of hoteliers and property owners, across 150 countries. Driving over 140 million reservations annually, we want to partner with you to provide everything your customers need to achieve unbeatable revenue results.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Harness the world’s best performing guest acquisition network so your customers can win, every time.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Management System",
+    "url": "https://www.siteminder.com/integrations/online-travel-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "HyperGuest bridges the gap between hotels and travel providers with direct, dynamic, and risk-free connections. The platform automatically optimizes the balance between attracting guests and maximizing revenue on every booking. It provides hotels with direct access to the B2B travel ecosystem while helping travel demand partners strengthen connectivity and accelerate results across their networks.",
+    "url": "https://www.siteminder.com/integrations/online-travel-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "In fulfilling our purpose, we are committed to acting lawfully, ethically, and responsibly, and creating value for all our key stakeholders (shareholders, employees, customers, consumers, and communities).",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "While we are not an emissions intensive business, we recognise the importance of taking a proactive approach to managing this footprint and doing our part as part of the transition to a low carbon economy.",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "In FY20, the Scope 3 carbon emissions associated with SiteMinder employees’ business travel were estimated to be 2.8 tCO",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "-e in FY19 given the impact of COVID-19. Post COVID-19, we expect that travel between our offices, to meet our customers and to participate in travel industry events will return to being a part of how we do business. However, we will complement it with virtual solutions where possible, and track and offset our carbon emissions associated with business travel.",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "This includes providing flexible working options, investing in our employees’ learning and development, and providing a competitive benefits package.",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "True to our brand essence of openness, the Open Working @ SiteMinder operating model is designed to embrace our new ways of living, by helping our people to balance their work and personal commitments. It provides employees with more choice over how and where they do their best work, whilst recognising that the level of collaboration required will differ by role and/or department.",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "Diversity and inclusion are part of SiteMinder’s DNA, and we are committed to increasing gender diversity, and support and inclusion for people of colour and people who identify as LGBTQIA+.",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "Our culture is underpinned by our diverse mix of views and backgrounds. We celebrate the diversity of opinions and approaches that our employees bring based on the countries and cultures they live in and their experiences prior to and outside SiteMinder. We have an exceptionally diverse workforce – in terms of ethnicity, spoken language, gender and other forms of diversity.",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "We foster an environment of inclusion and diversity and are committed to making SiteMinder a place where all employees feel safe and supported to bring their whole selves to work. For example, we support employee-led resource groups for lesbian, gay, bisexual, transgender, queer, intersex, and asexual (“",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "We updated our Parental Leave policy to be more inclusive for our LGBTIQ+ team members, in addition to increasing the amount of paid time off that SiteMinder employees can take to spend time with their new family member(s).",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "This relates to the way in which we support our employees and customers through the uncertainties and disruption associated with the COVID-19 pandemic.",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "SiteMinder recognises that ensuring the wellbeing and resilience of our employees and customers during these times is the right thing to do, and also contributes to resilience for recovery.",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "This relates to getting involved and giving back to the community, which we believe in strongly. We encourage our employees to share their skills, expertise, and resources to make a positive difference in the local communities in which they live and work.",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "[5] SiteMinder does not currently request this information from employees, so for this report we have included what self-reported data is currently available",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "Front Office and Revenue Manager",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Distribution Manager",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Aligned Corporate Residences boosts visibility, bookings, and revenue with SiteMinder",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Avillion Hotel Group achieves a 50% cut in online reservation costs and 30% revenue growth with SiteMinder",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Bai Hotel Cebu streamlines operations and boosts revenue with SiteMinder",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Reservations Manager",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Bali Mandira Beach Resort & Spa increases bookings and revenue with SiteMinder",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Barrington Riverside Cottages achieves 22% revenue growth with SiteMinder Dynamic Revenue Plus",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Barrington Riverside Cottages",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Bed and Terrace Guesthouse Chiang Mai achieves 80% increase in revenue and profitability with SiteMinder Channel Manager",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Berenbell Vineyard Retreat achieves more bookings and revenue with SiteMinder",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Boutique Hôtel Entraigues achieves 25% revenue growth with SiteMinder",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Brady Hotels & Apartments boosts revenue and streamlines operations with SiteMinder",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "BTH Hotels achieves 56% revenue growth with SiteMinder",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Reservations & Revenue Manager",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Rooms & Events Revenue Manager",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Casa Salles boosts revenue by 62% with SiteMinder",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Chalet Hôtel Alp’Azur achieves 44% revenue growth with SiteMinder",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "CHAP Hospitality Management increases ADR and revenue with SiteMinder",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Director for Revenue & Digital Distribution",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Director of Revenue Optimization",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Comfort Inn Edgware Road achieves greater efficiency and more revenue with SiteMinder",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Living Accommodation boosts revenue and streamlines operations with SiteMinder",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "Diamond Resort Phuket streamlines operations and guest arrivals with SiteMinder and Welcome Pickups",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "DidaTravel helps hotels increase revenue and efficiency with SiteMinder",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contains data on visitor behaviour and website interaction. This is used in context with the email marketing service Marketo.com, which allows the website to target visitors via email.",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about who we are, how you can contact us and how we process personal data in our",
+    "url": "https://www.siteminder.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Contains data on visitor behaviour and website interaction. This is used in context with the email marketing service Marketo.com, which allows the website to target visitors via email.",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about who we are, how you can contact us and how we process personal data in our",
+    "url": "https://www.siteminder.com/multi-property/",
+    "pass": 1
+   },
+   {
+    "quote": "Contains data on visitor behaviour and website interaction. This is used in context with the email marketing service Marketo.com, which allows the website to target visitors via email.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about who we are, how you can contact us and how we process personal data in our",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Contains data on visitor behaviour and website interaction. This is used in context with the email marketing service Marketo.com, which allows the website to target visitors via email.",
+    "url": "https://www.siteminder.com/integrations/online-travel-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about who we are, how you can contact us and how we process personal data in our",
+    "url": "https://www.siteminder.com/integrations/online-travel-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Contains data on visitor behaviour and website interaction. This is used in context with the email marketing service Marketo.com, which allows the website to target visitors via email.",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about who we are, how you can contact us and how we process personal data in our",
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "pass": 1
+   },
+   {
+    "quote": "security_info@nissay-it.co.jp",
+    "url": "https://www.nissay-it.co.jp/solution/sso.html",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/siteminder/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/siteminder/case-studies",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Introducing SiteMinder Partner Programs | SiteMinder",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "SiteMinder Partner Programs",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "This is why we created SiteMinder Partner Programs, to enable you as our partner to grow stronger through rewards, benefits, and training, whilst delighting your customers with best-in-class solutions and experiences, plus dedicated support.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage our global presence and network to grow your brand and extend your reach. Our program rewards any referral you make when the hotel becomes SiteMinder’s paid customer*, as well as increasing your brand visibility by being featured on our website.",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "*Amount varies based on Partner Program",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "“One of the biggest advantages I’ve had with the SiteMinder Partner Program is that it offers me a full suite of mission-critical services that makes it easier for my clients to implement and improve their businesses.”",
+    "url": "https://www.siteminder.com/partner-programs/",
+    "pass": 1
+   },
+   {
+    "quote": "Search & Connect To 100s of Online Travel Agencies (OTAs) | SiteMinder",
+    "url": "https://www.siteminder.com/integrations/online-travel-agencies/",
+    "pass": 1
+   },
+   {
+    "quote": "Nuitée is an API infrastructure platform that powers travel with AI-driven APIs, agentic workflows, and whitelabel solutions for airlines,...",
+    "url": "https://www.siteminder.com/integrations/online-travel-agencies/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "🤖 日本のホテル向けSiteMinder導入支援 | Orbis",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "日本でのSiteMinder(ホテル向けチャネルマネージャー)導入支援",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のあなたのホテルを、すべてのチャネルに、",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のホテルや宿泊施設にSiteMinderを導入します:接続された予約チャネル、同期された在庫と料金、そして自社サイト上の予約エンジン — 頭痛の種なしで客室を満室にするために",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinderとは何か、そしてなぜ日本のあなたのホテルに",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "(大手オンライン旅行代理店とあなた自身のサイト)を中央カレンダーに接続するホテル向けプラットフォームです:在庫、料金、予約が",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "日本でのあなたのビジネスにSiteMinderがどのように適用されるかを、正確に、しかも誇張なしでお伝えします — お気軽に、ノルマなしで",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "あなたのOTAや代理店を中央カレンダーに接続します",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "日本で販売管理をプロ化したい宿泊施設向けにSiteMinderを導入します — 運用トレーニングと立ち上げ時のサポート付きで",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinderとは何か、そして日本でホテル向けチャネルマネージャーはどう機能するのか?",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "— 大手オンライン旅行代理店(Booking.com、Expedia、DespegarなどのOTA)、あなた自身のウェブサイト、その他の販売チャネル — を、在庫と料金の唯一の",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "これが、日本のホテル経営者を最も悩ませる問題、すなわち",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "実務上、日本のホテルにとって変わるものは絶大です",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "です:日本のあなたの施設でSiteMinderがうまく機能するよう、設定し、接続し、トレーニングします",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "(Booking や Expedia のようなオンライン旅行代理店)は、手数料と引き換えにゲストがあなたを見つけて予約するショーウィンドウです",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "だからこそ日本で私たちは、SiteMinderはあなたのOTAやPMSを「置き換える」ものではないと強調します:それらを",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "にわたり日本や他の市場のビジネスと取り組んできました",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinderの導入にはどれくらいかかり、日本でのステップごとのプロセスはどのようなものか?",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "正直にお答えすると、日本の宿泊施設向けの典型的な",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "日本でのあなたの現在の運営を確認します:どのチャネルを使っているか、料金体系はどうなっているか、稼働率、日々の悩み、そしてすでにPMS(プロパティ管理システム)を持っているかどうか",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のあなたのホテルが客室カテゴリー、写真、説明文、ポリシーをすでに明確にしているなら、私たちは素早く進みます",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "すべてが整理されていなくても心配しないでください:それを構造化する手助けをすることこそ、まさに日本での私たちの仕事の一部です",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のあなたの施設向けの地に足のついた見積もりをご希望なら、いくつのチャネルと客室タイプを扱っているかを聞かせてください",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinderは日本の小規模ホテル、コテージ、ヴィラにも役立つのか?",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "現実はその逆です:日本の小中規模の宿泊施設 — ブティックホテル、コテージ、ヴィラ、ホステル、数施設の家族経営グループ — こそが、手作業の管理に最も苦しんでいます",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "Webアクセス管理ソリューション（Symantec SiteMinder / HPE IceWall） | ニッセイ情報テクノロジー株式会社",
+    "url": "https://www.nissay-it.co.jp/solution/sso.html",
+    "pass": 3
+   },
+   {
+    "quote": "Symantec SiteMinder - 12.8 - Japanese - Japan",
+    "url": "https://techdocs.broadcom.com/jp/ja/symantec-security-software/identity-security/siteminder/12-8/installing.html",
+    "pass": 3
+   },
+   {
+    "quote": "– バケーションレンタル代理店向けのチャネルマネージャー&PMS​",
+    "url": "https://note.com/beds24japan/n/n0c879bd7dd30",
+    "pass": 3
+   },
+   {
+    "quote": "デモ動画や導入事例紹介、ウェビナー（製品機能説明や業界ガイド）を配信",
+    "url": "https://note.com/beds24japan/n/n0c879bd7dd30",
+    "pass": 3
+   },
+   {
+    "quote": "主にホテル業界向けのプロモーション動画や導入事例インタビューが中心",
+    "url": "https://note.com/beds24japan/n/n0c879bd7dd30",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本のホテル向けSiteMinder導入支援 | Orbis — 日本のあなたのホテルを、すべてのチャネルに、オーバーブッキングなしで。 日本のホテルや宿泊施設にSiteMinderを導入します:接続された予約チャネル、同期された在庫と料金、そして自社サイト上の予約エンジン — 頭痛の種なしで客室を満室にするために。",
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinder 実装ガイド - Broadcom — 第 5 章: SiteMinder 容量計画 105 容量計画が導入されました .................................................................................................................................. 105",
+    "url": "https://ftpdocs.broadcom.com/cadocs/0/CA+SiteMinder+12+52-JPN/Bookshelf_Files/PDF/siteminder_implementation_jpn.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinder Web エージェント設定ガイド - Broadcom — SiteMinder Web エージェントおよびサポートされている Web サーバ プラットフォームの一覧については、「テクニカル サポート」にアクセスし、SiteMinder サポート マトリックスを検索してください。",
+    "url": "https://ftpdocs.broadcom.com/cadocs/0/CA+SiteMinder+12+52-JPN/Bookshelf_Files/PDF/siteminder_wa_config_jpn.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Webアクセス管理ソリューション（Symantec SiteMinder / HPE IceWall... — SiteMinder / IceWall Webアクセスの集中制御とアクセス権限の一元管理 企業等におけるWebアプリケーションのユーザ認証／ユーザ属性によるWebサイトへのアクセス制御を集中管理し、統合ID管理基盤と連携してトータルなセキュリティ管理基盤を実現します。",
+    "url": "https://www.nissay-it.co.jp/solution/sso.html",
+    "pass": 3
+   },
+   {
+    "quote": "CA SiteMinder 実装ガイド — 目的と対象読者 (P. 11) SiteMinder ドキュメント (P. 12) SiteMinder コンポーネント (P. 18) 目的と対象読者 このガイドでは、SiteMinder の実装時に組織が考慮できる重要なアーキテ クチャおよび設定上の決定の概要について説明します。",
+    "url": "https://ftpdocs.broadcom.com/cadocs/0/CA+SiteMinder+12+51-JPN/Bookshelf_Files/PDF/siteminder_implementation_JPN.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinder: We put you in demand. — Put your hotel in demand. Join 56,000+ hoteliers using SiteMinder to see more, act faster, and earn more, every day.",
+    "url": "https://www.siteminder.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinder’s Channel Management platform integrates with ... — Apr 24, 2009 · Accommodation providers are now able to use SiteMinder’s single web page interface to instantaneously update booking sites based all over the world including Australia, New Zealand, The United States, Europe, South East Asia and Japan.",
+    "url": "https://www.siteminder.com/news/siteminders-channel-management-platform-integrates-with-leading-japanese-online-booking-site-rakuten/",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinderのレビューと製品の詳細 - Hotel Tech Report — SiteMinderはHotelTechReportのリゾートで人気のゲストメッセージングソフトウェアの一つで、テキストやSMSメッセージを通じてゲストとの明確なコミュニケーションを促進し、応答を効率化し予約ミスを減らす能力が評価されています。",
+    "url": "https://hoteltechreport.com/ja/guest-experience/guest-messaging-platforms/siteminder-guest-engagement",
+    "pass": 3
+   },
+   {
+    "quote": "Symantec SiteMinder - 12.8 - Japanese - Japan - Broadcom — SiteMinder サービスにアクセスできるカスタム フロントエンド アプリケーションを作成します。 サーバ プラグインによって SiteMinder 機能を拡張します。",
+    "url": "https://techdocs.broadcom.com/jp/ja/symantec-security-software/identity-security/siteminder/12-8/installing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Read Our Latest Hotel Case Studies | SiteMinder — With SiteMinder, rooms are booked, inventory is updated, margins are maximised and hoteliers tend to guests, not technology. Read these hotel case studies to see how some of our customers achieved their potential.",
+    "url": "https://www.siteminder.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Read Our Latest Hotel Case Studies | SiteMinder — Learn how Auténtico Hotel in San José, Costa Rica, gained strategic control over pricing, distribution and revenue by switching to SiteMinder's all-in-one hotel platform.",
+    "url": "https://www.siteminder.com/case-studies/feed/",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinder B2B Case Studies & Customer Successes — See how SiteMinder solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "92 SiteMinder Case Studies, Success Stories, & Customer ... — Narrow down 92 case studies by company size & industry to find out how SiteMinder works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/siteminder/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Palladium Hotel Group accelerates growth with ... — The partnership over eight years resulted in reliable global distribution, valuable operational synergies, and sustained growth, with the customer affirming they would choose SiteMinder again for its precision and trustworthiness. View this case study…",
+    "url": "https://www.casestudies.com/company/siteminder/case-study/palladium-hotel-group-grows-with-siteminder-across-8-years",
+    "pass": 3
+   },
+   {
+    "quote": "What is SiteMinder? | Learn more about how SiteMinder works — Learn more about how SiteMinder works, who owns SiteMinder, and what it is like working at SiteMinder worldwide: Dallas, Sydney, London, Barcelona, and more.",
+    "url": "https://www.siteminder.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Report - siteminder.com — We are proud to report that in 2024, over 90% of our employees responded favourably in our employee engagement survey, affirming that they feel included, respected and valued for who they are, and their contribution to SiteMinder.",
+    "url": "https://www.siteminder.com/wp-content/uploads/2025/08/250827_FY25-Annual-Report.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinder - 2026 Company Profile, Team, Funding ... - TracxnSiteMinder Limited and its controlled entitiesSiteMinder Revenue 2024: $129.7M ARR, $946.2M Valuation - LATKASiteMinder - Overview, News & Similar companies | ZoomInfo.comSiteMinder – Revenue Estimate & Market Landscape – 2026SiteMinder — Company Profile | The Company Check — Mar 7, 2026 · SiteMinder - About the company SiteMinder is a p",
+    "url": "https://tracxn.com/d/companies/siteminder/__vmrutO_fDiNHosRykNATgnnzR-6MnuzHsUDwXg2JXA4",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinder Limited and its controlled entities — Message from the Chairman and CEO portant step in SiteMinder’s transformation. We are extending our position at the centre of global hotel commerce, from providing hotels with trusted connectivity and distribution to helping them make and execute bet transformation is occurring on several fronts. Our platform is becoming more intelligent an",
+    "url": "https://www.siteminder.com/wp-content/uploads/2026/08/Annual-Report-SiteMinder-FY26.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinder Revenue 2024: $129.7M ARR, $946.2M Valuation - LATKA — Aug 31, 2024 · SiteMinder generates $129.7M in revenue. Who founded SiteMinder? SiteMinder was founded by SAnkar Narayan. Who is the CEO of SiteMinder? The CEO of SiteMinder is SAnkar Narayan. How much funding does SiteMinder have? SiteMinder raised $641.9M across 6 rounds. How many employees does SiteMinder have? SiteMinder has 696",
+    "url": "https://getlatka.com/companies/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinder - Overview, News & Similar companies | ZoomInfo.com — Sep 26, 2026 · By offering real-time connection and pricing intelligence, SiteMinder empowers hoteliers to optimize their revenue and streamline operations across various digital channels.",
+    "url": "https://www.zoominfo.com/c/siteminder/346437666",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "グローバルの主要サイトコントローラー企業（チャネルマネージャー企... Mar 10, 2025 · グローバルの主要サイトコントローラー企業（チャネルマネージャー企業 Guesty、Cloudbeds、SiteMinder、Beds24、Smoobuに類似する企業としては、宿泊施設向けチャネルマネージャー／PMS（Property Management System）を提供する以下のような企業が挙げられます ...",
+    "url": "https://note.com/beds24japan/n/n0c879bd7dd30",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "グローバルの主要サイトコントローラー企業（チャネルマネージャー企業) ランキング｜Beds24 / サイトコントローラー & PMS & 予約エンジン",
+    "url": "https://note.com/beds24japan/n/n0c879bd7dd30",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルの主要サイトコントローラー企業（チャネルマネージャー企業) ランキング",
+    "url": "https://note.com/beds24japan/n/n0c879bd7dd30",
+    "pass": 3
+   },
+   {
+    "quote": "Beds24 / サイトコントローラー & PMS & 予約エンジン",
+    "url": "https://note.com/beds24japan/n/n0c879bd7dd30",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルの主要サイトコントローラー企業（チャネルマネージャー企業",
+    "url": "https://note.com/beds24japan/n/n0c879bd7dd30",
+    "pass": 3
+   },
+   {
+    "quote": "Guesty、Cloudbeds、SiteMinder、Beds24、Smoobuに類似する企業",
+    "url": "https://note.com/beds24japan/n/n0c879bd7dd30",
+    "pass": 3
+   },
+   {
+    "quote": "としては、宿泊施設向けチャネルマネージャー／PMS（Property Management System）を提供する以下のような企業が挙げられます",
+    "url": "https://note.com/beds24japan/n/n0c879bd7dd30",
+    "pass": 3
+   },
+   {
+    "quote": "vantagemarketresearch.com",
+    "url": "https://note.com/beds24japan/n/n0c879bd7dd30",
+    "pass": 3
+   },
+   {
+    "quote": "バケーションレンタル（1軒貸しの民泊）向け",
+    "url": "https://note.com/beds24japan/n/n0c879bd7dd30",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "SiteMinder (@SiteMinder_News) / X We are aware that our customers are experiencing issues logging in to the SiteMinder platform. This is due to a global Amazon Web Services outage. Our team is monitoring this situation closely, and we'll share updates here as they come.",
+    "url": "https://x.com/SiteMinder_News",
+    "pass": 3
+   },
+   {
+    "quote": "CrowdStrike on X: \"SiteMinder wants employees to use AI ... SiteMinder wants employees to use AI without losing control of sensitive data. With Falcon Guardian, the Australian hotel commerce platform gains visibility into how AI tools and agents are being used and can apply safeguards across AI interactions.",
+    "url": "https://x.com/CrowdStrike/status/2120245106426982671",
+    "pass": 3
+   },
+   {
+    "quote": "Lisa Horne (@LisaSiteMinder) / Posts / X SiteMinder founder Mike Ford is being joined by @Cendyn 's Charles Deyo, @OakyApp 's Erik Tengen, @FindPace 's Jason Pinto and @Autoclerk 's Mark Houser to discuss what's really needed in hotel tech. Sign up for the live stream on 19 June at 3pm CDT: bit.ly/2LuW6Lx",
+    "url": "https://x.com/LisaSiteMinder",
+    "pass": 3
+   },
+   {
+    "quote": "बैरागी on X: \"I was trying to fix some SiteMinder/SPNEGO ... I was trying to fix some SiteMinder/SPNEGO issue at work and came to know that we could use `chrome://net-export` to get all the 401/302 redirects that isn't shown in the inspect network tab. for e.g. the WWW-Authenticate: Negotiate calls",
+    "url": "https://x.com/AndFragment/status/2108979367498137620",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SiteMinder - LinkedIn SiteMinder is the global hotel industry's #1 Hotel eCommerce Platform, as ranked by the HotelTechAwards – the only data-driven awards program to recognise the world’s best accommodation software.",
+    "url": "https://www.linkedin.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinder | LinkedIn We're the name behind SiteMinder, the world’s leading hotel commerce platform, and Little Hotelier, an all-in-one hotel management software that makes the lives of small accommodation providers...",
+    "url": "https://in.linkedin.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinder - LinkedIn We're the name behind SiteMinder, the world’s leading hotel commerce platform, and Little Hotelier, an all-in-one hotel management software that makes the lives of small accommodation providers...",
+    "url": "https://au.linkedin.com/company/siteminder",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinder - LinkedIn We're the name behind SiteMinder, the world’s leading hotel commerce platform, and Little Hotelier, an all-in-one hotel management software that makes the lives of small accommodation providers...",
+    "url": "https://ie.linkedin.com/company/siteminder",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SiteMinder - FacebookSiteMinder - Unveiling our Dynamic Commerce Engine with ...SiteMinder - SiteMinder added a new photo. - FacebookSiteMinder’s Changing Traveller Report 2026 is here. The ...Unveiling our Dynamic Commerce Engine with some of our ...SiteMinder - Hello from our newest office! We're... | FacebookSiteMinder - SiteMinder updated their cover photo. - Facebook Oct 1, 2026 · The issue a",
+    "url": "https://www.facebook.com/siteminder1/",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinder - Unveiling our Dynamic Commerce Engine with ... Contemporary Art in Sydney, we introduced SiteMinder's Dynamic Commerce Engine to the world alongside our customers and partners. And, just like that, we stepped into a new era of agentic hotel commerce. The days may go by fast, but our excitement about the future we're building for hotels is here to stay 💙 +15 8 Like SiteMinder Sep 22, 2",
+    "url": "https://www.facebook.com/siteminder1/posts/unveiling-our-dynamic-commerce-engine-with-some-of-our-dearest-and-nearest-was-t/1561138006051786/",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinder - SiteMinder added a new photo. - Facebook Jun 4, 2026 · 20 years of SiteMinder. One global celebration. And not a single time zone left out. Last week was certainly one to remember. From Sydney to Bangkok, London to Dallas, we ran a round- the-clock series of festivities to recognise the people behind two decades of empowering the world’s hotels and spotlight the diversity across our t",
+    "url": "https://www.facebook.com/siteminder1/photos/1454903320008589/",
+    "pass": 3
+   },
+   {
+    "quote": "SiteMinder’s Changing Traveller Report 2026 is here. The ...Unveiling our Dynamic Commerce Engine with some of our ...SiteMinder - Hello from our newest office! We're... | FacebookSiteMinder - SiteMinder updated their cover photo. - Facebook Nov 18, 2025 · SiteMinder’s Changing Traveller Report 2026 is here. The world’s largest consumer research on accommodation, featuring insights from 12,000 tra",
+    "url": "https://www.facebook.com/siteminder1/videos/siteminders-changing-traveller-report-2026-is-herethe-worlds-largest-consumer-re/3535125066627247/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.siteminder.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.siteminder.com/case-studies/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siteminder.com/hotel-business-intelligence/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siteminder.com/dynamic-revenue-plus/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siteminder.com/multi-property/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.siteminder.com/about/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siteminder.com/careers/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siteminder.com/partner-programs/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.siteminder.com/integrations/online-travel-agencies/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.siteminder.com/pricing/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siteminder.com/about-old/esg-statement/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.siteminder.com/hotel-commerce/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ftpdocs.broadcom.com/cadocs/0/CA+SiteMinder+12+52-JPN/Bookshelf_Files/PDF/siteminder_implementation_jpn.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ftpdocs.broadcom.com/cadocs/0/CA+SiteMinder+12+52-JPN/Bookshelf_Files/PDF/siteminder_wa_config_jpn.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nissay-it.co.jp/solution/sso.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hoteltechreport.com/ja/guest-experience/guest-messaging-platforms/siteminder-guest-engagement",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://techdocs.broadcom.com/jp/ja/symantec-security-software/identity-security/siteminder/12-8/installing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/siteminder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/siteminder/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.rideminder.com/features/white-label-customization",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/siteminder/__vmrutO_fDiNHosRykNATgnnzR-6MnuzHsUDwXg2JXA4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/siteminder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/beds24japan/n/n0c879bd7dd30",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SiteMinder_News",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CrowdStrike/status/2120245106426982671",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LisaSiteMinder",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AndFragment/status/2108979367498137620",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/siteminder",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/siteminder",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/company/siteminder",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ie.linkedin.com/company/siteminder",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/siteminder1/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/siteminder1/posts/unveiling-our-dynamic-commerce-engine-with-some-of-our-dearest-and-nearest-was-t/1561138006051786/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/siteminder1/photos/1454903320008589/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/siteminder1/videos/siteminders-changing-traveller-report-2026-is-herethe-worlds-largest-consumer-re/3535125066627247/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SiteMinder_News",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Siteminder 日本 導入",
+   "results": [
+    "https://ipv4.orbis.agency/jp/services/implementations/siteminder/",
+    "https://ftpdocs.broadcom.com/cadocs/0/CA+SiteMinder+12+52-JPN/Bookshelf_Files/PDF/siteminder_implementation_jpn.pdf",
+    "https://ftpdocs.broadcom.com/cadocs/0/CA+SiteMinder+12+52-JPN/Bookshelf_Files/PDF/siteminder_wa_config_jpn.pdf",
+    "https://www.nissay-it.co.jp/solution/sso.html",
+    "https://ftpdocs.broadcom.com/cadocs/0/CA+SiteMinder+12+51-JPN/Bookshelf_Files/PDF/siteminder_implementation_JPN.pdf",
+    "https://techdocs.broadcom.com/jp/ja/symantec-security-software/identity-security/siteminder/12-9/siteminder-on-docker-containers/introduce-sm-in-containers-into-a-traditional-environment.html",
+    "https://hotelx.tech/徹底解説：ホテル用サイトコントローラー（チャ/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Siteminder 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Siteminder Japan",
+   "results": [
+    "https://www.siteminder.com/",
+    "https://www.siteminder.com/news/siteminders-channel-management-platform-integrates-with-leading-japanese-online-booking-site-rakuten/",
+    "https://hoteltechreport.com/ja/guest-experience/guest-messaging-platforms/siteminder-guest-engagement",
+    "https://techdocs.broadcom.com/jp/ja/symantec-security-software/identity-security/siteminder/12-8/installing.html",
+    "https://ftpdocs.broadcom.com/cadocs/0/CA+SiteMinder+12+52-JPN/Bookshelf_Files/PDF/siteminder_wa_config_jpn.pdf",
+    "https://www.nissay-it.co.jp/solution/sso.html",
+    "https://techdocs.broadcom.com/jp/ja/symantec-security-software/identity-security/siteminder/12-9/getting-started/siteminder-capabilities.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Siteminder manufacturing customer case study",
+   "results": [
+    "https://www.siteminder.com/case-studies/",
+    "https://www.siteminder.com/case-studies/feed/",
+    "https://www.casestudies.com/company/siteminder",
+    "https://www.featuredcustomers.com/vendor/siteminder/case-studies",
+    "https://www.casestudies.com/company/siteminder/case-study/palladium-hotel-group-grows-with-siteminder-across-8-years",
+    "https://valuecore.ai/valuehub/organizations/siteminder/business-documents",
+    "https://www.crowdstrike.com/en-us/resources/customer-stories/siteminder/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Siteminder white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.siteminder.com/about/",
+    "https://www.rideminder.com/features/white-label-customization",
+    "https://partners.spectrum.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Siteminder founded funding employees revenue",
+   "results": [
+    "https://www.siteminder.com/wp-content/uploads/2025/08/250827_FY25-Annual-Report.pdf",
+    "https://tracxn.com/d/companies/siteminder/__vmrutO_fDiNHosRykNATgnnzR-6MnuzHsUDwXg2JXA4",
+    "https://www.siteminder.com/wp-content/uploads/2026/08/Annual-Report-SiteMinder-FY26.pdf",
+    "https://getlatka.com/companies/siteminder",
+    "https://www.zoominfo.com/c/siteminder/346437666",
+    "https://compworth.com/company/siteminder",
+    "https://www.thecompanycheck.com/company/b/siteminder/8928x2uscj8bx037o"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Siteminder",
+   "results": [
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/beds24japan/n/n0c879bd7dd30",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/end_hamaokanp/n/n86a8ede22413",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Siteminder",
+   "results": [
+    "https://x.com/SiteMinder_News",
+    "https://x.com/CrowdStrike/status/2120245106426982671",
+    "https://x.com/LisaSiteMinder",
+    "https://x.com/AndFragment/status/2108979367498137620",
+    "https://x.com/Filapek/status/2115647769113505906",
+    "https://x.com/Filapek/status/2115220428457381970",
+    "https://x.com/kwentra_/status/2118346760561016952"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Siteminder",
+   "results": [
+    "https://www.linkedin.com/company/siteminder",
+    "https://in.linkedin.com/company/siteminder",
+    "https://au.linkedin.com/company/siteminder",
+    "https://ie.linkedin.com/company/siteminder",
+    "https://uk.linkedin.com/company/siteminder",
+    "https://mx.linkedin.com/company/siteminder",
+    "https://ph.linkedin.com/company/siteminder"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Siteminder",
+   "results": [
+    "https://www.facebook.com/siteminder1/",
+    "https://www.facebook.com/siteminder1/posts/unveiling-our-dynamic-commerce-engine-with-some-of-our-dearest-and-nearest-was-t/1561138006051786/",
+    "https://www.facebook.com/siteminder1/photos/1454903320008589/",
+    "https://www.facebook.com/siteminder1/videos/siteminders-changing-traveller-report-2026-is-herethe-worlds-largest-consumer-re/3535125066627247/",
+    "https://www.facebook.com/siteminder1/videos/unveiling-our-dynamic-commerce-engine-with-some-of-our-dearest-and-nearest-was-t/4714903848754108/",
+    "https://www.facebook.com/siteminder1/posts/hello-from-our-newest-office-were-thrilled-to-announce-the-opening-of-siteminder/1254115850087338/",
+    "https://www.facebook.com/siteminder1/photos/1543856237779963/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Siteminder note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/sadaaki",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.siteminder.com/investor-relations-old/leadership/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://diamond.jp/articles/-/388572"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Siteminder X 投稿",
+   "results": [
+    "https://x.com/SiteMinder_News",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://x.com/ishida_chatgpt/article/2066323646180954330",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://note.com/miraispark/n/n075e5616fd14",
+    "https://stillworks-lab.hatenablog.com/entry/2026/05/28/130343",
+    "https://x-force.thinkforce.co.jp/archives/461"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

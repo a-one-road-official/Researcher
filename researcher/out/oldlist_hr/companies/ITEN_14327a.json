@@ -1,0 +1,1538 @@
+{
+ "name": "ITEN",
+ "aliases": [],
+ "context": "旧営業リスト｜Electronics / Semiconductors｜日本進出済",
+ "researched_at": "2026-11-11T09:23:23.221981+00:00",
+ "official_url": "https://www.iten.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都中央区築地1-12-22\nコンワビル",
+    "url": "https://prtimes.jp/main/html/rd/p/000000085.000041334.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1961年02月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000085.000041334.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Over the years, ITEN has not only pioneered advancements in solid-state ceramic technologies but has also established a robust presence across industries. Have a glimpse at some key metrics that showcase our commitment to excellence and innovation.",
+    "url": "https://www.iten.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ITEN FRANCHIT LE CAP DU MILLION DE BATTERIES TOUT-SOLIDE ET ÉLARGIT SA GAMME AVEC UN NOUVEAU PRODUIT",
+    "url": "https://www.iten.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Read all press release",
+    "url": "https://www.iten.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost Your Product Performance with ITEN",
+    "url": "https://www.iten.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join us in creating a sustainable world by reducing our carbon footprint and protecting the environment through advanced technological solutions.",
+    "url": "https://www.iten.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Production Operator - Stylish Footballer",
+    "url": "https://www.iten.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Recruitment Officer - Curious Basketball Player",
+    "url": "https://www.iten.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Tailor-Made Onboarding",
+    "url": "https://www.iten.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Expect a role-specific onboarding program to help you become familiar with our company, establish connections with coworkers, and position you for success.",
+    "url": "https://www.iten.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Enjoy responsive and supportive management that ensures regular monitoring and provides growth opportunities based on company needs.",
+    "url": "https://www.iten.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "\"ITEN's solid-state battery technology has revolutionized our operations. Their innovative products have greatly improved our efficiency and sustainability efforts.\"",
+    "url": "https://www.iten.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "ITEN is proud to support initiatives that inspire and cultivate the next generation of innovators, fostering partnerships that open doors to exciting careers in science and technology.",
+    "url": "https://www.iten.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Together with the «Elles bougent» association, ITEN is dedicated to exposing young girls to the variety of professions and careers in the industry, as well as in the scientific and technical fields.",
+    "url": "https://www.iten.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Since August 2024, ITEN has been a signatory of the Charte des 1000, committing to inclusive recruitment, welcoming practices, and the promotion of diverse careers. Actions include CV-free job dating, disability and employment events, and a diversity e-learning module currently being tested.",
+    "url": "https://www.iten.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2025, ITEN has signed the Diversity Charter, reaffirming its commitment to inclusion and equal opportunity beyond legal obligations. This voluntary approach provides a clear framework and tools to support progress toward greater diversity within the company. Read our",
+    "url": "https://www.iten.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At ITEN, we believe that true innovation happens when diversity thrives. That’s why we measure our progress through the Gender Equality Index — a recognized standard that evaluates pay equity, career advancement, and workplace inclusion across genders. By tracking our performance with transparent indicators, we’re turning values into action — and building a more balanced future for everyone.",
+    "url": "https://www.iten.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Boost Your Product Performance with ITEN",
+    "url": "https://www.iten.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Boost Your Product Performance with ITEN",
+    "url": "https://www.iten.com/applications/iot-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Imagine a world where the limitations of traditional energy storage are no longer a barrier. ITEN was born from a relentless dedication to innovation and a profound understanding of the challenges within the electronics industry.",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "By harnessing the power of nanomaterials and innovative electrode architectures, ITEN has developed groundbreaking solid-state ceramic technologies. These advancements promise to revolutionize the energy storage market, driving a paradigm shift that will redefine possibilities for electronic devices and beyond.",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "ITEN is leading in energy storage with our unique solid-state ceramic technologies, unlocking unprecedented possibilities for the next generation of electronic devices.",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional battery technologies have often limited the development of innovative products and applications.",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "ITEN empowers innovators and visionaries by propelling our solid-state batteries into new territories, enabling the creation of groundbreaking products and solutions.",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The electronics industry has historically prioritized performance and functionality, often at the expense of environmental sustainability.",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 2014",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 2017",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Series A funding secured to scale operations and expand ITEN’s market presence in energy storage solutions.",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 2018",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Launched our pilot production line in Dardilly, marking a significant step towards large-scale manufacturing.",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 2019",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Awarded Manufacturing Company of the Year for excellence in production and innovation in energy storage.",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 2020",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Awarded of the Prix Montgolfier",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Honored with the prestigious Prix Montgolfier for outstanding contributions to the field of solid-state energy storage.",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Official launch of ITEN’s full-scale manufacturing line in Dardilly, enhancing production capacity.",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 2024",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "ITEN among France's most successful tech companies promotion 2024 FRENCH TECH NEXT40/120",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 28, 2024",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Boost Your Product Performance with ITEN",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our leadership team consists of seasoned professionals with extensive experience across various industries. Their combined expertise positions ITEN at the forefront of technological advancements, making significant strides in sustainability and efficiency.",
+    "url": "https://www.iten.com/about/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Leveraging 20 years’ experience in executive positions within European and US corporations, Dr Ian Cayrefourcq leads the technology developments and industrial programs.",
+    "url": "https://www.iten.com/about/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Experienced financial and operational executive, specialized in high-level financial transactions and structuring companies undergoing rapid growth or restructuring, primarily in the medical devices sector.",
+    "url": "https://www.iten.com/about/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Entrepreneur and co-founding partner on multiple occasions, recognized for strong internal and external leadership, the ability to build high-performing organizations from early stages, and to secure the long-term financial sustainability of companies.",
+    "url": "https://www.iten.com/about/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Proven experience in international environments (Europe, USA, Asia), under IFRS and US GAAP standards, with management of finance, HR, IT, and operations teams.",
+    "url": "https://www.iten.com/about/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Director, Representative of Innovacom",
+    "url": "https://www.iten.com/about/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Director, Representative of Habert Dassault Finance",
+    "url": "https://www.iten.com/about/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Director, Representative of EREN",
+    "url": "https://www.iten.com/about/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Director, Representative of BpiFrance",
+    "url": "https://www.iten.com/about/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Director, Representative of SEB",
+    "url": "https://www.iten.com/about/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "By leveraging our pioneering solid-state ceramic technologies, we aim to lead the industry in reducing carbon footprints and promoting sustainable practices. We are committed to continuous improvement and collaboration, ensuring that our advancements benefit both society and the planet.",
+    "url": "https://www.iten.com/about/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "ITEN among France's most successful tech companies promotion 2024 FRENCH TECH NEXT40/120",
+    "url": "https://www.iten.com/about/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 28, 2024",
+    "url": "https://www.iten.com/about/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Boost Your Product Performance with ITEN",
+    "url": "https://www.iten.com/about/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "The production and disposal of batteries have long been associated with harmful environmental consequences.",
+    "url": "https://www.iten.com/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "The ISO 14001 certification is a globally recognized standard that sets the highest benchmarks for environmental management systems. By achieving this certification, ITEN has demonstrated its ability to identify, manage, monitor, and control environmental issues associated with our operations, products, and services.",
+    "url": "https://www.iten.com/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Our cutting-edge solid-state technologies are built upon a comprehensive sustainability strategy that encompasses three critical pillars.",
+    "url": "https://www.iten.com/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainability is ingrained into the core design principles of our solid-state technologies.",
+    "url": "https://www.iten.com/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "We meticulously select materials and architectures that minimize environmental impact, prioritize resource efficiency, and facilitate end-of-life recycling and reuse. Additionally, we prioritize responsible material sourcing, ensuring that our supply chain adheres to the highest standards of environmental and social responsibility.",
+    "url": "https://www.iten.com/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Sustainability by Process",
+    "url": "https://www.iten.com/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Our commitment to sustainability extends beyond product design and fuels our our manufacturing process developments.",
+    "url": "https://www.iten.com/about/sustainability",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "ITEN OUVRE LA VOIE AUX IMPLANTS MÉDICAUX DE NOUVELLE GÉNÉRATION, PLUS SÛRS ET PLUS AUTONOMES",
+    "url": "https://www.iten.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage our leadership in solid-state technologies and manufacturing excellence to deliver breakthrough energy storage solutions to the electronics industry.",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Launched our pilot production line in Dardilly, marking a significant step towards large-scale manufacturing.",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "ITEN Manufacturing Company of the Year",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Awarded Manufacturing Company of the Year for excellence in production and innovation in energy storage.",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Series B funding raised to support large-scale manufacturing and global expansion of ITEN’s energy storage solutions.",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Inauguration of the Manufacturing Line in Dardilly",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Official launch of ITEN’s full-scale manufacturing line in Dardilly, enhancing production capacity.",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Inauguration of the DARDILLY++ PILOT PLANT",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Leveraging 20 years’ experience in executive positions within European and US corporations, Dr Ian Cayrefourcq leads the technology developments and industrial programs.",
+    "url": "https://www.iten.com/about/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Inauguration of the DARDILLY++ PILOT PLANT",
+    "url": "https://www.iten.com/about/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Our commitment to sustainability extends beyond product design and fuels our our manufacturing process developments.",
+    "url": "https://www.iten.com/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "100% of the manufacturing tools under continuous energy and consumable monitoring",
+    "url": "https://www.iten.com/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Our life cycle analyses provide a holistic understanding of the environmental impact associated with our solid-state ceramic devices, from raw material extraction and manufacturing to use and end-of-life disposal.",
+    "url": "https://www.iten.com/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Minimize waste generation by implementing sustainable manufacturing practices.",
+    "url": "https://www.iten.com/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Promote a circular economy by increasing the recyclability of our products and utilizing more recycled materials in our manufacturing processes.",
+    "url": "https://www.iten.com/about/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Supplies and Parts",
+    "url": "https://pitchbook.com/profiles/company/258093-64",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer and fabricator of thermoplastic and thermoset stamped, molded and machined plastic parts, catering to a range of industries including aerospace, construction, electronics, medical and consumer goods.",
+    "url": "https://pitchbook.com/profiles/company/258093-64",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer and fabricator of thermoplastic and thermoset stamped, molded and machined plastic parts, catering to a ran",
+    "url": "https://pitchbook.com/profiles/company/258093-64",
+    "pass": 3
+   },
+   {
+    "quote": "Iten Industries’s primary industry is Industrial Supplies and Parts.",
+    "url": "https://pitchbook.com/profiles/company/258093-64",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of solid-state and rechargeable micro-batteries intended to cover all the manufacturing process's front-end and back-end steps.",
+    "url": "https://pitchbook.com/profiles/company/61968-97",
+    "pass": 3
+   },
+   {
+    "quote": "Method for manufacturing a battery, and battery obtained by this method",
+    "url": "https://pitchbook.com/profiles/company/61968-97",
+    "pass": 3
+   },
+   {
+    "quote": "Process for manufacturing a battery, and battery obtained by this process",
+    "url": "https://pitchbook.com/profiles/company/61968-97",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Be Part of the Future of Innovation",
+    "url": "https://www.iten.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We value diversity, inclusion, teamwork, and a desire to take on new challenges. Be part of an international company that values your unique talents.",
+    "url": "https://www.iten.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Become part of a team that values teamwork and continuous personal growth. Your expertise contributes to the company while you learn and develop.",
+    "url": "https://www.iten.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Throughout the year, ITEN welcomes interns and work-study students to carry out a large variety of missions within our technical or support teams. Please join our network of local schools and universities.",
+    "url": "https://www.iten.com/about/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Imagine a world where the limitations of traditional energy storage are no longer a barrier. ITEN was born from a relentless dedication to innovation and a profound understanding of the challenges within the electronics industry.",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "For the third consecutive year, ITEN is part of the French Tech Next 40/120 class",
+    "url": "https://www.iten.com/about/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "360° strategic vision: defining 3–5 years development plans, designing complex financing structures, establishing governance frameworks, and leading major strategic operations (fundraising, M&A, IPOs, international acquisitions).",
+    "url": "https://www.iten.com/about/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "For the third consecutive year, ITEN is part of the French Tech Next 40/120 class",
+    "url": "https://www.iten.com/about/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Iten Industries has 46 total employees.",
+    "url": "https://pitchbook.com/profiles/company/258093-64",
+    "pass": 3
+   },
+   {
+    "quote": "What is Iten Industries’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/258093-64",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Iten Industries is",
+    "url": "https://pitchbook.com/profiles/company/258093-64",
+    "pass": 3
+   },
+   {
+    "quote": "ITen (Dardilly) has 92 total employees.",
+    "url": "https://pitchbook.com/profiles/company/61968-97",
+    "pass": 3
+   },
+   {
+    "quote": "What is ITen (Dardilly)’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/61968-97",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for ITen (Dardilly) is",
+    "url": "https://pitchbook.com/profiles/company/61968-97",
+    "pass": 3
+   },
+   {
+    "quote": "When paying by VISA credit card, I struggled because the authentication code didn't arrive. It seems that some card companies might block it, but when I inquired with Sumitomo Mitsui, they were able to confirm the authentication code on their end, so I was able to get it and resolve the issue.",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "They provided very attentive support. My layover in Nairobi was short, so I didn't have time to exchange money for local currency (Kenyan Shillings) or buy a SIM card, but when I arrived at the accommodation, they exchanged USD for Kenyan Shillings for me.",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You might be worried about malaria or infectious diseases, but since Iten is at a high altitude, it seems there are no mosquitoes that carry malaria.",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "They cost 300 Kenyan Shillings, and you can have your name or national flag arranged on them.",
+    "url": "https://note.com/zakita_220/n/n12eb30705368?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本ミクニヤ株式会社 | 点検システム iTENシリーズ",
+    "url": "https://iten.sogonet.co.jp/voice/river01/",
+    "pass": 3
+   },
+   {
+    "quote": "総合防災、インフラの維持補修、環境調査等、私たちの暮らしにかかわる各事業に取り組んでおられる日本ミクニヤ株式会社様に",
+    "url": "https://iten.sogonet.co.jp/voice/river01/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ミクニヤ株式会社 様、ありがとうございました！",
+    "url": "https://iten.sogonet.co.jp/voice/river01/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | 点検システム iTENシリーズ",
+    "url": "https://iten.sogonet.co.jp/voice/?series=fs",
+    "pass": 3
+   },
+   {
+    "quote": "菱洋エレクトロ、フランスの全固体電池メーカーITENと日本初の代理店契約を締結 | リョーサン菱洋株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000085.000041334.html",
+    "pass": 3
+   },
+   {
+    "quote": "菱洋エレクトロ、フランスの全固体電池メーカーITENと日本初の代理店契約を締結",
+    "url": "https://prtimes.jp/main/html/rd/p/000000085.000041334.html",
+    "pass": 3
+   },
+   {
+    "quote": "エレクトロニクス商社の菱洋エレクトロ株式会社（本社：東京都中央区、代表取締役社長執行役員：中村 守孝、以下「菱洋エレクトロ」）は、全固体電池メーカーのITEN（本社：フランス・ダルディリー、CEO：Fabien GABEN、読み：アイテン）と国内で初めて代理店契約を締結し、環境に配慮した安全な全固体電池の取り扱いを開始いたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000085.000041334.html",
+    "pass": 3
+   },
+   {
+    "quote": "菱洋エレクトロは、ITENのエコロジーな活動方針に深く賛同し、このたび代理店契約を締結しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000085.000041334.html",
+    "pass": 3
+   },
+   {
+    "quote": "菱洋エレクトロは、アジア地域で長年の経験とノウハウを有し、ITENマイクロ電池がターゲットとする市場とアプリケーションに精通している主要販売代理店です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000085.000041334.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都中央区築地1-12-22",
+    "url": "https://prtimes.jp/main/html/rd/p/000000085.000041334.html",
+    "pass": 3
+   },
+   {
+    "quote": "総代理店とは？一般的な代理店との違い | 代理店本舗",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "代理店募集、販売代理店募集など副業・起業や独立、開業で商材を探す資料請求サイト",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "紹介代理店、紹介営業",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "代理店という言葉はよく耳にしますが、総代理店という言葉はご存じですか？",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "代理店を統括している親元のようなものでしょうか",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "総代理店と混同されがちな一次代理店という言葉もありますので、その違いも含めて解説していきます",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "ワンポイント：総代理店は独占禁止法に抵触しないのか",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "メリット3：メーカーと対等な立場で代理店開拓ができる",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "総代理店とは、複数の代理店を統括する立場にある代理店を指す言葉で、全ての代理店の管理をおこなったり、時には新しい代理店の開拓などをおこなったりします",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "新規顧客への営業をおこなうこともありますが、どちらかというと傘下の代理店の売り上げ管理や指導などが総代理店の業務となります",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーから代理店開拓の権限も付与されるケースが多いため、顧客開拓よりも代理店開拓（＝代理店営業）をおこなう機会の方が多くなります",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "総代理店と一般的な代理店は、その役割が全く異なります",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "一般的な代理店はメーカーから商品販売を預かり販売を代行することが業務となり、商品が売れるとそのマージンを得るという仕組みとなっています",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "これに対し、総代理店は商品販売を代行することがメインの業務とはなりません",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "総代理店の下には必ず傘下の代理店が複数あるため、これらの代理店の販売業績や商品管理、接客や顧客へのアフターフォローなどについて現状を掌握し、必要に応じて指導や対策を講じることが総代理店のメインの業務となります",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "総代理店とよく似た言葉に「一次代理店」というものがあります",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "代理店制度はピラミッド状の構造で成り立っているのが一般的です",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーの直下に一次代理店がり、その下に二次代理店、さらにその下に三次代理店、四次代理店・・・と続いていきます",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "このトップにあるのが一次代理店であり、その業務内容は二次代理店のフォローアップと販売促進のサポートとなります",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "このように説明すると、代理店の管理や指導をおこなう総代理店と、二次代理店のフォローアップをおこなう一次代理店は、一見名前が違うだけで同じようなものに感じられてしまいます",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "一次代理店はあくまでもメーカーの下にあるものですが、総代理店はメーカーと対等な立場にあります",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "また、総代理店は一次代理店のことも統括し、一次代理店の店舗開拓も業務内容に含まれます",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、総代理店は代理店のピラミッドには属さず、メーカーと対等な立場で全ての代理店を率いる役を担っているということです",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "総代理店になるメリットには一体どのようなものがあるのでしょうか",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "総代理店の最大のメリットは独占販売権が手に入ることです",
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "pass": 3
+   },
+   {
+    "quote": "As of 2026, yellow fever vaccination is not mandatory for entry into Kenya from Japan, so you can enter without it.",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, it may be required depending on the transit country, or when returning to Japan from Kenya depending on the transit country, so it is safer to get vaccinated.",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I decided to go to Kenya on a whim, so the earliest I could get an appointment in Tokyo was about a month later, and two weeks later in Yokohama.",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since it was possible to get it in Nagoya the following week, I went all the way from Tokyo to Nagoya just for the vaccination, haha.",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There were many participants from Western countries, totaling 15 people including those from the US, UK, Australia, Germany, Denmark, Italy, the Netherlands, Switzerland, and myself from Japan.",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you want to escape the hot and humid Japanese summer, I recommend staying around July or August lol",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In terms of hygiene, I think it is a tough environment for people who are too used to Japan and are very clean.",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I rarely get stomach aches when I'm in Japan, but I had stomach aches occasionally, whether it was the water or the food like meat or fruit.",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In Japan or Western countries, when you eat greasy food or fast food, you tend to want a drink, but I basically consumed water and occasionally drank milk, chai, or coffee.",
+    "url": "https://note.com/zakita_220/n/n12eb30705368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I don't have a particularly weak stomach, and I rarely get stomach aches in Japan, but I even got a stomach ache while jogging, so I suppose the hygiene standards are not as good as in Japan.",
+    "url": "https://note.com/zakita_220/n/n12eb30705368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since it's Kenya, I expected things to be sold at bargain prices compared to Japan, but they were actually more expensive than buying them in Japan or the West.",
+    "url": "https://note.com/zakita_220/n/n12eb30705368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I was able to request things like the Kenyan flag plus my name, or the Kenyan flag plus the Japanese flag 🇯🇵.",
+    "url": "https://note.com/zakita_220/n/n12eb30705368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It's cheaper than the Japanese chain store Rirakuru.",
+    "url": "https://note.com/zakita_220/n/n12eb30705368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I prefer Japanese shiatsu massage, but since I was exhausted from running on courses with crazy elevation changes every day, I was just grateful to be able to get a massage.",
+    "url": "https://note.com/zakita_220/n/n12eb30705368?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本ミクニヤ株式会社 | 点検システム iTENシリーズ導入事例 | 点検システム iTENシリーズ菱洋エレクトロ、フランスの全固体電池メーカーITENと日本初の代理店...ITEN sign a distribution agreement with Ryoyo Electro ...体内へ進出する全固体電池！ITEN社が挑む「心臓ポンプ用」次世代バッ...究極の小型パッケージで再充電、表面実装可能な全固体電池メーカー IT...iTEN_ご導入までの流れ - 株式会社綜合システム土木設計ソフト・土木... — 日本ミクニヤ株式会社 取材日：2024年11月 総合防災、インフラの維持補修、環境調査等、私たちの暮らしにかかわる各事業に取り組んでおられる日本ミクニヤ株式会社様に 河川点検システム「iTEN-River」の導入の背景と効果についてお伺いしました。 今回の河川点検業務では約20日",
+    "url": "https://iten.sogonet.co.jp/voice/river01/",
+    "pass": 3
+   },
+   {
+    "quote": "導入事例 | 点検システム iTENシリーズ — 今回の河川点検業務では約20日間現場に出ていたため、単純計算で約20時間分の整理作業が、iTEN‑FS の導入によってほぼ不要になり、非常に大きな時間削減につながりました。",
+    "url": "https://iten.sogonet.co.jp/voice/?series=fs",
+    "pass": 3
+   },
+   {
+    "quote": "菱洋エレクトロ、フランスの全固体電池メーカーITENと日本初の代理店... — Apr 19, 2023 · リョーサン菱洋株式会社のプレスリリース（2023年4月19日 15時40分）菱洋エレクトロ、フランスの全固体電池メーカーITENと日本初の代理店契約を締結",
+    "url": "https://prtimes.jp/main/html/rd/p/000000085.000041334.html",
+    "pass": 3
+   },
+   {
+    "quote": "ITEN sign a distribution agreement with Ryoyo Electro ... — With ITEN’s powerful and fast-rechargeable solid-state micro-batteries, Ryoyo Electro will thus offer to their customers a new ecofriendly alternative to coin cells and supercapacitors for low power wireless systems.” Such distribution agreement is effective as of today.",
+    "url": "https://www.iten.com/resources/articles/iten-sign-a-distribution-agreement-with-ryoyo-electro-corporation-for-japan-and-popular-republic-of-china",
+    "pass": 3
+   },
+   {
+    "quote": "体内へ進出する全固体電池！ITEN社が挑む「心臓ポンプ用」次世代バッ... — Jul 30, 2026 · フランスに拠点を置くITEN社は、欧州の助成イニシアチブ（IPCEI Tech4Cure）傘下の「SOLIMEDプロジェクト」を通じて、クラスIII（心臓補助ポンプや神経刺激装置など）の埋め込み型医療機器向け全固体電池の開発を開始しました。 主な開発目標スペック",
+    "url": "https://www.lartnec.jp/blog/?p=2513",
+    "pass": 3
+   },
+   {
+    "quote": "ITEN | Leading Solid-State Energy Storage Solutions for a ... — Discover ITEN’s advanced solid-state energy storage devices, designed to power the next generation of devices with sustainable and high-performance energy solutions for various industries.",
+    "url": "https://www.iten.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanes - iten.com — ITEN’s Solid-State Ceramic (SSC) Devices deliver unmatched power density and efficiency, designed to meet stringent requirements in energy storage and electronics.",
+    "url": "https://www.iten.com/localized/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Quiénes Somos 私たちは – iten japan interactive — En Iten Japan diseñamos experiencias sonoras inmersivas y ofrecemos localización cultural precisa para videojuegos y medios interactivos. Nuestra misión es integrar la excelencia técnica y la sensibilidad narrativa para construir puentes auténticos entre Japón y el mundo hispanohablante mediante audio, voz, traducción y dirección ...",
+    "url": "http://itenjapan.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Technologies – iten japan interactive — Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin augue est, iaculis at efficitur efficitur, efficitur in quam. Suspendisse potenti. Maecenas commodo, purus in tristique rhoncus, justo neque pellentesque ante, molestie maximus felis nulla vel quam. KARMA",
+    "url": "http://itenjapan.jp/technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "ITEN – Financial Footprint & Growth Factors – 2026 — About This Data Revenue, valuation, and funding figures for ITEN are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods. Employee counts are derived from professional networks and company disclosures.",
+    "url": "https://compworth.com/company/iten",
+    "pass": 3
+   },
+   {
+    "quote": "ITEN - 2026 Company Profile, Team, Funding, Competitors ...Iten Industries 2026 Company Profile: Valuation, Funding ...ITen (Dardilly) 2026 Company Profile: Valuation, Funding ...ITEN Industries – Estimated Net Worth, Growth & Competitor Ove…ITEN Industries, Inc. Information - RocketReachIten - Crunchbase Company Profile & Funding — Mar 30, 2026 · ITEN is a series C company based in Dardilly (Fran",
+    "url": "https://tracxn.com/d/companies/iten/__qZ1tTNt7deKWRuCxuOcessdHSlqbsEg3dvZsOWLh-aM",
+    "pass": 3
+   },
+   {
+    "quote": "Iten Industries 2026 Company Profile: Valuation, Funding ...ITen (Dardilly) 2026 Company Profile: Valuation, Funding ...ITEN Industries – Estimated Net Worth, Growth & Competitor Ove…ITEN Industries, Inc. Information - RocketReachIten - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, investors, and executives for Iten Industries. Use the PitchBook Platform to ",
+    "url": "https://pitchbook.com/profiles/company/258093-64",
+    "pass": 3
+   },
+   {
+    "quote": "ITen (Dardilly) 2026 Company Profile: Valuation, Funding ...ITEN Industries – Estimated Net Worth, Growth & Competitor Ove…ITEN Industries, Inc. Information - RocketReachIten - Crunchbase Company Profile & Funding — Information on valuation, funding, acquisitions, investors, and executives for ITen (Dardilly). Use the PitchBook Platform to explore the full profile. ITEN Industries’s growth curve i",
+    "url": "https://pitchbook.com/profiles/company/61968-97",
+    "pass": 3
+   },
+   {
+    "quote": "ITEN Industries – Estimated Net Worth, Growth & Competitor Ove… — ITEN Industries’s growth curve is built on estimated revenue of $35M, team of around 70+ employees, based in Ashtabula, contributing to long-term impact.",
+    "url": "https://compworth.com/company/iten-industries",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/258093-64",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/61968-97",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "My Trip to Iten, Kenya to Run (Part 1)｜zakita_220 Sep 16, 2026 · I stayed in Iten, Kenya for two weeks in August 2026.I resigned from the company I had worked at for many years on July 31st, and since I had remaining paid leave and a long period of time off, I decided to take the plunge and go to Kenya, a place I had always wanted to visit.Recently, people wh",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Kenya Iten Travel Guide (A Roadmap for First-Timers to ... Feb 27, 2026 · This guide is designed for those who want to \"run in Iten, the Mecca of marathons\" or \"experience high-altitude training,\" and it summarizes the necessary procedures and preparations in order. To start, Iten is quite well-prepared for travel with the purpose of running. Generally, public safety",
+    "url": "https://note.com/kageyamahasiru_/n/n643bf443a6f6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My Trip to Run in Iten, Kenya Part 3 - note（ノート） Finally, about meals and life in Iten. This time, I will introduce local information such as meals, accommodation facilities, sports shops, and massages. The facilities at the High Altitude Training Center (HATC) where I stayed were quite good, including hygiene and security. Meals were provided in ...",
+    "url": "https://note.com/zakita_220/n/n12eb30705368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Middle and Long Distance Running] A Thorough Explanation of ... Iten is located in the highlands of East Africa. It is known as a place where world-class long-distance runners gather daily. An altitude of about 2400m. Red dirt unpaved roads. A simple life. Massive mileage. As for the reasons for Kenya's strength, high-altitude environment, activity levels from childhood, competitive culture, gene",
+    "url": "https://note.com/brave_lily680/n/nbe2ce3833953?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "iten｜note noteプレミアム note pro よくある質問・noteの使い方 プライバシー クリエイターへのお問い合わせ フィードバック ご利用規約 通常ポイント利用特約 加盟店規約 資⾦決済法に基づく表⽰ 特商法表記 投資情報の免責事項",
+    "url": "https://note.com/iten",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "My Trip to Iten, Kenya to Run (Part 1)｜zakita_220",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My Trip to Iten, Kenya to Run (Part 1)",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I stayed in Iten, Kenya for two weeks in August 2026.",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I resigned from the company I had worked at for many years on July 31st, and since I had remaining paid leave and a long period of time off, I decided to take the plunge and go to Kenya, a place I had always wanted to visit.",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Recently, people who run YouTube channels like Suguru Osako, Daichi Kamino, and Tamujo have been posting videos about it, so it feels more familiar than before, but since I haven't been a top-tier runner, I have absolutely no local connections.",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It's a place with little information, and I felt uneasy about acting on my own, so I decided to go on a tour.",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I participated in a stay program organized by a British company called Kenya Experience.",
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Kenya Iten Travel Guide (A Roadmap for First-Timers to Prepare Without Getting Lost)｜影山英紀/Hideki Kageyama",
+    "url": "https://note.com/kageyamahasiru_/n/n643bf443a6f6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Kenya Iten Travel Guide (A Roadmap for First-Timers to Prepare Without Getting Lost)",
+    "url": "https://note.com/kageyamahasiru_/n/n643bf443a6f6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This guide is designed for those who want to \"run in Iten, the Mecca of marathons\" or \"experience high-altitude training,\" and it summarizes the",
+    "url": "https://note.com/kageyamahasiru_/n/n643bf443a6f6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "necessary procedures and preparations in order",
+    "url": "https://note.com/kageyamahasiru_/n/n643bf443a6f6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". To start, Iten is quite well-prepared for travel with the purpose of running. Generally, public safety is stable, and hotels are experienced in handling international guests and are accustomed to foreigners. That is precisely why, if you follow",
+    "url": "https://note.com/kageyamahasiru_/n/n643bf443a6f6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "the right places and the right procedures",
+    "url": "https://note.com/kageyamahasiru_/n/n643bf443a6f6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", your level of safety will increase significantly.",
+    "url": "https://note.com/kageyamahasiru_/n/n643bf443a6f6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "0. First, the overall flow (this order is the easiest)",
+    "url": "https://note.com/kageyamahasiru_/n/n643bf443a6f6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My Trip to Run in Iten, Kenya Part 3｜zakita_220",
+    "url": "https://note.com/zakita_220/n/n12eb30705368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/zakita_220/n/n12eb30705368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My Trip to Run in Iten, Kenya Part 3",
+    "url": "https://note.com/zakita_220/n/n12eb30705368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Finally, about meals and life in Iten.",
+    "url": "https://note.com/zakita_220/n/n12eb30705368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, I will introduce local information such as meals, accommodation facilities, sports shops, and massages.",
+    "url": "https://note.com/zakita_220/n/n12eb30705368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The facilities at the High Altitude Training Center (HATC) where I stayed were quite good, including hygiene and security.",
+    "url": "https://note.com/zakita_220/n/n12eb30705368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Meals were provided in the accommodation cafeteria at roughly the following times.",
+    "url": "https://note.com/zakita_220/n/n12eb30705368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Bread, coffee, and the like were set out as snacks around 10:00-11:00 and 15:00-16:00.",
+    "url": "https://note.com/zakita_220/n/n12eb30705368?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Middle and Long Distance Running] A Thorough Explanation of the Kenyan 🇰🇪 Iten-Style \"Core Training\"｜陸上の格闘家",
+    "url": "https://note.com/brave_lily680/n/nbe2ce3833953?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Middle and Long Distance Running] A Thorough Explanation of the Kenyan 🇰🇪 Iten-Style \"Core Training\"",
+    "url": "https://note.com/brave_lily680/n/nbe2ce3833953?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "— Why does the core training done in Iten",
+    "url": "https://note.com/brave_lily680/n/nbe2ce3833953?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "enhance middle and long-distance running performance? —",
+    "url": "https://note.com/brave_lily680/n/nbe2ce3833953?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Iten is located in the highlands of East Africa. It is known as a place where world-class long-distance runners gather daily. An altitude of about 2400m. Red dirt unpaved roads. A simple life. Massive mileage.",
+    "url": "https://note.com/brave_lily680/n/nbe2ce3833953?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As for the reasons for Kenya's strength,",
+    "url": "https://note.com/brave_lily680/n/nbe2ce3833953?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "high-altitude environment,",
+    "url": "https://note.com/brave_lily680/n/nbe2ce3833953?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "activity levels from childhood,",
+    "url": "https://note.com/brave_lily680/n/nbe2ce3833953?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ITEN (@ItenEPC) / Posts / X ITEN (@ItenEPC) - Posts - International Theological Education Network. A ministry of the EPC World Outreach. Developing leader... | X (formerly Twitter)",
+    "url": "https://x.com/ItenEPC",
+    "pass": 3
+   },
+   {
+    "quote": "The Iten Agency (@itenagency) / X The Iten Insurance Agency is the name you trust for quality commercial, auto, and home insurance throughout Florida.",
+    "url": "https://x.com/itenagency",
+    "pass": 3
+   },
+   {
+    "quote": "Roland Iten (@rolanditen) / X Roland Iten is about discovery. The delight, surprise and joy to own an expertly crafted, mechanically performing gentlemens' accessory.",
+    "url": "https://x.com/rolanditen",
+    "pass": 3
+   },
+   {
+    "quote": "The Iten Agency (@TheItenAgency) / Posts / X The Iten Agency (@TheItenAgency) - Posts - | X (formerly Twitter) It's never too late to get the #insurance coverage you need, and we are here to help you through every step in your process. Ready to get started? Give us a call or visit our website for more information.",
+    "url": "https://x.com/theitenagency",
+    "pass": 3
+   },
+   {
+    "quote": "丼 (@jojo_iten) / X PostsPosts RepliesReplies RepostsReposts MediaMedia Pinned 丼 @jojo_iten Aug 9 お誕生日おめでとう🎉 #花京院典明誕生祭2026 #花京院典明生誕祭2026 7",
+    "url": "https://x.com/jojo_iten",
+    "pass": 3
+   },
+   {
+    "quote": "kin no me iten on X: \"おはようございます☀️ プレゼント企画実施致し... 1 day ago · kin no me iten🇯🇵 on X: \"おはようございます☀️ プレゼント企画実施致します🎁 『shutter入りliquid🐝』 当店大人気のshutter liquidになります💨 Review自信ある方是非参加お願い致します 参加方法💎 signal ch登録＋こちらの投稿に反応 リポストで当選率⤴️ 締切 ...",
+    "url": "https://x.com/kintaro_oficial/status/2119949262096363851",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ITEN - LinkedIn ITEN is a French industrial gem, leader in the development and production of hazard-free solid-state energy storage solutions with unrivaled power and energy densities.",
+    "url": "https://www.linkedin.com/company/iten-solid-state-energy-storage",
+    "pass": 3
+   },
+   {
+    "quote": "ITEN Industries, Inc. - LinkedIn ITEN Industries, Inc. | 609 followers on LinkedIn. \"Imagineering with Plastics.\" | Manufacturer & fabricator of industrial high-pressure laminates, custom pultrusions, ballistics grades panels ...",
+    "url": "https://www.linkedin.com/company/iten-industries-inc",
+    "pass": 3
+   },
+   {
+    "quote": "ITEN Media | LinkedIn ITEN Media is a Strategic Intelligence & Impact Institution - advancing the nation’s energy transition and sustainability agenda through insight, innovation, and transformative collaboration. Founded in 2009, ITEN operates at the intersection of policy, trade, and sustainability, aligning industry innovation with national priorities and enabling India’s pursuit of energy sove",
+    "url": "https://in.linkedin.com/company/itenmedia",
+    "pass": 3
+   },
+   {
+    "quote": "Bauyrzhan Iten - Founder and CEO at Iten Group | LinkedIn Founder and CEO at Iten Group · Experience: Iten Group · Education: The Hong Kong Polytechnic University · Location: Almaty · 6 connections on LinkedIn. View Bauyrzhan Iten’s profile on LinkedIn, a professional community of 1 billion members.",
+    "url": "https://kz.linkedin.com/in/bauyrzhaniten",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Iten.tv - FacebookIten Daily | Marakwet - FacebookITEN WIRED TechNet CyberCoast | Pensacola Beach FL - FacebookITEN - FacebookITEN - FacebookIten.tv - FacebookIten Industries | Ashtabula OH - Facebook 1 day ago · iTEN.TV: The Network Built for Grassroots Racing Fans For years, iTEN.TV has delivered thousands of hours of racing across social media and our ROKU channel. We've loved every minute of b",
+    "url": "https://www.facebook.com/itentvnews/",
+    "pass": 3
+   },
+   {
+    "quote": "Iten Daily | Marakwet - FacebookITEN WIRED TechNet CyberCoast | Pensacola Beach FL - FacebookITEN - FacebookITEN - FacebookIten.tv - FacebookIten Industries | Ashtabula OH - Facebook Oct 22, 2026 · Iten Daily, Marakwet. 103,269 followers · 11,875 talking about this. Thunderbolt News from World's Athletics Heritage Landmark ITEN WIRED TechNet CyberCoast, Pensacola Beach. 1,130 followers · 9 talking",
+    "url": "https://www.facebook.com/ItenDaily/",
+    "pass": 3
+   },
+   {
+    "quote": "ITEN WIRED TechNet CyberCoast | Pensacola Beach FL - FacebookITEN - FacebookITEN - FacebookIten.tv - FacebookIten Industries | Ashtabula OH - Facebook ITEN WIRED TechNet CyberCoast, Pensacola Beach. 1,130 followers · 9 talking about this · 6 were here. Explore, Expand, and Defend the Digital Frontier. > Join us at the Southeast’s premier cyber and... May 30, 2023 · ITEN. 1,232 followers · 173 were",
+    "url": "https://www.facebook.com/itenwired/",
+    "pass": 3
+   },
+   {
+    "quote": "ITEN - FacebookITEN - FacebookIten.tv - FacebookIten Industries | Ashtabula OH - Facebook May 30, 2023 · ITEN. 1,232 followers · 173 were here. Catalyst for growing the regional entrepreneurial ecosystem through programs, services, and events Oct 7, 2026 · ITEN. 2,237 followers. Cosplayer from PH : itentherese@gmail.com Iten.tv. 1,641 followers · 118 talking about this. iTEN, Internet Television E",
+    "url": "https://www.facebook.com/itenstlouis/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.iten.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iten.com/about/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iten.com/applications/iot-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iten.com/about/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iten.com/about/leadership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iten.com/about/sustainability",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://iten.sogonet.co.jp/voice/river01/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://iten.sogonet.co.jp/voice/?series=fs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000085.000041334.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipsen.com/japan/%E4%BC%9A%E7%A4%BE/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://itenjapan.jp/about/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itcen-japan.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/iten",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/iten/__qZ1tTNt7deKWRuCxuOcessdHSlqbsEg3dvZsOWLh-aM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/258093-64",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/61968-97",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kageyamahasiru_/n/n643bf443a6f6?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zakita_220/n/n12eb30705368?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/brave_lily680/n/nbe2ce3833953?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ItenEPC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/itenagency",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/rolanditen",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/theitenagency",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/iten-solid-state-energy-storage",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/iten-industries-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/itenmedia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kz.linkedin.com/in/bauyrzhaniten",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/itentvnews/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ItenDaily/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/itenwired/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/itenstlouis/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/iten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/jojo_iten",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kintaro_oficial/status/2119949262096363851",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ITEN 日本 導入",
+   "results": [
+    "https://iten.sogonet.co.jp/voice/river01/",
+    "https://iten.sogonet.co.jp/voice/?series=fs",
+    "https://prtimes.jp/main/html/rd/p/000000085.000041334.html",
+    "https://www.iten.com/resources/articles/iten-sign-a-distribution-agreement-with-ryoyo-electro-corporation-for-japan-and-popular-republic-of-china",
+    "https://www.lartnec.jp/blog/?p=2513",
+    "https://www.sogonet.co.jp/iten/iten_introduce/",
+    "https://prtimes.jp/main/html/rd/p/000000001.000125509.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ITEN 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.iten.com/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.ipsen.com/japan/会社/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.adient.com/japan/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ITEN Japan",
+   "results": [
+    "https://www.iten.com/",
+    "https://www.iten.com/localized/japanese",
+    "http://itenjapan.jp/about/",
+    "https://www.itcen-japan.com/",
+    "http://itenjapan.jp/technologies/",
+    "https://www.itoen-global.com/",
+    "https://store.united-arrows.co.jp/brand/citen/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ITEN manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "ITEN white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://upcloud.com/partner-program/",
+    "https://www.canva.com/partners/reseller/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ITEN founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/iten",
+    "https://tracxn.com/d/companies/iten/__qZ1tTNt7deKWRuCxuOcessdHSlqbsEg3dvZsOWLh-aM",
+    "https://pitchbook.com/profiles/company/258093-64",
+    "https://pitchbook.com/profiles/company/61968-97",
+    "https://compworth.com/company/iten-industries",
+    "https://rocketreach.co/iten-industries-inc-profile_b449fefdfca97276",
+    "https://www.crunchbase.com/organization/iten"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ITEN",
+   "results": [
+    "https://note.com/zakita_220/n/n32d62c0e060e?hl=en",
+    "https://note.com/kageyamahasiru_/n/n643bf443a6f6?hl=en",
+    "https://note.com/zakita_220/n/n12eb30705368?hl=en",
+    "https://note.com/brave_lily680/n/nbe2ce3833953?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/sushiman_runtrip/n/ne4d33634bfca",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ITEN",
+   "results": [
+    "https://x.com/ItenEPC",
+    "https://x.com/itenagency",
+    "https://x.com/rolanditen",
+    "https://x.com/theitenagency",
+    "https://x.com/ItenLaw",
+    "https://x.com/KeitenShines",
+    "https://x.com/SwissCIT"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ITEN",
+   "results": [
+    "https://www.linkedin.com/company/iten-solid-state-energy-storage",
+    "https://www.linkedin.com/company/iten-industries-inc",
+    "https://in.linkedin.com/company/itenmedia",
+    "https://kz.linkedin.com/in/bauyrzhaniten",
+    "https://jo.linkedin.com/in/iten-kazan-8832121a9",
+    "https://in.linkedin.com/company/iten",
+    "https://uk.linkedin.com/in/richard-holmwood"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ITEN",
+   "results": [
+    "https://www.facebook.com/itentvnews/",
+    "https://www.facebook.com/ItenDaily/",
+    "https://www.facebook.com/itenwired/",
+    "https://www.facebook.com/itenstlouis/",
+    "https://www.facebook.com/iten.x/",
+    "https://www.facebook.com/itentvnews/reels/",
+    "https://www.facebook.com/itenindustries/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ITEN note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/itonceo",
+    "https://note.com/iten",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ITEN X 投稿",
+   "results": [
+    "https://x.com/jojo_iten",
+    "https://www.tiktok.com/@iten.x",
+    "https://www.instagram.com/iten.x/",
+    "https://x.com/kintaro_oficial/status/2119949262096363851",
+    "https://www.facebook.com/iten.x/",
+    "https://www.instagram.com/by.iten/",
+    "https://help.x.com/ja/using-x/edit-post"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部35頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

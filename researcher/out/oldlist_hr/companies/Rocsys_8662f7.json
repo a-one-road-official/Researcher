@@ -1,0 +1,1331 @@
+{
+ "name": "Rocsys",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T09:09:09.864244+00:00",
+ "official_url": "https://www.rocsys.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "01-Oct-2019 $1.54M $1.54M  Completed Product Development",
+    "url": "https://pitchbook.com/profiles/company/338596-21",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://startupintros.com/orgs/rocsys",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Rijswijk, South Holland, NL",
+    "url": "https://startupintros.com/orgs/rocsys",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Rocsys Proactive Services",
+    "url": "https://www.rocsys.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver greater value by combining your part of the EV ecosystem with interoperable hands-free charging. Partnering with Rocsys means field-proven technology that is easy to integrate and offers a shared path to commercial success.",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Expand with confidence through a proven, collaborative process built for a seamless experience.",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering Procurement Firms",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Secure more new and retrofit projects that require hands-free charging, by making your equipment ready for it.",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Give infrastructure buyers proven, ready-to-deploy compatibility they can count on.",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Driving progress through collaboration.",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Represents port equipment and technology suppliers worldwide, providing a platform to share knowledge, promote best practices, and support innovation across port and terminal operations.",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Brings together public and private partners to increase awareness and understanding of automated vehicle technologies, helping inform the public and policymakers about their benefits and future potential.",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Promotes global charging standards and interoperability, bringing industry stakeholders together to ensure vehicles, chargers, and software systems work reliably and smoothly.",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "“At ITS we’re always looking to improve both safety, efficiency and sustainability within our operations. Rocsys’ hands-free charging solution is a key enabler for integrating electric handling equipment into our terminal workflows, and we’re excited to continue strengthening this partnership as we move forward.”",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Project Officer, ITS",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "President and COO, Taylor",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "“We are delighted to partner with Rocsys and leverage their expertise in delivering cutting-edge hands-free charging solutions. This collaboration underscores our commitment to staying at the forefront of EV adoption and providing our customers with a broad range of powertrain solutions to support their specific needs.”",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "“Since 2020, we have been diligently developing the best autonomous transport solution, and we are thrilled to announce the successful qualification of Rocsys’ solution with our autonomous terminal trucks. This qualification marks a crucial step towards providing fully certified autonomous container transport solutions by 2025.”",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "April 14, 2026",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The future of mobility belongs to those who can grow without friction. At Rocsys, we provide the intelligence to keep your fleet flowing by giving you the hands-free infrastructure and surgical precision to address your needs at scale.",
+    "url": "https://www.rocsys.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": ", engineering the uncompromising reliability that allows human ambition to scale toward new horizons.",
+    "url": "https://www.rocsys.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We take full ownership of automating the charging process, embracing our successes and failures in equal measure and upholding the highest professional standards for seamless customer experiences: to deliver an effortless experience for our customers.",
+    "url": "https://www.rocsys.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We cultivate innovative processes and mindsets to enhance customer value, embrace new paradigms, continuously improve, and always get the job done.",
+    "url": "https://www.rocsys.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We contribute to a cleaner world through our products and operations, pursue long-term relationships, and strike a balance where sustainability and prosperity naturally align.",
+    "url": "https://www.rocsys.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Rocsys Portal & APIs are launched in preparation for public‑road applications, with 24/7 operations implemented.",
+    "url": "https://www.rocsys.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "A group of professionals with a single goal: to improve the world of transport.",
+    "url": "https://www.rocsys.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The autonomous fleet’s most pressing need.",
+    "url": "https://www.rocsys.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Rocsys Proactive Services",
+    "url": "https://www.rocsys.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve spent the last few months right at that threshold: travelling to project sites, meeting with customers, and talking to industry players. Here’s what we’ve seen, and what we’ve built.",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "This is significant beyond the deployment itself. Ports are under intense pressure to electrify their fleets and increase operational throughput while simultaneously lowering port emissions.",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "projected to reach $6.75 billion by 2034",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "The Long Beach deployment demonstrates that these challenges are solvable. Vehicles charge hands-free between shifts, without scheduling overhead, without disrupting operations, and without adding burden to the people running the terminal. Operators gain uptime, improve safety on the floor, and build a charging infrastructure that scales with the fleet rather than against it.",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "This isn’t proof of concept. It’s infrastructure for a transition already underway, and it sets a benchmark for how terminal operators everywhere approach the charging gap in their own yards.",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "Two products, built for the real world",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "This season brought two major product moments: a commercial launch and a market debut.",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "Announced on April 29, 2026, and currently in pilot deployment, it is validated by a signed deal with a major robotaxi operator, with large-scale rollout set to begin across North America and Europe in 2027.",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "Two products for distinct markets, but one underlying platform logic: the infrastructure supporting modern fleets must be as intelligent as the operations it serves.",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "TOC Europe in Hamburg told a similar story on the port side. Major projects including APM Terminals Maasvlakte II in Rotterdam and EUROGATE in Hamburg are setting new benchmarks for terminal efficiency across Europe — part of a broader wave in which Hamburg, Rotterdam, and Antwerp have all",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "through 2025 and beyond. For port terminals, the introduction of hands-free charging provides the missing piece of the puzzle to help them meet their goals.",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "As fleets scale, the pressure on the systems that keep operations running will only intensify.",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "For fleets, hands-free charging provides the critical infrastructure needed to support growth without adding operational complexity.",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "成長戦略を支援するために、Rocsys はまた、Scania Invest、Forward.One、SEB Greentech Venture Capital、Graduate Ventures の参加を得て、Capricorn Partners が主導する 1,300 万ドルのシリーズ A 延長枠も確保しました",
+    "url": "https://www3.to/rocsys-%E3%81%8C%E5%88%9D%E3%81%AE%E3%83%9E%E3%83%AB%E3%83%81%E3%83%99%E3%82%A4-%E3%83%8F%E3%83%B3%E3%82%BA%E3%83%95%E3%83%AA%E3%83%BC-%E3%83%AD%E3%83%9C%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC%E5%85%85/",
+    "pass": 3
+   },
+   {
+    "quote": "SPRIND がヨーロッパの新しい AI パラダイムを支援するために 1 億 2,500 万ユーロの Next Frontier AI チャレンジを開始",
+    "url": "https://www3.to/rocsys-%E3%81%8C%E5%88%9D%E3%81%AE%E3%83%9E%E3%83%AB%E3%83%81%E3%83%99%E3%82%A4-%E3%83%8F%E3%83%B3%E3%82%BA%E3%83%95%E3%83%AA%E3%83%BC-%E3%83%AD%E3%83%9C%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC%E5%85%85/",
+    "pass": 3
+   },
+   {
+    "quote": "They wanted to know if we could provide them with a",
+    "url": "https://titancontainers.us/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Having proven itself as a testing centre in the tech space many times, TITAN’s famous",
+    "url": "https://titancontainers.us/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "While we don’t have the precise details of the experiments Rocsys performed, we know their rented ArcticStore played an important role in",
+    "url": "https://titancontainers.us/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "on the market, we can provide containers for a week, a month, a year or indefinitely.",
+    "url": "https://titancontainers.us/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "production in Romania",
+    "url": "https://titancontainers.us/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Josefine Falch is Global Marketing Manager at TITAN Containers, responsible for driving global marketing strategy, brand positioning, and lead generation across key industries and markets. With a strong focus on data-driven marketing, international campaigns, and cross-market alignment, she works closely with local teams to support commercial growth and strengthen TITAN’s presence worldwide.",
+    "url": "https://titancontainers.us/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "All Containers for Hire",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Designed to keep out condensation and frost, this is the ideal rental when protecting delicate items like books and clothing.",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "The affordable alternative to a removals team. Hire from us, load at your own pace, and we'll move it to your new home when ready.",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Also known as a double door container, hire this when you need an instant tunnel or fast access to both ends of your container.",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "The ideal rental container for bulky and heavy loads. Crane your goods in from the top and seal up with a tarpaulin.",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Safely store lithium and other batteries in a rugged metal ‘vault’ that helps protect product, staff and customers.",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Pop-up bars, instant restaurants, bespoke promotional spaces or workshops – we can customise any container on demand!",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Most cargo vessels only accept containers with a 20ft or 40ft footprint – so ship your abnormal-shaped loads on a flat rack.",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Our signature cold store provides a phenomenal temperature range (-40℃ to +45℃) that suits most clients and sectors.",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "This vast and varied sector requires a wide selection of frozen, chilled and ambient temperatures to keep products properly maintained – as well as limitless flexibility when renting cold storage on demand.",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Wherever your event, show, conference or party, we'll help your catering team run like clockwork with a suite of innovative cold storage solutions. From major festivals to weddings, we deliver nationwide at great prices.",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "TITAN plays a critical role in the cold chain logistics of thousands of businesses, providing temperature-controlled hubs during the transportation of goods. We have 20+ years of experience in cold chain supply.",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "The climate crisis is forcing vineyard owners to pick their grapes earlier – but if there's a processing backlog, warm grapes can rot. That's where our cold-room-on-demand solution comes in – a critical safety net during the harvest.",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Pallet Footprint Guide",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by industry leaders.",
+    "url": "https://www.rocsys.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay ahead with open, adaptable, future-ready technology, trusted by industry leaders.",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Charger Manufacturers",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Win operators who need both autonomy and charging.",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Port Equipment Manufacturers Association",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by industry leaders.",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "“As we join forces with Rocsys, we are enabling a new era of smart, sustainable port operation for a zero-waste and zero-down time future. Our partnership strengthens our shared vision to support port operators in their decarbonization and sustainability plan”.",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "At trade shows, in office boardrooms, and at charging depots from Rotterdam to Long Beach, the conversation has changed. Fleet operators are no longer questioning the value of hands-free charging. They’re asking how fast they can do it, and what stands in the way.",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "The Long Beach deployment demonstrates that these challenges are solvable. Vehicles charge hands-free between shifts, without scheduling overhead, without disrupting operations, and without adding burden to the people running the terminal. Operators gain uptime, improve safety on the floor, and build a charging infrastructure that scales with the fleet rather than against it.",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "This isn’t proof of concept. It’s infrastructure for a transition already underway, and it sets a benchmark for how terminal operators everywhere approach the charging gap in their own yards.",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "ACT Expo in Las Vegas brought together the widest cross-section of commercial fleet operators in North America: ports, distribution, robotaxi. It was the first public demonstration of the S2, and the first visualization of the M1 for many in attendance.",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "The conversations were consistent across every segment: operators have stopped debating the value of hands-free charging. They’re focused on integration timelines, fleet compatibility, and operational readiness. The question has moved from “why” to “when.”",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": ", it is used by TITAN clients in almost every sector, from catering and",
+    "url": "https://titancontainers.us/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Industries such aviation, automotive, chemicals and electronics use our temperature-controlled environments when testing. Better to identify underperforming components at ground level than 20,000ft!",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "St. Nicholas Industrial Estate, Albert Hill,",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "5 Shroggs Rd, Elizabeth Industrial Estate,",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Southmoor Rd, Roundthorn Industrial Estate,",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Stephens Way, Warrington Rd Industrial Estate,",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "31 Holton Rd, Holton Heath Industrial Estate,",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": ", it is used by TITAN clients in almost every sector, from catering and",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "ROCSYS’s primary industry is Automotive.",
+    "url": "https://pitchbook.com/profiles/company/338596-21",
+    "pass": 3
+   },
+   {
+    "quote": "ROCSYS targets electric vehicle fleet operators, optimizing charging operations through teleoperation, remote diagnostics, and API integrations for management. Its vision is to deliver an effortless, fully automated charging experience, accelerating autonomous driving technology and fostering a sustainable electric mobility landscape.",
+    "url": "https://startupintros.com/orgs/rocsys",
+    "pass": 3
+   },
+   {
+    "quote": "As the number of vehicles increases, the problems begin to concentrate not on the roads, but at the base. Keeping thousands of cars charged throughout the night requires more personnel and electricity than one might imagine. Even in the dead of night, the base continues to glow like a factory that never takes a lunch break.",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Amidst this, attention has turned to Rocsys's automated charging system, the 'M1.' The robotic arm extending from the ceiling lacks flashy theatrics; instead, it exudes a quietness akin to an unmanned late-night factory. Its presence carries not a sense of 'futurism,' but the temperature of an operation where the human presence is gradually stepping back.",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Globally deployed with Fortune 500 companies and major OEMs.",
+    "url": "https://www.rocsys.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Electric Vehicle OEMs",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Globally deployed with Fortune 500 companies and major OEMs.",
+    "url": "https://www.rocsys.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver greater value by combining your part of the EV ecosystem with interoperable hands-free charging. Partnering with Rocsys means field-proven technology that is easy to integrate and offers a shared path to commercial success.",
+    "url": "https://www.rocsys.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Hands-free charging arrives at the Port of Long Beach",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "TOC Europe in Hamburg told a similar story on the port side. Major projects including APM Terminals Maasvlakte II in Rotterdam and EUROGATE in Hamburg are setting new benchmarks for terminal efficiency across Europe — part of a broader wave in which Hamburg, Rotterdam, and Antwerp have all",
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "pass": 1
+   },
+   {
+    "quote": "Not long after the business was acquired by ABB, Bouman spotted a gap in the autonomous vehicle market for",
+    "url": "https://titancontainers.us/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Bradford - Morley Carr",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Morley Carr Rd, Low Moor,",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Manchester - Carrington",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Manchester Rd, Carrington,",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Warrington, WA3 2AP",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Warrington - Woolston",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Warrington, WA1 4BA",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Stephens Way, Warrington Rd Industrial Estate,",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Not long after the business was acquired by ABB, Bouman spotted a gap in the autonomous vehicle market for",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/338596-21",
+    "pass": 3
+   },
+   {
+    "quote": "ROCSYS has 60 total employees.",
+    "url": "https://pitchbook.com/profiles/company/338596-21",
+    "pass": 3
+   },
+   {
+    "quote": "What is ROCSYS’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/338596-21",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for ROCSYS is",
+    "url": "https://pitchbook.com/profiles/company/338596-21",
+    "pass": 3
+   },
+   {
+    "quote": "Crijn Bouman is listed as CEO at ROCSYS.",
+    "url": "https://fundediq.co/rocsys-rocsys-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does ROCSYS have?",
+    "url": "https://fundediq.co/rocsys-rocsys-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/rocsys-rocsys-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/rocsys-rocsys-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Amidst this, attention has turned to Rocsys's automated charging system, the 'M1.' The robotic arm extending from the ceiling lacks flashy theatrics; instead, it exudes a quietness akin to an unmanned late-night factory. Its presence carries not a sense of 'futurism,' but the temperature of an operation where the human presence is gradually stepping back.",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Hands-Free Charging Automation Platform | Rocsys — Plug into new potential. Whether you’re scaling or just starting, let’s connect on how your infrastructure can work smarter. Send a message or book a call with a Rocsys expert.",
+    "url": "https://www.rocsys.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Charging Company | Rocsys — Rocsys enters the robotaxi market with Rocsys M1, enabling fully automated service depots for AVs. Expansion is supported by a Series A extension.",
+    "url": "https://www.rocsys.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Rocsys が初のマルチベイ ハンズフリー ロボタクシー充電器を発売、シ... — これには、Rocsys ポータルを通じた運用監視、顧客システムとの API 統合、およびリモート サポート サービスが含まれ、手動介入なしで車両が充電され準備が整った状態に保たれます。",
+    "url": "https://www3.to/rocsys-が初のマルチベイ-ハンズフリー-ロボタクシー充/",
+    "pass": 3
+   },
+   {
+    "quote": "Waymoの充電インフラ、Rocsysの自動充電システムが静かに変え始めた“... — May 12, 2026 · ケーブルだけが、まだ人を待っている そんな中で注目されているのが、Rocsysの自動充電システム「M1」だった。 天井側から伸びるロボットアームは派手な演出を持たず、むしろ無人化された深夜工場の延長のような静けさを漂わせている。",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a",
+    "pass": 3
+   },
+   {
+    "quote": "RocsysとEasymileのパートナーシップは自律型EVの新たな一歩を示す — Apr 17, 2024 · EVの効率向上は貨物輸送に特に影響を及ぼし、今回の提携により、物流センター、内陸港、その他の物流施設にハンズフリー充電EVトラックを業界で初めて導入することになる。",
+    "url": "https://www3.to/rocsysとeasymileのパートナーシップは自律型evの新たな一歩/",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Charging Company | Rocsys — Meet Rocsys, pioneering hands-free charging infrastructure for autonomous and electric fleets worldwide. Explore our story.",
+    "url": "https://www.rocsys.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Hands-Free Charging Automation Platform | Rocsys — The Rocsys Platform transforms manual charging into an easy hands-free task. Our system orchestrates every cycle, from plug-in to plug-out, reducing downtime, safely, and without interruption.",
+    "url": "https://www.rocsys.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Rocsys がバッテリー充電技術を高温で試験 — オランダの企業 Rocsys が、自動充電器の試験にどのように当社の冷蔵コンテナを使用したかをご紹介します。",
+    "url": "https://titancontainers.jp/ke-su-sutadi/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "ROCSYS - LinkedIn — We accelerate the shift to zero-emission autonomous vehicles. Rocsys is the global leader in hands-free charging solutions for electric autonomous vehicles.",
+    "url": "https://www.linkedin.com/company/rocsys-handsfree-charging",
+    "pass": 3
+   },
+   {
+    "quote": "Rocsysは、自律運動のための世界初のハンズフリーEV充電プラットフォ... — Apr 28, 2025 · Rocsysポータル – 充電アクティビティに関するリアルタイムのデータ駆動型の洞察を提供する運用ダッシュボード、オペレーターが自律的なワークフローのパフォーマンスを最適化し、効率を解き放つことができます。",
+    "url": "https://www3.to/rocsysは、自律運動のための世界初のハンズフリーev充/",
+    "pass": 3
+   },
+   {
+    "quote": "Rocsys Tests Battery Charging Tech at High TemperaturesAutonomous Charging Company | RocsysRocsys Tests Battery Charging Tech at High TemperaturesCase Rocsys: A human centred approach to a hands-free ...Rocsys Success Story | Back-Office Support by TABSRocsys demonstrates hands-free charging of an ... - Charged EVs — Rocsys is shaking up the charging market with hands-free solutions that connect e",
+    "url": "https://titancontainers.us/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Rocsys Tests Battery Charging Tech at High TemperaturesCase Rocsys: A human centred approach to a hands-free ...Rocsys Success Story | Back-Office Support by TABSRocsys demonstrates hands-free charging of an ... - Charged EVs — Case study: How TITAN’s ArcticStore refrigerated container helped ROCSYS test EV charging tech at extreme temperatures in Delft, Netherlands. Rocsys is a global leader that",
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Rocsys: A human centred approach to a hands-free ... — Rocsys is a global leader that has an innovative approach that combines soft robotics, AI-based computer vision, and data-driven services to create a reliable, seamless, and cost-effective charging experience.",
+    "url": "https://fresk.digital/en/cases/a-human-centred-approach-to-a-hands-free-charging-solution",
+    "pass": 3
+   },
+   {
+    "quote": "ROCSYS 2026 Company Profile: Valuation, Funding & Investors ...ROCSYS: Funding, Investors & Team (Nov 2026) | FundedIQROCSYS - 2025 Company Profile, Team, Funding & Competitors ...ROCSYS: Funding, Team & Investors | Startup IntrosRocsys — Company Profile & Funding | Indexed.vcRocsys - Overview, News & Similar companies | ZoomInfo.comROCSYS - Crunchbase Company Profile & Funding — Information on va",
+    "url": "https://pitchbook.com/profiles/company/338596-21",
+    "pass": 3
+   },
+   {
+    "quote": "ROCSYS: Funding, Investors & Team (Nov 2026) | FundedIQ — ROCSYS is an Energy company in Delft, Netherlands. Raised $19.4M across 2 rounds; latest a Series A in Apr 2026. Investors, founders and funding history.",
+    "url": "https://fundediq.co/rocsys-rocsys-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "ROCSYS - 2025 Company Profile, Team, Funding & Competitors ...ROCSYS: Funding, Team & Investors | Startup IntrosRocsys — Company Profile & Funding | Indexed.vcRocsys - Overview, News & Similar companies | ZoomInfo.comROCSYS - Crunchbase Company Profile & Funding — Jun 23, 2025 · ROCSYS has raised $42.7M in funding from investors like FORWARD.one, Superangel and SEB Venture Capital. The company has",
+    "url": "https://tracxn.com/d/companies/rocsys/__WfkYLrdQOLzp4EMDK5tSpTOu7r9vIH5F3TrshbCw08s",
+    "pass": 3
+   },
+   {
+    "quote": "ROCSYS: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · ROCSYS was co-founded in 2019 in Rijswijk, Netherlands, by Crijn Bouman (CEO), Kanter van Deurzen (Head of Development), and Joost van der Weijde (Head of Technology & IP).",
+    "url": "https://startupintros.com/orgs/rocsys",
+    "pass": 3
+   },
+   {
+    "quote": "Rocsys — Company Profile & Funding | Indexed.vc — Sep 16, 2026 · Rocsys is a Climate Tech company based in Rijswijk, Netherlands, founded in 2019. It has raised $55.3M in total across 4 rounds, most recently a $13.0M Extension Round round in Apr 2026.",
+    "url": "https://indexed.vc/companies/rocsys",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "japan@titancontainers.com",
+    "url": "https://titancontainers.jp/ke-su-sutadi/rocsys/",
+    "pass": 3
+   },
+   {
+    "quote": "No.4472 EV & Mobility News Digest — Japan & Global（2026年4月30日作成）｜EV COMMONS JAPAN",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   },
+   {
+    "quote": "No.4472 EV & Mobility News Digest — Japan & Global（2026年4月30日作成）",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   },
+   {
+    "quote": "、2026/4/30 06:00 JST、日本）",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   },
+   {
+    "quote": "・Sun Emperor、免許不要4輪電動モビリティ「LBIRD」のMakuake応援購入額が1,000万円突破（PR TIMES、2026/4/29 09:12 JST、日本）",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   },
+   {
+    "quote": "・WeRideとGrab、シンガポール・パンゴル住宅地区で2ルート・11台体制の自律走行サービス「Ai.R」運行開始（自動運転ラボ、2026/4/29 07:00 JST、日本／シンガポール）",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   },
+   {
+    "quote": "・自動運転の「1：N遠隔監視」とは──実用化フェーズで重要となる管制概念を解説（自動運転ラボ、2026/4/29 07:17 JST、日本）",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   },
+   {
+    "quote": "・テスラ旧型HW3車両は完全自動運転不可能と判明──マスク発言反故で中古価値下落懸念(自動運転ラボ、2026/4/29、日本）",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   },
+   {
+    "quote": "・国連大学、EV・再エネ向け重要鉱物採掘が水不足や環境負荷を深刻化させるとする報告書を公表（PR TIMES、2026/4/29 13:17 JST、日本／国際）",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   },
+   {
+    "quote": "・自動運転、日本政府の実現目標・ロードマップ一覧──「社会実装元年」2026の現在地を整理（自動運転ラボ、2026/4/29 05:00 JST、日本）",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   },
+   {
+    "quote": "https://jidounten-lab.com/u_autonomous-plan-japan",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/338596-21",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the ROCSYS team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/rocsys-rocsys-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/rocsys-rocsys-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Waymo's Charging Infrastructure: How Rocsys's Automated ... May 12, 2026 · Amidst this, attention has turned to Rocsys's automated charging system, the 'M1.' The robotic arm extending from the ceiling lacks flashy theatrics; instead, it exudes a quietness akin to an unmanned late-night factory.",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Waymoの充電インフラ、Rocsysの自動充電システムが静かに変え始めた“... May 12, 2026 · ケーブルだけが、まだ人を待っている そんな中で注目されているのが、Rocsysの自動充電システム「M1」だった。 天井側から伸びるロボットアームは派手な演出を持たず、むしろ無人化された深夜工場の延長のような静けさを漂わせている。",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a",
+    "pass": 3
+   },
+   {
+    "quote": "No.4472 EV & Mobility News Digest — Japan & Global（2026年4月30日... Apr 29, 2026 · EVではVWが「ID. Polo」を24,995ユーロから正式投入、BYD Song Ultra EVが初月61,240台、Geely銀河M7 PHEVが12時間1万台受注と量販競争が激化。 Tesla Semi港湾実証、Rivian LA急速充電網拡大、Rocsysロボタクシー基地向け多ベイ充電など運用インフラも前進した一日であった。",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Waymo's Charging Infrastructure: How Rocsys's Automated Charging System Is Quietly Changing the 'Future of the Night'｜小甲 健｜AXConstDX代表",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Waymo's Charging Infrastructure: How Rocsys's Automated Charging System Is Quietly Changing the 'Future of the Night'",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The future of the automobile begins to feel real not through daytime driving footage, but through the atmosphere of parking lots at night. Watching driverless cars quietly return to their base, one realizes that autonomous driving is less about road technology and more about an operational philosophy that rewrites the hidden side of the city. Even before we talk about convenience, the simple reali",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Before the cars themselves, the places they return to are multiplying",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When people see Waymo vehicles in the city, most eyes turn to the sensors on the roof. But in reality, the true change is more likely to be found in where those cars return at night and in what order they wait for the morning. The future of transportation is quietly taking shape through the design philosophy of its bases, rather than on the roads.",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "At the Bayview depot in San Francisco, hundreds of vehicles return in an orderly fashion. While they glide into their parking spots autonomously with ease, it is only at the very end that a person walks up to plug in the charging cable. That small action seemed like the last trace of human warmth left in the future.",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In a landscape without people, only the presence of humans remains",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Waymoの充電インフラ、Rocsysの自動充電システムが静かに変え始めた“夜の未来”｜小甲 健｜AXConstDX代表",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a",
+    "pass": 3
+   },
+   {
+    "quote": "Waymoの充電インフラ、Rocsysの自動充電システムが静かに変え始めた“夜の未来”",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a",
+    "pass": 3
+   },
+   {
+    "quote": "未来のクルマというのは、昼間の走行映像より先に、夜の駐車場の空気から現実味を帯び始める。誰も乗っていない車が静かに基地へ戻っていく姿を見ていると、自動運転とは道路の技術というより、都市の裏側を書き換える運営思想なのだと気づかされる。便利さという言葉より先に、機械と街がどこで眠るのかだけが、少しずつ現実になり始めている。",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a",
+    "pass": 3
+   },
+   {
+    "quote": "Waymoの車両を街で見かけると、多くの人は屋根のセンサーへ視線を向ける。けれど実際には、その車たちが夜になるとどこへ戻り、どんな順番で朝を待っているのかのほうに、本当の変化は滲みやすい。未来の交通は道路の上より先に、基地の設計思想から静かに形を持ち始めている。",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a",
+    "pass": 3
+   },
+   {
+    "quote": "サンフランシスコのBayviewデポには、数百台規模の車両が整然と戻ってくる。自律走行のまま駐車位置へ滑り込む様子は滑らかなのに、最後だけは人が歩いて近づき、充電プラグを差し込んでいる。その小さな動作だけが、未来へ残った現在の温度のようにも見えた。",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a",
+    "pass": 3
+   },
+   {
+    "quote": "Waymoは約3000台規模まで車両を増やし、週50万回以上の有料乗車を支えている。数字だけ見ると完全自動化へ近づいているように見えるが、実際のデポにはまだ人の往復が絶えない。清掃や点検やケーブル接続の作業が、夜通し静かに積み重なっている。",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a",
+    "pass": 3
+   },
+   {
+    "quote": "ダラスやマイアミでも状況は似ていて、充電設備の周囲には24時間体制の運営が置かれている。急速充電器や可搬型設備が並ぶ光景は未来的なのに、現場のリズムはどこか物流センターに近い。完全自動運転という言葉の奥に、人の段取りだけがまだ色濃く残っている。",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a",
+    "pass": 3
+   },
+   {
+    "quote": "車両台数が増えるほど、問題は道路の上ではなく、基地側へ集まり始める。何千台もの車を夜のあいだ充電し続けるには、人員も電力も想像以上に必要になる。深夜なのに、基地だけは昼休みのない工場のように光り続けている。",
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a",
+    "pass": 3
+   },
+   {
+    "quote": "No.4472 EV & Mobility News Digest — Japan & Global（2026年4月30日作成）｜EV COMMONS JAPAN",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   },
+   {
+    "quote": "No.4472 EV & Mobility News Digest — Japan & Global（2026年4月30日作成）",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   },
+   {
+    "quote": "https://note.com/aslan_2001",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   },
+   {
+    "quote": "本号は北京モーターショー2026の一般公開デー期間にあたり、中国は規制・新技術ともに動きが集中した。自動運転ではBaidu Apollo Goの武漢停止を受け当局が新規ロボタクシー許可を全国凍結し、安全監督強化への転換点となった。一方でWeRide×Grabがシンガポールで東南アジア初の一般公開ロボタクシー「Ai.R」を始動、SAIC「MG 07」がMomenta R7世界モデルを量産初採用、XPeng VLA 2.0は北京で40分介入なし走行と、AI運転支援でも中国勢がTeslaに迫る局面に入った。EVではVWが「ID. Polo」を24,995ユーロから正式投入、BYD Song Ultra EVが初月61,240台、Geely銀河M7 PHEVが12時間1万台受注と量販競争が激化。Tesla Semi港湾実証、Rivian LA急速充電網拡大、Rocsysロボタクシー基地向け多ベイ充",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   },
+   {
+    "quote": "・BYD Song Ultra EV、発売1カ月で61,240台受注、Blade Battery 2.0とFlash Charging搭載（Electrek、2026/4/30 01:05 JST、中国）",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   },
+   {
+    "quote": "https://electrek.co/2026/04/29/byds-new-song-ultra-ev-racks-up-60000-orders-in-one-month/",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   },
+   {
+    "quote": "・BYD方程豹「Tai 7 EV」フラッシュチャージ版発売、199,800元〜・第2世代ブレード搭載・755km航続（CnEVPost、2026/4/30 06:10 JST、中国）",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   },
+   {
+    "quote": "https://cnevpost.com/2026/04/29/byd-fang-cheng-bao-launches-tai-7-ev-flash-charging/",
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Crijn Bouman (@crijnbouman) / X Money is earned on the road for a robotaxi operator. And charging is not being on the road, earning money. How to go about it? rocsys.com/newsroom/robot…",
+    "url": "https://x.com/crijnbouman",
+    "pass": 3
+   },
+   {
+    "quote": "Spencer on X: \"Waymo is hiring a Charging Automation Lead ... Nice, although I imagine they're looking to partner with companies like Rocsys on the automation part. Also if helpful to folks -",
+    "url": "https://x.com/scotsrule08/status/2099875902997852507",
+    "pass": 3
+   },
+   {
+    "quote": "@rocsys1 | X The latest posts from @rocsys1",
+    "url": "https://x.com/rocsys1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ROCSYS - LinkedIn We accelerate the shift to zero-emission autonomous vehicles. About us Rocsys is the global leader in hands-free charging solutions for electric autonomous vehicles.",
+    "url": "https://www.linkedin.com/company/rocsys-handsfree-charging",
+    "pass": 3
+   },
+   {
+    "quote": "ROCSYS - LinkedIn With operations in Europe and the United States, Rocsys plays a leading role in shaping standards that will unify a powerful EV ecosystem through industry consortiums and strategic partnerships...",
+    "url": "https://nl.linkedin.com/company/rocsys-handsfree-charging",
+    "pass": 3
+   },
+   {
+    "quote": "Rocsys - LinkedIn Rocsys | 36 followers on LinkedIn. Empresa 100% Mexicana, con 5 años ofreciendo servicios de consultoría especializada e integración de infraestructura en Tecnologías de la Información.",
+    "url": "https://www.linkedin.com/company/rocsys",
+    "pass": 3
+   },
+   {
+    "quote": "Crijn Bouman - CEO & Co-founder at ROCSYS hands-free ...Erin Galiger - Director, North American Markets at ROCSYS ...Gianpaolo Casciano - ROCSYS | LinkedInRocsys Technologies Pvt Ltd | LinkedIn CEO & Co-founder at ROCSYS hands-free charging · Ervaring: ROCSYS · Opleiding: MIT Sloan School of Management · Locatie: Den Haag · 500+ connecties op LinkedIn. Bekijk het profiel van Crijn... Rocsys offers",
+    "url": "https://nl.linkedin.com/in/crijn-bouman-01103a1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Rocsys - Roc Systems and Solutions - Facebook Rocsys - Roc Systems and Solutions",
+    "url": "https://www.facebook.com/Rocsys-Roc-Systems-and-Solutions-604175482978622/",
+    "pass": 3
+   },
+   {
+    "quote": "Superangel - ROCSYS addresses the growing need for... - Facebook Nov 27, 2019 · ROCSYS addresses the growing need for automation of charging infrastructure for electric vehicles as they are developing solutions to fully automate professional charging sites.",
+    "url": "https://www.facebook.com/superangel.io/posts/rocsys-addresses-the-growing-need-for-automation-of-charging-infrastructure-for-/2800248840014881/",
+    "pass": 3
+   },
+   {
+    "quote": "Rocsys, a startup based in the... - Business Insider | Facebook Jan 4, 2026 · Rocsys, a startup based in the Netherlands, aims to automate the charging and cleaning processes.",
+    "url": "https://www.facebook.com/businessinsider/posts/rocsys-a-startup-based-in-the-netherlands-aims-to-automate-the-charging-and-clea/1245543020777313/",
+    "pass": 3
+   },
+   {
+    "quote": "InsideEVs - Rocsys' new charging robot can plug in a ... May 1, 2026 · Rocsys' new charging robot can plug in a robotaxi without needing a human, and boasts an impressive 99.9% plug-in success rate.",
+    "url": "https://www.facebook.com/InsideeVs/posts/rocsys-new-charging-robot-can-plug-in-a-robotaxi-without-needing-a-human-and-boa/1551410233219252/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rocsys.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rocsys.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rocsys.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rocsys.com/from-ports-to-robotaxis-mid-year-takeaways/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.rocsys.com/wp-content/uploads/2026/09/partners-hero-scaled.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rocsys.com/wp-content/uploads/2026/10/partners-ports.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rocsys.com/wp-content/uploads/2026/09/partners-full-card.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www3.to/rocsys-%E3%81%8C%E5%88%9D%E3%81%AE%E3%83%9E%E3%83%AB%E3%83%81%E3%83%99%E3%82%A4-%E3%83%8F%E3%83%B3%E3%82%BA%E3%83%95%E3%83%AA%E3%83%BC-%E3%83%AD%E3%83%9C%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC%E5%85%85/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taimen-eigyo.com/words/so-dairiten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://titancontainers.jp/ke-su-sutadi/rocsys/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/rocsys-handsfree-charging",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://titancontainers.us/case-studies/rocsys/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://titancontainers.co.uk/case-studies/rocsys/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/338596-21",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/rocsys-rocsys-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/rocsys/__WfkYLrdQOLzp4EMDK5tSpTOu7r9vIH5F3TrshbCw08s",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/rocsys",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tk_ax/n/na92bee67ff3a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/crijnbouman",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/scotsrule08/status/2099875902997852507",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rocsys-handsfree-charging",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/company/rocsys-handsfree-charging",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rocsys",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/in/crijn-bouman-01103a1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Rocsys-Roc-Systems-and-Solutions-604175482978622/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/superangel.io/posts/rocsys-addresses-the-growing-need-for-automation-of-charging-infrastructure-for-/2800248840014881/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/businessinsider/posts/rocsys-a-startup-based-in-the-netherlands-aims-to-automate-the-charging-and-clea/1245543020777313/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/InsideeVs/posts/rocsys-new-charging-robot-can-plug-in-a-robotaxi-without-needing-a-human-and-boa/1551410233219252/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/rocsys1",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rocsys 日本 導入",
+   "results": [
+    "https://www.rocsys.com/",
+    "https://www.rocsys.com/company/",
+    "https://www3.to/rocsys-が初のマルチベイ-ハンズフリー-ロボタクシー充/",
+    "https://note.com/tk_ax/n/na92bee67ff3a",
+    "https://www3.to/rocsysとeasymileのパートナーシップは自律型evの新たな一歩/",
+    "https://response.jp/article/2026/05/14/411272.html",
+    "https://response.jp/article/2026/05/08/411015.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rocsys 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://jomon.group/",
+    "https://partner-prop.com/lab/partner-business/agency/91/",
+    "https://www.rocsys.com/contact/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Rocsys Japan",
+   "results": [
+    "https://www.rocsys.com/company/",
+    "https://www.rocsys.com/",
+    "https://titancontainers.jp/ke-su-sutadi/rocsys/",
+    "https://www.linkedin.com/company/rocsys-handsfree-charging",
+    "https://www3.to/rocsysは、自律運動のための世界初のハンズフリーev充/",
+    "https://registry.deploy.report/companies/rocsys",
+    "https://rocisor-japan.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rocsys manufacturing customer case study",
+   "results": [
+    "https://www.rocsys.com/",
+    "https://titancontainers.us/case-studies/rocsys/",
+    "https://www.rocsys.com/company/",
+    "https://titancontainers.co.uk/case-studies/rocsys/",
+    "https://fresk.digital/en/cases/a-human-centred-approach-to-a-hands-free-charging-solution",
+    "https://chargedevs.com/newswire/rocsys-demonstrates-hands-free-charging-of-an-electric-self-driving-truck/",
+    "https://www.tabsinc.com/en/success-stories/rocsys"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rocsys white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Rocsys founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/338596-21",
+    "https://fundediq.co/rocsys-rocsys-com-funding/",
+    "https://tracxn.com/d/companies/rocsys/__WfkYLrdQOLzp4EMDK5tSpTOu7r9vIH5F3TrshbCw08s",
+    "https://startupintros.com/orgs/rocsys",
+    "https://indexed.vc/companies/rocsys",
+    "https://www.zoominfo.com/c/rocsys-bv/353884220",
+    "https://www.crunchbase.com/organization/rocsys"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Rocsys",
+   "results": [
+    "https://note.com/tk_ax/n/na92bee67ff3a?hl=en",
+    "https://note.com/tk_ax/n/na92bee67ff3a",
+    "https://note.com/seigo77",
+    "https://note.com/aslan_2001/n/n5e354cb3b614",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/omi_mmasp/n/n267d7a9f1b73"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Rocsys",
+   "results": [
+    "https://x.com/",
+    "https://x.com/crijnbouman",
+    "https://x.com/scotsrule08/status/2099875902997852507",
+    "https://help.x.com/en",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/CogitoEdu/status/2117911840973861028",
+    "https://x.com/Marlayna29/status/2115433590150606880"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Rocsys",
+   "results": [
+    "https://www.linkedin.com/company/rocsys-handsfree-charging",
+    "https://nl.linkedin.com/company/rocsys-handsfree-charging",
+    "https://www.linkedin.com/company/rocsys",
+    "https://nl.linkedin.com/in/crijn-bouman-01103a1",
+    "https://www.linkedin.com/in/eringaliger",
+    "https://www.linkedin.com/in/gianpaolocasciano",
+    "https://in.linkedin.com/company/rocsys-technologies-pvt-ltd"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Rocsys",
+   "results": [
+    "https://www.facebook.com/Rocsys-Roc-Systems-and-Solutions-604175482978622/",
+    "https://www.facebook.com/superangel.io/posts/rocsys-addresses-the-growing-need-for-automation-of-charging-infrastructure-for-/2800248840014881/",
+    "https://www.facebook.com/businessinsider/posts/rocsys-a-startup-based-in-the-netherlands-aims-to-automate-the-charging-and-clea/1245543020777313/",
+    "https://www.facebook.com/InsideeVs/posts/rocsys-new-charging-robot-can-plug-in-a-robotaxi-without-needing-a-human-and-boa/1551410233219252/",
+    "https://www.facebook.com/ChargedEVs/posts/rocsys-to-supply-autonomous-charging-solutions-for-electric-yard-tractors-at-por/4940588955976336/",
+    "https://www.facebook.com/eVehicleTechnology/posts/rocsys-raises-63m-to-strengthen-its-leadership-position-in-robotic-ev-charging-s/349161899882871/",
+    "https://www.facebook.com/61566563022855/videos/1690393332006007/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rocsys note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.rocsys.com/company/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rocsys X 投稿",
+   "results": [
+    "https://x.com/rocsys1",
+    "https://www.rocsys.com/",
+    "https://www.rocsys.com/company/",
+    "https://www.rocsys.com/rocsys-launches-s2-its-next-generation-hands-free-charging-system-for-heavy-duty-electric-fleets/",
+    "https://www.rocsys.com/meet-the-rocsys-platform/",
+    "https://www.linkedin.com/company/rocsys-handsfree-charging",
+    "https://x.com/rogeryjp/status/2119329854583910508"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像3件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像3件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像3件／外部28頁・検索12回）"
+ }
+}

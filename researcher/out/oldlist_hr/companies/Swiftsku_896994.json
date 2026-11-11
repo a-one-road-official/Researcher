@@ -1,0 +1,984 @@
+{
+ "name": "Swiftsku",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T08:48:13.586350+00:00",
+ "official_url": "https://swiftsku.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "4. Seed Round",
+    "value": "02-Apr-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "SwiftSku's mobile app automates away manual tasks and pricebook management.",
+    "url": "https://www.swiftsku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Update cash and credit fuel prices remotely",
+    "url": "https://www.swiftsku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Update in one shot go cash and credit fuel price remotely.",
+    "url": "https://www.swiftsku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "View total sales at a glance without having to print flash reports.",
+    "url": "https://www.swiftsku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Update prices in bulk",
+    "url": "https://www.swiftsku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Managing your pricebook is now as simple as scan, update, save.",
+    "url": "https://www.swiftsku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bulk Price changes take seconds not hours.",
+    "url": "https://www.swiftsku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SwiftSku connects to your Point of Sale system in minutes and enables you to focus on maximizing profitability!",
+    "url": "https://www.swiftsku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase your Store Profits and drive customers to your c-store by leveraging promotional discounts.",
+    "url": "https://www.swiftsku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SwiftSku provides customer service in English, Hindi, and Gujarati. Have any questions? Send us a message on WhatsApp!",
+    "url": "https://www.swiftsku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SwiftSku specializes in providing business analytics to your store to help you compete with big box retailers, grocery stores, and large chains.",
+    "url": "https://www.swiftsku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I am very pleased to tell you that I am very satisfied with your service and I have not faced any problems and your quick follow up I really like so thank you for providing a great service",
+    "url": "https://www.swiftsku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "like Mr.Rohit has a great skill to help the business owner and deal with Altria group to get various deal to your business like loyalty program which helps to grow business. I am really thankful to Mr. Rohit and swiftsku for helping me.\"",
+    "url": "https://www.swiftsku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SwiftSku provides customer service in English, ગુજરાતી, and हिन्दी.",
+    "url": "https://www.swiftsku.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SwiftSku was founded by Mit Patel and Daniel Mazur. Mit and Daniel have extensive experience in the convenience store industry and applying analytics and Business Intelligence to improve industry processes. The SwiftSku team has over 25 years of collective c-store industry experience.",
+    "url": "https://www.swiftsku.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Mit Patel has been in the c-store industry for most of his life. He has extensive experience in managing convenience stores and creating automation & process improvement software for businesses ranging from c-stores to large enterprises.",
+    "url": "https://www.swiftsku.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Daniel Mazur comes from a background of Business Intelligence and Machine Learning. He has worked extensively in the application of BI and AI to improve processes for various businesses. One of his specialties is Blockchain Development, specifically Decentralized Applications (DApps) for large scale digital ecosystems.",
+    "url": "https://www.swiftsku.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "for help with a current product or service or refer to FAQs",
+    "url": "https://www.swiftsku.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "SwiftSku provides customer service in English, ગુજરાતી, and हिन्दी.",
+    "url": "https://www.swiftsku.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "SwiftSku 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of convenience-store management software designed to automate back-office operations, pricebook management, sales analytics, scan-data reporting, and customer loyalty activities for independent convenience stores.",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "09-Apr-2021",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "02-Apr-2021",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "10-Apr-2020",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "Is SwiftSku a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "The SwiftSku mobile app offers a range of powerful features to streamline your business operations. With real-time transaction viewing, remote fuel price updates, and automated price book management, you can effectively manage your sales data and access it instantly for customized analytics.",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": "* Live transaction viewing: Keep track of transactions as they happen, providing you with up-to-the-minute data on sales activity.",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": "* Remote fuel price updates: Easily update fuel prices remotely, ensuring accurate and timely adjustments to meet market demands.",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": "* Automated price book management: Simplify the management of your price book by automating updates and ensuring consistency across your inventory.",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku's mobile app empowers you to take control of your business and optimize your operations efficiently. Experience the convenience and flexibility that our app provides.",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": "ProMotion deals do not work",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": "We’ve called and emailed this company they are the worst at understanding our issues. We have promo deals but the back office does not send out to the register for the customer to get the promo deal we create.",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": "With our latest improvements, you can spend less time on manual work and more time focusing on your business and customers",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": "With our latest improvements, you can spend less time on manual work and more time focusing on your business and customers.",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 29",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 13",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": "- Keep user on scan screen after adding item to cart through barcode scan, instead of jumping back to the pricebook",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": ", indicated that the app’s privacy practices may include handling of data as described below. This information has not been verified by Apple. For more information, see the",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": "developer’s privacy policy",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Definitions and Examples",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy practices may vary, for example, based on the features you use or your age.",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": ", indicated that the app’s privacy practices may include handling of data as described below. For more information, see the",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku’s app connects to point of sales at convenience stores in real time, enabling owners to remotely manage and monitor their stores. We take the guesswork out of running a convenience store with predictive analytics, dashboards, and reports.",
+    "url": "https://www.ycombinator.com/companies/swiftsku",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku's CEO, Mit Patel, grew up managing the inventory, pricebook, and reporting of his family’s convenience stores, and, when vendors would come by, he’d bridge the language barrier as a translator. More than 85% of independent convenience stores are owned by Indian families like Mit’s.",
+    "url": "https://www.ycombinator.com/companies/swiftsku",
+    "pass": 3
+   },
+   {
+    "quote": "Solving convenience store owners' pains of today leads to SwiftSku's greater vision of optimizing the supply chain, facilitating a retailer agnostic consumer to brand relationship, and providing real time insights to brands and retailers.",
+    "url": "https://www.ycombinator.com/companies/swiftsku",
+    "pass": 3
+   },
+   {
+    "quote": "I started SwiftSku because I saw an opportunity to solve the problems that stole time and money from my family and friends in convenience stores.",
+    "url": "https://www.ycombinator.com/companies/swiftsku",
+    "pass": 3
+   },
+   {
+    "quote": "As co-founder and CEO of SwiftSku, I have a burning passion for product development and nothing satisfies me more than building software that delights our customers.",
+    "url": "https://www.ycombinator.com/companies/swiftsku",
+    "pass": 3
+   },
+   {
+    "quote": "Entrepreneurs earn grand prize at Rice Business Plan Competition",
+    "url": "https://www.ycombinator.com/companies/swiftsku",
+    "pass": 3
+   },
+   {
+    "quote": "User Representations.",
+    "url": "https://www.swiftsku.com/website-terms-of-use",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "For general inquires feel free to email us.",
+    "url": "https://www.swiftsku.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "We’ve called and emailed this company they are the worst at understanding our issues. We have promo deals but the back office does not send out to the register for the customer to get the promo deal we create.",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": "Identity Data. You may give us information about you by filling in forms on the SwiftSku Website, by corresponding with SwiftSku (for example, via online forums or by email or chat). This may occur when you download or upload from or to SwiftSku or install or use tools incorporated in SwiftSku applications or Services.",
+    "url": "https://www.swiftsku.com/website-terms-of-use",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku has 56 total employees.",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "What is SwiftSku’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for SwiftSku is",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku's CEO, Mit Patel, grew up managing the inventory, pricebook, and reporting of his family’s convenience stores, and, when vendors would come by, he’d bridge the language barrier as a translator. More than 85% of independent convenience stores are owned by Indian families like Mit’s.",
+    "url": "https://www.ycombinator.com/companies/swiftsku",
+    "pass": 3
+   },
+   {
+    "quote": ", which apply to your use of SwiftMart and form part of the overall Services provided by SwiftSku.",
+    "url": "https://www.swiftsku.com/website-terms-of-use",
+    "pass": 3
+   },
+   {
+    "quote": ", which apply to your use of SwiftSupply and form part of the Services provided by SwiftSku.",
+    "url": "https://www.swiftsku.com/website-terms-of-use",
+    "pass": 3
+   },
+   {
+    "quote": "Export. The SwiftSku Website may be subject to U.S. export control laws and may be subject to export or import regulations in other countries. You agree not to export, reexport, or transfer, directly or indirectly, any U.S. technical data acquired from SwiftSku, or any products utilizing such data, in violation of the United States export laws or regulations.",
+    "url": "https://www.swiftsku.com/website-terms-of-use",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku Revenue 2024: $7.1M Est.",
+    "url": "https://getlatka.com/companies/swiftsku.com",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku has not published its revenue. GetLatka estimates it at about $7.1M a year (December 2024).",
+    "url": "https://getlatka.com/companies/swiftsku.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/swiftsku.com",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku CEO, founders & employees",
+    "url": "https://getlatka.com/companies/swiftsku.com",
+    "pass": 3
+   },
+   {
+    "quote": "Mit Patel founded SwiftSku in 2019 and runs it as CEO. SwiftSku had 46 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/swiftsku.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is SwiftSku's revenue?",
+    "url": "https://getlatka.com/companies/swiftsku.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates SwiftSku's revenue at about",
+    "url": "https://getlatka.com/companies/swiftsku.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does SwiftSku have?",
+    "url": "https://getlatka.com/companies/swiftsku.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/swiftsku.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/swiftsku.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/swiftsku.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/swiftsku.com",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku Funding | $7.1M Revenue | Complete Analysis | Extruct AI",
+    "url": "https://www.extruct.ai/hub/swiftsku-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku offers technology solutions for independent convenience stores, enhancing operational efficiency, promotional management, and revenue growth through business intelligence tools.",
+    "url": "https://www.extruct.ai/hub/swiftsku-com-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "SwiftSku - C-Store Back Office Software Solutions — SwiftSku - C-Store Back Office Software Solutions SwiftSku https://www.swiftsku.com",
+    "url": "https://www.swiftsku.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku 2026 Company Profile: Valuation, Funding & Investors — SwiftSku 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku (YC W21) - LinkedIn — SwiftSku (YC W21) - LinkedIn LinkedIn https://www.linkedin.com > swiftsku",
+    "url": "https://www.linkedin.com/company/swiftsku",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku - App Store - Apple — SwiftSku - App Store - Apple Apple https://apps.apple.com > app > swiftsku",
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku : Management and analytics software ... - Y Combinator — SwiftSku : Management and analytics software ... - Y Combinator Y Combinator https://www.ycombinator.com > swift...",
+    "url": "https://www.ycombinator.com/companies/swiftsku",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku (@ swiftsku ) • Instagram photos and videos — SwiftSku (@ swiftsku ) • Instagram photos and videos Instagram https://www.instagram.com > swiftsku",
+    "url": "https://www.instagram.com/swiftsku/",
+    "pass": 3
+   },
+   {
+    "quote": "SWIFTSKU Website Terms of Use — SWIFTSKU Website Terms of Use SwiftSku https://www.swiftsku.com > terms-of-...",
+    "url": "https://www.swiftsku.com/terms-of-use",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku Revenue 2024: $7.1M Est. - GetLatka — SwiftSku Revenue 2024: $7.1M Est. - GetLatka GetLatka https://getlatka.com > swiftsku",
+    "url": "https://getlatka.com/companies/swiftsku.com",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku Funding | $7.1M Revenue | Complete Analysis — SwiftSku Funding | $7.1M Revenue | Complete Analysis Extruct AI https://www.extruct.ai > hub > swiftsk...",
+    "url": "https://www.extruct.ai/hub/swiftsku-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku - 2026 Company Profile, Team, Funding & Competitors — SwiftSku - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/swiftsku/__8oTZ0JcEOvPseggwUturds7yr4RhTkW7x2kIKl8IdWQ",
+    "pass": 3
+   },
+   {
+    "quote": "SwiftSku - Crunchbase Company Profile & Funding — SwiftSku - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > swiftsku",
+    "url": "https://www.crunchbase.com/organization/swiftsku",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "For pleasure, I enjoy playing tennis and learning about emergent technologies in the fields of additive manufacturing, machine learning, and decentralized applications.",
+    "url": "https://www.ycombinator.com/companies/swiftsku",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "SwiftSku (@SwiftSku) / Posts / X SwiftSku (@SwiftSku) - Posts - Remote management and analytics app for convenience stores | X (formerly Twitter)",
+    "url": "https://x.com/swiftsku",
+    "pass": 3
+   },
+   {
+    "quote": "\"#swiftsku\" - Results on X | Live Posts & Updates Results for \"#swiftsku\" on X (Twitter). Find the latest posts, discussions, and updates about #swiftsku. 1 results found.",
+    "url": "https://x.com/hashtag/swiftsku",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SwiftSku (YC W21) - LinkedIn SwiftSku (YC W21) - LinkedIn LinkedIn https://www.linkedin.com > swiftsku",
+    "url": "https://www.linkedin.com/company/swiftsku",
+    "pass": 3
+   },
+   {
+    "quote": "Mit Patel - CEO @ SwiftSku (YC W21) - LinkedIn Mit Patel - CEO @ SwiftSku (YC W21) - LinkedIn LinkedIn https://www.linkedin.com > mitpatel2...",
+    "url": "https://www.linkedin.com/in/mitpatel283",
+    "pass": 3
+   },
+   {
+    "quote": "Amit Patel - SwiftSku (YC W21) - LinkedIn Amit Patel - SwiftSku (YC W21) - LinkedIn LinkedIn https://www.linkedin.com > mitt",
+    "url": "https://www.linkedin.com/in/mitt",
+    "pass": 3
+   },
+   {
+    "quote": "Daniel Mazur - Founder at SwiftSku (YC W21) - LinkedIn Daniel Mazur - Founder at SwiftSku (YC W21) - LinkedIn LinkedIn https://www.linkedin.com > danielma...",
+    "url": "https://www.linkedin.com/in/danielmazur1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Auburn alumni founders of SwiftSku make Forbes 30 under 30 Auburn alumni founders of SwiftSku make Forbes 30 under 30 Facebook https://www.facebook.com > AuburnEngineering > posts",
+    "url": "https://www.facebook.com/AuburnEngineering/posts/from-auburn-classrooms-to-the-forbes-30-under-30-list-auburn-engineering-alumni-/1488149016653410/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.swiftsku.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swiftsku.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swiftsku.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycar-life.com/article/2026/11/08/32725.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swiftsku.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solidworks.com/ja/how-to-buy/solidworks-agent_disributor_JPN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swiftsku.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/swiftsku",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/swiftsku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flexwareinnovation.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.globalshopsolutions.com/manufacturing-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizowie.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swiftsku.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.swiftsku.com/website-terms-of-use",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/swiftsku.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.extruct.ai/hub/swiftsku-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/swiftsku/__8oTZ0JcEOvPseggwUturds7yr4RhTkW7x2kIKl8IdWQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/462708-64",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/swiftsku",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/swiftsku",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/swiftsku",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mitpatel283",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mitt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/danielmazur1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AuburnEngineering/posts/from-auburn-classrooms-to-the-forbes-30-under-30-list-auburn-engineering-alumni-/1488149016653410/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Swiftsku 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "https://www.stellantis.jp/",
+    "https://www.mycar-life.com/article/2026/11/08/32725.html",
+    "https://www.instagram.com/reel/DfTb76WgVjx/",
+    "https://trafficnews.jp/post/725198",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://podcasts.apple.com/us/podcast/%E3%82%A2%E3%83%A1%E8%BB%8A%E3%81%AF%E3%81%93%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%E6%8C%AF%E3%82%8A%E5%88%87%E3%81%A3%E3%81%A6%E3%81%84%E3%81%84-%E5%A4%A7%E5%9E%8B%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-ram-1500-limited-%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5%E3%81%AB%E9%A9%9A%E3%81%8D%E3%81%AE%E5%A3%B0/id1391531784?i=1000800748354",
+    "https://www.swiftsku.com/",
+    "https://www.swiftsku.com/about"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Swiftsku 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.swiftsku.com/",
+    "https://pitchbook.com/profiles/company/462708-64",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.solidworks.com/ja/how-to-buy/solidworks-agent_disributor_JPN",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://ecnomikata.com/blog/51124/",
+    "https://solxia.co.jp/import-agency",
+    "https://bizresearch.net/",
+    "https://ebis.obda.or.jp/faq/1143",
+    "https://ja.wikipedia.org/wiki/秦英之"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Swiftsku Japan",
+   "results": [
+    "https://www.swiftsku.com/",
+    "https://www.linkedin.com/company/swiftsku",
+    "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "https://www.ycombinator.com/companies/swiftsku",
+    "https://www.instagram.com/swiftsku/",
+    "https://play.google.com/store/apps/details?id=com.swiftsku",
+    "https://www.ambitionbox.com/overview/swiftsku-overview",
+    "https://www.crunchbase.com/organization/swiftsku",
+    "https://www.swiftsku.com/contact-us",
+    "https://www.swiftsku.com/about"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Swiftsku manufacturing customer case study",
+   "results": [
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.globalshopsolutions.com/manufacturing-case-studies",
+    "https://bizowie.com/case-studies",
+    "https://www.swiftsku.com/",
+    "https://www.factory-twin.com/casestudies",
+    "https://business.bt.com/insights/case-studies/manufacturing/",
+    "https://www.athenaswc.com/case-studies/",
+    "https://663810.fs1.hubspotusercontent-na1.net/hubfs/663810/2022%20-%20CLEVR%20Success%20Stories%20EBooks/CLEVR%20Success%20Stories%20-%20Manufacturing%20-%20ENG.pdf",
+    "https://aws.amazon.com/manufacturing/case-studies/",
+    "https://www.swiftsku.com/about"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Swiftsku white label OR reseller OR partner program",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.swiftsku.com/terms-of-use",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://apps.apple.com/us/app/swiftsku/id1515815242",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://help.salesplay.com/help/introducing-the-salesplay-partner-white-label-program/",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Swiftsku founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/swiftsku.com",
+    "https://www.extruct.ai/hub/swiftsku-com-funding/",
+    "https://tracxn.com/d/companies/swiftsku/__8oTZ0JcEOvPseggwUturds7yr4RhTkW7x2kIKl8IdWQ",
+    "https://pitchbook.com/profiles/company/462708-64",
+    "https://www.crunchbase.com/organization/swiftsku",
+    "https://www.swiftsku.com/about",
+    "https://www.zoominfo.com/c/swiftsku/557151473",
+    "https://www.linkedin.com/company/swiftsku",
+    "https://www.ambitionbox.com/overview/swiftsku-overview",
+    "https://getlatka.com/companies/swiftsku.com/customers"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com Swiftsku",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/ogikubo/n/nf616c0b6685a",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Swiftsku",
+   "results": [
+    "https://x.com/amishthaker_/status/2119320147643310463",
+    "https://x.com/amishthaker_/status/2115075876681551874",
+    "https://x.com/swiftsku",
+    "https://x.com/hashtag/swiftsku",
+    "https://x.com/",
+    "https://x.com/amishthaker_",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/evadentz/status/2115896420809216184",
+    "https://x.com/_InfoGram_/status/2118253289573949943"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com Swiftsku",
+   "results": [
+    "https://www.linkedin.com/company/swiftsku",
+    "https://www.linkedin.com/in/mitpatel283",
+    "https://www.linkedin.com/in/mitt",
+    "https://www.linkedin.com/in/danielmazur1",
+    "https://www.linkedin.com/posts/vroomdelivery_were-excited-to-share-that-our-partnership-activity-7452013765824241665-BjvP",
+    "https://www.linkedin.com/in/rahul-j-4ba20a126",
+    "https://in.linkedin.com/in/ravikumar-vyas-03a473128",
+    "https://in.linkedin.com/in/yukta-sajnani",
+    "https://www.linkedin.com/posts/vroomdelivery_vroom-delivery-swiftsku-partner-to-optimize-activity-7393710491086397441-gPtG",
+    "https://in.linkedin.com/in/tusharnigam40a703104"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:facebook.com Swiftsku",
+   "results": [
+    "https://www.facebook.com/AuburnEngineering/posts/from-auburn-classrooms-to-the-forbes-30-under-30-list-auburn-engineering-alumni-/1488149016653410/",
+    "https://www.facebook.com/groups/141009286088990/posts/1973057032884197/",
+    "https://www.facebook.com/chickenhutzw/posts/who-says-social-media-doesnt-pay-welcome-to-kwekwe-pitstop-order-your-food-befor/1008238371337216/",
+    "https://www.facebook.com/manpasandinc/posts/-get-ready-scranton-the-countdown-is-on-just-4-days-to-go-get-ready-for-a-super-/1638499158287129/",
+    "https://www.facebook.com/groups/nbctribe/posts/1334677261606004/",
+    "https://www.facebook.com/manpasandinc/posts/-are-you-ready-scranton-only-5-days-to-go-get-ready-for-the-biggest-garba-raas-o/1637716215032090/",
+    "https://www.facebook.com/groups/7252826804759086/posts/36822793414002367/",
+    "https://www.facebook.com/fitzthors/",
+    "https://www.facebook.com/forbes/posts/here-are-the-46-under-30s-who-turned-their-startups-into-billion-dollar-fortunes/1251902786799709/",
+    "https://www.facebook.com/swiftsku/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Swiftsku note 社長",
+   "results": [
+    "https://www.swiftsku.com/",
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://note.com/leafworks_touch/m/m2b20fbb62728",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.linkedin.com/company/swiftsku",
+    "https://play.google.com/store/apps/details?id=com.swiftsku",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://hutzper.com/news/notice/n261025/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Swiftsku X 投稿",
+   "results": [
+    "https://web.swiftsku.com/",
+    "https://x.com/taylorswift13",
+    "https://play.google.com/store/apps/details?id=com.swiftsku",
+    "https://www.youtube.com/watch?v=C99mkvpxpiM",
+    "https://note.com/dx_ai_tools/n/nd831ea9143ab",
+    "https://www.swiftsku.com/",
+    "https://www.glassdoor.com/Reviews/SwiftSku-Reviews-E7448703.htm",
+    "https://koneta.nifty.com/koneta_detail/1141008024346_1.htm",
+    "https://www.youtube.com/watch?v=RJVh5ao25JA",
+    "https://x.com/swiftsku"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

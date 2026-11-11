@@ -1,0 +1,1482 @@
+{
+ "name": "Reachpower",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T09:32:31.781470+00:00",
+ "official_url": "https://reachpower.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Seed-1",
+    "value": "42,999 $0.000100  $2.33 $2.33 1x $2.33 0.4%",
+    "url": "https://pitchbook.com/profiles/company/122349-07",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "1,921,298 $0.000100  $4.7 $4.7 1x $4.7 17.98%",
+    "url": "https://pitchbook.com/profiles/company/122349-07",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Persistent drone coverage and robotic support for the places we need to protect.",
+    "url": "https://reachpower.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lunar robots with more productivity, powered from a distance.",
+    "url": "https://reachpower.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industry-leading beam control systems ensure safe and reliable power delivery, prioritizing the safety of users.",
+    "url": "https://reachpower.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built to withstand extreme conditions, Reach delivers reliable performance that is resistant to high temperatures, vibrations, dust, and moisture for uncompromised durability.",
+    "url": "https://reachpower.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower a diverse range of devices, from microwatts to kilowatts, utilizing a modular, adaptive metamaterial design for precise electromagnetic wave manipulation, ensuring scalable and efficient power distribution.",
+    "url": "https://reachpower.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Transmitters engineered for deployment on vehicles or in stationary applications, providing versatile power solutions tailored to various operational requirements.",
+    "url": "https://reachpower.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Even in harsh and remote environments Reach brings the military advantage of adaptive, meshed, optimized wireless power beaming to the energy domain. Reach’s patented wireless power-at-a-distance solution provides flexible and continuous power in the most challenging conditions to advanced technologies including sensors, autonomous vehicles, and drones.",
+    "url": "https://reachpower.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach’s patented power beaming technology increases the efficiency and uptime of robotics, sensors, and advanced devices, propelling innovation in manufacturing and logistics. Reach helps outfit factories with industrial-scale solutions that propel innovation and support agile and mixed model manufacturing.",
+    "url": "https://reachpower.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach and Aisin are advancing wireless power solutions for manufacturing environments, prototyping portable inspection stations, cameras, and robotics.",
+    "url": "https://reachpower.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach is a member of AUVSI, the world’s largest nonprofit organization dedicated to the advancement of uncrewed systems and robotics.",
+    "url": "https://reachpower.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach collaborates with Connected Alliances on two U.S. Air Force wireless power transfer projects.",
+    "url": "https://reachpower.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Defense Advanced Research Projects Agency (DARPA)",
+    "url": "https://reachpower.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach is a member of the MissionLink Next and MissionLink UK cohorts, invitation-only programs for companies with cutting-edge, mission-critical solutions in National Security tech.",
+    "url": "https://reachpower.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach is developing systems to improve wireless power reception efficiency, power levels, and transmission distances for dynamic applications.",
+    "url": "https://reachpower.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Operational Energy Capability Improvement Fund (OECIF)",
+    "url": "https://reachpower.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach is advancing operational energy innovation through six OECIF-funded projects to enhance wireless power capabilities.",
+    "url": "https://reachpower.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "As part of Panasonic’s Accelerator program, Reach co-develops groundbreaking wireless power solutions for real-world applications.",
+    "url": "https://reachpower.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach partners with the U.S. Department of Defense to develop cutting-edge technologies that enhance national security and empower our military forces to prevail in any mission.",
+    "url": "https://reachpower.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Prolong the operation of battery-dependent devices without interruptions for recharging.",
+    "url": "https://reachpower.com/solutions/manufacturing-logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "Capable of powering devices from microwatts to kilowatts, Reach’s modular metamaterial design enables precise electromagnetic wave manipulation.",
+    "url": "https://reachpower.com/solutions/manufacturing-logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate cabling and keep Pick-To-Light and Preventive Maintenance Sensors battery-free with wireless power.",
+    "url": "https://reachpower.com/solutions/manufacturing-logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Innovation Dept., Aisin (Toyota Group)",
+    "url": "https://reachpower.com/solutions/manufacturing-logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "At Aisin, innovation is at the core of everything we do. We are excited to be working with Reach to deploy the world’s first industrial-scale wireless power solution into production. It has enabled us to reimagine how we power our operations and has the potential to set a new industry standard.",
+    "url": "https://reachpower.com/solutions/manufacturing-logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "Prolong the operation of battery-dependent devices without interruptions for recharging.",
+    "url": "https://reachpower.com/solutions/defense-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Capable of powering devices from microwatts to kilowatts, Reach’s modular metamaterial design enables precise electromagnetic wave manipulation.",
+    "url": "https://reachpower.com/solutions/defense-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Easily set up and tear down wireless power solutions in mobile environments like forward operating bases, reducing battery waste and improving the energy supply chain.",
+    "url": "https://reachpower.com/solutions/defense-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy resilient, wireless power solutions in disaster-stricken areas where wired infrastructure is compromised.",
+    "url": "https://reachpower.com/solutions/defense-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Wireless power is a game-changer for sensor technology, maintaining operational continuity while preserving concealment. It allows multiple sensors to be recharged simultaneously with a single transmitter, revolutionizing how we deploy and manage sensors in the field.",
+    "url": "https://reachpower.com/solutions/defense-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide wireless power to emergency sensors in hazardous zones.",
+    "url": "https://reachpower.com/solutions/public-safety/",
+    "pass": 1
+   },
+   {
+    "quote": "FDNY Robotics Program Administrator",
+    "url": "https://reachpower.com/solutions/public-safety/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Engineering",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Director of Product Management",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Marketing",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Federal Programs",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Matt Ocko, with three decades of experience as a technology entrepreneur and VC, in the US and globally, is co-Managing Partner and co-founder of",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "(Data Collective). Matt’s current investments on behalf of DCVC span from computational drug discovery and synthetic biology to geospatial and space access platforms, robotics, applied AI, anti-terror systems, and large-scale enterprise platforms including quantum computers.",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "led by Major General Clayton M. Hutmacher, U.S. Army (Ret.) and is/has been a frequent pro bono advisor to senior staff of the FBI, CIA, SOCOM, and certain interagency committees on select technology and policy matters.",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Smith has been recognized for his acquisition expertise with the Presidential Rank Award and the Joint Distinguished Civilian Service Medal. He holds a bachelor’s degree in Civil Engineering from the United States Military Academy, a master’s degree in Mechanical Engineering from Stanford University, and a master’s in Strategic Studies from the Army War College.",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Before DIU, Richardson held senior Pentagon roles, including Director of Critical Technology Protection and Director of Global Markets and Investments, developing policies to protect DoD technologies and serving on the Committee on Foreign Investment in the U.S.",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "In the private sector, Richardson is currently Chief Commercial Officer at Gambit, has consulted for several defense tech start-ups and was VP of Sales, Business Development, and Program Management at Our Next Energy (ONE). He started his career as a Marine Corps intelligence officer, with multiple overseas tours, and continues to serve as a Colonel in the reserves.",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "As a flag officer, he has served as deputy commander at NATO Supreme Allied Command Transformation’s Joint Warfare Centre in Norway, Commander, Carrier Strike Groups Eleven and Fifteen, and most recently as Commander, Expeditionary Strike Group 3.",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Roberson previously commanded the U.S. Army John F. Kennedy Special Warfare Center and School (USAJFKSWCS), overseeing the training and education of Special Forces, Psychological Operations, and Civil Affairs forces, and led Special Operations Joint Task Force–Operation Inherent Resolve in Iraq and Syria, contributing to the defeat of ISIS’s physical caliphate in 2019.",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Thrive in an inclusive environment where individuality, creativity, and authentic self-expression are valued and respected.",
+    "url": "https://reachpower.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive health and dental insurance",
+    "url": "https://reachpower.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Redwood City, CA headquarters will find you in the heart of Silicon Valley, nestled between the Santa Cruz Mountains and the San Francisco Bay. Our office has convenient access to SFO and is just a short drive from downtown San Francisco, providing an ideal location for both work and fun.",
+    "url": "https://reachpower.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "April 22, 2025",
+    "url": "https://reachpower.com/blogs/",
+    "pass": 1
+   },
+   {
+    "quote": "The Defense Advanced Research Projects Agency (DARPA) is investing in power beaming, a new technology that transfers electromagnetic waves to wirelessly and continuously power electric cars, drones and other digital devices.",
+    "url": "https://reachpower.com/blogs/",
+    "pass": 1
+   },
+   {
+    "quote": "The TE event was focused on autonomous systems, including unmanned aerial systems (UAS), unmanned ground vehicles (UGV), and technologies that enhance communication in contested environments. Over three intensive days in Red Springs, North Carolina, the Reach team showcased two groundbreaking wireless power experiments.",
+    "url": "https://reachpower.com/blogs/",
+    "pass": 1
+   },
+   {
+    "quote": "Practical Power Beaming Gets Real",
+    "url": "https://reachpower.com/blogs/",
+    "pass": 1
+   },
+   {
+    "quote": "Read more about Practical Power Beaming Gets Real",
+    "url": "https://reachpower.com/blogs/",
+    "pass": 1
+   },
+   {
+    "quote": "The US Air Force has seen the future, and it has solar energy written all over it. Last fall the Air Force Research Laboratory announced an eight-project lineup for its new Expeditionary Energy Campaign initiative focusing on clean tech and renewables. Among those eight, front and center is a leading US solar energy developer that has been flying mostly under the radar.",
+    "url": "https://reachpower.com/blogs/",
+    "pass": 1
+   },
+   {
+    "quote": "The demonstration sustained flight for 10 hours and represented an approximately 400X extension of the drone’s 90-second battery.",
+    "url": "https://reachpower.com/news/wireless-powered-drone-10-hour-flight/",
+    "pass": 1
+   },
+   {
+    "quote": "Approximately 400X endurance versus test baseline: Ten hours sustained by remote power compared with approximately 90 seconds of battery-only flight for the test configuration.",
+    "url": "https://reachpower.com/news/wireless-powered-drone-10-hour-flight/",
+    "pass": 1
+   },
+   {
+    "quote": "Battery limitations remain a major barrier to scaling autonomous operations. Small uncrewed aerial systems (sUAS) typically operate for just 30 to 40 minutes before requiring a battery swap or recharge, restricting their ability to provide continuous intelligence, surveillance and reconnaissance (ISR), perimeter security, communications relay, and other mission-critical functions.",
+    "url": "https://reachpower.com/news/wireless-powered-drone-10-hour-flight/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach has received funding for multiple programs through the Department of War’s Operational Energy Capability Improvement Fund (OECIF), administered through OE-I. These programs support the development of wireless power capabilities for uncrewed aerial and ground systems, and other autonomous platforms, advancing the technology toward operational use.",
+    "url": "https://reachpower.com/news/wireless-powered-drone-10-hour-flight/",
+    "pass": 1
+   },
+   {
+    "quote": "Under the MOU, which establishes a framework for joint evaluation and planning, Panasonic Electric Works will contribute use-case development, market insights, customer engagement, and support for Japan regulatory considerations. Reach will provide wireless power technical expertise, system design support, and data needed to evaluate potential prototype and demonstration pathways.",
+    "url": "https://reachpower.com/news/reach-panasonic-electric-works-wireless-power-mou/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach’s wireless power beaming systems are designed to deliver energy to receivers without requiring physical contact, fixed charging pads, or wired connections. The company’s work spans defense, industrial, robotics, smart infrastructure, and autonomous systems applications where power availability can limit operational flexibility.",
+    "url": "https://reachpower.com/news/reach-panasonic-electric-works-wireless-power-mou/",
+    "pass": 1
+   },
+   {
+    "quote": "Panasonic Electric Works Co., Ltd. manufactures and provides electrical equipment for homes, offices, hotels, commercial and sports facilities, and other environments. Guided by its purpose, “",
+    "url": "https://reachpower.com/news/reach-panasonic-electric-works-wireless-power-mou/",
+    "pass": 1
+   },
+   {
+    "quote": "UGS from distances up to 200 feet—while the sensor and power receiver were camouflaged under concealments, like a fake rock, grass and other vegetation. Even with these obstructions blocking line-of-sight, the system delivered consistent power, proving its ability to operate in real-world, tactically relevant conditions where sensors must remain hidden to avoid detection.",
+    "url": "https://reachpower.com/blog/reach-demonstrates-long-range-wireless-power-at-t-rex-25-1/",
+    "pass": 1
+   },
+   {
+    "quote": "Why it Matters: The Power Problem",
+    "url": "https://reachpower.com/blog/reach-demonstrates-long-range-wireless-power-at-t-rex-25-1/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Manufacturing & Logistics",
+    "url": "https://reachpower.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach’s patented power beaming technology increases the efficiency and uptime of robotics, sensors, and advanced devices, propelling innovation in manufacturing and logistics. Reach helps outfit factories with industrial-scale solutions that propel innovation and support agile and mixed model manufacturing.",
+    "url": "https://reachpower.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Read more about Manufacturing & Logistics",
+    "url": "https://reachpower.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach and Aisin are advancing wireless power solutions for manufacturing environments, prototyping portable inspection stations, cameras, and robotics.",
+    "url": "https://reachpower.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Wireless Power for Industrial Robotics | Reach Power",
+    "url": "https://reachpower.com/solutions/manufacturing-logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Applications",
+    "url": "https://reachpower.com/solutions/manufacturing-logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "The future of manufacturing has no choice but to become wireless with power and data.",
+    "url": "https://reachpower.com/solutions/manufacturing-logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "At Aisin, innovation is at the core of everything we do. We are excited to be working with Reach to deploy the world’s first industrial-scale wireless power solution into production. It has enabled us to reimagine how we power our operations and has the potential to set a new industry standard.",
+    "url": "https://reachpower.com/solutions/manufacturing-logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Partners",
+    "url": "https://reachpower.com/solutions/manufacturing-logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by defense, public safety, and industrial leaders.",
+    "url": "https://reachpower.com/solutions/public-safety/",
+    "pass": 1
+   },
+   {
+    "quote": "A native of Wenatchee, Washington, Major General Hutmacher was awarded a Bachelor’s Degree in Aerospace Management from Embry Riddle Aeronautical University, a Master’s Degree in National Security and Strategic Studies from the United States Naval Command and Staff College, and a Master’s Degree in Strategic Studies from the United States Army War College.",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Jim Smith is the former Acquisition Executive for the United States Special Operations Command where he managed over $6 billion annually in support of global special operations. With more than 30 years of experience in government acquisition, Smith is dedicated to fostering a robust industrial base and a vibrant technology sector for national defense.",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Build cutting-edge solutions for government, military, manufacturing, and logistics sectors.",
+    "url": "https://reachpower.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale wireless power from IoT and sensors to drones and high-power industrial robotics, driving industry transformation.",
+    "url": "https://reachpower.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Play a pivotal role in deploying the world’s first industrial-scale wireless power solutions.",
+    "url": "https://reachpower.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Make a tangible impact on national defense, smart manufacturing, and sustainability initiatives.",
+    "url": "https://reachpower.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "What is Industrial-Scale Wireless Power?",
+    "url": "https://reachpower.com/blogs/",
+    "pass": 1
+   },
+   {
+    "quote": "Read more about What is Industrial-Scale Wireless Power?",
+    "url": "https://reachpower.com/blogs/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach’s wireless power beaming systems are designed to deliver energy to receivers without requiring physical contact, fixed charging pads, or wired connections. The company’s work spans defense, industrial, robotics, smart infrastructure, and autonomous systems applications where power availability can limit operational flexibility.",
+    "url": "https://reachpower.com/news/reach-panasonic-electric-works-wireless-power-mou/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach develops wireless power-beaming systems that deliver safe, targeted RF energy over distance — keeping drones, unattended ground sensors, ground robots, and other electronic systems continuously operational without cables or battery swaps. The technology reduces logistics burden and supply chain risk across defense, public safety, and industrial markets.",
+    "url": "https://reachpower.com/news/reach-panasonic-electric-works-wireless-power-mou/",
+    "pass": 1
+   },
+   {
+    "quote": "In remote and harsh environments where sensor maintenance is costly and dangerous, wireless power eliminates the need for battery swaps, enabling always-on, intelligent systems that support smart infrastructure and industrial automation.",
+    "url": "https://reachpower.com/blog/reach-demonstrates-long-range-wireless-power-at-t-rex-25-1/",
+    "pass": 1
+   },
+   {
+    "quote": "From forward-operating bases and border environments to industrial and smart city infrastructure, Reach is changing the way the world thinks about powering the future and moving beyond cords, batteries, and limitations.",
+    "url": "https://reachpower.com/blog/reach-demonstrates-long-range-wireless-power-at-t-rex-25-1/",
+    "pass": 1
+   },
+   {
+    "quote": "When beaming microwaves from relatively small distances, such as in an automated factory, or medium distances, such as to a remote island, the antennas can remain relatively small. But trying that same feat using solar-collecting satellites in space would require a receiving antenna that’s many",
+    "url": "https://reachpower.com/blog/wireless-electricity-is-on-the-horizon-and-it-could-beam-power-right-to-your-house/",
+    "pass": 1
+   },
+   {
+    "quote": "DCVC leads a $30 million Series B: Reach to Deliver the First Industrial-Scale Wireless Power Solution | U.S. News",
+    "url": "https://envzone.com/press/dcvc-leads-a-30-million-series-b-reach-to-deliver-the-first-industrial-scale-wireless-power-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "DCVC leads a $30 million Series B: Reach to Deliver the First Industrial-Scale Wireless Power Solution",
+    "url": "https://envzone.com/press/dcvc-leads-a-30-million-series-b-reach-to-deliver-the-first-industrial-scale-wireless-power-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "In industrial, supply-chain, and government settings alike, Reach can untether power in the same way that Wi-Fi untethered data and access to the internet.",
+    "url": "https://envzone.com/press/dcvc-leads-a-30-million-series-b-reach-to-deliver-the-first-industrial-scale-wireless-power-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://pitchbook.com/profiles/company/122349-07",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/122349-07",
+    "pass": 3
+   },
+   {
+    "quote": "3342 Communications Equipment Manufacturing",
+    "url": "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "pass": 3
+   },
+   {
+    "quote": "Reach Power is classified as operating in the Communications Equipment Manufacturing industry, NAICS Code 3342.",
+    "url": "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "pass": 3
+   },
+   {
+    "quote": "These companies are in the same general field as Reach Power and are rapidly expanding. Companies may grow organically or through acquisition. In some cases apparently high growth rates may be caused by data that weren't available in previous years.",
+    "url": "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Reach Power and Panasonic Electric Works have signed an MOU to jointly explore how wireless power beaming can support smart buildings, indoor service robots, connected devices, and future smart infrastructure use cases in Japan.",
+    "url": "https://reachpower.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaboration aims to develop Reach’s wireless power technology for indoor service robots, connected devices, and future smart infrastructure use cases in Japan",
+    "url": "https://reachpower.com/news/reach-panasonic-electric-works-wireless-power-mou/",
+    "pass": 1
+   },
+   {
+    "quote": ", Osaka, Japan, to jointly explore the application of Reach’s wireless power beaming technology for smart building, robotics, and connected device use cases in Japan.",
+    "url": "https://reachpower.com/news/reach-panasonic-electric-works-wireless-power-mou/",
+    "pass": 1
+   },
+   {
+    "quote": "The collaboration will focus on evaluating how wireless power can support indoor service robots, smart building infrastructure, and other connected systems that may benefit from more flexible, cable-free power delivery. The companies plan to assess technical feasibility, customer value, business viability, development requirements, and Japan-specific regulatory considerations.",
+    "url": "https://reachpower.com/news/reach-panasonic-electric-works-wireless-power-mou/",
+    "pass": 1
+   },
+   {
+    "quote": "Under the MOU, which establishes a framework for joint evaluation and planning, Panasonic Electric Works will contribute use-case development, market insights, customer engagement, and support for Japan regulatory considerations. Reach will provide wireless power technical expertise, system design support, and data needed to evaluate potential prototype and demonstration pathways.",
+    "url": "https://reachpower.com/news/reach-panasonic-electric-works-wireless-power-mou/",
+    "pass": 1
+   },
+   {
+    "quote": "Power beaming is now a global effort, with investments in the U.S. funneling toward the military, and toward green energy in Europe. Asia has seen a big interest in telecom companies and Japan is leading the way in space-based power beaming. So with all these different applications, when will you see power beaming finally go mainstream?",
+    "url": "https://reachpower.com/blog/wireless-electricity-is-on-the-horizon-and-it-could-beam-power-right-to-your-house/",
+    "pass": 1
+   },
+   {
+    "quote": "The Japanese space agency, JAXA, is so motivated by this potential source of energy, that by the 2030s it hopes to have a space-based power station in orbit delivering one gigawatt of electricity—about as much as a commercial nuclear reactor does per year.",
+    "url": "https://reachpower.com/blog/wireless-electricity-is-on-the-horizon-and-it-could-beam-power-right-to-your-house/",
+    "pass": 1
+   },
+   {
+    "quote": "Innovative Wireless Power Mesh Networks Change the Future of Drones: A Success Story from Reach Power｜株式会社ASOLAB.",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "革新的なワイヤレス給電メッシュネットワークがドローンの未来を変える: Reach Powerの成功事例｜株式会社ASOLAB.",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Partnering with Flying Lion, Reach is developing wirelessly powered drone solutions for public safety agencies, including police, fire, and emergency services.",
+    "url": "https://reachpower.com/partners/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "As part of Panasonic’s Accelerator program, Reach co-develops groundbreaking wireless power solutions for real-world applications.",
+    "url": "https://reachpower.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "In partnership with AFRL, Reach is designing solutions to efficiently relay wireless power around barriers and over extended distances.",
+    "url": "https://reachpower.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Special Operations Warrior Foundation",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Former USSOCOM Acquisition Executive",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Jim Smith is the former Acquisition Executive for the United States Special Operations Command where he managed over $6 billion annually in support of global special operations. With more than 30 years of experience in government acquisition, Smith is dedicated to fostering a robust industrial base and a vibrant technology sector for national defense.",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Smith has been recognized for his acquisition expertise with the Presidential Rank Award and the Joint Distinguished Civilian Service Medal. He holds a bachelor’s degree in Civil Engineering from the United States Military Academy, a master’s degree in Mechanical Engineering from Stanford University, and a master’s in Strategic Studies from the Army War College.",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "As a flag officer, he has served as deputy commander at NATO Supreme Allied Command Transformation’s Joint Warfare Centre in Norway, Commander, Carrier Strike Groups Eleven and Fifteen, and most recently as Commander, Expeditionary Strike Group 3.",
+    "url": "https://reachpower.com/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "as part of Operational Energy-Innovation’s (OE-I) 2026 Energy Sentry event, the flight marked what Reach believes to be the first commercial power beaming demo",
+    "url": "https://reachpower.com/news/wireless-powered-drone-10-hour-flight/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous departure and reacquisition: The drone briefly moved away from its power position, returned and requested power again; the transmitter reacquired the receiver.",
+    "url": "https://reachpower.com/news/wireless-powered-drone-10-hour-flight/",
+    "pass": 1
+   },
+   {
+    "quote": "Battery limitations remain a major barrier to scaling autonomous operations. Small uncrewed aerial systems (sUAS) typically operate for just 30 to 40 minutes before requiring a battery swap or recharge, restricting their ability to provide continuous intelligence, surveillance and reconnaissance (ISR), perimeter security, communications relay, and other mission-critical functions.",
+    "url": "https://reachpower.com/news/wireless-powered-drone-10-hour-flight/",
+    "pass": 1
+   },
+   {
+    "quote": "25-1 Counter-Unmanned Aerial Systems (c-UAS) experimentation event, showcasing its wireless power-at-a-distance solution as part of a live military demonstration at Camp Atterbury in Indiana. Reach’s focus: enabling the world’s first",
+    "url": "https://reachpower.com/blog/reach-demonstrates-long-range-wireless-power-at-t-rex-25-1/",
+    "pass": 1
+   },
+   {
+    "quote": "As AI pushes to the tactical edge and autonomous systems become operationally essential, traditional power constraints are no longer acceptable. Persistent connectivity, real-time decision-making, and distributed sensing all depend on uninterrupted, scalable energy delivery, and Reach is eliminating that barrier.",
+    "url": "https://reachpower.com/blog/reach-demonstrates-long-range-wireless-power-at-t-rex-25-1/",
+    "pass": 1
+   },
+   {
+    "quote": "stations. And with more industries going electric as part of the planet’s dire endeavor to eliminate carbon emissions, the ability to send power whenever and wherever it’s needed—wire or not—is more important than ever.",
+    "url": "https://reachpower.com/blog/wireless-electricity-is-on-the-horizon-and-it-could-beam-power-right-to-your-house/",
+    "pass": 1
+   },
+   {
+    "quote": "magazine that “through television and telephony we shall see and hear one another as perfectly as if we were face to face” with devices that “fit in our vest pockets.” Vests didn’t really hang around, but the first smartphones arrived nearly 80 years later.",
+    "url": "https://reachpower.com/blog/wireless-electricity-is-on-the-horizon-and-it-could-beam-power-right-to-your-house/",
+    "pass": 1
+   },
+   {
+    "quote": "All new technologies are competitive, but power beaming stands on its own. Part of the reason is that many wavelengths along the electromagnetic spectrum can be useful for power beaming. As with any energy source, the inevitable trade-offs depend on how this technology is used.",
+    "url": "https://reachpower.com/blog/wireless-electricity-is-on-the-horizon-and-it-could-beam-power-right-to-your-house/",
+    "pass": 1
+   },
+   {
+    "quote": "REDWOOD CITY, Calif.–Wireless power-at-a-distance company Reach, whose field-tested, proven technology delivers more point-to-multipoint power over greater distances than any product in the market, today announced a $30M Series B financing round, led by deep-tech venture capital firm DCVC.",
+    "url": "https://envzone.com/press/dcvc-leads-a-30-million-series-b-reach-to-deliver-the-first-industrial-scale-wireless-power-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Reach’s commercial products will wirelessly deliver hundreds of watts of power, connect point-to-multipoint, and transmit over tens of meters—and its defense-related systems will deliver even higher power over even greater distances. The company’s novel capability can transform how we power the billions of devices that make up the Internet of Things (IoT).",
+    "url": "https://envzone.com/press/dcvc-leads-a-30-million-series-b-reach-to-deliver-the-first-industrial-scale-wireless-power-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/122349-07",
+    "pass": 3
+   },
+   {
+    "quote": "Reach Power has 37 total employees.",
+    "url": "https://pitchbook.com/profiles/company/122349-07",
+    "pass": 3
+   },
+   {
+    "quote": "What is Reach Power’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/122349-07",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Reach Power is",
+    "url": "https://pitchbook.com/profiles/company/122349-07",
+    "pass": 3
+   },
+   {
+    "quote": "👥 40 employees",
+    "url": "https://www.gritt.io/company/reach-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Revenue, Growth & Competitor Analysis Report for Reach Power - IncFact",
+    "url": "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "pass": 3
+   },
+   {
+    "quote": "Reach Power Revenue, Growth & Competitor Profile",
+    "url": "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "pass": 3
+   },
+   {
+    "quote": "See Exact Annual Revenue",
+    "url": "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "pass": 3
+   },
+   {
+    "quote": "Note: Revenues for privately held companies are statistical evaluations.",
+    "url": "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the company's size? (Annual sales and employees)",
+    "url": "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "pass": 3
+   },
+   {
+    "quote": "Reach Power's annual revenues are $1 - $10 million",
+    "url": "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "pass": 3
+   },
+   {
+    "quote": "(see exact revenue data)",
+    "url": "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "pass": 3
+   },
+   {
+    "quote": "Reach Power Annual Revenue and Growth Rate",
+    "url": "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "pass": 3
+   },
+   {
+    "quote": "Note: Reach Power's revenues are gauged from an analysis of company filings.",
+    "url": "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "pass": 3
+   },
+   {
+    "quote": "These are the largest companies by revenue. However, they may not have the largest market share in this industry if they have diversified into other business lines.",
+    "url": "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "pass": 3
+   },
+   {
+    "quote": "L3HARRIS TECHNOLOGIES",
+    "url": "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "pass": 3
+   },
+   {
+    "quote": "While some companies compete with neighboring businesses for customers, other companies may compete to attract skilled employees.",
+    "url": "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "pass": 3
+   },
+   {
+    "quote": "These companies are in the same general field as Reach Power and are rapidly expanding. Companies may grow organically or through acquisition. In some cases apparently high growth rates may be caused by data that weren't available in previous years.",
+    "url": "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Wireless Power Beaming Technology | Reach Power — Reach delivers long-range, wireless power-at-a-distance for defense, industrial, and critical infrastructure use cases. Eliminate manual charging and enable persistent operations with scalable wireless energy solutions.",
+    "url": "https://reachpower.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Reach Power and Panasonic Electric Works Sign MOU to Explore ... — Sep 2, 2026 · Collaboration aims to develop Reach’s wireless power technology for indoor service robots, connected devices, and future smart infrastructure use cases in Japan September 2, 2026 – Redwood City, Calif. – Reach Power (Reach), a leader in wireless power beaming, today announced that it has signed a Memorandum of Underst",
+    "url": "https://reachpower.com/news/reach-panasonic-electric-works-wireless-power-mou/",
+    "pass": 3
+   },
+   {
+    "quote": "Wireless Power Technology News - Reach — Sep 2, 2026 · October 28, 2026 Reach Power Achieves First-of-Its-Kind Persistent Autonomous Drone Flight Powered Wirelessly for 10 Hours Reach Power achieves a 10-hour autonomous drone flight using wireless power beaming. The milestone combines autonomous energy management, real-time beam steering, and on-demand power delivery without external flight contro",
+    "url": "https://reachpower.com/press/",
+    "pass": 3
+   },
+   {
+    "quote": "Wireless Power Beaming Technology | Reach Power — Reach Power and Panasonic Electric Works have signed an MOU to jointly explore how wireless power beaming can support smart buildings, indoor service robots, connected devices, and future smart infrastructure use cases in Japan.",
+    "url": "https://reachpower.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Wireless Power Technology News | Reach Power — Sep 2, 2026 · September 2, 2026 Reach Power and Panasonic Electric Works Sign MOU to Explore New Applications for Wireless Power, Including Smart Building and Robotics Reach Power and Panasonic Electric Works have signed an MOU to jointly explore how wireless power beaming can support smart buildings, indoor service robots, connected devices, and futu",
+    "url": "https://reachpower.com/press/",
+    "pass": 3
+   },
+   {
+    "quote": "Reach Power and Panasonic Electric Works Sign MOU to Explore ... — Sep 2, 2026 · September 2, 2026 – Redwood City, Calif. – Reach Power (Reach), a leader in wireless power beaming, today announced that it has signed a Memorandum of Understanding with Panasonic Electric Works Co., Ltd., Osaka, Japan, to jointly explore the application of Reach’s wireless power beaming technology for smart building,",
+    "url": "https://reachpower.com/news/reach-panasonic-electric-works-wireless-power-mou/",
+    "pass": 3
+   },
+   {
+    "quote": "How it Works - Reach Power — Discover how Reach’s wireless power-at-a-distance technology works—featuring intelligent transmitters, adaptive receivers, and real-time power management to enable persistent, untethered operations.",
+    "url": "https://reachpower.com/how-it-works/",
+    "pass": 3
+   },
+   {
+    "quote": "Solutions - Reach Power — Reach | Solutions",
+    "url": "https://reachpower.com/solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Wireless Power Beaming Technology | Reach Power — Reach’s patented power beaming technology increases the efficiency and uptime of robotics, sensors, and advanced devices, propelling innovation in manufacturing and logistics. Reach helps outfit factories with industrial-scale solutions that propel innovation and support agile and mixed model manufacturing.",
+    "url": "https://reachpower.com/",
+    "pass": 3
+   },
+   {
+    "quote": "DCVC leads a $30 million Series B: Reach to Deliver the First ... — Dec 2, 2022 · Ideally suited for manufacturing, government, energy, logistics, and retail, the Reach solution provides flexible access to power where and when needed, streamlining device deployment and improving device performance. Visit us at www.reachpower.com.",
+    "url": "https://envzone.com/press/dcvc-leads-a-30-million-series-b-reach-to-deliver-the-first-industrial-scale-wireless-power-solution/",
+    "pass": 3
+   },
+   {
+    "quote": "Wireless Power Technology News | Reach Power — Sep 2, 2026 · Reach Power achieves a 10-hour autonomous drone flight using wireless power beaming. The milestone combines autonomous energy management, real-time beam steering, and on-demand power delivery without external flight controls or human intervention.",
+    "url": "https://reachpower.com/press/",
+    "pass": 3
+   },
+   {
+    "quote": "Reach Power 2026 Company Profile: Valuation, Funding ...Reach - 2026 Company Profile, Team, Funding & Competitors ...Reach Power - Overview, News & Similar companies | ZoomInfo.comReach — investors & funding | gritt.ioReach Power Revenue, Growth & Competitor ProfileReach: Funding, Investors & Team (Oct 2026) | FundedIQReach Power — venture-backed company profile | Dealroom — Information on valuati",
+    "url": "https://pitchbook.com/profiles/company/122349-07",
+    "pass": 3
+   },
+   {
+    "quote": "Reach - 2026 Company Profile, Team, Funding & Competitors ...Reach Power - Overview, News & Similar companies | ZoomInfo.comReach — investors & funding | gritt.ioReach Power Revenue, Growth & Competitor ProfileReach: Funding, Investors & Team (Oct 2026) | FundedIQReach Power — venture-backed company profile | Dealroom — Mar 7, 2026 · Reach is a series B company based in Redwood City (United States",
+    "url": "https://tracxn.com/d/companies/reach/__goQhYsYM4NH14xlK9iMWSvxpagznXH7jc0YyMEiQ7cI",
+    "pass": 3
+   },
+   {
+    "quote": "Reach — investors & funding | gritt.io — 📍 Redwood City, United States🗓 Founded 2015👥 40 employees💰 Last funded Nov 2025 Wireless Services 🌐 reachpower.com Website LinkedIn",
+    "url": "https://www.gritt.io/company/reach-power/",
+    "pass": 3
+   },
+   {
+    "quote": "Reach Power Revenue, Growth & Competitor ProfileReach: Funding, Investors & Team (Oct 2026) | FundedIQReach Power — venture-backed company profile | Dealroom — Oct 26, 2026 · Reach Power's Annual Report & Profile shows critical firmographic facts: What is the company's size? (Annual sales and employees) Reach Power's annual revenues are $1 - $10 million (see exact revenue data) What industry is th",
+    "url": "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/122349-07",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Innovative Wireless Power Mesh Networks Change the Future of ... Jun 11, 2024 · US startup Reach Power has successfully developed an innovative wireless power transmission system using radio frequency (RF). This technology is capable of supplying up to 256W of power to drones in flight, and its practicality has been proven through support from DARPA and demonstrations at NASA ...",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "革新的なワイヤレス給電メッシュネットワークがドローンの未来を変え... Jun 12, 2024 · 米国スタートアップのReach Powerが、 無線周波数（RF）を使用した革新的なワイヤレス給電システムの開発に成功しました。 この技術は、 飛行中のドローンに対して最大256Wの電力を供給可能であり、 DARPAの支援とNASAでの実演によりその実用性が証明されました。 このシステムは、 4台の送電装置 ...",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77",
+    "pass": 3
+   },
+   {
+    "quote": "同業者がうらやましい①｜時給0円のAI ドローンのAI、10時間自律飛行に成功したらしい ――― 何が起きたか 米Reach Powerが、無線給電（電波で電気を飛ばす仕組み）だけでドローンを10時間飛ばし続けた ドローン側が電池残量を自分で見ていて、減ったら給電スポットに戻って「充電して」と要求する。満タンになったらまた離れる ...",
+    "url": "https://note.com/chic_yucca9959/n/nd0d27f5257f3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Innovative Wireless Power Mesh Networks Change the Future of Drones: A Success Story from Reach Power｜株式会社ASOLAB.",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Innovative Wireless Power Mesh Networks Change the Future of Drones: A Success Story from Reach Power",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "US startup Reach Power has successfully developed an innovative wireless power transmission system using radio frequency (RF).",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This technology is capable of supplying up to 256W of power to drones in flight,",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "and its practicality has been proven through support from DARPA and demonstrations at NASA.",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This system provides stable power supply by having four power transmission devices work together to form a mesh network.",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This significantly improves the operational range and flight time of drones,",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "革新的なワイヤレス給電メッシュネットワークがドローンの未来を変える: Reach Powerの成功事例｜株式会社ASOLAB.",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77",
+    "pass": 3
+   },
+   {
+    "quote": "革新的なワイヤレス給電メッシュネットワークがドローンの未来を変える: Reach Powerの成功事例",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77",
+    "pass": 3
+   },
+   {
+    "quote": "米国スタートアップのReach Powerが、",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77",
+    "pass": 3
+   },
+   {
+    "quote": "無線周波数（RF）を使用した革新的なワイヤレス給電システムの開発に成功しました。",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77",
+    "pass": 3
+   },
+   {
+    "quote": "飛行中のドローンに対して最大256Wの電力を供給可能であり、",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77",
+    "pass": 3
+   },
+   {
+    "quote": "DARPAの支援とNASAでの実演によりその実用性が証明されました。",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77",
+    "pass": 3
+   },
+   {
+    "quote": "4台の送電装置が協力しメッシュネットワークを形成することで、",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77",
+    "pass": 3
+   },
+   {
+    "quote": "さまざまな分野での応用が期待されています。",
+    "url": "https://note.com/asolab932/n/n1d53188d8c77",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンのAI、10時間自律飛行に成功したらしい",
+    "url": "https://note.com/chic_yucca9959/n/nd0d27f5257f3",
+    "pass": 3
+   },
+   {
+    "quote": "米Reach Powerが、無線給電（電波で電気を飛ばす仕組み）だけでドローンを10時間飛ばし続けた",
+    "url": "https://note.com/chic_yucca9959/n/nd0d27f5257f3",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン側が電池残量を自分で見ていて、減ったら給電スポットに戻って「充電して」と要求する。満タンになったらまた離れる",
+    "url": "https://note.com/chic_yucca9959/n/nd0d27f5257f3",
+    "pass": 3
+   },
+   {
+    "quote": "もとのバッテリーだけだと90秒しか飛べない機体なので、飛行時間は約400倍になった計算",
+    "url": "https://note.com/chic_yucca9959/n/nd0d27f5257f3",
+    "pass": 3
+   },
+   {
+    "quote": "電池が切れそうになると、自分で「充電させて」って言って帰ってくるんだとか",
+    "url": "https://note.com/chic_yucca9959/n/nd0d27f5257f3",
+    "pass": 3
+   },
+   {
+    "quote": "「Reach Power、無線給電でドローンの10時間自律飛行に成功」",
+    "url": "https://note.com/chic_yucca9959/n/nd0d27f5257f3",
+    "pass": 3
+   },
+   {
+    "quote": "https://drone.jp/news/20261030150149130275.html",
+    "url": "https://note.com/chic_yucca9959/n/nd0d27f5257f3",
+    "pass": 3
+   },
+   {
+    "quote": "動画：公式のデモ映像（YouTube、ペンタゴンへ配信されたもの）",
+    "url": "https://note.com/chic_yucca9959/n/nd0d27f5257f3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "#ReachPower - Search / X No results for \"#ReachPower\" Try searching for something else, or check your Search settings to see if they’re protecting you from potentially sensitive content.",
+    "url": "https://x.com/hashtag/ReachPower?f=list",
+    "pass": 3
+   },
+   {
+    "quote": "#ReachPower - Search / X People matching #ReachPower on X. Find accounts and join the conversation.",
+    "url": "https://x.com/hashtag/ReachPower?f=user",
+    "pass": 3
+   },
+   {
+    "quote": "DRONE.jp（テクノロジーメディア） on X: \"Reach Power、無線給電でド... Reach Power、無線給電でドローンの10時間自律飛行に成功。機体が電力を自ら要求し、給電位置へ帰還 #ReachPower #自律飛行 #DRONE ...",
+    "url": "https://x.com/drone_jp/status/2116048467382698318",
+    "pass": 3
+   },
+   {
+    "quote": "Riley Rosebee (@be_rosebee) / X Reach Power Achieves First-of-Its-Kind Persistent Autonomous Drone Flight Powered Wirelessly for 10...",
+    "url": "https://x.com/be_rosebee",
+    "pass": 3
+   },
+   {
+    "quote": "#ReachPower - Search / X See posts about #ReachPower on X. See what people are saying and join the conversation.",
+    "url": "https://x.com/hashtag/ReachPower",
+    "pass": 3
+   },
+   {
+    "quote": "DRONE.jp（テクノロジーメディア） on X: \"Reach Power、無線給電でド... Reach Power、無線給電でドローンの10時間自律飛行に成功。 機体が電力を自ら要求し、給電位置へ帰還 #ReachPower #自律飛行 #DRONE #DRONEjp https://t.co/n8BjcjlBO4 30 Oct 2026 06:04:03",
+    "url": "https://x.com/drone_jp/status/2116048467382698318",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Hunter Scott - Director Of Technical Strategy at Reach Labs ...Reach on LinkedIn: Reach to Deliver the First Industrial ...#hiring #wirelesspower #reachpower | Reach - LinkedIn IndiaJeff White - President @ Reach | LinkedInReach Power Jobs in United States (11,000+ Open Roles) | LinkedInDoug Maddox - Santa Cruz, California, United States ... Director Of Technical Strategy at Reach Labs · Hardware ",
+    "url": "https://www.linkedin.com/in/hunter-scott",
+    "pass": 3
+   },
+   {
+    "quote": "#hiring #wirelesspower #reachpower | Reach - LinkedIn India Joe Kaiser also joins the Reach crew, as our Senior Staff MMIC Lead! And we're still #hiring, so please connect with a team member about your dream role here, even if you don't see it listed on our site #wirelesspower #reachpower",
+    "url": "https://in.linkedin.com/posts/reach-power_hiring-wirelesspower-reachpower-activity-7024090970531000320-N0Eo",
+    "pass": 3
+   },
+   {
+    "quote": "Jeff White - President @ Reach | LinkedInReach Power Jobs in United States (11,000+ Open Roles) | LinkedInDoug Maddox - Santa Cruz, California, United States ... President and Head of GTM of Reach Power.. Reach, which is headquartered in Redwood City, CA, is an early stage technology company building next generation Wireless Power-at-a-Distance solutions. Today’s top 11,000+ Reach Power jobs in Un",
+    "url": "https://www.linkedin.com/in/jeffreykwhite",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Reach Power Yoga | Buffalo NY - FacebookReach Power New Energy Company | Dongguan - FacebookDonguan Reach Power Co.,Ltd | Shenzhen - FacebookNingbo Reach Electric Power Equipment CO., LTD. - Facebookpilot wire block welcome to contact us for price. - FacebookReuters - Reach Power Inc, a Silicon Valley startup that ...無人機飛在空中就能充電？！ 這次跟著 VC 探訪矽谷新創 Reach Power ... May 25, 2026 · Reach Power Yoga, Buf",
+    "url": "https://www.facebook.com/ReachPowerYoga/",
+    "pass": 3
+   },
+   {
+    "quote": "Reach Power New Energy Company | Dongguan - Facebook Mar 13, 2025 · Reach Power New Energy Company 1y · Public Daisy Deng We’re thrilled to unveil our latest innovation 🎉 —The All-in-One Solar System：designed to make clean energy smarter, simpler, and more efficient! 💡 Effortless Installation: Just plug-and-play — no complicated setup, saving you time and installation costs.",
+    "url": "https://www.facebook.com/p/Reach-Power-New-Energy-Company-100092305967458/",
+    "pass": 3
+   },
+   {
+    "quote": "pilot wire block welcome to contact us for price. - Facebook pilot wire block welcome to contact us for price. pilot wire block welcome to contact us for price. Lisa Reachpower 1",
+    "url": "https://www.facebook.com/NingboReach/videos/pilot-wire-blockwelcome-to-contact-us-for-price/1613001820474542/",
+    "pass": 3
+   },
+   {
+    "quote": "Donguan Reach Power Co.,Ltd | Shenzhen - Facebook Donguan Reach Power Co.,Ltd, Shenzhen. 84 likes. Inverter and battery manufacturer in China, Repair and Warehouse Center in both China and Puerto Rico",
+    "url": "https://www.facebook.com/Ingotta-inverter-100413859240793/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://reachpower.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reachpower.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reachpower.com/solutions/manufacturing-logistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reachpower.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reachpower.com/solutions/defense-intelligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reachpower.com/solutions/public-safety/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reachpower.com/solutions/defense-intelligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reachpower.com/solutions/public-safety/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reachpower.com/leadership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reachpower.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reachpower.com/blogs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reachpower.com/news/wireless-powered-drone-10-hour-flight/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reachpower.com/news/reach-panasonic-electric-works-wireless-power-mou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reachpower.com/blogs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reachpower.com/blog/reach-demonstrates-long-range-wireless-power-at-t-rex-25-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reachpower.com/blog/wireless-electricity-is-on-the-horizon-and-it-could-beam-power-right-to-your-house/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://reachpower.com/wp-content/uploads/2025/02/partners-cover.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://reachpower.com/wp-content/uploads/2025/02/manufacturing-cover.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://reachpower.com/wp-content/uploads/2025/02/manufacturing-application-bg-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.energynippon.com/20260206-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jwa.or.jp/news/2026/10/47902/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://envzone.com/press/dcvc-leads-a-30-million-series-b-reach-to-deliver-the-first-industrial-scale-wireless-power-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/122349-07",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/reach/__goQhYsYM4NH14xlK9iMWSvxpagznXH7jc0YyMEiQ7cI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.gritt.io/company/reach-power/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/asolab932/n/n1d53188d8c77?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/asolab932/n/n1d53188d8c77",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/chic_yucca9959/n/nd0d27f5257f3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/ReachPower?f=list",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/ReachPower?f=user",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/drone_jp/status/2116048467382698318",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/be_rosebee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/hunter-scott",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/posts/reach-power_hiring-wirelesspower-reachpower-activity-7024090970531000320-N0Eo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jeffreykwhite",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ReachPowerYoga/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Reach-Power-New-Energy-Company-100092305967458/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NingboReach/videos/pilot-wire-blockwelcome-to-contact-us-for-price/1613001820474542/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Ingotta-inverter-100413859240793/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/ReachPower",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/ReachPower?f=user",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/drone_jp/status/2116048467382698318",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Reachpower 日本 導入",
+   "results": [
+    "https://reachpower.com/",
+    "https://reachpower.com/news/reach-panasonic-electric-works-wireless-power-mou/",
+    "https://www.energynippon.com/20260206-1",
+    "https://www.jwa.or.jp/news/2026/10/47902/",
+    "https://prtimes.jp/main/html/rd/p/000000001.000177696.html",
+    "https://jholdings.co.jp/jhwp/wp-content/uploads/2026/02/20260212-001hhM.pdf",
+    "https://www.rechargepower.co.jp/projects"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reachpower 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://reachpower.com/press/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reachpower Japan",
+   "results": [
+    "https://reachpower.com/",
+    "https://reachpower.com/press/",
+    "https://reachpower.com/news/reach-panasonic-electric-works-wireless-power-mou/",
+    "https://reachpower.com/how-it-works/",
+    "https://reachpower.com/solutions/",
+    "https://reachpower.com/contact/",
+    "https://reachpower.com/news/reach-selected-for-panasonic-accelerator-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reachpower manufacturing customer case study",
+   "results": [
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://reachpower.com/",
+    "https://envzone.com/press/dcvc-leads-a-30-million-series-b-reach-to-deliver-the-first-industrial-scale-wireless-power-solution/",
+    "https://reachpower.com/press/",
+    "https://www.businesswire.com/news/home/20241114749575/en/Reach-Completes-Phase-II-of-Future-Force-Energy-Campaign-with-U.S.-Air-Force-Demonstrating-Worlds-First-Wireless-Power-Relays",
+    "https://interestingengineering.com/energy/us-air-force-backed-reach-power-nodes",
+    "https://www.linkedin.com/company/reach-power"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reachpower white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partners.spectrum.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.extremenetworks.com/partners",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reachpower founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/122349-07",
+    "https://tracxn.com/d/companies/reach/__goQhYsYM4NH14xlK9iMWSvxpagznXH7jc0YyMEiQ7cI",
+    "https://www.gritt.io/company/reach-power/",
+    "https://incfact.com/company/reachpower-redwoodcity-ca/",
+    "https://fundediq.co/reach-reachpower-com-funding/",
+    "https://www.zoominfo.com/c/reach-power-inc/353601997",
+    "https://dealroom.co/companies/reach-power/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Reachpower",
+   "results": [
+    "https://note.com/asolab932/n/n1d53188d8c77?hl=en",
+    "https://note.com/asolab932/n/n1d53188d8c77",
+    "https://note.com/chic_yucca9959/n/nd0d27f5257f3",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/drone_biz_lab/n/n984a3968a160",
+    "https://note.com/fukuso_sutaro/n/nf365aa7a3733",
+    "https://note.com/naoto_ortho7010/n/ne2de940c3b3f"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Reachpower",
+   "results": [
+    "https://x.com/hashtag/ReachPower?f=list",
+    "https://x.com/hashtag/ReachPower?f=user",
+    "https://x.com/drone_jp/status/2116048467382698318",
+    "https://x.com/be_rosebee",
+    "https://x.com/QNDZYcom/status/2103511845500051709",
+    "https://x.com/cryptobaddiee1/status/2114833904117133728",
+    "https://x.com/SicanianSun/status/2116151633339940977"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Reachpower",
+   "results": [
+    "https://www.linkedin.com/in/hunter-scott",
+    "https://in.linkedin.com/posts/reach-power_reach-to-deliver-the-first-industrial-scale-activity-7004482077869973504-mhGw",
+    "https://in.linkedin.com/posts/reach-power_hiring-wirelesspower-reachpower-activity-7024090970531000320-N0Eo",
+    "https://www.linkedin.com/in/jeffreykwhite",
+    "https://www.linkedin.com/company/reach-power",
+    "https://www.linkedin.com/jobs/reach-power-jobs",
+    "https://www.linkedin.com/in/doug-maddox-9618461"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Reachpower",
+   "results": [
+    "https://www.facebook.com/ReachPowerYoga/",
+    "https://www.facebook.com/p/Reach-Power-New-Energy-Company-100092305967458/",
+    "https://www.facebook.com/NingboReach/videos/pilot-wire-blockwelcome-to-contact-us-for-price/1613001820474542/",
+    "https://www.facebook.com/Ingotta-inverter-100413859240793/",
+    "https://www.facebook.com/NingboReach/",
+    "https://www.facebook.com/Reuters/posts/reach-power-inc-a-silicon-valley-startup-that-beams-electricity-wirelessly-said-/591484379508965/",
+    "https://www.facebook.com/LadyKarenoffice/videos/無人機飛在空中就能充電這次跟著-vc-探訪矽谷新創-reach-power親眼看到無人機一邊在空中飛行一邊透過空氣遠距無線充電螢幕還能即時監控電量畫面真的太震撼/1067948442348669/",
+    "https://www.facebook.com/AgsREACH/",
+    "https://www.facebook.com/CraneandEquipment/videos/precision-at-reach-power-on-site-the-igo-t99-tower-crane-is-lifting-on-the-jobha/1573386271224177/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Reachpower note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://reachpower.com/",
+    "https://reachpower.com/leadership/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reachpower X 投稿",
+   "results": [
+    "https://x.com/hashtag/ReachPower",
+    "https://x.com/hashtag/ReachPower?f=user",
+    "https://x.com/drone_jp/status/2116048467382698318",
+    "https://reachpower.com/",
+    "https://reachpower.com/press/",
+    "https://x.com/felixrieseberg/status/2119925633564463609",
+    "https://reachpower.com/news/wireless-power-for-autonomous-systems-xtech/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式16頁／PDF・画像3件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像3件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像3件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式16頁／PDF・画像3件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像3件／外部33頁・検索12回）"
+ }
+}

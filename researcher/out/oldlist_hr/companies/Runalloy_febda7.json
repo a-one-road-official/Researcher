@@ -1,0 +1,1013 @@
+{
+ "name": "Runalloy",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T09:04:46.256908+00:00",
+ "official_url": "https://runalloy.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$84,000",
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$20,000,000",
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "330 Townsend St, Suite 201, San Francisco, California 94107, US",
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/solutions/by-function/for-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/solutions/by-function/for-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing | Alloy Automation",
+    "url": "https://runalloy.com/platform/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/platform/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/platform/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/solutions/popular-integrations/netsuite/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/solutions/popular-integrations/netsuite/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/solutions/popular-integrations/sap-s4hana/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/solutions/popular-integrations/sap-s4hana/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/solutions/popular-integrations/microsoft-dynamics-365-business-central/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/solutions/popular-integrations/microsoft-dynamics-365-business-central/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/solutions/popular-integrations/shopify/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/solutions/popular-integrations/shopify/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/solutions/popular-integrations/amazon/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/solutions/popular-integrations/amazon/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/solutions/popular-integrations/adp-workforce-now/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/solutions/popular-integrations/adp-workforce-now/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/solutions/popular-integrations/service-now/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/solutions/popular-integrations/service-now/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/solutions/popular-integrations/salesforce/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/solutions/popular-integrations/salesforce/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/solutions/popular-integrations/workday/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/solutions/popular-integrations/workday/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/solutions/by-function/for-it/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/solutions/by-function/for-it/",
+    "pass": 1
+   },
+   {
+    "quote": "For Product | Alloy Automation",
+    "url": "https://runalloy.com/solutions/by-function/for-product/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/solutions/by-function/for-product/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/solutions/by-function/for-product/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/solutions/by-function/for-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/solutions/by-function/for-finance/",
+    "pass": 1
+   },
+   {
+    "quote": "How 55% of all Buy with Prime merchants adopted Alloy Automation integrations within six months | Alloy Automation",
+    "url": "https://runalloy.com/case-studies/buy-with-prime/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/case-studies/buy-with-prime/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/case-studies/buy-with-prime/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/case-studies/typeform/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/case-studies/typeform/",
+    "pass": 1
+   },
+   {
+    "quote": "How Best Buy leverages Alloy Automation’s Enterprise iPaaS to offer Shoppers Buy Online Pickup in Store | Alloy Automation",
+    "url": "https://runalloy.com/case-studies/best-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/case-studies/best-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/case-studies/best-buy/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Scalability",
+    "url": "https://runalloy.com/case-studies/burberry/",
+    "pass": 1
+   },
+   {
+    "quote": "Building Production-Ready MCP Servers: What our engineering team learned",
+    "url": "https://runalloy.com/case-studies/burberry/",
+    "pass": 1
+   },
+   {
+    "quote": "From enabling secure autonomous AI agents to powering your product’s integration marketplace, we help you build faster and enhance your product with one enterprise-grade integration platform.",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   },
+   {
+    "quote": "Build truly white-labeled integrations for your product or integration marketplace.",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy Automation is a powerful agentic toolkit for your product, with",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   },
+   {
+    "quote": "embedded iPaaS and MCP technology built for product and dev leaders. We power your product’s",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   },
+   {
+    "quote": "marketplace and provide the secure infrastructure you need for",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   },
+   {
+    "quote": "The Agentic Toolkit For Your Product",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   },
+   {
+    "quote": "Give your AI agents access to external tools through Alloy Automation’s secure, remote-hosted Model Context Protocol (MCP) infrastructure.",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise-grade security",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   },
+   {
+    "quote": "Ideal for product managers",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   },
+   {
+    "quote": "Connectivity API lets you build realtime, native, white-labeled integration UIs into your product with a single API. Access thousands of APIs instantly.",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest way to launch integrations in-product",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   },
+   {
+    "quote": "of software buyers say a software provider's ability to provide integration support is their primary concern.",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy Automation has hundreds of pre-built connectors and thousands of API endpoints.",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy Automation is proud to be ranked as an industry leader by G2.",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy powers integrations for 55% of Amazon Buy with Prime merchants freeing up hundreds of hours.",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   },
+   {
+    "quote": "Read Buy with Prime's story",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Become a Partner | Alloy Automation",
+    "url": "https://runalloy.com/partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "How Typeform implemented an end-to-end white labeled experience with Alloy’s Headless APIs | Alloy Automation",
+    "url": "https://runalloy.com/case-studies/typeform/",
+    "pass": 1
+   },
+   {
+    "quote": "Build truly white-labeled integrations for your product or integration marketplace.",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   },
+   {
+    "quote": "Connectivity API lets you build realtime, native, white-labeled integration UIs into your product with a single API. Access thousands of APIs instantly.",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   },
+   {
+    "quote": "How Typeform implemented an end-to-end white labeled experience with Alloy’s Headless APIs.",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Runalloy - SpyVC — VC investors Tracked VC investors, role signal, and inferred or confirmed fund route. ... Investor deal history Every tracked firm and round for Runalloy, with amount, valuation, multiple, and source in one place.",
+    "url": "https://spyvc.com/companies/runalloy",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy Automation | The Integration Infrastructure for the Age ... — runalloy.com shopify plusshopify flowparabola.ioecomm automationshopify integrationshopify automationautomate shopifyautomate shopify storealloy jobsalloy automation recruitingalloy automation engineeralloy automation software engineer",
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Alloy Automation Revenue 2023: $4.4M Est.",
+    "url": "https://getlatka.com/companies/runalloy.com",
+    "pass": 3
+   },
+   {
+    "quote": "revenue & acquisition",
+    "url": "https://getlatka.com/companies/runalloy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy Automation was acquired.",
+    "url": "https://getlatka.com/companies/runalloy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy Automation revenue",
+    "url": "https://getlatka.com/companies/runalloy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy Automation has not published its revenue. Growjo puts it at about $4.4M a year (December 2023).",
+    "url": "https://getlatka.com/companies/runalloy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy Automation CEO, founders & employees",
+    "url": "https://getlatka.com/companies/runalloy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Sara Du founded Alloy Automation in 2019 and led it as CEO. Alloy Automation had 35 employees (December 2023, Growjo estimate).",
+    "url": "https://getlatka.com/companies/runalloy.com",
+    "pass": 3
+   },
+   {
+    "quote": "What was Alloy Automation's revenue?",
+    "url": "https://getlatka.com/companies/runalloy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Growjo estimates Alloy Automation's revenue at about",
+    "url": "https://getlatka.com/companies/runalloy.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Alloy Automation have?",
+    "url": "https://getlatka.com/companies/runalloy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/runalloy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/runalloy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/runalloy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy Automation Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy Automation Revenue",
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Alloy Automation",
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Alloy Automation?",
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy Automation generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Alloy Automation have?",
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Alloy Automation is the connectivity layer for companies building AI Agents. Power your agents and products with 400+ ready-to-use connectors in minutes, not months. Trusted by global leaders including Amazon, Mastercard, and UPS.",
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Alloy Automation (@AlloyAutomation) / X Alloy Automation | The Integration Infrastructure for the Age of AI From runalloy.com 1 106",
+    "url": "https://x.com/AlloyAutomation",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy Automation (@AlloyAutomation) / Posts and Replies / X Alloy Automation | The Integration Infrastructure for the Age of AI runalloy.com 💬 0 🔄 0 🤍 1",
+    "url": "https://x.com/AlloyAutomation/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Every AI agent is only as powerful as the tools it can access ... Alloy Automation | The Integration Infrastructure for the Age of AI runalloy.com 💬0 🔄0 🤍0 📊36 📎",
+    "url": "https://x.com/AlloyAutomation/status/2076340584143618325",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy Automation (@AlloyAutomation) / X Jul 12, 2026 · Alloy Automation | The Integration Infrastructure for the Age of AI From runalloy.com 1 106",
+    "url": "https://x.com/AlloyAutomation",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Alloy Automation - LinkedIn Alloy Automation Technology, Information and Internet About us Website https://runalloy.com/ Industry Technology, Information and Internet Company size 11-50 employees Type Privately Held",
+    "url": "https://www.linkedin.com/company/run-alloy-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy Automation on LinkedIn: Alloy Automation | iPaaS Platform 🚨 New landing page alert https://runalloy.com / 🚨 The last time we updated our landing page was well over a year ago, so we're excited to unveil our fresh new edition, which also includes ...",
+    "url": "https://www.linkedin.com/posts/alloy-automation_ecommerce-automation-platform-alloy-automation-activity-6981298221696348160-1Fz4",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy Automation | LinkedIn Website https://runalloy.com Industry Embedded Software Products Company size 51-200 employees Headquarters San Francisco, California",
+    "url": "https://gq.linkedin.com/company/alloy-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Gregg Mojica on LinkedIn: Alloy Automation | Integration ... Excited to share the brand new www.runalloy.com Lately we’ve been closing more enterprise deals and working with a broader range of customers, spanning SaaS and marketplaces.",
+    "url": "https://www.linkedin.com/posts/greggmojica_alloy-automation-embedded-ipaas-platform-activity-7196177421820141568-50vo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "علي العنزي (@runalloy) • Facebook, Connect with friends علي العنزي is on Facebook. Join Facebook to connect with علي العنزي and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/runalloy/",
+    "pass": 3
+   },
+   {
+    "quote": "Alloy Automation | San Francisco CA - FacebookFacebook - log in or sign upFacebookEver wonder what integration use cases you're missing in your ...ICYMI, we announced yesterday that we are now an industry ...If you ask any CX expert, they'll tell... - Alloy Automation ... Aug 11, 2025 · Plan your roadmap here: https://runalloy.com/use-c Ever wonder what integration use cases you're missing in your",
+    "url": "https://www.facebook.com/AlloyAutomation/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://runalloy.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/solutions/by-function/for-partnerships/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/partners/become-a-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/platform/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/solutions/popular-integrations/netsuite/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/solutions/popular-integrations/sap-s4hana/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/solutions/popular-integrations/microsoft-dynamics-365-business-central/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/solutions/popular-integrations/shopify/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/solutions/popular-integrations/amazon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/solutions/popular-integrations/adp-workforce-now/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/solutions/popular-integrations/service-now/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/solutions/popular-integrations/salesforce/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/solutions/popular-integrations/workday/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/solutions/by-function/for-it/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/solutions/by-function/for-product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/solutions/by-function/for-finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/case-studies/buy-with-prime/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/case-studies/typeform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/case-studies/best-buy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://runalloy.com/case-studies/burberry/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://spyvc.com/companies/runalloy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zt-iko.com/site/runalloy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/saradu_stay-ai-case-study-alloy-automation-activity-7084261811004272642-yttf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/brendan-myers-mba_stay-ai-case-study-alloy-automation-activity-7084282064031674368-lgYs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/alloy-automation-runalloy-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/alloy-automation",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/runalloy.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/alloy-automation-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/AlloyAutomation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AlloyAutomation/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AlloyAutomation/status/2076340584143618325",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/run-alloy-automation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/alloy-automation_ecommerce-automation-platform-alloy-automation-activity-6981298221696348160-1Fz4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://gq.linkedin.com/company/alloy-automation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/greggmojica_alloy-automation-embedded-ipaas-platform-activity-7196177421820141568-50vo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/runalloy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AlloyAutomation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AlloyAutomation",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Runalloy 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Runalloy 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://www.ronalgroup.com/en/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runalloy Japan",
+   "results": [
+    "https://spyvc.com/companies/runalloy",
+    "https://www.zt-iko.com/site/runalloy",
+    "https://runalloy.com/",
+    "https://runalloy.com/about-us/",
+    "https://chat.runalloy.com/",
+    "https://ai.runalloy.com/",
+    "https://www.linkedin.com/company/run-alloy-automation"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runalloy manufacturing customer case study",
+   "results": [
+    "https://runalloy.com/case-studies/",
+    "https://www.linkedin.com/posts/saradu_stay-ai-case-study-alloy-automation-activity-7084261811004272642-yttf",
+    "https://www.linkedin.com/posts/brendan-myers-mba_stay-ai-case-study-alloy-automation-activity-7084282064031674368-lgYs",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.casestudies.com/",
+    "https://runalloy.com/case-studies/viable/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runalloy white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runalloy founded funding employees revenue",
+   "results": [
+    "https://fundediq.co/alloy-automation-runalloy-com-funding/",
+    "https://indexed.vc/companies/alloy-automation",
+    "https://getlatka.com/companies/runalloy.com",
+    "https://prospeo.io/c/alloy-automation-revenue",
+    "https://tracxn.com/d/companies/alloy-automation/__gboyzITvtkLvHwv6qri4QSIg4KQ0spHX5ttRv_HUl50",
+    "https://www.gritt.io/company/alloy-automation/",
+    "https://www.zoominfo.com/c/alloy-automation/534384647"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Runalloy",
+   "results": [
+    "https://note.com/eager_tiger5557",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/tag/我々は宇宙人",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/draft_candidate/m/mc6ed818cf2b4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Runalloy",
+   "results": [
+    "https://x.com/",
+    "https://x.com/AlloyAutomation",
+    "https://x.com/AlloyAutomation/with_replies",
+    "https://x.com/AlloyAutomation/status/2076340584143618325",
+    "https://x.com/nostalgicaubrey/status/2110817110050148662",
+    "https://x.com/Alloysious_x/status/2115689470569611517",
+    "https://x.com/Paco_Autos/status/2114987680941711473"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Runalloy",
+   "results": [
+    "https://www.linkedin.com/company/run-alloy-automation",
+    "https://www.linkedin.com/posts/alloy-automation_ecommerce-automation-platform-alloy-automation-activity-6981298221696348160-1Fz4",
+    "https://gq.linkedin.com/company/alloy-automation",
+    "https://www.linkedin.com/posts/greggmojica_alloy-automation-embedded-ipaas-platform-activity-7196177421820141568-50vo",
+    "https://www.linkedin.com/posts/charlesckim_about-us-alloy-automation-activity-7440414066239655936-qhOl?rcm=ACoAAAcCUr8BI6i7mhit18M1ZMi0-wx_3G0SgiA",
+    "https://in.linkedin.com/posts/saradu_really-thrilled-by-the-new-updates-to-our-activity-7005640785010323458-lTHW",
+    "https://www.linkedin.com/posts/greggmojica_alloy-automation-integration-development-activity-6981290183551766531-h7Ct"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Runalloy",
+   "results": [
+    "https://www.facebook.com/runalloy/",
+    "https://www.facebook.com/AlloyAutomation/",
+    "https://secure.facebook.com/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/AlloyAutomation/posts/770778445050068/",
+    "https://www.facebook.com/AlloyAutomation/posts/768678758593370/",
+    "https://www.facebook.com/AlloyAutomation/posts/522015966021002/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runalloy note 社長",
+   "results": [
+    "https://contactout.com/company/Alloy-Automation-2524",
+    "https://spyvc.com/companies/runalloy",
+    "https://settervc.com/company/runalloy-com",
+    "https://www.f6s.com/company/alloy-automation",
+    "https://runalloy.com/about-us/",
+    "https://runalloy.com/",
+    "https://www.vcnewsdaily.com/Alloy+Automation/venture-funding.php"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Runalloy X 投稿",
+   "results": [
+    "https://runalloy.com/can-alloy-do-x/",
+    "https://docs.runalloy.com/reference/connectivity-api/update-a-user",
+    "https://x.com/AlloyAutomation",
+    "https://x.com/AlloyAutomation/with_replies",
+    "https://runalloy.com/",
+    "https://chat.runalloy.com/",
+    "https://grafana.com/docs/alloy/latest/set-up/run/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

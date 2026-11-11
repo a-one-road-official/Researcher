@@ -1,0 +1,1199 @@
+{
+ "name": "Standard Bots",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜送付済み",
+ "researched_at": "2026-11-11T09:03:41.285092+00:00",
+ "official_url": "https://standardbots.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Your CNC machines only make money with the door closed. Keep them running 24/7 with a Standard Bots AI robot that loads and unloads with a fraction of the setup time required by legacy robots.",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Haas CNC Machines · Lathes & Mills · Press Brakes · Injection Molding Machines",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You only make money when product ships, and the end of the line sets the pace for everything behind it. Standard Bots AI stacks every case, every shift, and handles new box sizes or patterns with ease.",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You only make money on products that are assembled and ready to use. Whether big, small or micro, Standard Bots AI will put the right things in the right place at the right time with minimal effort. Automation at its finest.",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You can only sell what's finished. Getting a product from 80% done to 100% ready comes down to the final polish.",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Weld seams, castings, flash. The robot holds the same pressure and angle on part 500 as on part one — no hot spots, no gouges.",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Beads of sealant, adhesive or gasket material laid at a steady rate along a path you demonstrate by hand — same width, same placement, every part.",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Even coats and clean edges on every pass, with the gun held at the distance and speed you set. Fewer reworks, less overspray.",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "and 150% higher job postings.",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Beloved by front-line workers and engineering managers alike at hundreds of U.S. manufacturers. Plain language programming, advanced low-level controls, and AI to cover what’s in between. With Standard Bots, say yes to more.",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Hardware Engineer",
+    "url": "https://standardbots.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Propel human productivity through the world’s most accessible robots.",
+    "url": "https://standardbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "80 Pratt Oval",
+    "url": "https://standardbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Make the highest value robot hardware that’s at the Pareto front in terms of price and usability. Make it easy to use without making it expensive — this combination is key.",
+    "url": "https://standardbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "This is just a reminder; I realize you all know this quite well. Who knows, maybe we’ll screenshot this note and put it on our website so candidates can be as excited as we are.",
+    "url": "https://standardbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At Standard Bots, we're taking a similar approach. We're designing better hardware and easier-to-use software together to once again accelerate what humans are capable of achieving — this time, with robots. The amount of work to get there is immense, but so is the opportunity.",
+    "url": "https://standardbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "PR Newswire｜“Standard Bots Raises $200 Million Series C at $1 Billion Valuation to Scale American-Made, AI-Native Industrial Robots”（2026年6月9日）｜",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.prnewswire.com/news-releases/standard-bots-raises-200-million-series-c-at-1-billion-valuation-to-scale-american-made-ai-native-industrial-robots-302795268.html",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "The Robot Report｜“Standard Bots raises $200M to expand U.S. manufacturing footprint”（2026年6月9日）｜",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.therobotreport.com/standard-bots-raises-200m-expand-u-s-manufacturing-footprint/",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots Raises $200 Million Series C at $1 Billion Valuation — PR Newswire（2026年6月9日）",
+    "url": "https://techcreate.balubo.jp/articles/standard-bots-200m-series-c-1b-valuation-ai-robotics-2026-06",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "80 Pratt Oval",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "09-Apr-2024",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Programmable adapters for detachably connecting robotic peripherals to adaptively retool robots",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "26-Apr-2017",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots’s primary industry is Other Hardware.",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Is Standard Bots a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots — company profile, headcount and funding | Inven",
+    "url": "https://www.inven.ai/data/companies/standardbots-com",
+    "pass": 3
+   },
+   {
+    "quote": "General Catalyst is an investment firm that partners with entrepreneurs to drive innovation and growth across various sectors, including technology, healthcare, and finance. They provide venture capital, consulting services, and strategic support to",
+    "url": "https://www.inven.ai/data/companies/standardbots-com",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon is a diversified technology company that operates a global e‑commerce marketplace, cloud computing platform (AWS), digital streaming (Prime Video), hardware devices (Kindle, Echo, Ring) and subscription services (Prime). It serves consumers",
+    "url": "https://www.inven.ai/data/companies/standardbots-com",
+    "pass": 3
+   },
+   {
+    "quote": "BoxGroup is a venture capital firm that specializes in early-stage investments in startups across various sectors, including fintech and software. They provide funding and support to help entrepreneurs scale their businesses, focusing on companies",
+    "url": "https://www.inven.ai/data/companies/standardbots-com",
+    "pass": 3
+   },
+   {
+    "quote": "Samsung Next is a venture capital firm that invests in technology sectors such as Artificial Intelligence, Healthtech, and Consumer Services. The company supports ambitious founders by providing funding and resources to help them develop innovative",
+    "url": "https://www.inven.ai/data/companies/standardbots-com",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots enables factory workers to program robots using AI.",
+    "url": "https://www.inven.ai/data/companies/standardbots-com",
+    "pass": 3
+   },
+   {
+    "quote": "How the team has changed month by month — joiners, leavers and where the hiring is going",
+    "url": "https://www.inven.ai/data/companies/standardbots-com",
+    "pass": 3
+   },
+   {
+    "quote": "profile lives in Inven.",
+    "url": "https://www.inven.ai/data/companies/standardbots-com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Standard Bots | America's AI-Native Industrial Robots",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "When anyone can buy and use a robot, more people will make more things, and the future will be beautiful and abundant. We're building this future in Glen Cove, NY, and on hundreds of factory floors, and counting.",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Only 6% of U.S. manufacturers",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "But manufacturers who use robots report 15% higher job growth,",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Beloved by front-line workers and engineering managers alike at hundreds of U.S. manufacturers. Plain language programming, advanced low-level controls, and AI to cover what’s in between. With Standard Bots, say yes to more.",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-NATIVE INDUSTRIAL ROBOTS",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing is no stranger to capacity machines such as power looms, wire-fed welders, and computer numerical control. Each one did two things: it expanded what people could make, and it rewarded early adopters. AI-native robots are next.",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make American robots, and put them to work in American factories.",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "America is more competitive when U.S. manufacturers put robots to work.",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "After nearly 10 years building Standard Bots into America's largest maker of AI-native industrial robots, we advise the White House and have testified twice to Congress to share our National Robotics Strategy.",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by hundreds of American manufacturers",
+    "url": "https://standardbots.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Manufacturing Operations",
+    "url": "https://standardbots.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Amazon Industrial Innovation Fund",
+    "url": "https://standardbots.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Amazon Industrial Innovation Fund",
+    "url": "https://standardbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "PR Newswire｜“Standard Bots Raises $200 Million Series C at $1 Billion Valuation to Scale American-Made, AI-Native Industrial Robots”（2026年6月9日）｜",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.prnewswire.com/news-releases/standard-bots-raises-200-million-series-c-at-1-billion-valuation-to-scale-american-made-ai-native-industrial-robots-302795268.html",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "The Robot Report｜“Standard Bots raises $200M to expand U.S. manufacturing footprint”（2026年6月9日）｜",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.therobotreport.com/standard-bots-raises-200m-expand-u-s-manufacturing-footprint/",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Times｜“Standard Bots Raises $200M Series C: Demonstration-Trained AI Arms Target China in US Factories”（2026年6月10日）｜",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.techtimes.com/articles/318137/20260610/standard-bots-raises-200m-series-c-demonstration-trained-ai-arms-target-china-us-factories.htm",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of industrial robotic automation systems intended for industrial and commercial operations.",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of industrial robotic automation systems intended for industrial and commercial operations. The company int",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots enables factory workers to program robots using AI.",
+    "url": "https://www.inven.ai/data/companies/standardbots-com",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Implement and contribute to the latest in robotics. We’re already making strides in areas like depth data from multi camera arrays and deep-learning-based policies for updating motion plans in realtime. There’s so much more we intend to push forward with others; a rising tide lifts all robotically assembled boats.",
+    "url": "https://standardbots.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "このモデルが機能すれば、競合との差別化を保ちながら経常収益（ARR）を積み上げることができる",
+    "url": "https://techcreate.balubo.jp/articles/standard-bots-200m-series-c-1b-valuation-ai-robotics-2026-06",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "To view Standard Bots’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots has 162 total employees.",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "What is Standard Bots’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Standard Bots is",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Unlock filed revenue history, with growth over every year.",
+    "url": "https://www.inven.ai/data/companies/standardbots-com",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本のFA業界、つまり工場自動化の業界も、基本的にはこの分業の上にあります",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "FANUCは日本のロボットメーカー、KUKAはドイツ発のロボットメーカー、ABBはスイスに本社を置く産業機器・ロボット大手です",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "この流れは、日本メーカーにとって追い風にも向かい風にも成り得ます",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、「米国内で設計し、米国内で作る」ことが重視される流れが強まれば、日本から輸出するモデルだけで米国市場に向き合うことは難しくなるかもしれません",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "日本の工場で見るべき3つの論点",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "日本の工場ではどういったことを考えるべきでしょうか",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、実際に日本の工場で考えるときには、ひとつのロボットやひとつのAI製品だけを見ても判断しにくいところがあります",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "これは産業用ロボット大手がほぼすべて海外製造（日本・欧州・中国）に依存しているのとは対照的だ",
+    "url": "https://techcreate.balubo.jp/articles/standard-bots-200m-series-c-1b-valuation-ai-robotics-2026-06",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Botsの急成長は、日本の産業用ロボット業界にとって無視できないシグナルだ",
+    "url": "https://techcreate.balubo.jp/articles/standard-bots-200m-series-c-1b-valuation-ai-robotics-2026-06",
+    "pass": 3
+   },
+   {
+    "quote": "第二に、日本や欧州への展開タイミングだ",
+    "url": "https://techcreate.balubo.jp/articles/standard-bots-200m-series-c-1b-valuation-ai-robotics-2026-06",
+    "pass": 3
+   },
+   {
+    "quote": "製造業大国の日本は最大の市場候補であり、進出時期と価格設定がカギとなる",
+    "url": "https://techcreate.balubo.jp/articles/standard-bots-200m-series-c-1b-valuation-ai-robotics-2026-06",
+    "pass": 3
+   },
+   {
+    "quote": "もし日本に生まれなかったら？「80億分の1」で体験する別の人生",
+    "url": "https://techcreate.balubo.jp/articles/standard-bots-200m-series-c-1b-valuation-ai-robotics-2026-06",
+    "pass": 3
+   },
+   {
+    "quote": "日本の中小製造業は世界でも密度が高い市場なので、日本展開が本格化したときの規模感は相当大きくなると思っている",
+    "url": "https://techcreate.balubo.jp/articles/standard-bots-200m-series-c-1b-valuation-ai-robotics-2026-06",
+    "pass": 3
+   },
+   {
+    "quote": "ただ「Made in America」が本当のコスト競争力を生むかは疑問で、部品が国産化されても賃金水準は日本や中国より高い",
+    "url": "https://techcreate.balubo.jp/articles/standard-bots-200m-series-c-1b-valuation-ai-robotics-2026-06",
+    "pass": 3
+   },
+   {
+    "quote": "労働力不足やコスト増といった課題は、日本の製造業にとっても他人事ではありません",
+    "url": "https://seisan-navi.com/20260314-standard-botsceo/",
+    "pass": 3
+   },
+   {
+    "quote": "この構造的な課題は、奇しくも日本の製造業が長年抱えてきた問題と軌を一にしています",
+    "url": "https://seisan-navi.com/20260314-standard-botsceo/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の現場でも、ロボットのティーチングやメンテナンスができる人材の育成は常に大きな課題であり、導入を躊躇させる一因となっていることは論を俟たないでしょう",
+    "url": "https://seisan-navi.com/20260314-standard-botsceo/",
+    "pass": 3
+   },
+   {
+    "quote": "今回の米国のロボットベンチャー経営者の提言は、日本の製造業にとっても多くの示唆を含んでいます",
+    "url": "https://seisan-navi.com/20260314-standard-botsceo/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Standard Bots | America's AI-Native Industrial Robots — After nearly 10 years building Standard Bots into America's largest maker of AI-native industrial robots, we advise the White House and have testified twice to Congress to share our National Robotics Strategy.",
+    "url": "https://standardbots.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット本体より、導入の手間が変わり始めた。Standard Bots 2億ドル... — Jun 12, 2026 · Standard Botsの構成では、導入済みロボットの作業データが集められ、AIモデルの改善に使われるとされています。 自社の作業ノウハウがベンダー側の学習データになることを、どう評価するか。 契約前に確認しておきたい点です。",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Botsが280億円調達で拡大。 | TechCreate — Jun 10, 2026 · Standard Botsに関して、今後追うべき指標は3つある。 第一に、2027年の「完全米国内製造」達成の可否だ。 現時点でアクチュエーターや基板の一部は外部調達しており、完全内製化は技術的・コスト的な難題だ。 第二に、日本や欧州への展開タイミングだ。",
+    "url": "https://techcreate.balubo.jp/articles/standard-bots-200m-series-c-1b-valuation-ai-robotics-2026-06",
+    "pass": 3
+   },
+   {
+    "quote": "米国のロボット導入政策から何を学ぶか ― Standard Bots社CEOが語る、... — Mar 14, 2026 · 米国のロボットベンチャーStandard Bots社のCEOが、国内製造業の競争力強化にはロボット導入を促進する政策的な後押しが不可欠であると提言しました。労働力不足やコスト増といった課題は、日本の製造業にとっても他人事ではありません。本記事では、米国の議論を基に、わが国のロボット ...",
+    "url": "https://seisan-navi.com/20260314-standard-botsceo/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots | America's AI-Native Industrial Robots — America is more competitive when U.S. manufacturers put robots to work. After nearly 10 years building Standard Bots into America's largest maker of AI-native industrial robots, we advise the White House and have testified twice to Congress to share our National Robotics Strategy.",
+    "url": "https://standardbots.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots | LinkedIn — Standard Bots | LinkedInのフォロワー数15,615人。America's largest AI-native industrial robot manufacturer. Show your robot how it's done. Be a force at work. | We believe AI-native robots are the essential power tool of the 21st century — the tool that will grow American manufacturing and help every American worker to be a force at work. You just show your robot how it’s ...",
+    "url": "https://jp.linkedin.com/company/standard-bots",
+    "pass": 3
+   },
+   {
+    "quote": "StandardBots.com V2 — Transforming Industries with Robotics This case study explores how a leading robotics company revolutionized manufacturing processes.",
+    "url": "https://standardbots.com/case-studies/robotics-case-study-1",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots B2B Case Studies & Customer Successes — See how Standard Bots solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/standard-bots",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots - Designing AI-Native Robots with SOLIDWORKS — Standard Bots - Designing AI-Native Robots with SOLIDWORKS Design intuitive six-axis robot arms that integrate hundreds of mechanical and electrical components in compact assemblies while confirming fit, range of motion, and motor thermal behavior before purchasing or manufacturing parts.",
+    "url": "https://www.solidworks.com/customer-story/standard-bots-designing-ai-native-robots-solidworks/",
+    "pass": 3
+   },
+   {
+    "quote": "USA VS. CHINA: THE CASE (STUDY) OF STANDARD BOTS — Jul 21, 2026 · China’s Dominance: Spurred by its “Made in China 2025” initiative, China now installs roughly nine times as many factory robots as the U.S., severely outpacing American manufacturing. The U.S. Challenger: Standard Bots—a New York-based startup recently valued at $1 billion—aims to reshore automation by building its robotic arms enti",
+    "url": "https://thedatastory.substack.com/p/usa-vs-china-the-case-study-of-standard",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots - 2026 Company Profile, Team, Funding ... - TracxnStandard Bots 2026 Company Profile: Valuation, Funding ...Standard Bots — company profile, headcount and funding | InvenStandard Bots – Valuation, Revenue & Market Scope – 2026Standard Bots - 2026 Company Profile, Funding - The Company CheckStandard Bots: Funding, Team & Investors | Startup IntrosStandard Bots: Funding, Investors & Te",
+    "url": "https://tracxn.com/d/companies/standard-bots/__4hFZ0wjNjdokLyRa9wbS1wMGWiQ8ZBp1anxoBhm5aVs",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots 2026 Company Profile: Valuation, Funding ...Standard Bots — company profile, headcount and funding | InvenStandard Bots – Valuation, Revenue & Market Scope – 2026Standard Bots - 2026 Company Profile, Funding - The Company CheckStandard Bots: Funding, Team & Investors | Startup IntrosStandard Bots: Funding, Investors & Team (Nov 2026) - FundedIQ — Information on valuation, funding, ca",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots — company profile, headcount and funding | Inven — Their customers include businesses seeking to enhance operational efficiency through automation. Standard Bots focuses on making robotics accessible and easy to use, with a commitment to customer support and continuous improvement. Employees 157 Founded 2016 Ownership venture capital Est. revenue $11.6M",
+    "url": "https://www.inven.ai/data/companies/standardbots-com",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots – Valuation, Revenue & Market Scope – 2026 — Discover Standard Bots's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/standard-bots",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots - 2026 Company Profile, Funding - The Company Check — Oct 21, 2026 · About Standard Bots Standard Bots is a company based in New York (United States) founded in 2011 by Evan Beard and David Golden. It operates as a AI-as-a-Service, and Direct-to-Consumer (D2C). Standard Bots has raised $63 million across 1 funding round from investors including General Catalyst, Amazon Industrial Inn",
+    "url": "https://www.thecompanycheck.com/company/b/standard-bots/6f6pu6ciffi8na0ur",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ロボット本体より、導入の手間が変わり始めた。Standard Bots 2億ドル... Jun 12, 2026 · 売っているのは、ロボットに教える手間を減らす仕組み Standard Botsは、Spark、Core、Thorなどの名称で6軸の産業用ロボットアームを展開しています。 特徴は、作業者が作業を見せると、ロボットがその動きを学習する点にあります。",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "「Standard Bots」トピックの記事一覧｜note ――つくる、つながる、と... 「Standard Bots」トピックに関する記事一覧です",
+    "url": "https://note.com/tag/Standard+Bots",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA Omniverseユースケース：Standard Bots ロボットアーム「RO1」 Dec 10, 2024 · NVIDIA Omniverseユースケース：Standard Bots ロボットアーム「RO1」 Kawamura Akihiro 2024年12月10日 10:03",
+    "url": "https://note.com/kawamura_akihiro/n/nc14115979f29",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ロボット本体より、導入の手間が変わり始めた。Standard Bots 2億ドル調達が示す導入コストの転換｜守島 広記 (Morishima Hiroki)",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット本体より、導入の手間が変わり始めた。Standard Bots 2億ドル調達が示す導入コストの転換",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "守島 広記 (Morishima Hiroki)",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "自動化の見積もりを取ったとき、最初に違和感を覚えるのは、ロボット本体の価格とは限りません。",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット本体の価格よりも、見積書の合計金額のほうがかなり大きく見えることがあります。その差分の正体は、ロボットを実際のラインで動くようにするための立ち上げ費用です。治具の設計、周辺装置、安全対策、据付調整、そしてロボットに動きを教え込むティーチングの時間が含まれます。",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "この「本体より周辺が高い」という構造は、産業用ロボットの世界では長く当たり前のものとして扱われてきました。ただ、この前提を正面から変えようとしている会社が、2026年6月9日、評価額10億ドルに到達しました。",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "米国ニューヨーク州のStandard Botsは、AIを活用した産業用ロボットアームを開発するスタートアップです。同社は6月9日、シリーズCラウンドで2億ドルの資金調達を発表しました。シリーズCとは、スタートアップが事業拡大のために行う比較的後半段階の資金調達です。同社は今回の資金を背景に、AIを活用した産業用ロボットの量産体制と、米国内の製造拠点を広げようとしています。",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "リード投資家はRoboStrategyで、既存投資家のGeneral Catalystなども参加し、評価額は10億ドルに達しています。同社はニューヨーク州Glen Coveの工場を7万平方フィート（約6,500平方メートル）へ拡張し、設計から組み立てまでを米国内で行う体制を広げると説明しています。",
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "pass": 3
+   },
+   {
+    "quote": "Standard+Botsの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/Standard+Bots",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA Omniverseユースケース：Standard Bots ロボットアーム「RO1」｜Kawamura Akihiro",
+    "url": "https://note.com/kawamura_akihiro/n/nc14115979f29",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA Omniverseユースケース：Standard Bots ロボットアーム「RO1」",
+    "url": "https://note.com/kawamura_akihiro/n/nc14115979f29",
+    "pass": 3
+   },
+   {
+    "quote": "本社：中国深圳市宝安区華豊国際機器人産業園",
+    "url": "https://note.com/kawamura_akihiro/n/nc14115979f29",
+    "pass": 3
+   },
+   {
+    "quote": "作業員がRO1の内蔵カメラの前で特定のタスク（例えば、2つの部品を溶接するなど）を実行すると、内蔵のAIソフトウェアがそのワークフローを自動的に学習します。",
+    "url": "https://note.com/kawamura_akihiro/n/nc14115979f29",
+    "pass": 3
+   },
+   {
+    "quote": "RO1は溶接、サンディング、研磨などの一般的な製造タスクを実行できる。",
+    "url": "https://note.com/kawamura_akihiro/n/nc14115979f29",
+    "pass": 3
+   },
+   {
+    "quote": "また、CNCマシンに原材料を供給するのもできる。",
+    "url": "https://note.com/kawamura_akihiro/n/nc14115979f29",
+    "pass": 3
+   },
+   {
+    "quote": "部品を検査し、見つかった不良品を生産ラインから取り除くこともできる。",
+    "url": "https://note.com/kawamura_akihiro/n/nc14115979f29",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA Omniverse Isaac Simによる作業員の動作学習",
+    "url": "https://note.com/kawamura_akihiro/n/nc14115979f29",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Standard Bots (@standardbots) / X Standard Bots CEO @evanbeard reveals why nearly 99% of factory robots still operate like arcade claw machines, and how AI could finally change that: \"Almost 99% of manufacturing robots today, people don’t realize, they just are replaying the same motions again and again.\"",
+    "url": "https://x.com/standardbots",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots on X: \"Introducing Standard Bots AI “We chose ... Oct 16, 2026 · Introducing Standard Bots AI “We chose Standard Bots for two reasons: the speed of development is highly compressed, and the interface for programming the robot is so much simpler. With Standard Bots AI, that's even faster.” — Adrian Nistler, President and CEO, Path Machining & Automation Standar…",
+    "url": "https://x.com/standardbots/status/2110788359429800137",
+    "pass": 3
+   },
+   {
+    "quote": "We make robots for those who make America. Over the last four ... Jul 2, 2026 · Standard Bots (@standardbots). 29 likes. We make robots for those who make America. Over the last four decades, the U.S. has shed 7 million manufacturing jobs. We offshored our production capabilities piece by piece. The pandemic threw the peril of that dependence into sharp focus. The stark reality today: American man",
+    "url": "https://x.com/standardbots/status/2072783416546959794",
+    "pass": 3
+   },
+   {
+    "quote": "We make AI-native robots for those who make America. - x.com Jun 23, 2026 · Standard Bots (@standardbots). 41 likes 6 replies. We make AI-native robots for those who make America.",
+    "url": "https://x.com/standardbots/status/2069499720175599743",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots (@standardbots) / X Introducing Standard Bots AI “We chose Standard Bots for two reasons: the speed of development is highly compressed, and the interface for programming the robot is so much simpler. With Standard Bots AI, that's even faster.” — Adrian Nistler, President and CEO, Path Machining &",
+    "url": "https://x.com/standardbots",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots on X: \"\"We've chased down the hard problems ... Aug 4, 2026 · That’s what we’re building at Standard Bots. Grateful to our lead investor, @RoboStrategy who talked with our CEO @evanbeard about the future of robotics and why they believe in Standard Bots.",
+    "url": "https://x.com/standardbots/status/2084665968542842975",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Standard Bots - LinkedIn Standard Bots | 16,064 followers on LinkedIn. America's largest AI-native industrial robot manufacturer. Show your robot how it's done. Be a force at work. | We believe AI-native robots are the ...",
+    "url": "https://www.linkedin.com/company/standard-bots",
+    "pass": 3
+   },
+   {
+    "quote": "Evan Beard - Standard Bots | LinkedInDavid Golden - Co-founder of Standard Bots | LinkedInLeif Jentoft - Putting Physical AI in the hands of our ...Standard Bots raises $200M to boost US robot productionCraig DeMello - Standard Bots | LinkedInStandard Bots’ $200M Series C is really a bet on ... - LinkedIn Evan Beard is co-founder, CEO, and chief engineer of Standard Bots, America's largest… · Expe",
+    "url": "https://www.linkedin.com/in/evanbeard",
+    "pass": 3
+   },
+   {
+    "quote": "David Golden - Co-founder of Standard Bots | LinkedInLeif Jentoft - Putting Physical AI in the hands of our ...Standard Bots raises $200M to boost US robot productionCraig DeMello - Standard Bots | LinkedInStandard Bots’ $200M Series C is really a bet on ... - LinkedIn Standard Bots is America's largest industrial robot manufacturer. We build AI-native robots that anyone can program - no code requ",
+    "url": "https://www.linkedin.com/in/dagolden",
+    "pass": 3
+   },
+   {
+    "quote": "Leif Jentoft - Putting Physical AI in the hands of our ...Standard Bots raises $200M to boost US robot productionCraig DeMello - Standard Bots | LinkedInStandard Bots’ $200M Series C is really a bet on ... - LinkedIn Sep 12, 2015 · Putting Physical AI in the hands of our industrial frontline · Hands-on robotics entrepreneur with a passion for connecting cutting edge technology with customer needs.",
+    "url": "https://www.linkedin.com/in/leifjentoft",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Standard Bots | Glen Cove NY - Facebook Oct 9, 2026 · 2 1 Standard Bots 3w · Public “People think of robots as a hardware category, but robots are the thing that creates every other hardware category.” In a conversation with Primary’ Jason Shuman, Standard Bots CEO Evan Beard made the case for why building robots in America matters. Robots build capacity: for jobs, for businesses, for ...",
+    "url": "https://www.facebook.com/standardbots/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots raised $200M at a $1B valuation to build ... Jul 8, 2026 · Standard Bots is America's largest manufacturer of AI native industrial robots. And today we are announcing our series C, 200 million raised at a $1 billion dollar valuation. Our customers include Sunoco, Joaquin Martin, NASA, and the US Army along with hundreds of other manufacturers across the country.",
+    "url": "https://www.facebook.com/standardbots/videos/200m-for-american-robots/1009962052025969/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots - Capacity and growth. How many orders did ... Oct 14, 2026 · A Standard Bots welding cell adds capacity, running the repeatable beads so your skilled welders take on the work that needs them. Take the orders you’ve been turning away. An American welding system starting at $75K, set up for production in days. Book a quick demo call today.",
+    "url": "https://www.facebook.com/standardbots/posts/capacity-and-growth-how-many-orders-did-you-turn-down-last-quarter-because-the-w/1457449946570613/",
+    "pass": 3
+   },
+   {
+    "quote": "Standard Bots - No coding. No integrator. No six-month ... Oct 15, 2026 · The Standard Bots Palletizing Kit is a complete cell in a box: robot, gripper, pedestal base, control box, and palletizing software included. Your own team sets the box, pallet, and layer pattern in the built-in Palletizing Wizard, previews it in 3D, and runs production in days. Delivery in 2 to 4 weeks. Book a quick demo ca",
+    "url": "https://www.facebook.com/standardbots/posts/no-coding-no-integrator-no-six-month-project-the-standard-bots-palletizing-kit-i/1458795129769428/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://standardbots.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://standardbots.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://standardbots.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6a79f27a2db19b673bdd1000/6ac4e833f2e433df303887a4_6ac4e7e29e95ea04698b1cfd_standard-bots_partners_nasa-dark.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6a79f27a2db19b673bdd1000/6ac4e833f2e433df303887a7_6ac4e7e2c9439d61a6173b18_standard-bots_partners_verizon-dark.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6a79f27a2db19b673bdd1000/6ac4e833f2e433df303887ae_6ac4e7e2749b6f08a486fd0e_standard-bots_partners_amazon-dark.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6a79f27a2db19b673bdd1000/6ac4e832f2e433df30388797_6ac4e7e391583e8ca41cdf79_standard-bots_partners_lockheed-dark.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcreate.balubo.jp/articles/standard-bots-200m-series-c-1b-valuation-ai-robotics-2026-06",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seisan-navi.com/20260314-standard-botsceo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.standard-robots.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.standard-robots.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/standard-bots",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/standard-bots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solidworks.com/customer-story/standard-bots-designing-ai-native-robots-solidworks/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/standard-bots/__4hFZ0wjNjdokLyRa9wbS1wMGWiQ8ZBp1anxoBhm5aVs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/181798-03",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.inven.ai/data/companies/standardbots-com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/standard-bots",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/Standard+Bots",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kawamura_akihiro/n/nc14115979f29",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/standardbots",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/standardbots/status/2110788359429800137",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/standardbots/status/2072783416546959794",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/standardbots/status/2069499720175599743",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/standard-bots",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/evanbeard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/dagolden",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/leifjentoft",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/standardbots/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/standardbots/videos/200m-for-american-robots/1009962052025969/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/standardbots/posts/capacity-and-growth-how-many-orders-did-you-turn-down-last-quarter-because-the-w/1457449946570613/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/standardbots/posts/no-coding-no-integrator-no-six-month-project-the-standard-bots-palletizing-kit-i/1458795129769428/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/standardbots",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/standardbots/status/2084665968542842975",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Standard Bots 日本 導入",
+   "results": [
+    "https://standardbots.com/",
+    "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "https://techcreate.balubo.jp/articles/standard-bots-200m-series-c-1b-valuation-ai-robotics-2026-06",
+    "https://seisan-navi.com/20260314-standard-botsceo/",
+    "https://www.fuji.co.jp/news/assets/pdf/FSFm_StandardRobots_JP.pdf",
+    "https://jp.standard-robots.com/",
+    "https://physicalainews.jp/companies/standard-bots"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Standard Bots 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://standardbots.com/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Standard Bots Japan",
+   "results": [
+    "https://standardbots.com/",
+    "https://en.standard-robots.com/",
+    "https://jp.standard-robots.com/",
+    "https://jp.linkedin.com/company/standard-bots",
+    "https://jp.standard-robots.com/products",
+    "https://standardbots.com/about",
+    "https://physicalainews.jp/companies/standard-bots"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Standard Bots manufacturing customer case study",
+   "results": [
+    "https://standardbots.com/case-studies/robotics-case-study-1",
+    "https://www.casestudies.com/company/standard-bots",
+    "https://standardbots.com/",
+    "https://www.solidworks.com/customer-story/standard-bots-designing-ai-native-robots-solidworks/",
+    "https://thedatastory.substack.com/p/usa-vs-china-the-case-study-of-standard",
+    "https://www.featuredcustomers.com/vendor/standard-bots",
+    "https://www.missionnorth.com/case-studies/standard-bots"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Standard Bots white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.seoreseller.com/",
+    "https://partner.vw.com/partner",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Standard Bots founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/standard-bots/__4hFZ0wjNjdokLyRa9wbS1wMGWiQ8ZBp1anxoBhm5aVs",
+    "https://pitchbook.com/profiles/company/181798-03",
+    "https://www.inven.ai/data/companies/standardbots-com",
+    "https://compworth.com/company/standard-bots",
+    "https://www.thecompanycheck.com/company/b/standard-bots/6f6pu6ciffi8na0ur",
+    "https://startupintros.com/orgs/standard-bots",
+    "https://fundediq.co/standard-bots-standardbots-com-funding/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Standard Bots",
+   "results": [
+    "https://note.com/hiroki_morishima/n/n306eb7a642c9",
+    "https://note.com/tag/Standard+Bots",
+    "https://note.com/kawamura_akihiro/n/nc14115979f29",
+    "https://note.com/yamato_ai_otaku/n/n61ff59f58a2a?hl=en",
+    "https://note.com/nonoyamamasataka/n/na5ba5e8a8d81?hl=en",
+    "https://note.com/hiroki_morishima/n/n306eb7a642c9?hl=en",
+    "https://note.com/selectlab/n/nd7ec0f04b17f?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Standard Bots",
+   "results": [
+    "https://x.com/standardbots",
+    "https://x.com/standardbots/status/2110788359429800137",
+    "https://x.com/standardbots/status/2072783416546959794",
+    "https://x.com/standardbots/status/2069499720175599743",
+    "https://x.com/standardbots/status/2072414502428066006",
+    "https://x.com/standardbots/status/2084665968542842975",
+    "https://x.com/standardbots/status/2064339283423412712"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Standard Bots",
+   "results": [
+    "https://www.linkedin.com/company/standard-bots",
+    "https://www.linkedin.com/in/evanbeard",
+    "https://www.linkedin.com/in/dagolden",
+    "https://www.linkedin.com/in/leifjentoft",
+    "https://www.linkedin.com/news/story/standard-bots-raises-200m-to-boost-us-robot-production-8954722/",
+    "https://www.linkedin.com/in/craig-demello-624858133",
+    "https://www.linkedin.com/pulse/standard-bots-200m-series-c-really-bet-who-owns-e8zfc"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Standard Bots",
+   "results": [
+    "https://www.facebook.com/standardbots/",
+    "https://www.facebook.com/standardbots/videos/200m-for-american-robots/1009962052025969/",
+    "https://www.facebook.com/standardbots/posts/capacity-and-growth-how-many-orders-did-you-turn-down-last-quarter-because-the-w/1457449946570613/",
+    "https://www.facebook.com/standardbots/posts/no-coding-no-integrator-no-six-month-project-the-standard-bots-palletizing-kit-i/1458795129769428/",
+    "https://www.facebook.com/standardbots/videos/200m-for-american-robots/1311706551032680/",
+    "https://www.facebook.com/standardbots/posts/the-new-standard-for-robotics/1147088800940064/",
+    "https://www.facebook.com/standardbots/videos/200m-raised-1b-valuation/869959975835690/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Standard Bots note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Evan_Beard",
+    "https://websets.exa.ai/websets/directory/standard-bots-executives",
+    "https://siliconvalleyinvestclub.com/companies/standardbots/",
+    "https://siliconvalleyinvestclub.com/id/companies/standardbots/team/evan-beard/",
+    "https://seisan-navi.com/20260314-standard-botsceo/",
+    "https://standardbots.com/about",
+    "https://standardbots.com/articles/ceo-evan-beard-america-needs-a-national-strategy-for-robotics"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Standard Bots X 投稿",
+   "results": [
+    "https://x.com/standardbots",
+    "https://standardbots.com/",
+    "https://x.com/standardbots/status/2084665968542842975",
+    "https://zenn.dev/ats030/articles/how-to-operate-posting-bot",
+    "https://note.com/yosuke_1983/n/n76d7a9fad6fb",
+    "https://note.com/light_arnica2159/n/n68b7447ffea8",
+    "https://www.ichiyajo.jp/notes/2026-05-18-x-auto-post-guide-2026/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部36頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部36頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部36頁・検索12回）"
+ }
+}

@@ -1,0 +1,452 @@
+{
+ "name": "Rentrezi",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜未接触",
+ "researched_at": "2026-11-11T08:42:42.897173+00:00",
+ "official_url": "https://www.rentrezi.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "REZI (@ rentrezi ) · New York, NY - Instagram — REZI (@ rentrezi ) · New York, NY - Instagram Instagram https://www.instagram.com > reels",
+    "url": "https://www.instagram.com/rentrezi/reels/",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "REZI empowers landlords to lease their vacant apartments using their state-of-the-art platform — guaranteeing the monthly rent, paying up to 12 months of rent upfront, reducing leasing costs, and simplifying the leasing process for several to hundreds of units in a single transaction.",
+    "url": "https://www.ycombinator.com/companies/rezi",
+    "pass": 3
+   },
+   {
+    "quote": "Renters on REZI are then able to find, tour, apply for, and lease their next home without any fees and in as little as five minutes — right from their phone — through pre-screened listings, contactless tours, and automated application decisions.",
+    "url": "https://www.ycombinator.com/companies/rezi",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "#RentRelif - Search / X Automated rent payments are rapidly and securely transferred to your bank account. Choose Rent Relay - the smart way for tenants to pay (TM)! REZI @RentRezi",
+    "url": "https://x.com/hashtag/RentRelif?f=user",
+    "pass": 3
+   },
+   {
+    "quote": "Omar (@doornumber17) / X @DwilliamsKeenan what happened to the rental payments @ RentRezi tenants, myself included, made? Multiple landlords who worked with Rezi across the country are claiming they have not received payments from your company",
+    "url": "https://x.com/doornumber17",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Rentrezi Funding After 2026 07 11 Jobs in United States ... Jul 11, 2026 · Today's top 11,000+ Rentrezi Funding After 2026 07 11 jobs in United States. Leverage your professional network, and get hired. New Rentrezi Funding After 2026 07 11 jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/rentrezi-funding-after-2026-07-11-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "REZI on LinkedIn: REZI Lands $100M In Funding To Further ... Read the full article here or learn more about how you can optimize your next lease-up with REZI at leasing.rentrezi.com",
+    "url": "https://www.linkedin.com/posts/rentrezi_learn-more-activity-6998872316310945792-ffsc",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rentrezi.com",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amesha-world.com/info/detail.php?id=4277",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycar-life.com/article/2026/11/08/32725.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onlystory.co.jp/service/column/recruitment-of-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://wagaya-japan.com/en/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.stayjapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apartment-japan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://realestate.co.jp/en",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKVmpaycIUe0U6tfi5DOdXc2A99cYgHXkWzXuXEL9wy6ukJTYFB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rzsoftware.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturo.com/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getreba.com/download-category/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reallyo.com/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/rezi-2",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/rezi/__u1rPTZ9KDSIhrhrslJ_kVRm9KeOCBWQgX3faK8PDuMw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://newsletter.failory.com/p/230m-not-enough",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/rezi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/RentRelif?f=user",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/doornumber17",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/rentrezi-funding-after-2026-07-11-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/rentrezi_learn-more-activity-6998872316310945792-ffsc",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rentrezi 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://amesha-world.com/info/detail.php?id=4277",
+    "https://www.mycar-life.com/article/2026/11/08/32725.html",
+    "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "https://www.instagram.com/reel/DfTb76WgVjx/",
+    "https://trafficnews.jp/post/725198",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160111/",
+    "https://prtimes.jp/main/html/rd/p/000000027.000153722.html",
+    "https://bestcarweb.jp/news/entame/1669612"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Rentrezi 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://dairitenboshu.com/",
+    "https://onlystory.co.jp/service/column/recruitment-of-agencies/",
+    "https://jirei.r-rental.co.jp/partner/",
+    "https://www.biz.ne.jp/list/corporate-agency/",
+    "https://relinks.co.jp/distributor/",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://entrenet.jp/dokuritsu/Y1300/",
+    "https://b-seeds.com/column/sole-agency-agreement"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Rentrezi Japan",
+   "results": [
+    "https://wagaya-japan.com/en/",
+    "https://en.stayjapan.com/",
+    "https://apartment-japan.com/",
+    "https://realestate.co.jp/en",
+    "https://www.instagram.com/rentrezi/reels/",
+    "https://www.expedia.com/Destinations-In-Japan.d89.Vacation-Rental-Destinations",
+    "https://www.best-estate.jp/en/",
+    "https://www.enterprise.com/en/car-rental-locations/jp.html",
+    "https://arealty.jp/",
+    "https://www.instagram.com/rentrezi/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Rentrezi manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKVmpaycIUe0U6tfi5DOdXc2A99cYgHXkWzXuXEL9wy6ukJTYFB",
+    "https://www.rzsoftware.com/case-studies",
+    "https://manufacturo.com/resources/case-studies/",
+    "https://www.getreba.com/download-category/case-study/",
+    "https://www.autodesk.com/customer-stories/case-studies",
+    "https://www.rittal.com/us-en_US/Solutions/Case-studies",
+    "https://www.rentvine.com/blog/category/customer-case-studies",
+    "https://www.getmaintainx.com/case-studies",
+    "https://www.uncountable.com/case-studies",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Rentrezi white label OR reseller OR partner program",
+   "results": [
+    "https://www.reallyo.com/white-label",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/",
+    "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://legiit.com/blog/top-12-white-label-seo-reseller-programs-agencies",
+    "https://www.reddit.com/r/GrowthHacking/comments/1rxruln/using_a_whitelabel_or_reseller_program_to/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://evincedev.com/blog/a-detailed-guide-to-white-label-reseller-program-to-grow-your-existing-business/",
+    "https://www.nuwebgroup.com/blog/entrepreneur/everything-you-need-to-know-about-white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Rentrezi founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/rezi-2",
+    "https://tracxn.com/d/companies/rezi/__u1rPTZ9KDSIhrhrslJ_kVRm9KeOCBWQgX3faK8PDuMw",
+    "https://newsletter.failory.com/p/230m-not-enough",
+    "https://www.ycombinator.com/companies/rezi",
+    "https://www.linkedin.com/posts/y-combinator_rezi-lands-100m-in-funding-to-further-national-activity-6998320671382495236-4qUp",
+    "https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent",
+    "https://www.forbes.com/sites/amydobson/2022/11/15/rezi-lands-100m-in-funding-to-further-national-expansion/",
+    "https://getlatka.com/companies/re-leased",
+    "https://growjo.com/company/RentRedi",
+    "https://compworth.com/company/rezi"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Rentrezi",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/yuyadachi/n/n509ef67b2d6c",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/shi3zblog/n/naabc7413c8fc",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Rentrezi",
+   "results": [
+    "https://x.com/hashtag/RentRelif?f=user",
+    "https://x.com/doornumber17",
+    "https://x.com/rentrezz",
+    "https://x.com/MohamdPartirapa/status/2107515571214364812",
+    "https://x.com/ItsMillieRiley/status/2120131637149106184",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/Bousquet_FR/status/2107505321115537779"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Rentrezi",
+   "results": [
+    "https://www.linkedin.com/in/yadav-harsh",
+    "https://kr.linkedin.com/company/reziresume",
+    "https://www.linkedin.com/jobs/rentrezi-funding-after-2026-07-11-jobs",
+    "https://www.linkedin.com/posts/rentrezi_learn-more-activity-6998872316310945792-ffsc",
+    "https://in.linkedin.com/in/varun-sermal",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://fr.linkedin.com/pulse/rentrez-les-rentrées-littéraires-autrement-guenael-boutouillet-sbyde",
+    "https://fr.linkedin.com/pulse/rentrez-la-rentrée-littéraire-autrement-à-des-automne-boutouillet",
+    "https://uk.linkedin.com/in/matthew-latimer-a65268b0"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Rentrezi",
+   "results": [
+    "https://www.facebook.com/alexis.lucero.96780/photos/707202586467510/",
+    "https://www.facebook.com/KewEstate/",
+    "https://www.facebook.com/airearealestate/",
+    "https://www.facebook.com/alexis.lucero.96780/photos/707202689800833/",
+    "https://www.facebook.com/une.color.rieuse/posts/329563304171765/",
+    "https://www.facebook.com/INTERSPORT.fischer/posts/am-samstag-fand-das-interne-tennisturnier-des-intersport-dornbirn-statt-der-spa%C3%9F/2032074030154187/",
+    "https://www.facebook.com/urbexCODY/videos/rentrez-chez-vous-/2751297088655874/",
+    "https://www.facebook.com/merricarotte/videos/rentrez-chez-vous-humour/1307172404897967/",
+    "https://www.facebook.com/REZI/videos/866900181343851/",
+    "https://www.facebook.com/SouleyB52/videos/burkinabès-rentrez-chez-vous-mais-ils-seront-surpris-vive-ib-️-️-/1441961697375260/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Rentrezi note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.com/realrise",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Rentrezi X 投稿",
+   "results": [
+    "https://www.instagram.com/rentrezi/",
+    "https://x.com/RentDotCom",
+    "https://www.reszi.com/",
+    "https://note.com/gas_lab/n/na48445c50082",
+    "https://sinis-x.tetemarche.co.jp/blog/x-reserve",
+    "https://www.ycombinator.com/companies/rezi",
+    "https://www.reddit.com/r/Renters/comments/188id9y/what_happened_to_rezi_unresolved_payment_issue_ny/",
+    "https://help.social-dog.net/ja/posts/scheduled_posts/schedule_post",
+    "https://sananeblog.com/x-schedule-tool-manual-repost/",
+    "https://x.com/rentrezi"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

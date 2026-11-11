@@ -1,0 +1,1544 @@
+{
+ "name": "Amtechnologies",
+ "aliases": [],
+ "context": "旧営業リスト｜AM / Additive Manufacturing｜返信あり",
+ "researched_at": "2026-11-11T09:13:33.373030+00:00",
+ "official_url": "https://amtechnologies.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded in Sheffield",
+    "value": "Founded in Sheffield：2017",
+    "url": "https://amtechnologies.com/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Automated Surface Finishing for 3D Printed Parts | PostPro",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3D printed",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PostPro vapor smoothing seals and smooths powder-bed and FDM 3D printed parts, inside and out, in one automated cycle of up to 2",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PostPro systems installed in 40 countries · all product lines",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "parts finished, all product lines",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Load the rack and pick the recipe. The machine runs the whole cycle: conditioning, processing, curing and",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Illustrative. The AMT demo manifold, as printed and after a PostPro vapor cycle.",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lattice bicycle saddle, as printed and after PostPro vapor smoothing.",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A drop soaks into the as-printed TPU bellows and beads on the smoothed one.",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Three AMT finishing agents: FA5802 (Pure), FA326 (High performance) and FA9202 (Polypropylene).",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PostPro SFX, front elevation",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Line drawing traced from AMT's product render; same box as the render, ground at the bottom edge.",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PostPro SF2X, front elevation",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PostPro SF50, front elevation",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PostPro SF100, front elevation",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Desktop · R&D and low-volume production",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Starting price and options",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PostPro SF2X",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PostPro SF50",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial · low-volume production of end-use parts",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PostPro SF100",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial · high-volume production",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Starting prices, excluding tax and shipping. Bundles, options, installation, training, care packs and consumables are priced in your quotation.",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DMS, AMT’s Digital Manufacturing System, loads and unloads PostPro SF100 systems automatically. It recognizes each tray, selects the recipe for the batch and keeps production running unattended.",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Smooth, sealed surfaces that improve comfort and hygiene.",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PostPro Partner Network: Find a Partner | AMT PostPro",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "PostPro partner network",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Find a PostPro partner.",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "AMT works with 127 production partners, which offer industrial 3D printing and post-processing services, and 63 resellers of PostPro systems, in 38 countries.",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Have your parts printed and finished.",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Production partners offer industrial printing and post-processing services to companies requiring a better surface finish.",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "All production partners",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Buy a PostPro system locally.",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our reseller partners have the expertise to help you find the right AMT post-processing system.",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "PostPro systems installed",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Japan 3D Printer Co., Ltd",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "3dprinter.co.jp",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Every AMT PostPro partner: name, type, country and website",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Profi GmbH",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "3d-profi.de",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "printingsolutionpartner.de",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "KUK Prototypenbau GmbH",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printing Corporation KK",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "MOOR Ortotika in protetika",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "printingportalhub.co.uk",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Solid Print3D",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "solidprint3d.co.uk",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Avid Product Development",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom Color 3D Printing",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "EAC Product Development Solutions",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a PostPro Partner or Reseller | AMT PostPro",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "PostPro partner network",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a PostPro partner.",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Join AMT’s partner network as a reseller of PostPro systems, or as a production partner offering 3D printing and post-processing services. 127 production partners and 63 resellers are listed today.",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Sell PostPro, or finish parts for your customers.",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Our reseller partners have the expertise to help you find the right AMT post-processing system.",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Production partners offer industrial printing and post-processing services to companies requiring a better surface finish.",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "See the production partners",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "PostPro systems installed.",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "What is the difference between a reseller and a production partner?",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial · low-volume production of end-use parts",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial · high-volume production",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DMS, AMT’s Digital Manufacturing System, loads and unloads PostPro SF100 systems automatically. It recognizes each tray, selects the recipe for the batch and keeps production running unattended.",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case study,",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AMT works with 127 production partners, which offer industrial 3D printing and post-processing services, and 63 resellers of PostPro systems, in 38 countries.",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Production partners offer industrial printing and post-processing services to companies requiring a better surface finish.",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "layer manufactory GmbH",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Norra Additive Manufacturing",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Graphite Additive Manufacturing",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Northwest Rapid Manufacturing",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Paradigm Manufacturing",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Production partners offer industrial printing and post-processing services to companies requiring a better surface finish. AMT’s partner map lists 127 production partners in 22 countries.",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Production partners offer industrial printing and post-processing services to companies requiring a better surface finish.",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Our reseller partners have the expertise to help you find the right AMT post-processing system. Production partners offer industrial printing and post-processing services to companies requiring a better surface finish.",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial · 50 L",
+    "url": "https://amtechnologies.com/resources/case-studies/tetra-pak-processing-systems-works-with-production-equipment-for-the-food-industry-and-implemented-additive-manufacturing-as-a-key-ingredient/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial · 100 L",
+    "url": "https://amtechnologies.com/resources/case-studies/tetra-pak-processing-systems-works-with-production-equipment-for-the-food-industry-and-implemented-additive-manufacturing-as-a-key-ingredient/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive & motorsport",
+    "url": "https://amtechnologies.com/resources/case-studies/tetra-pak-processing-systems-works-with-production-equipment-for-the-food-industry-and-implemented-additive-manufacturing-as-a-key-ingredient/",
+    "pass": 1
+   },
+   {
+    "quote": "Case study · Food contact",
+    "url": "https://amtechnologies.com/resources/case-studies/tetra-pak-processing-systems-works-with-production-equipment-for-the-food-industry-and-implemented-additive-manufacturing-as-a-key-ingredient/",
+    "pass": 1
+   },
+   {
+    "quote": "Tetra Pak set out to develop an ice cream extruder that mixes several colors of ice cream and places them on a production line in a variety of shapes and patterns. Its previous extruder had sanitization and efficiency issues, so Tetra Pak turned to the Danish Technological Institute (DTI) and AMT PostPro.",
+    "url": "https://amtechnologies.com/resources/case-studies/tetra-pak-processing-systems-works-with-production-equipment-for-the-food-industry-and-implemented-additive-manufacturing-as-a-key-ingredient/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://amtechnologies.com/resources/case-studies/tetra-pak-processing-systems-works-with-production-equipment-for-the-food-industry-and-implemented-additive-manufacturing-as-a-key-ingredient/",
+    "pass": 1
+   },
+   {
+    "quote": "The case study also notes that 3D printing for food applications is faster and significantly cheaper than previous manufacturing methods.",
+    "url": "https://amtechnologies.com/resources/case-studies/tetra-pak-processing-systems-works-with-production-equipment-for-the-food-industry-and-implemented-additive-manufacturing-as-a-key-ingredient/",
+    "pass": 1
+   },
+   {
+    "quote": "Tetra Pak case study, amtechnologies.com",
+    "url": "https://amtechnologies.com/resources/case-studies/tetra-pak-processing-systems-works-with-production-equipment-for-the-food-industry-and-implemented-additive-manufacturing-as-a-key-ingredient/",
+    "pass": 1
+   },
+   {
+    "quote": "Case study 11 / 22",
+    "url": "https://amtechnologies.com/resources/case-studies/tetra-pak-processing-systems-works-with-production-equipment-for-the-food-industry-and-implemented-additive-manufacturing-as-a-key-ingredient/",
+    "pass": 1
+   },
+   {
+    "quote": "Case study 12 / 22",
+    "url": "https://amtechnologies.com/resources/case-studies/tetra-pak-processing-systems-works-with-production-equipment-for-the-food-industry-and-implemented-additive-manufacturing-as-a-key-ingredient/",
+    "pass": 1
+   },
+   {
+    "quote": "Case study 01 / 22",
+    "url": "https://amtechnologies.com/resources/case-studies/tetra-pak-processing-systems-works-with-production-equipment-for-the-food-industry-and-implemented-additive-manufacturing-as-a-key-ingredient/",
+    "pass": 1
+   },
+   {
+    "quote": "Point Designs case study",
+    "url": "https://amtechnologies.com/resources/case-studies/tetra-pak-processing-systems-works-with-production-equipment-for-the-food-industry-and-implemented-additive-manufacturing-as-a-key-ingredient/",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 Additive Manufacturing Technologies Ltd (AMT) · Updated",
+    "url": "https://amtechnologies.com/resources/case-studies/tetra-pak-processing-systems-works-with-production-equipment-for-the-food-industry-and-implemented-additive-manufacturing-as-a-key-ingredient/",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Manufacturing Technologies (AMT) has entered into a strategic partnership with",
+    "url": "https://amtechnologies.com/news/amt-and-prototal-strategic-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our shared vision with Prototal is simple: drive industrialisation, repeatability, and scalability in additive manufacturing. By combining our advanced post-processing with Prototal’s vast AM capabilities, we’re delivering […] quality, consistency, and efficiency, all while reducing costs to enable broader industry adoption.”",
+    "url": "https://amtechnologies.com/news/amt-and-prototal-strategic-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "“This partnership marks an important step in strengthening our ecosystem of world-class manufacturing solutions. By working with AMT, we can provide our customers with even greater flexibility, speed, and reliability in scaling their production.”",
+    "url": "https://amtechnologies.com/news/amt-and-prototal-strategic-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "As additive manufacturing shifts from prototyping to true volume production, this partnership aims to remove the final barriers to scale. Together, AMT and Prototal are committed to setting new standards for efficiency, surface finish, and throughput in industrial 3D printing.",
+    "url": "https://amtechnologies.com/news/amt-and-prototal-strategic-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "AMT to Sponsor and Speak at Additive Manufacturing Strategies 2026",
+    "url": "https://amtechnologies.com/news/amt-and-prototal-strategic-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "West Coast Industries: Aerospace Tooling | AMT PostPro",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial · 50 L",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial · 100 L",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive & motorsport",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Case study · Aerospace & UAV",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "West Coast Industries: cost-efficient aerospace tooling",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "West Coast Industries, an aircraft and aerospace tooling manufacturer, worked with GoProto Inc, a product development and custom manufacturing firm in San Diego, California, to produce highly durable parts.",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "West Coast Industries uses a metal portable tool to drill high-precision holes in loaded aircraft components. Compressed air drives the tool through a 2.5 HP air motor, and the hot air became an issue for operators’ hands. The tools are also dropped often, and the material and shape of the handle made them expensive to replace. The fragile parts had become a major issue in the production chain.",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "The full case study shows how West Coast Industries saved time and money while improving part performance, with parts finished on PostPro3D, the earlier generation of AMT’s automated vapor smoothing systems.",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Case study 05 / 22",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Case study 01 / 22",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Case study 02 / 22",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "West Coast Industries case study",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent Energy case study",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Point Designs case study",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "© 2026 Additive Manufacturing Technologies Ltd (AMT) · Updated",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Raise3D, a global provider of 3D printing solutions, today announced a partnership with Additive Manufacturing Technologies (AMT) to bring professional post-processing capabilities to its RMS220 SLS 3D printer. The collaboration enables businesses to produce functional, end-use parts with high-quality surface finishes more efficiently.",
+    "url": "https://amtechnologies.com/news/raise3d-and-amt-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our partnership with Additive Manufacturing Technologies (AMT) completes our additive manufacturing workflow with advanced post-processing capabilities. AMT’s powerful yet user-friendly systems […] perfectly complement the large build volume of our RMS220. This collaboration represents another step toward our goal of delivering a complete, end-to-end additive manufacturing solution.”",
+    "url": "https://amtechnologies.com/news/raise3d-and-amt-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our partnership with Raise3D is about empowering businesses to manufacture real, functional end-use parts without the traditional cost and complexity. The combination of Raise3D’s accessible SLS technology and AMT’s PostPro SF2X vapor smoothing creates a […] production cell that delivers professional results […]. This is additive manufacturing for real-world applications, made simple.”",
+    "url": "https://amtechnologies.com/news/raise3d-and-amt-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Raise3D is a global provider of additive manufacturing solutions, developing 3D printers, materials, and software for professional and industrial applications. With offices in Europe, the United States, and Shanghai, Raise3D is an ISO9001:2015 and ISO14001 certified company helping organizations adopt flexible, digital manufacturing.",
+    "url": "https://amtechnologies.com/news/raise3d-and-amt-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Over the past decade, Raise3D has built a complete additive manufacturing ecosystem integrating FFF, DLP, and SLS technologies, enabling companies to move from prototyping to end use production with a fully integrated workflow.",
+    "url": "https://amtechnologies.com/news/raise3d-and-amt-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "AMT and Prototal Establish Partnership to Scale Industrial Manufacturing Solutions",
+    "url": "https://amtechnologies.com/news/raise3d-and-amt-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "AMT to Sponsor and Speak at Additive Manufacturing Strategies 2026",
+    "url": "https://amtechnologies.com/news/raise3d-and-amt-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "The PostPro Digital Manufacturing System (DMS) by AMT is a modular automated loading system for the PostPro SF100 vapor smoothing system.",
+    "url": "https://amtechnologies.com/products/digital-manufacturing-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "The PostPro Digital Manufacturing System (DMS) is AMT’s modular automated loading system for the PostPro SF100. It loads batches of 3D printed parts to and from the SF100, so vapor smoothing can run lights-out.",
+    "url": "https://amtechnologies.com/products/digital-manufacturing-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial · low-volume production of end-use parts",
+    "url": "https://amtechnologies.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial · high-volume production",
+    "url": "https://amtechnologies.com/pricing/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Your parts arrive, as printed",
+    "url": "https://amtechnologies.com/",
+    "pass": 1
+   },
+   {
+    "quote": "15 partners listed in Sep 2026",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Partners listed on AMT’s partner map in Sep 2026",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our reseller partners have the expertise to help you find the right AMT post-processing system. 63 resellers are listed in 32 countries.",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Join AMT’s partner network as a reseller of PostPro systems, or as a production partner offering 3D printing and post-processing services. 127 production partners and 63 resellers are listed today.",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "63 listed",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "127 listed",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Listed partners appear on the",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Parts, warranties, documents",
+    "url": "https://amtechnologies.com/resources/case-studies/tetra-pak-processing-systems-works-with-production-equipment-for-the-food-industry-and-implemented-additive-manufacturing-as-a-key-ingredient/",
+    "pass": 1
+   },
+   {
+    "quote": "As additive manufacturing shifts from prototyping to true volume production, this partnership aims to remove the final barriers to scale. Together, AMT and Prototal are committed to setting new standards for efficiency, surface finish, and throughput in industrial 3D printing.",
+    "url": "https://amtechnologies.com/news/amt-and-prototal-strategic-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "and kept at its original address. Edited for this archive: AMT’s self-description and one superlative are omitted; the systems at Prototal’s sites are named generically (the release also listed products outside this site’s scope); a paragraph on beta testing and future technologies is omitted; US spelling. Omissions inside quotes are marked […].",
+    "url": "https://amtechnologies.com/news/amt-and-prototal-strategic-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Parts, warranties, documents",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "As part of the agreement, Raise3D will offer AMT solutions to its clients in Europe, featuring preconfigured systems optimized for seamless compatibility with Raise3D powders. The partnership initially focuses on AMT’s vapor smoothing technologies, including the",
+    "url": "https://amtechnologies.com/news/raise3d-and-amt-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Example cell layout, configured per project and not to scale: a robot arm in the center carries trays of parts between two tray racks and two PostPro SF100 systems inside the cell guarding.",
+    "url": "https://amtechnologies.com/products/digital-manufacturing-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "The finished tray comes back out and the next batch goes in, so vapor smoothing carries on unattended, overnight.",
+    "url": "https://amtechnologies.com/products/digital-manufacturing-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Includes PostPro SFX, 3 x Processing Racks, Storage Stand, 1 x FA5802 Cartridges, 2 x Air Filters · 1 Year Warranty",
+    "url": "https://amtechnologies.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Includes PostPro SFX system, Machine Stand, 6 x Processing Racks, Storage Stand, Preparation Stand, 3 x FA5802 Cartridges, 6 x Air Filters · 24-Month Warranty",
+    "url": "https://amtechnologies.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Includes PostPro SF2X system, 3 x Processing Racks, Storage Stand, 1 x FA5802 Cartridge, 2 x Air Filters · 12-Month Warranty",
+    "url": "https://amtechnologies.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Includes PostPro SF2X system, Machine Stand, 6 x Processing Racks, Storage Stand, Preparation Stand, 3 x FA5802 Cartridges, 6 x Air Filters · 24-Month Warranty",
+    "url": "https://amtechnologies.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "The standard warranty period is 12 months after delivery and applies to material and construction defects only. Parts subject to normal wear and tear are excluded. In the event of a warranty case, parts will be provided free of charge and installed by an AMT employee. During the warranty period, only solvent and parts supplied by AMT may be used.",
+    "url": "https://amtechnologies.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Service and maintenance cover for the SFX after the standard warranty, for 1, 2 or 3 years.",
+    "url": "https://amtechnologies.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Service and maintenance cover for the SF2X after the standard warranty, for 1, 2 or 3 years.",
+    "url": "https://amtechnologies.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "The standard tier of service and maintenance cover for the SF50 and SF100 after the standard warranty, for 1, 2 or 3 years.",
+    "url": "https://amtechnologies.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "The premium tier of service and maintenance cover for the SF50 and SF100 after the standard warranty, for 1, 2 or 3 years.",
+    "url": "https://amtechnologies.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "What warranty comes with a machine?",
+    "url": "https://amtechnologies.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Each system above shows its standard warranty. RemoteCare (standard tier) and HyperCare (premium tier) for the SF50 and SF100, SFX-traCare for the SFX and SF2X-traCare for the SF2X add one, two or three years of service and maintenance cover.",
+    "url": "https://amtechnologies.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Your parts arrive, as printed",
+    "url": "https://amtechnologies.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "The SFX's FLEX software, licensed as part of the plan.",
+    "url": "https://amtechnologies.com/pricing/sfx-monthly-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "No hidden fees, and no separate service contracts: support and maintenance are part of the plan.",
+    "url": "https://amtechnologies.com/pricing/sfx-monthly-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "The clinic combines HP Multi Jet Fusion printing with PostPro vapor smoothing so devices worn every day are comfortable, easier to keep clean, and can carry custom colors and graphics.",
+    "url": "https://amtechnologies.com/industries/medical/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "AMT works with 127 production partners, which offer industrial 3D printing and post-processing services, and 63 resellers of PostPro systems, in 38 countries.",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our reseller partners have the expertise to help you find the right AMT post-processing system.",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "What does a PostPro reseller do?",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our reseller partners have the expertise to help you find the right AMT post-processing system. 63 resellers are listed in 32 countries.",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "for the system that fits your parts, or ask a reseller in your country.",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How do I become a partner?",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "page. It covers both production partners and resellers.",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers and production partners: apply to join AMT’s partner network and appear on the partner map.",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a PostPro Partner or Reseller | AMT PostPro",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Join AMT’s partner network as a reseller of PostPro systems, or as a production partner offering 3D printing and post-processing services. 127 production partners and 63 resellers are listed today.",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Our reseller partners have the expertise to help you find the right AMT post-processing system.",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "What is the difference between a reseller and a production partner?",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Our reseller partners have the expertise to help you find the right AMT post-processing system. Production partners offer industrial printing and post-processing services to companies requiring a better surface finish.",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Find a production partner or reseller near you",
+    "url": "https://amtechnologies.com/resources/case-studies/tetra-pak-processing-systems-works-with-production-equipment-for-the-food-industry-and-implemented-additive-manufacturing-as-a-key-ingredient/",
+    "pass": 1
+   },
+   {
+    "quote": "Find a production partner or reseller near you",
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller · United States",
+    "url": "https://amtechnologies.com/global-resellers/eac-product-development-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "EAC Product Development Solutions is an AMT PostPro reseller in the United States. Our reseller partners have the expertise to help you find the right AMT post-processing system.",
+    "url": "https://amtechnologies.com/global-resellers/eac-product-development-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers and production partners: apply to join AMT’s partner network and appear on the partner map.",
+    "url": "https://amtechnologies.com/global-resellers/eac-product-development-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Japan 3D Printer Co., Ltd: PostPro Reseller | AMT PostPro",
+    "url": "https://amtechnologies.com/global-resellers/japan-3d-printer-co-ltd/",
+    "pass": 1
+   },
+   {
+    "quote": "Japan 3D Printer Co., Ltd is an AMT PostPro reseller in Japan. Our reseller partners have the expertise to help you find the right AMT post-processing system.",
+    "url": "https://amtechnologies.com/global-resellers/japan-3d-printer-co-ltd/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers and production partners: apply to join AMT’s partner network and appear on the partner map.",
+    "url": "https://amtechnologies.com/global-resellers/japan-3d-printer-co-ltd/",
+    "pass": 1
+   },
+   {
+    "quote": "He has also been responsible for AMT’s growth across Europe in industrial machine sales and reseller management, and is multilingual.",
+    "url": "https://amtechnologies.com/about/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Also in APAC: Hong Kong, India, Japan, New Zealand, Singapore, Taiwan.",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Japan 3D Printer Co., Ltd",
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Japan 3D Printer Co., Ltd: PostPro Reseller | AMT PostPro",
+    "url": "https://amtechnologies.com/global-resellers/japan-3d-printer-co-ltd/",
+    "pass": 1
+   },
+   {
+    "quote": "Japan 3D Printer Co., Ltd",
+    "url": "https://amtechnologies.com/global-resellers/japan-3d-printer-co-ltd/",
+    "pass": 1
+   },
+   {
+    "quote": "Japan 3D Printer Co., Ltd is an AMT PostPro reseller in Japan. Our reseller partners have the expertise to help you find the right AMT post-processing system.",
+    "url": "https://amtechnologies.com/global-resellers/japan-3d-printer-co-ltd/",
+    "pass": 1
+   },
+   {
+    "quote": "Partners in Japan and the rest of APAC",
+    "url": "https://amtechnologies.com/global-resellers/japan-3d-printer-co-ltd/",
+    "pass": 1
+   },
+   {
+    "quote": "Partners are independent organizations: contact Japan 3D Printer Co., Ltd directly about services, materials, prices and lead times. Ask Japan 3D Printer Co., Ltd which PostPro systems they supply.",
+    "url": "https://amtechnologies.com/global-resellers/japan-3d-printer-co-ltd/",
+    "pass": 1
+   },
+   {
+    "quote": "Published about Japan 3D Printer Co., Ltd.",
+    "url": "https://amtechnologies.com/global-resellers/japan-3d-printer-co-ltd/",
+    "pass": 1
+   },
+   {
+    "quote": "Other partners near Japan 3D Printer Co., Ltd.",
+    "url": "https://amtechnologies.com/global-resellers/japan-3d-printer-co-ltd/",
+    "pass": 1
+   },
+   {
+    "quote": "Japan · About 20 km away",
+    "url": "https://amtechnologies.com/global-resellers/japan-3d-printer-co-ltd/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "The form is taking a while to load. You can also email",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "info@amtechnologies.com",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "AMT will reply to the email address you gave.",
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "info@amtechnologies.com",
+    "url": "https://amtechnologies.com/products/digital-manufacturing-systems/",
+    "pass": 1
+   },
+   {
+    "quote": "Starting prices are public and the cost-per-part math is yours to check, with no email needed for either. The free benchmark puts your own parts, vapor smoothed, in your hands.",
+    "url": "https://amtechnologies.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Starting prices are public and the cost-per-part math is yours to check, with no email needed for either. The free benchmark puts your own parts, vapor smoothed, in your hands.",
+    "url": "https://amtechnologies.com/industries/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "Starting prices are public and the cost-per-part math is yours to check, with no email needed for either. The free benchmark puts your own parts, vapor smoothed, in your hands.",
+    "url": "https://amtechnologies.com/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Starting prices are public and the cost-per-part math is yours to check, with no email needed for either. The free benchmark puts your own parts, vapor smoothed, in your hands.",
+    "url": "https://amtechnologies.com/industries/consumer/",
+    "pass": 1
+   },
+   {
+    "quote": "Starting prices are public and the cost-per-part math is yours to check, with no email needed for either. The free benchmark puts your own parts, vapor smoothed, in your hands.",
+    "url": "https://amtechnologies.com/industries/industrial/",
+    "pass": 1
+   },
+   {
+    "quote": "Starting prices are public and the cost-per-part math is yours to check, with no email needed for either. The free benchmark puts your own parts, vapor smoothed, in your hands.",
+    "url": "https://amtechnologies.com/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "For further information contact: info@amtechnologies.com",
+    "url": "https://www.dynamism.com/learn/wp-content/uploads/2025/11/AMT-PostPro-Case-Study-Rapid-Manufacturing-of-Heavy-Use-Consumer-Parts.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "amtechnologies.com — # Find a PostPro partner. AMT works with 127 production partners, which offer industrial 3D printing and post-processing services, and 63 resellers of PostPro systems ...",
+    "url": "https://amtechnologies.com/postpro-partners.md",
+    "pass": 3
+   },
+   {
+    "quote": "amtechnologies.com — description: \"Customer case studies of PostPro vapor smoothing in medical, automotive, consumer, industrial and food production, each with a free PDF.\" canonical: https://amtechnologies.com/resources/case-studies/",
+    "url": "https://amtechnologies.com/resources/case-studies.md",
+    "pass": 3
+   },
+   {
+    "quote": "AM Technologies – Funding, Acquisitions & Key Rivals – 2026 — Discover AM Technologies's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/am-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "AM Technologies - Crunchbase Company Profile & FundingAM Technologies - Crunchbase Company Profile & FundingAMT Investors and Partners | AMT PostPro - amtechnologies.comAM Technologies - 2026 Company Profile & Competitors - TracxnAM Technologies - Overview, News & Similar companies ... — AM Technologies provides IT services, digital marketing, website designing, and manufacturing of precision part",
+    "url": "https://www.crunchbase.com/organization/am-technologies-9582",
+    "pass": 3
+   },
+   {
+    "quote": "AM Technologies - Crunchbase Company Profile & Funding — AM Technologies Polska Sp. z o.o. supplies regulating, measuring, and controlling instruments and apparatus. The company was founded in 1999 and is based in Warsaw, Poland.",
+    "url": "https://www.crunchbase.com/organization/am-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "AMT Investors and Partners | AMT PostPro - amtechnologies.com — Milestones and funding How AMT grew. AMT was born from University of Sheffield research and founded in Sheffield in January 2017. Year by year since 2017, with sources at the foot of the page.",
+    "url": "https://amtechnologies.com/investors/",
+    "pass": 3
+   },
+   {
+    "quote": "AM Technologies Information - RocketReach — AM Technologies is an IT Services and IT Consulting, Custom Software & Technical Consulting, and Software company located in IN with $3.8 million in revenue and 28 employees. Find top employees, contact details and business statistics at RocketReach.",
+    "url": "https://rocketreach.co/am-technologies-profile_b5d9e33bf42e5f4b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "AMTechnologies - LinkedIn AMTechnologies | 79 followers on LinkedIn. About Distributors of Cisco, Linksys, Juniper, Fortinteret, HP, Dell, Sonic and CCTV security cameras and all necessary accessories backed by ...",
+    "url": "https://www.linkedin.com/company/amtechnologies",
+    "pass": 3
+   },
+   {
+    "quote": "AM Technologies - LinkedIn AM Technologies | 176 followers on LinkedIn. Empowering Industries with Smart Solutions | Overview: Amtech IoT is a leading provider of Internet of Things (IoT) solutions, dedicated to empowering ...",
+    "url": "https://www.linkedin.com/company/am-technologies-iot",
+    "pass": 3
+   },
+   {
+    "quote": "AMTECHNOLOGIES | LinkedIn AMTECHNOLOGIES | 25 followers on LinkedIn. Precision in Science, Excellence in Service | AM TECHNOLOGIES has established itself as a prominent analytical and laboratory instrumentation company in India. With a strong presence since 2013, the company has consistently introduced cutting-edge instruments, accessories, and consumables from renowned global manufacturers. Our r",
+    "url": "https://in.linkedin.com/company/amteknashik",
+    "pass": 3
+   },
+   {
+    "quote": "Rabin Majumdar - Owner, AMTechnologies | LinkedInAM TECHNOLOGIES - LinkedInFakhir Ali - General Sales Manager at AM Technologies | LinkedInSEONGSOO KIM 님 - AMTechnologies, Representative in Korea of ... Owner, AMTechnologies · Experience: AMTechnologies · Location: Delhi · 99 connections on LinkedIn. View Rabin Majumdar’s profile on LinkedIn, a professional community of 1 billion members. AM TECHN",
+    "url": "https://in.linkedin.com/in/rabin-majumdar-0736a94",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "AM Technologies | Ahmedabad - FacebookA&M Technologies, Inc. | Ashburn VA - FacebookAM Technologies | Karachi - FacebookAm technologies - FacebookA.M Technologies - FacebookAmerican Technologies | Atlanta GA - Facebook Jun 20, 2019 · AM Technologies, Ahmedabad. 4,594 likes · 10 were here. AM Technologies, an IT Company blazing into the forefront of the Indian IT industry, providing Complete & Cust",
+    "url": "https://www.facebook.com/amtechnologies.in/",
+    "pass": 3
+   },
+   {
+    "quote": "A&M Technologies, Inc. | Ashburn VA - FacebookAM Technologies | Karachi - FacebookAm technologies - FacebookA.M Technologies - FacebookAmerican Technologies | Atlanta GA - Facebook Jan 7, 2023 · A&M Technologies, Inc., Ashburn. 104 likes. Specialized in IT and Management support. Background includes support in areas ranging from systems integration, IT security support, coop, and etc. Oct 14, 2022",
+    "url": "https://www.facebook.com/amtechies/",
+    "pass": 3
+   },
+   {
+    "quote": "AM Technologies | Karachi - FacebookAm technologies - FacebookA.M Technologies - FacebookAmerican Technologies | Atlanta GA - Facebook Oct 14, 2022 · AM Technologies, Karachi. 1,167 followers. Re-seller Cisco, Linksys, Juniper, Fortinet , HP, Dell, Sonic and CCTV security cameras and all necessary accessories backed by experienced-technical and... Sep 8, 2026 · Am technologies. 354 followers · 1 t",
+    "url": "https://www.facebook.com/amtechnologies.com.pk/",
+    "pass": 3
+   },
+   {
+    "quote": "Am technologies - Facebook Sep 8, 2026 · Am technologies. 354 followers · 1 talking about this. We deal with laptops monitors desktops computer accessories and repair laptop repair,accessories battery replacements For inquiries call or...",
+    "url": "https://www.facebook.com/p/Am-technologies-100083845412002/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "AutoMobile Technologies (@AMTechnologies) / X Sep 29, 2009 · We help Recon Pro’s, Used Car operations, PDR Guys, and Mobile Repairers streamline operations and eliminate paper!",
+    "url": "https://x.com/amtechnologies",
+    "pass": 3
+   },
+   {
+    "quote": "AM Technologies (@AM_Technologie) / Posts / X - x.com Aug 9, 2011 · A M Technologies offering a special offer for Static Website.. Build a Static website with AM-Advance-Rs. 14,999/-- only #webdesign #webdevelopment #specialoffer #AMTechnologies 💬0 🔄0 🤍0 0 📎 AM TechnologiesAM_Technologie Dec 5",
+    "url": "https://x.com/am_technologie",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://amtechnologies.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/postpro-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/postpro-partners/become-a-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/resources/case-studies/tetra-pak-processing-systems-works-with-production-equipment-for-the-food-industry-and-implemented-additive-manufacturing-as-a-key-ingredient/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/news/amt-and-prototal-strategic-partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/resources/case-studies/west-coast-industries-saves-time-and-money-for-aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/news/raise3d-and-amt-partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/products/digital-manufacturing-systems/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/pricing/sfx-monthly-plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/industries/medical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/industries/automotive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/industries/consumer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/industries/industrial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/global-resellers/eac-product-development-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/global-resellers/japan-3d-printer-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amtechnologies.com/resources/case-studies/?industry=medical",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://amtechnologies.com/img/news-post/amt-and-prototal-strategic-partnership-720.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://amtechnologies.com/img/news-post/raise3d-and-amt-partnership-200.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://amtechnologies.com/img/news-post/amt-at-additive-manufacturing-strategies-2026-200.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://amtechnologies.com/img/news-post/raise3d-and-amt-partnership-720.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdata-xam.com/wp-content/uploads/2026/11/20261105_%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-SOLIZE-PARTNERS%E3%81%A8%E3%80%8CAM%E9%87%8F%E7%94%A3%E5%B8%82%E5%A0%B4%E3%81%AE%E5%89%B5%E5%87%BA%E3%80%8D%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E6%88%A6%E7%95%A5%E7%9A%84%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E3%82%92%E7%B7%A0%E7%B5%90.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jwes.or.jp/committees/am/applications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.solize.com/news/2026/1105",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/GA_technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ameni-tec.co.jp/company/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amtechs.co.jp/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dynamism.com/learn/wp-content/uploads/2025/11/AMT-PostPro-Case-Study-Rapid-Manufacturing-of-Heavy-Use-Consumer-Parts.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://appliedmfg.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amtechinternational.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://reseller.amazon.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/am-technologies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/am-technologies-9582",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/am-technologies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/amtechnologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/am-technologies-iot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/amteknashik",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/rabin-majumdar-0736a94",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/amtechnologies.in/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/amtechies/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/amtechnologies.com.pk/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Am-technologies-100083845412002/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/amtechnologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/am_technologie",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Amtechnologies 日本 導入",
+   "results": [
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/AM-WG.html",
+    "https://www.nttdata-xam.com/wp-content/uploads/2026/11/20261105_プレスリリース-SOLIZE-PARTNERSと「AM量産市場の創出」に向けた戦略的パートナーシップを締結.pdf",
+    "https://www.jwes.or.jp/committees/am/applications/",
+    "https://partners.solize.com/news/2026/1105",
+    "http://pubdata.nikkan.co.jp/uploads/magazine_serial/202509/zpre/8.pdf",
+    "https://www.manufacturing-world.jp/tokyo/ja-jp/visit/feature/am.html",
+    "https://www.monodukuri.com/gihou/article/3242"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Amtechnologies 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/GA_technologies",
+    "https://www.ameni-tec.co.jp/company/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview",
+    "https://amkor.com/jp/amkor-overview/",
+    "https://mono.ipros.com/company/detail/247150/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Amtechnologies Japan",
+   "results": [
+    "https://amtechnologies.com/postpro-partners.md",
+    "https://amtechnologies.com/",
+    "https://www.amtechs.co.jp/english/",
+    "https://amtechnologies.com/about/",
+    "http://www.amtechnology.co.kr/jap/",
+    "https://amstechnologies.com/",
+    "https://amtechnologies.com/postpro-partners/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Amtechnologies manufacturing customer case study",
+   "results": [
+    "https://amtechnologies.com/resources/case-studies.md",
+    "https://www.dynamism.com/learn/wp-content/uploads/2025/11/AMT-PostPro-Case-Study-Rapid-Manufacturing-of-Heavy-Use-Consumer-Parts.pdf",
+    "https://appliedmfg.com/case-studies/",
+    "https://www.amtechinternational.com/case-studies/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.researchgate.net/publication/23551755_Case_studies_of_advanced_manufacturing_technology_implementation_in_small_companies",
+    "https://amtechnologies.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Amtechnologies white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://reseller.amazon.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://reseller.laam.pk/",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Amtechnologies founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/am-technologies",
+    "https://www.crunchbase.com/organization/am-technologies-9582",
+    "https://www.crunchbase.com/organization/am-technologies",
+    "https://amtechnologies.com/investors/",
+    "https://rocketreach.co/am-technologies-profile_b5d9e33bf42e5f4b",
+    "https://tracxn.com/d/companies/am-technologies/__shOHshkP7Zjq_JWDagHpEeGHr1srf9LpCpyxDTmrRDQ",
+    "https://www.zoominfo.com/c/am-technologies/453668019"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Amtechnologies",
+   "results": [
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/speakplus/n/nc9852e5c86a8?hl=en",
+    "https://note.com/fujkta/n/nfef25b417793",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/pn3/n/nd5ce5222f709",
+    "https://note.com/sekasu/n/n985d4263a09c",
+    "https://note.com/kkyoso/n/n62eaa6af4c7d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Amtechnologies",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Amtechnologies",
+   "results": [
+    "https://www.linkedin.com/company/amtechnologies",
+    "https://www.linkedin.com/company/am-technologies-iot",
+    "https://in.linkedin.com/company/amteknashik",
+    "https://in.linkedin.com/in/rabin-majumdar-0736a94",
+    "https://ae.linkedin.com/company/amtechuae",
+    "https://pk.linkedin.com/in/fakhir-ali-569211241",
+    "https://kr.linkedin.com/in/seongsoo-kim-0060961aa"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Amtechnologies",
+   "results": [
+    "https://www.facebook.com/amtechnologies.in/",
+    "https://www.facebook.com/amtechies/",
+    "https://www.facebook.com/amtechnologies.com.pk/",
+    "https://www.facebook.com/p/Am-technologies-100083845412002/",
+    "https://www.facebook.com/AmericanTechnologies/",
+    "https://www.facebook.com/AMTechnologies/",
+    "https://www.facebook.com/amungrootech/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Amtechnologies note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Amtechnologies X 投稿",
+   "results": [
+    "https://x.com/amtechnologies",
+    "https://partner.amtechnologies.com/signin",
+    "https://amtechnologies.com/index.md",
+    "https://x.com/am_technologie",
+    "https://amtechnologies.com/",
+    "https://muchong.com/t-2812662-1",
+    "https://leakfans.jp/t/投稿"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）"
+ }
+}

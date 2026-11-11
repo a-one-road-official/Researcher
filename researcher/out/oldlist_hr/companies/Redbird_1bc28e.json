@@ -1,0 +1,2082 @@
+{
+ "name": "Redbird",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T09:26:51.919354+00:00",
+ "official_url": "https://www.redbird.io",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "13-Oct-2022    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/507433-15",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2018",
+    "url": "https://startupintros.com/orgs/redbird",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "New York City, NY, USA",
+    "url": "https://startupintros.com/orgs/redbird",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Prep, transform, and enrich your data",
+    "url": "https://www.redbird.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Clean, join, reshape, and enrich raw data automatically — from messy spreadsheets to multi-source pipelines.",
+    "url": "https://www.redbird.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales by region · preview",
+    "url": "https://www.redbird.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Reruns default to deterministic execution — the same inputs always produce the same outputs, consistently and predictably.",
+    "url": "https://www.redbird.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide natural language instructions for reruns to easily change components of the workflow without having to implement technical updates.",
+    "url": "https://www.redbird.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Redbird simplified and automated the complexities of our analytics needs as a startup — giving us enterprise-grade data capabilities without the engineering overhead.\"",
+    "url": "https://www.redbird.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Use the Redbird SaaS tool in the cloud or run it on-premises inside your own infrastructure. Redbird supports full on-prem deployments for organizations with strict data residency and governance requirements.",
+    "url": "https://www.redbird.io/",
+    "pass": 1
+   },
+   {
+    "quote": "entire manufacturing enterprise.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Redbird automates the production reporting, quality monitoring, supply chain analytics, and financial workflows that manufacturing companies depend on — delivering the operational clarity that drives efficiency, reduces downtime, and keeps the business running at full capacity.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing companies generate operational data continuously — but turning it into timely decisions is still a largely manual process.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Production data lives in the MES. Quality data is in a separate QMS. Maintenance records are in a CMMS. ERP holds the financial picture. Getting a unified view of plant performance requires pulling from all of them manually — a process that repeats every shift, every day, across every facility.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Production reports, OEE summaries, quality scorecards, and maintenance logs are essential but largely mechanical work — the same structure, the same calculations, applied to new data every cycle. Most manufacturing organizations still rebuild them by hand, consuming analyst and engineer time that should go toward improvement initiatives.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "AI workflow automation that connects plant systems, automates operational reporting, and surfaces exceptions before they become problems.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Operations",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate production performance reporting — output vs. plan, OEE, cycle time, throughput by line and product — generated automatically at the end of every shift and every day without manual data assembly. Operations leaders start each shift with a current, accurate picture of where they stand.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor quality data against defined control limits on a continuous basis, automatically flag deviations when thresholds are breached, and generate structured quality exception reports for the quality team — before issues cascade into larger yield or compliance problems.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect supply chain and inventory data to production schedules, monitor vendor on-time delivery and material availability, and generate automated shortage risk reports for production planning and procurement — replacing the manual daily data chase with automated visibility.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate maintenance performance reporting — MTBF, MTTR, PM compliance, downtime analysis by cause and asset — giving reliability teams the consistent data they need to move from reactive to predictive maintenance strategies.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect production, labor, and materials data to financial systems to automate cost per unit, variance analysis, and management reporting across plants and product lines. Finance teams get the operational cost visibility they need without depending on manual plant-level data submissions.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to bring real-time operational visibility to your manufacturing enterprise?",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing companies use Redbird to automate production reporting, quality monitoring, and supply chain analytics — across every plant, every shift, every day.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Redbird automates the repetitive data work that consumes your team's time — so analysts can focus on insight, not data prep.",
+    "url": "https://www.redbird.io/solutions/analytics/",
+    "pass": 1
+   },
+   {
+    "quote": "Every team in the company wants data faster than your team can deliver it. You can't hire your way out — you need to multiply what your existing analysts can do.",
+    "url": "https://www.redbird.io/solutions/analytics/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect to any data source — cloud warehouses, SaaS tools, spreadsheets, APIs — without writing ETL pipelines. Redbird handles ingestion through natural language instructions.",
+    "url": "https://www.redbird.io/solutions/analytics/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically join and reconcile data from multiple systems — CRM, warehouse, spreadsheets — surface discrepancies, and deliver a clean merged dataset.",
+    "url": "https://www.redbird.io/solutions/analytics/",
+    "pass": 1
+   },
+   {
+    "quote": "Define customer or user segments in plain language, apply consistent logic across time periods, and generate comparison outputs ready for presentation.",
+    "url": "https://www.redbird.io/solutions/analytics/",
+    "pass": 1
+   },
+   {
+    "quote": "Ingest data from multiple external and internal sources, normalize the formats, run comparisons, and produce a structured benchmarking output on demand.",
+    "url": "https://www.redbird.io/solutions/analytics/",
+    "pass": 1
+   },
+   {
+    "quote": "Redbird automates the data collection, cleaning, research, and synthesis work that slows research teams down — so you can spend your time on interpretation, not preparation.",
+    "url": "https://www.redbird.io/solutions/research-insights/",
+    "pass": 1
+   },
+   {
+    "quote": "Research teams produce great thinking — but spend most of their time on the manual research process, not the insight",
+    "url": "https://www.redbird.io/solutions/research-insights/",
+    "pass": 1
+   },
+   {
+    "quote": "Collecting data from survey tools, syndicated panel sources, research reports, and internal databases takes days before analysis can even begin. Every project starts with the same painful setup.",
+    "url": "https://www.redbird.io/solutions/research-insights/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliverables are labor-intensive to produce",
+    "url": "https://www.redbird.io/solutions/research-insights/",
+    "pass": 1
+   },
+   {
+    "quote": "Turning analysis into polished client-ready or exec-ready presentations requires hours of formatting, charting, and copy-writing that doesn't require your expertise — but consumes your time anyway.",
+    "url": "https://www.redbird.io/solutions/research-insights/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated data prep and harmonization",
+    "url": "https://www.redbird.io/solutions/research-insights/",
+    "pass": 1
+   },
+   {
+    "quote": "Build once, rerun forever. Define your standard analytical approach — crosstabs, trend lines, segment comparisons — and Redbird applies the same logic to fresh data on each cycle.",
+    "url": "https://www.redbird.io/solutions/research-insights/",
+    "pass": 1
+   },
+   {
+    "quote": "Narrative and presentation output",
+    "url": "https://www.redbird.io/solutions/research-insights/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate structured research summaries, PowerPoint presentations, and written reports directly from your workflow. Redbird drafts the research deliverable; you apply the expertise.",
+    "url": "https://www.redbird.io/solutions/research-insights/",
+    "pass": 1
+   },
+   {
+    "quote": "Repeatable research products",
+    "url": "https://www.redbird.io/solutions/research-insights/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn one-off research projects into scalable, recurring deliverables. Build the workflow once and let stakeholders trigger fresh runs on demand — without the research team lifting a finger each time.",
+    "url": "https://www.redbird.io/solutions/research-insights/",
+    "pass": 1
+   },
+   {
+    "quote": "Survey data processing pipeline",
+    "url": "https://www.redbird.io/solutions/research-insights/",
+    "pass": 1
+   },
+   {
+    "quote": "Pull survey results, combine with behavioral data from CRM and web analytics, run standard crosstabs and trend analysis, and produce a formatted report deck — automatically each month.",
+    "url": "https://www.redbird.io/solutions/research-insights/",
+    "pass": 1
+   },
+   {
+    "quote": "Aggregate data from multiple competitive intelligence sources, normalize formats, and produce a structured comparison output with key takeaways highlighted.",
+    "url": "https://www.redbird.io/solutions/research-insights/",
+    "pass": 1
+   },
+   {
+    "quote": "Increased volume of research projects serviceable by the same team",
+    "url": "https://www.redbird.io/solutions/research-insights/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Solutions — Redbird AI",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Prove it. Do more of it.",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Redbird automates campaign reporting, performance analysis, and cross-channel data synthesis — so marketers spend less time in spreadsheets and more time on strategy.",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Your marketing data is scattered across every tool in your stack. Making sense of all of it is a full-time job.",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Your paid media lives in Google Ads. Social is in Meta. Email is in Marketo. CRM is in Salesforce. Getting a unified view requires exporting from each platform, reformatting, and stitching together manually — every week.",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Weekly campaign reports, monthly performance decks, quarterly CMO presentations — each one is rebuilt from scratch. Minor methodology changes mean hours of rework.",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Without a systematic, repeatable approach to attribution, every marketing conversation devolves into a debate about which channel gets credit. You need defensible, consistent analysis that doesn't take months to build.",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "AI that unifies your marketing data and automates the analysis",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Pull data from every marketing platform — paid search, paid social, email, CRM, web analytics, and more — into a single automated workflow. No more manual exports.",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Attribution and marketing mix modeling",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Build and run consistent multi-touch attribution models and Marketing Mix Models (MMM) across your full funnel and channel mix. The same methodology applied every time — comparable, defensible, and ready for budget planning conversations.",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Common marketing workflows, automated end to end",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Ingest impression, click, and conversion data from every touchpoint, apply a consistent attribution methodology, and produce a weekly or monthly credit allocation report by channel.",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing mix modeling (MMM)",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Ingest historical spend, sales, and macro-level variables across all paid channels, run a marketing mix model to estimate the revenue contribution of each channel, and produce a formatted budget allocation report — ready for quarterly planning and investment decisions.",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Monthly marketing dashboard refresh",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically update a unified marketing KPI dashboard — reach, engagement, pipeline generated, revenue attributed — with fresh data pulled from all connected platforms.",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Combine KPI data, trend analysis, and narrative context into a formatted executive presentation — generated from your data, ready for review and final edits.",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "PPT, Excel, Word, Email, Interactive Web Apps",
+    "url": "https://www.redbird.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Your paid media lives in Google Ads. Social is in Meta. Email is in Marketo. CRM is in Salesforce. Getting a unified view requires exporting from each platform, reformatting, and stitching together manually — every week.",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Pull data from every marketing platform — paid search, paid social, email, CRM, web analytics, and more — into a single automated workflow. No more manual exports.",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Email performance analysis",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Pull send, open, click, and conversion data from your email platform, segment by list and campaign type, identify top and bottom performers, and surface optimization recommendations.",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Managing sequences, tracking responses, and following up across email and other channels involves more manual process work than it should — slowing the top of funnel down and making it harder to run outreach at scale.",
+    "url": "https://www.redbird.io/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate the operational work around outreach through RPA and tool integrations — sequencing, follow-up tracking, and response monitoring across email and other channels — so reps spend their time on conversations, not coordination.",
+    "url": "https://www.redbird.io/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "Pull and analyze topics found in unstructured text across the pipeline — outbound emails, sales call transcripts, CRM notes, and customer support interactions. Identify what generates leads, closes customers, and reduces churn.",
+    "url": "https://www.redbird.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor accounts against defined risk thresholds and automatically generate at-risk alerts when accounts breach a threshold — delivered to the CSM and their manager in real time via email or Slack.",
+    "url": "https://www.redbird.io/solutions/customer-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Business users need more than a static dashboard — they need formatted reports, email-ready summaries, contextual explanations, and self-serve AI chat. Building and maintaining those outputs is a constant overhead.",
+    "url": "https://www.redbird.io/solutions/bi/",
+    "pass": 1
+   },
+   {
+    "quote": "Push outputs to wherever stakeholders need them — formatted Excel workbooks, PowerPoint decks, Word documents, email summaries, or inputs to your BI platform — automatically.",
+    "url": "https://www.redbird.io/solutions/bi/",
+    "pass": 1
+   },
+   {
+    "quote": "Your email address will not be published.",
+    "url": "https://milanreports.com/2026/11/07/redbird-set-to-enter-japan-with-new-investment-fund-backed-by-japanese-bank/",
+    "pass": 3
+   },
+   {
+    "quote": "Save my name, email, and website in this browser for the next time I comment.",
+    "url": "https://milanreports.com/2026/11/07/redbird-set-to-enter-japan-with-new-investment-fund-backed-by-japanese-bank/",
+    "pass": 3
+   },
+   {
+    "quote": "Please enter your username or email address to reset your password.",
+    "url": "https://milanreports.com/2026/11/07/redbird-set-to-enter-japan-with-new-investment-fund-backed-by-japanese-bank/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/redbird/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/redbird/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/507433-15",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Manufacturing Solutions — Redbird AI",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "entire manufacturing enterprise.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Redbird automates the production reporting, quality monitoring, supply chain analytics, and financial workflows that manufacturing companies depend on — delivering the operational clarity that drives efficiency, reduces downtime, and keeps the business running at full capacity.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The Manufacturing Challenge",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing companies generate operational data continuously — but turning it into timely decisions is still a largely manual process.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Operational data is siloed across plant systems",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Production data lives in the MES. Quality data is in a separate QMS. Maintenance records are in a CMMS. ERP holds the financial picture. Getting a unified view of plant performance requires pulling from all of them manually — a process that repeats every shift, every day, across every facility.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Production reports, OEE summaries, quality scorecards, and maintenance logs are essential but largely mechanical work — the same structure, the same calculations, applied to new data every cycle. Most manufacturing organizations still rebuild them by hand, consuming analyst and engineer time that should go toward improvement initiatives.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "What Redbird does for manufacturing companies",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "AI workflow automation that connects plant systems, automates operational reporting, and surfaces exceptions before they become problems.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect production, labor, and materials data to financial systems to automate cost per unit, variance analysis, and management reporting across plants and product lines. Finance teams get the operational cost visibility they need without depending on manual plant-level data submissions.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Connects to the manufacturing systems and plant infrastructure your organization already uses",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Rockwell FactoryTalk MES",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to bring real-time operational visibility to your manufacturing enterprise?",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing companies use Redbird to automate production reporting, quality monitoring, and supply chain analytics — across every plant, every shift, every day.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect to any data source — cloud warehouses, SaaS tools, spreadsheets, APIs — without writing ETL pipelines. Redbird handles ingestion through natural language instructions.",
+    "url": "https://www.redbird.io/solutions/analytics/",
+    "pass": 1
+   },
+   {
+    "quote": "Pull KPIs from your data warehouse, compare against targets, flag anomalies, and publish a formatted executive summary — on a fixed schedule, with zero manual effort.",
+    "url": "https://www.redbird.io/solutions/analytics/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically join and reconcile data from multiple systems — CRM, warehouse, spreadsheets — surface discrepancies, and deliver a clean merged dataset.",
+    "url": "https://www.redbird.io/solutions/analytics/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect to any data source — warehouse, database, SaaS tool, flat file — and build automated transformation workflows that run on a schedule. Redbird handles the ETL so you don't have to.",
+    "url": "https://www.redbird.io/solutions/bi/",
+    "pass": 1
+   },
+   {
+    "quote": "Data warehouse to BI tool pipeline",
+    "url": "https://www.redbird.io/solutions/bi/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate the extraction, transformation, and loading of data from source systems into your data warehouse or BI platform — keeping analytical data fresh without manual intervention.",
+    "url": "https://www.redbird.io/solutions/bi/",
+    "pass": 1
+   },
+   {
+    "quote": "Join data from multiple sources that can't be connected directly in your BI tool — combining warehouse data with API sources, flat files, or external data feeds — and deliver a clean, merged dataset.",
+    "url": "https://www.redbird.io/solutions/bi/",
+    "pass": 1
+   },
+   {
+    "quote": "From data warehouses and BI platforms to transformation tools and storage — Redbird fits into your existing stack without replacing it.",
+    "url": "https://www.redbird.io/solutions/bi/",
+    "pass": 1
+   },
+   {
+    "quote": "Without a layer between the data platform and business users, every data need routes through the data team. Self-service BI helps with structured data already in the warehouse — but new connectors, unstructured ingestion, or multi-source requests still require engineering support.",
+    "url": "https://www.redbird.io/solutions/data/",
+    "pass": 1
+   },
+   {
+    "quote": "Pull data from multiple APIs and databases on a scheduled basis, apply normalization and cleaning logic, and load structured outputs into your data warehouse — with automatic error detection and repair.",
+    "url": "https://www.redbird.io/solutions/data/",
+    "pass": 1
+   },
+   {
+    "quote": "Ingest unstructured data sources, extract structured fields from documents and files, and deliver clean structured data on a schedule for use downstream in your warehouse or other pipelines.",
+    "url": "https://www.redbird.io/solutions/data/",
+    "pass": 1
+   },
+   {
+    "quote": "Redbird Case Study: Staples – Staples - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/redbird/case-study/staples-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Staples - Customer Case Study",
+    "url": "https://www.casestudies.com/company/redbird/case-study/staples-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Staples used Redbird",
+    "url": "https://www.casestudies.com/company/redbird/case-study/staples-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/redbird/case-study/staples-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/redbird/case-study/staples-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Redbird Case Study: Exploratorium – Exploratorium - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/redbird/case-study/exploratorium-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Exploratorium - Customer Case Study",
+    "url": "https://www.casestudies.com/company/redbird/case-study/exploratorium-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Exploratorium used Redbird",
+    "url": "https://www.casestudies.com/company/redbird/case-study/exploratorium-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/redbird/case-study/exploratorium-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/redbird/case-study/exploratorium-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "PG&E - Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/redbird/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "KPCC - Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/redbird/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/redbird/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Founders Factory Africa",
+    "url": "https://startupintros.com/orgs/redbird",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Narrative and presentation output",
+    "url": "https://www.redbird.io/solutions/research-insights/",
+    "pass": 1
+   },
+   {
+    "quote": "Ingest historical spend, sales, and macro-level variables across all paid channels, run a marketing mix model to estimate the revenue contribution of each channel, and produce a formatted budget allocation report — ready for quarterly planning and investment decisions.",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically update a unified marketing KPI dashboard — reach, engagement, pipeline generated, revenue attributed — with fresh data pulled from all connected platforms.",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Combine KPI data, trend analysis, and narrative context into a formatted executive presentation — generated from your data, ready for review and final edits.",
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically update financial charts, KPI tables, and narrative commentary in a board-ready PowerPoint deck with the latest actuals every reporting period.",
+    "url": "https://www.redbird.io/solutions/finance/",
+    "pass": 1
+   },
+   {
+    "quote": "Understanding which outreach approaches convert, which rep behaviors correlate with wins, and where the funnel is leaking requires analysis that most sales teams depend on analysts to build — meaning the insights arrive too late to change behavior in the current quarter.",
+    "url": "https://www.redbird.io/solutions/sales/",
+    "pass": 1
+   },
+   {
+    "quote": "For Revenue Operations Teams",
+    "url": "https://www.redbird.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "One version of revenue truth.",
+    "url": "https://www.redbird.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Redbird automates the data pipelines, reporting workflows, and cross-functional analyses that RevOps teams are responsible for — so you can focus on optimizing the revenue engine, not switching between 100 tools and maintaining messy spreadsheets.",
+    "url": "https://www.redbird.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents that automate the RevOps data layer — so you can focus on revenue strategy",
+    "url": "https://www.redbird.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Unified revenue reporting and analytics",
+    "url": "https://www.redbird.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Build a single source of truth for reporting and analytics on your pipeline, bookings, ARR, churn, and GTM performance — generated automatically and consistently from all connected systems.",
+    "url": "https://www.redbird.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue forecast consolidation",
+    "url": "https://www.redbird.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Combine sales team commit data, stage-weighted pipeline, and historical close rates into a unified revenue forecast — updated automatically as CRM data changes.",
+    "url": "https://www.redbird.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing-to-revenue attribution report",
+    "url": "https://www.redbird.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Pull campaign data from the marketing platform, join to CRM opportunity records, apply multi-touch attribution logic, and produce a monthly revenue attribution summary by channel and program.",
+    "url": "https://www.redbird.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "ARR and churn reporting",
+    "url": "https://www.redbird.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate monthly ARR movement reporting — new business, expansion, contraction, churn — pulling from the billing system and CRM and generating a formatted waterfall output.",
+    "url": "https://www.redbird.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Combine headcount data, ramp assumptions, and quota assignments to model revenue capacity by quarter — updated automatically as the team changes.",
+    "url": "https://www.redbird.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Connects to every tool in your revenue operations stack",
+    "url": "https://www.redbird.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to automate your revenue operations data layer?",
+    "url": "https://www.redbird.io/solutions/revops/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate GRR, NRR, churn rate, and expansion revenue reporting for CS leadership — generated consistently from CRM and billing data with no manual assembly.",
+    "url": "https://www.redbird.io/solutions/customer-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Calculate GRR, NRR, churn rate, expansion ARR, and QBR completion rate from CRM and billing data — automatically generated as a formatted leadership report each month.",
+    "url": "https://www.redbird.io/solutions/customer-success/",
+    "pass": 1
+   },
+   {
+    "quote": "Pull user cohort data, calculate week-over-week or month-over-month retention curves by acquisition channel or product segment, and generate a retention report with trend analysis.",
+    "url": "https://www.redbird.io/solutions/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Pull performance ratings, compensation data, and promotion history for all employees and generate a structured calibration data pack by department — ready for manager review meetings.",
+    "url": "https://www.redbird.io/solutions/hr/",
+    "pass": 1
+   },
+   {
+    "quote": "Pull inbound shipment data from the 3PL or TMS, calculate on-time arrival rates, flag late or at-risk shipments, and generate a daily inbound status report for the logistics team.",
+    "url": "https://www.redbird.io/solutions/supply-chain/",
+    "pass": 1
+   },
+   {
+    "quote": "Turning analysis into executive-ready presentations requires hours of chart-building, slide formatting, and narrative structuring that doesn't require strategic expertise — but consumes the time of the people who have it.",
+    "url": "https://www.redbird.io/solutions/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate formatted executive strategy decks — structured narrative, charts, and data tables — directly from your analysis workflow. Strategy teams review and refine; Redbird handles the production.",
+    "url": "https://www.redbird.io/solutions/strategy/",
+    "pass": 1
+   },
+   {
+    "quote": "日本のプロ野球やJリーグの大半は事業会社の子会社である",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird will provide the Land of the Rising Sun with its expertise in leveraging intellectual property and its know-how in using data acquired through the management of numerous sports teams, including AC Milan, as relayed via",
+    "url": "https://milanreports.com/2026/11/07/redbird-set-to-enter-japan-with-new-investment-fund-backed-by-japanese-bank/",
+    "pass": 3
+   },
+   {
+    "quote": "Piatek: “I left Milan because Ibra arrived”",
+    "url": "https://milanreports.com/2026/11/07/redbird-set-to-enter-japan-with-new-investment-fund-backed-by-japanese-bank/",
+    "pass": 3
+   },
+   {
+    "quote": "Milan targeting two top players: Inácio and Gusto shortlisted, Scamacca interest reported",
+    "url": "https://milanreports.com/2026/11/07/redbird-set-to-enter-japan-with-new-investment-fund-backed-by-japanese-bank/",
+    "pass": 3
+   },
+   {
+    "quote": "Credits by Parrotto Web Solution",
+    "url": "https://milanreports.com/2026/11/07/redbird-set-to-enter-japan-with-new-investment-fund-backed-by-japanese-bank/",
+    "pass": 3
+   },
+   {
+    "quote": "Italian soccer club owned by RedBird",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird plans to apply intellectual property and data expertise from operating teams including AC Milan to raise revenue in Japan's sports industry, according to the report.",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "Firm specializes in using data, intellectual property to boost revenue steams",
+    "url": "https://asia.nikkei.com/spotlight/sports/us-sports-investment-fund-redbird-hunts-for-tie-ups-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Kei Nishikori bows out of tennis after breaking barriers for Asia",
+    "url": "https://asia.nikkei.com/spotlight/sports/us-sports-investment-fund-redbird-hunts-for-tie-ups-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "The Martin Agency is a full-service agency with unified capabilities in advertising, strategic planning, direct response, digital, data analytics, design and branded content. The Martin Agency is over 500 employees …",
+    "url": "https://www.featuredcustomers.com/vendor/redbird/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/redbird/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/507433-15",
+    "pass": 3
+   },
+   {
+    "quote": "Redbird has 40 total employees.",
+    "url": "https://pitchbook.com/profiles/company/507433-15",
+    "pass": 3
+   },
+   {
+    "quote": "What is Redbird’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/507433-15",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Redbird is",
+    "url": "https://pitchbook.com/profiles/company/507433-15",
+    "pass": 3
+   },
+   {
+    "quote": "In other words, this fund invests in every layer of the sports value chain—teams, leagues, players' association IP, broadcasting rights, and studios—and teams are just one part of that. Because of this lineup, their team acquisitions take a different form than ordinary ones.",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The lesson from this deal is that in sports team acquisitions, 'who the seller is and what state the seller is in' determines the structure. An owner with no reason to keep holding on cares as much about 'how to exit' as they do about the price. That is where a structural winning strategy is born.",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A case where RedBird's philosophy was more clearly demonstrated was not a team acquisition, but OneTeam Partners, established in 2019. This approach is extremely interesting.",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If so, the same upside can be captured regardless of which franchise is bought. In that case, a minority stake in the cheapest franchise is fine. The acquisition of the Royals was like buying a call option on the league's overall media rights at the cheapest premium.",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "日本のプロ野球やJリーグの大半は事業会社の子会社である",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "11月7日、日本経済新聞が「ACミランを所有する世界最大級のスポーツファンドが日本に進出する」と報じた",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "ACミランを所有の世界最大級スポーツファンド、日本進出 政投銀出資 - 日本経済新聞",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "スポーツ投資で世界最大級の米ファンドが日本に進出する",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "日本政策投資銀行が近く出資し、橋渡し役になる",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "日本事業を始めるのはスポーツやメディア領域に特化する投資会社、米レッドバード・キャピタル・パートナーズ",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "米RedBird Capital Partnersが日本事業を開始し、日本政策投資銀行が同社のファンドに近く出資して橋渡し役を担う",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "見出しだけ読めば、「海外の大手ファンドが日本の球団を買いに来る」と受け取った人も少なくないと思う",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "政策投資銀行の出資額や日本での具体的な投資対象は、本稿執筆時点では明らかになっていない",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "ゆえに、この記事では、彼らが欧米で何をどうやってきたかを三つの勝ちパターンに整理し、そこから「日本では何をしそうか」を想像してみたいと思う",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "日本を考えるうえで、これが最も近い類例だと思う",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし上の三つのパターンを日本の市場に当てはめると、かなり具体的な可能性が見えてくる",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "日本で起きそうなのはパターンとして①があげられる",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のプロ野球やJリーグの大半は事業会社の子会社である",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "高い額面を付けつつ、親会社が一部を貸したり少数持分を残したり、スポンサーとして残ったりする構造は、日本の親会社の「面子と実利」を両立させられる",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のスポーツには「束ねられていない権利」が欧米以上にある",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の放映権は、競技の質やファンの数と比べると伸び代があると言う見方もできる",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "巨大な注目を集めながら商業化がほとんど進んでいないIPが、日本にはたくさんある",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "そちらはオーナー会議の承認を必要とせず、出口は日本の機関投資家やグローバルの配信事業者に作れるかもしれない",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のスポーツ界がこのニュースをどう受け止めるべきか",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "チームの周りにあるものの多くが、日本ではまだ事業の形をしていない",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "RedBirdが日本で最初に手を付けたいのは、おそらくそこにあると想像できる",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "RedBirdの日本での最初の案件が見えた時点で、この想像がどこまで当たっていたかをまた検証していきたい",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社10X 取締役CFO",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバルのスポーツチームやIPに投資する巨大ファンド、RedBird Capitalが日本に進出すると言うビッグニュースが飛び込んできました",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のスポーツ関連資産の流動化やバリューアップはまだまだお大きな余地があるので、これも一つの契機にまた新しい投資や事業が生まれ、成長していくと良いなと思い、RedBirdのユニークな投資戦略や日本のどこに注目しそうかと言う想像を記事にしました",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird Capital Partnersが運営するファンドへの出資について-スポーツ・メディア・エンターテインメント領域における 成長投資の促進に向けて- | 株式会社日本政策投資銀行",
+    "url": "https://www.dbj.jp/news/20261109_7444.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日本政策投資銀行（以下「DBJ」という",
+    "url": "https://www.dbj.jp/news/20261109_7444.html",
+    "pass": 3
+   },
+   {
+    "quote": "DBJは、当ファンドへの出資を通じて投資収益の獲得を図るとともに、RedBirdが海外で培ってきた投資、事業運営及び価値向上に関する知見を日本に還元することに挑戦します",
+    "url": "https://www.dbj.jp/news/20261109_7444.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、DBJが有する国内の事業者、リーグ、クラブ、地域及び金融機関などとのネットワークを活用し、わが国のスポーツの産業化に寄与するべく、制度改革や商慣行の変革、日本社会の特性に適したスポーツ・エンターテインメント事業及び投資機会の創出に取り組んでまいります",
+    "url": "https://www.dbj.jp/news/20261109_7444.html",
+    "pass": 3
+   },
+   {
+    "quote": "・投資調査部、産業・地域調査部、企業金融第6部「日本社会に適したスポーツ産業の成長加速に向けて」",
+    "url": "https://www.dbj.jp/news/20261109_7444.html",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird set to enter Japan with new investment fund backed by Japanese bank",
+    "url": "https://milanreports.com/2026/11/07/redbird-set-to-enter-japan-with-new-investment-fund-backed-by-japanese-bank/",
+    "pass": 3
+   },
+   {
+    "quote": "One of the largest US investment funds in the world in the sports sector is about to enter Japan. Nikkei, a major Japanese financial newspaper, reports that the Japan Development Bank (Development Bank of Japan, DBJ) will soon invest in a fund managed by RedBird and act as an intermediary.",
+    "url": "https://milanreports.com/2026/11/07/redbird-set-to-enter-japan-with-new-investment-fund-backed-by-japanese-bank/",
+    "pass": 3
+   },
+   {
+    "quote": ". Gerry Cardinale's fund intends to strengthen the Japanese sports world's \"ability to generate profits\".",
+    "url": "https://milanreports.com/2026/11/07/redbird-set-to-enter-japan-with-new-investment-fund-backed-by-japanese-bank/",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird to enter Japan sports market with Development Bank of Japan backing | PiQ Markets",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird to enter Japan sports market with Development Bank of Japan backing",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird Capital Partners is set to enter the Japanese sports market with backing from the Development Bank of Japan, Nikkei reported on November 7, 2026. The US firm, which owns Italian soccer club AC Milan, plans to use intellectual property and data expertise from operating teams to raise the earning power of Japan's sports industry. The size of the investment was not disclosed.",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "US sports investment firm entering Japan",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "Development Bank of Japan",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese bank backing RedBird's entry",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird's entry gives Japan's sports teams access to a firm that has run AC Milan and other sports properties, with the Development Bank of Japan investing in a RedBird-managed fund and acting as intermediary. The size of that investment was not disclosed.",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird Capital Partners is set to enter Japan with backing from the Development Bank of Japan, Nikkei reported.",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird Capital Partners, a US investment firm focused on sports and media, is set to enter the Japanese market with backing from the Development Bank of Japan, Nikkei reported on November 7, 2026. The bank will invest in a fund managed by RedBird and act as an intermediary, according to the report.",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "The firm plans to draw on intellectual property and data expertise gained from operating sports teams, including Italian soccer club AC Milan, to raise the earning power of Japan's sports industry. RedBird was founded by Gerry Cardinale.",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "The size of the Development Bank of Japan investment and the timing of the fund's launch were not disclosed. The report did not name any Japanese team, league or venue RedBird would work with.",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "What role will the Development Bank of Japan play?",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "The Development Bank of Japan will invest in a RedBird-managed fund and act as an intermediary for the firm's entry into the Japanese market, Nikkei reported.",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "What expertise does RedBird plan to bring to Japan?",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird plans to apply intellectual property and data expertise from operating teams including AC Milan to raise revenue in Japan's sports industry, according to the report.",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird Capital Partners agreed to enter the Japanese sports market with backing from the Development Bank of Japan, Nikkei reported on November 7, 2026.",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "US sports investment fund RedBird hunts for tie-ups in Japan",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "Acミランを所有の世界最大級スポーツファンド、日本進出 政投銀出資",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "Japan trading houses warn of uncertainty after US midterms",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "McDonald's Japan adds three chicken sandwiches after five-year development",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's Kiuchi brewery wins awards for high-end whisky",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "Japan-linked startups expand cold food distribution in Malaysia, Vietnam",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "Japan hotels and travel agencies expand services for Indian tourists",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "Don Quijote owner Pan Pacific plans to triple Toys R Us product lineup in Japan",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "US sports investment fund RedBird hunts for tie-ups in Japan - Nikkei Asia",
+    "url": "https://asia.nikkei.com/spotlight/sports/us-sports-investment-fund-redbird-hunts-for-tie-ups-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "US sports investment fund RedBird hunts for tie-ups in Japan",
+    "url": "https://asia.nikkei.com/spotlight/sports/us-sports-investment-fund-redbird-hunts-for-tie-ups-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird Capital Partners, which owns European soccer club AC Milan, will enter the Japanese market with backing from the Development Bank of Japan. (Source photos by AP and Nikkei)",
+    "url": "https://asia.nikkei.com/spotlight/sports/us-sports-investment-fund-redbird-hunts-for-tie-ups-in-japan",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Japan hotels and travel agencies expand services for Indian tourists",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "Your brand values and vision are blended with our high standards to create more than just merchandise, but community & belonging. We deliver personalized solutions to every client, understanding that a “one size fits all” approach doesn’t meet the needs of your unique brand.",
+    "url": "https://www.redbird.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Redbird is your all-in-one resource for comprehensive branding solutions, offering everything from creative ideation to global distribution. Our end-to-end services are designed to meet your unique needs, streamline your operations, and elevate your brand with high-quality branded merchandise.",
+    "url": "https://www.redbird.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Whether it’s specialty products, trending apparel, or promotional items, we customize everything to meet your brand’s specific goals. With access to over 3,000 suppliers, the possibilities are endless.",
+    "url": "https://www.redbird.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Redbird is your all-in-one resource for comprehensive branding solutions, offering everything from creative ideation to global distribution. Our end-to-end services are designed to meet your unique needs, streamline your operations, and elevate your brand.",
+    "url": "https://www.redbird.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Going beyond just a logo, exceptional custom merchandise can be created by understanding your audience and reflecting your brand identity through thoughtful design choice.",
+    "url": "https://www.redbird.co/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ACミランのオーナーが日本に来る。RedBird Capitalという「ただ球団を... — 4 days ago · 11月7日、日本経済新聞が「ACミランを所有する世界最大級のスポーツファンドが日本に進出する」と報じた。 米RedBird Capital Partnersが日本事業を開始し、日本政策投資銀行が同社のファンドに近く出資して橋渡し役を担う。ACミランをはじめとするチーム運営で得たIPとデータ活用のノウハウで ...",
+    "url": "https://newspicks.com/news/17859587/body/",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird Capital Partnersが運営するファンドへの出資について — 2 days ago · RedBird Capital Partnersが運営するファンドへの出資について-スポーツ・メディア・エンターテインメント領域における 成長投資の促進に向けて-のページです。日本政策投資銀行は「金融力で未来をデザインします」を企業理念として、中立的な立場を維持しつつ、経済価値と社会貢献を創造して ...",
+    "url": "https://www.dbj.jp/news/20261109_7444.html",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird set to enter Japan with new investment fund backed by ... — 4 days ago · One of the largest US investment funds in the world in the sports sector is about to enter Japan. Nikkei, a major Japanese financial newspaper, reports that the Japan Development Bank (Development Bank of Japan, DBJ) will soon invest in a fund managed by RedBird and act as an intermediary. RedBird ...",
+    "url": "https://milanreports.com/2026/11/07/redbird-set-to-enter-japan-with-new-investment-fund-backed-by-japanese-bank/",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird to enter Japan sports market with Development Bank of ... — 4 days ago · IN SHORT RedBird Capital Partners is set to enter the Japanese sports market with backing from the Development Bank of Japan, Nikkei reported on November 7, 2026. The US firm, which owns Italian soccer club AC Milan, plans to use intellectual property and data expertise from operating teams to raise the earning power ",
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "pass": 3
+   },
+   {
+    "quote": "2026年11月8日付｜日経新聞深読み｜スポーツは「応援するもの」から「... — 3 days ago · 参考資料 日本経済新聞「ACミランを所有の世界最大級スポーツファンド、日本進出 政投銀出資」 日本政策投資銀行（DBJ） RedBird Capital Partners AC Milan スポーツ庁 経済産業省「スポーツ未来開拓会議」 MLB公式サイト Jリーグ公式サイト 日経新聞深読み シェアする X しゅりはんをフォローする ...",
+    "url": "https://shinbunlab.com/nikkei-deepread-20261107/",
+    "pass": 3
+   },
+   {
+    "quote": "Redbird｜Homepage — Redbird excels in customizing products that elevate brand presence and bring community to teams.",
+    "url": "https://www.redbird.co/",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird Capital Partners | Building Exceptional Businesses ... — RedBird builds companies in partnership with leading entrepreneurs and holders of the world's most iconic intellectual property.",
+    "url": "https://redbirdcap.com/",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird set to enter Japan with new investment fund backed by ... — 4 days ago · RedBird will provide the Land of the Rising Sun with its expertise in leveraging intellectual property and its know-how in using data acquired through the management of numerous sports teams, including AC Milan, as relayed via Milan News. Gerry Cardinale's fund intends to strengthen the Japanese sports world's \"abilit",
+    "url": "https://milanreports.com/2026/11/07/redbird-set-to-enter-japan-with-new-investment-fund-backed-by-japanese-bank/",
+    "pass": 3
+   },
+   {
+    "quote": "US sports investment fund RedBird hunts for tie-ups in Japan — 3 days ago · TOKYO -- Sports-focused investment firm RedBird Capital Partners is set to enter Japan, seeking to leverage its talent for intellectual property monetization and data-driven fan engagement to lift ...",
+    "url": "https://asia.nikkei.com/spotlight/sports/us-sports-investment-fund-redbird-hunts-for-tie-ups-in-japan",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird to enter Japan as Development Bank of Japan invests ... — 3 days ago · Nikkei reports the Development Bank of Japan will invest in a RedBird-managed fund and act as intermediary, with the Milan owner bringing IP and data expertise to Japan.",
+    "url": "https://m.dongqiudi.com/en/news/147092",
+    "pass": 3
+   },
+   {
+    "quote": "Redbird Case Study: Staples – Staples - Customer Case Study ... — Staples (Business Supplies and Equipment) partnered with Redbird to solve key challenges. \"Staples - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/redbird/case-study/staples-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Redbird Case Study: Exploratorium – Exploratorium - Customer ... — Exploratorium (Museums and Institutions) partnered with Redbird to solve key challenges. \"Exploratorium - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/redbird/case-study/exploratorium-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Solutions — Redbird AI — Real-time operational visibility across your entire manufacturing enterprise. Redbird automates the production reporting, quality monitoring, supply chain analytics, and financial workflows that manufacturing companies depend on — delivering the operational clarity that drives efficiency, reduces downtime, and keeps the business running at full capacity.",
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "12 Redbird Case Studies, Success Stories, & Customer Stories — Redbird has a 4.8/5 star rating. Learn what their customers think, get 12 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/redbird/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Page 2 | The Redbird Group — case studies Learn about past projects. Case Study: Refiner Blades – Cutting through the Market with The Redbird Group Previous Page 1 Page2Next",
+    "url": "https://redbirdgroup.co/case-studies/2/",
+    "pass": 3
+   },
+   {
+    "quote": "Redbird – Funding, Acquisitions & Key Rivals – 2026 — The competitive landscape includes 5 similar companies vying for market share. Redbird expanded its team by 13% over the tracked period. From its New York City headquarters, Redbird competes in Software. With 53 employees generating $139.2K in revenue per person, the company shows strong productivity metrics. Founded 8 years ago, Redbird is pas",
+    "url": "https://compworth.com/company/redbird",
+    "pass": 3
+   },
+   {
+    "quote": "Redbird 2026 Company Profile: Valuation, Funding & Investors ...Redbird - 2026 Company Profile, Team, Funding & Competitors ...Redbird: Funding, Team & Investors | Startup IntrosRedbird - Overview, News & Similar companies | ZoomInfo.comRedbird — Funding, Investors & Team | SeedtableRedbird Revenue 2023: $5M Est. - LATKA — Information on valuation, funding, cap tables, investors, and executives fo",
+    "url": "https://pitchbook.com/profiles/company/507433-15",
+    "pass": 3
+   },
+   {
+    "quote": "Redbird - 2026 Company Profile, Team, Funding & Competitors ...Redbird: Funding, Team & Investors | Startup IntrosRedbird - Overview, News & Similar companies | ZoomInfo.comRedbird — Funding, Investors & Team | SeedtableRedbird Revenue 2023: $5M Est. - LATKA — Sep 29, 2026 · Redbird is a seed company based in New York City (United States), founded in 2005 by Erin Tavgac and Deren Tavgac. It operat",
+    "url": "https://tracxn.com/d/companies/redbird/__9E31v6ZQJ4vLcR_LkVPoln39mFXuXQLaTNrAs1Pbn1M",
+    "pass": 3
+   },
+   {
+    "quote": "Redbird: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded Redbird? Redbird was founded in 2018 by Deren Tavgac (Founder) and Erin Tavgac (Founder). How much funding has Redbird raised? Redbird has raised $9.5M in total across 2 funding rounds.",
+    "url": "https://startupintros.com/orgs/redbird",
+    "pass": 3
+   },
+   {
+    "quote": "Redbird - Overview, News & Similar companies | ZoomInfo.com — View Redbird (www.redbird.io) location in New York, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/redbird-software-inc/566131528",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "DBJ invests in US-based RedBird fund. How can Japanese clubs ... 2 days ago · What was announced on November 9 The Development Bank of Japan (DBJ) announced that it has invested in a fund managed by the US-based RedBird Capital Partners. The fund primarily targets investments in sports, media, and entertainment. DBJ has indicated a policy of bringing the investment and business management expertis",
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The owner of AC Milan is coming to Japan. The true nature of ... The US-based RedBird Capital Partners is launching its Japanese operations, and the Development Bank of Japan will soon invest in the firm's fund to act as a bridge. They aim to boost the 'earning power' of the domestic sports industry using IP and data utilization know-how gained from managing teams like AC Milan.",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ACミランのオーナーが日本に来る。RedBird Capitalという「ただ球団を... 4 days ago · RedBirdはNFL選手会とMLB選手会に、その権利を現物出資して共同で会社を作ろうと持ちかけた。 RedBirdは1.25億ドルの現金と経営人材を出し、40%を持った。 選手会は売り手ではなく株主になったので、権利の独占的な長期利用を容認できる。",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58",
+    "pass": 3
+   },
+   {
+    "quote": "米RedBirdのファンドに政投銀が出資。日本のクラブは、ファンの熱量を... 11月9日に発表されたこと 日本政策投資銀行（DBJ）は、米RedBird Capital Partnersが運営するファンドに出資したと発表しました。ファンドはスポーツ、メディア、エンターテインメントを主な投資対象としています。DBJは、RedBirdが海外で培った投資や事業運営の知見を日本に還元し、国内のリーグや ...",
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "DBJ invests in US-based RedBird fund. How can Japanese clubs cultivate fan passion into business?｜FanStadium｜スポーツ×ビジネス",
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "DBJ invests in US-based RedBird fund. How can Japanese clubs cultivate fan passion into business?",
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A person comes to watch a game for the first time and returns the following month. Can clubs and their sponsors work together to create the reasons for this? FanStadium considered this question in light of news surrounding a US sports investment firm.",
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What was announced on November 9",
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Development Bank of Japan (DBJ) announced that it has invested in a fund managed by the US-based RedBird Capital Partners. The fund primarily targets investments in sports, media, and entertainment. DBJ has indicated a policy of bringing the investment and business management expertise that RedBird has cultivated overseas back to Japan to create new business opportunities with domestic leagues",
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "DBJ official announcement",
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The numbers clubs should look at go beyond attendance figures",
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The owner of AC Milan is coming to Japan. The true nature of RedBird Capital, a fund that leads structural changes in the sports industry rather than 'just buying teams'｜Off-pitch Capital ~ 世界のスポーツファイナンスと事業戦略",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The owner of AC Milan is coming to Japan. The true nature of RedBird Capital, a fund that leads structural changes in the sports industry rather than 'just buying teams'",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Off-pitch Capital ~ 世界のスポーツファイナンスと事業戦略",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On November 7, the Nikkei reported that 'one of the world's largest sports funds, which owns AC Milan, is entering the Japanese market.'",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The US-based RedBird Capital Partners is launching its Japanese operations, and the Development Bank of Japan will soon invest in the firm's fund to act as a bridge. They aim to boost the 'earning power' of the domestic sports industry using IP and data utilization know-how gained from managing teams like AC Milan.",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you only read the headline, many people likely assumed that 'a major overseas fund is coming to buy Japanese sports teams.' However, when you look at the past deals of the fund called RedBird, a different side emerges. It is true that they buy sports teams. However, they have never simply bought one. There is always a structural mechanism and a path to victory in how they buy, and after the pur",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The amount of the Development Bank of Japan's investment and the specific investment targets in Japan have not been disclosed as of the time of this writing. Therefore, in this article, I would like to organize what they have done in the West into three winning patterns and imagine 'what they are likely to do in Japan' from there.",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ACミランのオーナーが日本に来る。RedBird Capitalという「ただ球団を買うだけではない」スポーツ業界の構造変化をリードするファンドの正体｜Off-pitch Capital ~ 世界のスポーツファイナンスと事業戦略",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58",
+    "pass": 3
+   },
+   {
+    "quote": "ACミランのオーナーが日本に来る。RedBird Capitalという「ただ球団を買うだけではない」スポーツ業界の構造変化をリードするファンドの正体",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58",
+    "pass": 3
+   },
+   {
+    "quote": "Off-pitch Capital ~ 世界のスポーツファイナンスと事業戦略",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58",
+    "pass": 3
+   },
+   {
+    "quote": "11月7日、日本経済新聞が「ACミランを所有する世界最大級のスポーツファンドが日本に進出する」と報じた。",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58",
+    "pass": 3
+   },
+   {
+    "quote": "米RedBird Capital Partnersが日本事業を開始し、日本政策投資銀行が同社のファンドに近く出資して橋渡し役を担う。ACミランをはじめとするチーム運営で得たIPとデータ活用のノウハウで、国内スポーツ界の「稼ぐ力」をてこ入れする、という。",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58",
+    "pass": 3
+   },
+   {
+    "quote": "見出しだけ読めば、「海外の大手ファンドが日本の球団を買いに来る」と受け取った人も少なくないと思う。ただ、RedBirdというファンドのこれまでの案件を並べてみると、違った側面が見えてくる。確かに彼らはスポーツチームを買う。しかし、ただシンプルに買ったことは一度もない。買い方には必ず構造上の仕掛けと勝ち筋があり、買った後に別の事業へと広げていく。",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58",
+    "pass": 3
+   },
+   {
+    "quote": "政策投資銀行の出資額や日本での具体的な投資対象は、本稿執筆時点では明らかになっていない。ゆえに、この記事では、彼らが欧米で何をどうやってきたかを三つの勝ちパターンに整理し、そこから「日本では何をしそうか」を想像してみたいと思う。",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58",
+    "pass": 3
+   },
+   {
+    "quote": "RedBirdは2014年、Gerry Cardinaleがニューヨークで設立した。運用資産は150億ドル超（同社公表ベース）。スポーツ、メディア・エンターテインメント、金融サービスの三領域に投資するが、彼らを最も有名にしたのはスポーツだ。",
+    "url": "https://note.com/offpitch_capital/n/n845847872c58",
+    "pass": 3
+   },
+   {
+    "quote": "米RedBirdのファンドに政投銀が出資。日本のクラブは、ファンの熱量をどう事業に育てるか｜FanStadium｜スポーツ×ビジネス",
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839",
+    "pass": 3
+   },
+   {
+    "quote": "米RedBirdのファンドに政投銀が出資。日本のクラブは、ファンの熱量をどう事業に育てるか",
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839",
+    "pass": 3
+   },
+   {
+    "quote": "初めて試合を見に来た人が、翌月も足を運ぶ。その理由を、クラブと協賛企業は一緒につくれるでしょうか。米国のスポーツ投資会社をめぐるニュースから、FanStadiumはこの問いを考えました。",
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839",
+    "pass": 3
+   },
+   {
+    "quote": "日本政策投資銀行（DBJ）は、米RedBird Capital Partnersが運営するファンドに出資したと発表しました。ファンドはスポーツ、メディア、エンターテインメントを主な投資対象としています。DBJは、RedBirdが海外で培った投資や事業運営の知見を日本に還元し、国内のリーグやクラブ、地域などと新しい事業機会をつくる方針を示しています。国内の個別投資先や買収案件は、この発表では明らかにされていません。",
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839",
+    "pass": 3
+   },
+   {
+    "quote": "クラブが見るべき数字は、来場者数の先にある",
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839",
+    "pass": 3
+   },
+   {
+    "quote": "たとえば、地元企業の協賛で親子を試合に招待する企画。招待人数を数えれば、当日の規模は分かります。次の事業につなげるには、どんな体験が再来場の理由になったかまで知りたいところです。",
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839",
+    "pass": 3
+   },
+   {
+    "quote": "試合後の体験教室が好評だったなら、翌月のホームゲームに合わせて有料の教室を試す。参加費から運営費を引いて収益が残るなら、その一部を指導者の育成や地域の子ども向け活動に回す。こうした小さな実験を積み重ねることで、クラブは「来場者が増えた」から一歩進んで、「何に投資すれば、次も来てもらえるか」を判断できます。",
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839",
+    "pass": 3
+   },
+   {
+    "quote": "協賛企業は、ロゴを出した先で何を実現するか",
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Redbird Farmhands (@RedbirdFarmhand) / X Welcome to the farm. I do MILB Recaps and write articles for @cardprospects. Also host of the @redbirdsonarch podcast. inquiries at, redbirdfarmhands@gmail.com",
+    "url": "https://x.com/RedbirdFarmhand",
+    "pass": 3
+   },
+   {
+    "quote": "Redbird Rants (@FSRedbirdRants) / X Part of the FanSided network and Minute Media family. The site is devoted to the #STLCards.",
+    "url": "https://x.com/FSRedbirdRants",
+    "pass": 3
+   },
+   {
+    "quote": "Illinois State Women’s Basketball (@RedbirdWBB) / X A double-double debut for Ken‼️ The only Redbird freshman since 2009-10 to notch a double-double in a season opener.",
+    "url": "https://x.com/RedbirdWBB",
+    "pass": 3
+   },
+   {
+    "quote": "Illinois State Football (@RedbirdFB) / X Illinois State Football @RedbirdFB Nov 1 The Redbird Recap from another home dub presented by Robert Redding Menswear👏 00:00 1 24",
+    "url": "https://x.com/RedbirdFB",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "RedBird Capital Partners - LinkedIn RedBird Capital Partners is a private investment firm that builds high-growth companies with strategic capital solutions to founders and entrepreneurs. The firm currently manages over $21 billion ...",
+    "url": "https://www.linkedin.com/company/redbird-capital-partners-llc",
+    "pass": 3
+   },
+   {
+    "quote": "Redbird - LinkedIn Redbird | 2,331 followers on LinkedIn. Redbird is an AI-powered workflow automation platform for business teams. Easily automate your analytics, ops and reporting workflows through conversational AI.",
+    "url": "https://www.linkedin.com/company/redbird-io",
+    "pass": 3
+   },
+   {
+    "quote": "Ashwani Acharya - RedBird Flight Training Academy | LinkedInJonathon Araujo Redbird - President of Saugeen ... - LinkedInRedbird RPTO | LinkedInNeil Chugani - Investor & Operating Partner @ RedBird Capital ...Redbird Aviation - LinkedIn With over three decades of experience in aviation management, I currently serve as the… · Experience: RedBird Flight Training Academy · Education: Bhartiya Vidya B",
+    "url": "https://in.linkedin.com/in/ashwani-acharya-498b62b",
+    "pass": 3
+   },
+   {
+    "quote": "Jonathon Araujo Redbird - President of Saugeen ... - LinkedInRedbird RPTO | LinkedInNeil Chugani - Investor & Operating Partner @ RedBird Capital ...Redbird Aviation - LinkedIn Jonathon Araujo Redbird, Band member of Saugeen First Nation with ancestry from Wiikwemkoong Unceded First Nation. Jonathon is a loving husband and father of four with over 2 decades of economic development and finance expe",
+    "url": "https://ca.linkedin.com/in/jonathonaraujoredbird",
+    "pass": 3
+   },
+   {
+    "quote": "yoshihito kita - 株式会社NOTE - 代表取締役社長 | LinkedInACミランのオーナーが日本に来る。RedBird Capitalという「ただ球団を...note【5243】の社長・役員- キタイシホンnoteの歴代社長 - the-shashi.com 株式会社NOTE - 代表取締役社長 · 職歴: 株式会社NOTE · 場所: 大阪。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでyoshihito kitaさんのプロフィールを閲覧しましょう。 4 days ago · 11月7日、日本経済新聞が「ACミランを所有する世界最大級のスポーツファンドが日本に進出する」と報じた。 米RedBird Capital Partnersが日本事業を開始し、日本政策投資銀行が同社のファンドに近く出資して橋渡し役を担う。ACミランをはじめとす",
+    "url": "https://jp.linkedin.com/in/yoshihito-kita-625852100",
+    "pass": 3
+   },
+   {
+    "quote": "RedBird X - LinkedIn RedBird X is RedBird Capital Partners' proprietary Artificial Intelligence (AI) business, an innovation engine powered by a team of world-class AI engineers. Its mission is to incubate, build ...",
+    "url": "https://www.linkedin.com/company/redbird-x",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Red Bird | Wichita KSRedbird BBQ | Port Neches TX - FacebookThe Redbird Deli | Jerseyville IL - FacebookIllinois State Men's Basketball - FacebookRed Bird Fried Chicken - FacebookRedbird Flying Solo - FacebookRedbird Recycling Group Used Oil Services - Facebook Nov 3, 2026 · Red Bird, Wichita. 8,952 followers · 564 talking about this · 1,290 were here. Sandwiches, Cocktails, Wine and Beer Redbird ",
+    "url": "https://www.facebook.com/redbirdwichita/",
+    "pass": 3
+   },
+   {
+    "quote": "Redbird BBQ | Port Neches TX - Facebook Redbird BBQ, Port Neches. 16,778 followers · 322 talking about this · 903 were here. HOURS OPEN The Window Tue–Wed: 11am- 3pm Full BBQ Service...",
+    "url": "https://www.facebook.com/people/Redbird-BBQ/100082978430454/",
+    "pass": 3
+   },
+   {
+    "quote": "The Redbird Deli | Jerseyville IL - FacebookIllinois State Men's Basketball - FacebookRed Bird Fried Chicken - FacebookRedbird Flying Solo - FacebookRedbird Recycling Group Used Oil Services - Facebook 6 days ago · The Redbird Deli, Jerseyville. 2,984 followers · 26 talking about this · 6,083 were here. The REDBIRD DELI is a charming locally owned and operated, clean establishment, that quickly se",
+    "url": "https://www.facebook.com/Redbird.deli/",
+    "pass": 3
+   },
+   {
+    "quote": "Illinois State Men's Basketball - FacebookRed Bird Fried Chicken - FacebookRedbird Flying Solo - FacebookRedbird Recycling Group Used Oil Services - Facebook 2 days ago · Illinois State Men's Basketball. 7,567 followers · 3,040 talking about this. The official Facebook page of the Illinois State Men’s Basketball team. Aug 18, 2026 · Red Bird Fried Chicken 🎉 Another week, another location! 🎉 305 Ma",
+    "url": "https://www.facebook.com/RedbirdMBB/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.redbird.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redbird.io/solutions/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redbird.io/solutions/analytics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redbird.io/solutions/research-insights/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redbird.io/solutions/marketing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redbird.io/solutions/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redbird.io/solutions/sales/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redbird.io/solutions/revops/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redbird.io/solutions/customer-success/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redbird.io/solutions/bi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redbird.io/solutions/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redbird.io/solutions/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redbird.io/solutions/operations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redbird.io/solutions/hr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redbird.io/solutions/supply-chain/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redbird.io/solutions/strategy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redbird.io/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.redbird.io/solutions/manufacturing/manufacturing-hero-dark.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.redbird.io/logos/disney.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.redbird.io/logos/spectrum.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.redbird.io/logos/mars.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://newspicks.com/news/17859587/body/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/news/20261109_7444.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://milanreports.com/2026/11/07/redbird-set-to-enter-japan-with-new-investment-fund-backed-by-japanese-bank/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%83%E3%83%89%E3%83%90%E3%83%AD%E3%83%B3_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redbird.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dbj.jp/news/20261109_7444.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://redbirdcap.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://milanreports.com/2026/11/07/redbird-set-to-enter-japan-with-new-investment-fund-backed-by-japanese-bank/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asia.nikkei.com/spotlight/sports/us-sports-investment-fund-redbird-hunts-for-tie-ups-in-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://redbirdcap.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/redbird/case-study/staples-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/redbird/case-study/exploratorium-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/redbird/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/redbird",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/507433-15",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/redbird/__9E31v6ZQJ4vLcR_LkVPoln39mFXuXQLaTNrAs1Pbn1M",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/redbird",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/offpitch_capital/n/n845847872c58?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/offpitch_capital/n/n845847872c58",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fanstadium/n/n2c3fade4b839",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/RedbirdFarmhand",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FSRedbirdRants",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RedbirdWBB",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RedbirdFB",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/redbird-capital-partners-llc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/redbird-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/ashwani-acharya-498b62b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/jonathonaraujoredbird",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/redbirdwichita/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Redbird-BBQ/100082978430454/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Redbird.deli/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RedbirdMBB/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/yoshihito-kita-625852100",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/redbird-x",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Redbird 日本 導入",
+   "results": [
+    "https://newspicks.com/news/17859587/body/",
+    "https://www.dbj.jp/news/20261109_7444.html",
+    "https://milanreports.com/2026/11/07/redbird-set-to-enter-japan-with-new-investment-fund-backed-by-japanese-bank/",
+    "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "https://shinbunlab.com/nikkei-deepread-20261107/",
+    "https://note.com/happy_rhino7668/n/na71b247b71fb",
+    "https://www.nikkei.com/article/DGXZQOUB043KC0U6A101C2000000/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Redbird 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/レッドバロン_(企業)",
+    "https://www.redbird.co/",
+    "https://www.dbj.jp/news/20261109_7444.html",
+    "https://redbirdcap.com/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "https://www.redbaron.co.jp/news_information/redbaron-royalenfield.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Redbird Japan",
+   "results": [
+    "https://piqmarkets.com/story/redbird-to-enter-japan-sports-market-with-development-bank-of-japan-backing",
+    "https://milanreports.com/2026/11/07/redbird-set-to-enter-japan-with-new-investment-fund-backed-by-japanese-bank/",
+    "https://asia.nikkei.com/spotlight/sports/us-sports-investment-fund-redbird-hunts-for-tie-ups-in-japan",
+    "https://redbirdcap.com/",
+    "https://m.dongqiudi.com/en/news/147092",
+    "https://en.fnnews.com/news/202611081318114325",
+    "https://www.ratednews.com/article/us-sports-investment-fund-redbird-hunts-for-tie-ups-in-japan-4b0853e7"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Redbird manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/redbird/case-study/staples-customer-case-study",
+    "https://www.casestudies.com/company/redbird/case-study/exploratorium-customer-case-study",
+    "https://www.redbird.io/solutions/manufacturing/",
+    "https://www.featuredcustomers.com/vendor/redbird/case-studies",
+    "https://redbirdgroup.co/case-studies/2/",
+    "https://www.coursehero.com/file/236795743/Assignment1-1-1pdf/",
+    "https://redbirdmarketing.com/case-studies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Redbird white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.nextiva.com/company/partners",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Redbird founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/redbird",
+    "https://pitchbook.com/profiles/company/507433-15",
+    "https://tracxn.com/d/companies/redbird/__9E31v6ZQJ4vLcR_LkVPoln39mFXuXQLaTNrAs1Pbn1M",
+    "https://startupintros.com/orgs/redbird",
+    "https://www.zoominfo.com/c/redbird-software-inc/566131528",
+    "https://seedtable.com/companies/redbird",
+    "https://getlatka.com/companies/redbird.io"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Redbird",
+   "results": [
+    "https://note.com/fanstadium/n/n2c3fade4b839?hl=en",
+    "https://note.com/offpitch_capital/n/n845847872c58?hl=en",
+    "https://note.com/offpitch_capital/n/n845847872c58",
+    "https://note.com/fanstadium/n/n2c3fade4b839",
+    "https://note.com/_calcio1899/n/ncb900e40c918",
+    "https://note.com/kotsu_gyakuretz/n/n220a353c742f",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Redbird",
+   "results": [
+    "https://x.com/RedbirdFarmhand",
+    "https://x.com/FSRedbirdRants",
+    "https://x.com/RedbirdWBB",
+    "https://x.com/RedbirdFB",
+    "https://x.com/cardinalredbird",
+    "https://x.com/FSRedbirdRants/status/2120214302128771276",
+    "https://x.com/Redbird_Food"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Redbird",
+   "results": [
+    "https://www.linkedin.com/company/redbird-capital-partners-llc",
+    "https://www.linkedin.com/company/redbird-io",
+    "https://in.linkedin.com/in/ashwani-acharya-498b62b",
+    "https://ca.linkedin.com/in/jonathonaraujoredbird",
+    "https://in.linkedin.com/company/redbirdrpto",
+    "https://uk.linkedin.com/in/neil-chugani-16898646",
+    "https://www.linkedin.com/company/redbirdaviation"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Redbird",
+   "results": [
+    "https://www.facebook.com/redbirdwichita/",
+    "https://www.facebook.com/people/Redbird-BBQ/100082978430454/",
+    "https://www.facebook.com/Redbird.deli/",
+    "https://www.facebook.com/RedbirdMBB/",
+    "https://www.facebook.com/RedBirdFChicken/",
+    "https://www.facebook.com/redbirdflyingsolo/",
+    "https://www.facebook.com/usedoilstlouis/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Redbird note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://jp.linkedin.com/in/yoshihito-kita-625852100",
+    "https://newspicks.com/news/17859587/body/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Redbird X 投稿",
+   "results": [
+    "https://www.redbirdx.com/",
+    "https://www.tiktok.com/@redbirdx19",
+    "https://www.linkedin.com/company/redbird-x",
+    "https://www.redbirdx.com/new-page",
+    "https://x.com/RedBirdInThePC",
+    "https://x.com/redbird2018",
+    "https://search.yahoo.co.jp/realtime/search/投稿/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部41頁・検索12回）"
+ }
+}

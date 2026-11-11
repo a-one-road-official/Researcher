@@ -1,0 +1,1500 @@
+{
+ "name": "Roompricegenie",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜状態なし",
+ "researched_at": "2026-11-11T09:11:54.421875+00:00",
+ "official_url": "https://roompricegenie.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2017",
+    "url": "https://startupintros.com/orgs/roompricegenie",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Sumpfstrasse 18, Steinhausen, Zug, 6312, Switzerland",
+    "url": "https://startupintros.com/orgs/roompricegenie",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The most intuitive revenue management solution ever | RoomPriceGenie",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost your revenue by 19% and save time with our easy-to-use, automated room pricing solution.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed with hotel owners and managers in mind, it shows you quickly and clearly how much more money and time you could be saving by using RoomPriceGenie.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By product functionality",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time Pricing Optimizations",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time Surge Protection",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make confident pricing decisions without switching tools. Revenue Intelligence brings RoomPriceGenie’s most actionable insights directly into your PMS.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Embed RoomPriceGenie’s Revenue Intelligence directly into your platform. Give your customers a powerful new reason to stay.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how 567 properties around the world increased their revenue with RoomPriceGenie RMS.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Welcome to our comprehensive content library, your go-to destination for a wealth of diverse and informative resources.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Don’t miss out on our hotel technology video-course academy – get free access now.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Working with RoomPriceGenie means happy clients and real partnership.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaboration is at the heart of everything we do. We’re proud to be active members of leading industry associations that bring together hospitality professionals, foster innovation, and set standards that benefit the entire community.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re proud to work alongside a network of trusted business partners who share our commitment to excellence, innovation, and customer success.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Functionality",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time Pricing Optimization",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how hoteliers worldwide are pricing, planning, and growing revenue.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Run a successful business through automated room pricing",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "RoomPriceGenie is built around your needs and preferences. Define the comfort-zone for your pricing approach together with our experts in a free consultation call.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Set minimum and maximum prices",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Let data-driven room pricing guide you",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We optimize your prices to maximize your profit",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate your pricing directly in your PMS or Channel Manager",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Almost all of our clients choose to go on autopilot. You can fully relax, knowing your prices are set exactly the way you want them.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "18 months of future pricing",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Intelligence for Partners | RoomPriceGenie",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost your revenue by 19% and save time with our easy-to-use, automated room pricing solution.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed with hotel owners and managers in mind, it shows you quickly and clearly how much more money and time you could be saving by using RoomPriceGenie.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "By product functionality",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time Pricing Optimizations",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time Surge Protection",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Make confident pricing decisions without switching tools. Revenue Intelligence brings RoomPriceGenie’s most actionable insights directly into your PMS.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Embed RoomPriceGenie’s Revenue Intelligence directly into your platform. Give your customers a powerful new reason to stay.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how 567 properties around the world increased their revenue with RoomPriceGenie RMS.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Welcome to our comprehensive content library, your go-to destination for a wealth of diverse and informative resources.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Don’t miss out on our hotel technology video-course academy – get free access now.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Working with RoomPriceGenie means happy clients and real partnership.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaboration is at the heart of everything we do. We’re proud to be active members of leading industry associations that bring together hospitality professionals, foster innovation, and set standards that benefit the entire community.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re proud to work alongside a network of trusted business partners who share our commitment to excellence, innovation, and customer success.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Functionality",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time Pricing Optimization",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "trigger price changes.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Track pickup, occupancy, and price changes with daily drill-down and pricing rationale.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Jump directly into RoomPriceGenie for full reports and immediate price adjustments.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with RoomPriceGenie",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Introduce RoomPriceGenie to your hotels. Hotels get proven RMS technology. You earn rewards.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Bundle RoomPriceGenie as your exclusive in-app RMS. Own the client relationship, manage the offering.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "We are thrilled to integrate Revenue Intelligence by RoomPriceGenie directly into Hop, giving our clients a single, unified place to manage their property. No more toggling between systems — just real-time insights right where they work, enabling better, faster, and more confident pricing decisions.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Paolo Torchio - Chief Product Officer",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "At Planet, we're committed to giving hoteliers smart, seamlessly connected technology. Bringing Revenue Intelligence directly into the PMS strengthens that promise — giving our customers access to an automated, data-driven pricing solution that boosts revenue, reduces manual work, and helps properties stay competitive, all without leaving the system they already use.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "About RoomPriceGenie | Our Mission & Story",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost your revenue by 19% and save time with our easy-to-use, automated room pricing solution.",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed with hotel owners and managers in mind, it shows you quickly and clearly how much more money and time you could be saving by using RoomPriceGenie.",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "By product functionality",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time Pricing Optimizations",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time Surge Protection",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Make confident pricing decisions without switching tools. Revenue Intelligence brings RoomPriceGenie’s most actionable insights directly into your PMS.",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Embed RoomPriceGenie’s Revenue Intelligence directly into your platform. Give your customers a powerful new reason to stay.",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how 567 properties around the world increased their revenue with RoomPriceGenie RMS.",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Welcome to our comprehensive content library, your go-to destination for a wealth of diverse and informative resources.",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by over 5,000 hoteliers around the world",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/business-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "works either fully automated or as a personal adviser that has your back. So that you have more freedom and flexibility to run your business your way. This is why RoomPriceGenie is already trusted by over 3,500 hotel owners worldwide, just like you, to drive revenue you can count on.",
+    "url": "https://roompricegenie.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "“How much extra revenue will I make?” is one of the most popular questions we get. For any individual hotel, it depends on a lot of different factors. Here are the results from the case study we did on 567 diverse hotels to get an idea of the average performance of our RMS:",
+    "url": "https://roompricegenie.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 5,000+ independent hoteliers",
+    "url": "https://roompricegenie.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/real-time-pricing-optimization/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/customers/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Experience the award-winning RMS trusted by 5,000+ properties worldwide. Revenue Intelligence is just one of the ways RoomPriceGenie helps your price with confidence – without complexity, stress or guesswork.",
+    "url": "https://roompricegenie.com/customers/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 5,000+ independent hoteliers",
+    "url": "https://roompricegenie.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "See the full case study here.",
+    "url": "https://roompricegenie.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: How Much Extra Revenue Does a RMS Make?",
+    "url": "https://roompricegenie.com/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "A Case Study of 9 Hotels",
+    "url": "https://roompricegenie.com/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/case-studies/wanderlust-guesthouse-weggis-switzerland/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/case-studies/alexandra-hotel-england-steve/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/case-studies/hotel-beausejour-paris-massiva/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Your Apartment | RoomPriceGenie",
+    "url": "https://roompricegenie.com/case-studies/your-apartment-bristol/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/case-studies/your-apartment-bristol/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/guide-to-capture-more-revenue-with-automated-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/business-partners/avenue-9-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/business-partners/swiss-hospitality-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/case-studies/hotel-moguntia/",
+    "pass": 1
+   },
+   {
+    "quote": "Oakman Group switched to RoomPriceGenie and quickly saw benefits. The case study highlights how the hospitality company improved its revenue",
+    "url": "https://www.cuspera.com/products/roompricegenie-x-9931/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Hotel Rössli achieves 10% sales growth with RoomPriceGenie | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/roompricegenie/case-study/hotel-rossli-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Hotel Rössli achieves 10% sales growth with RoomPriceGenie",
+    "url": "https://www.casestudies.com/company/roompricegenie/case-study/hotel-rossli-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Hotel Rössli - Customer Case Study",
+    "url": "https://www.casestudies.com/company/roompricegenie/case-study/hotel-rossli-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/roompricegenie/case-study/hotel-rossli-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/roompricegenie/case-study/hotel-rossli-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The most intuitive revenue management solution ever | RoomPriceGenie",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why use a Revenue Management System",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost your revenue by 19% and save time with our easy-to-use, automated room pricing solution.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Intelligence for Customers",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make confident pricing decisions without switching tools. Revenue Intelligence brings RoomPriceGenie’s most actionable insights directly into your PMS.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Intelligence for Partners",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Embed RoomPriceGenie’s Revenue Intelligence directly into your platform. Give your customers a powerful new reason to stay.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how 567 properties around the world increased their revenue with RoomPriceGenie RMS.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more through our Revenue Management Glossary from actual experts.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The State of Revenue Management 2026.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how hoteliers worldwide are pricing, planning, and growing revenue.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The most intuitive revenue management system ever",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost your revenue by 19% and save time with our easy-to-use automated revenue management system.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "+ 19% revenue",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn busywork into bookings: RoomPriceGenie's revenue management solution grows your revenue, while you get your time back",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "revenue management solution",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "revenue management system",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "helps you fill your calendar with profitable bookings and increase revenue without added effort.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about how we can help you save time and increase revenue in a way that you will always feel comfortable with.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase your revenue charging more when you can and less when you need to.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“In terms of time-saving, I now have an extra hour a day. But this is inconsequential to me compared to the increase in revenue that I’ve had.”",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We don’t just make pricing easier; we are your partners every step of the way. Your successes are what inspire us. Maybe that’s why we have the highest recommendation scores of any major revenue management solution.",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ranked 1st in top 5 Revenue Management Systems on Hotel Tech Report",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ranked 2nd in top 5 Revenue Management Systems on Hotel Tech Report",
+    "url": "https://roompricegenie.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Intelligence for Partners | RoomPriceGenie",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Why use a Revenue Management System",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost your revenue by 19% and save time with our easy-to-use, automated room pricing solution.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Intelligence for Customers",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Make confident pricing decisions without switching tools. Revenue Intelligence brings RoomPriceGenie’s most actionable insights directly into your PMS.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Intelligence for Partners",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Embed RoomPriceGenie’s Revenue Intelligence directly into your platform. Give your customers a powerful new reason to stay.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how 567 properties around the world increased their revenue with RoomPriceGenie RMS.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more through our Revenue Management Glossary from actual experts.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Intelligence for partners",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock revenue superpowers inside your PMS",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Without Revenue Intelligence",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "With Revenue Intelligence",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "All revenue insights in one place — right where your customers work every day.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor key revenue metrics and market trends effortlessly.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Intelligence lives inside your PMS – here’s what your customers will see.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "We are thrilled to integrate Revenue Intelligence by RoomPriceGenie directly into Hop, giving our clients a single, unified place to manage their property. No more toggling between systems — just real-time insights right where they work, enabling better, faster, and more confident pricing decisions.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Intelligence is a real game-changer for our hotels. Having key revenue insights so easily accessible within freetobook enables hotels to stay competitive in an increasingly dynamic market and make smarter decisions, faster.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "At Planet, we're committed to giving hoteliers smart, seamlessly connected technology. Bringing Revenue Intelligence directly into the PMS strengthens that promise — giving our customers access to an automated, data-driven pricing solution that boosts revenue, reduces manual work, and helps properties stay competitive, all without leaving the system they already use.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Having revenue intelligence built directly into ibelsa is a real advantage. You get a holistic view of occupancy, pricing, and forecasts, without switching tools or exporting data. That means faster reactions to market changes and smarter pricing strategies",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Hoteliers don't have time to jump between systems. Having Revenue Intelligence by RoomPriceGenie directly in Preno means they can make fast, confident pricing decisions without breaking their workflow because the two systems work as one.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "By bringing revenue intelligence directly into the PMS, we’re making it easier for hoteliers to connect insight with action. It’s an important step towards more connected hotel systems, helping teams move faster and make confident pricing decisions in real time.",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Switch on your revenue superpowers",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything you need to know about Revenue Intelligence",
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "Why use a Revenue Management System",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost your revenue by 19% and save time with our easy-to-use, automated room pricing solution.",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Intelligence for Customers",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Make confident pricing decisions without switching tools. Revenue Intelligence brings RoomPriceGenie’s most actionable insights directly into your PMS.",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Intelligence for Partners",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Embed RoomPriceGenie’s Revenue Intelligence directly into your platform. Give your customers a powerful new reason to stay.",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how 567 properties around the world increased their revenue with RoomPriceGenie RMS.",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study – Exactly How Much Extra Revenue Does a Revenue Management System Make?",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more through our Revenue Management Glossary from actual experts.",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Ari (picture on location), having spent 15 years creating trading algorithms for financial markets, knew he could build a solution that would increase their revenue. He set out to interview hoteliers in a similar position, find partners equally passionate about the independent hotel experience, and create a revenue management solution intended specifically for smaller hotels.",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Established agencies looking to represent our solution",
+    "url": "https://roompricegenie.com/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "— every property that enables Revenue Intelligence is a new revenue opportunity, backed by our referral and reseller programs.",
+    "url": "https://roompricegenie.com/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "An additional income stream through referral rewards and/or reseller revenue share",
+    "url": "https://roompricegenie.com/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "A special discount for your clients once you pass your certification (upon request for Consultants, Agencies, and Resellers)",
+    "url": "https://roompricegenie.com/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "A dedicated Partner manager whose goal is to grow business & our brands together (applicable to Consultants, Agencies, Tech partners, Educational institutions, Hospitality associations, and Resellers)",
+    "url": "https://roompricegenie.com/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Expert reseller training (upon request for Resellers)",
+    "url": "https://roompricegenie.com/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Expert revenue management & business performance training (upon request for Consultants, Agencies, and Resellers)",
+    "url": "https://roompricegenie.com/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "We do have agreements in place with Consultants, Agencies, Tech partners, and Resellers.",
+    "url": "https://roompricegenie.com/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "(Online Travel Agencies)",
+    "url": "https://roompricegenie.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "Referral, Reseller",
+    "url": "https://roompricegenie.com/business-partners/swiss-hospitality-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Walker & Williams used RoomPriceGenie to save time on managing online travel agencies. Before, they spent a lot of time",
+    "url": "https://www.cuspera.com/products/roompricegenie-x-9931/customer-story",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "A three-time regular books his fourth stay through Booking.com because nobody emailed him in between. That gap costs independent hotels real revenue every year. Here are the six routines your systems should run for you in 2027, and the three decisions that should never leave your hands.",
+    "url": "https://roompricegenie.com/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "If you have more questions or wish to contact us about a demo call, you can do so here.",
+    "url": "https://roompricegenie.com/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "it easy to get support by email or phone. The solution made managing prices much easier for the business. Hostelle appreciated the reliable help and improved efficiency.",
+    "url": "https://www.cuspera.com/products/roompricegenie-x-9931/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/268550-11",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the RoomPriceGenie team: 2 of 3 have an email address on file.",
+    "url": "https://fundediq.co/roompricegenie-roompricegenie-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/roompricegenie-roompricegenie-com-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "FitGap | RoomPriceGenieとは？強み、注意点を専門家がレビュー — 導入迅速で即効性のある成果 RoomPriceGenieは導入プロセスが迅速で、初期設定を完了すれば自動的に価格調整を行うため、早い段階で効果を実感できる可能性があります。",
+    "url": "https://fitgap.com/jp/products/roompricegenie",
+    "pass": 3
+   },
+   {
+    "quote": "RoomPriceGenieのレビューと製品の詳細新たな調査により、RoomPriceGenie RMS を導入したホテルが大きな ROI...RoomPriceGenieレベニューマネジメントシステムのまとめ・比較 | 日本最大級のホテル...【2026年】客室単価設定ツール（レベニューマネジメントシステム）の...Case studies | Real results with RoomPriceGenie — 検証済みのホテル経営者が残したRoomPriceGenie’sの収益管理システムの741レビューを読んでください。 RoomPriceGenieを上位の代替品と比較し、見積もりをリクエストして、無料のデモを入手してください。 Apr 9, 2025 · 新たな調査により、RoomPriceGenie RMS を導入したホテルが大きな ROI を達成したことが判明 世界中のさまざ",
+    "url": "https://hoteltechreport.com/ja/revenue-management/revenue-management-systems/roompricegenie",
+    "pass": 3
+   },
+   {
+    "quote": "新たな調査により、RoomPriceGenie RMS を導入したホテルが大きな ROI... — Apr 9, 2025 · 新たな調査により、RoomPriceGenie RMS を導入したホテルが大きな ROI を達成したことが判明 世界中のさまざまな市場にある 567 軒の物件で平均収益が 19% 増加しました。",
+    "url": "https://hoteltechreport.com/ja/news/new-study-proves-significant-roi-earned-by-hotels-using-roompricegenie-rms",
+    "pass": 3
+   },
+   {
+    "quote": "RoomPriceGenie — Easy and intuitive, RoomPriceGenie’s revenue management solution is designed for hospitality businesses that don’t have time to micromanage rates. Our software works in the background, adjusting prices automatically, based on real-time demand, booking pace, and market trends, so you’re never underpriced or a step behind.",
+    "url": "https://roompricegenie.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case studies | Real results with RoomPriceGenie — Discover how real hotels and rentals maximize revenue with RoomPriceGenie. Read case studies from happy customers who improved pricing and increased profits.",
+    "url": "https://roompricegenie.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "RoomPriceGenieのレビューと製品の詳細Hotel revenue management software | RoomPriceGenieFitGap | RoomPriceGenieとは？強み、注意点を専門家がレビューLighthouse vs RoomPriceGenie: Dynamic pricing comparedRoomPriceGenie - LinkedInRoomPriceGenie がアプリケーションの完全な再設計を開始 — 検証済みのホテル経営者が残したRoomPriceGenie’sの収益管理システムの741レビューを読んでください。 RoomPriceGenieを上位の代替品と比較し、見積もりをリクエストして、無料のデモを入手してください。 Optimize hotel revenue management with RoomPriceGenie. ",
+    "url": "https://hoteltechreport.com/ja/revenue-management/revenue-management-systems/roompricegenie",
+    "pass": 3
+   },
+   {
+    "quote": "Hotel revenue management software | RoomPriceGenie — Optimize hotel revenue management with RoomPriceGenie. Increase revenue up to 19% effortlessly while saving hours of work with automated rate adjustments.",
+    "url": "https://roompricegenie.com/revenue-management-hotels/",
+    "pass": 3
+   },
+   {
+    "quote": "FitGap | RoomPriceGenieとは？強み、注意点を専門家がレビュー — RoomPriceGenieは、ホテル向けの価格最適化AIを提供するサービスです。在庫状況、市場競合、予約状況などのデータを分析し、最適な料金をリアルタイムで算出する自動価格設定ツールとして機能します。直感的な操作性を重視した設計となっており、10室程度の小規模ホテルから150室クラスの中堅 ...",
+    "url": "https://fitgap.com/jp/products/roompricegenie",
+    "pass": 3
+   },
+   {
+    "quote": "Lighthouse vs RoomPriceGenie: Dynamic pricing compared — Jul 2, 2026 · Lighthouse vs RoomPriceGenie for dynamic pricing — features, automation depth, integrations, and which platform fits independent hotels best.",
+    "url": "https://www.mylighthouse.com/ja/resources/blog/hotel-dynamic-pricing-software-lighthouse-roompricegenie",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Archive Archives | RoomPriceGenie — See how hotels, B&Bs and vacation rentals use RoomPriceGenie to save time, optimize pricing and grow revenue in our customer case studies.",
+    "url": "https://roompricegenie.com/case-study/case-study-archive/",
+    "pass": 3
+   },
+   {
+    "quote": "RoomPriceGenie Case Studies & Customer Success | CusperaCase Study: Hotel Rössli achieves 10% sales growth with ...Case Study: SFO Hotel Group saves 30 hours a month with ...8 RoomPriceGenie Case Studies, Success Stories, & Customer ...RoomPriceGenie Case Study | Hotel Revenue Management SaaS — Hospitality Case Studies and Customer Success Stories with RoomPriceGenie Salina Maris - Hospitality - S",
+    "url": "https://www.cuspera.com/products/roompricegenie-x-9931/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Hotel Rössli achieves 10% sales growth with ... — Hotel Rössli (Hospitality) partnered with RoomPriceGenie (Computer Software) to solve key challenges. \"Hotel Rössli - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/roompricegenie/case-study/hotel-rossli-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: SFO Hotel Group saves 30 hours a month with ... — SFO Hotel Group partnered with RoomPriceGenie (Computer Software) to solve key challenges. \"SFO Hotel Group - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/roompricegenie/case-study/sfo-hotel-group-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "RoomPriceGenie 2026 Company Profile: Valuation, Funding ...Room Price Genie - 2026 Company Profile, Team, Funding ...RoomPriceGenie: Funding, Investors & Team (Nov 2026)RoomPriceGenie: Funding, Team & Investors | Startup IntrosAbout RoomPriceGenie | Our Mission & StoryRoomPriceGenie Revenue 2025: $9.7M Est. - getlatka.comRoomPriceGenie - Crunchbase Company Profile & Funding — RoomPriceGenie Genera",
+    "url": "https://pitchbook.com/profiles/company/268550-11",
+    "pass": 3
+   },
+   {
+    "quote": "Room Price Genie - 2026 Company Profile, Team, Funding ... — Mar 14, 2026 · Room Price Genie - Web based platform offering revenue management solutions for hotels. Raised a total funding of $78.4M over 4 rounds from 8 investors.",
+    "url": "https://tracxn.com/d/companies/roompricegenie/__IYClQDa4i0JPIeRgWTtRZbE8yH4BiDCHnFRXMSf15j4",
+    "pass": 3
+   },
+   {
+    "quote": "RoomPriceGenie: Funding, Investors & Team (Nov 2026) — RoomPriceGenie: Funding, Investors & Team (Nov 2026) RoomPriceGenie is a revenue management tool created for independent hotels to maximize room rates. Using sophisticated pricing algorithms and real-time data analysis, it ensures that room rates are set at the most profitable level based on market trends. The system easily integrates with pro",
+    "url": "https://fundediq.co/roompricegenie-roompricegenie-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "RoomPriceGenie: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Co-founded in late 2017 by CEO Ari Andricopoulos and CTO Marvin Speh, RoomPriceGenie addresses a market gap. Andricopoulos, an economist with large hotel revenue management experience, saw smaller properties lacked accessible pricing tools.",
+    "url": "https://startupintros.com/orgs/roompricegenie",
+    "pass": 3
+   },
+   {
+    "quote": "About RoomPriceGenie | Our Mission & Story — Learn about RoomPriceGenie’s journey and mission to help independent hotels increase revenue with less work. We simplify revenue management.",
+    "url": "https://roompricegenie.com/about/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "RoomPriceGenie (@roompricegenie) / X In our Meet the Genies series, we give you the opportunity to get to know the friendly faces that make RoomPriceGenie more than just an algorithm. Today, we introduce Christian! Let’s get to know Christian a little more… hubs.ly/H0T7lt90",
+    "url": "https://x.com/roompricegenie",
+    "pass": 3
+   },
+   {
+    "quote": "RoomPriceGenie (@roompricegenie) / X With guest speakers from @roompricegenie @PaceRevenue and @HOSPAtweets, find out how to use your data to optimise rates, accurately forecast, and maximise revenue.",
+    "url": "https://x.com/roompricegenie",
+    "pass": 3
+   },
+   {
+    "quote": "Hotel Business on X: \"@roompricegenie has launched Portfolio ... Hotel Business on X: \"@roompricegenie has launched Portfolio Calendar, giving hotel groups and multiproperty operators a single view of daily performance across their ...",
+    "url": "https://x.com/hotelbusiness/status/2118036805198975455",
+    "pass": 3
+   },
+   {
+    "quote": "Ken Torres on X: \"RoomPriceGenie Report: #Hotels Embrace #AI ... RoomPriceGenie Report: #Hotels Embrace #AI Pricing but Hesitate to Hand Over Control https://t.co/ht7htc9jMe via @lodgingmagazine 30 Oct 2026 12:27:24",
+    "url": "https://x.com/HospitalityTek/status/2116144939117719700",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "RoomPriceGenie - LinkedIn RoomPriceGenie | 16,957 followers on LinkedIn. Revenue you can count on! | Revenue you can count on! RoomPriceGenie is the easiest way to ensure that your rooms are priced right, every night ...",
+    "url": "https://www.linkedin.com/company/roompricegenie",
+    "pass": 3
+   },
+   {
+    "quote": "RoomPriceGenie | LinkedIn RoomPriceGenie | Automated pricing - the best investment in your property! RoomPriceGenie: Automated Revenue Generation. RoomPriceGenie automatically leverages your data and market trends to determine the best room price, every day.",
+    "url": "https://cm.linkedin.com/products/roompricegenie/",
+    "pass": 3
+   },
+   {
+    "quote": "RoomPriceGenie | LinkedIn RoomPriceGenie | 17.070 Follower:innen auf LinkedIn. Revenue you can count on! | Revenue you can count on! RoomPriceGenie is the easiest way to ensure that your rooms are priced right, every night. Purpose-built for the independent hotelier, RoomPriceGenie is fast to implement, intuitive to use, simple to understand and completely transparent.",
+    "url": "https://de.linkedin.com/company/roompricegenie",
+    "pass": 3
+   },
+   {
+    "quote": "Ari Andricopoulos – Co-Founder of RoomPriceGenie | LinkedInRoomPriceGenie on LinkedIn: Welcome to Room PriceGenie ...Understand every price instantly | RoomPriceGenie - LinkedIn Co-Founder of RoomPriceGenie · https://roompricegenie.com · Berufserfahrung: RoomPriceGenie · Ausbildung: ETH Zurich · Standort: Zug · 500+ Kontakte auf LinkedIn. Sehen Sie sich das Profil von Ari Andricopoulos auf LinkedI",
+    "url": "https://ch.linkedin.com/in/ariandricopoulos",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "RoomPriceGenie | Steinhausen - FacebookRoomPriceGenie - Here Room Price Genie we make data-driven ...Roompricegenie - Here at Room Price Genie, we like to...Roompricegenie - Room Price Genie is a fast-growing... - FacebookRoompricegenie - We at Room Price Genie are excited to ...Roompricegenie - Did you know that Room Price Genie has a...Roompricegenie - We at Room Price Genie are excited to ... O",
+    "url": "https://www.facebook.com/roompricegenie/",
+    "pass": 3
+   },
+   {
+    "quote": "Roompricegenie - We at Room Price Genie are excited to ... Dec 1, 2020 · Roompricegenie - We at Room Price Genie are excited to announce that we have partnered up with the fabulous team of RoomRaccoon to bring #automatedRevenueManagement to their great platform. Two of the fastest-growing and most innovative SaaS companies in the hospitality industry working together to bring simple, transparent a",
+    "url": "https://www.facebook.com/roompricegenie/photos/we-at-room-price-genie-are-excited-to-announce-that-we-have-partnered-up-with-th/783436442204277/",
+    "pass": 3
+   },
+   {
+    "quote": "RoomPriceGenie - Here Room Price Genie we make data-driven ... Mar 19, 2021 · Here Room Price Genie we make data-driven Revenue Management accessible to anyone, and we would like to invite you to our partnership program. Where do you fit in? 1. Reseller program - for software...",
+    "url": "https://www.facebook.com/roompricegenie/posts/here-room-price-genie-we-make-data-driven-revenue-management-accessible-to-anyon/844571102757477/",
+    "pass": 3
+   },
+   {
+    "quote": "Roompricegenie - Here at Room Price Genie, we like to... Here at Room Price Genie, we like to think that numbers speak a little louder than words. That's why, in our recent case study which took into account 9 hotels using our RMS, we found an average...",
+    "url": "https://www.facebook.com/roompricegenie/posts/here-at-room-price-genie-we-like-to-think-that-numbers-speak-a-little-louder-tha/644587602755829/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://roompricegenie.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/partners/revenue-intelligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/partnerships/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/business-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/real-time-pricing-optimization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/customers/revenue-intelligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/case-studies/wanderlust-guesthouse-weggis-switzerland/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/case-studies/alexandra-hotel-england-steve/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/case-studies/hotel-beausejour-paris-massiva/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/case-studies/your-apartment-bristol/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/guide-to-capture-more-revenue-with-automated-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/business-partners/avenue-9-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/business-partners/swiss-hospitality-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roompricegenie.com/case-studies/hotel-moguntia/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='300'%20height='300'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://fitgap.com/jp/products/roompricegenie",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hoteltechreport.com/ja/revenue-management/revenue-management-systems/roompricegenie",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hoteltechreport.com/ja/news/new-study-proves-significant-roi-earned-by-hotels-using-roompricegenie-rms",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hoteltechreport.com/ja/revenue-management/revenue-management-systems/roompricegenie",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fitgap.com/jp/products/roompricegenie",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cuspera.com/products/roompricegenie-x-9931/customer-story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/roompricegenie/case-study/hotel-rossli-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/268550-11",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/roompricegenie/__IYClQDa4i0JPIeRgWTtRZbE8yH4BiDCHnFRXMSf15j4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/roompricegenie-roompricegenie-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/roompricegenie",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/roompricegenie",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/roompricegenie",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cm.linkedin.com/products/roompricegenie/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/roompricegenie",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/in/ariandricopoulos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/roompricegenie/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/roompricegenie/photos/we-at-room-price-genie-are-excited-to-announce-that-we-have-partnered-up-with-th/783436442204277/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/roompricegenie/posts/here-room-price-genie-we-make-data-driven-revenue-management-accessible-to-anyon/844571102757477/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/roompricegenie/posts/here-at-room-price-genie-we-like-to-think-that-numbers-speak-a-little-louder-tha/644587602755829/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/roompricegenie",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hotelbusiness/status/2118036805198975455",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HospitalityTek/status/2116144939117719700",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Roompricegenie 日本 導入",
+   "results": [
+    "https://fitgap.com/jp/products/roompricegenie",
+    "https://hoteltechreport.com/ja/revenue-management/revenue-management-systems/roompricegenie",
+    "https://hoteltechreport.com/ja/news/new-study-proves-significant-roi-earned-by-hotels-using-roompricegenie-rms",
+    "https://roompricegenie.com/",
+    "https://roompricegenie.com/case-studies/",
+    "https://hotelier.jp/revenue-management-system",
+    "https://www.itreview.jp/categories/revenue-management-system"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roompricegenie 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://partner-prop.com/lab/partner-business/agency/256/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roompricegenie Japan",
+   "results": [
+    "https://roompricegenie.com/",
+    "https://hoteltechreport.com/ja/revenue-management/revenue-management-systems/roompricegenie",
+    "https://roompricegenie.com/revenue-management-hotels/",
+    "https://fitgap.com/jp/products/roompricegenie",
+    "https://www.mylighthouse.com/ja/resources/blog/hotel-dynamic-pricing-software-lighthouse-roompricegenie",
+    "https://www.linkedin.com/company/roompricegenie",
+    "https://hoteltechreport.com/ja/news/roompricegenie-redesign"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roompricegenie manufacturing customer case study",
+   "results": [
+    "https://roompricegenie.com/case-studies/",
+    "https://roompricegenie.com/case-study/case-study-archive/",
+    "https://www.cuspera.com/products/roompricegenie-x-9931/customer-story",
+    "https://www.casestudies.com/company/roompricegenie/case-study/hotel-rossli-customer-case-study",
+    "https://www.casestudies.com/company/roompricegenie/case-study/sfo-hotel-group-customer-case-study",
+    "https://www.featuredcustomers.com/vendor/roompricegenie/case-studies",
+    "https://sparkscribetech.com/case-studies/roompricegenie-hotel-revenue-management/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roompricegenie white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Roompricegenie founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/268550-11",
+    "https://tracxn.com/d/companies/roompricegenie/__IYClQDa4i0JPIeRgWTtRZbE8yH4BiDCHnFRXMSf15j4",
+    "https://fundediq.co/roompricegenie-roompricegenie-com-funding/",
+    "https://startupintros.com/orgs/roompricegenie",
+    "https://roompricegenie.com/about/",
+    "https://getlatka.com/companies/roompricegenie.com",
+    "https://www.crunchbase.com/organization/roompricegenie"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Roompricegenie",
+   "results": [
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/draft_candidate/m/mc6ed818cf2b4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/azutani/n/ne65c79cb7bc7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Roompricegenie",
+   "results": [
+    "https://x.com/roompricegenie",
+    "https://x.com/",
+    "https://x.com/chocomint_sksst/status/2119035470948778175",
+    "https://x.com/Marlayna29/status/2115433590150606880",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/ExtraSauce_/status/2116251139792634111",
+    "https://x.com/Jazzma_spastic/status/2119384306653257875"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Roompricegenie",
+   "results": [
+    "https://www.linkedin.com/company/roompricegenie",
+    "https://cm.linkedin.com/products/roompricegenie/",
+    "https://de.linkedin.com/company/roompricegenie",
+    "https://ch.linkedin.com/in/ariandricopoulos",
+    "https://www.linkedin.com/posts/roompricegenie_welcome-to-room-pricegenie-leslie-hoy-crme-activity-7184477122013315072-kYHo",
+    "https://www.linkedin.com/posts/roompricegenie_understand-every-price-instantly-activity-7447977636737302529-EKxp",
+    "https://www.linkedin.com/pulse/why-roompricegenie-spreadsheet-nightmare-every-hotelier-suson-tiqfc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Roompricegenie",
+   "results": [
+    "https://www.facebook.com/roompricegenie/",
+    "https://www.facebook.com/roompricegenie/photos/we-at-room-price-genie-are-excited-to-announce-that-we-have-partnered-up-with-th/783436442204277/",
+    "https://www.facebook.com/roompricegenie/posts/here-room-price-genie-we-make-data-driven-revenue-management-accessible-to-anyon/844571102757477/",
+    "https://www.facebook.com/roompricegenie/posts/here-at-room-price-genie-we-like-to-think-that-numbers-speak-a-little-louder-tha/644587602755829/",
+    "https://www.facebook.com/roompricegenie/posts/room-price-genie-is-a-fast-growing-start-up-in-the-hospitality-tech-industry-and/926750444539542/",
+    "https://www.facebook.com/roompricegenie/posts/we-at-room-price-genie-are-excited-to-announce-that-we-have-partnered-up-with-th/783436758870912/",
+    "https://www.facebook.com/roompricegenie/posts/did-you-know-that-room-price-genie-has-a-partner-programif-you-have-hotel-client/815649415649646/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roompricegenie note 社長",
+   "results": [
+    "https://roompricegenie.com/about/",
+    "https://fundediq.co/roompricegenie-roompricegenie-com-funding/",
+    "https://roompricegenie.com/",
+    "https://www.4hoteliers.com/news/story/25165",
+    "https://www.argophilia.com/news/roompricegenie/240480/",
+    "https://www.fiveelms.com/roompricegenie-receives-75-million-usd-investment-from-five-elms-capital-names-chas-scarantino-as-ceo/",
+    "https://www.fiveelms.com/company/roompricegenie/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Roompricegenie X 投稿",
+   "results": [
+    "https://x.com/roompricegenie",
+    "https://x.com/hotelbusiness/status/2118036805198975455",
+    "https://roompricegenie.com/",
+    "https://x.com/HospitalityTek/status/2116144939117719700",
+    "https://x.com/BTN_News/status/2117876035240759490",
+    "https://www.theai.tw/tools/roompricegenie",
+    "https://x.com/Genshin_7/status/2117521438085447783"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部27頁・検索12回）"
+ }
+}

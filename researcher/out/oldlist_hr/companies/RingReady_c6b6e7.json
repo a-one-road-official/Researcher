@@ -1,0 +1,1928 @@
+{
+ "name": "RingReady",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T09:17:36.940785+00:00",
+ "official_url": "https://www.ring-ready.com/",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "$99/mo",
+    "value": "platform fee · branded website included",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "label": "$99/mo",
+    "value": "platform fee · no seat minimums",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The caller waits. They had a real problem — water under the sink, a leak forming on the ceiling — and they took the time to look you up.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Paste your website URL or Google Business Profile — we scan it and write your AI receptionist's script in seconds. Tweak anything before going live, then pick a voice from our library.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We give you a dedicated number. Forward unanswered calls there from your carrier — one dial code. The number on your trucks, business cards, and Google profile stays the same — RingReady only picks up the calls you can't.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Young Pro · Female",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "RingReady is an AI you can mold. Tweak the prompt to ask whatever questions matter for",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "business — different industry, different rules, different tone. Pick a tab to see the kind of prompt a real owner would write.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No syntax to learn — write like you're training a new hire.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Calendly, HouseCallPro, Square, or any URL. Callers self-book the slot that works; you skip the back-and-forth.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No port-out. No reprint. Just forward unanswered calls to RingReady — your existing line stays yours.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Works with your scheduler (Calendly, HouseCallPro, etc.)",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Flat rates. No per-minute fees. No surprise overages. The bill you pick is the bill you pay.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For businesses running paid ads or needing live data.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Three capabilities that turn your AI receptionist into the centerpiece of how you capture leads and prove ad ROI.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time inventory, pricing, hours, or anything else your callers need. Your agent reads live from Google Sheets, Docs, your website, or any API on every call.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Close rate on captured leads",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"I was burning $80/day on Google Ads and still missing three calls a day. Since RingReady, every click that calls gets answered. CPL down 40%.\"",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"I rewrote my receptionist's tone from 'professional' to 'warm and a bit funny' by typing one paragraph. Customers comment on it.\"",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Setup took eight minutes. I gave it my hours, services, and prices. It was answering calls before lunch.\"",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"It picks up at 2am. It picks up Sunday. It picked up while I was at my kid's soccer game. Three months in, zero missed leads.\"",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"I didn't trust an AI to talk to my customers. Two weeks of call summaries later, I was rewriting the prompt to add humor.\"",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"It picks up at 2am. Three months in, zero missed leads.\"",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. You don't port your number to us — you forward calls. The number on your trucks, business cards, and Google profile stays the same. If you ever cancel, you just stop forwarding. Your number is yours.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "RingReady doesn't touch your calendar directly — instead, you drop in your existing scheduler link (Calendly, HouseCallPro, Square Appointments, Acuity, or any URL). On qualified calls, the AI offers to text the caller your booking link so they pick the slot that works. You stay in control of your calendar; the caller does the booking; you get the lead summary text instantly.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Is it HIPAA-compliant for medical and dental practices?",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "RingReady is built so your practice doesn't need a BAA. The AI handles scheduling, contact details, and practice questions for dental, medical, mental health, and elder-care practices, and routes clinical conversations to your staff instead of collecting symptoms or treatment details. Call recordings and transcripts are encrypted in transit and at rest.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Receptionist with Live Data | Real-Time Inventory & Pricing | RingReady",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "Inventory. Pricing. Hours. Availability. Whatever real-time data your callers need to hear — your receptionist fetches it during the call and answers like a clued-in human.",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "Oh perfect. What's the pricing?",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "SMS sent to caller with the address and a heads-up to the sales team",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "Inventory that changes hourly. Pricing that changes weekly. Available appointment slots. Today’s specials. The list of cars on your lot.",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "— from your website, Google Sheets, Google Docs, or any API — and answers the caller with fresh, current information. No retraining. No prompt edits. No engineer.",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "Inventory grids, price lists, slot grids",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing pages, inventory pages, hours",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "\"Do you have a 2025 Highlander in stock?\" Your inventory sheet has the answer; the AI reads it live.",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "\"What’s tonight’s special?\" The chef updates the Google Doc; the AI reads it on the next call.",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited fetches per call. No per-API quotas, no metered pricing. Same flat-rate logic as everything else.",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "Near-immediately. Update your inventory sheet at 2:15 PM — the 2:16 caller hears the new info. There’s no retraining step, no manual re-deploy, no prompt-edit cycle. You change the source; the AI follows.",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "Can it pull from a private API that requires authentication?",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "No — Live context is read-only. The AI fetches and answers; it doesn’t modify your source. If you want to capture leads or appointments back into a system, that flows through our SMS booking-link pattern (visitor receives your scheduling link and books on your real calendar) plus the call summary email/SMS + webhook export.",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "What about sensitive data? Should I put internal pricing in there?",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "Treat your source like public-facing content. The AI will read from it to any caller or visitor, so don’t include internal-only pricing, sensitive customer data, employee info, or anything you wouldn’t want a competitor to hear if they called. For private operational data, keep it in your internal systems and integrate via webhooks after the call instead.",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "Scale ($299/month). Not included in Professional ($39/mo) or Growth ($99/mo). Upgrade anytime from your dashboard — we prorate so you only pay the difference for the remaining days in your billing period.",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "So I built RingReady to do what I actually wanted: pick up every call like a great front-desk hire, ask the right questions, send the caller a booking link, and text me the summary the moment they hang up. Flat $39 a month. No contracts. No per-minute. The kind of receptionist",
+    "url": "https://www.ring-ready.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "If you're a business owner who's tired of leaking leads to a beep, you're exactly who we built this for.",
+    "url": "https://www.ring-ready.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "While advising service businesses, we kept seeing the same pattern: 30–50% of calls went unanswered. Voicemail killed the conversion. Hiring a receptionist cost $35–50K a year and still missed nights and weekends. Traditional answering services billed $400+/month and didn't know the business.",
+    "url": "https://www.ring-ready.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We built RingReady around one principle: it should sound human, qualify like a human, and hand the lead off cleanly to the owner. Trained on your services, hours, and pricing. Texts the caller your booking link mid-call. Texts you the summary the moment they hang up. Flat $39/month, no per-minute charges.",
+    "url": "https://www.ring-ready.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "A receptionist that gives \"press 1\" energy isn't a receptionist. RingReady's voices breathe, hesitate, and listen — like a great front-desk hire on their best day.",
+    "url": "https://www.ring-ready.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "No surprises, ever",
+    "url": "https://www.ring-ready.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Flat $39/month. No per-minute charges. No \"premium tier\" gating the useful stuff. Cancel anytime from your dashboard. Your existing number stays yours.",
+    "url": "https://www.ring-ready.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Every missed call is a deal that goes to another agent. RingReady's AI receptionist answers 24/7, captures leads, and schedules showings automatically.",
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "Agents in showings can't pick up. Our AI captures buyer inquiries, listing referrals, showing requests, and existing-client status checks 24/7 — qualifies leads (pre-approval, timeline, price range) — for $39/month flat in 50+ languages, including dense multilingual urban markets.",
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "A prospect calls after hours. What do they hear?",
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "Caller hangs up. Hires a competitor.",
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "Paste your website URL or Google Business Profile — we scan it and write your AI receptionist's script in seconds, pre-tuned for real estate agents. Tweak anything before going live, then pick a voice from our library.",
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "We give you a dedicated number. Forward unanswered calls there from your carrier — one dial code. The number on your business cards, website, and Google profile stays the same — RingReady only picks up the calls you can't.",
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "Caller name, what they wanted, urgency, estimated value, and a one-tap link to the full call details — the same kind of handoff real estate agents would want from a great front-desk hire. Pick SMS, email, or both.",
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "Seller listing presentation",
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-approval / lender question",
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial property inquiry",
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "Your AI assistant handles incoming calls 24/7, qualifies leads, and schedules showings automatically.",
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Your number, your brand",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Care & Home Health Agencies",
+    "url": "https://www.ring-ready.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Matches your brand colors, position, and welcome message",
+    "url": "https://www.ring-ready.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Looks like your brand, not ours.",
+    "url": "https://www.ring-ready.com/solutions/website-chat",
+    "pass": 1
+   },
+   {
+    "quote": "Resell AI Phone Answering Under Your Brand | RingReady Partner Program",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "under your own brand.",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "your name on — flat cost, white-labeled in one toggle, and proven on a",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "Built for agencies, MSPs, VoIP shops, and consultants with a book of local-business clients.",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "white-labels every email & SMS",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "The same voice AI that answers RingReady's own customers' phones — now under your brand.",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "Comparing reseller platforms?",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "Read the playbooks on the reseller blog →",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up, set your brand once, and you walk away with a branded website",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "a white-labeled receptionist — the same day, usually the same sitting.",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "Browse the reseller help center →",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "Subscribe as a reseller ($99/mo)",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "Review and accept the reseller agreement, then check out via Stripe. Cancel any time from your profile — no contract, no minimum term.",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "Add your brand name, support email and phone, logo, and brand colors in your reseller settings. Preview exactly what your customers' emails and SMS will look like — before you create a single agent.",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "ring-ready.com/reseller/settings",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "Your branded website — included, live in minutes",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "Every reseller plan includes a website for your receptionist business — no Wix subscription, no web designer. Pick one of 13 designs, hit",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "to fill professional copy you can tweak, and publish to your free web address in one click (your own domain optional). Your customers see your brand on it — and only your brand.",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "ring-ready.com/reseller-website",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "When you create a new AI receptionist, the setup wizard exposes a \"Reseller branding\" card. Flip",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "White-label customer-facing communications",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "— every email and SMS that agent sends now carries your brand instead of ours.",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "Your customer sees your brand, not ours",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "What white-label covers",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "No half-measures, no asterisks. Here's the precise scope of white-label, so you know exactly what you're putting your name on.",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "How does the AI handle claims calls for insurance agencies?",
+    "url": "https://www.ring-ready.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "AI Receptionist for Senior Care & Home Health Agencies | RingReady",
+    "url": "https://www.ring-ready.com/industries/senior-care",
+    "pass": 1
+   },
+   {
+    "quote": "for Senior Care & Home Health Agencies",
+    "url": "https://www.ring-ready.com/industries/senior-care",
+    "pass": 1
+   },
+   {
+    "quote": "Family members call senior care agencies in panic — a parent fell, a hospital is discharging soon. RingReady answers with calm and books assessments fast.",
+    "url": "https://www.ring-ready.com/industries/senior-care",
+    "pass": 1
+   },
+   {
+    "quote": "Family members call senior care agencies in panic — a parent fell, a hospital is discharging tomorrow. Our AI captures every inquiry without PHI, routes hospital-discharge urgency to immediate callback, and books in-home assessments — for $39/month flat in 50+ languages.",
+    "url": "https://www.ring-ready.com/industries/senior-care",
+    "pass": 1
+   },
+   {
+    "quote": "Most senior care and home health agencies are done before their coffee gets cold.",
+    "url": "https://www.ring-ready.com/industries/senior-care",
+    "pass": 1
+   },
+   {
+    "quote": "Paste your website URL or Google Business Profile — we scan it and write your AI receptionist's script in seconds, pre-tuned for senior care and home health agencies. Tweak anything before going live, then pick a voice from our library.",
+    "url": "https://www.ring-ready.com/industries/senior-care",
+    "pass": 1
+   },
+   {
+    "quote": "Caller name, what they wanted, urgency, estimated value, and a one-tap link to the full call details — the same kind of handoff senior care and home health agencies would want from a great front-desk hire. Pick SMS, email, or both.",
+    "url": "https://www.ring-ready.com/industries/senior-care",
+    "pass": 1
+   },
+   {
+    "quote": "The calls senior care and home health agencies actually take.",
+    "url": "https://www.ring-ready.com/industries/senior-care",
+    "pass": 1
+   },
+   {
+    "quote": "Built around how senior care and home health agencies actually run.",
+    "url": "https://www.ring-ready.com/industries/senior-care",
+    "pass": 1
+   },
+   {
+    "quote": "AI books in-home assessments with your care coordinator. Most agencies report assessments are the highest-conversion sales touchpoint.",
+    "url": "https://www.ring-ready.com/industries/senior-care",
+    "pass": 1
+   },
+   {
+    "quote": "Calls mentioning hospital discharge get flagged for fast turnaround — these are deadline-driven and most agencies that respond same-day get the contract.",
+    "url": "https://www.ring-ready.com/industries/senior-care",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited calls on every plan. No per-minute charges. Built for senior care and home health agencies.",
+    "url": "https://www.ring-ready.com/industries/senior-care",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited AI phone receptionist for senior care and home health agencies.",
+    "url": "https://www.ring-ready.com/industries/senior-care",
+    "pass": 1
+   },
+   {
+    "quote": "Configure the AI to flag any call mentioning hospital discharge, rehab transition, or 'they want to send Mom home tomorrow.' These get routed urgently with same-day callback. Most agencies that respond first to discharge inquiries win the contract.",
+    "url": "https://www.ring-ready.com/industries/senior-care",
+    "pass": 1
+   },
+   {
+    "quote": "AI creates professional PDF quotes during calls or chats. Includes itemized pricing, VAT calculations, and your branding.",
+    "url": "https://ringready.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program | White-Label AI Phone Answering | RingReady",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "under your own brand.",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "You already serve local businesses. RingReady is the AI receptionist you put your name on — flat cost, white-labeled in one toggle, and proven on a live call before you ever pitch it.",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "Built for agencies, MSPs, VoIP shops, and consultants with a book of local-business clients.",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "white-labels every email & SMS",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "The same voice AI that answers RingReady's own customers' phones — now under your brand.",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "Comparing reseller platforms?",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "Read the playbooks on the reseller blog →",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "From signup to white-labeled in minutes.",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up, set your brand, flip the toggle on each customer's receptionist. Most partners are live the same day.",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "Subscribe as a reseller ($99/mo)",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "Review and accept the reseller agreement, then check out via Stripe. Cancel any time from your profile — no contract, no minimum term.",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "Add your brand name, support email and phone, logo, and brand colors in your reseller settings. Preview exactly what your customers' emails and SMS will look like — before you create a single agent.",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "ring-ready.com/reseller/settings",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "When you create a new AI receptionist, the setup wizard exposes a \"Reseller branding\" card. Flip",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Works with your carrier — keep your number",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See all 110 carriers and phone systems",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We give you a dedicated number. Forward unanswered calls there from your carrier — one dial code. The number on your trucks, business cards, and Google profile stays the same — RingReady only picks up the calls you can't.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Do you carry size 11 Nikes?\" Inventory feed answers in real time; AI confirms availability.",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "\"What arrangements do you have today?\" Today’s availability doc answers; AI describes the options.",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "We give you a dedicated number. Forward unanswered calls there from your carrier — one dial code. The number on your business cards, website, and Google profile stays the same — RingReady only picks up the calls you can't.",
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "More leads, more time, more revenue - guaranteed",
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "We give you a dedicated number. Forward unanswered calls there from your carrier — one dial code. The number on your business cards, website, and Google profile stays the same — RingReady only picks up the calls you can't.",
+    "url": "https://www.ring-ready.com/industries/legal-services",
+    "pass": 1
+   },
+   {
+    "quote": "More leads, more time, more revenue - guaranteed",
+    "url": "https://www.ring-ready.com/industries/legal-services",
+    "pass": 1
+   },
+   {
+    "quote": "30% More Revenue",
+    "url": "https://www.ring-ready.com/industries/legal-services",
+    "pass": 1
+   },
+   {
+    "quote": "How does it handle in-custody or arrest-tomorrow urgency?",
+    "url": "https://www.ring-ready.com/industries/legal-services",
+    "pass": 1
+   },
+   {
+    "quote": "Configure urgency triggers ('I just got arrested,' 'court tomorrow,' 'arraignment in the morning'). Flagged calls get immediate attorney callback rather than routine consultation booking — these are the highest-conversion moments.",
+    "url": "https://www.ring-ready.com/industries/legal-services",
+    "pass": 1
+   },
+   {
+    "quote": "We give you a dedicated number. Forward unanswered calls there from your carrier — one dial code. The number on your business cards, website, and Google profile stays the same — RingReady only picks up the calls you can't.",
+    "url": "https://www.ring-ready.com/industries/roofing",
+    "pass": 1
+   },
+   {
+    "quote": "More leads, more time, more revenue - guaranteed",
+    "url": "https://www.ring-ready.com/industries/roofing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. RingReady handles unlimited concurrent calls at flat $39/month. A hailstorm that drives 100 roof inspection calls in 48 hours costs the same as your normal Tuesday — no overage, no busy signals during exactly the days revenue is highest.",
+    "url": "https://www.ring-ready.com/industries/roofing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Configure the AI to flag any caller who mentions hail, wind, storm damage, or insurance carrier. Your inspector arrives with documentation forms, photo protocol, and the carrier's specific requirements ready.",
+    "url": "https://www.ring-ready.com/industries/roofing",
+    "pass": 1
+   },
+   {
+    "quote": "We give you a dedicated number. Forward unanswered calls there from your carrier — one dial code. The number on your business cards, website, and Google profile stays the same — RingReady only picks up the calls you can't.",
+    "url": "https://www.ring-ready.com/industries/pest-control",
+    "pass": 1
+   },
+   {
+    "quote": "We give you a dedicated number. Forward unanswered calls there from your carrier — one dial code. The number on your business cards, website, and Google profile stays the same — RingReady only picks up the calls you can't.",
+    "url": "https://www.ring-ready.com/industries/dental",
+    "pass": 1
+   },
+   {
+    "quote": "We give you a dedicated number. Forward unanswered calls there from your carrier — one dial code. The number on your business cards, website, and Google profile stays the same — RingReady only picks up the calls you can't.",
+    "url": "https://www.ring-ready.com/industries/locksmith",
+    "pass": 1
+   },
+   {
+    "quote": "Your AI provides estimated arrival times based on your availability, keeping anxious customers informed and committed to waiting for you instead of calling another locksmith.",
+    "url": "https://www.ring-ready.com/industries/locksmith",
+    "pass": 1
+   },
+   {
+    "quote": "We give you a dedicated number. Forward unanswered calls there from your carrier — one dial code. The number on your business cards, website, and Google profile stays the same — RingReady only picks up the calls you can't.",
+    "url": "https://www.ring-ready.com/industries/property-management",
+    "pass": 1
+   },
+   {
+    "quote": "Works with your carrier — keep your number",
+    "url": "https://www.ring-ready.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "See all 110 carriers and phone systems",
+    "url": "https://www.ring-ready.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Caller says yes → link arrives by text while they're still on the line",
+    "url": "https://www.ring-ready.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We give you a dedicated number. Forward unanswered calls there from your carrier — one dial code. The number on your business cards, website, and Google profile stays the same — RingReady only picks up the calls you can't.",
+    "url": "https://www.ring-ready.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "More leads, more time, more revenue - guaranteed",
+    "url": "https://www.ring-ready.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "We give you a dedicated number. Forward unanswered calls there from your carrier — one dial code. The number on your business cards, website, and Google profile stays the same — RingReady only picks up the calls you can't.",
+    "url": "https://www.ring-ready.com/industries/hvac",
+    "pass": 1
+   },
+   {
+    "quote": "More leads, more time, more revenue - guaranteed",
+    "url": "https://www.ring-ready.com/industries/hvac",
+    "pass": 1
+   },
+   {
+    "quote": "Configure safety triggers — calls mentioning 'gas smell,' 'CO alarm,' or 'sparks at the unit' get immediate emergency routing. The AI redirects clearly to 911 when the situation warrants and dispatches your tech with safety protocol flagged.",
+    "url": "https://www.ring-ready.com/industries/hvac",
+    "pass": 1
+   },
+   {
+    "quote": "Plumbing: Capturing emergency call revenue",
+    "url": "https://www.ring-ready.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "+$48K/yr revenue",
+    "url": "https://www.ring-ready.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How a 5-truck plumbing company replaced voicemail with AI and recovered $48,000 in annual emergency-call revenue.",
+    "url": "https://www.ring-ready.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "+$90K/yr revenue",
+    "url": "https://www.ring-ready.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "+$52K/yr revenue",
+    "url": "https://www.ring-ready.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "— every email and SMS that agent sends now carries your brand instead of ours.",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "Call summaries land in your customer's inbox from your name, with your logo, your support email, and your phone number. They never see RingReady. Recurring revenue from day one.",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "— sent from a dedicated, neutral sending domain (never RingReady's), carrying your brand name, logo, support email and phone. There is no RingReady leakage anywhere in the message.",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "Every email, SMS, and call summary carries your brand and your support contacts — verified, with RingReady nowhere in sight. We don't market to, upsell, or support your clients behind your back. The relationship, and the renewal, is yours.",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "The opportunity, the find-pitch-charge playbook, and a revenue calculator.",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "Call-summary emails go out from a dedicated, neutral sending domain (never RingReady's) carrying your brand, logo, and support contacts; SMS goes out under your brand; and we never contact, market to, or support your customers. You can also switch on a customer portal: a",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "We give you a dedicated number. Forward unanswered calls there from your carrier — one dial code. The number on your business cards, website, and Google profile stays the same — RingReady only picks up the calls you can't.",
+    "url": "https://www.ring-ready.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "We give you a dedicated number. Forward unanswered calls there from your carrier — one dial code. The number on your business cards, website, and Google profile stays the same — RingReady only picks up the calls you can't.",
+    "url": "https://www.ring-ready.com/industries/senior-care",
+    "pass": 1
+   },
+   {
+    "quote": "— every email and SMS that agent sends now carries your brand instead of ours.",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "Call summaries land in your customer's inbox from your name, with your logo, your support email, and your phone number. They never see RingReady. Recurring revenue from day one.",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "— sent from a dedicated, neutral sending domain (never RingReady's), carrying your brand name, logo, support email and phone. There is no RingReady leakage anywhere in the message.",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "Every email, SMS, and call summary carries your brand and your support contacts — verified, with RingReady nowhere in sight. We don't market to, upsell, or support your clients behind your back. The relationship, and the renewal, is yours.",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "How to Choose a Marriage Partner: The Contradiction and Affection of \"You're Such a Fool\" / How Do You Say It in French?｜パリジャーナル(Sakurako)",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Choose a Marriage Partner: The Contradiction and Affection of \"You're Such a Fool\" / How Do You Say It in French?",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have organized the entire text from the beginning so that it can be pasted directly into Note. I have corrected typos (\"Seria\" to \"serif\") and inconsistencies in the phrasing of \"ga baka\" and \"wa baka,\" and added the French translation and a conclusion that ties back to the \"How to Choose a Marriage Partner\" mentioned in the title.",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When choosing a marriage partner, many people use \"whether they like them\" or \"whether the conditions match\" as their criteria.",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the case of a marriage proposal, the following emotions are intricately intertwined.",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "at the end (originally meaning 'go') removes the sting. It carries a nuance of being exasperated but forgiving, like saying 'Oh, you silly thing.'",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(\"But what a fool... I thought you were going to ask me to marry you!\")",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "means \"to ask for marriage,\" in other words, to propose.",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "By the way, in France, it is not uncommon for couples to live together for a long time without getting married, or to choose a system other than marriage called PACS (Civil Solidarity Pact). It is said that the pressure to \"propose soon because you've been together a long time\" is not as strong as it is in Japan.",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Choose a marriage partner you can call a \"fool\"",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Some people might say \"sorry\" with a slightly embarrassed face. Perhaps there are those who actually had a ring ready and were just waiting for the right timing. Or perhaps that one phrase might become the trigger for the two of you to finally have a proper conversation about your future.",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The criteria for choosing a marriage partner are different for everyone. Feelings of love, values, lifestyle, conditions. They are all important, and there is no right answer, after all.",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "80% of callers never leave a voicemail.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get a text and/or email after every call.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Caller name, what they wanted, urgency, estimated job value, and a one-tap link to the call details (recordings on Growth). Pick SMS, email, or both — no portals to log into.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Text. Email. Web link.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every call ends with a text — and an email.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Text + email summaries",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cancel anytime from your dashboard. No phone call, no email back-and-forth, no \"retention specialist.\" Your forwarding turns off the moment you cancel; your existing number keeps working as it always did.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No — Live context is read-only. The AI fetches and answers; it doesn’t modify your source. If you want to capture leads or appointments back into a system, that flows through our SMS booking-link pattern (visitor receives your scheduling link and books on your real calendar) plus the call summary email/SMS + webhook export.",
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "pass": 1
+   },
+   {
+    "quote": "I've been on the other end of the missed call. I've watched my business lose customers because I couldn't get to the phone — in a meeting, at a client site, after hours. Voicemails went unreturned. Answering services cost a fortune and still missed nuance.",
+    "url": "https://www.ring-ready.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "While advising service businesses, we kept seeing the same pattern: 30–50% of calls went unanswered. Voicemail killed the conversion. Hiring a receptionist cost $35–50K a year and still missed nights and weekends. Traditional answering services billed $400+/month and didn't know the business.",
+    "url": "https://www.ring-ready.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail or RingReady. Same caller, two outcomes.",
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional voicemail",
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "Get a text and/or email after every call.",
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "Caller name, what they wanted, urgency, estimated value, and a one-tap link to the full call details — the same kind of handoff real estate agents would want from a great front-desk hire. Pick SMS, email, or both.",
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail or RingReady. Same caller, two outcomes.",
+    "url": "https://www.ring-ready.com/industries/legal-services",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional voicemail",
+    "url": "https://www.ring-ready.com/industries/legal-services",
+    "pass": 1
+   },
+   {
+    "quote": "Get a text and/or email after every call.",
+    "url": "https://www.ring-ready.com/industries/legal-services",
+    "pass": 1
+   },
+   {
+    "quote": "Caller name, what they wanted, urgency, estimated value, and a one-tap link to the full call details — the same kind of handoff law firms would want from a great front-desk hire. Pick SMS, email, or both.",
+    "url": "https://www.ring-ready.com/industries/legal-services",
+    "pass": 1
+   },
+   {
+    "quote": "Storm and hail events drive 5x call volume that overwhelms voicemail. Our AI captures damage type, insurance status, and books inspections 24/7 — flagging insurance work for documentation prep — for $39/month flat with unlimited concurrent calls during storm season.",
+    "url": "https://www.ring-ready.com/industries/roofing",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail or RingReady. Same caller, two outcomes.",
+    "url": "https://www.ring-ready.com/industries/roofing",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional voicemail",
+    "url": "https://www.ring-ready.com/industries/roofing",
+    "pass": 1
+   },
+   {
+    "quote": "Get a text and/or email after every call.",
+    "url": "https://www.ring-ready.com/industries/roofing",
+    "pass": 1
+   },
+   {
+    "quote": "Caller name, what they wanted, urgency, estimated value, and a one-tap link to the full call details — the same kind of handoff roofing contractors would want from a great front-desk hire. Pick SMS, email, or both.",
+    "url": "https://www.ring-ready.com/industries/roofing",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail or RingReady. Same caller, two outcomes.",
+    "url": "https://www.ring-ready.com/industries/pest-control",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional voicemail",
+    "url": "https://www.ring-ready.com/industries/pest-control",
+    "pass": 1
+   },
+   {
+    "quote": "Get a text and/or email after every call.",
+    "url": "https://www.ring-ready.com/industries/pest-control",
+    "pass": 1
+   },
+   {
+    "quote": "Caller name, what they wanted, urgency, estimated value, and a one-tap link to the full call details — the same kind of handoff pest control companies would want from a great front-desk hire. Pick SMS, email, or both.",
+    "url": "https://www.ring-ready.com/industries/pest-control",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Your AI receptionist works 24/7 and identifies urgent pest emergencies like wasp nests near doorways, termite discoveries, rodent infestations, or bed bug outbreaks. It captures all critical details and immediately notifies you via text or email with a priority flag so you can respond to emergencies right away.",
+    "url": "https://www.ring-ready.com/industries/pest-control",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail or RingReady. Same caller, two outcomes.",
+    "url": "https://www.ring-ready.com/industries/dental",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional voicemail",
+    "url": "https://www.ring-ready.com/industries/dental",
+    "pass": 1
+   },
+   {
+    "quote": "Get a text and/or email after every call.",
+    "url": "https://www.ring-ready.com/industries/dental",
+    "pass": 1
+   },
+   {
+    "quote": "Caller name, what they wanted, urgency, estimated value, and a one-tap link to the full call details — the same kind of handoff dental practices would want from a great front-desk hire. Pick SMS, email, or both.",
+    "url": "https://www.ring-ready.com/industries/dental",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Your AI receptionist works 24/7 and identifies urgent dental emergencies like broken teeth, knocked-out teeth, severe toothaches, and post-procedure complications. It captures all critical details, provides appropriate guidance, and immediately notifies you via text or email with a priority flag so you can respond to emergencies right away.",
+    "url": "https://www.ring-ready.com/industries/dental",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail or RingReady. Same caller, two outcomes.",
+    "url": "https://www.ring-ready.com/industries/locksmith",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional voicemail",
+    "url": "https://www.ring-ready.com/industries/locksmith",
+    "pass": 1
+   },
+   {
+    "quote": "Get a text and/or email after every call.",
+    "url": "https://www.ring-ready.com/industries/locksmith",
+    "pass": 1
+   },
+   {
+    "quote": "Caller name, what they wanted, urgency, estimated value, and a one-tap link to the full call details — the same kind of handoff locksmiths would want from a great front-desk hire. Pick SMS, email, or both.",
+    "url": "https://www.ring-ready.com/industries/locksmith",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Your AI receptionist works 24/7 and immediately identifies urgent lockout situations — whether someone is locked out of their car, home, or business. It captures the caller's location, the type of lock or vehicle, and urgency level, then instantly notifies you via text or email with priority details so you can respond fast and win the job.",
+    "url": "https://www.ring-ready.com/industries/locksmith",
+    "pass": 1
+   },
+   {
+    "quote": "When someone is locked out, they typically call 2-3 locksmiths and go with whoever answers first. RingReady answers every call instantly — no hold times, no voicemail. While your competitors' phones ring out, your AI is already collecting details and confirming ETAs. This first-to-answer advantage helps locksmiths capture up to 45% more emergency calls.",
+    "url": "https://www.ring-ready.com/industries/locksmith",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail or RingReady. Same caller, two outcomes.",
+    "url": "https://www.ring-ready.com/industries/property-management",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional voicemail",
+    "url": "https://www.ring-ready.com/industries/property-management",
+    "pass": 1
+   },
+   {
+    "quote": "Get a text and/or email after every call.",
+    "url": "https://www.ring-ready.com/industries/property-management",
+    "pass": 1
+   },
+   {
+    "quote": "Caller name, what they wanted, urgency, estimated value, and a one-tap link to the full call details — the same kind of handoff property management companies would want from a great front-desk hire. Pick SMS, email, or both.",
+    "url": "https://www.ring-ready.com/industries/property-management",
+    "pass": 1
+   },
+   {
+    "quote": "Call summaries (text + email)",
+    "url": "https://www.ring-ready.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Team notifications (every summary texted or emailed to your team)",
+    "url": "https://www.ring-ready.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1 number + 1 email",
+    "url": "https://www.ring-ready.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Instant SMS + email handoff — call back in seconds",
+    "url": "https://www.ring-ready.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Text + email after every call — or both",
+    "url": "https://www.ring-ready.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "— tick up to 5 people, by text or email, and every one of them gets every summary",
+    "url": "https://www.ring-ready.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. RingReady’s prompt editor lets you write rules in plain English: “If a customer is calling about an HVAC service, qualify them and text the booking link. If my wife or kids call, just take a message. If a vendor calls, send them to voicemail.” You decide what counts as work, and the AI handles the rest.",
+    "url": "https://www.ring-ready.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail or RingReady. Same caller, two outcomes.",
+    "url": "https://www.ring-ready.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional voicemail",
+    "url": "https://www.ring-ready.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Get a text and/or email after every call.",
+    "url": "https://www.ring-ready.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Caller name, what they wanted, urgency, estimated value, and a one-tap link to the full call details — the same kind of handoff plumbing contractors would want from a great front-desk hire. Pick SMS, email, or both.",
+    "url": "https://www.ring-ready.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Your AI receptionist works 24/7 and identifies urgent plumbing emergencies like burst pipes, flooding, or no water. It captures all critical details and immediately notifies you via text or email with a priority flag so you can respond to emergencies right away.",
+    "url": "https://www.ring-ready.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. RingReady handles unlimited concurrent calls at flat rate. The 2021 Texas freeze drove some plumbing companies to 500+ calls in 48 hours — the AI absorbs the surge while voicemail loses 50-60% of callers.",
+    "url": "https://www.ring-ready.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail or RingReady. Same caller, two outcomes.",
+    "url": "https://www.ring-ready.com/industries/hvac",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional voicemail",
+    "url": "https://www.ring-ready.com/industries/hvac",
+    "pass": 1
+   },
+   {
+    "quote": "Get a text and/or email after every call.",
+    "url": "https://www.ring-ready.com/industries/hvac",
+    "pass": 1
+   },
+   {
+    "quote": "Caller name, what they wanted, urgency, estimated value, and a one-tap link to the full call details — the same kind of handoff HVAC contractors would want from a great front-desk hire. Pick SMS, email, or both.",
+    "url": "https://www.ring-ready.com/industries/hvac",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by Real Estate professionals.",
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Legal Services professionals.",
+    "url": "https://www.ring-ready.com/industries/legal-services",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Roofing professionals.",
+    "url": "https://www.ring-ready.com/industries/roofing",
+    "pass": 1
+   },
+   {
+    "quote": "Be the first to answer when panicked customers call about pests. Capture every lead while your technicians focus on treatments in the field.",
+    "url": "https://www.ring-ready.com/industries/pest-control",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Pest Control professionals.",
+    "url": "https://www.ring-ready.com/industries/pest-control",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Dental professionals.",
+    "url": "https://www.ring-ready.com/industries/dental",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Locksmith professionals.",
+    "url": "https://www.ring-ready.com/industries/locksmith",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Property Management professionals.",
+    "url": "https://www.ring-ready.com/industries/property-management",
+    "pass": 1
+   },
+   {
+    "quote": "Centrally managed, locally configured AI receptionist for multi-location operators and franchise systems. Same flat price per location, brand-consistent caller experience at every site.",
+    "url": "https://www.ring-ready.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "I grew up in a blue-collar family. I watched my parents and their friends run small businesses and lose customers because a phone went unanswered while they were busy doing the actual work.",
+    "url": "https://www.ring-ready.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Plumbing professionals.",
+    "url": "https://www.ring-ready.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by HVAC professionals.",
+    "url": "https://www.ring-ready.com/industries/hvac",
+    "pass": 1
+   },
+   {
+    "quote": "RingReady's AI receptionist has transformed how we handle incoming calls. Our technicians can now focus on what they do best - keeping customers comfortable. We've seen a 40% increase in service calls and 25 hours saved per week on phone management.",
+    "url": "https://www.ring-ready.com/industries/hvac",
+    "pass": 1
+   },
+   {
+    "quote": "Why operators pick RingReady",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Insurance professionals.",
+    "url": "https://www.ring-ready.com/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Senior Care & Home Health professionals.",
+    "url": "https://www.ring-ready.com/industries/senior-care",
+    "pass": 1
+   },
+   {
+    "quote": "Why operators pick RingReady",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "RingReady — Never miss a customer call again | AI phone ... — Never miss a customer call again. RingReady answers every call, qualifies the lead, and texts callers your booking link — then texts you the summary the moment they hang up. Flat $39/mo. Built for plumbers, HVAC, dentists, attorneys, salons, real estate, roofers, and cleaners.",
+    "url": "https://www.ring-ready.com/",
+    "pass": 3
+   },
+   {
+    "quote": "RingReady - Agentic AI Platform — RingReady is an AI platform that lets you deploy voice and chat agents for your business. These agents can answer customer calls, handle website inquiries, check inventory, generate quotes, and even collect payments—all automatically.",
+    "url": "https://ringready.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Resell AI Phone Answering Under Your Brand | RingReady ... — Partner Program Sell AI phone answering under your own brand. You already serve local businesses. RingReady is the AI receptionist you put your name on — flat cost, white-labeled in one toggle, and proven on a live call before you ever pitch it. Built for agencies, MSPs, VoIP shops, and consultants with a book of local-business clients.",
+    "url": "https://www.ring-ready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "About Us — RingReady | AI Phone Answering Service — Learn about RingReady, the AI-powered phone answering service helping small businesses never miss a call. Meet our team and discover our mission to help businesses grow.",
+    "url": "https://www.ring-ready.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "AI Answering Service by City | Local Phone Answering | RingReady — Find AI phone answering services in your city. RingReady serves small businesses in Houston, Phoenix, Dallas, Atlanta, Miami, Los Angeles, Chicago, Denver, Tampa ...",
+    "url": "https://www.ring-ready.com/locations",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies: AI Receptionist Results by Industry | RingReady — See how plumbing, HVAC, legal, and electrical businesses use RingReady's AI receptionist. Composite case studies with realistic ROI and configuration details.",
+    "url": "https://www.ring-ready.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Plumbing Case Study: Capturing Emergency Call Revenue with AI ... — About this case study. This is a composite scenario based on common patterns observed across plumbing businesses using RingReady. Specifics have been generalized to illustrate typical results rather than naming any particular customer. Numbers reflect industry-realistic averages, not guaranteed individual outcomes.",
+    "url": "https://www.ring-ready.com/case-studies/plumbing",
+    "pass": 3
+   },
+   {
+    "quote": "Ring Ready | Case Studies | Emerging Stacks Technologies — Developed an AI-powered communication platform that helps businesses automate customer conversations across voice, messaging, and digital channels. The solution streamlines appointment scheduling, lead engagement, customer support, and follow-ups while integrating seamlessly with existing business workflows. Built for scalability and relia",
+    "url": "https://www.emergingstacks.com/case-studies/ring-ready",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program | White-Label AI Phone Answering | RingReady — Partner Program Sell AI phone answering under your own brand. You already serve local businesses. RingReady is the AI receptionist you put your name on — flat cost, white-labeled in one toggle, and proven on a live call before you ever pitch it. Built for agencies, MSPs, VoIP shops, and consultants with a book of local-business client",
+    "url": "https://ringsready.com/resellers",
+    "pass": 3
+   },
+   {
+    "quote": "Assaf A - Founder at RingReady | LinkedIn — Founder at RingReady · Experience: RingReady · Location: Pompano Beach. View Assaf A’s profile on LinkedIn, a professional community of 1 billion members.",
+    "url": "https://www.linkedin.com/in/assaf-a-52a117384",
+    "pass": 3
+   },
+   {
+    "quote": "About RingReady | AI Phone Answering for Service Businesses — Learn how RingReady was built to help service businesses stop missing calls. Flat $59/month, no contracts, AI that answers 24/7.",
+    "url": "https://ringsready.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "RingReady Case Studies: AI Receptionist Results by Industry — See how plumbing, HVAC, legal, and electrical businesses use RingReady's AI receptionist. Composite case studies with realistic ROI and configuration details.",
+    "url": "https://www.ring-ready.com/case-studies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "How to Choose a Marriage Partner: The Contradiction and ... Perhaps there are those who actually had a ring ready and were just waiting for the right timing. Or perhaps that one phrase might become the trigger for the two of you to finally have a proper conversation about your future.",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "The \"such a\" (the possessive particle 'no' in Japanese) is the key.",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In Japanese, these emotions can be packed into the short phrase '○○-kun no baka' (You idiot). Moreover, you can say it while laughing through tears. This sensation where tears and laughter coexist is the true essence of this expression.",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". However, just like in Japanese, the meaning changes significantly depending on",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is interesting here is that the Japanese particle \"no\" and the French \"mon\" perform similar functions. Both place the word \"fool\" within the context of a relationship, transforming it into the meaning of \"my hopeless one.\"",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "By the way, in France, it is not uncommon for couples to live together for a long time without getting married, or to choose a system other than marriage called PACS (Civil Solidarity Pact). It is said that the pressure to \"propose soon because you've been together a long time\" is not as strong as it is in Japan.",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "How to Choose a Marriage Partner: The Contradiction and Affection of \"You're Such a Fool\" / How Do You Say It in French?｜パリジャーナル(Sakurako)",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Choose a Marriage Partner: The Contradiction and Affection of \"You're Such a Fool\" / How Do You Say It in French?",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have organized the entire text from the beginning so that it can be pasted directly into Note. I have corrected typos (\"Seria\" to \"serif\") and inconsistencies in the phrasing of \"ga baka\" and \"wa baka,\" and added the French translation and a conclusion that ties back to the \"How to Choose a Marriage Partner\" mentioned in the title.",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When choosing a marriage partner, many people use \"whether they like them\" or \"whether the conditions match\" as their criteria.",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, I think there is another important criterion. It is, \"Can I truly be disappointed in this person?\"",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You might expect someone to propose to you, but they don't. Things like that happen. In such moments, there is a specific line you might say.",
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#RingReady\" - Results on X | Live Posts & Updates Results for \"#RingReady\" on X (Twitter). Find the latest posts, discussions, and updates about #RingReady. 20 results found.",
+    "url": "https://x.com/hashtag/RingReady",
+    "pass": 3
+   },
+   {
+    "quote": "Show Ring Ready (@ShowRingReady) / Posts / X Show Ring Ready (@ShowRingReady) - Posts - Cattle feed product, revolutionizing feeding ability, one calf at a time. To order DM or call (903)3... | X (formerly Twitter)",
+    "url": "https://x.com/ShowRingReady",
+    "pass": 3
+   },
+   {
+    "quote": "Woman Wrestler and Leather outfit on X: \"Got it—keep it tight ... Got it—keep it tight. Focused. Built through discipline and consistency. No shortcuts—just work, mindset, and resilience. When it’s time, I show up ready to win. 🔥 #womenswrestling #athlete #fitness #strong #training #ringready",
+    "url": "https://x.com/48076551super/status/2049460497611964818",
+    "pass": 3
+   },
+   {
+    "quote": "Who I'm for You #Wrestling #WrestlerPhysique #FightMode # ... 🦇 Vampire 🦇 (@devil_devi52196). 698 likes 18 replies. Who I'm for You 👽 #Wrestling #WrestlerPhysique #FightMode #GymLife #Strength #PowerBuild #RingReady #FitnessMotivation #WarriorMindset #Muscle",
+    "url": "https://x.com/devil_devi52196/status/2069412504988754076",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Assaf A - Founder at RingReady | LinkedIn Founder at RingReady · Experience: RingReady · Location: Pompano Beach. View Assaf A’s profile on LinkedIn, a professional community of 1 billion members.",
+    "url": "https://www.linkedin.com/in/assaf-a-52a117384",
+    "pass": 3
+   },
+   {
+    "quote": "Kevin Pedley - Director at ringready 2007 limited | LinkedInRingReady | Practice calls for life insurance agents | Andrew ...#ai #smallbusiness #ringready #businessgrowth | Ring-Ready.comLet me introduce you all to my son, Seth Sprague, Founder of ...#smallbusiness #ai #ringready #businessgrowth | Ring-Ready.com Director at ringready 2007 limited · Experience: ringready 2007 limited · Location: DL",
+    "url": "https://uk.linkedin.com/in/kevin-pedley-24493333b",
+    "pass": 3
+   },
+   {
+    "quote": "RingReady | Practice calls for life insurance agents | Andrew ... Proud to announce that RingReady has been selected for the ElevenLabs Startup Grants program. RingReady is something I built as a working life insurance agent. New agents get handed a script and a ...",
+    "url": "https://www.linkedin.com/posts/andrew-linnik-7b68bb291_ringready-practice-calls-for-life-insurance-activity-7504152948684533764-NoZK",
+    "pass": 3
+   },
+   {
+    "quote": "#ai #smallbusiness #ringready #businessgrowth | Ring-Ready.com From Doubts to Confidence: A Doctor’s Experience with Ring-Ready When Dr. James first heard about our AI Receptionist, he had his doubts. Would it feel too complicated? Could AI really replace ...",
+    "url": "https://www.linkedin.com/posts/ringready_ai-smallbusiness-ringready-activity-7376442758200193024-sg-u",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "RingReady - Facebook RingReady . 275 followers. Reliable care for your livestock while you’re at shows, jackpots, or away. Daily care, feeding, and peace of mind.",
+    "url": "https://www.facebook.com/p/RingReady-61576454751718/",
+    "pass": 3
+   },
+   {
+    "quote": "RingReady AI Receptionist - Facebook RingReady AI Receptionist steps in, handling unlimited calls for just $39/month. We filter spam, book appointments directly into your calendar via SMS, and make sure you never miss a potential customer – all while you're focused on the job. No more missed opportunities or surprise bills! Ready to put that phone on silent and let the leads ...",
+    "url": "https://www.facebook.com/p/RingReady-AI-Receptionist-61577838046847/",
+    "pass": 3
+   },
+   {
+    "quote": "RingReady - Facebook Mar 23, 2026 · RingReady . 255 likes · 265 talking about this. Reliable care for your livestock while you’re at shows, jackpots, or away. Daily care, feeding, and peace of mind.",
+    "url": "https://www.facebook.com/profile.php/?id=61576454751718",
+    "pass": 3
+   },
+   {
+    "quote": "RingReady - Facebook Aug 6, 2025 · RingReady. A modern membership for women in the pre-engagement phase. Get emotionally, aesthetically, and logistically ready for your dream wedding journey — before the ring is even on your finger....",
+    "url": "https://www.facebook.com/profile.php/?id=61579284893484",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ring-ready.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/solutions/live-data-sync",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/industries/real-estate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/industries/legal-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/industries/roofing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/industries/pest-control",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/industries/dental",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/industries/locksmith",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/industries/property-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/industries/plumbing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/industries/hvac",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/solutions/website-chat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/industries/insurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ring-ready.com/industries/senior-care",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ringready.ai/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ringready.ai/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ringsready.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/in/assaf-a-52a117384",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ringsready.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/RingReady",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ShowRingReady",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/48076551super/status/2049460497611964818",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/devil_devi52196/status/2069412504988754076",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/assaf-a-52a117384",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/kevin-pedley-24493333b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/andrew-linnik-7b68bb291_ringready-practice-calls-for-life-insurance-activity-7504152948684533764-NoZK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ringready_ai-smallbusiness-ringready-activity-7376442758200193024-sg-u",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/RingReady-61576454751718/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/RingReady-AI-Receptionist-61577838046847/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=61576454751718",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=61579284893484",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/RingReady",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "RingReady 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "RingReady 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.ring-ready.com/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RingReady Japan",
+   "results": [
+    "https://www.ring-ready.com/",
+    "https://ringready.ai/",
+    "https://www.ring-ready.com/resellers",
+    "https://www.ring-ready.com/about-us",
+    "https://www.ring-ready.com/locations",
+    "https://nexifyprotrade.org/",
+    "https://callringready.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RingReady manufacturing customer case study",
+   "results": [
+    "https://www.ring-ready.com/case-studies",
+    "https://www.ring-ready.com/case-studies/plumbing",
+    "https://ringready.ai/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.emergingstacks.com/case-studies/ring-ready",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://www.rready.com/case-studies"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RingReady white label OR reseller OR partner program",
+   "results": [
+    "https://ringsready.com/resellers",
+    "https://www.ring-ready.com/resellers",
+    "https://www.ring-ready.com/add-ai-receptionist-to-your-agency",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.verkada.com/partners/",
+    "https://partner.vw.com/partner"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RingReady founded funding employees revenue",
+   "results": [
+    "https://www.ring-ready.com/about-us",
+    "https://www.linkedin.com/in/assaf-a-52a117384",
+    "https://ringsready.com/about-us",
+    "https://www.ring-ready.com/case-studies",
+    "https://companydata.com/company-revenue-lookup/",
+    "https://tracxn.com/d/companies/ringready/__awGKhsdDOW4X20XRUoz0fPWOdwYqbKGMXq_htT6zzaw",
+    "https://compworth.com/company/ring-savvy"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com RingReady",
+   "results": [
+    "https://note.com/sakurakoparis/n/n866057ae833b?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/teba_eleven/n/n61e5e7700881",
+    "https://note.com/hatsumuradesu/n/n6c669815ff19",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com RingReady",
+   "results": [
+    "https://x.com/hashtag/RingReady",
+    "https://x.com/ShowRingReady",
+    "https://x.com/48076551super/status/2049460497611964818",
+    "https://x.com/devil_devi52196/status/2069412504988754076",
+    "https://x.com/theatercoaster/status/2058916005326266526",
+    "https://x.com/devil_devi52196/status/2060380717755032059",
+    "https://x.com/WWE4Life8_8/status/2120022046084399205"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com RingReady",
+   "results": [
+    "https://www.linkedin.com/in/assaf-a-52a117384",
+    "https://uk.linkedin.com/in/kevin-pedley-24493333b",
+    "https://www.linkedin.com/posts/andrew-linnik-7b68bb291_ringready-practice-calls-for-life-insurance-activity-7504152948684533764-NoZK",
+    "https://www.linkedin.com/posts/ringready_ai-smallbusiness-ringready-activity-7376442758200193024-sg-u",
+    "https://www.linkedin.com/posts/ringready_smallbusiness-ai-ringready-activity-7377171308020932608-Bf6K",
+    "https://www.linkedin.com/in/andrewlinnik",
+    "https://www.linkedin.com/posts/aasprague_let-me-introduce-you-all-to-my-son-seth-activity-7435715853301706754-AZYI"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com RingReady",
+   "results": [
+    "https://www.facebook.com/p/RingReady-61576454751718/",
+    "https://www.facebook.com/p/RingReady-AI-Receptionist-61577838046847/",
+    "https://www.facebook.com/profile.php/?id=61576454751718",
+    "https://www.facebook.com/profile.php/?id=61579284893484",
+    "https://www.facebook.com/61577838046847/posts/still-trying-to-choose-between-finishing-that-critical-job-and-answering-a-poten/122197142576927934/",
+    "https://www.facebook.com/61577838046847/posts/122147706440927934/",
+    "https://www.facebook.com/61577838046847/posts/are-your-insurance-agents-constantly-playing-phone-tag-or-missing-critical-new-l/122198333222927934/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RingReady note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.ring-ready.com/about-us",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://ringready.ai/",
+    "https://ringsready.com/about-us",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "RingReady X 投稿",
+   "results": [
+    "https://x.com/hashtag/RingReady",
+    "https://ringready.org/",
+    "https://www.ringsready.com/login",
+    "https://www.ring-ready.com/",
+    "https://ringready.applixus.com/",
+    "https://x.com/ryusei8728/status/2119784348883034205",
+    "https://www.instagram.com/p/De4AxnRiY2x/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

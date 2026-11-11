@@ -1,0 +1,760 @@
+{
+ "name": "Rechargepayments",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T09:27:34.616610+00:00",
+ "official_url": "https://rechargepayments.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "We’re relentless in pushing our product forward",
+    "url": "https://getrecharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The founding principles that have guided us from day one.",
+    "url": "https://getrecharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "More than a platform. Our team works directly with yours to manage and scale your subscription program.",
+    "url": "https://getrecharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No one ships faster. In the last year, we’ve launched over 150 products and updates to help you stay ahead.",
+    "url": "https://getrecharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "about relentless product innovation at Recharge",
+    "url": "https://getrecharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "about the proven performance of Recharge",
+    "url": "https://getrecharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From migration to your next milestone, seamless onboarding and award-winning support help you hit every goal with confidence.",
+    "url": "https://getrecharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Relentless product innovation",
+    "url": "https://getrecharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn shoppers into subscribers with no-code tools, predictive analytics, and churn prevention that keep customers from day one.",
+    "url": "https://getrecharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver service at scale with customizable portals, proactive order emails, and AI-powered Concierge SMS.",
+    "url": "https://getrecharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recharge gives us a best-in-class solution and predictable spend, freeing us from custom tech work so we can focus on our core wellness mission.”",
+    "url": "https://getrecharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We value every partnership, but Recharge stands out for the exceptional customer value and hands-on support that show they truly prioritize our shared growth.”",
+    "url": "https://getrecharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Subscriptions are a huge part of people’s daily lives, providing everything from coffee, vitamin supplements, and meal kits to beauty products, clothing, and pet supplies. Launched in 2014,",
+    "url": "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "pass": 3
+   },
+   {
+    "quote": "Since 2017, Recharge has trusted Zendesk to power its support organization, which currently leverages the Suite Enterprise platform and Premier Essentials VIP support. That combination enables Recharge’s 150 support agents to handle around 7,000 tickets each month.",
+    "url": "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "pass": 3
+   },
+   {
+    "quote": "“I’ve always been a big Zendesk fan,” shares Ty Bailey, Vice President of Technical Support at Recharge. “Zendesk has really easy APIs and systems. That allows us to do a lot of things that you just can’t do on other systems.” Current integrations include Assembled for workforce management, as well as HubSpot, Salesforce, and Slack connectivity.",
+    "url": "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "pass": 3
+   },
+   {
+    "quote": "The company benefits from having multiple teams of experts that can answer every type of ticket. It creates a more connected experience and ensures seamless handoffs between teams, which has helped propel the average CSAT to 92 percent.",
+    "url": "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "pass": 3
+   },
+   {
+    "quote": "Structuring support this way drives efficiency and agility, too. “Using a swarm ticket solving model and dynamic routing has allowed us to scale as we innovate quickly on the product side,” Bailey says. “Our response time has dramatically improved.”",
+    "url": "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "pass": 3
+   },
+   {
+    "quote": "The value of collaborative training",
+    "url": "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "pass": 3
+   },
+   {
+    "quote": "To set teams up for success, agents undergo a robust onboarding experience with multi-week enablement training, certification, and peer shadowing. Investing time and energy in training up front leads to smoother adoption and a better new agent experience, while creating a lot of collective knowledge at people’s fingertips.",
+    "url": "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "pass": 3
+   },
+   {
+    "quote": "Collaborative onboarding also provides new hires with a safety net as they learn. Instead of being measured on ticket volume or resolution time, the emphasis is on service quality and utility, so agents are motivated to help each other.",
+    "url": "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "pass": 3
+   },
+   {
+    "quote": "By tracking the time spent on tickets, Recharge can generate more predictable requests for headcount or spend–which can ultimately help make the case for support during economic downturns. “How much of your team’s time is spent on tickets, on value drivers, on friction? Once you have a utilization metric, cuts can’t be made unless you have extra bandwidth,” says Bailey.",
+    "url": "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "pass": 3
+   },
+   {
+    "quote": "“Support has more touchpoints with customers than any other organization–more than sales, product, or marketing. Support actually knows the customers better,” he adds. “If you utilize those touchpoints to drive data, you become indispensable to the other teams.”",
+    "url": "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "pass": 3
+   },
+   {
+    "quote": "An essential way that Recharge gained efficiencies is by eliminating toil, the non-value work a team is doing. “In an ideal world, you’re answering novel questions for customers and driving stickiness and value,” shares Bailey. “Often, support is actually just covering the same topic again and again, or covering up for incomplete manual processes.”",
+    "url": "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "pass": 3
+   },
+   {
+    "quote": "Don’t just solve tickets, resolve the problem",
+    "url": "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "pass": 3
+   },
+   {
+    "quote": "While a data-driven approach to support serves Recharge well, Bailey also believes in going beyond the metrics. “I want us always focused on identifying the pain point for the client,” he says. “The job of the support agent isn’t to just solve a ticket. It’s to resolve the problem. How do you ensure that when you answer a question, that same question is never asked by another customer?”",
+    "url": "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "pass": 3
+   },
+   {
+    "quote": "Future proofing with self-service and AI",
+    "url": "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "pass": 3
+   },
+   {
+    "quote": "“If you make it easy for customers to solve the problem, they’ll go that route,” Bailey observes. “But if it’s hard for them to solve, they will make it your problem. Then you have to decide how to give them the self-serve tools they need.”",
+    "url": "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "pass": 3
+   },
+   {
+    "quote": "Recharge Payments is a Shopify subscriptions app for managing recurring billing, customer self-service portals, and churn reduction. This guide covers its top features and how Transparent Labs used it to scale a subscription program.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "is not easy. With so many nuances to take care of, you need to follow a methodical approach, and the one Shopify app partner we trust for the same is Recharge Payments.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "They are known for not just simplifying the set up process of a subscription model, but also the collaterals required to make the model a success - a subscription landing page, automations for reminders, integrations with other Shopify apps, and more.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "Recharge Subscriptions has introduced a new features designed to help e-commerce businesses reduce churn and increase customer retention.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "Retain: It's a tool to help you prevent loss of the customers. With advanced analytics and personalized engagement strategies, businesses can now proactively address customer concerns, offer tailored incentives, and keep their subscribers satisfied and engaged for longer periods. It includes Three tools:",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "- Optimize the checkout process for products available on subscriptions with custom fields like subscription duration, discounts, and more.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "- Ease purchasing subscriptions with a URL that takes customers directly to cart with pre-populated product information and subscription interval.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "- Create and manage discounts to promote subscriptions and get insights on the best performing discount codes.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "Product SKU and variant",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "- Set subscriptions on specific products or collections, identify your bestsellers and low-selling/ canceled items and how it all impacts your revenue.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "- Sell your subscriptions by promoting them on product pages with an easily customizable widget.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "- Bundle multiple products together for one-time or subscription purchases; best for curated box or fixed items subscription model.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "- Allow customers to include additional products to their existing subscription orders; can include exclusive items tailored to their interests.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "- Compare one-time purchases with subscription sales on your store via a comprehensive revenue dashboard.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "- Encourage existing subscription customers to try new products with targeted product recommendations.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "First things first, ensure that you have a complete understanding of the ecommerce subscription model and its various types - access, replenishment, curation, build-a-box. Every ecommerce business must look into its unique value proposition, its products and what would benefit it the most.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "3. Identify products to offer on subscriptions",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "It is important to note that not all products sell as subscriptions. Take a note of your product analytics to identify purchase patterns and preferences. The idea is to identify items that customers need on a recurring basis and how you can ease these purchases for them.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "The next step is to identify what will appeal to your buyers when you sell products via a subscription model. This could be discounts or deals on the products when bought for a specific duration or benefits like discounted shipping. Remember to take into account your marketing and advertising costs as well as logistics before deciding on subscription offers and benefits.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "6. Set up a marketing strategy",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "Similar to the deals and discounts you create for seasonal sales and rope in all channels to promote them, create a marketing strategy to sell your subscriptions too. This means creating a",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "comprehensive marketing strategy",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "7. Automated Customer Retention Campaigns",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "Recharge has introduced automated customer retention campaigns that target at-risk customers with personalized offers and incentives to reduce churn. These campaigns are driven by machine learning algorithms that predict customer behavior and suggest the best retention strategies.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "Don’t treat the subscription model as a set it and forget element on your store. Ensure you keep a close watch on the performance via the Recharge Payments dashboard, take note of insights and actionables, and optimize to meet customer needs, interests, preferences more proactively.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Over 100M subscribers. Built to perform at scale and trusted by the best in ecommerce.",
+    "url": "https://getrecharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recharge Payments for Shopify: Setup Guide & Case Study",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Drive loyalty through personalized rewards, referrals, and engagement tools built to keep your brand top of mind.",
+    "url": "https://getrecharge.com/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Deliver service at scale with customizable portals, proactive order emails, and AI-powered Concierge SMS.",
+    "url": "https://getrecharge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "- Send transactional emails to customers at critical points - new subscription, before an upcoming charge and more.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Subscriptions are a huge part of people’s daily lives, providing everything from coffee, vitamin supplements, and meal kits to beauty products, clothing, and pet supplies. Launched in 2014,",
+    "url": "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "pass": 3
+   },
+   {
+    "quote": "The best part about Recharge Payments is the fact that the Shopify app partner has accounted for all the stages of a consumer making a subscription purchase. They have a suite of features for customer acquisition, increasing average order value, decreasing subscriber churn, increasing lifetime value and subscription business management.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "- Set subscriptions on specific products or collections, identify your bestsellers and low-selling/ canceled items and how it all impacts your revenue.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue KPI dashboard",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "- Compare one-time purchases with subscription sales on your store via a comprehensive revenue dashboard.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "- Recharge Payments comes with a detailed analytics dashboard that includes key metrics on subscription orders, growth, contribution to overall sales and revenue, top sales channels, customer lifetime value and other growth metrics.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Recharge Payments elevates support with strong data and smart ... — Recharge Payments elevates support with strong data and smart routing Recharge is a unified suite of tools, helping more than 16,000 ecommerce merchants grow and retain their customer base. A Zendesk customer since 2017, the company powers its support organization and delivers seamless service to B2B clients with the Suite Enterpr",
+    "url": "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "pass": 3
+   },
+   {
+    "quote": "Recharge Payments for Shopify: Setup Guide & Case Study — Mar 4, 2023 · How to set up Recharge Payments for Shopify subscriptions - key features, step-by-step setup, and a real case study from Transparent Labs.",
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "Recharge 2026 Company Profile: Valuation, Funding & Investors ...Recharge: funding rounds, valuation, investors and revenueReCharge - Overview, News & Similar companies | ZoomInfo.comReCharge Funding: $312.0M Raised, Investors & History (2026 ...ReCharge: Funding, Investors & Team (Nov 2026) | FundedIQRecharge - Crunchbase Company Profile & Funding — May 6, 2021 · Recharge FAQs When was Recharge f",
+    "url": "https://pitchbook.com/profiles/company/268258-06",
+    "pass": 3
+   },
+   {
+    "quote": "Recharge: funding rounds, valuation, investors and revenue — Recharge California, US · founded 2014 · 535 employees · rechargepayments.com Save",
+    "url": "https://ai.lounge.ai/companies/recharge",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Recharge (@getrecharge) / Posts / X Jan 8 We’re thrilled to announce our partnership with TargetBay and Recharge Payments! 🎉 Together, we’re redefining how subscription-based businesses connect with their customers through personalized marketing and seamless payment solutions. 💳 #Ecommerce @getrecharge 💬 0",
+    "url": "https://x.com/getrecharge",
+    "pass": 3
+   },
+   {
+    "quote": "Recharge on X: \"Create better sales funnels by using #upsells ... Create better sales funnels by using #upsells to increase #AOV with the @CartHook + @ReChargePayment integration! blog.rechargepayments.com/how-to-build-t…",
+    "url": "https://x.com/ReChargePayment/status/1037083539634704384",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Oisin O'Connor - CEO/Founder at Recharge ($100M+ ARR ...Michael M. - COO @ Recharge | LinkedInOisin Oconnor Email & Phone Number | Recharge - ContactOutOisin O'Connor, Author at RechargeRecharge: The world’s leading subscription platformRecharge Payments: Founder, Leadership & TeamOisin O'Connor Email & Phone Number | Recharge Payments Chief ... CEO/Founder at Recharge ($100M+ ARR) | Empowering en",
+    "url": "https://www.linkedin.com/in/oisino",
+    "pass": 3
+   },
+   {
+    "quote": "Michael M. - COO @ Recharge | LinkedInOisin Oconnor Email & Phone Number | Recharge - ContactOutOisin O'Connor, Author at RechargeRecharge: The world’s leading subscription platformRecharge Payments: Founder, Leadership & TeamOisin O'Connor Email & Phone Number | Recharge Payments Chief ... COO @ Recharge · Experience: Recharge · Education: Brigham Young University · Location: Salt Lake City Metro",
+    "url": "https://www.linkedin.com/in/mimcarthur",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://getrecharge.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://getrecharge.com/wp-content/themes/getrecharge/assets/img/blocks/front/logos/hero-slider/quip.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://getrecharge.com/wp-content/themes/getrecharge/assets/img/blocks/front/logos/hero-slider/bobbie.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://getrecharge.com/wp-content/themes/getrecharge/assets/img/blocks/front/logos/hero-slider/oats-overnight.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://getrecharge.com/wp-content/themes/getrecharge/assets/img/blocks/front/logos/hero-slider/good-ranchers.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.capterra.jp/software/206617/recharge-payments",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recharge.com/ja/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recharge.com/en/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.doctorsim.com/en/jp/topup-phone/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moshimoshi81.com/buy/mobile_recharge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aikagi-jpn.com/content-japan-sim-prepaidcard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.recharge.com/en/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/recharge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getrecharge.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/recharge/case-study/better-better-increased-flexibility-with-a-customer-portal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/268258-06",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ai.lounge.ai/companies/recharge",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://indexed.vc/companies/recharge",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/recharge-rechargepayments-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/getrecharge",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ReChargePayment/status/1037083539634704384",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/oisino",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mimcarthur",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rechargepayments 日本 導入",
+   "results": [
+    "https://www.capterra.jp/software/206617/recharge-payments",
+    "https://www.recharge.com/ja/jp",
+    "https://www.zendesk.co.jp/customer/recharge-payments/",
+    "https://www.recharge.com/en/jp",
+    "https://note.com/55clotho/n/n7eac24f6dd61",
+    "https://biz-journal.jp/company/post_395463.html",
+    "https://bindec.jp/media/384766541883/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rechargepayments 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://j-dma.org/trouble"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rechargepayments Japan",
+   "results": [
+    "https://www.doctorsim.com/en/jp/topup-phone/",
+    "https://moshimoshi81.com/buy/mobile_recharge",
+    "https://aikagi-jpn.com/content-japan-sim-prepaidcard/",
+    "https://www.recharge.com/en/jp",
+    "https://www.recharge.com/ja/jp",
+    "https://getrecharge.com/developers/",
+    "https://getrecharge.com/about/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rechargepayments manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/recharge",
+    "https://getrecharge.com/case-studies/",
+    "https://www.casestudies.com/company/recharge/case-study/better-better-increased-flexibility-with-a-customer-portal",
+    "https://xgentech.net/blogs/resources/complete-guide-on-using-recharge-payments-for-ecommerce-subscriptions",
+    "https://www.featuredcustomers.com/vendor/recharge/case-studies",
+    "https://www.scratchpad.com/customers/case-studies/recharge",
+    "https://getrecharge.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rechargepayments white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rechargepayments founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/268258-06",
+    "https://ai.lounge.ai/companies/recharge",
+    "https://indexed.vc/companies/recharge",
+    "https://fundediq.co/recharge-rechargepayments-com-funding/",
+    "https://www.crunchbase.com/organization/recharge-payments",
+    "https://compworth.com/company/recharge-payments",
+    "https://www.zoominfo.com/c/recharge-inc/395770379"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Rechargepayments",
+   "results": [
+    "https://note.com/wiser/n/n9e2395fe19af?hl=en",
+    "https://note.com/55clotho/n/n7eac24f6dd61?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/iskw_iskw/n/nd60709816a09",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/teriburi/n/n5d9e89ab312b"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Rechargepayments",
+   "results": [
+    "https://x.com/getrecharge",
+    "https://docs.x.com/x-api/getting-started/free-credits",
+    "https://x.com/ReChargePayment/status/1037083539634704384",
+    "https://x.com/FingerMotionInc",
+    "https://x.com/getrecharge/status/1390305540815745028",
+    "https://x.com/shadowmint07/status/2120169000617570466",
+    "https://x.com/Dalat_Ventures/status/2119857632530108597"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Rechargepayments",
+   "results": [
+    "https://www.linkedin.com/company/getrecharge",
+    "https://www.linkedin.com/company/rechargecom",
+    "https://ac.linkedin.com/company/recharge-payments/?trk=products_details_guest_organization_page",
+    "https://uk.linkedin.com/company/rechargecom",
+    "https://ca.linkedin.com/in/edward-gabbott",
+    "https://www.linkedin.com/company/getrecharge/jobs",
+    "https://www.linkedin.com/jobs/recharge-payments-jobs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Rechargepayments",
+   "results": [
+    "https://www.facebook.com/rechargepayments/",
+    "https://www.facebook.com/rechargecom/",
+    "https://www.facebook.com/rechargepayments/reels/",
+    "https://www.facebook.com/rechargepayments/posts/704659191664976/",
+    "https://www.facebook.com/rechargepayments/posts/its-an-exciting-day-at-recharge-to-reflect-our-growth-as-a-company-we-have-rebra/4266199050108454/",
+    "https://www.facebook.com/rechargepayments/posts/recharge-helps-dtc-brands-get-the-most-value-out-of-customers-they-acquire-with-/761598469304381/",
+    "https://www.facebook.com/rechargepayments/posts/-were-excited-to-announce-the-launch-of-a-new-highly-requested-feature-passwordl/572455761551987/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rechargepayments note 社長",
+   "results": [
+    "https://www.linkedin.com/in/oisino",
+    "https://www.linkedin.com/in/mimcarthur",
+    "https://contactout.com/Oisin-OConnor-3169334",
+    "https://getrecharge.com/blog/author/oisin/",
+    "https://getrecharge.com/",
+    "https://wellfound.com/company/recharge-2/people",
+    "https://rocketreach.co/oisin-oconnor-email_119841541"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rechargepayments X 投稿",
+   "results": [
+    "https://www.instagram.com/rechargepayments/",
+    "https://www.instagram.com/rechargepayments/reels/",
+    "https://www.instagram.com/reels/audio/828010633088477/",
+    "https://x.com/rechargepayment",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://getrecharge.com/",
+    "https://plus.whh985.xyz/tutorial",
+    "https://developer.rechargepayments.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部28頁・検索12回）"
+ }
+}

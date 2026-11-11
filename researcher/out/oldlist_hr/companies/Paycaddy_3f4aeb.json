@@ -1,0 +1,981 @@
+{
+ "name": "Paycaddy",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T09:14:00.499006+00:00",
+ "official_url": "https://paycaddy.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "01-Feb-2020 $1.4M $1.4M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2018",
+    "url": "https://startupintros.com/orgs/paycaddy",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Panama City, Panama",
+    "url": "https://startupintros.com/orgs/paycaddy",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Launch a card issuing program without the hassle. We enable Latam companies to launch financial products with our API-based platform.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Official program member",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Modernize your card offering without rebuilding your core. Launch Mastercard products under your own brand with full regulatory compliance.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch card issuing programs in record time. Leverage our API to build innovative financial products that set you apart.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fund USD backed cards from crypto accounts. Bridge digital assets and everyday spending with branded Mastercard products.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase customer retention with convenient card payments. Create branded products that enhance the retail experience and build loyalty.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Onboard clients digitally and issue profitable cards. Provide high-net-worth clients with premium products connected to their portfolios.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Perfect for non-technical teams. Launch your branded card program with our whitelabel platform — no developers needed.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a card product to streamline payments, increase brand visibility, and benefit from new revenue opportunities.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build your card product in 5 simple steps",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bespoke for tech teams, Express for non-technical.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Credit or prepaid wallet for your funding, credit or just in time.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Credit, debit or prepaid in any format.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We can provide a dedicated ICA and BIN under a BIN sponsorship model for the cross-border issuing program that your entity intends to launch — giving you full brand ownership backed by the Mastercard global network.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepaid · Debit · Credit",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Programmatic access via API to our card issuing platform. For clients with their own digital experience and a dedicated tech team.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whitelabel app and pre-developed portal. For clients without their own digital experience or tech team.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated ICA and BIN under a sponsorship model for your cross-border issuing program.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Welcome to PayCaddy's API documentation, a comprehensive and flexible platform designed to enable businesses and developers to easily integrate banking and financial services into their applications and systems.",
+    "url": "https://docs.paycaddy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our API is built as a REST interface. The main benefit is that it accepts form-encoded request bodies and returns JSON-encoded responses, using standard HTTP response codes which should make our API familiar to anyone with previous experience using APIs.",
+    "url": "https://docs.paycaddy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Creating wallets for each user you create. This option will be useful if you are going to integrate pre-funded credit type cards or if you want to manage more than one wallet per user. (Check",
+    "url": "https://docs.paycaddy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Card creation is done through different endpoints for debit, credit, and prepaid cards.",
+    "url": "https://docs.paycaddy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "In the initial product exploration, our commercial team will gather the specifications of the",
+    "url": "https://docs.paycaddy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "to be issued. Our integration team will provide a related",
+    "url": "https://docs.paycaddy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "required, this is a unique code for your assigned card profile that should be included in the card creation calls.",
+    "url": "https://docs.paycaddy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "To start an integration process, you must first request integration API Keys by contacting info@paycaddy.com. After initial scoping and onboarding processes, sandbox API keys will be delivered via email to the technical responsible party.",
+    "url": "https://docs.paycaddy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Authentication to the API should be performed via X-API Key. It is necessary to provide the API Key as the basic user value, without the need to provide a password.‍",
+    "url": "https://docs.paycaddy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "‍Uniquely identifies an EndUser or MerchantUser interchangeably. The UserID is the primary entity of the NeoBank API. The process of creating an EndUser or MerchantUser always results in the creation of a UserID and, in turn, an associated WalletID.",
+    "url": "https://docs.paycaddy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "There are several achievable functional flows in our PayCaddy API. They can be categorized by the affected entity or the functional outcome. Essentially all Card Programs require a combination of these flows described below:",
+    "url": "https://docs.paycaddy.com/overviewFlow/",
+    "pass": 3
+   },
+   {
+    "quote": "Enables the registration and KYC verification of new users associated to a particular Card Program. Users can be Natural Persons or Businesses and the KYC verification can be either",
+    "url": "https://docs.paycaddy.com/overviewFlow/",
+    "pass": 3
+   },
+   {
+    "quote": "flows utilize PayCaddy's solution for KYC data capture and user activation is conditional to programatic verification through a 3rd party identity verification provider.",
+    "url": "https://docs.paycaddy.com/overviewFlow/",
+    "pass": 3
+   },
+   {
+    "quote": "Enables the creation of Prepaid, Debit or Credit cards associated to a particular user, wallet and card product specification. This flow also encompasses the initial activation of physical cards.",
+    "url": "https://docs.paycaddy.com/overviewFlow/",
+    "pass": 3
+   },
+   {
+    "quote": "Prefunded Transactions Flow",
+    "url": "https://docs.paycaddy.com/overviewFlow/",
+    "pass": 3
+   },
+   {
+    "quote": ", the approval of open-loop transactions, the enlisting of a Callback URL and the notifications sent via webhook to said address.",
+    "url": "https://docs.paycaddy.com/overviewFlow/",
+    "pass": 3
+   },
+   {
+    "quote": "At a high level, the beginning-to-end from the creation of a user to the reception of transaction notifications can be seen in the diagram below (Prefunded Logic Depicted):",
+    "url": "https://docs.paycaddy.com/overviewFlow/",
+    "pass": 3
+   },
+   {
+    "quote": "For Just-In-Time Funding programs, PayIns won't be utilized and the transaction approval flow will follow a distinct path. For more details see",
+    "url": "https://docs.paycaddy.com/overviewFlow/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers evaluate the quality of PayCaddy’s products using the following success metrics.",
+    "url": "https://www.cbinsights.com/company/paycaddy/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Gross Processing Volume in Card Portfolio",
+    "url": "https://www.cbinsights.com/company/paycaddy/customers",
+    "pass": 3
+   },
+   {
+    "quote": "See why customers chose PayCaddy's products and services. PayCaddy's customers include",
+    "url": "https://www.cbinsights.com/company/paycaddy/customers",
+    "pass": 3
+   },
+   {
+    "quote": "‘s channels and partnerships. Both large and medium size businesses will switch to EVR acceptance from customers at several brick and mortar outlets, with the payment process made more convenient for both merchants and customers. \"This partnership and deal is exciting and rewarding, laying the path for Everus’.",
+    "url": "https://www.cbinsights.com/company/paycaddy/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Hero offers an expense organization platform to provide a Whatsapp bot to capture expenses by sending a photo and a corporate card. The platform enabl…",
+    "url": "https://www.cbinsights.com/company/paycaddy/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Hero is building bill.com for Latam, and they wanted to complement their product with a card to automate accounts payable at the point of sale for their customers. They chose us as an express card partner to create their card in 4 weeks.",
+    "url": "https://www.cbinsights.com/company/paycaddy/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Thredd is an issuer processing platform in the global payments industry. The company provides debit, credit, digital wallet, and ledger capabilities through a single API. It serves fintech, digital banks, and finance providers worldwide. Thredd was formerly known as Global Processing Services. It was founded in 2007 and is based in London, United Kingdom.",
+    "url": "https://www.cbinsights.com/company/paycaddy/customers",
+    "pass": 3
+   },
+   {
+    "quote": "i2c focuses on banking and payments solutions. The company provides a platform for issuer processing, core banking, and money movement, as well as services including fraud risk management and customer care. It serves banks, credit unions, fintechs, and governments. It was founded in 2001 and is based in Redwood City, California.",
+    "url": "https://www.cbinsights.com/company/paycaddy/customers",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/paycaddy/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Paycaddy 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an online banking platform designed to help financial entities and companies deploy digital services and products.",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an online banking platform designed to help financial entities and companies deploy digital services and products. The company's platform offers various features such as electronic wallets and payments, automated ledgers, and a payments back office, enabling users to explore new revenue streams and deploy new financial products without regulatory barriers.",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "Provincia Panamá, Exit 309",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "Paycaddy’s primary industry is Financial Software.",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "Is Paycaddy a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "Paycaddy is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Modernize your card offering without rebuilding your core. Launch Mastercard products under your own brand with full regulatory compliance.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build your own UX/UI and integrate our API, or start without any code with our whitelabel offering.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Perfect for non-technical teams. Launch your branded card program with our whitelabel platform — no developers needed.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your Brand. Our Infrastructure.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "BIN range configured under your brand",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whitelabel app and pre-developed portal. For clients without their own digital experience or tech team.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Transform your business and create new revenue streams",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a card product to streamline payments, increase brand visibility, and benefit from new revenue opportunities.",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cashback earned from transactions (revenue from portfolio)",
+    "url": "https://www.cbinsights.com/company/paycaddy/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an online banking platform designed to help financial entities and companies deploy digital services and products. The company's platform offers various features such as electronic wallets and payments, automated ledgers, and a payments back office, enabling users to explore new revenue streams and deploy new financial products without regulatory barriers.",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "Paycaddy has 18 total employees.",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "What is Paycaddy’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Paycaddy is",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "PayCaddy Revenue 2024: $5M Est.",
+    "url": "https://getlatka.com/companies/paycaddy.com",
+    "pass": 3
+   },
+   {
+    "quote": "PayCaddy has not published its revenue. GetLatka estimates it at about $5M a year (June 2024).",
+    "url": "https://getlatka.com/companies/paycaddy.com",
+    "pass": 3
+   },
+   {
+    "quote": "PayCaddy CEO, founders & employees",
+    "url": "https://getlatka.com/companies/paycaddy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Juan Diego Galvez founded PayCaddy in 2018 and runs it as CEO. PayCaddy had 20 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/paycaddy.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is PayCaddy's revenue?",
+    "url": "https://getlatka.com/companies/paycaddy.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates PayCaddy's revenue at about",
+    "url": "https://getlatka.com/companies/paycaddy.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does PayCaddy have?",
+    "url": "https://getlatka.com/companies/paycaddy.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/paycaddy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/paycaddy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/paycaddy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/paycaddy.com",
+    "pass": 3
+   },
+   {
+    "quote": "PayCaddy enables Latam companies to launch financial products with an API based platform. Rather than building fintech from scratch, or dealing with a legacy bank, companies can use PayCaddy to open digital wallets with KYC checks, automate online payments, and issue personalized debit and prepaid cards for customers or employees.",
+    "url": "https://startupintros.com/orgs/paycaddy",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Enter a valid email address",
+    "url": "https://paycaddy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "To start an integration process, you must first request integration API Keys by contacting info@paycaddy.com. After initial scoping and onboarding processes, sandbox API keys will be delivered via email to the technical responsible party.",
+    "url": "https://docs.paycaddy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "PayCaddy | Fintech Made Easy — PayCaddy enables Latam companies to launch card issuing programs and financial products with our API-based platform. Fintech Made Easy.",
+    "url": "https://paycaddy.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Bespoke — API Card as a Service | PayCaddy — Bespoke is PayCaddy's API-first Card as a Service platform that enables you to integrate wallet services and card products directly into your UX/UI in less than 45 days.",
+    "url": "https://paycaddy.com/en/products/bespoke.html",
+    "pass": 3
+   },
+   {
+    "quote": "PayCaddy API — To start an integration process, you must first request integration API Keys by contacting info@paycaddy.com. After initial scoping and onboarding processes, sandbox API keys will be delivered via email to the technical responsible party.",
+    "url": "https://docs.paycaddy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Flow Overview - PayCaddy API — Jun 23, 2026 · There are several achievable functional flows in our PayCaddy API. They can be categorized by the affected entity or the functional outcome. Essentially all Card Programs require a combination of these flows described below: User Creation Flow Enables the registration and KYC verification of new users associated to a particular Card Program.",
+    "url": "https://docs.paycaddy.com/overviewFlow/",
+    "pass": 3
+   },
+   {
+    "quote": "PayCaddy: ラテンアメリカ向けBaasソリューション — 迅速な導入、シームレスな統合、そして多様な顧客ニーズへの対応により、事業の拡大と収益の向上を実現します。 今日の競争の激しい市場において、ペイキャディは、お客様の成功を支援する信頼できるパートナーです。",
+    "url": "https://huntscreens.com/ja/products/paycaddy",
+    "pass": 3
+   },
+   {
+    "quote": "Contact | PayCaddy — Contact PayCaddy — Get in touch with our team to launch your card issuing program or learn about our BIN sponsorship solutions.",
+    "url": "https://paycaddy.com/en/company/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "Paycaddy — Paycaddy — app financiera de gestión de tarjetas y wallets.",
+    "url": "https://app.paycaddy.net/",
+    "pass": 3
+   },
+   {
+    "quote": "PayCaddy | Fintech Made Easy — Join leading companies in Latin America already powered by PayCaddy. PayCaddy enables Latam companies to launch card issuing programs and financial products with our API-based platform. Fintech Made Easy.",
+    "url": "https://paycaddy.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Blog | PayCaddy — Learn about card issuing, embedded finance, and building fintech products in Latin America. Not every company can build a card program the same way. Express and Bespoke are PayCaddy's two paths to launch — one no-code and built for speed, the other API-first and fully your own.",
+    "url": "https://paycaddy.com/en/blog/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "PayCaddy Customers - CB Insights — PayCaddy’s Customers See why customers chose PayCaddy's products and services. PayCaddy's customers include Everus Technologies, and Hero.",
+    "url": "https://www.cbinsights.com/company/paycaddy/customers",
+    "pass": 3
+   },
+   {
+    "quote": "PayCaddy: The Banking Stack Behind Latin America's Branded Cards — PayCaddy bundles the pieces of a financial product that are painful to assemble separately. A company that wants to give its users a card normally has to source a BIN sponsor, a card processor, a compliance vendor, and a wallet system - then stitch them together.",
+    "url": "https://yespress.io/paycaddy-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "Paycaddy 2026 Company Profile: Valuation, Funding & Investors ...PayCaddy Revenue 2024: $5M Est. ARR, $15M ValuationPayCaddy - 2026 Company Profile, Funding & Competitors - TracxnPayCaddy: Funding, Team & Investors | Startup IntrosPaycaddy - Overview, News & Similar companies | ZoomInfo.comPayCaddy - Crunchbase Company Profile & FundingPayCaddy — Funding, Investors & Team | Seedtable — Information",
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "pass": 3
+   },
+   {
+    "quote": "PayCaddy Revenue 2024: $5M Est. ARR, $15M Valuation — Aug 10, 2026 · PayCaddy 2024 estimated revenue: $5M ARR. Valuation: $15M. 20 employees. Founded 2018. HQ: Panama Updated Apr 10, 2025.",
+    "url": "https://getlatka.com/companies/paycaddy.com",
+    "pass": 3
+   },
+   {
+    "quote": "PayCaddy - 2026 Company Profile, Funding & Competitors - Tracxn — Mar 24, 2026 · Explore PayCaddy's in-depth company profile, including funding details, key investors, leadership, and competitors.",
+    "url": "https://tracxn.com/d/companies/paycaddy/__QiWzuXKMBTl5aL9mM4uDxJmbZYtiPY-bbXb7pwzwtjc",
+    "pass": 3
+   },
+   {
+    "quote": "PayCaddy: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Founded in 2018 in Panama City, Panama, PayCaddy was co-founded by Juan Diego Galvez and Federico Benavides. Galvez brings a background in consulting and banking with experience in electronic payments since 2016, focusing on cross-border payments for mid and large companies.",
+    "url": "https://startupintros.com/orgs/paycaddy",
+    "pass": 3
+   },
+   {
+    "quote": "Paycaddy - Overview, News & Similar companies | ZoomInfo.com — PayCaddy enables users to onboard clients digitally, increase customer retention, and create new revenue streams through convenient card payments. The company is registered and supervised in Panama, focusing on electronic money issuance and payment solutions.",
+    "url": "https://www.zoominfo.com/c/paycaddy/482822049",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "See why customers chose PayCaddy's products and services. PayCaddy's customers include",
+    "url": "https://www.cbinsights.com/company/paycaddy/customers",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "2/ CARD ISSUANCE DCS, Bolt Group, Highnote, Immersve, Kulipa ... Mar 11, 2026 · DCS, Bolt Group, Highnote, Immersve, Kulipa, Lithic, Marqeta, Monavate, PayCaddy, Paymentology, Rain, Thredd, Unlimit, Baanx (We're already tracking cards from some of these issuers on @PaymentScan!)",
+    "url": "https://x.com/tstereth/status/2031819419232649692",
+    "pass": 3
+   },
+   {
+    "quote": "以下是万事达卡 @Mastercard 今天宣布的全部 87 家加密货币合作伙伴，... Mar 12, 2026 · 以下是万事达卡 @Mastercard 今天宣布的全部 87 家加密货币合作伙伴，按类别列出🧵👇 1/ BLOCKCHAINS Aptos, Arc, Avalanche, Canton, Tempo, Cosmos, SUPRA, Polygon, Rayls, Ripple, Solana, Optimism, Plume 2/ CARD ISSUANCE DCS, Bolt Group, Highnote, Immersve, Kulipa, Lithic, Marqeta, Monavate, PayCaddy, Paymentology, Rain ...",
+    "url": "https://x.com/Wuming_Mr_/status/2031956526915584058",
+    "pass": 3
+   },
+   {
+    "quote": "Juan Williams C. (@JuanWilliamsC) / X Finance - Economics - Fintech | Former Co-Founder and CCLRO - PayCaddy | Now building Mandate Labs",
+    "url": "https://x.com/juanwilliamsc",
+    "pass": 3
+   },
+   {
+    "quote": "@paycaddy | X The latest posts from @paycaddy",
+    "url": "https://x.com/paycaddy",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "PayCaddy (YC W22) - LinkedIn PayCaddy (YC W22) | 4576 seguidores en LinkedIn. Fintech a tu alcance en LATAM | Facilitamos la tecnología para lanzar productos financieros a sus clientes, colaboradores o proveedores.",
+    "url": "https://pa.linkedin.com/company/paycaddy",
+    "pass": 3
+   },
+   {
+    "quote": "Juan Diego Galvez - Co-Founder and CEO at PayCaddy (YC W22 ...Juan A. Williams C. - Founder & CEO @ Mandate Labs — the ...PayCaddy: A fintech enabler | PayCaddy (YC W22) posted on the ...Angel Luis Belisario Mouchet - Software Developer @ PayCaddy ...Gabriel Jose Cebrian Chaustre - Lead Engineer Developer ...Federico Benavides - Co-Founder & Chief Technology Officer at ... Actualmente dirijo PayCa",
+    "url": "https://pa.linkedin.com/in/juan-diego-galvez-a78659a7",
+    "pass": 3
+   },
+   {
+    "quote": "PayCaddy: A fintech enabler | PayCaddy (YC W22) posted on the ... At PayCaddy, we're all about simplicity and agility. We empower businesses to effortlessly create customized wallet products and card programs.",
+    "url": "https://www.linkedin.com/posts/paycaddy_exciting-news-as-we-gear-up-for-the-activity-7134981801789267968-E5OE",
+    "pass": 3
+   },
+   {
+    "quote": "Angel Luis Belisario Mouchet - Software Developer @ PayCaddy ...Gabriel Jose Cebrian Chaustre - Lead Engineer Developer ...Federico Benavides - Co-Founder & Chief Technology Officer at ... Desarrollador en PayCaddy (YC W22), fintech de infraestructura de wallets y tarjetas prepago para Latinoamérica. Trabajo en frontends Flutter Web y backends serverless sobre Firebase y Google... · Experience: Pa",
+    "url": "https://es.linkedin.com/in/angelbelisario1901",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "PayCaddy - FacebookPayCaddy - FacebookPayCaddy - Use PayCaddy digital wallet to pay and receive ...PayCaddy - PayCaddy is live! It's your personal digital...PayCaddy - Make sure you get paid for your bets! Get ...PayCaddy - Apple App store:... | FacebookPayCaddy - Make sure your golf bets get paid. Start using... Aug 20, 2019 · PayCaddy is live! It's your personal digital wallet dedicated to golfe",
+    "url": "https://www.facebook.com/paycaddy/",
+    "pass": 3
+   },
+   {
+    "quote": "PayCaddy - Facebook Jun 23, 2022 · Poder trabajar de la mano de cracks en sus áreas y saber que todos están dando el 100% por los objetivos de la compañía y de nuestros clientes es el superpoder del equipo de PayCaddy.",
+    "url": "https://www.facebook.com/p/PayCaddy-100063491023933/",
+    "pass": 3
+   },
+   {
+    "quote": "PayCaddy - Use PayCaddy digital wallet to pay and receive ... Dec 20, 2017 · PayCaddy Dec 20, 2017 Use PayCaddy digital wallet to pay and receive your golf bets instantly",
+    "url": "https://www.facebook.com/paycaddy/posts/138481740194145/",
+    "pass": 3
+   },
+   {
+    "quote": "PayCaddy - PayCaddy is live! It's your personal digital... Dec 20, 2017 · PayCaddy is live! It's your personal digital wallet dedicated to golfers. Use it to pay or receive your golf bets, keep your win:loss stats, get discount...",
+    "url": "https://www.facebook.com/paycaddy/posts/paycaddy-is-live-its-your-personal-digital-wallet-dedicated-to-golfers-use-it-to/138408596868126/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://paycaddy.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://docs.paycaddy.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.paycaddy.com/overviewFlow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/Paidy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.paycaddy.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://money.m-ri.co.jp/en/paypay-guide.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/paycaddy/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paylocity.com/why-paylocity/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/442897-84",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/paycaddy.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/paycaddy/__QiWzuXKMBTl5aL9mM4uDxJmbZYtiPY-bbXb7pwzwtjc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/paycaddy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tstereth/status/2031819419232649692",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Wuming_Mr_/status/2031956526915584058",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/juanwilliamsc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pa.linkedin.com/company/paycaddy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pa.linkedin.com/in/juan-diego-galvez-a78659a7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/paycaddy_exciting-news-as-we-gear-up-for-the-activity-7134981801789267968-E5OE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://es.linkedin.com/in/angelbelisario1901",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/paycaddy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/PayCaddy-100063491023933/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/paycaddy/posts/138481740194145/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/paycaddy/posts/paycaddy-is-live-its-your-personal-digital-wallet-dedicated-to-golfers-use-it-to/138408596868126/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/paycaddy",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Paycaddy 日本 導入",
+   "results": [
+    "https://paycaddy.com/en/",
+    "https://paycaddy.com/en/products/bespoke.html",
+    "https://docs.paycaddy.com/",
+    "https://docs.paycaddy.com/overviewFlow/",
+    "https://huntscreens.com/ja/products/paycaddy",
+    "https://modernlivingjapan.com/ja/blog/cashless-payments-in-japan-the-foreigners-2026-setup-guide",
+    "https://note.com/fingo/n/n6a2055b7f784"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Paycaddy 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Paidy",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Paycaddy Japan",
+   "results": [
+    "https://paycaddy.com/en/",
+    "https://paycaddy.com/en/company/contact.html",
+    "https://docs.paycaddy.com/",
+    "https://money.m-ri.co.jp/en/paypay-guide.html",
+    "https://app.paycaddy.net/",
+    "https://japannook.com/en/articles/japan-payment-guide",
+    "https://docs.paycaddy.com/overviewFlow/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Paycaddy manufacturing customer case study",
+   "results": [
+    "https://paycaddy.com/en/",
+    "https://paycaddy.com/en/blog/index.html",
+    "https://www.cbinsights.com/company/paycaddy/customers",
+    "https://www.paylocity.com/why-paylocity/case-studies/",
+    "https://yespress.io/paycaddy-yc-w22",
+    "https://www.ycombinator.com/companies/paycaddy",
+    "https://www.techstartupslist.com/startup/paycaddy"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Paycaddy white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://paycaddy.com/en/",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.reseller.co.nz/",
+    "https://resellervendors.mysellauth.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Paycaddy founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/442897-84",
+    "https://getlatka.com/companies/paycaddy.com",
+    "https://tracxn.com/d/companies/paycaddy/__QiWzuXKMBTl5aL9mM4uDxJmbZYtiPY-bbXb7pwzwtjc",
+    "https://startupintros.com/orgs/paycaddy",
+    "https://www.zoominfo.com/c/paycaddy/482822049",
+    "https://www.crunchbase.com/organization/paycaddy",
+    "https://seedtable.com/companies/paycaddy"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Paycaddy",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Paycaddy",
+   "results": [
+    "https://about.x.com/en",
+    "https://x.com/tstereth/status/2031819419232649692",
+    "https://x.com/Wuming_Mr_/status/2031956526915584058",
+    "https://x.com/juanwilliamsc",
+    "https://help.x.com/en/using-x/create-x-account",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/PicturesFoIder/status/2118185223867560198"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Paycaddy",
+   "results": [
+    "https://pa.linkedin.com/company/paycaddy",
+    "https://pa.linkedin.com/in/juan-diego-galvez-a78659a7",
+    "https://www.linkedin.com/posts/paycaddy_exciting-news-as-we-gear-up-for-the-activity-7134981801789267968-E5OE",
+    "https://es.linkedin.com/in/angelbelisario1901",
+    "https://www.linkedin.com/in/juan-a-williams-c-1860274b",
+    "https://es.linkedin.com/in/gcebrian/en",
+    "https://pa.linkedin.com/in/federico-benavides-06985016b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Paycaddy",
+   "results": [
+    "https://www.facebook.com/paycaddy/",
+    "https://www.facebook.com/p/PayCaddy-100063491023933/",
+    "https://www.facebook.com/paycaddy/posts/138481740194145/",
+    "https://www.facebook.com/paycaddy/posts/paycaddy-is-live-its-your-personal-digital-wallet-dedicated-to-golfers-use-it-to/138408596868126/",
+    "https://www.facebook.com/paycaddy/posts/138700856838900/",
+    "https://www.facebook.com/paycaddy/posts/apple-app-store-httpsitunesapplecomusapppaycaddyid1292265668mt8google-play-store/138484956860490/",
+    "https://www.facebook.com/paycaddy/posts/make-sure-your-golf-bets-get-paid-start-using-paycaddy-today/138701290172190/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Paycaddy note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Paycaddy X 投稿",
+   "results": [
+    "https://x.com/paycaddy",
+    "https://paycaddy.com/en/",
+    "https://paycaddy.com/en/products/express.html",
+    "https://jp.xhamster.com/search/paycaddy+com",
+    "https://x.com/popular_videoss",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://x.com/twitcasting_jp/status/2100831269575868441"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部29頁・検索12回）"
+ }
+}

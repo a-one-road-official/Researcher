@@ -1,0 +1,1478 @@
+{
+ "name": "Reducto",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜状態なし",
+ "researched_at": "2026-11-11T09:24:24.790037+00:00",
+ "official_url": "https://reducto.ai",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$107.9M",
+    "url": "https://getlatka.com/companies/reducto.ai",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "02-Oct-2024    Completed Product In Beta Test",
+    "url": "https://pitchbook.com/profiles/company/551668-87",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "enterprises unlock their data.",
+    "url": "https://reducto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reducto parse r-1 reads documents like a human would—capturing complex layouts, tables, and formatting with high accuracy and bounding-box citations. Outputs are reviewed and corrected in real-time for near-perfect results, even on edge cases.",
+    "url": "https://reducto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Extract structured data directly from documents with schema-level precision. Whether it's invoice fields, onboarding forms, or financial disclosures, Reducto ensures the right data lands exactly where you need it.",
+    "url": "https://reducto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically separate multi-document files or long forms into individually useful units. Intelligent heuristics and layout-aware splitting keep your pipelines clean and efficient—no manual pre-processing needed.",
+    "url": "https://reducto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fill in detected blanks, tables, and checkboxes with supplied data. No bounding boxes or pre-defined templates are required; Edit dynamically identifies fillable elements regardless of document layout or format, supporting scanned PDFs, digital forms, and complex multi-page documents.",
+    "url": "https://reducto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reducto helped us parse documents we previously could not because of table complexity. It's probably the only AI product that has actually worked for us.",
+    "url": "https://reducto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Produce structured, grounded output",
+    "url": "https://reducto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Battle-tested infrastructure you can trust in production and at scale.",
+    "url": "https://reducto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise support and SLAs",
+    "url": "https://reducto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hands-on forward deployed support and tailored SLAs to meet your enterprise needs.",
+    "url": "https://reducto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security, certified for sensitive and regulated data. View our security policies",
+    "url": "https://reducto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Widely trusted by enterprises worldwide",
+    "url": "https://reducto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "to fill out the contact form if you'd like to trial on the Growth or Enterprise tier. We'll be in touch shortly to get you set up.",
+    "url": "https://reducto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Harvey powers legal and professional services for 1,300+ organizations, using Reducto for reliable document understanding at scale.",
+    "url": "https://reducto.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Anterior accelerates prior authorization with 99%+ accuracy, turning medical documents into structured data.",
+    "url": "https://reducto.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Stack AI customers have processed over 5M documents in their enterprise workflows.",
+    "url": "https://reducto.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Vector Legal processes thousands of documents each month, using Reducto's Parse and Extract to turn complex legal files into structured data for VectorOS.",
+    "url": "https://reducto.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Reducto is one of the key technologies we use at Vanta AI. It's the most accurate document parsing solution we've evaluated, and beyond accuracy we appreciate their reliability, responsiveness, and strong customer support.",
+    "url": "https://reducto.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Reducto Pricing | Agentic document platform for parsing and extraction",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Zero Data Retention Agreement",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Premium Rate Limits and Priority Requests",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority Slack/Teams and Email Support",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "VPC and On-Prem Deployments",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Custom Processing Pipelines",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Not sure what you'll spend? Calculate your pricing",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "If you're using another document processor, we'll give you",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "$60 or $15 for pre-filled pages",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Custom rates for Growth and Enterprise include volume discounts per-endpoint. For full details on how Reducto measures API usage across products, see our",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Spreadsheet Table Clustering",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Presentations & Text Documents",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Calculate your pricing",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Batch processing (−20% on Parse and Extract)",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Price per 1,000 pages",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Industry-leading accuracy to cost ratio for parsing large workloads",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Standalone — can't be combined with other products. $15 / 1k for fully prefilled pages.",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prompted blocks & custom regions",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Free credits and startup pricing",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "If you're an early-stage team building document processing into your product, our Startup Program gives you free credits and discounted Growth pricing to get to production faster.",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the Startup Program",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Free credits to test production document workflows",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Startup pricing on our Growth tier",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority support and a dedicated Slack channel",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Startup Program Eligibility",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Reducto is the agentic document platform for leading AI teams who demand enterprise performance at scale. The platform brings together parsing, extraction, splitting, classification, and editing so teams can turn documents into structured, citation-ready data and complete document workflows.",
+    "url": "https://reducto.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Reducto is built for AI-native companies and document-heavy enterprises. Teams at Harvey, Scale AI, and Vanta use Reducto, and the platform has processed more than 5 billion pages. Its products handle PDFs, scans, spreadsheets, slides, handwriting, tables, charts, and other file types without requiring templates or retraining.",
+    "url": "https://reducto.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Reducto supports production requirements with SOC 2 and HIPAA compliance, zero data retention agreements on the Growth tier and above, enterprise support, custom SLAs, and hosted, VPC, on-premises, and air-gapped deployment options. Teams can get started right away with",
+    "url": "https://reducto.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "free credits, and volume discounts and custom pricing are available on the Growth tier and above as you scale. For questions, contact",
+    "url": "https://reducto.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "We believe the future of AI depends on understanding the messy, real-world data that powers it. At Reducto, our mission is to unlock that data—so that leading AI teams can build smarter systems, faster decisions, and better products. From scanned forms to complex financial statements, we help companies transform documents into insight.",
+    "url": "https://reducto.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We’re builders at heart—curious, humble, and relentless about solving real problems. At Reducto, we only add members to the team when we see an opportunity for outsized impact. We stay small on purpose, so ideas move fast, ownership runs deep, and your work directly shapes the future of the company.",
+    "url": "https://reducto.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our team comes from all walks of life – research, former founders, creatives, and beyond—but we’re united by a shared drive to do the best work of our careers. Whether you’re writing code, training models, or closing enterprise deals, you’ll find the space here to grow fast and build things that truly matter.",
+    "url": "https://reducto.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We invest in your future—both financially and professionally, including 401k with 4% company match.",
+    "url": "https://reducto.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Product Engineering",
+    "url": "https://reducto.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Lead Product Engineer",
+    "url": "https://reducto.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Field Marketing Manager",
+    "url": "https://reducto.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Growth Marketing Manager",
+    "url": "https://reducto.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Sr. Content Marketing Manager",
+    "url": "https://reducto.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Account Executive, Enterprise",
+    "url": "https://reducto.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Business Development Representative",
+    "url": "https://reducto.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Strategic Projects Lead",
+    "url": "https://reducto.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Process research reports, filings, statements, and spreadsheets with decimal-level fidelity for hedge funds, trading desks, and fintech.",
+    "url": "https://reducto.ai/industries",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Widely trusted by enterprises worldwide",
+    "url": "https://reducto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The documents we handle for our customers include handwritten purchase orders, scanned faxes, and are sometimes 300+ pages long. Reducto helped us improve from 70% accuracy to 95–96%, and even tells us exactly which fields it's less confident about, so we know precisely what to double-check.",
+    "url": "https://reducto.ai/industries/logistics-supply-chain",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse documentation",
+    "url": "https://reducto.ai/industries/logistics-supply-chain",
+    "pass": 1
+   },
+   {
+    "quote": "Extract data from receiving documents, pick tickets, and inventory reports for warehouse management.",
+    "url": "https://reducto.ai/industries/logistics-supply-chain",
+    "pass": 1
+   },
+   {
+    "quote": "is an AI-native investment platform used by firms managing ~$1T in assets under management, including some of the world’s top",
+    "url": "https://reducto.ai/blog/benchmark-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Modal: Reducto case study（レイテンシ3x・コールドブート短縮・スケール） -",
+    "url": "https://qiita.com/Yushi88/items/54edd957973788a95180",
+    "pass": 3
+   },
+   {
+    "quote": "— legal AI used by top global law firms; production document infrastructure on regulated, attorney-grade workflows.",
+    "url": "https://llms.reducto.ai/customer-case-study-summaries",
+    "pass": 3
+   },
+   {
+    "quote": "[Anterior × Reducto case study]",
+    "url": "https://llms.reducto.ai/customer-case-study-summaries",
+    "pass": 3
+   },
+   {
+    "quote": "August × Reducto case study",
+    "url": "https://llms.reducto.ai/customer-case-study-summaries",
+    "pass": 3
+   },
+   {
+    "quote": "LEA × Reducto case study",
+    "url": "https://llms.reducto.ai/customer-case-study-summaries",
+    "pass": 3
+   },
+   {
+    "quote": "Doe (AI agents) — Doe has automated 8M+ agent tasks, with \"Reducto handles the complex document work underneath a lot of it,\" per the July 2026 case study. Co-founder Richard Ou: \"Our agents have completed more than 8 million pieces of work for customers, and Reducto handles the complex document work underneath a lot of it. For a three-person team, that's the difference between shipping and not.\"",
+    "url": "https://llms.reducto.ai/customer-case-study-summaries",
+    "pass": 3
+   },
+   {
+    "quote": "Doe × Reducto case study",
+    "url": "https://llms.reducto.ai/customer-case-study-summaries",
+    "pass": 3
+   },
+   {
+    "quote": "\"Reducto handles the complex document work underneath a lot of it\" (July 2026 case study)",
+    "url": "https://llms.reducto.ai/customer-case-study-summaries",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Reducto",
+    "url": "https://www.casestudies.com/customer/reducto",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Robotics is an AI driven robotics company rebuilding manufacturing with advanced assembly automation…",
+    "url": "https://fundediq.co/reducto-reducto-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Under $3M in annual revenue",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Under 50 employees",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Turn carrier loss run reports and submission packets into structured, underwriting-ready data no matter the layout.",
+    "url": "https://reducto.ai/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue cycle optimization",
+    "url": "https://reducto.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Parse contracts, proposals, and vendor documentation to streamline acquisition workflows.",
+    "url": "https://reducto.ai/industries/government",
+    "pass": 1
+   },
+   {
+    "quote": "Parse carrier invoices for rate validation, auditing, and accounts payable workflows.",
+    "url": "https://reducto.ai/industries/logistics-supply-chain",
+    "pass": 1
+   },
+   {
+    "quote": "Structure logistics data for carrier performance tracking, route optimization, and supply chain analytics.",
+    "url": "https://reducto.ai/industries/logistics-supply-chain",
+    "pass": 1
+   },
+   {
+    "quote": "The platform works the way lawyers actually work: a client email arrives in Outlook, research happens on the web app, a memo gets drafted in Word, and the response goes back through Outlook, all with full context preservation across every step.",
+    "url": "https://reducto.ai/blog/august-law-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "\"One of our clients needs to add two full-time employees just to rename documents,\" says Chuck Blake, co-founder and CTO of LEA. \"Firms need operational leverage—and that’s exactly what LEA provides.\"",
+    "url": "https://reducto.ai/blog/lea-reducto-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "is a puzzle of scattered evidence—policies, incident reports, medical records, photos, repair estimates, legal correspondence, expert evaluations—arriving at different times and in inconsistent formats.",
+    "url": "https://reducto.ai/blog/reducto-elysian-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "In modern enterprise, the appetite for efficiency automations is enormous—but building custom AI workflows still feels out of reach for most employees. For non-technical teams buried in manual work, the ability to create AI-powered tools on their own terms is a game-changer.",
+    "url": "https://reducto.ai/blog/gumloop-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "What makes Gumloop so compelling isn’t just the interface—it’s what people build with it. Max regularly hosts office hours during large rollouts, watching firsthand how nontechnical employees create automations that solve real bottlenecks.",
+    "url": "https://reducto.ai/blog/gumloop-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、Reductoはデータ抽出において7桁の年間定期収益（ARR）を達成し、840万ドルの資金調達を行うなど、ビジネス面でも成功を収めています",
+    "url": "https://note.com/hiroshikinoshita/n/n75a31a11615e",
+    "pass": 3
+   },
+   {
+    "quote": "\"type\": \"array\",",
+    "url": "https://docs.reducto.ai/extract/overview",
+    "pass": 3
+   },
+   {
+    "quote": "is an array containing objects matching your schema. When you enable citations, the response format changes to wrap each value with its source location.",
+    "url": "https://docs.reducto.ai/extract/overview",
+    "pass": 3
+   },
+   {
+    "quote": "# Segment document for long arrays",
+    "url": "https://docs.reducto.ai/extract/overview",
+    "pass": 3
+   },
+   {
+    "quote": "ExtractConfigDocumentURLArrayParam",
+    "url": "https://docs.reducto.ai/extract/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Standard extraction works well for short documents, but for documents with many repeating items (hundreds of transactions, long invoice line items), you need array extraction.",
+    "url": "https://docs.reducto.ai/extract/overview",
+    "pass": 3
+   },
+   {
+    "quote": "The problem: LLMs have context limits. When a document is too long, items toward the end may be truncated or missed. Array extraction solves this by segmenting the document, extracting from each segment, and merging the results.",
+    "url": "https://docs.reducto.ai/extract/overview",
+    "pass": 3
+   },
+   {
+    "quote": "ArrayExtractConfigParam",
+    "url": "https://docs.reducto.ai/extract/overview",
+    "pass": 3
+   },
+   {
+    "quote": "\"settings\": {\"array_extract\": true}",
+    "url": "https://docs.reducto.ai/extract/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Array extraction requires at least one top-level property of type",
+    "url": "https://docs.reducto.ai/extract/overview",
+    "pass": 3
+   },
+   {
+    "quote": "in your schema. If your schema has no arrays, the endpoint returns an error.",
+    "url": "https://docs.reducto.ai/extract/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Array Extraction Guide",
+    "url": "https://docs.reducto.ai/extract/overview",
+    "pass": 3
+   },
+   {
+    "quote": "This typically happens with long documents containing arrays. Enable",
+    "url": "https://docs.reducto.ai/extract/overview",
+    "pass": 3
+   },
+   {
+    "quote": "For long arrays, also try enabling",
+    "url": "https://docs.reducto.ai/extract/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Features in use: split processing to separate multi‑document uploads; agent‑in‑the‑loop extraction for complete, accurate arrays and tables.",
+    "url": "https://llms.reducto.ai/customer-case-study-summaries",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto Revenue 2025: $440K Est., $107.9M Raised",
+    "url": "https://getlatka.com/companies/reducto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto has not published its revenue. GetLatka estimates it at about $440K a year (September 2025).",
+    "url": "https://getlatka.com/companies/reducto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto CEO, founders & employees",
+    "url": "https://getlatka.com/companies/reducto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Adit Abraham founded Reducto in 2023 and runs it as CEO. Reducto had 4 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/reducto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Reducto's revenue?",
+    "url": "https://getlatka.com/companies/reducto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Reducto's revenue at about",
+    "url": "https://getlatka.com/companies/reducto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Reducto have?",
+    "url": "https://getlatka.com/companies/reducto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/reducto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/reducto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/reducto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/reducto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Adit Abraham is listed as CEO at Reducto.",
+    "url": "https://fundediq.co/reducto-reducto-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Reducto have?",
+    "url": "https://fundediq.co/reducto-reducto-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/reducto-reducto-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/reducto-reducto-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/551668-87",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/551668-87",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/551668-87",
+    "pass": 3
+   },
+   {
+    "quote": "To view Reducto’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/551668-87",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto has 67 total employees.",
+    "url": "https://pitchbook.com/profiles/company/551668-87",
+    "pass": 3
+   },
+   {
+    "quote": "What is Reducto’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/551668-87",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Reducto is",
+    "url": "https://pitchbook.com/profiles/company/551668-87",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Priority Slack/Teams and Email Support",
+    "url": "https://reducto.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The platform works the way lawyers actually work: a client email arrives in Outlook, research happens on the web app, a memo gets drafted in Word, and the response goes back through Outlook, all with full context preservation across every step.",
+    "url": "https://reducto.ai/blog/august-law-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "That vision requires a level of document understanding that goes well beyond standard text extraction. August’s customers upload everything from clean email threads to multilingual productions, scanned exhibits, and the kinds of irregular PDFs that circulate in litigation.",
+    "url": "https://reducto.ai/blog/august-law-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "While most productions consist of emails and straightforward text files, every matter contains a stubborn 10–15% of documents that legacy platforms like Relativity, iManage, and NetDocs struggle to parse. For August, Reducto handles that last mile of difficult document understanding—the foundation that lets August's agents produce the quality of work that modern firms expect.",
+    "url": "https://reducto.ai/blog/august-law-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Benchmark is on track to process over 3.5M pages a year through Reducto’s infrastructure—automatically processing, chunking, and routing files from user uploads and forwarded emails with virtually no manual overhead. For a small team of 6, that’s the difference between treading water and moving fast.",
+    "url": "https://reducto.ai/blog/benchmark-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Legacy platforms parsed most email/text files but failed on the hard last 10–15% of documents needed for defensible review and citations.",
+    "url": "https://llms.reducto.ai/customer-case-study-summaries",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Reducto team: 1 of 2 have an email address on file, 1 has a LinkedIn profile.",
+    "url": "https://fundediq.co/reducto-reducto-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/reducto-reducto-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/551668-87",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "規制の厳しい現場が選ぶ理由——医療Anteriorの導入事例",
+    "url": "https://qiita.com/Yushi88/items/54edd957973788a95180",
+    "pass": 3
+   },
+   {
+    "quote": ".Aiエージェントを手掛けるカスタマークラウドは、日本初となる企業AI脳「LBAI」やAIがAIを進化させる「AI2AI」の概念を提唱し、 数百社におよぶレガシー産業のDX化・AI導入を成功に導いてきました",
+    "url": "https://note.com/hiroshikinoshita/n/n75a31a11615e",
+    "pass": 3
+   },
+   {
+    "quote": "✅ 日本初のLLMO特化サービス「.Ai SEO」でPRを革新",
+    "url": "https://note.com/hiroshikinoshita/n/n75a31a11615e",
+    "pass": 3
+   },
+   {
+    "quote": "But accuracy and speed is just the foundation. Reducto provides granular control: it can extract only handwritten portions, summarize specific tables, or parse complex multilingual technical documents – all through simple prompts. Whether it’s a Japanese algebra textbook or handwritten notes, Reducto handles it all.",
+    "url": "https://a16z.com/announcement/investing-in-reducto/",
+    "pass": 3
+   },
+   {
+    "quote": "Or if I want to parse a table from a complex Japanese algebra textbook:",
+    "url": "https://a16z.com/announcement/investing-in-reducto/",
+    "pass": 3
+   },
+   {
+    "quote": "With respect to funds managed by a16z that are registered in Japan, a16z will provide to any member of the Japanese public a copy of such documents as are required to be made publicly available pursuant to Article 63 of the Financial Instruments and Exchange Act of Japan. Please contact",
+    "url": "https://a16z.com/announcement/investing-in-reducto/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Reducto: The Agentic Document Platform for AI Teams — Reducto is the agentic document platform for leading AI teams—a comprehensive toolkit for every document task, built for enterprise performance at scale.",
+    "url": "https://reducto.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Reductoとは:テンプレOCRが表で壊れる問題をAgentic OCRはどう読み直... — 文書AIは3層に分けると見通しがよい。 文字を起こすOCR、ページの構造や意味まで読むVLM、「次に何をすべきか」まで踏み込むAgentic OCR——Reductoはこの3層目だ。",
+    "url": "https://qiita.com/Yushi88/items/54edd957973788a95180",
+    "pass": 3
+   },
+   {
+    "quote": "ReductoのCEOと料理しながら語る：なぜPDFは今もAIを壊すのか — Adit ... — 4 days ago · PDFはもともと印刷時の見た目を再現するために作られた形式であり、AIエージェントが文書を正確に読むには人間に近い読み取り精度が必要になる。Reductoは小型のCVモデルを基本にし、難しい箇所だけ大規模モデルを使い分けてきた。自社開発の新モデルR1では、レイアウト把握から最終出力 ...",
+    "url": "https://asi.tokyo/2026/11/07/reductoのceoと料理しながら語る：なぜpdfは今もaiを壊すの/",
+    "pass": 3
+   },
+   {
+    "quote": "AIプラットフォーム「Reducto」の特長ーーGensparkの解説 — Mar 26, 2025 · そう諦めていた現場こそ、DX化のチャンスです。 .Aiエージェントを手掛けるカスタマークラウドは、日本初となる企業AI脳「LBAI」やAIがAIを進化させる「AI2AI」の概念を提唱し、 数百社におよぶレガシー産業のDX化・AI導入を成功に導いてきました。",
+    "url": "https://note.com/hiroshikinoshita/n/n75a31a11615e",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto: The Agentic Document Platform for AI Teams — Reducto is the complete agentic document platform for leading AI teams needing performance at enterprise scale.",
+    "url": "https://reducto.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "About Reducto — Learn about Reducto, the agentic document platform for leading AI teams.",
+    "url": "https://reducto.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Investing in Reducto | Andreessen Horowitz — Oct 14, 2025 · True to the company’s name, Adit and Raunak want Reducto to be the magic spell that “turns large solid objects into pieces” – in this case, turning long-form documents into small chunks through a simple API.",
+    "url": "https://a16z.com/announcement/investing-in-reducto/",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto Documentation | Extract Overview — Reducto Extract API pulls specific fields from documents as structured JSON. Reducto returns values matching your schema, handling OCR, layout detection, and more.",
+    "url": "https://docs.reducto.ai/extract/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto - LinkedIn — Reducto is the agentic document platform for leading AI teams who demand enterprise performance at scale.",
+    "url": "https://www.linkedin.com/company/reducto-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto Customer Case Studies: Outcomes, Metrics, and Real ... — Jul 29, 2026 · Structured summaries of Reducto case studies across finance, healthcare, legal, and automation—now including LEA’s RIA results: 50% less manual entry, 5 hrs/client/mo saved, and rapid <1 week integration.",
+    "url": "https://llms.reducto.ai/customer-case-study-summaries",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto B2B Case Studies & Customer Successes — See how Reducto solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/reducto",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Reducto Uses Software & Services — Explore case studies featuring Reducto as the customer — learn how vendors and partners helped Reducto solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/reducto",
+    "pass": 3
+   },
+   {
+    "quote": "How Vanta is Building AI-Native Compliance with Reducto — Feb 20, 2026 · Learn how Vanta's AI team utilize Reducto to power their AI-native compliance workflows, including questionnaire automation and evidence evaluation.",
+    "url": "https://reducto.ai/blog/vanta-reducto-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "4 Reducto Case Studies, Success Stories, & Customer Stories ... — Discover how other companies use Reducto, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/reducto/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto Revenue 2025: $440K Est., $107.9M Raised — Oct 30, 2026 · How much funding has Reducto raised? Reducto has raised $107.9M across three funding rounds. The latest was a $75M Series B in October 2025.",
+    "url": "https://getlatka.com/companies/reducto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto - 2026 Company Profile, Team, Funding & Competitors ...Reducto: Funding, Investors & Team (Nov 2026) | FundedIQReducto 2026 Company Profile: Valuation, Funding & Investors ...Reducto Revenue, Funding & Valuation - prospeo.ioReducto - Crunchbase Company Profile & FundingReducto - Products, Competitors, Financials, Employees ... — Mar 11, 2026 · Reducto is a series B company based in San Fra",
+    "url": "https://tracxn.com/d/companies/reducto/__-EJjh3Kybd5qDF1jcW_4YV0Ue1NLniCGRJtct0F924Q",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto: Funding, Investors & Team (Nov 2026) | FundedIQ — Reducto has raised $83.4M across 2 funding rounds on record, the most recent a Series B of $75.0M announced in Oct 2025. That round is above the $6.0M median round size for Artificial Intelligence companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/reducto-reducto-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto 2026 Company Profile: Valuation, Funding & Investors ...Reducto Revenue, Funding & Valuation - prospeo.ioReducto - Crunchbase Company Profile & FundingReducto - Products, Competitors, Financials, Employees ... — Information on valuation, funding, cap tables, investors, and executives for Reducto. Use the PitchBook Platform to explore the full profile. Reducto has raised a total of $33,400,",
+    "url": "https://pitchbook.com/profiles/company/551668-87",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto Revenue, Funding & Valuation - prospeo.ioReducto - Crunchbase Company Profile & FundingReducto - Products, Competitors, Financials, Employees ... — Reducto has raised a total of $33,400,000 across 3 funding rounds. This investment has helped the company grow and expand its operations. Reducto has revenue of $2,395,540, estimated valuation of $7,700,000, $33,400,000 in total funding. Find c",
+    "url": "https://prospeo.io/c/reducto-revenue",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…",
+    "url": "https://fundediq.co/reducto-reducto-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "AIプラットフォーム「Reducto」の特長ーーGensparkの解説 Mar 26, 2025 · Reductoは、その性能と速度において競合他社と比較して10倍の速さを達成し、精度も30%向上していることが知られています。 この特徴により、法律、医療、金融などの多様な分野で活用されています。",
+    "url": "https://note.com/hiroshikinoshita/n/n75a31a11615e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "AIプラットフォーム「Reducto」の特長ーーGensparkの解説｜木下寛士",
+    "url": "https://note.com/hiroshikinoshita/n/n75a31a11615e",
+    "pass": 3
+   },
+   {
+    "quote": "AIプラットフォーム「Reducto」の特長ーーGensparkの解説",
+    "url": "https://note.com/hiroshikinoshita/n/n75a31a11615e",
+    "pass": 3
+   },
+   {
+    "quote": "Reductoは、データ抽出と文書解析に特化したAIエージェントです。大量の文書から高精度でデータを抽出することを目的としたAPIであり、特に非構造化データの処理に優れています。",
+    "url": "https://note.com/hiroshikinoshita/n/n75a31a11615e",
+    "pass": 3
+   },
+   {
+    "quote": ": Reductoは複数のビジョンモデルを活用しており、従来の方法では難しい非構造化な表からもデータを正確に抽出できます。",
+    "url": "https://note.com/hiroshikinoshita/n/n75a31a11615e",
+    "pass": 3
+   },
+   {
+    "quote": ": 様々な形式の文書（PDFやスプレッドシートなど）を解析し、構造化された出力に変換することが可能です。これにより、企業の業務プロセスを効率化することが期待されています。",
+    "url": "https://note.com/hiroshikinoshita/n/n75a31a11615e",
+    "pass": 3
+   },
+   {
+    "quote": ": Reductoは、どのようなベクターデータベースや埋め込みシステムとも統合できるため、多岐にわたるワークフローに対応できます。",
+    "url": "https://note.com/hiroshikinoshita/n/n75a31a11615e",
+    "pass": 3
+   },
+   {
+    "quote": "企業では、Reductoを用いて書類やレポートの自動分析、顧客データの収集、マーケティングリサーチなどのプロセスを簡素化しています。特に、文書の大量処理を必要とする業界で非常に有用です。",
+    "url": "https://note.com/hiroshikinoshita/n/n75a31a11615e",
+    "pass": 3
+   },
+   {
+    "quote": "Reductoは、文書解析とデータ抽出を強化したAIエージェントとして、さまざまなビジネスシーンにおいてその価値を発揮しています。このAIツールの導入は、業務の自動化を促進し、生産性向上に寄与するでしょう。",
+    "url": "https://note.com/hiroshikinoshita/n/n75a31a11615e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Reducto (@reductoai) / X We’re launching a new pay-as-you-go tier with 15k free credits, allowing any company to get started with Reducto. Read the full blog in the comments.",
+    "url": "https://x.com/reductoai",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto on X: \"We’re excited to announce our partnership with ... We’re excited to announce our partnership with @OpenAI to bring Reducto Office to ChatGPT and Codex as a plugin 🔮 Reducto Office is a full-fidelity, agent-native office suite that gives people and agents a shared place to work on .docx, .pptx, and .xlsx files.",
+    "url": "https://x.com/reductoai/status/2116235413962854557",
+    "pass": 3
+   },
+   {
+    "quote": "reducto (@reducto) / Posts / X I am under the impression that some people tweeting at me have no idea who I am. I am Reducto! I will make you Tweet-sized! 💬0 🔄2 🤍0 0 📎 reductoreducto 0 Mar 19",
+    "url": "https://x.com/Reducto",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto on X: \"Install the plugin: https://t.co/2VU8uCRKED ... We’re excited to announce our partnership with @OpenAI to bring Reducto Office to ChatGPT and Codex as a plugin 🔮 Reducto Office is a full-fidelity, agent-native office suite that gives people and agents a shared place to work on .docx, .pptx, and .xlsx files.",
+    "url": "https://x.com/reductoai/status/2116236229012521099",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Reducto - LinkedIn About us Reducto is the complete agentic document platform for leading AI teams needing performance at enterprise scale.",
+    "url": "https://www.linkedin.com/company/reducto-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto - LinkedIn About Reducto is the agentic document platform for leading AI teams who demand enterprise performance at scale.",
+    "url": "https://www.linkedin.com/products/reducto-ai-reducto/",
+    "pass": 3
+   },
+   {
+    "quote": "Adit Abraham - Reducto | LinkedInRaunak Chowdhuri - Founder @ Reducto | LinkedInReducto - LinkedInReducto: Jobs | LinkedInReducto: Culture | LinkedIn Used to study CS at MIT and make Ads/Search things for Google. · Experience: Reducto · Education: Massachusetts Institute of Technology · Location: San Francisco · 500+ connections on LinkedIn. Sep 16, 2017 · Founder @ Reducto · Parsing Documents @ R",
+    "url": "https://www.linkedin.com/in/aditabraham",
+    "pass": 3
+   },
+   {
+    "quote": "Raunak Chowdhuri - Founder @ Reducto | LinkedInReducto - LinkedInReducto: Jobs | LinkedInReducto: Culture | LinkedIn Sep 16, 2017 · Founder @ Reducto · Parsing Documents @ Reducto · Experience: Reducto · Education: Massachusetts Institute of Technology · Location: San Francisco · 500+ connections on LinkedIn. Reducto ayuda a las empresas a dar una segunda vida a sus dispositivos olvidados convirti",
+    "url": "https://www.linkedin.com/in/sauhaarda",
+    "pass": 3
+   },
+   {
+    "quote": "Adit Abraham - Reducto | LinkedIn加藤貞顕 - WikipediaRaunak Chowdhuri - Founder @ Reducto | LinkedInnoteはAI時代の「コンテンツ流通インフラ」になる。CEO加藤貞顕×CSO深...経営チーム｜note株式会社About Reducto Used to study CS at MIT and make Ads/Search things for Google. · Experience: Reducto · Education: Massachusetts Institute of Technology · Location: San Francisco · 500+ connections on LinkedIn. 加藤貞顕 加藤 貞顕 （かとう さだあき、 1973年 6月11日 [1] - ",
+    "url": "https://www.linkedin.com/in/aditabraham",
+    "pass": 3
+   },
+   {
+    "quote": "Raunak Chowdhuri - Founder @ Reducto | LinkedInnoteはAI時代の「コンテンツ流通インフラ」になる。CEO加藤貞顕×CSO深...経営チーム｜note株式会社About Reducto Sep 16, 2017 · Founder @ Reducto · Parsing Documents @ Reducto · Experience: Reducto · Education: Massachusetts Institute of Technology · Location: San Francisco · 500+ connections on LinkedIn. Aug 6, 2026 · この流通の精度が上がったことで、note内の回遊も、売上も伸びています。 noteはプラットフォームからエコシステムへ ――決算説明会では「AI時代の",
+    "url": "https://www.linkedin.com/in/sauhaarda",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Reductio - FacebookReducto - Audiovisual Hub | Montevideo - FacebookReducto Sónico - FacebookCooperativa Reducto Ltda. | San Lorenzo - FacebookReducto MX | Mexico City - FacebookReducto Sónico - FacebookAllen Ballesteros Reducto - Facebook 3 days ago · Reductio. 65,614 followers · 5,754 talking about this. Uniting Contemporary and Classical Music Uni of Cambridge 21' https://linktr.ee/reductiomusi",
+    "url": "https://www.facebook.com/reductiomusic/",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto - Audiovisual Hub | Montevideo - Facebook Oct 17, 2026 · Este 17 de octubre volvemos a encontrarnos en Reducto para una nueva edición dedicada a las ideas, tendencias y tecnologías que están transformando el audiovisual. 📅 Las inscripciones abren el 1ero de octubre en Eventbrite. Muy pronto compartimos la agenda completa.",
+    "url": "https://www.facebook.com/REDUCTOUY/",
+    "pass": 3
+   },
+   {
+    "quote": "Reducto Sónico - Facebook 6 days ago · 20 años de Reducto Sónico y cierre de temporada. Fiesta garantizada. Hoy a las 20:00 h en la Sala Cientocero.",
+    "url": "https://www.facebook.com/p/Reducto-Sónico-100063650373175/",
+    "pass": 3
+   },
+   {
+    "quote": "Cooperativa Reducto Ltda. | San Lorenzo - FacebookReducto MX | Mexico City - FacebookReducto Sónico - FacebookAllen Ballesteros Reducto - Facebook En la Cooperativa Reducto Ltda de Microfinanzas construimos juntos el camino hacia la excelencia! 🚀👥 Cada paso y cada módulo nos acercan más a ofrecer un servicio de primera calidad. Oct 31, 2026 · Le preguntamos a la IA cómo se vería Reducto si hubiéra",
+    "url": "https://www.facebook.com/coopreductoltda/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://reducto.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/industries/finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/industries/insurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/industries/legal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/industries/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/industries/government",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/industries/construction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/industries/logistics-supply-chain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/blog/scale-ai-reducto-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/blog/vanta-reducto-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/blog/august-law-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/blog/lea-reducto-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/blog/reducto-elysian-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/blog/gumloop-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reducto.ai/blog/benchmark-case-study",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.reducto.ai/landing-page/logos/reducto-logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.reducto.ai/website_logos/harvey.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.reducto.ai/website_logos/scale-color.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.reducto.ai/website_logos/newfront.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://qiita.com/Yushi88/items/54edd957973788a95180",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asi.tokyo/2026/11/07/reducto%E3%81%AEceo%E3%81%A8%E6%96%99%E7%90%86%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E8%AA%9E%E3%82%8B%EF%BC%9A%E3%81%AA%E3%81%9Cpdf%E3%81%AF%E4%BB%8A%E3%82%82ai%E3%82%92%E5%A3%8A%E3%81%99%E3%81%AE/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hiroshikinoshita/n/n75a31a11615e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://a16z.com/announcement/investing-in-reducto/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.reducto.ai/extract/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llms.reducto.ai/customer-case-study-summaries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/reducto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/reducto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/reducto.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/reducto/__-EJjh3Kybd5qDF1jcW_4YV0Ue1NLniCGRJtct0F924Q",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/reducto-reducto-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/551668-87",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/hiroshikinoshita/n/n75a31a11615e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/reductoai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/reductoai/status/2116235413962854557",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Reducto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/reductoai/status/2116236229012521099",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/reducto-ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/reducto-ai-reducto/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/aditabraham",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sauhaarda",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reductiomusic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/REDUCTOUY/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Reducto-Sónico-100063650373175/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/coopreductoltda/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/aditabraham",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sauhaarda",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/reductoai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/reductoai/status/2116235413962854557",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Reducto 日本 導入",
+   "results": [
+    "https://reducto.ai/",
+    "https://qiita.com/Yushi88/items/54edd957973788a95180",
+    "https://asi.tokyo/2026/11/07/reductoのceoと料理しながら語る：なぜpdfは今もaiを壊すの/",
+    "https://note.com/hiroshikinoshita/n/n75a31a11615e",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://carview.yahoo.co.jp/news/detail/47e6455a7095c54bc0ec0f739549cf4f3c6fa475/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reducto 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://www.mkikuchi-law.com/17785461217883"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Reducto Japan",
+   "results": [
+    "https://reducto.ai/",
+    "https://reducto.ai/about",
+    "https://a16z.com/announcement/investing-in-reducto/",
+    "https://docs.reducto.ai/extract/overview",
+    "https://www.linkedin.com/company/reducto-ai/",
+    "https://research.contrary.com/company/reducto",
+    "https://docs.reducto.ai/overview"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reducto manufacturing customer case study",
+   "results": [
+    "https://llms.reducto.ai/customer-case-study-summaries",
+    "https://www.casestudies.com/company/reducto",
+    "https://www.casestudies.com/customer/reducto",
+    "https://reducto.ai/blog/vanta-reducto-case-study",
+    "https://www.featuredcustomers.com/vendor/reducto/case-studies",
+    "https://www.featuredcustomers.com/vendor/reducto",
+    "https://reducto.ai/blog"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reducto white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reducto founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/reducto.ai",
+    "https://tracxn.com/d/companies/reducto/__-EJjh3Kybd5qDF1jcW_4YV0Ue1NLniCGRJtct0F924Q",
+    "https://fundediq.co/reducto-reducto-ai-funding/",
+    "https://pitchbook.com/profiles/company/551668-87",
+    "https://prospeo.io/c/reducto-revenue",
+    "https://www.crunchbase.com/organization/reducto",
+    "https://www.cbinsights.com/company/reducto-ai"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Reducto",
+   "results": [
+    "https://note.com/hiroshikinoshita/n/n75a31a11615e",
+    "https://note.com/stargazingwario/n/nc8ea3d35c0f4",
+    "https://note.com/tag/我々は宇宙人",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/tori_1980/n/n21037c205ade"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Reducto",
+   "results": [
+    "https://x.com/reductoai",
+    "https://x.com/reductoai/status/2116235413962854557",
+    "https://x.com/Reducto",
+    "https://x.com/reductoai/status/2116236229012521099",
+    "https://x.com/reductoai/status/2102085310591197477",
+    "https://x.com/i/trending/2052437224109568163",
+    "https://x.com/reductoai/status/2041185454524133644"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Reducto",
+   "results": [
+    "https://www.linkedin.com/company/reducto-ai/",
+    "https://www.linkedin.com/products/reducto-ai-reducto/",
+    "https://www.linkedin.com/in/aditabraham",
+    "https://www.linkedin.com/in/sauhaarda",
+    "https://www.linkedin.com/company/reductomx",
+    "https://www.linkedin.com/company/reducto-ai/jobs",
+    "https://www.linkedin.com/company/reducto-ai/life"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Reducto",
+   "results": [
+    "https://www.facebook.com/reductiomusic/",
+    "https://www.facebook.com/REDUCTOUY/",
+    "https://www.facebook.com/p/Reducto-Sónico-100063650373175/",
+    "https://www.facebook.com/coopreductoltda/",
+    "https://www.facebook.com/reductomx/",
+    "https://www.facebook.com/people/Reducto-Sónico/100063650373175/",
+    "https://www.facebook.com/allen.reducto/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reducto note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.unite.ai/adit-abraham-co-founder-and-ceo-of-reducto-interview-series/",
+    "https://www.linkedin.com/in/aditabraham",
+    "https://www.linkedin.com/in/sauhaarda",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://reducto.ai/about"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Reducto X 投稿",
+   "results": [
+    "https://x.com/reductoai",
+    "https://x.com/reductoai/status/2116235413962854557",
+    "https://reducto.ai/",
+    "https://reducto.ai/about",
+    "https://docs.reducto.ai/upload/overview",
+    "https://studio.reducto.ai/",
+    "https://maisondechatofficial.com/entry/2026/09/23/203000"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

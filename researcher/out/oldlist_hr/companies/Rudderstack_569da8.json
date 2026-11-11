@@ -1,0 +1,1394 @@
+{
+ "name": "Rudderstack",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜リマイン1",
+ "researched_at": "2026-11-11T09:06:34.439510+00:00",
+ "official_url": "https://www.rudderstack.com",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email Support",
+    "value": "",
+    "url": "https://www.rudderstack.com/pricing/",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$82M",
+    "url": "https://getlatka.com/companies/rudderstack.com",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "11-May-2020 $3.5M $5M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/343225-72",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "30-Aug-2019 $1.5M $1.5M  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/343225-72",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "909,090 $0.000010  $3.85 $3.85 1x $3.72 11.43%",
+    "url": "https://pitchbook.com/profiles/company/343225-72",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "1,500,000 $0.000010  $1 $1 1x $1.85 9.87%",
+    "url": "https://pitchbook.com/profiles/company/343225-72",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Ask which customers are worth paying to reach. Lookout analyzes revenue and conversions across your warehouse to build sharper suppression lists and lookalike seeds.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ask what your best customers have in common. Lookout finds the patterns across purchase and product data and builds audiences ready to buy more.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Resolve identifiers from every source to create an identity graph in your warehouse, and build pre-computed features like LTV and propensity to create a customer 360 table that fuels downstream activation with rich context profiles — all without writing one line of SQL.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore RudderStack Profiles",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How do we make sure our AI is working from the right context? RudderStack events and their Profiles product. It's not just data infrastructure, it's the identity and governance layer that makes AI personalization at our scale trustworthy.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Data Activation Product Manager @ Fullscript",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build complete customer profiles and predictive features through a guided, agentic workflow, so you can ship a customer 360 and take advantage of predictive ML in days, not months.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stream consistent, governed data from every source directly to your ad platforms, customer engagement platform, CRM, product analytics tools, and your data warehouse with 200+ real-time destination integrations.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enable marketing to self serve analytics and audiences from the rich customer data in your warehouse with an AI native workflow to fuel better ad targeting and lifecycle personalization.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Product Management; CRM & MarTech @ Crate & Barrel",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Infrastructure as code and a powerful MCP unlock agentic workflows that enable data and engineering teams to build, govern, and manage data pipelines and profiles through natural language with safety built in.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rely on 200+ pre-built integrations, not brittle tag managers or DIY connectors, to deliver customer signals to every business system, ad platform, and analytics tool in real time. Centralize events in your data cloud, and even pipe events into streaming systems like Kafka.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Before RudderStack, broken events could go unnoticed for weeks. Now we have schema validation baked into our CI pipelines and real-time alerting on delivery failures. That shift, from reactive to proactive governance, is what gave our data science and product teams the confidence to build on top of this data. You can't feed recommendations and experimentation models with data you don't trust.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in AI/ML productivity",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "RudderStack doesn’t store your data and puts privacy controls in your hands",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fundamentally privacy friendly. Deliberately compliant.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Supercharge your analytics, product, growth, and AI teams.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting this form, you're expressing interest in becoming a valued RudderStack partner.",
+    "url": "https://www.rudderstack.com/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "For select partners, we give the opportunity to educate and enable our sales teams; increasing brand awareness and lead/referral potential",
+    "url": "https://www.rudderstack.com/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "serves more than 13 million customers and supports over 50,000 retail partners across their marketplace. What began as an online bookstore evolved into a complex digital ecosystem that now powers online shopping, third-party sellers, and advertising.",
+    "url": "https://www.rudderstack.com/customers/ai-ready-foundation-with-bolcom/",
+    "pass": 1
+   },
+   {
+    "quote": "The team turned to RudderStack's enterprise-grade customer data infrastructure to bring reliable event streaming and proactive governance to their data platform.",
+    "url": "https://www.rudderstack.com/customers/ai-ready-foundation-with-bolcom/",
+    "pass": 1
+   },
+   {
+    "quote": "These risks became especially acute as bol.com launched and scaled their retail media business. Advertising events, impressions, clicks, and attribution require strong guarantees around accuracy, integrity, and security. Standards that their existing system couldn't meet.",
+    "url": "https://www.rudderstack.com/customers/ai-ready-foundation-with-bolcom/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive governance for the AI era",
+    "url": "https://www.rudderstack.com/customers/ai-ready-foundation-with-bolcom/",
+    "pass": 1
+   },
+   {
+    "quote": "RudderStack also met bol.com's internal security standards. Sensitive advertising and event data could be collected, processed, and stored without introducing new compliance risk. The team didn't have to choose between vendor capability and security posture.",
+    "url": "https://www.rudderstack.com/customers/ai-ready-foundation-with-bolcom/",
+    "pass": 1
+   },
+   {
+    "quote": "- Teams now work from a single, trusted data foundation, eliminating conflicting numbers across marketing, product, and analytics.",
+    "url": "https://www.rudderstack.com/customers/ai-ready-foundation-with-bolcom/",
+    "pass": 1
+   },
+   {
+    "quote": "Improved data quality",
+    "url": "https://www.rudderstack.com/customers/ai-ready-foundation-with-bolcom/",
+    "pass": 1
+   },
+   {
+    "quote": "Bol.com replaced years of in-house technical debt with a data foundation that actually scales - one built for engineers, trusted by the business, and ready to power personalization, advertising, analytics, and AI at the speed their growth demands.",
+    "url": "https://www.rudderstack.com/customers/ai-ready-foundation-with-bolcom/",
+    "pass": 1
+   },
+   {
+    "quote": "Bol.com processes over 70 million customer interactions with 50,000 partners across their platform. Their data infrastructure needs to be boring, reliable, scalable, trustworthy. RudderStack helps them achieve that without sacrificing control or locking data away.",
+    "url": "https://www.rudderstack.com/customers/ai-ready-foundation-with-bolcom/",
+    "pass": 1
+   },
+   {
+    "quote": "It isn’t something developers have to manually open and use; it lives alongside them throughout their entire workday. Understanding how developers interact with something that’s always there, in the background, requires a completely different approach to data and identity.",
+    "url": "https://www.rudderstack.com/customers/ai-ready-foundation-with-bolcom/",
+    "pass": 1
+   },
+   {
+    "quote": "product events captured per developer per hour",
+    "url": "https://www.rudderstack.com/customers/ai-ready-foundation-with-bolcom/",
+    "pass": 1
+   },
+   {
+    "quote": "RudderStack products used",
+    "url": "https://www.rudderstack.com/customers/ai-ready-foundation-with-bolcom/",
+    "pass": 1
+   },
+   {
+    "quote": "A practical four-stage guide to driving impact with customer data. Complete with case studies and implementation strategies.",
+    "url": "https://www.rudderstack.com/customers/ai-ready-foundation-with-bolcom/",
+    "pass": 1
+   },
+   {
+    "quote": "Wyze delivers AI-driven campaigns with RudderStack Profiles and Snowflake",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "Increased AI/ML productivity",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "Better engineering productivity",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "The company leveraged RudderStack Profiles to automatically generate an identity graph, select and compute user features, and build a full view of the customer journey",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "RudderStack Profiles eliminated a critical blind spot, allowing Wyze to track users as they move between the company’s website, Amazon storefront, and different apps",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "Wyze’s data engineering team increased productivity 10x; a seasoned engineer can define multiple events and automate nearly 50+ new user features into data pipeline in matter of hours, a process that previously took weeks for a team to complete",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "The company’s AI/ML team has increased productivity by 3x due to the ability to quickly define new features, train to deploy models, and testing various model ideas",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "In all, we have greatly shortened the process duration from idea inception to campaign testing.",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "RudderStack’s warehouse native approach eliminated the manual processes bogging down our data engineers. With clean data at their disposal and automated workflows to route it downstream, they started providing our AI/ML, marketing, and product teams with actionable information to drive new models and power new processes.",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "To further complicate the situation, Wyze was using Segment as its CDP, which was expensive, lacked robust consumer profile features, and created another data silo. This hampered their ability to drive their desired business outcomes - driving growth and customer LTV.",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "It was a promising start, but RudderStack had even more in the pipeline - a tool that would fully resolve customer identities, and generate accurate 360 customer views. This exciting new product was RudderStack Profiles, which was in closed beta at the time, and Wyze was invited to join.",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "“We couldn’t see the entire customer journey,” explains Zhou. “We could track users on our Shopify site and analyze their purchase and browsing histories, but they were invisible once they started ordering products and services on our apps, after which point they rarely returned to the website. This blind spot prevented us from consolidating event data into cohesive user identities.”",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "These delays and deficiencies hobbled every team in the company. They prevented data engineers, AI/ML specialists, and the marketing and subscription teams from doing their work. More importantly, they brought the development of the company’s Braze-powered recommendation engine to a standstill.",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "Solution: Building and Deploying Identity Graphs and User Features with RudderStack Profiles",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer 360 solution, Profiles",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": ". The new product tackles the complexities of",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "RudderStack Profiles makes building complete customer profiles in your",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "Now, instead of spending hours and days authoring queries, Wyze’s engineers can easily select unique identifiers across hundreds of tables and run them through Profiles for accurate and complete identity graphs. They can then collect relevant user features to create a",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "that feeds the company’s predictive",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "In combination with RudderStack Event Stream and Reverse ETL, Profiles has given Wyze ownership of its data by eliminating tedious and repetitive data cleaning, reducing irregularities from changing data sources, and speeding up onboarding new event streams. Wyze used these three tools to run an end-to-end",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "Wyze used RudderStack to build a streamlined warehouse native workflow that turbocharges data activation. RudderStack Event Stream ingests clean user data from six sources into the company’s Snowflake warehouse. Then RudderStack Profiles takes over, resolving user identities and enabling the creation of user features and",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "views, which feed predictive models that compute actionable metrics like churn scores and customer lifetime values (LTVs). These metrics are then routed to the Braze personalization engine to orchestrate contextually relevant marketing and subscription campaigns.",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "Wyze uses customer 360 views to calculate propensity scores, tailor customer offers, and deliver personalized recommendations. The company’s AI/ML team is building actionable models to drive valuable insights. The marketing team is leveraging this information to create campaigns, build canvases, and activate customer data to drive revenue growth.",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "Zhou also estimates a 10x increase in productivity, especially in leveraging data in Wyze’s data pipelines to deliver new user features.",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "It isn’t something developers have to manually open and use; it lives alongside them throughout their entire workday. Understanding how developers interact with something that’s always there, in the background, requires a completely different approach to data and identity.",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "With RudderStack powering real-time event streaming into Snowflake, marketing and data teams now work from the same source of truth. This setup allowed faster iteration on segmentation, audience creation, and performance measurement, especially as the business scaled.",
+    "url": "https://www.rudderstack.com/customers/manscaped-boosts-revenue/",
+    "pass": 1
+   },
+   {
+    "quote": "Transformations also help MANSCAPED’s marketing team move faster while freeing up engineering time because the ability to transform data in-flight means fifty-five can effectively update instrumentation without requiring front-end code modifications.",
+    "url": "https://www.rudderstack.com/customers/manscaped-boosts-revenue/",
+    "pass": 1
+   },
+   {
+    "quote": "improvement in Meta Cost Per Acquisition (CPA)",
+    "url": "https://www.rudderstack.com/customers/manscaped-boosts-revenue/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Start with an idea, end with an activated audience built by agents from all the customer context in your warehouse. No SQL. No CSVs. No wait.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with a goal, not a list. Lookout explores your warehouse data and recommends the segments worth targeting, with rationale and audience size included.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Run your campaigns with segments built on intelligence from all the customer data in your warehouse.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ask which customers are worth paying to reach. Lookout analyzes revenue and conversions across your warehouse to build sharper suppression lists and lookalike seeds.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Resolve identifiers from every source to create an identity graph in your warehouse, and build pre-computed features like LTV and propensity to create a customer 360 table that fuels downstream activation with rich context profiles — all without writing one line of SQL.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stream consistent, governed data from every source directly to your ad platforms, customer engagement platform, CRM, product analytics tools, and your data warehouse with 200+ real-time destination integrations.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enable marketing to self serve analytics and audiences from the rich customer data in your warehouse with an AI native workflow to fuel better ad targeting and lifecycle personalization.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bol.com replaced years of in-house technical debt with a data foundation that actually scales - one built for engineers, trusted by the business, and ready to power personalization, advertising, analytics, and AI at the speed their growth demands.",
+    "url": "https://www.rudderstack.com/customers/ai-ready-foundation-with-bolcom/",
+    "pass": 1
+   },
+   {
+    "quote": "Wyze eliminated data silos by using RudderStack to build a warehouse native workflow centered around Snowflake",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "RudderStack’s warehouse native approach eliminated the manual processes bogging down our data engineers. With clean data at their disposal and automated workflows to route it downstream, they started providing our AI/ML, marketing, and product teams with actionable information to drive new models and power new processes.",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "“Events were flooding in, but we couldn’t extract any meaningful data,” explains Wyze Director of Data Engineering Wayne Zhou. “We were losing the nuance and the detail, and everything was stuck in Segment’s cloud instead of residing in our warehouse. We were spending a lot of money, and our data was siloed in an inflexible platform.”",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "warehouse to downstream destinations.",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": ". This eliminated their most significant obstacle to shipping a recommendation engine. Data engineers could finally consolidate clean, reliable data from different platforms and establish their Snowflake warehouse as a single source of truth.",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "Wyze used RudderStack to build a streamlined warehouse native workflow that turbocharges data activation. RudderStack Event Stream ingests clean user data from six sources into the company’s Snowflake warehouse. Then RudderStack Profiles takes over, resolving user identities and enabling the creation of user features and",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "To this end, MANSCAPED paired RudderStack, leading Warehouse-Native",
+    "url": "https://www.rudderstack.com/customers/manscaped-boosts-revenue/",
+    "pass": 1
+   },
+   {
+    "quote": "Analyze your warehouse data, build audiences, and sync them to your ad platforms, CRM, and engagement tools.",
+    "url": "https://www.rudderstack.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse destinations",
+    "url": "https://www.rudderstack.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "30 minute warehouse sync",
+    "url": "https://www.rudderstack.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "5 minute warehouse sync",
+    "url": "https://www.rudderstack.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "10+ Warehouse and Data Lake Destinations",
+    "url": "https://www.rudderstack.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Daily Warehouse Syncs",
+    "url": "https://www.rudderstack.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "8+ Warehouse and Data Lake Sources",
+    "url": "https://www.rudderstack.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "RudderStack is warehouse-first and built for developers. Our goal is to help you build your customer data platform on top of your own data warehouse. We think your customer data should not live in a data silo where you need to run complex functions inside of a black box. For an in depth comparison, see our",
+    "url": "https://www.rudderstack.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Lookout runs on all of the data in your warehouse, from any source. If your team also runs RudderStack Core, Lookout builds on data that's already governed and unified.",
+    "url": "https://www.rudderstack.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "For small teams activating their first audiences from the warehouse.",
+    "url": "https://www.rudderstack.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Which warehouses and destinations does Lookout support?",
+    "url": "https://www.rudderstack.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "RudderStack's Solution Partners help our customers with everything from their initial RudderStack implementation to modeling in the warehouse to data activation.",
+    "url": "https://www.rudderstack.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Ask goal based questions across all the data in your warehouse to surface the segments most likely to convert",
+    "url": "https://www.rudderstack.com/request-demo-lookout/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading data and marketing teams",
+    "url": "https://www.rudderstack.com/request-demo-lookout/",
+    "pass": 1
+   },
+   {
+    "quote": "Run a flexible, secure, end-to-end customer data platform on your warehouse with RudderStack",
+    "url": "https://www.rudderstack.com/partners/solutions-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "RudderStack a leading open source Customer Data Platform (CDP), they provide data pipelines that make it easy to collect data from every application, website and SaaS platform, then activate it in your warehouse and business tools.",
+    "url": "https://www.casestudies.com/company/rudderstack",
+    "pass": 3
+   },
+   {
+    "quote": "Appliances, Electrical, and Electronics Manufacturing",
+    "url": "https://www.casestudies.com/company/rudderstack",
+    "pass": 3
+   },
+   {
+    "quote": "Computers and Electronics Manufacturing",
+    "url": "https://www.casestudies.com/company/rudderstack",
+    "pass": 3
+   },
+   {
+    "quote": "Furniture and Home Furnishings Manufacturing",
+    "url": "https://www.casestudies.com/company/rudderstack",
+    "pass": 3
+   },
+   {
+    "quote": "Personal Care Product Manufacturing",
+    "url": "https://www.casestudies.com/company/rudderstack",
+    "pass": 3
+   },
+   {
+    "quote": "Kajabi saves six figures and unlocks advanced use cases with RudderStack’s Warehouse Native CDP",
+    "url": "https://www.casestudies.com/company/rudderstack",
+    "pass": 3
+   },
+   {
+    "quote": "How a Leading Automotive Marketplace Drives Real-Time Personalization at Scale",
+    "url": "https://www.casestudies.com/company/rudderstack",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Automotive Company",
+    "url": "https://www.casestudies.com/company/rudderstack",
+    "pass": 3
+   },
+   {
+    "quote": "Snowplow is a best-in-class data collection platform built for Data Teams. With Snowplow you can collect rich, high-quality event data from all your platforms and products. Your data is available in real-time and is delivered to your data warehouse of …",
+    "url": "https://www.featuredcustomers.com/vendor/rudderstack/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/rudderstack/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack Case Study: Manscaped – MANSCAPED boosts revenue with higher ad match quality and lower CPA using RudderStack and fifty-five | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/rudderstack/case-study/manscaped-boosts-revenue-with-higher-ad-match-quality-and-lower-cpa-using-rudderstack-and-fifty-five",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Manscaped used RudderStack",
+    "url": "https://www.casestudies.com/company/rudderstack/case-study/manscaped-boosts-revenue-with-higher-ad-match-quality-and-lower-cpa-using-rudderstack-and-fifty-five",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/rudderstack/case-study/manscaped-boosts-revenue-with-higher-ad-match-quality-and-lower-cpa-using-rudderstack-and-fifty-five",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/rudderstack/case-study/manscaped-boosts-revenue-with-higher-ad-match-quality-and-lower-cpa-using-rudderstack-and-fifty-five",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Ask which customers are worth paying to reach. Lookout analyzes revenue and conversions across your warehouse to build sharper suppression lists and lookalike seeds.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Product Management; CRM & MarTech @ Crate & Barrel",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "RudderStack gives us a global view of our data, disconnected from the narrow, self-serving metrics that individual tools report. We finally see what's actually happening across the entire customer journey.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate Revenue Growth",
+    "url": "https://www.rudderstack.com/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "By becoming a partner with RudderStack you get access joint go-to-market activities and the ability to explore new revenue streams.",
+    "url": "https://www.rudderstack.com/partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "We use RudderStack as if it’s part of our own team. From load testing to transformation isolation, they’ve been all-in on building the right platform with us.",
+    "url": "https://www.rudderstack.com/customers/ai-ready-foundation-with-bolcom/",
+    "pass": 1
+   },
+   {
+    "quote": "Without clean event data captured from the entire customer journey, the AI/ML teams relied on a smaller subset of data sources, leaving valuable data and insight out of the picture. Further downstream, the growth and customer acquisition teams had to deal with limited insights due to valuable customer journey touchpoints being left out of their analysis.",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "Results: Clean and Consistent Data Powering AI/ML Models Unlocking Revenue Growth",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "Wyze uses customer 360 views to calculate propensity scores, tailor customer offers, and deliver personalized recommendations. The company’s AI/ML team is building actionable models to drive valuable insights. The marketing team is leveraging this information to create campaigns, build canvases, and activate customer data to drive revenue growth.",
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "pass": 1
+   },
+   {
+    "quote": "MANSCAPED boosts revenue with higher ad match quality and lower CPA using RudderStack and fifty-five",
+    "url": "https://www.rudderstack.com/customers/manscaped-boosts-revenue/",
+    "pass": 1
+   },
+   {
+    "quote": "After implementing RudderStack, MANSCAPED saw a 37% increase in revenue due to greater campaign management efficiency and faster decision-making.",
+    "url": "https://www.rudderstack.com/customers/manscaped-boosts-revenue/",
+    "pass": 1
+   },
+   {
+    "quote": "improvement in Meta Cost Per Acquisition (CPA)",
+    "url": "https://www.rudderstack.com/customers/manscaped-boosts-revenue/",
+    "pass": 1
+   },
+   {
+    "quote": "increase in revenue from Snap Ads after implementing CAPI with RudderStack",
+    "url": "https://www.rudderstack.com/customers/manscaped-boosts-revenue/",
+    "pass": 1
+   },
+   {
+    "quote": "Results: Better event match quality, lower CPA, and higher revenue",
+    "url": "https://www.rudderstack.com/customers/manscaped-boosts-revenue/",
+    "pass": 1
+   },
+   {
+    "quote": "increase in revenue from Snap Ads",
+    "url": "https://www.rudderstack.com/customers/manscaped-boosts-revenue/",
+    "pass": 1
+   },
+   {
+    "quote": "As the team set its sights on growing revenue through smarter retention, personalization, and expansion, they needed a trusted foundation and one that could unify customer signals, simplify activation, and deliver value quickly.",
+    "url": "https://www.rudderstack.com/customers/nuts-cracks-customer-intelligence/",
+    "pass": 1
+   },
+   {
+    "quote": "MANSCAPED boosts revenue with higher ad match quality and lower CPA using RudderStack and fifty-five",
+    "url": "https://www.casestudies.com/company/rudderstack",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/rudderstack/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack Case Study: Manscaped – MANSCAPED boosts revenue with higher ad match quality and lower CPA using RudderStack and fifty-five | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/rudderstack/case-study/manscaped-boosts-revenue-with-higher-ad-match-quality-and-lower-cpa-using-rudderstack-and-fifty-five",
+    "pass": 3
+   },
+   {
+    "quote": "MANSCAPED boosts revenue with higher ad match quality and lower CPA using RudderStack and fifty-five",
+    "url": "https://www.casestudies.com/company/rudderstack/case-study/manscaped-boosts-revenue-with-higher-ad-match-quality-and-lower-cpa-using-rudderstack-and-fifty-five",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack Revenue 2025: $16.3M Est., $82M Raised",
+    "url": "https://getlatka.com/companies/rudderstack.com",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack has not published its revenue. GetLatka estimates it at about $16.3M a year (July 2025).",
+    "url": "https://getlatka.com/companies/rudderstack.com",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack CEO & employees",
+    "url": "https://getlatka.com/companies/rudderstack.com",
+    "pass": 3
+   },
+   {
+    "quote": "Soumyadeb Mitra is CEO of RudderStack. RudderStack has 148 employees (July 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/rudderstack.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is RudderStack's revenue?",
+    "url": "https://getlatka.com/companies/rudderstack.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates RudderStack's revenue at about",
+    "url": "https://getlatka.com/companies/rudderstack.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does RudderStack have?",
+    "url": "https://getlatka.com/companies/rudderstack.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of July 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/rudderstack.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/rudderstack.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/rudderstack.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/rudderstack.com",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/343225-72",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/343225-72",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/343225-72",
+    "pass": 3
+   },
+   {
+    "quote": "To view RudderStack’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/343225-72",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack has 129 total employees.",
+    "url": "https://pitchbook.com/profiles/company/343225-72",
+    "pass": 3
+   },
+   {
+    "quote": "What is RudderStack’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/343225-72",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for RudderStack is",
+    "url": "https://pitchbook.com/profiles/company/343225-72",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "We are always looking for technologies and agencies to partner with to help our mutual customers have a first class experience and best in breed data stack.",
+    "url": "https://www.rudderstack.com/partnerships/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "The company heavily invests in social media advertising, influencer partnerships, and content marketing to reach its target audience. It also uses email marketing to stay in touch with its customers and provide special promotions and discounts. The company also places a strong emphasis on customer service and strives to provide a positive and personalized experience for its customers.",
+    "url": "https://www.rudderstack.com/customers/manscaped-boosts-revenue/",
+    "pass": 1
+   },
+   {
+    "quote": "Email, Webhook, Slack, MS Teams, Pagerduty, incident.io",
+    "url": "https://www.rudderstack.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Email, Webhook, Slack, MS Teams, Pagerduty, incident.io, custom",
+    "url": "https://www.rudderstack.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/rudderstack/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/rudderstack/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/343225-72",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "RudderStack利用企業のレビューまとめ - findy-tools.io — RudderStackの利用企業による導入事例、活用事例を詳しく紹介。リアルな現場からユーザーの声や導入に至った背景、導入効果をお届けします。",
+    "url": "https://findy-tools.io/products/rudderstack/1173/reviews",
+    "pass": 3
+   },
+   {
+    "quote": "オープンソースのCDP:RudderStackを試してみた - Qiita — Nov 26, 2023 · 最後に 今回はOSSのRudderStackを試してみて、CDPに入門してみました。 今までCDPを使ったことがなかったため、CDPに対してイメージがわかなかったのですが、今回入門することで、ある程度、イメージが湧いてよかったかなと思います。",
+    "url": "https://qiita.com/homura99/items/85c69513be2b9d521528",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack | The Agentic Customer Data Platform — RudderStack brings agentic power to the entire customer data lifecycle. Collect, unify, active, and govern your data from one warehouse-native platform.",
+    "url": "https://www.rudderstack.com/",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStackとは？機能や特徴・製品の概要まとめ — RudderStackの特徴・機能について紹介。RudderStackの製品概要やよく比較されるサービス、サポート範囲、コミュニティなど、RudderStackのおすすめポイントを解説します。",
+    "url": "https://findy-tools.io/products/rudderstack/1173",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack コネクタ (ベータ) | Salesforce ヘルプ — RudderStack コネクタ (ベータ) 外部 RudderStack アカウントに接続します。 ユーザーの識別やイベントの追跡などのタスクを実行します。 RudderStack をデータ対象 (アクション) として使用します。",
+    "url": "https://help.salesforce.com/s/articleView?id=platform.automate_flow_ref_third_party_rudderstack.htm&language=ja&type=5",
+    "pass": 3
+   },
+   {
+    "quote": "Partner with - RudderStack — Learn about partnering with RudderStack. We work with our partners to build incredible data solutions for the top companies in the world. Join us!",
+    "url": "https://www.rudderstack.com/partnerships/",
+    "pass": 3
+   },
+   {
+    "quote": "Sites using RudderStack in Japan: top list (2026) | scraping.pro — List of Japanese websites that use RudderStack, ranked by popularity (Tranco). 0 sites in our sample, checked by our own crawler.",
+    "url": "https://scraping.pro/technologies/rudderstack/websites/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Websites using RudderStack in Japan - BuiltWith — Download a list of all 576 RudderStack Customers in Japan Download Full Lead List Create a Free Account to see more results.",
+    "url": "https://trends.builtwith.com/websitelist/RudderStack/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack - Future Customers in Japan - BuiltWith — Download a list of 7 potential future customers of RudderStack in Japan These are sites that we think might use RudderStack in the future because of their similarity to other sites that already do. Learn More.",
+    "url": "https://trends.builtwith.com/analytics/RudderStack/Future-Customers/Japan",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack Customers — Customer case studies Discover how data teams are powering better customer experiences and enabling smarter decisions with RudderStack",
+    "url": "https://www.rudderstack.com/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack B2B Case Studies & Customer Successes — See how RudderStack solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/rudderstack",
+    "pass": 3
+   },
+   {
+    "quote": "37 RudderStack Case Studies, Success Stories, & Customer ...RudderStack Case Study: Manscaped – MANSCAPED boosts revenue ...RudderStack | The Agentic Customer Data PlatformRudderStack RudderStack Warehouse-Native CDP — case studies ...Case Study fifty-five : MANSCAPED: Driving Operational ... — Narrow down 37 case studies by company size & industry to find out how RudderStack works for a business ",
+    "url": "https://www.featuredcustomers.com/vendor/rudderstack/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack Case Study: Manscaped – MANSCAPED boosts revenue ... — Manscaped (Manufacturing) partnered with RudderStack (Computer Software) to solve key challenges. \"MANSCAPED boosts revenue with higher ad match quality and lower CPA using RudderStack and fifty-five\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/rudderstack/case-study/manscaped-boosts-revenue-with-higher-ad-match-quality-and-lower-cpa-using-rudderstack-and-fifty-five",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack – Financials, Industry Trends & Funding Info – 2026 — Learn about RudderStack: estimated revenue of $32.4M, team of around 200+ employees in San Francisco, and how it stands apart in today's business climate.",
+    "url": "https://compworth.com/company/rudderstack",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack Revenue 2025: $16.3M Est., $82M Raised — Oct 30, 2026 · RudderStack 2025 estimated revenue: $16.3M. Total funding: $82M across 3 rounds. 148 employees. Founded 2019. HQ: United States. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/rudderstack.com",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack 2026 Company Profile: Valuation, Funding ...Rudder Stack - 2026 Company Profile, Team, Funding ... - TracxnRudderstack – Founders, Business Model, Funding & CompetitorsRudderStack - Overview, News & Similar companies | ZoomInfo.comRudderStack - $30 M Revenue, Employees & Growth | Kona Equity — The current revenue for RudderStack is . How much funding has RudderStack raised over time? R",
+    "url": "https://pitchbook.com/profiles/company/343225-72",
+    "pass": 3
+   },
+   {
+    "quote": "Rudder Stack - 2026 Company Profile, Team, Funding ... - Tracxn — Feb 11, 2026 · Rudder Stack was founded in 2019 and raised its 1st funding round 1 year after it was founded. Where is Rudder Stack located? Rudder Stack is headquartered in San Francisco, United States. It is registered at 74 CC/7, ANUPAMA HOUSING ESTATE-II VIP ROAD, Kolkata, KOLKATA, West Bengal, India, 700052. How many employees ",
+    "url": "https://tracxn.com/d/companies/rudderstack/__nDPMG2D8lL6MJOgoT3u1USp0V7X-4N054IfNdUrv7Sw",
+    "pass": 3
+   },
+   {
+    "quote": "Rudderstack – Founders, Business Model, Funding & Competitors — Aug 14, 2025 · This article presents an in-depth look at RudderStack’s founding, leadership, business model, revenue streams, funding history, competitive landscape, and strategic advantages, with the most current information available as of 2025.",
+    "url": "https://thebrandhopper.com/featured-startups/rudderstack-founders-business-model-funding-competitors/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Sites using RudderStack in Japan: top list (2026) | scraping.pro",
+    "url": "https://scraping.pro/technologies/rudderstack/websites/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Websites using RudderStack in Japan",
+    "url": "https://scraping.pro/technologies/rudderstack/websites/jp",
+    "pass": 3
+   },
+   {
+    "quote": "List of Japanese websites that use RudderStack, ranked by popularity (Tranco). 0 sites in our sample, checked by our own crawler.",
+    "url": "https://scraping.pro/technologies/rudderstack/websites/jp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "RudderStack - LinkedIn RudderStack RudderStack is the leading Warehouse Native Customer Data Platform that’s purpose-built for data teams. We run on top of your warehouse or data lake and do not store data ...",
+    "url": "https://www.linkedin.com/company/rudderstack",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack - LinkedIn RudderStack | RudderStack is the leading Warehouse Native Customer Data Platform that’s purpose-built for data teams. We run on top of your warehouse or data lake and do not store data ...",
+    "url": "https://www.linkedin.com/products/rudderstack/",
+    "pass": 3
+   },
+   {
+    "quote": "Khoshal Wial - Managing Director (EMEA) at RudderStack | LinkedInSoumyadeb Mitra - New York, New York, United States ...Rudderstack Jobs in United States (8,000+ Open Roles) | LinkedInChristina Honeysett - Head of People @ RudderStack | LinkedInDave Katz - Marketing Engine Builder for early-stage B2B tech ... Managing Director (EMEA) at RudderStack · Experience: RudderStack · Location: London · 50",
+    "url": "https://uk.linkedin.com/in/khoshal-wial-9654a713",
+    "pass": 3
+   },
+   {
+    "quote": "Soumyadeb Mitra - New York, New York, United States ...Rudderstack Jobs in United States (8,000+ Open Roles) | LinkedInChristina Honeysett - Head of People @ RudderStack | LinkedInDave Katz - Marketing Engine Builder for early-stage B2B tech ... Location: New York · 500+ connections on LinkedIn. View Soumyadeb Mitra’s profile on LinkedIn, a professional community of 1 billion members. Today’s top ",
+    "url": "https://www.linkedin.com/in/soumyadeb-mitra",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack - LinkedIn RudderStack RudderStack is the leading Warehouse Native Customer Data Platform that’s purpose-built for data teams. We run on top of your warehouse or data lake and do not store data, alleviating security concerns, reducing cost, and unlocking the value of your warehouse investment. With RudderStack's end-to-end platform and flexible, powerful tooling, data teams can easily ",
+    "url": "https://jp.linkedin.com/company/rudderstack",
+    "pass": 3
+   },
+   {
+    "quote": "Soumyadeb Mitra - New York, New York, United States ...上場から3年で大きく飛躍。CEO 加藤貞顕とCFO 鹿島幸裕が語るnoteの歩...RudderStack Org Chart + Executive Team - The Official Board Location: New York · 500+ connections on LinkedIn. View Soumyadeb Mitra’s profile on LinkedIn, a professional community of 1 billion members. 上場から3年、数字で見えるnoteの成長 ─── これまでの3年間を振り返っていかがでしょうか？ 鹿島： 売上はほぼ倍に拡大し、時価総額は上場時から公募価格ベースで約10倍に成長しました（※2026年1",
+    "url": "https://www.linkedin.com/in/soumyadeb-mitra",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "RudderStack - FacebookRudderStack - RudderStack is now #HIPAA Compliant and ...With RudderStack and Iterable, data teams... - FacebookRudderStack - This week’s featured integration is... | FacebookHeard - Rudderstack came to us with a simple mandate: help us ...OMVAPT - #RudderStack is Now #SOC 2 #Certified... - FacebookGet ready for an exciting interview with Soumyadeb Mitra ... Oct 18, 2024 · Ru",
+    "url": "https://www.facebook.com/rudderstack/",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack - RudderStack is now #HIPAA Compliant and ... Aug 31, 2022 · RudderStack ⏳ Miss our webinar on how Allbirds solves identity resolution in the warehouse with dbt Labs, Snowflake, and RudderStack? Catch it on demand now to learn how to build predictive identity resolution from a real-world example. Watch now 👉 https://bit.ly/4f7Nfxr RUDDERSTACK.COM How Allbirds solves identity resolution",
+    "url": "https://www.facebook.com/rudderstack/posts/-rudderstack-is-now-hipaa-compliant-and-ready-to-sign-baas-with-customers-heres-/824271299006879/",
+    "pass": 3
+   },
+   {
+    "quote": "With RudderStack and Iterable, data teams... - Facebook With RudderStack and Iterable, it’s as easy to collect the data required for great customer experiences as it is to use information to create them.",
+    "url": "https://www.facebook.com/rudderstack/posts/717354436365233/",
+    "pass": 3
+   },
+   {
+    "quote": "RudderStack - This week’s featured integration is... | Facebook Jun 6, 2023 · This week’s featured integration is Intercom Add Intercom as a destination in RudderStack to bring together and manage all your customer life cycle activities on a single platform. Check out the...",
+    "url": "https://www.facebook.com/rudderstack/posts/-this-weeks-featured-integration-is-intercom-add-intercom-as-a-destination-in-ru/754883036423192/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rudderstack.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rudderstack.com/partnerships/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rudderstack.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rudderstack.com/customers/ai-ready-foundation-with-bolcom/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rudderstack.com/customers/wyze-complete-profiles-rudderstack-snowflake/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rudderstack.com/customers/manscaped-boosts-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rudderstack.com/customers/nuts-cracks-customer-intelligence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rudderstack.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rudderstack.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rudderstack.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rudderstack.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rudderstack.com/enterprise-quote/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rudderstack.com/request-demo-lookout/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rudderstack.com/partners/solutions-partners/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.rudderstack.com/images/logos/full-logo-white.svg?dpl=dpl_AR6SshqW5GequJ9L5z2B8xBvEofY",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://findy-tools.io/products/rudderstack/1173/reviews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/homura99/items/85c69513be2b9d521528",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findy-tools.io/products/rudderstack/1173",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://context.reverso.net/%E7%BF%BB%E8%A8%B3/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E8%8B%B1%E8%AA%9E/%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://scraping.pro/technologies/rudderstack/websites/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://builtwith.com/human-test/continue?return=https%3A%2F%2Ftrends.builtwith.com%2Fwebsitelist%2FRudderStack%2FJapan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/company/rudderstack",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/rudderstack/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/rudderstack/case-study/manscaped-boosts-revenue-with-higher-ad-match-quality-and-lower-cpa-using-rudderstack-and-fifty-five",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/rudderstack",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/rudderstack.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/343225-72",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/rudderstack/__nDPMG2D8lL6MJOgoT3u1USp0V7X-4N054IfNdUrv7Sw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rudderstack",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/rudderstack/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/khoshal-wial-9654a713",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/soumyadeb-mitra",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rudderstack/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rudderstack/posts/-rudderstack-is-now-hipaa-compliant-and-ready-to-sign-baas-with-customers-heres-/824271299006879/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rudderstack/posts/717354436365233/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rudderstack/posts/-this-weeks-featured-integration-is-intercom-add-intercom-as-a-destination-in-ru/754883036423192/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/rudderstack",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/soumyadeb-mitra",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rudderstack 日本 導入",
+   "results": [
+    "https://findy-tools.io/products/rudderstack/1173/reviews",
+    "https://qiita.com/homura99/items/85c69513be2b9d521528",
+    "https://www.rudderstack.com/",
+    "https://findy-tools.io/products/rudderstack/1173",
+    "https://help.salesforce.com/s/articleView?id=platform.automate_flow_ref_third_party_rudderstack.htm&language=ja&type=5",
+    "https://support.singular.net/hc/ja/articles/22717151254043-Rudderstack-Singular-Destination-クラウドモード",
+    "https://techblitz.com/startup-interview/rudderstack/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rudderstack 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://camera-wiki.org/wiki/Schmidt"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rudderstack Japan",
+   "results": [
+    "https://www.rudderstack.com/",
+    "https://www.rudderstack.com/partnerships/",
+    "https://scraping.pro/technologies/rudderstack/websites/jp",
+    "https://trends.builtwith.com/websitelist/RudderStack/Japan",
+    "https://trends.builtwith.com/analytics/RudderStack/Future-Customers/Japan",
+    "https://jp.linkedin.com/company/rudderstack",
+    "https://findy-tools.io/products/rudderstack/1173"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rudderstack manufacturing customer case study",
+   "results": [
+    "https://www.rudderstack.com/customers/",
+    "https://www.casestudies.com/company/rudderstack",
+    "https://www.featuredcustomers.com/vendor/rudderstack/case-studies",
+    "https://www.casestudies.com/company/rudderstack/case-study/manscaped-boosts-revenue-with-higher-ad-match-quality-and-lower-cpa-using-rudderstack-and-fifty-five",
+    "https://www.rudderstack.com/",
+    "https://www.casestudydesk.com/product/rudderstack-rudderstack-warehouse-native-cdp",
+    "https://www.fifty-five.com/case-study/manscaped-rudderstack-cdp-fifty-five"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rudderstack white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.20i.com/us/reseller-hosting",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://reseller.amazon.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rudderstack founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/rudderstack",
+    "https://getlatka.com/companies/rudderstack.com",
+    "https://pitchbook.com/profiles/company/343225-72",
+    "https://tracxn.com/d/companies/rudderstack/__nDPMG2D8lL6MJOgoT3u1USp0V7X-4N054IfNdUrv7Sw",
+    "https://thebrandhopper.com/featured-startups/rudderstack-founders-business-model-funding-competitors/",
+    "https://www.zoominfo.com/c/rudderstack-co/481390532",
+    "https://www.konaequity.com/company/rudderstack-8695620948/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Rudderstack",
+   "results": [
+    "https://note.com/tag/半透明ハイキング",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/natty_toucan386/n/nf4936ae22459",
+    "https://note.com/modern_ferret431/n/n37965c97c3d3",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/masashi3122/n/n6f41b990b137"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Rudderstack",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Rudderstack",
+   "results": [
+    "https://www.linkedin.com/company/rudderstack",
+    "https://www.linkedin.com/products/rudderstack/",
+    "https://uk.linkedin.com/in/khoshal-wial-9654a713",
+    "https://www.linkedin.com/in/soumyadeb-mitra",
+    "https://www.linkedin.com/jobs/rudderstack-jobs",
+    "https://www.linkedin.com/in/christinahoneysett",
+    "https://www.linkedin.com/in/davezkatz"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Rudderstack",
+   "results": [
+    "https://www.facebook.com/rudderstack/",
+    "https://www.facebook.com/rudderstack/posts/-rudderstack-is-now-hipaa-compliant-and-ready-to-sign-baas-with-customers-heres-/824271299006879/",
+    "https://www.facebook.com/rudderstack/posts/717354436365233/",
+    "https://www.facebook.com/rudderstack/posts/-this-weeks-featured-integration-is-intercom-add-intercom-as-a-destination-in-ru/754883036423192/",
+    "https://www.facebook.com/trustheard/photos/rudderstack-came-to-us-with-a-simple-mandate-help-us-build-the-community-for-dat/514704570687820/",
+    "https://www.facebook.com/omvapt/posts/rudderstack-is-now-soc-2-certified-httpsvaptmerudderstack/4176604725764511/",
+    "https://www.facebook.com/netspringio/videos/get-ready-for-an-exciting-interview-with-soumyadeb-mitra-founder-ceo-of-rudderst/1978064809247596/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rudderstack note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://jp.linkedin.com/company/rudderstack",
+    "https://www.linkedin.com/in/soumyadeb-mitra",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://www.theofficialboard.com/org-chart/rudderstack",
+    "https://www.rudderstack.com/about/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rudderstack X 投稿",
+   "results": [
+    "https://www.rudderstack.com/docs/transformations/",
+    "https://www.rudderstack.com/docs/api/",
+    "https://www.rudderstack.com/docs/",
+    "https://www.rudderstack.com/",
+    "https://x.com/RudderStack",
+    "https://x.com/RudderStack/with_replies",
+    "https://www.rudderstack.com/docs/destinations/streaming-destinations/xpixel/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部30頁・検索12回）"
+ }
+}

@@ -1,0 +1,972 @@
+{
+ "name": "Shoplocale",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T09:14:20.147693+00:00",
+ "official_url": "https://www.shoplocale.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "High Protein Meals Designed For Longevity",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’ll use these preferences to pick meals you’ll love in case you don’t choose yourself or skip by Friday at 5pm.",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Are there any proteins that you DON'T eat?",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Do you have any nutritional preferences?",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "High-Protein (>25g)",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Preferences will apply to your next order as long as they are submitted before 5pm on Friday.",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "It looks like you had a previous delivery date selected, we have updated your delivery date to",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Clean High Protein Meals, Delivered Weekly",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No processed ingredients",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "55g of antibiotic-free protein",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "55g antibiotic-free protein",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "40–60 g of quality protein",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We get creative with protein — think bone broth-infused rice, edamame noodles, and Greek yogurt-based sauces to pack in the protein.",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Organic, pesticide‑free produce",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our produce comes from trusted farms that grow without synthetic pesticides or harmful chemicals — clean, organic, and nutrient-rich.",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We avoid refined sugars and processed ingredients, crafting our meals and sauces from scratch using only whole, natural foods.",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We've banned harmful additives, preservatives, oils, and dyes to keep every meal clean and uncompromisingly healthy.",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We source only properly raised, hormone-free meat, delivering up to 3x more vital micronutrients like Omega-3s and Vitamin E.",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "with Protein Pasta, Organic Vegetables, and Ginger Bone Broth",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Have never eaten food that makes me feel this good without any energy crashes. Plus tons of protein to fuel my workouts.\"",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A meta-analysis confirmed that consuming 1.2–1.6 g/kg/day of protein supports lean muscle preservation during weight loss or maintenance.",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ZOE PREDICT research collaboration with King's College London & Harvard TH Chan School of Public Health",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Harvard T.H. Chan School of Public Health, Nurses' Health Study & Health Professionals Follow-Up Study teams",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prospective cohort study. Sample size = 92,383 | Duration: 28 years",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In 31 meta-analyses, higher fiber intake was linked with 17–28% lower CVD mortality and improved metabolic markers.",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’ll use these preferences to pick meals you’ll love in case you don’t choose yourself or skip by Friday at 5pm.",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Are there any proteins that you DON'T eat?",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Do you have any nutritional preferences?",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "High-Protein (>25g)",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Preferences will apply to your next order as long as they are submitted before 5pm on Friday.",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "It looks like you had a previous delivery date selected, we have updated your delivery date to",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Longevity starts with a science-backed approach to eating well.",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Most convenient meal options compromise on quality, cutting corners with cheap ingredients and misleading health claims. We cut through the BS with a simple approach: high-protein meals made with nutrient dense, natural, unprocessed, and whole ingredients.",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "A few years out of college, while juggling a job in investment banking and working on a startup, I started to wonder: why do I feel 10x more productive some days than others? What are the factors that affect my mood and how I feel on a day to day basis?",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "I found making improvements to my sleep and exercise more straightforward, but nutrition remained a mystery. With so many conflicting diets, I wanted a simple, science-backed approach. To me, a great meal should fuel my day and set me up to feel great in 40 years.",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "After testing different diets and diving deep into nutrition research, I landed on a few non-negotiables: high protein, organic natural ingredients, no seed oils, and reduced microplastics. With dozens of meal services out there, I assumed one would fit—but after trying many of them, I felt like I was always sacrificing something.",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Plenty of meal services label themselves as \"healthy\" with no definition of what that means. These are the uncompromising quality standards we live by.",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "40-60g protein per meal",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We get creative with protein — think bone broth-infused rice, edamame noodles, and Greek yogurt-based sauces to pack in the protein.",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We source only properly raised, hormone-free meat, delivering up to 3x more vital micronutrients like Omega-3s and Vitamin E.",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Organic, pesticide-free produce",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our produce comes from trusted farms that grow without synthetic pesticides or harmful chemicals — clean, organic, and nutrient-rich.",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "No processed ingredients. No refined sugars",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We avoid refined sugars and processed ingredients, crafting our meals and sauces from scratch using only whole, natural foods.",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We prioritize nutrient-dense ingredients, rich in hard-to-get micros like Omega-3s, Magnesium, and Vitamin B12.",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Rancho Gordo's heirloom beans are sustainably grown, richer in flavor, and more nutritious than mass-produced beans. Their rare varieties cook creamy and fresh, while the Xoxoc Project supports small farmers and preserves indigenous crops—better for you and the planet.",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Creekstone Farms is a renowned producer known for its premium Black Angus beef raised with a focus on animal welfare and nutrition. Their cattle are fed a vegetarian, grass-fed diet without antibiotics or added hormones, resulting in beef that’s not only rich in flavor but also higher in key nutrients like iron, B vitamins, and healthy fats.",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Monterey Fish Market sources wild-caught, sustainably harvested seafood, ensuring peak freshness, superior flavor, and higher Omega-3 content. Their commitment to responsible fishing supports ocean health, biodiversity, and traceability—better for you and the planet. Quality seafood, trusted by top chefs.",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Our organic produce supplier",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Lakeside Organic Gardens is a family-owned farm dedicated to 100% organic, pesticide-free produce. They've been a pioneer in organic farmering for over 25 years. All produce is grown in California in rich, healthy soil.",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We’ll use these preferences to pick meals you’ll love in case you don’t choose yourself or skip by Friday at 5pm.",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Are there any proteins that you DON'T eat?",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Do you have any nutritional preferences?",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   },
+   {
+    "quote": "High-Protein (>25g)",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Preferences will apply to your next order as long as they are submitted before 5pm on Friday.",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   },
+   {
+    "quote": "It looks like you had a previous delivery date selected, we have updated your delivery date to",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We're a small, ambitious team making prepared meals with no compromises. Bring your experience, ideas, and curiosity. We'd love to meet you.",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The four things we never compromise on.",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We care deeply about quality and aim to do work we’re genuinely proud of.",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We’re a small team with meaningful ownership. You’ll run projects end to end and see your work make a real difference.",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by California's most ambitious people",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Monterey Fish Market sources wild-caught, sustainably harvested seafood, ensuring peak freshness, superior flavor, and higher Omega-3 content. Their commitment to responsible fishing supports ocean health, biodiversity, and traceability—better for you and the planet. Quality seafood, trusted by top chefs.",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "with Organic Delicata Squash, Rainbow Carrots, Laura Chenel Goat Cheese, and Strawberry Rhubarb Dressing",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Founder of The Athletic (acquired by NYT)",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "with Bone Broth Barley Risotto, and Roasted Rainbow Carrots",
+    "url": "https://www.shoplocale.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find and prove out new acquisition channels hands-on, then bring in the right resources to scale what works. You’ll own channel strategy, ROI, and sustainable revenue growth.",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Locale is looking for a Growth Lead to find and prove out new acquisition channels. You’ll scout channels, run them hands-on, and bring in the right resource once one proves it can scale. Success is measured by real, sustainable revenue growth.",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Scout and operate new acquisition channels, from campaign setup and copy to budget management.",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Bring in agencies, employees, or contractors to scale what works while retaining ownership of strategy and results.",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Track and communicate channel performance and ROI with a focus on revenue.",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A track record of testing and scaling acquisition channels from scratch.",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Comfort with ambiguity and a data-driven, revenue-focused approach.",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/shoplocale.com",
+    "pass": 3
+   },
+   {
+    "quote": "communities. Revenue stays",
+    "url": "https://www.shoplocaleusa.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Locale Revenue 2024: $6.5M Est.",
+    "url": "https://getlatka.com/companies/shoplocale.com",
+    "pass": 3
+   },
+   {
+    "quote": "Locale has not published its revenue. GetLatka estimates it at about $6.5M a year (June 2024).",
+    "url": "https://getlatka.com/companies/shoplocale.com",
+    "pass": 3
+   },
+   {
+    "quote": "Locale CEO, founders & employees",
+    "url": "https://getlatka.com/companies/shoplocale.com",
+    "pass": 3
+   },
+   {
+    "quote": "Christopher Clark founded Locale in 2020 and runs it as CEO. Locale had 75 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/shoplocale.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Locale's revenue?",
+    "url": "https://getlatka.com/companies/shoplocale.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Locale's revenue at about",
+    "url": "https://getlatka.com/companies/shoplocale.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Locale have?",
+    "url": "https://getlatka.com/companies/shoplocale.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/shoplocale.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/shoplocale.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/shoplocale.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/shoplocale.com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "I hope it's your dream meal service too. If not, email me at",
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Email Protection | Cloudflare",
+    "url": "https://www.shoplocale.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "You are unable to access this email address",
+    "url": "https://www.shoplocale.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "The website from which you got to this page is protected by Cloudflare. Email addresses on that page have been hidden in order to keep them from being accessed by malicious bots.",
+    "url": "https://www.shoplocale.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "You must enable Javascript in your browser in order to decode the e-mail address",
+    "url": "https://www.shoplocale.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "How does Cloudflare protect email addresses on website from spammers?",
+    "url": "https://www.shoplocale.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Bring in agencies, employees, or contractors to scale what works while retaining ownership of strategy and results.",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Experience managing agencies, contractors, or channel-specific hires is a plus.",
+    "url": "https://www.shoplocale.com/pages/careers",
+    "pass": 1
+   },
+   {
+    "quote": "and position your brand",
+    "url": "https://www.shoplocaleusa.com/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Localeの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — 出典・生成情報 本ページの企業情報は、公式サイト（https://shoplocale.com）および公開情報（報道・プレスリリース等）をもとにAIが調査・要約したものです。 内容の正確性については公式サイト・出典をご確認ください。",
+    "url": "https://www.firstcvc.jp/global/shoplocale.com",
+    "pass": 3
+   },
+   {
+    "quote": "SHOPLOCALE — ShopLocaleUSA is a curated small-business marketplace where local brands become national favorites. Discover authentic products made, sourced, or curated by real U.S. small businesses—skip the algorithms and mass-produced overstock. Support local communities with quality goods, intentional commerce, and elevated shopping.",
+    "url": "https://www.shoplocaleusa.com/landing",
+    "pass": 3
+   },
+   {
+    "quote": "shoplocale.store — shoplocale.store",
+    "url": "https://shoplocale.store/",
+    "pass": 3
+   },
+   {
+    "quote": "ShopLocale - Facebook — Jul 20, 2026 · SHOPLOCALE is a marketplace for real small businesses. Every product is made, sourced, or curated with care, not China-sourced overstock....",
+    "url": "https://www.facebook.com/p/ShopLocale-61591827074058/",
+    "pass": 3
+   },
+   {
+    "quote": "SHOPLOCALEUSA.com | curated small business marketplace — Discover unique products from curated small businesses nationwide. Shop independent retailers online, earn rewards, or apply to feature your store today.",
+    "url": "https://www.shoplocaleusa.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SHOPLOCALEUSA.com | curated small business marketplace — Become a founding retailer with ShopLocale and position your brand at the forefront of a curated market, built for conscious shoppers nationwide. Gain early visibility, dedicated support, and national exposure while we handle the details and help grow your loyal customer base from day one.",
+    "url": "https://www.shoplocaleusa.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Copy of Home | SHOPLOCALE — From curated presentation to reliable delivery, we manage the details while building your loyal customer base and expanding your national presence. Coordinated fulfillment for nationwide shipping.",
+    "url": "https://www.shoplocaleusa.com/copy-of-home",
+    "pass": 3
+   },
+   {
+    "quote": "Shop Locale: Revenue, Worth, Valuation & Competitors 2026 — Revenue, valuation, and funding figures for Shop Locale are estimates based on publicly available information, industry analysis, regulatory filings, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/shop-locale",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Locale - LinkedIn Locale | 5,000 followers on LinkedIn. High protein meals, designed for longevity | High-protein meals, designed for longevity and delivered weekly. See this week’s menu here -> shoplocale.com",
+    "url": "https://www.linkedin.com/company/shoplocale",
+    "pass": 3
+   },
+   {
+    "quote": "Production Manager, Food Manufacturing at Shoplocale ... Apply for Production Manager, Food Manufacturing at Shoplocale in Hayward, CA. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://www.linkedin.com/jobs/view/production-manager-food-manufacturing-at-shoplocale-4484850263",
+    "pass": 3
+   },
+   {
+    "quote": "Christopher Clark - Locale | LinkedInLocale on LinkedIn: #supportlocalbusiness #shoplocale # ...El Locale - LinkedInI wanted to say thank you everyone who made this 2025 ... Experience: Locale · Education: Stanford University Graduate School of Business · Location: San Francisco Bay Area · 500+ connections on LinkedIn. View Christopher Clark’s profile on LinkedIn ... The best baked goods, sustaina",
+    "url": "https://www.linkedin.com/in/christopher-clark-a78620103",
+    "pass": 3
+   },
+   {
+    "quote": "Locale on LinkedIn: #supportlocalbusiness #shoplocale # ... The best baked goods, sustainably sourced meats, organic produce and meal kits from the hottest Bay Area restaurants all in one box. #supportlocalbusiness #shoplocale #marincounty",
+    "url": "https://www.linkedin.com/posts/shoplocale_supportlocalbusiness-shoplocale-marincounty-activity-6889631239935029248-wtI8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ShopLocale - Facebook Jul 20, 2026 · ShopLocale. SHOPLOCALE is a marketplace for real small businesses. Every product is made, sourced, or curated with care, not China-sourced overstock....",
+    "url": "https://www.facebook.com/p/ShopLocale-61591827074058/",
+    "pass": 3
+   },
+   {
+    "quote": "Locale - FacebookShopLocal.org by Bridge | New York NY - FacebookShoplocale | Valenzuela - FacebookShop Local QC - FacebookShop Local Rockville | Rockville MD - FacebookShop Local Raleigh | Raleigh NC - Facebook Locale. 5,923 followers · 844 talking about this. Gourmet, high protein meals carefully crafted for longevity. Delivered to the Bay Area & LA. Oct 6, 2026 · ShopLocal.org by Bridge, New Yo",
+    "url": "https://www.facebook.com/localemeals/",
+    "pass": 3
+   },
+   {
+    "quote": "ShopLocal.org by Bridge | New York NY - FacebookShoplocale | Valenzuela - FacebookShop Local QC - FacebookShop Local Rockville | Rockville MD - FacebookShop Local Raleigh | Raleigh NC - Facebook Oct 6, 2026 · ShopLocal.org by Bridge, New York. 164 followers · 2 talking about this. E-commerce Platform Powering 1,470+ Businesses Oct 30, 2022 · Shoplocale, Valenzuela. 1,024 likes · 2 were here. We pr",
+    "url": "https://www.facebook.com/myshoplocal/",
+    "pass": 3
+   },
+   {
+    "quote": "Shoplocale | Valenzuela - Facebook Oct 30, 2022 · Shoplocale, Valenzuela. 1,024 likes · 2 were here. We provide product wholesale and retail",
+    "url": "https://www.facebook.com/Shoplocale-101441238327177/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.shoplocale.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shoplocale.com/pages/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shoplocale.com/pages/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shoplocale.com/cdn-cgi/l/email-protection",
+    "status": "http_404",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/shoplocale.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://1-president.com/services-japan-absence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/leal_bonobo279/n/n985d9797e660",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/news/announcement/2026/51c2084e6dfcb5ea.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shoplocaleusa.com/landing",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shoplocale.store/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/p/ShopLocale-61591827074058/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.shoplocaleusa.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shoplocaleusa.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shoplocaleusa.com/copy-of-home",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hdlcompanies.com/resources/thought-leadership/case-study-assist-small-businesses-with-shop-local-campaigns",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.atlassian.com/blog/archives/case_study_shoplocal_api_documentation_with_confluence$",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/locale/__zikABfEhyN48O1Lyrfrb2k_OMuIkROL6-cwMY0eKvQE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/shoplocale.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/shoplocale",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/shop-locale",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/shoplocale",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/view/production-manager-food-manufacturing-at-shoplocale-4484850263",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/christopher-clark-a78620103",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/shoplocale_supportlocalbusiness-shoplocale-marincounty-activity-6889631239935029248-wtI8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/ShopLocale-61591827074058/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/localemeals/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/myshoplocal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Shoplocale-101441238327177/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Shoplocale 日本 導入",
+   "results": [
+    "https://www.firstcvc.jp/global/shoplocale.com",
+    "https://1-president.com/services-japan-absence/",
+    "https://note.com/leal_bonobo279/n/n985d9797e660",
+    "https://www.jetro.go.jp/news/announcement/2026/51c2084e6dfcb5ea.html",
+    "https://tcd-theme.com/2026/02/japanized-for-woocommerce.html",
+    "https://shopi-lab.com/shopify-information/1492/",
+    "https://www.shopify.com/jp/blog/shopify-case-studies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shoplocale 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shoplocale Japan",
+   "results": [
+    "https://www.shoplocaleusa.com/landing",
+    "https://shoplocale.store/",
+    "https://www.facebook.com/p/ShopLocale-61591827074058/",
+    "https://www.shoplocaleusa.com/",
+    "https://shoplocale.com/",
+    "https://shoplocale.com/pages/explore",
+    "https://www.shoplocal.org/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shoplocale manufacturing customer case study",
+   "results": [
+    "https://www.shoplocaleusa.com/",
+    "https://www.shoplocaleusa.com/copy-of-home",
+    "https://www.hdlcompanies.com/resources/thought-leadership/case-study-assist-small-businesses-with-shop-local-campaigns",
+    "https://www.atlassian.com/blog/archives/case_study_shoplocal_api_documentation_with_confluence$",
+    "https://shoplocale.com/",
+    "https://shoplocale.com/pages/about-us",
+    "https://www.ycombinator.com/companies/locale"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shoplocale white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.seoreseller.com/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shoplocale founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/locale/__zikABfEhyN48O1Lyrfrb2k_OMuIkROL6-cwMY0eKvQE",
+    "https://getlatka.com/companies/shoplocale.com",
+    "https://indexed.vc/companies/shoplocale",
+    "https://compworth.com/company/shop-locale",
+    "https://www.cbinsights.com/company/shoplocal",
+    "https://pitchbook.com/profiles/company/482659-48",
+    "https://www.extruct.ai/hub/shoplocale-com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Shoplocale",
+   "results": [
+    "https://note.com/tag/我々は宇宙人",
+    "https://note.com/tag/ユニオンアリーナ",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/localstory/n/n50cd44210bef?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Shoplocale",
+   "results": [
+    "https://x.com/shopthelocale",
+    "https://x.com/ShopLocalTB",
+    "https://x.com/ShopLocalKy",
+    "https://x.com/hashtag/ShopLocalBillings",
+    "https://x.com/hashtag/ShopLocalAnnArbor",
+    "https://x.com/hashtag/ShopLocalSaintLucia",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Shoplocale",
+   "results": [
+    "https://www.linkedin.com/company/shoplocale",
+    "https://www.linkedin.com/jobs/view/production-manager-food-manufacturing-at-shoplocale-4484850263",
+    "https://www.linkedin.com/in/christopher-clark-a78620103",
+    "https://www.linkedin.com/posts/shoplocale_supportlocalbusiness-shoplocale-marincounty-activity-6889631239935029248-wtI8",
+    "https://www.linkedin.com/company/el-locale",
+    "https://www.linkedin.com/company/shoplocal",
+    "https://www.linkedin.com/posts/koba-jijavadze-a2a584191_i-wanted-to-say-thank-you-everyone-who-made-activity-7409004736261328897-KOiT"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Shoplocale",
+   "results": [
+    "https://www.facebook.com/p/ShopLocale-61591827074058/",
+    "https://www.facebook.com/localemeals/",
+    "https://www.facebook.com/myshoplocal/",
+    "https://www.facebook.com/Shoplocale-101441238327177/",
+    "https://www.facebook.com/shoplocalqc/",
+    "https://www.facebook.com/shoplocalrockvilletowncenter/",
+    "https://www.facebook.com/shoplocalraleigh/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shoplocale note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.ycombinator.com/companies/locale",
+    "https://www.msn.com/ja-jp/money/top-stocks/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://shoplocale.com/pages/chris-clark",
+    "https://tracxn.com/d/companies/locale/__zikABfEhyN48O1Lyrfrb2k_OMuIkROL6-cwMY0eKvQE",
+    "https://shoplocale.com/pages/about-us",
+    "https://craft.co/shoplocale/executives"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shoplocale X 投稿",
+   "results": [
+    "https://www.shoplocaleusa.com/",
+    "https://shoplocale.com/pages/begin",
+    "https://shoplocale.com/",
+    "https://x.com/UKShopLocal",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://x.com/twitcasting_jp/status/2100831269575868441"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

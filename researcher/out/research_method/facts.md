@@ -1882,6 +1882,8 @@
   - 「番号を指定するのは国税庁長官で、対象は国の機関、地方公共団体、設立登記をした法人のほか、税法上の届出を行う法人や人格のない社団等です」（https://note.com/joshima_s/n/nf7b375482338）
   - 「設立登記をした法人は、法律で基本3情報をすべて公表することになっており、公表しないことはできません」（https://note.com/joshima_s/n/nf7b375482338）
 - 失敗・落とし穴：
+  - 「社外取締役の登記とは？必要書類や期限、できない場合の注意点を解説」（https://biz.moneyforward.com/establish/basic/88844/）
+  - 「法人化でよくある失敗は？後悔しないための判断基準やあえて法人化しない選択肢を解説」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「登記申請書の捨印とは？押し方・注意点を法人登記向けに解説」（https://toukishinsei.com/column/how-to-look-up-a-corporate-registration-number/）
   - 「確認するときの3つの注意点」（https://note.com/joshima_s/n/nf7b375482338）
   - 「同名の法人、登記上の本店、法人でない事業者の扱いに注意する」（https://note.com/joshima_s/n/nf7b375482338）
@@ -1895,9 +1897,8 @@
   - 「納税証明書（その1）とは？その2との違い・取得方法・請求時の注意点を解説」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「いちご農家は儲かる？年収の実態や失敗しないための経営戦略を解説」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「EV充電スタンドは儲かる？仕組みや導入費用・失敗リスクを解説」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「山椒栽培は儲かる？農家の年収や副業での始め方・失敗例を解説」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「入札ビジネスは儲からない？失敗理由や個人でも利益を出すコツを解説」（https://biz.moneyforward.com/establish/basic/88844/）
 - 実例：
+  - 「クラブチームの運営では、代表者個人名義の口座を利用するなど、法人格を持たない「任意団体」として活動しているケースも多く見られます」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「MCP server for federal court data. Gives AI assistants access to court opinions, case dockets, and judge information from the CourtListener/RECAP database.」（https://apify.com/martc03/business-entity-mcp）
   - 「Here is an example of a company profile:」（https://veridion.com/insights/articles/opencorporates-alternatives）
   - 「You do pay for Veridion, but what you get in return is a far more capable, flexible dataset built for commercial use cases.」（https://veridion.com/insights/articles/opencorporates-alternatives）
@@ -1912,7 +1913,6 @@
   - 「事業承継におけるお家騒動とは？事例や回避する方法を解説」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「種類株式とは？事業承継に活用するメリット・方法や組み合わせ事例を解説」（https://biz.moneyforward.com/establish/basic/88844/）
   - 「創業融資に担保は必要？日本政策金融公庫の制度や不要なケースを解説」（https://biz.moneyforward.com/establish/basic/88844/）
-  - 「社会福祉法人とは？設立を検討すべきケースやメリット・注意点を解説」（https://biz.moneyforward.com/establish/basic/88844/）
 - 検索結果の抜粋：
   - 「OpenCorporates vs Companies House vs SEC EDGAR for Company ... — May 27, 2026 · OpenCorporates Role: Registry-derived company records across supported jurisdictions First-pass company verification, jurisdiction lookup, company-number checks, officer/director pivots, and public-register source discovery. Read this evidence lane against the comparison methodology and limits instead of treating any p」（https://osint4all.com/comparison/opencorporates-vs-companies-house-vs-sec-edgar-for-company-due-diligence/）
 
@@ -2078,6 +2078,11 @@
 ## 公開文書のメタデータ・採用ページ・技術ブログから会社の業務の実態を読む（OSINT）（OSINT document metadata job postings tech blog business process）
 - 文脈：企業
 - 手順・やり方：
+  - 「2021年には、商用衛星企業Planet Labsの「SkySat」等の衛星画像を用いた民間研究者の解析により、中国北西部の甘粛省玉門（Yumen、700平方マイル超の敷地に約120基）、新疆ウイグル自治区ハミ（Hami、約110基）、および内モンゴル自治区オルドス（Ordos / 楡林 Yulin、約90基）の3地域において、計約250〜320基にのぼる大陸間弾道ミサイル（ICBM）用の新型サイロおよび地下発射管制バンカーとみられる施設の建設が発見された」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「例えば2025年10月〜11月の衛星画像解析では、寧辺のウラン濃縮関連とみられる施設外壁への6基の熱交換器の搬入・設置、5MWe原子炉および実験用軽水炉（ELWR）における冷却水排水の断続的な確認（事前運用テスト段階の示唆）、さらには50MWe原子炉における大型移動式クレーンの配置変更に伴う解体作業の開始が視覚的に確認されている」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「2020年8月20日、ロシアの反体制派指導者アレクセイ・ナワリヌイ氏がシベリアのトムスクからモスクワへ向かう航空機内で意識不明に陥り、緊急着陸先のオムスクの病院を経て搬送先のドイツで新型のノビチョク系神経剤による中毒と確認された」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「バークレー・プロトコルは、国際刑事法・人権法・人道法違反の調査において、オンライン情報の特定、予備評価、収集、保全、検証、分析、および報告書作成に至るまでの国際標準手順を定めた」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「すなわち、オープンソース調査の手法が「裁判官や事実認定者が評価しやすい法的証拠の要件」に過度に適合させられることで、暴力の被害者や現地で撮影を行った市民が単なる「情報源（データ抽出の対象）」として扱われ、コンテンツ作成者（現地市民）と分析者の連帯や協議が正式な調査ステップから欠落してしまうという指摘であり、法的証拠化と人権的連帯のあり方が議論されている」（https://note.com/sherlokian/n/nc28aed5f6c3a）
   - 「OSINT: Open Source Intelligence — Definition, Methods, Sources & Tools | OSINT.dev」（https://osint.dev/osint）
   - 「This requirement-driven view is consistent with the current U.S. Intelligence Community definition, which describes OSINT as intelligence derived exclusively from publicly or commercially available information that addresses specific intelligence priorities, requirements or gaps. It also aligns with professional investigation frameworks that distinguish collection from verification and analysis.」（https://osint.dev/osint）
   - 「OSINT can draw from many source families. The source is only one part of the assessment: access method, provenance, reliability, context and intended use matter too.」（https://osint.dev/osint）
@@ -2088,28 +2093,25 @@
   - 「A source being technically reachable does not automatically authorize every collection method or downstream use.」（https://osint.dev/osint）
   - 「Learn OSINT through methods, not tool lists.」（https://osint.dev/osint）
   - 「Tool lists are useful, but training people around interfaces creates dependency. Durable OSINT education should teach questions, signal meaning, source criticism, limitations, evidence states and judgment — with tools inside the method.」（https://osint.dev/osint）
-  - 「A practical argument for staying narrow and passive as long as possible in public web research, before broader or more interaction-heavy methods start adding noise.」（https://osint.dev/osint）
-  - 「Definitions and methodology on this page are grounded first in institutional and professional sources. Vendor explainers are not used as the primary authority for the core definition.」（https://osint.dev/osint）
-  - 「Primary · professional methodology」（https://osint.dev/osint）
-  - 「A practical framework for the professional, legal and ethical collection, preservation, verification and analysis of digital open-source information.」（https://osint.dev/osint）
-  - 「Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
 - 突き合わせ・推定：
-  - 「Claudeのコメント: 当局提供や買収による移転を許すポリシーの下で認知状態の推定精度が上がれば、脳波の蓄積は個人の心理特性に合わせた影響工作の素材となりうる情報安全保障上の資産になる」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「Claudeのコメント: 利害当事者である米国企業経営者の予測が検証されないまま欧州の政策の前提に入った経緯は、外国政府の工作でなくとも情報源の利害を問わない政策形成が外部の語りに左右されうることを示し、情報安全保障における情報源評価の重要性と重なる」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「判決と投票増の因果は運動団体の主張であり検証は今後の課題だが、数十年の地域組織の基盤が、諦めを誘う情報環境への抵抗力として働いた例と読める」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「Cotraは、AIへの帰属が約8割で、AIなしとの比較は2026年10月時点の中心推定で約1.8倍だとしたうえで、AIの寄与は増えているとして、基準はすでに超えたというのが最善の推定だと述べた」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「外部の科学者が検証できるよう、証拠の透明性も求めている」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「判断を左右する証拠の多くが開発企業の編集権の下にある現状では、AIの脅威評価そのものが企業の情報開示の枠内に置かれ、外部の検証が難しい点が情報安全保障上の核心である」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「Claudeのコメント: 編集者を介さず受信箱へ直接届く経路が選挙運動の標準になれば、公開の投稿より第三者の検証が届きにくい配信が増え、選挙期の情報環境の監視は開かれたSNS中心では足りなくなる」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「マスク氏はテキサスの選挙に推計2億2400万ドル（約340億円）を投じていた」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「凱旋門は推定費用1億ドル（約150億円）のうち1500万ドル（約23億円）を全米人文科学基金から充てる予定である」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「イーロン・マスクは2026年に5億ドル（約750億円）を投じ、テキサス州だけで推計2億2400万ドル（約340億円）を注いだが、同州の共和党は州全体の選挙を全て落とした」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「OnlyFansのデータでは上位5000人が各100万ドル（約1億5000万円）超を稼いだが、登録出演者500万人の平均は年約1000ドル（約15万円）と推計されると報告書は述べる」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「Claudeのコメント: 航行するタンカーの映像を市場と有権者への信号として使う演出の可能性が指摘される一方、その実態はGreenpeaceやKplerの船舶追跡という公開情報で検証されており、物理的な行動を使った認識操作がOSINT（公開情報調査）によって崩れる例として注目される」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「ドイツの安全保障改革法案に盛り込まれたハックバック権限と、EU域外の民間業者への生体照合の委託」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「別の法案は、警察データを民間企業のAI訓練に渡すことや、インターネット上の生体照合をEU域外の民間業者に委託することを認める」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「ニューヨーク・タイムズの推計では、うち約2億2400万ドルをテキサス州に費やしたが、同州上院選では民主党のジェームズ・タラリコ氏が13ポイント差で勝ち、同州で1988年以来の民主党の上院議席を得た」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
+  - 「であり、ウクライナ・ブチャの民間人殺害におけるニューヨーク・タイムズ紙の衛星・映像照合や、SNS動画を主たる証拠として国際刑事裁判所（ICC）が初めて逮捕状を発付したリビアのアル＝ウェルファリ事件、そして国連による『バークレー・プロトコル』の策定がある」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「2013年のボストンマラソン爆弾テロ事件では、ネット上の群衆による未検証の犯人探しが無実の失踪学生を犯人視する「オンラインの魔女狩り」へと暴走し、2018年にはフィットネスアプリ「Strava」のヒートマップ公開によってシリア等の米軍基地のレイアウトや兵士の動線が意図せず露呈する運用保安（OPSEC）上の重大インシデントが発生した」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「現代の武力紛争や戦略的安全保障において、OSINTは戦場の実態を把握し、当事国によるプロパガンダや戦果の誇張を客観的に検証する重要なインフラとして機能している」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「視覚的OSINT検証が明らかにするウクライナにおける装備損耗の規模と非対称性」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「また、インターネット上のコミュニティ（Reddit、Hacker News、Imgur等）で広く記録されている2016年の事例では、匿名掲示板「4chan」のユーザーらが、YouTubeにアップロードされたシリアの反政府武装勢力（アサド政権およびロシアと交戦していた自由シリア軍系とみられる勢力）の訓練キャンプのPR動画に着目し、映像内の地形、道路、給水施設とみられる建物等の配置をGoogleマップの衛星写真と照合して座標を割り出したとされる」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「国家の情報機関や軍が関与を全面否定し、隠蔽や偽情報の流布を図る国際的事件において、OSINTは政府の公式発表を検証する調査手法として定着した」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「その代表的組織である「Bellingcat（ベリングキャット）」は、市民が撮影した写真・動画の視覚的フォレンジック（車両の損傷パターンや部隊章の照合など）と、公開・流出した構造化データベース（パスポート連番、住民登録、通信メタデータ、搭乗記録など）の多層的なクロスリファレンスを組み合わせることで、数々の国家工作を特定の軍部隊や情報機関の部署へと結びつけてきた」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「兵士のSNSプロフィール解析と偽造証拠の検証」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「Bellingcatとロシアの調査メディア『The Insider』は、画像検索では全くヒットしなかったこの2人の真の身元を、流出したロシアの各種データベースと公開情報の照合によって特定した」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「続いて研究チームは、容疑者の推定年齢（30代後半〜40代前半）と海外工作に従事するスペツナズ（特殊部隊）将校の育成機関から、中国国境に近いハバロフスクの極東高等諸兵科共通指揮学校（DVOKU）に調査を絞り込んだ」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「同校のチェチェン派遣卒業生の集合写真や、校庭の記念碑の「ロシア連邦英雄（金星章）」授与者リストに刻まれた名前、さらに2003年のハバロフスクのデータベース（軍事部隊20662として登録）および2003年のパスポート申請書の顔写真照合から、「ボシロフ」の正体が、第14スペツナズ旅団でチェチェンに3度派遣され2014年に大統領令でロシア連邦英雄を授与されたGRUの」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「Bellingcatは、工作員が偽名を作る際に生年月日やファーストネーム等を維持する「最小変更仮説」を適用し、サンクトペテルブルクの2003年・2006年の住民データベースから「1979年7月13日生まれのアレクサンドル・イェヴゲニエヴィチ」を検索した」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「（アルハンゲリスク州ロイガ村出身）が浮上し、モスクワのGRU本部所在地（Khoroshevskoye Shosse）に登録された彼の愛車（ボルボXC90）の自動車保険データや、2001年の実名パスポート写真と英国警察公開写真の顔認証フォレンジック鑑定（ウガイル教授による検証）、さらには故郷ロイガ村の住民が「プーチン大統領と握手してロシア連邦英雄を授与された写真を見た」と証言したことから身元が特定された」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「さらにこのFSB部隊の渡航データを過去に遡って照合した結果、2014年のジャーナリスト、ティムール・クアシェフ（Timur Kuashev）氏をはじめとする3名の活動家の殺害疑惑や、反体制派活動家ウラジーミル・カラ＝ムルザ（Vladimir Kara-Murza）氏が中毒症状に陥る前の尾行にも同一メンバーが関与していたことが報告された」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「ウクライナ・ブチャ民間人殺害：衛星画像と地上映像の時系列照合」（https://note.com/sherlokian/n/nc28aed5f6c3a）
 - 一次情報の探し方：
+  - 「Oryxのデータを用いたオープンソースの統計解析プロジェクト（GitHub上の分析トラッカー）によると、開戦初期から2023年初頭にかけて、ロシア軍の兵站システム（工学・通信車両）の損失比率がウクライナ軍に対して6対1以上と非対称であったことや、2022年9月初旬のハルキウ反攻直後に鹵獲比率が約3.5対1へと上昇し、一時はウクライナ軍が戦車の損失を上回る数のロシア戦車を鹵獲して保有数を実質2%増加させていたことが示された」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「ロシア政府は「ロシア国内では毒物は検出されなかった」と関与を否定し、公的捜査も行われない状態が続いた」（https://note.com/sherlokian/n/nc28aed5f6c3a）
   - 「The defining characteristic is not simply that the source is open. A public webpage, company filing, image, DNS record or social post is still information until it is evaluated in relation to a question. OSINT begins to emerge when the investigator establishes provenance, checks reliability, connects evidence, tests explanations and communicates what the evidence means.」（https://osint.dev/osint）
   - 「Company registries, court records, filings, procurement data, public notices and other official records.」（https://osint.dev/osint）
   - 「Research corporate ownership, public filings, counterparties, sanctions exposure and material public records.」（https://osint.dev/osint）
@@ -2123,9 +2125,9 @@
   - 「Social media profiling and analysis」（https://bitvea.com/en/blog/osint-for-business）
   - 「北朝鮮によるバイナンスの暗号資産窃取と、偽の採用面接と社内AIツールを経た侵入経路」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
   - 「バイナンスのCSO、ジミー・スー氏の説明では、6月に技術者が改ざんされたHomebrewパッケージを導入し、9月には別の技術者が偽の採用面接でコーディング課題を業務端末で実行させられ、EDRを回避するゼロデイのマルウェアが入った」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「Claudeのコメント: 侵入の起点が暗号の突破ではなく偽の採用担当者という作られた人物像だった点は、影響工作で用いられる偽ペルソナの手法がサイバー侵入の初期段階に転用されている例であり、報告がイランやロシアにも同様の偽採用の手口を挙げていることから、人を介した欺瞞への対策を技術防御と一体で扱う必要を示している」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「Claudeのコメント: 地域の公的発信が途絶えた空白は国内の扇動者だけでなく外国の影響工作にも足場を与えるため、自治体の平時の情報発信はFIMI（外国からの情報操作、干渉）への抵抗力を支える基盤として位置づけるべきである」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
 - 失敗・落とし穴：
+  - 「一般市民によるクラウドソーシング調査が引き起こした重大な失敗例として知られるのが、2013年4月のボストンマラソン爆弾テロ事件直後にソーシャルニュースサイト「Reddit」で発生した誤認事件である」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「— may include configuration files, log extracts, or credential dumps that were mistakenly made public」（https://osinti.wordpress.com/2026/06/14/osint-document-discovery-how-to-find-pdf-files-and-extract-hidden-metadata-using-google/）
   - 「武力紛争法が専門のクレイグ・マーティン氏（ウォッシュバーン大学）は、数秒で判断を迫られる場面での自動化バイアス（機械への過信）を懸念し、完全自律兵器の禁止を求める」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
   - 「Claudeのコメント: 欧州の安全保障の失敗を「30年以上」の問題とする整理は、冷戦後のNATO拡大を欧州不安定の原因とするロシア側の年来の主張と重なりうる」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
   - 「国内の当局が生む選挙不信の言説は、外国の影響工作が増幅に使う素材にもなる点に注意が要る」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
@@ -2139,25 +2141,27 @@
   - 「Claudeのコメント: 閉じた空間でのエンゲージメント数を説得の効果と取り違える誤りは、影響工作の効果測定でも、拡散量を態度変容の証拠とみなす評価の弱点として共通する」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
   - 「OSINT（オシント）とは何かを、意味・活用場面・主な手法・ツールの種類・注意点までビジネス視点で解説」（https://www.octoparse.jp/blog/what-is-osint）
   - 「本記事では、OSINTとは何か・できること・主な手法とツール・注意点を、ビジネスで合法的に活用する視点から整理します」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「本記事では、OSINTの概要、活用方法、具体的な手法、そして注意すべき課題について詳しく解説します」（https://cybersecurity-info.com/column/30403/）
-  - 「OSINTにはいくつかの課題や注意点があります」（https://cybersecurity-info.com/column/30403/）
 - 実例：
-  - 「OSINT due diligence case study」（https://bitvea.com/en/blog/osint-for-business）
-  - 「A hedge fund example illustrates the stakes: during the 2021 GameStop short squeeze, firms tracking Reddit sentiment in real time saw the r/WallStreetBets movement building days before it hit mainstream news. The ones who incorporated social media OSINT into their analysis adjusted positions early. Those who relied on traditional market data got caught flat-footed.」（https://bitvea.com/en/blog/osint-for-business）
-  - 「関税では、オーストラリア全国農業者連盟のハミッシュ・マッキンタイア会長が、政策の方向は選挙結果だけでは根本的に変わりにくいと述べた」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「Claudeのコメント: 州の予算停止の示唆で変えられた市の方針が選挙結果を受けて再び転換した事例であり、移民取り締まりは州と市、党派の間の分断線として外国の影響工作にも利用されやすく、政策の揺れに乗じた言説の拡散を注視する必要がある」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「Claudeのコメント: 大規模SNSの所有者が資金と自社プラットフォーム上の発信を同時に選挙へ投じ、敗北後に投稿を消した事例であり、選挙期間中の発信記録を第三者が保全しておく必要性を示す」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「政権当局者は、クロスビー氏が勝てばRNCに深刻な財政上の結果が生じると警告した」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「同氏は、記録された事例がほぼ主流のチャットボットに限られる中、こうしたサービスは事業者の検知、捜査機関の証拠回収、公表のいずれでも見えにくいと指摘した」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「NORCは財団、報道機関、企業などのスポンサーを募っており、スポンサーには予備的な結果を早期に提供する」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「Claudeのコメント: イランは議長がXで米有権者の意思を「反戦」として自国の主張に取り込み、最高指導者が米国の不変を説くという二つの層で発信しており、他国の選挙結果を対外的な物語と国内向けの強硬姿勢の双方に利用する典型例である」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「カナダのルブラン加米貿易担当相は、他国の選挙結果を解釈するのは建設的でないとし、交渉相手は引き続きトランプ政権だとして当面の戦略を変えないと述べた」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「Claudeのコメント: ルブラン氏が他国の選挙結果の解釈を公に避けたのは、選挙直後の外国政府の発言が相手国の国内政治への関与と受け取られる余地を狭める情報発信上の配慮であり、同盟国間でも選挙期の発言管理が外交の一部になっていることを示す」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「Claudeのコメント: 選出方法の変更が憲法上の争点を抱えたまま進めば、2028年の結果の正統性をめぐる争いが生じやすく、選挙不信を狙う国内外の影響工作に格好の材料を与えうる点に注意が要る」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「ATAFIMIプロジェクト（ロシア発のFIMI〈外国からの情報操作と干渉〉を監視する共同事業）は、2026年7月1日から9月30日までのスペイン、ウクライナ、ジョージアなど10か国の監視結果をまとめた」（https://note.com/ichi_twnovel/n/n02363dc0f2b9）
-  - 「インターネットやSNSの普及で扱える公開情報が爆発的に増えた結果、いまでは民間企業でも、競合の動向把握や自社リスクの点検など、日常の意思決定にOSINTが活用されています」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「分析結果を対象者に分かりやすく伝えるために、レポートやダッシュボードを作成します」（https://cybersecurity-info.com/column/30403/）
+  - 「例えば2025年10月〜11月の衛星画像解析では、寧辺のウラン濃縮関連とみられる施設外壁への6基の熱交換器の搬入・設置、5MWe原子炉および実験用軽水炉（ELWR）における冷却水排水の断続的な確認（事前運用テスト段階の示唆）、さらには50MWe原子炉における大型移動式クレーンの配置変更に伴う解体作業の開始が視覚的に確認されている」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「SNSのジオロケーション（位置特定）から実際の空爆へ直結した事例」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「また、インターネット上のコミュニティ（Reddit、Hacker News、Imgur等）で広く記録されている2016年の事例では、匿名掲示板「4chan」のユーザーらが、YouTubeにアップロードされたシリアの反政府武装勢力（アサド政権およびロシアと交戦していた自由シリア軍系とみられる勢力）の訓練キャンプのPR動画に着目し、映像内の地形、道路、給水施設とみられる建物等の配置をGoogleマップの衛星写真と照合して座標を割り出したとされる」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「2014年7月17日、ウクライナ東部ドネツク州上空を飛行していたアムステルダム発クアラルンプール行きのマレーシア航空17便（乗客283名・乗員15名、計298名全員死亡）が撃墜された事件は、OSINTが国際的な真相究明を牽引した象徴的事例である」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「JITは2016年9月、Bellingcatの調査結果と一致する形で、第53対空ミサイル旅団のBukミサイルがロシア領内から搬入されMH17を撃墜したと公式に結論づけた」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「搭乗者名簿とパスポート登録ファイルを確認した結果、「ペトロフ」と「ボシロフ」の国際パスポート番号は末尾がわずか3桁しか違わない（ほぼ連番）ことが判明した」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「その結果、海軍の軍医アカデミーを卒業した」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「この調査結果を受け、2018年12月19日に米財務省はチェピガとミシキンを実名と偽名の双方で制裁リストに追加した」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「調査結果の公表前、ナワリヌイ氏本人はBellingcatが特定したFSB部隊の内部情報を活用し、国家安全保障会議の幕僚「マキシム」を装って工作チームのメンバーに電話をかけた」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「さらにこのFSB部隊の渡航データを過去に遡って照合した結果、2014年のジャーナリスト、ティムール・クアシェフ（Timur Kuashev）氏をはじめとする3名の活動家の殺害疑惑や、反体制派活動家ウラジーミル・カラ＝ムルザ（Vladimir Kara-Murza）氏が中毒症状に陥る前の尾行にも同一メンバーが関与していたことが報告された」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「NYTが3月中旬以降の衛星画像を解析した結果、」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「児童虐待記録物（CSAM）の捜査において、他のあらゆる捜査手段が尽きた未解決事例を対象に、画像の背景に写り込んだ「無害な日用品や衣類のロゴ」だけを切り抜いてウェブサイトに公開し、市民からその物体の原産国や地域に関する匿名情報を募る仕組みをとっている」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「このプラットフォームには一般市民から約28,000件の情報提供（ヒント）が寄せられ、捜査官は131〜217件の事例で国や地域の絞り込み・特定に成功した」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「その結果、これまでに26〜35名の被害児童が特定されて保護され、5〜9名の加害者が特定・起訴された（2023年11月時点で26名保護・5名起訴、2026年4月のEuropol発表で31名特定、公式ページ集計で最大35名保護・9名起訴）」（https://note.com/sherlokian/n/nc28aed5f6c3a）
+  - 「その象徴的事例が、2015年6月頃からTorネットワーク（ダークウェブ）上で運営されていた違法動画サイト「Welcome To Video」の国際摘発（2018年〜2019年）である」（https://note.com/sherlokian/n/nc28aed5f6c3a）
 - 検索結果の抜粋：
+  - 「OSINTとは公開情報からインテリジェンスを得る方法 | アイトクコンサ... — Aug 18, 2025 · Google Geminiの評判がよいので、昨今話題の”OSINT（オシント）”について聞いてみました OSINT（オシント）とは、「Open Source Intelligence（オープンソース・インテリジェンス）」の略称で、一般に公開されている情報源から情報を収集し、分析することで、特定の目的を達成するための ...」（https://aitokuconsult.com/security/20250114osint/）
+  - 「OSINT: How Attackers Research Your Organization Before They ... — Mar 24, 2026 · Defending Against OSINT Defense against OSINT is a combination of reduction, monitoring, and training. Reduce your exposure. Audit job postings for unnecessary technology specificity — describe the role, not the exact version. Configure GitHub organization policies to require secret scanning and prevent accidental cre」（https://blog.techanv.com/post/osint-open-source-intelligence-guide/）
+  - 「What Is OSINT? Open Source Intelligence for Security ... — Mar 24, 2026 · LinkedIn is the most useful OSINT source for corporate targets - it reveals organizational structure, employee names and roles, technology stacks (through job postings and skill endorsements). A posting for "Senior Cloud Engineer - AWS, Terraform, Kubernetes" reveals infrastructure choices. Document and File Metadata」（https://infishark.com/blogs/learn/what-is-osint-open-source-intelligence-for-security-researchers）
+  - 「OSINT Document Discovery: How to Find PDF Files and Extract ... — Jun 14, 2026 · In OSINT investigations, buried documents, like PDF files, often hold valuable information and hidden metadata, such as author names and timestamps. The Google filetype: operator helps investigators find these documents, while metadata extraction reveals critical data for verifying identities and assessing potential s」（https://osinti.wordpress.com/2026/06/14/osint-document-discovery-how-to-find-pdf-files-and-extract-hidden-metadata-using-google/）
   - 「情報収集手法 (INT)の融合案まとめレポート｜ittakou — Aug 2, 2026 · 1.基本概念 OSINT (Open Source Intelligence / 公開情報収集) 新聞、テレビ、インターネット、SNS、学術論文、公的統計、衛星画像など、誰でもアクセス可能な公開情報から情報を収集・分析する手法。 合法的でコストが低い SNSやジオロケーション解析の発達により重要性が急上昇 用途例:企業リスク ...」（https://note.com/itta_usa/n/nd300923856e1）
   - 「【第14章】OSINT実践編：公開情報からここまでわかるなんて…！ #初心... — Aug 11, 2025 · 🔎 第14章：OSINT実践編 こんにちは、守山しずくです🌸 今回は、誰でもアクセスできる“公開情報”を活用して、情報を収集・分析する技術「OSINT（Open Source Intelligence）」を実際に体験してみましょう！ 🌐 OSINTとは？ OSINT（...」（https://qiita.com/securitytimes/items/5c380709711cfedae0bc）
   - 「OSINTとは？公開情報から不正アクセスや情報漏洩の兆候を探る調査手法... — Aug 6, 2025 · OSINT（オープンソースインテリジェンス）は、公開情報をもとに不正アクセスや情報漏洩の兆候を調査する技術です。本記事では、OSINTの基本から実際の活用方法、注意点までを専門的にわかりやすく解説します。」（https://cybersecurity-info.com/column/40141/）
@@ -2169,10 +2173,6 @@
   - 「OSINT Handbook 2026 | The OSINT Vault — Oct 13, 2026 · A comprehensive OSINT handbook covering investigative workflows, pivots, and operational security for digital investigations.」（https://theosintvault.io/osint-handbook）
   - 「OSINT for Business: A Practical 2026 Guide | Bitvea — May 25, 2026 · OSINT for Business: How Open Source Intelligence Protects Your Company Learn how OSINT for business reveals hidden risks, exposes digital vulnerabilities, and strengthens due diligence. From credential leaks to competitive intelligence, here is what open source intelligence uncovers in practice.」（https://bitvea.com/en/blog/osint-for-business）
   - 「Top 15 OSINT Tools for Business Intelligence - SalesFuel — Top 15 OSINT Tools for Business Intelligence - SalesFuel SalesFuel https://salesfuel.com > open-source-in...」（https://salesfuel.com/open-source-intelligence-tools/）
-  - 「OSINTとは？意味・手法・ツールと、公開情報を効率的に集める方法【20... — Sep 7, 2026 · OSINT（オシント）とは何かを、意味・活用場面・主な手法・ツールの種類・注意点までビジネス視点で解説。競合調査や市場調査に役立つ公開情報の集め方と、収集を効率化するノーコード手段（Octoparse）、合法的に使うための線引きも紹介します。」（https://www.octoparse.jp/blog/what-is-osint）
-  - 「OSINTとは公開情報からインテリジェンスを得る方法 | アイトクコンサ... — Jul 19, 2020 · まとめ OSINTは、現代社会において非常に重要な情報収集・分析手法の一つです。 適切に活用することで、様々な分野で有益な情報を得ることができますが、情報の信憑性やプライバシーへの配慮など、注意すべき点も存在します。」（https://aitokuconsult.com/security/20250114osint/）
-  - 「OSINTとは公開情報を利用して情報収集・分析を行う手法 — Jan 17, 2025 · 本記事では、OSINTの概要、活用方法、具体的な手法、そして注意すべき課題について詳しく解説します。 もしOSINTを行いたい場合は、すぐに専門のフォレンジック調査会社に相談しましょう。」（https://cybersecurity-info.com/column/30403/）
-  - 「How to Make a Metadata Extractor Tool (For OSINT & Digital ... — Mar 13, 2026 · In this guide, you’ll learn how to make a Metadata Extractor Tool using Python. You’ll build a CLI-based tool that: All while understanding how attackers and defenders use metadata differently. What Is Metadata? Metadata literally means: “Data about data.” Examples: Even when a file looks clean, metadata can expose sen」（https://spyboy.blog/2026/03/13/how-to-make-a-metadata-extractor-tool-for-osint-digital-forensics/）
 
 ## 統計の定義の点検（全数か抽出か・規模の裾切り・会員企業のみ・出荷か販売か）（checking statistical definitions coverage threshold member-only shipment vs sales）
 - 文脈：定義の点検
@@ -8306,71 +8306,71 @@
 ## OSINT の証拠保全の失敗の型と登記での裏取り（osint.dev・Berkeley Protocol・Memento）（osint.dev evidence capture workflow mistakes Berkeley Protocol registry corroboration）
 - 文脈：一次情報の探し方
 - 手順・やり方：
-  - 「B. Methodological principles ....................13」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「III. LEGAL FRAMEWORK ................... 17」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「methods of fact-finding and analysis. One of the」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「prosecutors and counsel. If, however, unsound methods」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「or crime-based evidence. Common methodological」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「methodological principles and approaches to support」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「digital technologies and methodologies to expose」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「range of technical, legal and methodological experts,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「and methods for uncovering, assessing, verifying」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「Methodology, Education and Training Section of」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「methodology, OHCHR and the Human Rights」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「also provides guidance on methodologies and」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「The Berkeley Protocol follows in the footsteps of」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「lawyers on how to recognize and document the」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「consistent methods, which both strengthen the」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「B. Methodological principles ....................13」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「III. LEGAL FRAMEWORK ................... 17」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「methods of fact-finding and analysis. One of the」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「prosecutors and counsel. If, however, unsound methods」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「or crime-based evidence. Common methodological」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「methodological principles and approaches to support」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「digital technologies and methodologies to expose」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「range of technical, legal and methodological experts,」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「and methods for uncovering, assessing, verifying」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「Methodology, Education and Training Section of」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「methodology, OHCHR and the Human Rights」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「also provides guidance on methodologies and」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「The Berkeley Protocol follows in the footsteps of」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「lawyers on how to recognize and document the」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「consistent methods, which both strengthen the」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
 - 突き合わせ・推定：
   - 「There are both pros and cons to using open source information as evidence in litigation. A significant pro is its ability to complement more traditional testimonial, physical and documentary evidence. Incorporating such digital data allows for triangulation and corroboration of survivors’ testimonies.」（https://ehrac.org.uk/en_gb/blog/qa-using-open-source-investigations-in-human-rights-litigation/）
 - 一次情報の探し方：
+  - 「PDF Portable Document Format」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「p. E-7. Available at https://aspe.hhs.gov/system/files/pdf/77196/rpt_Disclosure.pdf. See also David E. Pozen, “The mosaic theory,」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「Documents/HRBodies/HRCouncil/CoIBurundi/TermsofreferenceCOIBurundiENGL.pdf.」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「Doc.3_Framework%20of%20Analysis%20for%20Atrocity%20Crimes_EN.pdf.」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「pdf?x32994.」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「interior_cover2.pdf. Hearsay evidence is information outside the direct knowledge of the testifying witness. In some jurisdictions, hearsay」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「at https://ohchr.org/Documents/Publications/AttributingIndividualResponsibility.pdf.」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「uploads/2017/04/vicarioustrauma.pdf); Center for Human Rights and Global Justice, “Human rights resilience project launches new」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「at www.itu.int/en/action/gender-equality/Documents/EQUALS%20Research%20Report%202019.pdf.」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「Development” (Geneva, 2018). Available at www.ohchr.org/Documents/Issues/HRIndicators/GuidanceNoteonApproachtoData.pdf.」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
   - 「PDF Portable Document Format」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
   - 「p. E-7. Available at https://aspe.hhs.gov/system/files/pdf/77196/rpt_Disclosure.pdf. See also David E. Pozen, “The mosaic theory,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
   - 「Documents/HRBodies/HRCouncil/CoIBurundi/TermsofreferenceCOIBurundiENGL.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
   - 「Doc.3_Framework%20of%20Analysis%20for%20Atrocity%20Crimes_EN.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
   - 「pdf?x32994.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「interior_cover2.pdf. Hearsay evidence is information outside the direct knowledge of the testifying witness. In some jurisdictions, hearsay」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「at https://ohchr.org/Documents/Publications/AttributingIndividualResponsibility.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「uploads/2017/04/vicarioustrauma.pdf); Center for Human Rights and Global Justice, “Human rights resilience project launches new」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「at www.itu.int/en/action/gender-equality/Documents/EQUALS%20Research%20Report%202019.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「Development” (Geneva, 2018). Available at www.ohchr.org/Documents/Issues/HRIndicators/GuidanceNoteonApproachtoData.pdf.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「humanrights.berkeley.edu/sites/default/files/publications/bellagio_report_july2018_final.pdf」（https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C）
-  - 「leiden-guidelines.com/assets/DDE%20in%20ICL.pdf」（https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C）
-  - 「www.usip.org/sites/default/files/resources/sr170.pdf」（https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C）
-  - 「www.icc-cpi.int/sites/default/files/RelatedRecords/CR2019_00267.PDF」（https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C）
-  - 「trialinternational.org/wp-content/uploads/2019/12/Manuel-pratique-preuve-audiovisuelle.pdf」（https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/closing-cases-with-opensource-facilitating-the-use-of-usergenerated-opensource-evidence-in-international-criminal-investigations-through-the-creation-of-a-standing-investigative-mechanism/981CEFF9D5AF80B6FD0A75BE6A1A384C）
 - 失敗・落とし穴：
-  - 「and structural biases to affect their work and」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「Inherent biases in the Internet’s architecture」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「counterbalance such biases by applying」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「correct for their own biases, which may be」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「Oxford University Press, 2020) (discussing the ways in which the selection of search engines and search terms can bias the results of」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「of bias, see chap. II.C below on ethical principles and chap. V.B below on digital landscape assessment.」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「24 See, e.g., Forensic Science Regulator, Cognitive Bias Effects Relevant to Forensic Science Investigations, FSR-G-217 (Birmingham, United」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「Kingdom, 2015) (discussing various categories of cognitive bias that can negatively affect investigative quality, including expectation」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「bias, confirmation bias, anchoring, contextual bias, and role and reconstruction effects); Wayne A. Wallace, The Effect of Confirmation」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「Bias on Criminal Investigative Decision Making (Minneapolis, Walden University ScholarWorks, 2015) (explaining confirmation bias」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「excusing disconfirmatory evidence”); Michael Pittaro, “Implicit bias within the criminal justice system”, Psychology Today, 21 November」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「2018 (discussing biases that can influence criminal investigations generally and suggesting known debiasing techniques); Jon S. Byrd,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「“Confirmation bias, ethics, and mistakes in forensics”, Forensic Pathways, 21 March 2020 (discussing various cognitive and ethical」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「chances of biased selection, interpretation and」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「biases in the data available online. All of」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「and structural biases to affect their work and」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「Inherent biases in the Internet’s architecture」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「counterbalance such biases by applying」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「correct for their own biases, which may be」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「Oxford University Press, 2020) (discussing the ways in which the selection of search engines and search terms can bias the results of」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「of bias, see chap. II.C below on ethical principles and chap. V.B below on digital landscape assessment.」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「24 See, e.g., Forensic Science Regulator, Cognitive Bias Effects Relevant to Forensic Science Investigations, FSR-G-217 (Birmingham, United」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「Kingdom, 2015) (discussing various categories of cognitive bias that can negatively affect investigative quality, including expectation」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「bias, confirmation bias, anchoring, contextual bias, and role and reconstruction effects); Wayne A. Wallace, The Effect of Confirmation」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「Bias on Criminal Investigative Decision Making (Minneapolis, Walden University ScholarWorks, 2015) (explaining confirmation bias」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「excusing disconfirmatory evidence”); Michael Pittaro, “Implicit bias within the criminal justice system”, Psychology Today, 21 November」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「2018 (discussing biases that can influence criminal investigations generally and suggesting known debiasing techniques); Jon S. Byrd,」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「“Confirmation bias, ethics, and mistakes in forensics”, Forensic Pathways, 21 March 2020 (discussing various cognitive and ethical」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「chances of biased selection, interpretation and」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「biases in the data available online. All of」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
 - 実例：
-  - 「establishing facts in a case. Courts and investigative」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「manner, which is often the case in international」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「Stuart Casey-Maslen, Honorary Professor, Faculty」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「Stuart Casey-Maslen, University of Pretoria」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「may include, for example: content posted on」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「reports of the fact-finding mission were also relied upon in the case filed before the International Court of Justice by the Gambia against」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「investigation took place, for example, due to」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「in cases in which there is State cooperation,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「example is information that can only be acquired」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「12 The dark web refers to that part of the Internet that can only be accessed through specialized software. The Tor browser is one example」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「be accessed, for example, on public websites,」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「source, examples include privileged, classified」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「such cases, while the information is observable」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「human rights cases, open source intelligence is」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
-  - 「making functions – for example, to inform」（https://www.ohchr.org/sites/default/files/2024-01/OHCHR_BerkeleyProtocol.pdf）
+  - 「establishing facts in a case. Courts and investigative」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「manner, which is often the case in international」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「Stuart Casey-Maslen, Honorary Professor, Faculty」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「Stuart Casey-Maslen, University of Pretoria」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「may include, for example: content posted on」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「reports of the fact-finding mission were also relied upon in the case filed before the International Court of Justice by the Gambia against」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「investigation took place, for example, due to」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「in cases in which there is State cooperation,」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「example is information that can only be acquired」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「12 The dark web refers to that part of the Internet that can only be accessed through specialized software. The Tor browser is one example」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「be accessed, for example, on public websites,」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「source, examples include privileged, classified」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「such cases, while the information is observable」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「human rights cases, open source intelligence is」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
+  - 「making functions – for example, to inform」（https://www.stoprapenow.org/wp-content/uploads/2023/11/OHCHR_BerkeleyProtocol-1.pdf）
 
 ## 会計期間と基準日のそろえ方（年度・暦年・決算期の違う数字を並べる前の点検）（fiscal year calendar year alignment comparing statistics company data）
 - 文脈：失敗
@@ -12760,7 +12760,7 @@
   - 「case the arithmetic looks rigorous and the conclusion is confidently wrong, because the analysis answered the question」（https://metricgate.com/blogs/survivorship-bias/）
   - 「It is easy to confuse survivorship bias with its cousins. Selection bias is the general case of any non-random entry into a sample;」（https://metricgate.com/blogs/survivorship-bias/）
   - 「Survivorship bias is a specific flavor of selection bias. Selection bias covers any non-random way units enter a sample; survivorship bias is the case where units are removed over time based on an outcome (failure, death, delisting). See」（https://metricgate.com/blogs/survivorship-bias/）
-- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
 
 ## 指標ごとに基準の出どころを1つ決めて突き合わせる実務（データの照合・許容の幅を指標の種類で変える・食い違いの記録）（data reconciliation single source of truth per metric tolerance thresholds discrepancy log）
 - 文脈：突き合わせ

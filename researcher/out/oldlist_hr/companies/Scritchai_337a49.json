@@ -1,0 +1,486 @@
+{
+ "name": "Scritchai",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T08:59:44.073710+00:00",
+ "official_url": "https://www.scritchai.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Fully customized to your veterinary practice.",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Answers calls 24/7 to ensure no call goes unanswered or put on hold. Can take multiple calls for your practice at the same time (up to thousands). Never calls out sick or goes on vacation.",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Promptly transfers to a human staff member when necessary or upon the caller's request.",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrates into your practice management system and phone system. Has real-time access to the schedule and patient records, and instantly recognizes clients by their phone number.",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Creates new client & patient records and schedules, reschedules, cancels, and confirms appointments directly in your practice management system. Fills in open appointment slots from after-hours cancellations.",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Assesses urgency by asking questions about symptoms, booking timely appointments when available, escalating urgent cases to staff, and providing nearby ER options after hours.",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prescription Management.",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Boosts pharmacy revenue by efficiently handling prescription requests. Leaves tasks for your front desk when no refills are available.",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Answers questions about your practice such as hours, contact information, policies, services, pricing, and more — all fully optional and customized to your practice.",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Answers client questions about individual patients, including details of upcoming and past appointments, vaccination due dates, medications, fasting protocol, and more.",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Practice Manager, Prairie Animal Hospital",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What used to be a solid 4‑star experience is now a joyful 5‑plus–star service that we are truly proud of.",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The level of customer service that Claire and Rachel provide is truly exceptional.",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Client Service Representative, Encino Veterinary Center",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "As the pet-owning population grows, veterinary professionals are under more pressure than ever — facing high burnout rates, emotionally demanding work, and limited time to meet rising expectations. We’re building AI coworkers to support and augment this workforce — lightening their load, improving the client experience, and helping more pets get the care they need.",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Emily is an AI receptionist that answers calls 24/7 to manage appointments (schedule, reschedule, cancel, confirm), set up new client & new patient profiles, answer hospital-specific & patient-specific questions, send medical records, leave tasks for your team (related to prescription refills and other requests), and more. When needed, she seamlessly transfers callers to your front desk.",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Emily integrate with my practice?",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What’s the onboarding process like?",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Boosts pharmacy revenue by efficiently handling prescription requests. Leaves tasks for your front desk when no refills are available.",
+    "url": "https://www.scritchai.com/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Scritch | AI Veterinary Receptionist — Scritch | AI Veterinary Receptionist scritchai.com https://www.scritchai.com",
+    "url": "https://www.scritchai.com/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.scritchai.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DfTb76WgVjx/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/scritch",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.spiritjapan.com/?srsltid=AYCX9vKZ7w_pk7ma4Mh_Xi7k_QIy-F-JAcdQXJGZoXsNZ4rfu1kT1TBx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=fXLnBOdHzW0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://play.google.com/store/apps/details?id=com.inkren.skritter.japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLmg7meG5mePdsu9dgrMM60De4KPGqyhUF0qt7dPCtI6H2wZAUs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f7i.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thirdeyedata.ai/case-studies/manufacturing-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://customgpt.ai/white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thelogic.co/news/analysis/ai-startups-millions-tiny-teams/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://sacra.com/c/scribe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tryspecter.com/companies",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Scritchai 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://www.instagram.com/reel/DfTb76WgVjx/",
+    "https://www.webcg.net/articles/-/54501",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://trafficnews.jp/post/725198",
+    "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.mext.go.jp/miraino_manabi/content/285.html",
+    "https://prtimes.jp/main/html/rd/p/000000011.000058797.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Scritchai 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://web-repo.jp/articles/1451",
+    "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendo02.html",
+    "https://stripe.com/jp/resources/more/how-to-start-an-agency-a-guide",
+    "https://creative-sc.jp/contact/distributor",
+    "https://pm-lawyer.com/20210825/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Scritchai Japan",
+   "results": [
+    "https://www.linkedin.com/company/scritch",
+    "https://www.spiritjapan.com/?srsltid=AYCX9vKZ7w_pk7ma4Mh_Xi7k_QIy-F-JAcdQXJGZoXsNZ4rfu1kT1TBx",
+    "https://www.youtube.com/watch?v=fXLnBOdHzW0",
+    "https://play.google.com/store/apps/details?id=com.inkren.skritter.japanese",
+    "https://www.youtube.com/watch?v=nKV-2hOYEt4",
+    "https://www.facebook.com/scmp/posts/she-was-criticised-after-writing-a-social-media-post-celebrating-japans-shodo-ca/1538388085003905/",
+    "https://en.wikipedia.org/wiki/Japanese_calligraphy",
+    "https://www.instagram.com/p/DfUB6UCj3vV/?__d=1%253Futm_source%253Dig_embed",
+    "https://shichiyo.co.jp/en/about/",
+    "https://scratch.mit.edu/search/projects?q=japanese"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Scritchai manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLmg7meG5mePdsu9dgrMM60De4KPGqyhUF0qt7dPCtI6H2wZAUs",
+    "https://f7i.ai/case-studies",
+    "https://thirdeyedata.ai/case-studies/manufacturing-industry/",
+    "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "https://www.xometry.com/resources/case-studies/",
+    "https://www.athenaswc.com/case-studies/",
+    "https://prototypingsolutions.com/case-studies/",
+    "https://www.creat3d.solutions/case-studies",
+    "https://www.twinthread.com/success-stories",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Scritchai white label OR reseller OR partner program",
+   "results": [
+    "https://www.scritchai.com/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "https://customgpt.ai/white-label-software-to-resell/",
+    "https://almcorp.com/white-label-partner-checklist-vet-choose-digital-marketing-agency-2026/",
+    "https://wishpond.com/latest-press-release/wishpond-launches-new-white-label-reseller-program-for-salescloser-ai-empowering-businesses-with-ai-powered-sales-solutions/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.robofy.ai/blog/robofy-whitelabel-reseller-program-complete-overview",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Scritchai founded funding employees revenue",
+   "results": [
+    "https://thelogic.co/news/analysis/ai-startups-millions-tiny-teams/",
+    "https://sacra.com/c/scribe/",
+    "https://www.crunchbase.com/",
+    "https://www.tryspecter.com/companies",
+    "https://newmarketpitch.com/blogs/news/ai-education-top-revenue",
+    "https://tracxn.com/d/companies/skitai/__EUauiKwcrysvCuS4YD3DGqZX3VeFmAVonJ-NSR-tqHE",
+    "https://americanentrepreneurship.com/news/funding-news/",
+    "https://growjo.com/company/Scrunch_AI",
+    "https://gaps.com/finance/",
+    "https://indexed.vc/companies/scritch"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Scritchai",
+   "results": [
+    "https://note.com/atelierhinacoo/n/ne5914ca1ac0b?hl=en",
+    "https://note.com/ripe_viola1571/n/nb9a81afda02b?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/a1b6/n/na759517085f7",
+    "https://note.com/ddtarou_scratch/n/n91a340d4c161",
+    "https://note.com/shoji_orihara/n/n39b34fe7f939",
+    "https://note.com/tnishimaki/n/n93f799203153"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Scritchai",
+   "results": [
+    "https://x.com/",
+    "https://blog.x.com/en_us",
+    "https://help.x.com/en",
+    "https://blog.x.com/en/engineering/rebuilding-the-global-town-square-from-scratch",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://help.x.com/zh-cn/using-x",
+    "https://docs.x.com/overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Scritchai",
+   "results": [
+    "https://www.linkedin.com/company/scritch",
+    "https://www.linkedin.com/posts/y-combinator_launch-yc-scritch-empowering-independent-activity-7169104067611353089-2rRv",
+    "https://www.linkedin.com/in/claire-s-lee",
+    "https://www.linkedin.com/in/rachelsylee",
+    "https://www.linkedin.com/in/yandavid",
+    "https://www.linkedin.com/in/harvey-mskim",
+    "https://www.linkedin.com/in/tedchai",
+    "https://mx.linkedin.com/in/cesar-chang-4337aa111",
+    "https://www.linkedin.com/in/cameron-jones-92b61413a",
+    "https://www.linkedin.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Scritchai",
+   "results": [
+    "https://www.facebook.com/mara.d.weigand/",
+    "https://www.facebook.com/jessizazuinc/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/scratchticketreview/videos/winner-winner-chicken-dinner-lottery-winner-scratchoff-nylottery/1901359101243566/",
+    "https://business.facebook.com/groups/cloudkitchengroup/",
+    "https://business.facebook.com/groups/RealScratchFood/",
+    "https://www.facebook.com/scratchteam/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Scritchai note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://note.com/sadaaki",
+    "https://note.com/safe_sage8850/n/n7e027f17590d",
+    "https://online.nikkei-cnbc.co.jp/vod/58940",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Scritchai X 投稿",
+   "results": [
+    "https://x.com/scratch",
+    "https://x.com/ScribeHow",
+    "https://github.com/jamiebuilds/scritch",
+    "https://www.youtube.com/watch?v=T7J_8ebSVsk",
+    "https://scrito.ai/",
+    "https://funday-games.itch.io/scritchy-scratchy",
+    "https://www.youtube.com/channel/UC7nlDbVDfiQwgYGQI8LFuqw",
+    "https://www.youtube.com/watch?v=a2qIeqiWMvE",
+    "https://x.com/felixrieseberg/status/2119925633564463609",
+    "https://x.com/twitcasting_jp/status/2100831269575868441"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部23頁・検索12回）"
+ }
+}

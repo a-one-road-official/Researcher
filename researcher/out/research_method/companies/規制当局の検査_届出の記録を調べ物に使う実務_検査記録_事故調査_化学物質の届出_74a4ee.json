@@ -8,7 +8,7 @@
  ],
  "context": "探し先",
  "kind": "market",
- "researched_at": "2026-11-09T12:14:39.094735+00:00",
+ "researched_at": "2026-11-11T08:47:35.323853+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -49,6 +49,11 @@
     "method": "http"
    },
    {
+    "url": "https://bioanalysisforum.jp/images/2024_15thJBFS/D2-A3-01_JBF15_Tadahiro_Yoshiyama.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://www.fsa.go.jp/common/about/kaikaku/fsaanalyticalnotes/index.html",
     "status": "ok",
     "method": "http"
@@ -57,11 +62,6 @@
     "url": "https://www.ppc.go.jp/personalinfo/faq/kinyukikan_QA/",
     "status": "ok",
     "method": "http"
-   },
-   {
-    "url": "https://www.miyake.gr.jp/wp-content/uploads/2026/05/%E9%87%91%E8%9E%8D%E5%BA%81%E3%80%8C%E3%83%9E%E3%83%8D%E3%83%AD%E3%83%B3%E7%AD%89%E5%AF%BE%E7%AD%96%E3%81%AE%E6%9C%89%E5%8A%B9%E6%80%A7%E6%A4%9C%E8%A8%BC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BA%8B%E4%BE%8B%E9%9B%86%EF%BC%88%E4%BB%A4%E5%92%8C8%E5%B9%B43%E6%9C%88%E7%89%88%EF%BC%89%E3%80%8D%E3%81%AE%E8%BF%BD%E5%8A%A0%E4%BA%8B%E4%BE%8B%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88.pdf",
-    "status": "ok",
-    "method": "pdf"
    },
    {
     "url": "https://www.reddit.com/r/RegulatoryClinWriting/comments/1c89l77/use_of_note_to_file_ntf_and_memorandum_memo_as/?tl=ja",
@@ -114,12 +114,12 @@
     "method": "pdf"
    },
    {
-    "url": "https://coplus-one.jp/kinyu-seisei-ai/",
+    "url": "https://www.pmda.go.jp/review-services/gmp-qms-gctp/gmp/0011.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.boj.or.jp/research/brp/fsr/data/fsrb241021-1.pdf",
+    "url": "https://www.miyake.gr.jp/wp-content/uploads/2026/05/%E9%87%91%E8%9E%8D%E5%BA%81%E3%80%8C%E3%83%9E%E3%83%8D%E3%83%AD%E3%83%B3%E7%AD%89%E5%AF%BE%E7%AD%96%E3%81%AE%E6%9C%89%E5%8A%B9%E6%80%A7%E6%A4%9C%E8%A8%BC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BA%8B%E4%BE%8B%E9%9B%86%EF%BC%88%E4%BB%A4%E5%92%8C8%E5%B9%B43%E6%9C%88%E7%89%88%EF%BC%89%E3%80%8D%E3%81%AE%E8%BF%BD%E5%8A%A0%E4%BA%8B%E4%BE%8B%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -129,7 +129,7 @@
     "method": "http"
    },
    {
-    "url": "https://www.pmda.go.jp/review-services/gmp-qms-gctp/gmp/0011.html",
+    "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc6732&dataType=1",
     "status": "ok",
     "method": "http"
    },
@@ -144,7 +144,7 @@
     "method": "http"
    },
    {
-    "url": "https://regs.maryland.gov/us/md/exec/comar/14.03.01.18",
+    "url": "https://www.ap.org/the-definitive-source/behind-the-news/ap-investigative-reporter-offers-tips-for-seeking-public-records/",
     "status": "ok",
     "method": "http"
    },
@@ -154,14 +154,14 @@
     "method": ""
    },
    {
+    "url": "https://www.benkuebrich.com/blog/tips-and-tricks-for-public-records-requests-from-ire-2022",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://ire.users.membersuite.com/portallink/bba604a0-00de-c2f2-6e32-0b498dbabaa8",
     "status": "ok",
     "method": "browser"
-   },
-   {
-    "url": "https://www.ap.org/the-definitive-source/behind-the-news/ap-investigative-reporter-offers-tips-for-seeking-public-records/",
-    "status": "ok",
-    "method": "http"
    }
   ]
  },
@@ -191,20 +191,20 @@
    "results": [
     "https://note.com/amlcftmukudori/n/n4bb52994d890",
     "https://note.com/dragon_0324/n/n9da7a3cb1ec5",
+    "https://bioanalysisforum.jp/images/2024_15thJBFS/D2-A3-01_JBF15_Tadahiro_Yoshiyama.pdf",
     "https://www.fsa.go.jp/common/about/kaikaku/fsaanalyticalnotes/index.html",
     "https://www.ppc.go.jp/personalinfo/faq/kinyukikan_QA/",
-    "https://www.miyake.gr.jp/wp-content/uploads/2026/05/%E9%87%91%E8%9E%8D%E5%BA%81%E3%80%8C%E3%83%9E%E3%83%8D%E3%83%AD%E3%83%B3%E7%AD%89%E5%AF%BE%E7%AD%96%E3%81%AE%E6%9C%89%E5%8A%B9%E6%80%A7%E6%A4%9C%E8%A8%BC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BA%8B%E4%BE%8B%E9%9B%86%EF%BC%88%E4%BB%A4%E5%92%8C8%E5%B9%B43%E6%9C%88%E7%89%88%EF%BC%89%E3%80%8D%E3%81%AE%E8%BF%BD%E5%8A%A0%E4%BA%8B%E4%BE%8B%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88.pdf",
     "https://www.reddit.com/r/RegulatoryClinWriting/comments/1c89l77/use_of_note_to_file_ntf_and_memorandum_memo_as/?tl=ja",
     "https://help.viedoc.net/l/1fc93a/ja/",
-    "https://academy.claude.com/ja/use-cases/legal-research-memo",
     "https://digital-gov.note.jp/m/m90208c3610d0/hashtag/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81_%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E8%A6%8F%E5%88%B6%E8%A6%8B%E7%9B%B4%E3%81%97%E3%81%AE%E5%8F%96%E7%B5%84",
+    "https://note.com/amlcftmukudori/n/nc0e59e3c99f3",
     "https://note.com/cmr_airtrade/n/n20ed1faaf6b6"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "規制当局の検査・届出の記録を調べ物に使う実務（検査記録・事故調査・化学物質の届出の集計・PRTR・労基署の公表・調査報道の書き手・IRE・4-109） やり方",
@@ -216,8 +216,8 @@
     "https://www.npa.go.jp/sosikihanzai/jafic/todoke/todotop.htm",
     "https://www.courts.go.jp/assets/071031_f3jyunbi_tebiki.pdf",
     "https://www.safety-chubu.meti.go.jp/denryoku/yoshiki/index.html",
-    "https://coplus-one.jp/kinyu-seisei-ai/",
     "https://www.jetro.go.jp/ext_images/world/security_trade_control/pdf/guide/202401_v2.pdf",
+    "https://www.nta.go.jp/law/joho-zeikaishaku/sonota/jirei/tokusetsu/index.htm",
     "https://yoshikawa-sogo.com/regulatory-investigations/"
    ],
    "engines": [
@@ -231,14 +231,14 @@
    "results": [
     "https://www.fsa.go.jp/news/r6/ginkou/20250331-3/03.pdf",
     "https://www.fisc.or.jp/document/public/file/Opportunities_and_Challenges_of_New_Technologies_for_AML_CFT_jp.pdf",
-    "https://www.miyake.gr.jp/wp-content/uploads/2026/05/%E9%87%91%E8%9E%8D%E5%BA%81%E3%80%8C%E3%83%9E%E3%83%8D%E3%83%AD%E3%83%B3%E7%AD%89%E5%AF%BE%E7%AD%96%E3%81%AE%E6%9C%89%E5%8A%B9%E6%80%A7%E6%A4%9C%E8%A8%BC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BA%8B%E4%BE%8B%E9%9B%86%EF%BC%88%E4%BB%A4%E5%92%8C8%E5%B9%B43%E6%9C%88%E7%89%88%EF%BC%89%E3%80%8D%E3%81%AE%E8%BF%BD%E5%8A%A0%E4%BA%8B%E4%BE%8B%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88.pdf",
     "https://www.ppc.go.jp/personalinfo/faq/kinyukikan_QA/",
-    "https://coplus-one.jp/kinyu-seisei-ai/",
-    "https://www.boj.or.jp/research/brp/fsr/data/fsrb241021-1.pdf",
-    "https://www.cistec.or.jp/export/faq/faqansers.html",
-    "https://www.npa.go.jp/sosikihanzai/jafic/todoke/gyosei.htm",
     "https://www.pmda.go.jp/review-services/gmp-qms-gctp/gmp/0011.html",
-    "https://airspace-office.jp/pse-inspection-records-labeling-compliance-support/"
+    "https://www.cistec.or.jp/export/faq/faqansers.html",
+    "https://www.miyake.gr.jp/wp-content/uploads/2026/05/%E9%87%91%E8%9E%8D%E5%BA%81%E3%80%8C%E3%83%9E%E3%83%8D%E3%83%AD%E3%83%B3%E7%AD%89%E5%AF%BE%E7%AD%96%E3%81%AE%E6%9C%89%E5%8A%B9%E6%80%A7%E6%A4%9C%E8%A8%BC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BA%8B%E4%BE%8B%E9%9B%86%EF%BC%88%E4%BB%A4%E5%92%8C8%E5%B9%B43%E6%9C%88%E7%89%88%EF%BC%89%E3%80%8D%E3%81%AE%E8%BF%BD%E5%8A%A0%E4%BA%8B%E4%BE%8B%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88.pdf",
+    "https://www.npa.go.jp/sosikihanzai/jafic/todoke/gyosei.htm",
+    "https://www.mhlw.go.jp/web/t_doc?dataId=00tc6732&dataType=1",
+    "https://www.jbaudit.go.jp/koryu/study/pdf/itaku_r3_2.pdf",
+    "https://yoshikawa-sogo.com/regulatory-investigations/"
    ],
    "engines": [
     "ddgs:bing",
@@ -251,17 +251,17 @@
    "results": [
     "https://www.ire.org/",
     "https://www.rcfp.org/how-to-file-foia-requests-like-a-pro/",
-    "https://regs.maryland.gov/us/md/exec/comar/14.03.01.18",
-    "https://www.linkedin.com/company/investigative-reporters-and-editors",
-    "https://ire.users.membersuite.com/portallink/bba604a0-00de-c2f2-6e32-0b498dbabaa8",
     "https://www.ap.org/the-definitive-source/behind-the-news/ap-investigative-reporter-offers-tips-for-seeking-public-records/",
-    "https://www.facebook.com/IRE.NICAR/posts/our-public-records-training-is-back-this-thursday-join-ires-laura-kurtzberg-and-/1580820690747255/",
-    "https://www.lexisnexis.com/en-us/glossary/investigative-reporting.page",
+    "https://www.linkedin.com/company/investigative-reporters-and-editors",
     "https://www.benkuebrich.com/blog/tips-and-tricks-for-public-records-requests-from-ire-2022",
+    "https://ire.users.membersuite.com/portallink/bba604a0-00de-c2f2-6e32-0b498dbabaa8",
+    "https://www.lexisnexis.com/en-us/glossary/investigative-reporting.page",
+    "https://www.justice.gov/archives/oip/blog/foia-update-processing-investigatory-records",
+    "https://en.wikipedia.org/wiki/Investigative_Reporters_and_Editors",
     "https://www.inet-investigation.com/public-records-for-journalists/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -281,7 +281,7 @@
     "https://note.com/kagawatomo/n/n0429a63c2a31"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -293,12 +293,12 @@
     "https://x.com/mhimt/status/2117740102218916004",
     "https://x.com/HiromitsuTakagi/status/2109291902180946144",
     "https://x.com/notanurse_mako",
-    "https://x.com/hagax01/status/2109879105034604644",
-    "https://x.com/dca0042/status/1542811809560031232",
-    "https://help.x.com/ja/rules-and-policies/x-law-enforcement-support",
+    "https://x.com/imanari_satoshi/status/2091020283293675860",
     "https://x.com/tossact/status/2057215694702600353",
+    "https://help.x.com/ja/rules-and-policies/x-law-enforcement-support",
+    "https://x.com/hagax01/status/2109879105034604644",
     "https://x.com/atomic_journal/status/2074814502684524612",
-    "https://x.com/keichoken05/status/2022462793950335244"
+    "https://x.com/dca0042/status/1542811809560031232"
    ],
    "engines": [
     "ddgs:google",
@@ -313,8 +313,8 @@
     "https://jp.linkedin.com/in/y-izumi4864",
     "https://jp.linkedin.com/in/lawyerkenjigoto52243",
     "https://jp.linkedin.com/jobs/view/regulatory-affairs-specialist-at-elekta-4387836459",
+    "https://jp.linkedin.com/in/saoriokamoto/ja",
     "https://jp.linkedin.com/pulse/effective-relationships-regulators-cris-mattoon-jd-ccep-cams?tl=ja",
-    "https://jp.linkedin.com/posts/alvarez-&-marsal_amon-taxaudit-japantax-activity-7510953876208926722-Jw4V",
     "https://jp.linkedin.com/pulse/use-real-world-data-evidence-regulatory-submissions-global-hanlon-ogezc?tl=ja",
     "https://jp.linkedin.com/posts/takyono_10月27日火に東京でsidleyとpwc共催のクロスボーダー紛争当局対応-activity-7509082518260822016-QQHs",
     "https://jp.linkedin.com/posts/永嶋-國雄-88ab1189_法的鑑定書-令和8年6月-作成者永嶋國雄-技術士原子力安全防災-私は長年にわたり-activity-7471483904932225024-l-SP",
@@ -332,14 +332,14 @@
     "https://www.facebook.com/groups/627324771859424/_join_/?locale=ja_JP",
     "https://www.facebook.com/keichoken/photos/usスチール問題をはじめ海外maで政治的な影響を受ける案件が増加海外ならではの最新情報をポイントをおさえて解説します2025年4月25日-金-13301630好/1413299160009869/",
     "https://www.facebook.com/hisato.mizuta/videos/国会図書館西館仕事の調べ物に重宝している/1085399204042390/",
-    "https://www.facebook.com/ShinnipponHoki/photos/入荷情報新刊書トラブル事例でわかる-ドローンをめぐる法規制とリスク管理実務に役立つ対策のポイント監修一般社団法人-日本ドローン協会-代表理事-溝部公憲共著弁護士/1535558851909937/",
-    "https://www.facebook.com/JapanFTC/posts/海外当局の動き2026年4月米国連邦取引委員会-委員長ftc法違反の疑いでアップルに警告書簡発出ドイツ連邦カルテル庁アマゾンに価格管理メカニズムの適用を禁止経済/1423445826492754/",
-    "https://www.facebook.com/jamplatform/posts/577531056970502/",
     "https://www.facebook.com/sacl17/posts/令和４年６月１５日水特定自主検査実務研修記録表作成実技コースを開催しました-これは午前中は座学午後からは実機を使って記録表の項目に従って実際に検査しその結果を記/339275745029034/",
-    "https://www.facebook.com/jpn.et.net/posts/家畜人工授精所の立入検査で確認出来た事/4030298020366211/"
+    "https://www.facebook.com/jpn.et.net/posts/家畜人工授精所の立入検査で確認出来た事/4030298020366211/",
+    "https://www.facebook.com/jamplatform/posts/577531056970502/",
+    "https://www.facebook.com/takimoto.hcs/posts/ヘルスケア検査サービス提供事業者の業界自主規制ガイドラインがようやく完成しましたヘルスケア領域の検体検査事業者を対象に検査案内から結果通知までサービス全体を網羅/25757033453955383/",
+    "https://www.facebook.com/ShinnipponHoki/photos/入荷情報新刊書トラブル事例でわかる-ドローンをめぐる法規制とリスク管理実務に役立つ対策のポイント監修一般社団法人-日本ドローン協会-代表理事-溝部公憲共著弁護士/1535558851909937/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 8
@@ -348,13 +348,13 @@
    "query": "規制当局の検査・届出の記録を調べ物に使う実務（検査記録・事故調査・化学物質の届出の集計・PRTR・労基署の公表・調査報道の書き手・IRE・4-109） note 社長",
    "results": [
     "https://note.com/ai__worker/n/n0a6e8bcad526",
-    "https://www.fsa.go.jp/common/law/guide/city/02.html",
-    "https://note.com/dragon_0324/n/n9da7a3cb1ec5",
+    "https://www.fsa.go.jp/policy/yuushidpmst/index.html",
     "https://www.nri.com/jp/knowledge/publication/kinyu_itf_202012/08.html",
-    "https://tokyobrief.com/jp/articles/fsb-final-report-12-sound-practices-responsible-ai-adoption",
+    "https://note.com/dragon_0324/n/n9da7a3cb1ec5",
+    "https://digital-gov.note.jp/m/m90208c3610d0/hashtag/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81_%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E8%A6%8F%E5%88%B6%E8%A6%8B%E7%9B%B4%E3%81%97%E3%81%AE%E5%8F%96%E7%B5%84",
     "https://www.youtube.com/watch?v=ylA2_pntWuY",
-    "https://digital-gov.note.jp/m/m90208c3610d0",
-    "https://coplus-one.jp/kinyu-seisei-ai/",
+    "https://tokyobrief.com/jp/articles/fsb-final-report-12-sound-practices-responsible-ai-adoption",
+    "https://www.backoffice-arukikata.com/notebooklm-soumu-shirabemono/",
     "https://note.com/ai_lab_work/n/n2780d4ddaee8",
     "https://yoshikawa-sogo.com/regulatory-investigations/"
    ],
@@ -371,12 +371,12 @@
     "https://www.fsa.go.jp/str/tetuzuki/index.html",
     "https://www.criminalip.io/ja/asset/report/218.188.222.31",
     "https://www.ppc.go.jp/personalinfo/legal/guidelines_tsusoku/",
-    "https://www.gov-online.go.jp/api/v1/1/dynamic_furigana_json?url=%2Farticle%2F201607%2Fentry-10613.html&mode=1",
     "https://www.courts.go.jp/assets/071031_f3jyunbi_tebiki.pdf",
     "https://www.soumu.go.jp/main_content/000938666.pdf",
-    "https://www.digital.go.jp/policies/legal-practice",
-    "https://note.com/hirotsuchida/n/n6be05553e791",
-    "https://yoshikawa-sogo.com/regulatory-investigations/"
+    "https://www.npa.go.jp/sosikihanzai/jafic/todoke/todotop.htm",
+    "https://www.youtube.com/watch?v=LNKLUkdfts4",
+    "https://www.nta.go.jp/taxes/shiraberu/kokusai/carf/pdf/0025009-025.pdf",
+    "https://www.rdsc.co.jp/book/bk0069"
    ],
    "engines": [
     "ddgs:bing",
@@ -387,19 +387,19 @@
   {
    "query": "using regulatory inspection and filing records in investigative reporting IRE public records data site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/kateyrusch",
+    "https://www.linkedin.com/in/jeff-kelly-lowenstein-930a348",
     "https://www.linkedin.com/in/andylehren",
-    "https://www.linkedin.com/in/investigatormikemason",
     "https://www.linkedin.com/in/catelizabethmurphy",
+    "https://www.linkedin.com/in/investigatormikemason",
     "https://www.linkedin.com/in/yurinagano",
-    "https://www.linkedin.com/in/candice-nguyen-991b9a41",
-    "https://www.linkedin.com/in/katherinemdailey",
-    "https://www.linkedin.com/in/katemartin",
-    "https://www.linkedin.com/in/arijit-sen-517922134",
-    "https://www.linkedin.com/in/evanwyloge"
+    "https://www.linkedin.com/in/kateyrusch",
+    "https://www.linkedin.com/in/mcnellytorres",
+    "https://www.linkedin.com/in/isabelle-marceles",
+    "https://www.linkedin.com/in/yanqi-xu-journalist",
+    "https://www.linkedin.com/in/rachel-gold-987227206"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -413,6 +413,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-08T17:57:07.873987+00:00"
 }

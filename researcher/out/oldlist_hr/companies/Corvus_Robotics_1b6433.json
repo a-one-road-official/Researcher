@@ -1,0 +1,1547 @@
+{
+ "name": "Corvus Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜日本進出済",
+ "researched_at": "2026-11-11T09:18:24.727454+00:00",
+ "official_url": "https://www.corvus-robotics.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "6. Seed Round",
+    "value": "24-Jul-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/185063-32",
+    "pass": 3
+   },
+   {
+    "label": "4. Seed Round",
+    "value": "22-Aug-2018    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/185063-32",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/185063-32",
+    "pass": 3
+   },
+   {
+    "label": "Seed-3",
+    "value": "1,055,959 $0.000100  $0.7 $0.7 1x $0.7 5.47%",
+    "url": "https://pitchbook.com/profiles/company/185063-32",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "85,301 $0.000100  $0.15 $0.15 1x $0.15 0.44%",
+    "url": "https://pitchbook.com/profiles/company/185063-32",
+    "pass": 3
+   },
+   {
+    "label": "Catalyst Investors",
+    "value": "Growth/Expansion Minority",
+    "url": "https://pitchbook.com/profiles/company/185063-32",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The choice for Global 2000 enterprises",
+    "url": "https://www.corvus-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The Corvus Robotics drones are... doing things that there's really not a lot of value to put an individual on, but to the business, it's priceless.\"",
+    "url": "https://www.corvus-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Corvus One delivers the consistent accuracy we need to protect revenue and operate to tight forecasts.\"",
+    "url": "https://www.corvus-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Three products. One source of inventory truth.",
+    "url": "https://www.corvus-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your enterprise data stays on-prem",
+    "url": "https://www.corvus-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Big picture, our technology automates and optimizes the global physical economy, strengthening resilience and prosperity. Corvus Robotics is the autonomous operations platform for Fortune 500 and Global 2000 companies moving fastest on full warehouse automation.",
+    "url": "https://www.corvus-robotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise customers served",
+    "url": "https://www.corvus-robotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Mohammed Kabir is the Chief Executive Officer of Corvus Robotics. He co-founded the company with Jackie Wu in 2017 and built its first-generation drone in his MIT dorm room. He led technology and product as Chief Technology Officer before being named CEO in August 2026. He has been building with cameras, robotics, and drones since he was fourteen, and he enjoys photography, snowboarding, and cars.",
+    "url": "https://www.corvus-robotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Michael McSpedon is the CRO of Corvus Robotics. A 3x CRO and successful sales leader in the inventory visibility and logistics space, Mike has previously taken companies to $100M+ revenue. His prior experience includes leading sales at Overhaul, project44, and Trustwell.",
+    "url": "https://www.corvus-robotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Led Marketing at Geek+ Americas (IPO)",
+    "url": "https://www.corvus-robotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Andrew Burer leads marketing at Corvus Robotics. He previously spent three years leading marketing for the Americas at Geek+, one of the world's largest warehouse robotics companies (successful IPO). He's a San Diego sports guy and former on-air sports producer at FOX 5.",
+    "url": "https://www.corvus-robotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Eric Andreas, CPA, leads finance at Corvus Robotics. He previously served as Financial Controller at Outrider and previously in Finance and Accounting at Boom Supersonic, after starting his career at PwC. He studied accounting and is a CPA-holder.",
+    "url": "https://www.corvus-robotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "GNC's labor-intensive inventory counting process once relied on teams navigating 450,000 square feet of warehouse space with material handling equipment. Now, drones are streamlining cycle counts, reducing resource constraints, and improving efficiency across its distribution centers.",
+    "url": "https://www.corvus-robotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Southern Glazer's Wine & Spirits deployed Corvus One across nine distribution centers to increase inventory visibility and improve fulfillment performance. By shifting from periodic counts to continuous validation, teams are identifying issues earlier and keeping operations moving.",
+    "url": "https://www.corvus-robotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Dermalogica deployed the Corvus One autonomous drone system at its global distribution center to strengthen inventory accuracy inside a forecast-driven production environment. Operating without disruption to daily workflows, the system delivers continuous warehouse visibility across retail, wholesale, and e-commerce distribution.",
+    "url": "https://www.corvus-robotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Staci Americas runs the Corvus One Autonomous Inventory Management System inside its Atlanta and New Jersey 3PL facilities, where lights-out nightly drone flights catch inventory discrepancies pre-shift, lift accuracy into the 99.9% range, and protect OTIF performance across every client in the building.",
+    "url": "https://www.corvus-robotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We're a mission-driven team inventing AI and robotics to revolutionize the entire physical economy of plants, manufacturers, distributors, and retailers, driving global economic growth by improving the supply chain.",
+    "url": "https://www.corvus-robotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are relentlessly resourceful, pragmatic, and will do whatever it takes to succeed. We are patient, persistent, and confident in solving the biggest problems in our work. We dive deep and stretch to learn what we don't know, and ask for help when needed.",
+    "url": "https://www.corvus-robotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Do Work You're Proud Of",
+    "url": "https://www.corvus-robotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We want the best work of our careers to date here, and hold high bars for quality. We want to be proud of our work tackling some of the hardest problems in our respective fields, and be proud of working with high-caliber colleagues doing the same.",
+    "url": "https://www.corvus-robotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We celebrate team members who contribute to successful field deployments and resolving customer problems. We care deeply about the positive impact we make on our customers, their businesses, and the economy. It brings us great joy to see our robots thrive in the real world.",
+    "url": "https://www.corvus-robotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are straight shooters who communicate problems upfront and directly. We don't hide the ball or sweep problems under the rug under the guise of \"not ruffling feathers\" or \"maintaining harmony\". We prioritize direct communication in order to stay on the same page.",
+    "url": "https://www.corvus-robotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Nightly autonomous flights cycle count two high-velocity storage areas 6x more often in ASICS' primary North American distribution center serving retail, wholesale and e-commerce.",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "ASICS America video transcript",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "You don't want to have to count a thousand locations to find the four or five that have problems. So if we have the opportunity to have Corvus One do all of that heavy lifting for us, then that user can handle those five, and then they can go on to other things.",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "When you quantify this, you're looking at about 200 hours a month in labor savings, just on the counting alone, that can be repurposed in other productive areas.",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "The singles area is where returned and single pair product gets stored and picked, and every touch is a chance for a box to end up in the wrong location.",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "ASICS kept 12 to 15 units out of every 100 off its online marketplace availability feeds because the tail of the inventory carried fulfillment risk. Product at the bottom of that tail never showed up on the marketplace, which left liquidation at a steep discount as the alternative.",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "A Corvus One drone reads every UPC and counts the shoe boxes in each location of the singles area at ASICS America's Byhalia, Mississippi distribution center.",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "in two storage profiles: the singles area and case reserve. Corvus One is a physical AI system that flies with onboard computer vision and spatial reasoning, with no localization beacons, stickers or markers anywhere in the building, and it feeds every flight into the",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": ". The next morning, an inventory associate reviews each flight and resolves most discrepancies from a desk, working off the video and images Corvus One captures of every location.",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "Case counting video transcript",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "Counting labor moved into inventory reconciliation for the packing operation, root cause research and special projects for the wholesale side of the business.",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "The drones found 26 misplaced cases holding more than 200 pairs of shoes, product that would otherwise have stayed unavailable to customers until the next scheduled count.",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "ASICS now publishes its full availability feed to online marketplaces and sells that product at full price.",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "Taking counts off the floor means less lift equipment running through the aisles. The Byhalia facility is LEED Silver certified and draws about half its power from an on-site solar array, and ASICS counts the Corvus One deployment among the programs supporting its sustainability goals.",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "Count the most-handled storage profiles monthly, returns included, without adding labor",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "Put held-back marketplace inventory back on sale at full price",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "We were able to realize the benefits of the drone the day that it started flying. Our GNC distribution center in Whitestown, Indiana has four landing pads, three drones, and we verify and count 31,000 locations a month.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "I think the big differentiator for Corvus Robotics is that not only can it verify, but it can count. And that knowledge of what's in that location compared to what our WMS says, it's priceless.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "We have products that expire. They have certain lot numbers. And we have to make sure that we have that information readily available and that we're pulling our products in a specific way for our customers.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "It's also finding other problems with our data. One of our associates may have typed in a wrong number, so instead of saying that the product is ten inches tall, it says it's one inch tall. It's showing us that we still have opportunities from a data perspective that we can correct, and it's allowing us to fix them faster. It's a soft cost that we weren't expecting, but we're discovering.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "I like the Corvus Robotics drones because they're out of sight, out of mind. And they're doing things that there's really not a lot of value to an individual on, but to the business, it's priceless.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "Labor-Intensive Process",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "The cycle counting process took place daily, sometimes over weekends, and required external audits twice a year.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "High volume of inventory movement led to misplaced products and errors.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": ". Drones fly during business hours, automating daily cycle counts to improve inventory accuracy, reduce shrinkage, and free labor and material handling equipment for fulfillment.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "Errors and shrinkage were significantly reduced, leading to improved stock reliability.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "Inventory control staff was reduced from 20 to 13, with redeployed employees working on other projects.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse inventory drones perform 7-8 flights per day, each lasting approximately 30 minutes, providing real-time inventory data.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "The ability to quickly locate misplaced inventory and reconcile discrepancies has improved, preventing disruptions to order fulfillment operations.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "I like the Corvus Robotics drones because they are out of sight, out of mind. They're doing things that there's really not a lot of value to an individual on, but to the business, it's priceless.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "Logistics Management — April 2025",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "GNC's labor-intensive inventory counting process once relied on teams navigating 450,000 square feet of warehouse space with materials handling equipment. Now, drones are streamlining cycle counts, reducing resource constraints, and improving efficiency across its distribution centers.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "Southern Glazer's video transcript",
+    "url": "https://www.corvus-robotics.com/case-study-sgws",
+    "pass": 1
+   },
+   {
+    "quote": "At any given time, any given hour of any given week, we can have our drones flying, counting product. And you see that benefit from day one. The Corvus One system has scaled rather quickly with Southern Glazer's and it's been a great partnership. We have over 40 drones in nine facilities and that's been done in less than 18 months.",
+    "url": "https://www.corvus-robotics.com/case-study-sgws",
+    "pass": 1
+   },
+   {
+    "quote": "In our business, you know, the key is case sales. Out of stock percentages is what we measure our customer fill rate is. That 3% improvement in our out of stock percentage is huge. It shows us that we're servicing our customer. They're getting what they expect from us.",
+    "url": "https://www.corvus-robotics.com/case-study-sgws",
+    "pass": 1
+   },
+   {
+    "quote": ", Enterprise Sales Director, Corvus Robotics",
+    "url": "https://www.corvus-robotics.com/case-study-sgws",
+    "pass": 1
+   },
+   {
+    "quote": "Inventory teams spent significant weekly hours hunting for product instead of resolving root causes, with cycle counting pulling labor away from higher-value operational priorities.",
+    "url": "https://www.corvus-robotics.com/case-study-sgws",
+    "pass": 1
+   },
+   {
+    "quote": ", producing a searchable, time-stamped visual record of every pallet position scanned. When discrepancies are identified, inventory teams use the Corvus interface to review high-resolution images, label scans, and historical video logs tied to specific storage locations, moving root-cause analysis off the spreadsheet and onto the evidence.",
+    "url": "https://www.corvus-robotics.com/case-study-sgws",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Autonomous Warehouse Inventory Management | Corvus Robotics",
+    "url": "https://www.corvus-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Fortune 500 operations across the U.S.",
+    "url": "https://www.corvus-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully autonomous flights with no operators or associates on site",
+    "url": "https://www.corvus-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "All of your warehouses, cycle counted automatically.",
+    "url": "https://www.corvus-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "drones fly day and night in warehouses all across North America while",
+    "url": "https://www.corvus-robotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Big picture, our technology automates and optimizes the global physical economy, strengthening resilience and prosperity. Corvus Robotics is the autonomous operations platform for Fortune 500 and Global 2000 companies moving fastest on full warehouse automation.",
+    "url": "https://www.corvus-robotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Andrew Burer leads marketing at Corvus Robotics. He previously spent three years leading marketing for the Americas at Geek+, one of the world's largest warehouse robotics companies (successful IPO). He's a San Diego sports guy and former on-air sports producer at FOX 5.",
+    "url": "https://www.corvus-robotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Join the team building autonomous inventory intelligence for the world's largest warehouses. We're looking for daring engineers, operators, and robotics implementation engineers.",
+    "url": "https://www.corvus-robotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Real Corvus One® deployments across leading retailers, distributors, manufacturers, and 3PLs. See how operations teams use Physical AI to transform inventory accuracy and operational efficiency.",
+    "url": "https://www.corvus-robotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "GNC's labor-intensive inventory counting process once relied on teams navigating 450,000 square feet of warehouse space with material handling equipment. Now, drones are streamlining cycle counts, reducing resource constraints, and improving efficiency across its distribution centers.",
+    "url": "https://www.corvus-robotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Dermalogica deployed the Corvus One autonomous drone system at its global distribution center to strengthen inventory accuracy inside a forecast-driven production environment. Operating without disruption to daily workflows, the system delivers continuous warehouse visibility across retail, wholesale, and e-commerce distribution.",
+    "url": "https://www.corvus-robotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Electrical",
+    "url": "https://www.corvus-robotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "LAPP USA Multiplies Warehouse Counts 13x with Corvus One",
+    "url": "https://www.corvus-robotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "LAPP USA turned to Corvus One to modernize its 134,000 sq. ft. warehouse, replacing manual cycle counting with nightly autonomous scans. The result is more accurate data, faster error detection, and a stronger supply chain end to end.",
+    "url": "https://www.corvus-robotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Staci Americas Goes Lights-Out With Corvus One Across Its 3PL Warehouses",
+    "url": "https://www.corvus-robotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Build the robots that run the world's warehouses.",
+    "url": "https://www.corvus-robotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We're a mission-driven team inventing AI and robotics to revolutionize the entire physical economy of plants, manufacturers, distributors, and retailers, driving global economic growth by improving the supply chain.",
+    "url": "https://www.corvus-robotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Corvus drones are live in Fortune 500 warehouses. The team building them is small enough that your work shows immediately. If that's the environment you want, you're in the right place.",
+    "url": "https://www.corvus-robotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "ASICS America Case Study: Corvus One Inventory Drones - Corvus Robotics",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous accuracy across industries, from manufacturing to distribution.",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "GNC Case Study: Corvus One Inventory Drones - Corvus Robotics",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "across its Indianapolis and Phoenix distribution centers. Corvus One brings Physical AI to warehouse operations, running in GPS-denied environments with onboard AI and computer vision and feeding continuous inventory data into the",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse inventory drones perform 7-8 flights per day, each lasting approximately 30 minutes, providing real-time inventory data.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "Drone inventory management operates independently, freeing up labor and material handling equipment for other warehouse functions.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "GNC's labor-intensive inventory counting process once relied on teams navigating 450,000 square feet of warehouse space with materials handling equipment. Now, drones are streamlining cycle counts, reducing resource constraints, and improving efficiency across its distribution centers.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous accuracy across industries, from manufacturing to distribution.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "Southern Glazer's Case Study: Corvus One Drones Across 9 DCs - Corvus Robotics",
+    "url": "https://www.corvus-robotics.com/case-study-sgws",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous accuracy across industries, from manufacturing to distribution.",
+    "url": "https://www.corvus-robotics.com/case-study-sgws",
+    "pass": 1
+   },
+   {
+    "quote": "Dermalogica Case Study: Corvus One Inventory Drones - Corvus Robotics",
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous warehouse visibility protects revenue and tightens production forecasting across retail, wholesale, e-commerce, and professional treatment channels.",
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "pass": 1
+   },
+   {
+    "quote": "5 p.m. and 5 a.m. is totally drone time. We're imaging the warehouse 52 times a year, which is about a 600% improvement on what we had done manually.",
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "pass": 1
+   },
+   {
+    "quote": "A full warehouse pass took up to two months, leaving long gaps between fresh facility-wide data.",
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "pass": 1
+   },
+   {
+    "quote": "Inventory discrepancies created risk between sales forecasts and production output in a tight-buffer manufacturing model.",
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "pass": 1
+   },
+   {
+    "quote": "Corvus One autonomously navigates Dermalogica's warehouse aisles using onboard AI and computer vision to capture consistent, facility-wide inventory data.",
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "pass": 1
+   },
+   {
+    "quote": "inside its Carson distribution center. Corvus One brings Physical AI to warehouse operations, running in GPS-denied environments with onboard AI and computer vision and feeding consistent inventory and occupancy data into the",
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "pass": 1
+   },
+   {
+    "quote": "Each autonomous flight validates pallet-level inventory locations, reducing the risk of missing product and strengthening alignment between sales forecasts and manufacturing output.",
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "pass": 1
+   },
+   {
+    "quote": "52 full-warehouse scans per year, up from manual cycle counting.",
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous visibility supports tighter coordination between sales planning, manufacturing output, and warehouse execution.",
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "pass": 1
+   },
+   {
+    "quote": "Corvus Robotics has become a valuable partner in modernizing our inventory management. Corvus One delivers the consistent accuracy we need to protect revenue and operate to tight forecasts. With continuous warehouse visibility, we can sell what we produce with confidence and plan future growth on a stronger operational foundation.",
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "pass": 1
+   },
+   {
+    "quote": "Operate without interrupting live warehouse throughput",
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "pass": 1
+   },
+   {
+    "quote": "Improve alignment between sales forecasts and manufacturing plans",
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous accuracy across industries, from manufacturing to distribution.",
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "pass": 1
+   },
+   {
+    "quote": "MSI Surfaces Case Study: Corvus One Drones Across 8 States - Corvus Robotics",
+    "url": "https://www.corvus-robotics.com/case-study-msi",
+    "pass": 1
+   },
+   {
+    "quote": "Not only can our drones find where things are, it can also find where things are not. Our vehicles can capture a volumetric understanding of the warehouse. They can see where things are. They can see how much of a slot is occupied and if something is empty, that is also reported.",
+    "url": "https://www.corvus-robotics.com/case-study-msi",
+    "pass": 1
+   },
+   {
+    "quote": "In a high-volume distribution business handling tens of thousands of slabs, tiles, and pallets across multi-acre warehouses, inventory accuracy directly impacts order fulfillment speed and customer service. When inventory teams rely on manual cycle counts, discrepancies often surface only during order picking, with cascading effects on delivery commitments and customer trust.",
+    "url": "https://www.corvus-robotics.com/case-study-msi",
+    "pass": 1
+   },
+   {
+    "quote": "2 to 4 warehouse associates per facility were dedicated to manual cycle counting and physical inventory audits, running multi-week passes through racks with annual wall-to-wall counts as the catchall.",
+    "url": "https://www.corvus-robotics.com/case-study-msi",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Engineering — February 2025",
+    "url": "https://www.corvus-robotics.com/case-study-msi",
+    "pass": 1
+   },
+   {
+    "quote": "Dive into a real-world case study with MSI Surfaces and see how Corvus One warehouse drones are delivering round-the-clock inventory visibility and helping streamline large-scale warehouse operations.",
+    "url": "https://www.corvus-robotics.com/case-study-msi",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous accuracy across industries, from manufacturing to distribution.",
+    "url": "https://www.corvus-robotics.com/case-study-msi",
+    "pass": 1
+   },
+   {
+    "quote": "LAPP USA Case Study: Corvus One Inventory Drones - Corvus Robotics",
+    "url": "https://www.corvus-robotics.com/case-study-lapp",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Cables & Connectivity",
+    "url": "https://www.corvus-robotics.com/case-study-lapp",
+    "pass": 1
+   },
+   {
+    "quote": "LAPP USA Multiplies Warehouse Counts 13x with Corvus One®",
+    "url": "https://www.corvus-robotics.com/case-study-lapp",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous warehouse visibility replaces manual cycle counting and protects on-time delivery for industrial cable customers.",
+    "url": "https://www.corvus-robotics.com/case-study-lapp",
+    "pass": 1
+   },
+   {
+    "quote": "Cycle counting was a manual process that produced only two full warehouse passes per year, leaving long gaps between accurate facility-wide data.",
+    "url": "https://www.corvus-robotics.com/case-study-lapp",
+    "pass": 1
+   },
+   {
+    "quote": "Five associates, roughly 12.5 percent of the warehouse team, ran weekend cycle counts and still missed targets.",
+    "url": "https://www.corvus-robotics.com/case-study-lapp",
+    "pass": 1
+   },
+   {
+    "quote": "Misplaced reels and slow reconciliation slowed order processing and put on-time delivery at risk for industrial cable customers.",
+    "url": "https://www.corvus-robotics.com/case-study-lapp",
+    "pass": 1
+   },
+   {
+    "quote": "inside its Brownsburg distribution center. Corvus One brings Physical AI to warehouse operations, running in GPS-denied environments with onboard AI and computer vision and feeding consistent inventory and discrepancy data into the",
+    "url": "https://www.corvus-robotics.com/case-study-lapp",
+    "pass": 1
+   },
+   {
+    "quote": "Corvus One’s onboard AI allows it to perceive, navigate, and scan LAPP’s warehouse without manual oversight.",
+    "url": "https://www.corvus-robotics.com/case-study-lapp",
+    "pass": 1
+   },
+   {
+    "quote": "26 full-warehouse counts per year, up from two manual cycles.",
+    "url": "https://www.corvus-robotics.com/case-study-lapp",
+    "pass": 1
+   },
+   {
+    "quote": "Inventory team cut from five associates to two, with the remaining three redeployed to picking and manufacturing.",
+    "url": "https://www.corvus-robotics.com/case-study-lapp",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Trusted by Fortune 500 operations across the U.S.",
+    "url": "https://www.corvus-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Corvus One delivers the consistent accuracy we need to protect revenue and operate to tight forecasts.\"",
+    "url": "https://www.corvus-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Big picture, our technology automates and optimizes the global physical economy, strengthening resilience and prosperity. Corvus Robotics is the autonomous operations platform for Fortune 500 and Global 2000 companies moving fastest on full warehouse automation.",
+    "url": "https://www.corvus-robotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.corvus-robotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Michael McSpedon is the CRO of Corvus Robotics. A 3x CRO and successful sales leader in the inventory visibility and logistics space, Mike has previously taken companies to $100M+ revenue. His prior experience includes leading sales at Overhaul, project44, and Trustwell.",
+    "url": "https://www.corvus-robotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Led Marketing at Geek+ Americas (IPO)",
+    "url": "https://www.corvus-robotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Andrew Burer leads marketing at Corvus Robotics. He previously spent three years leading marketing for the Americas at Geek+, one of the world's largest warehouse robotics companies (successful IPO). He's a San Diego sports guy and former on-air sports producer at FOX 5.",
+    "url": "https://www.corvus-robotics.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Corvus drones are live in Fortune 500 warehouses. The team building them is small enough that your work shows immediately. If that's the environment you want, you're in the right place.",
+    "url": "https://www.corvus-robotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Manual counts tied up lift equipment in very narrow aisles (VNA), and drivers had to wait on each other to clear an aisle before counting could start.",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "ASICS kept 12 to 15 units out of every 100 off its online marketplace availability feeds because the tail of the inventory carried fulfillment risk. Product at the bottom of that tail never showed up on the marketplace, which left liquidation at a steep discount as the alternative.",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "Taking counts off the floor means less lift equipment running through the aisles. The Byhalia facility is LEED Silver certified and draws about half its power from an on-site solar array, and ASICS counts the Corvus One deployment among the programs supporting its sustainability goals.",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "Corvus One flies very narrow aisles less than 6 feet wide at ASICS America, with no localization infrastructure anywhere in the building.",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "Fly very narrow aisles with no localization infrastructure",
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "pass": 1
+   },
+   {
+    "quote": "Inventory control staff was reduced from 20 to 13, with redeployed employees working on other projects.",
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous warehouse visibility protects revenue and tightens production forecasting across retail, wholesale, e-commerce, and professional treatment channels.",
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "pass": 1
+   },
+   {
+    "quote": "Corvus Robotics has become a valuable partner in modernizing our inventory management. Corvus One delivers the consistent accuracy we need to protect revenue and operate to tight forecasts. With continuous warehouse visibility, we can sell what we produce with confidence and plan future growth on a stronger operational foundation.",
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "pass": 1
+   },
+   {
+    "quote": "For global brands distributing across multiple channels, inventory accuracy is directly tied to revenue performance and production planning. Periodic manual counts introduce delay and risk in forecast-driven environments.",
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "pass": 1
+   },
+   {
+    "quote": "Protect revenue in high-value, tight-buffer production models",
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "pass": 1
+   },
+   {
+    "quote": "2 to 4 employees per site previously dedicated to manual physical inventory now run no dedicated PI cycles. Labor reallocated to higher-value picking, replenishment, and operational improvement work, valued at approximately $110,000 annually per facility.",
+    "url": "https://www.corvus-robotics.com/case-study-msi",
+    "pass": 1
+   },
+   {
+    "quote": "If a picker goes to a location and the item is not there, sometimes that can cause an inventory adjustment out. But being able to reference a camera view from the previous day, or even to set up a customized flight to go and scan that aisle, we're able to find that by using the drone to really narrow down where the last trail of that item was.",
+    "url": "https://www.corvus-robotics.com/case-study-lapp",
+    "pass": 1
+   },
+   {
+    "quote": "For a busy 3PL like Staci, they care not only about cutting costs, which improves their margin, but also figuring out how to drive new revenue. And we're able to help them optimize their inventory and figure out the fast moving versus slow moving inventory, as well as save costs on cycle counting and inventory control.",
+    "url": "https://www.corvus-robotics.com/case-study-staci",
+    "pass": 1
+   },
+   {
+    "quote": "A single misplaced pallet could take 6 to 8 hours to locate, sometimes the better part of a day. While inventory teams searched aisle by aisle, outbound orders waited to ship and production stalled around them.",
+    "url": "https://www.corvus-robotics.com/case-study-staci",
+    "pass": 1
+   },
+   {
+    "quote": ". Drones launch nightly while the buildings sit dark for six to eight hours, scanning thousands of pallet positions and uploading discrepancy reports to Staci’s WMS before the morning inventory team arrives.",
+    "url": "https://www.corvus-robotics.com/case-study-staci",
+    "pass": 1
+   },
+   {
+    "quote": "Pallet hunts that once stalled up to 20 production employees per incident now end before the shift starts.",
+    "url": "https://www.corvus-robotics.com/case-study-staci",
+    "pass": 1
+   },
+   {
+    "quote": "Sr. Director of Pricing & Revenue Growth, Staci Americas",
+    "url": "https://www.corvus-robotics.com/case-study-staci",
+    "pass": 1
+   },
+   {
+    "quote": "Dermalogica protects revenue and improves inventory visibility with Corvus Robotics' Corvus One autonomous inventory drones",
+    "url": "https://www.casestudies.com/company/corvus-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/185063-32",
+    "pass": 3
+   },
+   {
+    "quote": "Corvus Robotics has 43 total employees.",
+    "url": "https://pitchbook.com/profiles/company/185063-32",
+    "pass": 3
+   },
+   {
+    "quote": "What is Corvus Robotics’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/185063-32",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Corvus Robotics is",
+    "url": "https://pitchbook.com/profiles/company/185063-32",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "タイムラインを合わせる日本、次に必要なものは [相良静造のUnmanned World] Vol.14",
+    "url": "https://drone.jp/news/20241009125554100050.html",
+    "pass": 3
+   },
+   {
+    "quote": "DRONE.jp（https://drone.jp/、以下本サイト）は、ドローンやマルチコプターについての本格的な解説やおすすめ、最新情報を発信する日本初のメディアとして、「Explore the Future」をタグラインに2015年スタートしました",
+    "url": "https://drone.jp/news/20241009125554100050.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内において、完全に屋内空間となる倉庫であれば、ドローンの飛行に適応される航空法の管轄外となる",
+    "url": "https://note.com/drone_biz/n/ne9015641e0a7",
+    "pass": 3
+   },
+   {
+    "quote": "日本の倉庫事業を営む大手企業が、これらの海外製の在庫管理ドローンソリューションを導入する日も、近く訪れるものと考える",
+    "url": "https://note.com/drone_biz/n/ne9015641e0a7",
+    "pass": 3
+   },
+   {
+    "quote": "3月には3200万ユーロ、7月には1100万ユーロと、日本円にして約70億円の資金調達を完了しており、まさに今勢いに乗っているスタートアップだ",
+    "url": "https://note.com/drone_biz/n/ne9015641e0a7",
+    "pass": 3
+   },
+   {
+    "quote": "（ソース：ドローンジャーナル 「ドローンショーのビジネスの変遷と日本での展開」2024年7月18日）",
+    "url": "https://note.com/drone_biz/n/ne9015641e0a7",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Autonomous Warehouse Inventory Management | Corvus Robotics — Autonomous inventory intelligence for the physical economy. Corvus Robotics drones and AI forklift sensors count inventory in Fortune 500 warehouses.",
+    "url": "https://www.corvus-robotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Corvus Robotics、自律型ドローン在庫管理ドローンシステム「Corvus O... — Oct 9, 2024 · Corvus Robotics、自律型ドローン在庫管理ドローンシステム「Corvus One」をアップデート。24時間無人で在庫チェックできる Corvus Roboticsは、反射板やステッカー、ビーコンといった追加のインフラを必要とせず、無人の配送センターでドローンを飛ばすことができる「Corvus One」システムの新 ...",
+    "url": "https://drone.jp/news/20241009125554100050.html",
+    "pass": 3
+   },
+   {
+    "quote": "News & Content - Corvus Robotics — 1 day ago · Press releases and coverage on Corvus Robotics autonomous inventory drones, Corvus Trident, and embodied AI in supply chain and warehouse operations.",
+    "url": "https://www.corvus-robotics.com/news",
+    "pass": 3
+   },
+   {
+    "quote": "GPS不要で完全自律！米国の最新ドローンに学ぶ過酷な倉庫を自動化する... — Apr 8, 2026 · 先進事例：Corvus Roboticsが克服する過酷な物流環境 米Corvus Robotics社は、ドローンを倉庫内の「過酷な環境（Challenging Logistics Environments）」へ適応させることで、他社とは一線を画す成果を上げています。",
+    "url": "https://logishift.net/2026/04/08/post-3811/",
+    "pass": 3
+   },
+   {
+    "quote": "Careers | Corvus Robotics | Autonomous Inventory AI — Corvus Robotics careers. Build the Physical AI behind autonomous inventory management solutions for the world's largest warehouses. See open roles.",
+    "url": "https://www.corvus-robotics.com/careers",
+    "pass": 3
+   },
+   {
+    "quote": "About Corvus Robotics | Autonomous Inventory Management — We're Corvus Robotics Jackie Wu and Mohammed Kabir started building autonomous drones together in 2017, with the first in-house build in Kabir's MIT dorm room. Today, Corvus One® drones fly day and night in warehouses all across North America while Corvus Trident™ records every pallet the forklifts move, keeping millions of inventory locati",
+    "url": "https://www.corvus-robotics.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "Corvus Robotics - LinkedIn — Corvus Robotics | 8,755 followers on LinkedIn. Autonomous drones and forklift systems that track inventory at rest and inventory in motion. | Corvus Robotics builds physical AI systems for ...",
+    "url": "https://www.linkedin.com/company/corvus-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Corvus Robotics Names Co-Founder CEO and Closes $20M Round — Aug 27, 2026 · Corvus Robotics names co-founder Mohammed Kabir CEO and closes a $20M Catalyst-led round for its warehouse inventory drones.",
+    "url": "https://dronelife.com/2026/08/27/corvus-robotics-names-co-founder-ceo-and-closes-20m-round/",
+    "pass": 3
+   },
+   {
+    "quote": "Corvus One Customer Case Studies - Corvus Robotics — See how GNC, Southern Glazer's, and Dermalogica use Corvus One autonomous drones to transform inventory operations across distribution and manufacturing.",
+    "url": "https://www.corvus-robotics.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring Corvus Robotics as the Customer — Explore case studies featuring Corvus Robotics as the customer — learn how vendors and partners helped Corvus Robotics solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/corvus-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Corvus Robotics B2B Case Studies & Customer Successes — See how Corvus Robotics solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/corvus-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "3 Corvus Robotics Customer Reviews & ReferencesWhat Corvus One Drones Deliver: Real Results | ActelDover | Corvus Robotics Case Study — Learn more about Corvus Robotics - use cases, approaches, & end results from real customers; read customer reviews including 3 testimonials, videos, and case studies. Aug 21, 2026 · Corvus Robotics and its Corvus One inventory drone now have a public track record ",
+    "url": "https://www.featuredcustomers.com/vendor/corvus-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Corvus Robotics 2026 Company Profile: Valuation, Funding ...Corvus Robotics - 2025 Company Profile, Team, Funding ...Corvus Robotics – Company Insights & Financial Strength – 2026Corvus Robotics — Company Profile | The Company CheckCorvus Robotics Revenue 2024: $3.9M Est. - getlatka.comCorvus Robotics - Crunchbase Company Profile & FundingCorvus Robotics Revenue, Growth & Competitor Profile — Info",
+    "url": "https://pitchbook.com/profiles/company/185063-32",
+    "pass": 3
+   },
+   {
+    "quote": "Corvus Robotics - 2025 Company Profile, Team, Funding ...Corvus Robotics – Company Insights & Financial Strength – 2026Corvus Robotics — Company Profile | The Company CheckCorvus Robotics Revenue 2024: $3.9M Est. - getlatka.comCorvus Robotics - Crunchbase Company Profile & FundingCorvus Robotics Revenue, Growth & Competitor Profile — Sep 11, 2025 · Corvus Robotics - About the company Corvus Roboti",
+    "url": "https://tracxn.com/d/companies/corvus-robotics/__GAbkyNsa_EiqfiIrfpQR0ppRToHLVIiGASS5NoSNIUM",
+    "pass": 3
+   },
+   {
+    "quote": "Corvus Robotics – Company Insights & Financial Strength – 2026 — Discover Corvus Robotics's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/corvus-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Corvus Robotics — Company Profile | The Company Check — About Corvus Robotics Corvus Robotics is a company based in Chicago (United States) founded in 2015.. Corvus Robotics has raised $28.06 million across 3 funding rounds from investors including Arch Grants, S2G Ventures and Spero. The company has 19 employees as of December 31, 2024.",
+    "url": "https://www.thecompanycheck.com/company/b/corvus-robotics/hcln5bjizynios1si",
+    "pass": 3
+   },
+   {
+    "quote": "Corvus Robotics Revenue 2024: $3.9M Est. - getlatka.com — Oct 30, 2026 · Corvus Robotics 2024 estimated revenue: $3.9M. 26 employees. Industry: Robotics & Drones. Founded 2017. HQ: United States. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/corvus-robotics.com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/185063-32",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "IKEAが進める倉庫の在庫管理を支援する屋内ドローンが、適用国を順次... Aug 18, 2024 · 在庫管理ドローン市場にはVerity社以外にも多数競合が存在し、Corvus Robotics、Gather AI、Indoor Roboticsなどが同様のソリューションを提供している。 日本国内において、完全に屋内空間となる倉庫であれば、ドローンの飛行に適応される航空法の管轄外となる。",
+    "url": "https://note.com/drone_biz/n/ne9015641e0a7",
+    "pass": 3
+   },
+   {
+    "quote": "フィジカルAIニュース(2026/2/11号)｜Yasuhito Morimoto Feb 10, 2026 · 5️⃣ Corvus Robotics、冷凍倉庫向け自律在庫管理ドローンをリリース 出典URL: GlobeNewswire - Corvus Robotics Cold Chain Drones 要約: 米Corvus Roboticsが、マイナス29℃の冷凍庫内で稼働可能な自律飛行ドローンシステム「Corvus One for Cold Chain」を発表。",
+    "url": "https://note.com/yasuhitoo/n/n6d7243e5942f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "IKEAが進める倉庫の在庫管理を支援する屋内ドローンが、適用国を順次拡大中（アメリカ）｜ドローンと空飛ぶクルマのビジネスアカデミー by 元・外資系ドローン企業のしゃちょー",
+    "url": "https://note.com/drone_biz/n/ne9015641e0a7",
+    "pass": 3
+   },
+   {
+    "quote": "IKEAが進める倉庫の在庫管理を支援する屋内ドローンが、適用国を順次拡大中（アメリカ）",
+    "url": "https://note.com/drone_biz/n/ne9015641e0a7",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンと空飛ぶクルマのビジネスアカデミー by 元・外資系ドローン企業のしゃちょー",
+    "url": "https://note.com/drone_biz/n/ne9015641e0a7",
+    "pass": 3
+   },
+   {
+    "quote": "IKEAが2021年から開始した在庫管理の業務支援ドローンが、欧州に続きアメリカの配送センターでも導入されることが発表されました。",
+    "url": "https://note.com/drone_biz/n/ne9015641e0a7",
+    "pass": 3
+   },
+   {
+    "quote": "IKEAは、米国メリーランド州ペリーヴィルの配送センターに自律型AI対応ドローンを導入することを発表。",
+    "url": "https://note.com/drone_biz/n/ne9015641e0a7",
+    "pass": 3
+   },
+   {
+    "quote": "このドローンはAIアルゴリズムを使って商品の保管場所を特定し、撮影を通じて在庫管理業務を支援する。",
+    "url": "https://note.com/drone_biz/n/ne9015641e0a7",
+    "pass": 3
+   },
+   {
+    "quote": "ドローンは事前にスケジュールされた飛行計画に基づき、倉庫内を飛行し、障害物を検知すると経路を変更して衝突を回避する自律飛行を行える。",
+    "url": "https://note.com/drone_biz/n/ne9015641e0a7",
+    "pass": 3
+   },
+   {
+    "quote": "IKEAは2021年からスイスでドローンを使ったプロジェクトを開始している。",
+    "url": "https://note.com/drone_biz/n/ne9015641e0a7",
+    "pass": 3
+   },
+   {
+    "quote": "フィジカルAIニュース(2026/2/11号)｜Yasuhito Morimoto",
+    "url": "https://note.com/yasuhitoo/n/n6d7243e5942f",
+    "pass": 3
+   },
+   {
+    "quote": "フィジカルAIニュース(2026/2/11号)",
+    "url": "https://note.com/yasuhitoo/n/n6d7243e5942f",
+    "pass": 3
+   },
+   {
+    "quote": "2026/2/11は、Alibabaは30B規模MoEのロボット基盤モデルRynnBrainをオープンソース公開し、時空間メモリで長期タスク性能を訴求。北京は人型ロボット天工3.0を発表し、大脳小脳分離の制御で高ダイナミクスを実現。欧米では1Xの大規模導入、Algorizedの予測安全、冷凍倉庫ドローン、分散データJVなど、運用データと安全が競争軸に。",
+    "url": "https://note.com/yasuhitoo/n/n6d7243e5942f",
+    "pass": 3
+   },
+   {
+    "quote": "Gemini 3 にて作成した、記事の全体像インフォグラフィック画像",
+    "url": "https://note.com/yasuhitoo/n/n6d7243e5942f",
+    "pass": 3
+   },
+   {
+    "quote": "1️⃣ Alibaba、オープンソースのロボット基盤モデル「RynnBrain」を公開",
+    "url": "https://note.com/yasuhitoo/n/n6d7243e5942f",
+    "pass": 3
+   },
+   {
+    "quote": "Techzine - Alibaba launches open source AI model RynnBrain",
+    "url": "https://note.com/yasuhitoo/n/n6d7243e5942f",
+    "pass": 3
+   },
+   {
+    "quote": "Pandaily - Alibaba DAMO Academy Launches RynnBrain",
+    "url": "https://note.com/yasuhitoo/n/n6d7243e5942f",
+    "pass": 3
+   },
+   {
+    "quote": "Alibaba DAMO Academyが、ロボット制御用の大規模基盤モデル「RynnBrain」をオープンソースとして公開。30Bパラメータ規模のMoE（Mixture of Experts）アーキテクチャを採用し、GoogleのGemini Robotics-ER 1.5やNVIDIAのCosmos-Reason2を用いたベンチマークで最先端性能を記録したと主張。時空間メモリ機能により、長期タスクや複雑環境での経路計画が可能。中国発の高性能ロボットAIとして、欧米勢に対抗する技術力を示した。Qwen3-VLをベースに2,000万ペア以上のロボティクスデータでファインチューニングされ、Hugging FaceとGitHubで公開されている。",
+    "url": "https://note.com/yasuhitoo/n/n6d7243e5942f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Corvus Robotics (@CorvusRobotics) / X Corvus One for Cold Chain helps warehouse teams maintain inventory visibility while eliminating routine manual counting in cold storage environments. Better inventory data.",
+    "url": "https://x.com/corvusrobotics",
+    "pass": 3
+   },
+   {
+    "quote": "Corvus_Robotics (@Corvus_Robotics) / Posts / X Corvus_Robotics (@Corvus_Robotics) - Posts - | X (formerly Twitter) Corvus_Robotics Corvus_Robotics Joined: Jul 20, 2021 0Posts 0Following 5Followers",
+    "url": "https://x.com/Corvus_Robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Corvus Robotics on X: \"Cold storage is expanding fast but the ... Cold storage is expanding fast but the inventory visibility problem inside it isn't. Corvus One for Cold Chain: onboard AI, automatic flight stabilization, thermal management. Built for -20°F to ambient. Save your people from the cold. Link in replies.",
+    "url": "https://x.com/CorvusRobotics/status/2052445325789725175",
+    "pass": 3
+   },
+   {
+    "quote": "Corvus One is an autonomous inventory drone developed by ... Corvus One is an autonomous inventory drone developed by Corvus Robotics, a startup based in California. It uses generative AI and computer vision to scan barcodes and track inventory in warehouses 24/7 without human intervention. The drone can fly through narrow spaces, avoid obstacles, and help reduce manual work while improving produc",
+    "url": "https://x.com/spaceandtech_/status/2065501479709143414",
+    "pass": 3
+   },
+   {
+    "quote": "Corvus Robotics (@CorvusRobotics) / X Proud to share that Corvus Robotics won the 2025 Solution Provider Award for Robotics at the Next Gen Supply Chain Conference. Corvus One combines embodied AI with a fully integrated hardware and software stack to deliver accurate inventory visibility at scale.",
+    "url": "https://x.com/corvusrobotics",
+    "pass": 3
+   },
+   {
+    "quote": "Corvus_Robotics (@Corvus_Robotics) / Posts / X Jul 20, 2021 · Corvus_Robotics (@Corvus_Robotics) - Posts - | X (formerly Twitter) Corvus_Robotics Corvus_Robotics Joined: Jul 20, 2021 0Posts 0Following 5Followers",
+    "url": "https://x.com/Corvus_Robotics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Corvus Robotics - LinkedIn Corvus Robotics builds physical AI systems for warehouses and manufacturing facilities. Corvus One® drones are the first and only fully autonomous inventory management system to fly inside active ...",
+    "url": "https://www.linkedin.com/company/corvus-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Mohammed Kabir - CEO, Corvus Robotics | LinkedInRyan N. - Corvus Robotics | LinkedInAnagha Ramaswamy - Head of Deployments @ Corvus Robotics ...Corvus Robotics (YC S18) has raised $18M in Series ... - LinkedInHayden Sykes - Corvus Robotics | LinkedInJason Kerner - Corvus Robotics | LinkedIn CEO, Corvus Robotics · I'm a roboticist and I specialize in vision-based GPS-denied guidance systems for aer",
+    "url": "https://www.linkedin.com/in/mhkabirr",
+    "pass": 3
+   },
+   {
+    "quote": "Ryan N. - Corvus Robotics | LinkedInAnagha Ramaswamy - Head of Deployments @ Corvus Robotics ...Corvus Robotics (YC S18) has raised $18M in Series ... - LinkedInHayden Sykes - Corvus Robotics | LinkedInJason Kerner - Corvus Robotics | LinkedIn Experience: Corvus Robotics · Education: University of California, Los Angeles · Location: San Francisco Bay Area · 279 connections on LinkedIn. View Ryan N",
+    "url": "https://www.linkedin.com/in/ryan-nemiroff",
+    "pass": 3
+   },
+   {
+    "quote": "Anagha Ramaswamy - Head of Deployments @ Corvus Robotics ...Corvus Robotics (YC S18) has raised $18M in Series ... - LinkedInHayden Sykes - Corvus Robotics | LinkedInJason Kerner - Corvus Robotics | LinkedIn Head of Deployments @ Corvus Robotics | Mechatronics, Robotics, Automation Engineering · I work at a robotics startup, on the engineering and operations side. I’ve spent the last few years ...",
+    "url": "https://www.linkedin.com/in/anagharamaswamy",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Corvus Robotics - Facebook Corvus Robotics - Facebook ... Corvus Robotics",
+    "url": "https://www.facebook.com/Corvus-Robotics-103201624999472/",
+    "pass": 3
+   },
+   {
+    "quote": "Corvus Robotics autonomous inventory management system ... Feb 9, 2025 · Corvus Robotics autonomous inventory management system 90 James Pope All the money I lost when I told someone my idea of counter rotation and the us of it for",
+    "url": "https://www.facebook.com/SpaceTechnologyPage/videos/corvus-one-drone/1973357763074054/",
+    "pass": 3
+   },
+   {
+    "quote": "Technology - Corvus Robotics has launched autonomous drones ... Feb 10, 2026 · Corvus Robotics has launched autonomous drones that handle inventory in extreme warehouses like industrial freezers, working nonstop in temperatures as low as -20°F and keeping workers out of the cold. Built for frozen goods warehouses, the system follows shelf-life rules and manages complex inventories, giving operator",
+    "url": "https://www.facebook.com/TechnologyInnovation1/photos/corvus-robotics-has-launched-autonomous-drones-that-handle-inventory-in-extreme-/1216426673977310/",
+    "pass": 3
+   },
+   {
+    "quote": "Corvus Robotics has launched... - Technology Innovation ... Feb 10, 2026 · Corvus Robotics has launched autonomous drones that handle inventory in extreme warehouses like industrial freezers, working nonstop in temperatures as low as -20°F and keeping workers out of the...",
+    "url": "https://www.facebook.com/TechnologyInnovation1/posts/corvus-robotics-has-launched-autonomous-drones-that-handle-inventory-in-extreme-/1216426700643974/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.corvus-robotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corvus-robotics.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corvus-robotics.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corvus-robotics.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corvus-robotics.com/case-study-asics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corvus-robotics.com/case-study-gnc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corvus-robotics.com/case-study-sgws",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corvus-robotics.com/case-study-dermalogica",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corvus-robotics.com/case-study-msi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corvus-robotics.com/case-study-lapp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.corvus-robotics.com/case-study-staci",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.corvus-robotics.com/imgs/press-logos/forbes.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.corvus-robotics.com/imgs/press-logos/business-insider-white.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.corvus-robotics.com/imgs/press-logos/modern-materials-handling.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.corvus-robotics.com/imgs/press-logos/dc-velocity.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://drone.jp/news/20241009125554100050.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://36kr.jp/502923/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/corvus-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://drone.jp/news/20241009125554100050.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/corvus-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/corvus-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nebius.com/nebius-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/185063-32",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/corvus-robotics/__GAbkyNsa_EiqfiIrfpQR0ppRToHLVIiGASS5NoSNIUM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/corvus-robotics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/corvus-robotics/hcln5bjizynios1si",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/drone_biz/n/ne9015641e0a7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yasuhitoo/n/n6d7243e5942f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/corvusrobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Corvus_Robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CorvusRobotics/status/2052445325789725175",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/spaceandtech_/status/2065501479709143414",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/corvus-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mhkabirr",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ryan-nemiroff",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/anagharamaswamy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Corvus-Robotics-103201624999472/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SpaceTechnologyPage/videos/corvus-one-drone/1973357763074054/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TechnologyInnovation1/photos/corvus-robotics-has-launched-autonomous-drones-that-handle-inventory-in-extreme-/1216426673977310/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TechnologyInnovation1/posts/corvus-robotics-has-launched-autonomous-drones-that-handle-inventory-in-extreme-/1216426700643974/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/corvusrobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Corvus_Robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Corvus Robotics 日本 導入",
+   "results": [
+    "https://www.corvus-robotics.com/",
+    "https://drone.jp/news/20241009125554100050.html",
+    "https://www.corvus-robotics.com/news",
+    "https://36kr.jp/502923/",
+    "https://logishift.net/2026/04/08/post-3811/",
+    "https://logishift.net/2026/04/08/post-3805/",
+    "https://robotstart.info/article/2026/10/20/382539.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Corvus Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://www.corvus-robotics.com/careers",
+    "https://www.corvus-robotics.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Corvus Robotics Japan",
+   "results": [
+    "https://www.corvus-robotics.com/company",
+    "https://www.corvus-robotics.com/",
+    "https://www.linkedin.com/company/corvus-robotics",
+    "https://drone.jp/news/20241009125554100050.html",
+    "https://dronelife.com/2026/08/27/corvus-robotics-names-co-founder-ceo-and-closes-20m-round/",
+    "https://thefogsignal.substack.com/p/physical-ai-goes-to-work",
+    "https://alum.mit.edu/slice/startups-autonomous-drones-precisely-track-warehouse-inventories"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Corvus Robotics manufacturing customer case study",
+   "results": [
+    "https://www.corvus-robotics.com/case-studies",
+    "https://www.corvus-robotics.com/case-study-lapp",
+    "https://www.casestudies.com/customer/corvus-robotics",
+    "https://www.casestudies.com/company/corvus-robotics",
+    "https://www.featuredcustomers.com/vendor/corvus-robotics",
+    "https://www.actelrobotics.com/blog/corvus-one-inventory-drone-case-studies-results/",
+    "https://www.dover.com/case-studies/corvus-robotics"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Corvus Robotics white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://nebius.com/nebius-partner-program",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Corvus Robotics founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/185063-32",
+    "https://tracxn.com/d/companies/corvus-robotics/__GAbkyNsa_EiqfiIrfpQR0ppRToHLVIiGASS5NoSNIUM",
+    "https://compworth.com/company/corvus-robotics",
+    "https://www.thecompanycheck.com/company/b/corvus-robotics/hcln5bjizynios1si",
+    "https://getlatka.com/companies/corvus-robotics.com",
+    "https://www.crunchbase.com/organization/corvus-robotics",
+    "https://incfact.com/company/corvusrobotics-hazelwood-mo/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Corvus Robotics",
+   "results": [
+    "https://note.com/corvus_corine/n/nde96216c2208?hl=en",
+    "https://note.com/corvus_corine/n/nde96216c2208",
+    "https://note.com/drone_biz/n/ne9015641e0a7",
+    "https://note.com/yasuhitoo/n/n6d7243e5942f",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/akih/n/n6cc428c21d80"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Corvus Robotics",
+   "results": [
+    "https://x.com/corvusrobotics",
+    "https://x.com/Corvus_Robotics",
+    "https://x.com/CorvusRobotics/status/2052445325789725175",
+    "https://x.com/spaceandtech_/status/2065501479709143414",
+    "https://x.com/corvus_ind",
+    "https://x.com/ManufTmrw/status/2103102891947127237",
+    "https://x.com/mhkabirr"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Corvus Robotics",
+   "results": [
+    "https://www.linkedin.com/company/corvus-robotics",
+    "https://www.linkedin.com/in/mhkabirr",
+    "https://www.linkedin.com/in/ryan-nemiroff",
+    "https://www.linkedin.com/in/anagharamaswamy",
+    "https://www.linkedin.com/posts/y-combinator_corvus-robotics-yc-s18-has-raised-18m-activity-7249448501363793921-ecPX",
+    "https://www.linkedin.com/in/hayden-sykes",
+    "https://www.linkedin.com/in/jasonkerner"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Corvus Robotics",
+   "results": [
+    "https://www.facebook.com/Corvus-Robotics-103201624999472/",
+    "https://www.facebook.com/SpaceTechnologyPage/videos/corvus-one-drone/1973357763074054/",
+    "https://www.facebook.com/TechnologyInnovation1/photos/corvus-robotics-has-launched-autonomous-drones-that-handle-inventory-in-extreme-/1216426673977310/",
+    "https://www.facebook.com/TechnologyInnovation1/posts/corvus-robotics-has-launched-autonomous-drones-that-handle-inventory-in-extreme-/1216426700643974/",
+    "https://www.facebook.com/SpaceTechnologyPage/videos/corvus-one-drone/1262312901799706/",
+    "https://www.facebook.com/dronehome/posts/corvus-robotics-launches-autonomous-inventory-system-for-lights-out-warehouses-n/941506411341216/",
+    "https://lite.facebook.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Corvus Robotics note 社長",
+   "results": [
+    "https://www.corvus-robotics.com/pr-kabir-ceo",
+    "https://www.corvus-robotics.com/pr-mcspedon",
+    "https://www.actelrobotics.com/blog/corvus-robotics-new-ceo-20m-series-c/",
+    "https://robottoday.com/industry-briefing/corvus-robotics-appoints-co-founder-mohammed-kabir-as-new-ceo/11543",
+    "https://www.flyeye.io/jackie-wu-founder-ceo-of-corvus-robotics-innovator-series/",
+    "https://svtr.ai/persons/jackie-wu?lang=en",
+    "https://svtr.ai/persons/mohammed-kabir?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Corvus Robotics X 投稿",
+   "results": [
+    "https://x.com/corvusrobotics",
+    "https://x.com/Corvus_Robotics",
+    "https://www.corvus-robotics.com/",
+    "https://www.corvus-robotics.com/news",
+    "https://x.com/cosmicdroplet/status/2119409842637123969",
+    "https://www.corvus-robotics.com/corvus-one",
+    "https://www.corvus-robotics.com/cold-chain"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式11頁／PDF・画像4件／外部32頁・検索12回）"
+ }
+}

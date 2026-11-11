@@ -1,0 +1,846 @@
+{
+ "name": "Shasqi",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜未接触",
+ "researched_at": "2026-11-11T09:19:09.851519+00:00",
+ "official_url": "https://www.shasqi.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Seed 5",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/226166-59",
+    "pass": 3
+   },
+   {
+    "label": "Seed 2",
+    "value": "100,563 $0.000010  $0.5 $0.5 1x $0.5 0.34%",
+    "url": "https://pitchbook.com/profiles/company/226166-59",
+    "pass": 3
+   },
+   {
+    "label": "Seed 1",
+    "value": "412,456 $0.000010  $0.35 $0.35 1x $0.35 1.38%",
+    "url": "https://pitchbook.com/profiles/company/226166-59",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://startupintros.com/orgs/shasqi",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/shasqi",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Our proprietary Click Activated Protodrugs Against Cancer (CAPAC",
+    "url": "https://www.shasqi.com/",
+    "pass": 1
+   },
+   {
+    "quote": ") platform is a pre-targeting approach, capturing payloads at the tumor via",
+    "url": "https://www.shasqi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "than has been previously possible.",
+    "url": "https://www.shasqi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CAPAC is designed to expand the scope of potential targets and widen the therapeutic window of antibody drug conjugates (ADCs) and targeted radiopharm approaches. CAPAC has been",
+    "url": "https://www.shasqi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SAN FRANCISCO, Oct. 1, 2025 - PRNewswire - Shasqi, Inc. (\"Shasqi\") a biotech company whose mission is to make cancer drugs more effective with pre-targeting enabled by click chemistry, today announced the appointment of Roger Dansey, M.D., a prominent leader in oncology research and drug development, to its Board of Directors.",
+    "url": "https://www.shasqi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Roger brings his exceptional leadership in oncology to our Board at a pivotal moment. Most importantly, Roger's deep expertise in the development of ADCs from his tenure at Seagen and Pfizer will be invaluable as we bring our lead asset to the clinic and grow our pipeline of pre-targeted cancer therapeutics,\" said Shasqi CEO and Founder, José M. Mejía Oneto, M.D., Ph.D.\"",
+    "url": "https://www.shasqi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"I'm delighted to join the Shasqi team and Board of Directors to advance their pre-targeting technology. This pioneering approach has real potential to benefit patients by getting more drug directly to tumors and improving efficacy - without the dose-limiting toxicities of current therapies,\" said Dr. Dansey.\"",
+    "url": "https://www.shasqi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Shasqi presented poster at the 15th World ADC London",
+    "url": "https://www.shasqi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "is a world where cancer drugs are present only where they are needed in the body.",
+    "url": "https://www.shasqi.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We creatively solve problems to drive continued innovation by being efficient and flexible, embracing constraints.",
+    "url": "https://www.shasqi.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "looking for opportunities to improve and optimize.",
+    "url": "https://www.shasqi.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborate with a committed team, passionate about improving cancer therapies.",
+    "url": "https://www.shasqi.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Ongoing growth opportunities, professional development, and mentorship.",
+    "url": "https://www.shasqi.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "It’s not every day you get to work on Nobel Prize winning technology.",
+    "url": "https://www.shasqi.com/about",
+    "pass": 1
+   },
+   {
+    "quote": ", left his residency in orthopedic surgery. After spending his days in the operating room, dramatically transforming the human body with incredible specificity, he wanted to create a better way to get drugs precisely to the place where they were needed.",
+    "url": "https://www.shasqi.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "His PhD training in organic chemistry presented a solution: click chemistry!",
+    "url": "https://www.shasqi.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Catalyzed by a chance meeting with future Nobel Prize laureate Dr. Carolyn Bertozzi, José was accepted into the accelerator program, Y Combinator, to advance the development of his idea.",
+    "url": "https://www.shasqi.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The purpose of this study is to evaluate the safety, tolerability, and preliminary activity of SQ3370 in patients with advanced solid tumors.",
+    "url": "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "pass": 3
+   },
+   {
+    "quote": "Click Chemistry Selectively Activates an Auristatin Protodrug with either Intratumoral or Systemic Tumor-Targeting Agents",
+    "url": "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "pass": 3
+   },
+   {
+    "quote": "The Click Activated Protodrugs Against Cancer (CAPAC) platform enables the activation of powerful cancer drugs at tumors. CAPAC utilizes a click chemistry reaction between tetrazine and",
+    "url": "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "pass": 3
+   },
+   {
+    "quote": "-cyclooctene to form the protodrug SQP22, which reduced its cytotoxicity",
+    "url": "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "pass": 3
+   },
+   {
+    "quote": "Click activated protodrugs against cancer increase the therapeutic potential of chemotherapy through local capture and activation",
+    "url": "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "pass": 3
+   },
+   {
+    "quote": "The Click Activated Protodrugs Against Cancer (CAPAC) platform uses click chemistry to activate cytotoxic drugs directly at a target site with minimal toxicity, overcoming limitations of conventional chemotherapy and traditional targeted therapies.",
+    "url": "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "pass": 3
+   },
+   {
+    "quote": "他新团队的首要支柱包括私人专属护理实践和服务——例如PrivateMedical、PrivateHealthManagement和PathfinderOncology——这些可以帮助他扩大规模并管理他的诊断方案",
+    "url": "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "pass": 3
+   },
+   {
+    "quote": "一个例子是CRISPR在遗传疾病中的个性化应用",
+    "url": "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "pass": 3
+   },
+   {
+    "quote": "2024年6月，我撰写了关于FyodorUrnov热情倡导的愿景，即利用CRISPR的固有可编程性为患者设计定制疗法",
+    "url": "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "pass": 3
+   },
+   {
+    "quote": "费城一名患有罕见代谢疾病的男婴接受了有史以来首次个性化CRISPR疗法",
+    "url": "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "pass": 3
+   },
+   {
+    "quote": "个人在消费者癌症诊断测试中发现异常，这些测试由众多提供商之一，如Prenuvo或FunctionHealth提供",
+    "url": "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "pass": 3
+   },
+   {
+    "quote": "PROTAC技术| 抗体药物| 抗体药物偶联-ADC",
+    "url": "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "pass": 3
+   },
+   {
+    "quote": "Shasqi 的技术核心称为 CAPAC® 平台，全称为 Click Activated Protodrugs Against Cancer（点击活化肿瘤原药）",
+    "url": "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "pass": 3
+   },
+   {
+    "quote": "Shasqi 将这一化学原理用于肿瘤治疗，其核心是通过体内四嗪（Tetrazine）与反式环辛烯（TCO）的高效共价反应实现化疗药物的局部激活：先在肿瘤区域定位一种 “可点击” 试剂（通常通过注射或系统输注的方式），随后再给入一种 “前药形式”的抗癌药物（protodrug）",
+    "url": "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "pass": 3
+   },
+   {
+    "quote": "2023 年，Shasqi 与 Johnson & Johnson Enterprise Innovation Inc. 建立了研究合作，旨在将 CAPAC 平台应用于更广泛的癌症药物开发",
+    "url": "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "pass": 3
+   },
+   {
+    "quote": "4、Yee, Nathan, et al. \"SQ3370 enhances the safety and therapeutic index of cytotoxic agents via local activation therapy with improved local and systemic immune response.\" Cancer Research 80.16_Supplement (2020): 6245-6245.",
+    "url": "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "pass": 3
+   },
+   {
+    "quote": "Clinical-stage biotech Shasqi aims to take its lead program to the clinic and expand its cancer drug-activating platform. (Pepi Stojanovski / Unsplash) ()",
+    "url": "https://www.fiercebiotech.com/biotech/shasqi-snatches-50m-series-b-sum-to-take-its-lead-program-to-clinic",
+    "pass": 3
+   },
+   {
+    "quote": "Shasqi prides itself on being a company of many firsts.",
+    "url": "https://www.fiercebiotech.com/biotech/shasqi-snatches-50m-series-b-sum-to-take-its-lead-program-to-clinic",
+    "pass": 3
+   },
+   {
+    "quote": "in a series B financing to fuel the path through the clinic. The funding round was driven by a cohort of private investors including Arcus Biosciences President Juan Jaen, Ph.D., and Bill Rieflin, executive chairman of the board at NGM Biopharmaceuticals.",
+    "url": "https://www.fiercebiotech.com/biotech/shasqi-snatches-50m-series-b-sum-to-take-its-lead-program-to-clinic",
+    "pass": 3
+   },
+   {
+    "quote": "Shasqi has developed a proprietary platform called Click Activated Protodrugs Against Cancer (CAPAC), which activates existing cancer drugs at the tumor with decreased toxicity. The lead program is SQ3370, which will be supported by the funding round.",
+    "url": "https://www.fiercebiotech.com/biotech/shasqi-snatches-50m-series-b-sum-to-take-its-lead-program-to-clinic",
+    "pass": 3
+   },
+   {
+    "quote": "proof-of-concept data",
+    "url": "https://www.fiercebiotech.com/biotech/shasqi-snatches-50m-series-b-sum-to-take-its-lead-program-to-clinic",
+    "pass": 3
+   },
+   {
+    "quote": "The San Francisco biotech's new funding will also be used to develop antibody-based therapeutics and expand CAPAC. The company is hoping to develop precision oncology, tumor-targeted therapies that do not require the direct injection of medicine into the tumor. The platform can be applied to a range of cancer drugs, the company said.",
+    "url": "https://www.fiercebiotech.com/biotech/shasqi-snatches-50m-series-b-sum-to-take-its-lead-program-to-clinic",
+    "pass": 3
+   },
+   {
+    "quote": "Shasqi CEO and founder José Mejía Oneto, M.D., Ph.D., said the funding will help expand the platform to antibody-based approaches, immune cell engagers, radiopharmaceuticals and more. The company will initiate two development programs in the next two years and consider partnerships with \"industry leading oncology companies,\" according to a release.",
+    "url": "https://www.fiercebiotech.com/biotech/shasqi-snatches-50m-series-b-sum-to-take-its-lead-program-to-clinic",
+    "pass": 3
+   },
+   {
+    "quote": "Intratumoral biopolymer activator paired with systemically administered protodrugs",
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "A therapeutic approach combining a locally delivered biopolymer activator that presents click-reactive groups at the tumor and a systemically dosed chemically attenuated protodrug that is activated on-site via in vivo click chemistry.",
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "Systemically delivered protodrug payloads for multiple modalities",
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "Protodrug constructs designed for chemotherapeutics, highly toxic cytotoxins, immune agonists and radiotherapeutic payloads that remain inactive in circulation until clicked at the tumor-localized activator.",
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "Click Activated Protodrugs Against Cancer (CAPAC) is a pre-targeting platform that uses click chemistry to reunite a binder and payload at the tumor, avoiding off-target toxicities.",
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "A clinical asset within the CAPAC platform that activates a doxorubicin protodrug at the tumor with an intratumorally injected biopolymer.",
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "Research collaborations for pre-targeted therapeutics",
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "Collaborative research and development partnerships to apply in vivo click chemistry pre-targeting to external antigen targets and payloads, including co-development of activators and protodrugs.",
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "Preclinical and translational development services",
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "Preclinical program execution including protodrug synthesis, activator design, animal efficacy and tolerability studies, PK/BD analysis, and immune response assessment to support clinical translation.",
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-targeting oncology therapeutics",
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "Protodrug (prodrug) design and medicinal chemistry",
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "Preclinical efficacy and toxicology in tumor models",
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "Chemical protodrug design and attenuation",
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-targeted diagnostic radioisotope imaging",
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "Immune monitoring assays (T‑cell activation profiling)",
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "Development of a First-in-Class Click Chemistry–Based Cancer Therapeutic, from Preclinical Evaluation to a First-in-Human Dose Escalation Clinical Trial",
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "Shasqi 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/226166-59",
+    "pass": 3
+   },
+   {
+    "quote": "2ndary - Private",
+    "url": "https://pitchbook.com/profiles/company/226166-59",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/226166-59",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "If you are interested in exploring a collaboration, contact us at",
+    "url": "https://www.shasqi.com/pipeline",
+    "pass": 1
+   },
+   {
+    "quote": "Contact details for the Shasqi team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/shasqi-shasqi-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/shasqi-shasqi-com-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Shasqi — Shasqi uses click chemistry to target cancer drugs directly to the tumor, minimizing side effects and potentially improving the therapeutic index",
+    "url": "https://www.shasqi.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Shasqi, Inc. (Shasqi, Inc.) - 药物管线_专利_临床试验_投融营收_最... — Mar 5, 2026 · 对于Shasqi而言，未来的发展不仅面临着临床验证的挑战，还需要应对市场推广、产能扩张等一系列问题。 但凭借其独特的技术优势和强大的资本支持，这家小而精的生物科技公司，有望在未来几年内实现跨越式发展。",
+    "url": "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "pass": 3
+   },
+   {
+    "quote": "Shasqi pipeline — Our collaborations advance novel therapeutics. We have validated CAPAC against a range of different targets, activator types, and payloads.",
+    "url": "https://www.shasqi.com/pipeline",
+    "pass": 3
+   },
+   {
+    "quote": "‘Clicked’ drugs: researchers prove the remarkable chemistry ... — Jul 5, 2023 · Click chemistry therapeutics are increasingly drawing attention from investors and big pharma. Shasqi announced in June that it is collaborating with Johnson & Johnson Enterprise Innovation to ...",
+    "url": "https://www.nature.com/articles/s41587-023-01860-2",
+    "pass": 3
+   },
+   {
+    "quote": "About Shasqi — Shasqi’s leadership has diverse backgrounds, a wealth of experience, and is supported by a Scientific Advisory Board of distinguished oncology leaders. In 2014 our CEO and founder, José Mejía Oneto, left his residency in orthopedic surgery.",
+    "url": "https://www.shasqi.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Shasqi snatches $50M for chemotherapy-boosting treatments ... — Nov 11, 2021 · Overall, the company claims to be first to advance a click-chemistry-based therapy into humans. Now, Shasqi has collected $50 million in a series B financing to fuel the path through the clinic.",
+    "url": "https://www.fiercebiotech.com/biotech/shasqi-snatches-50m-series-b-sum-to-take-its-lead-program-to-clinic",
+    "pass": 3
+   },
+   {
+    "quote": "Shasqi | MTEC — Shasqi is a biotech company focused on making cancer drugs more effective through innovative click chemistry technology. Their proprietary CAPAC platform enables targeted activation of therapeutics at tumor sites, reducing systemic toxicity and expanding treatment possibilities.",
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "‘Clicked’ drugs: researchers prove the remarkable chemistry ...Shasqi Announces Research Collaboration to Transform Targeted ...José M. Mejía Oneto - CEO at Shasqi | LinkedIn — Jul 5, 2023 · Shasqi’s trial uses a sodium hyaluronate biopolymer, which is peppered with tetrazine groups, and a prodrug containing the anticancer agent doxorubicin linked to TCO. Clinicians inject the... Jun 1, 2023 · Sha",
+    "url": "https://www.nature.com/articles/s41587-023-01860-2",
+    "pass": 3
+   },
+   {
+    "quote": "Shasqi 2026 Company Profile: Valuation, Funding & Investors ...Shasqi – Valuation, Revenue & Market Scope – 2026Shasqi: Funding, Team & Investors | Startup IntrosShasqi: Funding, Investors & Team (Nov 2026) | FundedIQShasqi - 2025 Company Profile, Team, Funding & Competitors ...Shasqi - Overview, News & Similar companies | ZoomInfo.comShasqi - Crunchbase Company Profile & Funding — Information on ",
+    "url": "https://pitchbook.com/profiles/company/226166-59",
+    "pass": 3
+   },
+   {
+    "quote": "Shasqi – Valuation, Revenue & Market Scope – 2026 — Discover Shasqi's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "Shasqi: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded Shasqi? Shasqi was founded in 2015 by Jose M. Mejia Oneto (Founder/CEO). How much funding has Shasqi raised? Shasqi has raised $60.0M in total across 2 funding rounds.",
+    "url": "https://startupintros.com/orgs/shasqi",
+    "pass": 3
+   },
+   {
+    "quote": "Shasqi: Funding, Investors & Team (Nov 2026) | FundedIQ — Shasqi is a Biotechnology company in San Francisco, United States. Raised $50.0M across 1 round; latest a Series B in Nov 2021. Investors and funding history.",
+    "url": "https://fundediq.co/shasqi-shasqi-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Shasqi - 2025 Company Profile, Team, Funding & Competitors ...Shasqi - Overview, News & Similar companies | ZoomInfo.comShasqi - Crunchbase Company Profile & Funding — Shasqi - About the company Shasqi is a series B company based in San Francisco (United States), founded in 2015 by Jose Mejia Oneto and Jose M Mejia Oneto. It operates as a Developer of local drug activation technology for tumors. S",
+    "url": "https://tracxn.com/d/companies/shasqi/__T8wkvjL0kV_GGh4XqxHT4NvjpSEVd1eLh52akw-mWAg",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/226166-59",
+    "pass": 3
+   },
+   {
+    "quote": "Shasqi has 26 total employees.",
+    "url": "https://pitchbook.com/profiles/company/226166-59",
+    "pass": 3
+   },
+   {
+    "quote": "What is Shasqi’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/226166-59",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Shasqi is",
+    "url": "https://pitchbook.com/profiles/company/226166-59",
+    "pass": 3
+   },
+   {
+    "quote": "Jose Mejia Oneto is listed as CEO at Shasqi.",
+    "url": "https://fundediq.co/shasqi-shasqi-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Shasqi have?",
+    "url": "https://fundediq.co/shasqi-shasqi-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/shasqi-shasqi-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/shasqi-shasqi-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Shasqi - LinkedIn Targeting cancer with click chemistry | Shasqi is a biotech company whose mission is to make cancer drugs more effective with click chemistry, a 2022 Nobel Prize-winning technology.",
+    "url": "https://www.linkedin.com/company/shasqi-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "José M. Mejía Oneto - CEO at Shasqi | LinkedInJesse McFarland - Shasqi | LinkedInTravis Biechele - Eastsound, Washington, United States ...Shasqi - Then, Now & Next with Sangeetha Srinivasan - LinkedInGeorge Coricor - Principal Scientist | Oncology | Fibrosis ...Nathan A. Yee, PhD - Director | Research | Drug Development ... CEO at Shasqi · Entrepreneurial physician-scientist with a passion for br",
+    "url": "https://www.linkedin.com/in/joseperu",
+    "pass": 3
+   },
+   {
+    "quote": "Jesse McFarland - Shasqi | LinkedInTravis Biechele - Eastsound, Washington, United States ...Shasqi - Then, Now & Next with Sangeetha Srinivasan - LinkedInGeorge Coricor - Principal Scientist | Oncology | Fibrosis ...Nathan A. Yee, PhD - Director | Research | Drug Development ... Nov 15, 2017 · Experience: Shasqi · Education: UC Berkeley · Location: Berkeley · 500+ connections on LinkedIn. View Je",
+    "url": "https://www.linkedin.com/in/jesse-mcfarland-4a759062",
+    "pass": 3
+   },
+   {
+    "quote": "Travis Biechele - Eastsound, Washington, United States ...Shasqi - Then, Now & Next with Sangeetha Srinivasan - LinkedInGeorge Coricor - Principal Scientist | Oncology | Fibrosis ...Nathan A. Yee, PhD - Director | Research | Drug Development ... Apr 14, 2014 · Experience: Shasqi · Education: University of Washington School of Medicine · Location: Eastsound · 500+ connections on LinkedIn. The inimi",
+    "url": "https://www.linkedin.com/in/travis-biechele-98b1345",
+    "pass": 3
+   },
+   {
+    "quote": "José M. Mejía Oneto - CEO at Shasqi | LinkedInJosé Mejía Oneto - Founder and Chief Executive Officer ...José M. Mejía Oneto - Founder and CEO, Shasqi | YesPress CEO at Shasqi · Entrepreneurial physician-scientist with a passion for bridging basic science, technology and clinical medicine to meet relevant market needs. José M. Mejía Oneto is based out of San Francisco, California and is the Founder",
+    "url": "https://www.linkedin.com/in/joseperu",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Shasqi - Facebook Shasqi - Facebook ... Shasqi",
+    "url": "https://www.facebook.com/Shasqi-102307495917680/",
+    "pass": 3
+   },
+   {
+    "quote": "Ratu Shasqi - Facebook Ratu Shasqi is on Facebook. Join Facebook to connect with Ratu Shasqi and others you may know. Facebook gives people the power to share and makes the...",
+    "url": "https://www.facebook.com/ratu.shasqi/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "@shasqi | X The latest posts from @shasqi",
+    "url": "https://x.com/shasqi",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.shasqi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shasqi.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shasqi.com/pipeline",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nature.com/articles/s41587-023-01860-2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fiercebiotech.com/biotech/shasqi-snatches-50m-series-b-sum-to-take-its-lead-program-to-clinic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mtec-sc.org/life-sciences/shasqi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/226166-59",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/shasqi",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/shasqi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/shasqi-shasqi-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/shasqi-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/joseperu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jesse-mcfarland-4a759062",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/travis-biechele-98b1345",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Shasqi-102307495917680/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ratu.shasqi/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/joseperu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shasqi",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Shasqi 日本 導入",
+   "results": [
+    "https://www.shasqi.com/",
+    "https://synapse.zhihuiya.com/organization/d09f2456ba3dab131cb4d7c419ee550e",
+    "https://www.shasqi.com/pipeline",
+    "https://www.nature.com/articles/s41587-023-01860-2",
+    "https://corporate.jp.sharp/news/261110-a.html",
+    "https://autoprove.net/imported-car/jeep/wrangler/258778/",
+    "https://www.asahi.com/articles/ASVBX2V2WVBXULFA02FM.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shasqi 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.aon.com/japan/company-overview",
+    "https://wholesale.aslaj.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shasqi Japan",
+   "results": [
+    "https://www.shasqi.com/",
+    "https://www.shasqi.com/about",
+    "https://www.fiercebiotech.com/biotech/shasqi-snatches-50m-series-b-sum-to-take-its-lead-program-to-clinic",
+    "https://mtec-sc.org/life-sciences/shasqi",
+    "https://www.nature.com/articles/s41587-023-01860-2",
+    "https://www.businesswire.com/news/home/20230601005498/en/Shasqi-Announces-Research-Collaboration-to-Transform-Targeted-Cancer-Treatment",
+    "https://www.linkedin.com/in/joseperu"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shasqi manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Shasqi white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.strikingly.com/reseller-program",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shasqi founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/226166-59",
+    "https://compworth.com/company/shasqi",
+    "https://startupintros.com/orgs/shasqi",
+    "https://fundediq.co/shasqi-shasqi-com-funding/",
+    "https://tracxn.com/d/companies/shasqi/__T8wkvjL0kV_GGh4XqxHT4NvjpSEVd1eLh52akw-mWAg",
+    "https://www.zoominfo.com/c/shasqi-inc/458056639",
+    "https://www.crunchbase.com/organization/shasqi"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Shasqi",
+   "results": [
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://tales.note.com/",
+    "https://note.com/elsa223/n/nf0d696e3156d",
+    "https://note.com/daikidomon/n/n238268ba8967",
+    "https://note.com/miurakota/n/nb1539ab5123d",
+    "https://note.com/ogikubo/n/nf616c0b6685a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Shasqi",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Shasqi",
+   "results": [
+    "https://www.linkedin.com/company/shasqi-inc-",
+    "https://www.linkedin.com/in/joseperu",
+    "https://www.linkedin.com/in/jesse-mcfarland-4a759062",
+    "https://www.linkedin.com/in/travis-biechele-98b1345",
+    "https://www.linkedin.com/posts/shasqi-inc-_shasqi-then-now-next-with-sangeetha-activity-7344016652612620288-_bGG",
+    "https://www.linkedin.com/in/george-coricor",
+    "https://www.linkedin.com/in/nathan-a-yee"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Shasqi",
+   "results": [
+    "https://www.facebook.com/Shasqi-102307495917680/",
+    "https://www.facebook.com/ratu.shasqi/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/shasqi.dhelia/",
+    "https://www.facebook.com/shasqi.callystaaulianisa/",
+    "https://business.facebook.com/groups/669735841173592/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shasqi note 社長",
+   "results": [
+    "https://www.shasqi.com/leadership",
+    "https://www.shasqi.com/about",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://www.linkedin.com/in/joseperu",
+    "https://yespress.io/jose-m-mejia-oneto",
+    "https://note.com/shacho_homon",
+    "https://www.crunchbase.com/person/josé-m-mejía-oneto"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Shasqi X 投稿",
+   "results": [
+    "https://x.com/shasqi",
+    "https://www.shasqi.com/",
+    "https://www.shasqi.com/pipeline",
+    "https://x.com/shiki_Asa/status/2119393724702847232",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://nakamayu2.com/twitterx/",
+    "https://help.x.com/ja/rules-and-policies/personal-information"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

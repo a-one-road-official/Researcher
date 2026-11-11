@@ -1,0 +1,835 @@
+{
+ "name": "Rendalomaq",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T09:16:41.131275+00:00",
+ "official_url": "https://www.rendalomaq.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "13-Sep-2021 $3.9M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://startupintros.com/orgs/rendalomaq",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Santiago, Chile",
+    "url": "https://startupintros.com/orgs/rendalomaq",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "規模・親会社": [
+   {
+    "quote": "RendaloMaq - Arriendo de Maquinaria en Chile | RendaloMaq",
+    "url": "https://rendalomaq.com/es-CL",
+    "pass": 1
+   },
+   {
+    "quote": "Arrienda maquinaria en minutos, no en días.",
+    "url": "https://rendalomaq.com/es-CL",
+    "pass": 1
+   },
+   {
+    "quote": "Miles de equipos disponibles",
+    "url": "https://rendalomaq.com/es-CL",
+    "pass": 1
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq has 24 total employees.",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "What is RendaloMaq’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for RendaloMaq is",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq - Líderes en arriendo de maquinaria",
+    "url": "https://staging.rendalomaq.com/es-CL",
+    "pass": 3
+   },
+   {
+    "quote": "Arrienda o compra maquinaria rápido y sin papeleo. Hazla corta",
+    "url": "https://staging.rendalomaq.com/es-CL",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "RendaloMaq 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a machinery leasing platform designed to simplify and accelerate equipment rental and purchasing processes.",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a machinery leasing platform designed to simplify and accelerate equipment rental and purchasing processes. The company's platform offers instant online quotes, flexible rental terms, and a wide inventory of construction and industrial equipment, enabling contractors and engineering firms to access machinery quickly, reduce operational delays, and improve project efficiency.",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "01-Apr-2020",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "Is RendaloMaq a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq is the main tech-powered equipment rental company in Latin America. Leveraging our proprietary software ROS®, we simplify and accelerate equipment access for the construction industry. Fleet management and equipment rentals under control. Our mission is to drive productivity through technological innovation while delivering reliable, world-class service.",
+    "url": "https://startupintros.com/orgs/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "Proprietary Technology (ROS®):",
+    "url": "https://startupintros.com/orgs/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "Enables real-time tracking, utilization monitoring, and fleet management through GPS and telematics, providing transparency and operational control to equipment owners.",
+    "url": "https://startupintros.com/orgs/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "Aggregates multiple equipment providers, offering competitive pricing and a wide inventory accessible via a single platform.",
+    "url": "https://startupintros.com/orgs/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive Service:",
+    "url": "https://startupintros.com/orgs/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "Streamlines booking and fleet management processes, reducing paperwork and downtime for construction firms[1][2][3][4][5].",
+    "url": "https://startupintros.com/orgs/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "clockwork.app/profiles/rendalomaq",
+    "url": "https://startupintros.com/orgs/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "promptloop.com/directory/what-does-rendalomaq-do",
+    "url": "https://startupintros.com/orgs/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "signalhire.com/companies/rendalo-maq",
+    "url": "https://startupintros.com/orgs/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "You're head of a new construction project that requires a variety of heavy machinery.",
+    "url": "https://www.whitepaper.mx/p/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "The process becomes a headache of constant communication, document exchanges, and invoice preparation.",
+    "url": "https://www.whitepaper.mx/p/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "to buy and rent machinery from multiple providers in a single place.",
+    "url": "https://www.whitepaper.mx/p/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "They secure competitive pricing for rentals and sales by tapping into a vast network of suppliers across the region.",
+    "url": "https://www.whitepaper.mx/p/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "Proven Business Model:",
+    "url": "https://www.whitepaper.mx/p/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "workforce of 4,100",
+    "url": "https://www.whitepaper.mx/p/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": ", and a presence in",
+    "url": "https://www.whitepaper.mx/p/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": ", it is an inspiring model for RendaloMaq. Success in one country does not guarantee another, but it helps prove their business model.",
+    "url": "https://www.whitepaper.mx/p/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "allows suppliers to monitor their machines in real-time, providing valuable data and locations. This feature also gives RendaloMaq a complete breakdown of the availability and condition of units.",
+    "url": "https://www.whitepaper.mx/p/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": ": Having successfully established a strong presence in",
+    "url": "https://www.whitepaper.mx/p/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "interest rate has surprisingly",
+    "url": "https://www.whitepaper.mx/p/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "in implementing new technologies since budgets, time frames, and projections are always in play.",
+    "url": "https://www.whitepaper.mx/p/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": ": Managing the logistics of delivering heavy machinery to various locations is complex and costly. Any delays or mishaps in delivery can lead to project delays for customers, which harms the company's reputation.",
+    "url": "https://www.whitepaper.mx/p/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "Arrienda o compra maquinaria rápido y sin papeleo. Hazla corta",
+    "url": "https://staging.rendalomaq.com/es-CL",
+    "pass": 3
+   },
+   {
+    "quote": "Aprendemos juntos Mex",
+    "url": "https://www.youtube.com/watch?v=7VXxU47MrEU",
+    "pass": 3
+   },
+   {
+    "quote": "Hausman sobre EL PETRÓLEO: En Venezuela no ha pasado algo tan depredador, como esta actitud de EEUU",
+    "url": "https://www.youtube.com/watch?v=7VXxU47MrEU",
+    "pass": 3
+   },
+   {
+    "quote": "Experto en negocios: Así construimos una de las empresas más eficientes del mundo! | Simon Cohen",
+    "url": "https://www.youtube.com/watch?v=7VXxU47MrEU",
+    "pass": 3
+   },
+   {
+    "quote": "Alex Tudor conversó con Juan Armando Vicuña, ex presidente de la CChC y Ariel Vaisman, fundador y CEO de RendaloMaq, sobre el viaje de RendaloMaq desde el primer capital hacia el éxito.",
+    "url": "https://www.youtube.com/watch?v=7VXxU47MrEU",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Developer of a machinery leasing platform designed to simplify and accelerate equipment rental and purchasing processes. The company's platform offers instant online quotes, flexible rental terms, and a wide inventory of construction and industrial equipment, enabling contractors and engineering firms to access machinery quickly, reduce operational delays, and improve project efficiency.",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "Rector UC plantea reforma educativa para enfrentar desafíos de IA y cohesión social | Pares Impares",
+    "url": "https://www.youtube.com/watch?v=7VXxU47MrEU",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "Request intro with founders by sending an email to",
+    "url": "https://www.whitepaper.mx/p/rendalomaq",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "RendaloMaq — Company Profile & Funding | Indexed.vc — Oct 29, 2026 · RendaloMaq is the main tech-powered equipment rental company in Latin America. Leveraging our proprietary software ROS®, we simplify and accelerate equipment access for the construction industry.",
+    "url": "https://indexed.vc/companies/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq 2026 Company Profile: Valuation, Funding ...RendaloMaq - LinkedIn 日本RendaloMaq: Funding, Team & Investors | Startup Intros — Information on valuation, funding, cap tables, investors, and executives for RendaloMaq. Use the PitchBook Platform to explore the full profile. Arriendo de maquinaria impulsado por tecnología. | RendaloMaq es un operador de arriendo de maquinaria que está redefin",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq - LinkedIn 日本 — Arriendo de maquinaria impulsado por tecnología. | RendaloMaq es un operador de arriendo de maquinaria que está redefiniendo la forma en que funciona la industria en Latinoamérica.",
+    "url": "https://jp.linkedin.com/company/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Looking ahead, RendaloMaq is poised to deepen its footprint in Brazil and Mexico while expanding into other Latin American markets. Continued innovation in telematics, financing options, and platform capabilities will likely drive further adoption.",
+    "url": "https://startupintros.com/orgs/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq - LinkedIn — RendaloMaq es un operador de arriendo de maquinaria que está redefiniendo la forma en que funciona la industria en Latinoamérica.",
+    "url": "https://na.linkedin.com/company/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq - whitepaper.mx — Jul 8, 2023 · RendaloMaq is a marketplace to buy and rent machinery from multiple providers in a single place. They secure competitive pricing for rentals and sales by tapping into a vast network of suppliers across the region.",
+    "url": "https://www.whitepaper.mx/p/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq - Líderes en arriendo de maquinaria — Grúas Equipos RendaloMaq © 2026 Privacidad Términos de servicio Blog soporte.cl@rendalomaq.com +56 2 2840 0772 Suscríbete a nuestro newsletter Suscríbete RendaloMaq © 2026 Privacidad Términos de servicio Blog soporte.cl@rendalomaq.com",
+    "url": "https://staging.rendalomaq.com/",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq - Arriendo de Maquinaria en Chile — Arrienda maquinaria en minutos, no en días. La plataforma líder de arriendo de maquinaria online en Chile. Cotización instantánea, cobertura nacional y mantenimiento incluido.",
+    "url": "https://rendalomaq.com/",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq - whitepaper.mx — Jul 8, 2023 · The process becomes a headache of constant communication, document exchanges, and invoice preparation. You seek a more straightforward and more reliable solution. Enter RendaloMaq, a platform for easy access to heavy equipment machinery across Latin America.",
+    "url": "https://www.whitepaper.mx/p/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "How did RendaloMaq achieve its success? - YouTube — Feb 26, 2025 · Alex Tudor spoke with Juan Armando Vicuña, former president of the CChC (Chilean Chamber of Construction), and Ariel Vaisman, founder and CEO of RendaloMaq, about RendaloMaq's journey from ...",
+    "url": "https://www.youtube.com/watch?v=7VXxU47MrEU",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq — Coliseo rating & startup profile — RendaloMaq is the main tech-powered equipment rental company in Latin America. Leveraging our core tech ROS® (Rendalo Operating System), we simplify and accelerate equipment access for the construction and mining industries.",
+    "url": "https://coliseoelo.com/c/rendalomaq-1669",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq — Company Profile & Funding | Indexed.vc — Oct 29, 2026 · RendaloMaq is a Construction company based in Santiago, Chile, founded in 2020. It has raised $125K in total across 1 round, most recently a $125K Seed round in Sep 2021. Investors include Y Combinator Continuity Fund, Liquid 2 Ventures and FundersClub.",
+    "url": "https://indexed.vc/companies/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq 2026 Company Profile: Valuation, Funding ...Rendalo Maq - 2026 Company Profile, Team, Funding ... - TracxnRendaloMaq Funding History, Valuation and Investors - aVentureRendaloMaq: Funding, Team & Investors | Startup IntrosRendaloMaq Revenue 2024: $4.2M Est. - getlatka.comRendaloMaq - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, investors, and exe",
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "pass": 3
+   },
+   {
+    "quote": "Rendalo Maq - 2026 Company Profile, Team, Funding ... - Tracxn — Feb 12, 2026 · Rendalo Maq - About the company Rendalo Maq is a seed company based in Huechuraba (Chile), founded in 2020 by Juan Pablo Mir. It operates as an Online platform for heavy machinery rentals. Rendalo Maq has raised $125K in funding from Y Combinator.",
+    "url": "https://tracxn.com/d/companies/rendalomaq/__D-6kC9QQDSR36JWLvUDLrmTz1Mdik1f_5Xbk40w5wbg",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq Funding History, Valuation and Investors - aVenture — Jun 18, 2026 · Funding rounds, valuation history, and investor coverage across 12 investors for RendaloMaq.",
+    "url": "https://aventure.vc/companies/rendalomaq-santiago-cl/fundraising",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · RendaloMaq was founded in 2020 by Juan Pablo Mir (Founder) and Ariel Vaisman (Founder). RendaloMaq is the leading tech-powered equipment rental platform in Latin America, primarily serving the construction industry.",
+    "url": "https://startupintros.com/orgs/rendalomaq",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Este es segundo año consecutivo que formamos parte del top ... RendaloMaq (YC 2021) (@rendalomaq). 637 views. Este es segundo año consecutivo que formamos parte del top 100 de startups de este ranking, lo que nos llena de orgullo.",
+    "url": "https://x.com/rendalomaq/status/1675958357096529921",
+    "pass": 3
+   },
+   {
+    "quote": "Ariel Vaisman (@arielvais) / Posts / X Ariel Vaisman (@arielvais) - Posts - CEO @ Rendalo Maq 👷🏼♂️🚀 | X (formerly Twitter)",
+    "url": "https://x.com/arielvais",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "RendaloMaq | LinkedIn RendaloMaq | 3,493 followers on LinkedIn. Arriendo de maquinaria impulsado por tecnología. | RendaloMaq es un operador de arriendo de maquinaria que está redefiniendo la forma en que funciona la industria en Latinoamérica. A diferencia de los modelos tradicionales, combinamos operación directa de equipos con tecnología propia para optimizar todo el ciclo de arriendo: desde la",
+    "url": "https://na.linkedin.com/company/rendalomaq",
+    "pass": 3
+   },
+   {
+    "quote": "Ariel Vaisman - Founder & CEO at RendaloMaq | LinkedInLinkedInjuan pablo Mir - Presidente en RendaloMaq (YC S21) | LinkedInRendaloMaq News - LinkedInRendaloMaq cambia su modelo de negocios, cierra Brasil y ...RendaloMaq cambia su modelo de negocios, cierra Brasil y ... Founder & CEO at RendaloMaq · Execution eats strategy for breakfast. · Experiencia: RendaloMaq · Educación: Y Combinator · Ubicaci",
+    "url": "https://cl.linkedin.com/in/ariel-vaisman",
+    "pass": 3
+   },
+   {
+    "quote": "juan pablo Mir - Presidente en RendaloMaq (YC S21) | LinkedIn Presidente en RendaloMaq (YC S21) · Experiencia: RendaloMaq (YC S21) · Ubicación: Gran Santiago. Mira el perfil de juan pablo Mir en LinkedIn, una red profesional de más de 1.000 millones de miembros.",
+    "url": "https://cl.linkedin.com/in/juan-pablo-mir-11262b270",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "RendaloMaq - FacebookRendaloMaq México | Mexico City - FacebookRendaloMaq México | Mexico City - FacebookRendaloMaq - El traslado ida y vuelta de las máquinas que ...RendaloMaq - Descubre nuestro catálogo online de... | FacebookRendaloMaq - ¡Queremos presentarles el equipo Rendalo Maq ...Descubre nuestro catálogo online de maquinaria para arriendo ... Jul 20, 2026 · RendaloMaq. 190 likes. La red d",
+    "url": "https://www.facebook.com/rendalomaq/",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq México | Mexico City - Facebook Jan 22, 2026 · RendaloMaq México, Mexico City. 15 likes. Somos el primer agente digital de renta y venta de maquinaria en México. Ayudamos a nuestros clientes a encontrar máquinas de manera eficiente en cualquier...",
+    "url": "https://www.facebook.com/p/RendaloMaq-México-100092755403389/",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq México | Mexico City - Facebook RendaloMaq México, Ciudad de México. 4 likes. Somos el primer agente digital de renta y venta de maquinaria en México. Ayudamos a nuestros clientes a encontrar máquinas de manera eficiente en...",
+    "url": "https://www.facebook.com/100092755403389/",
+    "pass": 3
+   },
+   {
+    "quote": "RendaloMaq - El traslado ida y vuelta de las máquinas que ... Sep 21, 2022 · El traslado ida y vuelta de las máquinas que arriendes con nosotros está garantizado, sin importar el destino. En resumen, ¡RendaloMaq te la hace simple! #RendaloMaq #ArriendoMaquinaria #Construtech",
+    "url": "https://www.facebook.com/rendalomaq/posts/el-traslado-ida-y-vuelta-de-las-máquinas-que-arriendes-con-nosotros-está-garanti/5869917613053091/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://rendalomaq.com/es-CL",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://indexed.vc/companies/rendalomaq",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/rendalomaq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/rendalomaq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-maker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://na.linkedin.com/company/rendalomaq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.whitepaper.mx/p/rendalomaq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/rendalomaq",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://staging.rendalomaq.com/es-CL",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.whitepaper.mx/p/rendalomaq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/rendalomaq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/rendalomaq",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=7VXxU47MrEU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/rendalomaq",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/481204-63",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/rendalomaq/__D-6kC9QQDSR36JWLvUDLrmTz1Mdik1f_5Xbk40w5wbg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://aventure.vc/companies/rendalomaq-santiago-cl/fundraising",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/rendalomaq/status/1675958357096529921",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/arielvais",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://na.linkedin.com/company/rendalomaq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cl.linkedin.com/in/ariel-vaisman",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cl.linkedin.com/in/juan-pablo-mir-11262b270",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rendalomaq/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/RendaloMaq-México-100092755403389/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100092755403389/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rendalomaq/posts/el-traslado-ida-y-vuelta-de-las-máquinas-que-arriendes-con-nosotros-está-garanti/5869917613053091/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rendalomaq 日本 導入",
+   "results": [
+    "https://indexed.vc/companies/rendalomaq",
+    "https://pitchbook.com/profiles/company/481204-63",
+    "https://jp.linkedin.com/company/rendalomaq",
+    "https://startupintros.com/orgs/rendalomaq",
+    "https://autoprove.net/imported-car/jeep/wrangler/258778/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rendalomaq 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.cosmobio.co.jp/agency/brevitycode.asp",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://japanesedistributors.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rendalomaq Japan",
+   "results": [
+    "https://na.linkedin.com/company/rendalomaq",
+    "https://www.whitepaper.mx/p/rendalomaq",
+    "https://indexed.vc/companies/rendalomaq",
+    "https://staging.rendalomaq.com/",
+    "https://rendalomaq.com/",
+    "https://vercel.rendalomaq.com/",
+    "https://ai.rendalomaq.com/es-MX"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rendalomaq manufacturing customer case study",
+   "results": [
+    "https://www.whitepaper.mx/p/rendalomaq",
+    "https://startupintros.com/orgs/rendalomaq",
+    "https://indexed.vc/companies/rendalomaq",
+    "https://www.youtube.com/watch?v=7VXxU47MrEU",
+    "https://coliseoelo.com/c/rendalomaq-1669",
+    "https://www.studocu.com/cl/document/duoc-uc/innovacion-de-proyecto/estudio-de-casos-innovacion-en-gestion-de-maquinaria-pesada-rendalomaq/128553764",
+    "https://startupslatam.com/rendalo-maq-la-primera-constructech-latina-en-pasar-por-yc-apalanca-us-35-millones-y-tiene-entre-ceja-y-ceja-a-brasil-y-mexico/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rendalomaq white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://reseller.amazon.com/",
+    "https://upcloud.com/partner-program/",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rendalomaq founded funding employees revenue",
+   "results": [
+    "https://indexed.vc/companies/rendalomaq",
+    "https://pitchbook.com/profiles/company/481204-63",
+    "https://tracxn.com/d/companies/rendalomaq/__D-6kC9QQDSR36JWLvUDLrmTz1Mdik1f_5Xbk40w5wbg",
+    "https://aventure.vc/companies/rendalomaq-santiago-cl/fundraising",
+    "https://startupintros.com/orgs/rendalomaq",
+    "https://getlatka.com/companies/rendalomaq.com",
+    "https://www.crunchbase.com/organization/rendalo-maq"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Rendalomaq",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kongoshuppan/n/n4a6070698024",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/masashi3122/n/n6f41b990b137"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Rendalomaq",
+   "results": [
+    "https://about.x.com/en",
+    "https://x.com/rendalomaq/status/1675958357096529921",
+    "https://help.x.com/en",
+    "https://x.com/arielvais",
+    "https://help.x.com/en/using-x/create-x-account",
+    "https://x.com/cowboylikelovee/status/2117973836855693402",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Rendalomaq",
+   "results": [
+    "https://na.linkedin.com/company/rendalomaq",
+    "https://cl.linkedin.com/in/ariel-vaisman",
+    "https://www.linkedin.com/check/en",
+    "https://cl.linkedin.com/in/juan-pablo-mir-11262b270",
+    "https://www.linkedin.com/newsletters/rendalomaq-news-7092593192885178368",
+    "https://es.linkedin.com/posts/rendalomaq_rendalomaq-cambia-su-modelo-de-negocios-activity-7447638181987958784-tzuP",
+    "https://es.linkedin.com/posts/ariel-vaisman_rendalomaq-cambia-su-modelo-de-negocios-activity-7448018924069175297-EI6V"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Rendalomaq",
+   "results": [
+    "https://www.facebook.com/rendalomaq/",
+    "https://www.facebook.com/p/RendaloMaq-México-100092755403389/",
+    "https://www.facebook.com/100092755403389/",
+    "https://www.facebook.com/rendalomaq/posts/el-traslado-ida-y-vuelta-de-las-máquinas-que-arriendes-con-nosotros-está-garanti/5869917613053091/",
+    "https://www.facebook.com/rendalomaq/posts/descubre-nuestro-catálogo-online-de-maquinaria-para-arriendo-y-venta-encuentra-s/1446269330842692/",
+    "https://www.facebook.com/rendalomaq/posts/queremos-presentarles-el-equipo-rendalo-maqlas-personas-que-hacen-posible-diaria/4573610456017153/",
+    "https://www.facebook.com/rendalomaq/videos/descubre-nuestro-catálogo-online-de-maquinaria-para-arriendo-y-venta-encuentra-s/1342430136423003/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rendalomaq note 社長",
+   "results": [
+    "https://www.cbinsights.com/company/rendalo/people",
+    "https://aventure.vc/companies/rendalomaq-santiago-cl/employees",
+    "https://www.crunchbase.com/person/ariel-vaisman-76b3",
+    "https://indexed.vc/companies/rendalomaq",
+    "https://startupintros.com/orgs/rendalomaq",
+    "https://www.df.cl/df-lab/innovacion-y-startups/rendalomaq-cambia-su-modelo-de-negocios-cierra-brasil-y-mexico-y-ficha-a",
+    "https://cl.linkedin.com/in/ariel-vaisman"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rendalomaq X 投稿",
+   "results": [
+    "https://www.instagram.com/rendalomaq/",
+    "https://www.youtube.com/@rendalomaq/search",
+    "https://rendalomaq.com/",
+    "https://www.instagram.com/arielvais/",
+    "https://x.com/luma_lmlm/status/2119853760327631141",
+    "https://mecklenburgvagenealogy.com/rehoboth-church-boydton/",
+    "https://rq-labo.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}
