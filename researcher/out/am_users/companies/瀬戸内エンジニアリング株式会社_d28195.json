@@ -1,0 +1,466 @@
+{
+ "name": "瀬戸内エンジニアリング株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T19:18:58.302689+00:00",
+ "official_url": "http://www.setouchi-eng.co.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "製品情報 - 瀬戸内エンジニアリング株式会社",
+    "url": "https://www.setouchi-eng.co.jp/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・研究開発（建築・土木・プラント・設備）",
+    "url": "https://ja.nc-net.or.jp/company/83816/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "・機 械 設 計：産業機械 治工具 搬送機 医療機器 生産設備 コンベア 自動車 航空機関連部品 等",
+    "url": "https://www.setouchi-eng.co.jp/data/SECProductPamphlet.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また３Dスキャナや３Dプリンタ、ドローンなど様々なデジタルツールの活用で、製造業の部門間を統合したDX促進を支援しています",
+    "url": "https://www.pref.okayama.lg.jp/site/micro/600450.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動化生産設備の新規計画や改善計画治具・工作機械等の機械・電気設計から製造ラインの新設・改修や工場全体のトータルな計画・設計までムダのない一連した設計が可能です",
+    "url": "https://www.pref.okayama.lg.jp/site/micro/600450.html",
+    "pass": 3
+   },
+   {
+    "quote": "●機械設計 ●プラント設備設計 ●土木建築設計 ●電気設計 ●システム開発 ●3Dデジタルエンジニアリング（測定・解析・3Dプリント・ドローン） ●CAD・ITスクール ●ドローン操縦者養成スクール",
+    "url": "https://www.pref.okayama.lg.jp/site/micro/600450.html",
+    "pass": 3
+   },
+   {
+    "quote": "●３DデジタルエンジニアリングによるDX促進支援 ●ドローンを活用したサービス ●リバースエンジニアリング ●ドラム缶反転装置 ●スマート工事台帳 ●PCP Manager",
+    "url": "https://www.pref.okayama.lg.jp/site/micro/600450.html",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "http://www.setouchi-eng.co.jp e-mail:sec3@luck.oc n.ne.jp",
+    "url": "https://www.setouchi-eng.co.jp/data/SECProductPamphlet.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "瀬戸内エンジニアリング株式会社へのお問い合わせ、当サイトへのご意見、ご感想等をお寄せください",
+    "url": "https://setouchi-eng.co.jp/mailform.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 瀬戸内エンジニアリング 株式会社 岡山県 倉敷市",
+    "url": "https://ja.nc-net.or.jp/company/83816/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "瀬戸内エンジニアリング 株式会社へのお問い合わせ",
+    "url": "https://ja.nc-net.or.jp/company/83816/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること",
+    "url": "https://ja.nc-net.or.jp/company/83816/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします",
+    "url": "https://ja.nc-net.or.jp/company/83816/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします",
+    "url": "https://ja.nc-net.or.jp/company/83816/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "本社（倉敷）設計室をはじめ、東京、播磨、岡山、玉野、広島、福山、高松、丸亀他に設計事務所を設置し、迅速な対応で、設計・開発業務や品質管理、試作製作にもお応えします",
+    "url": "https://www.pref.okayama.lg.jp/site/micro/600450.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、3Dプリンタによる試作品の早期造形や、CADデータのない部品などをスキャニングして3DCADデータ化するリバースエンジニアリングの分野にも対応可能です",
+    "url": "https://www.pref.okayama.lg.jp/site/micro/600450.html",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "また、3Dプリンタによる試作品の早期造形や、CADデータのない部品などをスキャニングして3DCADデータ化するリバースエンジニアリングの分野にも対応可能です",
+    "url": "https://www.pref.okayama.lg.jp/site/micro/600450.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンタ",
+    "url": "https://www.pref.okayama.lg.jp/site/micro/600450.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "瀬戸内エンジニアリング株式会社 - 頭脳産業分野でのリーダーを目指す... — 私たち 瀬戸内エンジニアリング株式会社は、 「ものづくり」の源泉である 開発・設計業務を中心に、 長年培った 知識の集積と 確かな技術で、 地域社会へ 貢献していきます。",
+    "url": "http://www.setouchi-eng.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "瀬戸内エンジニアリング 株式会社 - おかやまものづくりネットワーク ...試作・小ロット・補給品 - kanto-seisakusyo.jp瀬戸内エンジニアリングの製品・サービス一覧｜イプロスものづくり — 本社（倉敷）設計室をはじめ、東京、播磨、岡山、玉野、広島、福山、高松、丸亀他に設計事務所を設置し、迅速な対応で、設計・開発業務や品質管理、試作製作にもお応えします。 金型を使用しない試作・小ロット成形では、3Dプリンター・切削加工・真空注型・FRPなど、ほぼすべての試作・小ロット工法を取り扱っています。 各工法に対しての標準的な材料は、ほぼ全て対応可能です。 Nov 24, 2017 · 瀬戸内エンジニアリングは、3Dスキャナー、3Dプリンター、3DCAD、 当社最新のデジタル機器で新しい \"ものづくり\" の形をご提案します。 「3次元計測測量サービス」では、機器を現地に持ちこみ、ス",
+    "url": "https://www.pref.okayama.jp/site/micro/600450.html",
+    "pass": 3
+   },
+   {
+    "quote": "瀬戸内エンジニアリングの製品・サービス一覧｜イプロスものづくり — Nov 24, 2017 · 瀬戸内エンジニアリングは、3Dスキャナー、3Dプリンター、3DCAD、 当社最新のデジタル機器で新しい \"ものづくり\" の形をご提案します。 「3次元計測測量サービス」では、機器を現地に持ちこみ、ストレスのない 測定とスキャニングを行います。",
+    "url": "https://mono.ipros.com/company/detail/2063911/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報 - 瀬戸内エンジニアリング株式会社 — PDCAサイクル をコンセプトとして設計されており、プロジェクトを成功に導く為に最適な機能を装備しています。 1.工程管理機能 メンバーが何の仕事をしているか瞬時に把握できます。 2.工数管理機能 メンバーが何をどれだけやっているか瞬時に把握できます。 3.進捗管理機能 プロジェクトの ...",
+    "url": "http://www.setouchi-eng.co.jp/product.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 - 瀬戸内エンジニアリング株式会社 — 瀬戸内エンジニアリング株式会社は機械・土木・建築・電気・情報設計のトータルエンジニアリングをご提供します。",
+    "url": "http://www.setouchi-eng.co.jp/kaisyagaiyou.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜SETO ENGINEERING瀬戸内エンジニアリング 株式会社 - おかやまものづくりネットワーク ...事業案内 – 瀬戸内エンジニアリング株式会社会社概要｜株式会社瀬戸内エンジニアリング会社概要｜株式会社瀬戸内エンジニアリング — 株式会社SETO ENGINEERINGは、ロールtoロール製造装置関連に特化した技術集団です。 ロールtoロール製造装置新規設備の設計・製作のみならず、各種ロールtoロール製造装置のメンテナンスも承ります。 事業内容 自社技術・製品の特徴 全国各地の地場企業様の「ものづくり産業」に貢献できるよう、長年培ってきた知識の集積と高度な技術を基に、産業機械からプラント設備、土木建築、電気電子、情報システムで総合的なエンジニアリングを提供しています。 3 D設計・解析： 機械部品を3Dデータ化及びCAE処理 3D測量： 生産ライン設備や配管プラント設備を",
+    "url": "http://seto-eng.co.jp/info/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "瀬戸内エンジニアリング 株式会社 - おかやまものづくりネットワーク ...事業案内 – 瀬戸内エンジニアリング株式会社会社概要｜株式会社瀬戸内エンジニアリング会社概要｜株式会社瀬戸内エンジニアリング — 事業内容 自社技術・製品の特徴 全国各地の地場企業様の「ものづくり産業」に貢献できるよう、長年培ってきた知識の集積と高度な技術を基に、産業機械からプラント設備、土木建築、電気電子、情報システムで総合的なエンジニアリングを提供しています。 3 D設計・解析： 機械部品を3Dデータ化及びCAE処理 3D測量： 生産ライン設備や配管プラント設備をデジタル測量 リバースエンジニアリング：既存部品を読み取り、図面や製品を再製作 ドローン計測点検：大型産業用ドローンと高精度カメラで設備の点検 ガスにはプロパンガス、都市ガスがありますが、それぞれの工事内容などが異なるので注意が必要です。 ダクト工事 ",
+    "url": "https://www.pref.okayama.jp/site/micro/600450.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業案内 – 瀬戸内エンジニアリング株式会社 — 3 D設計・解析： 機械部品を3Dデータ化及びCAE処理 3D測量： 生産ライン設備や配管プラント設備をデジタル測量 リバースエンジニアリング：既存部品を読み取り、図面や製品を再製作 ドローン計測点検：大型産業用ドローンと高精度カメラで設備の点検",
+    "url": "https://sec3acc11b6b7d2.wordpress.com/事業案内/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合せ - 瀬戸内エンジニアリング株式会社 — 瀬戸内エンジニアリング株式会社へのお問い合わせ、当サイトへのご意見、ご感想等をお寄せください。 * は入力必須です。",
+    "url": "https://setouchi-eng.co.jp/mailform.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ – 瀬戸内エンジニアリング株式会社 — お問い合わせ 瀬戸内エンジニアリング株式会社へのお問い合わせ当サイトへのご意見、ご感想等をお寄せください。",
+    "url": "https://sec3acc11b6b7d2.wordpress.com/お問い合わせ/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 瀬戸内エンジニアリング 株式会社 岡山県 倉敷市 — Mar 31, 2023 · サービスについて 会員サービスについて ホームページ制作 動画制作 広告掲載 EMIDAS magazine メールマガジンの配信停止 NCネットワークについて 企業サイト 会社案内 NCネットワークが目指すもの 採用情報 会社案内 特定商取引に基づく表記 広告掲載 個人情報 ...",
+    "url": "https://ja.nc-net.or.jp/company/83816/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - ㈱瀬戸内エンジニアリング — 個人情報の保護について インターネットを通じて当ウェブサイトの「お問い合わせ」をご利用いただいた際に、必要な情報の元となるお客様の個人情報の取扱いを行いますが、お客様の個人情報を、お客様の同意なしに第三者に開示することはありません。",
+    "url": "https://r.goope.jp/sr-37-373811s0081/contact",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "地域元気宣言！トップの声 瀬戸内エンジニアリング 桐野宏司会長 Apr 14 企業団体のトップに話を聞く「地域元気宣言！ トップの声」。 KCTニュースでは番組本編のダイジェストをお送りします。 今回は、倉敷市に本社を置く瀬戸内エンジニアリング株式会社の桐野宏司会長です。 。",
+    "url": "https://x.com/kctnews/status/2044022999138156698",
+    "pass": 3
+   },
+   {
+    "quote": "経済リポート on X: \"瀬戸内エンジニアリングの桐野会長は自身がパー... 瀬戸内エンジニアリングの桐野会長は自身がパーソナリティーを務めるラジオ番組のゲストにロボットを招きました。 最新号で紹介しております。 #kawamatakatumi #レディモ #経済リポート #福山 06 Oct 2026 22:54:30",
+    "url": "https://x.com/keizairipoto/status/2107605446769213562",
+    "pass": 3
+   },
+   {
+    "quote": "本日のななスパ///7⃣ 倉敷市水島地区の和菓子店が 伝統と最新技術を使... ななスパBIZ (@nanaspa777). 13 likes. 本日のななスパ///7⃣ 倉敷市水島地区の和菓子店が 伝統と最新技術を使った ユニークなもなかを作りました‼️ いろいろな形ができるそうですよ🤤 ＃栄堂 ＃瀬戸内エンジニアリング ＃ななスパ ＃テレビせとうち",
+    "url": "https://x.com/nanaspa777/status/1354247794567991296",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "瀬戸内エンジニアリング | Kurashiki-shi Okayama Dec 27, 2017 · 瀬戸内エンジニアリング ～ 現在、Facebookページを作成中です ～ 瀬戸内エンジニアリングは、ト Engineering Service All Photos",
+    "url": "https://www.facebook.com/瀬戸内エンジニアリング-1789302378034271/",
+    "pass": 3
+   },
+   {
+    "quote": "瀬戸内エンジニアリング - こんにちは。このたび、facebookをはじめま... Nov 21, 2017 · こんにちは。 このたび、facebookをはじめました。 瀬戸内エンジニアリングの魅力を少しでも多くの方に紹介していきたいと考えています。 現在、コンテンツ準備中ですので、今しばらくお待ちください。",
+    "url": "https://www.facebook.com/100064082618001/posts/こんにちはこのたびfacebookをはじめました瀬戸内エンジニアリングの魅力を少しでも多くの方に紹介していきたいと考えています現在コンテンツ準備中ですので今しば/1815185065446002/",
+    "pass": 3
+   },
+   {
+    "quote": "週刊 VISION岡山 - 瀬戸内エンジニアリング㈱（倉敷市）の桐野宏司会... Mar 30, 2021 · 瀬戸内エンジニアリング㈱（倉敷市）の桐野宏司会長は、倉敷市の水島商店街にある自社ビル内にラジオの放送スタジオを開設しました。 水島地区をPRする番組を制作し、4月7日からエフエムくらしきで放送を開始します。",
+    "url": "https://www.facebook.com/visionokayama/posts/1868611383285975/",
+    "pass": 3
+   },
+   {
+    "quote": "瀬戸内エンジニアリング株式会社 おはようございます☀... - 株式会社P... 瀬戸内エンジニアリング株式会社 おはようございます☀ 先週、水島に本社を構える、瀬戸内エンジニアリング株式会社様のサマー会議にて、モチベーションアップセミナーを行わさせていただきました！",
+    "url": "https://www.facebook.com/paecebanner.jp/posts/瀬戸内エンジニアリング株式会社おはようございます先週水島に本社を構える瀬戸内エンジニアリング株式会社様のサマー会議にてモチベーションアップセミナーを行わさせてい/2355736257815645/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.setouchi-eng.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setouchi-eng.co.jp/product.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setouchi-eng.co.jp/sakaedo/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.setouchi-eng.co.jp/data/SECProductPamphlet.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.setouchi-eng.co.jp/img/koujiproduct.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.setouchi-eng.co.jp/img/pcpproduct.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.setouchi-eng.co.jp/img/top-product.gif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.pref.okayama.lg.jp/site/micro/600450.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seto-eng.co.jp/info/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://setouchi-eng.co.jp/mailform.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sec3acc11b6b7d2.wordpress.com/お問い合わせ/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/83816/inquiry/input/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kctnews/status/2044022999138156698",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/keizairipoto/status/2107605446769213562",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nanaspa777/status/1354247794567991296",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/瀬戸内エンジニアリング-1789302378034271/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100064082618001/posts/こんにちはこのたびfacebookをはじめました瀬戸内エンジニアリングの魅力を少しでも多くの方に紹介していきたいと考えています現在コンテンツ準備中ですので今しば/1815185065446002/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/visionokayama/posts/1868611383285975/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/paecebanner.jp/posts/瀬戸内エンジニアリング株式会社おはようございます先週水島に本社を構える瀬戸内エンジニアリング株式会社様のサマー会議にてモチベーションアップセミナーを行わさせてい/2355736257815645/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "瀬戸内エンジニアリング 取扱製品 試作 小ロット",
+   "results": [
+    "http://www.setouchi-eng.co.jp/",
+    "https://www.pref.okayama.jp/site/micro/600450.html",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://mono.ipros.com/company/detail/2063911/category/",
+    "http://www.setouchi-eng.co.jp/product.html",
+    "https://sec3acc11b6b7d2.wordpress.com/製品情報/",
+    "https://custom-eng.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "瀬戸内エンジニアリング 会社概要 事業内容",
+   "results": [
+    "http://www.setouchi-eng.co.jp/",
+    "http://www.setouchi-eng.co.jp/kaisyagaiyou.html",
+    "http://seto-eng.co.jp/info/index.html",
+    "https://www.pref.okayama.jp/site/micro/600450.html",
+    "https://sec3acc11b6b7d2.wordpress.com/事業案内/",
+    "https://www.kensetumap.com/company/441168/profile.php",
+    "https://www.kensetumap.com/company/441926/profile.php"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "瀬戸内エンジニアリング お問い合わせ メール",
+   "results": [
+    "https://setouchi-eng.co.jp/mailform.html",
+    "https://sec3acc11b6b7d2.wordpress.com/お問い合わせ/",
+    "https://ja.nc-net.or.jp/company/83816/inquiry/",
+    "https://r.goope.jp/sr-37-373811s0081/contact",
+    "http://www.setouchi-eng.co.jp/",
+    "https://www.setouchigiken.jp/inquiry/",
+    "https://setouchi.securesite.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 瀬戸内エンジニアリング",
+   "results": [
+    "https://note.com/fjch/n/n21fee74e8ad0",
+    "https://note.com/sankituushin/n/nc579f2e059cb",
+    "https://note.com/akihisa_shiozaki/n/n1cb6c7f81dc4",
+    "https://note.com/equity_neconeco/n/n008676f918e2",
+    "https://note.com/arcmasters/n/nf5cec2a3f51b",
+    "https://note.com/ryushi_to_2022/n/nd0cdcee2f378",
+    "https://note.com/hidetoshiiwasaki/n/n2da12dd239f3"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 瀬戸内エンジニアリング",
+   "results": [
+    "https://x.com/kctnews/status/2044022999138156698",
+    "https://x.com/keizairipoto/status/2107605446769213562",
+    "https://x.com/nanaspa777/status/1354247794567991296",
+    "https://x.com/blackse",
+    "https://x.com/SETOUCHI_SPARKS",
+    "https://x.com/SetouchiC",
+    "https://x.com/laserwelder"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 瀬戸内エンジニアリング",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 瀬戸内エンジニアリング",
+   "results": [
+    "https://www.facebook.com/瀬戸内エンジニアリング-1789302378034271/",
+    "https://www.facebook.com/100064082618001/posts/こんにちはこのたびfacebookをはじめました瀬戸内エンジニアリングの魅力を少しでも多くの方に紹介していきたいと考えています現在コンテンツ準備中ですので今しば/1815185065446002/",
+    "https://www.facebook.com/visionokayama/posts/1868611383285975/",
+    "https://www.facebook.com/paecebanner.jp/posts/瀬戸内エンジニアリング株式会社おはようございます先週水島に本社を構える瀬戸内エンジニアリング株式会社様のサマー会議にてモチベーションアップセミナーを行わさせてい/2355736257815645/",
+    "https://www.facebook.com/100064082618001/posts/倉敷本社ビルに瀬戸内ホールディングスの看板を新しく取り付けました/1831620917135750/",
+    "https://www.facebook.com/ソーワエンジニアリング株-115157846522357/",
+    "https://www.facebook.com/kuratoco/posts/新技術を駆使しつつ伝統の味を守る水島嶋屋製菓-栄堂弥生堂から栄堂へ瀬戸内エンジニアリング株式会社が老舗和菓子店の味と技を受け継いだ理由とは-3dプリンターの技術/1639435909561465/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "瀬戸内エンジニアリング note 社長",
+   "results": [
+    "https://jobtalk.jp/companies/200431/answers?question_codes=president",
+    "http://www.setouchi-eng.co.jp/topmessage.html",
+    "http://www.setouchi-eng.co.jp/",
+    "https://jobtalk.jp/companies/200431/answers/1079597",
+    "https://keizai.info/general-okayama/131796",
+    "https://compalyze.co.jp/company/3260001013757",
+    "https://visionokayama.jp/article/20260101/66906"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "瀬戸内エンジニアリング X 投稿",
+   "results": [
+    "http://www.setouchi-eng.co.jp/",
+    "https://kyoka-db.com/companies/kagawa/6218939/",
+    "http://www.setouchi-eng.co.jp/se.html",
+    "https://www.pref.okayama.jp/site/micro/600450.html",
+    "https://x.com/setowotsukatte/status/2119954802516045939",
+    "https://x.com/blackse",
+    "https://setouchi-oceansx.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部13頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部13頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部13頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部13頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部13頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部13頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部13頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部13頁・検索9回）"
+ }
+}

@@ -1,0 +1,579 @@
+{
+ "name": "株式会社世界最速試作センター",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T19:22:13.885312+00:00",
+ "official_url": "http://www.suwa-saisoku.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "中嶋　清隆",
+    "url": "https://suwa-saisoku.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "中田　一彦",
+    "url": "https://www.atengineer.com/pr/suwa-saisoku/company",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒394-0084　長野県岡谷市長地片間町2-5-21 TEL：0266-26-3571　/　FAX：0266-26-3572",
+    "url": "https://suwa-saisoku.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒394-0084 長野県岡谷市長地片間町2-5-21",
+    "url": "https://www.atengineer.com/pr/suwa-saisoku/company",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "産-学-官、産-学、産-産連携により医療/福祉、情報/通信、環境、バイオテクノロジー、宇宙/航空/自動車、新製品製造技術の分野を中心にした精密部品、ユニット製品の企画、試作、量産、販売を行う。",
+    "url": "https://suwa-saisoku.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "部品加工、ユニット製品開発、新技術の市場導入、技術調査など、幅広いニーズに対応",
+    "url": "https://suwa-saisoku.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「産-学-官」「産-学」「産-産」連携により、医療/福祉、情報/通信、環境、バイオテクノロジー、宇宙/航空/自動車、新製品製造技術の分野を中心にした精密部品、ユニット製品の開発、試作、量産、販売を行っています",
+    "url": "https://suwa-saisoku.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ユニット製品分野 … 設計・開発・生産分野",
+    "url": "https://suwa-saisoku.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年の創業以来20年余りが経過した今日、お客様を第一に、お客様の視点に立ち、小型精密分野の技術を高め、物づくりの価値を向上させ、共有したネットワークを通じて、創造的な諏訪ブランド製品を永続的に発信し地域産業の活性化に貢献する為に、諏訪圏企業様とのコミュニケーション強化を図る中で、盤石な体制整備を構築する事が出来て来ています",
+    "url": "https://suwa-saisoku.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "産-学-官、産-学、産-産連携により医療/福祉、情報/通信、環境、バイオテクノロジー、宇宙/航空/自動車、新製品製造技術の分野を中心にした精密部品、ユニット製品の企画、試作、量産、販売を行う",
+    "url": "https://suwa-saisoku.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(2)",
+    "url": "https://mono.ipros.com/company/detail/2054868/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、医療/福祉、情報/通信、環境、バイオテクノロジーなどの分野における製品の企画や販売を行っている会社です",
+    "url": "https://mono.ipros.com/company/detail/2054868/",
+    "pass": 3
+   },
+   {
+    "quote": "産-学、産-産連携により医療/福祉、情報/通信、環境、バイオテクノロジー、宇宙/航空/自動車、新製品製造技術の分野を中心にした精密部品、ユニット製品の企画、試作、量産、販売を行う",
+    "url": "https://mono.ipros.com/company/detail/2054868/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (2)",
+    "url": "https://mono.ipros.com/company/detail/2054868/",
+    "pass": 3
+   },
+   {
+    "quote": "、製品・技術・サービス",
+    "url": "https://www.atengineer.com/pr/suwa-saisoku/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社世界最速試作センターの製品・技術・サービス",
+    "url": "https://www.atengineer.com/pr/suwa-saisoku/company",
+    "pass": 3
+   },
+   {
+    "quote": "現在弊社では、この機構を広く受け入れられる市場・製品を今後開拓する為活動を開始致しました",
+    "url": "https://www.atengineer.com/pr/suwa-saisoku/company",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "世界最速試作センター | 諏訪ブランドを世界に発信",
+    "url": "https://suwa-saisoku.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "超精密部品から大物部品まで、世界最速試作センターネットワークを駆使して提供",
+    "url": "https://suwa-saisoku.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "要素技術可能性調査、要素検討試作検証",
+    "url": "https://suwa-saisoku.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「産-学-官」「産-学」「産-産」連携により、医療/福祉、情報/通信、環境、バイオテクノロジー、宇宙/航空/自動車、新製品製造技術の分野を中心にした精密部品、ユニット製品の開発、試作、量産、販売を行っています",
+    "url": "https://suwa-saisoku.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "超精密部品から大物部品まで、世界最速試作センターネットワークを駆使して提供いたします",
+    "url": "https://suwa-saisoku.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "産-学-官、産-学、産-産連携により医療/福祉、情報/通信、環境、バイオテクノロジー、宇宙/航空/自動車、新製品製造技術の分野を中心にした精密部品、ユニット製品の企画、試作、量産、販売を行う",
+    "url": "https://suwa-saisoku.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界最速試作センター構想案」を、（財）長野県テクノ財団から提案される",
+    "url": "https://suwa-saisoku.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "世界最速試作センター構想が経済産業省の産業クラスター計画の一環として位置づけられ、関東経済産業局の支援のもと、地元企業11社・3大学・13機関にて「世界最速試作センター構想実現可能性調査委員会」をスタートさせる",
+    "url": "https://suwa-saisoku.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "「世界最速試作センター構想実現可能性調査委員会・報告会」にて会社設立の方向となる",
+    "url": "https://suwa-saisoku.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "世界最速試作センター会社設立に向け、地元企業と（財）長野県テクノ財団とで「設立準備委員会」発足",
+    "url": "https://suwa-saisoku.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "地元企業10社にて「（株）世界最速試作センター」の発起人会開催される",
+    "url": "https://suwa-saisoku.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "4月5日「（株）世界最速試作センター」設立",
+    "url": "https://suwa-saisoku.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "NHK「クローズアップ現代」で「（株）世界最速試作センター」紹介が放映される",
+    "url": "https://suwa-saisoku.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "世界最速試作センターとは | 世界最速試作センター",
+    "url": "https://suwa-saisoku.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "諏訪地域の産業活性化を目的に、独自技術を持った地域のトップ企業が協働し、高速情報通信網を活用してスーパーデバイスの開発から試作、量産試作までを",
+    "url": "https://suwa-saisoku.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "世界最速試作センター | 企業情報 | イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2054868/",
+    "pass": 3
+   },
+   {
+    "quote": "産-学、産-産連携により医療/福祉、情報/通信、環境、バイオテクノロジー、宇宙/航空/自動車、新製品製造技術の分野を中心にした精密部品、ユニット製品の企画、試作、量産、販売を行う",
+    "url": "https://mono.ipros.com/company/detail/2054868/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社世界最速試作センター - 会社概要",
+    "url": "https://www.atengineer.com/pr/suwa-saisoku/company",
+    "pass": 3
+   },
+   {
+    "quote": "諏訪地域の産業活性化を目的に、独自技術を持った地域のトップ企業が協働し、開発から試作、量産までを世界最速でお客様に提供",
+    "url": "https://www.atengineer.com/pr/suwa-saisoku/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社世界最速試作センターの製品・技術・サービス",
+    "url": "https://www.atengineer.com/pr/suwa-saisoku/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社世界最速試作センターのホームページ",
+    "url": "https://www.atengineer.com/pr/suwa-saisoku/company",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "一般鋼材は勿論ＳＵＳ・チタン・ジルコニウム・セラミック・ガラス等難加工材料",
+    "url": "https://suwa-saisoku.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "材質、大きさ、形等の仕様変更も可能です",
+    "url": "https://www.atengineer.com/pr/suwa-saisoku/company",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "「産-学-官」「産-学」「産-産」連携により、医療/福祉、情報/通信、環境、バイオテクノロジー、宇宙/航空/自動車、新製品製造技術の分野を中心にした精密部品、ユニット製品の開発、試作、量産、販売を行っています",
+    "url": "https://suwa-saisoku.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "産-学-官、産-学、産-産連携により医療/福祉、情報/通信、環境、バイオテクノロジー、宇宙/航空/自動車、新製品製造技術の分野を中心にした精密部品、ユニット製品の企画、試作、量産、販売を行う",
+    "url": "https://suwa-saisoku.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "スマートフォン生産設備用治具の部品供給を短納期で対応",
+    "url": "https://suwa-saisoku.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、医療/福祉、情報/通信、環境、バイオテクノロジーなどの分野における製品の企画や販売を行っている会社です",
+    "url": "https://mono.ipros.com/company/detail/2054868/",
+    "pass": 3
+   },
+   {
+    "quote": "産-学、産-産連携により医療/福祉、情報/通信、環境、バイオテクノロジー、宇宙/航空/自動車、新製品製造技術の分野を中心にした精密部品、ユニット製品の企画、試作、量産、販売を行う",
+    "url": "https://mono.ipros.com/company/detail/2054868/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "コイルバネ加工（Φ０．０４）・光造形加工",
+    "url": "https://suwa-saisoku.jp/service/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "世界最速試作センター | 企業 情報 | イプロスものづくり — 世界最速試作センター | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > IT・情報通信",
+    "url": "https://mono.ipros.com/company/detail/2054868/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 世界最速試作センター — 会社概要 - 世界最速試作センター 世界最速試作センター https://suwa-saisoku.jp > company",
+    "url": "https://suwa-saisoku.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 世界最速試作センター - 会社概要 - engineer — 株式会社 世界最速試作センター - 会社概要 - engineer atengineer.com https://www.atengineer.com > suwa-saisoku > company",
+    "url": "https://www.atengineer.com/pr/suwa-saisoku/company",
+    "pass": 3
+   },
+   {
+    "quote": "レプトリノと 世界最速試作センター 、6軸負荷試験装置を開発 — レプトリノと 世界最速試作センター 、6軸負荷試験装置を開発 日刊工業新聞 https://www.nikkan.co.jp > articles > view",
+    "url": "https://www.nikkan.co.jp/articles/view/154340",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 世界最速試作センター — お問い合わせ - 世界最速試作センター 世界最速試作センター https://suwa-saisoku.jp > contact",
+    "url": "https://suwa-saisoku.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "世界最速試作センター | 諏訪ブランドを世界に発信 — 世界最速試作センター | 諏訪ブランドを世界に発信 世界最速試作センター https://suwa-saisoku.jp",
+    "url": "https://suwa-saisoku.jp/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせ、ご質問、見積り依頼につきましては、下記メールフォームに必要事項をご入力の上、送信ください",
+    "url": "https://suwa-saisoku.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "※2営業日以上返信が無い場合、メールが届いていない可能性がございます",
+    "url": "https://suwa-saisoku.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "荒井 健一郎 - 世界最速試作センター の取締役 - LinkedIn 荒井 健一郎 - 世界最速試作センター の取締役 - LinkedIn LinkedIn https://jp.linkedin.com > 健一郎-荒井-882462286",
+    "url": "https://jp.linkedin.com/in/%E5%81%A5%E4%B8%80%E9%83%8E-%E8%8D%92%E4%BA%95-882462286",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://suwa-saisoku.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suwa-saisoku.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suwa-saisoku.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suwa-saisoku.jp/about-us/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2054868/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suwa-saisoku.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/suwa-saisoku/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suwa-saisoku.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/suwa-saisoku/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suwa-saisoku.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%81%A5%E4%B8%80%E9%83%8E-%E8%8D%92%E4%BA%95-882462286",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "世界最速試作センター 取扱製品 試作 小ロット",
+   "results": [
+    "https://mfg-hack.com/plastic/10134/",
+    "https://injection-lab.com/technology/64-2.html",
+    "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "https://mono.ipros.com/cg2/%E5%B0%8F%E3%83%AD%E3%83%83%E3%83%88%E7%94%9F%E7%94%A3/",
+    "https://www.zen.co.jp/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://www.tnksanwa.co.jp/media/detail.html?id=3348",
+    "https://jp.marketplace.meviy.misumi-ec.com/info/ja/tips/prototype005_injection-molding/",
+    "https://www.xeffect.com/small/",
+    "https://www.suwa-saisoku.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "世界最速試作センター 会社概要 事業内容",
+   "results": [
+    "https://mono.ipros.com/company/detail/2054868/",
+    "https://suwa-saisoku.jp/company/",
+    "https://www.atengineer.com/pr/suwa-saisoku/company",
+    "https://www.nikkan.co.jp/articles/view/154340",
+    "https://suwa.monozukuri.or.jp/hitowaza/00150/",
+    "https://suwa-saisoku.jp/service/",
+    "https://mokei-hikaku.com/",
+    "https://suwa-saisoku.jp/",
+    "https://metoree.com/categories/8550/",
+    "https://www.suwa-saisoku.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "世界最速試作センター お問い合わせ メール",
+   "results": [
+    "https://suwa-saisoku.jp/contact/",
+    "https://www.atengineer.com/pr/suwa-saisoku/company",
+    "https://suwa-saisoku.jp/",
+    "https://www.tjsys.co.jp/form/contact.php?blogid=2&entryid=4118&formid=contact-em",
+    "https://suwa.monozukuri.or.jp/hitowaza/00545/",
+    "http://www.plateau-suwa.net/company.html",
+    "https://support-dd.i-webs.jp/sbc2028/contact/contact-entry",
+    "https://cart2.shopserve.jp/sptest861.uf/FORM/contact.cgi",
+    "https://www.xeffect.com/corporate/",
+    "https://www.suwa-saisoku.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 世界最速試作センター",
+   "results": [
+    "https://note.com/sensou188/n/ndeba86de09d3",
+    "https://note.com/jrs1188/n/n8458dc45e6e4",
+    "https://note.com/betaitohuman/n/n06ea9c5dfe6d",
+    "https://note.com/tag/%E8%A9%A6%E9%A8%93%E6%A9%9F",
+    "https://note.com/kagawatomo/n/n2dbaab2dea19",
+    "https://note.com/kagawatomo/n/nc94135d66f37",
+    "https://note.com/kagawatomo/n/ncf1d50bd1938",
+    "https://note.com/nozakazoo/n/nc9d41e14c5c1",
+    "https://note.com/luckywood/n/n6692795bbe37",
+    "https://note.com/shi3zblog/n/n952900fac58e"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 世界最速試作センター",
+   "results": [
+    "https://x.com/crossEffect1",
+    "https://x.com/kmk_1970",
+    "https://x.com/masahirochaen/with_replies",
+    "https://x.com/tech_activator",
+    "https://x.com/nb_shinbun",
+    "https://x.com/UNION_ARENA_TCG",
+    "https://x.com/GUNDAM_GCG_JP",
+    "https://x.com/KagawaTomo/status/2092388723984126247",
+    "https://x.com/NaraKosen_PR",
+    "https://x.com/gc_safari_ikb"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 世界最速試作センター",
+   "results": [
+    "https://jp.linkedin.com/in/%E5%81%A5%E4%B8%80%E9%83%8E-%E8%8D%92%E4%BA%95-882462286",
+    "https://www.linkedin.com/pub/dir/Kiyotaka/Nakajima",
+    "https://jp.linkedin.com/pub/dir/kiyotaka/nakajima?trk=prof-samename-searchmore",
+    "https://jp.linkedin.com/directory/articles",
+    "https://jp.linkedin.com/pulse/week-ai-anthropic-nears-1-trillion-opus-48-illinois-sets-djon-kleine-jbtvf?tl=ja",
+    "https://jp.linkedin.com/pulse/ibm-century-innovation-technology-leadership-rahul-chaube-url0c?tl=ja",
+    "https://jp.linkedin.com/in/hayata-okubo-316256164",
+    "https://jp.linkedin.com/pulse/great-ai-realignment-partnerships-moonshots-future-chike-emmanuel-cl6df?tl=ja",
+    "https://jp.linkedin.com/pulse/%E6%B4%9E%E5%AF%9F%E5%8A%9B%E3%81%AE%E3%81%82%E3%82%8Bmems-%E5%8F%AF%E5%A4%89%E5%85%89%E3%82%A2%E3%83%83%E3%83%86%E3%83%8D%E3%83%BC%E3%82%BF-voa%E5%B8%82%E5%A0%B4%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%882026-2033%E4%BA%88%E6%B8%ACcagr59%E3%81%A7%E3%81%AE%E9%96%8B%E7%99%BA%E8%B2%A9%E5%A3%B2%E5%8F%8E%E7%9B%8A%E3%81%8A%E3%82%88%E3%81%B3%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-4wkhe",
+    "https://jp.linkedin.com/in/%E3%82%BD%E3%83%B3-%E7%A9%BA%E5%B1%B1-702677373"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com 世界最速試作センター",
+   "results": [
+    "https://www.facebook.com/bosch.co.jp/videos/%E8%8B%A5%E6%89%8B%E4%B8%AD%E5%A0%85%E7%A4%BE%E5%93%A1%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%88%E3%83%BC%E3%82%AF-%E3%83%93%E3%83%BC%E3%82%AF%E3%83%AB%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%BA%8B%E6%A5%AD%E9%83%A8-in-%E3%83%9C%E3%83%83%E3%82%B7%E3%83%A5%E5%A5%B3%E6%BA%80%E5%88%A5%E3%83%86%E3%82%AF%E3%83%8B%E3%82%AB%E3%83%AB%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E3%83%9C%E3%83%83%E3%82%B7%E3%83%A5%E3%81%AE%E3%83%93%E3%83%BC%E3%82%AF%E3%83%AB%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%BA%8B%E6%A5%AD%E9%83%A8%E3%81%AE%E6%8B%A0%E7%82%B9%E3%81%AE%E3%81%B2%E3%81%A8%E3%81%A4%E3%81%A7%E3%81%82%E3%82%8B%E5%8C%97%E6%B5%B7%E9%81%93%E3%81%AE%E3%83%9C%E3%83%83%E3%82%B7/910157910747759/",
+    "https://www.facebook.com/porsche/videos/%E3%83%9D%E3%83%AB%E3%82%B7%E3%82%A7%E3%81%AB%E3%81%A8%E3%81%A3%E3%81%A6%E8%A8%98%E6%86%B6%E3%81%AB%E6%AE%8B%E3%82%8B%E5%8B%9D%E5%88%A9%E3%82%92%E5%8F%8E%E3%82%81%E3%81%9F2017%E5%B9%B4919-hybrid-%E3%81%8C%E4%BC%9D%E8%AA%AC%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA1%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AB%E3%81%AA%E3%82%8B%E5%B9%B4%E3%81%A4%E3%81%BE%E3%82%8A%E9%9B%BB%E5%8B%95%E5%8C%96%E3%81%AB%E5%90%91%E3%81%8B%E3%81%86%E6%9C%AA%E6%9D%A5%E3%81%B8%E3%81%AE%E9%81%93%E3%82%92%E5%88%87%E3%82%8A%E6%8B%93%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AB%E3%81%8A%E5%88%A5%E3%82%8C%E3%82%92%E5%91%8A%E3%81%92%E3%82%8B/1570794363008110/",
+    "https://www.facebook.com/CGSYS/",
+    "https://www.facebook.com/kodamacorporation/?locale=ja_JP",
+    "https://www.facebook.com/masakazu.inui.376/videos/ai%E3%81%A7%E3%81%8A%E9%81%8A%E3%81%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E8%B6%B3%E3%82%89%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%A6%E9%80%94%E4%B8%AD%E3%81%BE%E3%81%A7%E3%81%A0%E3%81%91%E3%81%A9%E6%9B%B2%E3%82%82%E6%98%A0%E5%83%8F%E3%82%82%E3%81%93%E3%81%93%E3%81%BE%E3%81%A7%E6%9D%A5%E3%82%8C%E3%82%8B%E6%99%82%E4%BB%A3/1434416024687203/",
+    "https://www.facebook.com/GuestHouseTriangle/videos/%E5%A4%A7%E6%A0%B9%E3%81%AE%E4%B8%8B%E5%87%A6%E7%90%86%E5%83%95%E5%A4%A7%E6%A0%B9%E3%81%AE%E7%9A%AE%E3%81%A8%E9%9D%A2%E5%8F%96%E3%82%8A%E3%81%AF%E3%83%94%E3%83%BC%E3%83%A9%E3%83%BC%E3%81%A7%E3%82%84%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%E6%98%94%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E3%81%A7%E5%83%8D%E3%81%84%E3%81%A6%E3%82%8B%E6%99%82%E5%A4%A7%E6%A0%B9%E3%81%AE%E7%9A%AE%E5%89%A5%E3%81%8D%E3%82%92%E5%8C%85%E4%B8%81%E3%81%A7%E4%B8%80%E7%99%BA%E3%81%A7%E5%87%BA%E6%9D%A5%E3%82%8B%E6%96%99%E7%90%86%E4%BA%BA%E3%81%95%E3%82%93%E3%81%8C%E3%81%84%E3%82%8B%E3%81%A8%E8%81%9E%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E5%92%8C%E9%A3%9F%E3%81%AE%E4%B8%96%E7%95%8C%E5%87%84%E3%81%84%E3%81%A3%E3%81%99%E3%81%93/853392121915636/",
+    "https://www.facebook.com/p/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%82%BF%E3%83%A0%E3%83%A9%E4%B8%8D%E5%8B%95%E7%94%A3%E4%BF%9D%E9%99%BA%E4%BA%8B%E5%8B%99%E6%89%80-100066407268396/",
+    "https://www.facebook.com/GDMarunouchi/posts/%E7%A7%81%E3%81%AE%E9%81%B8%E3%82%93%E3%81%A0%E4%B8%80%E5%93%81%E5%B1%95-2%E6%9C%9F%E3%81%8A%E3%81%A9%E3%82%8D%E3%81%8D%E6%B0%97%E3%81%A5%E3%81%8D%E7%AC%AC2%E6%9C%9F%E3%81%AF119%E6%97%A5%E3%81%BE%E3%81%A7%E3%81%AE%E9%96%8B%E5%82%AC%E3%81%AA%E3%82%93%E3%81%A8%E3%83%90%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%A0%E3%81%8C%E3%81%BE%E3%82%8B%E3%81%94%E3%81%A8%E5%B1%95%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%9D%E3%81%97%E3%81%A6%E5%B1%95%E7%A4%BA%E5%93%81%E3%81%AF%E8%A6%8B%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AA%E3%81%8F%E8%A7%A6%E3%81%A3%E3%81%A6%E8%A9%A6%E3%81%9B%E3%82%8B%E3%82%82%E3%81%AE%E3%81%B0%E3%81%8B%E3%82%8A%E3%81%9C%E3%81%B2%E4%BC%9A/1417596977042056/",
+    "https://www.facebook.com/kunio.imayoshi/posts/%E3%82%86%E3%82%8B%E5%8B%9F%E5%85%84%E5%A6%B9%E8%A6%AA%E6%88%9A%E3%81%AB%E4%B8%AD%E9%AB%98%E7%94%9F%E3%81%AF%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%E6%B8%8B%E8%B0%B7%E5%8C%BA%E5%BE%8C%E6%8F%B4%E3%81%AE%E8%B5%B7%E6%A5%AD%E4%BD%93%E9%A8%93%E5%9E%8B%E4%BA%BA%E6%9D%90%E8%82%B2%E6%88%90%E3%83%95%E3%82%9A%E3%83%AD%E3%82%AF%E3%82%99%E3%83%A9%E3%83%A0manabuya%E3%81%8B%E3%82%996%E6%9C%88%E3%81%AB%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C%E8%87%AA%E5%88%86%E3%81%AF%E4%BC%81%E7%94%BB%E7%B5%B1%E6%8B%AC%E3%82%92%E3%81%95%E3%81%9B%E3%81%A6%E9%A0%82%E3%81%84%E3%81%A6/3782257541872926/",
+    "https://www.facebook.com/groups/813342132068841/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "世界最速試作センター note 社長",
+   "results": [
+    "https://api.lib.kyushu-u.ac.jp/opac_download_md/4785259/19_p063.pdf",
+    "https://www.nikkan.co.jp/articles/view/154340",
+    "https://note.com/mobio_osaka/n/n658ab54179ed",
+    "https://suwa.monozukuri.or.jp/hitowaza/00150/",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://suwa-saisoku.jp/company/",
+    "https://note.com/shi3zblog/n/n952900fac58e",
+    "https://note.com/jtechjapan/n/na01857a4c505",
+    "https://www.suwa-saisoku.jp/company/",
+    "https://www.suwa-saisoku.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "世界最速試作センター X 投稿",
+   "results": [
+    "https://suwa-saisoku.jp/",
+    "https://www.atengineer.com/pr/suwa-saisoku/company",
+    "https://x.com/SSP_JP_Official/status/1272350451732672512",
+    "https://www.reddit.com/r/spacex/comments/1u0nncm/watch_musk_provide_a_technical_update_on_spacexs/?tl=ja",
+    "https://www.youtube.com/watch?v=04Vur8QE0BE&vl=ja",
+    "https://suwa-saisoku.jp/company/",
+    "https://www.youtube.com/watch?v=djMMPsz_MRA",
+    "https://www.reddit.com/r/space/comments/1sxoxi8/starship_test_like_you_fly/?tl=ja",
+    "https://www.suwa-saisoku.jp/",
+    "https://www.suwa-saisoku.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部10頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部10頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部10頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部10頁・検索9回）"
+ }
+}

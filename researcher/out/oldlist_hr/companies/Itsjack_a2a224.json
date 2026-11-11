@@ -1,0 +1,769 @@
+{
+ "name": "Itsjack",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T18:59:30.059598+00:00",
+ "official_url": "https://www.itsjack.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Prefunding required",
+    "value": "✓ No — your account ✗ Yes — must top up PG wallet ✓ No",
+    "url": "https://www.itsjack.com/portal-solutions/business-banking",
+    "pass": 1
+   },
+   {
+    "label": "Disclosed funding",
+    "value": "US$ 0.5 M min thejakartapost.com",
+    "url": "https://1001startup.id/company/jack",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Fintechs & Enterprises",
+    "url": "https://www.itsjack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One API for 140+ Indonesian banks and e-wallets. No prefunding. Your company name on every payout. Real-time webhooks.",
+    "url": "https://www.itsjack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Convert at the exact moment of disbursement via API. No manual FX, no pre-converting to IDR, no separate provider. Nobody else offers this today.",
+    "url": "https://www.itsjack.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fintechs & Enterprises",
+    "url": "https://www.itsjack.com/portal-solutions/local-transfers",
+    "pass": 1
+   },
+   {
+    "quote": "Customisable approval flows",
+    "url": "https://www.itsjack.com/portal-solutions/local-transfers",
+    "pass": 1
+   },
+   {
+    "quote": "Set multi-level approvals based on transfer amount or type. Attach supporting documents — invoices, contracts, or receipts — directly to each transaction. Every payment goes through the right hands with the right context before it goes out. No more WhatsApp approvals.",
+    "url": "https://www.itsjack.com/portal-solutions/local-transfers",
+    "pass": 1
+   },
+   {
+    "quote": "Start instantly with a Prefunding Wallet, or unlock 1,000 free transfers with a Jack Business Account.",
+    "url": "https://www.itsjack.com/portal-solutions/local-transfers",
+    "pass": 1
+   },
+   {
+    "quote": "Transfer to any Indonesian bank or e-wallet in real time — from dashboard or API. Save recipients, set approvals, track everything live.",
+    "url": "https://www.itsjack.com/portal-solutions/local-transfers",
+    "pass": 1
+   },
+   {
+    "quote": "Fintechs & Enterprises",
+    "url": "https://www.itsjack.com/portal-solutions/international-transfers",
+    "pass": 1
+   },
+   {
+    "quote": "Send to 70+ countries via SWIFT MT103 or local rails — without branch visits, paperwork, or waiting days for your bank to process it. Simple, trackable, and reliable.",
+    "url": "https://www.itsjack.com/portal-solutions/international-transfers",
+    "pass": 1
+   },
+   {
+    "quote": "Everything done from your dashboard. Submit, approve, and track international transfers without visiting a branch or filling in forms. WhatsApp our team directly to negotiate rates.",
+    "url": "https://www.itsjack.com/portal-solutions/international-transfers",
+    "pass": 1
+   },
+   {
+    "quote": "Approvals and controls built in",
+    "url": "https://www.itsjack.com/portal-solutions/international-transfers",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-level approval flows, transfer limits, and full audit trails — all configurable from your portal. Finance teams stay in control without slowing transfers down.",
+    "url": "https://www.itsjack.com/portal-solutions/international-transfers",
+    "pass": 1
+   },
+   {
+    "quote": "If your business sends money there, we probably cover it.",
+    "url": "https://www.itsjack.com/portal-solutions/international-transfers",
+    "pass": 1
+   },
+   {
+    "quote": "Happy with the rate? Confirm and let it go through your approval flow if set up. No changes after confirmation — what you see is what gets sent.",
+    "url": "https://www.itsjack.com/portal-solutions/international-transfers",
+    "pass": 1
+   },
+   {
+    "quote": "Send internationally — without the bank process.",
+    "url": "https://www.itsjack.com/portal-solutions/international-transfers",
+    "pass": 1
+   },
+   {
+    "quote": "Fintechs & Enterprises",
+    "url": "https://www.itsjack.com/portal-solutions/business-banking",
+    "pass": 1
+   },
+   {
+    "quote": "Your account is opened and held at one of Indonesia's largest licensed banks. This means real regulatory backing, real account numbers, and access to the full range of Indonesian payment rails. Deposits are guaranteed by LPS (Lembaga Penjamin Simpanan) — your funds are protected under Indonesia's official deposit insurance program.",
+    "url": "https://www.itsjack.com/portal-solutions/business-banking",
+    "pass": 1
+   },
+   {
+    "quote": "Your first 1,000 local transfers every month are free. No per-transaction fee until you scale past that. Lower fees than standard bank transfer pricing — built for businesses.",
+    "url": "https://www.itsjack.com/portal-solutions/business-banking",
+    "pass": 1
+   },
+   {
+    "quote": "Money transits provider's account",
+    "url": "https://www.itsjack.com/portal-solutions/business-banking",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-user approval flows",
+    "url": "https://www.itsjack.com/portal-solutions/business-banking",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your systems via API and disburse at scale — locally or internationally. Directly from your business account, no prefunding.",
+    "url": "https://www.itsjack.com/portal-solutions/business-banking",
+    "pass": 1
+   },
+   {
+    "quote": "Fintechs & Enterprises",
+    "url": "https://www.itsjack.com/api-solutions/api-disbursement",
+    "pass": 1
+   },
+   {
+    "quote": "If your product needs to move IDR to end users, suppliers, or partners — this is your API.",
+    "url": "https://www.itsjack.com/api-solutions/api-disbursement",
+    "pass": 1
+   },
+   {
+    "quote": "Pay sellers, agents, and service providers instantly — at any scale, to any destination. Your name on every statement, not ours.",
+    "url": "https://www.itsjack.com/api-solutions/api-disbursement",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprises & large corporates",
+    "url": "https://www.itsjack.com/api-solutions/api-disbursement",
+    "pass": 1
+   },
+   {
+    "quote": "Switch to production. Our team is on hand for your first live disbursements and available ongoing via WhatsApp.",
+    "url": "https://www.itsjack.com/api-solutions/api-disbursement",
+    "pass": 1
+   },
+   {
+    "quote": "Fintechs & Enterprises",
+    "url": "https://www.itsjack.com/api-solutions/api-fx-disburse",
+    "pass": 1
+   },
+   {
+    "quote": "Live FX rate at the exact moment of disbursement. 140+ Indonesian banks and e-wallets. No pre-conversion, no separate FX provider, no stitching two APIs together.",
+    "url": "https://www.itsjack.com/api-solutions/api-fx-disburse",
+    "pass": 1
+   },
+   {
+    "quote": "Every other provider in Indonesia separates FX conversion and local disbursement. Jack does both in a single API call — at a live rate, at the moment you disburse.",
+    "url": "https://www.itsjack.com/api-solutions/api-fx-disburse",
+    "pass": 1
+   },
+   {
+    "quote": "Live rate at disbursement — not pre-agreed",
+    "url": "https://www.itsjack.com/api-solutions/api-fx-disburse",
+    "pass": 1
+   },
+   {
+    "quote": "Convert at the exact moment of payout. No pre-agreed rate that moves against you, no manual FX negotiation, no settling the difference later. What you call is what gets disbursed — at that second's rate.",
+    "url": "https://www.itsjack.com/api-solutions/api-fx-disburse",
+    "pass": 1
+   },
+   {
+    "quote": "Other providers make you convert first — wait for settlement — then trigger a separate disbursement. With Jack, one api call does both. Less engineering, fewer failure points, faster payouts.",
+    "url": "https://www.itsjack.com/api-solutions/api-fx-disburse",
+    "pass": 1
+   },
+   {
+    "quote": "Fund in USD, SGD, SAR, MYR, EUR, GBP, HKD or AUD. Convert only at the moment of each disbursement — no pre-converting, no idle IDR balance to manage. Capital efficient by design.",
+    "url": "https://www.itsjack.com/api-solutions/api-fx-disburse",
+    "pass": 1
+   },
+   {
+    "quote": "Skip the local complexity. Disburse from USD, SGD, or any currencies directly to IDR via a single, enterprise-grade API.",
+    "url": "https://www.itsjack.com/api-solutions/api-fx-disburse",
+    "pass": 1
+   },
+   {
+    "quote": "Hold USD, SGD, SAR, or any supported currency. No pre-converting to IDR — your balance stays in the currency you operate in until disbursement time.",
+    "url": "https://www.itsjack.com/api-solutions/api-fx-disburse",
+    "pass": 1
+   },
+   {
+    "quote": "Fintechs & Enterprises",
+    "url": "https://www.itsjack.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Indonesia has one of the most complex payment landscapes in the world — dozens of banks, multiple e-wallets, fragmented rails, and processes that haven't caught up with how businesses operate.",
+    "url": "https://www.itsjack.com/about",
+    "pass": 1
+   },
+   {
+    "quote": ", combining the reach of an established financial services group with the speed of a payment-first product.",
+    "url": "https://www.itsjack.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Jack operates under a Bank Indonesia money transfer licence (No. 13/77/DASP/30). Every transaction processed within Indonesia's regulatory framework.",
+    "url": "https://www.itsjack.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Your data, transactions, and customers are protected to international security standards.",
+    "url": "https://www.itsjack.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Prudential Centre Lt 22, Kota Kasablanka",
+    "url": "https://www.itsjack.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Prudential Centre Lt. 22, Kota Kasablanka, Jl. Casablanca Raya Kav. 88, Menteng Dalam, Tebet, Jakarta Selatan 12870",
+    "url": "https://1001startup.id/company/jack",
+    "pass": 3
+   },
+   {
+    "quote": "Pinned to the road it sits in, not to the building — the map dot is that approximate.",
+    "url": "https://1001startup.id/company/jack",
+    "pass": 3
+   },
+   {
+    "quote": "High — primary sources or filings",
+    "url": "https://1001startup.id/company/jack",
+    "pass": 3
+   },
+   {
+    "quote": "https://support.itsjack.com/en/support/solutions/articles/150000107282-jack-is-a-licensed-payment-service-provider",
+    "url": "https://1001startup.id/company/jack",
+    "pass": 3
+   },
+   {
+    "quote": "https://east.vc/news/press-release/transfez-seed-funding-east-ventures-beenext-international-money-transfer",
+    "url": "https://1001startup.id/company/jack",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Pay international suppliers and manufacturers on time, with full visibility on what they'll receive.",
+    "url": "https://www.itsjack.com/portal-solutions/international-transfers",
+    "pass": 1
+   },
+   {
+    "quote": "We've built the modern rails that connect global capital to local markets. Licensed by Bank Indonesia and trusted by 600+ businesses to move money with zero friction.",
+    "url": "https://www.itsjack.com/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Send tuition abroad for employees or family members in the local currency, with guaranteed delivery.",
+    "url": "https://www.itsjack.com/portal-solutions/international-transfers",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor your transfer status in real time from your dashboard. Most corridors arrive same or next business day. We notify you when it lands.",
+    "url": "https://www.itsjack.com/portal-solutions/international-transfers",
+    "pass": 1
+   },
+   {
+    "quote": "Part of the Transfez Group",
+    "url": "https://www.itsjack.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "70 employees × Rp 1,075 million of value added per worker — the Fintech anchor",
+    "url": "https://1001startup.id/company/jack",
+    "pass": 3
+   },
+   {
+    "quote": "Output is gross value added — what the company adds to GDP: the part of what it earns that it creates itself, after taking out everything it buys in from other firms. Revenue is a bigger number, and the wage bill is one component of this one. Nobody publishes value added, so the census estimates it from headcount and a BPS sector anchor; funding, valuation and GMV never enter.",
+    "url": "https://1001startup.id/company/jack",
+    "pass": 3
+   },
+   {
+    "quote": "👥 136 employees",
+    "url": "https://www.gritt.io/company/itsjack/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "When you send money, recipients see your company name on their bank statement — not Jack's, not a generic virtual account reference. This matters for trust, reconciliation, and your brand.",
+    "url": "https://www.itsjack.com/portal-solutions/business-banking",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Japan's leading independent VC",
+    "url": "https://www.itsjack.com/about",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Every customer has a dedicated account manager. Reach them directly on WhatsApp — or email and we'll route you.",
+    "url": "https://www.itsjack.com/about",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "About Jack — Our Mission & Vision - itsjack.com — Southeast Asia's most active VC Singapore · Asia Early-stage Asia focus Japan · Global Japan's leading independent VC USA · Fintech Fintech & commerce infrastructure",
+    "url": "https://www.itsjack.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Jack - Company Transaction - business.itsjack.com — Jack - Company Transaction Reset",
+    "url": "https://business.itsjack.com/company-transaction",
+    "pass": 3
+   },
+   {
+    "quote": "Jack - Corporate Card That Finally Gives You Control — © 2026 Jack. All rights reserved. Contact [email protected] +62 812-2626-6103 www.itsjack.com",
+    "url": "https://business-debit.itsjack.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ITS JACK - YouTube — All about technique….#itsjack #golf #golfswing #amateur #drivingrange #holeinone 1.9K views",
+    "url": "https://www.youtube.com/@Itsjack_Official",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Jack - LinkedIn About us Payment tools that benefit and ease you in managing your business Website http://itsjack.com/ Industry Financial Services Company size 51-200 employees Headquarters Jakarta, DKI Jakarta",
+    "url": "https://www.linkedin.com/company/itsjack",
+    "pass": 3
+   },
+   {
+    "quote": "6 \"Its Jack\" profiles | LinkedIn View the profiles of professionals named \"Its Jack\" on LinkedIn. There are 6 professionals named \"Its Jack\", who use LinkedIn to exchange information, ideas, and opportunities.",
+    "url": "https://www.linkedin.com/pub/dir/Its/jack",
+    "pass": 3
+   },
+   {
+    "quote": "Its Jack - -- | LinkedIn -- · Experience: Fiverr · Location: Kathmandu. View Its Jack’s profile on LinkedIn, a professional community of 1 billion members.",
+    "url": "https://np.linkedin.com/in/its-jack-5bb852352",
+    "pass": 3
+   },
+   {
+    "quote": "ItsJack Greenwood - aluminium extrusion at smart systems ...Its Jack - Bahraich, Uttar Pradesh, India | Professional ...IT JACK Ltd | LinkedInIts Jack - eBay | LinkedIn aluminium extrusion at smart systems · Experience: smart systems · Location: BS22 6AA. View ItsJack Greenwood’s profile on LinkedIn, a professional community of 1 billion members. -- · Education: Maharaj Singh inter college bahraic",
+    "url": "https://uk.linkedin.com/in/itsjack-greenwood-19336430a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ITS JACK BBQ - Facebook Tender, Juicy & Packed with Flava! @itsjackbbq #dryrubribs #ribs #itsjack ITS JACK BBQ LLC 🍋 LEMON PEPPER RIBS Flavor you can see. Tender, Juicy & Packed with Flava! @itsjackbbq #lemonpepperribs #ribs #itsjack 🔥 MEMORIAL DAY IS COMING! 🔥 Don’t show up to the cookout with boring food 😮💨 Let ITS JACK BBQ bring the flavor!",
+    "url": "https://www.facebook.com/p/ITS-JACK-BBQ-61573656056776/",
+    "pass": 3
+   },
+   {
+    "quote": "Itsjackcole - Facebook Feb 22, 2025 · Itsjackcole. 1,548 followers. I'm Jack Cole. Welcome to my page. I make content about video editing, videography and how to make m",
+    "url": "https://www.facebook.com/ItsJackCole/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Jack (@itsjackjordan) / X more active on BlueSky 🦋 ⬇️ It’s so refreshing to listen to brand new creative artists such as @itsjackjordan like seriously take some time to seek out true creativity his sounds are amazing 🖤",
+    "url": "https://x.com/itsjackjordan",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.itsjack.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itsjack.com/portal-solutions/local-transfers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itsjack.com/portal-solutions/international-transfers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itsjack.com/portal-solutions/business-banking",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itsjack.com/api-solutions/api-disbursement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itsjack.com/api-solutions/api-fx-disburse",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itsjack.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://github.com/ItsssssJack",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=pLnF3-nRZWU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/hiraishi_lab/n/n9eb1ff4392f2",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://intertekjp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business.itsjack.com/company-transaction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nozominetworks.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.com/ja-jp/about-jll/japan-information",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/@ITSUKAJAPANTRAVEL",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://business.itsjack.com/company-transaction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://business-debit.itsjack.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.itsjack.com/case-studies/page/4/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/itsjack.com",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://1001startup.id/company/jack",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gritt.io/company/itsjack/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/handshake-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/itsjack",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/Its/jack",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://np.linkedin.com/in/its-jack-5bb852352",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/itsjack-greenwood-19336430a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/ITS-JACK-BBQ-61573656056776/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ItsJackCole/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/itsjackjordan",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Itsjack 日本 導入",
+   "results": [
+    "https://www.itsjack.com/",
+    "https://github.com/ItsssssJack",
+    "https://www.youtube.com/watch?v=pLnF3-nRZWU",
+    "https://note.com/hiraishi_lab/n/n9eb1ff4392f2",
+    "https://redjourney.jp/news/jack",
+    "https://prtimes.jp/main/html/rd/p/000000020.000028561.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2610/20/news044.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Itsjack 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://intertekjp.com/",
+    "https://business.itsjack.com/company-transaction",
+    "https://ja.nozominetworks.com/company",
+    "https://www.jll.com/ja-jp/about-jll/japan-information",
+    "https://isit-japan.com/",
+    "https://www.djk.co.jp/en/",
+    "https://www.sick.com/jp/ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Itsjack Japan",
+   "results": [
+    "https://www.itsjack.com/about",
+    "https://www.youtube.com/@ITSUKAJAPANTRAVEL",
+    "https://business.itsjack.com/company-transaction",
+    "https://business-debit.itsjack.com/",
+    "https://www.youtube.com/@Itsjack_Official",
+    "https://www.itsjack.com/",
+    "https://github.com/ItsssssJack"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Itsjack manufacturing customer case study",
+   "results": [
+    "https://blog.itsjack.com/case-studies/page/4/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.casestudies.com/",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://www.itsjack.com/use-cases/payment-companies",
+    "https://www.itsjack.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Itsjack white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.its-group.com/become-a-reseller",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://thepartnermasters.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Itsjack founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/itsjack.com",
+    "https://1001startup.id/company/jack",
+    "https://www.gritt.io/company/itsjack/",
+    "https://getlatka.com/companies/handshake-1",
+    "https://www.gofractional.com/companies/jack-morton-worldwide",
+    "https://business.itsjack.com/company-transaction",
+    "https://www.itsjack.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Itsjack",
+   "results": [
+    "https://note.com/tsukajack/n/n4ef40c1dda42?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/jack1987yuhin/n/n50b9fd94c43b?hl=en",
+    "https://note.com/922456/n/ne506cda78ed5",
+    "https://note.com/fond_clam2634/n/n06d26defb95d",
+    "https://note.com/modern_ferret431/n/n37965c97c3d3"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Itsjack",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Itsjack",
+   "results": [
+    "https://www.linkedin.com/company/itsjack",
+    "https://www.linkedin.com/pub/dir/Its/jack",
+    "https://np.linkedin.com/in/its-jack-5bb852352",
+    "https://uk.linkedin.com/in/itsjack-greenwood-19336430a",
+    "https://in.linkedin.com/company/it-jack-ltd",
+    "https://pk.linkedin.com/in/its-jack-74a51a3b2",
+    "https://in.linkedin.com/in/its-jack-608427378"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Itsjack",
+   "results": [
+    "https://www.facebook.com/p/ITS-JACK-BBQ-61573656056776/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/p/Its-Jack-61557395400338/",
+    "https://www.facebook.com/ItsJackCole/",
+    "https://www.facebook.com/p/Itsjackearly-61587270189933/",
+    "https://www.facebook.com/Itsjack2026/",
+    "https://www.facebook.com/61573656056776/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Itsjack note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://note.com/jackinvest",
+    "https://note.com/junk_ceo",
+    "https://www.youtube.com/@ItsJackOfficial/playlists",
+    "https://note.com/kindle_note",
+    "https://www.itsjack.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Itsjack X 投稿",
+   "results": [
+    "https://x.com/itsjackjordan",
+    "https://x.com/itsjack/status/2120441045917835303",
+    "https://x.com/itsjack/status/2105298698267750830",
+    "https://x.com/itsjack/status/2113251677369491680",
+    "https://x.com/itsjack/status/2107423764040307189",
+    "https://x.com/IT_S__JACK",
+    "https://www.itsjack.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部29頁・検索12回）"
+ }
+}

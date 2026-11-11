@@ -1,0 +1,1513 @@
+{
+ "name": "Inductive Automation",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T18:52:47.177719+00:00",
+ "official_url": "https://inductiveautomation.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$57,000",
+    "url": "https://prospeo.io/c/inductive-automation-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/inductive-automation-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "90 Blue Ravine Road, Folsom, CA 95630, US",
+    "url": "https://prospeo.io/c/inductive-automation-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "visualization, and an enterprise historian.",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Approach to Our AI Framework in",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Approach to Our AI Framework in Ignition 2027",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Easily control, track, display, and analyze your processes.",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Track your production, manage recipes, calculate OEE, and more.",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Design Like a Pro: Mobile-Responsive HMIs for Any Screen",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "throughout an enterprise, without limits. It consists of the",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "installation to an enterprise-wide system — so it can be tailored to fit your specific",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ignition connects seamlessly to any SQL database and to practically any PLC through",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "test a full project in Ignition without buying a license. Once you’re ready, you can",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "mode by removing the two-hour timeout. All your previous work will be saved with no",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use it as long as you want. Start building your Ignition SCADA or Digital Transformation project",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "4IR Solutions | Premier Technology Provider with Inductive Automation",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Inductive Automation Premier Technology Provider",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "4IR Solutions provides an easy way to deploy Ignition® and its technology provider ecosystem into",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "provide 24/7 support. In addition, 4IR Solutions provides consulting services to aid",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "to deploy Ignition both on-premises and in the cloud while reducing the required labor,",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "FactoryStack is 4IR’s flagship platform that provides fully managed Ignition in",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "include other complementary software to meet the needs of enterprise clients.",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "PharmaStack provides fully managed Ignition in the cloud, tailored specifically",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "4IR Solutions provides guidance and consulting for customers who are in all phases of",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "build a sensible and practical roadmap to help integrators and end users achieve the",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "value promised by harnessing the power of the cloud.",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We are impressed with 4IR Solutions’ comprehensive hybrid cloud platform,",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "easier, and saves us time and money with their comprehensive management. It’s a",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "49 min video",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "19 min video",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Ignition Community Live: Practical Ways to Use Ignition to Achieve",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "5 min video",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Premier Tech Provider Solutions",
+    "url": "https://inductiveautomation.com/partners/integrator-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Ignition Training & Certification",
+    "url": "https://inductiveautomation.com/partners/integrator-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Ignition integrators are building innovative, production-ready solutions that deliver",
+    "url": "https://inductiveautomation.com/partners/integrator-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Ignition and aligned technologies, developed by Premier and Gold Integrators. These",
+    "url": "https://inductiveautomation.com/partners/integrator-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Inductive Automation Premier Technology Provider: Sepasoft",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "Inductive Automation Premier Technology Provider",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "Sepasoft develops innovative manufacturing execution system (MES) solutions that provide",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "floor operations and low-code tools to improve production efficiency, minimize waste,",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "enterprise control system integration",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-Wide Scalability:",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect multiple MES Ignition Gateways across your entire enterprise to",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect to all your operational data, improve effectiveness, and reduce",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "Transform Your MES Process with Sepasoft’s Modules for Ignition",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "Batch Procedure Module for Ignition",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "The Batch Procedure Module adds batch processing, continuous processing, and general",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "procedure control, based on the ISA-88 Standard, to the Ignition® Platform.",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "This paperless, fully integrated solution can provide production control and track product from the raw materials to",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "issues leading to quality problems and deliver and analyze your SPC data in real-time.",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "process or system recipes.",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "Securely and easily manage production-related documents that are critical to",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "safety, quality, and overall production efficiency.",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "Enables seamless integration between your enterprise systems and your",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "See how high-tech manufacturer Samtec realizes continuous improvement with the Sepasoft OEE",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "SugarCreek Leverages Ignition for Continuous Improvement",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "5 min video",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "Hunter Industries automate, expedite data processing",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "6 min video",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "best practices and common pitfalls of implementing an MES system.",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "Opto 22 | Premier Technology Provider with Inductive Automation",
+    "url": "https://inductiveautomation.com/partners/technology-providers/opto22/",
+    "pass": 1
+   },
+   {
+    "quote": "Inductive Automation Premier Technology Provider",
+    "url": "https://inductiveautomation.com/partners/technology-providers/opto22/",
+    "pass": 1
+   },
+   {
+    "quote": "including Ethernet I/O and edge-programmable industrial controllers, they provide reliable",
+    "url": "https://inductiveautomation.com/partners/technology-providers/opto22/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial Automation Software Solutions by Inductive Automation",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Collect all your data, build any industrial application, and scale your system without limits.",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet Ignition® — The Industrial Automation Platform",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sparking Digital Transformation for industrial automation operations since 2003,",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "industrial application, and instantly web-deploy clients to anyone, anywhere.",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "virtually any kind of industrial software application – SCADA, IIoT, MES and beyond – all on",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Easily create and deliver dynamic, database-driven industrial reports.",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AriZona Beverages: SCADA & MES Connect with SAP in New Plant",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ignition software is the first truly universal industrial software application platform",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "for connecting all your data, and designing and deploying industrial applications",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "functionality, empowering the creation of virtually any kind of industrial application",
+    "url": "https://inductiveautomation.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Seamlessly scale your plant floor systems with edge and hybrid cloud-based",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "4IR Solutions offers a fully managed hybrid cloud infrastructure that enables manufacturers",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "FactoryStack is 4IR’s flagship platform that provides fully managed Ignition in",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Strategic Partner Modules. In addition, FactoryStack can be customized to",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "for life sciences and pharmaceutical manufacturers. Built on the FactoryStack",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "FactoryStack™. Using FactoryStack™ makes us more secure, lets us keep track of changes",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "game changer for plant floor applications.\"",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Cameco Fuel Manufacturing, Inc.",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Life Sciences and Manufacturing",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial organizations, particularly in regulated industries like",
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Automation Integrator Solutions: Find Experts",
+    "url": "https://inductiveautomation.com/partners/integrator-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Sepasoft develops innovative manufacturing execution system (MES) solutions that provide",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "finished goods. Sepasoft MES empowers manufacturers with real-time visibility of plant",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "reduce total cost of ownership (TCO), and other lean manufacturing benefits.",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "low-code functionality you need most. Design manufacturing workflows, optimize",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "Ignition-powered manufacturing floor.",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "See how high-tech manufacturer Samtec realizes continuous improvement with the Sepasoft OEE",
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "pass": 1
+   },
+   {
+    "quote": "Opto 22 is a USA-based manufacturer of hardware and software for industrial automation,",
+    "url": "https://inductiveautomation.com/partners/technology-providers/opto22/",
+    "pass": 1
+   },
+   {
+    "quote": "including Ethernet I/O and edge-programmable industrial controllers, they provide reliable",
+    "url": "https://inductiveautomation.com/partners/technology-providers/opto22/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Controller) and",
+    "url": "https://inductiveautomation.com/partners/technology-providers/opto22/",
+    "pass": 1
+   },
+   {
+    "quote": "industrial package with web-based configuration, commissioning, and IIoT",
+    "url": "https://inductiveautomation.com/partners/technology-providers/opto22/",
+    "pass": 1
+   },
+   {
+    "quote": "The GRV-EPIC-PR1 and GRV-EPIC-PR2 Edge Programmable Industrial Controllers are",
+    "url": "https://inductiveautomation.com/partners/technology-providers/opto22/",
+    "pass": 1
+   },
+   {
+    "quote": "and visualization at the edge of your network and are ideal for Industrial",
+    "url": "https://inductiveautomation.com/partners/technology-providers/opto22/",
+    "pass": 1
+   },
+   {
+    "quote": "EPIC® Learning Center is a comprehensive training kit for Industrial",
+    "url": "https://inductiveautomation.com/partners/technology-providers/opto22/",
+    "pass": 1
+   },
+   {
+    "quote": "Community Session | Manufacturing",
+    "url": "https://inductiveautomation.com/partners/technology-providers/opto22/",
+    "pass": 1
+   },
+   {
+    "quote": "data from the plant floor. Grantek and Opto 22 will share and demo...",
+    "url": "https://inductiveautomation.com/partners/technology-providers/opto22/",
+    "pass": 1
+   },
+   {
+    "quote": "to build the future of industrial automation. We trust and",
+    "url": "https://inductiveautomation.com/partners/strategic-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Cirrus Link is a MQTT-centric industrial automation solutions",
+    "url": "https://inductiveautomation.com/partners/strategic-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "data infrastructure that modern industrial systems depend on, from",
+    "url": "https://inductiveautomation.com/partners/strategic-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "from plant floor to cloud.",
+    "url": "https://inductiveautomation.com/partners/strategic-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Strategic Partners offer specialized industrial expertise — from data management to IIoT.",
+    "url": "https://inductiveautomation.com/partners/strategic-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Inductive Automation® has a simple mission: to create industrial software that empowers our customers to swiftly turn",
+    "url": "https://inductiveautomation.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Take a look at the complex process of fractionation and learn how one plant boosted efficiency with the help of Ignition.",
+    "url": "https://inductiveautomation.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "drivers to connect all your industrial data and devices into one central hub. The Ignition",
+    "url": "https://inductiveautomation.com/pricing/solution-suites",
+    "pass": 1
+   },
+   {
+    "quote": "Build powerful mobile-responsive industrial applications like SCADA, HMI, reporting, and more.",
+    "url": "https://inductiveautomation.com/pricing/solution-suites",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate your industrial systems with your enterprise data for smarter decisions and sustained growth.",
+    "url": "https://inductiveautomation.com/pricing/solution-suites",
+    "pass": 1
+   },
+   {
+    "quote": "IIoT Software | Ignition Industrial IoT Platform",
+    "url": "https://inductiveautomation.com/solutions/iiot",
+    "pass": 1
+   },
+   {
+    "quote": "The Best Industrial IoT Software for Efficiency, Connectivity & Data Insights",
+    "url": "https://inductiveautomation.com/solutions/iiot",
+    "pass": 1
+   },
+   {
+    "quote": "Ignition industrial application platform",
+    "url": "https://inductiveautomation.com/solutions/iiot",
+    "pass": 1
+   },
+   {
+    "quote": "Revolutionize your industrial operations with increased connectivity and better data.",
+    "url": "https://inductiveautomation.com/solutions/iiot",
+    "pass": 1
+   },
+   {
+    "quote": "Benefits of Using Ignition IIoT (Industrial Internet of Things):",
+    "url": "https://inductiveautomation.com/solutions/iiot",
+    "pass": 1
+   },
+   {
+    "quote": "The Industrial Internet of Things (IIoT) applies the principle of the Internet of Things",
+    "url": "https://inductiveautomation.com/solutions/iiot",
+    "pass": 1
+   },
+   {
+    "quote": "(IoT) — a group of connected devices that exchange data over the Internet — to an industrial",
+    "url": "https://inductiveautomation.com/solutions/iiot",
+    "pass": 1
+   },
+   {
+    "quote": "intelligent devices and industrial equipment to form a highly efficient pipeline of data.",
+    "url": "https://inductiveautomation.com/solutions/iiot",
+    "pass": 1
+   },
+   {
+    "quote": "specifically to meet the demands of industrial control systems; it’s extremely lightweight,",
+    "url": "https://inductiveautomation.com/solutions/iiot",
+    "pass": 1
+   },
+   {
+    "quote": "MQTT, launching an MQTT server in the cloud, and connecting that data to industrial and",
+    "url": "https://inductiveautomation.com/solutions/iiot",
+    "pass": 1
+   },
+   {
+    "quote": "organizations the power to create their Industrial IoT networks.",
+    "url": "https://inductiveautomation.com/solutions/iiot",
+    "pass": 1
+   },
+   {
+    "quote": "With Ignition, you can build an MQTT infrastructure, design any kind of industrial application, and",
+    "url": "https://inductiveautomation.com/solutions/iiot",
+    "pass": 1
+   },
+   {
+    "quote": "Collect More Industrial Data & Make Better Use Of It",
+    "url": "https://inductiveautomation.com/solutions/iiot",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "connectivity for OEMs, end-users, and system integrators. Additionally, Opto 22 provides",
+    "url": "https://inductiveautomation.com/partners/technology-providers/opto22/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "remote operations monitoring, and data acquisition. Specializing in electronic equipment",
+    "url": "https://inductiveautomation.com/partners/technology-providers/opto22/",
+    "pass": 1
+   },
+   {
+    "quote": "Inductive Automation offers great benefits like full health coverage for employees, and fun",
+    "url": "https://inductiveautomation.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "joining the Inductive Automation team is being part of a unique culture where individual",
+    "url": "https://inductiveautomation.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Not only do we have some of the brightest employees you’ll ever meet, but they are some of the kindest too.",
+    "url": "https://inductiveautomation.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "unlimited data acquisition and development power of the",
+    "url": "https://inductiveautomation.com/solutions/iiot",
+    "pass": 1
+   },
+   {
+    "quote": "by the barrel. But many companies struggle to get data into the hands of those who need it",
+    "url": "https://inductiveautomation.com/solutions/digital-transformation",
+    "pass": 1
+   },
+   {
+    "quote": "as part of a larger HMI/SCADA software solution, Ignition has the unique ability to connect",
+    "url": "https://inductiveautomation.com/solutions/hmi",
+    "pass": 1
+   },
+   {
+    "quote": "Download list of 6 companies using Inductive Automation in Japan. This curated list is available for download and comes enriched with vital company specifics, including industry classification, organizational size, geographical location, funding rounds, and revenue figures, among others.",
+    "url": "https://theirstack.com/en/technology/inductive-automation/jp",
+    "pass": 3
+   },
+   {
+    "quote": "You can customize this data to your needs by filtering for geography, industry, company size, revenue, technology usage, job postions and more. You can download the data in Excel or CSV format.",
+    "url": "https://theirstack.com/en/technology/inductive-automation/jp",
+    "pass": 3
+   },
+   {
+    "quote": "employees,",
+    "url": "https://assets.inductiveautomation.com/s3fs-production/resources/success/IA+Case+Study+PDF_3.pdf?VersionId=ovUeRgpKnLevzGEQw3g1nmG._wltwdqF",
+    "pass": 3
+   },
+   {
+    "quote": "Inductive Automation Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/inductive-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Inductive Automation Revenue",
+    "url": "https://prospeo.io/c/inductive-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Inductive Automation",
+    "url": "https://prospeo.io/c/inductive-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/inductive-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/inductive-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/inductive-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Inductive Automation?",
+    "url": "https://prospeo.io/c/inductive-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Inductive Automation generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/inductive-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/inductive-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/inductive-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Inductive Automation have?",
+    "url": "https://prospeo.io/c/inductive-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/inductive-automation-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Feel free to email our HR team at jobs@inductiveautomation.com.",
+    "url": "https://inductiveautomation.com/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Set up an alarming system that sends notifications to you through email, SMS, and voice.",
+    "url": "https://inductiveautomation.com/solutions/iiot",
+    "pass": 1
+   },
+   {
+    "quote": "Set up an alarming system that sends notifications to you through email, SMS, and voice.",
+    "url": "https://inductiveautomation.com/solutions/digital-transformation",
+    "pass": 1
+   },
+   {
+    "quote": "Receive and acknowledge alarm notifications via email, voice, or text for enhanced",
+    "url": "https://inductiveautomation.com/solutions/alarm-notification",
+    "pass": 1
+   },
+   {
+    "quote": "If your license does not have support/upgrade protection, you’ll have to pay 65% of the software’s current retail price in order to do a major upgrade of Ignition. You will also be unable to access support via phone, web portal, or email after your 90-day post-purchase complimentary phone support period has ended.",
+    "url": "https://inductiveautomation.com/pricing/edition",
+    "pass": 1
+   },
+   {
+    "quote": "sales@inductiveautomation.com",
+    "url": "https://inductiveautomation.com/pricing/training",
+    "pass": 1
+   },
+   {
+    "quote": "Please email Aaron Block, Inductive Automation’s Case Study Program Manager, at ablock@inductiveautomation.com.",
+    "url": "https://page.inductiveautomation.com/case-study-application",
+    "pass": 3
+   },
+   {
+    "quote": "section of the Inductive Automation website. Additionally, they are shared in IA’s weekly newsletter, social media accounts, and a single-subject email.",
+    "url": "https://page.inductiveautomation.com/case-study-application",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/inductive-automation-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "SCADA | Ignition – 製造ライン統合管理DX – 東京貿易テクノシステム",
+    "url": "https://www.tbts.co.jp/product/scada/ignition/",
+    "pass": 3
+   },
+   {
+    "quote": "※動画は日本語字幕付きでご視聴いただけます",
+    "url": "https://www.tbts.co.jp/product/scada/ignition/",
+    "pass": 3
+   },
+   {
+    "quote": "各ムービー画面右下のオプションより「日本語」を選択してご覧ください",
+    "url": "https://www.tbts.co.jp/product/scada/ignition/",
+    "pass": 3
+   },
+   {
+    "quote": "Ignition／SCADA 導入事例 | つくばソフトウェアエンジニアリング株式会社",
+    "url": "https://tsukubasoftware.com/blog/202606130949/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、日本国内のIgnition導入パートナーとして、Ignitionを中核としたSCADAソリューションで製造業・インフラ業界のデータ活用と設備統合をご支援しています",
+    "url": "https://tsukubasoftware.com/blog/202606130949/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、当社が手がけた代表的なIgnition導入事例をご紹介します",
+    "url": "https://tsukubasoftware.com/blog/202606130949/",
+    "pass": 3
+   },
+   {
+    "quote": "つくばソフトウェアエンジニアリング株式会社（TSE）は、産業用SCADAプラットフォーム「Ignition」（Inductive Automation社）を中核技術に据え、製造業・インフラ業界における",
+    "url": "https://tsukubasoftware.com/blog/202606130949/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内有数のIgnition導入パートナー",
+    "url": "https://tsukubasoftware.com/blog/202606130949/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、SCADA／Ignitionの導入をご検討中のお客様に向けて、当社の代表的な導入事例と、そこで提供している価値をご紹介します",
+    "url": "https://tsukubasoftware.com/blog/202606130949/",
+    "pass": 3
+   },
+   {
+    "quote": "DXS部の仕事と東京事務所での働き方を聞きました",
+    "url": "https://tsukubasoftware.com/blog/202606130949/",
+    "pass": 3
+   },
+   {
+    "quote": "Companies that use Inductive Automation in Japan (6) | TheirStack.com",
+    "url": "https://theirstack.com/en/technology/inductive-automation/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Companies that use Inductive Automation in Japan",
+    "url": "https://theirstack.com/en/technology/inductive-automation/jp",
+    "pass": 3
+   },
+   {
+    "quote": "List of companies using Inductive Automation in Japan",
+    "url": "https://theirstack.com/en/technology/inductive-automation/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Download list of 6 companies using Inductive Automation in Japan. This curated list is available for download and comes enriched with vital company specifics, including industry classification, organizational size, geographical location, funding rounds, and revenue figures, among others.",
+    "url": "https://theirstack.com/en/technology/inductive-automation/jp",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Industrial Automation Software Solutions by Inductive Automation — Sparking Digital Transformation for industrial automation operations since 2003, Ignition seamlessly collects all your data and allows you to easily design any kind of industrial application, and instantly web-deploy clients to anyone, anywhere.",
+    "url": "https://inductiveautomation.com/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "SCADA | Ignition – 製造ライン統合管理DX – 東京貿易テクノシステムIgnitionの評価・機能・価格【製造業向け】 | ITトレンド for 製造業Ignition | 次世代のデータ管理を実現するSCADAソフトIgnition特設サイト - tfusion.co.jpニーズに合わせたシステム構築が可能なSCADA、Ingitonを紹介 — Ignitionで実現できること 1. 設備のリアルタイム監視・リモートコントロール 2. 設備PLC・センサー情報収集 3. タンク内容量、流量の把握 4. アラート設定により異常の見逃しを防止 5. OS、Webブラウザ、タブレットアプリ等マルチプラットフォーム対応により柔軟な運用が可能 See full list on tbts.co.jp New SCADA「Ignition」は製造ラインの統合監視・制御ソリューションで",
+    "url": "https://www.tbts.co.jp/product/scada/ignition/",
+    "pass": 3
+   },
+   {
+    "quote": "Ignition | 次世代のデータ管理を実現するSCADAソフト — IgnitionはInductiveAutomation社が提供するSCADAソフトウェアで、デジタル情報連携によるスマートファクトリーの実現をサポートします。 (当社は Ignitionのインテグレータ として Inductive Automation社 より認定されています。 )",
+    "url": "https://www.tse.co.jp/Software/Ignition/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Distributor Program | Inductive Automation — Authorized Ignition Distributors provide local business development, sales, support, and other services in countries where Inductive Automation does not maintain a physical presence. Working with an authorized distributor means a higher level of service and support from a local partner that understands the unique needs of your market.",
+    "url": "https://inductiveautomation.com/distributors",
+    "pass": 3
+   },
+   {
+    "quote": "SCADA | Ignition – 製造ライン統合管理DX – 東京貿易テクノシステムIgnition | 次世代のデータ管理を実現するSCADAソフトCompanies that use Inductive Automation in Japan (6 ...Ignition特設サイト - tfusion.co.jpOne Industrial Platform for SCADA, IIoT, MES, and More | IgnitionIgnition – TOKYO BOEKI TECHNO-SYSTEM LTD. — Ignitionで実現できること 1. 設備のリアルタイム監視・リモートコントロール 2. 設備PLC・センサー情報収集 3. タンク内容量、流量の把握 4. アラート設定により異常の見逃しを防止 5. OS、Webブラウザ、タブレットアプリ等マルチプラットフ",
+    "url": "https://www.tbts.co.jp/product/scada/ignition/",
+    "pass": 3
+   },
+   {
+    "quote": "Companies that use Inductive Automation in Japan (6 ... — Download a list of 6 companies that use Inductive Automation in Japan with enriched data including industry, company size, location, funding rounds, and revenue figures.",
+    "url": "https://theirstack.com/en/technology/inductive-automation/jp",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Automation Software Solutions by Inductive Automation — Whether you’re new to Ignition or an experienced user, IU courses offer an opportunity to learn basic and advanced Ignition skills for free online. Discover Ignition’s latest features — including a secure AI integration framework, next-generation visualization, and an enterprise historian.",
+    "url": "https://inductiveautomation.com/?lang=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Ignition特設サイト - tfusion.co.jp — Ignitionを開発したInductive Automation社の公認インテグレーターです。 開発のご相談をお待ちしております。",
+    "url": "http://www.tfusion.co.jp/ignition/",
+    "pass": 3
+   },
+   {
+    "quote": "Ignition Case Studies: Industrial Automation Success Stories — See for yourself how Ignition is improving SCADA and other automation projects in every industry. View real-world case studies from Inductive Automation.",
+    "url": "https://inductiveautomation.com/resources/casestudy",
+    "pass": 3
+   },
+   {
+    "quote": "IA Case Study PDF - assets.inductiveautomation.com — At Inductive Automation, our mission is to create industrial software that empowers our customers to swiftly turn great ideas into reality by removing all technological and economic obstacles.",
+    "url": "https://assets.inductiveautomation.com/s3fs-production/resources/success/IA+Case+Study+PDF_3.pdf?VersionId=ovUeRgpKnLevzGEQw3g1nmG._wltwdqF",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: SugarCreek drives real-time operations and growth ... — Using Inductive Automation’s Ignition for HMI, SCADA, MES, and IIoT functions, SugarCreek gained real-time line visibility, improved control, and stronger continuous improvement capabilities across its plants.",
+    "url": "https://www.casestudies.com/company/inductive-automation/case-study/sugarcreek-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Ignition® - Case Study Application - Inductive Automation — Create a case study with Inductive Automation! Thousands of organizations around the world use Ignition® to improve their processes. Share your story.",
+    "url": "https://page.inductiveautomation.com/case-study-application",
+    "pass": 3
+   },
+   {
+    "quote": "Inductive Automation - Overview, News & Similar companies ... — California-based industrial automation and IIoT manufacturer Opto 22 announces a new, elevated partnership status with Inductive Automation as a Solution Partner.",
+    "url": "https://www.zoominfo.com/c/inductive-automation-llc/75646852",
+    "pass": 3
+   },
+   {
+    "quote": "Inductive Automation – Revenue Estimate & Market Landscape – 2026 — Discover Inductive Automation's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/inductive-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Inductive Automation Revenue, Funding & ValuationInductive Automation: Revenue, Competitors, AlternativesInductive Automation Information - RocketReachInductive Automation Revenue 2025: $41M Est. - getlatka.com — Inductive Automation has revenue of $20,500,000, estimated valuation of $65,600,000. Find contacts and company information on Prospeo. Inductive Automation top competitors are InduSoft We",
+    "url": "https://prospeo.io/c/inductive-automation-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Inductive Automation: Revenue, Competitors, Alternatives — Inductive Automation top competitors are InduSoft Web Studio, Bachmann electronic GmbH and Secomea A/S and they have annual revenue of $225.5M and 511 employees.",
+    "url": "https://growjo.com/company/Inductive_Automation",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Inductive Automation (@InductiveAuto) / X Have you seen this course in our FREE Inductive University? The lessons will introduce you to the basic foundations of module development with the Ignition SDK (Software Development Kit).",
+    "url": "https://x.com/inductiveauto",
+    "pass": 3
+   },
+   {
+    "quote": "Inductive Automation on X: \"Programmable logic controllers ... 1 day ago · Programmable logic controllers (PLCs) are still running the world around us after their introduction over 50 years ago. Learn why they're still a key component in modern automation: bit.ly/3od3sIz 10:25 PM · Nov 10, 2026 · 37 Views",
+    "url": "https://x.com/InductiveAuto/status/2120281610914324792",
+    "pass": 3
+   },
+   {
+    "quote": "Inductive Automation on X: \"Considering an upgrade from ... Oct 7, 2026 · Ignition 8.3 One Year Later: Key Changes for Industrial Automation Teams From hallam-ics.com 1:24 PM · Oct 7, 2026 · 51",
+    "url": "https://x.com/InductiveAuto/status/2107929962539889122",
+    "pass": 3
+   },
+   {
+    "quote": "Inductive Automation on X: \"When building with Ignition’s ... 5 days ago · Inductive Automation on X: \"When building with Ignition’s Industrial Historian Solution Suite, you have access to a wide array of tag historians to fit your specific needs.",
+    "url": "https://x.com/InductiveAuto/status/2118834571273818323",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Inductive Automation - LinkedIn Inductive Automation creates industrial software that empowers organizations to swiftly turn great ideas into reality by removing all technological and economic obstacles.",
+    "url": "https://www.linkedin.com/company/inductive-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Inductive Automation Jobs in United States (11,000+ Open ... Today’s top 11,000+ Inductive Automation jobs in United States. Leverage your professional network, and get hired. New Inductive Automation jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/inductive-automation-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Inductive Automation on LinkedIn: The 100 Top-Selling ... The Programmable Logic Controller (PLC) lab at Michigan Tech College of Computing (EERC427) has received a generous software donation valued at $590,320 from Inductive Automation.",
+    "url": "https://in.linkedin.com/posts/inductive-automation_top-100-integrator-rankings-inductive-automation-activity-6971552333398724608-qoxf",
+    "pass": 3
+   },
+   {
+    "quote": "Inductive Automation Jobs in India (4,000+ Open Roles ... Today’s top 4,000+ Inductive Automation jobs in India. Leverage your professional network, and get hired. New Inductive Automation jobs added daily.",
+    "url": "https://in.linkedin.com/jobs/inductive-automation-jobs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Inductive Automation | Folsom CA - FacebookNew & Free on the Ignition Exchange: Pan Zoom iFrame (With ...See the full list of the 100... - Inductive Automation | FacebookInductive Automation has a new VP of Sales — and it’s a full ...The IA Department of Funk is the official Inductive ...Inductive - With #ICCLevelUp in the rearview, it's time to ...Inductive Automation & Ignition at 2025 ProveIt! ",
+    "url": "https://www.facebook.com/InductiveAutomation/",
+    "pass": 3
+   },
+   {
+    "quote": "New & Free on the Ignition Exchange: Pan Zoom iFrame (With ...See the full list of the 100... - Inductive Automation | FacebookInductive Automation has a new VP of Sales — and it’s a full ...The IA Department of Funk is the official Inductive ...Inductive - With #ICCLevelUp in the rearview, it's time to ...Inductive Automation & Ignition at 2025 ProveIt! Conference Dec 22, 2023 · New & Free on the",
+    "url": "https://www.facebook.com/InductiveAutomation/videos/new-free-on-the-ignition-exchange-pan-zoom-iframe-with-touch-supportpan-zoom-vie/851365513401377/",
+    "pass": 3
+   },
+   {
+    "quote": "See the full list of the 100... - Inductive Automation | Facebook Apr 2, 2025 · Interested in where AI fits into industrial automation? Our CTO Carl Gould just posted a detailed look at Ignition Catalyst, the new optional AI framework heading to Ignition 2027.",
+    "url": "https://www.facebook.com/InductiveAutomation/posts/see-the-full-list-of-the-100-topselling-ignition-integrators-current-top-inflexi/1161195106016762/",
+    "pass": 3
+   },
+   {
+    "quote": "Inductive Automation has a new VP of Sales — and it’s a full ...The IA Department of Funk is the official Inductive ...Inductive - With #ICCLevelUp in the rearview, it's time to ...Inductive Automation & Ignition at 2025 ProveIt! Conference Feb 26, 2025 · Inductive Automation has a new VP of Sales — and it’s a full-circle moment for Chris McLaughlin! Chris makes a difference everywhere he goes, an",
+    "url": "https://www.facebook.com/InductiveAutomation/videos/inductive-automation-has-a-new-vp-of-sales-and-its-a-full-circle-moment-for-chri/629487863006907/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://inductiveautomation.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/partners/integrator-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/partners/technology-providers/opto22/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/partners/strategic-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/partners/technology-providers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/about/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/partners/technology-providers/sepasoft/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/pricing/solution-suites",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/solutions/iiot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/solutions/enterprise",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/solutions/digital-transformation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/solutions/hmi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/solutions/alarm-notification",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/partners/technology-providers/4ir-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/pricing/edition",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/pricing/training",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inductiveautomation.com/customers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://assets.inductiveautomation.com/static/images/logos/inductive-automation-logo.b565238b0b65.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.inductiveautomation.com/static/images/graphics/AboutUs_VisualDesign_Customers_Sierra_Nevada.f2116bea6f0b.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.inductiveautomation.com/static/images/customerlogos/CompanyLogos_Shell.bb00c7456c45.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.inductiveautomation.com/static/images/customerlogos/CompanyLogos_ADM.23e65c2bba06.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.tbts.co.jp/product/scada/ignition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tse.co.jp/Software/Ignition/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsukubasoftware.com/blog/202606130949/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tbts.co.jp/product/scada/ignition/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://theirstack.com/en/technology/inductive-automation/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tse.co.jp/Software/Ignition/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://assets.inductiveautomation.com/s3fs-production/resources/success/IA+Case+Study+PDF_3.pdf?VersionId=ovUeRgpKnLevzGEQw3g1nmG._wltwdqF",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.casestudies.com/company/inductive-automation/case-study/sugarcreek-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://page.inductiveautomation.com/case-study-application",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/inductive-automation-llc/75646852",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/99107-29",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/inductive-automation",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/inductive-automation-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/inductiveauto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/InductiveAuto/status/2120281610914324792",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/InductiveAuto/status/2107929962539889122",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/InductiveAuto/status/2118834571273818323",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/inductive-automation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/inductive-automation-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/posts/inductive-automation_top-100-integrator-rankings-inductive-automation-activity-6971552333398724608-qoxf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/jobs/inductive-automation-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/InductiveAutomation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/InductiveAutomation/videos/new-free-on-the-ignition-exchange-pan-zoom-iframe-with-touch-supportpan-zoom-vie/851365513401377/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/InductiveAutomation/posts/see-the-full-list-of-the-100-topselling-ignition-integrators-current-top-inflexi/1161195106016762/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/InductiveAutomation/videos/inductive-automation-has-a-new-vp-of-sales-and-its-a-full-circle-moment-for-chri/629487863006907/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/inductiveauto",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Inductive Automation 日本 導入",
+   "results": [
+    "https://inductiveautomation.com/?lang=ja",
+    "https://www.tbts.co.jp/product/scada/ignition/",
+    "https://www.tse.co.jp/Software/Ignition/index.html",
+    "https://tsukubasoftware.com/blog/202606130949/",
+    "https://manufacture.it-trend.jp/scada/ignition-scada/",
+    "http://www.tfusion.co.jp/ignition/",
+    "https://www.scada-magazine.com/scadasoft-catalog/ignition.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inductive Automation 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://inductiveautomation.com/distributors",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://inductiveautomation.com/integrators/results",
+    "https://www.tbts.co.jp/product/scada/ignition/",
+    "http://www.tfusion.co.jp/ignition/",
+    "https://www.tse.co.jp/Software/Ignition/index.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inductive Automation Japan",
+   "results": [
+    "https://www.tbts.co.jp/product/scada/ignition/",
+    "https://theirstack.com/en/technology/inductive-automation/jp",
+    "https://inductiveautomation.com/?lang=ja",
+    "https://www.tse.co.jp/Software/Ignition/index.html",
+    "http://www.tfusion.co.jp/ignition/",
+    "https://inductiveautomation.com/ignition/",
+    "https://www.tbts.co.jp/en/product/scada/ignition/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inductive Automation manufacturing customer case study",
+   "results": [
+    "https://inductiveautomation.com/resources/casestudy",
+    "https://assets.inductiveautomation.com/s3fs-production/resources/success/IA+Case+Study+PDF_3.pdf?VersionId=ovUeRgpKnLevzGEQw3g1nmG._wltwdqF",
+    "https://www.casestudies.com/company/inductive-automation/case-study/sugarcreek-customer-case-study",
+    "https://page.inductiveautomation.com/case-study-application",
+    "https://inductiveautomation.com/resources/casestudy/dmc-manufacturing-center",
+    "https://links.inductiveautomation.com/resources/casestudy/brewery-improves-efficiency-in-multiple-areas-with-ignition",
+    "https://assets.inductiveautomation.com/s3fs-production/test_folder/PFW_Inductive_case-study_May2021.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inductive Automation white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://learn.microsoft.com/en-us/partner-center/enroll/indirect-reseller-eligibility-requirements",
+    "https://www.arista.com/en/partner/partner-program",
+    "https://www.n-able.com/partnerships/reseller-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inductive Automation founded funding employees revenue",
+   "results": [
+    "https://www.zoominfo.com/c/inductive-automation-llc/75646852",
+    "https://pitchbook.com/profiles/company/99107-29",
+    "https://compworth.com/company/inductive-automation",
+    "https://prospeo.io/c/inductive-automation-revenue",
+    "https://growjo.com/company/Inductive_Automation",
+    "https://rocketreach.co/inductive-automation-profile_b5c0c2fff42e0858",
+    "https://getlatka.com/companies/inductiveautomation.com"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Inductive Automation",
+   "results": [
+    "https://note.com/deal/n/nb58fa2c697a0?hl=en",
+    "https://note.com/seigo77",
+    "https://note.com/tag/mentor",
+    "https://note.com/akshitha/n/n3fd46b6e8888?hl=en",
+    "https://note.com/qy_research/n/nade3f099202b?hl=en",
+    "https://note.com/taida_reizi/n/nce434b91bd49",
+    "https://note.com/reading_monkey/n/naba12087bc87?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Inductive Automation",
+   "results": [
+    "https://x.com/inductiveauto",
+    "https://x.com/InductiveAuto/status/2120281610914324792",
+    "https://x.com/InductiveAuto/status/2107929962539889122",
+    "https://x.com/InductiveAuto/status/2118834571273818323",
+    "https://x.com/InductiveAuto/status/2118834585278517472",
+    "https://x.com/InductiveAuto/status/2120548631530840574",
+    "https://x.com/InductiveAuto/status/2114890831173759379"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Inductive Automation",
+   "results": [
+    "https://www.linkedin.com/company/inductive-automation",
+    "https://www.linkedin.com/jobs/inductive-automation-jobs",
+    "https://in.linkedin.com/posts/inductive-automation_top-100-integrator-rankings-inductive-automation-activity-6971552333398724608-qoxf",
+    "https://in.linkedin.com/jobs/inductive-automation-jobs",
+    "https://au.linkedin.com/company/inductive-automation-australia",
+    "https://br.linkedin.com/company/fgltda",
+    "https://au.linkedin.com/in/joyce-chiang-b89942145"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Inductive Automation",
+   "results": [
+    "https://www.facebook.com/InductiveAutomation/",
+    "https://www.facebook.com/InductiveAutomation/videos/new-free-on-the-ignition-exchange-pan-zoom-iframe-with-touch-supportpan-zoom-vie/851365513401377/",
+    "https://www.facebook.com/InductiveAutomation/posts/see-the-full-list-of-the-100-topselling-ignition-integrators-current-top-inflexi/1161195106016762/",
+    "https://www.facebook.com/InductiveAutomation/videos/inductive-automation-has-a-new-vp-of-sales-and-its-a-full-circle-moment-for-chri/629487863006907/",
+    "https://www.facebook.com/InductiveAutomation/videos/ia-dept-of-funk-music-video-innovation-unleashed/955881127576859/",
+    "https://www.facebook.com/InductiveAutomation/photos/with-icclevelup-in-the-rearview-its-time-to-look-to-the-future-we-already-have-t/1310922824377322/",
+    "https://www.facebook.com/InductiveAutomation/videos/inductive-automation-ignition-at-2025-proveit-conference/551446794172400/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inductive Automation note 社長",
+   "results": [
+    "https://links.inductiveautomation.com/about/who-we-are",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://inductiveautomation.com/blog/author/steve",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/ai_jidouka_note",
+    "https://note.com/jidouka_shacho"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inductive Automation X 投稿",
+   "results": [
+    "https://x.com/inductiveauto",
+    "https://inductiveautomation.com/",
+    "https://inductiveautomation.com/blog/",
+    "https://www.docs.inductiveautomation.com/",
+    "https://icc.inductiveautomation.com/",
+    "https://forum.inductiveautomation.com/t/introducing-ignition-2027-packed-with-ai-charting-and-historian-upgrades/117728",
+    "https://forum.inductiveautomation.com/t/2027-x-versioning-questions/117765"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部32頁・検索12回）"
+ }
+}

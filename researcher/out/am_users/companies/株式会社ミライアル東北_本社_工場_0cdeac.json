@@ -1,0 +1,602 @@
+{
+ "name": "株式会社ミライアル東北 本社・工場",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T19:07:09.828134+00:00",
+ "official_url": "https://www.miraial-tohoku.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒960-8201　福島県福島市岡島字宮沢前1-1 TEL：024-572-4765 FAX：024-572-4766",
+    "url": "https://miraial-tohoku.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　兵部 匡俊",
+    "url": "https://miraial-tohoku.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "44名（2025年12月現在）",
+    "url": "https://miraial-tohoku.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業概要",
+    "value": "樹脂・金属部品精密機械加工 真空注型 3Dデータモデリングサービス 治工具製作 3Dプリンター、光造形 樹脂射出成型 デザインモック品製作 受託測定",
+    "url": "https://miraial-tohoku.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "ミライアル東北は、創業以来蓄積してきた経験と新技術で、様々な業界の皆様に高品質の製品をスピーディーにお届けします",
+    "url": "https://miraial-tohoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "長年の経験から培ってきた技術は、製品の品質に現れ、多くのお客様にご満足いただいています",
+    "url": "https://miraial-tohoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ミライアル東北は、創業以来蓄積してきた経験と新技術で、様々な業界の皆様に高品質の製品をスピーディーにお届けします",
+    "url": "https://miraial-tohoku.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "※開発製品が多く、写真掲載できないサンプルが多数あります",
+    "url": "https://miraial-tohoku.co.jp/service/automobile/",
+    "pass": 1
+   },
+   {
+    "quote": "※開発製品が多く、写真掲載できないサンプルが多数あります",
+    "url": "https://miraial-tohoku.co.jp/service/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "受け、日々の暮らしが楽しくなる、そんな製品の開発をお手伝いしています",
+    "url": "https://miraial-tohoku.co.jp/service/livingware/",
+    "pass": 1
+   },
+   {
+    "quote": "※開発製品が多く、写真掲載できないサンプルが多数あります",
+    "url": "https://miraial-tohoku.co.jp/service/livingware/",
+    "pass": 1
+   },
+   {
+    "quote": "※開発製品が多く、写真掲載できないサンプルが多数あります",
+    "url": "https://miraial-tohoku.co.jp/service/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "エラストマーやガラス入り樹脂、金属の難削材など特殊な材料でも今までの経験とノウハウをフル活用し、高品質の製品をお届けします",
+    "url": "https://miraial-tohoku.co.jp/factory/%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "ミライアル東北の製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2051271/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(2)",
+    "url": "https://mono.ipros.com/company/detail/2051271/category/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂製品のソリ・歪み解消することができる「アニール処理」や、",
+    "url": "https://mono.ipros.com/company/detail/2051271/category/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "3Dプリンタ",
+    "url": "https://miraial-tohoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ",
+    "url": "https://miraial-tohoku.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ",
+    "url": "https://miraial-tohoku.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター、光造形",
+    "url": "https://miraial-tohoku.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "３次元CAD/CAMを導入",
+    "url": "https://miraial-tohoku.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターを導入",
+    "url": "https://miraial-tohoku.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "#3Dプリンタ",
+    "url": "https://miraial-tohoku.co.jp/service/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ",
+    "url": "https://miraial-tohoku.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ",
+    "url": "https://miraial-tohoku.co.jp/factory/%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ",
+    "url": "https://miraial-tohoku.co.jp/factory/%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ",
+    "url": "https://miraial-tohoku.co.jp/tags/%E8%96%84%E8%82%89%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ",
+    "url": "https://miraial-tohoku.co.jp/tags/%EF%BC%95%E8%BB%B8%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "#3Dプリンタ",
+    "url": "https://miraial-tohoku.co.jp/product/%E9%A0%AD%E8%93%8B%E9%AA%A8/",
+    "pass": 1
+   },
+   {
+    "quote": "実際のCT画像から作成された頭蓋骨の3Dデータから光造形で製作しました",
+    "url": "https://miraial-tohoku.co.jp/product/%E9%A0%AD%E8%93%8B%E9%AA%A8/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "自動車は、私たち生活の移動手段であり、私たち生活を支える物流の要であり、私たち生活を楽しく豊かにするパートナーである、日本の重要な基幹産業です・・・",
+    "url": "https://miraial-tohoku.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車・二輪・航空機 | 株式会社ミライアル東北",
+    "url": "https://miraial-tohoku.co.jp/service/automobile/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車は、私たち生活の移動手段であり、",
+    "url": "https://miraial-tohoku.co.jp/service/automobile/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は様々な自動車・部品メーカーからの依頼を受け、",
+    "url": "https://miraial-tohoku.co.jp/service/automobile/",
+    "pass": 1
+   },
+   {
+    "quote": "日々進化する自動車の開発の現場でお使いいだだける部品や機材をお届けしています",
+    "url": "https://miraial-tohoku.co.jp/service/automobile/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は医療機関や学術・研究機関、医療機器メーカーからの依頼を受け、医療の発展のため、様々な機器の開発に貢献しています",
+    "url": "https://miraial-tohoku.co.jp/service/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "産業機器・治具 | 株式会社ミライアル東北",
+    "url": "https://miraial-tohoku.co.jp/service/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "産業機器や各種治具の製作に取り組んでいます",
+    "url": "https://miraial-tohoku.co.jp/service/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "金型不要で量産と同じ材料から切削加工ができます",
+    "url": "https://miraial-tohoku.co.jp/product/458/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "材料は樹脂や金属など様々な種類の材料からご希望の形状を削り出します",
+    "url": "https://miraial-tohoku.co.jp/factory/%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "エラストマーやガラス入り樹脂、金属の難削材など特殊な材料でも今までの経験とノウハウをフル活用し、高品質の製品をお届けします",
+    "url": "https://miraial-tohoku.co.jp/factory/%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "特に樹脂は材料が比較的柔らかく温度変化による寸法変化が大きく、また材料によっては切り粉が絡まりやすいこともあるため、それらを考慮に入れた上で加工を行います",
+    "url": "https://miraial-tohoku.co.jp/factory/%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "バーフィーダーは材料の棒材を自動的に加工機へ送り出し、NC旋盤と連動して加工を止めずに無人で長時間加工が出来きる為、樹脂切削の量産対応が可能です",
+    "url": "https://miraial-tohoku.co.jp/factory/%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤーは電気を放電させるだけで工作物には直接接触しない非接触で加工するため、原理的にはどんなに硬い材質でも導電性さえあれば加工可能です",
+    "url": "https://miraial-tohoku.co.jp/factory/%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "スーパーエンプラ材から難削材の金属までワンチャックで加工しております",
+    "url": "https://miraial-tohoku.co.jp/product/%E6%97%8B%E7%9B%A4%E8%96%84%E8%82%89%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "バーフィーダ導入によりNC旋盤と連動して加工を止めずに無人で長時間稼働が可能となり、樹脂切削の量産加工が低コストにて対応可能です",
+    "url": "https://miraial-tohoku.co.jp/news/%E8%A8%AD%E5%82%99%E6%83%85%E5%A0%B1%E3%82%92%E8%BF%BD%E5%8A%A0%E8%87%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%97%8B%E7%9B%A4%EF%BC%9A%E3%83%90%E3%83%BC%E3%83%95%E3%82%A3%E3%83%BC%E3%83%80/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂製品のソリ・歪み解消することができる「アニール処理」や、",
+    "url": "https://mono.ipros.com/company/detail/2051271/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、５軸加工機、３軸加工機、複合旋盤を使用した樹脂・金属の加工を行っております",
+    "url": "https://mono.ipros.com/company/detail/2051271/category/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://miraial-tohoku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/service/automobile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/service/medical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/service/livingware/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/service/industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/factory/%E6%97%8B%E7%9B%A4%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/factory/%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/product/%E6%97%8B%E7%9B%A4%E8%96%84%E8%82%89%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/tags/%E8%96%84%E8%82%89%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/product/mc%E8%96%84%E8%82%89%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/product/%E9%80%8F%E6%98%8E%E4%BB%95%E4%B8%8A%E3%81%92%EF%BC%885%E8%BB%B8%E5%8A%A0%E5%B7%A5%EF%BC%89/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/tags/%EF%BC%95%E8%BB%B8%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/news/%E8%A8%AD%E5%82%99%E6%83%85%E5%A0%B1%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%9C%A7%E7%B8%AE%E6%88%90%E5%BD%A2%E6%A9%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/news/%E8%A8%AD%E5%82%99%E6%83%85%E5%A0%B1%E3%82%92%E8%BF%BD%E5%8A%A0%E8%87%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%97%8B%E7%9B%A4%EF%BC%9A%E3%83%90%E3%83%BC%E3%83%95%E3%82%A3%E3%83%BC%E3%83%80/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/product/%E3%83%AC%E3%83%B3%E3%82%BA%E3%82%A6%E3%83%AB%E3%83%86%E3%83%A0-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/product/%E9%A0%AD%E8%93%8B%E9%AA%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/product/%E3%82%AB%E3%83%A1%E3%83%A9%E7%AD%90%E4%BD%93%E3%82%A2%E3%83%AB%E3%83%9F-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/product/%E3%83%AC%E3%83%B3%E3%82%BA%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/product/%E3%83%AC%E3%83%B3%E3%82%BA%E3%83%9D%E3%83%AA%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%8D%E3%83%BC%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/product/458/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://miraial-tohoku.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2051271/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.miraial.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kando-fukushima.jp/companies/3722/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.miraial.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miraial-tohoku.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ミライアル東北 本社・工場 取扱製品 試作 小ロット",
+   "results": [
+    "https://miraial-tohoku.co.jp/company/",
+    "https://miraial-tohoku.co.jp/product/",
+    "https://mono.ipros.com/company/detail/2051271/category/",
+    "https://mono.ipros.com/company/detail/2051271/catalog/",
+    "https://www.miraial.co.jp/allproducts/",
+    "https://www.miraial.co.jp/",
+    "https://ja.nc-net.or.jp/company/34331/product/detail/30281/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ミライアル東北 本社・工場 会社概要 事業内容",
+   "results": [
+    "https://miraial-tohoku.co.jp/",
+    "https://www.miraial.co.jp/company/overview/",
+    "https://kando-fukushima.jp/companies/3722/",
+    "https://mono.ipros.com/company/detail/2051271/",
+    "https://mono.ipros.com/company/detail/2051271/category/",
+    "https://miraial-tohoku.co.jp/company/",
+    "https://www.miraial.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ミライアル東北 本社・工場 お問い合わせ メール",
+   "results": [
+    "https://miraial-tohoku.co.jp/contact/",
+    "https://www.miraial.co.jp/contact/",
+    "https://miraial-tohoku.co.jp/company/",
+    "https://www.mirai-const.co.jp/contact/",
+    "https://mirail-inc.com/contact",
+    "https://www.miraial.co.jp/contact/irform/",
+    "https://media.ivry.jp/contact_miraial/inquiry/2/new/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ミライアル東北 本社・工場",
+   "results": [
+    "https://note.com/holy_viper7334/n/nce7ba9ca8ba2",
+    "https://note.com/takayoshi_kouhou/n/n7b209263e6da",
+    "https://note.com/apt_garlic5608/n/ne0324c67da12",
+    "https://note.com/miraiweb/n/nbcf741d07aee",
+    "https://note.com/fisco_jp/n/n8a8a44991808",
+    "https://note.com/pocoa_420/n/nc390de7953ed",
+    "https://note.com/jap2050/n/nfd36821c63b1"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ミライアル東北 本社・工場",
+   "results": [
+    "https://x.com/wing120th/status/2023836585268310456",
+    "https://x.com/gunkakusai/status/2043164704458043545",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/miraiallink",
+    "https://x.com/miraitouhoku",
+    "https://x.com/miraiallink/status/2108009364061823210",
+    "https://x.com/FutureEarthJP/status/2118541319245349203"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ミライアル東北 本社・工場",
+   "results": [
+    "https://www.linkedin.com/company/ミライアル（株）",
+    "https://jp.linkedin.com/company/miraillu",
+    "https://jp.linkedin.com/company/miraif-co-jp",
+    "https://www.linkedin.com/company/アルバック東北（株）",
+    "https://in.linkedin.com/in/atul-shekhar-9807316",
+    "https://it.linkedin.com/in/elena-vaccarella-",
+    "https://se.linkedin.com/in/åsa-åkerblom-84a97367"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ミライアル東北 本社・工場",
+   "results": [
+    "https://www.facebook.com/ミライアル株式会社-288162821211371/",
+    "https://www.facebook.com/umirai.co.jp/",
+    "https://www.facebook.com/miraino.logi/",
+    "https://www.facebook.com/people/ミライアルリンク/100054226430778/",
+    "https://www.facebook.com/tohokuseimitsu/posts/東北精密の新工場基礎工事が終わり鉄骨を立てる作業が始まりました完成が待ち遠しいです/1274550284375857/",
+    "https://www.facebook.com/tohokuseimitsu/posts/2026年7月1日より東北精密本社工場は以下の住所に移転しました今後とも全力で業務に取り組んでまいりますのでどうぞよろしくお願いします新住所岩手県北上市村崎野2/1553958159768400/",
+    "https://www.facebook.com/miraiweb.co.jp/photos/東北テクニカルシステムズ株式会社はペポルネットワークで送受信するデジタルインボイスへの対応を開始しました東北テクニカルシステムズ株式会社宮城県仙台市代表取締役工/848228347310356/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ミライアル東北 本社・工場 note 社長",
+   "results": [
+    "https://miraial-tohoku.co.jp/",
+    "https://miraial-tohoku.co.jp/company/",
+    "https://kando-fukushima.jp/companies/3722/",
+    "https://www.miraial.co.jp/company/",
+    "https://www.miraial.co.jp/company/overview/",
+    "https://kigyo-scope.jp/company/4238/ceo/",
+    "https://kitaishihon.com/company/4238/board-of-director"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ミライアル東北 本社・工場 X 投稿",
+   "results": [
+    "https://miraial-tohoku.co.jp/",
+    "https://miraial-tohoku.co.jp/company/",
+    "https://koujounavi.com/factory/ミライアル東北本社工場/",
+    "https://www.miraial.co.jp/company/",
+    "https://www.miraial.co.jp/",
+    "https://koujounavi.com/company/ミライアル株式会社/",
+    "https://sato-kogyo.co.jp/works/ミライアル株式会社-東北事業所/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部9頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部9頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部9頁・検索9回）",
+  "一点物・少量多品種": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部9頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式25頁／PDF・画像0件／外部9頁・検索9回）"
+ }
+}

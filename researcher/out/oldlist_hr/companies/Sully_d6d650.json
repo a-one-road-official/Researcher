@@ -1,0 +1,1171 @@
+{
+ "name": "Sully",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜未接触",
+ "researched_at": "2026-11-11T19:17:12.155291+00:00",
+ "official_url": "https://www.sully.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "weeks to onboard new providers",
+    "url": "https://www.sully.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From the note: “Established patient, 2 problems addressed”",
+    "url": "https://www.sully.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sully reads and writes back patient context, documented notes, codes, and appointments on the majority of the major EHRs. Your team keeps working in the system they know.",
+    "url": "https://www.sully.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "200 clinician provider network",
+    "url": "https://www.sully.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Health data privacy & safeguards",
+    "url": "https://www.sully.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Regional data protection",
+    "url": "https://www.sully.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“The hard part is not making AI impressive. It is making it useful, measurable and trusted”",
+    "url": "https://www.sully.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Provider onboarding. From 12 weeks to 2.",
+    "url": "https://www.sully.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Less daily charting time per provider",
+    "url": "https://www.sully.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Reduction in provider onboarding time",
+    "url": "https://www.sully.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Nile saves 2.4 hours of charting per provider each day.",
+    "url": "https://www.sully.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Hillside reduced onboarding time by 85%.",
+    "url": "https://www.sully.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Loved by healthcare organizations and platforms with over 20,000 providers",
+    "url": "https://www.sully.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Improve 1% everyday = 37X better after one year.",
+    "url": "https://www.sully.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": ", no problem is hard with the right team",
+    "url": "https://www.sully.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "At Sully.ai, your work directly contributes to improving patient care and outcomes. By developing AI Healthcare Employees, you help medical professionals focus more on their patients and less on administrative tasks. Join us to make a tangible difference in people’s lives by enhancing the efficiency and effectiveness of healthcare delivery.",
+    "url": "https://www.sully.ai/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of an exciting journey with a rapidly expanding company at the forefront of healthcare innovation. Our fast growth means abundant opportunities for personal and professional development. As we scale, you’ll have the chance to take on new challenges, shape your career path, and grow alongside a team that’s pushing the boundaries of what’s possible.",
+    "url": "https://www.sully.ai/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "Customers love the product.",
+    "url": "https://www.sully.ai/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "Join a company whose products are making a real impact and are beloved by users. Healthcare professionals appreciate how our AI solutions simplify their workflows, reduce burnout, and enhance patient interactions. By being part of Sully.ai, you’ll contribute to a product that receives outstanding feedback and truly improves the daily lives of doctors and patients alike.",
+    "url": "https://www.sully.ai/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "Improve 1% better everyday = 37X better after one year.",
+    "url": "https://www.sully.ai/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "Providers use Sully's AI care team to cut admin work, boost revenue, and go live in weeks",
+    "url": "https://www.sully.ai/customer-stories-old",
+    "pass": 1
+   },
+   {
+    "quote": "Loved by healthcare organizations and platforms with over 100,000 providers",
+    "url": "https://www.sully.ai/customer-stories-old",
+    "pass": 1
+   },
+   {
+    "quote": "“After evaluating multiple AI tools, I found Sully.ai to be the most comprehensive and innovative. Now, I can provide a wealth of information and pour myself into patients. It’s been a gold mine for us.”",
+    "url": "https://www.sully.ai/customer-stories-old",
+    "pass": 1
+   },
+   {
+    "quote": "“After interviewing more than 200 companies, we found Sully to be the most specific, the most efficient, and the most user-friendly platform.”",
+    "url": "https://www.sully.ai/customer-stories-old",
+    "pass": 1
+   },
+   {
+    "quote": "“We’re getting paid faster, our compliance risk is much lower, and our administrative overhead is down. Most importantly, we have a happier, more effective clinical team that’s providing better care to more engaged patients. Sully has become a major competitive advantage for us in the marketplace.”",
+    "url": "https://www.sully.ai/customer-stories-old",
+    "pass": 1
+   },
+   {
+    "quote": "Prompt Coder – AIによるコード生成を実現する次世代開発支援ツール",
+    "url": "https://peaky.co.jp/sullyai/",
+    "pass": 3
+   },
+   {
+    "quote": "Sully.ai: SullyAI: 10x clinical diagnosis - introducing Consensus | Product Hunt",
+    "url": "https://peaky.co.jp/sullyai/",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike traditional single-model approaches, our system implements an ensemble of specialized medical \"expert\" agents, each represented by an individual LLM, mim...",
+    "url": "https://peaky.co.jp/sullyai/",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle Production subsection",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "Village Roadshow Pictures",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "(NTSB) as \"prosecutorial and closed-minded.\" The",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "Although some people suffer mild injuries, all 155 crew and passengers survive and evacuate successfully. Sully is heralded as a hero by the public and media for his unprecedented feat of aviation skill. However, he experiences",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": ", and finds himself unable to escape the attention of the press, which is targeting not only him but also his family.",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "for investigation reasons, Sully learns that preliminary data from",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "(NTSB) claims that several confidential computerized simulations show similar results, even with the engine damage that Sullenberger and Skiles claim occurred. Sully and Jeff firmly insist otherwise, even though the NTSB says its results were confirmed with 20 different simulations. When the NTSB representatives adjourn the meeting, Sullenberger and Skiles discuss their bewilderment.",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "appears via archive footage from the night he interviewed the real crew of Flight 1549 who are digitally swapped with their film counterparts.",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "They developed the screenplay with Stewart's partner executive producer Kipp Nelson, hiring screenwriter Todd Komarnicki.",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "Principal photography",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "The film was initially going to be framed for IMAX 1.90:1 and protected for 2.39:1, but by the second day of filming, Eastwood said that they were shooting a movie in IMAX and decided to frame for IMAX.",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "However, the film was released in 2.39 in standard theaters and 1.90 in IMAX. The aviation mock-up/props and effects were supplied by",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "Mockup & Effects. They used three retired decommissioned airplanes (Aircraft Mock-up/Props) during the making of the film.",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "However, according to Komarnicki, the release date was coincidental rather than planned, and he attributed it to box-office logistics, principally the limited availability of",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "allowed it, \"to celebrate the fantastic skills, training and dedication of airline pilots\".",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "grossed $125.1 million in the United States and Canada and $115.7 million in other countries for a worldwide total of $240.8 million, against a production budget of $60 million.",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "It broke the September record for biggest global IMAX opening for a 2D film with $5.1 million from 523 IMAX screens, eclipsing the previous record held by",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": ", and was initially projected to make $25 million on its opening weekend, with",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "projecting $31 million due to its large theater count and positioning.",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": ", it outsold Hanks' previous film,",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "It earned $1.35 million from Thursday previews at 2,700 theaters, which marked the biggest of Hanks's career,",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "On its opening day it made $12.2 million, including Thursday previews, of which $1.3 million came from IMAX.",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "It also performed exceptionally well in IMAX, having been shot entirely in that format: for the weekend alone, it brought in a record $4 million from 375 auditoriums, being 11% of the total gross. This broke the previous September weekend record held by",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "pointed out that the marketing effort had been key to the robust opening (as well as good reviews and positive",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "2018–2019: Solo career and final projects",
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "pass": 3
+   },
+   {
+    "quote": "), known professionally as",
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "pass": 3
+   },
+   {
+    "quote": ", Sulli rose to prominence as a member of the",
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "pass": 3
+   },
+   {
+    "quote": "Sulli's film career progressed with her starring in the fantasy swashbuckler",
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "pass": 3
+   },
+   {
+    "quote": "(2014). During the press tour for",
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "pass": 3
+   },
+   {
+    "quote": ", Sulli took a hiatus from the entertainment industry due to health issues and following a year long absence from promoting with f(x), she left the group in August 2015. Between 2015 and 2017, she embarked on a number of modelling campaigns before becoming an endorsement model for",
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "incremental annual revenue",
+    "url": "https://www.sully.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical AI Employees | About - Sully",
+    "url": "https://www.sully.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Speed is our currency. Move fast to arrive early.",
+    "url": "https://www.sully.ai/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "At Sully.ai, your work directly contributes to improving patient care and outcomes. By developing AI Healthcare Employees, you help medical professionals focus more on their patients and less on administrative tasks. Join us to make a tangible difference in people’s lives by enhancing the efficiency and effectiveness of healthcare delivery.",
+    "url": "https://www.sully.ai/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of an exciting journey with a rapidly expanding company at the forefront of healthcare innovation. Our fast growth means abundant opportunities for personal and professional development. As we scale, you’ll have the chance to take on new challenges, shape your career path, and grow alongside a team that’s pushing the boundaries of what’s possible.",
+    "url": "https://www.sully.ai/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "Join a company whose products are making a real impact and are beloved by users. Healthcare professionals appreciate how our AI solutions simplify their workflows, reduce burnout, and enhance patient interactions. By being part of Sully.ai, you’ll contribute to a product that receives outstanding feedback and truly improves the daily lives of doctors and patients alike.",
+    "url": "https://www.sully.ai/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "Speed is our currency; Move fast to arrive early.",
+    "url": "https://www.sully.ai/join-us",
+    "pass": 1
+   },
+   {
+    "quote": "AI Medical Employees For Doctors | Success Stories - Sully",
+    "url": "https://www.sully.ai/customer-stories-old",
+    "pass": 1
+   },
+   {
+    "quote": "Providers use Sully's AI care team to cut admin work, boost revenue, and go live in weeks",
+    "url": "https://www.sully.ai/customer-stories-old",
+    "pass": 1
+   },
+   {
+    "quote": "Patch Darragh as Patrick Harten",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "September (Jerry Ferarra),",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "has historically been a lackluster period for film revenues, although",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "NTSB lead investigator Robert Benzon further disputed the film's depiction, saying that investigators \"weren't out to embarrass anybody at all,\" while a former NTSB investigator expressed concern that moviegoers would take it as evidence of \"government incompetence\".",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "'Sully', starring Tom Hanks, moves from NYC to Atlanta\"",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "'Arrival', 'La La Land', 'Hell or High Water' Among The Nominees for the 2016 AWFJ EDA Awards\"",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "'Hacksaw Ridge,' 'Rogue One,' 'Arrival' Lead Sound Editors' Feature Nominees\"",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "American nonlinear narrative films",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": ". Concurrently with her music career, Sulli returned to acting by starring in the SBS romantic comedy series,",
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "pass": 3
+   },
+   {
+    "quote": "Sulli's film career progressed with her starring in the fantasy swashbuckler",
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "pass": 3
+   },
+   {
+    "quote": "In August 2012, Sulli starred as the lead role in",
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "pass": 3
+   },
+   {
+    "quote": "In 2017, Sulli starred in a leading role in the film",
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "pass": 3
+   },
+   {
+    "quote": "Sully.ai — Funding, Revenue & Fractional Roles | Go Fractional",
+    "url": "https://www.gofractional.com/companies/sullyai",
+    "pass": 3
+   },
+   {
+    "quote": "71 employees",
+    "url": "https://www.gofractional.com/companies/sullyai",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Sully.ai – 複数のAI医療エキスパートが連携する次世代臨床診断支援シ... — Jul 11, 2025 · 導入にはどれくらいの期間が必要ですか？ 医療機関の規模や既存システムとの統合度により異なりますが、一般的に3-6ヶ月程度の導入期間を要します。 初期設定、スタッフトレーニング、システム最適化を含めた段階的な導入をサポートします。",
+    "url": "https://peaky.co.jp/sullyai/",
+    "pass": 3
+   },
+   {
+    "quote": "Sully (film) - Wikipedia — Sully is heralded as a hero by the public and media for his unprecedented feat of aviation skill. However, he experiences aftereffects, and finds himself unable to escape the attention of the press, which is targeting not only him but also his family.",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "ハドソン川の奇跡 (映画) - Wikipedia — 『ハドソン川の奇跡』（ハドソンがわのきせき、原題: Sully）は、 2016年 製作の アメリカ合衆国の映画。 2009年に起こり、奇跡的な生還劇として知られる USエアウェイズ1549便不時着水事故 、通称“ハドソン川の奇跡”と、その後の知られざる真実を映画化。",
+    "url": "https://ja.wikipedia.org/wiki/ハドソン川の奇跡_(映画)",
+    "pass": 3
+   },
+   {
+    "quote": "File:Sully Japan Premiere Red Carpet- Tom Hanks & Aaron ...Sully (film) - WikipediaCaptain \"Sully\" (Tom Hanks) Emergency Lands a Plane Full of ...Sulli - WikipediaFile:Sully Japan Premiere Red Carpet- Tom Hanks (29830327845 ...ハドソン川の奇跡 (映画) - WikipediaSulley - Kawaii Limited — Jan 20, 2026 · You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your ",
+    "url": "https://commons.wikimedia.org/wiki/File:Sully_Japan_Premiere_Red_Carpet-_Tom_Hanks_&_Aaron_Eckhart_(29830287495).jpg",
+    "pass": 3
+   },
+   {
+    "quote": "Captain \"Sully\" (Tom Hanks) Emergency Lands a Plane Full of ...Sulli - WikipediaFile:Sully Japan Premiere Red Carpet- Tom Hanks (29830327845 ...ハドソン川の奇跡 (映画) - WikipediaSulley - Kawaii Limited — Dec 23, 2025 · Captain \"Sully\" (Tom Hanks) Emergency Lands a Plane Full of Passengers [CLIP] | Sully (2016) | TNT In August 2012, Sulli starred as the lead role in To the Beautiful You, based on the famous",
+    "url": "https://www.youtube.com/watch?v=EmbqdTZ82Zc",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Sully AI Blog — How one of Abu Dhabi's leading multispecialty clinics gave physicians their time back — chosen after evaluating 200 AI companies. Make more room for care. How health systems use Sully's AI agents in practice.",
+    "url": "https://www.sully.ai/blog/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "AI Medical Employees For Doctors | Success Stories - Sully — Read customer stories highlighting how Sully’s AI medical agents have transformed workflows and improved outcomes across healthcare.",
+    "url": "https://www.sully.ai/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring P Sully Ltd as the Customer — Explore case studies featuring P Sully Ltd as the customer — learn how vendors and partners helped P Sully Ltd solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/p-sully-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "P Sully Ltd - Customer Case Study — P Sully Ltd partnered with 365 Website Design to solve key challenges. \"P Sully Ltd - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/365-website-design/case-study/p-sully-ltd-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Sully Case Study - PIXELUP LABS — How we turned Sully's website into a deal closer with motion-driven explainers, alongside 26x scale and a $32M+ raise at a $150M valuation.",
+    "url": "https://www.pixeluplabs.com/case-studies/sully",
+    "pass": 3
+   },
+   {
+    "quote": "Sully.ai – Competitor List & Expansion Signals – 2026 — Discover Sully.ai's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/sullyai",
+    "pass": 3
+   },
+   {
+    "quote": "Sully AI — Funding, Revenue & Fractional Roles | Go Fractional — Funding, revenue, headcount, and hiring figures are third-party estimates from public sources and are not confirmed by the company. Last refreshed October 13, 2026.",
+    "url": "https://www.gofractional.com/companies/sullyai",
+    "pass": 3
+   },
+   {
+    "quote": "Sully.ai 2026 Company Profile: Valuation, Funding & Investors ...Sully - 2026 Company Profile, Team, Funding & Competitors ...Sully.ai Revenue 2024: $455K Est. - getlatka.comSully - $4.4 M Revenue, Employees & Growth | Kona EquitySully Group – Revenue Estimate & Market Landscape – 2026 — Information on valuation, funding, cap tables, investors, and executives for Sully.ai. Use the PitchBook Platfo",
+    "url": "https://pitchbook.com/profiles/company/719919-28",
+    "pass": 3
+   },
+   {
+    "quote": "Sully - 2026 Company Profile, Team, Funding & Competitors ...Sully.ai Revenue 2024: $455K Est. - getlatka.comSully - $4.4 M Revenue, Employees & Growth | Kona EquitySully Group – Revenue Estimate & Market Landscape – 2026 — Mar 25, 2026 · Explore Sully's in-depth company profile, including funding details, key investors, leadership, and competitors. Sep 2, 2026 · How many employees does Sully.ai h",
+    "url": "https://tracxn.com/d/companies/sully/__RiNIbjwEu0IAxVWZeOw8ljtABK18Tko2XkidRYgM5w8",
+    "pass": 3
+   },
+   {
+    "quote": "Sully.ai Revenue 2024: $455K Est. - getlatka.com — Sep 2, 2026 · How many employees does Sully.ai have? Sully.ai had 29 employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/sully.ai",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "In Japan, it scored the third biggest opening for Eastwood with $2.3 million, behind",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "Outside North America, the biggest markets have been Japan ($13.2 million), Australia ($9.9 million), the United Kingdom ($5.4 million), and Italy ($5.1 million).",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Academy Film Prize",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "\"Japan Box Office: 'Your Name,' 'Shin Godzilla' Chase Records\"",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": ". Japan Academy Prize.",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "\"【第40回日本アカデミー賞】「シン・ゴジラ」が作品賞含む7冠！\"",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Academy Film Prize for Outstanding Foreign Language Film",
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "pass": 3
+   },
+   {
+    "quote": ", based on the famous Japanese shōjo manga series",
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "pass": 3
+   },
+   {
+    "quote": "Imperial Japanese Army",
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "pass": 3
+   },
+   {
+    "quote": "SM Town Live in Tokyo Special Edition in 3D",
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "pass": 3
+   },
+   {
+    "quote": "\"SMTOWN LIVE IN TOKYO SPECIAL EDITION 3D\"",
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese-language South Korean singers",
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "pass": 3
+   },
+   {
+    "quote": "Articles containing Japanese-language text",
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "pass": 3
+   },
+   {
+    "quote": "第40回日本アカデミー賞",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%89%E3%82%BD%E3%83%B3%E5%B7%9D%E3%81%AE%E5%A5%87%E8%B7%A1_(%E6%98%A0%E7%94%BB)",
+    "pass": 3
+   },
+   {
+    "quote": "“第40回 日本アカデミー賞 最優秀賞 受賞作品・受賞者 決定”",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%89%E3%82%BD%E3%83%B3%E5%B7%9D%E3%81%AE%E5%A5%87%E8%B7%A1_(%E6%98%A0%E7%94%BB)",
+    "pass": 3
+   },
+   {
+    "quote": ". 日本アカデミー賞公式サイト. 2017年3月3日",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%89%E3%82%BD%E3%83%B3%E5%B7%9D%E3%81%AE%E5%A5%87%E8%B7%A1_(%E6%98%A0%E7%94%BB)",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Multiple media outlets linked Sulli's death to depression caused by cyberbullying.",
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by P Sully Ltd",
+    "url": "https://www.casestudies.com/customer/p-sully-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "P Sully Ltd - Customer Case Study",
+    "url": "https://www.casestudies.com/customer/p-sully-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "365 Website Design Case Study: P Sully Ltd – P Sully Ltd - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/365-website-design/case-study/p-sully-ltd-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "P Sully Ltd - Customer Case Study",
+    "url": "https://www.casestudies.com/company/365-website-design/case-study/p-sully-ltd-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how P Sully Ltd used 365 Website Design",
+    "url": "https://www.casestudies.com/company/365-website-design/case-study/p-sully-ltd-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/365-website-design/case-study/p-sully-ltd-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/365-website-design/case-study/p-sully-ltd-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Referral Program Terms",
+    "url": "https://www.gofractional.com/companies/sullyai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "PATRICKの履き心地は？｜SULLYを8足買った僕の本音（サイズ感も）｜ソ... Jan 7, 2026 · 「PATRICK 履き心地」「SULLY サイズ感」で迷っている方向けに、実際に履き続けた感覚をまとめます。 今日はAmazonのスマイルSALE初売りの最終日。 年明けからの出費を思い返すと、 「もう十分では」と自分に言いたくなります。",
+    "url": "https://note.com/sonogi_osamu/n/n66300cffd9ba",
+    "pass": 3
+   },
+   {
+    "quote": "Nihongo Shower #04_ [JLPT N5] Yuki’s friend, Naomi (雪さんの ... Sep 16, 2026 · Learn Japanese with Sully サリー☘️ - Your Japanese tutor from italki I'm Sully サリー☘️, an online Japanese teacher on italki, and ca www.italki.com",
+    "url": "https://note.com/sully_nihongo26/n/n351ed700c35c",
+    "pass": 3
+   },
+   {
+    "quote": "[Not Released in Japan! Happy Meal!] AVATAR HAPPY MEAL \"Jake ... Jake Sully A man who came to the planet Pandora as an invader among the colonists, but who became completely accustomed to it while operating as an Avatar in the body of the native \"Na'vi\" race. The Na'vi are a race generally similar to humans, but are characterized by their long limbs and tails.",
+    "url": "https://note.com/sutoratron/n/n9a9739ced8a0?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Sully (@sullymygoodname) / X 🚨Week 11 Schedule Change🚨 The @NFL announced the following changes to the Week 11 schedule for Sunday, Nov. 22: 🏈Jaguars-Giants moves to 4:25p ET 🏈Steelers-Eagles moves to 1p ET Both games are on CBS 7 1.6K Sully @sullymygoodname Nov 9",
+    "url": "https://x.com/sullymygoodname",
+    "pass": 3
+   },
+   {
+    "quote": "Sully Sullenberger (@Captsully) / X Sully Sullenberger 2,617 posts Sully Sullenberger @Captsully Keynote Speaker | Safety Expert | #BestSellingAuthor | Pilot | #MiracleOnTheHudson #Flight1549 | Former U.S. Ambassador @ ICAO California sullysullenberger.com",
+    "url": "https://x.com/Captsully",
+    "pass": 3
+   },
+   {
+    "quote": "SULLY (@SULLY10X) / X Follow PostsPosts RepliesReplies RepostsReposts MediaMedia Pinned SULLY @SULLY10X Jun 15",
+    "url": "https://x.com/SULLY10X",
+    "pass": 3
+   },
+   {
+    "quote": "Sully (@sullyai) / X at Sully, we're building the Defacto of healthcare AI. Just shipped receptionist and voice agents that are now in customers hands, making @sullyai the first company on the planet to have receptionist agents connected with scribe and other agents.",
+    "url": "https://x.com/sullyai",
+    "pass": 3
+   },
+   {
+    "quote": "sully ꗞ (@dkmsully) / X The whole 3rd act of Godzilla Minus Zero had me feeling like this 00:00 🇳🇫 sully ꗞ @dkmsully Nov 6 #nw godzilla minus zero (imax)",
+    "url": "https://x.com/dkmsully",
+    "pass": 3
+   },
+   {
+    "quote": "Sully (@sullyai) / X Sully signed the Open Weights letter today. Most of our clinical stack now runs on open models and we're migrating the rest. Inference costs dropped 90% and latency dropped 65%. But cost and speed aren't the reason we keep going. Open weights are what let us post-train models",
+    "url": "https://x.com/sullyai",
+    "pass": 3
+   },
+   {
+    "quote": "sully on X: \"Dm\" / X Sep 23, 2026 · sully on X: \"Dm\" / X ... Dm",
+    "url": "https://x.com/sully44010/status/2102857186166661628",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Capt. Sully Sullenberger - Keynote Speaker | Safety Expert ...Sully.ai - LinkedInSully Group - LinkedInJonathan Sully - CMO | General Manager | ANZ, APAC & ...Wayne \"Sully\" O'Sullivan - Director of Football at Barker ...Justin Sully - Laos | Professional Profile | LinkedInNick Sully - Transportation Engineer and Planner | P.Eng. | M ... View Capt. Sully Sullenberger’s profile on LinkedIn, a profes",
+    "url": "https://www.linkedin.com/in/sullysullenberger",
+    "pass": 3
+   },
+   {
+    "quote": "Sully.ai - LinkedIn Sully.ai | 22,848 followers on LinkedIn. AutonomousOS for healthcare organizations | Sully is extending human capacity by building a team of autonomous AI agents to run the entire hospital...",
+    "url": "https://www.linkedin.com/company/sully-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Sully Group - LinkedIn The same project we've proposed to our customers & employees for 40+ years. | Sully Group : Working together to create a useful and sustainable digital environment > 1 global digital services...",
+    "url": "https://ca.linkedin.com/company/sully-group",
+    "pass": 3
+   },
+   {
+    "quote": "Jonathan Sully - CMO | General Manager | ANZ, APAC & ...Wayne \"Sully\" O'Sullivan - Director of Football at Barker ...Justin Sully - Laos | Professional Profile | LinkedInNick Sully - Transportation Engineer and Planner | P.Eng. | M ... · Experience: William Grant & Sons · Education: Australian Institute of Company Directors · Location: Sydney · 500+ connections on LinkedIn. View Jonathan Sully’s p",
+    "url": "https://au.linkedin.com/in/jonathansully",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Captain C.B. Sully Sullenberger - FacebookSully Erna - FacebookSully - FacebookSully - FacebookSully Movie - FacebookSully's | Hattiesburg MS - FacebookSully's | Star ID - Facebook Jul 21, 2026 · Captain C.B. Sully Sullenberger. 630,600 followers · 248 talking about this. Speaker | Safety Expert | Former U.S. Ambassador to the International Civil... Oct 9, 2026 · Sully Erna. 504,133 followers · 3,",
+    "url": "https://www.facebook.com/sully/",
+    "pass": 3
+   },
+   {
+    "quote": "Sully Erna - FacebookSully - FacebookSully - FacebookSully Movie - FacebookSully's | Hattiesburg MS - FacebookSully's | Star ID - Facebook Oct 9, 2026 · Sully Erna. 504,133 followers · 3,701 talking about this. The only official and verified Facebook page for Sully Erna of Godsmack. Please beware of the... Nov 3, 2026 · Sully. 20,375 followers · 1,215 talking about this. Management: Loper@optimyst",
+    "url": "https://www.facebook.com/sully.erna/",
+    "pass": 3
+   },
+   {
+    "quote": "Sully - FacebookSully - FacebookSully Movie - FacebookSully's | Hattiesburg MS - FacebookSully's | Star ID - Facebook Nov 3, 2026 · Sully. 20,375 followers · 1,215 talking about this. Management: Loper@optimysticendeavors.com Brianna@optimysticendeavors.com Oct 24, 2026 · Each visit is at a time to suit your cat (s)/pet (s) usual routine and generally last for about 30 minutes or can be tailored t",
+    "url": "https://www.facebook.com/officialsullymusic/",
+    "pass": 3
+   },
+   {
+    "quote": "Sully - Facebook Oct 24, 2026 · Each visit is at a time to suit your cat (s)/pet (s) usual routine and generally last for about 30 minutes or can be tailored to suit individual needs. I have over 20 years’ experience of looking after cats and I live in Sully. If you’re interested, please feel free to call or message me on: 07880369140. Susan",
+    "url": "https://www.facebook.com/groups/2232191302/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sully.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sully.ai/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sully.ai/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sully.ai/join-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sully.ai/customer-stories-old",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://peaky.co.jp/sullyai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carview.yahoo.co.jp/article/detail/b5322cc93cfb4b6482bbc9937f0bc463ba6b5425/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://motor-fan.jp/article/1616149/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcartop.jp/2026/09/1873659/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Sully_(film)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Sulli",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%89%E3%82%BD%E3%83%B3%E5%B7%9D%E3%81%AE%E5%A5%87%E8%B7%A1_(%E6%98%A0%E7%94%BB)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://commons.wikimedia.org/wiki/File:Sully_Japan_Premiere_Red_Carpet-_Tom_Hanks_&_Aaron_Eckhart_(29830287495).jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/p-sully-ltd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/365-website-design/case-study/p-sully-ltd-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/sullyai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gofractional.com/companies/sullyai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/719919-28",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/sully/__RiNIbjwEu0IAxVWZeOw8ljtABK18Tko2XkidRYgM5w8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/sonogi_osamu/n/n66300cffd9ba",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/sully_nihongo26/n/n351ed700c35c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/sutoratron/n/n9a9739ced8a0?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/sullymygoodname",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Captsully",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SULLY10X",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sullyai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sullysullenberger",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sully-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/sully-group",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/jonathansully",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sully/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sully.erna/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/officialsullymusic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/2232191302/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dkmsully",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sullyai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sully44010/status/2102857186166661628",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sully 日本 導入",
+   "results": [
+    "https://peaky.co.jp/sullyai/",
+    "https://carview.yahoo.co.jp/article/detail/b5322cc93cfb4b6482bbc9937f0bc463ba6b5425/",
+    "https://motor-fan.jp/article/1616149/",
+    "https://www.webcartop.jp/2026/09/1873659/",
+    "https://response.jp/article/2026/03/08/408351.html",
+    "https://jikayosha.jp/2026/08/26/327059/",
+    "https://carview.yahoo.co.jp/article/detail/28232e539dce78799e5d3547777e225ea18a8d22/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sully 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.sullair.com/en"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sully Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Sully_(film)",
+    "https://en.wikipedia.org/wiki/Sulli",
+    "https://ja.wikipedia.org/wiki/ハドソン川の奇跡_(映画)",
+    "https://commons.wikimedia.org/wiki/File:Sully_Japan_Premiere_Red_Carpet-_Tom_Hanks_&_Aaron_Eckhart_(29830287495).jpg",
+    "https://www.youtube.com/watch?v=EmbqdTZ82Zc",
+    "https://commons.wikimedia.org/wiki/File:Sully_Japan_Premiere_Red_Carpet-_Tom_Hanks_(29830327845).jpg",
+    "https://www.kawaii-limited.com/characters/sulley"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sully manufacturing customer case study",
+   "results": [
+    "https://www.sully.ai/blog/case-study",
+    "https://www.sully.ai/customer-stories",
+    "https://www.casestudies.com/customer/p-sully-ltd",
+    "https://www.casestudies.com/company/365-website-design/case-study/p-sully-ltd-customer-case-study",
+    "https://www.pixeluplabs.com/case-studies/sully",
+    "https://fsclighting.com/wp-content/uploads/2022/07/Case-Study-Sully.pdf",
+    "https://28freight.com/wp-content/uploads/2023/08/SullyMac-Case-Study-V3.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sully white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://skyswitch.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sully founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/sullyai",
+    "https://www.gofractional.com/companies/sullyai",
+    "https://pitchbook.com/profiles/company/719919-28",
+    "https://tracxn.com/d/companies/sully/__RiNIbjwEu0IAxVWZeOw8ljtABK18Tko2XkidRYgM5w8",
+    "https://getlatka.com/companies/sully.ai",
+    "https://www.konaequity.com/company/sully-4864145467/",
+    "https://compworth.com/company/sully-group"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Sully",
+   "results": [
+    "https://note.com/sonogi_osamu/n/n66300cffd9ba",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/sully_nihongo26/n/n351ed700c35c",
+    "https://note.com/sutoratron/n/n9a9739ced8a0?hl=en",
+    "https://note.com/ganos753/n/n6fa3a0ddb62f?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Sully",
+   "results": [
+    "https://x.com/sullymygoodname",
+    "https://x.com/Captsully",
+    "https://x.com/SULLY10X",
+    "https://x.com/sullyai",
+    "https://x.com/SullyPwnz",
+    "https://x.com/sullyfromDeets",
+    "https://x.com/SullDfox"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Sully",
+   "results": [
+    "https://www.linkedin.com/in/sullysullenberger",
+    "https://www.linkedin.com/company/sully-ai",
+    "https://ca.linkedin.com/company/sully-group",
+    "https://au.linkedin.com/in/jonathansully",
+    "https://au.linkedin.com/in/wayne-sully-o-sullivan-900b1337",
+    "https://la.linkedin.com/in/justinsully",
+    "https://ca.linkedin.com/in/nicholas-sully"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Sully",
+   "results": [
+    "https://www.facebook.com/sully/",
+    "https://www.facebook.com/sully.erna/",
+    "https://www.facebook.com/officialsullymusic/",
+    "https://www.facebook.com/groups/2232191302/",
+    "https://www.facebook.com/SullyMovie/",
+    "https://www.facebook.com/ilovesullys/",
+    "https://www.facebook.com/sullysidaho/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sully note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/sadaaki",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sully X 投稿",
+   "results": [
+    "https://x.com/dkmsully",
+    "https://x.com/sullyai",
+    "https://x.com/sully44010/status/2102857186166661628",
+    "https://www.tiktok.com/@x_sully_",
+    "https://www.instagram.com/x_sully_/",
+    "https://x.com/SullDfox",
+    "https://x.com/Duffy_Sulley"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部40頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部40頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部40頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部40頁・検索12回）"
+ }
+}

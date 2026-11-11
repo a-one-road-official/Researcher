@@ -1,0 +1,997 @@
+{
+ "name": "株式会社第一金属製作所",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T19:00:07.478809+00:00",
+ "official_url": "https://daiichikinzoku.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社工場所在地",
+    "value": "〒331-0047　埼玉県さいたま市西区指扇374 TEL：048-624-2873",
+    "url": "https://daiichikinzoku.co.jp/company/access",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒331-0047 埼玉県さいたま市西区指扇374番地　→ アクセスマップ TEL.048-624-2873 FAX.048-623-6165",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　福田直貴",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "■精密板金加工 ■レーザー加工 ■金属プレス金型製作 ■金属プレス部品加工 ■各種試作製作 製造部門 ・医療器、コンピューター周辺機器、通信機、 ・半導体製造装置部品、 ・コピー機等の精密板金およびプレス加工部門 生産部門 ・医療器、通信機のアッセンブリ部門 ・登録証 登録番号「東 第5619号」 ・事業区分「小型単相変圧器類製造事業」 ・登録番号「東 第4732号」 ・事業区分「光源応用器具製造事業」 ・開発部門　設計・開発",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "32名",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "取引先企業",
+    "value": "約50社（上場会社7社含）",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "1級工場板金技能士",
+    "value": "6名",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "2級工場板金技能士",
+    "value": "3名",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "厳しい品質基準を満たす高精度な加工技術を強みとし、特に医療機器分野では、高い安全性と信頼性が求められる製品に多数対応してきた実績があります",
+    "url": "https://daiichikinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "真鍮（しんちゅう）は、精密部品や建築金物、水回り製品など、私たちの身近な場所で幅広く使われている金属",
+    "url": "https://daiichikinzoku.co.jp/column",
+    "pass": 1
+   },
+   {
+    "quote": "微細な形状・微妙な公差にもこだわり、品質と機能性を両立した製品を提供",
+    "url": "https://daiichikinzoku.co.jp/products2",
+    "pass": 1
+   },
+   {
+    "quote": "多様化するニーズに対応するため最新の設備推進に努め、お客様と共に製品開発に取組む基板構築を目指しています",
+    "url": "https://daiichikinzoku.co.jp/facility",
+    "pass": 1
+   },
+   {
+    "quote": "素材供給、製品集積システムにより、長時間の自動運転に対応",
+    "url": "https://daiichikinzoku.co.jp/facility",
+    "pass": 1
+   },
+   {
+    "quote": "板金材料に対し、お客さまの加工製品／パーツを材料のムダが少なくなるように自動配置します",
+    "url": "https://daiichikinzoku.co.jp/facility",
+    "pass": 1
+   },
+   {
+    "quote": "自動配置と同時に、製品／パーツに対して、自動で加工軌跡を割り付けます",
+    "url": "https://daiichikinzoku.co.jp/facility",
+    "pass": 1
+   },
+   {
+    "quote": "社員一人ひとりの力を結集し、提案力ある営業とともに、1つひとつの製品に真心を込めて対応しています",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "棚付素材供給製品搬出システムASR－48M導入",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のもとへ確かな品質の製品を届け、社会に貢献できていることに、ものづくりの喜びと誇りを感じています",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "次の工程に渡す仕事を“お客様に届ける製品”と同じ意識で仕上げる",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "「良い製品を届けること」それが、私たちのものづくりの原点です",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "「良い製品を届け、求めてくださった方々に心から喜んでいただけるものづくりをすること」",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、医療機・コンピューター周辺機器・通信機・コピー機等の精密板金加工、及び組立て事業をベースに、技術の高精細・高付加価値化、及び顧客と共創による製品開発・創造を目指し下記を重点に推進する",
+    "url": "https://daiichikinzoku.co.jp/company/iso",
+    "pass": 1
+   },
+   {
+    "quote": "そして完成した製品をお客様のもとへお届けする、その瞬間こそが、この仕事の大きな喜びです",
+    "url": "https://daiichikinzoku.co.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "真鍮（しんちゅう）は、精密部品や建築金物、水回り製品など、私たちの身近な場所で幅広く使われている金属",
+    "url": "https://daiichikinzoku.co.jp/column?cate=7",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、良い製品をつくるためには、単にプログラムを入力するだけでは十分ではありません",
+    "url": "https://daiichikinzoku.co.jp/column/20261014",
+    "pass": 1
+   },
+   {
+    "quote": "こうした一つひとつの確認が、製品の品質につながります",
+    "url": "https://daiichikinzoku.co.jp/column/20261014",
+    "pass": 1
+   },
+   {
+    "quote": "旋盤加工でつくられた部品は、さまざまな製品に使われています",
+    "url": "https://daiichikinzoku.co.jp/column/20261007",
+    "pass": 1
+   },
+   {
+    "quote": "「図面通り＋α」を大切に、お客様の製品に必要な加工方法を考え、ものづくりをサポートしています",
+    "url": "https://daiichikinzoku.co.jp/column/20261007",
+    "pass": 1
+   },
+   {
+    "quote": "実際の製品では、純粋な鉄よりも**炭素などを加えた「鋼（はがね）」**として使用されることが一般的です",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、「軽量化したい」「錆びにくくしたい」「熱を逃がしたい」といった製品に適しています",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "アルミは熱を伝えやすいため、溶接時に熱が広がり、製品が反ったり寸法が変化したりすることがあります",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "精密な製品では、溶接順序や固定方法も重要になります",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "6．精密板金でアルミが使われる製品",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "アルミの特性を正しく理解することで、軽量化や耐食性など、アルミならではのメリットを活かした製品づくりにつなげることができます",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "試作・単品から中ロット量産（100〜300個）まで柔軟に対応し、",
+    "url": "https://daiichikinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「少量では割高」「大量には頼みづらい」――そんなお悩みに、ちょうどいいボリューム感で最適解をご提供します",
+    "url": "https://daiichikinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ICHIKINは、医療機器メーカー様から長年にわたり信頼をいただき、 量産はもちろん、試作・一点物にも柔軟に対応してきました",
+    "url": "https://daiichikinzoku.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "ICHIKINでは、多品種少量生産や細かな仕様変更にも柔軟に対応し、現場で本当に使いやすい部品をスピーディーにお届けしています",
+    "url": "https://daiichikinzoku.co.jp/products3",
+    "pass": 1
+   },
+   {
+    "quote": "製造現場や開発現場の課題に寄り添い、量産〜一品物まで安心してお任せいただけます",
+    "url": "https://daiichikinzoku.co.jp/products3",
+    "pass": 1
+   },
+   {
+    "quote": "多品種、小ロット生産体制における低コストの実現",
+    "url": "https://daiichikinzoku.co.jp/facility",
+    "pass": 1
+   },
+   {
+    "quote": "少量生産や試作品、形状が複雑な部品などにも対応しやすいのが特徴です",
+    "url": "https://daiichikinzoku.co.jp/column/20261007",
+    "pass": 1
+   },
+   {
+    "quote": "複雑な形状や穴などを加工でき、金型を必要としないため、少量や試作品にも対応しやすい方法です",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "単品、小ロットもお任せください",
+    "url": "https://daiichikinzoku.co.jp/data/202406/ichikin_Company-Profile.pdf",
+    "pass": 2
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "株式会社第一金属製作所：トップページ -ICHIKIN- ｜医療機器・通信機器・産業機器・OA機器等の精密板金部品加工｜埼玉県さいたま市",
+    "url": "https://daiichikinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器・通信機器・産業機器など、精密部品を必要とする多くのお客様から技術力と対応力に高い評価をいただいてきました",
+    "url": "https://daiichikinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ICHIKINは、医療機器・通信機器・産業機器・OA機器など、多様な分野に向けた精密板金部品の加工を手がけています",
+    "url": "https://daiichikinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "厳しい品質基準を満たす高精度な加工技術を強みとし、特に医療機器分野では、高い安全性と信頼性が求められる製品に多数対応してきた実績があります",
+    "url": "https://daiichikinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "交通アクセス：会社案内 - 株式会社第一金属製作所 -ICHIKIN- ｜医療機器・通信機器・産業機器・OA機器等の精密板金部品加工｜埼玉県さいたま市",
+    "url": "https://daiichikinzoku.co.jp/company/access",
+    "pass": 1
+   },
+   {
+    "quote": "精密板金加工コラム｜株式会社第一金属製作所 -ICHIKIN- ｜医療機器・通信機器・産業機器・OA機器等の精密板金部品加工｜埼玉県さいたま市",
+    "url": "https://daiichikinzoku.co.jp/column",
+    "pass": 1
+   },
+   {
+    "quote": "アルミニウムは、航空機、自動車、産業機械、電子機器など、幅広い分野で使われている金属です",
+    "url": "https://daiichikinzoku.co.jp/column",
+    "pass": 1
+   },
+   {
+    "quote": "精密板金加工事例：医療機器 - 株式会社第一金属製作所 -ICHIKIN- ｜医療機器・通信機器・産業機器・OA機器等の精密板金部品加工｜埼玉県さいたま市",
+    "url": "https://daiichikinzoku.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器にふさわしい、キズのない精密板金加工を",
+    "url": "https://daiichikinzoku.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "生命に関わる医療機器には、高い精度・美しい仕上がり・安定した品質が欠かせません",
+    "url": "https://daiichikinzoku.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "ICHIKINは、医療機器メーカー様から長年にわたり信頼をいただき、 量産はもちろん、試作・一点物にも柔軟に対応してきました",
+    "url": "https://daiichikinzoku.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "精密板金加工事例：通信機器 - 株式会社第一金属製作所 -ICHIKIN- ｜医療機器・通信機器・産業機器・OA機器等の精密板金部品加工｜埼玉県さいたま市",
+    "url": "https://daiichikinzoku.co.jp/products2",
+    "pass": 1
+   },
+   {
+    "quote": "精密板金加工事例：産業機器 - 株式会社第一金属製作所 -ICHIKIN- ｜医療機器・通信機器・産業機器・OA機器等の精密板金部品加工｜埼玉県さいたま市",
+    "url": "https://daiichikinzoku.co.jp/products3",
+    "pass": 1
+   },
+   {
+    "quote": "設備情報 - 株式会社第一金属製作所 -ICHIKIN- ｜医療機器・通信機器・産業機器・OA機器等の精密板金部品加工｜埼玉県さいたま市",
+    "url": "https://daiichikinzoku.co.jp/facility",
+    "pass": 1
+   },
+   {
+    "quote": "会社情報：会社案内 - 株式会社第一金属製作所 -ICHIKIN- ｜医療機器・通信機器・産業機器・OA機器等の精密板金部品加工｜埼玉県さいたま市",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "・医療器、コンピューター周辺機器、通信機、",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "・半導体製造装置部品、",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "・医療器、通信機のアッセンブリ部門",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "プレス金型製作会社 5社",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "これまで第一金属製作所で25年以上にわたり、医療機器や産業機器をはじめとする高精度な板金・プレス加工部品の製造に携わってまいりました",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "SDGs活動について：会社案内 - 株式会社第一金属製作所 -ICHIKIN- ｜医療機器・通信機器・産業機器・OA機器等の精密板金部品加工｜埼玉県さいたま市",
+    "url": "https://daiichikinzoku.co.jp/company/sdgs",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、地球環境の保全を最重要課題の一つと認識し、医療機器・コンピューター周辺機器・通信機・コピー機などの精密板金加工およびアッセンブリー業務において、不良の発生防止を第一の目標に掲げ、省エネルギー・省資源に努めています",
+    "url": "https://daiichikinzoku.co.jp/company/sdgs",
+    "pass": 1
+   },
+   {
+    "quote": "環境・品質方針：会社案内 - 株式会社第一金属製作所 -ICHIKIN- ｜医療機器・通信機器・産業機器・OA機器等の精密板金部品加工｜埼玉県さいたま市",
+    "url": "https://daiichikinzoku.co.jp/company/iso",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、地球環境の保全が最重要課題であると認識し、 医療器、コピュータ周辺機器、通信機、コピー機等の精密板金加工及び アッセンブリー業務において不良の発生防止を第一目標にして、省エネルギー、省資源に努め、環境負荷の低減を目指した企業活動を行います",
+    "url": "https://daiichikinzoku.co.jp/company/iso",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、医療機・コンピューター周辺機器・通信機・コピー機等の精密板金加工、及び組立て事業をベースに、技術の高精細・高付加価値化、及び顧客と共創による製品開発・創造を目指し下記を重点に推進する",
+    "url": "https://daiichikinzoku.co.jp/company/iso",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報 - 株式会社第一金属製作所 -ICHIKIN- ｜医療機器・通信機器・産業機器・OA機器等の精密板金部品加工｜埼玉県さいたま市",
+    "url": "https://daiichikinzoku.co.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "精密板金加工コラム｜株式会社第一金属製作所 -ICHIKIN- ｜医療機器・通信機器・産業機器・OA機器等の精密板金部品加工｜埼玉県さいたま市",
+    "url": "https://daiichikinzoku.co.jp/column?cate=7",
+    "pass": 1
+   },
+   {
+    "quote": "アルミニウムは、航空機、自動車、産業機械、電子機器など、幅広い分野で使われている金属です",
+    "url": "https://daiichikinzoku.co.jp/column?cate=7",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、 産業機械のシャフト、 医療機器の部品、 自動車関連部品、 精密機器の部品、 モーター部品、 ボルト・ナット 、スペーサー・カラー、 治具・工具 などがあります",
+    "url": "https://daiichikinzoku.co.jp/column/20261007",
+    "pass": 1
+   },
+   {
+    "quote": "外径・内径・穴・ねじ・溝など、さまざまな加工ができ、産業機械や医療機器、精密機器など幅広い分野で使用されています",
+    "url": "https://daiichikinzoku.co.jp/column/20261007",
+    "pass": 1
+   },
+   {
+    "quote": "アルミニウムは、航空機、自動車、産業機械、電子機器など、幅広い分野で使われている金属です",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "精密板金でも、筐体やカバー、ブラケット、機械部品などに使用されています",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "鉄は、建築物や機械、自動車、産業設備など、さまざまな分野で使用されている代表的な金属です",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "複雑な形状や穴などを加工でき、金型を必要としないため、少量や試作品にも対応しやすい方法です",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "金型を使って、穴あけや外形加工を行います",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "アルミは比較的柔らかいため、加工時に表面へ傷をつけないよう、金型や材料の取り扱いに注意が必要です",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "筐体、カバー、ブラケットなどの製作で重要な加工です",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器、通信機器、産業機",
+    "url": "https://daiichikinzoku.co.jp/data/202406/ichikin_Company-Profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "工（医療器、通信機器、産業機器、",
+    "url": "https://daiichikinzoku.co.jp/data/202406/ichikin_Company-Profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "医療機器、産業機器、通信機器等",
+    "url": "https://daiichikinzoku.co.jp/data/202406/ichikin_Company-Profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(半自動溶接、Tig溶接、手溶接、ロボット溶接)",
+    "url": "https://daiichikinzoku.net/business/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "3次元CAD/CAM",
+    "url": "https://daiichikinzoku.co.jp/facility",
+    "pass": 1
+   },
+   {
+    "quote": "AP100 CAD/CAM",
+    "url": "https://daiichikinzoku.co.jp/facility",
+    "pass": 1
+   },
+   {
+    "quote": "AP100 CAD/CAMデータ管理機能を搭載したネットワーク対応の自動プログラミングシステムです",
+    "url": "https://daiichikinzoku.co.jp/facility",
+    "pass": 1
+   },
+   {
+    "quote": "展開図・曲げ属性入り立体姿図の作成を行う2次元CADで、タレパンやレーザー加工の割り付けからNCデータ作成を行うCAM機能を搭載しています",
+    "url": "https://daiichikinzoku.co.jp/facility",
+    "pass": 1
+   },
+   {
+    "quote": "*.ipt,*.iam",
+    "url": "https://daiichikinzoku.co.jp/facility",
+    "pass": 1
+   },
+   {
+    "quote": "その他、ZAM材、t1.0～4.5、真鍮、t0.5～3.0まで対応",
+    "url": "https://daiichikinzoku.co.jp/data/202406/ichikin_Company-Profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ブレーキプレス EGB1303-ATC 及び ベンドCAM 導入",
+    "url": "https://daiichikinzoku.net/aboutus/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "チタンとアルミの違いとは？｜軽量金属の特徴と使い分け",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "そこで、銅・マグネシウム・シリコンなどを加え、強度や耐食性、加工性などを調整したものがアルミ合金です",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "代表的な材質には、次のようなものがあります",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、同じアルミでも材質によって曲げやすさ、強度、溶接性などが変わるため、材質の確認が重要です",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "また、材質や調質によって曲げやすさが異なり、硬い材質では曲げ部に割れが発生することもあります",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、材質、板厚、曲げ方向、曲げR、加工条件などを考慮する必要があります",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "アルミは比較的切削しやすい材料ですが、材質によっては切粉が工具に付着しやすいため、工具や切削条件の選定が重要です",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "材質や板厚に応じた加工条件の調整が重要です",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "一方、強度や加工性などは材質によって異なるため、用途に合った材料選びが重要です",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、アルミには多くの種類があり、材質によって強度や加工性、溶接性などが異なります",
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "pass": 1
+   },
+   {
+    "quote": "材質：SUS304",
+    "url": "https://daiichikinzoku.co.jp/data/202406/ichikin_Company-Profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "材質：AL1050",
+    "url": "https://daiichikinzoku.co.jp/data/202406/ichikin_Company-Profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "材質：AL5052",
+    "url": "https://daiichikinzoku.co.jp/data/202406/ichikin_Company-Profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "材質：S45C",
+    "url": "https://daiichikinzoku.co.jp/data/202406/ichikin_Company-Profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "材質：SUS303",
+    "url": "https://daiichikinzoku.co.jp/data/202406/ichikin_Company-Profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "材質：SS400",
+    "url": "https://daiichikinzoku.co.jp/data/202406/ichikin_Company-Profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "材質：C2801",
+    "url": "https://daiichikinzoku.co.jp/data/202406/ichikin_Company-Profile.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "材質や難易度、ロットに応じて溶接方法を決めていきます",
+    "url": "https://daiichikinzoku.net/business/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社第一金属製作所：トップページ -ICHIKIN- ｜医療機器・通信機... — 第一金属製作所トップページ。埼玉県さいたま市の第一金属製作所は、医療機器・産業機器の精密板金加工を中心に、その他レーザー加工、NCタレットパンチプレス加工を行っております。",
+    "url": "https://daiichikinzoku.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 第一金属製作所 | レーザー・ベンディング加工から精密板金... — 第一金属製作所は 「納期あと1日・・・」 をなんとかします! 弊社では豊富な材料在庫、多種の機械設備を保有しています。 図面から製品完成までの工程を社内で完結することにより、製品品質の確保をした上で、納期の短縮が可能です。",
+    "url": "https://daiichikinzoku.net/",
+    "pass": 3
+   },
+   {
+    "quote": "製品のご紹介 - 株式会社 第一金属製作所 — 製品のご紹介 について 株式会社 第一金属製作所 レーザー・ベンディング加工から精密板金や機械製缶、省力化機械のOEM設計・製作は大阪の第一金属製作所にお任せ下さい。",
+    "url": "https://daiichikinzoku.net/category/all/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社 第一金属製作所会社情報：会社案内 - 株式会社第一金属製作所 -ICHIKIN- ｜医療機器...事業案内 - 株式会社 第一金属製作所株式会社第一金属製作所：トップページ -ICHIKIN- ｜医療機器・通信機...会社概要 | 株式会社 第一金属会社概要 | 第一金属株式会社会社情報 | 株式会社 第一金属 — 第一金属製作所は、東大阪を拠点に精密板金や機械製缶などを手掛けております。 図面からレーザー・ベンディング加工、完成に至るまで、すべての工程を社内で完結できる一貫体制を敷いています。 私たちの強みは、「納期あと1日…」をなんとかする対応力です。 豊富な材料在庫と多種の ... 会社情報：会社案内。埼玉県さいたま市の第一金属製作所は、医療機器・産業機器の精密板金加工を中心に、その他レーザー加工、NCタレットパンチプレス加工を行っております。 トップページ ",
+    "url": "https://daiichikinzoku.net/aboutus/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報：会社案内 - 株式会社第一金属製作所 -ICHIKIN- ｜医療機器... — 会社情報：会社案内。埼玉県さいたま市の第一金属製作所は、医療機器・産業機器の精密板金加工を中心に、その他レーザー加工、NCタレットパンチプレス加工を行っております。",
+    "url": "https://daiichikinzoku.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "事業案内 - 株式会社 第一金属製作所 — トップページ HOME 会社概要 ABOUT US 設備案内 EQUIPMENT 事業案内 BUSINESS 製品のご紹介 WORKS お知らせ NEWS トピックス TOPICS お問合わせ INQUIRY 06-6722-0968 平日9:00～18:00",
+    "url": "https://daiichikinzoku.net/business/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 第一金属製作所（大阪八尾市） — メールでのお問い合わせ 下記内容をご記入の上、当社メールアドレス宛に送信してください。 会社名 部署名 お名前（必須） 郵便番号 住所 電話番号 返信先メールアドレス（必須） お問い合わせ内容（必須） 送信先 ： kdaiichi@ninus.ocn.ne.jp プライバシーポリシー（個人情報保護に関する基本 ...",
+    "url": "https://www.kdaiichi.co.jp/info/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問合わせ | 株式会社 第一金属製作所 — お問合わせ 求人情報はこちらからhttps://xyr75i7m8.jbplt.jp/",
+    "url": "https://daiichikinzoku.net/ct/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お客様の個人情報の訂正・変更・お問い合わせに関しましては、下記までご連絡下さい",
+    "url": "https://daiichikinzoku.net/aboutus/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "松下 敦 - 株式会社第一金属製作所 - 代表取締役 | LinkedIn3 \"松下敦\" profiles | LinkedIn株式会社阪井金属製作所 | LinkedInLinkedIn: Log In or Sign Up第一 - 金属 - 经理 | 领英 - 领英 (中国)JGC - LinkedIn林郁方 iku - Talent Acquisition｜日商人才招募｜半導體｜製造業｜自... 株式会社第一金属製作所 - 代表取締役 · 職歴: 株式会社第一金属製作所 · 場所: 大阪府。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで松下 敦さんのプロフィールを閲覧しましょう。 株式会社第一金属製作所 - 代表取締役 Osaka, Japan 株式会社第一金属製作所 株式会社阪井金属製作所は、1965年に創業した金属部品の専門貿易会社です。 私たち",
+    "url": "https://jp.linkedin.com/in/敦-松下-930635a7",
+    "pass": 3
+   },
+   {
+    "quote": "3 \"松下敦\" profiles | LinkedIn 株式会社第一金属製作所 - 代表取締役 Osaka, Japan 株式会社第一金属製作所",
+    "url": "https://www.linkedin.com/pub/dir/敦/松下",
+    "pass": 3
+   },
+   {
+    "quote": "松下 敦 - 株式会社第一金属製作所 - 代表取締役 | LinkedIn第一金属製作所の社長と経営方針【代表 : 福田敏明】 (全1件)【転職会...株式会社第一金属製作所（大阪府）の会社概要・役員 | Compalyze会社情報 | 第一金属製作所（大阪八尾市）株式会社第一金属製作所（大阪府）の会社概要・役員 | Compalyze 株式会社第一金属製作所 - 代表取締役 · 職歴: 株式会社第一金属製作所 · 場所: 大阪府。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで松下 敦さんのプロフィールを閲覧しましょう。 Mar 31, 2026 · 第一金属製作所の社員・元社員の口コミ(全1件)から、福田敏明社長を含む経営陣の方針や体制を徹底分析！社長・代表・経営者としてのビジョンや理念、組織や従業員との距離感など、リアルな姿を豊富な口コミと評点で比較で",
+    "url": "https://jp.linkedin.com/in/敦-松下-930635a7",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "(株)第一金属製作所 | Saitama-shi Saitama - Facebook株式会社 第一林製作所第一金属製作所(株)第一金属製作所 - この度 弊社代表取締役福田敏明の逝去に伴い後...(株)第一金属製作所 on Reels - Facebook(株)第一金属製作所 - 生産管理システムの進捗★★ 新システムを導入し...(株)第一金属製作所 - 清掃活動☆彡 毎月第一月曜日に取り組んでいる清... Jul 23, 2026 · (株)第一金属製作所 is at 第一金属製作所. おはようございます🩷 ichikin girls ついに… 曲げデビューしましたーーー👏💕 おめでとう🎉 そして、ありがとう🥹 しかもね… 「え？ 前からやってましたよね？ Nov 27, 2025 · 株式会社 第一林製作所. 96 followers. 製缶部品、機械部品、設計製作、組立の事なら自",
+    "url": "https://www.facebook.com/ICHIKIN.SAITAMA/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 第一林製作所第一金属製作所(株)第一金属製作所 - この度 弊社代表取締役福田敏明の逝去に伴い後...(株)第一金属製作所 on Reels - Facebook(株)第一金属製作所 - 生産管理システムの進捗★★ 新システムを導入し...(株)第一金属製作所 - 清掃活動☆彡 毎月第一月曜日に取り組んでいる清... Nov 27, 2025 · 株式会社 第一林製作所. 96 followers. 製缶部品、機械部品、設計製作、組立の事なら自社内一貫生産で大物から中小物まで短納期、低コスト、高品質に対応できる第一林製作所へお気軽に一度ご相談ください。 第一金属製作所 Feb 25, 2020 · (株)第一金属製作所 Feb 25, 2020 この度 弊社代表取締役福田敏明の逝去に伴い後任と して代表取締役に就任いたしました ここに前代表取締役が生前賜りましたご厚情に心より 感",
+    "url": "https://www.facebook.com/daiichihayashi/",
+    "pass": 3
+   },
+   {
+    "quote": "第一金属製作所 第一金属製作所",
+    "url": "https://www.facebook.com/第一金属製作所-283778495121926/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)第一金属製作所 - この度 弊社代表取締役福田敏明の逝去に伴い後... Feb 25, 2020 · (株)第一金属製作所 Feb 25, 2020 この度 弊社代表取締役福田敏明の逝去に伴い後任と して代表取締役に就任いたしました ここに前代表取締役が生前賜りましたご厚情に心より 感謝申し上げます つきましては故人の遺志を継ぎ微力ではございますが",
+    "url": "https://www.facebook.com/ICHIKIN.SAITAMA/posts/この度-弊社代表取締役福田敏明の逝去に伴い後任として代表取締役に就任いたしましたここに前代表取締役が生前賜りましたご厚情に心より感謝申し上げますつきましては故人/2609822825812713/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://daiichikinzoku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichikinzoku.co.jp/company/access",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichikinzoku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichikinzoku.co.jp/column",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichikinzoku.co.jp/products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichikinzoku.co.jp/products2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichikinzoku.co.jp/products3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichikinzoku.co.jp/facility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichikinzoku.co.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichikinzoku.co.jp/company/sdgs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichikinzoku.co.jp/company/iso",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichikinzoku.co.jp/recruit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichikinzoku.co.jp/column?cate=7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichikinzoku.co.jp/column/20261014",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichikinzoku.co.jp/column/20261007",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichikinzoku.co.jp/column/20260930",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichikinzoku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://daiichikinzoku.co.jp/data/202406/ichikin_Company-Profile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://daiichikinzoku.co.jp/data/202610/img6ac5926720c1d.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://systemcreate-inc.co.jp/products/moiron_top",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://watanabeseisakusyo.jp/column/metal-processing-small-lot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichikinzoku.net/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichikinzoku.net/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kdaiichi.co.jp/info/contact.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://daiichi-kinzoku.co.jp/company/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichi-ss-hp.net/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/敦-松下-930635a7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/敦/松下",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ICHIKIN.SAITAMA/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/daiichihayashi/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/第一金属製作所-283778495121926/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ICHIKIN.SAITAMA/posts/この度-弊社代表取締役福田敏明の逝去に伴い後任として代表取締役に就任いたしましたここに前代表取締役が生前賜りましたご厚情に心より感謝申し上げますつきましては故人/2609822825812713/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/敦-松下-930635a7",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "第一金属製作所 取扱製品 試作 小ロット",
+   "results": [
+    "https://daiichikinzoku.co.jp/",
+    "https://systemcreate-inc.co.jp/products/moiron_top",
+    "https://watanabeseisakusyo.jp/column/metal-processing-small-lot/",
+    "https://daiichikinzoku.net/",
+    "https://daiichikinzoku.net/category/all/",
+    "https://www.daiichidenki.com/",
+    "https://www.metal-daiichi.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "第一金属製作所 会社概要 事業内容",
+   "results": [
+    "https://daiichikinzoku.net/aboutus/",
+    "https://daiichikinzoku.co.jp/company",
+    "https://daiichikinzoku.net/business/",
+    "https://daiichikinzoku.co.jp/",
+    "https://daiichi-kinzoku.co.jp/company/profile/",
+    "http://metal-daiichi.co.jp/company/",
+    "https://daiichi-kinzoku.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "第一金属製作所 お問い合わせ メール",
+   "results": [
+    "https://www.kdaiichi.co.jp/info/contact.html",
+    "https://daiichi-kinzoku.co.jp/company/contact/",
+    "https://www.daiichi-ss-hp.net/contact",
+    "https://daiichi-kinzoku.co.jp/contact/",
+    "https://daiichikinzoku.net/ct/",
+    "https://daiichi-kinzoku.jp/contact/",
+    "https://www.metal-daiichi.co.jp/contact/index.php"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 第一金属製作所",
+   "results": [
+    "https://note.com/magic_impala5319/n/n5a0e9befe0d2",
+    "https://note.com/chikama_teppei/n/nd5b65fb5e514",
+    "https://tales.note.com/gunjoneko/w4ulvrryallz1",
+    "https://tales.note.com/lucky_lilac4684/wvipbk47nr1m9",
+    "https://note.com/ohsm_patent/n/n192cf7017a35",
+    "https://note.com/monodukuritown/n/nb6c752a23a5a",
+    "https://note.com/land1/n/n070a1c1a54e1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 第一金属製作所",
+   "results": [
+    "https://x.com/dkkmetal/status/2107295972267274447",
+    "https://x.com/Qho_MetalWorks",
+    "https://x.com/dkkmetal",
+    "https://x.com/issokusamurai",
+    "https://x.com/dkkmetal/status/2108334815900848625",
+    "https://x.com/dkkmetal/status/2118481154982752713",
+    "https://x.com/Daodao_chain/status/2120396855163101266"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 第一金属製作所",
+   "results": [
+    "https://jp.linkedin.com/in/敦-松下-930635a7",
+    "https://www.linkedin.com/pub/dir/敦/松下",
+    "https://uk.linkedin.com/company/jgc",
+    "https://jp.linkedin.com/company/sakaikinzoku",
+    "https://www.linkedin.com/",
+    "https://cn.linkedin.com/in/一-第-0884311ab",
+    "https://tw.linkedin.com/in/ikulin"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 第一金属製作所",
+   "results": [
+    "https://www.facebook.com/ICHIKIN.SAITAMA/",
+    "https://www.facebook.com/daiichihayashi/",
+    "https://www.facebook.com/第一金属製作所-283778495121926/",
+    "https://www.facebook.com/ICHIKIN.SAITAMA/posts/この度-弊社代表取締役福田敏明の逝去に伴い後任として代表取締役に就任いたしましたここに前代表取締役が生前賜りましたご厚情に心より感謝申し上げますつきましては故人/2609822825812713/",
+    "https://www.facebook.com/ICHIKIN.SAITAMA/posts/3806347696160214/",
+    "https://www.facebook.com/ICHIKIN.SAITAMA/videos/1633734501509527/",
+    "https://www.facebook.com/ichikin.saitama/posts/4482850645176579/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "第一金属製作所 note 社長",
+   "results": [
+    "https://dentou-chousen.jp/company/8351/",
+    "https://daiichikinzoku.net/aboutus/",
+    "https://jp.linkedin.com/in/敦-松下-930635a7",
+    "https://jobtalk.jp/companies/575264/answers?question_codes=president",
+    "https://compalyze.co.jp/company/6122001003880",
+    "https://compalyze.co.jp/company/3150001013025",
+    "https://www.kdaiichi.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "第一金属製作所 X 投稿",
+   "results": [
+    "https://www.instagram.com/reel/DTv3_Wgk3nd/",
+    "https://www.instagram.com/reel/C4bf-80SOyW/",
+    "https://daiichikinzoku.co.jp/",
+    "https://www.kdaiichi.co.jp/",
+    "https://daiichikinzoku.net/topics/",
+    "https://x.com/dkkmetal",
+    "https://x.com/kageyama_ojo/status/2120344219932123439"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像2件／外部14頁・検索9回）"
+ }
+}

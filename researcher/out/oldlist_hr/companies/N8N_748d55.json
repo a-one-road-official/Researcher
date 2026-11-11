@@ -1,0 +1,1925 @@
+{
+ "name": "N8N",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜状態なし",
+ "researched_at": "2026-11-11T19:19:47.908198+00:00",
+ "official_url": "https://n8n.io/",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email support",
+    "value": "Not included Not included Included",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "label": "例：問い合わせのSlack通知",
+    "value": "毎回（不定） 5分 高（見逃しリスク） ○ 最優先",
+    "url": "https://joint-elements.com/shikumika/n8n-how-to-guide/",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$493.5M",
+    "url": "https://getlatka.com/companies/n8nio",
+    "pass": 3
+   },
+   {
+    "label": "Outside funding",
+    "value": "About $240 million in primary venture capital through the Series C, plus SAP's undisclosed strategic investment None reported before its acquisition; the company was bootstrapped A single seed round of about $1.3 million in 2012, and no primary venture capital since",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "for all machine-readable content.",
+    "url": "https://n8n.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Ask for approval on Slack",
+    "url": "https://n8n.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How Tom automated new user onboarding",
+    "url": "https://n8n.io/",
+    "pass": 1
+   },
+   {
+    "quote": "New hires get instant access to Slack, Jira, Notion, and more, all in one workflow.",
+    "url": "https://n8n.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Top 50 Github project with 210.1k stars",
+    "url": "https://n8n.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect any model, see every decision, and add human approval when needed.",
+    "url": "https://n8n.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Use structured inputs and outputs for AI actions. Add human-in-the-loop approvals and rule-based automation.",
+    "url": "https://n8n.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy on-prem or with Docker to keep your data in your own environment. Access the source code on GitHub, or use the hosted version.",
+    "url": "https://n8n.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully on-prem option, SSO SAML, and LDAP, encrypted secret stores, version control, RBAC permissions.",
+    "url": "https://n8n.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"n8n was the big unlock. Tools like ChatGPT and Claude are great, but n8n is the thing that allows you to integrate AI into your work and your processes in a safe and controlled way.\"",
+    "url": "https://n8n.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"n8n provides SOAR capability and workflows in a low-code model, as well as the ability to code for more complex workflows and integrations. It did everything that we wanted, all in one tool.\"",
+    "url": "https://n8n.io/",
+    "pass": 1
+   },
+   {
+    "quote": "n8n is the tool that turns 'I have an idea' into 'it's running in production' faster than anything else.",
+    "url": "https://n8n.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you to the n8n community. I did the beginners course and promptly took an automation WAY beyond my skill level.",
+    "url": "https://n8n.io/",
+    "pass": 1
+   },
+   {
+    "quote": "for all machine-readable content.",
+    "url": "https://n8n.io/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you’re looking to build a verified node, implement n8n for your customers, create an official n8n course, or spread the word as an affiliate; we have a partner program to work together.",
+    "url": "https://n8n.io/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "If you’re a content creator or if you build n8n templates, join our affiliate program and get 30% rev share for 12 months on Starter and Pro plans.",
+    "url": "https://n8n.io/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re running a closed pilot partnering with system integrators that implement n8n as the AI orchestration and Automation layer for our mutual customers. Learn more about our Experts Partner Program and join the waitlist.",
+    "url": "https://n8n.io/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "for all machine-readable content.",
+    "url": "https://n8n.io/sap-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Closing the gaps that stall enterprise AI",
+    "url": "https://n8n.io/sap-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Production AI stalls in a lot of places: agents that can't act reliably, governance that doesn't scale, and tools that don't fit together. n8n inside Joule Studio addresses these by pairing SAP's platform and grounding context with n8n's canvas for orchestrating AI, code, and your full tech stack. Your team gets to focus on the build.",
+    "url": "https://n8n.io/sap-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "We built and shipped Icatu Seguros' insurance assistant with n8n, from concept to production in just 7 weeks.",
+    "url": "https://n8n.io/sap-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "We've incorporated n8n into our core practice at Bitovi and have been delivering it for enterprises for years.",
+    "url": "https://n8n.io/sap-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Together, we help enterprise clients scale intelligent workflows faster while maintaining the governance large organizations require.",
+    "url": "https://n8n.io/sap-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "n8n Plans and Pricing - n8n.io",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "for all machine-readable content.",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "1 shared project",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "For solo builders and small teams running automations in production.",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "3 shared projects",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro plan, plus:",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "6 shared projects",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited shared projects",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "End-user credentials (preview)",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Extended data retention",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Assistant preview on request",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Assistant credits (preview)",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Human approval for tool calls",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "OpenTelemetry tracing (preview)",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "2 (dev, prod)",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Max execution log retention",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales assisted procurement",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Pro-level features: Global Variables, Insights (including the dashboard and 14-day history), 5-day workflow history, advanced execution filters, unlimited evaluations, folders and Assistant",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Trial limits: 1,000 executions, 5 concurrent executions, a 180-second execution timeout, and 1 team project",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Not included: Admin Roles, the project Editor role, Named Versions, Workflow Diffs, and the n8n public API",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "What are executions (and why are they more powerful than on other products)?",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Executions are much more powerful than the ‘operations’ or ‘tasks’ that you’re billed on in other products.",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "An execution is a single run of your entire workflow. It doesn’t matter how many steps are in the workflow or how much data it processes. It’s still a single execution.",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "This makes your usage more predictable than other tools where you pay individually for every step or task. Plus n8n workflows you can do things in a single execution that would take 10,000 operations in other tools.",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Assistant (currently in preview) is included in all n8n Cloud plans except Enterprise. Each plan comes with a monthly allowance of Assistant credits: 1,600 on Starter and 4,000 or 9,600 on Pro, depending on your plan size.",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "for all machine-readable content.",
+    "url": "https://n8n.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Owner, Icatu Seguros",
+    "url": "https://n8n.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "\"...more than automating a process, what we're doing is using technology to better support people and allow our teams to focus on what truly generates value for our users.”",
+    "url": "https://n8n.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "n8n is the tool that turns 'I have an idea' into 'it's running in production' faster than anything else.",
+    "url": "https://n8n.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you to the n8n community. I did the beginners course and promptly took an automation WAY beyond my skill level.",
+    "url": "https://n8n.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "for all machine-readable content.",
+    "url": "https://n8n.io/case-studies/huel/",
+    "pass": 1
+   },
+   {
+    "quote": "Historically, Huel followed a best-of-breed philosophy, preferring to buy rather than build. But as AI matured and n8n entered the stack, that mindset shifted.",
+    "url": "https://n8n.io/case-studies/huel/",
+    "pass": 1
+   },
+   {
+    "quote": "n8n made it realistic for non-technical employees to build and maintain processes that would previously have required external vendors.",
+    "url": "https://n8n.io/case-studies/huel/",
+    "pass": 1
+   },
+   {
+    "quote": ". People across the company were comfortable prompting and conversing with AI, but the value remained siloed within each individual tool. There was no way to connect AI capabilities to the systems and processes people relied on every day, from data pipelines and operational reporting to content workflows and finance tasks.",
+    "url": "https://n8n.io/case-studies/huel/",
+    "pass": 1
+   },
+   {
+    "quote": "Many of their existing tools were expensive and highly specialized, effective at solving isolated problems but rigid as needs evolved.",
+    "url": "https://n8n.io/case-studies/huel/",
+    "pass": 1
+   },
+   {
+    "quote": "There was also a cultural challenge. Huel wanted to implement a forward-thinking, AI-first company culture, one where every employee had access to the latest AI tools and could rethink how they work. That meant finding a platform accessible enough for non-technical people while still powerful enough for complex, enterprise-grade workflows.",
+    "url": "https://n8n.io/case-studies/huel/",
+    "pass": 1
+   },
+   {
+    "quote": "From experimentation to enterprise-wide adoption",
+    "url": "https://n8n.io/case-studies/huel/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by Fortune 500 companies to build smarter workflows.",
+    "url": "https://n8n.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams building smarter workflows.",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "How Field Aerospace speeds up proposal generation for government solicitation with n8n",
+    "url": "https://n8n.global/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/n8n/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Automated Production Planning with n8n | Frontkit Studio",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "The company makes its own products and ships them from a 3PL warehouse. Its plan lives in a manufacturing ERP, purchasing in an inventory planning tool and Odoo, and stock in the warehouse system. We built the n8n workflows that keep those systems in step, so the plan is ready when the team starts.",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "3PL warehouse",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "Someone checked stock against reorder points, then created the purchase order in one tool and the manufacturing order in another. The production lead assigned the day's orders to operators before the shift started.",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "Finished orders sometimes missed their packaging bookings, and warehouse receipts sometimes arrived without a batch number. Both only surfaced when stock counts or traceability checks did not add up.",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "When an item drops below its reorder point, the workflow works out how much to make and when, then creates a purchase order in the inventory planning tool and a linked manufacturing order in the ERP. If the manufacturing order fails, Slack hears about it.",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "Operators assigned at 06:00",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "Every weekday at 06:00, the workflow freezes the day's plan and assigns each manufacturing order to the right operator. It never overwrites an assignment a person made by hand.",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "Every morning, finished orders that are missing packaging bookings get them added, but only when the warehouse receipts match what was made. Each booking is read back to confirm it. Anything that does not match goes to Slack.",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "At 08:00, the workflow checks goods received at the warehouse for a valid batch number and switches batch tracking back on where it was turned off. Traceability gaps show up the next morning instead of during an audit.",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "Packaging is booked only when warehouse receipts match",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "Shop, marketplace and warehouse kept in step without anyone watching",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "Tell us which planning, warehouse and purchasing tools you run. We'll show you which steps can run before your team arrives.",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Trusted by Fortune 500 companies to build smarter workflows.",
+    "url": "https://n8n.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Create a custom node that feels native on the n8n canvas. Tap into our automation community and enable easy connection to other n8n apps and data sources. Use our CLI and examples to build, then submit for verification to have your node appear in the UI and become part of the n8n ecosystem.",
+    "url": "https://n8n.io/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "For companies with < 100 employees needing collaboration and scale.",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Business and Enterprise plans offer features meant for companies that are driving measurable business outcomes with automation and AI. Most customers at this level see a clear return on investment, as automations save time, streamline operations, and even unlock new revenue streams.",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "From 4 early adopters to 3,000 employees",
+    "url": "https://n8n.io/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "n8n made it realistic for non-technical employees to build and maintain processes that would previously have required external vendors.",
+    "url": "https://n8n.io/case-studies/huel/",
+    "pass": 1
+   },
+   {
+    "quote": ". Employees who once spent their days on repetitive operational tasks have been freed to focus on strategic, higher-value activities. Some, like the SEO manager, have effectively transformed their roles entirely, shifting from domain-specific execution to full-time automation and AI work.",
+    "url": "https://n8n.io/case-studies/huel/",
+    "pass": 1
+   },
+   {
+    "quote": "The company now has over 100 employees actively using n8n, with that number growing as more people attend training sessions and see what their colleagues are building. n8n has become a core part of Huel's technology stack, not just as an automation tool, but as the layer that connects AI to the rest of the business.",
+    "url": "https://n8n.io/case-studies/huel/",
+    "pass": 1
+   },
+   {
+    "quote": "Vodafone UK, part of the global Vodafone Group, is the largest telecommunications company operating in the United Kingdom, focused on connecting people, businesses, and communities through its mobile and fixed network infrastructure.",
+    "url": "https://n8n.io/case-studies/vodafone/",
+    "pass": 1
+   },
+   {
+    "quote": "As part of its cybersecurity objectives, Vodafone wanted to",
+    "url": "https://n8n.io/case-studies/vodafone/",
+    "pass": 1
+   },
+   {
+    "quote": "“To manually carry out this process every 5 minutes with triage and tickets being raised on the correct ticketing system for all of our critical feeds would have been impossible without a significant increase in operational resource, taking us away from higher value work. n8n is allowing us to work smarter, rather than harder.”",
+    "url": "https://n8n.io/case-studies/vodafone/",
+    "pass": 1
+   },
+   {
+    "quote": "How Seguros Bolívar empowers 3,000 employees with n8n to become an AI-first insurer",
+    "url": "https://n8n.global/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "“Using n8n, we’ve been able to scale our offer generation by 10×, unlocking new revenue potential for BeGlobal.” – Lars van Gils, Founder, PromptGorillas",
+    "url": "https://n8n.global/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/n8n/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Production planning that is done before the team arrives",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "Finished orders sometimes missed their packaging bookings, and warehouse receipts sometimes arrived without a batch number. Both only surfaced when stock counts or traceability checks did not add up.",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "Every 15 minutes, an AI model reads supplier replies and stops the sequence when a real answer arrives. Otherwise the workflow sends a first and a second follow-up from Odoo, then asks the buyer in Slack to pick up the phone.",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "Supplier chasing stops the moment a real reply arrives",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "Exceptions arrive in the channels the team already reads.",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "Tell us which planning, warehouse and purchasing tools you run. We'll show you which steps can run before your team arrives.",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "n8n's OEM deployment option lets you embed and surface n8n's interface inside your own product's UI. This allows your users to build workflows, configure connections, and run workflow automation without leaving your product. n8n branding is required as part of an OEM integration.",
+    "url": "https://docs.n8n.io/deploy/host-n8n/deploy-as-an-oem-integration",
+    "pass": 3
+   },
+   {
+    "quote": "n8n.io Revenue 2025: $40M, $5.2B Valuation",
+    "url": "https://getlatka.com/companies/n8nio",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/n8nio",
+    "pass": 3
+   },
+   {
+    "quote": "n8n.io revenue",
+    "url": "https://getlatka.com/companies/n8nio",
+    "pass": 3
+   },
+   {
+    "quote": "n8n.io's annual revenue was $40M in August 2025 (Financial Times).",
+    "url": "https://getlatka.com/companies/n8nio",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/n8nio",
+    "pass": 3
+   },
+   {
+    "quote": "n8n.io CEO, founders & employees",
+    "url": "https://getlatka.com/companies/n8nio",
+    "pass": 3
+   },
+   {
+    "quote": "Jan Oberhauser founded n8n.io in 2019 and runs it as CEO. n8n.io has 185 employees (December 2025, Press & News), up from 67 a year earlier.",
+    "url": "https://getlatka.com/companies/n8nio",
+    "pass": 3
+   },
+   {
+    "quote": "What is n8n.io's revenue?",
+    "url": "https://getlatka.com/companies/n8nio",
+    "pass": 3
+   },
+   {
+    "quote": "n8n.io's annual revenue was",
+    "url": "https://getlatka.com/companies/n8nio",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does n8n.io have?",
+    "url": "https://getlatka.com/companies/n8nio",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of December 2025, according to a news report.",
+    "url": "https://getlatka.com/companies/n8nio",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/n8nio",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/n8nio",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/n8nio",
+    "pass": 3
+   },
+   {
+    "quote": "The History and Ownership of n8n: Funding, Valuation, and Revenue | Orchestra",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The History and Ownership of n8n: Funding, Valuation, and Revenue",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The n8n valuation, round by round: who funded n8n, who owns it, how much revenue it makes, and what the numbers do and don't tell you.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Those three numbers are why the subject is confusing. Headlines mix up the valuation, the money raised, and the revenue, and they treat a private funding mark as if it were a market price. The figures also come from different announcements, in different currencies, with different definitions of \"customer\".",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "What follows separates them. You get every funding round in order, the revenue that n8n has disclosed, who holds the equity, and how the number compares with n8n's closest peers. You also get the parts that are unknown or contested, stated as such.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "it does not tell you n8n's revenue, profit, or how much cash it holds. Those are separate numbers, and only some have been disclosed.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "A private company's valuation is not measured the way a listed company's market cap is. There is no daily trading, so the number only moves when shares change hands in a disclosed deal. Each funding round sets a new price, and press coverage multiplies that price across the share count to get the headline.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "is the company's worth before that cash arrives.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The second reading is that the mark is a ceiling set by the most optimistic buyer in a single deal. Venture rounds often carry terms that protect the new investor, so the headline price per share can overstate what common shares are worth. A strategic investor may also pay more because the deal comes with a commercial partnership attached, as SAP's did.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Some numbers look like valuations and are not. Total funding raised, about $240 million through the Series C, is the cash that went into the company. Annual recurring revenue, which passed $40 million in mid-2025, is a measure of sales.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The growth figures n8n disclosed track that shift. At the Series B in March 2025, it reported more than 230,000 active users and five times ARR growth. By the Series C term sheet in August 2025, ARR had passed $40 million, which the company described as roughly ten times year-on-year growth, with users up about six times.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The reported valuation was around €250 million. Some secondary sources convert that to roughly $288 million, which is the same mark expressed in dollars rather than a different one. At the announcement, n8n reported more than 230,000 active users and five times ARR growth.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The jump from about €250 million to $2.5 billion in seven months is roughly tenfold. It lines up with the revenue growth n8n reported over the same stretch, which is covered in the next section.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "n8n Revenue",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "n8n is a private company and does not publish accounts the way a listed company would. What is known about n8n revenue comes from figures the company chose to share at funding announcements. There are only a few of them, and each needs its date attached.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The main figure is annual recurring revenue. n8n's ARR passed $40 million around August 2025, when the Series C term sheet was signed. The company described this as about ten times year-on-year growth, and at the Series B seven months earlier it had reported five times ARR growth without a dollar figure.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "ARR is not the same as revenue in a set of accounts. It is the annualised value of recurring contracts at a point in time.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "A company with $40 million in ARR in August may have booked far less than that over the previous twelve months. For a business growing ten times a year, the gap between the two can be large.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "No newer ARR figure had been disclosed as of October 2026. The SAP announcement in May 2026 gave user and customer counts but no revenue number. Any figure you see for n8n's 2026 revenue is an outside estimate, unless it links to an n8n statement.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Where the revenue comes from",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "n8n has not published how its revenue splits between cloud subscriptions, enterprise licences and any embedded or partner deals. Breakdowns that circulate online are third-party estimates. Check current prices at",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "The n8n revenue multiple",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Putting the two disclosed numbers together gives a rough ratio. A $2.5 billion valuation against $40 million in ARR is about 62 times ARR. That uses the closest pair of dated figures, and it ignores any growth between August and October 2025.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "There is no matching figure for the $5.2 billion mark, because no ARR was published alongside it. Any multiple quoted for the SAP round depends on an assumed revenue number, so treat it as a guess.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "n8n is owned by its shareholders: its founder, any employees with equity, and the venture and corporate investors listed above. It is a private German company, n8n GmbH, entered in the Berlin commercial register on 27 November 2019. As of October 2026, it is not listed on any stock exchange.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email win-back discount",
+    "url": "https://n8n.io/",
+    "pass": 1
+   },
+   {
+    "quote": ". Additionally, if you are a Business plan user you will receive a weekly email providing you with your production execution counts across all instances where you may have applied your Business plan license key. For annual Business plan subscribers, the n8n team will reach out to you when you are close to reaching 80% of your annual quota.",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Once you subscribe to the Business plan and complete your payment, you'll receive your license key by email. You'll need to apply this key to your Community instance by following the steps outlined",
+    "url": "https://n8n.io/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "“With n8n, we were also able to create modules. We broke down our workflows and looked at what we could reuse in other teams or spaces, like an email module – once you’ve got it, it can be used anywhere.”",
+    "url": "https://n8n.io/case-studies/vodafone/",
+    "pass": 1
+   },
+   {
+    "quote": "{{ $json.fromEmail }}",
+    "url": "https://joint-elements.com/shikumika/n8n-how-to-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "Unbabel reduces management emails by 55% with n8n",
+    "url": "https://www.featuredcustomers.com/vendor/n8n/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/n8n/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/n8n/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Or send your brief and get a quote by email",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "using the email provided when you signed your OEM agreement. The",
+    "url": "https://docs.n8n.io/deploy/host-n8n/deploy-as-an-oem-integration",
+    "pass": 3
+   },
+   {
+    "quote": "On trust: it asks before it sends, pays or deletes anything you didn’t ask for, and an email or web page can’t give Nod permission. Only you can.",
+    "url": "https://community.n8n.io/t/can-n8n-be-used-as-a-white-label-solution-supporting-multi-tenancy/8493",
+    "pass": 3
+   },
+   {
+    "quote": "On trust: it asks before it sends, pays or deletes anything you didn’t ask for, and an email or web page can’t give Nod permission. Only you can.",
+    "url": "https://community.n8n.io/t/white-label-editor/25010",
+    "pass": 3
+   },
+   {
+    "quote": "It could be worth emailing our license team to find out a bit more.",
+    "url": "https://community.n8n.io/t/white-label-editor/25010",
+    "pass": 3
+   },
+   {
+    "quote": "Thanks, Jon! What’s the best email to reach them at?",
+    "url": "https://community.n8n.io/t/white-label-editor/25010",
+    "pass": 3
+   },
+   {
+    "quote": ". You can find this email and additional information here in our docs:",
+    "url": "https://community.n8n.io/t/white-label-editor/25010",
+    "pass": 3
+   },
+   {
+    "quote": "What changed was the product's role. n8n added an AI Agent node, and its visual canvas became a common place to wire a large language model to business tools. Teams that wanted an LLM to read an email, call a CRM and post to Slack could build that without writing the glue code by hand.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/N8n",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/N8n",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Whether you’re looking to build a verified node, implement n8n for your customers, create an official n8n course, or spread the word as an affiliate; we have a partner program to work together.",
+    "url": "https://n8n.io/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re running a closed pilot partnering with system integrators that implement n8n as the AI orchestration and Automation layer for our mutual customers. Learn more about our Experts Partner Program and join the waitlist.",
+    "url": "https://n8n.io/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Spalato Consulting helps marketing agencies uncover inefficiencies and scale with n8n-powered automation. We run AI Opportunity Audits, design custom workflow blueprints, and deliver implementation roadmaps with clear ROI turning manual work into measurable growth",
+    "url": "https://experts.n8n.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy as an OEM integration | Deploy | n8n Docs",
+    "url": "https://docs.n8n.io/deploy/host-n8n/deploy-as-an-oem-integration",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy as an OEM integration",
+    "url": "https://docs.n8n.io/deploy/host-n8n/deploy-as-an-oem-integration",
+    "pass": 3
+   },
+   {
+    "quote": "OEM agreement required",
+    "url": "https://docs.n8n.io/deploy/host-n8n/deploy-as-an-oem-integration",
+    "pass": 3
+   },
+   {
+    "quote": "OEM deployment of n8n requires a separate commercial agreement with n8n.",
+    "url": "https://docs.n8n.io/deploy/host-n8n/deploy-as-an-oem-integration",
+    "pass": 3
+   },
+   {
+    "quote": "n8n's OEM deployment option lets you embed and surface n8n's interface inside your own product's UI. This allows your users to build workflows, configure connections, and run workflow automation without leaving your product. n8n branding is required as part of an OEM integration.",
+    "url": "https://docs.n8n.io/deploy/host-n8n/deploy-as-an-oem-integration",
+    "pass": 3
+   },
+   {
+    "quote": "to trigger workflows, and n8n behaves like any other self-hosted service in your infrastructure - your users never see any n8n UI. This is available on all paid plans, under the standard license, with no separate agreement needed. OEM deployment is only necessary when you want your users to interact with the n8n editor directly.",
+    "url": "https://docs.n8n.io/deploy/host-n8n/deploy-as-an-oem-integration",
+    "pass": 3
+   },
+   {
+    "quote": "using the email provided when you signed your OEM agreement. The",
+    "url": "https://docs.n8n.io/deploy/host-n8n/deploy-as-an-oem-integration",
+    "pass": 3
+   },
+   {
+    "quote": "Can n8n be used as a white-label solution supporting multi-tenancy? - Questions - n8n Community",
+    "url": "https://community.n8n.io/t/can-n8n-be-used-as-a-white-label-solution-supporting-multi-tenancy/8493",
+    "pass": 3
+   },
+   {
+    "quote": "Can n8n be used as a white-label solution supporting multi-tenancy?",
+    "url": "https://community.n8n.io/t/can-n8n-be-used-as-a-white-label-solution-supporting-multi-tenancy/8493",
+    "pass": 3
+   },
+   {
+    "quote": "I’ve been exploring n8n for a few days and it’s a fantastic tool! I wanted to confirm with you. Is it possible to create a white-label version of n8n supporting multi-tenancy? We’re looking to build a tool similar to Zapier or Integromat where we bring our frontend but we rely on n8n to build the integrations our customers need.",
+    "url": "https://community.n8n.io/t/can-n8n-be-used-as-a-white-label-solution-supporting-multi-tenancy/8493",
+    "pass": 3
+   },
+   {
+    "quote": "White-label Editor - Questions - n8n Community",
+    "url": "https://community.n8n.io/t/white-label-editor/25010",
+    "pass": 3
+   },
+   {
+    "quote": "We are currently self-hosting n8n and just applied to be a reseller. Are we able to white-label our editor? Most likely none of our clients will ever access it, but I would love the editor to show our branding if we ever do a client demo.",
+    "url": "https://community.n8n.io/t/white-label-editor/25010",
+    "pass": 3
+   },
+   {
+    "quote": "Licensing question (White Labeling)",
+    "url": "https://community.n8n.io/t/white-label-editor/25010",
+    "pass": 3
+   },
+   {
+    "quote": "Can I white label the builder?",
+    "url": "https://community.n8n.io/t/white-label-editor/25010",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Documentation",
+    "url": "https://community.n8n.io/t/white-label-editor/25010",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "n8nとは？ノーコードで業務自動化を始める入門ガイド【2026年版】 | 株式会社ZTEX",
+    "url": "https://ztex-japan.com/blog/n8n-workflow-automation-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本の中小企業でも、「顧客データをアメリカのサーバーに送りたくない」という声は少なくありません",
+    "url": "https://ztex-japan.com/blog/n8n-workflow-automation-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ZTEXでは、n8nを主要プラットフォームとして採用し、仙台・宮城エリアの企業向けにn8n導入支援・社内研修を提供しています",
+    "url": "https://ztex-japan.com/blog/n8n-workflow-automation-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "n8nは日本語対応している？日本企業が導入前に知っておきたい4つの注意点を解説 | 株式会社ロフタル - 情報技術を通して「楽」を提供する",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "n8nは日本語対応している？日本企業が導入前に知っておきたい4つの注意点を解説",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "n8nは日本語対応している？",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "n8nを日本企業が導入する前に知っておきたい4つの注意点",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "2日本語の情報や事例がまだ少ない",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業向けなら国産ワークフロー自動化ツールも選択肢",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、日本企業の担当者の中には「n8nは日本語対応しているの？」「英語が苦手でも使える？」といった疑問を持つ方も多いのではないでしょうか",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、n8nの日本語の対応状況を整理したうえで、日本企業が導入前に確認しておきたい4つの注意点を紹介します",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "結論からいうと、執筆時点でn8nは標準の日本語UIに対応していません",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "管理画面や公式ドキュメント、コミュニティフォーラムなどは基本的に英語で提供されており、日本語へ切り替える機能は用意されていません",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "n8nには標準の日本語UIはありませんが、ブラウザの翻訳機能を利用すれば、画面表示を日本語に近い形で使えます",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "例えばGoogle Chromeには、Webページ全体を自動翻訳する機能が搭載されており、メニューや設定画面を日本語で表示できます",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "専門用語や設定項目が不自然な日本語になる場合があり、すべての画面が正確に翻訳されるわけではありません",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "日本語UIが標準搭載されているツールと比べると、使いにくさを感じてしまう場面もあります",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "では、日本企業がn8nを導入する前に知っておきたい注意点には、どのようなものがあるのでしょうか",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の解説記事や動画も増えつつありますが、海外の情報量と比べるとまだ限られています",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "n8nには日本語対応や運用面での課題がある一方で、それでも多くの企業に選ばれている理由があります",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "n8nは非常に柔軟で強力なワークフロー自動化ツールですが、日本企業での導入では「日本語対応」や「サポート体制」を重視するケースも少なくありません",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "特に現場部門を含めて全社的に展開する場合、UIやドキュメントが日本語であることや、困ったときに日本語で相談できる環境は大きな安心材料になります",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "は、採用・営業・バックオフィスの業務をノーコードで自動化する、日本企業向けのワークフロー自動化ツールです",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "対応する外部サービスとの連携や業務フローの自動化ができ、導入時のサポートや運用面の相談は日本語で受けられます",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "導入時のサポートやワークフロー設計の伴走支援を日本語で受けられます",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "「社内展開」や「日本語での運用サポート」を重視する企業は、比較候補の一つとして検討できます",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "一方でPigeon Workflowは、現場部門を含む社内展開や、日本語での導入・運用支援を重視する企業が比較候補にできます",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、標準では日本語UIに対応しておらず、サポートやドキュメントも英語が中心である点には注意が必要です",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "n8n日本語チュートリアル — AIワークフロー自動化完全ガイド | n8nコミュニティ | n8nHub",
+    "url": "https://n8nhub.org/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "n8n 日本語チュートリアル",
+    "url": "https://n8nhub.org/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "入門から上級まで日本語チュートリアルを網羅",
+    "url": "https://n8nhub.org/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "：公式ドキュメントは主に英語で提供されており、日本語の一次ドキュメントは限定的です（参考：",
+    "url": "https://joint-elements.com/shikumika/n8n-how-to-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "：2026年2月時点で公式の日本語フォーラムや常設の日本語Slackは確認できていないものの、日本語での情報発信は増加傾向にあります",
+    "url": "https://joint-elements.com/shikumika/n8n-how-to-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、日本語の学習リソースは増加傾向にあります",
+    "url": "https://joint-elements.com/shikumika/n8n-how-to-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社homulaがn8n公式クリエイターとして日本語解説付きテンプレートを提供しており（参考：",
+    "url": "https://joint-elements.com/shikumika/n8n-how-to-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "PR TIMES「株式会社homulaがn8n公式クリエイターとして日本語テンプレート提供へ」",
+    "url": "https://joint-elements.com/shikumika/n8n-how-to-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "｜不明｜日本語解説付きテンプレート提供）、globisのような法人向け入門講座（日本語・32分）も提供されています（参考：",
+    "url": "https://joint-elements.com/shikumika/n8n-how-to-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "｜不明｜非エンジニア向け32分の日本語講座）",
+    "url": "https://joint-elements.com/shikumika/n8n-how-to-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "定時実行（Cronトリガー）を使うワークフローでは、タイムゾーンを日本時間（Asia/Tokyo）に設定することが必須です",
+    "url": "https://joint-elements.com/shikumika/n8n-how-to-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "：「この記事を日本語で3行以内に要約してください」などのプロンプトを設定します",
+    "url": "https://joint-elements.com/shikumika/n8n-how-to-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub - Tomatio13/n8n-i18n-japanese: n8n 日本語化プロジェクトは、n8nの直感的なユーザーインターフェースを日本語で使いたい方のためのオープンソースプロジェクトです",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub Releases から簡単に日本語化パッケージをダウンロードして、手間なく日本語版のn8nをすぐに利用開始できます",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "n8nを日本語で便利に使いたい方にぴったりのリポジトリです！ · GitHub",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "n8n 日本語化プロジェクト",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "このプロジェクトは、n8n のユーザーインターフェース (UI) を日本語で利用可能にすることを目的としています",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "多くのユーザーにとって最も簡単な方法は、GitHub Releases からビルド済みの日本語化パッケージをダウンロードすることです",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "最新の日本語化パッケージはこちらからダウンロード (GitHub Releases)",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "これを利用することで、煩雑なビルド作業なしに n8n を日本語で利用開始できます",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": ": 最新の n8n リリースに対応した、日本語化済みの",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": ": n8n の UI テキストに対応する日本語の翻訳ファイル (",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "を使用して、日本語化された n8n 環境を簡単に起動できます",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "git clone https://github.com/Tomatio13/n8n-i18n-japanese.git",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "n8n-i18n-japanese",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "がコンテナにマウントされ、n8n が日本語 UI で起動します",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "docker run -it --rm --name n8n-japanese-test \\",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "n8n のデフォルト言語を日本語に設定します",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "翻訳対象言語 (任意、未設定の場合は日本語のみを対象とします)",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "例: TARGET_LANGUAGES='[{\"name\":\"ja\",\"label\":\"日本語\"},{\"name\":\"en\",\"label\":\"English\"}]'",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "TARGET_LANGUAGES='[{\"name\":\"ja\",\"label\":\"日本語\"}]'",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "以下のコマンドで、最新の英語ロケールファイルを取得し、日本語に翻訳して",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "n8nとは？ノーコードで業務自動化を始める入門ガイド【2026年版】 | ... — Feb 21, 2026 · n8nとは？ n8n（エヌエイトエヌ） は、ドイツ発のオープンソース・ワークフロー自動化プラットフォームです。 ... 名前の由来は「n odematio n」（ノードメーション）の省略形で、「n」と「n」の間に8文字あることから「n8n」と名付けられました。",
+    "url": "https://ztex-japan.com/blog/n8n-workflow-automation-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "n8nは日本語対応している？日本企業が導入前に知っておきたい4つの注... — Jul 20, 2026 · 本記事では、n8nの日本語の対応状況を整理したうえで、日本企業が導入前に確認しておきたい4つの注意点を紹介します。 この記事のポイント n8nは 標準では日本語UIに対応していない （管理画面・ドキュメントは英語が中心）",
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "n8n日本語チュートリアル — AIワークフロー自動化完全ガイド | n8nコ... — 最も包括的なn8n日本語チュートリアル。 AIエージェントワークフロー自動化をマスターし、500+アプリを接続。 オープンソースでセルフホスト可能、コミュニティ版は永久無料。",
+    "url": "https://n8nhub.org/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "n8n使い方完全ガイド｜非エンジニアが業務自動化！導入から実践ワーク... — Mar 13, 2026 · n8nの使い方を初心者向けに完全解説。 1,000ノード運用実績から、導入・設定、クラウド/セルフホストの選び方、実践ワークフロー5選まで網羅。 非エンジニアでも業務自動化を成功させる日本語ガイドです。",
+    "url": "https://joint-elements.com/shikumika/n8n-how-to-guide/",
+    "pass": 3
+   },
+   {
+    "quote": "n8n導入の判断材料：CloudとCommunity・権限・失敗時の運用と効果測定... — Jun 8, 2025 · 匿名の海外企業とBase Foodの列挙も一次資料を照合できず、導入効果の根拠から外します。 内製・既存SaaS・code・n8n・外部支援を、必要な能力、運用責任、費用、期限で比較します。 専門業者へ依頼しても無条件に安全・成功するわけではありません。",
+    "url": "https://qiita.com/YushiYamamoto/items/1c6fa7d52a0186f58165",
+    "pass": 3
+   },
+   {
+    "quote": "n8n Service Partner Directory — We are specialists in transforming complex processes into simple, agile, and automated workflows. We act as a strategic partner for companies seeking operational efficiency, continuous innovation, and productivity gains through technology. In addition to being experts in n8n implementation and customization, we offer consulting, custom integration development, and s",
+    "url": "https://experts.n8n.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Workflow Automation Software & Tools | n8n — Optimize your enterprise business with top software integrations. Seamlessly move and transform data between different apps with n8n.",
+    "url": "https://n8n.io/enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Workflow Automation Platform - n8n — n8n is a workflow automation platform that uniquely combines AI capabilities with business process automation, giving technical teams the flexibility of code with the speed of no-code.",
+    "url": "https://n8n.io/",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub - Tomatio13/n8n-i18n-japanese: n8n 日本語化プロジェクトは... — このリリースには、特定の n8n バージョンに対応した翻訳済み editor-ui が editor-ui.tar.gz として含まれています。 これを利用することで、煩雑なビルド作業なしに n8n を日本語で利用開始できます。",
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "n8n 日本ユーザ会 – 非公式のn8n日本語リソースです — n8n 日本ユーザ会 非公式のn8n日本語リソースです",
+    "url": "https://n8n.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "n8n case studies — See what teams build with n8n Explore real customer case studies showing how teams use n8n to save time, scale operations, and put AI to work.",
+    "url": "https://n8n.io/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "n8n case studies — Read cases about how n8n is saving people time and money by automating all of those boring, mundane and repetitive manual tasks.",
+    "url": "https://n8n.global/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "10 n8n Case Studies, Success Stories, & Customer Stories — Learn what their customers think, get 10 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/n8n/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Automated Production Planning with n8n | Frontkit ... — Its plan lives in a manufacturing ERP, purchasing in an inventory planning tool and Odoo, and stock in the warehouse system. We built the n8n workflows that keep those systems in step, so the plan is ready when the team starts.",
+    "url": "https://thefrontkit.com/work/production-planning",
+    "pass": 3
+   },
+   {
+    "quote": "How Quid connected engineering and the business with n8n to ... — Across the past year, Quid logged close to half a million n8n workflow executions across its environments, spanning experimentation and production-grade customer-facing workflows.",
+    "url": "https://n8n.io/case-studies/quid/",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy as an OEM integration | Deploy | n8n Docs — Overview of OEM deployment - surfacing n8n's interface inside your own product's UI under an OEM agreement.",
+    "url": "https://docs.n8n.io/deploy/host-n8n/deploy-as-an-oem-integration",
+    "pass": 3
+   },
+   {
+    "quote": "Can n8n be used as a white-label solution supporting multi ... — Oct 14, 2021 · Hi everyone, I’ve been exploring n8n for a few days and it’s a fantastic tool! I wanted to confirm with you. Is it possible to create a white-label version of n8n supporting multi-tenancy? We’re looking to build a tool similar to Zapier or Integromat where we bring our frontend but we rely on n8n to build the integrati",
+    "url": "https://community.n8n.io/t/can-n8n-be-used-as-a-white-label-solution-supporting-multi-tenancy/8493",
+    "pass": 3
+   },
+   {
+    "quote": "White-label Editor - Questions - n8n Community — Apr 9, 2023 · We are currently self-hosting n8n and just applied to be a reseller. Are we able to white-label our editor? Most likely none of our clients will ever access it, but I would love the editor to show our branding if we ever do a client demo.",
+    "url": "https://community.n8n.io/t/white-label-editor/25010",
+    "pass": 3
+   },
+   {
+    "quote": "White-Labeling n8n: Building Your Own SaaS on Top | Goodish — Feb 24, 2026 · You control the UI, the client journey, and the underlying logic, positioning *you* as a true technology provider not just a reseller. This approach directly addresses a common dilemma we see, providing a concrete path to white-labeling that goes beyond simple rebranding. n8n White-Labeling Implementation Comparison: iFra",
+    "url": "https://goodish.agency/white-labeling-n8n-building-your-own-saas-on-top/",
+    "pass": 3
+   },
+   {
+    "quote": "n8n.io Revenue 2025: $40M, $5.2B Valuation - LATKA — May 1, 2026 · n8n.io CEO, founders & employees Jan Oberhauser founded n8n.io in 2019 and runs it as CEO. n8n.io has 185 employees (December 2025, Press & News), up from 67 a year earlier.",
+    "url": "https://getlatka.com/companies/n8nio",
+    "pass": 3
+   },
+   {
+    "quote": "The History and Ownership of n8n: Funding, Valuation, and Revenue — Oct 12, 2026 · n8n is owned by its shareholders: its founder, any employees with equity, and the venture and corporate investors listed above. It is a private German company, n8n GmbH, entered in the Berlin commercial register on 27 November 2019.",
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "N8n: Revenue, Competitors, Alternatives - Growjo — N8n top competitors are Zapier, AiRFLOW and Integromat and they have annual revenue of $169.6M and 848 employees.",
+    "url": "https://growjo.com/company/N8n",
+    "pass": 3
+   },
+   {
+    "quote": "N8n – Market Position & Workforce Comparison – 2026 – Berlin — Discover N8n's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/n8n",
+    "pass": 3
+   },
+   {
+    "quote": "N8n - 2026 Company Profile, Team, Funding, Competitors ...n8n 2026 Company Profile: Valuation, Funding & Investors ...n8n Revenue, Valuation, Funding & Investors | Multiples — Sep 11, 2026 · N8n - About the company N8n is a series C company based in Berlin (Germany), founded in 2019 by Jan Oberhauser. It operates as a Developer of workflow automation software for building integrated technical proc",
+    "url": "https://tracxn.com/d/companies/n8n/__J5xwUZ9C29t7Du-yVvv0S99EWc7s69t2NGt5YmhQG0A",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "n8n.io (@n8n_io) / X 11 n8n community events this week 🌍 Meetups, hackathons, workshops, and online sessions. Find one near you, come meet your local Ambassadors, and let’s automate together.",
+    "url": "https://x.com/n8n_io",
+    "pass": 3
+   },
+   {
+    "quote": "n8n.io on X: \"n8n Labs is a small team exploring ideas beyond ... n8n.io on X: \"n8n Labs is a small team exploring ideas beyond our core product We build working experiments, put them in people’s hands, and learn from real use Nod is one of those experiments.",
+    "url": "https://x.com/n8n_io/status/2120431336108482969",
+    "pass": 3
+   },
+   {
+    "quote": "n8n.io on X: \"Try Gemini 4 Carbon, @googlecloud’s strongest ... Try Gemini 4 Carbon, @googlecloud’s strongest model yet, in your n8n agents and workflows. Built for deep reasoning on long-horizon work, with gains in coding and agentic tasks.",
+    "url": "https://x.com/n8n_io/status/2120201352080982016",
+    "pass": 3
+   },
+   {
+    "quote": "n8n.io on X: \"Welcome to The n8n Detective Agency ️ ... Welcome to The n8n Detective Agency 🕵️ Something’s gone missing at #MSIgnite. Grab a clue card at Booth 5344R, scan it to feed our AI detective (built in n8n, reasoning via Azure AI Foundry), and question the suspects yourself.",
+    "url": "https://x.com/n8n_io/status/2119879959556595982",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "n8n - LinkedIn n8n is a workflow automation platform for building AI-powered workflows and agents. As the orchestration layer for AI, it enables teams to connect models with business systems while maintaining...",
+    "url": "https://www.linkedin.com/company/n8n/",
+    "pass": 3
+   },
+   {
+    "quote": "n8n - LinkedIn n8n is a workflow automation platform for building AI-powered workflows and agents. As the orchestration layer for AI, it enables teams to connect models with business systems while maintaining...",
+    "url": "https://www.linkedin.com/products/n8n/",
+    "pass": 3
+   },
+   {
+    "quote": "Alexandra Richenburg - n8n | LinkedInBen Kiziltug - n8n | LinkedInJan Oberhauser - Founder & CEO of n8n.io | LinkedInN8n Jobs in India (3,000+ Open Roles) | LinkedInAI Automation Engineer | Claude Code, n8n & AI Agents Experience: n8n · Location: United Kingdom · 500+ connections on LinkedIn. View Alexandra Richenburg’s profile on LinkedIn, a professional community of 1 billion members. Currently ",
+    "url": "https://uk.linkedin.com/in/alexrichenburg",
+    "pass": 3
+   },
+   {
+    "quote": "Ben Kiziltug - n8n | LinkedInJan Oberhauser - Founder & CEO of n8n.io | LinkedInN8n Jobs in India (3,000+ Open Roles) | LinkedInAI Automation Engineer | Claude Code, n8n & AI Agents Currently VP Sales at n8n. Advisor and occasional angel investor… · Experience: n8n · Location: London · 500+ connections on LinkedIn. View Ben Kiziltug’s profile on LinkedIn, a... Founder & CEO of n8n.io · Specialties",
+    "url": "https://uk.linkedin.com/in/benkiziltug",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "N8n - Facebookn8n (Official Community) - FacebookN8N Developers - FacebookN8N Global Community - ( FREE Zapier Alternative ) | FacebookN8N USA | Ai Automation | Ai Agents - Facebookn8n Automation Enthusiasts - Facebookn8n & AI Automation Experts - Facebook n8n now has a new kind of agent, with everything you've built behind it. You describe what an agent should do, give it the tools and workflows ",
+    "url": "https://www.facebook.com/n8nio/",
+    "pass": 3
+   },
+   {
+    "quote": "n8n (Official Community) - Facebook The community for n8n automation enthusiasts.",
+    "url": "https://www.facebook.com/groups/n8nofficial/",
+    "pass": 3
+   },
+   {
+    "quote": "N8N Developers - Facebook Oct 25, 2026 · Hey n8n community! 👋 Just wanted to share something we've been working on recently. We've been building AutoCount Cloud Accounting automations for some of our clients, and got tired of configuring HTTP Request nodes every time we needed to interact with its API.",
+    "url": "https://www.facebook.com/groups/n8ndevelopers/",
+    "pass": 3
+   },
+   {
+    "quote": "N8N Global Community - ( FREE Zapier Alternative ) | Facebook Welcome to the n8n Global Community — a vibrant space for builders, tinkerers, and automation lovers from around the world! Whether you're using n8n, Pipedream, Activepieces, or exploring alternatives to Zapier and Make.com — this is your place to: 🔄 Share and explore real-world workflows 🧠 Learn automation tips, tricks & tools 💬 Get he",
+    "url": "https://www.facebook.com/groups/n8ncommunity/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "コードを書けない電気工事会社の社長が作った、35ノードのn8n日報シス... Sep 20, 2026 · 電気工事会社を営む40代。 コードを書けないところから、AIと相談しながら業務アプリや自動化の仕組みを作っています。 LINE日報、n8n、ローカルAIなど、実際の仕事で使うための構成・失敗・改善を、現場目線で紹介します。",
+    "url": "https://note.com/tasty_otter992/n/nb596a074ecd1",
+    "pass": 3
+   },
+   {
+    "quote": "n8nでX投稿を自動化〜n8nとXを連携する方法もご紹介〜 Aug 1, 2025 · n8nでX投稿自動化ワークフローを作成する ステップ1：トリガーを設定する (Slack Triggerノード) ステップ2：URLから情報を抽出する (Tavilyノード) ステップ3：AIに投稿文を作成させる (LLM Chainノード) ステップ4：Slackで投稿内容を承認する (Slackノード)",
+    "url": "https://note.com/dify_base/n/n014473c3f66d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "コードを書けない電気工事会社の社長が作った、35ノードのn8n日報システムの中身｜40代おっさんの挑戦",
+    "url": "https://note.com/tasty_otter992/n/nb596a074ecd1",
+    "pass": 3
+   },
+   {
+    "quote": "コードを書けない電気工事会社の社長が作った、35ノードのn8n日報システムの中身",
+    "url": "https://note.com/tasty_otter992/n/nb596a074ecd1",
+    "pass": 3
+   },
+   {
+    "quote": "前回の記事では、LINEから送った日報が稼働表や請求集計につながるところまでを書きました。",
+    "url": "https://note.com/tasty_otter992/n/nb596a074ecd1",
+    "pass": 3
+   },
+   {
+    "quote": "そんな私でも、AIに相談しながら少しずつ作っていった結果、日報システムのワークフローはかなり大きくなりました。",
+    "url": "https://note.com/tasty_otter992/n/nb596a074ecd1",
+    "pass": 3
+   },
+   {
+    "quote": "※この記事では、取引先名や現場名などは「A社」「○○マンション」のように匿名化しています。",
+    "url": "https://note.com/tasty_otter992/n/nb596a074ecd1",
+    "pass": 3
+   },
+   {
+    "quote": "これが実際に使っている日報システムの全体です。",
+    "url": "https://note.com/tasty_otter992/n/nb596a074ecd1",
+    "pass": 3
+   },
+   {
+    "quote": "最初に作り始めた時は、ここまで大きくなるとは思っていませんでした。",
+    "url": "https://note.com/tasty_otter992/n/nb596a074ecd1",
+    "pass": 3
+   },
+   {
+    "quote": "現場の人がLINEで日報を送れば、その後の処理をできるだけ自動にしたい。",
+    "url": "https://note.com/tasty_otter992/n/nb596a074ecd1",
+    "pass": 3
+   },
+   {
+    "quote": "n8nでX投稿を自動化〜n8nとXを連携する方法もご紹介〜｜AX Base",
+    "url": "https://note.com/dify_base/n/n014473c3f66d",
+    "pass": 3
+   },
+   {
+    "quote": "n8nでX投稿を自動化〜n8nとXを連携する方法もご紹介〜",
+    "url": "https://note.com/dify_base/n/n014473c3f66d",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、プログラミングの知識がなくても使える自動化ツール「n8n」を使い、Xへの投稿を自動化する方法を解説します。",
+    "url": "https://note.com/dify_base/n/n014473c3f66d",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、特定のWebサイトが更新された際に、その内容をAIが自動で要約し、Xへ投稿するといった一連の流れを構築することが可能です。",
+    "url": "https://note.com/dify_base/n/n014473c3f66d",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、n8nの基本的な説明から、Xとの連携に必要な設定、具体的な自動化ワークフローの作成手順までを順を追って紹介します。",
+    "url": "https://note.com/dify_base/n/n014473c3f66d",
+    "pass": 3
+   },
+   {
+    "quote": "n8n（エヌエイトエヌ）は、様々なWebサービスやアプリケーションを連携させ、一連の作業を自動化するためのツールです。",
+    "url": "https://note.com/dify_base/n/n014473c3f66d",
+    "pass": 3
+   },
+   {
+    "quote": "コードを書くことなく、画面上での操作のみで自動化の仕組みを構築できます。",
+    "url": "https://note.com/dify_base/n/n014473c3f66d",
+    "pass": 3
+   },
+   {
+    "quote": "機能を持った「ノード」と呼ばれるブロックを配置し、それらを線で繋いで一連の作業の流れ（ワークフロー）を作成します。",
+    "url": "https://note.com/dify_base/n/n014473c3f66d",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://n8n.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n8n.io/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n8n.io/sap-partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n8n.io/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n8n.io/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n8n.io/case-studies/huel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n8n.io/case-studies/vodafone/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n8n.io/careers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-prod/assets/partners_hero_90c63035f8.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-prod/assets/partners_simple_enough_51463304f9.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ztex-japan.com/blog/n8n-workflow-automation-guide-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loftal.jp/blog/detail/n8n-japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n8nhub.org/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://joint-elements.com/shikumika/n8n-how-to-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://experts.n8n.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://context.reverso.net/%E7%BF%BB%E8%A8%B3/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E8%8B%B1%E8%AA%9E/%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/NHN_JAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n8n.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://n8n.global/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/n8n/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thefrontkit.com/work/production-planning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.n8n.io/deploy/host-n8n/deploy-as-an-oem-integration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://community.n8n.io/t/can-n8n-be-used-as-a-white-label-solution-supporting-multi-tenancy/8493",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://community.n8n.io/t/white-label-editor/25010",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/n8nio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/N8n",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/n8n",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/n8n_io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/n8n_io/status/2120431336108482969",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/n8n_io/status/2120201352080982016",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/n8n_io/status/2119879959556595982",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/n8n/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/n8n/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/alexrichenburg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/benkiziltug",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/n8nio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/n8nofficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/n8ndevelopers/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/n8ncommunity/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/tasty_otter992/n/nb596a074ecd1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dify_base/n/n014473c3f66d",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "N8N 日本 導入",
+   "results": [
+    "https://ztex-japan.com/blog/n8n-workflow-automation-guide-2026",
+    "https://loftal.jp/blog/detail/n8n-japanese",
+    "https://n8nhub.org/ja/",
+    "https://joint-elements.com/shikumika/n8n-how-to-guide/",
+    "https://qiita.com/YushiYamamoto/items/1c6fa7d52a0186f58165",
+    "https://data-x.jp/blog/n8n/",
+    "https://saasmap.jp/tools/n8n"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "N8N 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://experts.n8n.io/",
+    "https://n8n.io/enterprise/",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://docs.n8n.io/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "N8N Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/NHN_JAPAN",
+    "https://n8n.io/",
+    "https://github.com/Tomatio13/n8n-i18n-japanese",
+    "https://n8n.jp/",
+    "https://n8nhub.org/ja/",
+    "https://japan-ai.co.jp/media/8260/",
+    "https://rkpg.net/n8n-japanese-localization-guide/",
+    "https://qiita.com/GeneLab_999/items/bf2b6df73688a82f986e"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "N8N manufacturing customer case study",
+   "results": [
+    "https://n8n.io/case-studies/",
+    "https://n8n.global/case-studies/",
+    "https://www.featuredcustomers.com/vendor/n8n/case-studies",
+    "https://thefrontkit.com/work/production-planning",
+    "https://n8n.io/case-studies/quid/",
+    "https://www.casestudies.com/company/n8n",
+    "https://n8n.expert/case-studies/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "N8N white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://docs.n8n.io/deploy/host-n8n/deploy-as-an-oem-integration",
+    "https://community.n8n.io/t/can-n8n-be-used-as-a-white-label-solution-supporting-multi-tenancy/8493",
+    "https://community.n8n.io/t/white-label-editor/25010",
+    "https://goodish.agency/white-labeling-n8n-building-your-own-saas-on-top/",
+    "https://www.youtube.com/watch?v=vid7271a6jo",
+    "https://www.databricks.com/partners"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "N8N founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/n8nio",
+    "https://www.getorchestra.io/knowledge-hub/glossary/n8n-valuation",
+    "https://growjo.com/company/N8n",
+    "https://compworth.com/company/n8n",
+    "https://tracxn.com/d/companies/n8n/__J5xwUZ9C29t7Du-yVvv0S99EWc7s69t2NGt5YmhQG0A",
+    "https://pitchbook.com/profiles/company/398691-46",
+    "https://multiples.vc/private-comps/n8n"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com N8N",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com N8N",
+   "results": [
+    "https://x.com/n8n_io",
+    "https://x.com/n8n_io/status/2120431336108482969",
+    "https://x.com/n8n_io/status/2120201352080982016",
+    "https://x.com/n8n_io/status/2119879959556595982",
+    "https://x.com/n8n_io/status/2117204073443135871",
+    "https://x.com/n8n_io/status/2105609243827077164",
+    "https://x.com/n8n_io/status/2113631701540782361"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com N8N",
+   "results": [
+    "https://www.linkedin.com/company/n8n/",
+    "https://www.linkedin.com/products/n8n/",
+    "https://uk.linkedin.com/in/alexrichenburg",
+    "https://uk.linkedin.com/in/benkiziltug",
+    "https://de.linkedin.com/in/janoberhauser/en",
+    "https://in.linkedin.com/jobs/n8n-jobs",
+    "https://in.linkedin.com/jobs/view/ai-automation-engineer-claude-code-n8n-ai-agents-at-opvia-4486642487"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com N8N",
+   "results": [
+    "https://www.facebook.com/n8nio/",
+    "https://www.facebook.com/groups/n8nofficial/",
+    "https://www.facebook.com/groups/n8ndevelopers/",
+    "https://www.facebook.com/groups/n8ncommunity/",
+    "https://www.facebook.com/groups/744604981439783/",
+    "https://www.facebook.com/groups/n8nautomationenthusiasts/",
+    "https://www.facebook.com/groups/n8ncommunitybangladesh/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "N8N note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/tasty_otter992/n/nb596a074ecd1",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://note.com/shu_aidesk/n/n474f7e2892e5"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "N8N X 投稿",
+   "results": [
+    "https://shin-nakauchi.com/blog/n8n-twitter-x-auto-post-setup-guide/",
+    "https://powervbadesktop.com/n8n4/",
+    "https://note.com/dify_base/n/n014473c3f66d",
+    "https://powervbadesktop.com/n8n2/",
+    "https://qiita.com/TaichiEndoh/items/8262176e4c3298b11d0b",
+    "https://taskhub.jp/useful/n8n-twitter/",
+    "https://note.com/ai_gyomu_shindan/n/nbf87e2c2cb00"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式8頁／PDF・画像2件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像2件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像2件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像2件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像2件／外部35頁・検索12回）"
+ }
+}

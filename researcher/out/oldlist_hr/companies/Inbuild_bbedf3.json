@@ -1,0 +1,954 @@
+{
+ "name": "Inbuild",
+ "aliases": [],
+ "context": "旧営業リスト｜Construction Tech｜未接触",
+ "researched_at": "2026-11-11T19:05:42.233832+00:00",
+ "official_url": "https://www.inbuild.ai/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$500,000",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California, United States",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "inBuild | AI Invoice Processing for Procore",
+    "url": "https://www.inbuild.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Procore invoice entry,",
+    "url": "https://www.inbuild.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "An AI inbox collects subcontractor invoices, matches them to your commitments and cost codes, and stages them for review, so all you do is approve before it syncs to Procore.",
+    "url": "https://www.inbuild.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From local businesses to established enterprises.",
+    "url": "https://www.inbuild.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "inBuild automates invoice entry, cuts administrative overhead, and gives your team a clear, accurate record of every dollar that moves through Procore.",
+    "url": "https://www.inbuild.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically centralize invoices from your inbox and the field into a single, intelligent inbox. Each invoice gets matched to the right project, vendor, and commitment, no manual entry.",
+    "url": "https://www.inbuild.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "inBuild syncs securely with your Procore data and uses AI to match incoming invoices to the right commitments and cost codes. Once you approve an invoice, it syncs back to Procore and updates your budgets in real time.",
+    "url": "https://www.inbuild.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Seamless creation of invoices in Procore.",
+    "url": "https://www.inbuild.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "These aren't projections. They're what Procore teams report back after they stop matching invoices to commitments by hand.",
+    "url": "https://www.inbuild.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hear directly from our customers about how we've transformed their projects and workflows.",
+    "url": "https://www.inbuild.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I can't say enough good things about this company! They are always pushing the boundaries and looking to improve their software every day... This new feature has streamlined our workflow and made document management so much easier.",
+    "url": "https://www.inbuild.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "InBuild has been a great resource to David Wilkes Builders in processing invoices in a much simpler and time-saving way. From the accounting team to the Project Managers, it is a great way to approve invoices and reflect immediately on budgets. This helps both the office and field stay on track with subs and their invoices.",
+    "url": "https://www.inbuild.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "This software has easily saved hours of busy work and made my job more effective. The system is extremely user-friendly and very straightforward. The customer service is top-notch as well. I seriously cannot say enough good things about this software; I have a much cleaner line of communication with Supers and PM's regarding coding invoices for project expenses.",
+    "url": "https://www.inbuild.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "inBuild has been our #1 go-to for Budgets and Pay-apps for our Custom home design-build company. They are always improving and creating new options to go above and beyond our needs. The customer service is amazing, they will help you within minutes. Thanks to all the Staff over there!",
+    "url": "https://www.inbuild.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I can't say enough good things about this company! They are always pushing the boundaries and looking to improve their software every day. A perfect example of this is their recent integration of DocuSign with inBuild. This new feature has streamlined our workflow and made document management so much easier.",
+    "url": "https://www.inbuild.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Great up-and-coming product. inBuild has helped streamline the invoicing process from invoice receipt to accounts payable in QuickBooks. It saves time when needing to push through hundreds of invoices a month to subs and suppliers.",
+    "url": "https://www.inbuild.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI enhancement for invoice processing. I like the ease of processing invoices. it took the AI quite some time to figure out a few of our vendors but for the most part, it is getting them correct now.",
+    "url": "https://www.inbuild.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I like the organization and how it can filter invoices just to you. The customer support is wonderful, anytime I have a question or notice a glitch they are quick to respond and get it sorted. I also appreciate the ability to set up epay for our subcontractors to take one less step out of the payment process.",
+    "url": "https://www.inbuild.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "These are our customer's success stories. inBuild's focus is to improve construction businesses by making the financial process easier. See what we have achieved.",
+    "url": "https://www.inbuild.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Two full-time roles spent every billing week chasing invoices and re-keying them into Procore. Learn how Springpoint Group cut billing admin time by 75% and eliminated overtime billing hours entirely.",
+    "url": "https://www.inbuild.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how AI cut invoice data entry by 80% for Abode Custom Homes, turning a dreaded 50+ invoice Procore workflow into an inbox their bookkeeper no longer dreads.",
+    "url": "https://www.inbuild.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about how integrating inBuild and our digitally assisted invoicing software allowed Sweeney Development to transition into large scale multi-family projects.",
+    "url": "https://www.inbuild.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "inBuild Pricing | Modular Plans Built for your Business",
+    "url": "https://www.inbuild.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Automate invoice processing into Procore.",
+    "url": "https://www.inbuild.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI Invoice Processing",
+    "url": "https://www.inbuild.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Process commitments and change orders.",
+    "url": "https://www.inbuild.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI Commitment Processing",
+    "url": "https://www.inbuild.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI Change Order Processing",
+    "url": "https://www.inbuild.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI Receipt Processing",
+    "url": "https://www.inbuild.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Overhead cost processing",
+    "url": "https://www.inbuild.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get priority support from the inBuild team.",
+    "url": "https://www.inbuild.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority Response Times",
+    "url": "https://www.inbuild.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "inBuild offers many solutions for your Procore payables. Mix and match modules to save big for your business.",
+    "url": "https://www.inbuild.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "\"Before inBuild, invoices would arrive in batches of 50+ and take me hours to manually enter into Procore. ... My data-entry time has dropped by about 80%, I no longer dread checking my inbox for new invoices ... I couldn’t be happier!”",
+    "url": "https://www.inbuild.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "If you live and breathe marketing, we need to talk. We’re looking for a flexible and versatile marketer who will be responsible for the growth of our inbound sales channels.",
+    "url": "https://www.inbuild.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The account executive is paramount to inBuild’s success during this critical growth phase. This individual will act as the main driver of customer acquisition through the conversion funnel optimization and sales cycle process.",
+    "url": "https://www.inbuild.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Procore Commitment Automation | inBuild",
+    "url": "https://www.inbuild.ai/solutions/commitment-automation",
+    "pass": 1
+   },
+   {
+    "quote": "inBuild reads the document and matches it to your Procore data.",
+    "url": "https://www.inbuild.ai/solutions/commitment-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Procore needs line items.",
+    "url": "https://www.inbuild.ai/solutions/commitment-automation",
+    "pass": 1
+   },
+   {
+    "quote": "3. AI Matches to Procore",
+    "url": "https://www.inbuild.ai/solutions/commitment-automation",
+    "pass": 1
+   },
+   {
+    "quote": "4. You Approve and Sync",
+    "url": "https://www.inbuild.ai/solutions/commitment-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Vendor and project matching",
+    "url": "https://www.inbuild.ai/solutions/commitment-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Matched against your live Procore records.",
+    "url": "https://www.inbuild.ai/solutions/commitment-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Lump sum, or quantity times unit price, extracted as written.",
+    "url": "https://www.inbuild.ai/solutions/commitment-automation",
+    "pass": 1
+   },
+   {
+    "quote": "The PDF stays on the record and is attached when synced to Procore",
+    "url": "https://www.inbuild.ai/solutions/commitment-automation",
+    "pass": 1
+   },
+   {
+    "quote": "inBuild was built for the way Procore teams work, not to just shuffle data around.",
+    "url": "https://www.inbuild.ai/solutions/commitment-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Matches existing project, vendors, and codes.",
+    "url": "https://www.inbuild.ai/solutions/commitment-automation",
+    "pass": 1
+   },
+   {
+    "quote": "inBuild is modernizing accounts payable for the construction industry. A finance software solution with AI-powered precision and efficiency, exceptional user experiences, and outstanding customer support, inBuild is trusted by builders as the benchmark to beat in construction financials.",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "inBuild has approximately",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Inbuild 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/516182-41",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/516182-41",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/516182-41",
+    "pass": 3
+   },
+   {
+    "quote": "05-Apr-2023",
+    "url": "https://pitchbook.com/profiles/company/516182-41",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/516182-41",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/516182-41",
+    "pass": 3
+   },
+   {
+    "quote": "Improved system and method for automating business accounting",
+    "url": "https://pitchbook.com/profiles/company/516182-41",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "DOWNLOAD THE CASE STUDY",
+    "url": "https://www.inbuild.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "inBuild is modernizing accounts payable for the construction industry. A finance software solution with AI-powered precision and efficiency, exceptional user experiences, and outstanding customer support, inBuild is trusted by builders as the benchmark to beat in construction financials.",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "\"Before inBuild, invoices would arrive in batches of 50+ and take me hours to manually enter into Procore. ... My data-entry time has dropped by about 80%, I no longer dread checking my inbox for new invoices ... I couldn’t be happier!”",
+    "url": "https://www.inbuild.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The account executive is paramount to inBuild’s success during this critical growth phase. This individual will act as the main driver of customer acquisition through the conversion funnel optimization and sales cycle process.",
+    "url": "https://www.inbuild.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "inBuild Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At inBuild",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of inBuild?",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "inBuild generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does inBuild have?",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/516182-41",
+    "pass": 3
+   },
+   {
+    "quote": "Inbuild has 9 total employees.",
+    "url": "https://pitchbook.com/profiles/company/516182-41",
+    "pass": 3
+   },
+   {
+    "quote": "What is Inbuild’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/516182-41",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Inbuild is",
+    "url": "https://pitchbook.com/profiles/company/516182-41",
+    "pass": 3
+   },
+   {
+    "quote": "inBuild Revenue 2024: $1.5M Est.",
+    "url": "https://getlatka.com/companies/inbuild.ai#customers",
+    "pass": 3
+   },
+   {
+    "quote": "inBuild has not published its revenue. GetLatka estimates it at about $1.5M a year (June 2024).",
+    "url": "https://getlatka.com/companies/inbuild.ai#customers",
+    "pass": 3
+   },
+   {
+    "quote": "inBuild CEO, founders & employees",
+    "url": "https://getlatka.com/companies/inbuild.ai#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Ty Sharp founded inBuild in 2021 and runs it as CEO. inBuild had 10 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/inbuild.ai#customers",
+    "pass": 3
+   },
+   {
+    "quote": "What is inBuild's revenue?",
+    "url": "https://getlatka.com/companies/inbuild.ai#customers",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates inBuild's revenue at about",
+    "url": "https://getlatka.com/companies/inbuild.ai#customers",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does inBuild have?",
+    "url": "https://getlatka.com/companies/inbuild.ai#customers",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/inbuild.ai#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/inbuild.ai#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/inbuild.ai#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/inbuild.ai#customers",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Sync via Email or direct upload",
+    "url": "https://www.inbuild.ai/solutions/commitment-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an accounts payable platform designed to automate financial management workflows. The company's platform utilizes artificial intelligence to identify all invoices from incoming emails and extract key data, leveraging machine learning, enabling clients to gain real-time system-wide visibility into the business's financial health.",
+    "url": "https://pitchbook.com/profiles/company/516182-41",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/516182-41",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Efficacy and safety of nintedanib in Japanese patients with ... — Mar 4, 2021 · The efficacy of nintedanib in progressive fibrosing interstitial lung diseases (ILDs) was demonstrated in the randomised, double-blind, placebo-controlled INBUILD trial. This subgroup analysis evaluated the efficacy and safety of nintedanib in the Japanese population.",
+    "url": "https://www.resmedjournal.com/article/S0954-6111(21)00280-8/fulltext",
+    "pass": 3
+   },
+   {
+    "quote": "INBUILD試験 [国際共同第Ⅲ層試験 (検証試験)]Efficacy and safety of nintedanib in Japanese patients with ...Nintedanib in Progressive Fibrosing Interstitial Lung ...PC BUILD JAPANinBuild | AI Invoice Processing for Procoreinbuilt.jp - インビルト株式会社 — 2つのco-primary評価集団において、オフェブ群は、プラセボ群に対してFVCの年間減少率の低下を統計学的に有意に抑制しました。（検証的な解析結果） 全体集団： 投与52週までのFVCの年間減少率※は、オフェブ群－80.8mL/年、プラセボ群－187.8mL/年でした（群間差：107.0mL/年、95％CI：65.4-148.5、p＜",
+    "url": "https://pro.boehringer-ingelheim.com/jp/product/ofev/inbuild-study",
+    "pass": 3
+   },
+   {
+    "quote": "Efficacy and safety of nintedanib in Japanese patients with ... — Oct 1, 2021 · Here we report the Japanese subgroup analysis of the INBUILD trial in order to evaluate the consistency of the efficacy and safety of nintedanib in Japanese patients with progressive fibrosing ILDs compared with the overall INBUILD trial.",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0954611121002808",
+    "pass": 3
+   },
+   {
+    "quote": "inBuild | AI Invoice Processing for Procore — Automate construction invoice processing with inBuild. Sync documents automatically from Outlook, have AI assign costs, then sync to Procore in one click.",
+    "url": "https://www.inbuild.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "inBuild Revenue, Funding & Valuation - prospeo.io — inBuild has revenue of $598,885, estimated valuation of $2,000,000, $500,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Inbuild 2026 Company Profile: Valuation, Funding & Investors ...inBuild — Company Profile & Funding | Indexed.vcHow inBuild hit $1.5M revenue with a 10 person team in 2024.inBuild: Funding, Team & Investors | Startup IntrosHow inBuild hit $1.5M revenue with a 10 person team in 2024.inBuild - Products, Competitors, Financials, Employees ... — Information on valuation, funding, cap tables, investors",
+    "url": "https://pitchbook.com/profiles/company/516182-41",
+    "pass": 3
+   },
+   {
+    "quote": "inBuild — Company Profile & Funding | Indexed.vc — inBuild boosts revenue for home builders by automating the thousands of invoices they receive for every project. For example, when a subcontractor sends an invoice for work they completed, inBuild checks the cost against the project budget, handles any approvals, pays the bill, and updates Quickbooks.",
+    "url": "https://indexed.vc/companies/inbuildai",
+    "pass": 3
+   },
+   {
+    "quote": "How inBuild hit $1.5M revenue with a 10 person team in 2024. — inBuild CEO Ty Sharp shares how inBuild grew to $1.5M over the past 4 years. inBuild has bootstrapped. See inBuild growth here.",
+    "url": "https://getlatka.com/companies/inbuild.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "inBuild: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · inBuild was founded by brothers Ty Sharp and Ian Sharp. Ty brought firsthand experience as a CFO for a large luxury home builder, where he encountered the cumbersome and outdated financial workflows common in construction.",
+    "url": "https://startupintros.com/orgs/inbuild",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "肺線維症：nintedanibにて息切れ、疲労、咳の悪化軽減 Feb 7, 2024 · 我々は、進行性肺線維症（PPF）の患者における肺線維症の症状と影響に対するニンテダニブの効果を、INBUILD試験で「肺線維症と共に生きる（L-PF）」アンケートを使用して調査しました。",
+    "url": "https://note.com/province/n/n92a916a28803",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Inbuild UK (@InbuildUK) / Posts / X Inbuild provides the highest quality construction products direct to your door at a competitive price.",
+    "url": "https://x.com/InBuildUK",
+    "pass": 3
+   },
+   {
+    "quote": "INBUILD (@inbuild) / Posts / X INBUILD (@inbuild) - Posts - INBUILD Automação Áudio e Vídeo | X (formerly Twitter)",
+    "url": "https://x.com/inBuild",
+    "pass": 3
+   },
+   {
+    "quote": "keshe ☘️ on X: \"THE AURA IS INBUILD ️ \" / X THE AURA IS INBUILD ️😈 11 Nov 2026 11:31:57",
+    "url": "https://x.com/lifeofkeshe/status/2120479638212243798",
+    "pass": 3
+   },
+   {
+    "quote": "INBUILD (@inbuild) / Posts / X May 15, 2009 · INBUILD (@inbuild) - Posts - INBUILD Automação Áudio e Vídeo | X (formerly Twitter)",
+    "url": "https://x.com/inBuild",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "inBuild - LinkedIn inBuild | 1,118 followers on LinkedIn. The financial document workflow automation platform for construction | inBuild is modernizing accounts payable for the construction industry.",
+    "url": "https://www.linkedin.com/company/inbuildai",
+    "pass": 3
+   },
+   {
+    "quote": "Ty Sharp - inBuild | LinkedInIn-Build | LinkedInINBUILT PROJECTS ENGINEERING | LinkedInInbuiltAI - LinkedIninBUILT Private Limited - LinkedInInbuild Group Inc. - LinkedIn Founder & CEO of inBuild | Building AI tools for construction finance | Sharing the… · Experience: inBuild · Education: Y Combinator · Location: Aspen · 500+ connections on LinkedIn. In-Build | 392 followers on LinkedIn. Speciali",
+    "url": "https://www.linkedin.com/in/ty-sharp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "InBuild | Aspen CO - FacebookINbuild | Cairo - FacebookFacebookInBuild Decors | Lalitpur - FacebookInbuild Real Estate | Dhaka - Facebookinbuild, Builders and garden makeover specialists | GourockInbuilt Studio | Noida - Facebook Jul 26, 2024 · Linda recently shared her experience with inBuild, highlighting the transformative impact our platform has had on their operations. At inBuild, we are dedi",
+    "url": "https://www.facebook.com/inbuildai/",
+    "pass": 3
+   },
+   {
+    "quote": "INbuild | Cairo - FacebookFacebookInBuild Decors | Lalitpur - FacebookInbuild Real Estate | Dhaka - Facebookinbuild, Builders and garden makeover specialists | GourockInbuilt Studio | Noida - Facebook Feb 24, 2023 · INbuild, Cairo. 3,695 likes. We handle all designs with perfection to reach maximum customer satisfaction. Log into Facebook to connect with friends, family, and people you know. Sep 9",
+    "url": "https://www.facebook.com/inbuild/",
+    "pass": 3
+   },
+   {
+    "quote": "InBuild Decors | Lalitpur - FacebookInbuild Real Estate | Dhaka - Facebookinbuild, Builders and garden makeover specialists | GourockInbuilt Studio | Noida - Facebook Sep 9, 2026 · 🛋️ Sit Back in Style with InBuild Decors 🛋️ Transform your living space into a haven of comfort and elegance. At InBuild Decors, we specialize in crafting custom luxury sofas, armchairs, and more — handcrafted in Nepal ",
+    "url": "https://www.facebook.com/inbuild.decor/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.inbuild.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inbuild.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inbuild.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inbuild.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inbuild.ai/solutions/commitment-automation",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.resmedjournal.com/article/S0954-6111(21)00280-8/fulltext",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pro.boehringer-ingelheim.com/jp/product/ofev/inbuild-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0954611121002808",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/inbuild-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/516182-41",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://indexed.vc/companies/inbuildai",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/inbuild.ai#customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/province/n/n92a916a28803",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/InBuildUK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/inBuild",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lifeofkeshe/status/2120479638212243798",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/inbuildai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ty-sharp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/inbuildai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/inbuild/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/inbuild.decor/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/inBuild",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Inbuild 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Inbuild 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://inbes.jp/",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inbuild Japan",
+   "results": [
+    "https://www.resmedjournal.com/article/S0954-6111(21)00280-8/fulltext",
+    "https://pro.boehringer-ingelheim.com/jp/product/ofev/inbuild-study",
+    "https://www.sciencedirect.com/science/article/pii/S0954611121002808",
+    "https://www.inbuild.ai/",
+    "https://pcbuildjapan.com/",
+    "https://www.nejm.org/doi/full/10.1056/NEJMoa1908681",
+    "https://inbuilt.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inbuild manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Inbuild white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.canva.com/partners/reseller/",
+    "https://partners.adobe.com/channelpartners/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inbuild founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/inbuild-revenue",
+    "https://pitchbook.com/profiles/company/516182-41",
+    "https://indexed.vc/companies/inbuildai",
+    "https://getlatka.com/companies/inbuild.ai/customers",
+    "https://startupintros.com/orgs/inbuild",
+    "https://getlatka.com/companies/inbuild.ai/funding",
+    "https://www.cbinsights.com/company/inbuild"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Inbuild",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/wise_turtle184",
+    "https://note.com/province/n/n92a916a28803",
+    "https://note.com/bostonlungmd/n/nc39fa0766302",
+    "https://note.com/resp_clinical/n/nd350b7e7f407",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Inbuild",
+   "results": [
+    "https://x.com/InBuildUK",
+    "https://x.com/inBuild",
+    "https://x.com/lifeofkeshe/status/2120479638212243798",
+    "https://help.x.com/en",
+    "https://help.x.com/en/using-x/picture-descriptions",
+    "https://x.com/B58inbuilt/status/2117174182706319818",
+    "https://x.com/kashurapps/status/2113646367113662804"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Inbuild",
+   "results": [
+    "https://www.linkedin.com/company/inbuildai",
+    "https://www.linkedin.com/in/ty-sharp",
+    "https://uk.linkedin.com/company/in-build",
+    "https://in.linkedin.com/company/inbuilt-projects-engineering",
+    "https://in.linkedin.com/company/inbuilt-ai",
+    "https://sg.linkedin.com/company/inbuilt-private-limited",
+    "https://www.linkedin.com/company/inbuild-group-inc"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Inbuild",
+   "results": [
+    "https://www.facebook.com/inbuildai/",
+    "https://www.facebook.com/inbuild/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/inbuild.decor/",
+    "https://www.facebook.com/inbuildbd/",
+    "https://www.facebook.com/inbuild82/",
+    "https://www.facebook.com/Inbuiltstudio/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inbuild note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Inbuild X 投稿",
+   "results": [
+    "https://x.com/inBuild",
+    "https://app.inbuild.ai/login",
+    "https://www.nejm.org/doi/full/10.1056/NEJMoa1908681",
+    "https://x.com/inibuilds",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://note.com/pocketstudio/n/n7afabea20243",
+    "https://help.x.com/ja"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部25頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部25頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部25頁・検索12回）"
+ }
+}

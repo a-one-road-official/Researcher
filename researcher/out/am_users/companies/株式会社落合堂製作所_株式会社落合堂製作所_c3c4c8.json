@@ -1,0 +1,717 @@
+{
+ "name": "株式会社落合堂製作所 株式会社落合堂製作所",
+ "aliases": [],
+ "context": "ipros_all:少量",
+ "researched_at": "2026-11-11T19:14:26.012559+00:00",
+ "official_url": "https://ochiaido-ss.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　落合堂雅紀",
+    "url": "https://ochiaido-ss.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役　落合堂雅紀",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "５０名（パート社員２名含む）",
+    "url": "https://ochiaido-ss.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "５０名（パート社員２名含む）",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒９９２－０４７２ 山形県南陽市宮内２４３８－６",
+    "url": "https://ochiaido-ss.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒９９２－０４７２ 山形県南陽市宮内２４３８－６",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ワイヤーハーネス製造 制御盤製造",
+    "url": "https://ochiaido-ss.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "ワイヤーハーネス製造 制御盤製造",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "国内外の多くのメーカーの部材をとりあつかっているので、価格や納期のご要望など、お客様にあった製品のご提案が可能",
+    "url": "https://ochiaido-ss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高品質な製品をスピーディーにお届けすることでお客様の間接的な工数を削減し、トータルでのコストダウンを提供",
+    "url": "https://ochiaido-ss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "良い仕事を通じて良い製品づくりをするために、良好な職場環境を創造する",
+    "url": "https://ochiaido-ss.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "品質の改善活動を継続して行い、品質向上及び良い製品づくりを進める",
+    "url": "https://ochiaido-ss.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客要求事項を正確かつ敏速に把握し、顧客満足を高めるプロセス、製品、サービス、品質の改善に努める",
+    "url": "https://ochiaido-ss.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ご要望頂ければ、製品情報を記載した台紙にＵＬラベルを貼付けし、製品に添付して納品致します",
+    "url": "https://ochiaido-ss.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤーハーネスは、一般的に人の目に触れる機会が少ない部品ですが、車輛、航空機、家電製品、工作機械、産業用ロボット、医療機器などの電気を動力とするモノの中に組み込まれ、人間で例えるなら神経や血管の役割を担う重要な部品です",
+    "url": "https://ochiaido-ss.co.jp/Business/",
+    "pass": 1
+   },
+   {
+    "quote": "制御盤は、ビルなどの建築物、工場設備、交通や電力のインフラなど、世界に存在している機械や設備の制御に使用され、人間で例えるなら脳の役割を担う重要な製品です",
+    "url": "https://ochiaido-ss.co.jp/Business/",
+    "pass": 1
+   },
+   {
+    "quote": "制御課は、一品一様の製品を主軸に担当しており、マークチューブや貼付ラベルの制作、板金の穴あけ加工、タッピング加工にも対応しております",
+    "url": "https://ochiaido-ss.co.jp/Business/",
+    "pass": 1
+   },
+   {
+    "quote": "ユニット課は、数台～数十台規模の量産製品を主軸に担当しており、落合堂製作所での盤内外のワイヤーハーネス製造から制御盤製造まで一貫した生産体制を構築する事で、相乗効果を発揮します",
+    "url": "https://ochiaido-ss.co.jp/Business/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤーハーネスは、一般的に人の目に触れる機会が少ない部品ですが、車輛、航空機、家電製品、工作機械、産業用ロボット、医療機器などの電気を動力とするモノの中に組み込まれ、人間で例えるなら神経や血管の役割を担う重要な部品です",
+    "url": "https://ochiaido-ss.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "制御盤は、ビルなどの建築物、工場設備、交通や電力のインフラなど、世界に存在している機械や設備の制御に使用され、人間で例えるなら脳の役割を担う重要な製品です",
+    "url": "https://ochiaido-ss.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "制御課は、一品一様の製品を主軸に担当しており、マークチューブや貼付ラベルの制作、板金の穴あけ加工、タッピング加工にも対応しております",
+    "url": "https://ochiaido-ss.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ユニット課は、数台～数十台規模の量産製品を主軸に担当しており、落合堂製作所での盤内外のワイヤーハーネス製造から制御盤製造まで一貫した生産体制を構築する事で、相乗効果を発揮します",
+    "url": "https://ochiaido-ss.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "良い仕事を通じて良い製品づくりをするために、良好な職場環境を創造する",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/company/",
+    "pass": 1
+   },
+   {
+    "quote": "品質の改善活動を継続して行い、品質向上及び良い製品づくりを進める",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/company/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客要求事項を正確かつ敏速に把握し、顧客満足を高めるプロセス、製品、サービス、品質の改善に努める",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ご要望頂ければ、製品情報を記載した台紙にＵＬラベルを貼付けし、製品に添付して納品致します",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤーハーネスは、一般的に人の目に触れる機会が少ない部品ですが、車輛、航空機、家電製品、工作機械、産業用ロボット、医療機器などの電気を動力とするモノの中に組み込まれ、人間で例えるなら神経や血管の役割を担う重要な部品です",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/business/",
+    "pass": 1
+   },
+   {
+    "quote": "制御盤は、ビルなどの建築物、工場設備、交通や電力のインフラなど、世界に存在している機械や設備の制御に使用され、人間で例えるなら脳の役割を担う重要な製品です",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/business/",
+    "pass": 1
+   },
+   {
+    "quote": "制御課は、一品一様の製品を主軸に担当しており、マークチューブや貼付ラベルの制作、板金の穴あけ加工、タッピング加工にも対応しております",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ユニット課は、数台～数十台規模の量産製品を主軸に担当しており、落合堂製作所での盤内外のワイヤーハーネス製造から制御盤製造まで一貫した生産体制を構築する事で、相乗効果を発揮します",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤーハーネスは、一般的に人の目に触れる機会が少ない部品ですが、車輛、航空機、家電製品、工作機械、産業用ロボット、医療機器などの電気を動力とするモノの中に組み込まれ、人間で例えるなら神経や血管の役割を担う重要な部品です",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/Business/",
+    "pass": 1
+   },
+   {
+    "quote": "制御盤は、ビルなどの建築物、工場設備、交通や電力のインフラなど、世界に存在している機械や設備の制御に使用され、人間で例えるなら脳の役割を担う重要な製品です",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/Business/",
+    "pass": 1
+   },
+   {
+    "quote": "制御課は、一品一様の製品を主軸に担当しており、マークチューブや貼付ラベルの制作、板金の穴あけ加工、タッピング加工にも対応しております",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/Business/",
+    "pass": 1
+   },
+   {
+    "quote": "ユニット課は、数台～数十台規模の量産製品を主軸に担当しており、落合堂製作所での盤内外のワイヤーハーネス製造から制御盤製造まで一貫した生産体制を構築する事で、相乗効果を発揮します",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/Business/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "大量生産から少量多品種まで柔軟に対応し、品質、コスト、納期においてお客様に満足頂けるシステムを構築しております",
+    "url": "https://ochiaido-ss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "１本からのご注文、試作など、他社様で対応を断られた案件でも是非一度ご相談ください",
+    "url": "https://ochiaido-ss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社に設計、開発部門はございませんので、図面はあるけど加工でお困りのお客様、試作段階でも結構ですので、一度お見積りの機会を頂けると幸いです",
+    "url": "https://ochiaido-ss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ご要望があれば、在庫部材の単品納入にも対応しておりますので、ご相談下さい",
+    "url": "https://ochiaido-ss.co.jp/Business/",
+    "pass": 1
+   },
+   {
+    "quote": "全自動圧着機による大量生産から、全自動電線切断皮剥機と半自動圧着機を併用した少量生産まで幅広く対応しております",
+    "url": "https://ochiaido-ss.co.jp/Business/",
+    "pass": 1
+   },
+   {
+    "quote": "ご要望があれば、在庫部材の単品納入にも対応しておりますので、ご相談下さい",
+    "url": "https://ochiaido-ss.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "全自動圧着機による大量生産から、全自動電線切断皮剥機と半自動圧着機を併用した少量生産まで幅広く対応しております",
+    "url": "https://ochiaido-ss.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ご要望があれば、在庫部材の単品納入にも対応しておりますので、ご相談下さい",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/business/",
+    "pass": 1
+   },
+   {
+    "quote": "全自動圧着機による大量生産から、全自動電線切断皮剥機と半自動圧着機を併用した少量生産まで幅広く対応しております",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ご要望があれば、在庫部材の単品納入にも対応しておりますので、ご相談下さい",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/Business/",
+    "pass": 1
+   },
+   {
+    "quote": "全自動圧着機による大量生産から、全自動電線切断皮剥機と半自動圧着機を併用した少量生産まで幅広く対応しております",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/Business/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "株式会社落合堂製作所では、各種産業用ロボット、工作機械、半導体、医療機器等に組み込まれるワイヤーハーネスを主軸に製造しております",
+    "url": "https://ochiaido-ss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用ロボット・工作機械・半導体・医療機器 etc",
+    "url": "https://ochiaido-ss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "有限会社エフジー工業では、半導体製造装置、工作機械、ダム水力発電など、幅広く各種制御盤、電源盤の組立配線業務を行っております",
+    "url": "https://ochiaido-ss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用工作機械４０％、半導体関連３２％、",
+    "url": "https://ochiaido-ss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用ロボット１３％、医療その他１１％",
+    "url": "https://ochiaido-ss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "１９７１年１０月からは、各種ワイヤーハーネスの製造部門を新設し、現在は産業用ロボット、工作機械、半導体、医療機器などに組み込まれるワイヤーハーネスと制御盤を主軸に製造しております",
+    "url": "https://ochiaido-ss.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤーハーネスは、一般的に人の目に触れる機会が少ない部品ですが、車輛、航空機、家電製品、工作機械、産業用ロボット、医療機器などの電気を動力とするモノの中に組み込まれ、人間で例えるなら神経や血管の役割を担う重要な部品です",
+    "url": "https://ochiaido-ss.co.jp/Business/",
+    "pass": 1
+   },
+   {
+    "quote": "検査用治具：７００種以上",
+    "url": "https://ochiaido-ss.co.jp/Business/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤーハーネスは、一般的に人の目に触れる機会が少ない部品ですが、車輛、航空機、家電製品、工作機械、産業用ロボット、医療機器などの電気を動力とするモノの中に組み込まれ、人間で例えるなら神経や血管の役割を担う重要な部品です",
+    "url": "https://ochiaido-ss.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "検査用治具：７００種以上",
+    "url": "https://ochiaido-ss.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "医療保険、厚生年金、退職金共済",
+    "url": "https://ochiaido-ss.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "１９７１年１０月からは、各種ワイヤーハーネスの製造部門を新設し、現在は産業用ロボット、工作機械、半導体、医療機器などに組み込まれるワイヤーハーネスと制御盤を主軸に製造しております",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤーハーネスは、一般的に人の目に触れる機会が少ない部品ですが、車輛、航空機、家電製品、工作機械、産業用ロボット、医療機器などの電気を動力とするモノの中に組み込まれ、人間で例えるなら神経や血管の役割を担う重要な部品です",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/business/",
+    "pass": 1
+   },
+   {
+    "quote": "検査用治具：７００種以上",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤーハーネスは、一般的に人の目に触れる機会が少ない部品ですが、車輛、航空機、家電製品、工作機械、産業用ロボット、医療機器などの電気を動力とするモノの中に組み込まれ、人間で例えるなら神経や血管の役割を担う重要な部品です",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/Business/",
+    "pass": 1
+   },
+   {
+    "quote": "検査用治具：７００種以上",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/Business/",
+    "pass": 1
+   },
+   {
+    "quote": "医療保険、厚生年金、退職金共済",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/recruit/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お電話、またはお問い合せメールアドレスにてご連絡ください",
+    "url": "https://ochiaido-ss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Ｍａｉｌ：info-mail@ochiaido-ss.co.jp",
+    "url": "https://ochiaido-ss.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Ｍａｉｌ：info-mail@ochiaido-ss.co.jp",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/company/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "Yamagata Smile Company",
+    "url": "https://ochiaido-ss.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "CAM-S1N",
+    "url": "https://ochiaido-ss.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "SXAM-001T-P0.6",
+    "url": "https://ochiaido-ss.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "SXAM-001GW-P0.6",
+    "url": "https://ochiaido-ss.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Yamagata Smile Company",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/company/",
+    "pass": 1
+   },
+   {
+    "quote": "CAM-S1N",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "SXAM-001T-P0.6",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "SXAM-001GW-P0.6",
+    "url": "https://ochiaido-ss.co.jp/wordpress2/equipment/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ochiaido-ss.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/Business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/Business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/Business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/wordpress2/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/wordpress2/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/wordpress2/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/wordpress2/Business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/wordpress2/Business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/wordpress2/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/wordpress2/Business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/wordpress2/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/wordpress2/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/wordpress2/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/wordpress2/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiaido-ss.co.jp/wordpress2/equipment/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2116385/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/ochiaido/catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2116385/catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2116385/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/6390001010573",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://nanyo-kigyo-database.net/business/business-496/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ochiai-seisaku.co.jp/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ochiai-ss.co.jp/contact.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://ochiseikana6.jimdofree.com/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "落合堂製作所 落合堂製作所 取扱製品 試作 小ロット",
+   "results": [
+    "https://mono.ipros.com/company/detail/2116385/category/",
+    "https://pr.mono.ipros.com/ochiaido/catalog/",
+    "https://mono.ipros.com/company/detail/2116385/catalog/",
+    "https://pr.mono.ipros.com/ochiaido/product/category/",
+    "https://yri.or.jp/business/pdf/ochiaido-ss.pdf",
+    "https://ochiaido-ss.co.jp/",
+    "https://ochiaido-ss.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "落合堂製作所 落合堂製作所 会社概要 事業内容",
+   "results": [
+    "https://mono.ipros.com/company/detail/2116385/",
+    "https://compalyze.co.jp/company/6390001010573",
+    "https://nanyo-kigyo-database.net/business/business-496/",
+    "https://jgoodtech.smrj.go.jp/corp/info/JC0000000039011?preview=false&createdLocale=ja_JP&tabSelected=outline",
+    "https://pr.mono.ipros.com/ochiaido/information/",
+    "https://ochiaido-ss.co.jp/",
+    "https://ochiaido-ss.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "落合堂製作所 落合堂製作所 お問い合わせ メール",
+   "results": [
+    "http://www.ochiai-seisaku.co.jp/contact",
+    "http://www.ochiai-ss.co.jp/contact.html",
+    "https://ochiseikana6.jimdofree.com/お問い合わせ/",
+    "https://ochiai-net.co.jp/contactus/",
+    "https://ochiai-net.co.jp/contactus/contact.html",
+    "https://ochiaido-ss.co.jp/info/",
+    "https://ochiaido-ss.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 落合堂製作所 落合堂製作所",
+   "results": [
+    "https://note.com/ochyai/n/nde7070c5ceaa",
+    "https://note.com/",
+    "https://note.com/ochyai",
+    "https://note.com/ochyai/n/n7a1dbd68c8fa",
+    "https://tales.note.com/",
+    "https://note.com/246ra_takatoshi/n/n4536d442c3f4",
+    "https://note.com/sankituushin/n/n0976abd5f0e4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 落合堂製作所 落合堂製作所",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 落合堂製作所 落合堂製作所",
+   "results": [
+    "https://jp.linkedin.com/in/寛至-落合-61329a298",
+    "https://jp.linkedin.com/in/yuko-ochiai-218a67367/ja",
+    "https://www.linkedin.com/pub/dir/落合/+",
+    "https://be.linkedin.com/in/rocio-lorenzo-1936841b1",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://uk.linkedin.com/in/clarabale",
+    "https://www.linkedin.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 落合堂製作所 落合堂製作所",
+   "results": [
+    "https://www.facebook.com/ochiaiseizai/",
+    "https://www.facebook.com/people/落合堂明/100008724032590/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/株式会社-落合製作所-1483787111880985/",
+    "https://www.facebook.com/有限会社-落合製作所-105487415340446/",
+    "https://www.facebook.com/marutama.gyokkodou/",
+    "https://www.facebook.com/落合製作所-254207698087066/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "落合堂製作所 落合堂製作所 note 社長",
+   "results": [
+    "https://houjin.jp/c/6390001010573",
+    "https://jobcatalog.yahoo.co.jp/company/1100001242/information/",
+    "https://compalyze.co.jp/company/6390001010573",
+    "https://ochiaido-ss.co.jp/company/",
+    "https://ochiaido-ss.co.jp/",
+    "http://www.ochiai-mfg.co.jp/profile.html",
+    "http://www.ochiai-seisaku.co.jp/company_message.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "落合堂製作所 落合堂製作所 X 投稿",
+   "results": [
+    "https://ochiaido-ss.co.jp/company/",
+    "https://www.youtube.com/watch?v=cLQd3Ms6lLI",
+    "https://pr.mono.ipros.com/ochiaido/",
+    "https://www.youtube.com/@ssochiaido",
+    "https://ochiaido-ss.co.jp/",
+    "https://x.com/Rakuta_natsu/status/2119241635854983189",
+    "https://jgoodtech.smrj.go.jp/corp/info/JC0000000039011?preview=false&createdLocale=ja_JP"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式24頁／PDF・画像0件／外部9頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式24頁／PDF・画像0件／外部9頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式24頁／PDF・画像0件／外部9頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式24頁／PDF・画像0件／外部9頁・検索9回）"
+ }
+}

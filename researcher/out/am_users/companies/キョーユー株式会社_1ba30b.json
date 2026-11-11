@@ -1,0 +1,746 @@
+{
+ "name": "キョーユー株式会社",
+ "aliases": [],
+ "context": "ipros_all:多品種",
+ "researched_at": "2026-11-11T19:31:57.770401+00:00",
+ "official_url": "http://www.kyoyu.jp",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業案内",
+    "value": "事業内容",
+    "url": "https://kyoyu.jp/",
+    "pass": 1
+   },
+   {
+    "label": "事業案内",
+    "value": "事業内容",
+    "url": "https://kyoyu.jp/tech_sessaku.php",
+    "pass": 1
+   },
+   {
+    "label": "事業案内",
+    "value": "事業内容",
+    "url": "https://kyoyu.jp/setubi.php",
+    "pass": 1
+   },
+   {
+    "label": "事業案内",
+    "value": "事業内容",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   },
+   {
+    "label": "営業品目",
+    "value": "精密プレス・モールド金型の設計・製作",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   },
+   {
+    "label": "営業品目",
+    "value": "労働者派遣事業",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   },
+   {
+    "label": "営業品目",
+    "value": "機械設計及び機械装置組立",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   },
+   {
+    "label": "事業案内",
+    "value": "事業内容",
+    "url": "https://kyoyu.jp/busi.php",
+    "pass": 1
+   },
+   {
+    "label": "事業所名",
+    "value": "キョーユー株式会社",
+    "url": "https://kyoyu.jp/recruit.php",
+    "pass": 1
+   },
+   {
+    "label": "事業所名",
+    "value": "株式会社協友エレクトロニクス",
+    "url": "https://kyoyu.jp/recruit.php",
+    "pass": 1
+   },
+   {
+    "label": "事業案内",
+    "value": "事業内容",
+    "url": "https://kyoyu.jp/recruit.php",
+    "pass": 1
+   },
+   {
+    "label": "事業案内",
+    "value": "事業内容",
+    "url": "https://kyoyu.jp/access.php",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役会長",
+    "value": "畑中　得實",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役社長",
+    "value": "境 弘志",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "代表取締役 畑中得實",
+    "url": "https://www.atengineer.com/pr/kyoyu/company",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "80名(令和7年9月1日現在)",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "グループ会社",
+    "value": "株式会社協友ダイ＆モールド 宮城県遠田郡美里町関根字新苗代江123 電話番号：　0229-25-5706 FAX番号：　0229-25-5707 営業品目：　精密プレス・モールド金型の設計・製作 精密金型部品製造",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "宮城県遠田郡美里町関根字新苗代江123",
+    "url": "https://kyoyu.jp/access.php",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒987-0006 宮城県遠田郡小牛田町関根字新苗代江１４９−１",
+    "url": "https://www.atengineer.com/pr/kyoyu/company",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "昨今、製品の大型で且つ軽量化により、難削材の薄肉形状加工が要求されています",
+    "url": "https://kyoyu.jp/tech_sessaku.php",
+    "pass": 1
+   },
+   {
+    "quote": "営業品目： 精密プレス・モールド金型の設計・製作",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   },
+   {
+    "quote": "難削材加工や精密微細加工を得意とし、多様なサイズ、多品種少量生産方式で様々なお客様のニーズに対応できる製品を製造しています",
+    "url": "https://kyoyu.jp/busi.php",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック・金属など、多様な製品を試作から量産まで",
+    "url": "https://www.kyoyu-next.com/",
+    "pass": 3
+   },
+   {
+    "quote": "２）自動化設備メカアッシーから機配、最終メカ調整：既製品以外の部品は、特殊な部品以外を除いて当社地域で調達可能",
+    "url": "https://www.atengineer.com/pr/kyoyu/company",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "精密機械加工、精密金型製作、自動化機械装置",
+    "url": "https://kyoyu.jp/tech_sessaku.php",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置関連や自動車、航空宇宙事業向けを主体に、縦型旋盤機能付きターニングセンタで大物切削加工を可能とします",
+    "url": "https://kyoyu.jp/tech_sessaku.php",
+    "pass": 1
+   },
+   {
+    "quote": "目まぐるしく発展する情報化社会や、ロボットを始めとする自動化システムの普及により、国内に於いては高品質高機能なモノ造りが求められております",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社では創業来より培ってきた電子デバイス事業分野を中核に、国内での勝ち残りを賭け、2008年から自動車、医療機器関連、半導体製造装置関連、航空宇宙の4つの事業分野における販路拡大に取り組んで参りました",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   },
+   {
+    "quote": "省力化機械装置・治工具、精密機械部品、金型部品の設計製作、プレス・モールド金型設計・開発",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   },
+   {
+    "quote": "プレス・モールド金型製作、超精密部品製造",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   },
+   {
+    "quote": "3．精密プレス・モールド金型の設計・製作",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   },
+   {
+    "quote": "4．精密金型部品製造",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   },
+   {
+    "quote": "省力化機械装置・治工具、精密機械部品、金型部品の設計・製作、プレス・モールド金型設計・製作",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   },
+   {
+    "quote": "営業品目： 精密プレス・モールド金型の設計・製作",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   },
+   {
+    "quote": "新「本社・工場」にて操業開始(精密モールド金型部品の製造を開始)",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙・防衛に関する品質マネジメントシステム航空機用機械加工金属部品の製造認証取得",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   },
+   {
+    "quote": "アルプスアルパイン（株）、日本ケミコン（株）グループ各社、トヨタ自動車東日本（株）、（株）ＳＵＢＡＲＵ 航空宇宙カンパニー、東京エレクトロン宮城（株）、オリンパス(株)グループ各社、サンワテクノス(株)、ＹＫＫ ＡＰ(株)、ＥＭデバイス(株)",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 1
+   },
+   {
+    "quote": "1 2D/3D CADを使用して、治具等の設計・製図等を行います",
+    "url": "https://kyoyu.jp/recruit.php",
+    "pass": 1
+   },
+   {
+    "quote": "精密機械加工、精密金型製作、自動化機械装置",
+    "url": "https://kyoyu.jp/access.php",
+    "pass": 1
+   },
+   {
+    "quote": "東北自動車道「古川IC」より車で15分",
+    "url": "https://kyoyu.jp/access.php",
+    "pass": 1
+   },
+   {
+    "quote": "３）プレス金型の超硬金型パーツ加工（平面成形及びプロファイル加工）：金型パーツ以外でも、設備能力の範囲内全て可能",
+    "url": "https://www.atengineer.com/pr/kyoyu/company",
+    "pass": 3
+   },
+   {
+    "quote": "精密機械加工、精密金型製作、自動化機械装置",
+    "url": "https://kyoyu.jp/contact.html",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "CAM (2D)",
+    "url": "https://kyoyu.jp/setubi.php",
+    "pass": 1
+   },
+   {
+    "quote": "CAM (3D)",
+    "url": "https://kyoyu.jp/setubi.php",
+    "pass": 1
+   },
+   {
+    "quote": "3 設計画面から工作機械で部品加工を行うため、CAMソフトを用いて加工プログラムを組んでいただきます",
+    "url": "https://kyoyu.jp/recruit.php",
+    "pass": 1
+   },
+   {
+    "quote": "1 設計画面から工作機械で部品加工を行うため、CAMソフトを用いて加工プログラムを組んでいただきます",
+    "url": "https://kyoyu.jp/recruit.php",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "難削材加工や精密微細加工を得意とし、多様なサイズ、多品種少量生産方式で様々なお客様のニーズに対応できる製品を製造しています",
+    "url": "https://kyoyu.jp/busi.php",
+    "pass": 1
+   },
+   {
+    "quote": "​つくる人と、つながる 思いをかたちにする力になる ​それがキョーユーです | 試作品 | Japan, 長野県",
+    "url": "https://www.kyoyu-next.com/",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック・金属など、多様な製品を試作から量産まで",
+    "url": "https://www.kyoyu-next.com/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "材質： RD20（超硬）",
+    "url": "https://kyoyu.jp/tech_kanagata.php",
+    "pass": 3
+   },
+   {
+    "quote": "材質： GTi30（超硬）",
+    "url": "https://kyoyu.jp/tech_kanagata.php",
+    "pass": 3
+   },
+   {
+    "quote": "材質： SKH51",
+    "url": "https://kyoyu.jp/tech_kanagata.php",
+    "pass": 3
+   },
+   {
+    "quote": "材質： SKD11",
+    "url": "https://kyoyu.jp/tech_kanagata.php",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "つくる人と、つながる 思いをかたちにする力になる それがキョーユー... — 有限会社キョーユー、ものづくりをサポートする商社、キョウユ－(kyoyu)公式サイト - My Site 有限会社キョーユーは、プラスチック製品加工、金属製品加工、真空成形シート販売を行っています。あなたのものづくりをサポートします。一つから量産まで、スピーディーに対応します。まずはお ...",
+    "url": "https://www.kyoyu-next.com/",
+    "pass": 3
+   },
+   {
+    "quote": "精密金型部品｜キョーユー株式会社 - kyoyu.jp — キョーユー㈱は自動化機械装置、精密プレス・モールド金型の設計製作を得意とし、「電子デバイス関連」「航空宇宙関連」「自動車関連」「医療機器関連」「半導体製造装置関連」「インフラ事業関連」の各分野が持つそれぞれの特色を融合させながら、新たなフィールドに挑戦しております ...",
+    "url": "https://kyoyu.jp/tech_kanagata.php",
+    "pass": 3
+   },
+   {
+    "quote": "事業案内｜キョーユー株式会社 - kyoyu.jp — TOP 技術紹介 精密機械部品 精密金型部品 精密・大物切削加工部品 産業用省力化機械装置 治工具設計／製作 精密プレス・モールド金型設計／製作 産学官連携・地域産業コラボレーション 主要設備 会社案内 代表あいさつ 企業理念 品質方針 環境方針 会社概要 沿革 主要取引先 事業案内 事業 ...",
+    "url": "https://kyoyu.jp/busi.php",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内｜キョーユー株式会社 — 株式会社に組織変更し、社名を「キョーユー株式会社」と制定する 平成 9年10月 電解コンデンサ部門を分離し「有限会社協友エレクトロ二クス」を設立 平成12年 8月 トレイ部門 (真空成型)を新設し「北浦工場」にて操業 平成13年 1月 資本金を4,800万円に増資",
+    "url": "https://kyoyu.jp/comp.php",
+    "pass": 3
+   },
+   {
+    "quote": "キョーユー株式会社 - 会社概要 — キョーユー株式会社の事業概要 1）精密機械加工（切削から研削まで） ：MCのAJV - 32 / 604N・VQC - 15 / 40・V10は、2パレット仕様。 NCロータリーインデックスを装備。 2）自動化設備メカアッシーから機配、最終メカ調整：既製品以外の部品は、特殊な部品以外を除いて当社地域で調達可能。 3 ...",
+    "url": "https://www.atengineer.com/pr/kyoyu/company",
+    "pass": 3
+   },
+   {
+    "quote": "キョーユー株式会社の会社概要・製品情報 | Metoreeキョーユー株式会社 - kasseiken.jp会社概要 - 株式会社 極洋株式会社キョーユー – 機器販売から施工・管理まで駐車場のトータルプ... — 会社概要 キョーユー株式会社は宮城県遠田郡に本社を構え、省力化機械装置・治工具や精密機械部品に加えて、金型部品やプレス・モールド金型の設計や開発を事業内容とする企業である。 1974年に宮城県古川市 (現在の大崎市)で、個人企業として創業。 2018年（平成30年）には、富県宮城の実現に向け、事業の発展や地域経済の活性化に対する貢献が顕著な企業や団体等を表彰する「第6回 富県宮城グランプリ」を受賞しました。 会社概要 ... 最終更新日：2023年10月5日 ㈱極洋の所在地、本社地図、従業員数、役員、機構図などを紹介しています。 株式会社キョーユーの公式ホームページです。機器販売",
+    "url": "https://metoree.com/companies/7169/",
+    "pass": 3
+   },
+   {
+    "quote": "キョーユー株式会社 - kasseiken.jp会社概要 - 株式会社 極洋株式会社キョーユー – 機器販売から施工・管理まで駐車場のトータルプ... — 2018年（平成30年）には、富県宮城の実現に向け、事業の発展や地域経済の活性化に対する貢献が顕著な企業や団体等を表彰する「第6回 富県宮城グランプリ」を受賞しました。 会社概要 ... 最終更新日：2023年10月5日 ㈱極洋の所在地、本社地図、従業員数、役員、機構図などを紹介しています。 株式会社キョーユーの公式ホームページです。機器販売から施工・管理まで駐車場のトータルプロデュースをいたします。",
+    "url": "https://www.kasseiken.jp/kira-boshi/kyoyu/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜キョーユー株式会社 — キョーユー㈱は自動化機械装置、精密プレス・モールド金型の設計製作を得意とし、「電子デバイス関連」「航空宇宙関連」「自動車関連」「医療機器関連」「半導体製造装置関連」「インフラ事業関連」の各分野が持つそれぞれの特色を融合させながら、新たなフィールドに挑戦しております ...",
+    "url": "https://kyoyu.jp/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "精密機械部品加工はキョーユー株式会社｜宮城県遠田郡美里町 — 宮城県 地方創生インターンシップ「MINT（ミント）」に参画しています。 「ここで働きたい！東北・新潟のキラ☆企業」に紹介されております。 リクナビ インターン＆キャリア サイトはこちらから",
+    "url": "https://kyoyu.jp/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせ | KYO-YU｜社内ポータル・イントラ構築サービス",
+    "url": "https://kyo-yu.biz/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "281日目（キョーユー全滅？）｜毒松☆セイたん Dec 3, 2021 · 仕事終わって事務所から出ると通り雨のような雨が降り出し、急いでチャリに乗って自宅へ。 しばらく止みそうになかったんで街中へチャリで行くのは諦めて車に乗り換える。 昼飯は高松家。 ちょうど駐車場に入れる時に出て行く車を見ると、後方のドア付近にbachoのステッカーを貼ってるの ...",
+    "url": "https://note.com/diabolicgraph/n/nb6dc316a845f",
+    "pass": 3
+   },
+   {
+    "quote": "Late-Night Temptation Starting with a Search: A Dialogue ... Jul 23, 2026 · 🍜 The Ramen Odyssey of Hungry Taro and Google AI Teacher 北九州の濃厚豚骨ラーメン13選【総集編】 〈北九州発信バラエティ〉キョーユーch Watch on",
+    "url": "https://note.com/tarou_wakamatsu/n/n86a630895621?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "281日目（キョーユー全滅？）｜毒松☆セイたん",
+    "url": "https://note.com/diabolicgraph/n/nb6dc316a845f",
+    "pass": 3
+   },
+   {
+    "quote": "仕事終わって事務所から出ると通り雨のような雨が降り出し、急いでチャリに乗って自宅へ。",
+    "url": "https://note.com/diabolicgraph/n/nb6dc316a845f",
+    "pass": 3
+   },
+   {
+    "quote": "しばらく止みそうになかったんで街中へチャリで行くのは諦めて車に乗り換える。",
+    "url": "https://note.com/diabolicgraph/n/nb6dc316a845f",
+    "pass": 3
+   },
+   {
+    "quote": "高松家であったたたたかくて濃ぃ〜スープのラーメ🍜",
+    "url": "https://note.com/diabolicgraph/n/nb6dc316a845f",
+    "pass": 3
+   },
+   {
+    "quote": "もちろん辛ネギドーピングでネギ巻き取りクロニクル🥦",
+    "url": "https://note.com/diabolicgraph/n/nb6dc316a845f",
+    "pass": 3
+   },
+   {
+    "quote": "pic.twitter.com/ePhIfV6mqD",
+    "url": "https://note.com/diabolicgraph/n/nb6dc316a845f",
+    "pass": 3
+   },
+   {
+    "quote": "— 毒松☆セイたん (@diabolicgraph)",
+    "url": "https://note.com/diabolicgraph/n/nb6dc316a845f",
+    "pass": 3
+   },
+   {
+    "quote": "ちょうど駐車場に入れる時に出て行く車を見ると、後方のドア付近にbachoのステッカーを貼ってるのが見えた。好きなバンドのステッカー貼ってる車とか見ると「おっ！」と思いながら運転手を確認してしまう。",
+    "url": "https://note.com/diabolicgraph/n/nb6dc316a845f",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "キョーユーちゃん (@kyoyutyan) / X 嬉しいご報告です！この度、キョーユーと協友ダイ＆モールドから、2名の特級技能士が誕生しました🎉2人が受検したR5年度 後期技能検定・機械加工 特級の合格率はなんと23.1％でした。本当におめでとうございます👏 #キョーユー #精密機械部品 #精密金型部品 #精密金型 #技能検定 #特級",
+    "url": "https://x.com/kyoyutyan",
+    "pass": 3
+   },
+   {
+    "quote": "キョーユーちゃん on X: \"こんにちは☀️ 今日もとっても暑いピョン･･... こんにちは☀️ 今日もとっても暑いピョン･･･🐰 キョーユーでは、7/30と8/5に 「ファクトリーテーマパーク」を開催して 多くのご家族にご参加いただいたんだピョン 工場見学やパズル、お菓子つりをやったよ🍭 来てくれたみんなありがとう🧒🌈 #キ ...",
+    "url": "https://x.com/kyoyutyan/status/1689862640280252416",
+    "pass": 3
+   },
+   {
+    "quote": "Kenji Tammas on X: \"SMSで、「あなたがキョーユーしているPhotoを誰... SMSで、「あなたがキョーユーしているPhotoを誰かがViewしました。以下のリンクから確認してください」ってメッセージが来て、もう少しでクリックしそうになった。あぶないx2",
+    "url": "https://x.com/KenjiTammas/status/2090966749399458040",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "キョーユー企業 - Facebook キョーユー企業",
+    "url": "https://www.facebook.com/キョーユー企業-419779301380099/",
+    "pass": 3
+   },
+   {
+    "quote": "キョーユー株式会社 - Facebook キョーユー株式会社",
+    "url": "https://www.facebook.com/キョーユー株式会社-359988260798532/",
+    "pass": 3
+   },
+   {
+    "quote": "キョーユー - Facebook キョーユー - Facebook ... キョーユー",
+    "url": "https://www.facebook.com/キョーユー-238289706220487/",
+    "pass": 3
+   },
+   {
+    "quote": "kyoyu.Casa design office（株式会社 共結） | Ise-shi Mieキョーユー 志度店 - Facebookリョーユウ工業株式会社 | Sue-machi Kasuya-gun Fukuokaバイクショップ リョーユー - Facebook Oct 9, 2024 · kyoyu.Casa design office（株式会社 共結）, Ise-shi. 1,882 likes · 16 were here. 三重県伊勢市にある、新築住宅・リフォーム施工・外構施工・デザイン・ かつて香川県下に数多く存在した古本屋チェーン、キョーユー。志度に唯一残っていたが、まだあるんだろうか？レトロゲームは意外に無く、PS2以降が多い。 2 days ago · リョーユウ工業株式会社, Sue-machi Kasuya-gun. 124 followers · 14 talki",
+    "url": "https://www.facebook.com/kyoyu.co.ltd/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://kyoyu.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoyu.jp/tech_sessaku.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoyu.jp/setubi.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoyu.jp/comp.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoyu.jp/busi.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoyu.jp/recruit.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoyu.jp/access.php",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://kyoyu.jp/pdf/sdgs.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kyoyu.jp/img/comp/mida05.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.kyoyu-next.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoyu.jp/tech_kanagata.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoeidesign.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoyu.jp/busi.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoyu.jp/comp.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/kyoyu/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoyu.jp/contact.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyo-yu.biz/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyokuyo.co.jp/inquiry/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/diabolicgraph/n/nb6dc316a845f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tarou_wakamatsu/n/n86a630895621?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kyoyutyan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kyoyutyan/status/1689862640280252416",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KenjiTammas/status/2090966749399458040",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/キョーユー企業-419779301380099/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/キョーユー株式会社-359988260798532/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/キョーユー-238289706220487/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kyoyu.co.ltd/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "キョーユー 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.kyoyu-next.com/",
+    "https://kyoyu.jp/tech_kanagata.php",
+    "https://kyoeidesign.co.jp/",
+    "https://kiyo-kousakusho.com/small-lot-processing-basics/",
+    "https://kyoeidesign.co.jp/lot-production/",
+    "https://kyoyu.jp/",
+    "http://ky-giken.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "キョーユー 会社概要 事業内容",
+   "results": [
+    "https://kyoyu.jp/busi.php",
+    "https://kyoyu.jp/comp.php",
+    "https://www.atengineer.com/pr/kyoyu/company",
+    "https://metoree.com/companies/7169/",
+    "https://www.kasseiken.jp/kira-boshi/kyoyu/",
+    "https://kyo-yu-0520.com/",
+    "https://www.kyokuyo.co.jp/company/data/profile/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "キョーユー お問い合わせ メール",
+   "results": [
+    "https://kyoyu.jp/contact.html",
+    "https://kyo-yu.biz/contact/",
+    "https://www.kyokuyo.co.jp/inquiry/index.html",
+    "https://www.kyoei-group.co.jp/inquiry/",
+    "https://kyoyu.jp/",
+    "https://www.ky-giken.com/contact/",
+    "https://www.kyokuyo.co.jp/inquiry/aboutus/index.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com キョーユー",
+   "results": [
+    "https://note.com/kaedefrom0916/n/n1074c83c4456",
+    "https://note.com/diabolicgraph/n/nb6dc316a845f",
+    "https://note.com/kawachinbooklog/n/n87e4be08d862",
+    "https://note.com/tarou_wakamatsu/n/n86a630895621?hl=en",
+    "https://tales.note.com/",
+    "https://note.com/sayulog/n/n0b785efd4452",
+    "https://note.com/tugbooks/n/n0b5961859acb"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com キョーユー",
+   "results": [
+    "https://x.com/kyoyutyan",
+    "https://x.com/kyoyutyan/status/1689862640280252416",
+    "https://x.com/KenjiTammas/status/2090966749399458040",
+    "https://x.com/ryoyusite",
+    "https://x.com/chicominarai/status/2109266050504339592",
+    "https://x.com/hizuking/status/2091549246713733521",
+    "https://x.com/mods_yukari/status/2087336158875570539"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com キョーユー",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com キョーユー",
+   "results": [
+    "https://www.facebook.com/キョーユー企業-419779301380099/",
+    "https://www.facebook.com/キョーユー株式会社-359988260798532/",
+    "https://www.facebook.com/キョーユー-238289706220487/",
+    "https://www.facebook.com/kyoyu.co.ltd/",
+    "https://www.facebook.com/キョーユー-志度店-279998809297545/",
+    "https://www.facebook.com/people/バイクショップ-リョーユー/100057675540637/",
+    "https://www.facebook.com/ryoyukougyou/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "キョーユー note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://kyoyu.jp/",
+    "https://kyoyu.jp/comp.php",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.joho-miyagi.or.jp/takuminotetyou/pdf/me44.pdf",
+    "https://compalyze.co.jp/company/2370201000124"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "キョーユー X 投稿",
+   "results": [
+    "https://kyoyu.jp/",
+    "https://kyoyu.jp/comp.php",
+    "https://kyo-yu-0520.com/",
+    "https://www.kyoyu-next.com/",
+    "https://jobcatalog.yahoo.co.jp/company/1100015936/review/",
+    "https://kyo-you.com/",
+    "https://x.com/keiyoukei/status/2120456751560458515"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像2件／外部18頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式7頁／PDF・画像2件／外部18頁・検索9回）"
+ }
+}

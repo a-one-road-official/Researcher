@@ -1,0 +1,520 @@
+{
+ "name": "有限会社シナノ精密",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T18:52:28.316595+00:00",
+ "official_url": "http://www.shinano-seimitsu.com",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　吉川博則",
+    "url": "https://www.shinano-seimitsu.com/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒399-2565　長野県飯田市桐林1764-6 TEL：0265-26-9142　FAX：0265-26-7089",
+    "url": "https://www.shinano-seimitsu.com/company/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "上川路工場",
+    "value": "〒399-2564　長野県飯田市上川路346-1 FAX：0265-26-1201",
+    "url": "https://www.shinano-seimitsu.com/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "37名（2023年6月現在）",
+    "url": "https://www.shinano-seimitsu.com/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "営業品目",
+    "value": "検査測定用マイクロズーム部品加工及び組立 レーザー光学機器部品加工 半導体製造設備用部品　位置決め装置等、露光装置用部品、露光用対物レンズ枠 歩行用ロボット部品、及び介護用ロボット部品 医療用機器部品 光ファイバー溶着機部品 分光分析機器　赤外分光光度計、精密分光計部品 航空機部品　アクチェター 電子秤部品 各種顕微鏡部品製造及び組立、培養顕微鏡、膜厚測定顕微鏡、毛髪測定顕微鏡 血液分析顕微鏡、工業用測定顕微鏡、金属顕微鏡、宝石顕微鏡 各種対物レンズ及び胴枠、ヘリコイド枠、多条ネジ加工 ズーム用移動枠カム溝加工及びズーム用レンズ枠 硬さ試験機部品製造、ビッカーズ硬度計、ブリネル硬度計 ガラス切り部品製造及び組立、液晶ガラス用切断機、自動車用ガラス切り 空圧機器部品、ロッドカバー、ロッドキャップ、マニホールド等",
+    "url": "https://www.shinano-seimitsu.com/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "一点物・少量多品種": [
+   {
+    "quote": "短納期・多種少量生産に対応し、お客様のニーズにお応えする",
+    "url": "https://www.shinano-seimitsu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "試作からコストダウンを提案します！ ｜無料見積依頼受付中｜",
+    "url": "https://www.shinano-seimitsu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "試作から量産まで少量多品種対応 ご相談ください！",
+    "url": "https://www.shinano-seimitsu.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "NC複合旋盤・5軸マシニングセンターを使用した精密複合加工を得意とし、蓄積された加工技術を基に試作から量産へ向け『信頼される製品』と『お客様の利益』を提供いたします",
+    "url": "https://www.shinano-seimitsu.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "試作からコストダウンを提案します！ ｜無料見積依頼受付中｜",
+    "url": "https://www.shinano-seimitsu.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "試作からコストダウンを提案します！ ｜無料見積依頼受付中｜",
+    "url": "https://www.shinano-seimitsu.com/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "試作からコストダウンを提案します！ ｜無料見積依頼受付中｜",
+    "url": "https://www.shinano-seimitsu.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "短納期、多種少量生産に対応！開発品から中量生産までお応えします",
+    "url": "https://mono.ipros.com/company/detail/2008808/category/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社シナノ精密は、材料調達から加工、塗装、メッキ、彫刻、焼き入れ、研磨迄部品を完成し品質を保証、部組並びに完成品組上げも可能であり、更に小ロットにも対応、納期、価格面でも要望に応えられます",
+    "url": "https://mono.ipros.com/company/detail/2008808/category/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "NC複合旋盤・5軸マシニングセンターを使用した精密複合加工を得意とし、蓄積された加工技術を基に試作から量産へ向け『信頼される製品』と『お客様の利益』を提供いたします",
+    "url": "https://www.shinano-seimitsu.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "光学・ロボット・医療など幅広いお客様とお付き合いをさせて頂く中で、地元協力企業とのつながりを重視し、それぞれの長所を生かしながら製品を作",
+    "url": "https://www.shinano-seimitsu.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "シナノ精密の製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2008808/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://mono.ipros.com/company/detail/2008808/category/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "光学・ロボット・医療など幅広いお客様とお付き合いをさせて頂く中で、地元協力企業とのつながりを重視し、それぞれの長所を生かしながら製品を作",
+    "url": "https://www.shinano-seimitsu.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造設備用部品 位置決め装置等、露光装置用部品、露光用対物レンズ枠",
+    "url": "https://www.shinano-seimitsu.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "歩行用ロボット部品、及び介護用ロボット部品",
+    "url": "https://www.shinano-seimitsu.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス切り部品製造及び組立、液晶ガラス用切断機、自動車用ガラス切り",
+    "url": "https://www.shinano-seimitsu.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "NC工場を増築しHDや半導体、レンズ枠関連の仕事をはじめる",
+    "url": "https://www.shinano-seimitsu.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "○光学部品、医療用光学部品、ロボット部品などの",
+    "url": "https://mono.ipros.com/company/detail/2008808/category/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "MAM72-3VS 【 40PC 】",
+    "url": "https://www.shinano-seimitsu.com/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "MAM72-25V 【 40PC 】",
+    "url": "https://www.shinano-seimitsu.com/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "MAM72-52V 【 15PC 】",
+    "url": "https://www.shinano-seimitsu.com/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "MAM72-35V 【 40PC 】",
+    "url": "https://www.shinano-seimitsu.com/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "FeatureCAM (FeatureMILL 2D)",
+    "url": "https://www.shinano-seimitsu.com/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "GibbsCAM (3D-Milling,4-Axis)",
+    "url": "https://www.shinano-seimitsu.com/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "GibbsCAM (3D-Milling,5-Axis)",
+    "url": "https://www.shinano-seimitsu.com/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "MAM72-3VS (40パレット付)",
+    "url": "https://www.shinano-seimitsu.com/company/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "履歴書を下記メールアドレスまでお送りください",
+    "url": "https://www.shinano-seimitsu.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "詳しくはお問い合わせ、またはカタログをダウンロードしてください",
+    "url": "https://mono.ipros.com/company/detail/2008808/category/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "有限会社 シナノ精密 – 豊富な経験と確かな技術で高精度ニーズにお応... — 短納期・多種少量生産に対応し、お客様のニーズにお応えする 提案型の企業です。 切削加工のことならシナノ精密にお任せください。 弊社営業が設計段階で打合せさせて頂くことで、加工における問題点の提示とコスト低減をご提案いたします。",
+    "url": "https://www.shinano-seimitsu.com/",
+    "pass": 3
+   },
+   {
+    "quote": "シナノ精密の製品・サービス一覧｜イプロスものづくり — Jun 14, 2018 · 開発品から中量生産までお応えします。 有限会社シナノ精密は、材料調達から加工、塗装、メッキ、彫刻、焼き入れ、研磨迄部品を完成し品質を保証、部組並びに完成品組上げも可能であり、更に小ロットにも対応、納期、価格面でも要望に応えられます。",
+    "url": "https://mono.ipros.com/company/detail/2008808/category/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ加工・表面処理 – 有限会社 シナノ精密 — アルミ加工・表面処理 試作から量産まで少量多品種対応 ご相談ください！ NC複合旋盤・5軸マシニングセンターを使用した精密複合加工を得意とし、蓄積された加工技術を基に試作から量産へ向け『信頼される製品』と『お客様の利益』を提供いたします。",
+    "url": "https://www.shinano-seimitsu.com/products/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 – 有限会社 シナノ精密プラスチック精密加工 東京都大田区の「シナノ産業株式会社」プラスチック精密加工 東京都大田区の「シナノ産業株式会社」/会社概...会社情報｜シナノグループ会社概要・沿革・関連会社・アクセス会社案内（拠点・グループ概要）｜株式会社シナノセイケン事業内容｜ASPINA — company 会社情報 社 是 ごあいさつ 有限会社シナノ精密の歴史は旋盤による光学機器部品の切削加工から始まりました。 50有余年を経て培った技術と最新設備が融合され他に類を見ない面白い会社に育っております。 プラスチック専門切削加工 正確 × 精密 × 短納期 We will make efforts to improve product accuracy and to shorten the delivery time. 1個から製作。三次元加工・データ支給も承ります。 ご挨拶 弊社",
+    "url": "https://www.shinano-seimitsu.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ – 有限会社 シナノ精密 — 下記の目的でお客様の個人情報を利用しますが、 同意なく他の目的に使用することはありません。 ・カタログ、ダイレクトメールの発送、その他関連するサービス等の情報を提供するためにお客様の購入履歴を参考にする事があります。",
+    "url": "https://www.shinano-seimitsu.com/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "シナノ精密 - Facebook シナノ精密 - Facebook ... シナノ精密",
+    "url": "https://www.facebook.com/シナノ精密-554589514562024/",
+    "pass": 3
+   },
+   {
+    "quote": "(有）シナノ精密 - Facebook (有）シナノ精密",
+    "url": "https://www.facebook.com/有シナノ精密-554652737916173/",
+    "pass": 3
+   },
+   {
+    "quote": "Shinano air tools - Facebook有限会社 シナノ精密 - Facebook株式会社シナノ（sinano） | Saku-shi Nagano - Facebook株式会社 シナノセイケン - Facebookシナノカメラ工業株式会社 - Facebook The SI-2700 Belt Sander by SHINANO INC. has been a long-standing favorite among professionals worldwide. While it has a timeless, classic design, it’s packed with features built for reliability and efficiency. 有限会社 シナノ精密 株式会社シナノ（sinano）, Saku-shi. 4,355 likes ",
+    "url": "https://www.facebook.com/shinanoairtools/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 シナノ精密 - Facebook 有限会社 シナノ精密",
+    "url": "https://www.facebook.com/有限会社-シナノ精密-160014677526826/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.shinano-seimitsu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinano-seimitsu.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinano-seimitsu.com/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinano-seimitsu.com/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.shinano-seimitsu.com/images/products/flow.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.shinano-seimitsu.com/images/products/opt01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.shinano-seimitsu.com/images/products/opt02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.shinano-seimitsu.com/images/products/opt03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.shinano-seimitsu.com/images/products/opt04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.shinano-seimitsu.com/images/products/opt05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.shinano-seimitsu.com/images/products/robot01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.shinano-seimitsu.com/images/products/robot02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.shinano-seimitsu.com/images/products/robot03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.shinano-seimitsu.com/images/products/medical02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.shinano-seimitsu.com/images/products/medical04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.shinano-seimitsu.com/images/products/robot04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2008808/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sinano.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinano-t.com/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/シナノ精密-554589514562024/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/有シナノ精密-554652737916173/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shinanoairtools/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/有限会社-シナノ精密-160014677526826/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "シナノ精密 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.shinano-seimitsu.com/",
+    "https://mono.ipros.com/company/detail/2008808/category/",
+    "https://www.shinano-seimitsu.com/products/",
+    "https://shinano-s.com/about_mounting/",
+    "https://shinano-s.com/",
+    "https://www.ings-s.co.jp/",
+    "https://www.ings-s.co.jp/business/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "シナノ精密 会社概要 事業内容",
+   "results": [
+    "https://www.shinano-seimitsu.com/",
+    "https://www.shinano-seimitsu.com/company/",
+    "https://www.sinano.com/company/",
+    "https://shi-na-no.com/company/",
+    "https://jp.aspina-group.com/ja/about-us/activities/",
+    "https://www.sinano.com/",
+    "https://shinano-s.com/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "シナノ精密 お問い合わせ メール",
+   "results": [
+    "https://www.shinano-seimitsu.com/contact/",
+    "https://www.shinano-seimitsu.com/",
+    "https://www.shinano-t.com/contact",
+    "https://www.shinanoa.co.jp/contact/index.html",
+    "https://www.shinanoa.co.jp/contact/corporation.php",
+    "https://sinano.co.jp/contact/toiawase.php",
+    "https://www.sinano.com/contpage/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com シナノ精密",
+   "results": [
+    "https://note.com/shinanolab",
+    "https://note.com/nd_precision/n/nb6c53817ffae?hl=en",
+    "https://note.com/note_jmp/n/n2cf11ef6bc0d",
+    "https://tales.note.com/",
+    "https://note.com/chemiconnagaoka/n/nac720f923297",
+    "https://note.com/sankituushin/n/n0e8723d2e3ca",
+    "https://note.com/shinonomerin/n/na9245a615663"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com シナノ精密",
+   "results": [
+    "https://x.com/shinanoseiken",
+    "https://x.com/highland_feet/status/2112729869394362567",
+    "https://x.com/jinkusulv_kai",
+    "https://x.com/shinanoseiken/status/2042402313571353028",
+    "https://x.com/sinano_T",
+    "https://x.com/aqua0015",
+    "https://x.com/SGIjp_"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com シナノ精密",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com シナノ精密",
+   "results": [
+    "https://www.facebook.com/シナノ精密-554589514562024/",
+    "https://www.facebook.com/有シナノ精密-554652737916173/",
+    "https://www.facebook.com/shinanoairtools/",
+    "https://www.facebook.com/有限会社-シナノ精密-160014677526826/",
+    "https://www.facebook.com/sinanojapan/photos/",
+    "https://www.facebook.com/shinanoseiken0113/",
+    "https://www.facebook.com/p/シナノカメラ工業株式会社-100063491586142/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "シナノ精密 note 社長",
+   "results": [
+    "https://www.shinano-seimitsu.com/",
+    "https://compalyze.co.jp/company/7100002036505",
+    "https://www.shinano-seimitsu.com/company/",
+    "https://t-reach.nice-o.or.jp/company/47",
+    "https://note.com/note_jmp/n/n2cf11ef6bc0d",
+    "https://space.japanstep.jp/learn/2026/05/1974/",
+    "https://jp.linkedin.com/in/行宏-金子-025bb354"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "シナノ精密 X 投稿",
+   "results": [
+    "https://www.shinano-seimitsu.com/",
+    "https://www.shinano-seimitsu.com/news/",
+    "https://x.com/jinkusulv_kai/status/2089194911195365885",
+    "https://x.com/jinkusulv_kai/status/2083536307830276344",
+    "https://www.sinano.com/",
+    "https://booth.pm/ja/search/Shinano",
+    "https://www.sinano.com/blog/?cat=ブログ"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像12件／外部7頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式4頁／PDF・画像12件／外部7頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式4頁／PDF・画像12件／外部7頁・検索9回）"
+ }
+}

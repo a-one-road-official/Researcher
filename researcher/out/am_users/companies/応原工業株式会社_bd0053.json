@@ -1,0 +1,1031 @@
+{
+ "name": "応原工業株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T19:14:21.227728+00:00",
+ "official_url": "http://ohara-industry.com",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　應原　弘圭",
+    "url": "https://ohara-industry.com/about/gaiyou.php",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "20名（2023年4月現在）",
+    "url": "https://ohara-industry.com/about/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "21名",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "営業品目",
+    "value": "自動車内装用 樹脂圧縮成形プレス金型（圧縮成形同時トリム金型、成形型、トリム型）の設計・製作 複合材料用金型の設計・製作及び試作 部品加工 ECサイト運営",
+    "url": "https://ohara-industry.com/about/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "label": "事業所",
+    "value": "本社吉川工場／原工場",
+    "url": "https://ohara-industry.com/about/gaiyou.php",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒739-0153  広島県東広島市吉川工業団地8-11",
+    "url": "https://ohara-industry.com/about/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "広島県東広島市吉川工業団地8-11",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "マツダ系部品メーカー トヨタ系部品メーカー ダイハツ系部品メーカー 日産系部品メーカー トラック部品メーカー 農機具メーカー 特装車メーカー",
+    "url": "https://ohara-industry.com/about/gaiyou.php",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "これまで実績のない製品を成形同時トリム・ピアス型で成形したい",
+    "url": "https://ohara-industry.com/",
+    "pass": 1
+   },
+   {
+    "quote": "金型は生産現場では地味な裏方ですが、金型無くしては自動車、バイクから家電製品に至るまで生活必需品を安く消費者が手にすることはできないといえる生産に欠かせないツールです",
+    "url": "https://ohara-industry.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "「自分達の作った金型で量産された製品が世の中を支えている」 という",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車の部品メーカー向けに金型を製作しており、多くの車種で当社の金型を使用して製造された製品が搭載されているため、欧米・中南米・アジア諸国などの世界中で走る車に搭載されています",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の形状や仕様に基づき、最適な金型を設計します",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "客先との仕様確認、金型の製造部門とも連携しながら製品の品質向上を図るため、技術力とコミュニケーション能力が求められる仕事です",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の形状を決定するための金型を製造する重要な業務です",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品質や量産性に直接影響を与えるため、細部へのこだわりと高度な技術が求められます",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製造の最終段階を担い、製品の完成度を支える重要な役割です",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "また、成形まで行っており、自動車内装部品を中心とした高品質な製品を提供しております",
+    "url": "https://ohara-industry.com/business/press.php",
+    "pass": 1
+   },
+   {
+    "quote": "製品の3面がほぼ90°の直面になっており、トリムラインが90°に立ち上がった端末先端になっている非常に難易度の高い製品サンプルです",
+    "url": "https://ohara-industry.com/business/press.php",
+    "pass": 1
+   },
+   {
+    "quote": "さらに製品の両脇に小径3mmの切り欠き部分も含め、全て成形同時トリムで1ショットで成形しています",
+    "url": "https://ohara-industry.com/business/press.php",
+    "pass": 1
+   },
+   {
+    "quote": "写真は製品そのものではありませんが小型の検証型を製作することで、成形性と同時トリムの検証を行った例です",
+    "url": "https://ohara-industry.com/business/press.php",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(2)",
+    "url": "https://mono.ipros.com/company/detail/2083094/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・研究開発（建築・土木・プラント・設備）",
+    "url": "https://ja.nc-net.or.jp/company/22196/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "自動車内装用 樹脂圧縮成形プレス同時トリム金型の設計製作｜応原工業株式会社",
+    "url": "https://ohara-industry.com/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車内装用 樹脂圧縮成形プレス同時トリム金型の試作～検査まで、 試作型やEV用樹脂圧縮成形プレス金型、複合材料プレス金型もお任せください",
+    "url": "https://ohara-industry.com/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン（CFRP）３Dプリンターを導入しました",
+    "url": "https://ohara-industry.com/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車内装用 樹脂圧縮成形プレス同時トリム金型",
+    "url": "https://ohara-industry.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車内装用 樹脂圧縮成形プレス同時トリム金型では、「成形同時トリミング＆ピアス型」の金型製作を得意としております",
+    "url": "https://ohara-industry.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "熱硬化性樹脂や熱可塑性樹脂といった特性のある材料をプレスする際に、金型が受ける熱の影響を考慮し成形すると共に、適切な刃を製作することでトリミングの精度を出します",
+    "url": "https://ohara-industry.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "応原工業株式会社 採用サイト | 自動車内装用 樹脂圧縮成形プレス同時トリム金型の設計製作",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が主に製作している樹脂圧縮成形プレス金型は",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は樹脂プレス金型というニッチな分野を手がけており、同じ領域で競合する会社が多くありません",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、樹脂プレス金型の技術を応用した複合材料金型の新規事業を開始し、自動車業界以外からの受注も増加しています",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "今後は複合材料の量産事業にも着手する予定です",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン（CFRP）３Dプリンターを導入しました",
+    "url": "https://ohara-industry.com/info/2026/09/1132/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車内装用 樹脂圧縮成形プレス金型（圧縮成形同時トリム金型、成形型、トリム型）の設計・製作",
+    "url": "https://ohara-industry.com/about/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂プレス成形事業／事業内容 | 自動車内装用プレス金型の設計製造の応原工業株式会社",
+    "url": "https://ohara-industry.com/business/press.php",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂プレス成形とは、樹脂材料を金型にセットし、熱硬化性樹脂の場合は加熱、熱可塑性樹脂の場合は徐冷しながら圧縮成形（加圧）することで所定の3次元形状に成形する工法です",
+    "url": "https://ohara-industry.com/business/press.php",
+    "pass": 1
+   },
+   {
+    "quote": "熱可塑性樹脂 の場合 は当社設備の材料加熱炉や平板成形用熱板を使用可能です",
+    "url": "https://ohara-industry.com/business/press.php",
+    "pass": 1
+   },
+   {
+    "quote": "特長② 現場の用途に合わせて5種類の機能性樹脂から選択可能",
+    "url": "https://ohara-industry.com/business/d3.php",
+    "pass": 1
+   },
+   {
+    "quote": "GX-1000 樹脂物性表",
+    "url": "https://ohara-industry.com/business/d3.php",
+    "pass": 1
+   },
+   {
+    "quote": "②ワーク：CFRP CHAIRの脚部 カーボンパイプの接手",
+    "url": "https://ohara-industry.com/business/d3.php",
+    "pass": 1
+   },
+   {
+    "quote": "仕様材料：GX-M1（ナイロン樹脂） 造形時間：6.5h 価格：6,200円",
+    "url": "https://ohara-industry.com/business/d3.php",
+    "pass": 1
+   },
+   {
+    "quote": "複合材料事業／事業内容 | 応原工業株式会社",
+    "url": "https://ohara-industry.com/business/fukugo.php",
+    "pass": 1
+   },
+   {
+    "quote": "応原工業株式会社 採用サイト | 自動車内装用 樹脂圧縮成形プレス同時トリム金型の設計製作",
+    "url": "https://ohara-industry.com/recruit/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "高校卒業後、大分で半導体オペレーターを経験したのち、樹脂の射出成形や品質保証に携わりました",
+    "url": "https://ohara-industry.com/recruit/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "同社は自動車内装用の樹脂プレス金型、特に圧縮成形同時トリム金型の設計・製作を主力事業としています",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   },
+   {
+    "quote": "複合材料用金型の設計・製作および試作も手がけています",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   },
+   {
+    "quote": "自動車内装用樹脂プレス金型の設計・製作、複合材料用金型の設計・製作および試作、部品加工、ECサイト運営、3Dプリンター事業、リバースエンジニアリング",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "自動車内装用 樹脂圧縮成形プレス同時トリム金型の試作～検査まで、 試作型やEV用樹脂圧縮成形プレス金型、複合材料プレス金型もお任せください",
+    "url": "https://ohara-industry.com/",
+    "pass": 1
+   },
+   {
+    "quote": "リバースエンジニアリング、3Dプリンタでの試作もご相談ください",
+    "url": "https://ohara-industry.com/",
+    "pass": 1
+   },
+   {
+    "quote": "金型は受注生産のため、量産メーカーのように仕事量が一定というわけではありません",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "こちらは、自動車のティア1部品メーカー様からご相談で自動車のシート開発のためにコストメリットの効いた成形同時トリムの試作型のご提案をした事例です",
+    "url": "https://ohara-industry.com/business/press.php",
+    "pass": 1
+   },
+   {
+    "quote": "こちらは、材料メーカー様からご相談で自社商品の不織布シートの商品開発のために、成形同時トリム試作型を用いて量産イメージの検証を行った事例です",
+    "url": "https://ohara-industry.com/business/press.php",
+    "pass": 1
+   },
+   {
+    "quote": "複合材料用金型の設計・製作および試作も手がけています",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   },
+   {
+    "quote": "自動車内装用樹脂プレス金型の設計・製作、複合材料用金型の設計・製作および試作、部品加工、ECサイト運営、3Dプリンター事業、リバースエンジニアリング",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "自動車内装用 樹脂圧縮成形プレス同時トリム金型の設計製作｜応原工業株式会社",
+    "url": "https://ohara-industry.com/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車内装用 樹脂圧縮成形プレス同時トリム金型の試作～検査まで、 試作型やEV用樹脂圧縮成形プレス金型、複合材料プレス金型もお任せください",
+    "url": "https://ohara-industry.com/",
+    "pass": 1
+   },
+   {
+    "quote": "現在の社業である金型事業はお客様からご要望にお応えする形でスタートしましたが、金型製作はお取引先様の理想を実現するための絶え間ない挑戦の歴史でもありました",
+    "url": "https://ohara-industry.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "金型事業／事業内容 | 自動車内装用プレス金型の設計製造の応原工業株式会社",
+    "url": "https://ohara-industry.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "金型は生産現場では地味な裏方ですが、金型無くしては自動車、バイクから家電製品に至るまで生活必需品を安く消費者が手にすることはできないといえる生産に欠かせないツールです",
+    "url": "https://ohara-industry.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の形というデザインイメージを現実的な三次元形状に転写して量産のお手伝いをするのが金型の役目です",
+    "url": "https://ohara-industry.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "より多くのお客様に喜んでいただけるようにと自動車部品の塗装業からプレス金型専業に移行して昭和42年から平成の今日まで至りました",
+    "url": "https://ohara-industry.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "農業機械、自動車の足回り、家庭用厨房器具、太陽熱温水器、ボイラーなどの部品向けを経て、自動車内装部品向けでは工程短縮機能金型に特化しております",
+    "url": "https://ohara-industry.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車内装用 樹脂圧縮成形プレス同時トリム金型",
+    "url": "https://ohara-industry.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "「成形同時トリミング＆ピアス型」の金型製作なら",
+    "url": "https://ohara-industry.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車内装用 樹脂圧縮成形プレス同時トリム金型では、「成形同時トリミング＆ピアス型」の金型製作を得意としております",
+    "url": "https://ohara-industry.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "熱硬化性樹脂や熱可塑性樹脂といった特性のある材料をプレスする際に、金型が受ける熱の影響を考慮し成形すると共に、適切な刃を製作することでトリミングの精度を出します",
+    "url": "https://ohara-industry.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "応原工業株式会社 採用サイト | 自動車内装用 樹脂圧縮成形プレス同時トリム金型の設計製作",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が希望する「形」や「デザイン」を、大量生産する基となる「金型」をつくる会社です",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が主に製作している樹脂圧縮成形プレス金型は",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車の室内天井・エンジンルーム・EVバッテーリーカバー・タイヤ周り",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "「自分達の作った金型で量産された製品が世の中を支えている」 という",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "モノづくりパートナーとして、自動車産業を支えています！",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "応原工業は、日本の代表産業「自動車産業」を支える仕事をしています",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車の部品メーカー向けに金型を製作しており、多くの車種で当社の金型を使用して製造された製品が搭載されているため、欧米・中南米・アジア諸国などの世界中で走る車に搭載されています",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "自らの手でモノを作ることが好きな方、自動車が好きな方は、是非当社で働いてみませんか？",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の形状や仕様に基づき、最適な金型を設計します",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "客先との仕様確認、金型の製造部門とも連携しながら製品の品質向上を図るため、技術力とコミュニケーション能力が求められる仕事です",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の形状を決定するための金型を製造する重要な業務です",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "加工プロセスの最適化を行い、高品質な金型を提供する役割です",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "各種部品や機械加工後鋼材の組付け、調整、金型表面の磨き、トリム刃の精度調整など金型が仕様通りの機能を持つように仕上げます",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製造の最終段階を担い、製品の完成度を支える重要な役割です",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製造業・金型づくりは未経験ですが、応募できますか？",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は樹脂プレス金型というニッチな分野を手がけており、同じ領域で競合する会社が多くありません",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、大手自動車部品メーカーを中心にお仕事をいただいています",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、樹脂プレス金型の技術を応用した複合材料金型の新規事業を開始し、自動車業界以外からの受注も増加しています",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "金型は受注生産のため、量産メーカーのように仕事量が一定というわけではありません",
+    "url": "https://ohara-industry.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "設備紹介 | 自動車内装用プレス金型の設計製造なら成形同時トリミングの応原工業株式会社",
+    "url": "https://ohara-industry.com/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車内装用 樹脂圧縮成形プレス金型（圧縮成形同時トリム金型、成形型、トリム型）の設計・製作",
+    "url": "https://ohara-industry.com/about/gaiyou.php",
+    "pass": 1
+   },
+   {
+    "quote": "創業者の應原昭が東広島市八本松町原 東プレ敷地内に、有限会社応原工業を設立し、自動車の足回り塗装を事業とする",
+    "url": "https://ohara-industry.com/about/enkaku.php",
+    "pass": 1
+   },
+   {
+    "quote": "山陽自動車道「志和IC」より約25分",
+    "url": "https://ohara-industry.com/about/access.php",
+    "pass": 1
+   },
+   {
+    "quote": "山陽自動車道「西条IC」より約25分",
+    "url": "https://ohara-industry.com/about/access.php",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂プレス成形事業／事業内容 | 自動車内装用プレス金型の設計製造の応原工業株式会社",
+    "url": "https://ohara-industry.com/business/press.php",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂プレス成形とは、樹脂材料を金型にセットし、熱硬化性樹脂の場合は加熱、熱可塑性樹脂の場合は徐冷しながら圧縮成形（加圧）することで所定の3次元形状に成形する工法です",
+    "url": "https://ohara-industry.com/business/press.php",
+    "pass": 1
+   },
+   {
+    "quote": "この方法は、成形サイクルが短く、大量生産に適しているため、自動車部品などの製造に広く採用されています",
+    "url": "https://ohara-industry.com/business/press.php",
+    "pass": 1
+   },
+   {
+    "quote": "応原工業株式会社では、成形とトリムを同時に行う「同時トリム金型」の設計・製作を行っており、工程の簡略化とコスト削減を実現しています",
+    "url": "https://ohara-industry.com/business/press.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、成形まで行っており、自動車内装部品を中心とした高品質な製品を提供しております",
+    "url": "https://ohara-industry.com/business/press.php",
+    "pass": 1
+   },
+   {
+    "quote": "こちらは、自動車のティア1部品メーカー様からご相談で自動車のシート開発のためにコストメリットの効いた成形同時トリムの試作型のご提案をした事例です",
+    "url": "https://ohara-industry.com/business/press.php",
+    "pass": 1
+   },
+   {
+    "quote": "こちらは、自動車のティア1部品メーカー様からのご依頼で、非常に深絞り形状の成形と同時トリムを行った事例です",
+    "url": "https://ohara-industry.com/business/press.php",
+    "pass": 1
+   },
+   {
+    "quote": "応原工業株式会社 採用サイト | 自動車内装用 樹脂圧縮成形プレス同時トリム金型の設計製作",
+    "url": "https://ohara-industry.com/recruit/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "「一つとして、同じ金型はない",
+    "url": "https://ohara-industry.com/recruit/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "高校卒業後、大分で半導体オペレーターを経験したのち、樹脂の射出成形や品質保証に携わりました",
+    "url": "https://ohara-industry.com/recruit/interview/",
+    "pass": 1
+   },
+   {
+    "quote": "同社は自動車内装用の樹脂プレス金型、特に圧縮成形同時トリム金型の設計・製作を主力事業としています",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   },
+   {
+    "quote": "複合材料用金型の設計・製作および試作も手がけています",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品メーカーをはじめ、農機具メーカーや特装車メーカーなど幅広い業界に金型を提供しています",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   },
+   {
+    "quote": "成形とトリムを同時に行う金型により、工程集約とコスト削減に貢献しています",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   },
+   {
+    "quote": "EV車向けバッテリー用インシュレーター金型の製作実績もあります",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   },
+   {
+    "quote": "自動車内装用樹脂プレス金型の設計・製作、複合材料用金型の設計・製作および試作、部品加工、ECサイト運営、3Dプリンター事業、リバースエンジニアリング",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   },
+   {
+    "quote": "創業者の應原昭が東広島市八本松町原 東プレ敷地内に、有限会社応原工業を設立し、自動車の足回り塗装を事業とする",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "リバースエンジニアリング、3Dプリンタでの試作もご相談ください",
+    "url": "https://ohara-industry.com/",
+    "pass": 1
+   },
+   {
+    "quote": "sampe Japan 先端材料技術展に出展しました",
+    "url": "https://ohara-industry.com/",
+    "pass": 1
+   },
+   {
+    "quote": "高精細3Dプリンタ（２９７×２１０×２００）",
+    "url": "https://ohara-industry.com/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "sampe Japan 先端材料技術展に出展しました",
+    "url": "https://ohara-industry.com/info/2026/09/1132/",
+    "pass": 1
+   },
+   {
+    "quote": "東広島市吉川工業団地に、CAD/CAMセンター設立",
+    "url": "https://ohara-industry.com/about/enkaku.php",
+    "pass": 1
+   },
+   {
+    "quote": "KEYENCE製 高精細3Dプリンタを導入",
+    "url": "https://ohara-industry.com/about/enkaku.php",
+    "pass": 1
+   },
+   {
+    "quote": "AMADA製 バンドソー（NC切断機）を導入",
+    "url": "https://ohara-industry.com/about/enkaku.php",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタでできること",
+    "url": "https://ohara-industry.com/business/d3.php",
+    "pass": 1
+   },
+   {
+    "quote": "400 × 300 × 300 mm（デュアル造形モード時：345 × 300 × 300 mm）",
+    "url": "https://ohara-industry.com/business/d3.php",
+    "pass": 1
+   },
+   {
+    "quote": "造形を途中で止めてナットなどを埋め込むことも可能です",
+    "url": "https://ohara-industry.com/business/d3.php",
+    "pass": 1
+   },
+   {
+    "quote": "2つのノズルを使い分ける高速造形機能「D2NA」で、精度を保ちながら造形時間を短縮します",
+    "url": "https://ohara-industry.com/business/d3.php",
+    "pass": 1
+   },
+   {
+    "quote": "GX-1000 造形サンプルのご紹介",
+    "url": "https://ohara-industry.com/business/d3.php",
+    "pass": 1
+   },
+   {
+    "quote": "下記にて、GX-1000の造形サンプルをご紹介いたします",
+    "url": "https://ohara-industry.com/business/d3.php",
+    "pass": 1
+   },
+   {
+    "quote": "仕様材料：GX-F1（TPU・ゴム性材料） 造形時間：128h 価格：130,000円",
+    "url": "https://ohara-industry.com/business/d3.php",
+    "pass": 1
+   },
+   {
+    "quote": "【A】造形時間：19h 部品：10個 価格：17,000円",
+    "url": "https://ohara-industry.com/business/d3.php",
+    "pass": 1
+   },
+   {
+    "quote": "【B】造形時間：24h 部品：17個 価格：22,000円",
+    "url": "https://ohara-industry.com/business/d3.php",
+    "pass": 1
+   },
+   {
+    "quote": "仕様材料：GX-M1（ナイロン樹脂） 造形時間：6.5h 価格：6,200円",
+    "url": "https://ohara-industry.com/business/d3.php",
+    "pass": 1
+   },
+   {
+    "quote": "自動車内装用樹脂プレス金型の設計・製作、複合材料用金型の設計・製作および試作、部品加工、ECサイト運営、3Dプリンター事業、リバースエンジニアリング",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   },
+   {
+    "quote": "高精細3Dプリンタ",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   },
+   {
+    "quote": "東広島市吉川工業団地に、CAD/CAMセンター設立",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   },
+   {
+    "quote": "KEYENCE製 高精細3Dプリンタを導入",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   },
+   {
+    "quote": "AMADA製 バンドソー(NC切断機)を導入",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "応原工業のカタログ一覧 | イプロスものづくり — Jan 12, 2022 · 応原工業のカタログ一覧です。 無料でダウンロードできます。 応原工業は、同時トリム金型で工程省略・コスト削減をご提案します。 EC事業部では健やかな日常のためのお役立ち商品をお届けします。",
+    "url": "https://mono.ipros.com/company/detail/2083094/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車内装用 樹脂圧縮成形プレス同時トリム金型の設計製作｜応原工業... — 自動車内装用 樹脂圧縮成形プレス同時トリム金型の試作～検査まで、 試作型やEV用樹脂圧縮成形プレス金型、複合材料プレス金型もお任せください。 同時トリム金型で 工程省略・コスト削減 をご提案します。",
+    "url": "https://ohara-industry.com/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜応原工業株式会社 - ohara-industry.com — 複合材料用金型の設計・製作及び試作 部品加工 ECサイト運営 所在地 〒739-0153 広島県東広島市吉川工業団地8-11 TEL／FAX TEL 082-429-0553（代表） FAX 082-429-0417 事業所 本社吉川工場／原工場 営業時間 8:00～16:35 定休日 原則土曜日、日曜日（年末年始・GW・お盆は休業）",
+    "url": "https://ohara-industry.com/about/gaiyou.php",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜応原工業株式会社 - ohara-industry.com — 沿革 アクセス 会社概要 名称 応原工業株式会社 代表者 代表取締役社長 應原 弘圭 資本金 2,080万円 設立 1967年8月（昭和42年） 従業員数 20名（2023年4月現在） 営業品目 自動車内装用 樹脂圧縮成形プレス金型（圧縮成形同時トリム金型、成形型、トリム型）の ...",
+    "url": "https://ohara-industry.com/about/gaiyou.php",
+    "pass": 3
+   },
+   {
+    "quote": "自動車内装用 樹脂圧縮成形プレス同時トリム金型の設計製作｜応原工業... — 会社概要 事業内容 設備紹介 実績紹介 Q＆A お問い合わせ 採用情報 リンク プライバシーポリシー 概算お見積り オンラインショップ サイトマップ PAGE TOP 応原工業株式会社 〒739-0153 広島県東広島市吉川工業団地8-11 TEL 082-429-0553／FAX 082-429-0417",
+    "url": "https://ohara-industry.com/",
+    "pass": 3
+   },
+   {
+    "quote": "応原工業株式会社 | 加工会社ナビ — 応原工業株式会社の 概要 同社は自動車内装用の樹脂プレス金型、特に圧縮成形同時トリム金型の設計・製作を主力事業としています。 複合材料用金型の設計・製作および試作も手がけています。",
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 東京応化工業株式会社 - TOK応原工業株式会社応原工業株式会社の会社概要・製品情報 | Metoree応原工業株式会社（広島県）の会社概要・役員 | Compalyze — 経営理念 会社概要 会社案内映像 沿革 役員一覧 組織図 電子公告 国内拠点 海外拠点 関係会社 DXへの取り組み 事業・製品 半導体製造前工程 半導体製造後工程 イメージセンサー・MEMS製造分野 新規事業分野 コーポレート・ベンチャリング 株主・投資家情報 ... 東広島市吉川工業団地8-11 昭和42 年に創業し、長年にわたり事業を継続されています。 顧客の要望からスタートした金型事業を基盤に「 理想を形にする」ものづくりを追求してきました。 応原工業株式会社は1967年に設立された広島県東広島市吉川工業団地8-11に本社が所在する会社です。 鋳物加工、大型機械加工、長尺加工、五面加工等を取り扱っ",
+    "url": "https://www.tok.co.jp/company/outline",
+    "pass": 3
+   },
+   {
+    "quote": "応原工業株式会社の会社概要・製品情報 | Metoree — 応原工業株式会社は1967年に設立された広島県東広島市吉川工業団地8-11に本社が所在する会社です。 鋳物加工、大型機械加工、長尺加工、五面加工等を取り扱っています。 応原工業株式会社の基本情報や取り扱い製品などの情報を掲載中です",
+    "url": "https://metoree.com/companies/39783/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 応原工業株式会社 — 事業内容 設備紹介 実績紹介 Q＆A お問い合わせ 採用情報 リンク プライバシーポリシー 概算お見積り オンラインショップ サイトマップ PAGE TOP 応原工業株式会社 〒739-0153 広島県東広島市吉川工業団地8-11 TEL 082-429-0553／FAX 082-429-0417 (c)OHARA INDUSTRY.Co.,LTD.All Rights ...",
+    "url": "https://ohara-industry.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お見積り・お問い合わせフォーム | 応原工業株式会社 — 応原工業の自動車用内装用 樹脂圧縮成形プレス金型、成形同時トリミング金型等、EV用金型、複合材料金型等の機能性金型のお見積りにはフォームをご利用ください。",
+    "url": "https://ohara-industry.com/estimate/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 応原工業 株式会社 広島県 東広島市 — Feb 13, 2023 · サービスについて 会員サービスについて ホームページ制作 動画制作 広告掲載 EMIDAS magazine メールマガジンの配信停止 NCネットワークについて 企業サイト 会社案内 NCネットワークが目指すもの 採用情報 会社案内 特定商取引に基づく表記 広告掲載 個人情報 ...",
+    "url": "https://ja.nc-net.or.jp/company/22196/inquiry/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせ - 応原工業 株式会社 広島県 東広島市",
+    "url": "https://ja.nc-net.or.jp/company/22196/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること",
+    "url": "https://ja.nc-net.or.jp/company/22196/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします",
+    "url": "https://ja.nc-net.or.jp/company/22196/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします",
+    "url": "https://ja.nc-net.or.jp/company/22196/inquiry/input/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ohara-industry.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohara-industry.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohara-industry.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohara-industry.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohara-industry.com/introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohara-industry.com/info/2026/09/1132/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohara-industry.com/about/gaiyou.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohara-industry.com/about/enkaku.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohara-industry.com/about/access.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohara-industry.com/business/press.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohara-industry.com/business/d3.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohara-industry.com/business/fukugo.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohara-industry.com/business/cela.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ohara-industry.com/recruit/interview/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://ohara-industry.com/info/wp-content/uploads/2026/09/c49d710b608e29035fdf480d1c7161bb.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://ohara-industry.com/about/img/title.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://ohara-industry.com/about/img/title.gif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2083094/catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dokko.com/product.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/22196/inquiry/input/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "応原工業 取扱製品 試作 小ロット",
+   "results": [
+    "https://mono.ipros.com/company/detail/2083094/catalog/",
+    "https://www.dokko.com/product.html",
+    "https://ohara-industry.com/",
+    "https://ohara-industry.com/about/gaiyou.php",
+    "http://www.zen.co.jp/",
+    "https://resin-molding.ohara-industry.com/",
+    "https://resin-molding.ohara-industry.com/reason/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "応原工業 会社概要 事業内容",
+   "results": [
+    "https://ohara-industry.com/about/gaiyou.php",
+    "https://ohara-industry.com/",
+    "https://eigyo-mfg.com/service/navi/company/9KgtAQtkPWOg",
+    "https://www.tok.co.jp/company/outline",
+    "https://metoree.com/companies/39783/",
+    "https://compalyze.co.jp/company/5240001022428",
+    "https://jsite.mhlw.go.jp/hiroshima-roudoukyoku/content/contents/002778611.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "応原工業 お問い合わせ メール",
+   "results": [
+    "https://ohara-industry.com/contact/",
+    "https://ohara-industry.com/estimate/",
+    "https://ja.nc-net.or.jp/company/22196/inquiry/",
+    "https://www.harakougyou.jp/contact/",
+    "http://www.to-ou.co.jp/inquiry.html",
+    "https://pixe.securesite.co.jp/harakk/support/",
+    "https://www.hagihara.co.jp/inquiry/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 応原工業",
+   "results": [
+    "https://note.com/fond_ferret685/n/n9e2b2f40fb9d",
+    "https://note.com/hsho488/n/n53e3b23d370e",
+    "https://tales.note.com/cicaoran/w9j1kcnqdesf8/episodes/eyfcp17rj2b74",
+    "https://note.com/sokyokutei/n/n6ecf95555fa8",
+    "https://note.com/nifty_agapan1691/n/n11914d4a4d7f",
+    "https://note.com/paul1211/n/nb0f9477e9ecc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "site:x.com 応原工業",
+   "results": [
+    "https://x.com/Konbarakogyo",
+    "https://x.com/Sky1855961/status/2117750865222418862",
+    "https://x.com/chemicaldailyad/status/2108350539255927261",
+    "https://x.com/noimakotogapi26/status/2120111792215245304",
+    "https://x.com/kyoto_np/status/1458541540322967553",
+    "https://x.com/Morleygcnn/status/2120365973882708412",
+    "https://x.com/mononocos/status/2119927224166179058"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 応原工業",
+   "results": [
+    "https://jp.linkedin.com/in/宣幸-原-24989288",
+    "https://www.linkedin.com/check/en",
+    "https://jp.linkedin.com/in/まり子-原-08ab01280",
+    "https://tw.linkedin.com/in/健原-羅-111299a5",
+    "https://ch.linkedin.com/in/dan-o-toole-572b2143",
+    "https://cd.linkedin.com/in/corneille-masheka-bb01b1133",
+    "https://www.linkedin.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 応原工業",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "応原工業 note 社長",
+   "results": [
+    "https://ohara-industry.com/about/",
+    "https://compalyze.co.jp/company/5240001022428",
+    "https://houjin.jp/c/5240001022428",
+    "https://ohara-industry.com/about/gaiyou.php",
+    "https://www.bizreach.jp/companies/36891/",
+    "https://ja.nc-net.or.jp/company/22196/history/",
+    "https://www.tok.co.jp/ir/ceo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "応原工業 X 投稿",
+   "results": [
+    "https://ohara-industry.com/about/gaiyou.php",
+    "https://www.youtube.com/@応原工業株",
+    "https://ohara-industry.com/info/2026/09/1135/",
+    "https://x.com/ktkmlove_sgak/status/2119742442811650351",
+    "https://x.com/shizengayoroshi/status/2119992365436047725",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://www.tok.co.jp/company/outline"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像3件／外部4頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式14頁／PDF・画像3件／外部4頁・検索9回）"
+ }
+}

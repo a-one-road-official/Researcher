@@ -1,0 +1,1764 @@
+{
+ "name": "Tofu",
+ "aliases": [],
+ "context": "旧営業リスト｜B2B Software｜返信あり",
+ "researched_at": "2026-11-11T18:51:21.109303+00:00",
+ "official_url": "https://www.gotofu.com/",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "Pricing model",
+    "value": "Staff salary Per user/client Flat monthly, no limitation on users",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "Finance team salary Per user or per outlet Flat monthly, unlimited users",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "label": "Pricing",
+    "value": "Finance team salary Per user or per outlet Flat monthly, unlimited users",
+    "url": "https://www.gotofu.com/industries/restaurants-hospitality",
+    "pass": 1
+   },
+   {
+    "label": "料金",
+    "value": "月額¥15,000〜（証憑単位課金、ユーザー数・事業所数無制限、初期費用無料）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "label": "料金",
+    "value": "月額¥15,000〜（証憑単位課金、ユーザー数・事業所数無制限、初期費用無料）",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒150-0013　東京都渋谷区恵比寿一丁目5番9号　SG恵比寿ビル2F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都渋谷区恵比寿一丁目5番9号\nSG恵比寿ビル2F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒150-0013　東京都渋谷区恵比寿一丁目5番9号SG恵比寿ビル2F",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "35名（開発拠点：日本　営業・CSチーム：アメリカ・シンガポール・香港・東南アジア）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "35名",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2026年03月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "\"I was totally mind blown. I knew it was going to be a game changer. I told all my managers: literally all the clients, small, large, we could all transition into Tofu. It's probably the only software right now that caters for Xero Ledger subscriptions.\"",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", our staff is now thinking about compliance, audits, and how to advise clients properly.\"",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "totally addresses problems",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "faced by bookkeepers. Very practical for day to day work.\"",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We have found tofu to be highly beneficial for our bookkeeping processes, as it significantly",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We have been using tofu for a few months now, and we are very happy with the support provided by the team. It has significantly helped us",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "improve both the quality and efficiency",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"I’ve recently implemented tofu for our invoice processing workflow, and it has quickly proven to be one of the most efficient automation tools we’ve added to our Xero stack.",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "now complete the process in just 30 to 60 minutes",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "An actual AI-first, automated process with hassle-free setup",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": ". One of the smartest teams behind the product. Highly recommended.”",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "our accountants processed the first batch of invoices in minutes.",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You're paid to advise clients and not manually enter data. But chances are, you’re stuck dealing with problems like:",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Xero Practice App of the Year - Asia 2026",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Practice App of the Year in UK, South Africa, Asia 2026(Finalist)",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Upload any invoice or receipt. Tofu extracts every line item with description, quantity, price, and account code.",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your accounting software or upload your historical GL. Tofu reads your coding patterns and starts categorizing automatically.",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No preprocessing or waiting for data entry. Documents extract cleanly and land in your accounting software ready for review.",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Send the link, sync their inbox or storage, and documents start flowing. No training, templates, or manual setup.",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", the globally recognized standard for information security management. This means we follow strict best practices to safeguard your data and earn your trust.",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in Frankfurt, Germany. It’s protected with the same advanced security trusted by banks and governments, encrypted in transit with",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", the same security standard trusted across the payment industry. This means we never see or store your credit card details, all payments are handled by fully certified, secure providers.",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise single sign-On",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI transparency and data protection",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At tofu, we prioritise security and transparency in how our AI works with your data. Here are answers to common questions about how we protect your information.",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manual data entry slows you down and leaves room for error. Tofu reads every line item from your invoices and receipts, codes each one against your Business Central accounts, items, and contacts, and hands you a file ready to import. No templates to build. No rules to configure. Just accurate, line-item-level data in Business Central.",
+    "url": "https://www.gotofu.com/integration/dynamics-365-business-central",
+    "pass": 1
+   },
+   {
+    "quote": "Self-Prompt learns directly from your historical Business Central transactions, or an uploaded file.",
+    "url": "https://www.gotofu.com/integration/dynamics-365-business-central",
+    "pass": 1
+   },
+   {
+    "quote": "ISO, GDPR, and PDPA compliant",
+    "url": "https://www.gotofu.com/integration/dynamics-365-business-central",
+    "pass": 1
+   },
+   {
+    "quote": "We have tried other OCRs, but nobody has built it to this precision.",
+    "url": "https://www.gotofu.com/integration/dynamics-365-business-central",
+    "pass": 1
+   },
+   {
+    "quote": "Business Central online (cloud) only. On-premises deployments and other Dynamics 365 products are not supported.",
+    "url": "https://www.gotofu.com/integration/dynamics-365-business-central",
+    "pass": 1
+   },
+   {
+    "quote": "Can Tofu process invoices in languages other than English?",
+    "url": "https://www.gotofu.com/integration/dynamics-365-business-central",
+    "pass": 1
+   },
+   {
+    "quote": "How does the AI learn my Business Central coding preferences?",
+    "url": "https://www.gotofu.com/integration/dynamics-365-business-central",
+    "pass": 1
+   },
+   {
+    "quote": "tofu Pricing | AI Bookkeeping for Accountants and Bookkeepers",
+    "url": "https://www.gotofu.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "40% less per entry than Pro",
+    "url": "https://www.gotofu.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "61% less per entry than Pro",
+    "url": "https://www.gotofu.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "An onboarding session",
+    "url": "https://www.gotofu.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We'll build a custom pack for your firm, at a lower price per entry than Max.",
+    "url": "https://www.gotofu.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "tofu reads every line and codes each one to its own account and tax rate. A 2-line receipt and a 200-line supplier invoice both count as one entry. Your bill never jumps because an invoice ran long.",
+    "url": "https://www.gotofu.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No. We only count each invoice once. Re-extract as much as you need while training the AI.",
+    "url": "https://www.gotofu.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yearly packs are one payment a year, and every entry in the pack is yours from day one. Monthly plans bill on the 1st of each month: if you subscribe mid-month, you pay full price and get the full allocation immediately, and your next bill is on the 1st.",
+    "url": "https://www.gotofu.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Tofu is ISO 27001:2022 certified, GDPR/CCPA compliant, and uses bank-grade AES-256 encryption with multi-factor authentication. We work with the top global accounting networks.",
+    "url": "https://www.gotofu.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No. Your whole team uses Tofu at one price. We don't charge per seat.",
+    "url": "https://www.gotofu.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Add up a year of invoices, receipts and statement pages, then pick the pack that covers it. Pro covers 9,600 entries a year, Business 30,000, Enterprise 78,000 and Max 240,000, and the bigger the pack, the less you pay per entry. Need more than 240,000? We'll build a custom pack for your firm.",
+    "url": "https://www.gotofu.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Costs land on the right project.",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Contractors and developers running multiple projects hit the same walls: thousands of statement pages a month, single invoices that split across milestones, cost codes on every line, and handwritten site paperwork.",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Every cost is tagged by project, department, division, and account. More categorization dimensions mean more manual entry, and more knowledge an accountant has to hold about where each cost belongs.",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Much of construction paperwork is handwritten, often with the project scribbled straight onto the invoice. Legacy tools reject it or misread it.",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Construction bookkeeping automation for the documents every project generates, from thousand-page statements to milestone-split invoices.",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "One account across every project and entity",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Run every project, SPV, and group entity through a single tofu. Coding learned on one entity carries across the rest, with no per-entity fee and unlimited users.",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Every line coded to project and cost center",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "tofu reads the project, department, and division off each document and maps it to your tracking categories and cost codes before you review, so the categorization knowledge lives in the system, not in one accountant's memory.",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Site chits and handwritten invoices, including a project name written by hand on the bill, get read and captured with the project tag applied, so messy paperwork stops being a manual exception.",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "One Tofu across every project and entity",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Run every project, SPV, or group company from a single Tofu, with one shared brain and no per-entity fee.",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "One Tofu across unlimited projects and entities",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "No extra charge when you add a project or SPV",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Reads only the invoice total",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Project & cost center coding",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Tag project, department, division by hand",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by thousands of bookkeepers and accounting firms across 50+ countries.",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in Frankfurt, Germany. It’s protected with the same advanced security trusted by banks and governments, encrypted in transit with",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 5,000+ accounting firms in 50+ countries",
+    "url": "https://www.gotofu.com/integration/dynamics-365-business-central",
+    "pass": 1
+   },
+   {
+    "quote": "Used by 7 of the top 10 global accounting networks",
+    "url": "https://www.gotofu.com/integration/dynamics-365-business-central",
+    "pass": 1
+   },
+   {
+    "quote": "Operators running multiple outlets, hotels, and brands hit the same walls: brutal volume, line items legacy tools skip, messy scans, and documents in every language. Every quote below is word for word from a real F&B or hospitality call.",
+    "url": "https://www.gotofu.com/industries/restaurants-hospitality",
+    "pass": 1
+   },
+   {
+    "quote": "5,000+ Clients, 12 Staff: How Excellence Singapore Scales | Tofu | Tofu Case Study",
+    "url": "https://www.gotofu.com/case-studies/xero-quickbooks-bookkeeping-singapore-excellence",
+    "pass": 1
+   },
+   {
+    "quote": "Alchemy & I Group Case Study: Salon Bookkeeping with Tofu | Tofu Case Study",
+    "url": "https://www.gotofu.com/case-studies/alchemy-and-i-group-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "WLP Singapore + Tofu: Why a Xero Platinum Partner switched | Tofu Case Study",
+    "url": "https://www.gotofu.com/case-studies/xero-bookkeeping-singapore-wlp",
+    "pass": 1
+   },
+   {
+    "quote": "Google CloudがGemini factoryを紹介、9社が数日でエージェント展開を実現",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   },
+   {
+    "quote": "Google CloudがGemini factoryを開始、企業向けソフトウェアパートナーによるエージェント型ソリューションの共同開発を支援",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   },
+   {
+    "quote": "source of plant-based protein",
+    "url": "https://cocoro.faag.co.jp/en/the-culture-of-tofu-in-japan-history-varieties-and-global-influence/",
+    "pass": 3
+   },
+   {
+    "quote": ", a Chinese anarchist and a vegetarian with a French degree in agriculture and biology, opened a soy factory, the Usine de la",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": ". This was the world's first soy dairy and the first factory in France to manufacture and sell beancurd.",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Contemporary tofu manufacturers may choose to use one or more of these coagulants since each plays a role in producing the desired texture in the finished tofu.",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": "is used by extension for similarly textured curdled dishes that do not use soy products, such as \"almond tofu\" (",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Indonesia, Thailand, Malaysia, and the Philippines are major producers of tofu and have plants in many municipalities.",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Tofu and soy protein can be industrially processed to match the textures and flavors of",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Vegan and plant-based media",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Plant-based action plan",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Featuring protein and calcium-rich tofu and seasonal greens, this miso pasta makes a satisfying plant-based dinner. Soy milk lends an unexpected sweetness and creaminess to the dish.",
+    "url": "https://www.justonecookbook.com/best-japanese-tofu-recipes/",
+    "pass": 3
+   },
+   {
+    "quote": "There’s nothing more comforting than a steaming bowl of Vegetarian Udon Noodle Soup! Made with vegan dashi broth and topped with minced mushrooms, tofu, crispy fried eggplant, and bok choy, this is going to be your favorite thing to eat all year round.",
+    "url": "https://www.justonecookbook.com/best-japanese-tofu-recipes/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study in using the DCED Standard",
+    "url": "https://www.enterprise-development.org/wp-content/uploads/CaseStudy_VIP_8Feb11.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "number of poor p eople. This case study focuses on the tofu industry. Tofu producers could",
+    "url": "https://www.enterprise-development.org/wp-content/uploads/CaseStudy_VIP_8Feb11.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "1 We thank Prashant Rana and Stania Yasin for all their assistance in preparing this case study.",
+    "url": "https://www.enterprise-development.org/wp-content/uploads/CaseStudy_VIP_8Feb11.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "a tofu factory model in",
+    "url": "https://www.enterprise-development.org/wp-content/uploads/CaseStudy_VIP_8Feb11.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "the factory model is built",
+    "url": "https://www.enterprise-development.org/wp-content/uploads/CaseStudy_VIP_8Feb11.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "pilot factory, the",
+    "url": "https://www.enterprise-development.org/wp-content/uploads/CaseStudy_VIP_8Feb11.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "factory layout,",
+    "url": "https://www.enterprise-development.org/wp-content/uploads/CaseStudy_VIP_8Feb11.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "demo factory,",
+    "url": "https://www.enterprise-development.org/wp-content/uploads/CaseStudy_VIP_8Feb11.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "field visit to tofu factory",
+    "url": "https://www.enterprise-development.org/wp-content/uploads/CaseStudy_VIP_8Feb11.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/tofu/case-studies",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": ". Being able to hover every field back to the source means no more side-by-side PDFs. If tofu can keep this accuracy at scale, we can grow our bookkeeping revenue without adding head-count.\"",
+    "url": "https://www.gotofu.com/",
+    "pass": 1
+   },
+   {
+    "quote": "On a yearly pack, all your entries arrive on day one and you can use them any time in the 12 months, so there is nothing to roll over month to month. On monthly billing, unused entries don't roll over to the next month.",
+    "url": "https://www.gotofu.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Run every project, SPV, and group entity through a single tofu. Coding learned on one entity carries across the rest, with no per-entity fee and unlimited users.",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": ". Being able to hover every field back to the source means no more side-by-side PDFs. If tofu can keep this accuracy at scale, we can grow our bookkeeping revenue without adding head-count.\"",
+    "url": "https://www.gotofu.com/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "\"What's the most painful part of your work?\"",
+    "url": "https://www.gotofu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Invoices arrive in 200+ languages",
+    "url": "https://www.gotofu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Former BCG consultant and Global Lead at ExaWizards (Series A → IPO at $1bn on the Tokyo Stock Exchange).",
+    "url": "https://www.gotofu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "That diversity means documents arrive in every format imaginable.",
+    "url": "https://www.gotofu.com/case-studies/xero-quickbooks-bookkeeping-singapore-excellence",
+    "pass": 1
+   },
+   {
+    "quote": "She carried this alone at the start. The close was due on the third of each month. Back in December, the night before a close, she told our team she was dreading it. Suffering, she says now, had started to feel normal.",
+    "url": "https://www.gotofu.com/case-studies/alchemy-and-i-group-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing mattered too. Other vendors charges per entity. For a firm where sixty percent of revenue comes from annual clients who only need processing a few months a year, per entity pricing made the math painful.",
+    "url": "https://www.gotofu.com/case-studies/xero-bookkeeping-singapore-wlp",
+    "pass": 1
+   },
+   {
+    "quote": "\"A lot of the junior part of the book is no longer there. It is more of reviewing, checking, making sure that control is there.\"",
+    "url": "https://www.gotofu.com/case-studies/xero-bookkeeping-singapore-wlp",
+    "pass": 1
+   },
+   {
+    "quote": "ExaWizardsのGlobal LeadとしてシリーズAから東京証券取引所での時価総額10億ドル規模のIPOまでを牽引",
+    "url": "https://www.gotofu.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "1-2. The Arrival of Tofu in Japan — Brought by Buddhism",
+    "url": "https://cocoro.faag.co.jp/en/the-culture-of-tofu-in-japan-history-varieties-and-global-influence/",
+    "pass": 3
+   },
+   {
+    "quote": "appeared everywhere, and the sound of vendors blowing bamboo horns as they walked through the streets selling fresh tofu became a familiar part of daily life.",
+    "url": "https://cocoro.faag.co.jp/en/the-culture-of-tofu-in-japan-history-varieties-and-global-influence/",
+    "pass": 3
+   },
+   {
+    "quote": "part of everyday life",
+    "url": "https://cocoro.faag.co.jp/en/the-culture-of-tofu-in-japan-history-varieties-and-global-influence/",
+    "pass": 3
+   },
+   {
+    "quote": "The same ingredient carries",
+    "url": "https://cocoro.faag.co.jp/en/the-culture-of-tofu-in-japan-history-varieties-and-global-influence/",
+    "pass": 3
+   },
+   {
+    "quote": "Domingo Fernández Navarrete",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Some scholars believe tofu arrived in",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": ") by the time said item was listed among foods served in a ceremonial feast for",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": "enzyme in the soy protein that is known to generate off flavors. Eliminating these flavors makes tofu that is \"bland\". If a cold grind is used lipoxygenase remains and produces the aldehyde, alcohol, and ester volatile compounds that create beany notes.",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": "mm thick) type of extra-firm tofu. It cannot be crumbled. The surface is filled with bulges arranged in a square grid from the muslin used to press it.",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": ", lit. \"fried tofu\"). These may be eaten on their own or with a light sauce, or further cooked in liquids; they are also added to hot pot dishes or included as part of the vegetarian dish called",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese-style silken tofu with soy sauce and a decorative carrot slice",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": "is a variety of soft tofu made and carried around in an earthenware jar.",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Stallings, Virginia A.; Harrison, Meghan; Oria, Maria, eds. (2019). \"Potassium: Dietary Reference Intakes for Adequacy\".",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": "which activities VIP should carry out to trigger behaviour change in the first place, and to",
+    "url": "https://www.enterprise-development.org/wp-content/uploads/CaseStudy_VIP_8Feb11.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "employees in the Greater",
+    "url": "https://www.enterprise-development.org/wp-content/uploads/CaseStudy_VIP_8Feb11.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "renters) and employees",
+    "url": "https://www.enterprise-development.org/wp-content/uploads/CaseStudy_VIP_8Feb11.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "enterprises and employees",
+    "url": "https://www.enterprise-development.org/wp-content/uploads/CaseStudy_VIP_8Feb11.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Demandbase is the leader in Account-Based Marketing (ABM) and an indispensable part of the B2B tech stack. The company offers the only end-to-end ABM platform that helps B2B marketers identify, …",
+    "url": "https://www.featuredcustomers.com/vendor/tofu/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/tofu/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "tofu — Funding, Revenue & Fractional Roles | Go Fractional",
+    "url": "https://www.gofractional.com/companies/tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Funding & revenue at tofu",
+    "url": "https://www.gofractional.com/companies/tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated annual revenue",
+    "url": "https://www.gofractional.com/companies/tofu",
+    "pass": 3
+   },
+   {
+    "quote": "What the business focuses on, where it operates, and how employees rate it.",
+    "url": "https://www.gofractional.com/companies/tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Funding, revenue, headcount, and hiring figures are third-party estimates from public sources and are not confirmed by the company",
+    "url": "https://www.gofractional.com/companies/tofu",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Yes. Tofu supports 200+ languages including Chinese, Japanese, Arabic, French, German, Spanish, and Hindi, with English shown alongside the original text during review. No language selection required.",
+    "url": "https://www.gotofu.com/integration/dynamics-365-business-central",
+    "pass": 1
+   },
+   {
+    "quote": "250-person Tokyo firm swaps data entry for client meetings",
+    "url": "https://www.gotofu.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "“AI frees up more of our time, so we get to spend way more time with business owners.” Youngeui Seu, Group Representative at Seventh Sense, a 250-person firm in Tokyo.",
+    "url": "https://www.gotofu.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Made in Japan, designed for the world",
+    "url": "https://www.gotofu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "born and raised in Japan",
+    "url": "https://www.gotofu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": ", with our engineering team still based in Tokyo today. Precision engineering meets an",
+    "url": "https://www.gotofu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "But its roots are in Japan",
+    "url": "https://www.gotofu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The perfect name for a product built in Japan to serve the world.",
+    "url": "https://www.gotofu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Former BCG consultant and Global Lead at ExaWizards (Series A → IPO at $1bn on the Tokyo Stock Exchange).",
+    "url": "https://www.gotofu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Born and raised in Tokyo, bilingual Japanese/English with Filipino-Sri Lankan heritage.",
+    "url": "https://www.gotofu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Former CTO at ExaWizards China, where he led engineering teams building AI products across Japan and China. UBC graduate with deep expertise in machine learning and product development.",
+    "url": "https://www.gotofu.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "日本発・世界50カ国で利用されるAI自動記帳サービス「tofu（トーフ）」日本国内でのサービス提供を正式開始 | 株式会社Tofuのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本発・世界50カ国で利用されるAI自動記帳サービス「tofu（トーフ）」日本国内でのサービス��提供を正式開始",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "海外で磨いたAI技術を、日本の会計業界へ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Tofu（本社：東京都渋谷区、代表取締役：サマン・へーラト）は2026年7月1日、AI自動記帳サービス「tofu（トーフ）」の日本国内でのサービス提供を正式に開始いたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "tofuは東京に拠点を持つエンジニアチームが開発した日本発のサービスです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本で生まれ、世界で磨かれたAI技術が、今回「逆輸入」という形で日本市場へ本格参入します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の会計業界ではクラウド会計ソフトの普及が進む一方、領収書・請求書の読み取りから仕訳作成までの工程は依然として手作業が主流です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回の日本展開にあたり、日本の会計基準・税務実務に完全準拠した機能と仕様を整備し日本市場への最適化をセブンセンス税理士法人の監修のもと実現し、複数の会計事務所で先行導入が始まっています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "サービス画面及びヘルプページの日本語対応等",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "tofuは東京で生まれたサービスですが、創業当初からグローバル市場を見据えて開発を続けてきました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、日本の会計業界にも、紙書類や手入力に多くの時間が費やされているという共通の課題があります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "私自身、日本で生まれ育ちました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "世界で磨いた技術を、いつか必ず日本の現場に届けたいという思いをずっと持ち続けてきました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "今回、セブンセンス税理士法人の監修のもと、日本の制度や実務に合わせてAIを最適化し、ようやく皆さまへ正式にお届けできることを、心から嬉しく思います",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "── 株式会社Tofu 代表取締役 サマン・へーラト",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "対象：日本国内の会計事務所、税理士事務所、及び一般企業",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場での本格展開にあたり、「一緒にtofuを育てていただける会計事務所様」を対象としたアーリーエントリープログラムを実施いたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "※貴所ロゴのご提供、導入事例取材・アンケートへのご協力、SNS拡散へのご協力をお願いしております",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Tofuは、AI自動記帳サービス「tofu」を開発・提供する東京発のAIテクノロジー企業です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、世界50カ国・会計事務所250社・2,500社以上に導入され、セブンセンス税理士法人の監修のもと日本市場にも本格展開をスタートしました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "〒150-0013 東京都渋谷区恵比寿一丁目5番9号 SG恵比寿ビル2F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "35名（開発拠点：日本 営業・CSチーム：アメリカ・シンガポール・香港・東南アジア）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Tofuでは、AIの力で会計・経理業務の未来をつくる仲間を募集しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区恵比寿一丁目5番9号",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tofuが日本国内でAI自動記帳サービス「tofu」を提供開始、導入会計事務所で記帳業務を最大70%削減した事例も",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社Tofuは2026年7月1日、",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   },
+   {
+    "quote": "自動記帳サービス「tofu（トーフ）」の日本国内でのサービス提供を正式に開始すると発表しました",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   },
+   {
+    "quote": "チームが開発した日本発のサービスとして展開されています",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   },
+   {
+    "quote": "tofu（トーフ）が世界50カ国で培ったAI技術を日本市場へ",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   },
+   {
+    "quote": "tofu（トーフ）が日本市場向けに整備した対応機能",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   },
+   {
+    "quote": "海外で磨かれたAI技術が、今回「逆輸入」という形で日本市場へ本格参入しました",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   },
+   {
+    "quote": "日本の会計業界では、",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   },
+   {
+    "quote": "今回の日本展開にあたり、セブンセンス税理士法人の監修のもと、日本の会計基準・税務実務に完全準拠した機能と仕様を整備しました",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   },
+   {
+    "quote": "サマン・へーラト氏は「世界で磨いた技術を、いつか必ず日本の現場に届けたいという思いをずっと持ち続けてきました",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内の会計事務所、税理士事務所、及び一般企業",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   },
+   {
+    "quote": "〒150-0013 東京都渋谷区恵比寿一丁目5番9号SG恵比寿ビル2F",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   },
+   {
+    "quote": "日本の制度（インボイス・電帳法）への対応を専門家監修のもとで完備した点も、実務導入のハードルを下げる要素として、良い検討材料になりそうです",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   },
+   {
+    "quote": "PR TIMES. 「日本発・世界50カ国で利用されるAI自動記帳サービス「tofu（トーフ）」日本国内でのサービス提供を正式開始 | 株式会社Tofuのプレスリリース」.",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   },
+   {
+    "quote": "日本生まれ、世界をめざす",
+    "url": "https://www.gotofu.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "tofuは、国際色豊かなチームによって、日本で生まれ育ちました",
+    "url": "https://www.gotofu.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "現在も東京を拠点に、エンジニアリングチームが開発を続けています",
+    "url": "https://www.gotofu.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "そして、そのルーツは日本にあります",
+    "url": "https://www.gotofu.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "日本で生まれ、世界へ届けるサービスに、ぴったりの名前です",
+    "url": "https://www.gotofu.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "ExaWizardsのGlobal LeadとしてシリーズAから東京証券取引所での時価総額10億ドル規模のIPOまでを牽引",
+    "url": "https://www.gotofu.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "ExaWizards Chinaの元CTOとして、日本と中国にまたがるAIプロダクトのエンジニアリングチームを統括",
+    "url": "https://www.gotofu.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "同研究室発のスタートアップである株式会社Olloの創業に加わり、CTOとして技術開発を牽引",
+    "url": "https://www.gotofu.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "その後、AIエンジニアとしてtofuの開発に初期から携わり、現在は日本事業責任者として、日本マーケットの開拓をリードしている",
+    "url": "https://www.gotofu.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "本社：〒150-0013 東京都渋谷区恵比寿一丁目5番9号 SG恵比寿ビル2F",
+    "url": "https://www.gotofu.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "The Culture of Tofu in Japan: History, Varieties, and Global Influence | CoCoRo",
+    "url": "https://cocoro.faag.co.jp/en/the-culture-of-tofu-in-japan-history-varieties-and-global-influence/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email and chat support",
+    "url": "https://www.gotofu.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Run out early? Buy your next pack in one click. We'll email you before you run low.",
+    "url": "https://www.gotofu.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "New documents wait in \"pending\" until you buy your next pack or upgrade, and you can still work with everything already extracted. On a yearly pack, we'll email you before you run low, and the next pack is one click away.",
+    "url": "https://www.gotofu.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Documents land in Tofu by email or a drag and drop. Tofu reads every line: the spa supplies, the salon stock, the mint for the cocktails. It codes each one to the account the last one went to. The Xero connection, in Rena's words, \"was very easy.\"",
+    "url": "https://www.gotofu.com/case-studies/alchemy-and-i-group-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "※お問い合わせは、こちらまで：jp-sales@gotofu.com",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "本プレスリリースに関するお問い合わせは、jp-sales@gotofu.com までご連絡ください",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "Subscribe to get recipes via email:",
+    "url": "https://www.justonecookbook.com/best-japanese-tofu-recipes/",
+    "pass": 3
+   },
+   {
+    "quote": "Avanan boosts email open rates and saves 100 hours a month with Tofu",
+    "url": "https://www.casestudies.com/company/tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Vic.ai boosts email engagement and sales efficiency with Tofu",
+    "url": "https://www.casestudies.com/company/tofu",
+    "pass": 3
+   },
+   {
+    "quote": "VideaHealth boosts positive email response rates and meeting bookings with Tofu",
+    "url": "https://www.casestudies.com/company/tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Wunderkind boosts email engagement with Tofu",
+    "url": "https://www.casestudies.com/company/tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Golioth boosts SDR email open rates to 65% with Tofu",
+    "url": "https://www.featuredcustomers.com/vendor/tofu/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/tofu/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/tofu/case-studies",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本発・世界50カ国で利用されるAI自動記帳サービス「tofu（トーフ）... — Jul 1, 2026 · 株式会社Tofu（本社：東京都渋谷区、代表取締役：サマン・へーラト）は2026年7月1日、AI自動記帳サービス「tofu（トーフ）」の日本国内での ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tofuが日本国内でAI自動記帳サービス「tofu」を提供開始、導入会計事... — Jul 3, 2026 · 株式会社Tofuは2026年7月1日、AI自動記帳サービス「tofu（トーフ）」の日本国内でのサービス提供を正式に開始すると発表しました。 世界50カ国・250以上の会計事務所・2,500社超への導入実績を持つ日本発サービスが逆輸入という形で本格参入。",
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | tofu — 会計士・記帳代行向けAI記帳 — 株式会社Tofuについて 東京で生まれたひとつのサービスが、いま既に世界100カ国以上で使われています。 日本発のAIスタートアップ企業「株式会社Tofu」の物語を、ご紹介します。",
+    "url": "https://www.gotofu.co.jp/about",
+    "pass": 3
+   },
+   {
+    "quote": "The Culture of Tofu in Japan: History, Varieties, and Global ... — Oct 31, 2025 · Discover the rich culture of tofu in Japan — from its 2,000-year history and regional varieties to traditional recipes and how Japanese tofu differs from the rest of the world.",
+    "url": "https://cocoro.faag.co.jp/en/the-culture-of-tofu-in-japan-history-varieties-and-global-influence/",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル食材「TOFU」×日本食材「豆腐」の可能性 | 地域・分析レポ... — Aug 5, 2026 · 日本の伝統食品である豆腐は、世界的な健康志向の高まりを背景に、海外での需要が拡大している。 植物性たんぱく質を豊富に含むことから、ベジタリアンやビーガンをはじめ、幅広い消費者層の関心を集めており、日本からの輸出も増加傾向にある。",
+    "url": "https://www.jetro.go.jp/biz/areareports/2026/20568dbbb3641f67.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tofu - Wikipedia — In Japan, a common lunch in the summer months is hiyayakko (冷 奴), silken or firm East Asian tofu served with freshly grated ginger, green onions, or katsuobushi shavings with soy sauce.",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Best Tofu Recipes That Everyone Will Love - Just One Cookbook — Jul 4, 2024 · In this best tofu recipes roundup, we’ll discover its versatility and virtues, and how to cook tofu with different methods. We included plenty of vegan and vegetarian options, so we hope you’ll enjoy it!",
+    "url": "https://www.justonecookbook.com/best-japanese-tofu-recipes/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Tofu - japan-guide.com — Jun 1, 2025 · Learn about tofu, a versatile and nutritious food made of curdled soy milk, and its various forms and uses in Japanese cuisine. Find out how to enjoy fresh, fried, fermented, freeze dried and deep fried tofu in different dishes and regions.",
+    "url": "https://www.japan-guide.com/e/e2045_tofu.html",
+    "pass": 3
+   },
+   {
+    "quote": "A Guide to the Different Types of Tofu in Japanese Cuisine — Jan 10, 2022 · Learn about the different types of tofu in Japanese cuisine, how to use them, and how they are made. From firm tofu for stews and stir-fries, to silken tofu for soups and salads, to soft tofu for desserts and drinks, discover the variety and versatility of tofu.",
+    "url": "https://www.japanesefoodguide.com/types-of-tofu/",
+    "pass": 3
+   },
+   {
+    "quote": "Tofu B2B Case Studies & Customer Successes — See how Tofu solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Analysis of The Cost of Production of Tofu by Using The Full ... — May 4, 2025 · This study aims to analyze the calculation of the cost of production of tofu using the full costing method in a tofu factory.",
+    "url": "https://www.researchgate.net/publication/391613235_Analysis_of_The_Cost_of_Production_of_Tofu_by_Using_The_Full_Costing_Method_Case_Study_at_Tofu_Factory",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study in using the DCED Standard Tofu production in ... — We thank Prashant Rana and Stania Yasin for all their assistance in preparing this case study.",
+    "url": "https://www.enterprise-development.org/wp-content/uploads/CaseStudy_VIP_8Feb11.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 Tofu Case Studies, Success Stories, & Customer Stories — Discover how other companies use Tofu, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/tofu/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Case Studies | Tofu and soymilk production machine ... — Case studies of tofu production machinery and equipment installations.",
+    "url": "https://en.masetofumachine.co.jp/case-studies/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tofu – Funding, Acquisitions & Key Rivals – 2026 – San Mateo — Discover Tofu's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Tofu 2026 Company Profile: Valuation, Funding & Investors ...tofu — Funding, Revenue & Fractional Roles | Go FractionalTofu (Human Capital Services) 2026 Company ... - PitchBookTofu Revenue 2024: $4.5M Est. ARR (Bootstrapped)Tofu: Funding, Team & Investors | Startup IntrosTofu — Company Profile | The Company Check — Information on valuation, funding, cap tables, investors, and executives for Tofu.",
+    "url": "https://pitchbook.com/profiles/company/528704-56",
+    "pass": 3
+   },
+   {
+    "quote": "tofu — Funding, Revenue & Fractional Roles | Go Fractional — Funding, revenue, headcount, and hiring figures are third-party estimates from public sources and are not confirmed by the company. Last refreshed October 31, 2026.",
+    "url": "https://www.gofractional.com/companies/tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Tofu (Human Capital Services) 2026 Company ... - PitchBookTofu Revenue 2024: $4.5M Est. ARR (Bootstrapped)Tofu: Funding, Team & Investors | Startup IntrosTofu — Company Profile | The Company Check — Mar 28, 2024 · Information on valuation, funding, cap tables, investors, and executives for Tofu (Human Capital Services). Use the PitchBook Platform to explore the full profile. Aug 10, 2026 · In 2024",
+    "url": "https://pitchbook.com/profiles/company/541433-17",
+    "pass": 3
+   },
+   {
+    "quote": "Tofu Revenue 2024: $4.5M Est. ARR (Bootstrapped) — Aug 10, 2026 · In 2024, Tofu's revenue reached $4.5M. Since its launch in 2022, Tofu has shown consistent revenue growth. Tofu is a bootstrapped Other Collaboration Software startup. Founded in 2022, Tofu has grown to $4.5M in revenue without raising any venture capital or outside funding.",
+    "url": "https://getlatka.com/companies/tofu.com",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Zhong, Fang; Wang, Zhang; Xu, Shi-Ying; Shoemaker, Charles F. (2007). \"The evaluation of proteases as coagulants for soy protein dispersions\".",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Zhong, Fang; Yang, Xin; Li, Yue; Shoemaker, Charles F. (2006). \"Papain-induced Gelation of Soy Glycinin (11S)\".",
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "What is the difference between American \"TOFU\" and Japanese ... Apr 4, 2026 · This time, we are talking about \"Tofu\", which is essential to the Japanese dining table. It is widely enjoyed in America as \"TOFU,\" but when you go to local supermarkets, there are many interesting discoveries that are different from Japan.",
+    "url": "https://note.com/pawpawpaws/n/nf996623c22aa?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tofu and Natto: A Small Culinary History Unraveling the ... Natto sticks to people, and tofu nestles close to people's presence like water. Both are wonderful inventions for beans to \"settle\" into human life, and at the same time, they teach us the beauty of softly \"crumbling\" (fureru).",
+    "url": "https://note.com/funwaribiyori/n/n49b8c15cf780?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tofu in America｜Machiko - note（ノート） I haven't heard of anyone eating hiyayakko (chilled tofu), but tofu is now a regular item in American supermarkets. Compared to Japan, the price is relatively high, so it's not an ingredient you can buy casually, but as a Japanese person, I still want it.",
+    "url": "https://note.com/machiko2095/n/na78b0bcde6e9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Where Do Japan’s Soybeans Come From? Behind the Tofu, Natto ... Jun 11, 2025 · When you eat tofu, miso, or natto in Japan, you’re tasting a mix of domestic and imported soybeans—each with its own flavour and story. Japan is working hard to protect its food heritage, keep its agriculture sustainable, and support local farmers in a world that’s increasingly globalised.",
+    "url": "https://note.com/yohei_kijima/n/na9ac2cd29561",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Tofu (@Tu0fu) / X Tofu @Tu0fu random fandoms || AI🚫 || tuofus.district@gmail.com multifandom linktr.ee/tuofu",
+    "url": "https://x.com/Tu0fu",
+    "pass": 3
+   },
+   {
+    "quote": "Tofu, the Director (@tofu916) / X Tofu, the Director @tofu916 2026 #AVN Award winning Director for @ WANKZVR, @ MILFVR & @ VRFatties Movie Producer",
+    "url": "https://x.com/tofu916",
+    "pass": 3
+   },
+   {
+    "quote": "Joe (@Tofu) / X 15 3.5K Joe @Tofu Oct 22 I've created a new game called Strength Simulator roblox.com/games/14031117… come play Strength Simulator",
+    "url": "https://x.com/tofu",
+    "pass": 3
+   },
+   {
+    "quote": "Tofu (@TofuSquisha) / X hello, I'm tofu! art and animation, mostly arknights (lappland). ⓛωⓛ contact: DM or tofusquisha@gmail.com",
+    "url": "https://x.com/TofuSquisha",
+    "pass": 3
+   },
+   {
+    "quote": "TOFU on X: \"明日のIllust投稿はないゾ (60枚は流石に載せすぎた)\" Sep 29, 2026 · TOFU @Top_OF_Unknown Show translation 明日のIllust投稿はないゾ (60枚は流石に載せすぎた) 1:16 PM · Sep 29, 2026 · 305 Views 1 2",
+    "url": "https://x.com/Top_OF_Unknown/status/2104923362363654498",
+    "pass": 3
+   },
+   {
+    "quote": "tofu on X: \"完成したので明日投稿します\" Oct 19, 2026 · 初めまして！ 沢山投稿する時めっちゃうるさいtofuです 通知オフにしてね 仮面ライダーの食玩、装動を飾ったり 改造したり集めています！ よろしくお願いします！ 装動マイス発売まで活動休止 （9月5日更新 ...",
+    "url": "https://x.com/8YW0QwpKZ3xRW0/status/2112155980612157930",
+    "pass": 3
+   },
+   {
+    "quote": "とうふ@ ️ (@Tofu_illust) / X とうふ@🖼️ @Tofu_illust Sep 26 pixivに8・9月のイラストを投稿しました 古典部シリーズ絵まとめ・15 | とうふ #pixiv 古典部シリーズ絵まとめ・15 From pixiv.net 11",
+    "url": "https://x.com/tofu_illust",
+    "pass": 3
+   },
+   {
+    "quote": "tofu on X: \"毎日投稿（笑）ダネ 目標としてやってるわけじゃないから... Jul 27, 2026 · はしめまして あなたのえのかんじがすきです まいにちとうこうしてるときいておどろきました これからもがんばってください！ | マシュマロ tofuさんの回答「毎日投稿（笑）ダネ 目標としてやってるわけじゃないからさ 」 11:40 AM · Jul 27, 2026 253Views 18",
+    "url": "https://x.com/rarukarura/status/2081706268960636996",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tofu - LinkedIn About us Tofu equips B2B marketing teams with tools to create personalized omni-channel content that is on-brand and can scale to all types of marketing campaigns.",
+    "url": "https://www.linkedin.com/company/tofuai/",
+    "pass": 3
+   },
+   {
+    "quote": "Tofu - LinkedIn Catch fake candidates in your ATS, identify deepfakes and seat swapping on live interviews. | Tofu checks every applicant for fraud before anyone on your team spends time on them.",
+    "url": "https://www.linkedin.com/company/tofu-id",
+    "pass": 3
+   },
+   {
+    "quote": "Jason Zoltak - tofu | LinkedInTofu Giandinoto - contenidos | LinkedInMatthew Zoltak - Founding Engineer at tofu | LinkedIntofu jdgram - Mechanical Engineer at street project | LinkedInValentin Thies - Category Manager @ Tofoo & Co. The UK’s #1 ... Tofu is the default fraud and security platform for recruiting and hiring, powered by AI and machine learning. contenidos · www.to-fu.com.ar · Experienc",
+    "url": "https://ca.linkedin.com/in/jasonzoltak",
+    "pass": 3
+   },
+   {
+    "quote": "Tofu Giandinoto - contenidos | LinkedInMatthew Zoltak - Founding Engineer at tofu | LinkedIntofu jdgram - Mechanical Engineer at street project | LinkedInValentin Thies - Category Manager @ Tofoo & Co. The UK’s #1 ... contenidos · www.to-fu.com.ar · Experiencia: Tofu · Educación: Universidad de Buenos Aires · Ubicación: Argentina · 219 contactos en LinkedIn. Mira el perfil de Tofu Giandinoto en Li",
+    "url": "https://ar.linkedin.com/in/tofuinc",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "TOFU - FacebookTOFU Skincare | Bangkok - FacebookHome Cheesemaking, Yogurt, Butter, Tofu and Other Milk ...Tofu Shop International | Richmond VIC - FacebookAloha Tofu Factory, Inc. | Honolulu HI - FacebookMori-Nu Tofu - FacebookTofu's Trading | San Jose CA - Facebook 3 days ago · TOFU. 333,251 followers · 91,713 talking about this. Tofu 🤍 & Misu 🤎 💌 collab: tofurfect@gmail.com 🇵🇭 no content grabbi",
+    "url": "https://www.facebook.com/tofurfect/",
+    "pass": 3
+   },
+   {
+    "quote": "TOFU Skincare | Bangkok - FacebookHome Cheesemaking, Yogurt, Butter, Tofu and Other Milk ...Tofu Shop International | Richmond VIC - FacebookAloha Tofu Factory, Inc. | Honolulu HI - FacebookMori-Nu Tofu - FacebookTofu's Trading | San Jose CA - Facebook 🚨 SCAM ALERT! 🚨 Please Beware of Fake TOFU Shops!‼️⚠️ Dear TOFU Family 🙏🏻 We would like to inform you that a fake shop is impersonating TOFU Skinca",
+    "url": "https://www.facebook.com/ToFuSkincare/",
+    "pass": 3
+   },
+   {
+    "quote": "Home Cheesemaking, Yogurt, Butter, Tofu and Other Milk ... You know you want to!! Let's learn how to make cheese, yogurt, butter, tofu and other fermented milk products! Easier than you may think. This is a group...",
+    "url": "https://business.facebook.com/groups/276201692552276/",
+    "pass": 3
+   },
+   {
+    "quote": "Tofu Shop International | Richmond VIC - FacebookAloha Tofu Factory, Inc. | Honolulu HI - FacebookMori-Nu Tofu - FacebookTofu's Trading | San Jose CA - Facebook Tofu Shop International, Richmond. 2,969 followers · 244 were here. Remember us by way of our tofushop cookbook. (Online) Jimami Tofu is back for a limited time! Starting August 4, we’ll be selling our handcrafted Jimami Tofu (Peanut Tofu)",
+    "url": "https://www.facebook.com/TofuShopInternational/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.gotofu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gotofu.com/integration/dynamics-365-business-central",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gotofu.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gotofu.com/industries/construction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gotofu.com/industries/restaurants-hospitality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gotofu.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gotofu.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gotofu.com/case-studies/xero-quickbooks-bookkeeping-singapore-excellence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gotofu.com/case-studies/alchemy-and-i-group-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gotofu.com/case-studies/xero-bookkeeping-singapore-wlp",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trends.codecamp.jp/blogs/media/news5342",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gotofu.co.jp/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cocoro.faag.co.jp/en/the-culture-of-tofu-in-japan-history-varieties-and-global-influence/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://context.reverso.net/%E7%BF%BB%E8%A8%B3/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E8%8B%B1%E8%AA%9E/%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/TOP_JAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Tofu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.justonecookbook.com/best-japanese-tofu-recipes/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-guide.com/e/e2045_tofu.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/tofu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/391613235_Analysis_of_The_Cost_of_Production_of_Tofu_by_Using_The_Full_Costing_Method_Case_Study_at_Tofu_Factory",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.enterprise-development.org/wp-content/uploads/CaseStudy_VIP_8Feb11.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/tofu/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/tofu",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/528704-56",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gofractional.com/companies/tofu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/541433-17",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/pawpawpaws/n/nf996623c22aa?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/funwaribiyori/n/n49b8c15cf780?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/machiko2095/n/na78b0bcde6e9?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/yohei_kijima/n/na9ac2cd29561",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/Tu0fu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tofu916",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tofu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TofuSquisha",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tofuai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tofu-id",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/jasonzoltak",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ar.linkedin.com/in/tofuinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tofurfect/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ToFuSkincare/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/276201692552276/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TofuShopInternational/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Top_OF_Unknown/status/2104923362363654498",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/8YW0QwpKZ3xRW0/status/2112155980612157930",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tofu_illust",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/rarukarura/status/2081706268960636996",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tofu 日本 導入",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000005.000181227.html",
+    "https://trends.codecamp.jp/blogs/media/news5342",
+    "https://www.gotofu.co.jp/about",
+    "https://cocoro.faag.co.jp/en/the-culture-of-tofu-in-japan-history-varieties-and-global-influence/",
+    "https://www.jetro.go.jp/biz/areareports/2026/20568dbbb3641f67.html",
+    "https://tax.jusnet.co.jp/news/detail/news20260427_01",
+    "https://cocoro.faag.co.jp/japanese-tofu-culture/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tofu 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://www.kkhashi.com/blogs/detail/145/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tofu Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/TOP_JAPAN",
+    "https://en.wikipedia.org/wiki/Tofu",
+    "https://www.justonecookbook.com/best-japanese-tofu-recipes/",
+    "https://www.japan-guide.com/e/e2045_tofu.html",
+    "https://www.japanesefoodguide.com/types-of-tofu/",
+    "https://www.justonecookbook.com/japanese-tofu-cold-tofu-hiyayakko/",
+    "https://www.tokyoweekender.com/food-and-drink/everything-you-need-to-know-about-tofu/",
+    "https://chefjacooks.com/en/japanese-tofu-recipes/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Tofu manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/tofu",
+    "https://www.researchgate.net/publication/391613235_Analysis_of_The_Cost_of_Production_of_Tofu_by_Using_The_Full_Costing_Method_Case_Study_at_Tofu_Factory",
+    "https://www.enterprise-development.org/wp-content/uploads/CaseStudy_VIP_8Feb11.pdf",
+    "https://www.featuredcustomers.com/vendor/tofu/case-studies",
+    "https://en.masetofumachine.co.jp/case-studies/index.html",
+    "https://en.masetofumachine.co.jp/case-studies/equipment12.html",
+    "https://dev-en.masetofumachine.co.jp/case-studies/equipment12.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tofu white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Tofu founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/tofu",
+    "https://pitchbook.com/profiles/company/528704-56",
+    "https://www.gofractional.com/companies/tofu",
+    "https://pitchbook.com/profiles/company/541433-17",
+    "https://getlatka.com/companies/tofu.com",
+    "https://startupintros.com/orgs/tofu",
+    "https://www.thecompanycheck.com/company/b/tofu/vqendwsbg23tezoyp"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tofu",
+   "results": [
+    "https://note.com/pawpawpaws/n/nf996623c22aa?hl=en",
+    "https://note.com/funwaribiyori/n/n49b8c15cf780?hl=en",
+    "https://note.com/machiko2095/n/na78b0bcde6e9?hl=en",
+    "https://note.com/yohei_kijima/n/na9ac2cd29561",
+    "https://note.com/as_cooking/n/nac6dd8d2109a?hl=en",
+    "https://tales.note.com/otofu_daisuki/works",
+    "https://tales.note.com/otofu_daisuki"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tofu",
+   "results": [
+    "https://x.com/Tu0fu",
+    "https://x.com/tofu916",
+    "https://x.com/tofu",
+    "https://x.com/TofuSquisha",
+    "https://x.com/tofuriin",
+    "https://x.com/TofuPierced",
+    "https://x.com/EpicTofuChris"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tofu",
+   "results": [
+    "https://www.linkedin.com/company/tofuai/",
+    "https://www.linkedin.com/company/tofu-id",
+    "https://ca.linkedin.com/in/jasonzoltak",
+    "https://ar.linkedin.com/in/tofuinc",
+    "https://ca.linkedin.com/in/matthew-zoltak",
+    "https://bn.linkedin.com/in/tofu-jdgram-926402123",
+    "https://uk.linkedin.com/in/valentin-thies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tofu",
+   "results": [
+    "https://www.facebook.com/tofurfect/",
+    "https://www.facebook.com/ToFuSkincare/",
+    "https://business.facebook.com/groups/276201692552276/",
+    "https://www.facebook.com/TofuShopInternational/",
+    "https://www.facebook.com/alohatofufactory/",
+    "https://www.facebook.com/morinutofu/",
+    "https://www.facebook.com/tofustrading/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tofu note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/sadaaki",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://diamond.jp/articles/-/388572"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tofu X 投稿",
+   "results": [
+    "https://x.com/Top_OF_Unknown/status/2104923362363654498",
+    "https://x.com/8YW0QwpKZ3xRW0/status/2112155980612157930",
+    "https://x.com/tofu_illust",
+    "https://x.com/rarukarura/status/2081706268960636996",
+    "https://x.com/rarukarura/status/2099884454357709118",
+    "https://x.com/8YW0QwpKZ3xRW0/status/2092616447558369599",
+    "https://tofu.misosil.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部40頁・検索12回）"
+ }
+}

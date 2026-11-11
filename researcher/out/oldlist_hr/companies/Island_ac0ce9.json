@@ -1,0 +1,1810 @@
+{
+ "name": "Island",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T18:41:56.006602+00:00",
+ "official_url": "https://www.island.io",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2020年8月",
+    "url": "https://www.macnica.co.jp/business/security/manufacturers/island/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "米国、テキサス州",
+    "url": "https://www.macnica.co.jp/business/security/manufacturers/island/",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "01-Nov-2020 $20M $20M  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/455121-91",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "75,268,172 $0.000001  $0.26 $0.26 1x $0.26 15.59%",
+    "url": "https://pitchbook.com/profiles/company/455121-91",
+    "pass": 3
+   },
+   {
+    "label": "Total raised",
+    "value": "$540M",
+    "url": "https://getlatka.com/companies/island.io",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The control plane for your agentic enterprise",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Where access, security, and AI-powered productivity create the perfect conditions for work to thrive.",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The world’s leading enterprises run on Island.",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The Enterprise Browser",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Where enterprise IT, security, and AI-powered productivity are naturally built in, so users just log in and get to work.",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI you already use, now enterprise ready - fundamentally safe, under your control, and deployed at scale.",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The Enterprise Network",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Island is a Customers' Choice in the 2026 Gartner Peer Insights Voice of the Customer for Secure Enterprise Browsers, based on 331 verified reviews from customers.",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Enable BYOD for your remote workforce, finally.",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "“With Island, it felt like we turned on a light in a dark room and we were able to finally see what was happening outside of our perimeter with extreme details and precision.”",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Security Engineer",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "BYOD is a user dream but a security nightmare. The Enterprise Browser delivers both flexibility and total protection.",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "3rd Party Onboarding",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Get total visibility, data security, and simple contractor access with the Enterprise Browser.",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexibility shouldn't cost you control. Get both with the Enterprise Browser.",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Privileged User Access",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Naturally protect organizations from the full scope of web threats.",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Island Is Making Us More Secure And Productive At The Same Time.\"",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Secure every plant. Protect every workflow.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Safe browsing and threat protection",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Enforce URL filtering, malware protection, and content controls whether a user is on the production floor, at a supplier site, or working remotely.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Island Private Access gives plant operators, engineers, and admins secure, per-application access to internal systems from any device. No VPN required.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Give IT and security teams control over employee use of AI tools, so you can say “yes” to AI without putting production data or trade secrets at risk.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Provide the access controls, DLP, audit logging, and geolocation-based restrictions you need to meet CMMC 2.0, NIST SP 800-171, ITAR, and EAR.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Defense contractors and regulated manufacturers face strict obligations around CUI, ITAR-controlled technical data, and CMMC 2.0. Island provides the access controls, DLP, audit logging, and geolocation-based restrictions needed to meet those requirements at the browser level, where the data is actually accessed, and produce the documented evidence auditors require.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "“Island helps us to manage risk while fueling productivity for our end users. That gives them more options for tools, rather than limiting what they can use.”",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Island supports multi-user deployments on shared devices, with session isolation that creates a clean workspace for each operator at shift change. No residual data from the previous session carries over.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How does Island protect ITAR-controlled technical data?",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Island can enforce geolocation-based access restrictions and identity-verified controls that prevent access to ITAR-controlled data from non-U.S. persons or locations, with full audit logging for compliance documentation.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "For browser-based workloads, yes. Island delivers equivalent security with significantly lower cost, simpler management, and a dramatically better user experience. Some applications requiring full desktop environments may still need VDI, and Island works alongside those deployments.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "No. Island deploys through your existing endpoint management tools and integrates with your current identity provider. It works with your existing network infrastructure and doesn't require traffic rerouting or SSL decryption.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Island provides a significant control layer aligned with CMMC 2.0 and NIST SP 800-171 requirements, including CUI protection, access management, audit logging, and media controls. It doesn't constitute full CMMC compliance on its own, but it addresses a meaningful portion of the required practices and produces documented evidence for assessors.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Forrester: Close the Door to Data Extraction by Protecting Your Browser",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The Island Partner Program",
+    "url": "https://www.island.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A new chapter of enterprise work is being written. Partner with Island to help deliver the ideal enterprise workplace to organizations worldwide.",
+    "url": "https://www.island.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Access our library of sales enablement content to download and share with prospects.",
+    "url": "https://www.island.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Create co-branded marketing materials using our marketing templates and guidelines.",
+    "url": "https://www.island.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Take advantage of our partner training program to make sure you are equipped for success.",
+    "url": "https://www.island.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with Island to help deliver the ideal enterprise workplace to organizations worldwide.",
+    "url": "https://www.island.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud Service Providers | Island Control Plane",
+    "url": "https://www.island.io/partners/cloud-service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Island Cloud Service Providers",
+    "url": "https://www.island.io/partners/cloud-service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "We partner closely with leading cloud service providers to ensure our customers can securely and seamlessly access their cloud and SaaS environments.",
+    "url": "https://www.island.io/partners/cloud-service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Island partners with Microsoft to help enterprises securely power modern work across the Microsoft cloud ecosystem.By combining the Island Enterprise Browser with Microsoft 365, Azure, and Microsoft Entra ID, organizations gain secure, seamless access to critical applications—while adding real-time visibility, control, and data protection directly in the browser.",
+    "url": "https://www.island.io/partners/cloud-service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Together, Island and Microsoft enable Zero Trust–aligned access, protect sensitive information across SaaS and Azure-hosted apps, and deliver a high-performance experience for distributed teams—without the complexity of legacy VPNs or virtual desktops.",
+    "url": "https://www.island.io/partners/cloud-service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Island Enterprise Browser",
+    "url": "https://www.island.io/partners/cloud-service-providers",
+    "pass": 1
+   },
+   {
+    "quote": "All the systems enterprise work requires in a single, unified environment",
+    "url": "https://www.island.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Privileged Access Management",
+    "url": "https://www.island.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Business Process Outsourcers",
+    "url": "https://www.island.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud Service Providers",
+    "url": "https://www.island.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Browser Buyer's Guide",
+    "url": "https://www.island.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Island Makes AI Work for the Enterprise",
+    "url": "https://www.island.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "VP Product and Architecture",
+    "url": "https://www.island.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Marketing Officer",
+    "url": "https://www.island.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "“When you start looking at potential savings and improved security, you see the value.”",
+    "url": "https://www.island.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "“With Island, we're able to say 'yes' a lot more and increase that productivity.”",
+    "url": "https://www.island.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "We’re a team of world-class experts, reimagining the modern work environment for leading enterprises across all industries. And we’re just beginning.",
+    "url": "https://www.island.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Browser: Definition, Key Features, and Use cases",
+    "url": "https://www.island.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "ISMG: How the Enterprise Browser has reshaped the modern workplace",
+    "url": "https://www.island.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Mike Fey joins the Dealmakers podcast to share his professional journey",
+    "url": "https://www.island.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "The Enterprise Browser",
+    "url": "https://www.island.io/about",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Slingshot Aerospace save nearly $1 million a year with Island",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing | Island Control Plane",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Island for Manufacturing",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Secure every plant. Protect every workflow.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing security has to work across managed workstations and unmanaged contractor laptops, engineers handling ITAR-controlled designs, and operators running shared kiosks. Island is built for that complexity.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Buyer’s Guide",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing has a complex security environment. Most browsers weren't built for it.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Distributed facilities, rotating shifts, contractor ecosystems, and export control requirements — that’s the reality of the manufacturing world. Traditional security tools like VPNs, VDI, and network-layer controls weren't built for that.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How Island helps manufacturers operate securely",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Island moves enforcement to where manufacturing work actually happens: the browser itself. That means consistent security across every device, every facility, and every user without adding complexity or slowing operations down.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Key Island solutions for manufacturing",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Island Private Access gives plant operators, engineers, and admins secure, per-application access to internal systems from any device. No VPN required.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Give contract manufacturers, OEM partners, and supply chain vendors controlled access to exactly what they need, from their own devices.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver secure, browser-based access to manufacturing applications and internal systems without the infrastructure cost and session-drop frustrations of virtual desktop infrastructure.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Defense contractors and regulated manufacturers face strict obligations around CUI, ITAR-controlled technical data, and CMMC 2.0. Island provides the access controls, DLP, audit logging, and geolocation-based restrictions needed to meet those requirements at the browser level, where the data is actually accessed, and produce the documented evidence auditors require.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Slingshot Aerospace Gains CMMC, Wins $27M Contract",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Does Island work on shared plant floor workstations and kiosks?",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What happens to enforcement when users are off the plant network?",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Can contract manufacturers access our systems from their own devices?",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. This is one of Island's most common manufacturing use cases. External partners install Island on their own hardware and authenticate with scoped credentials. They access only what they're authorized to see, and no data persists on their device after the session ends.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Used by the world's leading companies",
+    "url": "https://www.island.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "IT and Infosec Manager, Slingshot Aerospace",
+    "url": "https://www.island.io/industries/government",
+    "pass": 1
+   },
+   {
+    "quote": "As of September 2025, Goto City continued this program, emphasizing collaboration with travel operators for tour planning and aiming to increase exchange populations through targeted promotion.",
+    "url": "https://grokipedia.com/page/Naru_Island_(Japan)",
+    "pass": 3
+   },
+   {
+    "quote": "—the crossing to Naru Port takes approximately 30 minutes by high-speed vessel or 45-50 minutes by ferry, provided by operators including Goto Ryokyaku Sen Co., Ltd., with multiple daily departures.",
+    "url": "https://grokipedia.com/page/Naru_Island_(Japan)",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Give newly acquired teams secure access on day one.",
+    "url": "https://www.island.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Island supports multi-user deployments on shared devices, with session isolation that creates a clean workspace for each operator at shift change. No residual data from the previous session carries over.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "“He spun it up for us on the spot, and within a couple of weeks we had it fully deployed out to our employees.”",
+    "url": "https://www.island.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Give newly acquired teams secure access on day one.",
+    "url": "https://www.island.io/solutions/3rd-party-contractors",
+    "pass": 1
+   },
+   {
+    "quote": "How do we manage different access levels for various types of contractors and employees using personal devices (short-term, long-term, different security clearances)?",
+    "url": "https://www.island.io/solutions/byod-workforce",
+    "pass": 1
+   },
+   {
+    "quote": "Give newly acquired teams secure access on day one.",
+    "url": "https://www.island.io/solutions/byod-workforce",
+    "pass": 1
+   },
+   {
+    "quote": "Rather than shipping laptops or provisioning expensive VDI, The Island Enterprise Browser dramatically simplifies M&A onboarding by giving employees simple, secure access on day one.",
+    "url": "https://www.island.io/solutions/m-a-onboarding",
+    "pass": 1
+   },
+   {
+    "quote": "Give newly acquired teams secure access on day one.",
+    "url": "https://www.island.io/solutions/m-a-onboarding",
+    "pass": 1
+   },
+   {
+    "quote": "Give newly acquired teams secure access on day one.",
+    "url": "https://www.island.io/solutions/privileged-user-account-management",
+    "pass": 1
+   },
+   {
+    "quote": "Does Island impact the end user experience when employees use the Enterprise Browser to access SaaS apps?",
+    "url": "https://www.island.io/solutions/saas-and-web-apps",
+    "pass": 1
+   },
+   {
+    "quote": "Give newly acquired teams secure access on day one.",
+    "url": "https://www.island.io/solutions/saas-and-web-apps",
+    "pass": 1
+   },
+   {
+    "quote": "Give newly acquired teams secure access on day one.",
+    "url": "https://www.island.io/solutions/safe-browsing-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Give newly acquired teams secure access on day one.",
+    "url": "https://www.island.io/solutions/vdi-and-daas",
+    "pass": 1
+   },
+   {
+    "quote": "Give newly acquired teams secure access on day one.",
+    "url": "https://www.island.io/solutions/zero-trust",
+    "pass": 1
+   },
+   {
+    "quote": "On the other side of the coin, organizations utilizing BPOs for functions, such as call centers, finance, sales, and marketing face additional challenges. These organizations gain scale by using the BPO, but they often have to figure out how to grant BPO employees access to their own application resources in a low cost, low risk way.",
+    "url": "https://www.island.io/industries/business-process-outsourcers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Island allows us to granularly manage how employees interact with corporate and client applications while mitigating risk.\"",
+    "url": "https://www.island.io/industries/business-process-outsourcers",
+    "pass": 1
+   },
+   {
+    "quote": "Give newly acquired teams secure access on day one.",
+    "url": "https://www.island.io/industries/business-process-outsourcers",
+    "pass": 1
+   },
+   {
+    "quote": "Mergers, Acquisitions & Divestitures",
+    "url": "https://www.island.io/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent tool sprawl or expensive network integrations during mergers and acquisitions. Using the enterprise browser, you can quickly onboard new employees to critical resources with proper visibility and control using their existing devices. During divestitures, easily and quickly revoke user access to applications and resources.",
+    "url": "https://www.island.io/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "“Island was probably the most successful deployment of a security technology I’ve ever been part of.”",
+    "url": "https://www.island.io/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Give newly acquired teams secure access on day one.",
+    "url": "https://www.island.io/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Department and agency employees or mission partners can use any device they choose — government-furnished equipment (GFE), even their personal device — to access the data they need securely. No break and inspect, long-haul proxies, or remote browser isolation necessary. So mission support is a safe, simple, and friction-free experience.",
+    "url": "https://www.island.io/industries/government",
+    "pass": 1
+   },
+   {
+    "quote": "Recent mandates drive the need to consolidate technology platforms and budgets to a central headquarters, aiming for increased efficiency, stronger cybersecurity, and simplified user experience. Using the enterprise browser, you can easily onboard employees to consolidated resources with proper visibility and control using their existing devices.",
+    "url": "https://www.island.io/industries/government",
+    "pass": 1
+   },
+   {
+    "quote": "Give newly acquired teams secure access on day one.",
+    "url": "https://www.island.io/industries/government",
+    "pass": 1
+   },
+   {
+    "quote": "Complete healthcare mergers and acquisitions without interrupting work",
+    "url": "https://www.island.io/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Minimize work interruption by granting employees safe access to critical apps and resources even before the M&A is complete, and ensure all data stays fundamentally safe with browser-enforced IT and security policies.",
+    "url": "https://www.island.io/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, Island is specifically designed for this scenario. Non-employee physicians and any other contract employees can simply download and install the browser on their personal devices and get secure access to all authorized healthcare applications.",
+    "url": "https://www.island.io/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Give newly acquired teams secure access on day one.",
+    "url": "https://www.island.io/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Give newly acquired teams secure access on day one.",
+    "url": "https://www.island.io/industries/higher-education",
+    "pass": 1
+   },
+   {
+    "quote": "recognized revenue、ARR、operating・net income、FCFを確認できない",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "450 customers・約500 employees",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "IPOの兆しと海外公開情報から読み解く日本での成長性とリスク",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "Islandは450 customersと48億米ドル（約7,562.9億円）のvaluationを公表するが、recognized revenue・profit、日本法人・国内customer proof・現行Japan求人は未確認",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "IPO時期、日本法人設立、日本向け採用の計画は公式に確認できない",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内の顧客事例、Japan ARR、qualified pipeline、renewalの公式値を確認できない",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "recognized revenue、ARR、gross margin、profit、FCF、NRRは？",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "Japan launchを決める顧客数、ARR、partner、product条件は",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "The northern half is administratively part of",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The southern half is administratively part of",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "(1895–1952) - part of the Empire of Japan until its defeat in 1945. Taken over by the",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "(1910–1945) - part of",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", Central Part of the",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", Northern Part of the",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", Southern Part of the",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "\"Recount with digital map leads to doubling of listed Japanese islands\"",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan_by_area",
+    "pass": 3
+   },
+   {
+    "quote": "in Japan's Gotō Archipelago, part of",
+    "url": "https://grokipedia.com/page/Naru_Island_(Japan)",
+    "pass": 3
+   },
+   {
+    "quote": "Naru Island, part of the",
+    "url": "https://grokipedia.com/page/Naru_Island_(Japan)",
+    "pass": 3
+   },
+   {
+    "quote": "Naru Island, part of the Gotō",
+    "url": "https://grokipedia.com/page/Naru_Island_(Japan)",
+    "pass": 3
+   },
+   {
+    "quote": "These arrivals, numbering in the dozens initially and growing through subsequent waves, differed from clan-directed developments on neighboring islands like Hisaka, as Naru's demographics derived primarily from persecuted groups rather than feudal relocation.",
+    "url": "https://grokipedia.com/page/Naru_Island_(Japan)",
+    "pass": 3
+   },
+   {
+    "quote": "The endurance of these practices on Naru exemplified broader patterns of resistance in peripheral regions, where geographic barriers correlated with lower enforcement intensity compared to urban centers like",
+    "url": "https://grokipedia.com/page/Naru_Island_(Japan)",
+    "pass": 3
+   },
+   {
+    "quote": "in 1881, following the arrival of families from",
+    "url": "https://grokipedia.com/page/Naru_Island_(Japan)",
+    "pass": 3
+   },
+   {
+    "quote": ". Constructed in 1918, the church was designed by architect Yosuke Tetsukawa and funded through community efforts, including revenues from kibinago herring fishing by local residents.",
+    "url": "https://grokipedia.com/page/Naru_Island_(Japan)",
+    "pass": 3
+   },
+   {
+    "quote": "Egami Village on Naru Island forms part of the \"",
+    "url": "https://grokipedia.com/page/Naru_Island_(Japan)",
+    "pass": 3
+   },
+   {
+    "quote": "Longer-haul options include overnight ferries from Hakata Port in Fukuoka, such as those operated by Nomo Shosen's Ferry TAIKO, which arrive at Naru Port after about 7 hours 40 minutes, routing through islands like Uku-shima and Ojika-jima.",
+    "url": "https://grokipedia.com/page/Naru_Island_(Japan)",
+    "pass": 3
+   },
+   {
+    "quote": ", mobility relies on walking or rented bicycles and scooters available near Naru Port, as paved roads are narrow and attractions like Egami Church lie within 1-2 kilometers of the dock; no public bus system exists, and vehicle rentals or taxis are available but infrequent due to low population density.",
+    "url": "https://grokipedia.com/page/Naru_Island_(Japan)",
+    "pass": 3
+   },
+   {
+    "quote": "Naru Island forms part of the Miocene Goto Group, a sedimentary sequence deposited during the early to middle Miocene (approximately 22.0–16.8 Ma) amid rifting in the Sea of Japan back-arc basin, with total thicknesses reaching 2000–3000 m across the archipelago.",
+    "url": "https://grokipedia.com/page/Naru_Island_(Japan)",
+    "pass": 3
+   },
+   {
+    "quote": "Workforce shortages, exacerbated by the island's aging population of around 1,000 residents, constrain service capacity, while inadequate multilingual signage and promotion hampers appeal to international arrivals.",
+    "url": "https://grokipedia.com/page/Naru_Island_(Japan)",
+    "pass": 3
+   },
+   {
+    "quote": "upgrades and local revenue retention to avoid over-dependence on transient day-trippers.",
+    "url": "https://grokipedia.com/page/Naru_Island_(Japan)",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/455121-91",
+    "pass": 3
+   },
+   {
+    "quote": "Island has 1,000 total employees.",
+    "url": "https://pitchbook.com/profiles/company/455121-91",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Give contract manufacturers, OEM partners, and supply chain vendors controlled access to exactly what they need, from their own devices.",
+    "url": "https://www.island.io/industries/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The Island Partner Program",
+    "url": "https://www.island.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "For Value-Added Resellers",
+    "url": "https://www.island.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Federal departments and agencies shifting to a SaaS work model need a way to give access to mission-critical apps and data that is simple, but somehow also secure — two things that simply don't exist together. Until now.",
+    "url": "https://www.island.io/industries/government",
+    "pass": 1
+   },
+   {
+    "quote": "Rethinking VDI for government agencies",
+    "url": "https://www.island.io/industries/government",
+    "pass": 1
+   },
+   {
+    "quote": "The federal government is recognizing the transformative potential of generative artificial intelligence tools with the release of OMB Memoranda M-25-21 and M-25-22, which outlines critical steps for agencies to accelerate the adoption of AI, enhance governance, and ensure responsible usage. Learn how Island empowers agencies to \"Say Yes\" to generative AI.",
+    "url": "https://www.island.io/industries/government",
+    "pass": 1
+   },
+   {
+    "quote": "How Federal Agencies Can Accelerate the Safe and Compliant Adoption of AI",
+    "url": "https://www.island.io/industries/government",
+    "pass": 1
+   },
+   {
+    "quote": "Defense, Intelligence, and Federal Security Agencies Solution Brief",
+    "url": "https://www.island.io/industries/government",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Yes. Island provides comprehensive last-mile controls to prevent data exfiltration regardless of privilege level. You can fine-tune Island to block users from copying sensitive data, taking screenshots, downloading files, or sharing data to a personal email, all without impeding legitimate work functions.",
+    "url": "https://www.island.io/solutions/privileged-user-account-management",
+    "pass": 1
+   },
+   {
+    "quote": "set. For example, users may be allowed to copy/paste data from a spreadsheet into Salesforce, but are blocked from moving that same data into their personal email or onto their device. Island’s context-aware protection covers",
+    "url": "https://www.island.io/solutions/saas-and-web-apps",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/455121-91",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Islandの特徴・導入事例など製品情報を紹介！【ITreview】IT製品のレビュー・比較サイト",
+    "url": "https://www.itreview.jp/products/island/profile",
+    "pass": 3
+   },
+   {
+    "quote": "Islandとは、NRIセキュアテクノロジーズ株式会社が提供しているエンタープライズブラウザ製品",
+    "url": "https://www.itreview.jp/products/island/profile",
+    "pass": 3
+   },
+   {
+    "quote": "Islandの日本進出可能性・営業としての魅力・企業研究 — Genba",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "現時点でJapan求人・拠点は確認できないため、将来の進出条件を観測する",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場でのニーズと3-5年の成長性の見立て",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場でのニーズと3-5年の成長性の見立てを閉じる",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "結論：SaaS・remote work・生成AIでbrowserが主要control pointになる一方、日本法人・国内reference・現行Japan求人は未確認",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "category fitとJapan delivery readinessを分けて評価する",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "450 customersを公式発表するが、日本企業・日本拠点のnamed caseと定量成果は確認できない",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "日本在住・日本担当者が0人という意味ではなく、本国法人との直接雇用やEOR等の人数も含まない",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "日本内訳・paid seat・retentionは非公開",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "公式CareersにJapan・Tokyoなし",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "IPOの兆しと海外公開情報から読み解く日本での成長性とリスク",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "Islandは450 customersと48億米ドル（約7,562.9億円）のvaluationを公表するが、recognized revenue・profit、日本法人・国内customer proof・現行Japan求人は未確認",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "APAC Remoteという地域名だけで日本からの応募可能性を補完しない",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "IPO時期、日本法人設立、日本向け採用の計画は公式に確認できない",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "一方、公式aboutのofficeはDallas・London・Tel AvivでJapanなし",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "公式CareersはDallas、London、Tel Aviv・Glilotを拠点として掲載し、Japan・Tokyo求人は0件",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "APAC RemoteやSydney求人を日本求人へ含めない",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "日本語UI、support、policy template、data residency、security・legal資料の同等性は未確認",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "日本のcommercial proofが進出判断を左右",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内の顧客事例、Japan ARR、qualified pipeline、renewalの公式値を確認できない",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "契約、security資料、supportの日本語同等性も未確認",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "日本語UI、support、security、主要use caseの品質を証明する",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "一方、日本法人、Tokyo office、Japan求人、日本国内の顧客事例は確認できない",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "global tractionだけで進出時期は断定せず、国内lighthouse customer、local partner、日本語・product readiness、専任delivery、repeatable economicsを成立条件として観測する",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "Japan・Tokyoの公式拠点は確認できない",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "List of islands of Japan - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle Japanese archipelago subsection",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Islands of Honshu in the Sea of Japan",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Other Japanese islands",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Largest islands of Japan",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "List of islands of Japan",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese islands outlined",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is the third-largest island country in the world, behind",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "in 1987, the number of islands in Japan was 6,852. At that time, the survey only counted islands with coastlines of 100 meters or more that were shown on paper maps.",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Geospatial Information Authority of Japan",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "For the traditional categorization of eight main islands of Japan, see",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Names of Japan#Other names",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "The main islands of Japan",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo International Airport",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "- controlled by Japan,",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "that are controlled by Russia and claimed by Japan. These islands are called the Chishima Islands.",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Liancourt rocks between Japan and Korea",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "also claims the island, and has criticized Japan over its claim.",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "(1919–1947) - administered by the Empire of Japan as a",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "(1895–1952) - part of the Empire of Japan until its defeat in 1945. Taken over by the",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "in 1945 but no treaty of sovereignty transfer has been signed. All claims relinquished by Japan in the",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", controlled by Japan after the",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". Japan lost control of Karafuto after its",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "during World War II. Formally abolished as a legal entity by Japan in 1949. Japan in addition controlled the northern half of Sakhalin between 1920 and 1925, during and after the",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese colonial empire",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "List of islands of Japan by area - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan_by_area",
+    "pass": 3
+   },
+   {
+    "quote": "List of islands of Japan by area",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan_by_area",
+    "pass": 3
+   },
+   {
+    "quote": "Overview of Japanese islands by area",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan_by_area",
+    "pass": 3
+   },
+   {
+    "quote": "List of islands of Japan",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan_by_area",
+    "pass": 3
+   },
+   {
+    "quote": "\"Recount with digital map leads to doubling of listed Japanese islands\"",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan_by_area",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Ministry of Land, Infrastructure, Transport and Tourism. Archived from",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan_by_area",
+    "pass": 3
+   },
+   {
+    "quote": "This article used material from Japanese Wikipedia page",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan_by_area",
+    "pass": 3
+   },
+   {
+    "quote": "Mongol invasions of Japan",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan_by_area",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Island（エンタープライズブラウザ） | 情報セキュリティのNRIセキュ... — Islandは情報漏洩やマルウェア対策など、企業のセキュリティを向上させる次世代のWebブラウザです。 VDIからの移行や外部委託者向けのセキュリティ強化、内部不正による情報の持ち出し防止に有効な対策を提供します。",
+    "url": "https://www.nri-secure.co.jp/service/solution/island",
+    "pass": 3
+   },
+   {
+    "quote": "Island_エンタープライズブラウザ_セキュリティ機能実装企業向けブラ... — Islandは、企業の生産性とセキュリティを向上させる『エンタープライズブラウザ』です。 ブラウザで細かいレベルでの監視と制御を実現し、遅延が少ないことが特徴です。",
+    "url": "https://www.macnica.co.jp/business/security/manufacturers/island/",
+    "pass": 3
+   },
+   {
+    "quote": "Islandの特徴・導入事例など製品情報を紹介！【ITreview】IT製品のレ... — Aug 22, 2025 · Islandの特徴や導入事例、メリットや解決できた課題など製品情報を掲載中！ 製品担当者のイチオシのポイントや特徴的な機能といったベンダーからの製品紹介のほか、動画の閲覧や資料請求、トライアルも含めたお問い合わせも可能。",
+    "url": "https://www.itreview.jp/products/island/profile",
+    "pass": 3
+   },
+   {
+    "quote": "Islandの日本進出可能性・営業としての魅力・企業研究 — Genba — Oct 12, 2026 · 結論：SaaS・remote work・生成AIでbrowserが主要control pointになる一方、日本法人・国内reference・現行Japan求人は未確認。 category fitとJapan delivery readinessを分けて評価する。",
+    "url": "https://genbajapan.com/companies/island",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Island TAIWAN 2026レポート｜台湾で育てた技術を、日本企業... — Oct 5, 2026 · 東京で開かれるスタートアップイベントのなかでも、台湾と日本のビジネスをつなぐことに焦点を当てた場です。 日本の産業との協業に加え、米国の技術・投資関係者とのつながりも議論されました。",
+    "url": "https://blog.cresclab.com/ja/startup-island-taiwan-2026",
+    "pass": 3
+   },
+   {
+    "quote": "List of islands of Japan - Wikipedia — Japan is an island country of 14,125 islands, of which approximately 260 are inhabited. [1][2] Japan is the third-largest island country in the world, behind Indonesia and Madagascar. [3]",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "List of islands of Japan by area - Wikipedia — Japan has 14,125 [1] islands, approximately 430 of which are inhabited. [2][3] This list provides basic geographical data of the most prominent islands belonging to, or claimed by, Japan.",
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan_by_area",
+    "pass": 3
+   },
+   {
+    "quote": "Naru Island (Japan) — Naru Island (奈留島, Naru-shima) is an island in Japan's Gotō Archipelago, part of Nagasaki Prefecture, characterized by its coastal...",
+    "url": "https://grokipedia.com/page/Naru_Island_(Japan)",
+    "pass": 3
+   },
+   {
+    "quote": "The Most Beautiful Islands of Japan - Travel — Oct 27, 2025 · Thanks to the north-south extension of the country from 20 degrees to 45 degrees latitude, Japan's islands are among the most beautiful places on earth, ranging from lush tropical paradises...",
+    "url": "https://www.travelandleisure.com/trip-ideas/island-vacations/japan-most-beautiful-islands",
+    "pass": 3
+   },
+   {
+    "quote": "Islands of Japan — Learn about the five main islands of Japan, Honshū, Hokkaidō, Kyūshū, Shikoku and Okinawa, and the two major archipelagos, the Nanpō and Nansei islands. Discover their geography, history, culture and diving attractions.",
+    "url": "https://bluejapan.org/geography/islands-of-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Case Study - National Retailer - IslandCustomer Stories | Island Control PlaneIsland Manufacturing: A localised production arrangement for ...(PDF) Island Manufacturing: A localised production ...14 Island Case Studies, Success Stories, & Customer Stories ...Island Manufacturing — While testing the mobile setup, the team hit a snag: the Surface tablet's on-screen virtual keyboard didn't w",
+    "url": "https://www.island.io/resource/island-case-study-national-retailer",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories | Island Control Plane — Case studies from Amazon, Hendrick Motorsports, Mattress Firm, and more.",
+    "url": "https://www.island.io/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Island Manufacturing: A localised production arrangement for ... — The case study method was chosen for this research to gain depth of understanding into the significance and role of local sustainability concerns on manufacturing decisions.",
+    "url": "https://www.researchgate.net/profile/Sudhir-Rama-Murthy/publication/303406885_Island_Manufacturing_A_localised_production_arrangement_for_global_manufacturing_firms/links/57420bd908aea45ee84a36b4/Island-Manufacturing-A-localised-production-arrangement-for-global-manufacturing-firms.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(PDF) Island Manufacturing: A localised production ... — Apr 1, 2016 · Cases studies are presented to illustrate this arrangement. The potential of Island Manufacturing to add value to the sustainable manufacturing discourse is discussed.",
+    "url": "https://www.researchgate.net/publication/303406885_Island_Manufacturing_A_localised_production_arrangement_for_global_manufacturing_firms",
+    "pass": 3
+   },
+   {
+    "quote": "14 Island Case Studies, Success Stories, & Customer Stories ... — Narrow down 14 case studies by company size & industry to find out how Island works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/island-io/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Island - 2026 Company Profile, Team, Funding & Competitors ...Island – Industry Ranking & Company Valuation – 2026Island 2026 Company Profile: Valuation, Funding & Investors ...Island Revenue 2024: $87M Est., $4.8B Valuation - LATKAIsland: $1.21B Funding, 1,363 Employees & Latest News | MandosIsland Announces $400 Million Series F, Bringing Valuation to ...Island Valuation: $6.4B (Sep 2026) — Fund",
+    "url": "https://tracxn.com/d/companies/island/__Duu-CGHCugyBMpfrvImxZWFR0GhNyGdNdf7ncPEvW0c",
+    "pass": 3
+   },
+   {
+    "quote": "Island – Industry Ranking & Company Valuation – 2026 — Island’s operational efficiency results in $16.6K revenue per employee. Island has received total funding worth $800M. Analyst estimates place Island’s market value at $6.4B. Island has scaled its team to over 1000+ members. Island reported a 21% year-over-year reduction in its workforce.",
+    "url": "https://compworth.com/company/island",
+    "pass": 3
+   },
+   {
+    "quote": "Island 2026 Company Profile: Valuation, Funding & Investors ...Island Revenue 2024: $87M Est., $4.8B Valuation - LATKAIsland: $1.21B Funding, 1,363 Employees & Latest News | MandosIsland Announces $400 Million Series F, Bringing Valuation to ...Island Valuation: $6.4B (Sep 2026) — Funding & Investors — Information on valuation, funding, cap tables, investors, and executives for Island. Use the Pit",
+    "url": "https://pitchbook.com/profiles/company/455121-91",
+    "pass": 3
+   },
+   {
+    "quote": "Island Revenue 2024: $87M Est., $4.8B Valuation - LATKA — Oct 7, 2026 · Island 2024 estimated revenue: $87M (up from $75.9M in 2023). Valuation: $4.8B. Total funding: $540M across 3 rounds. Founded 2020. Updated Oct 7, 2026.",
+    "url": "https://getlatka.com/companies/island.io",
+    "pass": 3
+   },
+   {
+    "quote": "Island: $1.21B Funding, 1,363 Employees & Latest News | Mandos — Oct 20, 2026 · Island is a cybersecurity company specializing in Endpoint Security, founded in 2020 and headquartered in Dallas, United States. It has raised $1.21B in equity across 10 priced rounds, employs about 1,363 people, and is privately held.",
+    "url": "https://mandos.io/data/companies/island",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Part 13] The History of Life on Nogutsuna Island (1): From ... Apr 13, 2026 · From the Kofun period to the Kamakura period, let's trace the history of an island that has lived alongside the sea. The history of life on Nogutsuna Island is the first in a historical series looking back at the past.",
+    "url": "https://note.com/ritogura_note/n/n9fcbbd237ed9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Island Life: Kuchinoshima (Tokara Islands) Edition｜東雲白夜 Jul 2, 2026 · On this lush green island, one of the few places in Japan where wild cattle roam freely, there flows a 'rich, human-like time' that we have forgotten, in exchange for the conveniences of the city.",
+    "url": "https://note.com/shinonomebyakuya/n/nc59da3b0ed79?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Potential leak of approximately 7.7 million records from Iris ... Island Nov 6, 2026 18:01 Regarding the unauthorized access that occurred at Iris Ohyama's official online store 'Iris Plaza', the operating company, Iris Plaza, announced in its second report on November 5, 2026, that approximately 7.7 million records of personal information may have been viewed or acquired.",
+    "url": "https://note.com/island777/n/n05a8e28f3298?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Deep Dives Are Fun #9 | Did you know a bird is hidden in the ... For both birds and people—**the island was an important \"resting place\" that sustained life during a journey.** The fact that a bird resides in the character for \"island\" might be because the people living in such an island nation were looking at the sea and land from the same perspective as the birds.",
+    "url": "https://note.com/fresh_aster974/n/n4671a9c3c28f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "island｜note 日記をつらつらと island 日記をつらつらと 日記をつらつらと フォロー",
+    "url": "https://note.com/island__",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Island - LinkedIn The Island Enterprise Platform is the ideal environment for modern work, enabling people, devices, and agents to use AI safely and productively across the organization.",
+    "url": "https://www.linkedin.com/company/island-io/",
+    "pass": 3
+   },
+   {
+    "quote": "Island - LinkedIn By embedding data protection, productivity, and AI enablement across applications, devices, and workflows, Island helps IT and security teams enforce policy consistently, see and control all work...",
+    "url": "https://il.linkedin.com/company/island-io",
+    "pass": 3
+   },
+   {
+    "quote": "IGY Marinas - LinkedIn Island Global Yachting: Arriving is just the beginning. | Mission: IGY strives to be the leading globally integrated network of iconic marina destinations and the most trusted and recognizable ...",
+    "url": "https://www.linkedin.com/company/island-global-yachting",
+    "pass": 3
+   },
+   {
+    "quote": "Dan Amiga - Co-Founder & CTO at Island | LinkedInCommunication & Events Specialist presso Stone Island ...Island Routes - LinkedInIsland Aviation Services Ltd - LinkedIn Co-Founder and CTO of Island. Founding investor at Axis Security (Acquired by HPE) , Cycode (ASPM Leader), Build.Security (Acquired by Elastic), ScaleOps (K8S optimization stars) & CyClops... Stone Island is a defiantly independen",
+    "url": "https://il.linkedin.com/in/danamiga",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ISLAND - FacebookThe Island - Sri Lanka | Colombo - FacebookBig Island Kirtan! | FacebookCapri #unmaredamare | FacebookIsland | Worcester - FacebookIsland King - FacebookIsland Restaurant | New York NY - Facebook May 17, 2024 · Thanks for all the kind messages of love & support, and for blasting the album wherever you are in the world. What’s everyone’s favourite track btw? We’ve been chillin in t",
+    "url": "https://www.facebook.com/islandislandisland/",
+    "pass": 3
+   },
+   {
+    "quote": "The Island - Sri Lanka | Colombo - FacebookBig Island Kirtan! | FacebookCapri #unmaredamare | FacebookIsland | Worcester - FacebookIsland King - FacebookIsland Restaurant | New York NY - Facebook Oct 21, 2026 · The Island - Sri Lanka, Colombo. 29,625 followers · 771 talking about this. A leading, trusted daily English Newspaper in Sri Lanka, since 1981. You are welcome to post fliers & news about ",
+    "url": "https://www.facebook.com/theisland.lk/",
+    "pass": 3
+   },
+   {
+    "quote": "Big Island Kirtan! | Facebook You are welcome to post fliers & news about BIG ISLAND KIRTAN events here~ & invite your kirtan ohana to join the page... Blessings! ~ Chant On! ~.",
+    "url": "https://business.facebook.com/groups/413869918631220/",
+    "pass": 3
+   },
+   {
+    "quote": "Island | Worcester - Facebook Oct 10, 2026 · Island, Worcester. 4,419 followers · 10 talking about this · 1,674 were here. Our aim is to provide our customers with authentic Greek dishes using the...",
+    "url": "https://www.facebook.com/p/Island-100028371956719/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "RPG Island on X: \"動画投稿しました！ 始まりの錬金術師についてあれ... Sep 12, 2026 · 動画投稿しました！ 始まりの錬金術師についてあれこれと https://t.co/tVkAN8yvuL #れじぇくろ",
+    "url": "https://x.com/RPG_Island_99/status/2098336998822199374",
+    "pass": 3
+   },
+   {
+    "quote": "RPG Island on X: \"動画投稿しました メンテ終わってから投稿しようと... Sep 24, 2026 · 動画投稿しました メンテ終わってから投稿しようと思ってたのですが、なかなか明けないので… アプデやらざっくり雑感です youtu.be/gWc-O6Uwiwk #れじぇくろ",
+    "url": "https://x.com/RPG_Island_99/status/2103086611370315829",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.island.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.island.io/industries/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.island.io/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.island.io/partners/cloud-service-providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.island.io/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.island.io/solutions/3rd-party-contractors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.island.io/solutions/byod-workforce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.island.io/solutions/m-a-onboarding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.island.io/solutions/privileged-user-account-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.island.io/solutions/saas-and-web-apps",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.island.io/solutions/safe-browsing-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.island.io/solutions/vdi-and-daas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.island.io/solutions/zero-trust",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.island.io/industries/business-process-outsourcers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.island.io/industries/financial-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.island.io/industries/government",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.island.io/industries/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.island.io/industries/higher-education",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.island.io/industries/k-12-education",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/61a5e47b1afd0c116d16aa40/6a33da1dee09e2b8d66ec71c_manufacturing-header.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/61a5e47b1afd0c116d16aa40/69d4f8f8a815e9438b8ba102_partners-header.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nri-secure.co.jp/service/solution/island",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.macnica.co.jp/business/security/manufacturers/island/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itreview.jp/products/island/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genbajapan.com/companies/island",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/List_of_islands_of_Japan_by_area",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/Naru_Island_(Japan)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.travelandleisure.com/trip-ideas/island-vacations/japan-most-beautiful-islands",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/profile/Sudhir-Rama-Murthy/publication/303406885_Island_Manufacturing_A_localised_production_arrangement_for_global_manufacturing_firms/links/57420bd908aea45ee84a36b4/Island-Manufacturing-A-localised-production-arrangement-for-global-manufacturing-firms.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/303406885_Island_Manufacturing_A_localised_production_arrangement_for_global_manufacturing_firms",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.20i.com/us/reseller-hosting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/island/__Duu-CGHCugyBMpfrvImxZWFR0GhNyGdNdf7ncPEvW0c",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/island",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/455121-91",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/island.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ritogura_note/n/n9fcbbd237ed9?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/shinonomebyakuya/n/nc59da3b0ed79?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/island777/n/n05a8e28f3298?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/fresh_aster974/n/n4671a9c3c28f?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/island-io/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/company/island-io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/island-global-yachting",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/danamiga",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/islandislandisland/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/theisland.lk/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/413869918631220/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Island-100028371956719/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/island__",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/RPG_Island_99/status/2098336998822199374",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RPG_Island_99/status/2103086611370315829",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Island 日本 導入",
+   "results": [
+    "https://www.nri-secure.co.jp/service/solution/island",
+    "https://www.macnica.co.jp/business/security/manufacturers/island/",
+    "https://www.itreview.jp/products/island/profile",
+    "https://genbajapan.com/companies/island",
+    "https://blog.cresclab.com/ja/startup-island-taiwan-2026",
+    "https://www.macnica.co.jp/business/security/manufacturers/island/feature_06.html",
+    "https://www.itmedia.co.jp/enterprise/articles/2402/05/news002.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Island 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "https://www.kkhashi.com/blogs/detail/145/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Island Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/List_of_islands_of_Japan",
+    "https://en.wikipedia.org/wiki/List_of_islands_of_Japan_by_area",
+    "https://grokipedia.com/page/Naru_Island_(Japan)",
+    "https://www.travelandleisure.com/trip-ideas/island-vacations/japan-most-beautiful-islands",
+    "https://bluejapan.org/geography/islands-of-japan/",
+    "https://www.japan-guide.com/e/e2462.html",
+    "https://japanobjects.com/features/japanese-islands",
+    "https://www.touropia.com/largest-islands-in-japan/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Island manufacturing customer case study",
+   "results": [
+    "https://www.island.io/resource/island-case-study-national-retailer",
+    "https://www.island.io/customer-stories",
+    "https://www.researchgate.net/profile/Sudhir-Rama-Murthy/publication/303406885_Island_Manufacturing_A_localised_production_arrangement_for_global_manufacturing_firms/links/57420bd908aea45ee84a36b4/Island-Manufacturing-A-localised-production-arrangement-for-global-manufacturing-firms.pdf",
+    "https://www.researchgate.net/publication/303406885_Island_Manufacturing_A_localised_production_arrangement_for_global_manufacturing_firms",
+    "https://www.featuredcustomers.com/vendor/island-io/case-studies",
+    "https://www.islandmanufacturing.net/",
+    "https://connect.island.io/hubfs/resource/Island+Case+Study+-+National+Retailer.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Island white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.seoreseller.com/",
+    "https://partner.vw.com/partner",
+    "https://www.20i.com/us/reseller-hosting",
+    "https://partners.wiz.io/",
+    "https://partners.spectrum.com/",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Island founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/island/__Duu-CGHCugyBMpfrvImxZWFR0GhNyGdNdf7ncPEvW0c",
+    "https://compworth.com/company/island",
+    "https://pitchbook.com/profiles/company/455121-91",
+    "https://getlatka.com/companies/island.io",
+    "https://mandos.io/data/companies/island",
+    "https://www.island.io/press/island-announces-400-million-series-f-bringing-valuation-to-6-4-billion",
+    "https://valueaddvc.com/pulse/company/island"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Island",
+   "results": [
+    "https://note.com/ritogura_note/n/n9fcbbd237ed9?hl=en",
+    "https://note.com/shinonomebyakuya/n/nc59da3b0ed79?hl=en",
+    "https://note.com/island777/n/n05a8e28f3298?hl=en",
+    "https://note.com/fresh_aster974/n/n4671a9c3c28f?hl=en",
+    "https://tales.note.com/sisland1213",
+    "https://tales.note.com/aiai_island",
+    "https://note.com/island777/n/n2d14ffc33a52?hl=en",
+    "https://tales.note.com/sisland1213/followings/works"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com Island",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Island",
+   "results": [
+    "https://www.linkedin.com/company/island-io/",
+    "https://il.linkedin.com/company/island-io",
+    "https://www.linkedin.com/company/island-global-yachting",
+    "https://il.linkedin.com/in/danamiga",
+    "https://it.linkedin.com/jobs/view/communication-events-specialist-at-stone-island-4471637871",
+    "https://jm.linkedin.com/company/island-routes-caribbean-adventure-tours",
+    "https://mv.linkedin.com/company/iaslaero"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Island",
+   "results": [
+    "https://www.facebook.com/islandislandisland/",
+    "https://www.facebook.com/theisland.lk/",
+    "https://business.facebook.com/groups/413869918631220/",
+    "https://www.facebook.com/p/Island-100028371956719/",
+    "https://www.facebook.com/IslandKingApp/",
+    "https://www.facebook.com/islandny/",
+    "https://business.facebook.com/groups/260990304606498/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Island note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/island__",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/risa_aihara",
+    "https://prtimes.jp/main/html/rd/p/000000075.000080389.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Island X 投稿",
+   "results": [
+    "https://github.com/IsLand-x/",
+    "https://www.instagram.com/islandx_film/",
+    "https://x.com/RPG_Island_99/status/2098336998822199374",
+    "https://x.com/RPG_Island_99/status/2103086611370315829",
+    "https://www.youtube.com/watch?v=ta5pgsWb1tM",
+    "https://jp.xhamster.com/categories/homemade",
+    "https://help.x.com/ja/using-x/edit-post"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像2件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像2件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式19頁／PDF・画像2件／外部37頁・検索12回）"
+ }
+}

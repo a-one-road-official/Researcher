@@ -1,0 +1,1074 @@
+{
+ "name": "Keycard",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-11T18:50:09.576027+00:00",
+ "official_url": "https://keycard.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "“We wanted our engineers deploying agents and tools into production without needing to be security or identity experts. Keycard’s platform made that possible.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We had agents running against production systems in days.”",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Dennis Yang, Principal Product Manager, Generative AI at Chime",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents accumulate privilege, and most teams have no way to narrow it back down.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Manual approvals don’t scale.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Provision for everything it might need?",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "summarize project docs",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Resources can be data stores, MCP servers, APIs, or agents. Configure the resource’s credential provider and Keycard will handle all authorization requests against it.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "If approved, Keycard’s secure token server issues a short-lived authorization token scoped to the task at hand.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Use the request path you already have. Choose where authorization should happen to protect the resources your agents use.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A sidecar proxy intercepts the agent’s outbound traffic and swaps placeholder secrets for real, user-scoped tokens from Keycard.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Keycard speaks the protocols your stack already uses, ships drop-in SDKs for the services you build, and",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "federates the identity providers you run today. Policy is written in Cedar and applied through Terraform,",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Federate users and workloads with your existing identity providers.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Write policy as code and manage changes programmatically.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Export events to any SIEM that reads OCSF, or send them to S3.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A shared framework for deploying enterprise AI agents, developed in partnership with Docker and Snyk.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What practitioners are running into.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Developers building agents and internal tools, alongside platform, security, and AI operations teams bringing them into production. Use Keycard with your agents, MCP servers, APIs, and other services.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "When agents need to act on production systems at scale. If you’re managing dozens of MCP servers, using multiple human and workload identity providers, or considering refactoring existing applications one-by-one, that’s a sign you need Keycard.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Runtime authorization for AI agents means the access decision is made when the agent acts, not when access was set up or when the agent was deployed. Each request carries context on which agent is asking, where it’s running, who it’s acting for, and what it wants to reach. Policy is evaluated against the full composite identity, and if approved, a credential is issued for the approved access.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How is Keycard’s approach to agent access different from other solutions?",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your use case and we'll follow up with a custom proposal.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Usage-based pricing with a single metric. Every plan includes the full",
+    "url": "https://www.keycard.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time telemetry (7-day retention)",
+    "url": "https://www.keycard.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "SCIM, Active Directory, LDAP provisioning",
+    "url": "https://www.keycard.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated, BYOC, or on-prem deployment",
+    "url": "https://www.keycard.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Identity Provider Types",
+    "url": "https://www.keycard.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-tenant, Dedicated, BYOC, or On-prem",
+    "url": "https://www.keycard.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Private networking available",
+    "url": "https://www.keycard.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "All plans include every supported protocol: OAuth 2.1, Token Exchange,",
+    "url": "https://www.keycard.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "SPIFFE, WIMSE, MCP, A2A, API, CLI, and custom protocols via SDK.",
+    "url": "https://www.keycard.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "SCIM, AD, or LDAP provisioning",
+    "url": "https://www.keycard.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Private networking or customer-managed KMS",
+    "url": "https://www.keycard.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Keycard makes AI agents safe, trustworthy, and production-ready",
+    "url": "https://www.keycard.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Unblock Critical AI Projects",
+    "url": "https://www.keycard.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower teams to move agent-driven workloads into production — without compromising control.",
+    "url": "https://www.keycard.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product Architect, Okta",
+    "url": "https://www.keycard.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "President, Chainguard",
+    "url": "https://www.keycard.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "CEO, Protect AI",
+    "url": "https://www.keycard.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We are a company run by developers, building a core product for all developers. We're product-first engineers, constantly focusing on user experience.",
+    "url": "https://www.keycard.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Founding Revenue Marketing Lead",
+    "url": "https://www.keycard.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Staff Product Marketing Manager",
+    "url": "https://www.keycard.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Manager, Growth & Developer Experience",
+    "url": "https://www.keycard.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents can't go to production without identity and access control. Nobody has shipped the answer yet. You'd be building it.",
+    "url": "https://www.keycard.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Agent-native infrastructure barely exists. We're writing the spec, building the product, and talking to the people who need it.",
+    "url": "https://www.keycard.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Protection | Cloudflare",
+    "url": "https://www.keycard.ai/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "The website from which you got to this page is protected by Cloudflare. Email addresses on that page have been hidden in order to keep them from being accessed by malicious bots.",
+    "url": "https://www.keycard.ai/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "If you have a website and are interested in protecting it in a similar way, you can",
+    "url": "https://www.keycard.ai/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "How does Cloudflare protect email addresses on website from spammers?",
+    "url": "https://www.keycard.ai/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Keycard_lock",
+    "pass": 3
+   },
+   {
+    "quote": "through a pattern of holes in the card and detecting the result, by swiping or inserting a magnetic stripe card, or in the case of RFID or NFC cards, merely being brought into close proximity to a sensor. Keycards may also serve as",
+    "url": "https://en.wikipedia.org/wiki/Keycard_lock",
+    "pass": 3
+   },
+   {
+    "quote": "Mechanical keycard locks employ detainers which must be arranged in pre-selected positions by the",
+    "url": "https://en.wikipedia.org/wiki/Keycard_lock",
+    "pass": 3
+   },
+   {
+    "quote": "will move. This was a mechanical type of lock operated by a plastic key card with a pattern of holes. There were 32 positions for possible hole locations, giving approximately 4.3",
+    "url": "https://en.wikipedia.org/wiki/Keycard_lock",
+    "pass": 3
+   },
+   {
+    "quote": "cannot be erased by magnetic fields or reprogrammed as magnetic stripe cards can. Many electronic access control locks use a",
+    "url": "https://en.wikipedia.org/wiki/Keycard_lock",
+    "pass": 3
+   },
+   {
+    "quote": ". IFI CLAIMS Patent Services. April 17, 1979.",
+    "url": "https://en.wikipedia.org/wiki/Keycard_lock",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Keycard_lock",
+    "pass": 3
+   },
+   {
+    "quote": "Keycard is open hardware for self-custody: a secure element smartcard that signs transactions on-chip, and Shell, a companion device that turns it into a full hardware wallet. Every layer is open source — the applet, the firmware, the schematics, the enclosure — and everything speaks standard protocols. If you can talk BIP-32, APDUs or animated QR codes, you can build on it.",
+    "url": "https://docs.keycard.tech/en/developers/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Keycard is a contactless smart card that stores private keys and performs signatures on a dedicated secure chip (NXP JCOP4, certified",
+    "url": "https://docs.keycard.tech/en/developers/overview",
+    "pass": 3
+   },
+   {
+    "quote": "Standard protocols only.",
+    "url": "https://docs.keycard.tech/en/developers/overview",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Agents accumulate privilege, and most teams have no way to narrow it back down.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "When it acts for a user, the request also carries that user’s identity. The full picture is used to make authorization decisions at runtime.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“You cannot treat an agent or any part of AI as you would treat a person… When you think about granting authority just in time, it means something completely different from an AI perspective.”",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Runtime authorization for AI agents means the access decision is made when the agent acts, not when access was set up or when the agent was deployed. Each request carries context on which agent is asking, where it’s running, who it’s acting for, and what it wants to reach. Policy is evaluated against the full composite identity, and if approved, a credential is issued for the approved access.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Creator of Passport.js. Expert in identity, security, and scaling companies from startup to acquisition. Believer that simplifying identity unlocks developer potential.",
+    "url": "https://www.keycard.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Founding Revenue Marketing Lead",
+    "url": "https://www.keycard.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Most teams can't connect agents to real services because the security story isn't there. Your work removes that barrier.",
+    "url": "https://www.keycard.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": ", or as part of an NFC system, have the code transmitted to a",
+    "url": "https://en.wikipedia.org/wiki/Keycard_lock",
+    "pass": 3
+   },
+   {
+    "quote": "Mechanical keycard locks employ detainers which must be arranged in pre-selected positions by the",
+    "url": "https://en.wikipedia.org/wiki/Keycard_lock",
+    "pass": 3
+   },
+   {
+    "quote": "\"US patent 4,149,394: Lock arrangement employing mechanically acting code card and key card\"",
+    "url": "https://en.wikipedia.org/wiki/Keycard_lock",
+    "pass": 3
+   },
+   {
+    "quote": "for EVM, PSBT for Bitcoin) and on-device transaction verification with clear signing (ABI decoding, ERC-20 names, EIP-712, Bitcoin PSBT). This makes Keycard compatible with wallets like MetaMask, Rabby, Sparrow, BlueWallet and",
+    "url": "https://docs.keycard.tech/en/developers/overview",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Sign up with your work email to request a Keycard account.",
+    "url": "https://www.keycard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Email + Slack + Dedicated CSM",
+    "url": "https://www.keycard.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up with your work email to request a Keycard account.",
+    "url": "https://www.keycard.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up with your work email to request a Keycard account.",
+    "url": "https://www.keycard.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign up with your work email to request a Keycard account.",
+    "url": "https://www.keycard.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Protection | Cloudflare",
+    "url": "https://www.keycard.ai/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "You are unable to access this email address",
+    "url": "https://www.keycard.ai/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "The website from which you got to this page is protected by Cloudflare. Email addresses on that page have been hidden in order to keep them from being accessed by malicious bots.",
+    "url": "https://www.keycard.ai/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "You must enable Javascript in your browser in order to decode the e-mail address",
+    "url": "https://www.keycard.ai/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "How does Cloudflare protect email addresses on website from spammers?",
+    "url": "https://www.keycard.ai/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": ", or email",
+    "url": "https://docs.keycard.tech/en/developers/overview",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Microsoft（米国ワシントン州）は、ヘルスケアおよびライフサイエンス領域における人工知能ツールの導入事例と最新動向を発表した",
+    "url": "https://www.generatived.com/news/keycard-launches-ai-agent-identity-management-platform",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Keycard — Runtime auth for agents — Keycard is runtime authorization infrastructure for AI agents. It gives applications their own identity, evaluates credential requests against policy, and issues credentials when access is allowed.",
+    "url": "https://www.keycard.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Keycard、AIエージェントID管理プラットフォームを発表 — このプラットフォームは既存のユーザーアイデンティティシステムとシームレスに統合され、タスクベースの権限付与とアクティビティ追跡により、組織はAIエージェントを安心して導入できます。",
+    "url": "https://www.generatived.com/news/keycard-launches-ai-agent-identity-management-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Keycard lock - Wikipedia — Computerized authentication systems, such as key cards, raise privacy concerns, since they enable computer surveillance of each entry. RFID cards and key fobs are becoming increasingly popular due to their ease of use.",
+    "url": "https://en.wikipedia.org/wiki/Keycard_lock",
+    "pass": 3
+   },
+   {
+    "quote": "Hitman | How to get a universal keycard in Hokkaido - YouTubeKeycard lock - Wikipediaホーム - ttp2.moj.go.jpOverview — Keycard Developers — Nov 1, 2016 · Dress as the director, go to his office and pick up the keycard, then go to the morgue and open the freezer. Computerized authentication systems, such as key cards, raise privacy concerns, since they enable computer surveillance of each entry. RFID ",
+    "url": "https://www.youtube.com/watch?v=Toy8BjsgYZM",
+    "pass": 3
+   },
+   {
+    "quote": "Overview — Keycard Developers — Oct 5, 2026 · Keycard is a contactless smart card that stores private keys and performs signatures on a dedicated secure chip (NXP JCOP4, certified EAL6+). It functions as a BIP-32 HD wallet, supporting key generation, derivation and signing, and allows exporting keys defined in the context of EIP-1581.",
+    "url": "https://docs.keycard.tech/en/developers/overview",
+    "pass": 3
+   },
+   {
+    "quote": "MIWA Lock Co | Products — MIWA’s Elevator Card Reader allows only those guests with a valid keycard to access elevator / floors they are assigned. Great for hospitality and multi housing. Designed to be built directly into the elevator’s panel.",
+    "url": "https://www.miwalock.com/products/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Keycard Uses Software & Services — Explore case studies featuring Keycard as the customer — learn how vendors and partners helped Keycard solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/keycard",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How QR Keycard Uses Software & Services — Explore case studies featuring QR Keycard as the customer — learn how vendors and partners helped QR Keycard solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/qr-keycard",
+    "pass": 3
+   },
+   {
+    "quote": "Keycard — Runtime auth for agents — How Keycard works Keycard verifies each request, evaluates it against policy, and makes authorization decisions for your agents and whatever they need to access.",
+    "url": "https://www.keycard.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Keycard Labs 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for Keycard Labs. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/820190-89",
+    "pass": 3
+   },
+   {
+    "quote": "Keycard - 2026 Company Profile, Team, Funding & Competitors ... — Aug 24, 2026 · Keycard has raised $38M in funding from Andreessen Horowitz and Acrew Capital. The company has 188 active competitors, including 15 funded and 3 that have exited.",
+    "url": "https://tracxn.com/d/companies/keycard/__wqLvPom9k7YuvZO_MBX4xp-pdqal1wR4q2BnwLgQHNc",
+    "pass": 3
+   },
+   {
+    "quote": "Keycard: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Keycard has raised $38 million in funding. Its funding rounds have seen participation from prominent investors including Andreessen Horowitz (a16z), boldstart Ventures, and Acrew Capital.",
+    "url": "https://startupintros.com/orgs/keycard",
+    "pass": 3
+   },
+   {
+    "quote": "Keycard Labs: $38M Funding, 40 Employees & Latest News | Mandos — Oct 11, 2026 · Keycard Labs is a cybersecurity company specializing in IAM, founded in 2025 and headquartered in San Francisco, United States. It has raised $38M in equity across 2 priced rounds, employs about 40 people, and is privately held.",
+    "url": "https://mandos.io/data/companies/keycard-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Keycard - Products, Competitors, Financials, Employees ... — It provides an identity platform for managing access for customers, employees, and partners, with artificial intelligence (AI)-based security capabilities. It primarily serves organizations in government, financial services, healthcare, retail, media, and telecommunications.",
+    "url": "https://www.cbinsights.com/company/keycard",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "initiatives, manufacturers have developed alternatives to plastic key cards.",
+    "url": "https://en.wikipedia.org/wiki/Keycard_lock",
+    "pass": 3
+   },
+   {
+    "quote": "Exit Devices – Combining the best features of Miwa’s stand-alone access control with industrial strength mechanical hardware from Cal-Royal and VonDuprin",
+    "url": "https://www.miwalock.com/products/",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Keycard",
+    "url": "https://www.casestudies.com/customer/keycard",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by QR Keycard",
+    "url": "https://www.casestudies.com/customer/qr-keycard",
+    "pass": 3
+   },
+   {
+    "quote": "QR Keycard - Customer Case Study",
+    "url": "https://www.casestudies.com/customer/qr-keycard",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Our Partner Page/Become a Partner",
+    "url": "https://www.miwalock.com/products/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Marathon OUTPOST Keycard Spawn Location Map｜roflxp Please zoom in to use.Green: Required to enter the Pinwheel buildingYellow: Required for armory infiltrationRed: Required for restricted extraction (spawn location is fixed)",
+    "url": "https://note.com/32494/n/ncffbfe1acec1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tarkov Labyrinth Information Summary (April 2026 Edition ... Apr 20, 2026 · The Labyrinth is harder to get to and more expensive than Labs. Alternatively, you can use a key that spawns in the key storage area inside the Knossos resort to open the door next to the pool in the resort basement, and then use a keycard to go via transit travel. (The spawn rate is extremely low.)",
+    "url": "https://note.com/odoruyuufoo_0227/n/n60482cdc90bf?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Keycard Shell (@Keycard_) / X The flow is simple: > Your software wallet builds the unsigned transaction. > That transaction is sent to Keycard over NFC, or to Keycard Shell over QR. > Keycard signs it inside the secure element.",
+    "url": "https://x.com/Keycard_",
+    "pass": 3
+   },
+   {
+    "quote": "Keycard (@keycardsol) / X In real time. $ KEYCARD now shows live, verifiable buybacks directly on the site. Track total bought back, percentage of supply removed, and the latest buyback timestamp.",
+    "url": "https://x.com/keycardsol",
+    "pass": 3
+   },
+   {
+    "quote": "Is Game Key Card? (@IsGameKeyCard) / X 🎮 The Is Game Key Card? website is now LIVE! 🚀 🔎 Explore our database and use the filters to check the physical release format of the games you're interested ...",
+    "url": "https://x.com/IsGameKeyCard",
+    "pass": 3
+   },
+   {
+    "quote": "Keycard Shell on X: \"end-to-end privacy pools (v1 ... Keycard Shell on X: \"end-to-end privacy pools (v1) transactions with kohaku-cli and keycard shell (air gapped) by @0xterricola\" / X",
+    "url": "https://x.com/Keycard_/status/2120125106861342904",
+    "pass": 3
+   },
+   {
+    "quote": "keycard (@usekeycard) / X Keycard is live. 🔑 Coins launched in a creator's name pay them through @ XMoney Now creators can claim the real one, flag the fakes, and open a private room for their holders.",
+    "url": "https://x.com/usekeycard",
+    "pass": 3
+   },
+   {
+    "quote": "Keycard Shell (@Keycard_) / X A few of our Keycard teammates are at Devcon 8 in Mumbai! 🇮🇳 Around? Come say hi 👋 Let’s meet, talk crypto, and plan something fun. Drop a comment or DM us and let’s make it happen!",
+    "url": "https://x.com/Keycard_",
+    "pass": 3
+   },
+   {
+    "quote": "keycard (@keycard) / X 4 followers · 6 following. Joined Feb 2010. See the latest conversations with @keycard",
+    "url": "https://x.com/keycard",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Keycard - LinkedIn About us Keycard is the AI voice assistant for heavy equipment dealers and contractors. Technicians talk through the job in a quick phone call or mobile debrief.",
+    "url": "https://www.linkedin.com/company/getkeycard",
+    "pass": 3
+   },
+   {
+    "quote": "Keycard - LinkedIn Keycard is on a mission to redefine machine identity for the Internet—helping developers seamlessly connect people, agents, and services across networks, clouds, and applications.",
+    "url": "https://www.linkedin.com/company/keycard-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Jerry Zhang - Keycard | LinkedInSheldon Noskieye - KeyCard Supply Canada | LinkedInKeycard - LinkedInIan Livingstone - Keycard | LinkedInJared Hanson - Keycard | LinkedIn Building AI with service teams at some of North America's largest heavy equipment… · Experience: Keycard · Education: University of Waterloo · Location: Greater Toronto Area, Canada · 500+... KeyCard Supply Canada · Experience: K",
+    "url": "https://ca.linkedin.com/in/jerryzhang222",
+    "pass": 3
+   },
+   {
+    "quote": "Sheldon Noskieye - KeyCard Supply Canada | LinkedIn KeyCard Supply Canada · Experience: Keycard supply Canada · Education: Southern Alberta Institute of Technology (SAIT) · Location: Canada · 445 connections on LinkedIn. View Sheldon...",
+    "url": "https://ca.linkedin.com/in/sheldon-noskieye-a063463a4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "KeyCard Discount Card/Coupon Book | Byron Center MI - FacebookThe Keycard - FacebookKeycard Ninja - FacebookThe NEW 2025 KeyCard... - KeyCard Discount Card/Coupon Book ...KeyCard24hr รับก้อปปี้ copyคีย์การ์ด บัตรเข้าคอนโด 24ชั่วโมง ...My keycard now | KLProductions - FacebookKeyCard - The NEW 2024 KeyCard books and cards are ... - Facebook Oct 8, 2026 · The NEW 2025 KeyCard Books & Cards are here!",
+    "url": "https://www.facebook.com/QRKeyCard/",
+    "pass": 3
+   },
+   {
+    "quote": "The Keycard - Facebook And so, with ink in our hands and stories as our keys, The Keycard stands ready to unlock what the future sees. But every door has a lock, and every story has a way.",
+    "url": "https://www.facebook.com/p/The-Keycard-61593423590566/",
+    "pass": 3
+   },
+   {
+    "quote": "Keycard Ninja - FacebookThe NEW 2025 KeyCard... - KeyCard Discount Card/Coupon Book ...KeyCard24hr รับก้อปปี้ copyคีย์การ์ด บัตรเข้าคอนโด 24ชั่วโมง ...My keycard now | KLProductions - FacebookKeyCard - The NEW 2024 KeyCard books and cards are ... - Facebook Apr 24, 2018 · Keycard Ninja. 217 followers. Don't get stuck with a single keycard or fob for your apartment or HOA complex! Most cards can be",
+    "url": "https://www.facebook.com/keycardninja/",
+    "pass": 3
+   },
+   {
+    "quote": "The NEW 2025 KeyCard... - KeyCard Discount Card/Coupon Book ... Oct 1, 2024 · The NEW 2025 KeyCard Books & Cards are here! You can purchase them from many of the schools and organizations selling, or from one of the stores listed on our website.",
+    "url": "https://www.facebook.com/QRKeyCard/posts/the-new-2025-keycard-books-cards-are-here-you-can-purchase-them-from-many-of-the/1201375057952439/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.keycard.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keycard.ai/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keycard.ai/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keycard.ai/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keycard.ai/cdn-cgi/l/email-protection",
+    "status": "http_404",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.keycard.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.generatived.com/news/keycard-launches-ai-agent-identity-management-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nintendo.com/jp/games/switch2/key-card/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fnn.jp/articles/-/1133814",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Keycard_lock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Toy8BjsgYZM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://docs.keycard.tech/en/developers/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.miwalock.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/keycard",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/qr-keycard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kpmg.com/in/en/services/kpmg-case-studies.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://azure.microsoft.com/en-us/resources/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.verkada.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/820190-89",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/keycard/__wqLvPom9k7YuvZO_MBX4xp-pdqal1wR4q2BnwLgQHNc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/keycard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mandos.io/data/companies/keycard-labs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/32494/n/ncffbfe1acec1?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/odoruyuufoo_0227/n/n60482cdc90bf?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/Keycard_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/keycardsol",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IsGameKeyCard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Keycard_/status/2120125106861342904",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/getkeycard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/keycard-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/jerryzhang222",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/sheldon-noskieye-a063463a4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/QRKeyCard/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/The-Keycard-61593423590566/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/keycardninja/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/QRKeyCard/posts/the-new-2025-keycard-books-cards-are-here-you-can-purchase-them-from-many-of-the/1201375057952439/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/usekeycard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Keycard_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/keycard",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Keycard 日本 導入",
+   "results": [
+    "https://www.keycard.ai/",
+    "https://www.generatived.com/news/keycard-launches-ai-agent-identity-management-platform",
+    "https://www.nintendo.com/jp/games/switch2/key-card/index.html",
+    "https://www.fnn.jp/articles/-/1133814",
+    "https://www.jreast.co.jp/press/2026/20261110_ho03.pdf",
+    "https://www.asahi.com/articles/ASVCB2J93VCBUTIL00CM.html",
+    "https://saitoshika-west.com/blog-entry-9906.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Keycard 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://www.entrust.com/ja/contact/datacard-japan"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Keycard Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Keycard_lock",
+    "https://www.youtube.com/watch?v=Toy8BjsgYZM",
+    "https://docs.keycard.tech/en/developers/overview",
+    "https://www.miwalock.com/products/",
+    "https://ttp2.moj.go.jp/en-US/",
+    "https://www.nintendo.com/jp/games/switch2/key-card/index.html",
+    "https://genius.com/Juice-wrld-key-card-impatient-lyrics"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Keycard manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/keycard",
+    "https://www.casestudies.com/customer/qr-keycard",
+    "https://kpmg.com/in/en/services/kpmg-case-studies.html",
+    "https://azure.microsoft.com/en-us/resources/customer-stories/",
+    "https://www.keycard.ai/",
+    "https://www.keyfactor.com/resources/case-studies/",
+    "https://www.rrd.com/resources/case-study/key-packets-program-launched-globally-hospitality"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Keycard white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.verkada.com/partners/",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.adobe.com/channelpartners/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Keycard founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/820190-89",
+    "https://tracxn.com/d/companies/keycard/__wqLvPom9k7YuvZO_MBX4xp-pdqal1wR4q2BnwLgQHNc",
+    "https://startupintros.com/orgs/keycard",
+    "https://mandos.io/data/companies/keycard-labs",
+    "https://www.cbinsights.com/company/keycard",
+    "https://www.crunchbase.com/organization/keycard",
+    "https://www.cbinsights.com/company/keycard/financials",
+    "https://www.crunchbase.com/organization/key-card"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:note.com Keycard",
+   "results": [
+    "https://note.com/32494/n/ncffbfe1acec1?hl=en",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/odoruyuufoo_0227/n/n60482cdc90bf?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/sekasu/n/n985d4263a09c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Keycard",
+   "results": [
+    "https://x.com/Keycard_",
+    "https://x.com/keycardsol",
+    "https://x.com/IsGameKeyCard",
+    "https://x.com/Keycard_/status/2120125106861342904",
+    "https://x.com/Keycard_/status/2107118109840544110",
+    "https://x.com/Meelky_f/status/2111716408422011122",
+    "https://x.com/JaredMutchler/status/2119455139626893557"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Keycard",
+   "results": [
+    "https://www.linkedin.com/company/getkeycard",
+    "https://www.linkedin.com/company/keycard-ai",
+    "https://ca.linkedin.com/in/jerryzhang222",
+    "https://ca.linkedin.com/in/sheldon-noskieye-a063463a4",
+    "https://www.linkedin.com/company/keycard",
+    "https://www.linkedin.com/in/irlivingstone",
+    "https://www.linkedin.com/in/jaredhanson"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Keycard",
+   "results": [
+    "https://www.facebook.com/QRKeyCard/",
+    "https://www.facebook.com/p/The-Keycard-61593423590566/",
+    "https://www.facebook.com/keycardninja/",
+    "https://www.facebook.com/QRKeyCard/posts/the-new-2025-keycard-books-cards-are-here-you-can-purchase-them-from-many-of-the/1201375057952439/",
+    "https://www.facebook.com/Keycard24hr/",
+    "https://www.facebook.com/KLProductionsOG/videos/my-keycard-now/1685659189585577/",
+    "https://www.facebook.com/QRKeyCard/photos/the-new-2024-keycard-books-and-cards-are-in-and-on-sale-visit-keycarddealscom-to/980275230062424/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Keycard note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Keycard X 投稿",
+   "results": [
+    "https://x.com/usekeycard",
+    "https://x.com/Keycard_",
+    "https://www.keycard.ai/",
+    "https://x.com/keycard",
+    "https://x.com/KeycardAI",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://help.x.com/ja/using-x/x-polls"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部41頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部41頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部41頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部41頁・検索12回）"
+ }
+}

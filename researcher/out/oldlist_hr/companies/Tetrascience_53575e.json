@@ -1,0 +1,1434 @@
+{
+ "name": "Tetrascience",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T18:57:03.992927+00:00",
+ "official_url": "https://www.tetrascience.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$69,000",
+    "url": "https://prospeo.io/c/tetrascience-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$80,000,000",
+    "url": "https://prospeo.io/c/tetrascience-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Boston, Massachusetts, United States",
+    "url": "https://prospeo.io/c/tetrascience-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://prospeo.io/c/tetrascience-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Read first principles insights on Scientific AI, and how we're reimagining and replatforming science for the era of AI.",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vendor-agnostic data stack and data-only business model prevents proprietary walled gardens and vendor lock-in, future-proofing customer data",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enables unprecedented data liquidity and AI collaboration among our scientific customers and their partners",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrialized production of the world's only large-scale, liquid, engineered, and compliant scientific datasets to fuel Scientific AI",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "higher scientist productivity",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "faster production insights",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "TetraScience is shattering the century-old scientific data silo paradigm, which has led to ever less efficient and more costly science by building a revolutionary, future-proof scientific data and AI foundation.",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trapped in vendor silos, yielding subscale, proprietary, and/or unstructured data with little to no utility for predictive analytics and AI",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Transformed from proprietary formats to sophisticated and industrialized scientific taxonomies and ontologies, generating AI-native datasets",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Shareable and extensible AI-native data enables collaboration across customers, CROs, CDMOs, and third parties, yielding unprecedented data liquidity and scale, richer taxonomies and ontologies, and continuously improving AI-based outcomes",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cell Profiling / Sorting",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloning and Protein Expression",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Plasma Protein Binding",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bioprocess Purification Development",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about the transformative power of the Tetra OS, which enables science in unprecedented ways.",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Capitalize on unparalleled expertise at the nexus of scientific use cases, engineered data, and AI to accelerate outcome-based engagements while benefitting from industry best practices and benchmarking.",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By transforming how our scientists access, analyze, and share research data, we're unlocking new levels of productivity and enabling AI-powered insights through a connected, online data environment. Beyond boosting productivity, we're leveraging data and agentic AI to accelerate innovation across our drug discovery engine.",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our expanded partnership with TetraScience is delivering measurable value through unified access to instrument and CRO data that powers our automation and analytics at scale. The platform's audit capabilities have streamlined our regulatory preparation processes.",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Embedding AI and digital technologies across the R&D value chain is one of Takeda’s core strategic areas for our future. Our data-driven R&D approach will reduce discovery timelines, enable the identification of targets faster, and help us design better therapeutic candidates.",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our collaboration with TetraScience enhances the precision and speed of our quality control processes. By automating manual steps, we're empowering our scientists to focus on innovation that brings essential medicines to women faster and more safely.",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The capabilities provided by TetraScience enable us to standardize and harmonize data at scale... accelerating the speed and quality of scientific discovery.",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect Quality and Compliance | Benefits for Regulatory Leaders | TetraScience",
+    "url": "https://www.tetrascience.com/solutions/quality",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce transcription errors by 75% by moving from manual data handling to automated data collection and preparation",
+    "url": "https://www.tetrascience.com/solutions/quality",
+    "pass": 1
+   },
+   {
+    "quote": "Rely on high-fidelity, traceable data to ensure regulatory compliance and drug product quality and safety",
+    "url": "https://www.tetrascience.com/solutions/quality",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline data aggregation and documentation for CoAs, dossiers, regulatory filings, and audit preparation",
+    "url": "https://www.tetrascience.com/solutions/quality",
+    "pass": 1
+   },
+   {
+    "quote": "Proactively identify and prevent 80% of deviations using predictive analytics",
+    "url": "https://www.tetrascience.com/solutions/quality",
+    "pass": 1
+   },
+   {
+    "quote": "By transforming how our scientists access, analyze, and share research data, we're unlocking new levels of productivity and enabling AI-powered insights through a connected, online data environment. Beyond boosting productivity, we're leveraging data and agentic AI to accelerate innovation across our drug discovery engine.",
+    "url": "https://www.tetrascience.com/solutions/quality",
+    "pass": 1
+   },
+   {
+    "quote": "Our expanded partnership with TetraScience is delivering measurable value through unified access to instrument and CRO data that powers our automation and analytics at scale. The platform's audit capabilities have streamlined our regulatory preparation processes.",
+    "url": "https://www.tetrascience.com/solutions/quality",
+    "pass": 1
+   },
+   {
+    "quote": "Embedding AI and digital technologies across the R&D value chain is one of Takeda’s core strategic areas for our future. Our data-driven R&D approach will reduce discovery timelines, enable the identification of targets faster, and help us design better therapeutic candidates.",
+    "url": "https://www.tetrascience.com/solutions/quality",
+    "pass": 1
+   },
+   {
+    "quote": "Our collaboration with TetraScience enhances the precision and speed of our quality control processes. By automating manual steps, we're empowering our scientists to focus on innovation that brings essential medicines to women faster and more safely.",
+    "url": "https://www.tetrascience.com/solutions/quality",
+    "pass": 1
+   },
+   {
+    "quote": "The capabilities provided by TetraScience enable us to standardize and harmonize data at scale... accelerating the speed and quality of scientific discovery.",
+    "url": "https://www.tetrascience.com/solutions/quality",
+    "pass": 1
+   },
+   {
+    "quote": "Combine deep scientific knowledge and the industry’s only purpose-built, open, and collaborative Scientific Data and AI Platform to improve and extend human life.",
+    "url": "https://www.tetrascience.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "We share all vital data openly and proactively with our team. When people have data and context, they make better decisions and solve more significant problems.",
+    "url": "https://www.tetrascience.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our success flows directly from the success of our customers and partners. We approach every relationship with humility, respect, and a commitment to mutual growth.",
+    "url": "https://www.tetrascience.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "The success or failure of our mission holds profound consequences for humanity. If you are a high achiever and natural collaborator, and wish to push your limits and test your potential alongside the best of the best in pursuit of one of the world’s most important missions, we encourage you to join our team!",
+    "url": "https://www.tetrascience.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "The Tetra Scientific Data and AI Platform uniquely produces AI-native scientific data - Tetra Data - the atomic building block of Scientific AI.",
+    "url": "https://www.tetrascience.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "TetraScience brings this AI-native data to life in a rapidly growing suite of next generation lab data management products, scientific use cases, and AI applications to accelerate and improve scientific outcomes.",
+    "url": "https://www.tetrascience.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Enable a future-proof ecosystem that leverages scientific data for AI across the value chain",
+    "url": "https://www.tetrascience.com/solutions/ai-leader",
+    "pass": 1
+   },
+   {
+    "quote": "Adopt industry best practices for your scientific data architecture to mitigate risks and accelerate success of AI",
+    "url": "https://www.tetrascience.com/solutions/ai-leader",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline data collection and engineering with robust, productized integrations and data pipelines",
+    "url": "https://www.tetrascience.com/solutions/ai-leader",
+    "pass": 1
+   },
+   {
+    "quote": "Enable your data for Scientific AI with actionable content and demonstrate tangible value",
+    "url": "https://www.tetrascience.com/solutions/ai-leader",
+    "pass": 1
+   },
+   {
+    "quote": "By transforming how our scientists access, analyze, and share research data, we're unlocking new levels of productivity and enabling AI-powered insights through a connected, online data environment. Beyond boosting productivity, we're leveraging data and agentic AI to accelerate innovation across our drug discovery engine.",
+    "url": "https://www.tetrascience.com/solutions/ai-leader",
+    "pass": 1
+   },
+   {
+    "quote": "Our expanded partnership with TetraScience is delivering measurable value through unified access to instrument and CRO data that powers our automation and analytics at scale. The platform's audit capabilities have streamlined our regulatory preparation processes.",
+    "url": "https://www.tetrascience.com/solutions/ai-leader",
+    "pass": 1
+   },
+   {
+    "quote": "Embedding AI and digital technologies across the R&D value chain is one of Takeda’s core strategic areas for our future. Our data-driven R&D approach will reduce discovery timelines, enable the identification of targets faster, and help us design better therapeutic candidates.",
+    "url": "https://www.tetrascience.com/solutions/ai-leader",
+    "pass": 1
+   },
+   {
+    "quote": "Our collaboration with TetraScience enhances the precision and speed of our quality control processes. By automating manual steps, we're empowering our scientists to focus on innovation that brings essential medicines to women faster and more safely.",
+    "url": "https://www.tetrascience.com/solutions/ai-leader",
+    "pass": 1
+   },
+   {
+    "quote": "The capabilities provided by TetraScience enable us to standardize and harmonize data at scale... accelerating the speed and quality of scientific discovery.",
+    "url": "https://www.tetrascience.com/solutions/ai-leader",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify data workflows in drug development with integrated, outcomes-driven processes",
+    "url": "https://www.tetrascience.com/solutions/development",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize drug safety, efficacy, and stability with predictive modeling",
+    "url": "https://www.tetrascience.com/solutions/development",
+    "pass": 1
+   },
+   {
+    "quote": "Maximize lab productivity",
+    "url": "https://www.tetrascience.com/solutions/development",
+    "pass": 1
+   },
+   {
+    "quote": "Focus on outcomes by freeing over 50% of scientists' time from manual data processes",
+    "url": "https://www.tetrascience.com/solutions/development",
+    "pass": 1
+   },
+   {
+    "quote": "Improving CMC with analytics-ready chromatography data",
+    "url": "https://www.tetrascience.com/solutions/development",
+    "pass": 1
+   },
+   {
+    "quote": "By transforming how our scientists access, analyze, and share research data, we're unlocking new levels of productivity and enabling AI-powered insights through a connected, online data environment. Beyond boosting productivity, we're leveraging data and agentic AI to accelerate innovation across our drug discovery engine.",
+    "url": "https://www.tetrascience.com/solutions/development",
+    "pass": 1
+   },
+   {
+    "quote": "Our expanded partnership with TetraScience is delivering measurable value through unified access to instrument and CRO data that powers our automation and analytics at scale. The platform's audit capabilities have streamlined our regulatory preparation processes.",
+    "url": "https://www.tetrascience.com/solutions/development",
+    "pass": 1
+   },
+   {
+    "quote": "Embedding AI and digital technologies across the R&D value chain is one of Takeda’s core strategic areas for our future. Our data-driven R&D approach will reduce discovery timelines, enable the identification of targets faster, and help us design better therapeutic candidates.",
+    "url": "https://www.tetrascience.com/solutions/development",
+    "pass": 1
+   },
+   {
+    "quote": "Our collaboration with TetraScience enhances the precision and speed of our quality control processes. By automating manual steps, we're empowering our scientists to focus on innovation that brings essential medicines to women faster and more safely.",
+    "url": "https://www.tetrascience.com/solutions/development",
+    "pass": 1
+   },
+   {
+    "quote": "The capabilities provided by TetraScience enable us to standardize and harmonize data at scale... accelerating the speed and quality of scientific discovery.",
+    "url": "https://www.tetrascience.com/solutions/development",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize research productivity",
+    "url": "https://www.tetrascience.com/solutions/research",
+    "pass": 1
+   },
+   {
+    "quote": "Focus on science by freeing over 50% of researchers’ time from manual data processes",
+    "url": "https://www.tetrascience.com/solutions/research",
+    "pass": 1
+   },
+   {
+    "quote": "Foster collaboration and boost productivity by 3 to 12x, implementing best practices for scientific data workflows",
+    "url": "https://www.tetrascience.com/solutions/research",
+    "pass": 1
+   },
+   {
+    "quote": "Redirect up to 50% of scientists’ time from manual data processes to higher-value research activities",
+    "url": "https://www.tetrascience.com/solutions/research",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrialized production of the world's only large-scale, liquid, engineered, and compliant scientific datasets to fuel Scientific AI",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Transformed from proprietary formats to sophisticated and industrialized scientific taxonomies and ontologies, generating AI-native datasets",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Benefit from industrialized scientific taxonomies and ontologies, which enable advanced analytics and scientific AI.",
+    "url": "https://www.tetrascience.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost data workflow efficiency by orders of magnitude in R&D, QA/QC, and manufacturing",
+    "url": "https://www.tetrascience.com/solutions/ai-leader",
+    "pass": 1
+   },
+   {
+    "quote": "Challenges and Future Directions in Chemistry, Manufacturing, and Controls (CMC)",
+    "url": "https://www.tetrascience.com/solutions/development",
+    "pass": 1
+   },
+   {
+    "quote": "Scientific Use Case Factory",
+    "url": "https://www.tetrascience.com/solutions/scientific-it",
+    "pass": 1
+   },
+   {
+    "quote": "Syngenta Deploys Tetra OS to Accelerate Scientific Discovery Through Industrial-Scale Data Automation",
+    "url": "https://www.tetrascience.com/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "TetraScience Collaborates with NVIDIA to Industrialize the Production of Scientific AI Use Cases",
+    "url": "https://www.tetrascience.com/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerating the Scientific AI Revolution: TetraScience and Databricks Join Forces To Transform Scientific Research, Development, Manufacturing, and Quality Control in Life Sciences",
+    "url": "https://www.tetrascience.com/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Chemist: Stop reviewing good data: review-by-exception for chromatography QC",
+    "url": "https://www.tetrascience.com/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "Pharmaceutical Online: Next-Generation Digital Technology For Pharma R&D and Manufacturing",
+    "url": "https://www.tetrascience.com/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "Chromatography labs in biopharma face delays, reduced productivity, and compliance risks caused by fragmented data spread across chromatography data systems (CDSs) and sites. Analyzing this data is often slow, costly, and retrospective, hampered by fragmented data access.",
+    "url": "https://www.tetrascience.com/company/events",
+    "pass": 1
+   },
+   {
+    "quote": "Employ advanced analytics to define a scientifically sound chemistry manufacturing and controls (CMC) strategy",
+    "url": "https://www.tetrascience.com/company/events",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically generate reports to facilitate new drug application (NDA) or biologics license application (BLA) filing, good manufacturing practices (GMP), and continued process verification (CPV)",
+    "url": "https://www.tetrascience.com/company/events",
+    "pass": 1
+   },
+   {
+    "quote": "The presentation features real-world case studies in high-throughput screening (HTS), contract research organization (CRO) data management, batch release and testing, as well as the digitalization of a contract development and manufacturing organization (CDMO).",
+    "url": "https://www.tetrascience.com/company/events",
+    "pass": 1
+   },
+   {
+    "quote": "Watch this webinar with Andelyn Biosciences, a full-spectrum CDMO, to learn about their critical initiative of a Connected Plant that will enable biopharma to replatform their scientific data and workflows to the cloud. This innovative connected approach represents a generational movement transforming the way therapeutics are developed, validated, and brought to market.",
+    "url": "https://www.tetrascience.com/company/events",
+    "pass": 1
+   },
+   {
+    "quote": "Quality & Manufacturing",
+    "url": "https://www.tetrascience.com/case-studies/accelerating-adme-tox-testing-with-data-science-and-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Quality & Manufacturing",
+    "url": "https://www.tetrascience.com/case-studies/streamline-batch-release-workflows-between-signals-notebook-labx-and-tiamo",
+    "pass": 1
+   },
+   {
+    "quote": ", including potential penalties from regulatory bodies like the United States Food & Drug Administration (FDA) or European Medicines Agency (EMA), as well as the reputational harm caused by data breaches or non-compliance.",
+    "url": "https://www.tetrascience.com/blog/data-integrity-in-biopharma-embracing-alcoa",
+    "pass": 1
+   },
+   {
+    "quote": "Data recording practices are uniform and standardized across different systems, instruments, or operators.",
+    "url": "https://www.tetrascience.com/blog/data-integrity-in-biopharma-embracing-alcoa",
+    "pass": 1
+   },
+   {
+    "quote": "Quality & Manufacturing",
+    "url": "https://www.tetrascience.com/case-studies/optimizing-quality-testing-with-labware-and-tetrascience",
+    "pass": 1
+   },
+   {
+    "quote": "This scientific data industrialization process transforms static, subscale, proprietary, and/or unstructured data contained in vendor-specific silos, into liquid, large-scale, engineered, and compliant data.",
+    "url": "https://www.tetrascience.com/tetra-data",
+    "pass": 1
+   },
+   {
+    "quote": "Industrialized scientific data at scale as a foundation for Scientific AI",
+    "url": "https://www.tetrascience.com/tetra-data",
+    "pass": 1
+   },
+   {
+    "quote": "Industrializing large-scale, liquid, engineered, and compliant scientific datasets combined with AI to produce transformational outcomes",
+    "url": "https://www.tetrascience.com/tetra-data",
+    "pass": 1
+   },
+   {
+    "quote": "Quality & Manufacturing",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "In this case study, you'll learn how Shape",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study Highlights: Data Analytics and Scientific AI",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "This case study collection shows how top biopharmas are turning replatformed and engineered data into analytics- and AI-powered insights with the Tetra OS.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study Highlights: Data Replatforming and Engineering",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "This case study collection showcases how leading organizations are utilizing the Tetra Scientific Data and AI Cloud to replatform and engineer their scientific data—driving productivity, efficiency, and scalability across the value chain.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Producing cell and gene therapies is exceptionally complex, and the stakes are incredibly high. For the contract development and manufacturing organizations (CDMOs) enabling these treatments, operational efficiency isn’t just about saving time and money; it can be a matter of life and death.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Development scientists at a leading biopharmaceutical company use quantitative polymerase chain reaction (qPCR) to evaluate the impact of process changes on gene therapy products. These assays are crucial for chemistry, manufacturing, and controls (CMC). However, the team's manual-intensive data workflow significantly limited their throughput and data analysis capabilities.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "At a top 10 pharmaceutical company, scientists developing purification methods were bogged down by inefficient data processes. They struggled to consolidate analytical data from UPLC and connect it with upstream processing data from FPLC. This hampered chemistry, manufacturing, and controls (CMC) efforts.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Scientists in the Chemistry, Manufacturing, and Controls (CMC) division at a top-ten biopharma company specialize in developing methods for purifying biologics. However, they struggled with inefficient data practices. Manually assembling and analyzing heterogeneous sets of chromatography data (from FPLC and UPLC) was far from scalable.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "This case study explores how the Tetra Scientific Data and AI Platform helped them accomplish their goals by:",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Read this case study to learn how TetraScience optimized large scale scientific data.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Read the case study to learn how TetraScience helped this company achieve:",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "This case study describes:",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to reduce manual tasks by automating workflows, enabling scientists to focus on high-value activities like developing new cancer treatments. Read the full case study.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "This case study shows how this biotech organization was able to automate, simplify, and improve the quality of their flow cytometry workflows by addressing the pain points that include:",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Read this full case study to learn about how to improve and accelerate flow cytometry workflows with the Tetra Scientific Data and AI Cloud™.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "When Andelyn Biosciences broke ground on two state-of-the-art gene therapy CDMO facilities, they needed the optimal scientific data strategy. They decided to create a “Connected Plant” by leveraging The Tetra Scientific Data and AI Cloud™ across their entire enterprise.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Read this case study to learn how TetraScience and Andelyn successfully launched “The Connected Plant” where the Tetra Scientific Data and AI Cloud:",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Find out why Andelyn says “TetraScience is the cornerstone of 'The Connected Plant Strategy.'”",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "This case study demonstrates how TetraScience helped two clinical-stage startup companies get the most out of their CRO collaborations for ADME/PK needs.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "allow visualizations of structure activity relationships (SAR), data science, artificial intelligence, and machine learning (AI/ML). By automating CRO data entry, processing, and transfer, scientists save time and reduce manual errors. With automated data management, CRO outsourcing can help biopharma companies realize more cost-effective results. Read the full case study to learn more.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Read our case study for an in-depth look at how TetraScience has advanced",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Read the case study to find out how TetraScience helped Alexion:",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "TetraScience Co-founder & Field CTO Siping \"Spin\" Wang is moving to Basel to launch our European HQ because the future of Scientific AI requires being \"forward-deployed\" in life sciences superclusters to bridge the cultural gap and accelerate discovery with a new class of hybrid operators, Sciborgs.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Quality & Manufacturing",
+    "url": "https://www.tetrascience.com/case-studies/accelerating-bioprocessing-purification-at-alexion",
+    "pass": 1
+   },
+   {
+    "quote": "Read the case study to find out how TetraScience helped Alexion:",
+    "url": "https://www.tetrascience.com/case-studies/accelerating-bioprocessing-purification-at-alexion",
+    "pass": 1
+   },
+   {
+    "quote": "Quality & Manufacturing",
+    "url": "https://www.tetrascience.com/case-studies/improving-cmc-with-analytics-ready-chromatography-data",
+    "pass": 1
+   },
+   {
+    "quote": "Scientists in the Chemistry, Manufacturing, and Controls (CMC) division at a top-ten biopharma company specialize in developing methods for purifying biologics. However, they struggled with inefficient data practices. Manually assembling and analyzing heterogeneous sets of chromatography data (from FPLC and UPLC) was far from scalable.",
+    "url": "https://www.tetrascience.com/case-studies/improving-cmc-with-analytics-ready-chromatography-data",
+    "pass": 1
+   },
+   {
+    "quote": "Quality & Manufacturing",
+    "url": "https://www.tetrascience.com/case-studies/unlocking-the-value-of-big-data-in-a-global-biopharma",
+    "pass": 1
+   },
+   {
+    "quote": "This case study explores how the Tetra Scientific Data and AI Platform helped them accomplish their goals by:",
+    "url": "https://www.tetrascience.com/case-studies/unlocking-the-value-of-big-data-in-a-global-biopharma",
+    "pass": 1
+   },
+   {
+    "quote": "Read this case study to learn how TetraScience optimized large scale scientific data.",
+    "url": "https://www.tetrascience.com/case-studies/unlocking-the-value-of-big-data-in-a-global-biopharma",
+    "pass": 1
+   },
+   {
+    "quote": "Quality & Manufacturing",
+    "url": "https://www.tetrascience.com/case-studies/enhanced-sample-tracking-boosts-genotyping-throughput",
+    "pass": 1
+   },
+   {
+    "quote": "Tetra Use Case Factoryは、R&D、製造、および品質ワークフロー全体で本番グレードのAIアプリケーションを提供します",
+    "url": "https://www.databricks.com/jp/blog/how-tetrascience-accelerates-biopharma-production-ready-data-and-scientific-intelligence",
+    "pass": 3
+   },
+   {
+    "quote": "TetraScienceとDatabricksのパートナーシップは、Factoryのユースケースを大規模に実現するエンタープライズ分析基盤を提供します",
+    "url": "https://www.databricks.com/jp/blog/how-tetrascience-accelerates-biopharma-production-ready-data-and-scientific-intelligence",
+    "pass": 3
+   },
+   {
+    "quote": "Factoryのユースケースは、Databricks Intelligence Platformスタックを活用して、最小限の顧客構成で済むノーコードおよびローコード�ワークフローを提供します",
+    "url": "https://www.databricks.com/jp/blog/how-tetrascience-accelerates-biopharma-production-ready-data-and-scientific-intelligence",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "NVIDIA: Japan Develops Next-Generation Drug Design, Healthcare Robotics and Digital Health Platforms",
+    "url": "https://www.tetrascience.com/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-byte character support for Japanese language in workflows",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Tetra Data Platform v3.6 introduces multi-byte character support to empower users in global biopharma organizations who want to use Japanese language.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "伊藤忠テクノソリューションズ株式会社（代表取締役社長：柘植 一郎、本社：東京都港区、略称：CTC）は、TetraScience, Inc.（Chairman & CEO：Patrick Grady、本社：アメリカ合衆国マサチューセッツ州）と、同社の実験データ統合基盤「Tetra Data Platform」について、国内で初めて販売代理店契約を締結し、提供を開始しました",
+    "url": "https://www.ctc-g.co.jp/news/release/20220909-01473.html",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Lab Manager: Breaking Down Data Barriers: How Lab Managers Can Lead the Charge Toward AI-Ready Labs",
+    "url": "https://www.tetrascience.com/company/news",
+    "pass": 1
+   },
+   {
+    "quote": "68 Harrison Avenue, Suite 605 | Boston, MA 02111",
+    "url": "https://www.tetrascience.com/case-studies/accelerating-adme-tox-testing-with-data-science-and-ai",
+    "pass": 1
+   },
+   {
+    "quote": "68 Harrison Avenue, Suite 605 | Boston, MA 02111",
+    "url": "https://www.tetrascience.com/case-studies/streamline-batch-release-workflows-between-signals-notebook-labx-and-tiamo",
+    "pass": 1
+   },
+   {
+    "quote": "68 Harrison Avenue, Suite 605 | Boston, MA 02111",
+    "url": "https://www.tetrascience.com/case-studies/optimizing-quality-testing-with-labware-and-tetrascience",
+    "pass": 1
+   },
+   {
+    "quote": "What If Your CRO Data Was Ready to Use the Moment It Arrived?",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Read about the new File Journey feature in the Tetra Scientific Data and AI Cloud, a part of our TDP v3.6 release. Automatically track file movement, create audit trails, and check pipeline health.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Artificial intelligence (AI) stands on the brink of revolutionizing the biopharmaceutical industry. It promises to slash time to market, lower costs, mitigate risks, and create novel therapies. However, the main barrier to realizing these benefits is not the development of AI models but rather the quality and accessibility of the scientific data that feeds them.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Each one-day delay in getting a drug or therapeutic to market costs biopharmas an average of $1.26 million in lost revenue and/or loss of first-mover advantage.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Slowness to market and lost revenue are not the end of the story. Cloud ‘laggards’ spend 3.7X more on inefficient infrastructure compared to cloud leaders.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "CRO and CDMO data arrives fragmented — zip files, PDFs, Excel reports, Word documents, each formatted differently by each external lab. Every week, scientists spend hours per study downloading deliverables, manually verifying results against protocols, chasing clarification emails, and reconciling formats before the data can be trusted or handed off.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "automates the entire workflow. In this live technical showcase, recorded June 18, 2026, we walk through how Tetra OS ingests CRO deliverables automatically via cloud-share connectors, applies AI-powered parsing and protocol-based QC on arrival, and delivers review-ready data directly into ELNs, LIMS, and other downstream systems — with a full audit trail at every step.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Automated QC and anomaly detection against protocols on arrival — scientists review exceptions, not every data point",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Watch TetraScience CEO Patrick Grady at VivaTech 2025 deliver a candid take on the real barrier to AI in biopharma: data readiness.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how the Tetra File-Log Agent, as part of the Tetra Scientific Data and AI Cloud, simplifies data collection, contextualization, engineering, and retrieval across a wide range of scientific instruments.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "I can look at mini pool performance if that's part of the standard workflow and also cloning, which is what I'm gonna focus on today.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "The engagement with Tetra Sciborgs is a key part of our Tetra Catalysts offering. Our Sciborgs are an elite team of scientific business analysts and scientific data architects embedded in your organization who focus on business outcomes and identify high-impact areas to maximize ROI.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Presented by Ian Cooper, integrations architect at TetraScience, this video is part of the Tetra Product Short Cuts series, which shows what TetraScience does for your scientific data—in short order.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Leading biopharma organizations are reimagining research, development, and delivery of life-saving therapeutics through automated data acquisition, wrangling, and transformation.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Paving the Way to Automated Data Acquisition and Transformation",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "With automated data acquisition across different instruments and lab systems, scientists no longer have to manually locate, transfer, and clean the data.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "68 Harrison Avenue, Suite 605 | Boston, MA 02111",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "68 Harrison Avenue, Suite 605 | Boston, MA 02111",
+    "url": "https://www.tetrascience.com/case-studies/accelerating-bioprocessing-purification-at-alexion",
+    "pass": 1
+   },
+   {
+    "quote": "68 Harrison Avenue, Suite 605 | Boston, MA 02111",
+    "url": "https://www.tetrascience.com/case-studies/improving-cmc-with-analytics-ready-chromatography-data",
+    "pass": 1
+   },
+   {
+    "quote": "68 Harrison Avenue, Suite 605 | Boston, MA 02111",
+    "url": "https://www.tetrascience.com/case-studies/unlocking-the-value-of-big-data-in-a-global-biopharma",
+    "pass": 1
+   },
+   {
+    "quote": "68 Harrison Avenue, Suite 605 | Boston, MA 02111",
+    "url": "https://www.tetrascience.com/case-studies/enhanced-sample-tracking-boosts-genotyping-throughput",
+    "pass": 1
+   },
+   {
+    "quote": "TetraScience Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/tetrascience-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At TetraScience",
+    "url": "https://prospeo.io/c/tetrascience-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/tetrascience-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/tetrascience-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/tetrascience-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of TetraScience?",
+    "url": "https://prospeo.io/c/tetrascience-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "TetraScience generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/tetrascience-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/tetrascience-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/tetrascience-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does TetraScience have?",
+    "url": "https://prospeo.io/c/tetrascience-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/tetrascience-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "The resource has also been sent to your email.",
+    "url": "https://www.tetrascience.com/case-studies/accelerating-adme-tox-testing-with-data-science-and-ai",
+    "pass": 1
+   },
+   {
+    "quote": "The resource has also been sent to your email.",
+    "url": "https://www.tetrascience.com/case-studies/streamline-batch-release-workflows-between-signals-notebook-labx-and-tiamo",
+    "pass": 1
+   },
+   {
+    "quote": "The resource has also been sent to your email.",
+    "url": "https://www.tetrascience.com/case-studies/optimizing-quality-testing-with-labware-and-tetrascience",
+    "pass": 1
+   },
+   {
+    "quote": "CRO and CDMO data arrives fragmented — zip files, PDFs, Excel reports, Word documents, each formatted differently by each external lab. Every week, scientists spend hours per study downloading deliverables, manually verifying results against protocols, chasing clarification emails, and reconciling formats before the data can be trusted or handed off.",
+    "url": "https://www.tetrascience.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "The resource has also been sent to your email.",
+    "url": "https://www.tetrascience.com/case-studies/accelerating-bioprocessing-purification-at-alexion",
+    "pass": 1
+   },
+   {
+    "quote": "The resource has also been sent to your email.",
+    "url": "https://www.tetrascience.com/case-studies/improving-cmc-with-analytics-ready-chromatography-data",
+    "pass": 1
+   },
+   {
+    "quote": "The resource has also been sent to your email.",
+    "url": "https://www.tetrascience.com/case-studies/unlocking-the-value-of-big-data-in-a-global-biopharma",
+    "pass": 1
+   },
+   {
+    "quote": "The resource has also been sent to your email.",
+    "url": "https://www.tetrascience.com/case-studies/enhanced-sample-tracking-boosts-genotyping-throughput",
+    "pass": 1
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/tetrascience-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "TetraScience が本番稼働可能なデータと科学的インテリジェンスでバイ... — Mar 16, 2026 · 製薬業界のAIは、実験データがサイロ化され構造化されていないために失敗していますが、TetraScienceはDatabricksとNVIDIAを使用して、エンタープライズ規模で生の機器出力をAI対応データセットに変換することでこれを解決します。",
+    "url": "https://www.databricks.com/jp/blog/how-tetrascience-accelerates-biopharma-production-ready-data-and-scientific-intelligence",
+    "pass": 3
+   },
+   {
+    "quote": "TetraScience社の実験データ統合基盤「Tetra Data Platform」を国内で... — Sep 9, 2022 · 伊藤忠テクノソリューションズ株式会社（代表取締役社長：柘植 一郎、本社：東京都港区、略称：CTC）は、TetraScience, Inc.（Chairman & CEO：Patrick Grady、本社：アメリカ合衆国マサチューセッツ州）と、同社の実験データ統合基盤「Tetra Data Platform」について ...",
+    "url": "https://www.ctc-g.co.jp/news/release/20220909-01473.html",
+    "pass": 3
+   },
+   {
+    "quote": "TetraScience Launches Scientific AI Lighthouse Program with ... — Oct 23, 2025 · 彼らは現場の研究チームと協働し、文化的・運用的な変革を促進し、サイエンティフィックAIの持続的な導入を支援します。 これらの要素が一体となって、自己強化型の価値創出ループを形成します。",
+    "url": "https://www.tetrascience.com/tetrascience-launches-scientific-ai-lighthouse-program-with-takeda-as-founding-partner",
+    "pass": 3
+   },
+   {
+    "quote": "Tetra OS | The Operating System for Scientific Intelligence — Our collaboration with TetraScience enhances the precision and speed of our quality control processes. By automating manual steps, we're empowering our scientists to focus on innovation that brings essential medicines to women faster and more safely.",
+    "url": "https://www.tetrascience.com/",
+    "pass": 3
+   },
+   {
+    "quote": "米AI企業テトラサイエンス、米分析機器大手サーモフィッシャーサイエ... — Jan 13, 2026 · 本協業により、TetraScienceはThermo Fisher Scientificの分析機器およびインフォマティクスソリューションと統合し、科学データの価値を大規模に ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000171882.html",
+    "pass": 3
+   },
+   {
+    "quote": "TetraScience — Our collaboration with TetraScience enhances the precision and speed of our quality control processes. By automating manual steps, we're empowering our scientists to focus on innovation that brings essential medicines to women faster and more safely.",
+    "url": "https://www.tetrascience.com/",
+    "pass": 3
+   },
+   {
+    "quote": "TetraScience - LinkedIn — TetraScience is the Scientific Data and AI Company building Tetra OS, the operating system for scientific intelligence across discovery, development, and manufacturing.",
+    "url": "https://jp.linkedin.com/company/tetrascience",
+    "pass": 3
+   },
+   {
+    "quote": "TetraScienceのScientific Data Architect - Japan - LinkedIn求人 — TetraScience is the Scientific Data and AI company. We are catalyzing the Scientific AI revolution by designing and industrializing AI-native scientific data sets, which we bring to life in a...",
+    "url": "https://jp.linkedin.com/jobs/view/scientific-data-architect-japan-at-tetrascience-4346110899",
+    "pass": 3
+   },
+   {
+    "quote": "TetraScience Launches Scientific AI Lighthouse Program with ... — Oct 23, 2025 · このプログラムは、AI時代におけるバイオ医薬品の研究開発および製造の進め方を変革するために設計された新しいモデルです。 SAILの創設パートナーである武田薬品は、テトラサイエンスが提供するデータおよびAIの全機能に最初にアクセスできる立場となります。 これにより、AIを活用した創薬の加速、CMCプロセスの短縮、インシリコによるモデリングの推進、そして科学者の生産性向上が可能になります。 このプログラムは、生産性を高め、候補化合物の品質を向上させることにより、バイオ医薬品企業がより低コストかつ低リスクで、より多くの製品を市場に投入できるように設計されています。",
+    "url": "https://www.tetrascience.com/tetrascience-launches-scientific-ai-lighthouse-program-with-takeda-as-founding-partner",
+    "pass": 3
+   },
+   {
+    "quote": "テトラサイエンス、武田薬品を創設パートナーとして「Scientific AI L... — Oct 23, 2025 · TetraScience, Inc.のプレスリリース（2025年10月23日 21時00分）テトラサイエンス、武田薬品を創設パートナーとして「Scientific AI Lighthouse」プログラムを ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000171882.html",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Highlights: Data Replatforming and Engineering — Discover how leading biopharmas boosted productivity, efficiency, and scale by replatforming and engineering their scientific data with TetraScience.",
+    "url": "https://www.tetrascience.com/case-studies/case-study-highlights-data-replatforming-and-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring TetraScience as the Customer — Explore case studies featuring TetraScience as the customer — learn how vendors and partners helped TetraScience solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/tetrascience",
+    "pass": 3
+   },
+   {
+    "quote": "TetraScience 2026 Company Profile: Valuation, Funding ...TetraScience – Valuation, Revenue & Market Scope – 2026TetraScience - 2026 Company Profile, Team, Funding ... - TracxnTetraScience Revenue, Funding & Valuation - prospeo.ioTetraScience Revenue 2024: $24M Est. - getlatka.comAnnual Revenue, Growth & Competitor Analysis Report for ...TetraScience: Funding, Investors & Team (Oct 2026) | FundedIQ",
+    "url": "https://pitchbook.com/profiles/company/109013-05",
+    "pass": 3
+   },
+   {
+    "quote": "TetraScience – Valuation, Revenue & Market Scope – 2026 — Revenue, valuation, and funding figures for TetraScience are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/tetrascience",
+    "pass": 3
+   },
+   {
+    "quote": "TetraScience - 2026 Company Profile, Team, Funding ... - TracxnTetraScience Revenue, Funding & Valuation - prospeo.ioTetraScience Revenue 2024: $24M Est. - getlatka.comAnnual Revenue, Growth & Competitor Analysis Report for ...TetraScience: Funding, Investors & Team (Oct 2026) | FundedIQ — Mar 12, 2026 · TetraScience is a series B company based in Boston (United States), founded in 2014 by Salvato",
+    "url": "https://tracxn.com/d/companies/tetrascience/__9oNnCvwdhCOY5z7uo-2TcqkK5IAIlAgd0zUTOAOsejU",
+    "pass": 3
+   },
+   {
+    "quote": "TetraScience Revenue, Funding & Valuation - prospeo.ioTetraScience Revenue 2024: $24M Est. - getlatka.comAnnual Revenue, Growth & Competitor Analysis Report for ...TetraScience: Funding, Investors & Team (Oct 2026) | FundedIQ — TetraScience has revenue of $11,500,000, estimated valuation of $36,800,000, $80,000,000 in total funding. Find contacts and company information on Prospeo. Oct 30, 2026 · ",
+    "url": "https://prospeo.io/c/tetrascience-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "TetraScience Revenue 2024: $24M Est. - getlatka.com — Oct 30, 2026 · TetraScience is a Scientific Data Management Systems (SDMS) company based in Boston, founded in 2019.",
+    "url": "https://getlatka.com/companies/tetrascience.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "TetraScience on X: \"Honored to have our CEO, Spin Wang, named ... TetraScience on X: \"Honored to have our CEO, Spin Wang, named @ForbesUnder30 All-Star Alumni for 2021. This year has cemented our mission of fueling innovation and accelerating discovery in #lifesciences.",
+    "url": "https://x.com/TetraScience/status/1334220747980599297",
+    "pass": 3
+   },
+   {
+    "quote": "Scilligence (@scilligence) / Posts / X @scilligence and @TetraScience are proud to announce a partnership to develop tools using TetraScience’s Data Integration Platform to automatically collect #data from #instruments, #software, and other sources into Scilligence’s #informatics solutions. lnkd.in/ez4MpQJ",
+    "url": "https://x.com/scilligence",
+    "pass": 3
+   },
+   {
+    "quote": "BioTechX (@BioTechX_) / X Siping Wang, @TetraScience leads an insightful keynote session focusing on Fix the Data, Transform the Science: 4 Learnings when Overcoming AI Challenges in Life Science 🧬 #biotechx",
+    "url": "https://x.com/BioTechX_",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "We have huge news! The #LabOps... - Elemental Machines - Facebook We have huge news! The #LabOps universe is expanding. Elemental Machines is proud to announce our acquisition of the TetraScience Lab Monitoring...",
+    "url": "https://www.facebook.com/elementalmachines/posts/we-have-huge-news-the-labops-universe-is-expanding-elemental-machines-is-proud-t/2905325316387612/",
+    "pass": 3
+   },
+   {
+    "quote": "TetraScience and Organon have... - Corporate Leaders Magazine ... Dec 17, 2025 · TetraScience and Organon have partnered to modernize quality control data management through automated scientific data workflows. The rollout begins in Belgium and is expected to reduce analysis time by up to 30%, improving batch release speed, data integrity, and compliance.",
+    "url": "https://www.facebook.com/corporateleadersmagazine/posts/tetrascience-and-organon-have-partnered-to-modernize-quality-control-data-manage/868317152370667/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Patrick Grady - United States | Professional Profile | LinkedInLearn About TetraScienceTetraScience Launches Scientific AI Lighthouse Program with ...TetraScience: Noise and Signal - Case - Faculty & Research ...米AI企業テトラサイエンス、マット・スタドニー氏を最高顧客責任者に...Faces of Entrepreneurship: Alok Tayi – Founder & CEO of ...TetraScience: Unlocking the Power of Scientific Data About Patrick Grady is the Co-Founder an",
+    "url": "https://www.linkedin.com/in/patrickwgrady",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tetrascience.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/solutions/quality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/solutions/ai-leader",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/solutions/development",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/solutions/research",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/solutions/scientist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/solutions/scientific-it",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/company/news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/company/events",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/case-studies/accelerating-adme-tox-testing-with-data-science-and-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/case-studies/streamline-batch-release-workflows-between-signals-notebook-labx-and-tiamo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/blog/data-integrity-in-biopharma-embracing-alcoa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/case-studies/optimizing-quality-testing-with-labware-and-tetrascience",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/tetra-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/resources",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/case-studies/accelerating-bioprocessing-purification-at-alexion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/case-studies/improving-cmc-with-analytics-ready-chromatography-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/case-studies/unlocking-the-value-of-big-data-in-a-global-biopharma",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tetrascience.com/case-studies/enhanced-sample-tracking-boosts-genotyping-throughput",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/66c75d57c5c045d15a7781e0/66c76a0f1a07a47c07ea69b9_ico_manufacturing.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.databricks.com/jp/blog/how-tetrascience-accelerates-biopharma-production-ready-data-and-scientific-intelligence",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ctc-g.co.jp/news/release/20220909-01473.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/tetrascience",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/jobs/view/scientific-data-architect-japan-at-tetrascience-4346110899",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/customer/tetrascience",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/tetrascience/case-study/a-top-10-pharmaceutical-company-reclaims-375000-a-year-with-tetrascience",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/109013-05",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/tetrascience",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/tetrascience/__9oNnCvwdhCOY5z7uo-2TcqkK5IAIlAgd0zUTOAOsejU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/tetrascience-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TetraScience/status/1334220747980599297",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/scilligence",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/BioTechX_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/elementalmachines/posts/we-have-huge-news-the-labops-universe-is-expanding-elemental-machines-is-proud-t/2905325316387612/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/corporateleadersmagazine/posts/tetrascience-and-organon-have-partnered-to-modernize-quality-control-data-manage/868317152370667/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/patrickwgrady",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tetrascience 日本 導入",
+   "results": [
+    "https://www.databricks.com/jp/blog/how-tetrascience-accelerates-biopharma-production-ready-data-and-scientific-intelligence",
+    "https://www.ctc-g.co.jp/news/release/20220909-01473.html",
+    "https://www.tetrascience.com/tetrascience-launches-scientific-ai-lighthouse-program-with-takeda-as-founding-partner",
+    "https://www.tetrascience.com/",
+    "https://prtimes.jp/main/html/rd/p/000000004.000171882.html",
+    "https://www.ctc-g.co.jp/solutions/cloud/solution/analytics/tetradataplatform.html",
+    "https://prtimes.jp/main/html/rd/p/000000001.000171882.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tetrascience 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://www.cosmobio.co.jp/agency/brevitycode.asp",
+    "https://www.tcichemicals.com/JP/ja/search/advancedMultipleSearch",
+    "https://japanesedistributors.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tetrascience Japan",
+   "results": [
+    "https://www.tetrascience.com/",
+    "https://jp.linkedin.com/company/tetrascience",
+    "https://jp.linkedin.com/jobs/view/scientific-data-architect-japan-at-tetrascience-4346110899",
+    "https://www.tetrascience.com/tetrascience-launches-scientific-ai-lighthouse-program-with-takeda-as-founding-partner",
+    "https://prtimes.jp/main/html/rd/p/000000001.000171882.html",
+    "https://prtimes.jp/main/html/rd/p/000000004.000171882.html",
+    "https://tetra-inc.jp/about-2/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tetrascience manufacturing customer case study",
+   "results": [
+    "https://www.tetrascience.com/case-studies/case-study-highlights-data-analytics-and-scientific-ai",
+    "https://www.tetrascience.com/case-studies/case-study-highlights-data-replatforming-and-engineering",
+    "https://www.casestudies.com/customer/tetrascience",
+    "https://www.casestudies.com/company/tetrascience/case-study/a-top-10-pharmaceutical-company-reclaims-375000-a-year-with-tetrascience",
+    "https://go.tetrascience.com/rs/152-SBL-014/images/case-study-highlights-data-replatforming-and-engineering.pdf?version=0",
+    "https://www.featuredcustomers.com/vendor/tetrascience/case-studies",
+    "https://developers.tetrascience.com/v4.4/docs/tetra-data-platform-use-case-examples"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tetrascience white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tetrascience founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/109013-05",
+    "https://compworth.com/company/tetrascience",
+    "https://tracxn.com/d/companies/tetrascience/__9oNnCvwdhCOY5z7uo-2TcqkK5IAIlAgd0zUTOAOsejU",
+    "https://prospeo.io/c/tetrascience-revenue",
+    "https://getlatka.com/companies/tetrascience.com",
+    "https://incfact.com/company/tetrascience-boston-ma/",
+    "https://fundediq.co/tetrascience-tetrascience-com-funding/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tetrascience",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/akikito/n/nf70fa7eb5905",
+    "https://note.com/fond_clam2634/n/n06d26defb95d",
+    "https://note.com/kawaidesign/n/n9f6890665e5b",
+    "https://note.com/on_consul/n/n2e1165fffbb0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tetrascience",
+   "results": [
+    "https://x.com/TetraScience/status/1334220747980599297",
+    "https://x.com/",
+    "https://x.com/scilligence",
+    "https://x.com/BioTechX_",
+    "https://x.com/popbase/status/2117801288058470860",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tetrascience",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Tetrascience",
+   "results": [
+    "https://www.facebook.com/elementalmachines/posts/we-have-huge-news-the-labops-universe-is-expanding-elemental-machines-is-proud-t/2905325316387612/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/corporateleadersmagazine/posts/tetrascience-and-organon-have-partnered-to-modernize-quality-control-data-manage/868317152370667/",
+    "https://www.facebook.com/codeoceanhq/posts/code-ocean-recently-joined-the-tetrascience-partner-network-and-we-are-excited-t/724212459580684/",
+    "https://www.facebook.com/public/Pat-Grady/",
+    "https://www.facebook.com/digiscience/posts/we-are-thrilled-to-announce-that-we-have-invested-in-tetrascience-a-boston-based/1056855637738696/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tetrascience note 社長",
+   "results": [
+    "https://www.linkedin.com/in/patrickwgrady",
+    "https://www.tetrascience.com/company/about",
+    "https://www.tetrascience.com/tetrascience-launches-scientific-ai-lighthouse-program-with-takeda-as-founding-partner",
+    "https://www.hbs.edu/faculty/Pages/item.aspx?num=64721",
+    "https://www.hbs.edu/faculty/Pages/item.aspx?num=64880",
+    "https://prtimes.jp/main/html/rd/p/000000005.000171882.html",
+    "https://nasdaqcenter.org/2018/05/29/faces-of-entrepreneurship-alok-tayi-tetrascience/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tetrascience X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部24頁・検索12回）"
+ }
+}

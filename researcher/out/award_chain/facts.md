@@ -1,4 +1,4 @@
-# 一都三県 表彰・認定リスト起点の芋づる式リスト（資本金1億円以上・自動車除く）— 事業内容・資本金・設立・株主・取引先（事実のみ・67社）
+# 一都三県 表彰・認定リスト起点の芋づる式リスト（資本金1億円以上・自動車除く）— 事業内容・資本金・設立・株主・取引先（事実のみ・68社）
 
 ## Ashirase
 - 公式URL：https://www.ashirase.com/（given）
@@ -2689,6 +2689,93 @@ NTTエレクトロニクステクノ株式会社
 - 株主：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部22頁・検索11回）
 - 資本金・株主：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部22頁・検索11回）
 - 表彰・認定の記録：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部22頁・検索11回）
+
+## サンコーテクノ
+- 公式URL：https://sanko-techno.co.jp/（given）
+- 事業内容：建設資材（あと施工アンカー・ドリルビット・ファスナー等）、複合材、各種測定器の企画開発・製造・販売・施工および輸出入（https://sanko-techno.co.jp/company/overview/・1回目）
+- 事業内容：小型鉄筋カッターやベンダー製品を中心とした電動油圧工具の製造・販売（https://sanko-techno.co.jp/philosophy/?target=grp_company_title・1回目）
+- 事業内容：電子プリント基板の回路設計・実装（マウント）など、一貫生産・販売（https://sanko-techno.co.jp/philosophy/?target=grp_company_title・1回目）
+- 資本金：768百万円（https://sanko-techno.co.jp/company/overview/・1回目）
+- 資本金：768百万円（https://sanko-techno-recruit.com/company/・3回目）
+- 資本金：768(百万円) 
+                                            (2026/3現在) 
+                                            日本基準（https://www.nikkei.com/nkd/company/gaiyo/?scode=3435・3回目）
+- 創業年度：設　立：1964年（昭和39年）5月15日（https://sanko-techno.co.jp/company/overview/・1回目）
+- 創業年度：設立：1964年5月15日（https://sanko-techno-recruit.com/company/・3回目）
+- 創業年度：設立年月日：1964年5月15日（https://www.nikkei.com/nkd/company/gaiyo/?scode=3435・3回目）
+- 従業員数：単体：345名（75） 連結：850名（263） ※2026年3月31日現在／カッコは平均臨時雇用者数（外数）（https://sanko-techno.co.jp/company/overview/・1回目）
+- 従業員数：353名（連結713名） （2025年3月31日現在）（https://sanko-techno-recruit.com/company/・3回目）
+- 従業員数：345 人（https://www.nikkei.com/nkd/company/gaiyo/?scode=3435・3回目）
+- 売上高：217.6億円(グループ合計、2026年3月期)（https://www.sbic.co.jp/investeecompany/detail/index.php?id=423・3回目）
+- 所在地：千葉県流山市南流山三丁目10番地16 TEL：04-7157-3535　FAX：04-7178-6661 JR武蔵野線「南流山」駅 南口 徒歩3分　　つくばエクスプレス線「南流山」駅 A1出口 徒歩３分 Google Map　　＞（https://sanko-techno.co.jp/company/overview/・1回目）
+- 所在地：〒410-0001 静岡県沼津市足高396-59（https://sanko-techno.co.jp/philosophy/?target=grp_company_title・1回目）
+- 所在地：〒270-0107 千葉県流山市西深井1028-7（https://sanko-techno.co.jp/philosophy/?target=grp_company_title・1回目）
+- 代表者：代表取締役社長　洞下　英人（ほらげ　ひでと）（https://sanko-techno.co.jp/company/overview/・1回目）
+- 代表者：代表取締役社長 洞下 英人（ほらげ ひでと）（https://sanko-techno-recruit.com/company/・3回目）
+- 代表者：洞下　英人（https://www.nikkei.com/nkd/company/gaiyo/?scode=3435・3回目）
+- 売上の柱（何で稼ぐか）：
+  - 「（１）当社取締役会は、株主に対する受託者責任・説明責任を踏まえ、会社の持続的成長と中長期的な企業価値の向上を促し、収益力・資本効率等の改善を図るべく、以下の役割・責務を適切に果たすよう努める」（https://sanko-techno.co.jp/company/corporate_governance/・1回目）
+  - 「建設資材（あと施工アンカー・ドリルビット・ファスナー等）、複合材、各種測定器の企画開発・製造・販売・施工および輸出入」（https://sanko-techno.co.jp/company/overview/・1回目）
+  - 「千葉県流山市に三幸工業株式会社を設立・オールアンカー製造開始」（https://sanko-techno.co.jp/company/history/・1回目）
+  - 「呼気アルコール測定器SG358-Sを販売開始」（https://sanko-techno.co.jp/company/history/・1回目）
+  - 「オールコアドリルL150シリーズを販売開始」（https://sanko-techno.co.jp/company/history/・1回目）
+  - 「呼気アルコール検知器ST-3000を販売開始」（https://sanko-techno.co.jp/company/history/・1回目）
+  - 「サイズミックエコフィラー SE-550を販売開始」（https://sanko-techno.co.jp/company/history/・1回目）
+  - 「サイズミックエコフィラー SE-150を販売開始」（https://sanko-techno.co.jp/company/history/・1回目）
+  - 「呼気アルコール検知器ALC Face ST-2000を販売開始」（https://sanko-techno.co.jp/company/history/・1回目）
+  - 「紫外線LED照射器e-キュア UVライトを販売開始」（https://sanko-techno.co.jp/company/history/・1回目）
+  - 「サイズミックエコフィラー SE-1300Vを販売開始」（https://sanko-techno.co.jp/company/history/・1回目）
+  - 「メタルアンダーカットアンカー スマートタイプを販売開始」（https://sanko-techno.co.jp/company/history/・1回目）
+- 客は誰か：
+  - 「サンコーテクノ株式会社｜投資企業検索｜東京中小企業投資育成株式会社」（https://www.sbic.co.jp/investeecompany/detail/index.php?id=423・3回目）
+  - 「中小企業投資育成が認定する2,666社の優良企業」（https://www.sbic.co.jp/investeecompany/detail/index.php?id=423・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「（２）当社取締役会は、開示・提供する情報が株主との間で建設的な対話を行う上での基盤となることも踏まえ、そうした情報が、正確で利用者にとって分かりやすく、情報として有用性の高いものとなるよう努める」（https://sanko-techno.co.jp/company/corporate_governance/・1回目）
+  - 「（１）当社は、持続的な成長と中長期的な企業価値の向上に資するため、株主総会の場以外においても、株主との間で建設的な対話を行う」（https://sanko-techno.co.jp/company/corporate_governance/・1回目）
+  - 「みずほ銀行 三井住友銀行 千葉銀行 りそな銀行 常陽銀行」（https://sanko-techno.co.jp/company/overview/・1回目）
+  - 「建設資材（あと施工アンカー・ドリルビット・ファスナー等）、複合材、各種測定器の企画開発・製造・販売・施工および輸出入」（https://sanko-techno.co.jp/company/overview/・1回目）
+  - 「千葉県関宿町(現 野田市）に関宿工場（現 野田工場）を開設」（https://sanko-techno.co.jp/company/history/・1回目）
+  - 「千葉県流山市西深井に中央物流センター（自動倉庫）を開設」（https://sanko-techno.co.jp/company/history/・1回目）
+  - 「当社は、東京の地で初めてオリンピックが開催された1964年に創立し、コンクリートに物を取り付ける際に使用する「あと施工アンカー」をはじめ、ドリルビットやファスナーなど、建設資材の開発・製造・販売のほか、耐震補強や太陽光関連の工事管理、アルコール検知器やFRPシートの製造・販売など、「安全・安心・環境」をキーワードに幅広く事業展開してきました」（https://sanko-techno.co.jp/philosophy/?target=grp_company_title・1回目）
+  - 「あと施工アンカーをはじめとした建設資材の開発・製造・販売を行うファスニング関連と、」（https://sanko-techno.co.jp/philosophy/?target=grp_company_title・1回目）
+  - 「あと施工アンカーを中心とするドリル、ファスナー等の建設資材の企画開発・原料調達・製造・販売にとどまらず、施工ツールや強度確認試験機などを取り揃え、一貫した価値（トータルファスニングシステム）を創造し、提供しています」（https://sanko-techno.co.jp/philosophy/?target=grp_company_title・1回目）
+  - 「高度経済成長期の建設ラッシュで生まれた各種構造物は、時間の経過とともに劣化し、地震などの災害に対する耐久性が低下しているなど、さまざまな危険性を抱えています」（https://sanko-techno.co.jp/philosophy/?target=grp_company_title・1回目）
+  - 「当社では、あと施工アンカーをはじめとする締結技術を応用して耐震補強工事に活かすなど、学校や病院、高速道路や鉄道の橋脚など、各種構造物を守るための工法開発や工事管理を行っています」（https://sanko-techno.co.jp/philosophy/?target=grp_company_title・1回目）
+  - 「包装・物流機器関連という4つのセグメントから構成されており、」（https://sanko-techno.co.jp/philosophy/?target=grp_company_title・1回目）
+- 資本金・株主：
+  - 「海外連結子会社におけるランサムウェア被害の発生に関するお知らせ（最終報）」（https://sanko-techno.co.jp/・1回目）
+  - 「海外連結子会社におけるランサムウェア被害の発生に関するお知らせ（最終報）」（https://sanko-techno.co.jp/company/corporate_governance/・1回目）
+  - 「1. 株主の権利・平等性の確保」（https://sanko-techno.co.jp/company/corporate_governance/・1回目）
+  - 「（１）当社は、株主の権利が実質的に確保されるよう適切な対応を行うとともに、株主がその権利を適切に行使することができる環境の整備を行う」（https://sanko-techno.co.jp/company/corporate_governance/・1回目）
+  - 「（２）当社は、株主の実質的な平等性を確保する観点から、少数株主等の権利の実質的確保や、権利行使に係る環境及び実質的な平等性確保について、十分な配慮を行う」（https://sanko-techno.co.jp/company/corporate_governance/・1回目）
+  - 「2. 株主以外のステークホルダーとの適切な協働」（https://sanko-techno.co.jp/company/corporate_governance/・1回目）
+  - 「（１）当社は、会社の持続的な成長と中長期的な企業価値の創出は、株主以外の様々なステークホルダーによるリソースの提供や貢献の結果であることを十分に認識し、これらのステークホルダーとの適切な協働に努める」（https://sanko-techno.co.jp/company/corporate_governance/・1回目）
+  - 「（２）当社取締役会は、開示・提供する情報が株主との間で建設的な対話を行う上での基盤となることも踏まえ、そうした情報が、正確で利用者にとって分かりやすく、情報として有用性の高いものとなるよう努める」（https://sanko-techno.co.jp/company/corporate_governance/・1回目）
+  - 「（１）当社取締役会は、株主に対する受託者責任・説明責任を踏まえ、会社の持続的成長と中長期的な企業価値の向上を促し、収益力・資本効率等の改善を図るべく、以下の役割・責務を適切に果たすよう努める」（https://sanko-techno.co.jp/company/corporate_governance/・1回目）
+  - 「5. 株主との対話」（https://sanko-techno.co.jp/company/corporate_governance/・1回目）
+  - 「（１）当社は、持続的な成長と中長期的な企業価値の向上に資するため、株主総会の場以外においても、株主との間で建設的な対話を行う」（https://sanko-techno.co.jp/company/corporate_governance/・1回目）
+  - 「（２）取締役・経営陣幹部は、こうした対話を通じて株主の声に耳を傾け、その関心・懸念に正当な関心を払うとともに、自らの経営方針を株主に分かりやすい形で明確に説明しその理解を得る努力を行い、株主を含むステークホルダーの立場に関するバランスのとれた理解と、そうした理解を踏まえた適切な対応に努める」（https://sanko-techno.co.jp/company/corporate_governance/・1回目）
+- 表彰・認定の記録：
+  - 「― 研修を提供するベンダー選定時に重視したポイントと、Polaris.AIをお選びいただいた決め手を教えてください」（https://polarisai.co.jp/case/case_013・3回目）
+  - 「そのため、ベンダー選定にあたっては、単に技術力があるだけでなく、社内の現状を正確に把握し、それに基づいたカリキュラムを作成・提供できるかどうかを重視しました」（https://polarisai.co.jp/case/case_013・3回目）
+  - 「設備架台を屋上に設置する場合は、アンカーによる固定方法だけでなく、設備を支える基礎そのものの選定も重要です」（https://www.foundation-kihonoki.com/manufacturer-list/sanko-techno.html・3回目）
+  - 「施工現場ごとの制約（地下埋設物・根入不足・騒音規制など）に合わせて基礎を選定できる」（https://www.foundation-kihonoki.com/manufacturer-list/sanko-techno.html・3回目）
+  - 「中小企業投資育成が認定する2,666社の優良企業」（https://www.sbic.co.jp/investeecompany/detail/index.php?id=423・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 - あと施工アンカーの サンコーテクノ — 会社概要 - あと施工アンカーの サンコーテクノ sanko-techno.co.jp https://sanko-techno.co.jp > 企業情報」（https://sanko-techno.co.jp/company/overview/・3回目）
+  - 「会社 を知る | サンコーテクノ 株式 会社 リクルートサイト — 会社 を知る | サンコーテクノ 株式 会社 リクルートサイト sanko-techno-recruit.com https://sanko-techno-recruit.com > company」（https://sanko-techno-recruit.com/company/・3回目）
+  - 「【 サンコーテクノ 】[3435]企業 概要 社員数や役員報酬・ 資本金 — 【 サンコーテクノ 】[3435]企業 概要 社員数や役員報酬・ 資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo」（https://www.nikkei.com/nkd/company/gaiyo/?scode=3435・3回目）
+  - 「サンコーテクノ 株式 会社 - 中小企業投資育成 — サンコーテクノ 株式 会社 - 中小企業投資育成 中小企業投資育成 https://www.sbic.co.jp > investeecompany > detail」（https://www.sbic.co.jp/investeecompany/detail/index.php?id=423・3回目）
+  - 「サンコーテクノ 株式 会社 洞下 英人 - 日本の社長.tv — サンコーテクノ 株式 会社 洞下 英人 - 日本の社長.tv 日本の社長.tv https://j-president.net > chiba > sanko-techno」（https://j-president.net/chiba/sanko-techno/・3回目）
+  - 「業績ハイライト（連結） - あと施工アンカーの サンコーテクノ — 業績ハイライト（連結） - あと施工アンカーの サンコーテクノ sanko-techno.co.jp https://sanko-techno.co.jp > IR情報 > 財務情報」（https://sanko-techno.co.jp/ir/zaimuinfo/performance_highlights/・3回目）
+  - 「【 サンコーテクノ 】[3435]決算発表や業務・財務情報 | 日経 ... — 【 サンコーテクノ 】[3435]決算発表や業務・財務情報 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kessan」（https://www.nikkei.com/nkd/company/kessan/?scode=3435・3回目）
+  - 「事業 の概況 - あと施工アンカーの サンコーテクノ — 事業 の概況 - あと施工アンカーの サンコーテクノ sanko-techno.co.jp https://sanko-techno.co.jp > IR情報 > 財務情報」（https://sanko-techno.co.jp/ir/zaimuinfo/business_overview/・3回目）
+  - 「会社を知る | サンコーテクノ 株式会社リクルートサイト — 会社を知る | サンコーテクノ 株式会社リクルートサイト sanko-techno-recruit.com https://sanko-techno-recruit.com > company」（https://sanko-techno-recruit.com/company/・3回目）
+  - 「サンコーテクノ 株式会社 中期経営計画 - EDINET DB — サンコーテクノ 株式会社 中期経営計画 - EDINET DB EDINET DB https://edinetdb.jp > サンコーテクノ株式会社 > IR資料」（https://edinetdb.jp/company/E01462/midterm-plans/・3回目）
+  - 「株式基本情報 - あと施工アンカーの サンコーテクノ — 株式基本情報 - あと施工アンカーの サンコーテクノ sanko-techno.co.jp https://sanko-techno.co.jp > IR情報 > 株主・株式情報」（https://sanko-techno.co.jp/ir/stock_info/basic_info/・3回目）
+  - 「【 サンコーテクノ 】[3435]適時開示情報 株主 総会や定款関連 — 【 サンコーテクノ 】[3435]適時開示情報 株主 総会や定款関連 日本経済新聞 https://www.nikkei.com > nkd > company > disclose」（https://www.nikkei.com/nkd/company/disclose/?scode=3435・3回目）
+- 株主：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部25頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式7頁／PDF・画像0件／外部25頁・検索11回）
 
 ## ザインエレクトロニクス
 - 公式URL：https://www.thine.co.jp/（given）

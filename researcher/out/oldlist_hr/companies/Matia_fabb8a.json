@@ -1,0 +1,1269 @@
+{
+ "name": "Matia",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜育成",
+ "researched_at": "2026-11-11T18:32:04.569979+00:00",
+ "official_url": "https://www.matia.io/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Fix the Data Stack. Join Our Live Product Demo.",
+    "url": "https://www.matia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Hit with yearly price hikes.",
+    "url": "https://www.matia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Catch problems before they become pipeline failures",
+    "url": "https://www.matia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Matia monitors at the source, so problems (like schema changes and anomalies) get flagged before they reach your warehouse. And when something does need fixing, full lineage provides end-to-end context.",
+    "url": "https://www.matia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Replace Fivetran, Reverse ETL, Observability and Catalog tools with one predictable bill. And save on your Snowflake or Databricks compute costs with Matia’s parallel syncs.",
+    "url": "https://www.matia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Matia has been huge for us. We've seen significant improvements in reliability, fault tolerance, and product velocity compared to the alternative and reduced our sync ime by more than 80%.\"",
+    "url": "https://www.matia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"When it comes to reliable data, Matia delivers. From a technical perspective, the product is superior and the velocity with which they are able to ship new features is impressive\"",
+    "url": "https://www.matia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Moving to Matia, our goal was to unify siloed systems to move data faster and more reliably. The Matia platform has lived up to the hype and more. Having a single source of truth for data means our engineers can focus on our product innovation, instead of fixing broken and inconsistent data pipelines.\"",
+    "url": "https://www.matia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay ahead with the latest insights and best practices from Matia’s experts",
+    "url": "https://www.matia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "To manage your consent preferences, please review the options available and make your selections accordingly. This process allows you to control how your data is used, ensuring that your privacy is respected while enhancing your browsing experience.",
+    "url": "https://www.matia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "and impressive customer support.",
+    "url": "https://www.matia.io/company",
+    "pass": 1
+   },
+   {
+    "quote": "Fix the Data Stack. Join Our Live Product Demo.",
+    "url": "https://www.matia.io/company",
+    "pass": 1
+   },
+   {
+    "quote": "So they spoke to more than 100 data leaders about the problems they were seeing, and the response was clear: If they could find a way to move, monitor and view data in one integrated platform, and provide deeper observability earlier in data pipelines, they would sign up.",
+    "url": "https://www.matia.io/company",
+    "pass": 1
+   },
+   {
+    "quote": "A lot of people are big ideas people or meticulous executors. We’re both. We challenge assumptions, explore ambiguous ideas, and make sure we bring them to life with precision and focus.",
+    "url": "https://www.matia.io/company",
+    "pass": 1
+   },
+   {
+    "quote": "Interested in joining the team? Our GTM Team is based remotely in North America, with our R&D presence in Tel Aviv.",
+    "url": "https://www.matia.io/company",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Designer",
+    "url": "https://www.matia.io/company",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Technical Product Manager",
+    "url": "https://www.matia.io/company",
+    "pass": 1
+   },
+   {
+    "quote": "Remote (USA), New York Preferred",
+    "url": "https://www.matia.io/company",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Development Representative",
+    "url": "https://www.matia.io/company",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Software Engineer",
+    "url": "https://www.matia.io/company",
+    "pass": 1
+   },
+   {
+    "quote": "Fix the Data Stack. Join Our Live Product Demo.",
+    "url": "https://www.matia.io/amazon-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Harness the Power of Amazon Marketing Cloud with Matia",
+    "url": "https://www.matia.io/amazon-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock the potential of your Amazon data by seamlessly integrating Matia with Amazon. This empowers you to create a comprehensive 360-degree view of your marketing and sales channels.",
+    "url": "https://www.matia.io/amazon-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Stay competitive on Amazon by effortlessly harnessing an extensive array of data. Matia Analytics Cloud not only expands the scope of your data but also automates its collection, providing your team with the crucial information needed for effective competition.",
+    "url": "https://www.matia.io/amazon-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Craft your reports and dashboards using our user-friendly interface. Utilize pre-built templates or unleash your creativity to design your own, enabling you to gain actionable insights into your Amazon data.",
+    "url": "https://www.matia.io/amazon-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Matia Pricing: ETL, Reverse ETL, Observability & Catalog",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "and impressive customer support.",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Fix the Data Stack. Join Our Live Product Demo.",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No suprises. Pricing that scales with your company. Get more with Matia's all-in-one data infrastructure platform. Bundle the platform together or pay separately",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Platform: 10 users, 7 day audit logs, dbt core + cloud integration, comprehensive performance dashboard",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "ETL: 15 minute sync times, column hashing, enterprise connectors, webhook connectors, Matia Rest API",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Reverse ETL: 2 destinations, 4 hour syncs, enterprise destinations",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "+ Everything in Professional, plus",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Connectors",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Destinations",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AWS Private Link Support",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We're thinking of migrating from Fivetran or Airbyte. What's the migration process like?",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "- anomaly detection can also be done much earlier in the ingestion and data pipeline process, and prevent faulty data from being synced to your warehouse, or sending to your SaaS tools.",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Additionally, Matia has proven to increase reliability, fault tolerance and sync speed, especially when it comes to database replication with Postgres or MongoDB, compared to alternatives. Companies like",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We have more than 100, and are growing by the day. Our engineering team moves fast, and for enterprise customers, can spin up",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "When it comes to reliable data, Matia delivers. From a technical perspective, the product is superior and the velocity with which they are able to ship new features is impressive.",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Moving to Matia, our goal was to unify siloed systems to move data faster and more reliably. The Matia Platform has lived up to the hype and more. Having a single source of truth for data means our engineers can focus on our product innovation, instead of fixing broken and inconsistent data pipelines.",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Matia has been huge for us. We've seen significant improvements in reliability, fault tolerance, and product velocity compared to the alternative and reduced our sync time by more than 80%.",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Resources | Curated content for people who care about data",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "and impressive customer support.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Fix the Data Stack. Join Our Live Product Demo.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Curated content for people who care about data",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Get the latest updates and exclusive content.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "May–July 2026 Product Updates: New Connectors, Reverse ETL, and Lineage Improvements",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Announcing RBAC in Matia: Enterprise-Ready Access Control for AI-Driven Data Teams",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "New Launch: Enterprise RBAC in Matia centralizes access control for AI-driven data teams with audit logs, role templates, and unified governance",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "PostgreSQL 18: New Features, Performance Improvements & What's New for Data Engineers",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "PostgreSQL 18 brings 3x faster performance with async I/O, UUIDv7 support, skip scan optimization, and virtual columns for modern data workloads.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Data leader 30-60 day plan with team charter, RACI chart, and project prioritization to drive early impact with data & AI",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Detect and alert on schema drift in Snowflake with snapshots, impact tagging, and Slack/email alerts to protect data pipelines from silent failures.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to build a Reverse ETL pipeline from Snowflake to Salesforce, compare manual vs managed approaches, and streamline GTM data activation.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Ramp faced ETL system issues affecting key processes. With Matia, data syncs dropped from 3.5 days to 4 hours, boosting continuity and productivity.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Matia now traces lineage through Snowflake stored procedures and dynamic tables, and Matia MCP brings that context to CoCo and Cortex Agents.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "September 2026 Product Updates: Matia MCP Goes GA",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Matia MCP moves from private preview to general availability, plus new connectors for Workday, Superfiliate, Navan, and Linear.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Monitor data flows and catch errors at the source before they reach your warehouse.",
+    "url": "https://www.matia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Move data from any source into your warehouse, reliably and at scale.",
+    "url": "https://www.matia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Send warehouse data back to operational tools to power real-time business decisions.",
+    "url": "https://www.matia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Matia monitors at the source, so problems (like schema changes and anomalies) get flagged before they reach your warehouse. And when something does need fixing, full lineage provides end-to-end context.",
+    "url": "https://www.matia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Lower warehouse costs",
+    "url": "https://www.matia.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Configure your data sources and destinations effortlessly, including integration with reporting tools and data warehouses.",
+    "url": "https://www.matia.io/amazon-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "- anomaly detection can also be done much earlier in the ingestion and data pipeline process, and prevent faulty data from being synced to your warehouse, or sending to your SaaS tools.",
+    "url": "https://www.matia.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Sync PlanetScale to Your Data Warehouse with Matia",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Matia now syncs PlanetScale and self-hosted Vitess to your warehouse, with full refreshes and incremental replication through VStream.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Reverse ETL for Data Engineers: How to Sync Your Warehouse Back to Salesforce and HubSpot",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how data engineers solve last-mile analytics by syncing warehouse data to Salesforce and HubSpot without brittle API scripts.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Parallel Syncs: Cutting Waste at the Warehouse",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Matia’s parallel syncs accelerate data ingestion pipelines, reduce stale reporting, and lower data warehouse costs.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Matia's Catalog now connects to Omni, giving data teams column-level lineage from source through warehouse all the way to the dashboard, in one",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Matia's Catalog now connects to Omni, giving data teams column-level lineage from source through warehouse all the way to the dashboard.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "ETL Built the Warehouse. Reverse ETL Put It to Work.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "The Complete Guide to Data Warehouse Migration: Part 3, Challenges and Optimizations",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to manage dual systems, reduce tool sprawl, and optimize performance, cost, and reliability after data warehouse migration.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "The Complete Guide to Data Warehouse Migration: Part 2, Technical Execution",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to execute data warehouse migration with schema translation, CDC, validation, pipeline modernization, and cutover best practices.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "The Complete Guide to Data Warehouse Migration: Part 1, Strategy and Planning",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Part one of a series on data warehouse migration. This guide covers platform selection, cost analysis, and strategies to modernize for AI and scale.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Email to Data Warehouse Automation: Matia's Email Connector for Data Teams",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Automate email attachments to your data warehouse. Matia turns CSV & JSON files into query-ready data—no manual uploads needed.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Matia’s parallel syncs speed up ETL & database replication with multi-stream data pipelines that boost performance and cut compute and warehouse costs",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Reverse ETL moves data from your warehouse into tools like Salesforce and Slack so teams can act on insights without technical help",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Ramp’s Ryan Delgado shares why simplicity wins in data platforms, how AI accelerates engineering, and what’s next for BI and warehouses.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse: Databricks",
+    "url": "https://www.matia.io/blog/how-one-fintech-company-solved-data-pipeline-reliability-with-matia",
+    "pass": 1
+   },
+   {
+    "quote": "At the end of the implementation, Obligo was thrilled that the Matia did exactly what it promised to do. Move data reliably to their warehouse and datalake.",
+    "url": "https://www.matia.io/blog/how-one-fintech-company-solved-data-pipeline-reliability-with-matia",
+    "pass": 1
+   },
+   {
+    "quote": ". Fivetran gets data into the warehouse. Getting it back out to Salesforce or HubSpot requires a separate tool like Census or Hightouch, which comes with its own contract and its own pricing model to manage.",
+    "url": "https://www.matia.io/blog/fivetran-pricing-in-2026-how-monthly-active-rows-affect-your-true-etl-cost",
+    "pass": 1
+   },
+   {
+    "quote": "The third is observability. When a schema changes upstream and Fivetran pushes that change into the warehouse, downstream models break. Catching those issues requires a standalone observability tool like Monte Carlo, adding another vendor to the stack.",
+    "url": "https://www.matia.io/blog/fivetran-pricing-in-2026-how-monthly-active-rows-affect-your-true-etl-cost",
+    "pass": 1
+   },
+   {
+    "quote": "A significant portion of our customers already use Snowflake as their warehouse of choice, and we’ve built Matia with that in mind.",
+    "url": "https://www.matia.io/blog/matia-joins-the-snowflake-partner-network-at-the-select-tier",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Every company claims to be customer centric and trust us, we love our customers, but at the heart of Matia sits our employees. These are the cultural we’ve built and will continue to build.",
+    "url": "https://www.matia.io/company",
+    "pass": 1
+   },
+   {
+    "quote": "Stay competitive on Amazon by effortlessly harnessing an extensive array of data. Matia Analytics Cloud not only expands the scope of your data but also automates its collection, providing your team with the crucial information needed for effective competition.",
+    "url": "https://www.matia.io/amazon-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Breaking the Replication Speed Barrier: How Matia's Parallel Syncs Transform Database Replication",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Overall, Matia has become an integral part of Obligo’s data infrastructure and operations, providing the reliability, support, and scalability necessary for the company's continued growth and success.",
+    "url": "https://www.matia.io/blog/how-one-fintech-company-solved-data-pipeline-reliability-with-matia",
+    "pass": 1
+   },
+   {
+    "quote": "Then the invoice arrived six months later and the number was completely disconnected from your estimates.",
+    "url": "https://www.matia.io/blog/fivetran-pricing-in-2026-how-monthly-active-rows-affect-your-true-etl-cost",
+    "pass": 1
+   },
+   {
+    "quote": ". Pipelines, connectors, and configs carry over in days.",
+    "url": "https://www.matia.io/blog/fivetran-pricing-in-2026-how-monthly-active-rows-affect-your-true-etl-cost",
+    "pass": 1
+   },
+   {
+    "quote": "Software licensing is only one part of the equation.",
+    "url": "https://www.matia.io/blog/etl-pricing-guide",
+    "pass": 1
+   },
+   {
+    "quote": "Many teams discover that ETL is only one part of their data infrastructure spend. Matia helps organizations consolidate multiple data tools into a unified platform, reducing complexity while improving visibility into total cost of ownership. Book a demo to learn more.",
+    "url": "https://www.matia.io/blog/etl-pricing-guide",
+    "pass": 1
+   },
+   {
+    "quote": "USB devices (iPods, USB ﬂ ash drives, digital cameras, etc.).",
+    "url": "http://matias.ca/usb2keyboard/support/resources/FK105-JP_Manual_WEB.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "USB 2.0 KEYBOARD LIMITED WARRANTY",
+    "url": "http://matias.ca/usb2keyboard/support/resources/FK105-JP_Manual_WEB.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Matias Corporation (“Matias”) warrants to the original end user",
+    "url": "http://matias.ca/usb2keyboard/support/resources/FK105-JP_Manual_WEB.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "under this express warranty shall be (at Matias’ option and expense) to",
+    "url": "http://matias.ca/usb2keyboard/support/resources/FK105-JP_Manual_WEB.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "kind, or for loss of revenue or profits, loss of business, loss of information",
+    "url": "http://matias.ca/usb2keyboard/support/resources/FK105-JP_Manual_WEB.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Early customers of the platform include data and AI teams from companies such as Ramp, Honeybook, Obligo, and others. Matia has offices in Tel Aviv and Miami and currently has around 20 employees.",
+    "url": "https://www.calcalistech.com/ctechnews/article/rjvjrnrekg",
+    "pass": 3
+   },
+   {
+    "quote": "Months after setting its sights on Miami, AI security startup Pillar to be acquired by Vanta",
+    "url": "https://refreshmiami.com/news/data-startup-matia-raises-10-5m-to-simplify-ai-driven-data-management/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "New Connectors: Okta, Mailchimp, Apple App Store, Google Play, Email & Xero",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Matia adds Okta, Mailchimp, Xero, Apple App Store, Google Play, and Email connectors to unify your data.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Detect and alert on schema drift in Snowflake with snapshots, impact tagging, and Slack/email alerts to protect data pipelines from silent failures.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Email to Data Warehouse Automation: Matia's Email Connector for Data Teams",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Automate email attachments to your data warehouse. Matia turns CSV & JSON files into query-ready data—no manual uploads needed.",
+    "url": "https://www.matia.io/blog",
+    "pass": 1
+   },
+   {
+    "quote": "partnerships@matia.io",
+    "url": "https://www.matia.io/demo",
+    "pass": 1
+   },
+   {
+    "quote": "e-mail: info@matias.ca",
+    "url": "http://matias.ca/usb2keyboard/support/resources/FK105-JP_Manual_WEB.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "e-mail: support@pleiadesdesigns.co.jp",
+    "url": "http://matias.ca/usb2keyboard/support/resources/FK105-JP_Manual_WEB.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Contact the USB 2.0 Keyboard tech support team first by e-mail at",
+    "url": "http://matias.ca/usb2keyboard/support/resources/FK105-JP_Manual_WEB.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Check your inbox for a confirmation email.",
+    "url": "https://refreshmiami.com/news/data-startup-matia-raises-10-5m-to-simplify-ai-driven-data-management/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "purchase from Matias or its authorized reseller. Matias’ sole obligation",
+    "url": "http://matias.ca/usb2keyboard/support/resources/FK105-JP_Manual_WEB.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "product, even if Matias or its authorized reseller has been advised of the",
+    "url": "http://matias.ca/usb2keyboard/support/resources/FK105-JP_Manual_WEB.pdf",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "USB 2.0 Keyboard – Japanese – Black",
+    "url": "http://matias.ca/usb2keyboard/support/resources/FK105-JP_Manual_WEB.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "クイックセットアップ - Matias — クイックセットアップ - Matias matias.ca PDF http://matias.ca > support > FK105-JP_Manual_WEB",
+    "url": "http://matias.ca/usb2keyboard/support/resources/FK105-JP_Manual_WEB.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Matia | LinkedIn — Matia | LinkedIn LinkedIn https://www.linkedin.com > matia-data",
+    "url": "https://www.linkedin.com/company/matia-data",
+    "pass": 3
+   },
+   {
+    "quote": "About Matia : Company & Careers — About Matia : Company & Careers Matia https://www.matia.io > company",
+    "url": "https://www.matia.io/company",
+    "pass": 3
+   },
+   {
+    "quote": "Matia Bazarの曲を聴く - Spotify — Matia Bazarの曲を聴く - Spotify Spotify https://open.spotify.com > intl-ja > artist",
+    "url": "https://open.spotify.com/intl-ja/artist/449mAbddAC2PAgNM3TLyc5",
+    "pass": 3
+   },
+   {
+    "quote": "Matia Raises $10.5M, Launches Unified Platform — Matia Raises $10.5M, Launches Unified Platform Matia https://www.matia.io > blog > press-re...",
+    "url": "https://www.matia.io/blog/press-release-matia-raises-10-5-million",
+    "pass": 3
+   },
+   {
+    "quote": "Data operations startup Matia raises $10.5 million in Seed ... — Data operations startup Matia raises $10.5 million in Seed ... calcalistech.com https://www.calcalistech.com > article",
+    "url": "https://www.calcalistech.com/ctechnews/article/rjvjrnrekg",
+    "pass": 3
+   },
+   {
+    "quote": "Matia 2026 Company Profile: Valuation, Funding & Investors — Matia 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/509405-23",
+    "pass": 3
+   },
+   {
+    "quote": "Data startup Matia raises $10.5M to simplify AI-driven data ... — Data startup Matia raises $10.5M to simplify AI-driven data ... Refresh Miami https://refreshmiami.com > news > dat...",
+    "url": "https://refreshmiami.com/news/data-startup-matia-raises-10-5m-to-simplify-ai-driven-data-management/",
+    "pass": 3
+   },
+   {
+    "quote": "Matia raises $21M to help enterprises consolidate their data ... — Matia raises $21M to help enterprises consolidate their data ... SiliconANGLE https://siliconangle.com > Big Data",
+    "url": "https://siliconangle.com/2026/02/10/matia-raises-21m-help-enterprises-consolidate-data-management-operations/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "The Armbar is Effective｜ Matia Okubo - note The Armbar is Effective｜ Matia Okubo - note note https://note.com > スポーツ > 武術・格闘技",
+    "url": "https://note.com/matiasauquebaux/n/n9fc256d779ec?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Matia Okubo - note Matia Okubo - note note https://note.com > matiasauquebaux",
+    "url": "https://note.com/matiasauquebaux",
+    "pass": 3
+   },
+   {
+    "quote": "Old Stories About Sparring｜ Matia Okubo - note Old Stories About Sparring｜ Matia Okubo - note note https://note.com > スポーツ > 武術・格闘技",
+    "url": "https://note.com/matiasauquebaux/n/n0623486406e0?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Cyrus Matia (@CyrusMatia22) / X Cyrus Matia (@CyrusMatia22) / X X https://x.com > CyrusMatia22",
+    "url": "https://x.com/CyrusMatia22",
+    "pass": 3
+   },
+   {
+    "quote": "Matia Marcantuoni (@mm_91) / X Matia Marcantuoni (@mm_91) / X X https://x.com > ...",
+    "url": "https://x.com/mm_91",
+    "pass": 3
+   },
+   {
+    "quote": "matia on X: \"@developedbyed\" / X matia on X: \"@developedbyed\" / X X https://x.com > @joyofcodedev",
+    "url": "https://x.com/joyofcodedev/status/2097988541141655979",
+    "pass": 3
+   },
+   {
+    "quote": "matías (@matias) / X matías (@matias) / X X https://x.com > matias",
+    "url": "https://x.com/matias",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Matia | LinkedIn Matia | LinkedIn LinkedIn https://www.linkedin.com > matia-data",
+    "url": "https://www.linkedin.com/company/matia-data",
+    "pass": 3
+   },
+   {
+    "quote": "Matia : Jobs - LinkedIn Matia : Jobs - LinkedIn LinkedIn https://www.linkedin.com > jobs",
+    "url": "https://www.linkedin.com/company/matia-data/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Roy Ben-Zur - Operations @ Matia | Leadership - LinkedIn Roy Ben-Zur - Operations @ Matia | Leadership - LinkedIn LinkedIn https://www.linkedin.com > roy-ben-...",
+    "url": "https://www.linkedin.com/in/roy-ben-zur-254732109",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Matia Kalli (@matiakalli) - Facebook Matia Kalli (@matiakalli) - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/matiakalli/",
+    "pass": 3
+   },
+   {
+    "quote": "Matia Celeste Washington - Facebook Matia Celeste Washington - Facebook Facebook https://www.facebook.com > Pages > Public figure > Artist",
+    "url": "https://www.facebook.com/matia.washington/",
+    "pass": 3
+   },
+   {
+    "quote": "Art by Matia (@FromtheBlueRoomatTheSheShack) - Facebook Art by Matia (@FromtheBlueRoomatTheSheShack) - Facebook Facebook https://www.facebook.com > Pages > Media > Art",
+    "url": "https://www.facebook.com/FromtheBlueRoomatTheSheShack/",
+    "pass": 3
+   },
+   {
+    "quote": "Matia Kalli (@ matia .kalliangas) - Facebook Matia Kalli (@ matia .kalliangas) - Facebook Facebook https://www.facebook.com > ... > Digital creator",
+    "url": "https://www.facebook.com/matia.kalliangas/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.matia.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matia.io/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matia.io/amazon-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matia.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matia.io/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matia.io/blog/how-one-fintech-company-solved-data-pipeline-reliability-with-matia",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matia.io/demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matia.io/blog/all-about-matias-dbt-integration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matia.io/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matia.io/blog/fivetran-pricing-in-2026-how-monthly-active-rows-affect-your-true-etl-cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matia.io/blog/etl-pricing-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matia.io/blog/matia-tomorrows-growth-company-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matia.io/blog/matia-joins-the-snowflake-partner-network-at-the-select-tier",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/66e43a73b833cc54c522c06c/698ab93baa47a13ffb9c0ca4_Red%20Dot%20logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/66e43a73b833cc54c522c06c/670d79970d8865d0a69ad965_Group%201000001001client%20logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/66e43a73b833cc54c522c06c/698ab978c66e7bacc539fd2e_Caffeinated_Logo_Blue.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/66e43a73b833cc54c522c06c/698ab98b9d42219079ea7484_velocity%20x%20logo%20(2).svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://matias.ca/usb2keyboard/support/resources/FK105-JP_Manual_WEB.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sojitz-ins.com/corporations/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Mai_Mizuhashi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/matia-data",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://open.spotify.com/intl-ja/artist/449mAbddAC2PAgNM3TLyc5",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vKPpruBMWMqrqGqs0Dcfn3jw9mfekbeJhCUgqgk8ODMRPF48hoO",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mceneryautomation.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2212827124013945",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.calcalistech.com/ctechnews/article/rjvjrnrekg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/509405-23",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://refreshmiami.com/news/data-startup-matia-raises-10-5m-to-simplify-ai-driven-data-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/matiasauquebaux/n/n9fc256d779ec?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/matiasauquebaux",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/matiasauquebaux/n/n0623486406e0?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/CyrusMatia22",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mm_91",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/joyofcodedev/status/2097988541141655979",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/matia-data",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/matia-data/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/roy-ben-zur-254732109",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/matiakalli/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/matia.washington/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FromtheBlueRoomatTheSheShack/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/matia.kalliangas/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/matias",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Matia 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "https://trafficnews.jp/post/725198",
+    "https://www.webcg.net/articles/-/54501",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160111/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.matia.io/",
+    "https://findy-tools.io/products/matia/1157"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Matia 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "http://matias.ca/usb2keyboard/support/resources/FK105-JP_Manual_WEB.pdf",
+    "https://www.bgent.net/plus/article/7044",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.sojitz-ins.com/corporations/agency/",
+    "https://ecnomikata.com/blog/51120/",
+    "https://solxia.co.jp/import-agency",
+    "https://j-dma.org/company",
+    "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "https://www.nikkinonline.com/article/427099",
+    "https://ja.wikipedia.org/wiki/ジョージフィッシャー_(企業)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Matia Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Mai_Mizuhashi",
+    "https://www.linkedin.com/company/matia-data",
+    "https://www.matia.io/company",
+    "https://open.spotify.com/intl-ja/artist/449mAbddAC2PAgNM3TLyc5",
+    "https://www.instagram.com/mariasatelles/",
+    "https://www.yamaria.co.jp/",
+    "https://matiabeachwear.com/",
+    "https://www.discogs.com/release/2132565-%E6%9C%9D%E6%AF%94%E5%A5%88%E3%83%9E%E3%83%AA%E3%82%A2-Maria-%E3%83%9E%E3%83%AA%E3%82%A2?srsltid=AYCX9vI3RO4Jpga51LBHeuUJyYclnG3n7vR9-cspEzmkJB8xJjWU_NUw",
+    "https://www.matia.io/",
+    "https://japanese-names.info/my-name-in-japanese/first-name/matia/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Matia manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vKPpruBMWMqrqGqs0Dcfn3jw9mfekbeJhCUgqgk8ODMRPF48hoO",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://www.mceneryautomation.com/case-studies",
+    "https://www.sciencedirect.com/science/article/pii/S2212827124013945",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://www.tth.com/resources/case-studies",
+    "https://www.madcapsoftware.com/case-studies/",
+    "https://kt.team/cases/manufacturing",
+    "https://www.mtisystems.com/case-study/index.html",
+    "https://www.casestudies.com/company/matia"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Matia white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://webinone.com/reseller-program",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.intermedia.com/resellers",
+    "https://intandem.vcita.com/blog/partners/different-types-of-white-label-partnerships",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Matia founded funding employees revenue",
+   "results": [
+    "https://www.matia.io/blog/press-release-matia-raises-10-5-million",
+    "https://www.calcalistech.com/ctechnews/article/rjvjrnrekg",
+    "https://pitchbook.com/profiles/company/509405-23",
+    "https://refreshmiami.com/news/data-startup-matia-raises-10-5m-to-simplify-ai-driven-data-management/",
+    "https://siliconangle.com/2026/02/10/matia-raises-21m-help-enterprises-consolidate-data-management-operations/",
+    "https://www.instagram.com/p/DBuGoiNP7gp/",
+    "https://tracxn.com/d/companies/matia/__sWmGc6D-WuTW-WEaETW99ND4J8n-85LJOPdA2r6HDXU",
+    "https://www.crunchbase.com/organization/matia-dda4",
+    "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-886200",
+    "https://prospeo.io/c/matia-revenue"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Matia",
+   "results": [
+    "https://note.com/matiasauquebaux/n/n9fc256d779ec?hl=en",
+    "https://note.com/matiasauquebaux/n/n7f5e590b0655?hl=en",
+    "https://note.com/matiasauquebaux",
+    "https://note.com/matiasauquebaux/n/n0623486406e0?hl=en",
+    "https://note.com/matiasauquebaux/n/n09a386eca6f7?hl=en",
+    "https://note.com/matiasauquebaux/n/ne4cc9709bd39",
+    "https://note.com/matiasauquebaux/n/n550417bfecc4?hl=en",
+    "https://note.com/matiasauquebaux/m/mb8817cda3654/archive/2024-02",
+    "https://note.com/matiasauquebaux/n/n4e6cc4e3592b?hl=en",
+    "https://note.com/matiasauquebaux/n/n10dbbd19950f"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Matia",
+   "results": [
+    "https://x.com/CyrusMatia22",
+    "https://x.com/mm_91",
+    "https://x.com/KawowoSports/status/2113536678065230008",
+    "https://x.com/joyofcodedev/status/2097988541141655979",
+    "https://x.com/MatiaK5",
+    "https://x.com/TennisUpdates26/status/2109836855151559050",
+    "https://x.com/pwatchug/status/2074485863916929083",
+    "https://x.com/joyofcodedev/status/1963487196037484897/photo/1",
+    "https://x.com/joyofcodedev/status/2106021408899838339",
+    "https://x.com/matiak5"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Matia",
+   "results": [
+    "https://www.linkedin.com/company/matia-data",
+    "https://www.linkedin.com/company/matia-data/jobs",
+    "https://www.linkedin.com/in/benjamin-segal",
+    "https://www.linkedin.com/in/roy-ben-zur-254732109",
+    "https://www.linkedin.com/company/matiamobility",
+    "https://www.linkedin.com/posts/ai-techpark-news_matia-raises-21m-series-a-to-scale-unified-activity-7427335905780097024-kALv",
+    "https://ch.linkedin.com/in/matia-pizzoli-4b08a449",
+    "https://uk.linkedin.com/in/matiagobbo",
+    "https://www.linkedin.com/in/matia-r-marks-jd-arm-e-aci-rims-crmp-aa1b397"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Matia",
+   "results": [
+    "https://www.facebook.com/matiakalli/",
+    "https://www.facebook.com/matia.washington/",
+    "https://www.facebook.com/FromtheBlueRoomatTheSheShack/",
+    "https://www.facebook.com/matia.kalliangas/",
+    "https://www.facebook.com/stephanie.matia/",
+    "https://www.facebook.com/matia.marks/",
+    "https://www.facebook.com/matiamobility/",
+    "https://www.facebook.com/matia.finley/",
+    "https://www.facebook.com/matia.wills/",
+    "https://www.facebook.com/Matiapageofficielle/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Matia note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://note.com/sadaaki",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://diamond.jp/articles/-/388572",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Matia X 投稿",
+   "results": [
+    "https://x.com/matias",
+    "https://www.instagram.com/amanda.matia/",
+    "https://xorgasmo.com/search/matia",
+    "https://www.reddit.com/r/leafs/comments/1uks5at/pierre_lebrun_islanders_sign_matias_maccelli_one/",
+    "https://www.youtube.com/channel/UCJ0chhprdj-LWA_HQwjBdfA",
+    "https://www.meredithmatia.com/",
+    "https://www.matia-press.com/contact",
+    "https://en.wiktionary.org/wiki/matia",
+    "https://www.youtube.com/watch?v=oVKa7PnHBys",
+    "https://www.reddit.com/r/Boxing/comments/1st21e9/subriel_matias_and_dalton_smith_rd_4/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部36頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像4件／外部36頁・検索12回）"
+ }
+}

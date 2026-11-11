@@ -1,0 +1,1194 @@
+{
+ "name": "株式会社タイセイ 本社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T19:28:01.635709+00:00",
+ "official_url": "https://taisei-i.com",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "熊耳 勇輝",
+    "url": "https://taisei-i.com/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "〒343-0843 埼玉県越谷市蒲生茜町11-4",
+    "url": "https://taisei-i.com/recruit/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "加須工場ISO9001",
+    "value": "2008年度版認証取得",
+    "url": "https://taisei-i.com/company/history/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "高精度が求められる製品にも確かな日本品質で応えます",
+    "url": "https://taisei-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "で培った品質基準を活かし、高い寸法精度の製品を安定して供給します",
+    "url": "https://taisei-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "を活用し、環境配慮型の製品開発にも柔軟に対応しています",
+    "url": "https://taisei-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "射出成形に加え、真空成形や熱硬化成形（コンプレッション成形）、ブロー成形など、製品や素材に合わせた最適な工法を採用します",
+    "url": "https://taisei-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "多様な成形技術で、形状・性能・コストのバランスに優れた製品づくりを実現します",
+    "url": "https://taisei-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "タイセイでは、成形加工だけでなく、製品の塗装や印刷といった二次加工、複数部品の接着や組立など、出荷前の最終工程まで幅広く対応しています",
+    "url": "https://taisei-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計から製品化まで伴走し、",
+    "url": "https://taisei-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品一つひとつの品質は、日々の試験や検証、そして改善の積み重ねによって支えられています",
+    "url": "https://taisei-i.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に最良の製品とサービスを提供するとともに、地域社会への貢献と従業員の豊かさを追求しています",
+    "url": "https://taisei-i.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計から製品化まで伴走し、",
+    "url": "https://taisei-i.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計から製品化まで伴走し、",
+    "url": "https://taisei-i.com/company/access/",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計から製品化まで伴走し、",
+    "url": "https://taisei-i.com/case/1-housing-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計から製品化まで伴走し、",
+    "url": "https://taisei-i.com/case/74-housing-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "最適な温度・圧力・流動のバランスを見極め、改良を重ねることで、難しい条件下でも安定した成形と量産を実現し、すべての製品に高い品質と精度を届けています",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "厚みのある製品では冷却が不均一になりやすいため、樹脂の流動や圧力を綿密に制御し、",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機部品で培った品質基準を活かし、高い寸法精度の製品を安定した品質で供給",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "やバイオベース材を活用し、環境配慮型の製品開発にも柔軟に対応しています",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "高精度と耐久性が求められる製品の成形にも多数実績",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "また、協力工場との連携により最大1500tクラスの大型成形や、特殊形状の製品にも柔軟に対応可能です",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計から製品化まで伴走し、",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様がイメージされているオリジナルの製品について、ぜひ詳しくお聞かせください",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "再生材や環境配慮型樹脂の実績もあり、サステナブルな製品づくりにも対応しています",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "この3Dモデルを叩き台に、設計・製図・試作サンプル品・金型・製品までの概算見積もりをご提示します",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の3Dモデルが見えることで改善点や新しいアイデアが生まれ、コストや販売戦略の検討にもつながります",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "材料特性や製品形状に合わせた成形条件の最適化に強みを持ち、安定した品質で効率的な生産を実現します",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の仕様に応じて複数パーツで構成される製品は当社で組立を行い、あらかじめ打ち合わせた梱包仕様で納品いたします",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "厳しい品質管理のもと、アイデア段階から製品化まで親身に伴走し、お客様の想いを形にしていきます",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計から製品化まで伴走し、",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "タイセイでは、成形加工だけでなく、製品の塗装や印刷といった二次加工、複数部品の組立や結合、出荷前の最終工程まで幅広く対応しています",
+    "url": "https://taisei-i.com/secondary-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "シルク印刷・パッド印刷などにより、ロゴや文字、デザインを製品に正確に表現します",
+    "url": "https://taisei-i.com/secondary-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計から製品化まで伴走し、",
+    "url": "https://taisei-i.com/secondary-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計から製品化まで伴走し、",
+    "url": "https://taisei-i.com/case/",
+    "pass": 1
+   },
+   {
+    "quote": "一つひとつのプラスチック製品に、日本の「ものづくり」の誇りを込めて",
+    "url": "https://taisei-i.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの手がけた製品を通じて、より豊かで安心できる暮らしを次世代へとつないでまいります",
+    "url": "https://taisei-i.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、難素材・難加工の成形でも材料特性と製品形状を起点に工程設計・条件を最適化し、量産で再現できる安定品質を実現します",
+    "url": "https://taisei-i.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "スーパーエンプラ、ガラス繊維入り樹脂、再生材など、多様な素材の特性を見極め、複雑な形状や透明製品においても、外観と寸法精度の両立を粘り強く追求します",
+    "url": "https://taisei-i.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "難素材への挑戦を通じて、環境負荷の低減と高品質な製品づくりの両立を目指しています",
+    "url": "https://taisei-i.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "1992年、タイセイはプラスチック製品の設計と製造を手掛ける会社として誕生しました",
+    "url": "https://taisei-i.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "その後も射出成形機や3Dプリンター、超音波溶着機などの設備を導入し、複雑で難易度の高い製品や新素材への挑戦を続けてきました",
+    "url": "https://taisei-i.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "消防庁や大学との産学協同開発、サーバーラックやLED製品などの開発にも取り組み、ものづくりの可能性を広げています",
+    "url": "https://taisei-i.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "エコプラスチックの活用にも積極的に取り組み、持続可能な社会に貢献できる製品づくりを進めています",
+    "url": "https://taisei-i.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計から製品化まで伴走し、",
+    "url": "https://taisei-i.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "いい製品は、いい仲間との仕事から生まれます",
+    "url": "https://taisei-i.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は『アイディアをかたちに』で差別化した製品及びサービスを提供し、当社の利害関係者とのコミュニケーションを図り、顧客のニーズを満たすことを最優先し、法令・規制要求事項を遵守し、 QMSの有効性の継続的な改善を目指し、次の活動に努めます",
+    "url": "https://taisei-i.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "特に顧客所有物管理と不適合製品への対応と管理の社内活動を強化する",
+    "url": "https://taisei-i.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック製品の加工(バリ取り・仕上げ)・組立・検査・梱包(袋入れ・箱詰め)等の簡単な作業です",
+    "url": "https://taisei-i.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計から製品化まで伴走し、",
+    "url": "https://taisei-i.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計から製品化まで伴走し、",
+    "url": "https://taisei-i.com/case/4-housing-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計から製品化まで伴走し、",
+    "url": "https://taisei-i.com/case/78-display/",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計から製品化まで伴走し、",
+    "url": "https://taisei-i.com/case/61-amusement/",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計から製品化まで伴走し、",
+    "url": "https://taisei-i.com/case/53-display/",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計から製品化まで伴走し、",
+    "url": "https://taisei-i.com/case/52-display/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック製品の設計主体の製造、販売開始",
+    "url": "https://taisei-i.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "工業用合成樹脂の金型、製品製造、販売及び輸出入開始",
+    "url": "https://taisei-i.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計から製品化まで伴走し、",
+    "url": "https://taisei-i.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "＜製品が少なってきた状態＞ 後方在庫表示：色で識別ﾀｲﾌﾟ：黄",
+    "url": "https://taisei-i.com/wp-content/uploads/2025/11/3204203_gaiyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＜製品が無くなってきた状態＞ 後方在庫表示：色で識別ﾀｲﾌﾟ：赤",
+    "url": "https://taisei-i.com/wp-content/uploads/2025/11/3204203_gaiyou.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "＊製品が少なった状態：黄色表示 製品が無くなってきた状態：赤色表示",
+    "url": "https://taisei-i.com/wp-content/uploads/2025/11/3204203_gaiyou.pdf",
+    "pass": 2
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "樹脂でも、独自ノウハウで安定した品質に仕上げます",
+    "url": "https://taisei-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "スーパーエンプラ, ガラス繊維入り",
+    "url": "https://taisei-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "エンプラ, 汎用樹脂",
+    "url": "https://taisei-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "エンプラ, 汎用樹脂",
+    "url": "https://taisei-i.com/case/74-housing-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "、スーパーエンプラ、エコプラスチック、ガラス繊維入り樹脂などの",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "厚みのある製品では冷却が不均一になりやすいため、樹脂の流動や圧力を綿密に制御し、",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂でも、独自ノウハウで安定した品質に仕上げます",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "同じ樹脂でもグレードごとに特性が異なるため、必要に応じて材料メーカーや試験機関とも連携します",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "再生材や環境配慮型樹脂の実績もあり、サステナブルな製品づくりにも対応しています",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂素材を機械で削り出し、金型を使わずに高精度な試作品や少量部品、治具を製作します",
+    "url": "https://taisei-i.com/secondary-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "金属・樹脂・ゴムなど異素材部品を、接着やビス止めにより安定した状態で一体化します",
+    "url": "https://taisei-i.com/secondary-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "スーパーエンプラ, ガラス繊維入り",
+    "url": "https://taisei-i.com/case/",
+    "pass": 1
+   },
+   {
+    "quote": "エンプラ, 汎用樹脂",
+    "url": "https://taisei-i.com/case/",
+    "pass": 1
+   },
+   {
+    "quote": "スーパーエンプラ、ガラス繊維入り樹脂、再生材など、多様な素材の特性を見極め、複雑な形状や透明製品においても、外観と寸法精度の両立を粘り強く追求します",
+    "url": "https://taisei-i.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "再生材や生分解性樹脂、バイオベース材といったエコプラスチックは、扱いが難しい一方で持続可能な社会に欠かせない素材です",
+    "url": "https://taisei-i.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "工業用合成樹脂の金型、製品製造、販売及び輸出入開始",
+    "url": "https://taisei-i.com/company/history/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "小ロットや試作品のみのご依頼も歓迎いたします",
+    "url": "https://taisei-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「アイデアはあるけど図面がない」「まずは試作品だけ作りたい」といったご要望にも、経験豊富なスタッフがきめ細かくサポートいたします",
+    "url": "https://taisei-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロットや試作品のみのご依頼も歓迎いたします",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "など、数多くの条件を設定して試作TRY（検証）を行います",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "小型・中型の精密部品からA3～A2サイズ程度の成形品まで、多品種・小ロットから量産まで幅広く対応しています",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "アイデアの段階から試作・量産まで、私たちが並走して形にします",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "用途や品質基準に合わせて材料を選び、試作で確かめたうえで、金型製作・量産成形へ",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "この3Dモデルを叩き台に、設計・製図・試作サンプル品・金型・製品までの概算見積もりをご提示します",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "このデータをもとに試作品や金型製作の正確な見積りが可能になります",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "切削加工、注型、3Dプリンターなど複数の方法から最適なものを選び、少量試作品を製作します",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品で形状や機能を検証し、その結果を反映して設計のブラッシュアップを行い、完成度を高めてから量産につなげます",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品で方向性が固まったら、量産用の金型を製作します",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は多品種・小ロットから大規模量産まで柔軟に対応可能です",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂素材を機械で削り出し、金型を使わずに高精度な試作品や少量部品、治具を製作します",
+    "url": "https://taisei-i.com/secondary-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "また、航空機関連で鍛えられた厳格な要求水準を日常の生産に適用し、新規材料は小ロットの評価から丁寧に立ち上げます",
+    "url": "https://taisei-i.com/about-us/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "射出成形、金型製作から",
+    "url": "https://taisei-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "射出成形、金型製作から二次加工・アッセンブリーまで、一貫して対応できる体制を整えており、",
+    "url": "https://taisei-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "経験豊富な技術者が金型温度・射出圧力・冷却条件を緻密に管理し、最適な設定を導き出します",
+    "url": "https://taisei-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "タイセイでは長年培った金型設計と職人の技を活かし、お客様のご要望に応じた高品質な金型を製作しています",
+    "url": "https://taisei-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "金型の設計は国内で行い、精密な図面作成と製作は中国工場で対応",
+    "url": "https://taisei-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "完成した金型は国内でトライ成形後に最終調整し、そのまま量産に移せる一貫サポート体制を整えています",
+    "url": "https://taisei-i.com/",
+    "pass": 1
+   },
+   {
+    "quote": "東京外環自動車道「草加」インターから国道4号を「春日部・越谷」方面へ進みます",
+    "url": "https://taisei-i.com/company/access/",
+    "pass": 1
+   },
+   {
+    "quote": "コンビニや量販店向けの販促ディスプレイから、航空機関連部品、空圧機器や防犯・防災関連まで多岐に渡り",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製作から成形・二次加工・アッセンブリーまで、最適な工法を組み合わせてご提案し、一貫体制で対応します",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "材料温度・金型温度・射出速度・圧力・型締力",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "ボーイング社のギャレー、フライトデッキ、 ラバトリー内装部品など、厳しい航空機スペッ クをクリア",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機部品で培った品質基準を活かし、高い寸法精度の製品を安定した品質で供給",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "既存金型の状態を丁寧に確認し、成形条件の最適化と調整を行うことで、",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "タイセイでは、ディスプレイや航空機、住宅設備、アミューズメントなど、幅広い分野の成形品を手がけています",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "用途や品質基準に合わせて材料を選び、試作で確かめたうえで、金型製作・量産成形へ",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "この3Dモデルを叩き台に、設計・製図・試作サンプル品・金型・製品までの概算見積もりをご提示します",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "このデータをもとに試作品や金型製作の正確な見積りが可能になります",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品で方向性が固まったら、量産用の金型を製作します",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "金型は精密で耐久性があり、長期間にわたり使用できますが、費用は百万円単位と高額になります",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "ただし数百個以上つくる場合は、金型を使った方が一つあたりのコストを抑えられるため、大量生産ほど有利になります",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "完成した金型を用いてプラスチック射出成形機での量産成形を行います",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂素材を機械で削り出し、金型を使わずに高精度な試作品や少量部品、治具を製作します",
+    "url": "https://taisei-i.com/secondary-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製作から成形・仕上げまで、すべての工程で妥協のない品質を実現",
+    "url": "https://taisei-i.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "品質維持のために、標準化・記録・トレースを徹底し、金型の状態監視と計画的メンテナンスで安定性を確保します",
+    "url": "https://taisei-i.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "また、航空機関連で鍛えられた厳格な要求水準を日常の生産に適用し、新規材料は小ロットの評価から丁寧に立ち上げます",
+    "url": "https://taisei-i.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "2000年代には韓国・中国での金型製作をスタートし、国内外の拠点を連携させることでコストと品質の両立を実現",
+    "url": "https://taisei-i.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "工業用合成樹脂の金型、製品製造、販売及び輸出入開始",
+    "url": "https://taisei-i.com/company/history/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "3Dプリンター MUTOH MF-2200D",
+    "url": "https://taisei-i.com/injection-molding/",
+    "pass": 1
+   },
+   {
+    "quote": "切削加工、注型、3Dプリンターなど複数の方法から最適なものを選び、少量試作品を製作します",
+    "url": "https://taisei-i.com/product-development/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://taisei-i.com/case/",
+    "pass": 1
+   },
+   {
+    "quote": "その後も射出成形機や3Dプリンター、超音波溶着機などの設備を導入し、複雑で難易度の高い製品や新素材への挑戦を続けてきました",
+    "url": "https://taisei-i.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター導入",
+    "url": "https://taisei-i.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "加須工場へ新型射出成形機2台（350ｔ/280ｔ）､成形機監視システム､3Dプリンター導入",
+    "url": "https://taisei-i.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "LOBEL, BRIZEOCMEL, FAMERBIBRANELLEEETS,",
+    "url": "https://taisei-i.com/wp-content/uploads/2025/11/3208464_certificate_of_utility_model_registatiton.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "https://instagram.com/taiseikoumuten?igshid=YmMyMTA2M2Y=",
+    "url": "https://note.com/calm_crocus859/n/n10c2c83ae914",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【株式会社タイセイ工務店】思い出の場所を作る仕事｜阿久根市地域お... Mar 2, 2023 · 阿久根市に本社を構え、阿久根市、阿久根市近隣地域の木造注文住宅を主体に、アパート・工場・福社施設・教育施設など、幅広い建築を行っている、「株式会社タイセイ工務店」さん。",
+    "url": "https://note.com/calm_crocus859/n/n10c2c83ae914",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月 神無月の会「日本建築の魅力2」 柳瀬 真澄氏 Aug 3, 2026 · 会 場：タイセイ本社ビル4階会議室 （福岡市中央区清川2丁目9-2 タイセイビル） 会 費：会員 2,000円 / 一般 2,500円 【定員30名】要予約・先着順 ️ お申込みフォームはこちらをクリック お問合せ： waryu.japan@gmail.com 電話番号 090- 8352-0530 （代表：浜田）",
+    "url": "https://note.com/waryurenaissance/n/n0f58bc755c70",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Eメール：taisei-4@po5.synapse.ne.jp",
+    "url": "https://note.com/calm_crocus859/n/n10c2c83ae914",
+    "pass": 3
+   },
+   {
+    "quote": "waryu.japan@gmail.com",
+    "url": "https://note.com/waryurenaissance/n/n0f58bc755c70",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【株式会社タイセイ工務店】思い出の場所を作る仕事｜阿久根市地域おこし協力隊（移住・ワーケーション・空き家）",
+    "url": "https://note.com/calm_crocus859/n/n10c2c83ae914",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社タイセイ工務店】思い出の場所を作る仕事",
+    "url": "https://note.com/calm_crocus859/n/n10c2c83ae914",
+    "pass": 3
+   },
+   {
+    "quote": "阿久根市地域おこし協力隊（移住・ワーケーション・空き家）",
+    "url": "https://note.com/calm_crocus859/n/n10c2c83ae914",
+    "pass": 3
+   },
+   {
+    "quote": "阿久根市に本社を構え、阿久根市、阿久根市近隣地域の木造注文住宅を主体に、アパート・工場・福社施設・教育施設など、幅広い建築を行っている、「株式会社タイセイ工務店」さん。阿久根だけでなく、出水や川内でも建築技術の信頼を得続け、昭和４１年に創業してから、５７年目を迎えた今日でも、その技術の高さは若者へと受け継がれています。",
+    "url": "https://note.com/calm_crocus859/n/n10c2c83ae914",
+    "pass": 3
+   },
+   {
+    "quote": "現在の従業員数４０名の内、大工として働いている方は全体の４分の１を占める１１名。１２月から３月にかけての繁忙期期間中に、お話を伺わせていただきました。",
+    "url": "https://note.com/calm_crocus859/n/n10c2c83ae914",
+    "pass": 3
+   },
+   {
+    "quote": "\\ 今回、初めて棟梁（とうりょう）を任されたという、２８歳大工の照屋（てるや）さんの /",
+    "url": "https://note.com/calm_crocus859/n/n10c2c83ae914",
+    "pass": 3
+   },
+   {
+    "quote": "自社の設計士が作った図面を見ながら、スケジュールや段取り、予算等を考慮して、必要な木材や資材、建築道具などを棟梁が手配します。全体の進捗状況を見つつ、資材準備の漏れや遅れが無いように、取引先との連携をしっかりとって、現場の要として動きます。",
+    "url": "https://note.com/calm_crocus859/n/n10c2c83ae914",
+    "pass": 3
+   },
+   {
+    "quote": "１つのズレから誰かの命が左右されることもあるという、大切な組み立て作業を、足場の悪い現場で、緊張感と使命感を持ちながら行います。",
+    "url": "https://note.com/calm_crocus859/n/n10c2c83ae914",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月 神無月の会「日本建築の魅力2」 柳瀬 真澄氏｜和流ルネッサンス倶楽部",
+    "url": "https://note.com/waryurenaissance/n/n0f58bc755c70",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月 神無月の会「日本建築の魅力2」 柳瀬 真澄氏",
+    "url": "https://note.com/waryurenaissance/n/n0f58bc755c70",
+    "pass": 3
+   },
+   {
+    "quote": "盛夏の候、皆様にはますますご健勝のこととお喜び申し上げます。",
+    "url": "https://note.com/waryurenaissance/n/n0f58bc755c70",
+    "pass": 3
+   },
+   {
+    "quote": "和流ルネッサンス倶楽部「神無月の会」では、柳瀬真澄建築設計工房主宰・柳瀬真澄氏をお迎えし「日本建築の魅力2」と題してご講話いただきます。",
+    "url": "https://note.com/waryurenaissance/n/n0f58bc755c70",
+    "pass": 3
+   },
+   {
+    "quote": "柳瀬氏は、「建築九州賞作品賞」、「福岡県美しいまちづくり建築賞」大賞など多くの受賞歴をもつ福岡を代表する建築家のお一人です。日本の風土に寄り添い、木や光、空間の美しさを生かした建築の魅力と、心豊かに暮らすための住まいづくりについて、実作を交えながらお話しいただきます。",
+    "url": "https://note.com/waryurenaissance/n/n0f58bc755c70",
+    "pass": 3
+   },
+   {
+    "quote": "日本建築に受け継がれる美意識と、現代の暮らしに生かす知恵に触れる貴重な機会です。とうぞ皆様お誘い合わせのうえ、ご参加ください。",
+    "url": "https://note.com/waryurenaissance/n/n0f58bc755c70",
+    "pass": 3
+   },
+   {
+    "quote": "1987年～2021年 町田ひろ子インテリアコーディネーターアカデミー講師",
+    "url": "https://note.com/waryurenaissance/n/n0f58bc755c70",
+    "pass": 3
+   },
+   {
+    "quote": "1997年～2019年 九州産業大学建築学科 非常勤講師",
+    "url": "https://note.com/waryurenaissance/n/n0f58bc755c70",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社タイセイプラス 本社 | Kiyosu-shi Aichi Mar 2, 2014 · 株式会社タイセイプラス 本社, Kiyosu-shi. 16 likes · 81 were here. 自動車部品の生産を中心とし、様々な中空製品のニーズに合わせソリュー",
+    "url": "https://www.facebook.com/100066692260832/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タイセイシュアーサービス - Facebook株式会社タイセイ (Taisei INC.) - Facebook株式会社タイセイシュアーサービス - 【タイセイシュアーサービス外観...【本社4階 改装の記録・第3弾！ ... - Facebookタイセイシュアーサービスです 現在、本社ビル6階応接室を改装してい...タイセイシュアーサービス本社ビルの近くの看板が完成！... - 株式会... これからも、オーナー様とのつながりを大切にしてま いります。 不動産管理に関する情報はこちら @taisei_sure_service ---------------------- タイセイは2026年に創業49年を迎えた、大阪市都島区 にある地域密着型の不動産管理会社です。 株式会社タイセイ (Taisei INC.) 本日で、タイセイの工場は年内最終日となりました。 今年も多くの現場とも",
+    "url": "https://www.facebook.com/TaiseiSureService/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://taisei-i.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-i.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-i.com/company/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-i.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-i.com/case/1-housing-equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-i.com/case/74-housing-equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-i.com/injection-molding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-i.com/product-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-i.com/secondary-processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-i.com/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-i.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-i.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-i.com/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-i.com/case/4-housing-equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-i.com/case/78-display/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-i.com/case/61-amusement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-i.com/case/53-display/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-i.com/case/52-display/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-i.com/company/history/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://taisei-i.com/wp-content/uploads/2025/11/3204203_gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://taisei-i.com/wp-content/uploads/2025/11/3204203_certificate_of_utility_model_registatiton.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://taisei-i.com/wp-content/uploads/2025/11/3208464_gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://taisei-i.com/wp-content/uploads/2025/11/3208464_certificate_of_utility_model_registatiton.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://taisei-i.com/wp-content/uploads/2025/11/3209075_gaiyou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://taisei-i.com/wp-content/uploads/2025/11/3209075_certificate_of_utility_model_registatiton.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://taisei-i.com/wp-content/uploads/2025/10/bnr_product-development-1024x630.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://taisei-i.com/wp-content/uploads/2025/10/bnr_company-1024x630.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://taisei-i.com/wp-content/uploads/2025/10/product_01.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://taisei-i.com/wp-content/uploads/2025/10/product_02.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://taisei-i.com/wp-content/uploads/2025/10/product_03.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://taisei-i.com/wp-content/uploads/2025/10/product_04.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://taisei-i.com/wp-content/uploads/2025/10/product_05.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://taisei-i.com/wp-content/uploads/2025/10/product_06.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://taisei-i.com/wp-content/uploads/2025/10/product_07.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://taisei-i.com/wp-content/uploads/2025/10/product_08.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://taisei-i.com/wp-content/uploads/2025/10/product_09.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://taisei-i.com/wp-content/uploads/2025/10/product_shibo.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei.ne.jp/product-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei.ne.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.taisei-net.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taisei-corp.jp/publics/index/3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei.ne.jp/about/gaiyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.taisei-net.co.jp/inquiry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaikisui.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taisei-inc.net/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/calm_crocus859/n/n10c2c83ae914",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/waryurenaissance/n/n0f58bc755c70",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/100066692260832/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TaiseiSureService/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "タイセイ 本社 取扱製品 試作 小ロット",
+   "results": [
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://taisei.ne.jp/product-agency/",
+    "https://taisei.ne.jp/",
+    "http://www.taisei-net.co.jp/info/faq/",
+    "http://www.taisei-net.co.jp/info/faq_item/試作は可能ですか。/",
+    "https://pr.mono.ipros.com/en/taisei-i/product/",
+    "https://taisei-casting.com/product"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "タイセイ 本社 会社概要 事業内容",
+   "results": [
+    "http://www.taisei-net.co.jp/company.html",
+    "https://www.taisei-corp.jp/publics/index/3/",
+    "https://taisei.ne.jp/about/gaiyo/",
+    "https://www.taisei-hs.co.jp/corporate/outline/",
+    "https://taisei-group.jp/business/",
+    "http://www.taisei-net.co.jp/",
+    "https://taisei-p.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "タイセイ 本社 お問い合わせ メール",
+   "results": [
+    "http://www.taisei-net.co.jp/inquiry.html",
+    "https://www.kaikisui.co.jp/contact/",
+    "https://taisei-inc.net/contact/",
+    "https://taiseism.co.jp/?page_id=216",
+    "https://taisei-p.co.jp/contact/",
+    "https://www.taisei-tokyo.com/contact/",
+    "https://taisei-group.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com タイセイ 本社",
+   "results": [
+    "https://note.com/calm_crocus859/n/n10c2c83ae914",
+    "https://note.com/taiseifoods/store",
+    "https://note.com/honmotoei/n/n38c1b4dfd088",
+    "https://note.com/waryurenaissance/n/n0f58bc755c70",
+    "https://note.com/kangaroopoint_au/n/nc00d4f8b2433",
+    "https://tales.note.com/",
+    "https://note.com/handoutainews/n/n8cba094f24b4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com タイセイ 本社",
+   "results": [
+    "https://x.com/taiseigp",
+    "https://x.com/taiseiweld",
+    "https://x.com/taisei1968",
+    "https://x.com/makotonist/status/2092393611879145716",
+    "https://about.x.com/ja",
+    "https://x.com/Taisei_Corp",
+    "https://x.com/taiseiy0u"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com タイセイ 本社",
+   "results": [
+    "https://www.linkedin.com/company/taisei",
+    "https://jp.linkedin.com/company/大成建設（株）",
+    "https://www.linkedin.com/company/taisei-corporation_2",
+    "https://sg.linkedin.com/in/a-k-soe-mba-3bb3416a",
+    "https://in.linkedin.com/in/taisei-international-3989a222b",
+    "https://jp.linkedin.com/company/taisei-corporation-",
+    "https://jp.linkedin.com/company/taisei-corporation"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com タイセイ 本社",
+   "results": [
+    "https://www.facebook.com/100066692260832/",
+    "https://www.facebook.com/TaiseiSureService/",
+    "https://www.facebook.com/people/株式会社タイセイ-Taisei-INC/100066410574229/",
+    "https://www.facebook.com/TaiseiSureService/photos/タイセイシュアーサービス外観本社ビルの外観を撮ってみましたコーポレートカラーのブルーがポイントです-マンションビルの経営管理は株式会社タイセイシュアーサービスへ/4517416031624172/",
+    "https://www.facebook.com/TaiseiSureService/videos/本社4階-改装の記録第3弾床貼りが完了しシンクなどの水回りも整いました少しずつ事務所らしい姿になってきていますクロス貼りなどの内装工事は自社の工事課が施工してい/1101111619188508/",
+    "https://www.facebook.com/TaiseiSureService/videos/タイセイシュアーサービスです現在本社ビル6階応接室を改装しています工事課が中心となり各部署とも連携しながら企画施工の両面で取り組んでいますこの日は壁紙の貼り換え/1781857189900700/",
+    "https://www.facebook.com/TaiseiSureService/posts/タイセイシュアーサービス本社ビルの近くの看板が完成マンション経営を圧迫する経費の代表格それはリフォーム代当社では経費削減応援価格で以下の商品をご提供しています︎/4170433019655810/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "タイセイ 本社 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ozakigroup.jp/taisei/会社案内/",
+    "https://www.expantay.co.jp/company/",
+    "http://www.taisei-net.co.jp/info/wp-content/uploads/2026/09/4c1f717c615b32815672dfec11b24b45.pdf",
+    "http://www.taisei-net.co.jp/company.html",
+    "https://taisei.ne.jp/about/gaiyo/",
+    "https://taisei-grp.jp/inc/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "タイセイ 本社 X 投稿",
+   "results": [
+    "https://www.taisei1968.jp/",
+    "https://www.taisei-hs.co.jp/corporate/outline/",
+    "https://x.com/taisei_log",
+    "http://www.taisei-net.co.jp/",
+    "https://x.com/Taisei_Corp",
+    "https://www.instagram.com/pep.taisei/",
+    "https://www.taisei-corp.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式19頁／PDF・画像18件／外部13頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像18件／外部13頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像18件／外部13頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式19頁／PDF・画像18件／外部13頁・検索9回）"
+ }
+}

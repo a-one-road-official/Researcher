@@ -1,0 +1,1541 @@
+{
+ "name": "Junction",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T18:55:04.815848+00:00",
+ "official_url": "https://www.junction.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/junction-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/junction-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Betonimiehenkuja 3 D, Espoo, 02150, FI",
+    "url": "https://prospeo.io/c/junction-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://prospeo.io/c/junction-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "members and providers",
+    "url": "https://www.junction.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Libby, Lead Product Manager at Found Health",
+    "url": "https://www.junction.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Diagnostics still require fax and paper workflows, straining clinical staff.",
+    "url": "https://www.junction.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Device RPM data overwhelms providers.",
+    "url": "https://www.junction.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hi! We were notified that the A1C marker on Order #789012 was not processed due to a sample error. We've notified the patient and rescheduled a mobile phlebotomist to arrive at their home",
+    "url": "https://www.junction.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform transforms raw, high-volume device data into clinically relevant insights so providers can focus on meaningful trends, not messy data dumps. Predictive AI insights coming soon.",
+    "url": "https://www.junction.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch your diagnostics product in weeks, not quarters.",
+    "url": "https://www.junction.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Add diagnostics to your product—without the integration headache.",
+    "url": "https://www.junction.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Junction has been a game-changer for us, providing not only excellent customer service but also outstanding functionality. Their at-home lab testing API has streamlined our processes and allowed us to scale rapidly without compromising the quality of care we provide to our patients.”",
+    "url": "https://www.junction.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Transparent pricing for businesses of all sizes.",
+    "url": "https://www.junction.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything you need to ship on device data today, and everything we hand over once diagnostics become core to your product.",
+    "url": "https://www.junction.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Two plans, no per-seat surprises.",
+    "url": "https://www.junction.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Premium and Bluetooth integrations",
+    "url": "https://www.junction.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritized integration requests",
+    "url": "https://www.junction.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Start on Launch if you are connecting wearables and devices for up to 500 users — it covers the Link widget, 300+ device integrations, and usage analytics for a flat $300 a month. Move to Enterprise when you need lab testing, unlimited users, uptime SLAs, or a signed BAA. Most teams begin on Launch and switch once diagnostics become core to their product.",
+    "url": "https://www.junction.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No. Launch is the cheapest plan on the market at $300 a month, so there is nothing below it for us to discount. Once your usage grows, volume discounts are available on Enterprise.",
+    "url": "https://www.junction.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Launch covers 1-500 connected users. If you expect to grow past that, talk to sales and we will size an Enterprise plan around your volume — unlimited users, volume discounts, and uptime SLAs are included.",
+    "url": "https://www.junction.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Lab testing is part of Enterprise. That includes the lab testing API, our nationwide network (NY, NJ, and RI included), at-home kits and phlebotomy, custom panels, and an operations team that tracks results 6 days a week. There are no upcharges on the tests themselves.",
+    "url": "https://www.junction.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every plan handles data in a HIPAA-compliant way. The signed Business Associate Agreement, our SOC 2 Type 2 and ISO 27001 reports, and customer-managed encryption keys are part of Enterprise.",
+    "url": "https://www.junction.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The contents of the kit vary by test panel, but will normally include: dried blood spot / ADX card(s), saliva collection tubes, high-flow blade lancets, gauze pad, alcohol prep pad, adhesive bandage, and a biohazard bag for specimen return.",
+    "url": "https://www.junction.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How long does it take to set up the test kit process?",
+    "url": "https://www.junction.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Our current process takes about 4-6 weeks to set up depending on the amount of customization you need. We will provide a more accurate timeline after learning more about what you are looking for.",
+    "url": "https://www.junction.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We provide the doctor’s order for the test, but we do not currently offer physician consults or personal result interpretations.",
+    "url": "https://www.junction.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to provide the infrastructure to diagnose chronic diseases",
+    "url": "https://www.junction.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Junction provides the integration layer powering millions of patient journeys across labs, diagnostics, and connected devices.",
+    "url": "https://www.junction.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Remote-first and spread across EST and GMT time zones.",
+    "url": "https://www.junction.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Junction was started with a simple belief: patients deserved access to convenient, affordable and accessible care without compromising on the quality or experience.",
+    "url": "https://www.junction.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We’re a team of 50+ spread across EST and GMT timezones, all focused on our mission of building better infrastructure to reduce the cost of predicting and managing chronic diseases by 100x. We’re looking for folks who believe healthcare should look different, and want to tackle this problem with us, at breakneck speed.",
+    "url": "https://www.junction.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Private health, dental, and vision coverage from day 1.",
+    "url": "https://www.junction.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "21 weeks fully paid for primary caregivers and 6 weeks for secondary caregivers.",
+    "url": "https://www.junction.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "$5,000 for every successful hire you refer.",
+    "url": "https://www.junction.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We hire across EST and GMT time zones. Every role works directly on the infrastructure behind millions of patient journeys.",
+    "url": "https://www.junction.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Success Manager (Proactive Posting)",
+    "url": "https://www.junction.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product Engineer, Support",
+    "url": "https://www.junction.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Operations Associate (Proactive Posting)",
+    "url": "https://www.junction.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product Manager, Clinical Data & Workflows",
+    "url": "https://www.junction.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product Manager, Patient Access & Fulfillment",
+    "url": "https://www.junction.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Business Development Representative",
+    "url": "https://www.junction.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "本年6月30日、フィンランドのエスポ―市にて、アールト大学の学生起業家支援団体 「Aalto Entrepreneurship Society (Aaltoes) 」との連携に関する協定、およびJUNCTION本部とのライセンス契約を締結したことにより、日本誘致が実現しました",
+    "url": "https://www.kyutech.ac.jp/whats-new/topics/entry-11699.html",
+    "pass": 3
+   },
+   {
+    "quote": "JUNCTION PRODUCE – ジャンクションプロデュース 公式サイト",
+    "url": "https://junction-produce.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "JUNCTIONPRODUCE WebShop①",
+    "url": "https://junction-produce.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "JUNCTIONPRODUCE公式サイトをリニューアルしまし...",
+    "url": "https://junction-produce.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "[No.1 VIPCAR by JUNCTION PRODUCE]のこだわりです",
+    "url": "https://junction-produce.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota Land Cruiser Prado",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "4. The affiliated Pro forma invoice will be sent to you through email or fax, so do check your emails.",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "5. CIF Prices, all bank details and the mode of payment will be mentioned in the Pro forma invoice.",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, all Brand New vehicles that are eligible for export from Japan have to legally undergo a Registration Cancellation Process. After which they may appear to be Used Vehicles in documents, but they are to be considered as Brand New Vehicles. Do visit the",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "then Car Junction Japan is the best place for you to easily find all kinds of used car parts at the lowest prices.",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Alert: Protect Yourself from Scammers",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "To safeguard your interests, we urge you to exercise caution. Before making any payments, please verify the bank details on the invoice you received. Ensure that they match exactly with the information provided on our official website. Any discrepancy in the bank details is a red flag, signaling a potential scam.",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "If you encounter any suspicious activity or discrepancies in payment information, please refrain from proceeding with any transactions. Instead, report the matter immediately to us at",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "4. The affiliated Pro forma invoice will be sent to you through email or fax, so do check your emails.",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "5. CIF Prices, all bank details and the mode of payment will be mentioned in the Pro forma invoice.",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, all Brand New vehicles that are eligible for export from Japan have to legally undergo a Registration Cancellation Process. After which they may appear to be Used Vehicles in documents, but they are to be considered as Brand New Vehicles. Do visit the",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "then Car Junction Japan is the best place for you to easily find all kinds of used car parts at the lowest prices.",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "Alert: Protect Yourself from Scammers",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "To safeguard your interests, we urge you to exercise caution. Before making any payments, please verify the bank details on the invoice you received. Ensure that they match exactly with the information provided on our official website. Any discrepancy in the bank details is a red flag, signaling a potential scam.",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "If you encounter any suspicious activity or discrepancies in payment information, please refrain from proceeding with any transactions. Instead, report the matter immediately to us at",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "JUNCTION PRODUCE WEB SITE",
+    "url": "http://www.junction-produce.co.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "ドレスアップ・エアロパーツはJUNCTION PRODUCE",
+    "url": "http://www.junction-produce.co.jp/html/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading health & wellness companies to scale smarter",
+    "url": "https://www.junction.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ETL pipelines to your warehouse",
+    "url": "https://www.junction.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Since then we’ve helped deliver over 6 million lab tests and helped over 3.5 million patients get better insights on their health from device data, using Junction’s API. Our platform has become the backbone for millions of patient journeys across labs, and is used by the fastest growing healthcare companies, such as Hims, Calm, Superpower.",
+    "url": "https://www.junction.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "automobile manufacturers",
+    "url": "https://www.japanesevehicle.net/",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturers produce or have produced automobiles. Note that",
+    "url": "https://www.japanesevehicle.net/",
+    "pass": 3
+   },
+   {
+    "quote": "(Malaysian classic car manufacturer)",
+    "url": "https://www.japanesevehicle.net/",
+    "pass": 3
+   },
+   {
+    "quote": "Acumen Design Case Study: Studemont Junction – Studemont Junction - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/acumen-design/case-study/studemont-junction-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Studemont Junction - Customer Case Study",
+    "url": "https://www.casestudies.com/company/acumen-design/case-study/studemont-junction-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Studemont Junction used Acumen Design",
+    "url": "https://www.casestudies.com/company/acumen-design/case-study/studemont-junction-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/acumen-design/case-study/studemont-junction-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/acumen-design/case-study/studemont-junction-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies Archives - Lean Manufacturing Junction",
+    "url": "https://lean-manufacturing-junction.com/category/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Key Lean Manufacturing Principles",
+    "url": "https://lean-manufacturing-junction.com/category/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits of Lean Manufacturing – What can it do for your company?",
+    "url": "https://lean-manufacturing-junction.com/category/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "What is Lean Manufacturing?",
+    "url": "https://lean-manufacturing-junction.com/category/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 10 Lean Manufacturing Tools Every Manufacturer Should Use",
+    "url": "https://lean-manufacturing-junction.com/category/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "5 Powerful Tools Manufacturing Companies Should Use to Reduce Waste",
+    "url": "https://lean-manufacturing-junction.com/category/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 5 Lean Manufacturing Certifications for 2027",
+    "url": "https://lean-manufacturing-junction.com/category/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "2026 Lean Manufacturing Events in the USA | LMJ",
+    "url": "https://lean-manufacturing-junction.com/category/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Stop Wasting. Start Improving. A Practical Guide to Lean Manufacturing Principles Training",
+    "url": "https://lean-manufacturing-junction.com/category/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Lean Manufacturing Tools",
+    "url": "https://lean-manufacturing-junction.com/category/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Training",
+    "url": "https://lean-manufacturing-junction.com/category/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Candorem Case Study: Crawfish Junction – Crawfish Junction - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/candorem/case-study/crawfish-junction-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Crawfish Junction - Customer Case Study",
+    "url": "https://www.casestudies.com/company/candorem/case-study/crawfish-junction-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Crawfish Junction used Candorem",
+    "url": "https://www.casestudies.com/company/candorem/case-study/crawfish-junction-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/candorem/case-study/crawfish-junction-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/candorem/case-study/crawfish-junction-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Junction removes friction so your team can deliver seamless care – in your own brand or dashboard.",
+    "url": "https://www.junction.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Junction plugs directly into your existing stack, powering white-labeled test ordering, kit logistics, and results delivery via a single API. Whether you're building your first lab SKU or scaling up to mobile phlebotomy, we take care of the complexity so you can focus on growth.",
+    "url": "https://www.junction.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Junction delivers lab APIs, nationwide coverage, and white-labeled workflows your customers can trust. Build a diagnostics tab in your platform, embed ordering flows, and scale faster with infrastructure designed for flexibility and compliance.",
+    "url": "https://www.junction.com/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Hi! We were notified that the A1C marker on Order #789012 was not processed due to a sample error. We've notified the patient and rescheduled a mobile phlebotomist to arrive at their home",
+    "url": "https://www.junction.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lab testing is part of Enterprise. That includes the lab testing API, our nationwide network (NY, NJ, and RI included), at-home kits and phlebotomy, custom panels, and an operations team that tracks results 6 days a week. There are no upcharges on the tests themselves.",
+    "url": "https://www.junction.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every plan handles data in a HIPAA-compliant way. The signed Business Associate Agreement, our SOC 2 Type 2 and ISO 27001 reports, and customer-managed encryption keys are part of Enterprise.",
+    "url": "https://www.junction.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Specific routes and timelines are yet to be confirmed; however, vehicle arrival dates may be affected.",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "arrange the vehicle you want if its not in stock.",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "6. Arrange Payment. Please note that your selected vehicle will only be reserved on the full receipt of payment.",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Arrangement of shipment can be started from the next day after the receipt of the payment. Usually we never late, however, ocean shipment depends on the shipment destination of your Japanese car and may vary if it faces any unforeseen situation.",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "arrange the vehicle you want if its not in stock.",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "6. Arrange Payment. Please note that your selected vehicle will only be reserved on the full receipt of payment.",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "Arrangement of shipment can be started from the next day after the receipt of the payment. Usually we never late, however, ocean shipment depends on the shipment destination of your Japanese car and may vary if it faces any unforeseen situation.",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "applied to a four-wheeled vehicle designed to carry two to six",
+    "url": "https://www.japanesevehicle.net/",
+    "pass": 3
+   },
+   {
+    "quote": "coach), which is a large public conveyance designed to carry a large",
+    "url": "https://www.japanesevehicle.net/",
+    "pass": 3
+   },
+   {
+    "quote": "extinct, and some are owned by larger companies:",
+    "url": "https://www.japanesevehicle.net/",
+    "pass": 3
+   },
+   {
+    "quote": "Junction Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/junction-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Junction",
+    "url": "https://prospeo.io/c/junction-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/junction-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/junction-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/junction-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Junction?",
+    "url": "https://prospeo.io/c/junction-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Junction generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/junction-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/junction-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/junction-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Junction have?",
+    "url": "https://prospeo.io/c/junction-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/junction-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本での用例は、専らこれを指すことが多い",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3_(%E9%81%93%E8%B7%AF)",
+    "pass": 3
+   },
+   {
+    "quote": "この節は特に記述がない限り、日本国内の法令について解説しています",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3_(%E9%81%93%E8%B7%AF)",
+    "pass": 3
+   },
+   {
+    "quote": "なお、日本ではインターチェンジ（入口・出口）及びジャンクションに起点から終点に向けて連番でナンバリングを行っている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3_(%E9%81%93%E8%B7%AF)",
+    "pass": 3
+   },
+   {
+    "quote": "完全走破!日本縦断2002キロ高速道路の旅",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3_(%E9%81%93%E8%B7%AF)",
+    "pass": 3
+   },
+   {
+    "quote": "日本初! フィンランド発祥の国際ハッカソン「JUNCTION X KYUTECH」を開催しました | トピックス | TOPICS | 九州工業大学",
+    "url": "https://www.kyutech.ac.jp/whats-new/topics/entry-11699.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本初! フィンランド発祥の国際ハッカソン「JUNCTION X KYUTECH」を開催しました",
+    "url": "https://www.kyutech.ac.jp/whats-new/topics/entry-11699.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年9月26日～28日の3日間、フィンランド発祥の欧州最大級のハッカソン「JUNCTION」のローカル版である「JUNCTION X」を日本で初開催しました",
+    "url": "https://www.kyutech.ac.jp/whats-new/topics/entry-11699.html",
+    "pass": 3
+   },
+   {
+    "quote": "本年6月30日、フィンランドのエスポ―市にて、アールト大学の学生起業家支援団体 「Aalto Entrepreneurship Society (Aaltoes) 」との連携に関する協定、およびJUNCTION本部とのライセンス契約を締結したことにより、日本誘致が実現しました",
+    "url": "https://www.kyutech.ac.jp/whats-new/topics/entry-11699.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、フィンランド、日本、バングラデシュ、中国、インドなど、世界各国から集まったプレーヤー、学生スタッフ、サポーターなど、総勢約80名が協力し、多様なアイデア・技術・スキルが交差する中で、さまざまな課題に挑戦する充実した3日間となりました",
+    "url": "https://www.kyutech.ac.jp/whats-new/topics/entry-11699.html",
+    "pass": 3
+   },
+   {
+    "quote": "なお、本大会では、三好 弘晃氏(NEC Fellow・航空宇宙領域)、鬼塚 慎一郎氏(全日空商事株式会社宇宙ビジネス開発室 室長)、亀川 滋郎氏(九州電力株式会社テクニカルソリューション統括本部・DX推進本部・イノベーショングループ長)を審査委員としてお迎えしました",
+    "url": "https://www.kyutech.ac.jp/whats-new/topics/entry-11699.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、九州電力株式会社、京セラ株式会社、トヨタ自動車九州株式会社、日鉄ソリューションズ株式会社、日本電気株式会社(NEC Corporation)、ピクシブ株式会社(pixiv Inc.)、株式会社村田製作所、立命館アジア太平洋大学 (APU)、北九州市および北九州観光コンベンション協会に協賛・後援をいただき、産学連携による新たなイノベーション創出の場として大きな注目を集めました",
+    "url": "https://www.kyutech.ac.jp/whats-new/topics/entry-11699.html",
+    "pass": 3
+   },
+   {
+    "quote": "「Japan Mobility Show Kansai 2025 第13回大阪モーターショー」に出展したセンチュリーSUVが掲載されました",
+    "url": "https://junction-produce.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "それは、純然たる日本本国仕様",
+    "url": "https://junction-produce.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Used Cars, Commercial Vehicles for Sale | CAR JUNCTION",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Popular Japanese Used Cars",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese used vehicles for Africa and Caribbean",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Car Junction is a highly respected used car exporter in Japan with overseas offices in Asia, Africa including Zimbabwe, Tanzania, Zambia, Uganda, Kenya, and Myanmar.",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "How to buy Japanese used vehicles from Car Junction Japan?",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Do you sell commercial vehicles from Japan?",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Do you sell brand new vehicles from Japan?",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, all Brand New vehicles that are eligible for export from Japan have to legally undergo a Registration Cancellation Process. After which they may appear to be Used Vehicles in documents, but they are to be considered as Brand New Vehicles. Do visit the",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Car junction is a registered company based in Japan and has been serving quality vehicles to customers for more than a decade, with more than 80,000",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "worldwide. Read our customer testimonials for more satisfaction. We are a member of major auto auctions in Japan such as USS, JU, BCN, etc.",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "How fast can you ship my Japanese car?",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Arrangement of shipment can be started from the next day after the receipt of the payment. Usually we never late, however, ocean shipment depends on the shipment destination of your Japanese car and may vary if it faces any unforeseen situation.",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "then Car Junction Japan is the best place for you to easily find all kinds of used car parts at the lowest prices.",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Used Cars, Commercial Vehicles for Sale | CAR JUNCTION",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese used vehicles for Africa and Caribbean",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "Car Junction is a highly respected used car exporter in Japan with overseas offices in Asia, Africa including Zimbabwe, Tanzania, Zambia, Uganda, Kenya, and Myanmar.",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to buy Japanese used vehicles from Car Junction Japan?",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "Do you sell commercial vehicles from Japan?",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "Do you sell brand new vehicles from Japan?",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, all Brand New vehicles that are eligible for export from Japan have to legally undergo a Registration Cancellation Process. After which they may appear to be Used Vehicles in documents, but they are to be considered as Brand New Vehicles. Do visit the",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "Car junction is a registered company based in Japan and has been serving quality vehicles to customers for more than a decade, with more than 80,000",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "worldwide. Read our customer testimonials for more satisfaction. We are a member of major auto auctions in Japan such as USS, JU, BCN, etc.",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "How fast can you ship my Japanese car?",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "Arrangement of shipment can be started from the next day after the receipt of the payment. Usually we never late, however, ocean shipment depends on the shipment destination of your Japanese car and may vary if it faces any unforeseen situation.",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "then Car Junction Japan is the best place for you to easily find all kinds of used car parts at the lowest prices.",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本全国から話題のカスタムカーが沖縄に集結!!",
+    "url": "http://www.junction-produce.co.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "1月29日開催の【オートファッションVIPフェストJAPAN】",
+    "url": "http://www.junction-produce.co.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "af VIP FEST Japanに出展致します",
+    "url": "http://www.junction-produce.co.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "10/16開催のSTANCENATION JAPAN G Editionに出店いたします!",
+    "url": "http://www.junction-produce.co.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年のスタンスネイションジャパンは長崎に続き東京お台場で開催",
+    "url": "http://www.junction-produce.co.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "OSAKA AUTO MESSE2015 ありがとう20周年!",
+    "url": "http://www.junction-produce.co.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "11月15日スタンスネーションGエディション東京お台場出展します!",
+    "url": "http://www.junction-produce.co.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "11/15開催のStancenation Japan G edition2015にジャンクションプロデュースブティック泉南も出展します!!",
+    "url": "http://www.junction-produce.co.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "TOKYO AUTO SALON2016に出展します!",
+    "url": "http://www.junction-produce.co.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "2016年開催のTOKYO AUTO SALON2016にジャンクションプロデュースブティック泉南が出展します!!",
+    "url": "http://www.junction-produce.co.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ジャンクションプロデュース 〒586-0077 大阪府河内長野市南花台1-7-1 TEL:0721-55-2222 FAX:0721-55-4444",
+    "url": "http://www.junction-produce.co.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "Car Junction Japan - Japanese Vehicles, Japanese Cars & Sports Cars, Trucks, Buses, Vans &",
+    "url": "https://www.japanesevehicle.net/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese 4WDs",
+    "url": "https://www.japanesevehicle.net/",
+    "pass": 3
+   },
+   {
+    "quote": "Car Junction Japan - Want to buy Japanese Vehicles? New or Used? Just",
+    "url": "https://www.japanesevehicle.net/",
+    "pass": 3
+   },
+   {
+    "quote": "one of the most reputable Auto Mobile Export Company in Japan. Car Junction",
+    "url": "https://www.japanesevehicle.net/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan deals in Japanese new & used vehicles, Japanese reconditioned",
+    "url": "https://www.japanesevehicle.net/",
+    "pass": 3
+   },
+   {
+    "quote": "vehicles and Japanese new & used vehicle parts.",
+    "url": "https://www.japanesevehicle.net/",
+    "pass": 3
+   },
+   {
+    "quote": "Saitama-Ken, Japan.",
+    "url": "https://www.japanesevehicle.net/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本初! フィンランド発祥の国際ハッカソン「JUNCTION X KYUTECH」を... — Oct 22, 2025 · 2025年9月26日～28日の3日間、フィンランド発祥の欧州最大級のハッカソン「JUNCTION」のローカル版である「JUNCTION X」を日本で初開催しました。",
+    "url": "https://www.kyutech.ac.jp/whats-new/topics/entry-11699.html",
+    "pass": 3
+   },
+   {
+    "quote": "新生JUNCTION (@junctionjapan) / X — この度、私たちは新生JUNCTIONとして活動を開始することになりました。 新生JUNCTIONは、旧JUNCTION様および運営会社様とは一切関係ございません。",
+    "url": "https://x.com/junctionjapan",
+    "pass": 3
+   },
+   {
+    "quote": "JUNCTION PRODUCE – ジャンクションプロデュース 公式サイト — すなわち、歴史あるジャパンカスタマイズの 本質そのものとも言える「VIP 魂」。 相反し合う激しさと細やかさの美しいせめぎ合い…・。 それらが昇華し滲み出るその渋み、熟成された姿こそが [No.1 VIPCAR by JUNCTION PRODUCE]のこだわりです。",
+    "url": "https://junction-produce.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "法人様向け 全国対応OA・映像・音響機器レンタル&リース [Junction] — Apr 7, 2026 · 大量導入が必要なイベントや短期プロジェクトでも、在庫不足による遅延リスクを最小限に抑え、必要なタイミングで必要な台数を確実に提供。 機材調達にかかる負担を軽減し、円滑な運営をサポートします。",
+    "url": "https://www.junc.net/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Used Cars, Commercial Vehicles for Sale | CAR JUNCTION — Japanese used cars and commercial vehicles for sale at CAR JUNCTION JAPAN. We also deal in brand new Japanese vehicles, tractors and construction",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Used Cars, Commercial Vehicles for Sale | CAR JUNCTION — Japanese used cars and commercial vehicles for sale at CAR JUNCTION JAPAN. We also deal in brand new Japanese vehicles, tractors and construction",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "JUNCTION PRODUCE WEB SITE — 今週末 沖縄と大阪のイベントにジャンクションプロデュースが出展致します。 沖縄初上陸。 日本全国から話題のカスタムカーが沖縄に集結!! 今回沖縄イベント特価にてジャンクションプロデュース商品を大盤振る舞い致します!! エアロパーツ・アルミホイール・アクセサリー、グッズ等暴走価格でご提供致します。 af VIP FEST Japanに出展致します。 イベント当日のみ!! ・その他パーツ、アクセサリー、グッズ等も全品暴走価格でご提供致します!! 皆様のご来場お待ちしております!! 新商品情報!! スマートフォンケースにNEWデザインが登場!!",
+    "url": "http://www.junction-produce.co.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "Car Junction Japan - Japanese Vehicles, Japanese Cars ... — Car Junction Japan - Japan used vehicles exporter and a online Japanese vehicle showroom. You can buy new or used Japanese cars and other vehicles",
+    "url": "https://www.japanesevehicle.net/",
+    "pass": 3
+   },
+   {
+    "quote": "Junction Home — 中桐聖弥 出演！ 『初恋 Sada Yacco : Japan’s first actress』 12月4日 続きを読む…",
+    "url": "https://junction99.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Studemont Junction - Customer Case Study — Studemont Junction partnered with Acumen Design to solve key challenges. \"Studemont Junction - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/acumen-design/case-study/studemont-junction-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies Archives - Lean Manufacturing Junction — Home›Category: \"Case Studies\" Case Studies",
+    "url": "https://lean-manufacturing-junction.com/category/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Crawfish Junction - Customer Case Study — Crawfish Junction partnered with Candorem to solve key challenges. \"Crawfish Junction - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/candorem/case-study/crawfish-junction-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - mediajunction.com — Case Studies See how the most innovative organizations are driving value with our products.",
+    "url": "https://www.mediajunction.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Junction 2026 Company Profile: Valuation, Funding & Investors ...Junction Revenue, Funding & Valuation - prospeo.ioJunction - $4.1 M Revenue, Employees & Growth | Kona EquityJunction — Company Profile, Funding & InvestorsThe Junction - $3.2 M Revenue, Employees & Growth | Kona EquityJunction AI 2026 Company Profile: Valuation, Funding ...Junction: Funding, Team & Investors | Startup Intros — Infor",
+    "url": "https://pitchbook.com/profiles/company/497867-23",
+    "pass": 3
+   },
+   {
+    "quote": "Junction Revenue, Funding & Valuation - prospeo.io — Junction is a not-for-profit event organizer and tech community, built by developers, students and entrepreneurs. This year, our flagship event Junction 2025 takes place in Espoo on November 14–16.",
+    "url": "https://prospeo.io/c/junction-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Junction - $4.1 M Revenue, Employees & Growth | Kona Equity — Junction has an estimated annual revenue of $4.1 M, 6 employees, headquartered in New York City, NY, founded in 2014. Explore Junction revenue history, growth rate, competitors, and more in the Sports bar industry.",
+    "url": "https://www.konaequity.com/company/junction-4859578087/",
+    "pass": 3
+   },
+   {
+    "quote": "Junction — Company Profile, Funding & Investors — Junction company profile with $18.6M raised across 2 funding rounds, HQ in New York, United States, founded 2015. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/junction",
+    "pass": 3
+   },
+   {
+    "quote": "The Junction - $3.2 M Revenue, Employees & Growth | Kona Equity — Dec 19, 2024 · The Junction, has an estimated annual revenue of $3.2 M, with approximately 7 employees, headquartered in Tucson, AZ, operating in the Apartment Building industry, founded in 2014.",
+    "url": "https://www.konaequity.com/company/the-junction-4398133896/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Important Notice: Beware of fake e-mails/invoices impersonating Car Junction.",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Please confirm that any email or invoice you receive from us originates from",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "4. The affiliated Pro forma invoice will be sent to you through email or fax, so do check your emails.",
+    "url": "https://www.carjunction.com/",
+    "pass": 3
+   },
+   {
+    "quote": "4. The affiliated Pro forma invoice will be sent to you through email or fax, so do check your emails.",
+    "url": "https://www.carjunction.com/home.html",
+    "pass": 3
+   },
+   {
+    "quote": "E-mail:jp@junction-produce.co.jp",
+    "url": "http://www.junction-produce.co.jp/html/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/junction-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "What is the 'baseboard' at the junction of floor and wall for ... 5 days ago · Baseboards are inconspicuous components, but they play an important role in finishing the junction (boundary) between the floor and the wall. This article organizes the basics of baseboards, the approach for double floors and raised floors, and key points to check during floor renovation.",
+    "url": "https://note.com/keen_beetle2227/n/n83e9057001d1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[5 Languages with Latin Roots] Part 23｜note sun ① Junction (Junction) junctum (the act of being bound) + -io (nominalizing suffix) = \"a place where roads, railways, rivers, etc., intersect and merge into one.\" English: junction [noun] branch point/junction/merging point French: la jonction [noun, feminine] connection/junction Italian: la giunzione [noun, feminine] junction/seam Spanish: la unión /",
+    "url": "https://note.com/large_eagle3181/n/n7595561a3200?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Polyester Junction Box Market to Reach USD 1.12 Billion by ... 5 days ago · Polyester junction boxes are non-metallic electrical enclosures primarily molded from glass fiber-reinforced thermosetting polyester resin (GRP) to house and protect terminals, wiring connections, and instrumentation. They offer excellent corrosion resistance, electrical insulation, impact ...",
+    "url": "https://note.com/qy_research/n/na98580c2c11b?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Junction Bistro, Bar & Bakery (@JunctionBakery) / X A three-day weekend means you technically have time for brunch twice. We don't make the rules. The Butcher's Block is on Sunday and again Monday for Labor Day, because one day just didn't seem like enough. 📍 Junction Alexandria #brunch #labordayweekend #bestbrisket",
+    "url": "https://x.com/JunctionBakery",
+    "pass": 3
+   },
+   {
+    "quote": "Junction (@JunctionFi) / Posts / X Junction will be sunsetting it's API at the end of the month, looking for a new place to evolve The platform will still remain functional with some new coming additions",
+    "url": "https://x.com/JunctionFi",
+    "pass": 3
+   },
+   {
+    "quote": "JUNCTION+ (@JUNCTION_SH) / X いつもJUNCTIONをご利用頂きましてありがとうございます。 本日は今の時点で15名のお客様がお待ちです💦 この後かなりの待ち時間を予想されますのでご来店の際はご注意頂きますよう宜しくお願い致します🙇♀️",
+    "url": "https://x.com/JUNCTION_SH",
+    "pass": 3
+   },
+   {
+    "quote": "The Junction (@JunctionAvl) / Posts / X The Junction Restaurant & Bar is located at 348 Depot St. in Asheville's River Arts District. Join us for supper Wed-Sat, or for brunch Sunday 10:30-2:30.",
+    "url": "https://x.com/JunctionAvl",
+    "pass": 3
+   },
+   {
+    "quote": "紬稀つな(novel junction) on X: \"毎日投稿は楽曲のはなしに入ります... 1 day ago · 毎日投稿は楽曲のはなしに入ります！！ まずは「junction」🛣️ #ノベジャ初ワンマン1129 #noveljunction",
+    "url": "https://x.com/tuna_novelj/status/2120157013644902901",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Junction - LinkedIn Developers at leading digital health companies, from Metabolic clinics to Longevity, use Junction to remotely access granular health data from wearables and lab tests.",
+    "url": "https://www.linkedin.com/company/junctionapi/",
+    "pass": 3
+   },
+   {
+    "quote": "Junction - LinkedIn We push the boundaries of technology 🚀 | Junction is Europe's biggest hackathon organizer and tech community, built by developers, students and entrepreneurs.",
+    "url": "https://www.linkedin.com/company/hackjunction",
+    "pass": 3
+   },
+   {
+    "quote": "CJ | LinkedIn Founded in Santa Barbara, California, CJ (formerly Commission Junction) is the world’s most established performance marketing platform, trusted by over 3,800 global brands across retail, travel,...",
+    "url": "https://in.linkedin.com/company/commission-junction",
+    "pass": 3
+   },
+   {
+    "quote": "Junction Consulting - LinkedIn Junction Consulting | 719 followers on LinkedIn. Digital from the inside out | We work with organizations to help them build strong digital teams because we know that digitally-enabled brands...",
+    "url": "https://ca.linkedin.com/company/heyjunction",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "The Junction | Perry MO - FacebookJunction Bistro, Bar & Bakery | Alexandria VA - FacebookThe Junction Function - FacebookThe Reserve at Junction City HOA - Phase One | FacebookJunction Auto Family | Chardon OH - FacebookThe Junction | Aberdeen SD - FacebookThe Junction NYC | New York NY - Facebook 3 hours ago · The Junction The Junction Restaurant and Lounge at 28840 hwy 19 Perry MO, offers somet",
+    "url": "https://www.facebook.com/TheJunctionPerryMo/",
+    "pass": 3
+   },
+   {
+    "quote": "Junction Bistro, Bar & Bakery | Alexandria VA - FacebookThe Junction Function - FacebookThe Reserve at Junction City HOA - Phase One | FacebookJunction Auto Family | Chardon OH - FacebookThe Junction | Aberdeen SD - FacebookThe Junction NYC | New York NY - Facebook Nov 3, 2026 · Maybe a treat you definitely didn’t plan on buying. 👀 The Junction Market has a little bit of all of it — fresh- roasted",
+    "url": "https://www.facebook.com/junctionbakery/",
+    "pass": 3
+   },
+   {
+    "quote": "The Junction Function - Facebook The Junction Function About this group We started this community to bring together collectors from all walks of life and all kinds of fandoms. In the ever-increasing social media landscape, it becomes all too easy to get bombarded by posts about a variety of other topics.",
+    "url": "https://business.facebook.com/groups/thejunctionfunction/",
+    "pass": 3
+   },
+   {
+    "quote": "The Reserve at Junction City HOA - Phase One | Facebook Welcome to the Reserve at Junction City HOA — Phase One — NOT LENNAR HOMES — Residents only group! This is a gathering place for our residents to post...",
+    "url": "https://business.facebook.com/groups/thereserveatjunctioncity/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.junction.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.junction.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.junction.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3_(%E9%81%93%E8%B7%AF)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyutech.ac.jp/whats-new/topics/entry-11699.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/junctionjapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://junction-produce.jp/html/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carjunction.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carjunction.com/home.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.junction-produce.co.jp/html/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanesevehicle.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/acumen-design/case-study/studemont-junction-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lean-manufacturing-junction.com/category/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/candorem/case-study/crawfish-junction-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mediajunction.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ninjaone.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/497867-23",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/junction-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.konaequity.com/company/junction-4859578087/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://acquirezy.com/organization/junction",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keen_beetle2227/n/n83e9057001d1?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/large_eagle3181/n/n7595561a3200?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/qy_research/n/na98580c2c11b?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/JunctionBakery",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JunctionFi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JUNCTION_SH",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JunctionAvl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/junctionapi/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hackjunction",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/commission-junction",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/heyjunction",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheJunctionPerryMo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/junctionbakery/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/thejunctionfunction/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/thereserveatjunctioncity/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tuna_novelj/status/2120157013644902901",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JUNCTION_SH",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Junction 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ジャンクション_(道路)",
+    "https://www.kyutech.ac.jp/whats-new/topics/entry-11699.html",
+    "https://x.com/junctionjapan",
+    "https://junction-produce.jp/html/",
+    "https://www.junc.net/",
+    "https://www.junction-produce.co.jp/html/",
+    "https://www.jreast.co.jp/press/2026/20261110_ho03.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Junction 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendo02.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Junction Japan",
+   "results": [
+    "https://www.carjunction.com/",
+    "https://www.carjunction.com/home.html",
+    "http://www.junction-produce.co.jp/html/",
+    "https://www.japanesevehicle.net/",
+    "https://junction99.com/",
+    "https://junction-produce.jp/html/",
+    "https://maps.google.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Junction manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/acumen-design/case-study/studemont-junction-customer-case-study",
+    "https://lean-manufacturing-junction.com/category/case-studies/",
+    "https://www.casestudies.com/company/candorem/case-study/crawfish-junction-customer-case-study",
+    "https://www.mediajunction.com/case-studies",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://shipjunction.com/case-studies/",
+    "https://www.scribd.com/document/153707154/mJunction-Part-a-IIMC-Case-Study-Final"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Junction white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://creators.riotgames.com/en-us",
+    "https://www.extremenetworks.com/partners"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Junction founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/497867-23",
+    "https://prospeo.io/c/junction-revenue",
+    "https://www.konaequity.com/company/junction-4859578087/",
+    "https://acquirezy.com/organization/junction",
+    "https://www.konaequity.com/company/the-junction-4398133896/",
+    "https://pitchbook.com/profiles/company/232191-64",
+    "https://startupintros.com/orgs/junction"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Junction",
+   "results": [
+    "https://note.com/keen_beetle2227/n/n83e9057001d1?hl=en",
+    "https://note.com/large_eagle3181/n/n7595561a3200?hl=en",
+    "https://note.com/qy_research/n/na98580c2c11b?hl=en",
+    "https://note.com/junction2024/n/n92ab54f4e700?hl=en",
+    "https://note.com/tasty_laelia504/n/ndd37d8ac638b?hl=en",
+    "https://note.com/focus_ultrasound/n/ne228869e103b?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Junction",
+   "results": [
+    "https://x.com/JunctionBakery",
+    "https://x.com/JunctionFi",
+    "https://x.com/JUNCTION_SH",
+    "https://x.com/JunctionAvl",
+    "https://x.com/thejunctionisp",
+    "https://x.com/TheStourbridge",
+    "https://x.com/MPSJunction"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Junction",
+   "results": [
+    "https://www.linkedin.com/company/junctionapi/",
+    "https://www.linkedin.com/company/hackjunction",
+    "https://in.linkedin.com/company/commission-junction",
+    "https://ca.linkedin.com/company/heyjunction",
+    "https://in.linkedin.com/company/computer-junction",
+    "https://na.linkedin.com/company/stone-junction-ltd",
+    "https://za.linkedin.com/company/careerjunction"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Junction",
+   "results": [
+    "https://www.facebook.com/TheJunctionPerryMo/",
+    "https://www.facebook.com/junctionbakery/",
+    "https://business.facebook.com/groups/thejunctionfunction/",
+    "https://business.facebook.com/groups/thereserveatjunctioncity/",
+    "https://www.facebook.com/JunctionAutoFamily/",
+    "https://www.facebook.com/TheJunctionAberdeen/",
+    "https://www.facebook.com/TheJunctionNYC/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Junction note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/sadaaki",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Junction X 投稿",
+   "results": [
+    "https://x.com/tuna_novelj/status/2120157013644902901",
+    "https://x.com/JUNCTION_SH",
+    "https://junction99.com/",
+    "https://www.kyutech.ac.jp/whats-new/topics/entry-12396.html",
+    "https://thejunctionx.com/",
+    "https://kyutech.hackjunction.com/",
+    "https://note.com/junction2024/n/n7535d9c34798"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部41頁・検索12回）"
+ }
+}

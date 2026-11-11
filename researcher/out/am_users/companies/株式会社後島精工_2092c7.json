@@ -1,0 +1,442 @@
+{
+ "name": "株式会社後島精工",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T18:47:08.140360+00:00",
+ "official_url": "http://www.gotoseiko.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒382-0901　長野県須坂市小河原2171-5　旭ケ丘工業団地内 TEL：026-245-7217　FAX：026-248-3828　FAX(直通)：026-248-3836 mail：info@gotoseiko.jp URL：http://www.gotoseiko.jp",
+    "url": "https://gotoseiko.jp/about/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　後島　英理子",
+    "url": "https://gotoseiko.jp/about/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "19名",
+    "url": "https://gotoseiko.jp/about/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "金属・非鉄金属・樹脂等各種材料の加工及び表面処理加工 特に非鉄金属を使用した特殊治工具・装置製造",
+    "url": "https://gotoseiko.jp/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "信州の高原のような厳しい環境下でもしっかりと根を張り、美しい花を咲かせるコマクサのように、他社には真似できない確かな技術を根付かせ、高品質な製品を提供するべく一層の努力をして参ります",
+    "url": "https://gotoseiko.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ステージ（製品吸着部）の仕様については、設計製作いたしますので、様々な製品に対応可能です",
+    "url": "https://gotoseiko.jp/prod-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "・加工過程では各作業間全てで人間の目による製品品質検査をし、",
+    "url": "http://gotoseiko.jp/wp-content/uploads/2023/09/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "使い製品一つ一つを手作業で検査し、次の工程に渡します",
+    "url": "http://gotoseiko.jp/wp-content/uploads/2023/09/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "手間をかけても優先するのは製品になった時のクオリティです",
+    "url": "http://gotoseiko.jp/wp-content/uploads/2023/09/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ステージ(製品吸着部)の仕様については、設計製作いたしますので、",
+    "url": "http://gotoseiko.jp/wp-content/uploads/2023/09/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "金属・非鉄金属・樹脂等各種材料の加工及び表面処理加工",
+    "url": "https://gotoseiko.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "軽量化・コストダウンにも形状、材質変更等で対応致します",
+    "url": "https://gotoseiko.jp/prod-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ、チタン、ステンレス、樹脂等各種素材にて対応致します",
+    "url": "https://gotoseiko.jp/prod-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "形状、材質、構造の提案",
+    "url": "https://gotoseiko.jp/proposal/",
+    "pass": 1
+   },
+   {
+    "quote": "材質、表面処理の提案",
+    "url": "https://gotoseiko.jp/proposal/",
+    "pass": 1
+   },
+   {
+    "quote": "形状、材質、処理の提案",
+    "url": "https://gotoseiko.jp/proposal/",
+    "pass": 1
+   },
+   {
+    "quote": "形状、材質の提案",
+    "url": "https://gotoseiko.jp/proposal/",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容 金属・非鉄金属・樹脂等各種材料の加工及び表面処理加工",
+    "url": "http://gotoseiko.jp/wp-content/uploads/2023/09/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・高性能マシニング装置を使用し、チタン、アルミ、ステンレス、鉄、 樹脂、",
+    "url": "http://gotoseiko.jp/wp-content/uploads/2023/09/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "中でもチタンの加工には多数の実績があり、ドリル加工では最小はØ0.03まで、",
+    "url": "http://gotoseiko.jp/wp-content/uploads/2023/09/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③軽量化・コストダウンにも形状、材質変更等で対応いたします",
+    "url": "http://gotoseiko.jp/wp-content/uploads/2023/09/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "④アルミ、チタン、ステンレス、樹脂等各種素材にて対応いたします",
+    "url": "http://gotoseiko.jp/wp-content/uploads/2023/09/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "後島精工は精密金型や治工具等で培った精密加工技術を更に発展させるべく硬質被膜処理設備、微細加工設備を導入し、電子部品業界向けの特殊治具の製造販売を展開して参りました",
+    "url": "https://gotoseiko.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "後島精工は精密金型や治工具等で培った精密加工技術を更に発展させるべく、硬質被膜処理設備、微細加工設備を導入し、電子部品業界向けの特殊治具の製造販売を展開して参りました",
+    "url": "https://www.atengineer.com/pr/gotoseiko/company",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "mail：info@gotoseiko.jp",
+    "url": "https://gotoseiko.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "mail：info@gotoseiko.jp",
+    "url": "http://gotoseiko.jp/wp-content/uploads/2023/09/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社へのお問い合わせはこちらのページから受け付けております",
+    "url": "https://gotoseiko.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社案内 | 株式会社 後島精工樹脂・金属の精密部品試作加工｜株式会社 後藤精機精密部品 | 微細| 試作| 押出成形機 | 金属部品| 多品種小ロット | MO...小ロット試作と大量生産│株式会社三山精機株式会社やまと精工試作・小ロット生産総合メーカーのゼン｜樹脂加工・金属加工・射出成... — 後島精工は精密金型や治工具等で培った精密加工技術を更に発展させるべく硬質被膜処理設備、微細加工設備を導入し、電子部品業界向けの特殊治具の製造販売を展開して参りました。 株式会社後藤精機は、樹脂や金属の精密試作部品製作を「切削加工」と「試作金型」のデュアルアプローチで解決する開発試作会社です。 しかも提案志向でお客様のさまざまな要望にお応えすることが可能です。 精密部品 、試作部品 、微細 部品 を 製造 しています。 図面がない場合はリバースエンジニアリングにも対応。 アルミ、銅、ステンレス ",
+    "url": "https://gotoseiko.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 後島精工 | “μ”の世界に無限の可能性を求めつづける… — HOME 会社案内 技術紹介 製品紹介 提案・改善 お問い合わせ 〒382-0901 長野県須坂市小河原2171-5 旭ケ丘工業団地内 TEL：026-245-7217 FAX：026-248-3828 FAX (直通)：026-248-3836",
+    "url": "https://gotoseiko.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 株式会社 後島精工 — 後島精工は精密金型や治工具等で培った精密加工技術を更に発展させるべく硬質被膜処理設備、微細加工設備を導入し、電子部品業界向けの特殊治具の製造販売を展開して参りました。",
+    "url": "https://gotoseiko.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 後島精工 - 会社概要 — 株式会社 後島精工の事業概要 後島精工は精密金型や治工具等で培った精密加工技術を更に発展させるべく、硬質被膜処理設備、微細加工設備を導入し、電子部品業界向けの特殊治具の製造販売を展開して参りました。",
+    "url": "https://www.atengineer.com/pr/gotoseiko/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社後島精工（長野県）の会社概要 | Compalyze — 〒382-0901 長野県須坂市に本社を置く株式会社後島精工の企業情報。 株式会社後島精工は、精密加工技術を基盤に、金属、非鉄金属、樹脂などの各種材料加工および表面処理加工を手掛ける企業です。",
+    "url": "https://compalyze.co.jp/company/3100001005893",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社後島精工 会社案内 | イプロスものづくり — 【事業内容】 金属・セラミック・プラスチックの加工及び表面処理加工 特に非鉄素材を使用した特殊治具・装置製造 ※詳しくはPDF資料をご覧いただくか、お気軽にお問い合わせ下さい。",
+    "url": "https://mono.ipros.com/product/detail/2000445486/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社 後島精工 — 当社へのお問い合わせはこちらのページから受け付けております。 下記フォームに必要事項を入力し送信してください。 3営業日以内に、担当者よりご連絡差し上げます。 This site is protected by reCAPTCHA and the GooglePrivacy Policy and Terms of Service apply.",
+    "url": "https://gotoseiko.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "205 日鉄ステンレス（株） jobs (7 new) - LinkedIn 【長野県/須坂市】加工技術の営業職/年間休日121日/残業10h程度/リーダー候補/基本土日祝休み （株）後島精工 Nagano, Japan Be an early applicant 2 months ago",
+    "url": "https://www.linkedin.com/jobs/日鉄ステンレス（株）-jobs-worldwide",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://gotoseiko.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gotoseiko.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gotoseiko.jp/prod-introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gotoseiko.jp/prod-introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gotoseiko.jp/proposal/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "http://gotoseiko.jp/wp-content/uploads/2023/09/%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://test.jpwants.com/gotoseiko.jp/wp-content/uploads/2023/03/会社概要1.png",
+    "status": "network_error:ConnectTimeout",
+    "method": "ocr"
+   },
+   {
+    "url": "https://test.jpwants.com/gotoseiko.jp/wp-content/uploads/2023/03/製品紹介Ⅱ1.jpg",
+    "status": "network_error:ConnectTimeout",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://gotoseiko.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zen.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gotoseiko.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gotoseiko.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/gotoseiko/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/3100001005893",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://gotoseiko.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.nagashima-seiko.co.jp/html/otoiawaseanketo.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "http://www.muroshima-sk.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/日鉄ステンレス（株）-jobs-worldwide",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "後島精工 取扱製品 試作 小ロット",
+   "results": [
+    "https://gotoseiko.jp/about/",
+    "https://www.zen.co.jp/",
+    "https://gotoseiko.jp/",
+    "https://morpha.co.jp/work/precision/",
+    "https://www.miyamaseiki.co.jp/lot/",
+    "https://www.seikoyamato.co.jp/",
+    "https://www.gotoseiki.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "後島精工 会社概要 事業内容",
+   "results": [
+    "https://gotoseiko.jp/about/",
+    "https://www.atengineer.com/pr/gotoseiko/company",
+    "https://compalyze.co.jp/company/3100001005893",
+    "https://mono.ipros.com/product/detail/2000445486/",
+    "https://gotoseiko.jp/",
+    "http://gotos.co.jp/",
+    "https://yashima-seikou.co.jp/aboutus/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "後島精工 お問い合わせ メール",
+   "results": [
+    "https://gotoseiko.jp/contact/",
+    "http://www.nagashima-seiko.co.jp/html/otoiawaseanketo.html",
+    "http://www.muroshima-sk.com/contact/",
+    "https://www.pecj.co.jp/contact/",
+    "https://www.muto.co.jp/contact",
+    "http://www.muroshima-sk.com/contact/mail.php",
+    "https://gotoseiko.jp/contact-confirm/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 後島精工",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com 後島精工",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 後島精工",
+   "results": [
+    "https://jp.linkedin.com/company/top-seiko-co-ltd",
+    "https://www.linkedin.com/jobs/日鉄ステンレス（株）-jobs-worldwide",
+    "https://sg.linkedin.com/in/tianseng-toh",
+    "https://tw.linkedin.com/in/louishou25068450",
+    "https://www.linkedin.com/",
+    "https://bw.linkedin.com/in/koheyworld",
+    "https://jp.linkedin.com/posts/明生-安藤-048a8821a_恋漕ぐ越佐海峡火山と潮の門-activity-7526085533459156992-oIx8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 後島精工",
+   "results": [
+    "https://www.facebook.com/p/有限会社鍋島精工-100054265251932/",
+    "https://www.facebook.com/100066704794732/photos/什器の試作品ポリカーボネート中空ボードと真鍮バーの組合せー-ー-ー-ー-ーcomreは金型作家-室島満の金型作りを基礎としてモノ創り原点から考え直した活動ですo/227373415294745/",
+    "https://www.facebook.com/comremuroshima/",
+    "https://business.facebook.com/groups/flightsimhk/",
+    "https://business.facebook.com/groups/HKSFClub/",
+    "https://www.facebook.com/株式会社冨島精工-103592691182004/",
+    "https://www.facebook.com/subaru.tomishima/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "後島精工 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://houjin.goo.to/corporations/3100001005893",
+    "https://gotoseiko.jp/about/",
+    "https://gotoseiko.jp/",
+    "http://gotos.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "後島精工 X 投稿",
+   "results": [
+    "https://gotoseiko.jp/about/",
+    "https://jp.indeed.com/q-株式会社-後島精工-求人.html?vjk=baca03d41456c238",
+    "https://gotoseiko.jp/",
+    "https://x.com/hotoke1996/status/2120327421669097902",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://x.com/Ohnoseiko_pr",
+    "https://help.x.com/ja/using-x/edit-post"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）",
+  "一点物・少量多品種": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部10頁・検索9回）"
+ }
+}

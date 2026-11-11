@@ -1,0 +1,886 @@
+{
+ "name": "Medpiper",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T19:40:47.914252+00:00",
+ "official_url": "https://www.medpiper.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "5. Seed Round",
+    "value": "11-May-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Build the rails that turn diagnostics and daily health signals into decisions and coverage—so people get timely care and financial protection.",
+    "url": "https://medpiper.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prebuilt connectors, semantics, and workflows to go live in weeks, not quarters.",
+    "url": "https://medpiper.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Platform, Network, and Product Engine—built in‑house to scale health intelligence",
+    "url": "https://medpiper.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Regional Insurance Provider",
+    "url": "https://medpiper.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"MedPiper's platform reduced our underwriting TAT by 38% while improving risk selection accuracy. The seamless integration with our existing systems was a game-changer.\"",
+    "url": "https://medpiper.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Project Healthcare: XCov19",
+    "url": "https://huntscreens.com/ja/products/medpiper-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper Insurance Workflow Transformation | Pranay Suyash",
+    "url": "https://pranaysuyash.com/work/medpiper-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "The operating problem",
+    "url": "https://pranaysuyash.com/work/medpiper-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Insurance sales and operations moved through manual coordination, documentation, scheduling, and onboarding steps. The elapsed turnaround was roughly four weeks, with too much work hidden between teams.",
+    "url": "https://pranaysuyash.com/work/medpiper-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Product judgment, workflow design, platform direction, and cross-functional operating change stayed connected.",
+    "url": "https://pranaysuyash.com/work/medpiper-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Tightened ownership, handoffs, documentation, scheduling, and onboarding around one operating flow.",
+    "url": "https://pranaysuyash.com/work/medpiper-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Kept regulated-context controls and security programmes part of the product operating model rather than an afterthought.",
+    "url": "https://pranaysuyash.com/work/medpiper-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Helped build the product platform as MedPiper scaled to approximately $1M ARR.",
+    "url": "https://pranaysuyash.com/work/medpiper-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Owned product strategy and platform work across three product lines during the company's growth.",
+    "url": "https://pranaysuyash.com/work/medpiper-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Led or supported ISO 27001 recertification and SOC 2 programmes in a regulated operating context.",
+    "url": "https://pranaysuyash.com/work/medpiper-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "This case study is intentionally sanitized. It presents aggregate workflow and ownership evidence without exposing customer, patient, or confidential operating data.",
+    "url": "https://pranaysuyash.com/work/medpiper-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Use the experience page for hiring context or send the current workflow for a scoped discussion.",
+    "url": "https://pranaysuyash.com/work/medpiper-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/medpiper.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/medpiper.com",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Systems (Healthcare)",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   },
+   {
+    "quote": "Buildings and Property",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper’s primary industry is Enterprise Systems (Healthcare).",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   },
+   {
+    "quote": "Is MedPiper a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "MedPiper — \"MedPiper's platform reduced our underwriting TAT by 38% while improving risk selection accuracy. The seamless integration with our existing systems was a game-changer.\"",
+    "url": "https://medpiper.com/",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper Technologies, Inc.: インド、中東、東南アジア向けDaaSプラ... — MedPiperは、インド、中東、東南アジア向けのフルスタックDaaSプラットフォームです。 簡単に利用可能な高品質な検査により、健康データの価値を高め、より良い健康成果と顧客ロイヤルティを実現します。",
+    "url": "https://huntscreens.com/ja/products/medpiper-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper Technologies, Inc - LinkedIn 日本 — MedPiper enables companies deliver consumer grade health checks on scale, unlocking precision health data to build digital health twins and deliver care outcomes for their members.",
+    "url": "https://jp.linkedin.com/company/medpiper",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper — Build the rails that turn diagnostics and daily health signals into decisions and coverage—so people get timely care and financial protection. Three plain reasons to start building with MedPiper. Prebuilt connectors, semantics, and workflows to go live in weeks, not quarters.",
+    "url": "https://medpiper.com/",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper Technologies, Inc - LinkedIn — MedPiper enables companies deliver consumer grade health checks on scale, unlocking precision health data to build digital health twins and deliver care outcomes for their members.",
+    "url": "https://www.linkedin.com/company/medpiper",
+    "pass": 3
+   },
+   {
+    "quote": "MEDPIPER — Welcome to MedPiper! Discover 1000s of jobs and duty vacancies waiting for you! By creating an account, you are agreeing to our Terms of Services and Privacy Policy.",
+    "url": "http://pwa.medpiper.com/",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper Technologies Inc - Company Profile and News — Company profile page for MedPiper Technologies Inc including stock price, company news, executives, board members, and contact information",
+    "url": "https://www.bloomberg.com/profile/company/2011176D:IN",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper insurance workflow transformation - Pranay Suyash — A sanitized professional case study covering workflow redesign, product ownership, regulated-context delivery, and a turnaround reduction from roughly four weeks to roughly ten days.",
+    "url": "https://pranaysuyash.com/work/medpiper-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Medpiper Technologies Pvt Ltd, Authority for Advance Rulings ... — Nov 13, 2024 · Get free access to the complete judgment in Medpiper Technologies Pvt Ltd on CaseMine.",
+    "url": "https://www.casemine.com/judgement/in/674f23fb68606b602deed859",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper Technologies, Inc Revenue 2024: $6.9M Est. ARR — Aug 10, 2026 · Founded in 2020, MedPiper Technologies, Inc has grown to $6.9M in revenue without raising any venture capital or outside funding. As a self-funded Other Analytics Software SaaS company, MedPiper Technologies, Inc has built its business with no outside investment. Nitthin Nair is listed as CEO at MedPiper Technologies, Inc. Wh",
+    "url": "https://getlatka.com/companies/medpiper.com",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper 2026 Company Profile: Valuation, Funding & Investors ...MedPiper - 2026 Company Profile, Team, Funding, Competitors ...Medpiper — Company Profile | The Company CheckMedPiper Technologies – Financials, Industry Trends & Funding …MedPiper Technologies, Inc: Funding, Team & InvestorsMedPiper: Startup Deep Dive Profile — Information on valuation, funding, cap tables, investors, and executives",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper - 2026 Company Profile, Team, Funding, Competitors ...Medpiper — Company Profile | The Company CheckMedPiper Technologies – Financials, Industry Trends & Funding …MedPiper Technologies, Inc: Funding, Team & InvestorsMedPiper: Startup Deep Dive Profile — Mar 22, 2026 · Explore MedPiper's in-depth company profile, including funding details, key investors, leadership, and competitors. Oct 19",
+    "url": "https://tracxn.com/d/companies/medpiper/__d8QRvfTzzKSqcyzwijMBaZszpi4sfpdw_NWa1aLrSqw",
+    "pass": 3
+   },
+   {
+    "quote": "Medpiper — Company Profile | The Company Check — Oct 19, 2026 · Medpiper has raised $250 thousand across 3 funding rounds from investors including Upekkha, Iterative and Y Combinator. The company has 21 employees as of April 05, 2024.",
+    "url": "https://www.thecompanycheck.com/company/b/medpiper/r0of50sk1oeko0rpm",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper Technologies – Financials, Industry Trends & Funding … — Discover MedPiper Technologies's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/medpiper-technologies",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Used software and automation where they removed recurring work, while keeping exception handling visible to operators.",
+    "url": "https://pranaysuyash.com/work/medpiper-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "This case study is intentionally sanitized. It presents aggregate workflow and ownership evidence without exposing customer, patient, or confidential operating data.",
+    "url": "https://pranaysuyash.com/work/medpiper-workflow",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Kept regulated-context controls and security programmes part of the product operating model rather than an afterthought.",
+    "url": "https://pranaysuyash.com/work/medpiper-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "Helped build the product platform as MedPiper scaled to approximately $1M ARR.",
+    "url": "https://pranaysuyash.com/work/medpiper-workflow",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper Technologies, Inc Revenue 2024: $6.9M Est.",
+    "url": "https://getlatka.com/companies/medpiper.com",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper Technologies, Inc revenue",
+    "url": "https://getlatka.com/companies/medpiper.com",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper Technologies, Inc has not published its revenue. GetLatka estimates it at about $6.9M a year (December 2024).",
+    "url": "https://getlatka.com/companies/medpiper.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/medpiper.com",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper Technologies, Inc CEO, founders & employees",
+    "url": "https://getlatka.com/companies/medpiper.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nitthin Nair founded MedPiper Technologies, Inc in 2020 and runs it as CEO. MedPiper Technologies, Inc had 47 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/medpiper.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is MedPiper Technologies, Inc's revenue?",
+    "url": "https://getlatka.com/companies/medpiper.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates MedPiper Technologies, Inc's revenue at about",
+    "url": "https://getlatka.com/companies/medpiper.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does MedPiper Technologies, Inc have?",
+    "url": "https://getlatka.com/companies/medpiper.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/medpiper.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/medpiper.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/medpiper.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/medpiper.com",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper has 40 total employees.",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   },
+   {
+    "quote": "What is MedPiper’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for MedPiper is",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "MedPiper (@MedPiper) / Posts / X Oct 11 Non-STP processes in health insurance used to be of the biggest blockers for adoption and new product creation. With MedPiper, our insurance clients are being delivering STP-level workflows in medical underwriting, with upto 10x improvements from earlier:",
+    "url": "https://x.com/medpiper",
+    "pass": 3
+   },
+   {
+    "quote": "MedPiper on X: \"It is time to celebrate Doctors Day! We bring ... MedPiper on X: \"It is time to celebrate Doctors Day! We bring to you another insightful #webinar, in association with IDA SmartCity Branch, on LifeStyle Diseases - an overview on the 1st of July at 07:30 pm.",
+    "url": "https://x.com/MedPiper/status/1409494981295837185",
+    "pass": 3
+   },
+   {
+    "quote": "Have the power to save or enhance the life of a patient ... Have the power to save or enhance the life of a patient through eye donation.Collaborate with MedPiper for authenticated, peer-verified doctors & healthcare professionals For more details please visit medpiper.com",
+    "url": "https://x.com/MedPiper/status/1301535286602551297",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "MedPiper Technologies, Inc - LinkedIn MedPiper enables companies deliver consumer grade health checks on scale, unlocking precision health data to build digital health twins and deliver care outcomes for their members.",
+    "url": "https://www.linkedin.com/company/medpiper",
+    "pass": 3
+   },
+   {
+    "quote": "Nitthin Chandran Nair - MedPiper Technologies, Inc | LinkedInSivanand Mahapatra - Building Medpiper (YC S20 ...MScribe | prescription-as-api for telemedicine, EHR and e ...JournoMed - LinkedInIshan Srivastava - Building MedPiper (YC S20, GIFT ifih ...Meet the man behind MedPiper on 9th of October ... - LinkedIn Building MedPiper, enabling access to pan-India speciality health checks for precision ",
+    "url": "https://in.linkedin.com/in/nitthinchandran",
+    "pass": 3
+   },
+   {
+    "quote": "Sivanand Mahapatra - Building Medpiper (YC S20 ...MScribe | prescription-as-api for telemedicine, EHR and e ...JournoMed - LinkedInIshan Srivastava - Building MedPiper (YC S20, GIFT ifih ...Meet the man behind MedPiper on 9th of October ... - LinkedIn MedPiper is a PaaS platform driving significant improvements in India's health assessment needs for the health and life insurance sector. MScribe | ",
+    "url": "https://in.linkedin.com/in/sivanandmahapatra",
+    "pass": 3
+   },
+   {
+    "quote": "JournoMed - LinkedIn JournoMed Electronic Health Records (EHR) Software by MedPiper Technologies, Inc See who's skilled in this Add as skill Learn more",
+    "url": "https://www.linkedin.com/products/medpiper-journomed/",
+    "pass": 3
+   },
+   {
+    "quote": "Nitthin Chandran Nair - MedPiper Technologies, Inc | LinkedInNitthin Nair - Y Combinator Founder of MedPiper Technologies, IncMedPiper Technologies, Inc - LinkedInSivanand Mahapatra - Building Medpiper (YC S20 ...Nitthin Nair - Chief Executive Officer at MedPiper ... - ZoomInfo I leverage my economics knowledge and network to create value for the millions of lives we touch via our customers, partn",
+    "url": "https://in.linkedin.com/in/nitthinchandran",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Docal - Facebook Sep 22, 2020 · To make this process faster, a startup I associate (www.medpiper.com) has compiled a Google Form across the following 3 categories, and the team is dedicated full-time to mapping the organisations to local vendors or manpower needed by these organisations.",
+    "url": "https://www.facebook.com/medpiper/",
+    "pass": 3
+   },
+   {
+    "quote": "Medpiper Technologies INC - Facebook Medpiper Technologies INC",
+    "url": "https://www.facebook.com/Medpiper-Technologies-INC-357727050765351/",
+    "pass": 3
+   },
+   {
+    "quote": "The differentiator for MedPiper Technologies The ... - Facebook Apr 9, 2022 · The differentiator for MedPiper Technologies The comprehensive profile for doctors is the main differentiator of MedPiper.",
+    "url": "https://www.facebook.com/medicircle:+Your+Healthcare+Partner/videos/730780451270608/",
+    "pass": 3
+   },
+   {
+    "quote": "Medicircle - MedPiper is connecting healthcare... - Facebook MedPiper is connecting healthcare professionals and healthcare organizations to form a symbiotic relationship. They have two products under MedPiper Technologies – MScribe and MConnekt.",
+    "url": "https://www.facebook.com/medicircle/posts/4886461434742044/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://medpiper.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://medpiper.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://medpiper.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://medpiper.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://medpiper.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://medpiper.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://medpiper.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://medpiper.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://medpiper.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://medpiper.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://medpiper.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://medpiper.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/medpiper-technologies-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/medpiper",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.innervision.co.jp/products/release/20261006",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medipal.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medipal.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://medpeer.jp/conferences",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.firapy.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medpiper.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/medpiper",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "http://pwa.medpiper.com/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bloomberg.com/profile/company/2011176D:IN",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://medpiper.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pranaysuyash.com/work/medpiper-workflow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/medpiper",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ehr.meditech.com/customer-successes",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databricks.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-mobile.com/business/partner-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/medpiper.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/438298-21",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/medpiper/__d8QRvfTzzKSqcyzwijMBaZszpi4sfpdw_NWa1aLrSqw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/medpiper/r0of50sk1oeko0rpm",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/medpiper",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MedPiper/status/1409494981295837185",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MedPiper/status/1301535286602551297",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/medpiper",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/nitthinchandran",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/sivanandmahapatra",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/medpiper-journomed/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/medpiper/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Medpiper-Technologies-INC-357727050765351/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/medicircle:+Your+Healthcare+Partner/videos/730780451270608/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/medicircle/posts/4886461434742044/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/nitthinchandran",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/medpiper",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/medpiper",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Medpiper 日本 導入",
+   "results": [
+    "https://medpiper.com/",
+    "https://huntscreens.com/ja/products/medpiper-technologies-inc",
+    "https://jp.linkedin.com/company/medpiper",
+    "https://www.innervision.co.jp/products/release/20261006",
+    "https://www.salesforce.com/jp/blog/jp-inside-sales-ai-agent-piper/",
+    "https://mediphone.jp/clients/",
+    "https://medi-system.co.jp/case/caselist.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medpiper 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.medipal.co.jp/",
+    "https://www.medipal.jp/",
+    "https://medpeer.jp/conferences",
+    "https://www.firapy.co.jp/",
+    "https://www.ipsen.com/japan/会社/",
+    "https://www.meditec-japan.co.jp/",
+    "https://midea-japan.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medpiper Japan",
+   "results": [
+    "https://medpiper.com/",
+    "https://www.linkedin.com/company/medpiper",
+    "http://pwa.medpiper.com/",
+    "https://www.bloomberg.com/profile/company/2011176D:IN",
+    "https://www.meditec-japan.co.jp/",
+    "http://events.medpiper.com/",
+    "https://www.medi-japan.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medpiper manufacturing customer case study",
+   "results": [
+    "https://medpiper.com/",
+    "https://pranaysuyash.com/work/medpiper-workflow",
+    "https://www.linkedin.com/company/medpiper",
+    "https://ehr.meditech.com/customer-successes",
+    "https://www.casemine.com/judgement/in/674f23fb68606b602deed859",
+    "https://reforgers.com/startups/medpiper-technologies-inc",
+    "https://www.geeksforgeeks.org/gfg-academy/geeksforgeeks-job-portal-medpiper-success-story/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medpiper white label OR reseller OR partner program",
+   "results": [
+    "https://www.databricks.com/partners",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://www.canva.com/partners/reseller/",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/digitalexperience/",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medpiper founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/medpiper.com",
+    "https://pitchbook.com/profiles/company/438298-21",
+    "https://tracxn.com/d/companies/medpiper/__d8QRvfTzzKSqcyzwijMBaZszpi4sfpdw_NWa1aLrSqw",
+    "https://www.thecompanycheck.com/company/b/medpiper/r0of50sk1oeko0rpm",
+    "https://compworth.com/company/medpiper-technologies",
+    "https://startupintros.com/orgs/medpiper-technologies-inc",
+    "https://www.indianstartuptimes.com/startup-deep-dive/medpiper-deep-dive/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Medpiper",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Medpiper",
+   "results": [
+    "https://x.com/medpiper",
+    "https://x.com/MedPiper/status/1409494981295837185",
+    "https://x.com/",
+    "https://x.com/MedPiper/status/1301535286602551297",
+    "https://x.com/journomed",
+    "https://x.com/colormejassy/status/2118498768739790880",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Medpiper",
+   "results": [
+    "https://www.linkedin.com/company/medpiper",
+    "https://in.linkedin.com/in/nitthinchandran",
+    "https://in.linkedin.com/in/sivanandmahapatra",
+    "https://www.linkedin.com/products/medpiper-journomed/",
+    "https://in.linkedin.com/in/ishansrigkp",
+    "https://www.linkedin.com/posts/medpiper_meet-the-man-behind-medpiper-on-9th-of-october-activity-6851534097538457600-X2ph",
+    "https://www.linkedin.com/products/medpiper-mscribe-prescriptionasapi-for-telemedicine-ehr-and-ehealth-providers"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Medpiper",
+   "results": [
+    "https://www.facebook.com/medpiper/",
+    "https://www.facebook.com/Medpiper-Technologies-INC-357727050765351/",
+    "https://www.facebook.com/medicircle:+Your+Healthcare+Partner/videos/730780451270608/",
+    "https://www.facebook.com/medicircle/posts/4886461434742044/",
+    "https://www.facebook.com/journomed/mentions/",
+    "https://www.facebook.com/groups/medpiper/",
+    "https://www.facebook.com/Startup+Leadership/videos/372411764904527/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medpiper note 社長",
+   "results": [
+    "https://medpiper.com/",
+    "https://www.cbinsights.com/company/medpiper/people",
+    "https://in.linkedin.com/in/nitthinchandran",
+    "https://www.ycombinator.com/founders/nitthin-nair",
+    "https://www.linkedin.com/company/medpiper",
+    "https://in.linkedin.com/in/sivanandmahapatra",
+    "https://www.zoominfo.com/p/Nitthin-Nair/3809564823"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medpiper X 投稿",
+   "results": [
+    "https://x.com/medpiper",
+    "https://medpiper.com/",
+    "https://www.linkedin.com/company/medpiper",
+    "http://pwa.medpiper.com/",
+    "https://www.youtube.com/channel/UC9FW1QVOLqe7MSwho5ynzJQ",
+    "https://x.com/MedPiper/status/1301535286602551297",
+    "https://x.com/aigare01/status/2118697413317964180"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部38頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部38頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部38頁・検索12回）"
+ }
+}

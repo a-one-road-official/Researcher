@@ -1,0 +1,391 @@
+{
+ "name": "株式会社インフェック 栃木工場",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T18:59:25.627197+00:00",
+ "official_url": "https://infec.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "栃木県宇都宮市野高谷町299-1",
+    "url": "https://infec.jp/infec_static/companyinfo/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "工場",
+    "value": "栃木工場:栃木県宇都宮市野高谷町299-1 埼玉工場:埼玉県日高市旭ヶ丘554",
+    "url": "https://infec.jp/infec_static/companyinfo/",
+    "pass": 1
+   },
+   {
+    "label": "栃木工場",
+    "value": "栃木県宇都宮市野高谷町299-1",
+    "url": "https://infec.jp/infec_static/companyinfo/",
+    "pass": 1
+   },
+   {
+    "label": "埼玉工場",
+    "value": "埼玉県日高市旭ヶ丘554",
+    "url": "https://infec.jp/infec_static/companyinfo/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "250名(国内グループ全体)",
+    "url": "https://infec.jp/infec_static/companyinfo/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "二輪・四輪の板金部品（試作・量産）の製造 量産用金型の製造 医療用機器、特殊車両、鉄道関連の部品製造 治具・検具の設計及び製造 その他板金部品製造",
+    "url": "https://infec.jp/infec_static/companyinfo/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "会社代表",
+    "value": "代表取締役社長 宇佐美大地",
+    "url": "https://infec.jp/infec_static/companyinfo/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "鉄、アルミ、チタン、ステンレスなど様々な素材に対応いたします",
+    "url": "https://infec.jp/infec_static/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄、アルミ、チタン、ステンレスなど様々な素材に対応いたします",
+    "url": "https://infec.jp/infec_static/product/",
+    "pass": 1
+   },
+   {
+    "quote": "・鉄、アルミ、チタン、ステンレスなどの様々な素材接合を行います",
+    "url": "https://infec.jp/infec_static/product/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "自動車、２輪車、建設機械などの試作板金部品の製造をしております",
+    "url": "https://infec.jp/infec_static/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様から頂いたデータから試作金型を製作し、プレス部品を供給致します",
+    "url": "https://infec.jp/infec_static/",
+    "pass": 1
+   },
+   {
+    "quote": "また、試作だけでなく多品種少量生産も手がけています",
+    "url": "https://infec.jp/infec_static/",
+    "pass": 1
+   },
+   {
+    "quote": "大中小各種単品部品の製作からホワイトボディ（ボディシェル）の組立まで一貫生産が可能です",
+    "url": "https://infec.jp/infec_static/product/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・アルミ・ステンレスなどのパイプを使い、曲げ加工、端末加工、切削仕上げなどの単品から組立の加工を承ります",
+    "url": "https://infec.jp/infec_static/product/",
+    "pass": 1
+   },
+   {
+    "quote": "・カムプレス型の汎用化による試作ボディサイド成形を行うことにより、安定した品質の部品供給を実現します",
+    "url": "https://infec.jp/infec_static/product/",
+    "pass": 1
+   },
+   {
+    "quote": "また、1000tメカプレスで小ロット量産対応も行います",
+    "url": "https://infec.jp/infec_static/product/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "自動車、２輪車、建設機械などの試作板金部品の製造をしております",
+    "url": "https://infec.jp/infec_static/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様から頂いたデータから試作金型を製作し、プレス部品を供給致します",
+    "url": "https://infec.jp/infec_static/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、オートバイ、鉄道関連などの輸送用機器、および建設機械、医療用機器など幅広い分野の板金加工を行っています",
+    "url": "https://infec.jp/infec_static/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用機器、特殊車両、鉄道関連の部品製造",
+    "url": "https://infec.jp/infec_static/companyinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "北関東自動車道 真岡ICから車で20分",
+    "url": "https://infec.jp/infec_static/companyinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、オートバイ、鉄道関連などの輸送用機器、及び建設機器、医療用機器など幅広い分野の板金加工を行っております",
+    "url": "https://infec.jp/infec_static/product/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご希望する製作台数及び製作日程を合わせた製作工程、金型方案、治具方案を検討し具現化いたします",
+    "url": "https://infec.jp/infec_static/product/",
+    "pass": 1
+   },
+   {
+    "quote": "CADによるプレス型及び治具の設計をし、必要に応じCAE(成形シミュレーション)による成形性の確認を行います",
+    "url": "https://infec.jp/infec_static/product/",
+    "pass": 1
+   },
+   {
+    "quote": "・ZAS（亜鉛合金）/FC（鋳鉄）など、要件に合わせた型の製作および治具の製作を行います",
+    "url": "https://infec.jp/infec_static/product/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://infec.jp/infec_static/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infec.jp/infec_static/companyinfo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infec.jp/infec_static/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infec.jp/infec_static/news/2026/10/30/a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://infec.jp/infec_static/news/2026/06/04/a/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://infec.jp/infec_static/wp-content/themes/infectheme/common/image/product_image.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://infec.jp/infec_static/wp-content/themes/infectheme/common/image/product_imag_sp.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://eigyo-mfg.com/service/navi/company/58MDoBGwFDp0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtox.co.jp/kakouba/company/61ea12a3d1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2017",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/4060001002762",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rakuraku-bankin.com/lp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/46755/inquiry/input/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "インフェック 栃木工場 取扱製品 試作 小ロット",
+   "results": [
+    "https://infec.jp/infec_static/companyinfo/",
+    "https://eigyo-mfg.com/service/navi/company/58MDoBGwFDp0",
+    "https://xtox.co.jp/kakouba/company/61ea12a3d1/",
+    "https://infec.jp/infec_static/",
+    "https://mono.ipros.com/product/detail/2000406138/",
+    "https://mono.ipros.com/company/detail/2073588/category/",
+    "https://ja.nc-net.or.jp/company/46755/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "インフェック 栃木工場 会社概要 事業内容",
+   "results": [
+    "https://infec.jp/infec_static/companyinfo/",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2017",
+    "https://compalyze.co.jp/company/4060001002762",
+    "https://mono.ipros.com/company/detail/2073588/",
+    "https://infec.jp/infec_static/",
+    "https://www.toushiikusei.net/business_match/company/print/B61347422.html",
+    "https://catr.jp/companies/9b474/134088"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "インフェック 栃木工場 お問い合わせ メール",
+   "results": [
+    "https://infec.jp/infec_static/contact/",
+    "https://rakuraku-bankin.com/lp/",
+    "https://ja.nc-net.or.jp/company/46755/inquiry/input/",
+    "https://infec.jp/infec_static/companyinfo/",
+    "https://www.infic-g.net/contact",
+    "https://rakuraku-bankin.com/lp/privacy.html",
+    "https://inofex.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com インフェック 栃木工場",
+   "results": [
+    "https://note.com/efec_community/all",
+    "https://note.com/light_cobra3799/n/n25d39007e2e9",
+    "https://note.com/shibusan_3/n/n8d4b1464ed0c",
+    "https://note.com/glossy_swift9674/n/nd1f32f5462e6",
+    "https://note.com/adhdfire/n/ne8d0fd53d1b3",
+    "https://note.com/sawakami_letter/n/n0f3fc7bf346b",
+    "https://note.com/persona7/n/nc821a590574a"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com インフェック 栃木工場",
+   "results": [
+    "https://x.com/EspritToughCars/status/1101344330592149504",
+    "https://x.com/nikka_jp/status/1470679990539026437",
+    "https://x.com/nikka_yoichi/status/1967468427175731385",
+    "https://x.com/BioCthe/status/2029612913275855013",
+    "https://x.com/sora_ao0625/status/2058405397653078222",
+    "https://x.com/IgusJapan/status/1897829837307605260",
+    "https://x.com/ukiukitochigi/status/2105108896394469468"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com インフェック 栃木工場",
+   "results": [
+    "https://jp.linkedin.com/in/健一-森井-67ba2148",
+    "https://www.linkedin.com/jobs/（株）インフェック-jobs-worldwide?f_C=64449433",
+    "https://www.linkedin.com/pub/dir/浩明/岡田/jp-0-Japan",
+    "https://in.linkedin.com/company/inked",
+    "https://be.linkedin.com/company/ecs-intermodal-supply-chain",
+    "https://jp.linkedin.com/in/leonardo-massaru-adaniya-8117a999",
+    "https://il.linkedin.com/in/ofek-pahima-オフェック・パヒマ-38714915a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com インフェック 栃木工場",
+   "results": [
+    "https://www.facebook.com/infic.LC/",
+    "https://www.facebook.com/kingodoseika/posts/栃木工場直売所いつもご利用有難うございます栃木工場直売所です本日祝日ですが営業日となっておりますお近くまでお出掛けの際はご来店お待ちしております新商品の梅こんぶ/1570934569962100/",
+    "https://www.facebook.com/index.php/?lang=jp",
+    "https://www.facebook.com/infic.net/",
+    "https://www.facebook.com/people/インターフェックス-Week/100091744724399/",
+    "https://www.facebook.com/infic.lashic/",
+    "https://www.facebook.com/people/Un-feerique-ｱﾝ-ﾌｪﾘｰｸ/100064637960986/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "インフェック 栃木工場 note 社長",
+   "results": [
+    "https://infec.jp/infec_static/companyinfo/",
+    "https://compalyze.co.jp/company/4060001002762",
+    "https://enpowers.co.jp/voice/infec/",
+    "https://jobtalk.jp/companies/930935/answers?question_codes=president",
+    "https://infec.jp/interview/",
+    "https://houjin.jp/c/4060001002762",
+    "https://catr.jp/companies/9b474/134088"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "インフェック 栃木工場 X 投稿",
+   "results": [
+    "https://infec.jp/infec_static/companyinfo/",
+    "https://rakuraku-bankin.com/lp/",
+    "https://en-hyouban.com/company/10105504142/kuchikomi/",
+    "https://jobtalk.jp/companies/930935/answers",
+    "https://infec.jp/infec_static/",
+    "https://job-gear.net/infecsaiyo2/all/otw_1_20_DUD,ID/MLkyujin_l.htm",
+    "https://job-gear.net/infecsaiyo2/whatsnew.htm?L=BMSList&BCD=otw&NOI=30&SD=UD,ID"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部6頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部6頁・検索9回）",
+  "取扱製品": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部6頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部6頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部6頁・検索9回）"
+ }
+}

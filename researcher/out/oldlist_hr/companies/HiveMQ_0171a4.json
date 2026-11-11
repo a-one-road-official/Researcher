@@ -1,0 +1,1501 @@
+{
+ "name": "HiveMQ",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T18:54:37.224568+00:00",
+ "official_url": "https://www.hivemq.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "06-May-2021 $11.2M $11.2M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/264600-01",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$42,500,000",
+    "url": "https://prospeo.io/c/hivemq-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/hivemq-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Postplatz 397, Landshut, Bayern 84028, DE",
+    "url": "https://prospeo.io/c/hivemq-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2012",
+    "url": "https://prospeo.io/c/hivemq-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Understand and act on operational data in real time to reduce downtime, improve efficiency, and scale what works across every site.",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real operational outcomes at enterprise scale",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Operational data is isolated across machines, systems and sites, preventing a complete, real-time view across the enterprise.",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improvements don't scale",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pilots stall, adoption varies by site, and proven operational improvements never become repeatable patterns across the enterprise.",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connectivity platforms stop at moving data. DataOps and analytics platforms depend on a real-time foundation they don't provide.",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Create a real-time backbone across OT, IT, edge and cloud, so each new data consumer becomes a subscription, not another integration project.",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "data availability, engineering time per use case and site-onboarding time.",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "data-preparation time, site consistency and replication rate.",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "response time, use cases in production and knowledge retention.",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "HiveMQ facilitates real-time communication, allowing for immediate fault detection, calculation of key performance indicators (KPIs), and instantaneous alert generation directly back to the plant floor. This centralized approach streamlines data flow and operational oversight.",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven where industrial operations can't afford to stop",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In production in mission-critical operations",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with one operational improvement. Scale the results.",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with the outcome that matters most. Prove value on the data you already have, then scale the pattern.",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "Ford’s legacy data infrastructure posed significant challenges including high operational costs, limited real-time data availability, and a distributed architecture that hindered scalability across their many operational sites. Each facility was structured differently, making it difficult to deploy global digital initiatives or feed enterprise AI models with the operational data they needed.",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "With limited visibility into machine health, maintenance was complex and resource-intensive, requiring costly onsite personnel to diagnose issues and often leading to unnecessary downtime. The fragmented architecture impeded efficient data utilization and timely decision-making needed to improve maintenance schedules, increase efficiency, and reduce costs.",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "Ford adopted HiveMQ at the core of its data architecture to establish a centralized Industrial IoT (IIoT) monitoring application. The HiveMQ Enterprise Platform enabled real-time, event-driven data streaming from various plant floor assets into a central platform that spanned its global manufacturing network.",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "“HiveMQ facilitates real-time communication, allowing for immediate fault detection, calculation of key performance indicators (KPIs), and instantaneous alert generation directly back to the plant floor.” said Gopalakrishnan Rajaram, Solution Architect - Industrial Systems at Ford. “This centralized approach streamlines data flow and operational oversight.”",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "The architecture ensures high availability and consistent governance across all facilities. This unified real-time data layer allows Ford to operationalize AI, scale predictive maintenance, and roll out new digital initiatives seamlessly across the business.",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "Ford created a repeatable, AI-ready architecture that is transforming how manufacturing teams work. The implementation yielded substantial improvements across several key areas - most notably significant cost savings.",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "“We achieved huge cost savings and improved operational efficiency by moving away from a distributed infrastructure,” said Gopal. “With HiveMQ we significantly reduced support and maintenance expenditures and enhanced operational productivity with the ability to address faults immediately, minimizing downtime.”",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "Ford achieved centralized monitoring and configuration, leading to simplified management processes. The solution's design allows for easy scalability to multiple plants, facilitating consistent data analysis and predictive insights across the enterprise. It also enables performance benchmarking across facilities, driving continuous improvement and alignment to best practices.",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "“The comprehensive data gathered through our HiveMQ IIoT monitoring system provides a fertile ground for developing and deploying a multitude of AI-driven use cases, leading to enhanced decision-making and operational efficiencies,” said Gopal.",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Maintenance: Using real-time data to anticipate equipment failures and schedule maintenance proactively, minimizing downtime.",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "Quality Control: Real-time monitoring of production parameters to ensure consistent product quality and identify deviations promptly.",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy Management: Monitoring energy consumption enterprise-wide to identify inefficiencies and optimize usage.",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "As Ford continues to expand its centralized HiveMQ architecture to several brownfield sites over the coming years, they are achieving scalable plant-to-enterprise visibility and a consistent operational intelligence layer. They are shifting from preventative to predictive maintenance, leading to reduced unplanned downtime.",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "Most importantly, they’ve built a standardized foundation that allows for faster deployment of new analytics and AI use cases. HiveMQ has become the foundation for Ford’s data-driven manufacturing transformation - enabling AI, improving operational reliability, and accelerating digital scalability.",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "HiveMQ serves as the core MQTT hub for secure, real-time data exchange. Instruments in the labs and manufacturing areas publish data through MQTT topics using the Sparkplug B protocol, an industry standard for industrial IoT applications. This data is then subscribed to by the MES/LES systems and seamlessly transmitted to the cloud using HiveMQ’s bridge configuration and Kafka extensions.",
+    "url": "https://www.hivemq.com/case-studies/eli-lilly/",
+    "pass": 1
+   },
+   {
+    "quote": "Lilly utilizes multiple HiveMQ licenses for both its enterprise server and production manufacturing sites. The platform currently incorporates HiveMQ’s Security and Bridge extensions, with plans to leverage the Data Intelligence and Data Lake extensions as part of future Edge 2.0 Unified Namespace implementations.",
+    "url": "https://www.hivemq.com/case-studies/eli-lilly/",
+    "pass": 1
+   },
+   {
+    "quote": "Technical controls to prevent or detect unauthorized testing and unreported data",
+    "url": "https://www.hivemq.com/case-studies/eli-lilly/",
+    "pass": 1
+   },
+   {
+    "quote": "Standardization across multiple sites, reducing paper processes and streamlining workflows",
+    "url": "https://www.hivemq.com/case-studies/eli-lilly/",
+    "pass": 1
+   },
+   {
+    "quote": "was a German automotive manufacturer who is now officially part of Mercedes-Benz, known for its premium brand cars, trucks and buses. Manufacturing quality products is a core value of the Daimler brands. Daimler customers expect their automobiles to be of very high quality and perform flawlessly.",
+    "url": "https://www.hivemq.com/case-studies/daimler/",
+    "pass": 1
+   },
+   {
+    "quote": "Nonstop Manufacturing Process Requires Reliable Software Infrastructure",
+    "url": "https://www.hivemq.com/case-studies/daimler/",
+    "pass": 1
+   },
+   {
+    "quote": "A Reliable Partner Providing Enterprise Support and Maintenance",
+    "url": "https://www.hivemq.com/case-studies/daimler/",
+    "pass": 1
+   },
+   {
+    "quote": "When looking for a MQTT broker, Daimler considered solutions such as Mosquitto or RabbitMQ. They selected HiveMQ due to the professional enterprise support and maintenance provided by HiveMQ.",
+    "url": "https://www.hivemq.com/case-studies/daimler/",
+    "pass": 1
+   },
+   {
+    "quote": "The team at HiveMQ have impressed us since the start. They are very responsive to our questions and requirements and have delivered a high-quality product.",
+    "url": "https://www.hivemq.com/case-studies/daimler/",
+    "pass": 1
+   },
+   {
+    "quote": "“We have been running the VDS using HiveMQ for 4 years and the HiveMQ broker has not gone down. It is rock solid, completely reliable. When we do have to restart the broker, it is a very fast process so our downtime is minimal. This is very important since we can’t stop the factory assembly line.”",
+    "url": "https://www.hivemq.com/case-studies/daimler/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Marketing Officer",
+    "url": "https://www.hivemq.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "HiveMQ is active in the open source community, working with several organizations to advance the adoption of the MQTT protocol for IoT.",
+    "url": "https://www.hivemq.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We take a leadership role in the Eclipse IoT Working Group including the Eclipse Paho project.",
+    "url": "https://www.hivemq.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Access our brand kit and high-resolution logo downloads to ensure the HiveMQ brand is communicated consistently across all channels.",
+    "url": "https://www.hivemq.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "for trusted, AI-ready pipelines that deliver measurable outcomes for the world's leading enterprises. Our mission is to help customers like BMW, Mercedes-Benz, and Eli Lilly turn industrial data into trusted insights and autonomous action at scale.",
+    "url": "https://www.hivemq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We make the complex simple. Our people and products remove friction, think clearly, act decisively, and build solutions that feel natural and easy to adopt for everyone they touch.",
+    "url": "https://www.hivemq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We never settle. Our people push boundaries through innovation and excellence, constantly improving to deliver AI-driven performance that defines the industry.",
+    "url": "https://www.hivemq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We'll make sure you have a proper workstation at home with a laptop, monitor, and all of the modern tools for a productive day.",
+    "url": "https://www.hivemq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We hire the best people for the role and have colleagues across various countries, cultures, and backgrounds.",
+    "url": "https://www.hivemq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Our colleagues are our biggest ambassadors, and we show our appreciation with a referral bonus for referring candidates for open positions.",
+    "url": "https://www.hivemq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The recruitment process",
+    "url": "https://www.hivemq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The HiveMQ Partner Network brings together leading cloud providers, integrators, technology partners, and resellers to deliver real-time industrial data solutions.",
+    "url": "https://www.hivemq.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictable engagement",
+    "url": "https://www.hivemq.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Margin protection and opportunity exclusivity.",
+    "url": "https://www.hivemq.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "HiveMQ provides the secure data backbone while our partners deliver transformation at the edge, in the cloud, and across global operations. Together with three types of partners we power Industrial AI by connecting machines, data, and intelligence in real-time.",
+    "url": "https://www.hivemq.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "If you are ready to lead industrial transformation, we are ready to build with you. Check out our partner program documentation below and apply to become a partner today so you can access our partner portal.",
+    "url": "https://www.hivemq.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Understand the HiveMQ Partner Network, including partner levels, program benefits, MDF, and deal registration.",
+    "url": "https://www.hivemq.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how HiveMQ and partners collaborate, including opportunity management, deal registration, and pricing.",
+    "url": "https://www.hivemq.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "See how deal registration works, including qualification criteria, margin protection, approval timelines, and partner support.",
+    "url": "https://www.hivemq.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Approved partners gain access to our secure Partner Resource Hub with pricing tools, training, and go-to-market assets.",
+    "url": "https://www.hivemq.com/partners/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "HiveMQ | Turn Industrial Data Into Operational Intelligence",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn industrial data into",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See what manufacturers who use HiveMQ can achieve when teams can trust and act on operational data in real time.",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Saved by increasing factory uptime from 99.99% to 99.999%",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Saved through centralized remote monitoring across 513 plants",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "HiveMQ is the industrial data platform for agentic AI that brings the full journey together, from reliable data streaming to trusted intelligence and governed action.",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "HiveMQ facilitates real-time communication, allowing for immediate fault detection, calculation of key performance indicators (KPIs), and instantaneous alert generation directly back to the plant floor. This centralized approach streamlines data flow and operational oversight.",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Solution Architect - Industrial Systems at Ford, Ford",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven where industrial operations can't afford to stop",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how industrial leaders turn data into outcomes",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ford Modernizes Global Manufacturing with Real-Time Data for Intelligent Operations",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Solution Architect - Industrial Systems at Ford",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The solution we built with HiveMQ is critical for maintaining compliance, supporting real-time decision-making, and enabling operational efficiencies across Lilly's manufacturing plants.",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mercedes Benz Drives Smart Manufacturing with HiveMQ: Ensuring Reliability in Automotive Testing",
+    "url": "https://www.hivemq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ford Modernizes Global Manufacturing with Real-Time Data for Intelligent Operations | HiveMQ",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "Ford Modernizes Global Manufacturing with Real-Time Data for Intelligent Operations",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "Modernizing a Fragmented Manufacturing Data Landscape",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "Ford adopted HiveMQ at the core of its data architecture to establish a centralized Industrial IoT (IIoT) monitoring application. The HiveMQ Enterprise Platform enabled real-time, event-driven data streaming from various plant floor assets into a central platform that spanned its global manufacturing network.",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "“HiveMQ facilitates real-time communication, allowing for immediate fault detection, calculation of key performance indicators (KPIs), and instantaneous alert generation directly back to the plant floor.” said Gopalakrishnan Rajaram, Solution Architect - Industrial Systems at Ford. “This centralized approach streamlines data flow and operational oversight.”",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "Ford created a repeatable, AI-ready architecture that is transforming how manufacturing teams work. The implementation yielded substantial improvements across several key areas - most notably significant cost savings.",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "Ford achieved centralized monitoring and configuration, leading to simplified management processes. The solution's design allows for easy scalability to multiple plants, facilitating consistent data analysis and predictive insights across the enterprise. It also enables performance benchmarking across facilities, driving continuous improvement and alignment to best practices.",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "As Ford continues to expand its centralized HiveMQ architecture to several brownfield sites over the coming years, they are achieving scalable plant-to-enterprise visibility and a consistent operational intelligence layer. They are shifting from preventative to predictive maintenance, leading to reduced unplanned downtime.",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "Most importantly, they’ve built a standardized foundation that allows for faster deployment of new analytics and AI use cases. HiveMQ has become the foundation for Ford’s data-driven manufacturing transformation - enabling AI, improving operational reliability, and accelerating digital scalability.",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 1
+   },
+   {
+    "quote": "Solving Connectivity Challenges in Pharma Manufacturing",
+    "url": "https://www.hivemq.com/case-studies/eli-lilly/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2022, Eli Lilly & Co. identified a significant connectivity gap across its lab and manufacturing facilities: many stand-alone benchtop instruments, such as pH meters and balances, were not integrated with any computer systems. This lack of connectivity led to potential data compliance challenges, especially given the regulatory demands in pharma and life sciences.",
+    "url": "https://www.hivemq.com/case-studies/eli-lilly/",
+    "pass": 1
+   },
+   {
+    "quote": "HiveMQ serves as the core MQTT hub for secure, real-time data exchange. Instruments in the labs and manufacturing areas publish data through MQTT topics using the Sparkplug B protocol, an industry standard for industrial IoT applications. This data is then subscribed to by the MES/LES systems and seamlessly transmitted to the cloud using HiveMQ’s bridge configuration and Kafka extensions.",
+    "url": "https://www.hivemq.com/case-studies/eli-lilly/",
+    "pass": 1
+   },
+   {
+    "quote": "Lilly utilizes multiple HiveMQ licenses for both its enterprise server and production manufacturing sites. The platform currently incorporates HiveMQ’s Security and Bridge extensions, with plans to leverage the Data Intelligence and Data Lake extensions as part of future Edge 2.0 Unified Namespace implementations.",
+    "url": "https://www.hivemq.com/case-studies/eli-lilly/",
+    "pass": 1
+   },
+   {
+    "quote": "A standardized interface for faster integration with MES (Manufacturing Execution System) / LES (Lab Execution System)",
+    "url": "https://www.hivemq.com/case-studies/eli-lilly/",
+    "pass": 1
+   },
+   {
+    "quote": "Mercedes Benz Drives Smart Manufacturing with HiveMQ: Ensuring Reliability in Automotive Testing",
+    "url": "https://www.hivemq.com/case-studies/daimler/",
+    "pass": 1
+   },
+   {
+    "quote": "was a German automotive manufacturer who is now officially part of Mercedes-Benz, known for its premium brand cars, trucks and buses. Manufacturing quality products is a core value of the Daimler brands. Daimler customers expect their automobiles to be of very high quality and perform flawlessly.",
+    "url": "https://www.hivemq.com/case-studies/daimler/",
+    "pass": 1
+   },
+   {
+    "quote": "Nonstop Manufacturing Process Requires Reliable Software Infrastructure",
+    "url": "https://www.hivemq.com/case-studies/daimler/",
+    "pass": 1
+   },
+   {
+    "quote": "The VDS has been rolled out in 24 factories around the world. There are 10,000 test devices that connect to the VDS and send 166 messages/second, for a total of nearly 470 million messages/month.",
+    "url": "https://www.hivemq.com/case-studies/daimler/",
+    "pass": 1
+   },
+   {
+    "quote": "HiveMQ Ensures Reliable Messaging to and from Factory Floor",
+    "url": "https://www.hivemq.com/case-studies/daimler/",
+    "pass": 1
+   },
+   {
+    "quote": "“We have been running the VDS using HiveMQ for 4 years and the HiveMQ broker has not gone down. It is rock solid, completely reliable. When we do have to restart the broker, it is a very fast process so our downtime is minimal. This is very important since we can’t stop the factory assembly line.”",
+    "url": "https://www.hivemq.com/case-studies/daimler/",
+    "pass": 1
+   },
+   {
+    "quote": "HiveMQ helps industrial organizations move faster and operate smarter by turning industrial data into real-time intelligence and autonomous action at the edge.",
+    "url": "https://www.hivemq.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Create a meaningful career supporting industrial organizations on their AI, MQTT and IIoT journeys",
+    "url": "https://www.hivemq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "industrial data platform",
+    "url": "https://www.hivemq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "for trusted, AI-ready pipelines that deliver measurable outcomes for the world's leading enterprises. Our mission is to help customers like BMW, Mercedes-Benz, and Eli Lilly turn industrial data into trusted insights and autonomous action at scale.",
+    "url": "https://www.hivemq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The HiveMQ Partner Network brings together leading cloud providers, integrators, technology partners, and resellers to deliver real-time industrial data solutions.",
+    "url": "https://www.hivemq.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial transformation is no longer about connecting devices, it's about turning operational data into real-time intelligence at scale. Ecosystems, not isolated vendors, will define the winners. Join the HiveMQ Partner Network (HPN) for these benefits:",
+    "url": "https://www.hivemq.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Let's build the future of Industrial AI together",
+    "url": "https://www.hivemq.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "HiveMQ provides the secure data backbone while our partners deliver transformation at the edge, in the cloud, and across global operations. Together with three types of partners we power Industrial AI by connecting machines, data, and intelligence in real-time.",
+    "url": "https://www.hivemq.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "If you are ready to lead industrial transformation, we are ready to build with you. Check out our partner program documentation below and apply to become a partner today so you can access our partner portal.",
+    "url": "https://www.hivemq.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "HiveMQ Platform Pricing | Scale Industrial Data as You Grow",
+    "url": "https://www.hivemq.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for high-growth, large-scale industrial deployments.",
+    "url": "https://www.hivemq.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "How does HiveMQ pricing compare to other MQTT brokers and industrial data platforms?",
+    "url": "https://www.hivemq.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Fraud Detection and Real-Time Analytics Success: Araxxe Case Study with HiveMQ",
+    "url": "https://www.hivemq.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Arkea Case Study: Empowering Remote Management with MQTT for Connected Devices | HiveMQ",
+    "url": "https://www.hivemq.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Top German Auto Manufacturer Connects 10M Cars with HiveMQ",
+    "url": "https://www.hivemq.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Driving the Connected Future: Autonomic's Automotive Breakthrough with MQTT and HiveMQ",
+    "url": "https://www.hivemq.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Revolutionizing Automotive Connectivity: MQTT Solutions in Ride-Sharing - Beat Case Study | HiveMQ",
+    "url": "https://www.hivemq.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Revolutionizing Traffic Safety in Smart Cities: A Berlex Case Study | HiveMQ",
+    "url": "https://www.hivemq.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "BMW Mobility Services Drives Connectivity Innovation with HiveMQ: A Case Study in Seamless Car-Sharing Solutions",
+    "url": "https://www.hivemq.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Mercedes Benz Drives Smart Manufacturing with HiveMQ: Ensuring Reliability in Automotive Testing",
+    "url": "https://www.hivemq.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Ford Modernizes Global Manufacturing with Real-Time Data for Intelligent Operations",
+    "url": "https://www.hivemq.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "HiveMQ is now TiSAX-compliant (Trusted Information Security Assessment Exchange), demonstrating our commitment to top-tier security standards for the automotive industry.",
+    "url": "https://www.hivemq.com/solutions/technology/hivemq-security/",
+    "pass": 1
+   },
+   {
+    "quote": "MQTT standards chair Simon Johnson traces the history of MQTT from a 1999 oil pipeline to the data backbone for industrial AI and what comes next.",
+    "url": "https://www.hivemq.com/solutions/technology/hivemq-security/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how HiveMQ’s ISO 27001 and SOC 2 certifications helps companies meet GxP compliance for secure, reliable Industrial IoT data streaming.",
+    "url": "https://www.hivemq.com/solutions/technology/hivemq-security/",
+    "pass": 1
+   },
+   {
+    "quote": "HiveMQ achieves TiSAX compliance, showcasing our commitment to top security standards and delivering trusted solutions for the automotive industry.",
+    "url": "https://www.hivemq.com/solutions/technology/hivemq-security/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive, tailored MQTT, IoT and industrial AI services that turn industrial data into real-time action",
+    "url": "https://www.hivemq.com/company/services/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Lilly utilizes multiple HiveMQ licenses for both its enterprise server and production manufacturing sites. The platform currently incorporates HiveMQ’s Security and Bridge extensions, with plans to leverage the Data Intelligence and Data Lake extensions as part of future Edge 2.0 Unified Namespace implementations.",
+    "url": "https://www.hivemq.com/case-studies/eli-lilly/",
+    "pass": 1
+   },
+   {
+    "quote": "was a German automotive manufacturer who is now officially part of Mercedes-Benz, known for its premium brand cars, trucks and buses. Manufacturing quality products is a core value of the Daimler brands. Daimler customers expect their automobiles to be of very high quality and perform flawlessly.",
+    "url": "https://www.hivemq.com/case-studies/daimler/",
+    "pass": 1
+   },
+   {
+    "quote": "HiveMQ is a remote-first company, a model that fits us best and allows employees to balance work and personal life.",
+    "url": "https://www.hivemq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Employees have the option of meeting in our office in Berlin, Germany.",
+    "url": "https://www.hivemq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "All Employees globally will now receive 5 paid sick days annually, separate from their regular PTO.",
+    "url": "https://www.hivemq.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "HiveMQ Cloud is listed on the Security, Trust, Assurance, and Risk (STAR) Registry which documents the security and privacy controls provided by cloud computing offerings.",
+    "url": "https://www.hivemq.com/solutions/technology/hivemq-security/",
+    "pass": 1
+   },
+   {
+    "quote": "HiveMQ | IoT向け 信頼性の高い MQTTベース メッセージング プラットフォーム | 海外ソフトウェアの購入ならUNIPOS(ユニポス)",
+    "url": "https://www.unipos.net/products/hivemq/",
+    "pass": 3
+   },
+   {
+    "quote": "To the extent legally permissible, HiveMQ makes no representation as to the functionality of this MQTT broker (such as performance, bandwidth or latency) nor gives any guarantees or provides warranties. All liability is excluded.",
+    "url": "https://www.mqtt-dashboard.com/",
+    "pass": 3
+   },
+   {
+    "quote": "By using this MQTT broker you warrant that you are not a sanctioned person nor are you located in a country that is subject to sanctions.",
+    "url": "https://www.mqtt-dashboard.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Araxxe achieves real-time fraud detection and revenue recovery with HiveMQ",
+    "url": "https://www.casestudies.com/company/hivemq",
+    "pass": 3
+   },
+   {
+    "quote": "Araxxe Uses HiveMQ as the Data Foundation to Help Telecom Operators Recover Revenue",
+    "url": "https://www.casestudies.com/company/hivemq",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/264600-01",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/264600-01",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ has 175 total employees.",
+    "url": "https://pitchbook.com/profiles/company/264600-01",
+    "pass": 3
+   },
+   {
+    "quote": "What is HiveMQ’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/264600-01",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for HiveMQ is",
+    "url": "https://pitchbook.com/profiles/company/264600-01",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/hivemq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At HiveMQ",
+    "url": "https://prospeo.io/c/hivemq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/hivemq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/hivemq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/hivemq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of HiveMQ?",
+    "url": "https://prospeo.io/c/hivemq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/hivemq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/hivemq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/hivemq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does HiveMQ have?",
+    "url": "https://prospeo.io/c/hivemq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/hivemq-revenue",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "The HiveMQ Partner Network brings together leading cloud providers, integrators, technology partners, and resellers to deliver real-time industrial data solutions.",
+    "url": "https://www.hivemq.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "If you are ready to lead industrial transformation, we are ready to build with you. Check out our partner program documentation below and apply to become a partner today so you can access our partner portal.",
+    "url": "https://www.hivemq.com/partners/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "HiveMQ Self-Managed Enterprise pricing can be tailored based on capacity and commercial requirements. Please contact us to discuss an Enterprise option.",
+    "url": "https://www.hivemq.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "The collection and processing of personal data is made in accordance with relevant data protection regulations and safeguards for confidential information. Contact us for GDPR DPA and TOMs.",
+    "url": "https://www.hivemq.com/solutions/technology/hivemq-security/",
+    "pass": 1
+   },
+   {
+    "quote": "You always have the ability to talk to an expert when issues or questions arise. In the first year, you can contact us by email anytime and get a prompt response. Also, any updates or bug fixes for your major version are included in the subscription.",
+    "url": "https://www.hivemq.com/company/support/",
+    "pass": 1
+   },
+   {
+    "quote": "Web portal, email",
+    "url": "https://www.hivemq.com/company/support/",
+    "pass": 1
+   },
+   {
+    "quote": "Web portal, email, phone",
+    "url": "https://www.hivemq.com/company/support/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/264600-01",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/hivemq-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "HiveMQ Platform（HiveMQ）の特徴・用途・日本での提供状況 | MFG-AI",
+    "url": "https://mfg-ai.com/vendors/hivemq-platform",
+    "pass": 3
+   },
+   {
+    "quote": "日本での販売・サポート体制は公表資料で確認できない",
+    "url": "https://mfg-ai.com/vendors/hivemq-platform",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サオスの実務者が、貴社の現場とデータに合わせた進め方をご提案します",
+    "url": "https://mfg-ai.com/vendors/hivemq-platform",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "HiveMQ Platform（HiveMQ）の特徴・用途・日本での提供状況 | MFG-AI — HiveMQ Platform（HiveMQ／ドイツ）はデータ基盤・IIoTに分類される製造業向けAIの製品・サービスです。 用途、提供形態、対応業種、価格の公開状況、日本での提供体制を一次情報にもとづき整理しました。",
+    "url": "https://mfg-ai.com/vendors/hivemq-platform",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ | IoT向け 信頼性の高い MQTTベース メッセージング プラット... — ユニポスはHiveMQ の調達販売を行い、海外製品調達に関するお困りごとを解決するサービスです。 全国400社以上の取引実績があるユニポスに海外製品調達はお任せ。",
+    "url": "https://www.unipos.net/products/hivemq/",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ利用企業のレビューまとめ - findy-tools.io — HiveMQの利用企業による導入事例、活用事例を詳しく紹介。リアルな現場からユーザーの声や導入に至った背景、導入効果を ...",
+    "url": "https://findy-tools.io/products/hivemq/1189/reviews",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ を使用している企業 (361) | TheirStack.com — HiveMQ を使用している 361 社のリストをダウンロードできます。 このリストには、業界、企業規模、所在地、資金調達ラウンド、収益数値などの豊富なデータが含まれています。",
+    "url": "https://theirstack.com/ja/technology/hivemq",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ | Turn Industrial Data Into Operational Intelligence — Turn industrial data into operational intelligence with HiveMQ. Connect, contextualize, analyze, and act across edge, on-prem, and cloud.",
+    "url": "https://www.hivemq.com/",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ Dashboard — The MQTT Dashboard runs on a public HiveMQ MQTT broker. Use it to learn MQTT and test publishing and subscribing. For production, explore HiveMQ Platform.",
+    "url": "https://www.mqtt-dashboard.com/",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ — Connect your MQTT devices to our Cloud Native IoT Messaging Broker",
+    "url": "https://console.hivemq.cloud/",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ | Turn Industrial Data Into Operational Intelligence — See what manufacturers who use HiveMQ can achieve when teams can trust and act on operational data in real time. Operational data is isolated across machines, systems and sites, preventing a complete, real-time view across the enterprise.",
+    "url": "https://www.hivemq.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About HiveMQ — HiveMQ is the industrial data platform for Agentic AI. Built on MQTT, HiveMQ connects, contextualizes, analyzes, and enables action on real-time operational data to create trusted, AI-ready pipelines that deliver measurable outcomes from edge to cloud.",
+    "url": "https://www.hivemq.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Connect :: HiveMQ Documentation — Connect is the data streaming layer of the HiveMQ Platform. In Connect, you bring your HiveMQ brokers and HiveMQ Edge instances into the platform, start your data flow, and manage your network from one place.",
+    "url": "https://docs.hivemq.com/hivemq-platform/connect/connect-overview.html",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ — HiveMQ ... HiveMQ",
+    "url": "https://app.hivemq.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Getting started with HiveMQ Platform :: HiveMQ Documentation — The HiveMQ Platform creates a trusted path from MQTT data streaming to real-time data intelligence and governed action. This guide shows you how to deploy a HiveMQ broker, stream test data to it, and begin to explore the data intelligence capabilities of HiveMQ Platform.",
+    "url": "https://docs.hivemq.com/hivemq-platform/get-started-with-hivemq.html",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | HiveMQ — Explore HiveMQ's case studies on how industry leaders build AI-ready industrial data infrastructure with MQTT and Unified Namespace.",
+    "url": "https://www.hivemq.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Modernizes Global Manufacturing with Real-Time Data for ... — Learn how Ford uses HiveMQ to unify real-time manufacturing data across global plants, reducing costs, improving uptime, and accelerating predictive maintenance and AI initiatives.",
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ B2B Case Studies & Customer Successes — See how HiveMQ solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/hivemq",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Ford Motor Company achieves real-time ... — By implementing HiveMQ, Ford established a centralized IIoT monitoring solution that standardized real-time data streaming from thousands of machines. This provided immediate fault detection and alerting.",
+    "url": "https://www.casestudies.com/company/hivemq/case-study/ford-motor-company-cuts-downtime-and-reduces-maintenance-costs-with-hivemq",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Daimler Relies Upon HiveMQ During Automotive ... — Jun 5, 2023 · Learn how and why Daimler uses HiveMQ to manage information flow between vehicle diagnostics system test devices on the factory floor and server-side enterprise IT systems. Vehicle diagnostics systems are a critical part of the manufacturing process.",
+    "url": "https://www.automotivemanufacturingsolutions.com/whitepapers/case-study-daimler-relies-upon-hivemq-during-automotive-manufacturing/541472",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ – Financial Footprint & Growth Factors – 2026 — Discover HiveMQ's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/hivemq",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ 2026 Company Profile: Valuation, Funding & Investors ...HiveMQ - 2026 Company Profile, Team, Funding, Competitors ...HiveMQ Revenue, Funding & Valuation - prospeo.ioHiveMQ: funding rounds, valuation, investors and revenueHiveMQ: Funding, Team & Investors | Startup IntrosHiveMQ: $53.7M Funding, 157 Employees & Latest News | Mandos — Information on valuation, funding, cap tables, investors, a",
+    "url": "https://pitchbook.com/profiles/company/264600-01",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ - 2026 Company Profile, Team, Funding, Competitors ...HiveMQ Revenue, Funding & Valuation - prospeo.ioHiveMQ: funding rounds, valuation, investors and revenueHiveMQ: Funding, Team & Investors | Startup IntrosHiveMQ: $53.7M Funding, 157 Employees & Latest News | Mandos — Mar 9, 2026 · HiveMQ has raised $53.3M in funding from investors like Earlybird, Senovo and Molten Ventures. The company h",
+    "url": "https://tracxn.com/d/companies/hivemq/__iTGsNJ5nMCtRzHwM9drUiBdSpx9vR3PRkxFh0Y75pME",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ Revenue, Funding & Valuation - prospeo.ioHiveMQ: funding rounds, valuation, investors and revenueHiveMQ: Funding, Team & Investors | Startup IntrosHiveMQ: $53.7M Funding, 157 Employees & Latest News | Mandos — HiveMQ has raised a total of $42,500,000 across 1 funding rounds. This investment has helped the company grow and expand its operations. HiveMQ has revenue of $13,500,000, estimated v",
+    "url": "https://prospeo.io/c/hivemq-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ: funding rounds, valuation, investors and revenue — HiveMQ is an enterprise-grade industrial data platform based in Landshut, Germany, specializing in real-time IoT data streaming and messaging. Founded in 2012, the company has established a strong presence in the B2B and SaaS markets, serving over 130 customers, including many Fortune 500 companies.",
+    "url": "https://lounge.ai/companies/hivemq",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "HiveMQ (@HiveMQ) / X HiveMQ is the Industrial AI Platform helping enterprises move from connected devices to intelligent operations.",
+    "url": "https://x.com/HiveMQ",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ on X: \"ICYMI: catch up on all you need to know about ... ICYMI: catch up on all you need to know about the new HiveMQ platform. Connect, Contextualize, Analyze and Act in one platform, bringing operational intelligence to the edge. https://t.co/k85Q9Cvlvc #IndustrialAI #UNS #IIoT #UnifiedNameSpace #mqtt",
+    "url": "https://x.com/HiveMQ/status/2107046118378897638",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ on X: \"Are you looking for a reliable hosted #MQTT ... HiveMQ on X: \"Are you looking for a reliable hosted #MQTT cloud broker that you can use for free for proof of concept & later scale easily without any hassles? We have you covered with the #HiveMQ Cloud Basic Plan.",
+    "url": "https://x.com/HiveMQ/status/1387695467518173185",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ on X: \"\" / X HiveMQ on X: \"\" / X",
+    "url": "https://x.com/HiveMQ/status/2103405905496654002",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ (@HiveMQ) / X The question of the first step in the industrial AI journey is constantly underestimated. HiveMQ Staff Industry Architect, Sven Kobow walks us through what it takes to get off the starting blocks with industrial AI.",
+    "url": "https://x.com/HiveMQ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "HiveMQ - LinkedIn Built on MQTT, HiveMQ connects, contextualizes, analyzes and enables action on data from edge to cloud, creating governed, AI-ready pipelines.",
+    "url": "https://www.linkedin.com/company/hivemq-gmbh",
+    "pass": 3
+   },
+   {
+    "quote": "HiveMQ - LinkedIn Meet HiveMQ, the industrial data platform for agentic AI, helping industrial organizations improve reliability, efficiency and decision-making by turning real-time operational data into trusted...",
+    "url": "https://www.linkedin.com/products/hivemq-gmbh-hivemq/",
+    "pass": 3
+   },
+   {
+    "quote": "Paul McGuire - HiveMQ | LinkedInAlifa Jamal - Demand Gen @ HiveMQ | LinkedInJens Deters – HiveMQ | LinkedInDirector of Product Management - Data Streaming at HiveMQ ...Mapping ISA 95 to MQTT Sparkplug Using Ignition and HiveMQ ... I’m an Enterprise Account Executive & Team Lead, North EMEA at HiveMQ, working with global industrial and manufacturing brands to build a robust MQTT backbone and Unifie",
+    "url": "https://uk.linkedin.com/in/paul-mcguire-66484913",
+    "pass": 3
+   },
+   {
+    "quote": "Alifa Jamal - Demand Gen @ HiveMQ | LinkedInJens Deters – HiveMQ | LinkedInDirector of Product Management - Data Streaming at HiveMQ ...Mapping ISA 95 to MQTT Sparkplug Using Ignition and HiveMQ ... Demand Gen @ HiveMQ · Experience: HiveMQ · Education: Dalhousie University · Location: Toronto · 500+ connections on LinkedIn. View Alifa Jamal’s profile on LinkedIn, a professional... · Berufserfahrun",
+    "url": "https://ca.linkedin.com/in/alifajamal",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Hive MQ | Berlin - FacebookHive MQ - HiveMQ Control Center provides a dashboard that ...Hive MQ - At the ProveIT 2026 conference, HiveMQ... | FacebookHive MQ - Millions of connected devices. Billions ... - FacebookHive MQ - Hey there! If you missed attending the joint ...Hive MQ - HiveMQ Cloud is a game‑changer for IoT builders ...Hive MQ - The #HiveMQ team is proud to announce ... - Facebook Oct ",
+    "url": "https://www.facebook.com/HiveMQ/",
+    "pass": 3
+   },
+   {
+    "quote": "Hive MQ - HiveMQ Control Center provides a dashboard that ... Jul 10, 2019 · HiveMQ Control Center provides a dashboard that allows DevOps adminstrator to monitor and manage #MQTT broker and client deployments. Our unique trace...",
+    "url": "https://www.facebook.com/HiveMQ/posts/2528379253848274/",
+    "pass": 3
+   },
+   {
+    "quote": "Hive MQ - At the ProveIT 2026 conference, HiveMQ... | Facebook Mar 12, 2026 · The first step is an honest question: 'Is our operational data actually in a state a model or an agent can meaningfully use? Contextualized, real time, reliable in quality.' HiveMQ Staff Industry Architect, Sven Kobow walks us through what it takes to get off the starting blocks with industrial AI. GeraldJunior Chavez 1 ",
+    "url": "https://www.facebook.com/HiveMQ/posts/at-the-proveit-2026-conference-hivemq-demonstrated-how-manufacturers-can-build-a/1547693800690732/",
+    "pass": 3
+   },
+   {
+    "quote": "Hive MQ - Millions of connected devices. Billions ... - Facebook Aug 19, 2026 · HiveMQ connects and contextualizes industrial data right where it's created, so every signal arrives with the meaning needed to act on it. Workerbase turns that data into guided workflows for the people running production, on every shift. Join Kudzai Manditereza and Sandrine C. Spence on Oct. 15 in Munich to see the fu",
+    "url": "https://www.facebook.com/HiveMQ/posts/millions-of-connected-devices-billions-of-readings-every-day-all-of-it-relied-up/1695371699256274/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hivemq.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hivemq.com/case-studies/eli-lilly/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hivemq.com/case-studies/daimler/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hivemq.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hivemq.com/company/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hivemq.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hivemq.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hivemq.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hivemq.com/solutions/technology/hivemq-security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hivemq.com/company/support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hivemq.com/company/services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hivemq.com/tags/smart-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hivemq.com/case-studies/auto-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hivemq.com/case-studies/daimler/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hivemq.com/case-studies/eli-lilly/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hivemq.com/case-studies/ford/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.hivemq.com/sb-assets/f/243938/286x309/eb18f316d7/customers-love-us-black_1.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.hivemq.com/sb-assets/f/243938/194x117/b1d882e2a1/generic-auto-icon-white.png/m/0x0/filters:quality(75):format(webp)",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mfg-ai.com/vendors/hivemq-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/products/hivemq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findy-tools.io/products/hivemq/1189/reviews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://theirstack.com/ja/technology/hivemq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mqtt-dashboard.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://console.hivemq.cloud/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.hivemq.com/hivemq-platform/connect/connect-overview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.hivemq.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/company/hivemq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/hivemq/case-study/ford-motor-company-cuts-downtime-and-reduces-maintenance-costs-with-hivemq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.t-mobile.com/business/partner-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databricks.com/blog/introducing-new-databricks-partner-program-and-well-architected-framework-isvs-and-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/hivemq",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/264600-01",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/hivemq/__iTGsNJ5nMCtRzHwM9drUiBdSpx9vR3PRkxFh0Y75pME",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/hivemq-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/HiveMQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HiveMQ/status/2107046118378897638",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HiveMQ/status/1387695467518173185",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HiveMQ/status/2103405905496654002",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hivemq-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/hivemq-gmbh-hivemq/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/paul-mcguire-66484913",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/alifajamal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HiveMQ/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HiveMQ/posts/2528379253848274/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HiveMQ/posts/at-the-proveit-2026-conference-hivemq-demonstrated-how-manufacturers-can-build-a/1547693800690732/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HiveMQ/posts/millions-of-connected-devices-billions-of-readings-every-day-all-of-it-relied-up/1695371699256274/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HiveMQ",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "HiveMQ 日本 導入",
+   "results": [
+    "https://mfg-ai.com/vendors/hivemq-platform",
+    "https://www.unipos.net/products/hivemq/",
+    "https://findy-tools.io/products/hivemq/1189/reviews",
+    "https://theirstack.com/ja/technology/hivemq",
+    "https://www.hivemq.com/",
+    "https://qiita.com/UedaTakeyuki/items/0a6adfb1e4dc2715fdb7",
+    "https://www.tegakari.net/2023/12/hivemq/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HiveMQ 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.hivemq.com/",
+    "https://www.mqtt-dashboard.com/",
+    "https://console.hivemq.cloud/",
+    "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://www.jll.com/ja-jp/about-jll/japan-information",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HiveMQ Japan",
+   "results": [
+    "https://www.hivemq.com/",
+    "https://www.hivemq.com/company/",
+    "https://docs.hivemq.com/hivemq-platform/connect/connect-overview.html",
+    "https://app.hivemq.com/",
+    "https://docs.hivemq.com/hivemq-platform/get-started-with-hivemq.html",
+    "https://findy-tools.io/products/hivemq/1189",
+    "https://marketplace.microsoft.com/ja-jp/product/saas/hivemq1605708894955.hmq_platform?tab=overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HiveMQ manufacturing customer case study",
+   "results": [
+    "https://www.hivemq.com/case-studies/",
+    "https://www.hivemq.com/case-studies/ford/",
+    "https://www.casestudies.com/company/hivemq",
+    "https://www.casestudies.com/company/hivemq/case-study/ford-motor-company-cuts-downtime-and-reduces-maintenance-costs-with-hivemq",
+    "https://www.automotivemanufacturingsolutions.com/whitepapers/case-study-daimler-relies-upon-hivemq-during-automotive-manufacturing/541472",
+    "https://www.featuredcustomers.com/vendor/hivemq/case-studies",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/hivemq_leading-pharmaceutical-_887012.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HiveMQ white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://www.databricks.com/blog/introducing-new-databricks-partner-program-and-well-architected-framework-isvs-and-data",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/digitalexperience/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HiveMQ founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/hivemq",
+    "https://pitchbook.com/profiles/company/264600-01",
+    "https://tracxn.com/d/companies/hivemq/__iTGsNJ5nMCtRzHwM9drUiBdSpx9vR3PRkxFh0Y75pME",
+    "https://prospeo.io/c/hivemq-revenue",
+    "https://lounge.ai/companies/hivemq",
+    "https://startupintros.com/orgs/hivemq",
+    "https://mandos.io/data/companies/hivemq"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com HiveMQ",
+   "results": [
+    "https://note.com/dashboard",
+    "https://note.com/akiman/n/n71cff9589662",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/cute_willet990/n/n9529041a97d7",
+    "https://note.com/quruli/n/n35d2b6cdc37a",
+    "https://note.com/rakbil/n/n16a0b62cd206"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com HiveMQ",
+   "results": [
+    "https://x.com/HiveMQ",
+    "https://x.com/HiveMQ/status/2107046118378897638",
+    "https://x.com/HiveMQ/status/1387695467518173185",
+    "https://x.com/HiveMQ/status/2103405905496654002",
+    "https://x.com/HiveMQ/status/2107087848255967521",
+    "https://x.com/EMQTech/status/2107208883680989562",
+    "https://x.com/HiveMQ/status/2106371379033477415"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com HiveMQ",
+   "results": [
+    "https://www.linkedin.com/company/hivemq-gmbh",
+    "https://www.linkedin.com/products/hivemq-gmbh-hivemq/",
+    "https://uk.linkedin.com/in/paul-mcguire-66484913",
+    "https://ca.linkedin.com/in/alifajamal",
+    "https://de.linkedin.com/in/jens-deters-4a4a706",
+    "https://uk.linkedin.com/jobs/view/director-of-product-management-data-streaming-at-hivemq-4413587791",
+    "https://pg.linkedin.com/posts/hivemq-gmbh_mapping-isa-95-to-mqtt-sparkplug-using-ignition-activity-6985143409199972352-FdEV"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com HiveMQ",
+   "results": [
+    "https://www.facebook.com/HiveMQ/",
+    "https://www.facebook.com/HiveMQ/posts/2528379253848274/",
+    "https://www.facebook.com/HiveMQ/posts/at-the-proveit-2026-conference-hivemq-demonstrated-how-manufacturers-can-build-a/1547693800690732/",
+    "https://www.facebook.com/HiveMQ/posts/millions-of-connected-devices-billions-of-readings-every-day-all-of-it-relied-up/1695371699256274/",
+    "https://www.facebook.com/HiveMQ/posts/hivemq-cloud-is-a-gamechanger-for-iot-builders-hivemq-clouds-various-plans-inclu/1419594466834000/",
+    "https://www.facebook.com/HiveMQ/posts/the-hivemq-team-is-proud-to-announce-the-release-of-hivemq-enterprise-mqtt-platf/1044696597657124/",
+    "https://www.facebook.com/HiveMQ/posts/4537050302981149/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HiveMQ note 社長",
+   "results": [
+    "https://www.hivemq.com/news/hivemq-announces-strategic-shift-to-become-leading-industrial-ai-platform/",
+    "https://www.hivemq.com/changelog/",
+    "https://www.automation.com/article/hivemq-strategic-shift-become-leading-industrial-ai-platform",
+    "https://councils.forbes.com/profile/Christian-Meinerding-CEO-HiveMQ/e0db523e-56d8-41a2-944b-24bf7e3bda49",
+    "https://www.youtube.com/watch?v=RzP5cX_5DA4",
+    "https://dev.iotforall.com/news/hive-mq-announces-strategic-shift-to-become-leading-industrial-ai-platform",
+    "https://craft.co/hivemq/executives"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "HiveMQ X 投稿",
+   "results": [
+    "https://x.com/HiveMQ",
+    "https://www.hivemq.com/",
+    "https://www.hivemq.com/community/open-source/",
+    "https://docs.hivemq.com/hivemq-platform/get-started-with-hivemq.html",
+    "https://www.hivemq.com/community/",
+    "https://www.hivemq.com/mqtt/public-mqtt-broker/",
+    "https://app.hivemq.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像2件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式17頁／PDF・画像2件／外部32頁・検索12回）"
+ }
+}

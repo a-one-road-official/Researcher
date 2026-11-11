@@ -1,0 +1,408 @@
+{
+ "name": "株式会社相馬製作所",
+ "aliases": [],
+ "context": "ipros_all:多品種",
+ "researched_at": "2026-11-11T19:25:27.710663+00:00",
+ "official_url": "https://soma-ss.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表",
+    "value": "代表取締役社長　羽山　勝彦",
+    "url": "https://www.soma-ss.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社 〒332-0002　埼玉県川口市弥平1丁目19番16号 本社第2工場 〒332-0003　埼玉県川口市東領家3丁目11番13号 本社物流倉庫 〒332-0003　埼玉県川口市東領家3丁目13番4号 福島工場 〒975-0062　福島県南相馬市原町区本陣前3丁目58番地",
+    "url": "https://www.soma-ss.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "営業品目",
+    "value": "精密板金/ファイバーレーザ・溶接加工/プレス加工・金型製作/総合組立/焼き付け塗装/各種めっき塗装/シルク印刷",
+    "url": "https://www.soma-ss.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "常用60名／パート6名（2026年3月5日現在）",
+    "url": "https://www.soma-ss.co.jp/company/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "技術力とは、口で説明するものではなく、製品で証明するものです",
+    "url": "https://www.soma-ss.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "精密板金加工を中心に、多様な製品に対応してきた実績があります",
+    "url": "https://www.soma-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "今後も信頼される製品づくりを続けてまいります",
+    "url": "https://www.soma-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・研究開発（建築・土木・プラント・設備）",
+    "url": "https://ja.nc-net.or.jp/company/79154/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "複雑でも、少量でも、急ぎでも——",
+    "url": "https://www.soma-ss.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「試作は1個だけ、短納期でお願いしたいんだけど…」",
+    "url": "https://www.soma-ss.co.jp/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 相馬製作所 | 株式会社相馬製作所 — 私たちが特に自信を持つ技術をご覧ください。 技術力とは、口で説明するものではなく、製品で証明するものです。 機械のダイナミックな動き、職人の緻密な手さばきが、私たちの品質の理由を物語っています。",
+    "url": "https://www.soma-ss.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "設備紹介 - 株式会社 相馬製作所 | 株式会社相馬製作所 — Equipment 設備紹介 設備と運用の両面で、品質を支えています。 生産効率と加工精度を両立するための設備環境を整えています。 また、設備性能を十分に発揮させるための運用ノウハウと現場対応力により、安定した製品づくりを実現しています。",
+    "url": "https://www.soma-ss.co.jp/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社 相馬製作所 | 株式会社相馬製作所 — Company 会社概要 ものづくりの基盤を着実に築いてきました。 精密板金加工を中心に、多様な製品に対応してきた実績があります。 変化するニーズに応えながら、技術と品質の向上に継続して取り組んでいます。 今後も信頼される製品づくりを続けてまいり ...",
+    "url": "https://www.soma-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 相馬製作所 | 株式会社相馬製作所 — 私たち相馬製作所は、1968年の創業以来、そうしたお客様の切実な声に真正面から向き合い続けてきました。 私たちの理念は「高品質・低コスト・確実な納期」。 言うのは簡単ですが、これを実現し続けるのは容易ではありません。",
+    "url": "https://www.soma-ss.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社相馬製作所の会社概要・製品情報 | Metoree — 株式会社相馬製作所は1968年に設立された埼玉県川口市弥平1丁目19番16号に本社が所在する会社です。 溶接加工、レーザー加工、メッキ加工、表面処理、板金加工、機械加工等を取り扱っています。",
+    "url": "https://metoree.com/companies/1052185/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社相馬製作所 | 加工会社ナビ — 株式会社相馬製作所の 概要 同社は、通信機器、医療機器、自動車、事務機、光学機器装飾品など幅広い分野向けに精密板金加工、プレス加工、レーザー加工を提供しています。",
+    "url": "https://eigyo-mfg.com/service/navi/company/Bxh249HuEkng",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社相馬製作所（埼玉県）の会社概要・役員 | Compalyze — 事業概要 株式会社相馬製作所は、精密板金加工を中核に、ファイバーレーザー加工・溶接、プレス加工・金型製作、総合組立、焼付け塗装、めっき処理、シルク印刷を手掛ける金属製品メーカーである。",
+    "url": "https://compalyze.co.jp/company/8030001075700",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社 相馬製作所 | 株式会社相馬製作所 — Contact お問い合わせ まずはお気軽にご相談ください。 図面段階でのご相談や、加工可否の確認など、内容に関わらず対応いたします。 技術的な観点から、現実的な提案をさせていただきます。",
+    "url": "https://www.soma-ss.co.jp/contact",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社 相馬製作所 埼玉県 川口市 — Oct 6, 2022 · サービスについて 会員サービスについて ホームページ制作 動画制作 メディア・リサーチ事業 メールマガジンの配信停止 NCネットワークについて 企業サイト 会社案内 NCネットワークが目指すもの 採用情報 会社案内 特定商取引に基づく表記 広告掲載 個人 ...",
+    "url": "https://ja.nc-net.or.jp/company/79154/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 相馬製作所 | 株式会社相馬製作所 — 複雑でも、少量でも、急ぎでも—— どんな案件も、前を向いてひたむきに向き合えば、 必ず答えは出ると信じています。 ものづくりへの純粋な熱量が、 1968 年から相馬製作所を動かしてきた力です。 あなたのつくりたいに、全力で応えます。",
+    "url": "https://www.soma-ss.co.jp/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "精密板金/ファイバーレーザ・溶接加工/プレス加工・金型製作/総合組立/焼き付け塗装/各種めっき塗装/シルク印刷",
+    "url": "https://www.soma-ss.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせ - 株式会社 相馬製作所 | 株式会社相馬製作所",
+    "url": "https://www.soma-ss.co.jp/contact",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社 相馬製作所 埼玉県 川口市",
+    "url": "https://ja.nc-net.or.jp/company/79154/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること",
+    "url": "https://ja.nc-net.or.jp/company/79154/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします",
+    "url": "https://ja.nc-net.or.jp/company/79154/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします",
+    "url": "https://ja.nc-net.or.jp/company/79154/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "くろでん☎︎ on X: \"@chabose1111 あっ！相馬製作所は二、三年前に火事... あっ！ 相馬製作所は二、三年前に火事で全焼しちゃったんですよ😂 相当入れ込んでましたね👍🏻 11:11 AM · Nov 4, 2026 · 77 Views 1 3 見えない子ちゃん @chabose1111 9h ええええ‼️ けっこうしょっく‼️ 1 3 16",
+    "url": "https://x.com/kuroden4a/status/2117937803753570687",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 相馬製作所 | Kawaguchi-shi Saitama - Facebook May 14, 2023 · 皆さま、はじめまして！ 株式会社相馬製作所と申します。 本日より、Facebookページを開設いたしました！ 板金加工って何？ どんな事が出来るの？ 建物の外からではわからない、様々な情報を 当ページから発信して参ります！",
+    "url": "https://www.facebook.com/somass1968/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 相馬製作所 - イエローハットラリー号のドライバー 天野選手... 株式会社 相馬製作所 opesrSntdorfhu0162h1hli12p6lc7230A2a,1900c11tf273494c0ii9l · Shared with Public イエローハットラリー号のドライバー 天野選手様と コ・ドライバーの羽琉様より、御依頼を頂き",
+    "url": "https://www.facebook.com/somass1968/posts/イエローハットラリー号のドライバー-天野選手様とコドライバーの羽琉様より御依頼を頂きロードブックホルダーを試作させて頂きました図面無しかつ提供頂いたサンプル品か/113500305046319/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 相馬製作所 - 当社は、イエローハットラリーチーム様を応援... 株式会社 相馬製作所 eSdonrpots14yf16fMll05i,00aacg6l3t210018tm1830c216ci7u4cgg · Shared with Public",
+    "url": "https://www.facebook.com/somass1968/posts/当社はイエローハットラリーチーム様を応援しています当社では車内で使用するラリー用品の設計と製作を御手伝いさせて頂いております微力ながら天野様と羽琉様の更なる御活/138672875862395/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://soma-ss.co.jp",
+    "status": "network_error:SSLError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://azuma-seisakusho.com/metal_processing1/a3e0eea5-e160-46e7-b61e-42e385cf58f1",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soma-ss.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soma-ss.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soma-ss.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/1052185/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.soma-ss.co.jp/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/79154/inquiry/input/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.souma-seimenjo.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kuroden4a/status/2117937803753570687",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/somass1968/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/somass1968/posts/イエローハットラリー号のドライバー-天野選手様とコドライバーの羽琉様より御依頼を頂きロードブックホルダーを試作させて頂きました図面無しかつ提供頂いたサンプル品か/113500305046319/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/somass1968/posts/当社はイエローハットラリーチーム様を応援しています当社では車内で使用するラリー用品の設計と製作を御手伝いさせて頂いております微力ながら天野様と羽琉様の更なる御活/138672875862395/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "相馬製作所 取扱製品 試作 小ロット",
+   "results": [
+    "https://azuma-seisakusho.com/metal_processing1/a3e0eea5-e160-46e7-b61e-42e385cf58f1",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://www.soma-ss.co.jp/",
+    "https://www.soma-ss.co.jp/equipment/",
+    "https://kouno-ss.com/small-lot/",
+    "https://www.kobama-works.com/product.html",
+    "https://satoss.co.jp/capabilities/lot-production/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "相馬製作所 会社概要 事業内容",
+   "results": [
+    "https://www.soma-ss.co.jp/company/",
+    "https://www.soma-ss.co.jp/",
+    "https://metoree.com/companies/1052185/",
+    "https://eigyo-mfg.com/service/navi/company/Bxh249HuEkng",
+    "https://compalyze.co.jp/company/8030001075700",
+    "https://www.msjobnavi.jp/kigyo/株式会社　相馬製作所",
+    "https://souma-kk.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "相馬製作所 お問い合わせ メール",
+   "results": [
+    "https://www.soma-ss.co.jp/contact",
+    "https://ja.nc-net.or.jp/company/79154/inquiry/",
+    "https://www.souma-seimenjo.co.jp/contact/",
+    "http://www.so-ma.com/organization/contact.htm",
+    "https://www.soma-ss.co.jp/",
+    "https://soma-s.com/contact",
+    "http://souma-k.com/contact/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 相馬製作所",
+   "results": [
+    "https://note.com/blinkingfactory/all",
+    "https://note.com/blinkingfactory",
+    "https://note.com/borsakoma_1982",
+    "https://tales.note.com/",
+    "https://note.com/blinkingfactory/n/n57ef65f04320",
+    "https://note.com/borsakoma_1982/n/na62d2fc54cd1",
+    "https://note.com/elysium3d/n/n33feef44f8b0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 相馬製作所",
+   "results": [
+    "https://x.com/kuroden4a/status/2117937803753570687",
+    "https://x.com/kabutie_jp/status/2099345121510838491",
+    "https://x.com/SOMATO_tubuyaki",
+    "https://x.com/soma_lie",
+    "https://x.com/soumakaminokoto",
+    "https://x.com/princico/status/2102575243575669001",
+    "https://x.com/SOMUCH_"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 相馬製作所",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 相馬製作所",
+   "results": [
+    "https://www.facebook.com/somass1968/",
+    "https://www.facebook.com/somass1968/posts/イエローハットラリー号のドライバー-天野選手様とコドライバーの羽琉様より御依頼を頂きロードブックホルダーを試作させて頂きました図面無しかつ提供頂いたサンプル品か/113500305046319/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/somass1968/posts/当社はイエローハットラリーチーム様を応援しています当社では車内で使用するラリー用品の設計と製作を御手伝いさせて頂いております微力ながら天野様と羽琉様の更なる御活/138672875862395/",
+    "https://www.facebook.com/somass1968/posts/みなさまこんばんは各地で記録的な黄砂が観測されていますね当社の社用車達も酷い有様ですヽω気管支等弱い方はマスクが欠かせませんね16日にも黄砂の影響があるみたいで/114905448239138/",
+    "https://www.facebook.com/SoulmArkIfme/",
+    "https://www.facebook.com/soumapaper/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "相馬製作所 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.soma-ss.co.jp/company/",
+    "https://compalyze.co.jp/company/8030001075700",
+    "https://note.com/soma_trader",
+    "https://www.soma-ss.co.jp/",
+    "https://note.com/maxsohma",
+    "https://jp.linkedin.com/in/剛-相馬-16177218b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "相馬製作所 X 投稿",
+   "results": [
+    "https://www.soma-ss.co.jp/",
+    "https://x.com/SOMATO_tubuyaki/status/1946878275353252232",
+    "https://x.com/SOMATO_tubuyaki/status/2025879334020591933",
+    "https://x.com/sou020823/status/2118847552888172904",
+    "https://x.com/somakazu/with_replies",
+    "https://x.com/OKYM_kenbokun/status/2119041939106640214",
+    "https://x.com/satoru_s1023/status/1997251323033719106"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部13頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部13頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部13頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部13頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部13頁・検索9回）"
+ }
+}

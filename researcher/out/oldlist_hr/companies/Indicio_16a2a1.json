@@ -1,0 +1,1274 @@
+{
+ "name": "Indicio",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜状態なし",
+ "researched_at": "2026-11-11T18:50:11.374459+00:00",
+ "official_url": "https://indicio.tech",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京都港区赤坂1-12-32 アーク森ビル30階",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "営業問い合わせ先",
+    "value": "Email: indicio-support@nippon-rad.co.jp",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   },
+   {
+    "label": "リリース問い合わせ先",
+    "value": "Email: press-release@nippon-rad.co.jp",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "A Verifiable Credentials Platform For Proving Everything",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Workforce Credentials",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven identity infrastructure",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "in its inaugural Future Digital Awards for Identity & Security, judged by the firm’s analysts. The awards follow Indicio Proven’s Platinum win in Juniper’s Fintech & Payments Awards in June.",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Indicio named a Catalyst in Acuity’s 2026 Financial Services Prism",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Acuity Market Intelligence’s Prism Project recognized Indicio in the Passwordless Authentication category, which \"examines the transformation underway where financial services, digital identity and AI meet, as agentic AI, payment orchestration, digital assets and real-time payments reshape how money moves.\"",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Fraud that took skill and time now takes minutes and a prompt.",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Generated faces pass liveness and video verification.",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "AI defeats one-time codes and push approvals.",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Indicio Proven named Platinum winner in fraud prevention for banks",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Acceptance is settled. Verification — ISO 18013-7 — is what Indicio Proven® does.",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Every traveler and customer carries biometric proof of identity, bound to their device and cryptographically signed by the issuing authority. Relying parties verify a person biometrically without ever storing biometric data.",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Before an AI agent acts, buys, or shares data on your behalf, it has to prove who it is, that you agreed, and that it’s allowed to act. Indicio extends the same verifiable credentials behind national-scale human identity to AI agents.",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "On-premises or cloud, ledger or ledgerless, on sovereign infrastructure when the mandate calls for it.",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring your architecture, your requirements, your constraints. We’ll map them to the platform, walk through the integration path, and show you what a proof of concept looks like.",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Standards & protocols",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Press, analyst and partner coverage",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Airside Workforce Credentials",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Workforce Credentials",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": ", built by Indicio and SITA with the Government of Aruba. The technology that made it possible, tamper-evident, cryptographically verified digital credentials bound to authenticated biometrics, would prove to be far bigger than travel.",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "SITA, the IT provider for the global air transport industry, became Indicio’s lead investor",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "to deliver portable, reusable KYC for financial services, combining world-leading biometric identity proofing with interoperable verifiable credentials.",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Indicio Proven is now deployed to manage its first national border and citizen ID.",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "NVIDIA Inception Program",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Indicio Proven powers identity verification across every major credential format, every major protocol, and every deployment model. The mission hasn’t changed: make trusted data and identity the engine of growth, and do it in a way that protects privacy, works across borders, and puts the individual in control.",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The IT provider for the global air transport industry. SITA powers more than 1,000 airports and serves 400+ airline customers. Its investment validates Indicio’s architecture at global travel scale, and the two companies co-developed the world’s first Digital Travel Credential.",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Biometric identity proofing partner",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Representative vendor, Market Guide for Decentralized Identity (2024, 2025)",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Ranked high on the Product and Positioning axis for applying verifiable credential technology to AI and autonomous systems.",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Praised for a “masterful” biometric implementation",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The 2024 Prism Project Report praised Indicio’s implementation of biometrics in Verifiable Credentials for travel and hospitality.",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Recognized for leadership in digital safety, governance, and privacy, awarded in 2022 and 2024.",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Standards & protocols",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Press, analyst and partner coverage",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Airside Workforce Credentials",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Workforce Credentials",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Indicio Proven delivers verifiable credentials solutions that provide a trust and identity layer across industries and jurisdictions, from airport borders to bank branches to AI-powered compliance. Choose your sector or capability to see how the platform applies to your use case.",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The sectors where verifiable identity creates the most value, in production today.",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Verify a customer once with authenticated biometrics, then reuse that credential across every channel in under a second. No repeated uploads, no biometric database to breach.",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "IDEMIA partnership · Regula integration · Proven AI for KYC",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "450 million citizens, one wallet standard. Proven already supports the formats, protocols, and trust frameworks EUDI requires.",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Built into the Proven platform and available across every deployment. Add what you need via license.",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Biometrics bound to the credential on the holder’s device. Verify a person by face, fingerprint, iris, or voice without storing biometric data. Deepfake-resistant by design.",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label wallet or SDK embed. Every major credential format and protocol from a single codebase, deployed under your brand.",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Add credential issuance, holding, and presentation to your iOS or Android app. Kotlin, Swift, React Native, Flutter.",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven is a modular platform. If your use case involves identity verification, credential issuance, or trusted data exchange, in any sector, we can map it to the architecture.",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Standards & protocols",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Press, analyst and partner coverage",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Airside Workforce Credentials",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Workforce Credentials",
+    "url": "https://indicio.tech/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Path to promotion to full-time roles",
+    "url": "https://indicio.tech/careers/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Every traveler and customer carries biometric proof of identity, bound to their device and cryptographically signed by the issuing authority. Relying parties verify a person biometrically without ever storing biometric data.",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://indicio.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "In March 2023, a traveler arrived in Aruba, looked into a camera, and crossed the border instantly: no passport queue, no document check. It was the",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://indicio.tech/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://indicio.tech/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://indicio.tech/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Indicio listed among APTITUDE consortium members.",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Signicat, SITA and Indicio to test digital travel credentials as part of new EUDI Wallet pilot",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Global airport biometrics push lifts SITA 2024 revenue to $1.6B",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Quest to revolutionise guest journey drives $72 billion revenue for biometric digital identity in travel and hospitality",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Indicio listed as a sponsor of the Prism travel and hospitality report.",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Indicio listed with SITA, IDEMIA and iProov as sponsors of the travel and hospitality Prism report.",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Materna IPS Becomes SITA’s ‘Biggest Acquisition Ever’",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team can arrange interviews and background briefings on verifiable credentials, Digital Travel Credentials, reusable KYC and identity for AI agents.",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "日本ラッド株式会社（東証スタンダード上場、本社：東京都港区赤坂1-12-32 、代表取締役社長：大塚 隆之、以下 「日本ラッド」）は、米国Indicio社の次世代型認証ソリューション「Proven Auth（プルーブン オース）」の国内正規代理店および技術パートナーとして、同製品の提供を開始いたしました",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   },
+   {
+    "quote": "東証スタンダード 上場（コード番号 4736）",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   },
+   {
+    "quote": "日本ラッドは創業55年目を迎える、ソフトウェアの受託開発、ハード・ソフトを組み合わせたシステムインテグレーションを主業務とした東証スタンダード上場企業です",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   },
+   {
+    "quote": "\"Being part of NEC X’s Elev X! program will inform, inspire, and above all, accelerate, our work in making this new, better, simpler and safer digital world a reality.\"",
+    "url": "https://www.nec.com/en/press/202511/global_20251107_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/227422-63",
+    "pass": 3
+   },
+   {
+    "quote": "Indicio has 10 total employees.",
+    "url": "https://pitchbook.com/profiles/company/227422-63",
+    "pass": 3
+   },
+   {
+    "quote": "What is Indicio’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/227422-63",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Indicio is",
+    "url": "https://pitchbook.com/profiles/company/227422-63",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "White-label wallet or SDK embed. Every major credential format and protocol from a single codebase, deployed under your brand.",
+    "url": "https://indicio.tech/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "A market-leading heavy-duty truck OEM standardised its market forecasting across more than 100 countries, and now sees market turns earlier.",
+    "url": "https://www.indicio.com/customers.html",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Case study on Indicio’s open source leadership; quotes Helen Garneau.",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Vision-Box wins Portuguese tender, Collins Aerospace makes deal with Manila airport",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "A global machinery manufacturer strengthened S&OP with a more accurate, explainable 12 to 24 month tactical forecast, aligned with the operational plan in its planning tool.",
+    "url": "https://www.indicio.com/customers.html",
+    "pass": 3
+   },
+   {
+    "quote": "Peer-reviewed, on a global manufacturer's data: 15% improved accuracy of the operational forecast, and less stock at the same fill rate.",
+    "url": "https://www.indicio.com/customers.html",
+    "pass": 3
+   },
+   {
+    "quote": "A tier-1 automotive supplier: 56% better forecast accuracy for its chemical products",
+    "url": "https://www.indicio.com/customers.html",
+    "pass": 3
+   },
+   {
+    "quote": "An automotive manufacturer: 40% better forecast accuracy, trends seen 1–2 months earlier",
+    "url": "https://www.indicio.com/customers.html",
+    "pass": 3
+   },
+   {
+    "quote": "Aviation manufacturing",
+    "url": "https://www.indicio.com/customers.html",
+    "pass": 3
+   },
+   {
+    "quote": "An aviation manufacturer: 40% better market forecast accuracy",
+    "url": "https://www.indicio.com/customers.html",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Also on GlobeNewswire, Yahoo Finance and PR Times (in Japanese).",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "日本ラッド、米Indicio社の次世代型個人認証ソリューション「Proven Auth」を本格展開開始",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Nippon RAD’s full rollout of Indicio’s Proven Auth in Japan. Also on Nikkei BP Active and Yahoo! Finance Japan.",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "日本ラッド、米Indicio社の次世代型個人認証ソリューション「Proven Auth」の本格展開を開始",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Nippon RAD announces the full rollout of Indicio’s Proven Auth in Japan. Also on the Nippon RAD IR newsroom.",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "インディシオとDNPが提携、インディシオアカデミー認定トレーニングを日本市場に提供",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "Announces the Indicio and DNP partnership bringing Indicio Academy certified training to Japan.",
+    "url": "https://indicio.tech/in-the-news/",
+    "pass": 1
+   },
+   {
+    "quote": "日本ラッド、米Indicio社の次世代型個人認証ソリューション「Proven Auth」（より早く、より安全に）の本格展開を開始 - プレスリリース - 日本ラッド株式会社",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   },
+   {
+    "quote": "日本ラッド、米Indicio社の次世代型個人認証ソリューション「Proven Auth」（より早く、より安全に）の本格展開を開始",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   },
+   {
+    "quote": "日本ラッド株式会社（東証スタンダード上場、本社：東京都港区赤坂1-12-32 、代表取締役社長：大塚 隆之、以下 「日本ラッド」）は、米国Indicio社の次世代型認証ソリューション「Proven Auth（プルーブン オース）」の国内正規代理店および技術パートナーとして、同製品の提供を開始いたしました",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   },
+   {
+    "quote": "日本ラッドではIndicio社とのシアトルでの邂逅以来技術的な検証を続けて参りましたが、この度日本国内正規代理店・技術パートナーとして様々なお客様にソリューションとして提供していくことと致しました",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   },
+   {
+    "quote": "「日本では、特に金融業界で口座乗っ取り被害が深刻化しています",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   },
+   {
+    "quote": "日本RAD様との提携により、この課題に本格的に取り組む体制が整いました",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   },
+   {
+    "quote": "日本RAD様の豊富な経験と技術力、そしてIndicioの革新的な受賞技術を組み合わせることで、改ざん不可能な検証可能な認証情報（Verifiable Credentials）を活用した新たなアカウント保護の仕組みを日本市場に提供してまいります",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   },
+   {
+    "quote": "日本ラッド株式会社について - 顧客企業のホームドクターとして -",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   },
+   {
+    "quote": "所在地：東京都港区赤坂1-12-32 アーク森ビル30階",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   },
+   {
+    "quote": "日本ラッドは創業55年目を迎える、ソフトウェアの受託開発、ハード・ソフトを組み合わせたシステムインテグレーションを主業務とした東証スタンダード上場企業です",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   },
+   {
+    "quote": "IndicioアカデミーDNPの分散型IDソリューション | ソリューション／製品・サービス | DNP 大日本印刷",
+    "url": "https://www.dnp.co.jp/biz/theme2_detail/20175736_4988.html",
+    "pass": 3
+   },
+   {
+    "quote": "We have detected you are accessing from a location outside Japan.",
+    "url": "https://www.dnp.co.jp/biz/theme2_detail/20175736_4988.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本ラッド、米Indicio社の次世代型個人認証ソリューション「Proven Auth」を展開 | didvc media",
+    "url": "https://didvc-media.recept.earth/recept-news-2025-06-23",
+    "pass": 3
+   },
+   {
+    "quote": "日本ラッド、米Indicio社の次世代型個人認証ソリューション「Proven Auth」を展開",
+    "url": "https://didvc-media.recept.earth/recept-news-2025-06-23",
+    "pass": 3
+   },
+   {
+    "quote": "日本ラッド、米Indicio社の次世代型個人認証ソリューション「Proven Auth」（より早く、より安全に）の本格展開を開始 - プレスリリース - 日本ラッド株式会社",
+    "url": "https://didvc-media.recept.earth/recept-news-2025-06-23",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも活動するDID/VCカンパニーのIndicio社",
+    "url": "https://didvc-media.recept.earth/recept-news-2025-06-23",
+    "pass": 3
+   },
+   {
+    "quote": "当メディアでも度々登場するIndicioと日本企業である、日本ラッド株式会社がパートナーとなりました",
+    "url": "https://didvc-media.recept.earth/recept-news-2025-06-23",
+    "pass": 3
+   },
+   {
+    "quote": "日本ラッドがIndicioの持つProven Authというサービスを代理店販売するという契約のようです",
+    "url": "https://didvc-media.recept.earth/recept-news-2025-06-23",
+    "pass": 3
+   },
+   {
+    "quote": "日本ラッドではIndicio社とのシアトルでの邂逅以来技術的な検証を続けて参りましたが、この度日本国内正規代理店・技術パートナーとして様々なお客様にソリューションとして提供していくことと致しました",
+    "url": "https://didvc-media.recept.earth/recept-news-2025-06-23",
+    "pass": 3
+   },
+   {
+    "quote": "四季報によると、日本ラッドはエンタープライズ向けのSI事業と製造業や医療機関向けのIoTサービスが主力事業のようです",
+    "url": "https://didvc-media.recept.earth/recept-news-2025-06-23",
+    "pass": 3
+   },
+   {
+    "quote": "日本ラッドは他社製品を代理販売することを多く手掛けていそうな印象で、Proven Authもサービスの一つとしてホームページに記載されていました",
+    "url": "https://didvc-media.recept.earth/recept-news-2025-06-23",
+    "pass": 3
+   },
+   {
+    "quote": "Proven Authの個別具体の内容はIndicioよりも日本ラッドのウェブサイトの方がイメージがつきやすいかもしれません",
+    "url": "https://didvc-media.recept.earth/recept-news-2025-06-23",
+    "pass": 3
+   },
+   {
+    "quote": "より速く、より安全なログイン体験を提供する次世代の認証ソリューション「Proven Auth」 - セキュリティ関連製品 - 日本ラッド株式会社",
+    "url": "https://didvc-media.recept.earth/recept-news-2025-06-23",
+    "pass": 3
+   },
+   {
+    "quote": "日本ラッドの既存販路に組み込まれるという戦略なのか定かではありませんが、今後こういったVCを用いたSSO的な概念が発表されていくのかもしれませんね",
+    "url": "https://didvc-media.recept.earth/recept-news-2025-06-23",
+    "pass": 3
+   },
+   {
+    "quote": "Indicio and DNP partner to offer Indicio Academy certified training in decentralized identity technology to the Japanese market",
+    "url": "https://www.prnewswire.com/apac/news-releases/indicio-and-dnp-partner-to-offer-indicio-academy-certified-training-in-decentralized-identity-technology-to-the-japanese-market-302213188.html",
+    "pass": 3
+   },
+   {
+    "quote": ", the global market leader in decentralized identity technology, today announced an agreement to give exclusive Japanese license rights to market and distribute Indicio's training workshops and professional certification program,",
+    "url": "https://www.prnewswire.com/apac/news-releases/indicio-and-dnp-partner-to-offer-indicio-academy-certified-training-in-decentralized-identity-technology-to-the-japanese-market-302213188.html",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "営業問い合わせ先：Email: indicio-support@nippon-rad.co.jp",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   },
+   {
+    "quote": "リリース問い合わせ先：Email: press-release@nippon-rad.co.jp",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/227422-63",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Indicio Proven (Japanese) — Indicio Proven (Japanese) indicio.tech https://indicio.tech > 証明された証拠",
+    "url": "https://indicio.tech/%E8%A8%BC%E6%98%8E%E3%81%95%E3%82%8C%E3%81%9F%E8%A8%BC%E6%8B%A0/",
+    "pass": 3
+   },
+   {
+    "quote": "米 Indicio 社の次世代型個人認証ソリューション「Proven Auth ... — 米 Indicio 社の次世代型個人認証ソリューション「Proven Auth ... 日本ラッド株式会社 https://www.nippon-rad.co.jp > release > data",
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "pass": 3
+   },
+   {
+    "quote": "Indicio アカデミー - DNP — Indicio アカデミー - DNP DNP 大日本印刷株式会社 https://www.dnp.co.jp > ... > DNPの分散型IDソリューション",
+    "url": "https://www.dnp.co.jp/biz/theme2_detail/20175736_4988.html",
+    "pass": 3
+   },
+   {
+    "quote": "INDICIO SECURES INVESTMENT FROM NEC X ... — INDICIO SECURES INVESTMENT FROM NEC X ... NEC https://www.nec.com > press > global...",
+    "url": "https://www.nec.com/en/press/202511/global_20251107_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "米 Indicio 社の次世代型個人認証ソリューション「Proven Auth ... — 米 Indicio 社の次世代型個人認証ソリューション「Proven Auth ... 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXZRSP692877_T20C25A6000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Indicio - LinkedIn — Indicio - LinkedIn LinkedIn https://www.linkedin.com > indiciotech",
+    "url": "https://www.linkedin.com/company/indiciotech",
+    "pass": 3
+   },
+   {
+    "quote": "米 Indicio 社の次世代型個人認証ソリューション「Proven Auth ... — 米 Indicio 社の次世代型個人認証ソリューション「Proven Auth ... didvc-media.recept.earth https://didvc-media.recept.earth > デイリーニュース",
+    "url": "https://didvc-media.recept.earth/recept-news-2025-06-23",
+    "pass": 3
+   },
+   {
+    "quote": "Indicio and DNP partner to offer Indicio Academy certified ... — Indicio and DNP partner to offer Indicio Academy certified ... PR Newswire https://www.prnewswire.com > apac",
+    "url": "https://www.prnewswire.com/apac/news-releases/indicio-and-dnp-partner-to-offer-indicio-academy-certified-training-in-decentralized-identity-technology-to-the-japanese-market-302213188.html",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Contact Page - Indicio — Japan Contact Page - Indicio indicio.tech https://indicio.tech > japan-contact-page",
+    "url": "https://indicio.tech/japan-contact-page/",
+    "pass": 3
+   },
+   {
+    "quote": "Indicio (@IndicioID) / X — Indicio (@IndicioID) / X X https://x.com > IndicioID",
+    "url": "https://x.com/IndicioID",
+    "pass": 3
+   },
+   {
+    "quote": "Customer cases - Indicio — Customer cases - Indicio indicio.com https://www.indicio.com > customers",
+    "url": "https://www.indicio.com/customers.html",
+    "pass": 3
+   },
+   {
+    "quote": "Indicio Proven — Verifiable Credentials Platform — Indicio Proven — Verifiable Credentials Platform indicio.tech https://indicio.tech > indicio-proven",
+    "url": "https://indicio.tech/indicio-proven/",
+    "pass": 3
+   },
+   {
+    "quote": "Regula and Indicio Partner to Transform IDV Solutions — Regula and Indicio Partner to Transform IDV Solutions Regula https://regulaforensics.com > news > r...",
+    "url": "https://regulaforensics.com/news/regula-and-indicio-partner-to-transform-identity-verification-with-verifiable-credentials/",
+    "pass": 3
+   },
+   {
+    "quote": "Indicio : one forecast across operational, tactical and strategic ... — Indicio : one forecast across operational, tactical and strategic ... indicio.com https://www.indicio.com",
+    "url": "https://www.indicio.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Indicio .tech - Crunchbase Company Profile & Funding — Indicio .tech - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > indici...",
+    "url": "https://www.crunchbase.com/organization/indicio-tech",
+    "pass": 3
+   },
+   {
+    "quote": "Indicio 2026 Company Profile: Valuation, Funding & Investors — Indicio 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/227422-63",
+    "pass": 3
+   },
+   {
+    "quote": "About Indicio — The Trust Infrastructure Behind Decentralized ... — About Indicio — The Trust Infrastructure Behind Decentralized ... indicio.tech https://indicio.tech > about",
+    "url": "https://indicio.tech/about/",
+    "pass": 3
+   },
+   {
+    "quote": "SITA takes the lead in Indicio Series A funding round ... — SITA takes the lead in Indicio Series A funding round ... SITA https://www.sita.aero > news-releases",
+    "url": "https://www.sita.aero/pressroom/news-releases/sita-takes-the-lead-in-indicio-series-a-funding-round-cementing-a-partnership-delivering-trusted-digital-identity-for-travel/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Post - X Post - X X https://x.com > @IndicioID",
+    "url": "https://x.com/IndicioID/status/1737902929405968571",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Indicio - LinkedIn Indicio - LinkedIn LinkedIn https://www.linkedin.com > indiciotech",
+    "url": "https://www.linkedin.com/company/indiciotech",
+    "pass": 3
+   },
+   {
+    "quote": "Indicio Technologies - LinkedIn Indicio Technologies - LinkedIn LinkedIn Sverige https://se.linkedin.com > company > i...",
+    "url": "https://se.linkedin.com/company/indicio-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Indicio Holdr Digital Identity Wallet - LinkedIn Indicio Holdr Digital Identity Wallet - LinkedIn LinkedIn https://www.linkedin.com > products",
+    "url": "https://www.linkedin.com/products/indiciotech-holdr/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Remmalyn Indicio (@remma. indicio ) - Facebook Remmalyn Indicio (@remma. indicio ) - Facebook Facebook https://www.facebook.com > ... > Digital creator",
+    "url": "https://www.facebook.com/remma.indicio/",
+    "pass": 3
+   },
+   {
+    "quote": "#TérminosJurídicos | ¿Qué es un indicio ? No es lo mismo que ... #TérminosJurídicos | ¿Qué es un indicio ? No es lo mismo que ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/fiscaliageneraldelestado/videos/t%C3%A9rminosjur%C3%ADdicos-qu%C3%A9-es-un-indicio-no-es-lo-mismo-que-una-pruebaun-indicio-no-c/26349372481360666/",
+    "pass": 3
+   },
+   {
+    "quote": "Ariston Indicio - Facebook Ariston Indicio - Facebook Facebook https://www.facebook.com > ariston.indicio > posts",
+    "url": "https://www.facebook.com/ariston.indicio/posts/122329369238197347/",
+    "pass": 3
+   },
+   {
+    "quote": "Ariston Indicio - Facebook Ariston Indicio - Facebook Facebook https://www.facebook.com > ariston.indicio > posts",
+    "url": "https://www.facebook.com/ariston.indicio/posts/122330332748197347/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://indicio.tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indicio.tech/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indicio.tech/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indicio.tech/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indicio.tech/in-the-news/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://i0.wp.com/indicio.tech/wp-content/uploads/2026/03/PartnerLogos.png?w=1800&ssl=1",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dnp.co.jp/biz/theme2_detail/20175736_4988.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nec.com/en/press/202511/global_20251107_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/indiciotech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nec.com/en/press/202511/global_20251107_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://didvc-media.recept.earth/recept-news-2025-06-23",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prnewswire.com/apac/news-releases/indicio-and-dnp-partner-to-offer-indicio-academy-certified-training-in-decentralized-identity-technology-to-the-japanese-market-302213188.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/indiciotech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKDMCytvTEUFGFqz10TqLpNBTUV_LgO7qx0s505AXPKeeLFsoSS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indicio.com/customers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infor.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/indiciotech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nec.com/en/press/202511/global_20251107_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://regulaforensics.com/news/regula-and-indicio-partner-to-transform-identity-verification-with-verifiable-credentials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/indicio-tech",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/227422-63",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sita.aero/about-us/pressroom/news-releases/sita-takes-the-lead-in-indicio-series-a-funding-round-cementing-a-partnership-delivering-trusted-digital-identity-for-travel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/IndicioID/status/1737902929405968571",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/indiciotech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/company/indicio-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/indiciotech-holdr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/remma.indicio/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fiscaliageneraldelestado/videos/t%C3%A9rminosjur%C3%ADdicos-qu%C3%A9-es-un-indicio-no-es-lo-mismo-que-una-pruebaun-indicio-no-c/26349372481360666/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ariston.indicio/posts/122329369238197347/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ariston.indicio/posts/122330332748197347/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/indiciotech",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Indicio 日本 導入",
+   "results": [
+    "https://indicio.tech/%E8%A8%BC%E6%98%8E%E3%81%95%E3%82%8C%E3%81%9F%E8%A8%BC%E6%8B%A0/",
+    "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "https://www.dnp.co.jp/biz/theme2_detail/20175736_4988.html",
+    "https://www.nec.com/en/press/202511/global_20251107_03.html",
+    "https://www.nikkei.com/article/DGXZRSP692877_T20C25A6000000/",
+    "https://didvc-media.recept.earth/recept-news-2025-06-23",
+    "https://indicio.tech/japan-contact-page/",
+    "https://prtimes.jp/main/html/rd/p/000001129.000078149.html",
+    "https://www.linkedin.com/posts/indiciotech_indicio-%E3%81%AF%E5%88%86%E6%95%A3%E5%9E%8B-id%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%A6%E3%82%A9%E3%83%AC%E3%83%83%E3%83%88%E6%A4%9C%E8%A8%BC%E5%8F%AF%E8%83%BD%E3%81%AA%E8%AA%8D%E8%A8%BC%E6%83%85%E5%A0%B1open-activity-7208846128409190400-Uuds",
+    "https://indicio.tech/blog/indicio-expands-japanese-market-presence-with-membership-of-jetro-j-bridge-program/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Indicio 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://indicio.tech/%E8%A8%BC%E6%98%8E%E3%81%95%E3%82%8C%E3%81%9F%E8%A8%BC%E6%8B%A0/",
+    "https://www.linkedin.com/company/indiciotech",
+    "https://www.nec.com/en/press/202511/global_20251107_03.html",
+    "https://didvc-media.recept.earth/recept-news-2025-06-23",
+    "https://www.dnp.co.jp/biz/theme2_detail/20175736_4988.html",
+    "https://indicio.tech/",
+    "https://www.nippon-rad.co.jp/ir/release/data/20250623.php",
+    "https://prtimes.jp/main/html/rd/p/000001129.000078149.html",
+    "https://www.nikkei.com/article/DGXZRSP692877_T20C25A6000000/",
+    "https://biz.moneyforward.com/contract/basic/8378/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Indicio Japan",
+   "results": [
+    "https://indicio.tech/%E8%A8%BC%E6%98%8E%E3%81%95%E3%82%8C%E3%81%9F%E8%A8%BC%E6%8B%A0/",
+    "https://www.prnewswire.com/apac/news-releases/indicio-and-dnp-partner-to-offer-indicio-academy-certified-training-in-decentralized-identity-technology-to-the-japanese-market-302213188.html",
+    "https://indicio.tech/japan-contact-page/",
+    "https://www.linkedin.com/company/indiciotech",
+    "https://x.com/IndicioID",
+    "https://www.dnp.co.jp/biz/theme2_detail/20175736_4988.html",
+    "https://bobgoldpr.com/indicio-to-revolutionize-digital-trust-with-verifiable-credentials-and-decentralized-identity-technology/",
+    "https://pitchbook.com/profiles/company/469083-88",
+    "https://www.indicio.com/security",
+    "https://indicio.tech/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Indicio manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKDMCytvTEUFGFqz10TqLpNBTUV_LgO7qx0s505AXPKeeLFsoSS",
+    "https://www.indicio.com/customers.html",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://www.infor.com/customer-stories",
+    "https://c3.ai/customers",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "https://www.epicor.com/en-us/blog/technology-and-data/manufacturing-case-study/",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://www.indicio.com/resources/case-studies"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Indicio white label OR reseller OR partner program",
+   "results": [
+    "https://indicio.tech/indicio-proven/",
+    "https://www.linkedin.com/company/indiciotech",
+    "https://www.nec.com/en/press/202511/global_20251107_03.html",
+    "https://regulaforensics.com/news/regula-and-indicio-partner-to-transform-identity-verification-with-verifiable-credentials/",
+    "https://www.indicio.com/",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://pitchbook.com/profiles/company/469083-88",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Indicio founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/indicio-tech",
+    "https://pitchbook.com/profiles/company/227422-63",
+    "https://indicio.tech/about/",
+    "https://www.sita.aero/pressroom/news-releases/sita-takes-the-lead-in-indicio-series-a-funding-round-cementing-a-partnership-delivering-trusted-digital-identity-for-travel/",
+    "https://www.linkedin.com/company/indiciotech",
+    "https://growjo.com/company/inDinero",
+    "https://pitchbook.com/profiles/company/469083-88",
+    "https://getlatka.com/companies/indinero",
+    "https://www.indicio.com/about.html",
+    "https://prospeo.io/c/indicio-revenue"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Indicio",
+   "results": [
+    "https://note.com/good_fairy858/n/ne8eebe6dc6ee",
+    "https://note.com/good_fairy858/n/ne8eebe6dc6ee?hl=ko",
+    "https://note.com/netsujo/n/n7aca8457899c",
+    "https://note.com/japongo/n/n34f0a4f063b3",
+    "https://note.com/vesslabs/n/n2d953d4a596a",
+    "https://note.com/jidequin/n/ne15d24c97578",
+    "https://note.com/zaimo_ai/n/nc95b8993b90b",
+    "https://note.com/jidequin/n/n7dca7584b7cb",
+    "https://note.com/jidequin/n/n636312a01c95",
+    "https://note.com/ready_guppy3801"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Indicio",
+   "results": [
+    "https://x.com/IndicioID/status/1737902929405968571",
+    "https://x.com/RAEinforma/status/1763836736612737337",
+    "https://x.com/NEC_jp_pr/status/1989234344544858341",
+    "https://x.com/asilascosasw/status/2117619884146245988",
+    "https://x.com/rutadelmaipo/status/2119633621724102707",
+    "https://x.com/TyCSports/status/2118792658462117985",
+    "https://x.com/DiarioOle/status/2117693295807656414",
+    "https://x.com/NBALAKERSBLOG/status/2018708400624853380",
+    "https://x.com/EIndicio/status/1092318449123119104"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com Indicio",
+   "results": [
+    "https://www.linkedin.com/company/indiciotech",
+    "https://se.linkedin.com/company/indicio-technologies",
+    "https://www.linkedin.com/in/trevorwbutterworth",
+    "https://www.linkedin.com/products/indiciotech-holdr/",
+    "https://www.linkedin.com/in/helengarneau",
+    "https://www.linkedin.com/in/james-schulte-818919120",
+    "https://www.linkedin.com/company/indicio-creative",
+    "https://se.linkedin.com/in/david-fagersand-35647118",
+    "https://www.linkedin.com/posts/necxinc_indicio-secures-investment-from-nec-x-accelerating-activity-7392690923828178944-VpD5",
+    "https://www.linkedin.com/company/indicio-technologies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Indicio",
+   "results": [
+    "https://www.facebook.com/remma.indicio/",
+    "https://www.facebook.com/fiscaliageneraldelestado/videos/t%C3%A9rminosjur%C3%ADdicos-qu%C3%A9-es-un-indicio-no-es-lo-mismo-que-una-pruebaun-indicio-no-c/26349372481360666/",
+    "https://www.facebook.com/ariston.indicio/posts/122329369238197347/",
+    "https://www.facebook.com/ariston.indicio/posts/122330332748197347/",
+    "https://www.facebook.com/RAE/posts/palabradeld%C3%ADa-indicio1-m-fen%C3%B3meno-que-permite-conocer-o-inferir-la-existencia-de/787755416722114/",
+    "https://www.facebook.com/ariston.indicio/posts/122330612000197347/",
+    "https://www.facebook.com/jerson.indicio.5/reels/",
+    "https://www.facebook.com/egepud/posts/el-indicio-no-es-prueba-c%C3%A9sar-nakazaki-nos-da-su-interpretaci%C3%B3n-derecho-abogado-/1516203150553097/",
+    "https://www.facebook.com/egepud/videos/el-indicio-no-es-prueba-c%C3%A9sar-nakazaki-nos-da-su-interpretaci%C3%B3n-derecho-abogado-/1825226011969570/",
+    "https://www.facebook.com/IndicioMich/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Indicio note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://indicio.tech/",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://x.com/sadaaki",
+    "https://www.nec.com/en/press/202511/global_20251107_03.html",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/romy_o",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Indicio X 投稿",
+   "results": [
+    "https://www.nec.com/en/press/202511/global_20251107_03.html",
+    "https://indicio.tech/about/",
+    "https://www.youtube.com/@IndicioID",
+    "https://www.linkedin.com/company/indiciotech",
+    "https://app.indicio.com/login",
+    "https://prtimes.jp/main/html/rd/p/000001129.000078149.html",
+    "https://x.com/IndicioID/status/1737902929405968571",
+    "https://www.dnp.co.jp/biz/theme2_detail/20175736_4988.html",
+    "https://x.com/EIndicio",
+    "https://x.com/IndicioEdicion"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部27頁・検索12回）"
+ }
+}

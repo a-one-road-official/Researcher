@@ -1,0 +1,760 @@
+{
+ "name": "Justflip",
+ "aliases": [],
+ "context": "旧営業リスト｜Consumer E-commerce｜未接触",
+ "researched_at": "2026-11-11T18:58:17.454375+00:00",
+ "official_url": "https://flip.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "JustFlip Proはこの上限をなくし、読み上げと詳細な統計を追加します",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "1回だけ使える7日間のトライアルでPro機能を試せます",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "• New Today card — flip it between your review and an overview of your progress.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "• Mac: the same two-column sidebar layout as on iPad, and onboarding that fits the window.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "• Fixes: Speak Cards no longer re-flips cards it has already read, deck lists no longer go missing, CSV files from Windows import correctly, and text size works properly on Mac.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "• Voices for each language – pick a voice for each language you study, with a preview. JustFlip uses the best voice installed by default.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "• Editing a card no longer drops its image, audio or other attached content.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "• Voice downloads open the right Settings page on iOS 27.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "- Tap a card's image to preview it full-screen",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "- Pro features you haven't unlocked are now clearly marked",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "- Smarter, less naggy prompt to rate the app",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "- Get a daily review reminder as part of onboarding.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "- Improved Image Occlusion, VoiceOver, Larger Text, contrast, and iPad layouts.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "- Made review preparation and the first card feel faster.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "- Anki imports now preserve more of the card content you created, including images, formulas, code, and emphasis.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "• Proをすでにご利用中の方にプランを表示していた問題を修正しました",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "Improved localization",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "Added progress trackers and excluded them correctly from SRS statistics, streaks, and review counts.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "- Improved card rendering, rich content consistency, and card layout behavior.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "- Improved the card-testing flow and Ask AI prompt interactions.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "- Added and refined localized content across Czech, German, English, Spanish, French, Italian, Japanese, Korean, and Portuguese.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "- Updated built-in flashcard decks and removed obsolete sample content.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "- Improved Python-related content and screenshot fixtures.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "- Fixed recurring macOS speech/access permission prompts.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "WatchStudy: Pro AI Flashcards",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "Anemoy is a web3 native asset manager powered by Centrifuge, providing investors with exposure to a broad spectrum of superior assets",
+    "url": "https://alphagrowth.io/ja/justflip/competitors",
+    "pass": 3
+   },
+   {
+    "quote": "Growi is a quantitative asset management protocol that leverages mathematical modeling to fine-tune trading strategies and maximize yield. Our approach ensures efficient capital allocation, advanced risk management, and consistent returns for investors",
+    "url": "https://alphagrowth.io/ja/justflip/competitors",
+    "pass": 3
+   },
+   {
+    "quote": "JustFlip Pro Lifetime,",
+    "url": "https://just-flip.app/",
+    "pass": 3
+   },
+   {
+    "quote": "; prices in other countries drop by about half too. One payment, every Pro feature for good, no subscription.",
+    "url": "https://just-flip.app/",
+    "pass": 3
+   },
+   {
+    "quote": "No code needed: the price applies automatically in the app.",
+    "url": "https://just-flip.app/",
+    "pass": 3
+   },
+   {
+    "quote": "Your browser does not support embedded video.",
+    "url": "https://just-flip.app/",
+    "pass": 3
+   },
+   {
+    "quote": "JustFlip! · 61-second product trailer",
+    "url": "https://just-flip.app/",
+    "pass": 3
+   },
+   {
+    "quote": "\"The first 10 U.S. presidents\"",
+    "url": "https://just-flip.app/",
+    "pass": 3
+   },
+   {
+    "quote": "Weeks to months. Long-term retention.",
+    "url": "https://just-flip.app/",
+    "pass": 3
+   },
+   {
+    "quote": "A Home Screen widget charts your week, so progress stays in view between everything else you opened the phone for.",
+    "url": "https://just-flip.app/",
+    "pass": 3
+   },
+   {
+    "quote": "Text-to-speech reads your cards aloud for eyes-free, low-vision and dyslexia-friendly study.",
+    "url": "https://just-flip.app/",
+    "pass": 3
+   },
+   {
+    "quote": "Card content, controls and constrained layouts now scale with the system text size.",
+    "url": "https://just-flip.app/",
+    "pass": 3
+   },
+   {
+    "quote": "JustFlip! is free to download and use for creating and reviewing decks. JustFlip! Pro unlocks additional features such as Ask AI reports and background listening.",
+    "url": "https://just-flip.app/",
+    "pass": 3
+   },
+   {
+    "quote": "and copy one prompt into any chat AI, or use the",
+    "url": "https://just-flip.app/",
+    "pass": 3
+   },
+   {
+    "quote": "JustFlip - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/justflip",
+    "pass": 3
+   },
+   {
+    "quote": "JustFlip is a lifestyle discovery platform that includes luxury real estate and lifestyle products. The company provides listings of homes and pre-owned luxury items and lifestyle products. JustFlip targets buyers who are looking for authenticity in their purchasing decisions. It was founded in 2023 and is based in Bengaluru, India.",
+    "url": "https://www.cbinsights.com/company/justflip",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/justflip",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "- Added and refined localized content across Czech, German, English, Spanish, French, Italian, Japanese, Korean, and Portuguese.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "日本語とその他8言語",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "日本語、イタリア語、スペイン語、チェコ語、ドイツ語、フランス語、ポルトガル語、英語、韓国語",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "English · Deutsch · Español · Français · Italiano · Português · 日本語 · 한국어 · Čeština",
+    "url": "https://just-flip.app/",
+    "pass": 3
+   },
+   {
+    "quote": "The app and this website are localized into nine languages: English, Deutsch, Español, Français, Italiano, Português (Brasil), 日本語, 한국어 and Čeština.",
+    "url": "https://just-flip.app/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "- Get a daily review reminder as part of onboarding.",
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "JustFlip - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/justflip",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "JustFlipの暗号資産分析とユーザーデータ | AlphaGrowth — 24時間ごとに更新されるJustFlipのTVLとユーザー数のライブグラフは、入手可能な中で最も正確なデータです。 ソーシャルメディア指標も他の追随を許さず、JustFlipプロジェクトの成功と参加ユーザー数を追跡できます。",
+    "url": "https://alphagrowth.io/ja/justflip",
+    "pass": 3
+   },
+   {
+    "quote": "JustFlip: 単語帳アプリ - App Store — DANIEL CECHの「JustFlip: 単語帳」をApp Storeでダウンロードしてください。 スクリーンショット、評価とレビュー、ユーザのヒント、「JustFlip: 単語帳」に似たゲームを見ることなどができます。",
+    "url": "https://apps.apple.com/jp/app/justflip-単語帳/id6770141421",
+    "pass": 3
+   },
+   {
+    "quote": "JustFlipの競合・代替プロジェクト上位5件と類似プロジェクト | Alpha... — カテゴリー、チェーン、TVL、フォロワー数などでJustFlipに類似した暗号資産プロジェクトを比較できます。 JustFlipの比較データは24時間ごとに更新され、最新のアルファと類似プロジェクトをお届けします。",
+    "url": "https://alphagrowth.io/ja/justflip/competitors",
+    "pass": 3
+   },
+   {
+    "quote": "JustFlip! — Spaced-repetition flashcards. Study quietly. — JustFlip! is the spaced-repetition flashcard app that lives quietly across every Apple device you own. Curate decks on the Mac, review them on iPhone or iPad — or rate a card from your wrist, without reaching for your phone.",
+    "url": "https://just-flip.app/",
+    "pass": 3
+   },
+   {
+    "quote": "JustFlip.in Real Estate UI/UX Case Study - LinkedIn — JustFlip.in – Real Estate Platform UI/UX Case Study Excited to share my latest UI/UX case study for JustFlip.in, a modern real estate platform designed to simplify property discovery...",
+    "url": "https://www.linkedin.com/posts/pavan122003_uiuxdesign-uxdesign-uidesign-activity-7467930652831703042-vffG",
+    "pass": 3
+   },
+   {
+    "quote": "Justflip Production | Portrait Studio (@justflip_production ... — 1,974 Followers, 2,053 Following, 201 Posts - Justflip Production | Portrait Studio 🇰🇪 (@justflip_production) on Instagram: \"Johan Oyugi - Fine Art Visual Storyteller Intentional.",
+    "url": "https://www.instagram.com/justflip_production/",
+    "pass": 3
+   },
+   {
+    "quote": "JustFlip - Products, Competitors, Financials, Employees ... — JustFlip is a lifestyle discovery platform that includes luxury real estate and lifestyle products. The company provides listings of homes and pre-owned luxury items and lifestyle products.",
+    "url": "https://www.cbinsights.com/company/justflip",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "FLIP (@JustFlipIt) / Posts / X FLIP (@JustFlipIt) - Posts - Follow our main account @JustFlip | X (formerly Twitter)",
+    "url": "https://x.com/justflipit",
+    "pass": 3
+   },
+   {
+    "quote": "Just Flip TCG (@JustFlipTCG) / X From youtube.com Just Flip TCG @JustFlipTCG Nov 12, 2012 I uploaded a @ YouTube video youtu.be/Fp2iI3uE6Wk?a box break EB02",
+    "url": "https://x.com/justfliptcg",
+    "pass": 3
+   },
+   {
+    "quote": "#JustFlipIt - Search / X Justdipit, le N°1 du covering par pulvérisation élastomère en France ! Une infinité de couleur et de nombreuses finitions à découvrir ! JustFlip 🫴 @JustFlipNFT 161 Hands Ready To Flip 🫴🪙 Discord: discord.gg/justflip Pitri Puji Astuti @just_pipit",
+    "url": "https://x.com/hashtag/JustFlipIt?f=user",
+    "pass": 3
+   },
+   {
+    "quote": "Just Flip (@justflipcoin) / X Just Flip, a retro arcade coin toss built for quick, satisfying play call heads or tails flip. Build your streak five correct calls in a row unlocks the jackpot.",
+    "url": "https://x.com/justflipcoin",
+    "pass": 3
+   },
+   {
+    "quote": "FLIP (@JustFlipIt) / Posts / X May 28, 2016 · FLIP (@JustFlipIt) - Posts - Follow our main account @JustFlip | X (formerly Twitter)",
+    "url": "https://x.com/justflipit",
+    "pass": 3
+   },
+   {
+    "quote": "@justflip | X The latest posts from @justflip",
+    "url": "https://x.com/justflip",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "JustFlip | LinkedIn JustFlip is a curated lifestyle discovery platform designed to bring luxury, quality, and trust into every choice you make. We handpick premium homes, high-value products, and exclusive...",
+    "url": "https://in.linkedin.com/company/justflip",
+    "pass": 3
+   },
+   {
+    "quote": "Gunjan Trivedi - CEO at Justflip Online Magazine | LinkedInJohan Oyugi - Creative Director | Visual Storyteller in ...Justin Norman - Founder, The Flip | LinkedInFlip - LinkedInDaniel Čech – Senior iOS Developer at STRV | Creator of ...Učit se totéž se stále dokola je neefektivní. Přesto to ... CEO at Justflip Online Magazine · Experience: Justflip Online Magazine · Education: Dharmsingh Desai Uni",
+    "url": "https://in.linkedin.com/in/justflipin",
+    "pass": 3
+   },
+   {
+    "quote": "Johan Oyugi - Creative Director | Visual Storyteller in ...Justin Norman - Founder, The Flip | LinkedInFlip - LinkedInDaniel Čech – Senior iOS Developer at STRV | Creator of ...Učit se totéž se stále dokola je neefektivní. Přesto to ... I’m a visual storyteller and founder of Justflip Production, a creative studio blending fine art and fashion to craft emotionally driven visuals for brands, design",
+    "url": "https://ke.linkedin.com/in/johan-oyugi-167801245",
+    "pass": 3
+   },
+   {
+    "quote": "Justin Norman - Founder, The Flip | LinkedInFlip - LinkedInDaniel Čech – Senior iOS Developer at STRV | Creator of ...Učit se totéž se stále dokola je neefektivní. Přesto to ... What does ride-hailing in Kenya show us about the prospects for digitally-mediated work in Africa? Justin here. Before we get into this week's newsletter, I have a couple exciting announcements. Welcome to the Flip Side Wh",
+    "url": "https://www.linkedin.com/in/justinpnorman",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Just Flip TCG | San Jose CA - FacebookJust Flip It | Oxford MS - FacebookJust Flip. - FacebookJust Flip TCG - FacebookFLIP | Los Angeles CA - FacebookJust Flippin - FacebookJUST FLIP Aesthetics and Wellness Spa - Lancaster Branch Oct 24, 2025 · Just Flip TCG We are a hobby and collectible shop that specializes in trading card games and anime merchandise. I'll be at Just Flip It tonight from 4-6 tw",
+    "url": "https://www.facebook.com/JustFlipTcg/",
+    "pass": 3
+   },
+   {
+    "quote": "Just Flip It | Oxford MS - Facebook I'll be at Just Flip It tonight from 4-6 twisting up all kinds of fun! 🤡 They'll have all types of exciting things you and your little one don't want to miss out on 🥳🎈",
+    "url": "https://www.facebook.com/p/Just-Flip-It-61571861862609/",
+    "pass": 3
+   },
+   {
+    "quote": "Just Flip. - Facebook Just Flip., Cagayan de Oro. 86 likes · 17 talking about this. Buy. Sell. Repeat. 📍Cagayan de Oro City •All units are negotiable and open for swapping to...",
+    "url": "https://www.facebook.com/people/Just-Flip/61583354600873/",
+    "pass": 3
+   },
+   {
+    "quote": "Just Flip TCG - Facebook Feb 20, 2024 · Just Flip TCG We are a card game shop Specializing in Trading Card Games Such As: Yu-Gi-Oh!, Cardfight!! Vanguard, Pokemon, Magic the Gathering, Weiss Schwarz, Future Card Buddyfight, etc.",
+    "url": "https://www.facebook.com/groups/JustFlipTCG/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://flip.com/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://alphagrowth.io/ja/justflip",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alphagrowth.io/ja/justflip/competitors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://just-flip.app/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/strv/case-study/flip-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/pavan122003_uiuxdesign-uxdesign-uidesign-activity-7467930652831703042-vffG",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/justflip_production/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/flipcx-com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/justflip.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/justflip",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/338610-07",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/flip-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/justflipit",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/justfliptcg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/JustFlipIt?f=user",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/justflipcoin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/justflip",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/justflipin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ke.linkedin.com/in/johan-oyugi-167801245",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/justinpnorman",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/JustFlipTcg/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Just-Flip-It-61571861862609/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Just-Flip/61583354600873/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/JustFlipTCG/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/justflipit",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/justflip",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/justfliptcg",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Justflip 日本 導入",
+   "results": [
+    "https://alphagrowth.io/ja/justflip",
+    "https://apps.apple.com/jp/app/justflip-単語帳/id6770141421",
+    "https://alphagrowth.io/ja/justflip/competitors",
+    "https://just-flip.app/",
+    "https://www.gamespark.jp/release/prtimes/20250428/230000.html",
+    "https://games.serp.co/ja/games/just-flip/",
+    "https://prtimes.jp/main/html/rd/p/000000021.000109996.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Justflip 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.bgent.net/plus/article/7044",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Justflip Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Justflip manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/strv/case-study/flip-customer-case-study",
+    "https://www.linkedin.com/posts/pavan122003_uiuxdesign-uxdesign-uidesign-activity-7467930652831703042-vffG",
+    "https://www.instagram.com/justflip_production/",
+    "https://www.casestudies.com/company/flipcx-com",
+    "https://www.featuredcustomers.com/vendor/flip/case-studies",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.youtube.com/@Justflipproduction"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Justflip white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Justflip founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/justflip.com",
+    "https://www.cbinsights.com/company/justflip",
+    "https://pitchbook.com/profiles/company/338610-07",
+    "https://prospeo.io/c/flip-revenue",
+    "https://tracxn.com/d/companies/flip/__gEWzcwEUIRgXOr0bBCbJCwtAvMJKJW9LTZMgNFtqPGg",
+    "https://prospeo.io/c/flip-revenue-1",
+    "https://compworth.com/company/flip"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Justflip",
+   "results": [
+    "https://note.com/witty_acacia7594/n/nf0029299ef86",
+    "https://note.com/197032/n/n221a282451c3?hl=en",
+    "https://note.com/jprout_upcyclepc/n/nfc7985ebce35?hl=en",
+    "https://note.com/ro_kyoto/n/n3bb1d170095c?hl=en",
+    "https://note.com/tokiko__/n/n1ea87f324c6e?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/draft_candidate/m/mc6ed818cf2b4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Justflip",
+   "results": [
+    "https://x.com/justflipit",
+    "https://x.com/justfliptcg",
+    "https://x.com/hashtag/JustFlipIt?f=user",
+    "https://x.com/justflipcoin",
+    "https://x.com/CaptainTrippy4u",
+    "https://x.com/FlipAuctions",
+    "https://x.com/flip_xyz"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Justflip",
+   "results": [
+    "https://in.linkedin.com/company/justflip",
+    "https://in.linkedin.com/in/justflipin",
+    "https://ke.linkedin.com/in/johan-oyugi-167801245",
+    "https://www.linkedin.com/in/justinpnorman",
+    "https://www.linkedin.com/company/joinflip",
+    "https://cz.linkedin.com/in/daniel-čech-79345451",
+    "https://cz.linkedin.com/posts/daniel-čech-79345451_učit-se-totéž-se-stále-dokola-je-neefektivní-activity-7505023981486473216-PYvy"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Justflip",
+   "results": [
+    "https://www.facebook.com/JustFlipTcg/",
+    "https://www.facebook.com/p/Just-Flip-It-61571861862609/",
+    "https://www.facebook.com/people/Just-Flip/61583354600873/",
+    "https://www.facebook.com/groups/JustFlipTCG/",
+    "https://www.facebook.com/justflipit/",
+    "https://www.facebook.com/JustFlippinFurniture/",
+    "https://www.facebook.com/p/JUST-FLIP-Aesthetics-and-Wellness-Spa-Lancaster-Branch-61586359732023/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Justflip note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/sadaaki",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Justflip X 投稿",
+   "results": [
+    "https://x.com/justflipit",
+    "https://x.com/justflip",
+    "https://x.com/justfliptcg",
+    "https://t.me/justflipcoinbot",
+    "https://x.com/justflipcoin",
+    "https://x.com/FLiP_furry/status/2089340878209130824",
+    "https://x.com/FlipAuctions"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

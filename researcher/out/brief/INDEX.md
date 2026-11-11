@@ -8,10 +8,89 @@
 - 事業の層を混ぜない：①領域＝樹脂以外（決定済み）②やること＝海外の製品を担いで日本で売る、または日本の製品を海外に売る（決定済み）③財布の入り口（消費か投資か）④ビジネスモデル（A1がどうお金を受け取るか）。決まっていないのは③④だけ。
 - 答えに使いたい事実が無かった・薄かった箱は、答えの最後に「掘る対象」として挙げる（次の回でリサーチャーの対象に足す）。
 
-## 更新：2026-11-12 02:21 JST
+## 更新：2026-11-12 06:19 JST
 
 ## この24時間で増えた事実（一部）
-- なし
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜技術（新しい技術・実証）：「m 人型品ボット (ヒューマノイドロボット) とは、目や口、手足なとの人間の身体的特徴を持ち、 自律的判断や歩行などが可能で高度な知能化」https://www.nri.com/jp/knowledge/report/files/000049393.pdf
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜技術（新しい技術・実証）：「B 従来の自動化とは異なり、 人型ロボットは自動化の可能性を「汎用性]タスクへ拡大していく」https://www.nri.com/jp/knowledge/report/files/000049393.pdf
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜技術（新しい技術・実証）：「Pe Al. 自動制御、 ロボットオペレーティングシステム (ROS) などの」https://www.nri.com/jp/knowledge/report/files/000049393.pdf
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客（金を払う側）：「B 中国の人型Hボット本体企業数は110社を超え、 世界全体の半数を占める※」https://www.nri.com/jp/knowledge/report/files/000049393.pdf
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客（金を払う側）：「人型ロボット本体企業の主要地域分布 (2024年12月時点)」https://www.nri.com/jp/knowledge/report/files/000049393.pdf
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客（金を払う側）：「(他の国の人型ロボット本体企業の数は、 いずれも10社未満)」https://www.nri.com/jp/knowledge/report/files/000049393.pdf
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の競合（奪いに来る側）：「中国人型ロボット、2026年出荷5万台へ モルガン・スタンレーが半年で予測倍増」https://36kr.jp/498729/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の競合（奪いに来る側）：「米モルガン・スタンレーは、中国の人型ロボット（ヒューマノイド）市場の見通しを大幅に引き上げた」https://36kr.jp/498729/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜顧客の競合（奪いに来る側）：「モルガン・スタンレーは現在、2026年の中国人型ロボット出荷台数が5万台に達すると予測している」https://36kr.jp/498729/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜政治（法・予算・規制）：「買う前の調査と検証に補助 岐阜県のロボット導入前検証支援補助金の条件」https://robo-ken.jp/media/data/china-industrial-robot-exports-customs-2026/
+- AI・半導体｜日本→海外（輸出）｜人型ロボット｜経済（規模・価格・為替）：「Tesla Optimus量産開始・NVIDIA Robotics売上YoY+73%・Apptronik $5.2億Series A+・Galbot $30億評価・SoftBank ABB買収クロージングなど主要イベントを時系列で整理した投」https://humanoidpress.jp/humanoid-robot-japan-companies/
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜社会（人・担い手）：「日本は世界的なAIブームに単に参加するだけではなく、エッジインテリジェンス、省エネルギー型チップ設計、産業向けAI導入を通じて、次世代AIコンピューティングを支える戦略的な担い手としての地位を強化しつつある」https://www.dreamnews.jp/press/0000362314
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜社会（人・担い手）：「労働力の高齢化と、半導体設計、プロセスエンジニアリング、AIハードウェア開発における若手人材の不足は、生産量を制限し、研究開発プログラムの遅延を招いています」https://www.researchnester.jp/industry-reports/japan-artificial-intelligence-ai-chipset-market/773
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜社会（人・担い手）：「この人材不足はイノベーションを阻害し、製造ラインの効率を低下させ、国内外の需要増加に対応する上での事業運営上の課題となっています」https://www.researchnester.jp/industry-reports/japan-artificial-intelligence-ai-chipset-market/773
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜顧客の顧客（発注元が求めること）：「この変化は、日本国内で事業を展開する半導体メーカー、OEM、自動車部品サプライヤー、ロボティクス企業、産業オートメーション企業にとって大きな商業機会を生み出している」https://www.dreamnews.jp/press/0000362314
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜政治（法・予算・規制）：「このブログでは、エッジAIチップとは何か、NPUの採用が業界全体で加速している理由、各国政府がどのような対策を講じているか、そして」https://www.sdki.jp/blog/what-are-edge-ai-chips-future-ai-importance/173
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜政治（法・予算・規制）：「プライバシー保護と規制要件は、エッジ処理への移行を後押ししています」https://www.sdki.jp/blog/what-are-edge-ai-chips-future-ai-importance/173
+- AI・半導体｜日本→海外（輸出）｜エッジAIチップ｜政治（法・予算・規制）：「大西洋両岸の政府、そして日本政府は、エッジAIの導入をより実現可能で戦略的に望ましいものにするためのインフラと規制枠組みを積極的に構築しています」https://www.sdki.jp/blog/what-are-edge-ai-chips-future-ai-importance/173
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜検索結果の抜粋：「AI Accelerator Chips Market Size & Share 2026-2035 — These Asia Pacific suppliers address China's growing domestic AI-ch」https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜検索結果の抜粋：「MediaTek gains new AI customer - Taipei Times — Oct 30, 2026 · Chip designer MediaTek Inc (聯發科) yesterday said it has se」https://www.taipeitimes.com/News/biz/archives/2026/10/31/2003866887
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜検索結果の抜粋：「AI Accelerator Chips Market Size & Share 2026-2035 — AI Accelerator Chips Market Share & Competitive Landscape NVIDIA he」https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜痛み・損（深さの印）：「特に深刻なのは日本を支える基幹企業である自動車業界では、各社メーカーが自動車生産の減産をせざるを得ないような状況に […]」https://www.provej.jp/column/ar/semiconductor_industry/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜自社の競合（商社・代理店・仲介）：「外資系IT企業でAIセラーへ！SaaS営業として市場価値アップ！アカウントエグゼクティブ（Agentforce）を募集中！」https://www.movin.co.jp/it/ai/semiconductor.html
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜SNS・note（note・検索結果の抜粋）：「生成AIとデータ通信の進化を支える光半導体 デクセリアルズの戦略と未... Jun 5, 2025 · 半導体分野では、AIサーバーに搭載され高速演算処理を行うGPU（画像処理用半導体）やHBM（広帯域メモリー）などに注目が集まるが、通信を」https://note.com/semiconnavi/n/n2a5b1c6b7b0d
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客の競合（奪いに来る側）：「台湾半導体メーカーTSMCの技術革新と社会的影響」https://orutedia.com/ai-semiconductor-manufacturer/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客の競合（奪いに来る側）：「NAND Flash Revenue Surged Over 20% in 2Q25, SK Group Market Share Jumped to 21%, Says TrendForce」https://www.provej.jp/column/ar/semiconductor_industry/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜SNS・note（LinkedIn・検索結果の抜粋）：「AI Accelerator Chip Industry Is Transforming Artificial ... Nov 2, 2026 · AI accelerator chips are specialized semicondu」https://www.linkedin.com/pulse/ai-accelerator-chip-industry-transforming-artificial-ich6f
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜SNS・note（LinkedIn・検索結果の抜粋）：「AI Accelerator Chip Market Outlook from 2026 to ... - LinkedIn Jun 28, 2026 · The AI accelerator chip market is poised f」https://www.linkedin.com/pulse/ai-accelerator-chip-market-outlook-from-2026-2033-fznzf
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜SNS・note（LinkedIn・検索結果の抜粋）：「AI Accelerator Chip Architect at Capgemini Engineering ... Apply for AI Accelerator Chip Architect at Capgemini Engineer」https://in.linkedin.com/jobs/view/ai-accelerator-chip-architect-at-capgemini-engineering-4468245151
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客（金を払う側）：「半導体製造工程の各企業の役割分担は、大きく次の2つの型に分けられます」https://www.provej.jp/column/ar/semiconductor_industry/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜顧客（金を払う側）：「垂直統合型を採用する半導体メーカーは、設計から製造、組立・検査までを一社で完結させます」https://www.provej.jp/column/ar/semiconductor_industry/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜技術（新しい技術・実証）：「ラピダスは、日本の大手企業と政府の出資によって設立され、日本の半導体産業復活を目標に次世代半導体の研究・開発を行っています」https://www.provej.jp/column/ar/semiconductor_industry/
+- AI・半導体｜日本→海外（輸出）｜生成AI半導体｜技術（新しい技術・実証）：「現在の生活において半導体は、パソコン・スマートフォン・自動車・AI・家電製品などあらゆるデジタル機器に利用されているためです」https://www.provej.jp/column/ar/semiconductor_industry/
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客（金を払う側）：「導入時には電気料金削減やBCPのための資産だったハードウェアが、寿命末期には撤去費、原状復旧費、安全処理費、運搬費、処分費を伴う「負の資産」へ変わる」https://www.ieee802.co.jp/articles/article-226-lithium-battery-disposal.php
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客（金を払う側）：「今回の調査では、施設側が認識していた停電時の使用可能範囲と実際の設備仕様に大きな隔たりがあり、少なくとも導入・引継ぎ時に負荷制限と運用条件が十分に共有されていなかったことが分かりました」https://www.ieee802.co.jp/articles/article-226-lithium-battery-disposal.php
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客（金を払う側）：「東日本大震災後、国は定置型リチウムイオン蓄電池の導入を政策的に後押ししました」https://www.ieee802.co.jp/articles/article-226-lithium-battery-disposal.php
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜政治（法・予算・規制）：「SIIの平成23年度「定置用リチウムイオン蓄電池導入促進対策事業費補助金」は、2012年3月から実施され、家庭用だけでなく法人・大型カスタム蓄電システムを含む市場形成を後押ししました」https://www.ieee802.co.jp/articles/article-226-lithium-battery-disposal.php
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜政治（法・予算・規制）：「東日本大震災後の防災需要に、補助金、ピークカット、太陽光発電が重なり、定置型蓄電池は「高価だが補助を受けて導入できる設備」として普及しました」https://www.ieee802.co.jp/articles/article-226-lithium-battery-disposal.php
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜政治（法・予算・規制）：「経済産業省の調査では、2015年度から2016年度にかけて定置用蓄電システムの出荷が減少した要因として、2015年度で「定置用リチウムイオン蓄電池導入支援事業費補助金」が終了したことが挙げられています」https://www.ieee802.co.jp/articles/article-226-lithium-battery-disposal.php
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客の顧客（発注元が求めること）：「導入時には電気料金削減やBCPのための資産だったハードウェアが、寿命末期には撤去費、原状復旧費、安全処理費、運搬費、処分費を伴う「負の資産」へ変わる」https://www.ieee802.co.jp/articles/article-226-lithium-battery-disposal.php
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客の顧客（発注元が求めること）：「BCP設備だったはずの蓄電池が「負の資産」になる」https://www.ieee802.co.jp/articles/article-226-lithium-battery-disposal.php
+- デジタル・サイバー｜日本→海外（輸出）｜定置用蓄電池｜顧客の顧客（発注元が求めること）：「電気料金削減やBCP対策のために導入したハードウェアが、役目を終えた瞬間から「費用を払わなければ所有し続けるしかない設備」へ変わる」https://www.ieee802.co.jp/articles/article-226-lithium-battery-disposal.php
+- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客の競合（奪いに来る側）：「高額な国防費：米国とカナダの強力な国防予算は、高度なドローン調達を支え、軍隊全体にわたる監視、戦闘、自律型無人航空機システムの継続的な開発を可能にしている」https://www.theinsightpartners.com/ja/reports/military-drone-market
+- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客の競合（奪いに来る側）：「防衛近代化構想：欧州諸国は、地域安全保障とNATOに沿った防衛戦略を強化するため、情報収集、監視、偵察用の無人航空機（UAV）を用いて軍事能力を向上させている」https://www.theinsightpartners.com/ja/reports/military-drone-market
+- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客の競合（奪いに来る側）：「防衛予算の増加：中国、インド、日本などの国々における軍事費の増加は、監視および戦闘任務のための無人航空機（UAV）の大規模な導入を促進している」https://www.theinsightpartners.com/ja/reports/military-drone-market
+- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客の顧客（発注元が求めること）：「は、防衛省航空自衛隊が空撮用ドローンとしてACSLの国産ドローンを採用したことを発表しました」https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93
+- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客の顧客（発注元が求めること）：「ACSL Ltdは、防衛省航空自衛隊がACSLの国産ドローンを空撮用に採用したと発表しました」https://www.researchnester.jp/industry-reports/japanese-military-drones-market/93
+- 防衛｜日本→海外（輸出）｜軍用ドローン｜顧客の顧客（発注元が求めること）：「――防衛省がドローンの導入や対処に本腰を入れていますが、韓国の場合はどうですか」https://toyokeizai.net/articles/-/942717?display=b
+- 防衛｜日本→海外（輸出）｜軍用ドローン｜経済（規模・価格・為替）：「軍事用ドローン市場は、2032年までにCAGR9.95％で329億7,000万米ドル規模に拡大すると予測されています」https://newscast.jp/smart/news/2579014
+- 防衛｜日本→海外（輸出）｜艦艇｜顧客（金を払う側）：「2026年4月、日本とオーストラリアの両政府は、海上自衛隊が導入予定の「もがみ」型護衛艦の能力向上型（新型FFM）をベースにしたフリゲート艦3隻の建造契約を公表し、協力覚書に署名した」https://president.jp/articles/-/120609?page=1
+- 防衛｜日本→海外（輸出）｜艦艇｜顧客（金を払う側）：「2026年4月18日、メルボルンにて、日本による「もがみ」型護衛艦（能力向上型）の最初の3隻の納入に関する契約調印式後、オーストラリアのリチャード・マールズ副首相兼国防相（前列左）と、日本の小泉進次郎防衛大臣（前列右）が記念撮影」https://president.jp/articles/-/120609?page=1
+- 防衛｜日本→海外（輸出）｜艦艇｜顧客（金を払う側）：「佐々木海将補が海上幕僚長（海上自衛隊の制服組トップ）と防衛装備庁長官（防衛装備品の開発・調達・移転を統括する防衛省外局の長）に呼ばれ、オーストラリアからフリゲート移転の打診が来ていると聞かされたのは、2024年だった」https://president.jp/articles/-/120609?page=1
+- 防衛｜日本→海外（輸出）｜艦艇｜顧客の顧客（発注元が求めること）：「そもそも防衛省は当初、北朝鮮などの弾道ミサイルを24時間365日監視・迎撃するため、秋田県と山口県に陸上配備型迎撃システム「イージス・アショア」を置く計画を進めていました」https://topics.smt.docomo.ne.jp/article/trafficnews/politics/trafficnews-619681?page=2
+- 防衛｜日本→海外（輸出）｜艦艇｜顧客の顧客（発注元が求めること）：「しかし、搭載するレーダーやミサイルなどの装備品の費用を含めた総コスト（ライフサイクルコスト＝構想段階から配備後の運用コスト、廃棄コストまで含めた40年運用想定での試算）は、防衛省の試算で2隻約1兆9400億円、1隻当たり約9700億円規模に」https://topics.smt.docomo.ne.jp/article/trafficnews/politics/trafficnews-619681?page=2
+- 防衛｜日本→海外（輸出）｜艦艇｜顧客の顧客（発注元が求めること）：「この大型案件を推進するプロジェクトチームを防衛省の海上自衛官側（制服組）で率いたのは、防衛装備庁でプロジェクト管理総括官を務める佐々木透吏海将補だった」https://president.jp/articles/-/120609?page=1
+- 防衛｜日本→海外（輸出）｜艦艇｜政治（法・予算・規制）：「2026年4月、日本とオーストラリアの両政府は、海上自衛隊が導入予定の「もがみ」型護衛艦の能力向上型（新型FFM）をベースにしたフリゲート艦3隻の建造契約を公表し、協力覚書に署名した」https://president.jp/articles/-/120609?page=1
+- 防衛｜日本→海外（輸出）｜艦艇｜政治（法・予算・規制）：「共同通信によれば、オーストラリア政府は次期汎用フリゲートプログラムにおいて、この最新鋭艦11隻に今後10年間で最大200億豪ドル（約2兆2000億円）を投じる計画だ」https://president.jp/articles/-/120609?page=1
+- 防衛｜日本→海外（輸出）｜艦艇｜政治（法・予算・規制）：「オーストラリア海軍の新型艦導入を巡り豪州政府が海上自衛艦をベースにした共同開発を売り込む日本を優先して交渉する方針を日本側に伝えたことが分かった」https://japan.storm.mg/articles/1058181
+- 防衛｜日本→海外（輸出）｜艦艇｜経済（規模・価格・為替）：「しかし、搭載するレーダーやミサイルなどの装備品の費用を含めた総コスト（ライフサイクルコスト＝構想段階から配備後の運用コスト、廃棄コストまで含めた40年運用想定での試算）は、防衛省の試算で2隻約1兆9400億円、1隻当たり約9700億円規模に」https://topics.smt.docomo.ne.jp/article/trafficnews/politics/trafficnews-619681?page=2
+- 防衛｜日本→海外（輸出）｜艦艇｜経済（規模・価格・為替）：「共同通信によれば、オーストラリア政府は次期汎用フリゲートプログラムにおいて、この最新鋭艦11隻に今後10年間で最大200億豪ドル（約2兆2000億円）を投じる計画だ」https://president.jp/articles/-/120609?page=1
+- 防衛｜日本→海外（輸出）｜艦艇｜経済（規模・価格・為替）：「を分子に、また後述する業界の市場規模を分母にして、2025年の造船業界の市場シェアを簡易に試算しますと、1位は中国船舶集団（CSSC）、2位はジェネラル・ダイナミクス、3位は韓国造船海洋となります」https://deallab.info/shipbuilder/
+- 防衛｜日本→海外（輸出）｜艦艇｜顧客の競合（奪いに来る側）：「水上艦は建造できるメーカーが限られていて、韓国のハンファ、ヒュンダイ、スペインのナバンティア、ドイツのTKMSがオーストラリアの次期汎用フリゲートプログラムにエントリーをしていました」https://president.jp/articles/-/120609?page=1
+- 防衛｜日本→海外（輸出）｜艦艇｜顧客の競合（奪いに来る側）：「「中国艦艇4隻が大隅海峡を通過」海軍と海警が初の同時行動、日米はミサイル国内組立で対抗」https://seikeifocus.jp/politics/article/63331/
+- 防衛｜日本→海外（輸出）｜艦艇｜顧客の競合（奪いに来る側）：「この評価は政府側も認めており、オーストラリア国防省はメディアに対し、艦艇の全運用期間を通じたライフサイクルコストで見れば、日本案の方がドイツ案より大幅に安価になると説明している」https://japan.storm.mg/articles/1058181
+- 防衛｜日本→海外（輸出）｜艦艇｜技術（新しい技術・実証）：「職種は水上艦艇だったが、途中艦艇のシステムを開発する配置にも就きながらキャリアを積んだ」https://president.jp/articles/-/120609?page=1
+- 防衛｜日本→海外（輸出）｜艦艇｜技術（新しい技術・実証）：「佐々木海将補が海上幕僚長（海上自衛隊の制服組トップ）と防衛装備庁長官（防衛装備品の開発・調達・移転を統括する防衛省外局の長）に呼ばれ、オーストラリアからフリゲート移転の打診が来ていると聞かされたのは、2024年だった」https://president.jp/articles/-/120609?page=1
+- 防衛｜日本→海外（輸出）｜艦艇｜技術（新しい技術・実証）：「オーストラリア海軍の新型艦導入を巡り豪州政府が海上自衛艦をベースにした共同開発を売り込む日本を優先して交渉する方針を日本側に伝えたことが分かった」https://japan.storm.mg/articles/1058181
+- 防衛｜日本→海外（輸出）｜防衛装備品｜顧客の競合（奪いに来る側）：「米国から防衛装備品を調達する「対外有償軍事援助（FMS）」で陸海空3自衛隊が取得した整備器材や交換部品のうち、重要物品（取得価格300万円以上）に当たる54品目の計約12億7千万円分が法令で定められた「物品報告書」に計上されていなかったこと」https://www.nikkei.com/article/DGXZQOUD179DY0X11C25A0000000/
+- 防衛｜日本→海外（輸出）｜防衛装備品｜技術（新しい技術・実証）：「※１ 開発総経費の算定期間は、運用開始まで（軍用機の場合、初期作戦能力（IOC: Initial Operating Capability）の獲得まで）としている」https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf
+- 防衛｜日本→海外（輸出）｜防衛装備品｜技術（新しい技術・実証）：「▸ 防衛力の抜本的強化のためには、我が国の防衛産業における装備品等の開発・生産の基盤の維持・強化がますます重要に」https://www.mod.go.jp/atla/hourei/hourei_dpb/08_seisaku_iji_kyoka.pdf
+- 防衛｜日本→海外（輸出）｜防衛装備品｜政治（法・予算・規制）：「防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律」https://www.mod.go.jp/atla/hourei/hourei_dpb/08_seisaku_iji_kyoka.pdf
+- 防衛｜日本→海外（輸出）｜防衛装備品｜自社の競合（商社・代理店・仲介）：「、制度上の障害が緩和されたことで、日本の重工業企業や商社が、海外の防衛テック企業への出資や買収の担い手になりやすくなる可能性があります」https://innovationlaw.jp/japan-defense-export-reform/
+- 防衛｜日本→海外（輸出）｜防衛装備品｜顧客（金を払う側）：「• 防衛装備品も例外ではなく、安定的な調達を担保するには、代替性の低い原材料・部品も含めたサプラ」https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf
+- 防衛｜日本→海外（輸出）｜防衛装備品｜顧客（金を払う側）：「• 米国では、防衛関連企業に対して重要物資サプライチェーンを把握し、装備品に使用する重要物資の」https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf
+- 防衛｜日本→海外（輸出）｜防衛装備品｜顧客（金を払う側）：「• 我が国において、安定的な装備品調達の実現に向けて、重要物資のサプライヤーに対する供給強化の」https://www.meti.go.jp/shingikai/mono_info_service/defense_industry_wg/pdf/001_04_00.pdf
+- 防衛｜日本→海外（輸出）｜防衛装備品｜顧客の顧客（発注元が求めること）：「防衛省が調達する装備品等の開発及び生産のための基盤の強化に関する法律」https://www.mod.go.jp/atla/hourei/hourei_dpb/08_seisaku_iji_kyoka.pdf
+- 防衛｜日本→海外（輸出）｜防衛装備品｜経済（規模・価格・為替）：「米国から防衛装備品を調達する「対外有償軍事援助（FMS）」で陸海空3自衛隊が取得した整備器材や交換部品のうち、重要物品（取得価格300万円以上）に当たる54品目の計約12億7千万円分が法令で定められた「物品報告書」に計上されていなかったこと」https://www.nikkei.com/article/DGXZQOUD179DY0X11C25A0000000/
+- 防衛｜日本→海外（輸出）｜防衛装備品｜経済（規模・価格・為替）：「未計上だったのは、空自が無人偵察機グローバルホークの整備器材や交換部品など50品目（計約11億4千万円）、海自が音響測定艦の器材1品目（約1億円）、陸自が輸送機オスプレイの整備などで使用する3品目（計約3千万円）」https://www.nikkei.com/article/DGXZQOUD179DY0X11C25A0000000/
+- 防衛｜日本→海外（輸出）｜防衛装備品｜社会（人・担い手）：「、制度上の障害が緩和されたことで、日本の重工業企業や商社が、海外の防衛テック企業への出資や買収の担い手になりやすくなる可能性があります」https://innovationlaw.jp/japan-defense-export-reform/
+- 防衛｜日本→海外（輸出）｜防衛装備品｜社会（人・担い手）：「外国法人等と兼職していても、日本法人と雇用契約等を結んでその指揮命令に服する者は、日本法人の指揮命令が優先することを外国法人等との間で合意している場合や、兼職先が日本法人の議決権の50%以上を保有する外国法人等又は日本法人が議決権の50%以」https://innovationlaw.jp/japan-defense-export-reform/
 
 ## ファイル
 - 分野_AI_半導体_輸出_dd03fe.md：分野_AI・半導体_輸出

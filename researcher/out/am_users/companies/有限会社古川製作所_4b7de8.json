@@ -1,0 +1,767 @@
+{
+ "name": "有限会社古川製作所",
+ "aliases": [],
+ "context": "ipros_all:多品種",
+ "researched_at": "2026-11-11T18:36:48.484861+00:00",
+ "official_url": "http://www.furukawa-21.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表",
+    "value": "古川　明",
+    "url": "https://www.furukawa-21.jp/company",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社・工場〒394-0041 長野県岡谷市山手町3-8-5 第二工場　〒394-0002　長野県岡谷市赤羽3-11-11",
+    "url": "https://www.furukawa-21.jp/company",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "営業品目",
+    "value": "精密部品機械切削加工 プレス品、板金物、樹脂の切削 金型製作 治工具製作 簡単なASSY 石英ガラス加工 高周波によるロウ付け",
+    "url": "https://www.furukawa-21.jp/company",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "関連会社",
+    "value": "【協力工場】 加工関係:15社 表面熱処理関係:10社 材料関係:6社",
+    "url": "https://www.furukawa-21.jp/company",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "製品分野": [
+   {
+    "quote": "刃物形状を工夫、治具を作り、5軸MCで加工、他の加工法も検討いたします",
+    "url": "https://www.furukawa-21.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "光学機器・医療機器・電子機器の分野において、精密部品を多品種量産型で製作しております",
+    "url": "https://www.furukawa-21.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "光学機器、医療機器、自動車、航空機など様々な分野の",
+    "url": "https://www.furukawa-21.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくり補助金採択にてロボットによる省力化システム開発",
+    "url": "https://www.furukawa-21.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "長野自動車道・岡谷ICから車で3分",
+    "url": "https://www.furukawa-21.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "光学機器、医療機器、自動車、航空機など様々な分野の",
+    "url": "https://www.furukawa-21.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "光学機器、医療機器、自動車、航空機など様々な分野の",
+    "url": "https://www.furukawa-21.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "光学機器、医療機器、自動車、航空機など様々な分野の",
+    "url": "https://www.furukawa-21.jp/facility",
+    "pass": 1
+   },
+   {
+    "quote": "「ロボットを多角的に利用した、多様な航空機部品生産システムの構築」",
+    "url": "https://www.furukawa-21.jp/innovation",
+    "pass": 1
+   },
+   {
+    "quote": "というテーマで、ものづくり補助金を活用して小ロットにも対応できる移動式ロボットシステムを作ってみました",
+    "url": "https://www.furukawa-21.jp/innovation",
+    "pass": 1
+   },
+   {
+    "quote": "マシニングで航空機関係の部品を夜通し加工してみました",
+    "url": "https://www.furukawa-21.jp/innovation",
+    "pass": 1
+   },
+   {
+    "quote": "初めてのロボット導入＆システム製作でしたので、度胸がいりました",
+    "url": "https://www.furukawa-21.jp/innovation",
+    "pass": 1
+   },
+   {
+    "quote": "現在、人手で行っていますがロボット対応に向けたマシニング用治具です",
+    "url": "https://www.furukawa-21.jp/innovation",
+    "pass": 1
+   },
+   {
+    "quote": "ここまで約90万、現在ロボット調教中",
+    "url": "https://www.furukawa-21.jp/innovation",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、光学機器・医療機器・電子機器の分野で利用される精密部品を製造している会社です",
+    "url": "https://www.furukawa-21.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "（自動車使用の場合、片道2km以上）",
+    "url": "https://www.furukawa-21.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "＊NC旋盤・マシニングセンター・ロボット・ワイヤーカット・CAD・CAM・その他汎用機による加工",
+    "url": "https://www.furukawa-21.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "光学機器や医療機器、電子機器、自動車、航空機など",
+    "url": "https://www.furukawa-21.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "私たち古川製作所は、産業用ロボットを活用し、お客さまの現場に合わせた生産システムをオーダーメイドでつくる会社です",
+    "url": "https://furu1940.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "各種生産システム・産業用ロボット及び周辺機器等の企画・製造・販売",
+    "url": "https://furu1940.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・商用車メーカーおよび部品サプライヤー",
+    "url": "https://furu1940.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "量産部門を廃止し治具・設備部門100％となる",
+    "url": "https://furu1940.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "関越自動車道 東松山ICより 約60分",
+    "url": "https://furu1940.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "東北自動車道 館林ICより 約50分",
+    "url": "https://furu1940.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "北関東自動車道 太田薮塚ICより 約15分",
+    "url": "https://furu1940.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "関越自動車道 東松山ICより 約50分",
+    "url": "https://furu1940.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "北関東自動車道 太田桐生ICより 約30分",
+    "url": "https://furu1940.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "私たち、古川製作所は食品や医療関連品、工業製品等の包装機、真空包装機、",
+    "url": "https://job.mynavi.jp/28/pc/search/corp235482/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "#技術 #包装 #食品 #レトルト #衛生品 #半導体 #プリンター",
+    "url": "https://job.mynavi.jp/28/pc/search/corp235482/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "・各種工業・医療・医薬用包装機械及び関連機器製造",
+    "url": "https://job.career-tasu.jp/corp/00025531/",
+    "pass": 3
+   },
+   {
+    "quote": "私たち、古川製作所は食品や医療関連品、工業製品等の包装機、真空包装機、充填機などの設計・製造・販売・アフターサービスを一貫して行う機械メーカーです",
+    "url": "https://job.career-tasu.jp/corp/00025531/",
+    "pass": 3
+   },
+   {
+    "quote": "私たち、古川製作所は食品や医療関連品、工業製品等の包装機、真空包装機、",
+    "url": "https://job.career-tasu.jp/corp/00025531/",
+    "pass": 3
+   },
+   {
+    "quote": "金型用標準部品、自動車用変速機部品、油圧及び空圧産業用各種精密機器部品の精密加工なら 株式会社古川製作所",
+    "url": "http://www.furukawa-ss.co.jp/postmail/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "山陽自動車道本郷インターチェンジから約6km、国道2号線より1ｋｍ",
+    "url": "https://www.furukawa-techfound.com/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "試作または特異技術による製品の製作など、長年携わってきた分野においては数々の独自技術を用い、また共同開発によって技術を生み出してきました",
+    "url": "https://www.furukawa-21.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介 | 長野県岡谷市の古川製作所｜ターニング加工、マシニング加工で難削材の加工",
+    "url": "https://www.furukawa-21.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ(A5052）製品",
+    "url": "https://www.furukawa-21.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ(A5056）製品",
+    "url": "https://www.furukawa-21.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス、セラミック、樹脂製品",
+    "url": "https://www.furukawa-21.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレス（304,316,303,630）、コバール製品",
+    "url": "https://www.furukawa-21.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "鉄、ステンレス製品",
+    "url": "https://www.furukawa-21.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "私たち、古川製作所は食品や医療関連品、工業製品等の包装機、真空包装機、",
+    "url": "https://job.mynavi.jp/28/pc/search/corp235482/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "包装機、真空包装機、充填機など多くの製品を生み出しています",
+    "url": "https://job.career-tasu.jp/corp/00025531/",
+    "pass": 3
+   },
+   {
+    "quote": "私たち、古川製作所は食品や医療関連品、工業製品等の包装機、真空包装機、充填機などの設計・製造・販売・アフターサービスを一貫して行う機械メーカーです",
+    "url": "https://job.career-tasu.jp/corp/00025531/",
+    "pass": 3
+   },
+   {
+    "quote": "私たち、古川製作所は食品や医療関連品、工業製品等の包装機、真空包装機、",
+    "url": "https://job.career-tasu.jp/corp/00025531/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "光学機器・医療機器・電子機器の分野において、精密部品を多品種量産型で製作しております",
+    "url": "https://www.furukawa-21.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "試作または特異技術による製品の製作など、長年携わってきた分野においては数々の独自技術を用い、また共同開発によって技術を生み出してきました",
+    "url": "https://www.furukawa-21.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "独自の技術で精密部品加工を!!多品種量産型",
+    "url": "https://www.furukawa-21.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "というテーマで、ものづくり補助金を活用して小ロットにも対応できる移動式ロボットシステムを作ってみました",
+    "url": "https://www.furukawa-21.jp/innovation",
+    "pass": 1
+   },
+   {
+    "quote": "＊汎用旋盤にて、一品物を加工する技能職",
+    "url": "https://www.furukawa-21.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "加工主要品は産業用機械部品、光学機器部品、工作機械部品など、多品種少量が中心です",
+    "url": "https://www.furukawa-21.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "私たち古川製作所は、産業用ロボットを活用し、お客さまの現場に合わせた生産システムをオーダーメイドでつくる会社です",
+    "url": "https://furu1940.co.jp/about/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "プレス品、板金物、樹脂の切削",
+    "url": "https://www.furukawa-21.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス、セラミック、樹脂製品",
+    "url": "https://www.furukawa-21.jp/product",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "価格はお問い合わせ後、御見積いたします",
+    "url": "https://www.furukawa-21.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "Contact（お問い合わせ） | 株式会社古川製作所",
+    "url": "https://furu1940.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "この度は当社にお問い合わせいただき、ありがとうございます",
+    "url": "https://furu1940.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "アクセス・お問い合わせ | 公益財団法人 古川技術振興財団",
+    "url": "https://www.furukawa-techfound.com/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9/",
+    "pass": 3
+   },
+   {
+    "quote": "メールアドレス furukawazaidan@furukawa-techfound.com",
+    "url": "https://www.furukawa-techfound.com/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "SOLID WORKS・Mastercam",
+    "url": "https://www.furukawa-21.jp/facility",
+    "pass": 1
+   },
+   {
+    "quote": "＊NC旋盤・マシニングセンター・ロボット・ワイヤーカット・CAD・CAM・その他汎用機による加工",
+    "url": "https://www.furukawa-21.jp/recruit",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "About（私たちについて） | 株式 会社古川製作所 — About（私たちについて） | 株式 会社古川製作所 株式会社古川製作所 https://furu1940.co.jp > about",
+    "url": "https://furu1940.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 古川製作所 の 会社概要 | マイナビ2028 — (株) 古川製作所 の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp235482 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp235482/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社古川製作所 の企業 情報 | インターンシップ・新卒採用 ... — 株式 会社古川製作所 の企業 情報 | インターンシップ・新卒採用 ... キャリタス就活 https://job.career-tasu.jp > corp",
+    "url": "https://job.career-tasu.jp/corp/00025531/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社古川製作所 - ものづくりの挑人®たち — 株式 会社古川製作所 - ものづくりの挑人®たち ものづくりの挑人®たち https://choujin.jp > story",
+    "url": "https://choujin.jp/story/457/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact（ お問い合わせ ） - 株式会社古川製作所 — Contact（ お問い合わせ ） - 株式会社古川製作所 株式会社古川製作所 https://furu1940.co.jp > contact",
+    "url": "https://furu1940.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 古川製作所 - 大阪市 — 株式会社 古川製作所 - 大阪市 大阪中小企業投資育成株式会社 https://www.sbic-wj.co.jp > outline > sort",
+    "url": "https://www.sbic-wj.co.jp/outline/sort/22663/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 有限会社 古川製作所 — お問い合わせ - 有限会社 古川製作所 furukawa-ss.net https://www.furukawa-ss.net > contact",
+    "url": "https://www.furukawa-ss.net/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "新建築社 on X: \" 古川製作所 新社屋＋工場 長坂常／スキーマ ... 新建築社 on X: \" 古川製作所 新社屋＋工場 長坂常／スキーマ ... X https://x.com > @shinkenchikusha",
+    "url": "https://x.com/shinkenchikusha/status/1877641535639994756",
+    "pass": 3
+   },
+   {
+    "quote": "官報決算データベース on X: \"株式会社 古川製作所 第64期決算 ... 官報決算データベース on X: \"株式会社 古川製作所 第64期決算 ... X https://x.com > @kessan_db",
+    "url": "https://x.com/kessan_db/status/2053655291649290514",
+    "pass": 3
+   },
+   {
+    "quote": "ホリ on X: \"広島現場三原市の 古川製作所 さんの夏祭り ホリ on X: \"広島現場三原市の 古川製作所 さんの夏祭り X https://x.com > @horimateyo",
+    "url": "https://x.com/horimateyo/status/896014377593196545",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "吉行 研登 - （株） 古川製作所 - 営業職 - LinkedIn 吉行 研登 - （株） 古川製作所 - 営業職 - LinkedIn LinkedIn https://jp.linkedin.com > 研登-吉行-282202347",
+    "url": "https://jp.linkedin.com/in/%E7%A0%94%E7%99%BB-%E5%90%89%E8%A1%8C-282202347",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "有限会社 古川製作所 | Kadoma-shi Osaka - Facebook 有限会社 古川製作所 | Kadoma-shi Osaka - Facebook Facebook https://www.facebook.com > ... > 商業・工業 > 製造業",
+    "url": "https://www.facebook.com/furukawaFactory/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 古川製作所 （宮崎） - Facebook 有限会社 古川製作所 （宮崎） - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/p/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E5%8F%A4%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E5%AE%AE%E5%B4%8E-100076268476896/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 古川製作所 （宮崎） (@100076268476896) - Photos 有限会社 古川製作所 （宮崎） (@100076268476896) - Photos Facebook https://www.facebook.com > photos",
+    "url": "https://www.facebook.com/100076268476896/photos/",
+    "pass": 3
+   },
+   {
+    "quote": "古川製作所 新社屋＋工場 長坂常／スキーマ建築計画 撮影 太田 ... 古川製作所 新社屋＋工場 長坂常／スキーマ建築計画 撮影 太田 ... Facebook https://www.facebook.com > Shinkenchikusha > posts",
+    "url": "https://www.facebook.com/Shinkenchikusha/posts/%E5%8F%A4%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E6%96%B0%E7%A4%BE%E5%B1%8B%E5%B7%A5%E5%A0%B4%E9%95%B7%E5%9D%82%E5%B8%B8%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%9E%E5%BB%BA%E7%AF%89%E8%A8%88%E7%94%BB%E6%92%AE%E5%BD%B1-%E5%A4%AA%E7%94%B0%E6%8B%93%E5%AE%9F%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%E3%81%AA%E3%81%A9%E3%81%AE%E7%94%9F%E7%94%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E5%8F%A4%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E6%96%B0%E7%A4%BE%E5%B1%8B%E5%8F%B3%E3%81%A8%E5%B7%A5%E5%A0%B4%E5%B7%A6%E3%81%AE%E8%A8%88%E7%94%BB%E7%95%B0%E3%81%AA%E3%82%8B%E3%81%B5%E3%81%9F%E3%81%A4%E3%81%AE%E7%94%A8%E9%80%94%E3%82%92%E3%82%82%E3%81%A4%E5%BB%BA%E7%AF%89%E3%81%A8%E5%A4%96%E6%A7%8B/1155023693297180/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.furukawa-21.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furukawa-21.jp/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furukawa-21.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furukawa-21.jp/product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furukawa-21.jp/facility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furukawa-21.jp/innovation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furukawa-21.jp/recruit",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.furukawa-21.jp/library/58c9ddfffaa231b134dd6612/630ed9c5cdaf846e389e7289.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.furukawa-21.jp/library/58c9ddfffaa231b134dd6612/62a68d8cc14de61e7e168d9a.pdf",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://furu1940.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp235482/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.career-tasu.jp/corp/00025531/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://furu1940.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.furukawa-ss.co.jp/postmail/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furukawa-techfound.com/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/shinkenchikusha/status/1877641535639994756",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kessan_db/status/2053655291649290514",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/horimateyo/status/896014377593196545",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E7%A0%94%E7%99%BB-%E5%90%89%E8%A1%8C-282202347",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/furukawaFactory/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E5%8F%A4%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E5%AE%AE%E5%B4%8E-100076268476896/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100076268476896/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Shinkenchikusha/posts/%E5%8F%A4%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E6%96%B0%E7%A4%BE%E5%B1%8B%E5%B7%A5%E5%A0%B4%E9%95%B7%E5%9D%82%E5%B8%B8%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%9E%E5%BB%BA%E7%AF%89%E8%A8%88%E7%94%BB%E6%92%AE%E5%BD%B1-%E5%A4%AA%E7%94%B0%E6%8B%93%E5%AE%9F%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%E3%81%AA%E3%81%A9%E3%81%AE%E7%94%9F%E7%94%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E5%8F%A4%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E6%96%B0%E7%A4%BE%E5%B1%8B%E5%8F%B3%E3%81%A8%E5%B7%A5%E5%A0%B4%E5%B7%A6%E3%81%AE%E8%A8%88%E7%94%BB%E7%95%B0%E3%81%AA%E3%82%8B%E3%81%B5%E3%81%9F%E3%81%A4%E3%81%AE%E7%94%A8%E9%80%94%E3%82%92%E3%82%82%E3%81%A4%E5%BB%BA%E7%AF%89%E3%81%A8%E5%A4%96%E6%A7%8B/1155023693297180/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "古川製作所 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%B0%8F%E3%83%AD%E3%83%83%E3%83%88/",
+    "http://www.agata-ss.co.jp/small/",
+    "https://www.watanabe-mfg.co.jp/business/mold/",
+    "https://san-ss.co.jp/service/plastickanagata/plasticseikeihin-ryousan",
+    "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "https://furu1940.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "古川製作所 会社概要 事業内容",
+   "results": [
+    "https://furu1940.co.jp/about/",
+    "https://job.mynavi.jp/28/pc/search/corp235482/outline.html",
+    "https://job.career-tasu.jp/corp/00025531/",
+    "https://choujin.jp/story/457/",
+    "http://www.furukawa-ss.co.jp/profile/",
+    "https://www.bizreach.jp/companies/48124/",
+    "https://www.sbic-wj.co.jp/outline/sort/22663/",
+    "https://ss.saga-job.jp/company/?c=3502",
+    "https://shinsotu.chugoku-np.co.jp/special.php?p=1&id=172",
+    "https://www.furukawa-mfg.co.jp/corporate/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "古川製作所 お問い合わせ メール",
+   "results": [
+    "https://furu1940.co.jp/contact/",
+    "http://www.furukawa-ss.co.jp/postmail/index.html",
+    "https://www.furukawa-techfound.com/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9/",
+    "https://www.sbic-wj.co.jp/outline/sort/22663/",
+    "https://www.furukawa-ss.net/contact/",
+    "https://www.furukawadenki.jp/privacy/",
+    "https://www.furukawaelectric.com/inquiry/",
+    "https://www.furukawa-denki.co.jp/contact",
+    "https://job.mynavi.jp/28/pc/search/corp235482/outline.html",
+    "https://www.j-koga.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 古川製作所",
+   "results": [
+    "https://note.com/yellowdali/n/n179c555181b8",
+    "https://note.com/alive_shrew4081/n/n3444304f4c2c",
+    "https://note.com/yellowdali/n/n824e4dbaea8d",
+    "https://note.com/newspeak/n/na63f6084e09e",
+    "https://note.com/toshiakis/n/n59683003d129",
+    "https://note.com/dapper_squid9109/n/n9776f5aabf38",
+    "https://note.com/toshiakis/n/naebd96a9b8f1",
+    "https://note.com/toshiakis/n/na84eac489fa6",
+    "https://note.com/eiga_hiho/n/n3d4ee3fba251",
+    "https://note.com/erizo_flier/n/ne05ae4f2ff13"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 古川製作所",
+   "results": [
+    "https://x.com/ndccojp/status/1841296432701342109",
+    "https://x.com/shinkenchikusha/status/1877641535639994756",
+    "https://x.com/kessan_db/status/2053655291649290514",
+    "https://x.com/horimateyo/status/896014377593196545",
+    "https://x.com/archiphoto/status/1918500792635670899",
+    "https://x.com/akanelucky7/status/2111971841820774757",
+    "https://x.com/digital_jpn/status/2110558780316623048/photo/1",
+    "https://x.com/rwd_jp",
+    "https://x.com/PRTIMES_STUP/status/2091648463469731911",
+    "https://x.com/archiphoto/status/2041773042398064927"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 古川製作所",
+   "results": [
+    "https://jp.linkedin.com/in/%E7%A0%94%E7%99%BB-%E5%90%89%E8%A1%8C-282202347",
+    "https://www.linkedin.com/pub/dir/Yasushi/Nakamura",
+    "https://www.linkedin.com/pub/dir/%E6%B3%B0%E4%B9%8B/%E4%B8%AD%E6%9D%91",
+    "https://jp.linkedin.com/pub/dir/Yasushi/Nakamura/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/in/%E7%AB%A0%E5%A4%AA-%E5%8F%A4%E5%B7%9D-3745ab29a",
+    "https://www.linkedin.com/pub/dir/%E3%81%A1/%E3%81%99",
+    "https://jp.linkedin.com/pub/dir/%E6%B3%B0%E4%B9%8B/%E4%B8%AD%E6%9D%91/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/in/%E7%9B%B4%E5%BA%83-%E5%8F%A4%E5%B7%9D-39871a16b",
+    "https://jp.linkedin.com/pub/dir/%E6%B3%B0/%E4%B8%AD%E6%9D%91/jp-0-%E6%97%A5%E6%9C%AC"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 古川製作所",
+   "results": [
+    "https://www.facebook.com/furukawaFactory/?locale=ja_JP",
+    "https://www.facebook.com/p/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E5%8F%A4%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E5%AE%AE%E5%B4%8E-100076268476896/",
+    "https://www.facebook.com/100076268476896/photos/",
+    "https://www.facebook.com/Shinkenchikusha/posts/%E5%8F%A4%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E6%96%B0%E7%A4%BE%E5%B1%8B%E5%B7%A5%E5%A0%B4%E9%95%B7%E5%9D%82%E5%B8%B8%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%9E%E5%BB%BA%E7%AF%89%E8%A8%88%E7%94%BB%E6%92%AE%E5%BD%B1-%E5%A4%AA%E7%94%B0%E6%8B%93%E5%AE%9F%E8%87%AA%E5%8B%95%E8%BB%8A%E9%83%A8%E5%93%81%E3%81%AA%E3%81%A9%E3%81%AE%E7%94%9F%E7%94%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E5%8F%A4%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E6%96%B0%E7%A4%BE%E5%B1%8B%E5%8F%B3%E3%81%A8%E5%B7%A5%E5%A0%B4%E5%B7%A6%E3%81%AE%E8%A8%88%E7%94%BB%E7%95%B0%E3%81%AA%E3%82%8B%E3%81%B5%E3%81%9F%E3%81%A4%E3%81%AE%E7%94%A8%E9%80%94%E3%82%92%E3%82%82%E3%81%A4%E5%BB%BA%E7%AF%89%E3%81%A8%E5%A4%96%E6%A7%8B/1155023693297180/",
+    "https://www.facebook.com/p/%E5%8F%A4%E5%B7%9D%E5%92%8C%E5%BC%98-100008429021581/",
+    "https://www.facebook.com/100064902824827/posts/-%E5%8F%A4%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80-%E6%9C%AC%E7%A4%BE%E5%B1%8B-%E8%A8%AD%E8%A8%88-%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%9E%E5%BB%BA%E7%AF%89%E8%A8%88%E7%94%BB-%E9%95%B7%E5%9D%82%E5%B8%B8-%E4%BB%B2%E9%87%8E%E5%BA%B7%E5%89%87%E3%82%B5%E3%82%A4%E3%83%B3%E8%A8%88%E7%94%BB-%E6%97%A5%E6%9C%AC%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E8%89%B2%E9%83%A8%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E7%A0%94%E7%A9%B6%E6%89%80-%E8%89%B2%E9%83%A8%E7%BE%A9%E6%98%AD%E6%95%AC%E7%A7%B0%E7%95%A5%E7%BE%A4%E9%A6%AC%E7%9C%8C%E5%A4%AA%E7%94%B0%E5%B8%82-2023%E5%B9%B412%E6%9C%88-/1014922897347795/",
+    "https://www.facebook.com/furukawaFactory/posts/2256791504416250/",
+    "https://www.facebook.com/NDCcojp/posts/%E8%89%B2%E9%83%A8%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%8C%E3%82%B5%E3%82%A4%E3%83%B3%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%92%E6%8B%85%E5%BD%93%E3%81%97%E3%81%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E5%8F%A4%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%8C%E7%AC%AC58%E5%9B%9E%E6%97%A5%E6%9C%AC%E3%82%B5%E3%82%A4%E3%83%B3%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E8%B3%9E%E3%81%AB%E3%81%A6%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E5%A4%A7%E8%87%A3%E8%B3%9E%E3%82%92%E5%8F%97%E8%B3%9E%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AC%E5%A4%9A%E6%A7%98%E3%81%AA%E6%A5%AD%E7%95%8C%E3%81%AE%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%92%E3%82%B5/940017598158804/",
+    "https://www.facebook.com/sdaaward/posts/%E7%AC%AC%EF%BC%95%EF%BC%98%E5%9B%9E-%E6%97%A5%E6%9C%AC%E3%82%B5%E3%82%A4%E3%83%B3%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E5%A4%A7%E8%B3%9E%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E5%A4%A7%E8%87%A3%E8%B3%9E-%E5%A4%A7%E8%B3%9E%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%92%E9%96%8B%E5%82%AC%E5%8F%97%E8%B3%9E%E4%BD%9C%E5%93%81%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%8F%A4%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80-%E3%82%B5%E3%82%A4%E3%83%B3%E8%A8%88%E7%94%BB%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%92%E6%8B%85%E5%BD%93%E3%81%95%E3%82%8C%E3%81%9F%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%97%A5%E6%9C%AC%E3%83%87/1041899191309141/",
+    "https://www.facebook.com/furukawaFactory/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "古川製作所 note 社長",
+   "results": [
+    "https://note.com/taisaku0911",
+    "https://note.com/tag/%E5%8F%A4%E5%B7%9D%E5%81%A5%E4%BB%8B",
+    "https://note.com/mild_frog4143/n/n02d8c10df9c9",
+    "https://www.youtube.com/watch?v=l1_ZLIGMcR0",
+    "https://note.com/tokyo_fabhub/n/n5b5df4fead0b",
+    "https://www.instagram.com/p/DfZIL76DL3u/",
+    "https://www.lenovojp.com/business/case/024/index_2.html",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://ja.wikipedia.org/wiki/古川一夫",
+    "https://ja.wikipedia.org/wiki/古川俊太郎"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "古川製作所 X 投稿",
+   "results": [
+    "https://furukawa-x.com/",
+    "https://furu1940.co.jp/",
+    "https://www.facebook.com/furukawatoshiharu/posts/x%E6%97%A7twitter%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F%E5%A4%A7%E8%87%A3%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E6%B4%BB%E5%8B%95%E3%81%AA%E3%81%A9%E6%8A%95%E7%A8%BF%E3%81%97%E3%81%A6%E3%81%BE%E3%81%84%E3%82%8A%E3%81%BE%E3%81%99%E3%81%AE%E3%81%A7%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99/1548913563938542/",
+    "https://arwrk.net/recruit/scaam8hjdyky6a4/",
+    "https://www.furukawa-ss.net/news/",
+    "https://choujin.jp/story/457/",
+    "https://syukatsu-kaigi.jp/companies/18453/word_mouths",
+    "https://ss.saga-job.jp/company/?c=3502",
+    "https://x.com/kessan_db/status/2053655291649290514",
+    "https://www.instagram.com/p/Da4vsP7iWBy/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像2件／外部17頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像2件／外部17頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式7頁／PDF・画像2件／外部17頁・検索9回）"
+ }
+}

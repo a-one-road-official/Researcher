@@ -1,0 +1,939 @@
+{
+ "name": "Latentspace",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T18:49:08.718534+00:00",
+ "official_url": "https://latentspace.sh/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI will transform the global economy over the next decade, but this will not happen uniformly. Emerging economies have unique problems, resources, and fundamentally different markets and institutions than developed nations.",
+    "url": "https://latentspace.sh/",
+    "pass": 1
+   },
+   {
+    "quote": "we can accelerate growth and prosperity where it is most needed.",
+    "url": "https://latentspace.sh/",
+    "pass": 1
+   },
+   {
+    "quote": "Solve Problems Unique to Emerging Economies",
+    "url": "https://latentspace.sh/",
+    "pass": 1
+   },
+   {
+    "quote": ": We recognize that emerging economies require labor-intensive industries to drive growth and development. Our AI products are designed to augment and enhance these industries, not replace them, thereby creating new job opportunities and fast-tracking, not hindering, rapid economic development.",
+    "url": "https://latentspace.sh/",
+    "pass": 1
+   },
+   {
+    "quote": ": We are laser-focused on the highest-leverage opportunities that drive direct impact now. We ruthlessly prioritize and filter out noise to ensure our efforts are concentrated on what truly matters for the communities we serve.",
+    "url": "https://latentspace.sh/",
+    "pass": 1
+   },
+   {
+    "quote": "''■ 分離表現（Disentangled Representation）'",
+    "url": "https://izutsu.aa0.netvolante.jp/pukiwiki2/?LatentSpace",
+    "pass": 3
+   },
+   {
+    "quote": "「Scaling Up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach」",
+    "url": "https://izutsu.aa0.netvolante.jp/pukiwiki2/?LatentSpace",
+    "pass": 3
+   },
+   {
+    "quote": "VideoGen1",
+    "url": "https://izutsu.aa0.netvolante.jp/pukiwiki2/?LatentSpace",
+    "pass": 3
+   },
+   {
+    "quote": "Our first deep dive with an AI data company. In roughly a year, Handshake built an AI training business doing nearly $1 billion in gross annualized revenue. What are frontier labs buying? Garrett Lord joins us with the people building reinforcement lea...",
+    "url": "https://podcasts.apple.com/us/podcast/latent-space-the-ai-engineer-podcast/id1674008350",
+    "pass": 3
+   },
+   {
+    "quote": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ...",
+    "url": "https://podcasts.apple.com/us/podcast/latent-space-the-ai-engineer-podcast/id1674008350",
+    "pass": 3
+   },
+   {
+    "quote": "I love this podcast as I I pretty much walk away from every show with something I can apply in my work!",
+    "url": "https://podcasts.apple.com/us/podcast/latent-space-the-ai-engineer-podcast/id1674008350",
+    "pass": 3
+   },
+   {
+    "quote": "São Tomé and Príncipe",
+    "url": "https://podcasts.apple.com/us/podcast/latent-space-the-ai-engineer-podcast/id1674008350",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Project — AI Startups w/ PMF",
+    "url": "https://www.youtube.com/watch?v=4-sWFytOfRw",
+    "pass": 3
+   },
+   {
+    "quote": "Why real AI adoption demands clarity across product, workforce and customers.",
+    "url": "https://www.youtube.com/watch?v=4-sWFytOfRw",
+    "pass": 3
+   },
+   {
+    "quote": "Latent Space - The AI Engineer Podcast (Video Podcast)",
+    "url": "https://www.youtube.com/watch?v=4-sWFytOfRw",
+    "pass": 3
+   },
+   {
+    "quote": "4,108回視聴 • 2026/06/17 • Latent Space - The AI Engineer Podcast (Video Podcast)",
+    "url": "https://www.youtube.com/watch?v=4-sWFytOfRw",
+    "pass": 3
+   },
+   {
+    "quote": "The process: Candidate generation, synthesis, and characterization",
+    "url": "https://www.youtube.com/watch?v=4-sWFytOfRw",
+    "pass": 3
+   },
+   {
+    "quote": "Barriers to entry: The slow process of qualification and manufacturing",
+    "url": "https://www.youtube.com/watch?v=4-sWFytOfRw",
+    "pass": 3
+   },
+   {
+    "quote": "Human-in-the-loop: Training the AI using scientific intuition",
+    "url": "https://www.youtube.com/watch?v=4-sWFytOfRw",
+    "pass": 3
+   },
+   {
+    "quote": ", an autonomous software engineering agent, and developer tools for understanding codebases and managing agent work. Its acquisition of Windsurf brought an IDE into the company’s product suite; that foundation became Devin Desktop in June 2026. Cognition’s strategy combines its own models with those of outside providers. In its",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": ". It combined planning and context recall with a shell, code editor and browser inside a sandboxed compute environment. Users could delegate tasks for review or collaborate through progress reports, feedback and design decisions. The launch announcement also disclosed a $21 million Series A led by Founders Fund.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": ", released April 3, 2025, added an interactive cloud IDE and a plan starting at $20. Each parallel Devin session had its own IDE, where users could inspect changes, edit code and run tests.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "researched the codebase and presented findings and an editable preliminary plan before autonomous execution.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": ", the free public version of Devin Wiki and Devin Search. Its announcement instructed users to replace github.com with deepwiki.com in a repository URL and said more than 50,000 top public GitHub repositories had already been indexed. Public repositories could be added free; private repositories required a Devin account.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "enabled related agents to share context, and Agent Client Protocol support allowed ACP-compatible agents to run alongside Devin. The full IDE retained editing and review workflows; the authors described it as backwards-compatible with Windsurf.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "April 2026 follow-up",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "The same follow-up preserved an unsuccessful experiment.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "let a primary model consult another model when needed, but SWE-1.5 was insufficiently capable at deciding when to escalate and what to ask Sonnet 4.5. SWE-1.6 improved the pattern without fully solving it. Yan reported better results from production consultation between Claude and GPT, where delegation could route a subtask to the model best suited to debugging, visual reasoning or testing.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "May 2026 interview",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "Financing, scale and proactive work",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": ", Cognition announced over $1 billion raised at a $26 billion valuation, led by Lux Capital, General Catalyst and 8VC, and reported enterprise usage growth above tenfold since the start of the year and $492 million in run-rate revenue.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "By that announcement, Devin’s product scope included proactive work beyond individually prompted coding tasks.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "Model source and teaching reviews passed. Human editorial review pending. This profile describes the sources as of 2026-09-17.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "Thariq Shihipar on Claude Code’s next era: prompts, harnesses, plugins, and agents—and what it takes to keep pace with the frontier.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "Mark Zuckerberg & Priscilla Chan",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "Priscilla Chan and Mark Zuckerberg on Biohub’s plans for frontier AI and virtual biology, and the ambition to cure or prevent disease.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "Moonshot’s multimodal model brings competitive coding, native image and video understanding, and parallel agents.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore Latent Space Pro",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "Sign in to manage preferences",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本の著作権法では、",
+    "url": "https://izutsu.aa0.netvolante.jp/pukiwiki2/?LatentSpace",
+    "pass": 3
+   },
+   {
+    "quote": "日本の著作権法では、このような行為を「情報解析」として認めています",
+    "url": "https://izutsu.aa0.netvolante.jp/pukiwiki2/?LatentSpace",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも同様に、開発者が「AIが何を学び、何を保持していないか」を明確に示すことが求められています",
+    "url": "https://izutsu.aa0.netvolante.jp/pukiwiki2/?LatentSpace",
+    "pass": 3
+   },
+   {
+    "quote": "日本の著作権法第30条の4に定められた概念",
+    "url": "https://izutsu.aa0.netvolante.jp/pukiwiki2/?LatentSpace",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "LatentSpace - PukiWiki - Izutsu's Web site — LatentSpace - PukiWiki - Izutsu's Web site izutsu.aa0.netvolante.jp https://izutsu.aa0.netvolante.jp > pukiwiki2 > LatentSpace",
+    "url": "https://izutsu.aa0.netvolante.jp/pukiwiki2/?LatentSpace",
+    "pass": 3
+   },
+   {
+    "quote": "Latent Space | LinkedIn — Latent Space | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/latent-space-info",
+    "pass": 3
+   },
+   {
+    "quote": "Matsuda's Sayings: Awakening the Latent Space (Introduction) — Matsuda's Sayings: Awakening the Latent Space (Introduction) YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=UZsYgRcCTKw&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Latent Space: The AI Engineer Podcast - Apple Podcasts — Latent Space: The AI Engineer Podcast - Apple Podcasts Apple Podcasts https://podcasts.apple.com > podcast",
+    "url": "https://podcasts.apple.com/us/podcast/latent-space-the-ai-engineer-podcast/id1674008350",
+    "pass": 3
+   },
+   {
+    "quote": "Latent space-based network analysis for brain–behavior ... — Latent space-based network analysis for brain–behavior ... Nature https://www.nature.com > ... > articles",
+    "url": "https://www.nature.com/articles/s41592-025-02896-9",
+    "pass": 3
+   },
+   {
+    "quote": "Rare Faults Diagnosis via Latent Space Augmentation in High ... — Rare Faults Diagnosis via Latent Space Augmentation in High ... Springer Nature Link https://link.springer.com > article",
+    "url": "https://link.springer.com/article/10.1007/s40962-026-01975-7",
+    "pass": 3
+   },
+   {
+    "quote": "Smooth 3D transition cell generation based on latent space ... — Smooth 3D transition cell generation based on latent space ... ScienceDirect.com https://www.sciencedirect.com > pii",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2214860425000788",
+    "pass": 3
+   },
+   {
+    "quote": "Latent Space - Crunchbase Company Profile & Funding — Latent Space - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > angle-...",
+    "url": "https://www.crunchbase.com/organization/angle-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Latent Space - 2026 Company Profile & Team - Tracxn — Latent Space - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/latent-space/__t3sXqn_eQbXGnJB34WNpZPP5l--nHiA8ALs5mpH-V68",
+    "pass": 3
+   },
+   {
+    "quote": "Cognition - Latent Space — Cognition - Latent Space Latent Space https://latent.space > wiki",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "Latent Space | AI Engineering News, Essays and Interviews — Latent Space | AI Engineering News, Essays and Interviews LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/latentspacepod",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "⚡️ The 2026 Software Factory Standard — Zach Lloyd, Warp.dev",
+    "url": "https://podcasts.apple.com/us/podcast/latent-space-the-ai-engineer-podcast/id1674008350",
+    "pass": 3
+   },
+   {
+    "quote": "The application of exotic alloys in extreme environments (aerospace and defense)",
+    "url": "https://www.youtube.com/watch?v=4-sWFytOfRw",
+    "pass": 3
+   },
+   {
+    "quote": "Barriers to entry: The slow process of qualification and manufacturing",
+    "url": "https://www.youtube.com/watch?v=4-sWFytOfRw",
+    "pass": 3
+   },
+   {
+    "quote": "Validation timelines for high-tech industries (semiconductors, aerospace)",
+    "url": "https://www.youtube.com/watch?v=4-sWFytOfRw",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+    "url": "https://podcasts.apple.com/us/podcast/latent-space-the-ai-engineer-podcast/id1674008350",
+    "pass": 3
+   },
+   {
+    "quote": "Our first deep dive with an AI data company. In roughly a year, Handshake built an AI training business doing nearly $1 billion in gross annualized revenue. What are frontier labs buying? Garrett Lord joins us with the people building reinforcement lea...",
+    "url": "https://podcasts.apple.com/us/podcast/latent-space-the-ai-engineer-podcast/id1674008350",
+    "pass": 3
+   },
+   {
+    "quote": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+    "url": "https://www.youtube.com/watch?v=4-sWFytOfRw",
+    "pass": 3
+   },
+   {
+    "quote": "Barriers to entry: The slow process of qualification and manufacturing",
+    "url": "https://www.youtube.com/watch?v=4-sWFytOfRw",
+    "pass": 3
+   },
+   {
+    "quote": ", an autonomous software engineering agent, and developer tools for understanding codebases and managing agent work. Its acquisition of Windsurf brought an IDE into the company’s product suite; that foundation became Devin Desktop in June 2026. Cognition’s strategy combines its own models with those of outside providers. In its",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": ", the company reported raising over $2 billion at a $48 billion valuation and reaching almost $900 million in run-rate revenue.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "reported over $400 million raised at a $10.2 billion post-money valuation, led by Founders Fund. Wu reported standalone Devin ARR rising from $1 million in September 2024 to $73 million in June 2025, before Windsurf, with cumulative company net burn below $20 million. On",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": ", Cognition announced over $1 billion raised at a $26 billion valuation, led by Lux Capital, General Catalyst and 8VC, and reported enterprise usage growth above tenfold since the start of the year and $492 million in run-rate revenue.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "In its September 2026 Series E announcement, the company reported raising over $2 billion at a $48 billion valuation and reaching almost $900 million in run-rate revenue.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognition’s acquisition of Windsurf",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "Apps arrive inside Claude",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "swyx had already connected Cloudflare email. Then a coding agent opened a pull request that quietly chose Resend for him. Zeno Rocha, Resend’s founder and CEO, explains what answer engine optimization (AEO) looks like from the receiving end of that rec...",
+    "url": "https://podcasts.apple.com/us/podcast/latent-space-the-ai-engineer-podcast/id1674008350",
+    "pass": 3
+   },
+   {
+    "quote": "Sign in with Google, or get the newsletter by email.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "or subscribe by email",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "Full weekday AINews by email. Support our work.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "Uncheck all to create an account without newsletter emails.",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   },
+   {
+    "quote": "Use a different email",
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "AI Thinking Internally: The Future Brought by Latent Space ... AI Thinking Internally: The Future Brought by Latent Space ... note https://note.com > ... > AI・機械学習",
+    "url": "https://note.com/life_to_ai/n/n61f9c0e660f8?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[AI Basics] Is Latent Space an Abstraction? (Musician, Painter ... [AI Basics] Is Latent Space an Abstraction? (Musician, Painter ... note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/marthay/n/n4c929f278701?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Latent.Space (@latentspacepod) / X Latent.Space (@latentspacepod) / X X https://x.com > latentspacepod",
+    "url": "https://x.com/latentspacepod",
+    "pass": 3
+   },
+   {
+    "quote": "Latent Space (@LatentSpaceAI) / X Latent Space (@LatentSpaceAI) / X X https://x.com > LatentSpaceAI",
+    "url": "https://x.com/LatentSpaceAI",
+    "pass": 3
+   },
+   {
+    "quote": "Latent.Space - X Latent.Space - X X https://x.com > @latentspacepod",
+    "url": "https://x.com/latentspacepod/status/2117932116021588031",
+    "pass": 3
+   },
+   {
+    "quote": "Latent.Space on X: \"more!\" / X Latent.Space on X: \"more!\" / X X https://x.com > @latentspacepod",
+    "url": "https://x.com/latentspacepod/status/2105445171332870630",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "LatentSpace Therapeutics - LinkedIn LatentSpace Therapeutics - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/latentspace-therapeutics",
+    "pass": 3
+   },
+   {
+    "quote": "Latent Space | LinkedIn Latent Space | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/latent-space-info",
+    "pass": 3
+   },
+   {
+    "quote": "LatentSpace (YC S22) - LinkedIn LatentSpace (YC S22) - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/latent-space-sh",
+    "pass": 3
+   },
+   {
+    "quote": "Latent Space | LinkedIn Latent Space | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/latentspaceai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "What is the role of latent space in language-based models? What is the role of latent space in language-based models? Facebook https://www.facebook.com > DeepNetGroup > posts",
+    "url": "https://www.facebook.com/groups/DeepNetGroup/posts/2800221650370699/",
+    "pass": 3
+   },
+   {
+    "quote": "E||OW// AIA, Latent Space Studio - Facebook E||OW// AIA, Latent Space Studio - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/384393025501547/posts/2151686015438897/",
+    "pass": 3
+   },
+   {
+    "quote": "SW|N°// AIA, Latent Space Studio - Facebook SW|N°// AIA, Latent Space Studio - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/384393025501547/posts/2140455619895270/",
+    "pass": 3
+   },
+   {
+    "quote": "Latent Space - Facebook Latent Space - Facebook Facebook https://www.facebook.com > ... > Brand > Clothing (Brand)",
+    "url": "https://www.facebook.com/p/Latent-Space-61583454437601/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://latentspace.sh/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://izutsu.aa0.netvolante.jp/pukiwiki2/?LatentSpace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdenjd.com/archives/708202",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.quora.com/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%BB%AE%E8%AA%AC%E3%82%92%E6%89%B1%E3%81%A3%E3%81%9F%E5%B0%8F%E8%AA%AC%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.quora.com/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AF%E7%90%86%E5%AD%A6%E3%81%A8%E5%B7%A5%E5%AD%A6%E3%81%A9%E3%81%A1%E3%82%89%E3%81%AB%E5%88%86%E9%A1%9E%E3%81%95%E3%82%8C%E3%81%BE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.quora.com/%E7%8F%BE%E8%B1%A1%E8%AB%96%E3%81%A8%E3%81%84%E3%81%86%E3%81%AE%E3%81%AF%E4%BB%AE%E5%AE%9A%E3%82%84%E3%82%89%E5%AE%9F%E9%A8%93%E4%BA%8B%E5%AE%9F%E3%82%92%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AB%E5%8F%96%E3%82%8A",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.quora.com/%E4%B8%96%E7%95%8C5%E5%88%86%E5%89%8D%E4%BB%AE%E8%AA%AC-%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA-%E6%80%9D%E8%80%83%E5%AE%9F%E9%A8%93%E7%9A%84%E3%81%AA%E7%90%86%E8%AB%96%E3%82%84%E4%BB%AE%E8%AA%AC%E3%82%92%E6%95%99",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://izutsu.aa0.netvolante.jp/pukiwiki2/?LatentSpace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/latent-space-info",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=UZsYgRcCTKw&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://podcasts.apple.com/us/podcast/latent-space-the-ai-engineer-podcast/id1674008350",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://link.springer.com/article/10.1007/s40962-026-01975-7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://latentai.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2214860425000788",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=4-sWFytOfRw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://whitelabelpartner.com/white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rackspace.com/partner/cloud-reseller",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://insighto.ai/blog/white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/angle-technologies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/latent-space/__t3sXqn_eQbXGnJB34WNpZPP5l--nHiA8ALs5mpH-V68",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/522161-11",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://latent.space/wiki/cognition-6249c527/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/life_to_ai/n/n61f9c0e660f8?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/marthay/n/n4c929f278701?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/latentspacepod",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LatentSpaceAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/latentspacepod/status/2117932116021588031",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/latentspacepod/status/2105445171332870630",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/latentspace-therapeutics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/latent-space-info",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/latent-space-sh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/latentspaceai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/DeepNetGroup/posts/2800221650370699/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/384393025501547/posts/2151686015438897/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/384393025501547/posts/2140455619895270/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Latent-Space-61583454437601/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/latentspacepod",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LatentSpaceAI",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Latentspace 日本 導入",
+   "results": [
+    "https://izutsu.aa0.netvolante.jp/pukiwiki2/?LatentSpace",
+    "https://trafficnews.jp/post/725198",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.netdenjd.com/archives/708202",
+    "https://biz.chunichi.co.jp/news/article/10/129842/",
+    "https://www.aiho.dev/ja/t/latentspace",
+    "https://latent.space/",
+    "https://note.com/yondo/n/n9576ddec9e15",
+    "https://note.com/yondo/n/nfb632c534ca8",
+    "https://www.ibm.com/jp-ja/think/topics/latent-space"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Latentspace 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://jp.quora.com/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%BB%AE%E8%AA%AC%E3%82%92%E6%89%B1%E3%81%A3%E3%81%9F%E5%B0%8F%E8%AA%AC%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B",
+    "https://jp.quora.com/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AF%E7%90%86%E5%AD%A6%E3%81%A8%E5%B7%A5%E5%AD%A6%E3%81%A9%E3%81%A1%E3%82%89%E3%81%AB%E5%88%86%E9%A1%9E%E3%81%95%E3%82%8C%E3%81%BE",
+    "https://jp.quora.com/%E7%8F%BE%E8%B1%A1%E8%AB%96%E3%81%A8%E3%81%84%E3%81%86%E3%81%AE%E3%81%AF%E4%BB%AE%E5%AE%9A%E3%82%84%E3%82%89%E5%AE%9F%E9%A8%93%E4%BA%8B%E5%AE%9F%E3%82%92%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AB%E5%8F%96%E3%82%8A",
+    "https://jp.quora.com/%E4%B8%96%E7%95%8C5%E5%88%86%E5%89%8D%E4%BB%AE%E8%AA%AC-%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA-%E6%80%9D%E8%80%83%E5%AE%9F%E9%A8%93%E7%9A%84%E3%81%AA%E7%90%86%E8%AB%96%E3%82%84%E4%BB%AE%E8%AA%AC%E3%82%92%E6%95%99",
+    "https://ja.wikipedia.org/wiki/パピレス",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.jll.com/ja-jp/about-jll/japan-information",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://maymobility.com/ja",
+    "https://cocoa-soft.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Latentspace Japan",
+   "results": [
+    "https://izutsu.aa0.netvolante.jp/pukiwiki2/?LatentSpace",
+    "https://www.linkedin.com/company/latent-space-info",
+    "https://www.youtube.com/watch?v=UZsYgRcCTKw&vl=ja",
+    "https://podcasts.apple.com/us/podcast/latent-space-the-ai-engineer-podcast/id1674008350",
+    "https://www.nature.com/articles/s41592-025-02896-9",
+    "https://open.spotify.com/show/2p7zZVwVF6Yk0Zsb4QmT7t",
+    "https://www.linkedin.com/company/latent-space-sh",
+    "https://www.instagram.com/reel/DFaa7pFuWOl/",
+    "https://yitongsun.com/latent-space",
+    "https://latent.space/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Latentspace manufacturing customer case study",
+   "results": [
+    "https://link.springer.com/article/10.1007/s40962-026-01975-7",
+    "https://latentai.com/case-studies/",
+    "https://www.sciencedirect.com/science/article/pii/S2214860425000788",
+    "https://www.youtube.com/watch?v=4-sWFytOfRw",
+    "https://www.youtube.com/watch?v=1_ZB7O_9hlQ",
+    "https://www.latentview.com/case-study-category/digitral-analytics/",
+    "https://www.youtube.com/watch?v=r8_2CSpcmls",
+    "https://www.latentview.com/case-studies/",
+    "https://www.latentview.com/case-studies/process-mining-to-improve-manufacturing-throughput/",
+    "https://www.featuredcustomers.com/vendor/latent/case-studies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Latentspace white label OR reseller OR partner program",
+   "results": [
+    "https://whitelabelpartner.com/white-label-reseller-programs/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.rackspace.com/partner/cloud-reseller",
+    "https://insighto.ai/blog/white-label-reseller-programs/",
+    "https://lomeyo.com/blog/self-hosted-recruitment/white-label-saas-for-agencies",
+    "https://www.e2msolutions.com/ai-service-reseller-partner/",
+    "https://customgpt.ai/white-label-saas-reseller/",
+    "https://whitelabelpartner.com/become-a-partner/",
+    "https://www.rackspace.com/resources/rackspace-reseller-program",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Latentspace founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/angle-technologies",
+    "https://tracxn.com/d/companies/latent-space/__t3sXqn_eQbXGnJB34WNpZPP5l--nHiA8ALs5mpH-V68",
+    "https://pitchbook.com/profiles/company/522161-11",
+    "https://latent.space/wiki/cognition-6249c527/",
+    "https://www.linkedin.com/company/latentspacepod",
+    "https://www.inven.ai/data/companies/latentai-com",
+    "https://www.latentspacesystems.org/company",
+    "https://getlatka.com/companies/latenthealth.com",
+    "https://tracxn.com/d/companies/latentspace/__e9djIJWY4y4N1dR9pZwP15M_0mBC596X-WBjH-_nkBY",
+    "https://pitchbook.com/profiles/company/166915-27"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Latentspace",
+   "results": [
+    "https://note.com/steam_quest/n/n36f56a4d6af1?hl=en",
+    "https://note.com/life_to_ai/n/n61f9c0e660f8?hl=en",
+    "https://note.com/kajiken0630/n/n8590fc7be157?hl=en",
+    "https://note.com/marthay/n/n4c929f278701?hl=en",
+    "https://note.com/humble_bobcat51/n/n71e29db607f8?hl=en",
+    "https://note.com/nova_architect/n/n069dd306e59f?hl=en",
+    "https://note.com/chihirodesign/n/n925a702617b4?hl=en",
+    "https://note.com/inagaki2521/n/n1c7dd02bb7f7?hl=en",
+    "https://note.com/baribio91/n/n13363ede3c6b?hl=en",
+    "https://note.com/sepiablue/n/n9e84c0e2a42e?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Latentspace",
+   "results": [
+    "https://x.com/latentspacepod",
+    "https://x.com/LatentSpaceAI",
+    "https://x.com/latentspacepod/status/2117932116021588031",
+    "https://x.com/latentspacepod/status/2105445171332870630",
+    "https://x.com/latentspacepod/status/2102159548366881196",
+    "https://x.com/docmilanfar/status/2069998866267886037",
+    "https://x.com/latentspacepod/status/2103141406583722375",
+    "https://x.com/latentspacepod/status/2117721794601947634",
+    "https://x.com/latentspacepod/status/1733160841997070683",
+    "https://x.com/Smol_AI/status/2014764859989315932"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Latentspace",
+   "results": [
+    "https://www.linkedin.com/company/latentspace-therapeutics",
+    "https://www.linkedin.com/company/latent-space-info",
+    "https://www.linkedin.com/company/latent-space-sh",
+    "https://www.linkedin.com/company/latentspaceai",
+    "https://www.linkedin.com/pulse/exploring-latent-space-hidden-world-ai-louie-kwan-sb8ne",
+    "https://www.linkedin.com/posts/davidsauerwein_agents-ai-ml-activity-7403107276301172736-4SbX",
+    "https://www.linkedin.com/posts/anima-anandkumar_why-transformers-hit-a-wall-the-moment-activity-7498463058835566592-D88I",
+    "https://www.linkedin.com/company/latentspacepod",
+    "https://www.linkedin.com/pulse/latent-space-structures-deep-learning-models-andres-g-abad-ph-d--ffeje",
+    "https://www.linkedin.com/company/latent-space-media"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Latentspace",
+   "results": [
+    "https://www.facebook.com/groups/DeepNetGroup/posts/2800221650370699/",
+    "https://www.facebook.com/groups/384393025501547/posts/2151686015438897/",
+    "https://www.facebook.com/groups/384393025501547/posts/2140455619895270/",
+    "https://www.facebook.com/p/Latent-Space-61583454437601/",
+    "https://www.facebook.com/groups/384393025501547/posts/2139428873331278/",
+    "https://www.facebook.com/61581120151332/posts/st%CE%BEp5aia-latent-space/122137020591037338/",
+    "https://ai.facebook.com/blog/yann-lecun-ai-model-i-jepa/",
+    "https://ai.facebook.com/research/publications/segment-anything/?ref=hackernoon.com",
+    "https://www.facebook.com/groups/aiartuniverse/posts/718608286571075/",
+    "https://www.facebook.com/groups/midjourneyaii/posts/1224807006320421/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Latentspace note 社長",
+   "results": [
+    "https://note.com/yondo/n/n9576ddec9e15",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://note.com/satoshi_yamauchi/n/nba739ccf2438",
+    "https://x.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.com/yuuri_nerd/n/na8087bad481f",
+    "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E8%B2%9E%E9%A1%95",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Latentspace X 投稿",
+   "results": [
+    "https://x.com/latentspacepod",
+    "https://x.com/LatentSpaceAI",
+    "https://latent.space/",
+    "https://note.com/green_days/n/n2abad368b923",
+    "https://latent.space/about/",
+    "https://x.com/latentspacepod/status/2117932116021588031",
+    "https://note.com/ai_chan_again/n/n8528f23a71ea",
+    "https://x.com/latentspacepod/status/2119550393550291192",
+    "https://x.com/xlatentspace/status/1906482538274869442",
+    "https://x.com/latentXpace"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索12回）"
+ }
+}

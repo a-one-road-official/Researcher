@@ -1,0 +1,1602 @@
+{
+ "name": "サンコーテクノ",
+ "aliases": [],
+ "context": "千葉県・資本金76800万円・東京都 ものづくり企業データベース",
+ "researched_at": "2026-11-11T18:28:59.817720+00:00",
+ "official_url": "https://sanko-techno.co.jp/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設　立",
+    "value": "設　立：1964年（昭和39年）5月15日",
+    "url": "https://sanko-techno.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "設立",
+    "value": "設立：1964年5月15日",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "label": "設立年月日",
+    "value": "設立年月日：1964年5月15日",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3435",
+    "pass": 3
+   },
+   {
+    "label": "設立年度",
+    "value": "設立年度：1964年（昭和39年）5月15日",
+    "url": "https://polarisai.co.jp/case/case_013",
+    "pass": 3
+   },
+   {
+    "label": "設　立",
+    "value": "設　立：1964年",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=423",
+    "pass": 3
+   }
+  ],
+  "資本金": [
+   {
+    "label": "資本金",
+    "value": "768百万円",
+    "url": "https://sanko-techno.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "資本金",
+    "value": "768百万円",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "768(百万円) \n                                            (2026/3現在) \n                                            日本基準",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3435",
+    "pass": 3
+   },
+   {
+    "label": "資本金",
+    "value": "768百万円",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=423",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　洞下　英人（ほらげ　ひでと）",
+    "url": "https://sanko-techno.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 洞下 英人（ほらげ ひでと）",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "label": "代表者氏名",
+    "value": "洞下　英人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3435",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "単体：345名（75） 連結：850名（263） ※2026年3月31日現在／カッコは平均臨時雇用者数（外数）",
+    "url": "https://sanko-techno.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "353名（連結713名） （2025年3月31日現在）",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "345 人",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3435",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "千葉県流山市南流山三丁目10番地16 TEL：04-7157-3535　FAX：04-7178-6661 JR武蔵野線「南流山」駅 南口 徒歩3分　　つくばエクスプレス線「南流山」駅 A1出口 徒歩３分 Google Map　　＞",
+    "url": "https://sanko-techno.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒410-0001 静岡県沼津市足高396-59",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒270-0107 千葉県流山市西深井1028-7",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒270-0107 千葉県流山市西深井1028-41",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒270-0163 千葉県流山市南流山3-10-16",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒331-0057 埼玉県さいたま市西区中野林287",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒166-0013 東京都杉並区堀ノ内1-7-23",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒300-1156 茨城県稲敷郡阿見町福田84-1",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒116-0013 東京都荒川区西日暮里2-22-1 ステーションプラザタワー504号",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒577-0015 大阪府東大阪市長田2-12-15",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒110-0015 東京都台東区東上野2-12-8 芳屋ビル4階",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒365-0051 埼玉県鴻巣市宮前489",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒409-3853 山梨県中巨摩郡昭和町築地新居1641-3",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "2 Soi Phaholyothin 96, Prachatipat, Thanyaburi, Pathumthani, 12130, Thailand",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "Office No. 29, 8th Floor, Detech II Tower, No. 107 Nguyen Phong Sac, Dich Vong Hau Ward, Cau Giay District, Hanoi City, Vietnam",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "台湾台北市敦化北路207號7樓之7",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒270-0163 千葉県流山市南流山 三丁目10番地16 TEL：04-7157-3535 FAX：04-7178-6661",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "label": "本社住所",
+    "value": "〒270-0163 千葉県流山市南流山３－１０－１６ 地図",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3435",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "千葉県流山市南流山三丁目10番地16",
+    "url": "https://polarisai.co.jp/case/case_013",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "千葉県流山市南流山三丁目10番地16",
+    "url": "https://www.foundation-kihonoki.com/manufacturer-list/sanko-techno.html",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "270-0163　千葉県流山市南流山三丁目10番地16",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=423",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "建設資材（あと施工アンカー・ドリルビット・ファスナー等）、複合材、各種測定器の企画開発・製造・販売・施工および輸出入",
+    "url": "https://sanko-techno.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "小型鉄筋カッターやベンダー製品を中心とした電動油圧工具の製造・販売",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "電子プリント基板の回路設計・実装（マウント）など、一貫生産・販売",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "あと施工アンカー等の組付け（製品化）",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "IT関連の開発・構築・システム販売等",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "電子プリント基板の実装加工および電子機器の製造・販売",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "プラスチック・紙成形機および包装機の製造・輸入・販売",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "精密パイプシャフトの設計・加工および各種金属部品の加工",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "無線機器をはじめとするＩｏＴデバイス機器の開発・販売 AIエッジ顔認証製品の開発・販売",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "土木用暗渠排水材等の合成樹脂立体網状構造体の製造・販売",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "各種キーユニット、プラスチック成形部品、板金、PCB／FPC（部品Ass’y含む）、銘板、メンブレンスイッチ、ハード・ソフト開発",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "プリント基板の実装・制御装置の設計・製造",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "圧造部品の製造販売／ネジおよび関連部品製造",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "日本向けのあと施工アンカー製品の製造および国内外への販売",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "あと施工アンカーの製品化およびベトナム国内への販売",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "輸入商材の仲介業務および新商材の発掘",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "建設資材（あと施工アンカー・ドリルビット・ファスナー等）、 複合材、各種測定器の企画開発・製造・販売・施工および輸出入",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "label": "事業概要",
+    "value": "建設資材（あと施工アンカー・ドリルビット・ファスナー等）、複合材、各種測定器の企画開発・製造・販売・施工および輸出入",
+    "url": "https://polarisai.co.jp/case/case_013",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年　商",
+    "value": "217.6億円(グループ合計、2026年3月期)",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=423",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "資本金・株主": [
+   {
+    "quote": "海外連結子会社におけるランサムウェア被害の発生に関するお知らせ（最終報）",
+    "url": "https://sanko-techno.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "海外連結子会社におけるランサムウェア被害の発生に関するお知らせ（最終報）",
+    "url": "https://sanko-techno.co.jp/company/corporate_governance/",
+    "pass": 1
+   },
+   {
+    "quote": "1. 株主の権利・平等性の確保",
+    "url": "https://sanko-techno.co.jp/company/corporate_governance/",
+    "pass": 1
+   },
+   {
+    "quote": "（１）当社は、株主の権利が実質的に確保されるよう適切な対応を行うとともに、株主がその権利を適切に行使することができる環境の整備を行う",
+    "url": "https://sanko-techno.co.jp/company/corporate_governance/",
+    "pass": 1
+   },
+   {
+    "quote": "（２）当社は、株主の実質的な平等性を確保する観点から、少数株主等の権利の実質的確保や、権利行使に係る環境及び実質的な平等性確保について、十分な配慮を行う",
+    "url": "https://sanko-techno.co.jp/company/corporate_governance/",
+    "pass": 1
+   },
+   {
+    "quote": "2. 株主以外のステークホルダーとの適切な協働",
+    "url": "https://sanko-techno.co.jp/company/corporate_governance/",
+    "pass": 1
+   },
+   {
+    "quote": "（１）当社は、会社の持続的な成長と中長期的な企業価値の創出は、株主以外の様々なステークホルダーによるリソースの提供や貢献の結果であることを十分に認識し、これらのステークホルダーとの適切な協働に努める",
+    "url": "https://sanko-techno.co.jp/company/corporate_governance/",
+    "pass": 1
+   },
+   {
+    "quote": "（２）当社取締役会は、開示・提供する情報が株主との間で建設的な対話を行う上での基盤となることも踏まえ、そうした情報が、正確で利用者にとって分かりやすく、情報として有用性の高いものとなるよう努める",
+    "url": "https://sanko-techno.co.jp/company/corporate_governance/",
+    "pass": 1
+   },
+   {
+    "quote": "（１）当社取締役会は、株主に対する受託者責任・説明責任を踏まえ、会社の持続的成長と中長期的な企業価値の向上を促し、収益力・資本効率等の改善を図るべく、以下の役割・責務を適切に果たすよう努める",
+    "url": "https://sanko-techno.co.jp/company/corporate_governance/",
+    "pass": 1
+   },
+   {
+    "quote": "5. 株主との対話",
+    "url": "https://sanko-techno.co.jp/company/corporate_governance/",
+    "pass": 1
+   },
+   {
+    "quote": "（１）当社は、持続的な成長と中長期的な企業価値の向上に資するため、株主総会の場以外においても、株主との間で建設的な対話を行う",
+    "url": "https://sanko-techno.co.jp/company/corporate_governance/",
+    "pass": 1
+   },
+   {
+    "quote": "（２）取締役・経営陣幹部は、こうした対話を通じて株主の声に耳を傾け、その関心・懸念に正当な関心を払うとともに、自らの経営方針を株主に分かりやすい形で明確に説明しその理解を得る努力を行い、株主を含むステークホルダーの立場に関するバランスのとれた理解と、そうした理解を踏まえた適切な対応に努める",
+    "url": "https://sanko-techno.co.jp/company/corporate_governance/",
+    "pass": 1
+   },
+   {
+    "quote": "海外連結子会社におけるランサムウェア被害の発生に関するお知らせ（最終報）",
+    "url": "https://sanko-techno.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "海外連結子会社におけるランサムウェア被害の発生に関するお知らせ（最終報）",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "海外連結子会社におけるランサムウェア被害の発生に関するお知らせ（最終報）",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "海外連結子会社におけるランサムウェア被害の発生に関するお知らせ（最終報）",
+    "url": "https://sanko-techno.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "【サンコーテクノ】[3435]企業概要 社員数や役員報酬・資本金 | 日経電子版",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3435",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3435",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3435",
+    "pass": 3
+   },
+   {
+    "quote": "【サンコーテクノ】[3435]適時開示情報 株主総会や定款関連 | 日経電子版",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3435",
+    "pass": 3
+   },
+   {
+    "quote": "海外連結子会社におけるランサムウェア被害の発生に関するお知らせ（最終報）",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3435",
+    "pass": 3
+   },
+   {
+    "quote": "海外連結子会社におけるランサムウェア被害の発生に関するお知らせ",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3435",
+    "pass": 3
+   },
+   {
+    "quote": "2026年定時株主総会招集ご通知及び株主総会資料",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3435",
+    "pass": 3
+   },
+   {
+    "quote": "甲府精鋲株式会社の株式取得に伴う子会社及び孫会社の異動に関するお知らせ",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3435",
+    "pass": 3
+   },
+   {
+    "quote": "上場企業の決算発表日程や株主総会の日程を事前に確認することができます",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3435",
+    "pass": 3
+   }
+  ],
+  "売上の柱（何で稼ぐか）": [
+   {
+    "quote": "（１）当社取締役会は、株主に対する受託者責任・説明責任を踏まえ、会社の持続的成長と中長期的な企業価値の向上を促し、収益力・資本効率等の改善を図るべく、以下の役割・責務を適切に果たすよう努める",
+    "url": "https://sanko-techno.co.jp/company/corporate_governance/",
+    "pass": 1
+   },
+   {
+    "quote": "建設資材（あと施工アンカー・ドリルビット・ファスナー等）、複合材、各種測定器の企画開発・製造・販売・施工および輸出入",
+    "url": "https://sanko-techno.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "千葉県流山市に三幸工業株式会社を設立・オールアンカー製造開始",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "呼気アルコール測定器SG358-Sを販売開始",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "オールコアドリルL150シリーズを販売開始",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "呼気アルコール検知器ST-3000を販売開始",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サイズミックエコフィラー SE-550を販売開始",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サイズミックエコフィラー SE-150を販売開始",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "呼気アルコール検知器ALC Face ST-2000を販売開始",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "紫外線LED照射器e-キュア UVライトを販売開始",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "サイズミックエコフィラー SE-1300Vを販売開始",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "メタルアンダーカットアンカー スマートタイプを販売開始",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "円形付着試験用サークルアタッチメントを販売開始",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "「ALCFaceMobile TR-3」を販売開始",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "イージーアイアンカー EZI-Bを販売開始",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "遠隔点呼システム 「ALCFace Air」を販売開始",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "建電協対応 メタルセーフアンカー／ボルトアンカー 3Daを販売開始",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "アスファルトアンカー ASAタイプを販売開始",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "自動点呼システム ALCFaceAirを販売開始",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、東京の地で初めてオリンピックが開催された1964年に創立し、コンクリートに物を取り付ける際に使用する「あと施工アンカー」をはじめ、ドリルビットやファスナーなど、建設資材の開発・製造・販売のほか、耐震補強や太陽光関連の工事管理、アルコール検知器やFRPシートの製造・販売など、「安全・安心・環境」をキーワードに幅広く事業展開してきました",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "当社の主力事業であるファスニング事業は、",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "あと施工アンカーをはじめとした建設資材の開発・製造・販売を行うファスニング関連と、",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "あと施工アンカーを中心とするドリル、ファスナー等の建設資材の企画開発・原料調達・製造・販売にとどまらず、施工ツールや強度確認試験機などを取り揃え、一貫した価値（トータルファスニングシステム）を創造し、提供しています",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "なかでも、当社の代名詞ともいえる「オールアンカー」は、発売から50年以上経過した今日においても、全国各地で販売・使用されているロングセラー商品となります",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "電動油圧工具は、グループ会社の株式会社IKKが製造しており、「切る」「孔（あ）ける」「曲げる」を製品コンセプトに「DIAMOND」のブランド名で、鉄筋カッターやベンダーなど、さまざまな種類の製品を取り扱っています",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "あと施工アンカーの製品化およびベトナム国内への販売",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "輸入商材の仲介業務および新商材の発掘と台湾国内への販売",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "土木用暗渠排水材等の合成樹脂立体網状構造体の製造・販売",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "圧造部品の製造販売／ネジおよび関連部品製造",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "呼気中のアルコール濃度を測定するアルコール検知器の開発・製造・販売を行っています",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "AIエッジ顔認証製品およびIoTデバイス機器の開発・販売",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "紫外線硬化型FRPシート「e-シート」の製造・販売を行っています",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "電子基板関連は、株式会社スイコーと浦和電研株式会社および株式会社光洋が製造・販売を行っています",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "スイコーは、プリント基板自体の製造を得意とし、浦和電研はプリント基板上に電子部品を取り付ける実装を得意としています",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "また、光洋はプリント基板の設計・製造のほか、メンブレンスイッチ等の設計・開発・製造も手掛けています",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "プリント基板の実装加工および電子機器の製造・販売",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "プリント基板の設計・製造および各種フィルム材料の加工・印刷",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "成光産業では、プラスチックの真空成形機や、透明なフィルムで対象物を密封するシュリンクパック機など、さまざまな機械を欧州より輸入し、国内で販売・メンテナンスを行っています",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "また、真空成形機でプラスチック成形品を製造しています",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック成形機および包装機の製造・輸入・販売",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容：小型鉄筋カッターやベンダー製品を中心とした電動油圧工具の製造・販売",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容：電子プリント基板の回路設計・実装（マウント）など、一貫生産・販売",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容：あと施工アンカー等の組付け（製品化）",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "事業内容：IT関連の開発・構築・システム販売等",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "複合材、各種測定器の企画開発・製造・販売・施工および輸出入",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "日本向けのあと施工アンカ－製品の製造および国内外への販売",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "電子プリント基板の回路設計・実装（マウント）など、一貫生産・販売",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "小型鉄筋カッターやベンダー製品を中心とした電動油圧工具の製造・販売",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "電子プリント基板の実装加工および電子機器の製造・販売",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック・紙成形機および包装機の製造・輸入・販売",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "無線機器をはじめとするＩｏＴデバイス機器の開発・販売 AIエッジ顔認証製品の開発・販売",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "土木用暗渠排水材等の合成樹脂立体網状構造体の製造・販売",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "各種キーユニット、プラスチック成形部品、PCB／FPC設計・製造",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "圧造部品の製造販売／ネジおよび関連部品製造",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "【特殊ねじ製造】建物の改修や補修などリニューアル分野に進出",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3435",
+    "pass": 3
+   },
+   {
+    "quote": "【特殊ねじ製造】建物の改修や補修などリニューアル分野に進出",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3435",
+    "pass": 3
+   },
+   {
+    "quote": "※１円の変動による、営業利益など本業収益へのプラス効果を示す",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3435",
+    "pass": 3
+   },
+   {
+    "quote": "直近５期の売上高",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3435",
+    "pass": 3
+   },
+   {
+    "quote": "【特殊ねじ製造】建物の改修や補修などリニューアル分野に進出",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3435",
+    "pass": 3
+   },
+   {
+    "quote": "― 貴社の事業内容と、ご自身の役割について教えて下さい",
+    "url": "https://polarisai.co.jp/case/case_013",
+    "pass": 3
+   }
+  ],
+  "客の産業（導入事例・取引先）": [
+   {
+    "quote": "（２）当社取締役会は、開示・提供する情報が株主との間で建設的な対話を行う上での基盤となることも踏まえ、そうした情報が、正確で利用者にとって分かりやすく、情報として有用性の高いものとなるよう努める",
+    "url": "https://sanko-techno.co.jp/company/corporate_governance/",
+    "pass": 1
+   },
+   {
+    "quote": "（１）当社は、持続的な成長と中長期的な企業価値の向上に資するため、株主総会の場以外においても、株主との間で建設的な対話を行う",
+    "url": "https://sanko-techno.co.jp/company/corporate_governance/",
+    "pass": 1
+   },
+   {
+    "quote": "みずほ銀行 三井住友銀行 千葉銀行 りそな銀行 常陽銀行",
+    "url": "https://sanko-techno.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "建設資材（あと施工アンカー・ドリルビット・ファスナー等）、複合材、各種測定器の企画開発・製造・販売・施工および輸出入",
+    "url": "https://sanko-techno.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "千葉県関宿町(現 野田市）に関宿工場（現 野田工場）を開設",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "千葉県流山市西深井に中央物流センター（自動倉庫）を開設",
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、東京の地で初めてオリンピックが開催された1964年に創立し、コンクリートに物を取り付ける際に使用する「あと施工アンカー」をはじめ、ドリルビットやファスナーなど、建設資材の開発・製造・販売のほか、耐震補強や太陽光関連の工事管理、アルコール検知器やFRPシートの製造・販売など、「安全・安心・環境」をキーワードに幅広く事業展開してきました",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "あと施工アンカーをはじめとした建設資材の開発・製造・販売を行うファスニング関連と、",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "あと施工アンカーを中心とするドリル、ファスナー等の建設資材の企画開発・原料調達・製造・販売にとどまらず、施工ツールや強度確認試験機などを取り揃え、一貫した価値（トータルファスニングシステム）を創造し、提供しています",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "高度経済成長期の建設ラッシュで生まれた各種構造物は、時間の経過とともに劣化し、地震などの災害に対する耐久性が低下しているなど、さまざまな危険性を抱えています",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、あと施工アンカーをはじめとする締結技術を応用して耐震補強工事に活かすなど、学校や病院、高速道路や鉄道の橋脚など、各種構造物を守るための工法開発や工事管理を行っています",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "包装・物流機器関連という4つのセグメントから構成されており、",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "建設業界のみならず、物流業界や電機業界など、",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "トラックやバス、タクシーといった緑ナンバーを有する運送事業者のほか、近年では鉄道や船舶、航空業界などでもアルコール検知器は使用されており、飲酒による交通事故の根絶のほか、健康管理の提唱などに取り組んでいます",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "包装・物流機器関連は、成光産業株式会社が担っています",
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "pass": 1
+   },
+   {
+    "quote": "各階層（役職）において、必要な知識・視点・考え方などをeラーニングや通信教育、",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社独自の通信教育を年３回開講、約80コースのなかから年間２コースまで受講可能",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "甲種・乙種危険物取扱者、知的財産管理技能士、建設業経理士など",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "建設資材（あと施工アンカー・ドリルビット・ファスナー等）、",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "サンコーテクノ株式会社様は、主にあと施工アンカー業界でトップシェアを誇る日本の建設関連資材メーカーです",
+    "url": "https://polarisai.co.jp/case/case_013",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、「あと施工アンカー」を中心とした建設資材の製造・販売を手がけるメーカーです",
+    "url": "https://polarisai.co.jp/case/case_013",
+    "pass": 3
+   },
+   {
+    "quote": "建設業界では技術継承や人手不足が深刻な課題となっており、私たちのような製造業でも効率的な情報伝達・業務の標準化がますます求められています",
+    "url": "https://polarisai.co.jp/case/case_013",
+    "pass": 3
+   },
+   {
+    "quote": "そのためにも、安心して使える環境づくりが不可欠だと感じており、情報管理や教育体制、活用ルールの整備なども含めて、段階的に取り組んでいます",
+    "url": "https://polarisai.co.jp/case/case_013",
+    "pass": 3
+   },
+   {
+    "quote": "事業概要 ：建設資材（あと施工アンカー・ドリルビット・ファスナー等）、複合材、各種測定器の企画開発・製造・販売・施工および輸出入",
+    "url": "https://polarisai.co.jp/case/case_013",
+    "pass": 3
+   },
+   {
+    "quote": "大手自動車関連メーカーであるジヤトコ株式会社様では、自社開発されたRAGシステムの精度に課題を抱えておられました",
+    "url": "https://polarisai.co.jp/case/case_013",
+    "pass": 3
+   },
+   {
+    "quote": "サンコーテクノが提供する設備用基礎の特徴と導入事例を紹介",
+    "url": "https://www.foundation-kihonoki.com/manufacturer-list/sanko-techno.html",
+    "pass": 3
+   },
+   {
+    "quote": "サンコーテクノ株式会社は、あと施工アンカーやドリルビットなどの建設資材を製造・販売する企業です",
+    "url": "https://www.foundation-kihonoki.com/manufacturer-list/sanko-techno.html",
+    "pass": 3
+   },
+   {
+    "quote": "「あと施工アンカー」を開発して以来、建設現場の安全性と施工性を高める多様なアンカー製品を提供し続けています",
+    "url": "https://www.foundation-kihonoki.com/manufacturer-list/sanko-techno.html",
+    "pass": 3
+   },
+   {
+    "quote": "本サイトでは、湿式・乾式の違いや主要メーカーの特徴を踏まえ、設置環境別におすすめの設備用基礎を分かりやすく紹介します",
+    "url": "https://www.foundation-kihonoki.com/manufacturer-list/sanko-techno.html",
+    "pass": 3
+   },
+   {
+    "quote": "おすすめの設備用基礎メーカー3選",
+    "url": "https://www.foundation-kihonoki.com/manufacturer-list/sanko-techno.html",
+    "pass": 3
+   },
+   {
+    "quote": "サンコーテクノのケミカルアンカーは、設備基礎の固定や耐震補強において高い信頼性を誇り、建設現場の安全と強さを足元から支えています",
+    "url": "https://www.foundation-kihonoki.com/manufacturer-list/sanko-techno.html",
+    "pass": 3
+   },
+   {
+    "quote": "「設備用基礎メーカー」3選",
+    "url": "https://www.foundation-kihonoki.com/manufacturer-list/sanko-techno.html",
+    "pass": 3
+   },
+   {
+    "quote": "外アンカー型・内アンカー型の専用止水処理により改修案件でもメーカー検査合格の際は漏水リスクを低減",
+    "url": "https://www.foundation-kihonoki.com/manufacturer-list/sanko-techno.html",
+    "pass": 3
+   },
+   {
+    "quote": "【販売】流山市（千葉県）／東大阪市（大阪府）／名古屋市（愛知県）／他11カ所【生産】野田市（千葉県）／流山市（千葉県）／奈良市（奈良県）【研究開発】流山市（千葉県）【物流】流山市（千葉県）／岡山市（岡山県）",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=423",
+    "pass": 3
+   },
+   {
+    "quote": "■建設用資材「あと施工アンカー」のパイオニア",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=423",
+    "pass": 3
+   },
+   {
+    "quote": "1964年創業の当社は、建設物のコンクリートに設備を固定の際に使う、あと施工アンカーの開発と販売を主力事業として発展を遂げてきました",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=423",
+    "pass": 3
+   },
+   {
+    "quote": "高層ビルや物流施設・工場・住宅に対する設備の固定や、ダム・港湾・高速道路といった土木構造物の保全まで、その用途は多岐にわたります",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=423",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアリングは、あと施工アンカーの締結技術を応用して耐震補修工事に活かし、学校や病院、高速道路、鉄道の橋脚など、各種構造物を守るための工法開発や工事管理を行っています",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=423",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - あと施工アンカーの サンコーテクノ — 会社概要 - あと施工アンカーの サンコーテクノ sanko-techno.co.jp https://sanko-techno.co.jp > 企業情報",
+    "url": "https://sanko-techno.co.jp/company/overview/",
+    "pass": 3
+   },
+   {
+    "quote": "会社 を知る | サンコーテクノ 株式 会社 リクルートサイト — 会社 を知る | サンコーテクノ 株式 会社 リクルートサイト sanko-techno-recruit.com https://sanko-techno-recruit.com > company",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "【 サンコーテクノ 】[3435]企業 概要 社員数や役員報酬・ 資本金 — 【 サンコーテクノ 】[3435]企業 概要 社員数や役員報酬・ 資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3435",
+    "pass": 3
+   },
+   {
+    "quote": "サンコーテクノ 株式 会社 - 中小企業投資育成 — サンコーテクノ 株式 会社 - 中小企業投資育成 中小企業投資育成 https://www.sbic.co.jp > investeecompany > detail",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=423",
+    "pass": 3
+   },
+   {
+    "quote": "サンコーテクノ 株式 会社 洞下 英人 - 日本の社長.tv — サンコーテクノ 株式 会社 洞下 英人 - 日本の社長.tv 日本の社長.tv https://j-president.net > chiba > sanko-techno",
+    "url": "https://j-president.net/chiba/sanko-techno/",
+    "pass": 3
+   },
+   {
+    "quote": "業績ハイライト（連結） - あと施工アンカーの サンコーテクノ — 業績ハイライト（連結） - あと施工アンカーの サンコーテクノ sanko-techno.co.jp https://sanko-techno.co.jp > IR情報 > 財務情報",
+    "url": "https://sanko-techno.co.jp/ir/zaimuinfo/performance_highlights/",
+    "pass": 3
+   },
+   {
+    "quote": "【 サンコーテクノ 】[3435]決算発表や業務・財務情報 | 日経 ... — 【 サンコーテクノ 】[3435]決算発表や業務・財務情報 | 日経 ... 日本経済新聞 https://www.nikkei.com > nkd > company > kessan",
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3435",
+    "pass": 3
+   },
+   {
+    "quote": "事業 の概況 - あと施工アンカーの サンコーテクノ — 事業 の概況 - あと施工アンカーの サンコーテクノ sanko-techno.co.jp https://sanko-techno.co.jp > IR情報 > 財務情報",
+    "url": "https://sanko-techno.co.jp/ir/zaimuinfo/business_overview/",
+    "pass": 3
+   },
+   {
+    "quote": "会社を知る | サンコーテクノ 株式会社リクルートサイト — 会社を知る | サンコーテクノ 株式会社リクルートサイト sanko-techno-recruit.com https://sanko-techno-recruit.com > company",
+    "url": "https://sanko-techno-recruit.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "サンコーテクノ 株式会社 中期経営計画 - EDINET DB — サンコーテクノ 株式会社 中期経営計画 - EDINET DB EDINET DB https://edinetdb.jp > サンコーテクノ株式会社 > IR資料",
+    "url": "https://edinetdb.jp/company/E01462/midterm-plans/",
+    "pass": 3
+   },
+   {
+    "quote": "株式基本情報 - あと施工アンカーの サンコーテクノ — 株式基本情報 - あと施工アンカーの サンコーテクノ sanko-techno.co.jp https://sanko-techno.co.jp > IR情報 > 株主・株式情報",
+    "url": "https://sanko-techno.co.jp/ir/stock_info/basic_info/",
+    "pass": 3
+   },
+   {
+    "quote": "【 サンコーテクノ 】[3435]適時開示情報 株主 総会や定款関連 — 【 サンコーテクノ 】[3435]適時開示情報 株主 総会や定款関連 日本経済新聞 https://www.nikkei.com > nkd > company > disclose",
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3435",
+    "pass": 3
+   },
+   {
+    "quote": "新規上場（IPO）情報 [SANKO TECHNO CO,] - サンコーテクノ — 新規上場（IPO）情報 [SANKO TECHNO CO,] - サンコーテクノ みんかぶ https://minkabu.jp > ... > サンコーテクノ[3435]株価情報",
+    "url": "https://minkabu.jp/stock/3435/ipo",
+    "pass": 3
+   },
+   {
+    "quote": "サンコーテクノ 【3435】の大 株主 情報 - 株探 — サンコーテクノ 【3435】の大 株主 情報 - 株探 株探 https://s.kabutan.jp > stocks > stockholders",
+    "url": "https://s.kabutan.jp/stocks/3435/stockholders/?page=2",
+    "pass": 3
+   },
+   {
+    "quote": "サンコーテクノ 、「QUOカード」の 株主 優待を拡充！100株で ... — サンコーテクノ 、「QUOカード」の 株主 優待を拡充！100株で ... ダイヤモンド・オンライン https://diamond.jp > zai > articles",
+    "url": "https://diamond.jp/zai/articles/-/1053632",
+    "pass": 3
+   },
+   {
+    "quote": "【支援 事例 】 サンコーテクノ 様：フィールドセールス向けの ... — 【支援 事例 】 サンコーテクノ 様：フィールドセールス向けの ... Polaris.AI株式会社 https://polarisai.co.jp > case > case_013",
+    "url": "https://polarisai.co.jp/case/case_013",
+    "pass": 3
+   },
+   {
+    "quote": "サンコーテクノ が提供する設備用基礎の特徴と 導入事例 を紹介 — サンコーテクノ が提供する設備用基礎の特徴と 導入事例 を紹介 foundation-kihonoki.com https://www.foundation-kihonoki.com > sanko-techno",
+    "url": "https://www.foundation-kihonoki.com/manufacturer-list/sanko-techno.html",
+    "pass": 3
+   },
+   {
+    "quote": "技術研究所 | サンコーテクノ 株式会社リクルートサイト — 技術研究所 | サンコーテクノ 株式会社リクルートサイト sanko-techno-recruit.com https://sanko-techno-recruit.com > person-newgraduate",
+    "url": "https://sanko-techno-recruit.com/person-newgraduate/ti01/",
+    "pass": 3
+   },
+   {
+    "quote": "保護中: サンコーテクノ グループ 2024年頭所感 — 保護中: サンコーテクノ グループ 2024年頭所感 sanko-techno.co.jp https://sanko-techno.co.jp > ...",
+    "url": "https://sanko-techno.co.jp/2024nento_shokan/",
+    "pass": 3
+   },
+   {
+    "quote": "SANKO TECHNO ( サンコーテクノ チャンネル) - YouTube — SANKO TECHNO ( サンコーテクノ チャンネル) - YouTube YouTube https://www.youtube.com > sankotechno > about",
+    "url": "https://www.youtube.com/c/sankotechno/about",
+    "pass": 3
+   },
+   {
+    "quote": "サンコーテクノ 株式会社 - 中小企業投資育成 — サンコーテクノ 株式会社 - 中小企業投資育成 中小企業投資育成 https://www.sbic.co.jp > investeecompany > detail",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=423",
+    "pass": 3
+   },
+   {
+    "quote": "【 サンコーテクノ 】[3435]企業概要 社員数や役員報酬・資本金 — 【 サンコーテクノ 】[3435]企業概要 社員数や役員報酬・資本金 日本経済新聞 https://www.nikkei.com > nkd > company > gaiyo",
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3435",
+    "pass": 3
+   },
+   {
+    "quote": "サンコーテクノ 株式会社 | 株式会社イーオプティマイズ — サンコーテクノ 株式会社 | 株式会社イーオプティマイズ 株式会社イーオプティマイズ https://e-optimize.jp > actual-result > sankotechno",
+    "url": "https://e-optimize.jp/actual-result/sankotechno/",
+    "pass": 3
+   }
+  ],
+  "表彰・認定の記録": [
+   {
+    "quote": "― 研修を提供するベンダー選定時に重視したポイントと、Polaris.AIをお選びいただいた決め手を教えてください",
+    "url": "https://polarisai.co.jp/case/case_013",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、ベンダー選定にあたっては、単に技術力があるだけでなく、社内の現状を正確に把握し、それに基づいたカリキュラムを作成・提供できるかどうかを重視しました",
+    "url": "https://polarisai.co.jp/case/case_013",
+    "pass": 3
+   },
+   {
+    "quote": "設備架台を屋上に設置する場合は、アンカーによる固定方法だけでなく、設備を支える基礎そのものの選定も重要です",
+    "url": "https://www.foundation-kihonoki.com/manufacturer-list/sanko-techno.html",
+    "pass": 3
+   },
+   {
+    "quote": "施工現場ごとの制約（地下埋設物・根入不足・騒音規制など）に合わせて基礎を選定できる",
+    "url": "https://www.foundation-kihonoki.com/manufacturer-list/sanko-techno.html",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業投資育成が認定する2,666社の優良企業",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=423",
+    "pass": 3
+   }
+  ],
+  "客は誰か": [
+   {
+    "quote": "サンコーテクノ株式会社｜投資企業検索｜東京中小企業投資育成株式会社",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=423",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業投資育成が認定する2,666社の優良企業",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=423",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "サンコーテクノ 株式会社（3435）：詳細版｜capital_democra サンコーテクノ 株式会社（3435）：詳細版｜capital_democra note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/capital_democra/n/n2da983631097",
+    "pass": 3
+   },
+   {
+    "quote": "コンドーテック（7438）vs サンコーテクノ （3435）— 事業 ... コンドーテック（7438）vs サンコーテクノ （3435）— 事業 ... note https://note.com > 投資・マネー > 日本株",
+    "url": "https://note.com/kabutabi2000/n/na95e30ede89e",
+    "pass": 3
+   },
+   {
+    "quote": "サンコーテクノ （3435）株価・今後の見通し・予想 - note サンコーテクノ （3435）株価・今後の見通し・予想 - note note https://note.com > noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-3435",
+    "pass": 3
+   },
+   {
+    "quote": "サンコーテクノ （3435）株価・今後の見通し・予想 - note サンコーテクノ （3435）株価・今後の見通し・予想 - note note https://note.com > noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-3435?chart_period=ten_years&chart_type=candle&mode=new",
+    "pass": 3
+   },
+   {
+    "quote": "サンコーテクノ （3435）株価・今後の見通し・予想 - note サンコーテクノ （3435）株価・今後の見通し・予想 - note note https://note.com > noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-3435?chart_period=one_month&chart_type=candle",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "# サンコーテクノ - Search / X # サンコーテクノ - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E",
+    "pass": 3
+   },
+   {
+    "quote": "# サンコーテクノ プラザ - Search / X # サンコーテクノ プラザ - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E%E3%83%97%E3%83%A9%E3%82%B6",
+    "pass": 3
+   },
+   {
+    "quote": "サンコーテクノ プラザ 南流山地域図書館 (@minamilibrary) / X サンコーテクノ プラザ 南流山地域図書館 (@minamilibrary) / X X https://x.com > minamilibrary",
+    "url": "https://x.com/minamilibrary",
+    "pass": 3
+   },
+   {
+    "quote": "サンコーテクノ プラザ 南流山地域図書館 - X サンコーテクノ プラザ 南流山地域図書館 - X X https://x.com > @minamilibrary",
+    "url": "https://x.com/minamilibrary/status/2079742291280019940",
+    "pass": 3
+   },
+   {
+    "quote": "サンコーテクノ プラザ 南流山地域図書館 on X サンコーテクノ プラザ 南流山地域図書館 on X X https://x.com > @minamilibrary",
+    "url": "https://x.com/minamilibrary/status/2116711826268565794",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "サンコーテクノ （株） - LinkedIn サンコーテクノ （株） - LinkedIn LinkedIn https://www.linkedin.com > サンコーテクノ（株）",
+    "url": "https://www.linkedin.com/company/%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "pass": 3
+   },
+   {
+    "quote": "岩渕 茂樹 - サンコーテクノ 株式会社 - マネジャ - LinkedIn 岩渕 茂樹 - サンコーテクノ 株式会社 - マネジャ - LinkedIn LinkedIn https://jp.linkedin.com > 茂樹-岩渕-379485155",
+    "url": "https://jp.linkedin.com/in/%E8%8C%82%E6%A8%B9-%E5%B2%A9%E6%B8%95-379485155",
+    "pass": 3
+   },
+   {
+    "quote": "黒川 沙織 - サンコーテクノ - 一般社員 - LinkedIn 黒川 沙織 - サンコーテクノ - 一般社員 - LinkedIn LinkedIn https://jp.linkedin.com > 沙織-黒川-4644585a",
+    "url": "https://jp.linkedin.com/in/%E6%B2%99%E7%B9%94-%E9%BB%92%E5%B7%9D-4644585a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株) サンコーテクノ - Home | Facebook 株) サンコーテクノ - Home | Facebook Facebook https://www.facebook.com > pages > 株-サンコーテクノ",
+    "url": "https://www.facebook.com/pages/%E6%A0%AA-%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E/633699953320498",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sanko-techno.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanko-techno.co.jp/company/corporate_governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanko-techno.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanko-techno.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanko-techno.co.jp/philosophy/?target=grp_company_title",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanko-techno.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanko-techno.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://sanko-techno-recruit.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3435",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/kessan/?scode=3435",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/disclose/?scode=3435",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://minkabu.jp/stock/3435/ipo",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://polarisai.co.jp/case/case_013",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.foundation-kihonoki.com/manufacturer-list/sanko-techno.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanko-techno-recruit.com/person-newgraduate/ti01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=423",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=3435",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/capital_democra/n/n2da983631097",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/kabutabi2000/n/na95e30ede89e",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-3435",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-3435?chart_period=ten_years&chart_type=candle&mode=new",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/hashtag/%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E%E3%83%97%E3%83%A9%E3%82%B6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/minamilibrary",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/minamilibrary/status/2079742291280019940",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E8%8C%82%E6%A8%B9-%E5%B2%A9%E6%B8%95-379485155",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E6%B2%99%E7%B9%94-%E9%BB%92%E5%B7%9D-4644585a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E6%A0%AA-%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E/633699953320498",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/capital_democra/n/n2da983631097",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-3435?chart_period=one_month&chart_type=candle",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/minamilibrary/status/2116711826268565794",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "サンコーテクノ 会社概要 資本金 設立",
+   "results": [
+    "https://sanko-techno.co.jp/company/overview/",
+    "https://sanko-techno-recruit.com/company/",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3435",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=423",
+    "https://j-president.net/chiba/sanko-techno/",
+    "https://niodori-net.or.jp/companylist/sanko/",
+    "https://www.city.nagareyama.chiba.jp/business/1052957/1005390/1005392/1005396/1005397.html",
+    "https://st-renewal.com/concept/",
+    "https://tenshoku.mynavi.jp/company/394712/",
+    "https://ja.wikipedia.org/wiki/サンコーテクノ"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "サンコーテクノ 事業内容 売上",
+   "results": [
+    "https://sanko-techno.co.jp/ir/zaimuinfo/performance_highlights/",
+    "https://www.nikkei.com/nkd/company/kessan/?scode=3435",
+    "https://sanko-techno.co.jp/ir/zaimuinfo/business_overview/",
+    "https://sanko-techno-recruit.com/company/",
+    "https://edinetdb.jp/company/E01462/midterm-plans/",
+    "https://zaimani.com/financial-analysis-catalog/3435/",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=423",
+    "https://en-hyouban.com/company/10010787328/23/",
+    "https://zukaikeizai.com/kaisha/3435/",
+    "https://edinetdb.jp/company/E01462/earnings/FY2026"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "サンコーテクノ 資金調達 株主",
+   "results": [
+    "https://sanko-techno.co.jp/ir/stock_info/basic_info/",
+    "https://www.nikkei.com/nkd/company/disclose/?scode=3435",
+    "https://minkabu.jp/stock/3435/ipo",
+    "https://s.kabutan.jp/stocks/3435/stockholders/?page=2",
+    "https://diamond.jp/zai/articles/-/1053632",
+    "https://shikiho.toyokeizai.net/stocks/3435/corporate",
+    "https://www.buffett-code.com/company/3435/mainshareholder",
+    "https://www.irstreet.com/new/jp/brand/index.php?brand=367&contents=brand_cn",
+    "https://sanko-techno.co.jp/ir/stock_info/",
+    "https://kabutan.jp/stock/holder?code=3435"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "サンコーテクノ 導入事例",
+   "results": [
+    "https://polarisai.co.jp/case/case_013",
+    "https://www.foundation-kihonoki.com/manufacturer-list/sanko-techno.html",
+    "https://sanko-techno-recruit.com/person-newgraduate/ti01/",
+    "https://sanko-techno.co.jp/2024nento_shokan/",
+    "https://www.youtube.com/c/sankotechno/about",
+    "https://www.sanko-co.net/",
+    "https://www.wd-s.com/case/",
+    "https://www.suncoh.co.jp/tech_topics/latest_technology/",
+    "https://st-alc.com/",
+    "https://www.thanko.co.jp/view/category/ct155"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "サンコーテクノ 主要取引先",
+   "results": [
+    "https://sanko-techno.co.jp/company/overview/",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=423",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=3435",
+    "https://sanko-techno-recruit.com/company/",
+    "https://e-optimize.jp/actual-result/sankotechno/",
+    "https://niodori-net.or.jp/companylist/sanko/",
+    "https://www.city.nagareyama.chiba.jp/business/1052957/1005390/1005392/1005396/1005397.html",
+    "https://j-president.net/chiba/sanko-techno/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E",
+    "https://metoree.com/companies/77467/distributors/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com サンコーテクノ",
+   "results": [
+    "https://note.com/capital_democra/n/n2da983631097",
+    "https://note.com/kabutabi2000/n/na95e30ede89e",
+    "https://note.com/tag/vm/investment_money/company-3435",
+    "https://note.com/tag/vm/investment_money/company-3435?chart_period=ten_years&chart_type=candle&mode=new",
+    "https://note.com/light_tulip2744/n/ne6f3cc185ecc",
+    "https://note.com/tomozoooo8/n/n37fed1bed457",
+    "https://note.com/tag/vm/investment_money/company-3435?chart_type=line",
+    "https://note.com/pocoa_420/n/nbfdec6154b1e",
+    "https://note.com/okuchika/n/n0e948aac6714",
+    "https://note.com/mizukou_note/n/n4a0d67a76264"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com サンコーテクノ",
+   "results": [
+    "https://x.com/hashtag/%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E",
+    "https://x.com/hashtag/%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E%E3%83%97%E3%83%A9%E3%82%B6",
+    "https://x.com/minamilibrary",
+    "https://x.com/minamilibrary/status/2079742291280019940",
+    "https://x.com/minamilibrary/status/2098630775684096022",
+    "https://x.com/minamilibrary/status/2075434820810002534",
+    "https://x.com/minamilibrary/status/2112735363521503518",
+    "https://x.com/minamilibrary/status/2117410481229168682",
+    "https://x.com/minamilibrary/status/2117412631929851933",
+    "https://x.com/sanko_techno"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com サンコーテクノ",
+   "results": [
+    "https://www.linkedin.com/company/%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/in/%E8%8C%82%E6%A8%B9-%E5%B2%A9%E6%B8%95-379485155",
+    "https://jp.linkedin.com/in/%E6%B2%99%E7%B9%94-%E9%BB%92%E5%B7%9D-4644585a",
+    "https://www.linkedin.com/pub/dir/%E5%93%B2%E5%BD%A6/+",
+    "https://jp.linkedin.com/in/%E7%9B%B4%E4%BA%BA-%E6%B5%85%E5%88%A9-639426200",
+    "https://jp.linkedin.com/pub/dir/Saori/+/jp-7671-%E5%8D%83%E8%91%89%E7%9C%8C",
+    "https://jp.linkedin.com/in/%E5%90%89%E6%98%AD-%E7%AB%B9%E4%B8%AD-a79594121",
+    "https://jp.linkedin.com/in/%E8%BC%9D%E7%B4%80-%E5%AE%89%E8%97%A4-444a40201",
+    "https://www.linkedin.com/pub/dir/Shinya/Yano"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com サンコーテクノ",
+   "results": [
+    "https://www.facebook.com/pages/%E6%A0%AA-%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E/633699953320498",
+    "https://www.facebook.com/kashiwa.stemo/posts/%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E7%B4%A0%E6%95%B5%E3%81%AA%E3%82%B8%E3%83%A2%E3%83%88%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88-%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E%E3%83%97%E3%83%A9%E3%82%B6%E5%8D%97%E6%B5%81%E5%B1%B1%E5%9C%B0%E5%9F%9F%E5%9B%B3%E6%9B%B8%E9%A4%A8%E6%98%A5%E3%81%AE%E6%97%A5%E5%B7%AE%E3%81%97%E3%81%AB%E8%AA%98%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%B6%E3%82%89%E3%82%8A%E3%81%A8%E3%81%8A%E6%95%A3%E6%AD%A9jr%E6%AD%A6%E8%94%B5%E9%87%8E%E7%B7%9A%E3%81%A4%E3%81%8F%E3%81%B0%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9%E5%8D%97%E6%B5%81%E5%B1%B1%E9%A7%85%E3%81%8B%E3%82%89%E6%AD%A9%E3%81%84%E3%81%A6%E7%B4%849%E5%88%86%E3%81%AE%E3%82%B5%E3%83%B3/1364634122371794/",
+    "https://www.facebook.com/nagareyama.central.library/posts/%E5%9B%B3%E6%9B%B8%E9%A4%A8%E4%BD%93%E9%A8%93%E8%AC%9B%E5%BA%A7ai%E3%81%A8%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%A4%E5%92%8C8%E5%B9%B47%E6%9C%8825%E6%97%A5%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E%E3%83%97%E3%83%A9%E3%82%B6%E5%8D%97%E6%B5%81%E5%B1%B1%E5%9C%B0%E5%9F%9F%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%A7%E4%BA%AC%E3%82%BB%E3%83%A9%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%A0%AA%E3%81%94%E5%8D%94%E5%8A%9B%E3%81%AE%E3%82%82%E3%81%A8%E5%9B%B3%E6%9B%B8%E9%A4%A8%E4%BD%93%E9%A8%93%E8%AC%9B%E5%BA%A7%E3%82%92%E9%96%8B/1393077683006757/",
+    "https://www.facebook.com/p/%E7%9B%B8%E6%BE%A4%E5%BF%A0%E6%98%8E-100004261443509/",
+    "https://www.facebook.com/nagaokakeiki/posts/%E5%BC%8A%E7%A4%BE%E3%81%A7%E3%82%822022%E5%B9%B410%E6%9C%88%E3%81%AE%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB%E7%BE%A9%E5%8B%99%E5%8C%96%E5%AF%BE%E5%BF%9C%E3%81%AE%E5%95%86%E5%93%81%E5%8F%96%E3%82%8A%E6%89%B1%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E3%82%88%E3%82%8D%E3%81%97%E3%81%91%E3%82%8C%E3%81%B0%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BChp%E3%82%92%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E6%9D%B1%E6%B5%B7%E9%9B%BB%E5%AD%90-%E6%9D%B1%E6%B4%8B%E3%83%9E%E3%83%BC%E3%82%AF-%E3%82%B5%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%86%E3%82%AF%E3%83%8E/5158070087546943/",
+    "https://www.facebook.com/p/%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB-61577507492535/",
+    "https://www.facebook.com/heartkidsjapan/posts/%E3%83%8F%E3%83%BC%E3%83%88%E3%82%AD%E3%83%83%E3%82%BA%E6%95%99%E5%AE%A42026-in-%E6%B5%81%E5%B1%B1%E6%98%A8%E5%B9%B4%E3%82%82%E5%A4%A7%E5%A5%BD%E8%A9%95%E3%81%A0%E3%81%A3%E3%81%9F%E5%8D%97%E6%B5%81%E5%B1%B1%E5%85%90%E7%AB%A5%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A7%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%88%E3%82%AD%E3%83%83%E3%82%BA%E6%95%99%E5%AE%A4%E3%82%92%E4%BB%8A%E5%B9%B4%E3%82%82%E9%96%8B%E5%82%AC%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E6%A8%A1%E6%93%AC%E5%BF%83%E8%87%93%E8%A1%80%E7%AE%A1%E3%82%92%E7%B8%AB%E3%81%A3%E3%81%9F%E3%82%8A%E5%BF%83%E8%87%93%E3%81%AE%E5%83%8D%E3%81%8D%E3%82%92%E5%AD%A6%E3%82%93%E3%81%A0%E3%82%8A%E6%9C%AC%E7%89%A9/927320573007570/",
+    "https://www.facebook.com/nagareyama.yeg/posts/-%E7%AC%AC23%E5%9B%9E-%E6%B5%81%E5%B1%B1%E7%94%A3%E6%A5%AD%E5%8D%9A-2026-%E9%96%8B%E5%82%AC%E6%B1%BA%E5%AE%9A-%E3%81%9F%E3%81%AE%E3%81%97%E3%81%8F%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8nagareyama-%E6%9C%AA%E6%9D%A5%E3%81%AE%E3%82%AD%E3%83%9F%E3%81%8C%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%8B%E4%BB%8A%E5%B9%B4%E3%82%82%E3%82%84%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%99-%E6%B5%81%E5%B1%B1%E7%94%A3%E6%A5%AD%E5%8D%9A2026-%E6%B5%81%E5%B1%B1%E3%81%A7%E6%B4%BB%E8%BA%8D%E3%81%99%E3%82%8B%E3%81%9F/1396525489296303/",
+    "https://www.facebook.com/shigeki.iwabuchi.3/",
+    "https://www.facebook.com/sankogiken/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "サンコーテクノ note 社長",
+   "results": [
+    "https://note.com/capital_democra/n/n2da983631097",
+    "https://sanko-techno.co.jp/company/greetings/",
+    "https://note.com/tag/vm/investment_money/company-3435?chart_period=one_month&chart_type=candle",
+    "https://shachomeikan.jp/presidents/detail/10061755/430",
+    "https://zaimani.com/financial-analysis-catalog/3435/",
+    "https://j-president.net/chiba/sanko-techno/",
+    "https://www.nikkei.com/article/DGXNASDD2506S_V20C10A6TJ2000/",
+    "https://sanko-techno-recruit.com/company/",
+    "https://ja.wikipedia.org/wiki/洞下英人",
+    "https://kigyo-scope.jp/company/3435/ceo/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "サンコーテクノ X 投稿",
+   "results": [
+    "https://x.com/minamilibrary/status/2116711826268565794",
+    "https://sanko-techno.co.jp/products/",
+    "https://www.youtube.com/c/sankotechno/videos",
+    "https://www.youtube.com/watch?v=ASUzKAoaom4",
+    "https://pr.www.ipros.com/sanko-techno/news/detail/173606/",
+    "https://www.youtube.com/watch?v=zlQvPdn8jfU",
+    "https://kabutan.jp/stock/?code=3435",
+    "https://x.com/hashtag/サンコーテクノ株式会社",
+    "https://jobtalk.jp/companies/961/answers",
+    "https://sanko-techno.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部25頁・検索11回）",
+  "主要取引先": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部25頁・検索11回）"
+ }
+}

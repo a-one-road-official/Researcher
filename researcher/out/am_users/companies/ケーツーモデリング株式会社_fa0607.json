@@ -1,0 +1,736 @@
+{
+ "name": "ケーツーモデリング株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T18:47:13.056764+00:00",
+ "official_url": "http://www.k2model.jp",
+ "identified_by": "given",
+ "profile": {
+  "拠点": [
+   {
+    "label": "湿式研磨機（大型機）（ベース工場）",
+    "value": "岡本工作機械 PSG106CA-iQ 1台",
+    "url": "https://www.k2model.jp/equipment/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "〒969-1203 福島県本宮市白岩字堤崎132番地",
+    "url": "https://www.k2model.jp/recruit/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "取締役副社長",
+    "value": "永岡進二",
+    "url": "https://www.k2model.jp/recruit/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "製品開発の全工程を、社内一貫体制で支援します",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "幅広い設備と経験豊富なスタッフにより、コスト・納期・品質のすべてにおいて信頼いただける製品づくりを提供します",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、製品の構想段階から金型の仕様検討に参画し、3D CAD・CAMを活用した精密な設計・加工を行っています",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "流動解析によるシミュレーションにより成形時の不具合リスクを事前に把握・回避し、製品の形状や材質に応じた最適な金型構造を提案します",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型設計・製作から成形、量産までを社内で一貫して行うことで、製品用途や生産計画に応じた柔軟な対応を可能としています",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療、自動車、電子機器、住宅、日用品、ロボット部品など、幅広い分野の製品づくりを支え、創業48年にわたり培ってきた技術と経験を強みとしています",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "福島県須賀川市に福島工場を設立、プラスチック製品の製造を開始",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "生産性のみを追求するのではなく、そこに関わる環境への配慮を常に意識し製品の加工・製造を行っております",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ケーツーモデリングでは、製品の構想段階から金型仕様の検討に参画し、3D CAD・CAMを活用した設計・加工を行っています",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "流動解析によるシミュレーションを通じて、成形時のリスクを事前に把握し、製品形状や材質に応じた最適な金型構造を提案します",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "初期の仕様打合せからモデリング、金型構造設計、組立・仕上げ、トライ・調整まで段階的に進める事で高精度な製品づくりを支援します",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "単発試作から量産金型まで、金型製作・成形を社内で一貫対応し、製品開発の各段階を支援します",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "コネクタ・医療・自動車・電子機器など様々な業界の製品を手がけており、納期・品質・コストのバランスに優れた対応が可能です",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ごとの検査記録とトレーサビリティを確保しています",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・製品情報(7)",
+    "url": "https://ja.nc-net.or.jp/company/72497/product/detail/19068/",
+    "pass": 3
+   },
+   {
+    "quote": "短納期での量産、小ロット製品、試作品までご対応いたします",
+    "url": "https://ja.nc-net.or.jp/company/72497/product/detail/19068/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・研究開発（建築・土木・プラント・設備）",
+    "url": "https://ja.nc-net.or.jp/company/72497/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "樹脂成形金型設計・製作から試作・量産成形、組立まで",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "流動解析によるシミュレーションにより成形時の不具合リスクを事前に把握・回避し、製品の形状や材質に応じた最適な金型構造を提案します",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "熱硬化性樹脂、2色成形、インサート金型、大型金型、MIM用金型など、高い技術力を要する売型金型にも対応してきた実績があります",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、樹脂金型・プラスチック成形金型の設計・製作から、試作成形、量産、検査までをすべて自社内で完結できる体制を強みとし、お客様の多様なニーズに対して、高精度かつ安定した品質で対応しています",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちケーツーモデリング株式会社は、樹脂金型・プラスチック成形金型の設計・製作から、試作成形、量産、検査までを社内一貫で対応し、ものづくりに取り組んでまいりました",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "流動解析によるシミュレーションを通じて、成形時のリスクを事前に把握し、製品形状や材質に応じた最適な金型構造を提案します",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "樹脂成形金型設計・製作から試作・量産成形、組立まで",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ケーツーモデリングでは、金型の仕様検討から設計・製作、成形による試作・量産、品質検査まで社内で完結する一貫体制を構築しています",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型の設計・製作から成形による試作・量産までを社内一貫で対応できる体制を強みとし、また、金型の試作・トライ・修正についても社内で迅速に対応できるため、開発段階から量産立ち上げまでをスムーズに支援します",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "本宮市にある生産センターには、7t～140tの成形機を30台以上保有しており、試作から小ロット・中ロット、量産まで一貫して対応可能です",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、樹脂金型・プラスチック成形金型の設計・製作から、試作成形、量産、検査までをすべて自社内で完結できる体制を強みとし、お客様の多様なニーズに対して、高精度かつ安定した品質で対応しています",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちケーツーモデリング株式会社は、樹脂金型・プラスチック成形金型の設計・製作から、試作成形、量産、検査までを社内一貫で対応し、ものづくりに取り組んでまいりました",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作金型～量産金型、売型にも対応",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作・量産、一部組立にも対応",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作から量産まで — 一貫体制のものづくり",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "金型の設計・製作から、試作、量産、組立までを社内で一貫して対応",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "金型設計・製作から成形試作・量産まで社内で完結出来る体制",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作から量産まで、一貫して対応",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "単発試作から量産金型まで、金型製作・成形を社内で一貫対応し、製品開発の各段階を支援します",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "試作から量産まで、",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "生産センターでは7t〜140tの成形機を27台保有し、小ロット試作から量産まで幅広く対応可能",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "【プラスチック射出成形】量産、小ロット、試作品まで対応 - ケーツーモデリング 株式会社",
+    "url": "https://ja.nc-net.or.jp/company/72497/product/detail/19068/",
+    "pass": 3
+   },
+   {
+    "quote": "【プラスチック射出成形】量産、小ロット、試作品まで対応",
+    "url": "https://ja.nc-net.or.jp/company/72497/product/detail/19068/",
+    "pass": 3
+   },
+   {
+    "quote": "【射出成形】量産、小ロット、試作品まで対応",
+    "url": "https://ja.nc-net.or.jp/company/72497/product/detail/19068/",
+    "pass": 3
+   },
+   {
+    "quote": "短納期での量産、小ロット製品、試作品までご対応いたします",
+    "url": "https://ja.nc-net.or.jp/company/72497/product/detail/19068/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "金型設計製作・量産｜ケーツーモデリング株式会社",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂成形金型設計・製作から試作・量産成形、組立まで",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ケーツーモデリングでは、金型の仕様検討から設計・製作、成形による試作・量産、品質検査まで社内で完結する一貫体制を構築しています",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、製品の構想段階から金型の仕様検討に参画し、3D CAD・CAMを活用した精密な設計・加工を行っています",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "流動解析によるシミュレーションにより成形時の不具合リスクを事前に把握・回避し、製品の形状や材質に応じた最適な金型構造を提案します",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型の設計・製作から成形による試作・量産までを社内一貫で対応できる体制を強みとし、また、金型の試作・トライ・修正についても社内で迅速に対応できるため、開発段階から量産立ち上げまでをスムーズに支援します",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "海外製金型の再調整や改造といった難易度の高い案件にも柔軟に対応できる技術力と体制を備えています",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療、自動車、電子機器、住宅部品など幅広い分野に対応し、それぞれの分野で求められる精度や納期管理にも柔軟に対応しています",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、売型金型・生産型金型（成形量産対応）の両方に対応可能な体制を強みとしています",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "熱硬化性樹脂、2色成形、インサート金型、大型金型、MIM用金型など、高い技術力を要する売型金型にも対応してきた実績があります",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型設計・製作から成形、量産までを社内で一貫して行うことで、製品用途や生産計画に応じた柔軟な対応を可能としています",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、樹脂金型・プラスチック成形金型の設計・製作から、試作成形、量産、検査までをすべて自社内で完結できる体制を強みとし、お客様の多様なニーズに対して、高精度かつ安定した品質で対応しています",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療、自動車、電子機器、住宅、日用品、ロボット部品など幅広い分野において、",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちケーツーモデリング株式会社は、樹脂金型・プラスチック成形金型の設計・製作から、試作成形、量産、検査までを社内一貫で対応し、ものづくりに取り組んでまいりました",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "医療、自動車、電子機器、住宅、日用品、ロボット部品など、幅広い分野の製品づくりを支え、創業48年にわたり培ってきた技術と経験を強みとしています",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作金型～量産金型、売型にも対応",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "金型の設計・製作から、試作、量産、組立までを社内で一貫して対応",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "電子部品、自動車部品、医療機器、住宅部品、日用品、ロボット関連部品など多様な分野に対応可能",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "金型設計・製作から成形試作・量産まで社内で完結出来る体制",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "電子部品・医療・住宅・日用品・自動車・ロボット部品など各業界に実績あり",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "神奈川県川崎市に「セーコー技研」として創業（金型部品加工）",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "JR『本宮駅』より車で15分 東北自動車道『本宮IC』より車で15分",
+    "url": "https://www.k2model.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ケーツーモデリングでは、製品の構想段階から金型仕様の検討に参画し、3D CAD・CAMを活用した設計・加工を行っています",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "流動解析によるシミュレーションを通じて、成形時のリスクを事前に把握し、製品形状や材質に応じた最適な金型構造を提案します",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "また、海外製金型の改造・再調整といった特殊案件にも柔軟に対応可能です",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "初期の仕様打合せからモデリング、金型構造設計、組立・仕上げ、トライ・調整まで段階的に進める事で高精度な製品づくりを支援します",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "単発試作から量産金型まで、金型製作・成形を社内で一貫対応し、製品開発の各段階を支援します",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "コネクタ・医療・自動車・電子機器など様々な業界の製品を手がけており、納期・品質・コストのバランスに優れた対応が可能です",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "クラス10万相当の管理区域を完備し医療品の生産にも対応可能です",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "3次元CADによる金型設計から、精密加工用のマシニング、放電加工機、成形機、そして検査・測定機器まで、製造のすべてを自社内で完結できる設備体制を整えています",
+    "url": "https://www.k2model.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "金型組立／マシ二ング加工／成形技術／品質管理・品質保証／総務・経理",
+    "url": "https://www.k2model.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "金型から成形までを社内一貫で行う製造体制のもと、設計・製作・成形・品質管理など、ものづくりの各工程に携わることができます",
+    "url": "https://www.k2model.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ - 精密プラスチック射出成形金型のケーツーモデリング株式会社｜福島県",
+    "url": "https://ja.nc-net.or.jp/company/72497/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "当社では、製品の構想段階から金型の仕様検討に参画し、3D CAD・CAMを活用した精密な設計・加工を行っています",
+    "url": "https://www.k2model.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ケーツーモデリングでは、製品の構想段階から金型仕様の検討に参画し、3D CAD・CAMを活用した設計・加工を行っています",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "3D CAD/CAM",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "3D cad/cam",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "最新の3D CADとCAMシステムを活用し、精密な設計と効率的な加工プログラム作成を実現",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "当社は，ユーザーが利用登録をする際に氏名，生年月日，住所，電話番号，メールアドレス，銀行口座番号，クレジットカード番号，運転免許証番号などの個人情報をお尋ねすることがあります",
+    "url": "https://www.k2model.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーからのお問い合わせに回答するため（本人確認を行うことを含む）",
+    "url": "https://www.k2model.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーが利用中のサービスの新機能，更新情報，キャンペーン等及び当社が提供する他のサービスの案内のメールを送付するため",
+    "url": "https://www.k2model.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "第10条（お問い合わせ窓口）",
+    "url": "https://www.k2model.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "本ポリシーに関するお問い合わせは，下記の窓口までお願いいたします",
+    "url": "https://www.k2model.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ - 精密プラスチック射出成形金型のケーツーモデリング株式会社｜福島県",
+    "url": "https://ja.nc-net.or.jp/company/72497/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "ケーツーモデリング 株式会社 へのお問い合わせ",
+    "url": "https://ja.nc-net.or.jp/company/72497/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること",
+    "url": "https://ja.nc-net.or.jp/company/72497/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします",
+    "url": "https://ja.nc-net.or.jp/company/72497/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします",
+    "url": "https://ja.nc-net.or.jp/company/72497/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "サービス | ケーツーモデリング株式会社 — 生産センターでは7t〜140tの成形機を27台保有し、小ロット試作から量産まで幅広く対応可能。 コネクタ・医療・自動車・電子機器など様々な業界の製品を手がけており、納期・品質・コストのバランスに優れた対応が可能です。",
+    "url": "https://www.k2model.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ケーツー｜愛知のプラスチック金型・試作金型・レーザー溶接...プラスチック射出成形金型 - ケーツーモデリング 株式会社試作・小ロット・模型製作 | イメージ工房大阪で試作品（樹脂・金属・ゴム等）を最短納期で製作しています — 愛知でプラスチック金型・試作金型の製作なら株式会社ケーツーへ。小ロット生産から射出成形、2色成形まで幅広く対応。レーザー溶接による金型の設変・修理も得意としています。30年以上の実績で、高品質なモノづくりをスピーディーにサポートします 精密金型製作 精密金型を得意とし下記金型に実績がございます。 また、弊社は成形工場にて計40台（7t～140t）の成形機を保有しておりますので、 社内試作・量産対応も可能... Aug 19, 2026 · 試作・小ロット・模型 弊社では、社内及び協力企業ネットワークを活用し、試作から量産成形、塗装等二次加工まで対応いたします",
+    "url": "https://k2-net.info/",
+    "pass": 3
+   },
+   {
+    "quote": "金型設計製作・量産｜ケーツーモデリング株式会社 — 当社では、製品の構想段階から金型の仕様検討に参画し、3D CAD・CAMを活用した精密な設計・加工を行っています。 流動解析によるシミュレーションにより成形時の不具合リスクを事前に把握・回避し、製品の形状や材質に応じた最適な金型構造を提案します。 金型の設計・製作から成形による ...",
+    "url": "https://www.k2model.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | ケーツーモデリング株式会社お問い合わせ | 株式会社ケーツー｜愛知のプラスチック金型・試作金型...お問い合わせ - 精密プラスチック射出成形金型のケーツーモデリング株...金型設計製作・量産｜ケーツーモデリング株式会社お問い合わせ | 株式会社ケーツーお問い合わせ | 株式会社ケーツーステーションWEBサイトお問い合わせ - 株式会社ケーツー — ケーツーモデリング株式会社へのお問い合わせ。精密金型の設計・製作、成形試作・量産のご相談は、フォーム・お電話（0243-44-4441／平日8:30～17:00）・FAX（0243-44-4444）で承ります。 お問い合わせ のページです。ご要望 見積もりが欲しい質問・相談のみその他 お名前 企業の方 社名 電話番号 【必須】 メールアドレス 【| 愛知でプラスチック金型・試作金型なら株式会社ケーツー。射出成形、2色成形、小ロ",
+    "url": "https://www.k2model.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 精密プラスチック射出成形金型のケーツーモデリング株... — ケーツーモデリング 株式会社 電話番号： 0243-44-4441 FAX： 0243-44-4444 ホームページ 基本情報 設 備 技術・製品 沿革・理念・品質規格 地図・拠点",
+    "url": "https://ja.nc-net.or.jp/company/72497/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "金型設計製作・量産｜ケーツーモデリング株式会社 — ケーツーモデリングが選ばれる最大の理由は、「社内一貫体制による対応力」と「技術へのこだわり」。 当社は、樹脂金型・プラスチック成形金型の設計・製作から、試作成形、量産、検査までをすべて自社内で完結できる体制を強みとし、お客様の多様なニーズに対して、高精度かつ安定し ...",
+    "url": "https://www.k2model.jp/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ケーツーモデリング株式会社 - Facebook ケーツーモデリング株式会社",
+    "url": "https://www.facebook.com/ケーツーモデリング株式会社-579796028711189/",
+    "pass": 3
+   },
+   {
+    "quote": "株)ケーツーモデリング - Facebook 株)ケーツーモデリング",
+    "url": "https://www.facebook.com/株ケーツーモデリング-262949270577848/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.k2model.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k2model.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k2model.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k2model.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k2model.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.nc-net.or.jp/company/72497/product/detail/19068/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://k2-net.info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://k2-net.info/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/72497/inquiry/input/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/ケーツーモデリング株式会社-579796028711189/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株ケーツーモデリング-262949270577848/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ケーツーモデリング 取扱製品 試作 小ロット",
+   "results": [
+    "https://ja.nc-net.or.jp/company/72497/product/detail/19068/",
+    "https://www.k2model.jp/service/",
+    "https://k2-net.info/",
+    "https://image-khobho.jp/home/list-of-services/prototypes-smalllots-models/",
+    "https://www.k2model.jp/",
+    "https://ja.nc-net.or.jp/company/72497/product/detail/37402/",
+    "https://www.ks-model.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ケーツーモデリング 会社概要 事業内容",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "ケーツーモデリング お問い合わせ メール",
+   "results": [
+    "https://www.k2model.jp/contact/",
+    "https://k2-net.info/contact/",
+    "https://ja.nc-net.or.jp/company/72497/inquiry/input/",
+    "https://www.k2model.jp/",
+    "https://k2-st.co.jp/contact/",
+    "https://www.web-k2.co.jp/contact-us/",
+    "https://k2inc.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ケーツーモデリング",
+   "results": [
+    "https://note.com/skhonpo/n/n91d61e00ed65",
+    "https://note.com/kicrea_20251026/n/ne8a9c3ac915a",
+    "https://note.com/wellbean/n/nfe554971067a",
+    "https://note.com/fablabkn/n/ncd07cc9c1b7a",
+    "https://note.com/skhonpo/n/n4018a5927e18",
+    "https://note.com/fujigoko/n/n25c3485ba9d9",
+    "https://note.com/techchan/n/nfe36c6a968e4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ケーツーモデリング",
+   "results": [
+    "https://x.com/ikeda_modeling",
+    "https://x.com/ModelArtInc/status/2101269645026377844",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/ModelArtInc/status/2101270135608840230",
+    "https://x.com/K_game_cat",
+    "https://x.com/ikeda_modeling/status/2089907471603339457",
+    "https://x.com/k2_k2trip"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ケーツーモデリング",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com ケーツーモデリング",
+   "results": [
+    "https://www.facebook.com/ケーツーモデリング株式会社-579796028711189/",
+    "https://www.facebook.com/株ケーツーモデリング-262949270577848/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/tetsuya.kawana.50/",
+    "https://www.facebook.com/K2games.jp/",
+    "https://www.facebook.com/k2tec/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ケーツーモデリング note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.k2model.jp/company/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.k2model.jp/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/move_create_fun",
+    "https://note.com/move_create_fun/all"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ケーツーモデリング X 投稿",
+   "results": [
+    "https://www.k2model.jp/",
+    "https://www.k2model.jp/company/",
+    "https://www.instagram.com/k2modeling_official/",
+    "https://jobtalk.jp/companies/26217/answers",
+    "https://x.com/KatohModeling",
+    "https://x.com/AUTOMODELING_87",
+    "https://note.com/mgane/n/n1c0d7384c8a0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索9回）"
+ }
+}

@@ -1,0 +1,563 @@
+{
+ "name": "株式会社太陽光機",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T18:31:56.172737+00:00",
+ "official_url": "http://www.taiyokoki.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒856-0806　長崎県大村市富の原2丁目760番地",
+    "url": "https://www.taiyokoki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒856-0806長崎県大村市富の原2丁目760番地",
+    "url": "https://www.taiyokoki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒947-0101 新潟県小千谷市片貝町4447",
+    "url": "https://www.taiyokoki.co.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　木下直哉",
+    "url": "https://www.taiyokoki.co.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "60名",
+    "url": "https://www.taiyokoki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "80名",
+    "url": "https://mono.ipros.com/company/detail/2088479/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "非接触充電、車載メーター、車間距離センサー、エンジンスターター、光ピック全般、カメラ、プロジェクター、リレーなどに使用されるコイル並びにアッセンブリ 自動化工程等の生産設備、自動検査装置、及び組立治具の設計･開発及び製造",
+    "url": "https://www.taiyokoki.co.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "拠点名",
+    "value": "株式会社太陽光機　大村工場",
+    "url": "https://www.taiyokoki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "拠点名",
+    "value": "株式会社太陽光機　新潟営業所",
+    "url": "https://www.taiyokoki.co.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "株式会社アイカムス・ラボ\n株式会社アサヒエンタープライズ\nアスワン電子株式会社\n株式会社アビー\nアルプスアルパイン株式会社\n株式会社イージーメジャー\n国立研究開発法人宇宙航空研究開発機構(ＪＡＸＡ)\nエイブリック株式会社\n株式会社エフ・ピー・エス\n国立大学法人大阪大学\n株式会社沖田製作所\n沖マイクロ技研株式会社\nオムロン株式会社\nオムロンリレーアンドデバイス株式会社\nオリンパス株式会社\n国立研究開発法人海洋研究開発機構\n国立大学法人九州大学\nくまもと有機エレクトロニクス産業促進協議会\nグローブライド株式会社\n黒田精工株式会社\n国立大学法人神戸大学\n株式会社コガネイ\nサンユー工業株式会社\n三和理工有限会社\nシチズンＴＩＣ株式会社\n株式会社シバタ\n総研電気株式会社\nソニー・オリンパスメディカルソリューションズ株式会社\nタイコエレクトロニクスジャパン合同会社\n大東電子株式会社\n株式会社ダイヘン\n有限会社竹内マシン\n株式会社ティアンドディ\n東京計装株式会社\n国立大学法人東京大学\n東芝テック株式会社\n東芝デベロップメントエンジニアリング株式会社\n株式会社長崎中発\n日東電工株式会社\n株式会社日本ア",
+    "url": "https://mono.ipros.com/company/detail/2088479/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "当社の製品は大きく３つの種類に分類され、空芯コイル、成形品への巻きつけコイル、及び成形品貼り付けアッセンブリを多く取り扱っています",
+    "url": "https://www.taiyokoki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その中でも、超小型、超薄型、特殊形状、連巻き、内径段付きコイルなどを得意とし、非接触充電、車載メーター、車間距離センサー、エンジンスターター、光ピック全般、カメラ、プロジェクター、リレーなどのコイルが主力製品です",
+    "url": "https://www.taiyokoki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "１９６４年会社設立以来、数多くの企業・研究機関のお客様に、車載、民生、産機、医療等あらゆるコイルを供給してきた実績・経験と、新しいコイル開発及び特性向上を図るべく日頃から巻線方法を研究し特性評価及び分析を積極的におこない続けることで培ってきた知識・技術をもって、お客様の製品開発に貢献いたします",
+    "url": "https://www.taiyokoki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生産ライン内にて、カメラや抵抗測定機で製品検査するための機構",
+    "url": "https://www.taiyokoki.co.jp/production-facility.html",
+    "pass": 1
+   },
+   {
+    "quote": "画像検査用カメラを組み込んでカメラ前に製品を自動供給する機構を設計",
+    "url": "https://www.taiyokoki.co.jp/production-facility.html",
+    "pass": 1
+   },
+   {
+    "quote": "省力化・合理化を目的とした各種自動機器システムの自社開発、ロボットをはじめとする先進機器の導入、さらに高品質で高いコストパフォーマンスを実現する生産管理体制の確立など、スピーディに、高精度に、より安価に、をテーマに製品を提供してきました",
+    "url": "https://www.taiyokoki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、新潟近郊の協力企業とのマッチング生産で各種製品の試作／量産対応ができます",
+    "url": "https://www.taiyokoki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "巻線を始めて半世紀、蓄積された技術により、車載メーター、車間距離センサー、ＨＶ・ＥＶエンジンスターター、非接点電力伝送、ＯＡ機器からＡＶ機器のＢＤ、ＤＶＤ、ＭＤ、ＣＤドライブ、フロッピーディスクヘッド、通信機器、モーター、VCM、家庭用電化製品、産業用機器等、ありとあらゆる機器類の中枢部に使われるコイルを高精度、高品質にて提供してきました",
+    "url": "https://www.taiyokoki.co.jp/capability.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(2)",
+    "url": "https://mono.ipros.com/company/detail/2088479/",
+    "pass": 3
+   },
+   {
+    "quote": "設計、加工、組立の三部門体制を整え、生産設備を自社で開発、製作しており、お客様の要望に合わせたコイル製品を大きなものから小さなものまで、スピーディに、高精度に、安価に提供しています",
+    "url": "https://mono.ipros.com/company/detail/2088479/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の製品は大きく３つの種類に分類され、空芯コイル、成形品への巻きつけコイル、成形品貼り付けアッセンブリを多く取り扱っています",
+    "url": "https://mono.ipros.com/company/detail/2088479/",
+    "pass": 3
+   },
+   {
+    "quote": "その中でも超小型、超薄型、特殊形状、連巻き、内径段付きコイルなどを得意とし、非接触充電、車載メーター、車間距離センサー、エンジンスターター、光ピック全般、カメラ、プロジェクター、リレーなどのコイルが主力製品です",
+    "url": "https://mono.ipros.com/company/detail/2088479/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (2)",
+    "url": "https://mono.ipros.com/company/detail/2088479/",
+    "pass": 3
+   },
+   {
+    "quote": "、製品・技術・サービス",
+    "url": "https://www.atengineer.com/pr/taiyokoki/company",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "試作品や小ロットの短納期対応から大ロットの安定供給まで、お客様のご要望にお応えできるよう、年末年始・お盆・ＧＷを除き、平日に限らず土日祝日も生産設備を２４時間稼働させる体制をとっており、生産の増減にも柔軟に対応できます",
+    "url": "https://www.taiyokoki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の特色である「生産設備からのコイルＡＳＳＹ一貫生産」の要である技術部門と、あらゆる仕様の試作及び量産に対応する製造部門を有する、当社の中核を担う工場です",
+    "url": "https://www.taiyokoki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット試作から特殊巻線の量産まで対応が出来ます",
+    "url": "https://www.taiyokoki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、新潟近郊の協力企業とのマッチング生産で各種製品の試作／量産対応ができます",
+    "url": "https://www.taiyokoki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "小ロットの試作品でもお客様のご要望に合わせてカスタムメイドで制作いたします",
+    "url": "https://mono.ipros.com/company/detail/2088479/",
+    "pass": 3
+   },
+   {
+    "quote": "コイル生産に関わる自動化設備、それに付随する冶具類まで、全てを設計から一貫して作っており、その技術を活かしてオーダーメイドの設備製造もおこなっております",
+    "url": "https://mono.ipros.com/company/detail/2088479/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "１９６４年会社設立以来、数多くの企業・研究機関のお客様に、車載、民生、産機、医療等あらゆるコイルを供給してきた実績・経験と、新しいコイル開発及び特性向上を図るべく日頃から巻線方法を研究し特性評価及び分析を積極的におこない続けることで培ってきた知識・技術をもって、お客様の製品開発に貢献いたします",
+    "url": "https://www.taiyokoki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "部品加工、治具・設備製作",
+    "url": "https://www.taiyokoki.co.jp/production-facility.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社用治具・設備部品を始めとする各種加工（ステンレス・アルミ・チタン・樹脂材料ほか）のスキル・経験を活用し、お客様の図面による部品加工の依頼もお受けいたします",
+    "url": "https://www.taiyokoki.co.jp/production-facility.html",
+    "pass": 1
+   },
+   {
+    "quote": "省力化・合理化を目的とした各種自動機器システムの自社開発、ロボットをはじめとする先進機器の導入、さらに高品質で高いコストパフォーマンスを実現する生産管理体制の確立など、スピーディに、高精度に、より安価に、をテーマに製品を提供してきました",
+    "url": "https://www.taiyokoki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動化工程等の生産設備、自動検査装置、及び組立治具の設計･開発及び製造",
+    "url": "https://www.taiyokoki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "新潟県のほぼ中央にある小千谷市に在し、関越自動車道長岡南越路スマートICから車で５分の所に新潟営業所が在ります",
+    "url": "https://www.taiyokoki.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "国立研究開発法人宇宙航空研究開発機構(ＪＡＸＡ)",
+    "url": "https://mono.ipros.com/company/detail/2088479/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "自社用治具・設備部品を始めとする各種加工（ステンレス・アルミ・チタン・樹脂材料ほか）のスキル・経験を活用し、お客様の図面による部品加工の依頼もお受けいたします",
+    "url": "https://www.taiyokoki.co.jp/production-facility.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属のみでなくアクリルなどの樹脂材料にも対応しています",
+    "url": "https://www.taiyokoki.co.jp/production-facility.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業 情報 Company profile - 株式会社太陽光機 — 企業 情報 Company profile - 株式会社太陽光機 太陽光機 https://www.taiyokoki.co.jp > company",
+    "url": "https://www.taiyokoki.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "太陽光機 | 企業 情報 | イプロスものづくり — 太陽光機 | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 電子部品・半導体",
+    "url": "https://mono.ipros.com/company/detail/2088479/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 太陽光機 - 会社概要 - engineer — 株式会社 太陽光機 - 会社概要 - engineer atengineer.com https://www.atengineer.com > taiyokoki > company",
+    "url": "https://www.atengineer.com/pr/taiyokoki/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社太陽光機 | 加工 会社 ナビ - 営業製作所 — 株式 会社太陽光機 | 加工 会社 ナビ - 営業製作所 営業製作所株式会社 https://eigyo-mfg.com > TOP > 長崎県の加工会社",
+    "url": "https://eigyo-mfg.com/service/navi/company/3EmQ31cufOPH",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 太陽光機 （長崎県）の 会社概要 ・役員 | Compalyze — 株式会社 太陽光機 （長崎県）の 会社概要 ・役員 | Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 電気・電子機器",
+    "url": "https://compalyze.co.jp/company/9012401008034",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.taiyokoki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiyokoki.co.jp/production-facility.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiyokoki.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiyokoki.co.jp/capability.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.taiyokoki.co.jp/img/production-facility_02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.taiyokoki.co.jp/img/production-facility_03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.taiyokoki.co.jp/img/production-facility_04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.taiyokoki.co.jp/img/production-facility_05.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.taiyokoki.co.jp/img/production-facility_06.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.taiyokoki.co.jp/img/production-facility_07.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.taiyokoki.co.jp/img/production-facility_10.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.taiyokoki.co.jp/img/production-facility_11.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dne.co.jp/technology/odm/trial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2088479/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/taiyokoki/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taiyokoki.com/jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpea.gr.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsubishielectric.co.jp/service/taiyo/support/inquiry/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "太陽光機 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://www.dne.co.jp/technology/odm/trial/",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.zen.co.jp/",
+    "https://partners.solize.com/manufacturing/technology/rapid-mold",
+    "https://www.taiyokoki.co.jp/",
+    "https://pr.mono.ipros.com/cbcopt/product/detail/2000242060/",
+    "https://www.xeffect.com/small/",
+    "https://taiyokoki.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "太陽光機 会社概要 事業内容",
+   "results": [
+    "https://www.taiyokoki.co.jp/company.html",
+    "https://mono.ipros.com/company/detail/2088479/",
+    "https://www.atengineer.com/pr/taiyokoki/company",
+    "https://eigyo-mfg.com/service/navi/company/3EmQ31cufOPH",
+    "https://compalyze.co.jp/company/9012401008034",
+    "https://www.taiyokoki.com/jp/company/profile/",
+    "https://tenshoku.mynavi.jp/company/317555/",
+    "https://www.taiyo-ind.co.jp/company/profile/",
+    "https://www.youtube.com/watch?v=hSha-qewx3c",
+    "https://taiyokoki.co.jp/company.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "太陽光機 お問い合わせ メール",
+   "results": [
+    "https://www.taiyokoki.com/jp/contact/",
+    "https://www.jpea.gr.jp/inquiry/",
+    "https://www.mitsubishielectric.co.jp/service/taiyo/support/inquiry/",
+    "https://idecjpn.my.site.com/PowerConditionerCase/s/",
+    "https://www.xsol.co.jp/contact/",
+    "https://www.enecho.meti.go.jp/form/",
+    "https://sunrise-pv.com/contact/",
+    "https://solar.huawei.com/jp/contact-us/",
+    "https://www.elj-solar.co.jp/contact/",
+    "https://santec-eco.com/contact"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 太陽光機",
+   "results": [
+    "https://note.com/ppnnc/n/n499977650512",
+    "https://note.com/yukura_yukura/n/n11f06aad9590",
+    "https://note.com/techmatsumoto/n/n7ce24e219336",
+    "https://note.com/murota_masahiro/n/n238038f01d9f",
+    "https://note.com/wajo_official/n/ncaf82c4c4cb5",
+    "https://note.com/mocchan/n/ndfa4b612d84f",
+    "https://note.com/better_equation/n/n0257236b8042",
+    "https://note.com/startupm/n/n7692d87da356",
+    "https://note.com/looop_pr/n/n02f90af37c07",
+    "https://note.com/airi_hprenew/n/n9c1c5d215e7d"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 太陽光機",
+   "results": [
+    "https://x.com/ecosagamin/status/1949670092104728634",
+    "https://x.com/HTVX_JAXA/status/1983397351193751983",
+    "https://x.com/i/broadcasts/1vAxRDbWDejGl",
+    "https://x.com/dem_yeah/status/2119003382006616263",
+    "https://x.com/hirakata_city/status/2112348079395582389",
+    "https://x.com/denki_zero/status/2116504727760548198",
+    "https://x.com/i/trending/2011220115765838226",
+    "https://x.com/hachidori_solar",
+    "https://x.com/higashikurume_b/status/1863497263949169012",
+    "https://x.com/CgtnJapanese/status/2120500964864205093"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 太陽光機",
+   "results": [
+    "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BB%E7%99%BA%E9%9B%BB%E6%A9%9F%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%80%E6%96%B0%E5%8B%95%E5%90%91-sequencer-sync-cz1pe",
+    "https://jp.linkedin.com/pulse/%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BBpv%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%8F%E8%A9%A6%E9%A8%93%E6%A9%9F%E3%81%AE%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E3%81%A8%E6%B5%B7%E5%A4%96%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC-veltrivac-fcose",
+    "https://jp.linkedin.com/pulse/%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BBpv%E3%82%BB%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E5%8D%B0%E5%88%B7%E6%A9%9F%E7%94%A3%E6%A5%AD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%88%E6%B8%AC%E3%81%A8%E6%88%90%E9%95%B7%E6%A9%9F%E4%BC%9A%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6cagr-102%E3%81%A7%E6%88%90%E9%95%B7-z5gse",
+    "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BB%E6%A9%9F%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%80%E6%96%B0%E5%8B%95%E5%90%91-paradigmpacex-vaghe",
+    "https://jp.linkedin.com/pulse/%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BB%E6%A9%9F-market-share-analysis%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A687%E3%81%AEcagr%E6%88%90%E9%95%B7%E3%82%92%E8%A8%98%E9%8C%B2%E3%81%97%E5%8F%8E%E7%9B%8A%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B4%9E%E5%AF%9F%E3%82%92%E5%90%AB%E3%81%BF%E3%81%BE%E3%81%99-3og6e",
+    "https://jp.linkedin.com/pulse/%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BBpv%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%8F%E7%A0%94%E7%A3%A8%E6%A9%9F%E5%B8%82%E5%A0%B4%E3%81%AE%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%97%E3%81%AF%E9%81%8E%E5%8E%BB%E3%81%AE%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%A8%E5%B0%86%E6%9D%A5%E3%81%AE%E8%A6%8B%E9%80%9A%E3%81%97%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B2%B4%E9%87%8D%E3%81%AA%E6%83%85-7521564420234219520-ijlwe",
+    "https://jp.linkedin.com/pulse/%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BBpv%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%8F%E6%A4%9C%E6%9F%BB%E3%81%8A%E3%82%88%E3%81%B3%E8%A9%A6%E9%A8%93%E6%A9%9F%E4%B8%96%E7%95%8C%E5%B8%82%E5%A0%B4%E3%81%AE%E4%B8%BB%E8%A6%81%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC-klyvionx-9elge",
+    "https://jp.linkedin.com/pulse/%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BB%E7%94%A8%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%8F%E9%81%B8%E5%88%A5%E6%A9%9F-market%E3%81%AE%E7%AB%B6%E4%BA%89%E7%92%B0%E5%A2%832033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AEcagr-88%E3%81%AE%E4%BA%88%E6%B8%AC%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E5%BC%B7%E3%81%BF%E3%81%A8%E5%BC%B1%E3%81%BF%E3%81%AE%E5%88%86%E6%9E%90-hlxce",
+    "https://jp.linkedin.com/pulse/%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BBpv%E3%82%BB%E3%83%AB%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E%E3%82%A8%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E6%A9%9F%E5%B8%82%E5%A0%B4%E6%B5%B8%E9%80%8F%E6%88%A6%E7%95%A5%E6%9C%AA%E9%96%8B%E6%8B%93%E5%B8%82%E5%A0%B4%E3%81%A8%E6%88%90%E9%95%B7%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A72026-2033-wave-webs-dck6e",
+    "https://tw.linkedin.com/in/志雄-王-58b58b154"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 太陽光機",
+   "results": [
+    "https://www.facebook.com/huaweijapanpr/videos/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%AF%E6%97%A5%E6%9C%AC%E3%82%84%E4%B8%96%E7%95%8C%E3%81%A7%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BB%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E5%B1%95%E9%96%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E5%8B%95%E7%94%BB%E3%81%AE%E8%88%9E%E5%8F%B0%E3%81%AF%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A7%E7%9F%A5%E3%82%89%E3%82%8C%E3%82%8B%E5%8D%97%E7%B1%B3%E3%81%AE%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%E3%81%A7%E3%81%99%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BB%E8%A3%BD%E5%93%81%E3%81%8C%E5%B0%8E%E5%85%A5%E3%81%95%E3%82%8C%E3%81%9F%E6%A7%98%E5%AD%90%E3%82%84%E8%A1%97%E3%81%AE%E6%A7%98%E5%AD%90%E3%81%8C%E6%8F%8F/593084423335678/",
+    "https://m.facebook.com/100067811325333/photos/293205106283198/",
+    "https://www.facebook.com/uniperjp/videos/%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BB%E3%82%92%E5%BF%9C%E6%8F%B4%E3%81%99%E3%82%8B%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%95%E3%83%88%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E3%83%AC%E3%83%BC%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%97%E3%81%AE%E3%83%91%E3%83%8D%E3%83%AB%E8%8D%B7%E6%8F%9A%E3%81%92%E6%A9%9F%EF%BC%92%E9%9A%8E%EF%BC%93%E9%9A%8E%E3%82%82%E8%87%AA%E5%9C%A8%E3%81%AB%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E5%8F%AF%E8%83%BD%E3%81%AA%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BB%E3%83%91%E3%83%8D%E3%83%AB%E8%8D%B7%E6%8F%9A%E3%81%92%E3%83%AA%E3%83%95%E3%83%88%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%91%E3%83%8D%E3%83%AB%E8%A8%AD%E7%BD%AE%E5%B7%A5%E4%BA%8B%E3%81%A7%E3%81%AE%E3%83%91%E3%83%8D/322017712933107/",
+    "https://www.facebook.com/JapanPhototovoltaicSociety/",
+    "https://www.facebook.com/rokusetsu/?locale=ja_JP",
+    "https://www.facebook.com/skyseeker.jp/posts/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E8%AA%BF%E6%9F%BB%E5%A0%B1%E5%91%8A%E5%A4%AA%E9%99%BD%E5%85%89%E3%83%91%E3%83%8D%E3%83%AB-%E8%AA%BF%E6%9F%BB%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E5%A4%AA%E9%99%BD%E5%85%89%E3%83%91%E3%83%8D%E3%83%AB%E3%81%AE%E7%82%B9%E6%A4%9C%E8%AA%BF%E6%9F%BB%E3%82%92%E5%AE%9F%E6%96%BD%E6%90%AD%E8%BC%89%E3%81%95%E3%82%8C%E3%81%9F%E8%B5%A4%E5%A4%96%E7%B7%9A%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%AA%E3%81%A9%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E5%BA%83%E7%AF%84%E5%9B%B2%E3%81%AB%E8%A8%AD%E7%BD%AE%E3%81%95%E3%82%8C%E3%81%9F%E5%A4%AA%E9%99%BD%E5%85%89%E3%83%91%E3%83%8D%E3%83%AB%E3%81%AE%E7%8A%B6%E6%85%8B%E3%82%92/1735753288560210/",
+    "https://www.facebook.com/PVOwnerNetwork/",
+    "https://www.facebook.com/taiyoriki.biz/",
+    "https://www.facebook.com/1255549057/posts/%E5%A4%AA%E9%99%BD%E5%85%89%E3%82%84%E9%A2%A8%E5%8A%9B%E3%81%AF%E4%B8%8D%E5%AE%89%E5%AE%9A%E7%A2%BA%E3%81%8B%E3%81%AB%E3%81%9D%E3%81%AE%E3%81%A8%E3%81%8A%E3%82%8A%E3%81%A7%E3%81%99%E3%81%8C%E3%81%9D%E3%82%8C%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E8%BF%94%E7%AD%94%E3%82%92%E6%9B%B8%E3%81%8F%E6%A9%9F%E4%BC%9A%E3%81%8C%E3%81%82%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%A7%E5%85%B1%E6%9C%89%E3%81%97%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%BE%E3%81%99%E5%87%BA%E6%9D%A5%E3%82%8B%E3%81%A0%E3%81%91%E7%9B%B4%E6%84%9F%E7%9A%84%E3%81%AB%E8%85%B9%E8%90%BD%E3%81%A1%E3%81%97%E3%82%84%E3%81%99%E3%81%84%E3%82%88%E3%81%86%E3%81%AB%E8%AA%AC%E6%98%8E%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%E3%81%84%E3%81%A8%E6%80%9D%E3%81%84%E3%81%BE%E3%81%99%E3%82%B3/10235205191251356/",
+    "https://www.facebook.com/taiyokouki.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "太陽光機 note 社長",
+   "results": [
+    "https://note.com/lprojectokayama/n/n954a2ffdea86",
+    "https://note.com/altenergy/n/nc1ed6c5e72cf",
+    "https://altenergy.co.jp/news/20260331_1/",
+    "https://note.com/tag/%E5%A4%AA%E9%99%BD%E5%85%89",
+    "https://note.com/monochrome_so/m/mb1eb9632975c/hashtag/13515",
+    "https://wired.jp/2013/09/11/sol-computer-operated-b-solar/",
+    "http://www.notescorp.co.jp/",
+    "https://www.kyudengroup-voice.jp/nishiyama-note/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "太陽光機 X 投稿",
+   "results": [
+    "https://www.xsol.co.jp/",
+    "https://x.com/XSOL_JP",
+    "https://syukatsu-kaigi.jp/companies/7381/word_mouths",
+    "https://www.youtube.com/watch?v=MU0E06Y8unw&vl=ja",
+    "https://x.lixil.com/watch/5844613109001",
+    "https://solarjournal.jp/allposts/",
+    "https://prtimes.jp/topics/keywords/%E5%A4%AA%E9%99%BD%E5%85%89%E3%83%91%E3%83%8D%E3%83%AB",
+    "https://x.com/JAXA_jp/status/2110281680888164447",
+    "https://x.com/hashtag/太陽光発電",
+    "https://search.yahoo.co.jp/realtime/search/太陽光発電/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像8件／外部8頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式4頁／PDF・画像8件／外部8頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式4頁／PDF・画像8件／外部8頁・検索9回）"
+ }
+}

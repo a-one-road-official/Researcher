@@ -1,0 +1,1705 @@
+{
+ "name": "Happyrobot",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T19:03:38.807261+00:00",
+ "official_url": "https://happyrobot.ai",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金タイプ",
+    "value": "有料（要問い合わせ） 無料枠 なし（有料のみ）",
+    "url": "https://aipicks.jp/tool/happyrobot#japanese",
+    "pass": 3
+   },
+   {
+    "label": "料金タイプ",
+    "value": "有料（要問い合わせ） 無料枠 なし（有料のみ）",
+    "url": "https://aipicks.jp/tool/happyrobot",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/happyrobot-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$60,600,000",
+    "url": "https://prospeo.io/c/happyrobot-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Francisco, California, United States",
+    "url": "https://prospeo.io/c/happyrobot-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://prospeo.io/c/happyrobot-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Build & orchestrate agents that automate communication-heavy work at enterprise scale.",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Production-ready in 4 weeks",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Agent performance is tested end-to-end before deployment and audited in production.",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-world experience builds context that is leveraged for insight and constant improvement.",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Self-improving agents",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "When one agent learns and improves anywhere, every agent gets better everywhere.",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "This is Enterprise Superintelligence.",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The context your agents capture compounds into a living model of your business that improves with every task.",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Put agents to work in your enterprise.",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot chases suppliers, monitors production and keeps shipments on track, so nothing stops the line.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor production schedules and delivery timelines, and notify customers of delays or changes before they ask.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "of production cycles.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize PO processing",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Automate supplier communications, modifications, confirmations, approvals, and record updates.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Coordinate product specification",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent a supplier delay from becoming a stockout.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "A late supplier does not just affect one PO. It breaks the production schedule, misses the replenishment window, and leaves planners, procurement, and store teams running on a plan that has already changed.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Our orchestration layer connects every stakeholder to the same live status. When a supplier misses an ECD, our agent calls for the updated date, alerts procurement, notifies planning, and logs the exception - before it throws production off schedule.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline candidate screening, interview coordination, and onboarding workflows.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for enterprise.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Define and measure success with enterprise-grade observability and version control.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Not a black box – AI auditor ensures tasks are completed as intended & proposes improvements.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "No data sharing. SOC 2 and GDPR compliant with safe staging environments and robust guardrails.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "For freight brokers and 3PLs, HappyRobot's AI agents book more loads, negotiate better rates, track every shipment, and collect documents without adding headcount.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Book more loads at better rates.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Capture inbound loads",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Counter offers with live market data and log every offered and accepted rate to find the ideal price range for every load.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Reactivate dormant leads",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Generate growth by re-engaging dormant leads and following up on open opportunities.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "It also logs negotiated prices - rate offered, rate accepted, lane - so over time, your team knows what the market will bear before they dial.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Notify on at-risk loads",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent a missed milestone from costing a delivery.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for enterprise.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Define and measure success with enterprise-grade observability and version control.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Not a black box – AI auditor ensures tasks are completed as intended & proposes improvements.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "No data sharing. SOC 2 and GDPR compliant with safe staging environments and robust guardrails.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Process service connections and moves",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Compare readings against history, accept customer submissions, and trigger re-reads when needed.",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Dispatch technicians faster & fully prepared",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Reach out before payments are due, confirm promise to pay or route to a plan, and escalate non-responses.",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Present eligible repayment options, capture agreements, monitor adherence, and chase missed installments.",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for enterprise.",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Define and measure success with enterprise-grade observability and version control.",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Not a black box – AI auditor ensures tasks are completed as intended & proposes improvements.",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "No data sharing. SOC 2 and GDPR compliant with safe staging environments and robust guardrails.",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Price the lane, send a quote, and book, amend or cancel the shipment in one thread.",
+    "url": "https://www.happyrobot.ai/solutions/industries/airlines",
+    "pass": 1
+   },
+   {
+    "quote": "Track shipments with proactive updates",
+    "url": "https://www.happyrobot.ai/solutions/industries/airlines",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for enterprise.",
+    "url": "https://www.happyrobot.ai/solutions/industries/airlines",
+    "pass": 1
+   },
+   {
+    "quote": "Define and measure success with enterprise-grade observability and version control.",
+    "url": "https://www.happyrobot.ai/solutions/industries/airlines",
+    "pass": 1
+   },
+   {
+    "quote": "Not a black box – AI auditor ensures tasks are completed as intended & proposes improvements.",
+    "url": "https://www.happyrobot.ai/solutions/industries/airlines",
+    "pass": 1
+   },
+   {
+    "quote": "No data sharing. SOC 2 and GDPR compliant with safe staging environments and robust guardrails.",
+    "url": "https://www.happyrobot.ai/solutions/industries/airlines",
+    "pass": 1
+   },
+   {
+    "quote": "Freeze compromised cards, activate new ones, reset PINs, and update limits within policy.",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Qualify corporate prospects",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Run outbound qualification, collect key business details, and hand off warm leads with full context.",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Submit AML cases, enforce GDPR and DORA process steps, log every action, and escalate breaches with full context.",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for enterprise.",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Define and measure success with enterprise-grade observability and version control.",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Not a black box – AI auditor ensures tasks are completed as intended & proposes improvements.",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "No data sharing. SOC 2 and GDPR compliant with safe staging environments and robust guardrails.",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot's AI agents settle claims faster, resolve policyholder requests on the first call, and recover premium before policies lapse.",
+    "url": "https://www.happyrobot.ai/solutions/industries/insurance",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Carrier sales · track & trace",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Call customer locations to confirm pickup readiness, lock the time slot, and surface any conflicts before the driver arrives.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Answer parts, warranty and service inquiries",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Follow up on outstanding invoices, chase payment, and handle warranty claim conversations through to resolution.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Nurture your carrier network",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Build relationships with carriers to to secure committed capacity at better rates in the future.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Match carrier ETAs to dock availability and confirm slots with both parties.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Contact the carrier, rebook the slot, and notify every affected party.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Call carriers at every milestone; log updated ETAs, flag exceptions, and alert the team before a delay becomes a miss.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "A missed carrier check-in does not stay with the dispatcher. It breaks the dock schedule, misses the delivery commitment, and leaves the shipper, DC, and ops team running on a plan that has already changed.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Our orchestration layer connects every stakeholder to the same live status. When a carrier misses a check-in, our agent calls the driver for an updated ETA, alerts the shipper, adjusts the dock appointment, and logs the exception before a human notices the gap.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Identify gaps post-delivery, chase carriers, and trigger billing once the file is complete.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Investigate disputed charges, correct billing errors, and arrange payments.",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Our orchestration layer spots, chases and escalates missing confirmations before they cascade. When a crew member drops, our agent finds a replacement and informs the gate when the substitute will arrive so the gate can time boarding.",
+    "url": "https://www.happyrobot.ai/solutions/industries/airlines",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot handles customer requests, automates compliance and back-office workflows, and drives revenue through renewals and collections.",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot's AI agents track orders, update customers, coordinate carriers, and fill store shifts without adding headcount.",
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Confirm vendor visits, track arrival, and flag missed marks to store leadership.",
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Our orchestration layer absorbs setbacks while keeping your teams informed. When a carrier misses a check-in, our agents contact the driver for an updated ETA, alert the dock team, adjust the receiving schedule, and flag affected SKUs to the store manager before the gap reaches the shelf.",
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier communications",
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "moving from carrier to shelf.",
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Check in with carriers at key milestones, collect live ETAs, and push updates to the dock team before anyone has to ask.",
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Align carrier and facility availability and confirm the slot — eliminating scheduling conflicts before they delay the unload.",
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Schedule carrier pickups, collect return documentation, and confirm the handoff — without the manual chase.",
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot's AI agents close subscriber requests on the first call, resolve faults on first contact, and grow revenue through every renewal.",
+    "url": "https://www.happyrobot.ai/solutions/industries/telecom",
+    "pass": 1
+   },
+   {
+    "quote": "200,000 Calls. Zero Extra Headcount. How Circle Logistics Scaled Carrier Sales with HappyRobot",
+    "url": "https://www.happyrobot.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "My order hasn't arrived and I'm away on Friday.",
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "A voice AI agent answers the calls to Naturgy's technical service, runs a full diagnostic on each one, resolves many issues on the spot, and arranges a technician when the problem needs a professional.",
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue from accounts that had gone quiet.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue creation, not just cost reduction",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Most AI sales tools optimize what your team already does. HappyRobot activates work your team can't get to — dormant accounts untouched for months, overflow leads that expire before anyone responds, deal volume that exceeds rep capacity. This isn't automation of existing workflows. It's revenue that didn't exist before.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Directly. Credits represent execution — every call made, every lead qualified, every deal booked. You compare the cost of credits against the revenue generated. The math is straightforward.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "overnight carrier calls",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "In Kuehne+Nagel's Healthcare HyperCare control tower, AI agents handle outbound carrier communications, exception escalation and coordination in English, French, German, Spanish and Mandarin, overnight and across time zones.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Outbound tracking workflows that reach every carrier, confirm every status, and flag every exception. No load goes untracked because of team capacity.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Vendor & Carrier Communication",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Every call, check-in, and status update adds to what your AI workforce knows about your carriers, vendors, and partners. HappyRobot captures behavior patterns, response preferences, and performance history — building persistent memory that makes every subsequent interaction more effective. When carriers know every load gets consistent, exception-free follow-up, their behavior changes.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "When carriers know every load receives consistent, exception-free follow-up, their behavior changes. When vendors know every repair gets tracked until resolution, response times improve. The systematic pressure of a system that never misses reshapes how your entire ecosystem operates.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "AI workers don't just execute — they learn. Carrier behavior patterns, vendor response times, scheduling preferences. The platform captures context from every interaction and applies it to the next. Operating procedures improve continuously at every touchpoint.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "delighting employees.",
+    "url": "https://www.happyrobot.ai/solutions/functions/hr-recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Structured interviews via phone or messaging when employees depart. AI workers capture detailed feedback on experience, departure drivers, and improvement opportunities.",
+    "url": "https://www.happyrobot.ai/solutions/functions/hr-recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/happyrobot/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Carrier Tracking & ETA Confirmation:",
+    "url": "https://www.happyrobot.ai/customer-story/dhl",
+    "pass": 3
+   },
+   {
+    "quote": "AI agents call carriers to collect pickup and delivery ETAs and automatically update DHL's TMS in real time, replacing previously separate manual tracking processes with a single unified system.",
+    "url": "https://www.happyrobot.ai/customer-story/dhl",
+    "pass": 3
+   },
+   {
+    "quote": "Circle Logistics achieves faster, higher-margin carrier sales with HappyRobot AI voice agents",
+    "url": "https://www.casestudies.com/company/happyrobot",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/happyrobot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At HappyRobot",
+    "url": "https://prospeo.io/c/happyrobot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/happyrobot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/happyrobot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/happyrobot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of HappyRobot?",
+    "url": "https://prospeo.io/c/happyrobot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/happyrobot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/happyrobot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/happyrobot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does HappyRobot have?",
+    "url": "https://prospeo.io/c/happyrobot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/happyrobot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/520081-48",
+    "pass": 3
+   },
+   {
+    "quote": "Happyrobot has 200 total employees.",
+    "url": "https://pitchbook.com/profiles/company/520081-48",
+    "pass": 3
+   },
+   {
+    "quote": "What is Happyrobot’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/520081-48",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Happyrobot is",
+    "url": "https://pitchbook.com/profiles/company/520081-48",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "AI Agents for Manufacturers & Suppliers | HappyRobot",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Dispatch technicians faster & fully prepared",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Match technicians to jobs by skill and availability, manage appointments, and send access instructions.",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Support technicians on the job",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "A missed delivery window does not stay in the warehouse. It hits the dock schedule, pulls inventory off the shelf, breaks the online availability count, and triggers customer contacts — all without teams in charge realizing it.",
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "AI Agents for Telecom Operators | HappyRobot",
+    "url": "https://www.happyrobot.ai/solutions/industries/telecom",
+    "pass": 1
+   },
+   {
+    "quote": "Triage incidents & dispatch technicians",
+    "url": "https://www.happyrobot.ai/solutions/industries/telecom",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 150+ Enterprise Customers",
+    "url": "https://www.happyrobot.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 150+ Enterprise Customers",
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Customer support case study",
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 150+ Enterprise Customers",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 150+ Enterprise Customers",
+    "url": "https://www.happyrobot.ai/solutions/functions/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Am I speaking with the accounts payable lead at Quorlen Industrial?",
+    "url": "https://www.happyrobot.ai/solutions/functions/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 150+ Enterprise Customers",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Operations case study",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot integrates natively with major transportation and warehouse management systems, dispatch platforms, and any system your team uses. AI workers operate within your existing stack.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 150+ Enterprise Customers",
+    "url": "https://www.happyrobot.ai/solutions/functions/hr-recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse shift, Saturday 06:00. 3 of 12 unconfirmed.",
+    "url": "https://www.happyrobot.ai/solutions/functions/hr-recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Recruiting case study",
+    "url": "https://www.happyrobot.ai/solutions/functions/hr-recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse associate · Screened on Aug 12",
+    "url": "https://www.happyrobot.ai/solutions/functions/hr-recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot secures $44M in Series B funding to expand its AI operating system for logistics and industrial enterprises.",
+    "url": "https://www.happyrobot.ai/blog/announcing-our-partnership-with-tokio-marine",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/happyrobot/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "When IoT sensors detect a temperature threshold breach for critical items like insulin, the agent immediately calls operators and escalates through response levels. This use case won DHL Supply Chain's internal Supply Chain CIO Award.",
+    "url": "https://www.happyrobot.ai/customer-story/dhl",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse Coordination",
+    "url": "https://www.happyrobot.ai/customer-story/dhl",
+    "pass": 3
+   },
+   {
+    "quote": "Command center teams use the agent to verify item presence and manage high-priority warehouse coordination across regions.",
+    "url": "https://www.happyrobot.ai/customer-story/dhl",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Reply to email quote requests within seconds to increase win rates on time-sensitive lanes.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Triage emails, extract document data, and reconcile trades - without adding headcount.",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Every call, chat and email, resolved. Automated customer support across voice, chat, email and SMS. HappyRobot's AI support agents handle calls and messages 24/7, resolve issues inside your systems and hand complex cases to your team with the full context.",
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot's AI agents handle support on voice, web chat, email and messaging, in 30+ languages and on your customers' schedule. On the phone, they work as your AI calling agent: they answer, find out what the caller needs and resolve it or route it. They connect to your ticketing systems, CRMs and databases to take action, not just answer questions.",
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Every call, chat, and email adds to what your AI workforce knows about your customers. When a customer reaches out, your AI worker already knows who they are, what they called about last time, and what's still outstanding. No repeated explanations. No cold handoffs. The longer it runs, the better it gets.",
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Email · Return label sent",
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike point solutions built for one channel or one function, HappyRobot operates across voice, chat, email, and SMS in 30+ languages from a single platform. A customer who calls about an outage gets their ticket created, their technician scheduled, and their follow-up sent. One interaction. Full resolution. Point solutions can't do this — they're architecturally incapable of it.",
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "An AI agent that handles customer conversations by phone, chat, email and messaging, and acts in your systems to resolve them: it looks up the order, updates the account, books the appointment or opens the ticket. When a case needs judgment, it hands it to your team with the full context.",
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Chatbots follow scripts and deflect to humans when things get complex. HappyRobot's AI workers reason through problems, take action across systems, and resolve issues end-to-end — across voice, chat, email, and SMS.",
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot's AI sales agents run outbound sales and prospecting, qualify every inbound lead, book meetings and re-engage dormant accounts. Across voice, email and messaging. Your reps take the conversations that need them.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot's AI sales agents run outbound prospecting, inbound qualification and booking across phone, email and messaging. They work inside your CRM and quoting systems, so they log the call, update the record and book the meeting, not just pass along a note.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Quote sent by email: $2,150 per load, inside the approved rate range.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "An AI SDR, or AI BDR, runs targeted outbound across phone, email and messaging. It opens the conversation, qualifies the prospect against your criteria and books the meeting on your rep's calendar.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Wants every quote confirmed by email.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Email · Lane quote sent · DAL–ATL",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike point solutions built for one channel, HappyRobot operates across voice, email, and messaging from a single platform. A prospect who calls gets qualified, quoted, and booked in one interaction. A dormant account gets a phone call, a follow-up email, and a scheduled meeting — all coordinated by the same AI worker with full context.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "An AI SDR is an AI agent that does the work of a sales development rep. It calls, emails and messages prospects, qualifies them against your criteria and books meetings for your account executives. HappyRobot's AI SDRs work inside your CRM and hand every qualified conversation to a rep with the full context.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "AI sales tools help your reps write emails or score leads. An AI sales agent does the work itself: it holds the conversation by phone, email or message, qualifies the lead, books the meeting and updates your CRM. Your reps pick up where it leaves off.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot AI workers run collections workflows across voice, email, and messaging — verifying identities, presenting invoices, capturing payment commitments, and recovering documents. They integrate directly with your ERP and billing systems to take action, not just send reminders.",
+    "url": "https://www.happyrobot.ai/solutions/functions/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Every call, email, and message adds to what your AI workforce knows about your accounts. HappyRobot captures payment patterns, contact preferences, and dispute history — building persistent memory that improves every subsequent interaction. When an AI worker reaches out about a past-due invoice, it already knows the customer's payment behavior, preferred channel, and what worked last time.",
+    "url": "https://www.happyrobot.ai/solutions/functions/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Pays within days of a call, rarely after email alone.",
+    "url": "https://www.happyrobot.ai/solutions/functions/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Email · Statement sent",
+    "url": "https://www.happyrobot.ai/solutions/functions/finance",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot AI workers handle the coordination-heavy work that keeps operations running — scheduling appointments, tracking deliveries, and managing maintenance across phone, email, and messaging. They integrate directly with your TMS, WMS, and dispatch systems to take action, not just send updates.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "AI workers manage full scheduling interactions — outreach, availability confirmation, booking, reschedules, and system updates. Across phone, email, message, or portal.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Wants rate confirmations by email, PDF attached.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Phone, email, SMS, web chat, WhatsApp, and API integrations with third-party portals. AI workers use whatever channel your partners and vendors prefer.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Shift scheduling · Email",
+    "url": "https://www.happyrobot.ai/solutions/functions/hr-recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/happyrobot/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/happyrobot/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot's engineers embedded directly with DHL's operational teams to understand complex workflows across divisions, building agents that don't just communicate, but act: updating systems, routing escalations, and operating across voice, email, WhatsApp, and SMS.",
+    "url": "https://www.happyrobot.ai/customer-story/dhl",
+    "pass": 3
+   },
+   {
+    "quote": "Today, those agents process hundreds of thousands of emails and millions of voice minutes annually across DHL's global network.",
+    "url": "https://www.happyrobot.ai/customer-story/dhl",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/happyrobot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/520081-48",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Yes. Conversations are tailored to your culture, tone, and communication standards. AI workers sound like your organization — warm, professional, and consistent with your brand.",
+    "url": "https://www.happyrobot.ai/solutions/functions/hr-recruiting",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "公式サイトに日本語の表示は見当たりません（2026年9月時点）",
+    "url": "https://aipicks.jp/tool/happyrobot#japanese",
+    "pass": 3
+   },
+   {
+    "quote": "LINEやYahoo! JAPANアプリを毎日使う人なら",
+    "url": "https://aipicks.jp/tool/happyrobot#japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Agent iは、LINEヤフーがLINEとYahoo! JAPANから使えるように提供するAIエージェントです",
+    "url": "https://aipicks.jp/tool/happyrobot#japanese",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月20日に「LINE AI」とYahoo! JAPANの「AIアシスタント」を統合して始まりました",
+    "url": "https://aipicks.jp/tool/happyrobot#japanese",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot Inc. | 株式会社NTTドコモ・ベンチャーズ",
+    "url": "https://www.nttdocomo-v.com/portfolio/happyrobot/",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイトに日本語の表示は見当たりません（2026年9月時点）",
+    "url": "https://aipicks.jp/tool/happyrobot",
+    "pass": 3
+   },
+   {
+    "quote": "LINEやYahoo! JAPANアプリを毎日使う人なら",
+    "url": "https://aipicks.jp/tool/happyrobot",
+    "pass": 3
+   },
+   {
+    "quote": "Agent iは、LINEヤフーがLINEとYahoo! JAPANから使えるように提供するAIエージェントです",
+    "url": "https://aipicks.jp/tool/happyrobot",
+    "pass": 3
+   },
+   {
+    "quote": "2026年4月20日に「LINE AI」とYahoo! JAPANの「AIアシスタント」を統合して始まりました",
+    "url": "https://aipicks.jp/tool/happyrobot",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "HappyRobot | Powering the systems that run the world — New HappyRobot raises its Series C to put AI workers to work across the real economy Read the announcement",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobotは日本語対応してる?UI・出力・サポートを検証 (2026) | AI... — HappyRobotの日本語対応を、UI表示・入出力・サポートの3項目で整理しました。 公式サイトの表示言語と編集部の評価をもとに、日本語で業務に使えるかの判断材料と、同カテゴリの代替候補をまとめています。",
+    "url": "https://aipicks.jp/tool/happyrobot/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot Inc. | 株式会社NTTドコモ・ベンチャーズ — Oct 7, 2025 · 投資先企業「HappyRobot Inc.」様の紹介ページです。 企業概要・最新情報などを確認いただけます。 NTTグループにおける「スタートアップ・ベンチャーコミュニティとの総合窓口」NTTドコモ・ベンチャーズのウェブサイトです。",
+    "url": "https://www.nttdocomo-v.com/portfolio/happyrobot/",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobotとは？評判・料金・機能 | AI PICKS — Aug 10, 2026 · HappyRobotは、 電話・メール・SMS をまたぐ現場業務AIエージェントの実行基盤として、物流からエネルギー、金融まで横展開できる実装力に到達したサービスです。",
+    "url": "https://aipicks.jp/tool/happyrobot",
+    "pass": 3
+   },
+   {
+    "quote": "HAPPYROBOT ハッピーロボットとは 物流の運送会社とのやり取りの自動... — 公式サイトには導入事例が載っています。 DHLでは地域や事業部門をまたいで導入を広げていること、Kuehne+Nagel（キューネ・アンド・ナーゲル）では重要な業務の78%をAIが人の手を借りずに進めていること、Naturgyとはお客様対応を作り直していることです。",
+    "url": "https://eeai.tv/tools/happyrobot",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot | Powering the systems that run the world — Autonomous AI workers that communicate, coordinate, and operate at scale across the real economy.",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Announcing our partnership with Tokio Marine - happyrobot.ai — Sep 22, 2026 · With Tokio Marine’s support, we are accelerating our expansion into Japan and Asia, a region that represents one of the most vital hubs of global supply chain and industrial operations.",
+    "url": "https://www.happyrobot.ai/blog/announcing-our-partnership-with-tokio-marine",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot Inc. | 株式会社NTTドコモ・ベンチャーズ — Oct 7, 2025 · 企業概要・最新情報などを確認いただけます。 NTTグループにおける「スタートアップ・ベンチャーコミュニティとの総合窓口」NTTドコモ・ベンチャーズのウェブサイトです。",
+    "url": "https://www.nttdocomo-v.com/portfolio/happyrobot/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers | HappyRobot — Explore how our customers are changing the way they do work with HappyRobot AI workers.",
+    "url": "https://www.happyrobot.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "7 HappyRobot Case Studies, Success Stories, & Customer ... — Narrow down 7 case studies by company size & industry to find out how HappyRobot works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/happyrobot/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "DHL Reimagines Operations with HappyRobot | Customer Story — Learn how DHL Supply Chain uses HappyRobot AI agents for tracking calls, customs collection, and escalations.",
+    "url": "https://www.happyrobot.ai/customer-story/dhl",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot B2B Case Studies & Customer Successes — See how HappyRobot solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/happyrobot",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Real Results | Happy Robots — Success Stories from Real Organizations Our clients have achieved measurable results through training-led consulting and evaluation tools. Explore case studies to see how organizations across industries have built trust layers and scaled AI adoption.",
+    "url": "https://www.happyrobots.com/resources/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot – Strategic Position & Company Metrics – 2026 — Discover HappyRobot's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/happyrobot",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot Revenue, Funding & Valuation - prospeo.ioHappyrobot 2026 Company Profile: Valuation, Funding ...Happybot 2026 Company Profile: Valuation, Funding & Investors ...HappyRobot - 2026 Company Profile, Team, Funding ... - TracxnHappyrobot Revenue 2024: $1.8M Est. ARR - getlatka.comHappyRobot: Funding, Investors & Team (Nov 2026) | FundedIQ — As an AI partner, HappyRobot works side by side wit",
+    "url": "https://prospeo.io/c/happyrobot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Happyrobot 2026 Company Profile: Valuation, Funding ...Happybot 2026 Company Profile: Valuation, Funding & Investors ...HappyRobot - 2026 Company Profile, Team, Funding ... - TracxnHappyrobot Revenue 2024: $1.8M Est. ARR - getlatka.comHappyRobot: Funding, Investors & Team (Nov 2026) | FundedIQ — Information on valuation, funding, cap tables, investors, and executives for Happyrobot. Use the PitchB",
+    "url": "https://pitchbook.com/profiles/company/520081-48",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot - 2026 Company Profile, Team, Funding ... - Tracxn — Mar 17, 2026 · HappyRobot is a series B company based in San Francisco (United States), founded in 2023 by Pablo Palafox, Luis Paarup and Javi Palafox. It operates as a Developer of an AI operating system for autonomous business operations. HappyRobot has raised $62M in funding from Andreessen Horowitz and Base10 Partners, with a curr",
+    "url": "https://tracxn.com/d/companies/happyrobot/__tpvjXC1ztQVCcmwI5nABkYY6mAzlVf0z6lPp3kO-tjk",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Logistics Autonomous Voice AI 'HappyRobot' Raises $150M in ... HappyRobot, a provider of autonomous voice AI agents for the logistics industry, announced that it has raised $150 million (approximately 22 billion yen) in a Series C funding round.",
+    "url": "https://note.com/tyomu_it_fin/n/nc3fd5ad6ce5a?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "物流向け自律音声AI「HappyRobot」がシリーズCで$150M調達——評価額は$... Aug 21, 2026 · 【要約】 物流業界向けに自律型の音声AIエージェントを提供するHappyRobotが、シリーズCラウンドで1億5,000万ドル (約220億円)を調達したと発表しました。 Prysm Capitalがリード投資家、Eurazeoがコリード投資家を務め、ポストマネー評価額は12億ドルに達しています。",
+    "url": "https://note.com/tyomu_it_fin/n/nc3fd5ad6ce5a",
+    "pass": 3
+   },
+   {
+    "quote": "物流業界を革新するAIエージェント：Happyrobot.aiの役割と未来展望｜... Dec 27, 2024 · Happyrobot.aiのAIエージェントは、24時間365日稼働し、電話対応やデータ収集を自動化することで、運送会社や貨物ブローカーの業務効率を向上させることができます。 これにより、従業員はより戦略的な業務に集中でき、全体的な生産性の向上が期待できます。",
+    "url": "https://note.com/tomohiro2866/n/ncd91abcb2905",
+    "pass": 3
+   },
+   {
+    "quote": "物流向けAIスタートアップの未来：1560万ドル資金調達で描く次のステ... Dec 28, 2024 · Happyrobot.AIが描く未来は、物流業界の課題をAIの力で解決し、業界全体の進化を促すことです。 今回の資金調達を起点として、今後の飛躍的な成長が期待されます。",
+    "url": "https://note.com/tomohiro2866/n/n8713c542b561",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "HappyRobot (@HappyRobot) / X HappyRobot built 3 layers to close that gap: Northstars, pre-deployment tests, and production audits. All in the same platform as your agents, so every correction instantly feeds back into the system and makes it smarter for next time.",
+    "url": "https://x.com/happyrobot",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot HappyRobot (@HappyRobot). 12 likes 479 views. 🇪🇸 vs 🇦🇷 kicking off soon. We gave two agents one task: agree on the final. They chose trash talk instead. 👀⚽️",
+    "url": "https://x.com/HappyRobot/status/2078886928112558116",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot on X: \"We've officially opened our New York City ... If you're interested in being an early member of our NYC team, check out our open positions: careers.happyrobot.ai This is our sixth office, following San Francisco, Madrid, Barcelona, Chicago, and Sydney.",
+    "url": "https://x.com/HappyRobot/status/2060389972562370677",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot on X: \"It all starts with agents - the core of the ... It all starts with agents - the core of the HappyRobot platform. Agents handle coordination and communication across complex workflows and earn operational context with every interaction.",
+    "url": "https://x.com/HappyRobot/status/2061852826847048185",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot (@HappyRobot) / X Join us to change how work gets done. HappyRobot helps enterprises put agents to work in complex environments.",
+    "url": "https://x.com/happyrobot",
+    "pass": 3
+   },
+   {
+    "quote": "Happy Robot (DemuLab) (@HappyRobot_206) / Posts / X May 11, 2023 · Happy Robot (DemuLab) (@HappyRobot_206) - Posts - 金沢工業大学 ロボティクス学科 出村研究室 Happy Robot の公式アカウントです。 日々の開発や研究室の雰囲気、大会のことなどを発信しています。 | X (formerly Twitter)",
+    "url": "https://x.com/HappyRobot_206",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot on X: \"We've officially opened our New York City ... May 29, 2026 · If you're interested in being an early member of our NYC team, check out our open positions: careers.happyrobot.ai This is our sixth office, following San Francisco, Madrid, Barcelona, Chicago, and Sydney.",
+    "url": "https://x.com/HappyRobot/status/2060389972562370677",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "HappyRobot - LinkedIn HappyRobot helps enterprises like DHL & Naturgy put agents to work in complex environments. Agents are autonomous AI workers capable of communication and coordination.",
+    "url": "https://www.linkedin.com/company/happyrobot/",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot - LinkedIn HappyRobot | This is the platform to put agents to work. Starting by building and deploying them into the real world, Where they are continuously evaluated against benchmarks.",
+    "url": "https://www.linkedin.com/products/happyrobot/",
+    "pass": 3
+   },
+   {
+    "quote": "HappyRobot - LinkedIn HappyRobot | 51,867 followers on LinkedIn. Putting agents to work | HappyRobot helps enterprises like DHL & Naturgy put agents to work in complex environments. Agents are autonomous AI...",
+    "url": "https://gb.linkedin.com/company/happyrobot",
+    "pass": 3
+   },
+   {
+    "quote": "Mia B. - Managing Director EMEA, HappyRobot | LinkedIn Managing Director EMEA, HappyRobot · Experience: HappyRobot · Location: United Kingdom · 500+ connections on LinkedIn. View Mia B.’s profile on LinkedIn, a professional community of 1...",
+    "url": "https://uk.linkedin.com/in/mia-b-b467b610",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "happyrobot - Facebook What would be in a 'happyrobot' cocktail? Why did we never do this? Let's do it. Robot Journal : What would be in a happyrobot cocktail?",
+    "url": "https://www.facebook.com/groups/happyrobot/",
+    "pass": 3
+   },
+   {
+    "quote": "Happy Robot 快樂機器人教育中心 | Taipei - FacebookFacebook快樂機器人台北光復中心 - FacebookHappyRobot - FacebookHappyRobot - FacebookHappy Robot - Facebook Oct 22, 2026 · HappyRobot 歡迎對機器人有熱情、願意學習與挑戰的學生加入！ 🔧 機械設計與工程實作 學習機構原理、結構設計、組裝測試與持續優化。 💻 程式設計與自動控制** 培養程式邏輯、感測器應用及機器人控制能力。 Log into Facebook to connect with friends, family, and people you know. 依就近校區加入官方 LINE（一家一位代表加入即可）： 快樂機器人 📍新北蘆洲中心：@happyrobot-lu 📍台北光復中心：@happy",
+    "url": "https://www.facebook.com/HappyRobotLu/",
+    "pass": 3
+   },
+   {
+    "quote": "快樂機器人台北光復中心 - FacebookHappyRobot - FacebookHappyRobot - FacebookHappy Robot - Facebook 依就近校區加入官方 LINE（一家一位代表加入即可）： 快樂機器人 📍新北蘆洲中心：@happyrobot-lu 📍台北光復中心：@happyrobotkf 3. 加入後回傳「已填單＋孩子中文姓名」，專人將依 序為您確認體驗時段！ Sep 18, 2025 · HappyRobot. 230 likes. Be ENTERTAINED and Be AMAZED to all of our featured Animals here in #PLUGtv About this group HoppsyRobot 28w · Public 0 reactions Join group Jul 19, 2018 · Hap",
+    "url": "https://www.facebook.com/happyrobot88888/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.happyrobot.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/industries/airlines",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/industries/insurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/industries/telecom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/functions/finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/functions/hr-recruiting",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.happyrobot.ai/_next/image?url=https%3A%2F%2Fhappyrobot.b-cdn.net%2FCustomers_CMA_logo_01-3.png%3F2026-10-13T23%253A43%253A10.894Z&w=3840&q=100",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.happyrobot.ai/_next/image?url=https%3A%2F%2Fhappyrobot.b-cdn.net%2FCustomers_DHL_logo_01-1.png%3F2026-10-13T09%253A44%253A42.894Z&w=3840&q=100",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.happyrobot.ai/_next/image?url=%2Fimages%2Fcareers%2Flogos%2Fapple.png&w=3840&q=75&dpl=dpl_Ev93S3yvo3Axe3eYH89d1AEgxYna",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.happyrobot.ai/_next/image?url=%2Fimages%2Fcareers%2Flogos%2Fuber.png&w=3840&q=75&dpl=dpl_Ev93S3yvo3Axe3eYH89d1AEgxYna",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.happyrobot.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aipicks.jp/tool/happyrobot#japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdocomo-v.com/portfolio/happyrobot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aipicks.jp/tool/happyrobot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jidounten-lab.com/w_autonomous-temi-ai-robot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyjpn.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happinet.co.jp/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/blog/announcing-our-partnership-with-tokio-marine",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://happyjapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyjpn.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/happyrobot/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/customer-story/dhl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/happyrobot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databricks.com/blog/introducing-new-databricks-partner-program-and-well-architected-framework-isvs-and-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/happyrobot",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/happyrobot-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/520081-48",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/279386-11",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tyomu_it_fin/n/nc3fd5ad6ce5a?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tyomu_it_fin/n/nc3fd5ad6ce5a",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tomohiro2866/n/ncd91abcb2905",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tomohiro2866/n/n8713c542b561",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/happyrobot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HappyRobot/status/2078886928112558116",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HappyRobot/status/2060389972562370677",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HappyRobot/status/2061852826847048185",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/happyrobot/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/happyrobot/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://gb.linkedin.com/company/happyrobot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/mia-b-b467b610",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/happyrobot/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HappyRobotLu/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/happyrobot88888/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/happyrobot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HappyRobot_206",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HappyRobot/status/2060389972562370677",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Happyrobot 日本 導入",
+   "results": [
+    "https://www.happyrobot.ai/",
+    "https://aipicks.jp/tool/happyrobot/japanese",
+    "https://www.nttdocomo-v.com/portfolio/happyrobot/",
+    "https://aipicks.jp/tool/happyrobot",
+    "https://eeai.tv/tools/happyrobot",
+    "https://hapi-robo.com/",
+    "https://www.hope-robot.com/zh/cases/japan"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Happyrobot 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://jidounten-lab.com/w_autonomous-temi-ai-robot",
+    "https://www.happyrobot.ai/",
+    "https://www.happyjpn.com/en/",
+    "https://www.happinet.co.jp/english/",
+    "https://maymobility.com/ja",
+    "https://www.jll.com/ja-jp/about-jll/japan-information",
+    "https://www.ipsen.com/japan/会社/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Happyrobot Japan",
+   "results": [
+    "https://www.happyrobot.ai/blog/announcing-our-partnership-with-tokio-marine",
+    "https://happyjapan.com/",
+    "https://www.happyjpn.com/en/",
+    "https://www.happyrobot.ai/",
+    "https://www.nttdocomo-v.com/portfolio/happyrobot/",
+    "https://hapi-robo.com/",
+    "https://hapi-robo.com/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Happyrobot manufacturing customer case study",
+   "results": [
+    "https://www.happyrobot.ai/customers",
+    "https://www.featuredcustomers.com/vendor/happyrobot/case-studies",
+    "https://www.happyrobot.ai/customer-story/dhl",
+    "https://www.casestudies.com/company/happyrobot",
+    "https://www.happyrobots.com/resources/case-studies",
+    "https://www.casestudies.com/company/plative/case-study/happyrobot-cuts-10-15-minutes-of-contract-busywork-with-plative",
+    "https://www.ledgerup.ai/case-studies/happyrobot"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Happyrobot white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.seoreseller.com/",
+    "https://www.databricks.com/blog/introducing-new-databricks-partner-program-and-well-architected-framework-isvs-and-data",
+    "https://www.youtube.com/@resellerrevenue",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/digitalexperience/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Happyrobot founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/happyrobot",
+    "https://prospeo.io/c/happyrobot-revenue",
+    "https://pitchbook.com/profiles/company/520081-48",
+    "https://pitchbook.com/profiles/company/279386-11",
+    "https://tracxn.com/d/companies/happyrobot/__tpvjXC1ztQVCcmwI5nABkYY6mAzlVf0z6lPp3kO-tjk",
+    "https://getlatka.com/companies/happyrobot.ai",
+    "https://fundediq.co/happyrobot-happyrobot-ai-funding/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Happyrobot",
+   "results": [
+    "https://note.com/tyomu_it_fin/n/nc3fd5ad6ce5a?hl=en",
+    "https://note.com/tyomu_it_fin/n/nc3fd5ad6ce5a",
+    "https://note.com/tomohiro2866/n/ncd91abcb2905",
+    "https://note.com/tomohiro2866/n/n8713c542b561",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/cute_willet990/n/n9529041a97d7",
+    "https://note.com/rakbil/n/n16a0b62cd206"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Happyrobot",
+   "results": [
+    "https://x.com/happyrobot",
+    "https://x.com/HappyRobot/status/2078886928112558116",
+    "https://x.com/HappyRobot/status/2060389972562370677",
+    "https://x.com/HappyRobot/status/2061852826847048185",
+    "https://x.com/HappyRobot/status/2089794458393190674",
+    "https://x.com/HappyRobot/status/2065147510658834588",
+    "https://x.com/HappyRobot/status/2064798241393344574"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Happyrobot",
+   "results": [
+    "https://www.linkedin.com/company/happyrobot/",
+    "https://www.linkedin.com/products/happyrobot/",
+    "https://gb.linkedin.com/company/happyrobot",
+    "https://uk.linkedin.com/in/mia-b-b467b610",
+    "https://mx.linkedin.com/in/andrés-gutiérrez-a7049416a",
+    "https://es.linkedin.com/in/carlos-becker-robles",
+    "https://mx.linkedin.com/in/gabriel-magun-galicot-2a53911a9"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Happyrobot",
+   "results": [
+    "https://www.facebook.com/groups/happyrobot/",
+    "https://www.facebook.com/HappyRobotLu/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/happyrobot88888/",
+    "https://www.facebook.com/HappyRobot.2023/",
+    "https://www.facebook.com/groups/happyrobotreview/",
+    "https://www.facebook.com/happyrobotagency/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Happyrobot note 社長",
+   "results": [
+    "https://www.happyrobot.ai/",
+    "https://www.nttdocomo-v.com/portfolio/happyrobot/",
+    "https://www.theofficialboard.com/org-chart/happyrobot-2",
+    "https://www.happyrobot.ai/company/about",
+    "https://www.linkedin.com/in/aquilino-peña",
+    "https://hapi-robo.com/",
+    "https://hapi-robo.com/about/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Happyrobot X 投稿",
+   "results": [
+    "https://x.com/happyrobot",
+    "https://x.com/HappyRobot_206",
+    "https://x.com/HappyRobot/status/2060389972562370677",
+    "https://www.happyrobot.net/version10/default.asp",
+    "https://x.com/HappyRobot/status/2065147510658834588",
+    "https://www.happyrobot.ai/",
+    "https://x.com/HappyRobot/status/2089794458393190674"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部42頁・検索12回）"
+ }
+}

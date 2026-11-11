@@ -1,0 +1,577 @@
+{
+ "name": "城北冶金工業株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T19:48:47.950496+00:00",
+ "official_url": "https://johokuyakin.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "宇山　慶昌",
+    "url": "https://johokuyakin.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "6名(2019年6月現在)",
+    "url": "https://johokuyakin.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "歯科用合金、工業用合金の製造・販売。",
+    "url": "https://johokuyakin.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "創業より積み重ねてきた確かな技術と品質により、ベストな製品をお届けします",
+    "url": "https://johokuyakin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "溶解技術を応用した、工業用合金製品の製造依頼も承っております",
+    "url": "https://johokuyakin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "歯科用金属のパイオニア 城北冶金工業株式会社 | 歯科用金属製品",
+    "url": "https://johokuyakin.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "歯科用貴金属製品に関するページは、歯科医療関係者の方を対象として作成されたものです",
+    "url": "https://johokuyakin.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では電子機器、半導体等電子部品薄膜用のスパッタリングターゲット等、合金の工業製品の製造(溶解・圧延・加工)も行っております",
+    "url": "https://johokuyakin.co.jp/industrial-product/",
+    "pass": 1
+   },
+   {
+    "quote": "城北冶金工業の製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2081355/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(2)",
+    "url": "https://mono.ipros.com/company/detail/2081355/category/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社では電子機器、半導体等電子部品薄膜用のスパッタリングターゲット等、合金の工業製品の製造(溶解・圧延・加工)も行っております",
+    "url": "https://mono.ipros.com/company/detail/2081355/category/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社では電子機器、半導体等電子部品薄膜用のスパッタリングターゲット等、合金の工業製品の製造(溶解・圧延・加工)も行っております",
+    "url": "https://mono.ipros.com/product/detail/2000460839/",
+    "pass": 3
+   },
+   {
+    "quote": "オーダーを受けてから、お客様のご要望を丁寧に反映した製品を製造いたします",
+    "url": "https://mono.ipros.com/product/detail/2000460839/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧 (2)",
+    "url": "https://mono.ipros.com/product/detail/2000460839/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "歯科用金属のパイオニア 城北冶金工業株式会社 | LP",
+    "url": "https://johokuyakin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "宇山合金株式会社として医療用具製造会社をはじめました",
+    "url": "https://johokuyakin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "歯科用金属のパイオニア 城北冶金工業株式会社 | 企業情報",
+    "url": "https://johokuyakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和33年に歯科医療器具製造・販売業として宇山合金株式会社を設立、後に城北冶金工業株式会社に社名を変え、変わらぬ製法と確かな技術で歯科金属業界に従事して参りました",
+    "url": "https://johokuyakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "朝霞工場を新築、医療用具製造業の許可を取得",
+    "url": "https://johokuyakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "歯科用合金、工業用合金の製造・販売",
+    "url": "https://johokuyakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "歯科用金属のパイオニア 城北冶金工業株式会社 | 歯科用金属製品",
+    "url": "https://johokuyakin.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "歯科用貴金属製品に関するページは、歯科医療関係者の方を対象として作成されたものです",
+    "url": "https://johokuyakin.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では電子機器、半導体等電子部品薄膜用のスパッタリングターゲット等、合金の工業製品の製造(溶解・圧延・加工)も行っております",
+    "url": "https://johokuyakin.co.jp/industrial-product/",
+    "pass": 1
+   },
+   {
+    "quote": "@⑯ 陶材焼付用貴金属 (歯科メタルセラミック修復用貴金属材料)",
+    "url": "https://johokuyakin.co.jp/wp-content/uploads/2019/12/product_characteristics_list.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "@ 白金加金合金 (歯科鋳造用金合金) (歯科鋳造用低カラット金合金)",
+    "url": "https://johokuyakin.co.jp/wp-content/uploads/2019/12/product_characteristics_list.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "弊社では電子機器、半導体等電子部品薄膜用のスパッタリングターゲット等、合金の工業製品の製造(溶解・圧延・加工)も行っております",
+    "url": "https://mono.ipros.com/company/detail/2081355/category/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社では電子機器、半導体等電子部品薄膜用のスパッタリングターゲット等、合金の工業製品の製造(溶解・圧延・加工)も行っております",
+    "url": "https://mono.ipros.com/product/detail/2000460839/",
+    "pass": 3
+   },
+   {
+    "quote": "昭和33年に歯科医療器具製造・販売業として宇山合金株式会社を設立、後に城北冶金工業株式会社に社名を変え、変わらぬ製法と確かな技術で歯科金属業界に従事して参りました",
+    "url": "https://mono.ipros.com/product/detail/2000460839/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "細かな対応も可能であり、 研究用や試作用など小ロットからの製造も承っております",
+    "url": "https://johokuyakin.co.jp/industrial-product/",
+    "pass": 1
+   },
+   {
+    "quote": "工業用以外にも研究用の実験依頼や小ロットの試作依頼なども柔軟に対応させて頂きます",
+    "url": "https://johokuyakin.co.jp/wp-content/uploads/2019/11/johoku_industrial_alloy.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "工業用以外にも研究用の実験依頼や小ロットの試作依頼なども柔軟に対応させて頂きます",
+    "url": "https://mono.ipros.com/company/detail/2081355/category/",
+    "pass": 3
+   },
+   {
+    "quote": "細かな対応も可能であり、 研究用や試作用など小ロットからの製造も承っております",
+    "url": "https://mono.ipros.com/company/detail/2081355/category/",
+    "pass": 3
+   },
+   {
+    "quote": "細かな対応も可能であり、 研究用や試作用など小ロットからの製造も承っております",
+    "url": "https://mono.ipros.com/product/detail/2000460839/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "@⑯ 陶材焼付用貴金属 (歯科メタルセラミック修復用貴金属材料)",
+    "url": "https://johokuyakin.co.jp/wp-content/uploads/2019/12/product_characteristics_list.pdf",
+    "pass": 2
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "po Pes Skt ae zane 2.8mm X 1.5m am 1.3mm 2.0mm x es 1.6mm x 1.3mm",
+    "url": "https://johokuyakin.co.jp/wp-content/uploads/2019/12/product_characteristics_list.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "⑨キング 18 8 MR (AT YL AMM )",
+    "url": "https://johokuyakin.co.jp/wp-content/uploads/2019/12/product_characteristics_list.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "城北冶金工業株式会社 ターゲット等の製造依頼 | 城北冶金工業株式会... — 工業用合金製造弊社では電子機器、半導体等電子部品薄膜用のスパッタリングターゲット等、合金の工業製品の製造 (溶解・圧延・加工)も行っております。 細かな対応も可能であり、 研究用や試作用など小ロットからの製造も承っております。角ターゲット、チップ、その他形状ご依頼に応じ ...",
+    "url": "https://johokuyakin.co.jp/industrial-product/",
+    "pass": 3
+   },
+   {
+    "quote": "城北冶金工業の製品・サービス一覧｜イプロスものづくり — Aug 2, 2019 · 城北冶金工業では各種工業用の合金の製造も承っております。 1~4 元各種合金の豊富な実績で、ご要望にお応えいたします。 工業用以外にも研究用の実験依頼や小ロットの試作依頼なども柔軟に対応させて頂きます。 合金",
+    "url": "https://mono.ipros.com/company/detail/2081355/category/",
+    "pass": 3
+   },
+   {
+    "quote": "工業用合金スパッタリングターゲット、インゴット 城北冶金工業 | イ... — 創業60年、確かな技術 弊社では電子機器、半導体等電子部品薄膜用のスパッタリングターゲット等、合金の工業製品の製造 (溶解・圧延・加工)も行っております。 細かな対応も可能であり、 研究用や試作用など小ロットからの製造も承っております。",
+    "url": "https://mono.ipros.com/product/detail/2000460839/",
+    "pass": 3
+   },
+   {
+    "quote": "歯科用金属のパイオニア 城北冶金工業株式会社 | 企業情報城北工業株式会社公式サイト – 城北工業はトータルサプライヤーのNo1...城北冶金工業株式会社（埼玉県）の会社概要・役員 | Compalyze会社概要 – 城北工業株式会社城北冶金工業株式会社（埼玉県朝霞市） 概要 - 企業情報城北冶金工業株式会社 (埼玉県朝霞市)の企業情報|カイシャリサーチ — 創業60年。今までもこれからも、確かな技術で。 昭和33年に歯科医療器具製造・販売業として宇山合金株式会社を設立、後に城北冶金工業株式会社に社名を変え、変わらぬ製法と確かな技術で歯科金属業界に従事して参りました。 城北工業株式会社はISO9001及びISO14001を取得し、企業活動と地球環境との調和の為、持続可能な社会に向け品質向上と環境意識を高める教育を行ってまいりました。 〒351-0014 埼玉県朝霞市に本社を置く城北冶金工業",
+    "url": "https://johokuyakin.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "城北工業株式会社公式サイト – 城北工業はトータルサプライヤーのNo1...城北冶金工業株式会社（埼玉県）の会社概要・役員 | Compalyze会社概要 – 城北工業株式会社城北冶金工業株式会社（埼玉県朝霞市） 概要 - 企業情報城北冶金工業株式会社 (埼玉県朝霞市)の企業情報|カイシャリサーチ — 城北工業株式会社はISO9001及びISO14001を取得し、企業活動と地球環境との調和の為、持続可能な社会に向け品質向上と環境意識を高める教育を行ってまいりました。 〒351-0014 埼玉県朝霞市に本社を置く城北冶金工業株式会社の企業情報。城北冶金工業株式会社は、歯科用合金を中心に、工業用合金の製造・販売も手掛ける金属材料メーカーである。製造業 (医薬品・医療機器)、1958年設立、社会保険被保険者数7名。代表者 宇山慶昌。役員1名・登記1件。 昭和37年3月 事業の拡大に伴い有限会社城",
+    "url": "https://www.jyohoku.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "城北冶金工業株式会社（埼玉県）の会社概要・役員 | Compalyze — 〒351-0014 埼玉県朝霞市に本社を置く城北冶金工業株式会社の企業情報。城北冶金工業株式会社は、歯科用合金を中心に、工業用合金の製造・販売も手掛ける金属材料メーカーである。製造業 (医薬品・医療機器)、1958年設立、社会保険被保険者数7名。代表者 宇山慶昌。役員1名・登記1件。",
+    "url": "https://compalyze.co.jp/company/9030001044828",
+    "pass": 3
+   },
+   {
+    "quote": "城北冶金工業株式会社（埼玉県朝霞市） 概要 - 企業情報 — Oct 5, 2015 · 城北冶金工業株式会社 is a joint-stock company (kabushiki gaisha) with its head office in Asaka, Saitama Prefecture, Japan. The Invoice Registration Number (インボイス登録番号) can be verified on the Qualified Invoice Issuer Public Database (www.invoice-kohyo.nta.go.jp).",
+    "url": "https://data-link-plus.com/jp/corporation/9030001044828",
+    "pass": 3
+   },
+   {
+    "quote": "城北冶金工業株式会社 (埼玉県朝霞市)の企業情報|カイシャリサーチ — 法人概要 城北冶金工業株式会社の本店所在地、業種、社員数、連絡先などに関する情報です。 登記上の本店住所 〒351-0014 埼玉県朝霞市膝折町2丁目11番68号 本店所在地の地図",
+    "url": "https://kaisharesearch.com/company/detail/9030001044828/",
+    "pass": 3
+   },
+   {
+    "quote": "城北冶金工業株式会社 お問い合わせ | 城北冶金工業株式会社 — 当社へのお問い合わせにつきましては、お電話・メール・メールフォームにて承っております。 お客様から頂いた情報は、お客様への回答以外には利用いたしません。 内容によってお答えできない場合や、電子メール以外の方法でお答えさせていただく場合もございますのでご了承下さい ...",
+    "url": "https://johokuyakin.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "歯科用金属のパイオニア 城北冶金工業株式会社 | LP — 新着情報 2022年12月5日 年末年始のお知らせ 2022年3月3日 添付文章の同梱廃止と電子添文に関して 2020年3月31日 営業時間変更のお知らせ 2020年1月6日 新年の挨拶 2019年9月2日 東京デンタルショー2019に出展致します！ お気軽にお問い合わせください。",
+    "url": "https://www.johokuyakin.co.jp/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "城北冶金工業株式会社～合金の製造・販売～ (@johoku_yakin) / X 創業60年。昔ながらの町工場にて、歯科用貴金属合金、工業用合金、その他各種地金の製造・販売を行っています。技工士、歯科医の皆様のお役に立てますよう尽力致します。お気軽にお問い合わせ下さい。 (無言フォロー、すいません。。。)",
+    "url": "https://x.com/johoku_yakin",
+    "pass": 3
+   },
+   {
+    "quote": "金融緩和続行からの円安加速。庶民には厳しいし、輸入金属の卸値が下... 金融緩和続行からの円安加速。庶民には厳しいし、輸入金属の卸値が下がらない。。 #歯科金属 #パラジウム 城北冶金工業株式会社～合金の製造・販売～johoku_yakin Apr 28",
+    "url": "https://x.com/johoku_yakin/status/1519687972844544000",
+    "pass": 3
+   },
+   {
+    "quote": "もう本当にどうにかしてほしい。本当に誰一人幸せになっていない。戦... もう本当にどうにかしてほしい。本当に誰一人幸せになっていない。戦争で得られるものなんて虚構でしかないのに。 #ウクライナ侵攻 #パラジウム #歯科金属 城北冶金工業株式会社～合金の製造・販売～johoku_yakin Mar 4",
+    "url": "https://x.com/johoku_yakin/status/1499762377079676929",
+    "pass": 3
+   },
+   {
+    "quote": "どうなりますかね。メーカーとしてはとても気になるところですし、暫... どうなりますかね。メーカーとしてはとても気になるところですし、暫定的にでも現状が緩和されれば大分楽になるのですが。 【独自】銀歯に支援金? ロシア制裁で価格高騰 | FNNプライムオンライン 城北冶金工業株式会社～合金の製造・販売～johoku_yakin Apr 5",
+    "url": "https://x.com/johoku_yakin/status/1511520583611150340",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "城北冶金工業株式会社 | Asaka-shi Saitama - Facebook Aug 8, 2021 · 城北冶金工業株式会社, Asaka-shi. 4 likes. 歯科用貴金属合金、工業用合金の製造・販売を行っている城北冶金工業株",
+    "url": "https://www.facebook.com/JOHOKU.Metallargical.Industry/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 城北 - Facebook城北工業株式会社 | Itabashi-ku Tokyo - Facebook城北化学工業株式会社 - FacebookAtelier KATA - 東京デンタルショー2022の、城北冶金工業様の展示ブー...城北 HIGH Speed | Taichung - Facebook一般社団法人 朝霞青年会議所 - 朝霞青年会議所の新規正入会員のご紹... 株式会社 城北. 168 followers · 6 talking about this. あなたの街のハウスドクター 日常を少しだけ「豊かに」するお手伝いをさせて頂いております。 Aug 19, 2020 · 城北工業株式会社, Itabashi. 1 follower. ロールマスカーの製造・販売 城北化学工業株式会社 Nov 1, 2022 · 東京デンタルショー2022の、城北冶金工業様の展示ブ",
+    "url": "https://www.facebook.com/jyohoku.net/",
+    "pass": 3
+   },
+   {
+    "quote": "城北工業株式会社 | Itabashi-ku Tokyo - Facebook城北化学工業株式会社 - FacebookAtelier KATA - 東京デンタルショー2022の、城北冶金工業様の展示ブー...城北 HIGH Speed | Taichung - Facebook一般社団法人 朝霞青年会議所 - 朝霞青年会議所の新規正入会員のご紹... Aug 19, 2020 · 城北工業株式会社, Itabashi. 1 follower. ロールマスカーの製造・販売 城北化学工業株式会社 Nov 1, 2022 · 東京デンタルショー2022の、城北冶金工業様の展示ブースを設計・施工させて頂きました。 歯科金属の展示とのことで、よくあるパッケージや商品の羅列した展示ではなく、美術館の展示のように器になる展示台の純度を高め、商品が際立つような設えとしました。... Sep 16, 20",
+    "url": "https://www.facebook.com/johoku/",
+    "pass": 3
+   },
+   {
+    "quote": "Atelier KATA - 東京デンタルショー2022の、城北冶金工業様の展示ブー... Nov 1, 2022 · 東京デンタルショー2022の、城北冶金工業様の展示ブースを設計・施工させて頂きました。 歯科金属の展示とのことで、よくあるパッケージや商品の羅列した展示ではなく、美術館の展示のように器になる展示台の純度を高め、商品が際立つような設えとしました。...",
+    "url": "https://www.facebook.com/Atelier.KATA/posts/東京デンタルショー2022の城北冶金工業様の展示ブースを設計施工させて頂きました歯科金属の展示とのことでよくあるパッケージや商品の羅列した展示ではなく美術館の展/137836289008387/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://johokuyakin.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://johokuyakin.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://johokuyakin.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://johokuyakin.co.jp/industrial-product/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://johokuyakin.co.jp/wp-content/uploads/2019/12/product_characteristics_list.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://johokuyakin.co.jp/wp-content/uploads/2019/12/KING-Products-2019.11.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://johokuyakin.co.jp/wp-content/uploads/2019/11/johoku_industrial_alloy.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2081355/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2000460839/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jyohoku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/9030001044828",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://johoku-kogyo.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.johoku-e.com/contact-8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/johoku_yakin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/johoku_yakin/status/1519687972844544000",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/johoku_yakin/status/1499762377079676929",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/johoku_yakin/status/1511520583611150340",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/JOHOKU.Metallargical.Industry/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jyohoku.net/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/johoku/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Atelier.KATA/posts/東京デンタルショー2022の城北冶金工業様の展示ブースを設計施工させて頂きました歯科金属の展示とのことでよくあるパッケージや商品の羅列した展示ではなく美術館の展/137836289008387/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/JOHOKU.Metallargical.Industry/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "城北冶金工業 取扱製品 試作 小ロット",
+   "results": [
+    "https://johokuyakin.co.jp/industrial-product/",
+    "https://mono.ipros.com/company/detail/2081355/category/",
+    "https://mono.ipros.com/product/detail/2000460839/",
+    "https://www.jyohoku.co.jp/",
+    "https://morpha.co.jp/work/precision/",
+    "https://www.johokuyakin.co.jp/",
+    "https://jyouhoku.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "城北冶金工業 会社概要 事業内容",
+   "results": [
+    "https://johokuyakin.co.jp/company/",
+    "https://www.jyohoku.co.jp/",
+    "https://compalyze.co.jp/company/9030001044828",
+    "https://data-link-plus.com/jp/corporation/9030001044828",
+    "https://kaisharesearch.com/company/detail/9030001044828/",
+    "https://www.johokuyakin.co.jp/",
+    "https://johoku-kogyo.co.jp/about/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "城北冶金工業 お問い合わせ メール",
+   "results": [
+    "https://johokuyakin.co.jp/contact/",
+    "https://johoku-kogyo.co.jp/contact/",
+    "https://www.johoku-e.com/contact-8",
+    "http://johoku-kougyou.co.jp/form/index.html",
+    "https://www.johokuyakin.co.jp/",
+    "http://www.jyouhoku-kougyou.co.jp/sp/toiawase2.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "site:note.com 城北冶金工業",
+   "results": [
+    "https://note.com/tag/vm/investment_money/company-5480",
+    "https://note.com/clipcorporation/n/n95f78afe4e21",
+    "https://note.com/nekonyannko222/n/n1923b4b1c570",
+    "https://note.com/asahikigyou/n/na9d4ac54342f",
+    "https://note.com/pocoa_420/n/nb14953fa1b9f",
+    "https://note.com/pocoa_420/n/nd9e7f83e8b09",
+    "https://note.com/nextgenbuffett/n/nda7eeed955c1"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 城北冶金工業",
+   "results": [
+    "https://x.com/johoku_yakin",
+    "https://x.com/johoku_yakin/status/1519687972844544000",
+    "https://x.com/johoku_yakin/status/1499762377079676929",
+    "https://x.com/johoku_yakin/status/1511520583611150340",
+    "https://x.com/johoku_yakin/status/1513436326586032129",
+    "https://x.com/johoku_yakin/status/1512437398440800262",
+    "https://x.com/pejouhokukagaku"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 城北冶金工業",
+   "results": [
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://jp.linkedin.com/company/日本冶金工業（株）",
+    "https://www.linkedin.com/company/関東冶金工業（株）",
+    "https://www.linkedin.com/",
+    "https://ch.linkedin.com/in/fabien-lacroix-89713014",
+    "https://uk.linkedin.com/in/marie-ebert",
+    "https://jp.linkedin.com/jobs/城北化学工業㈱-jobs"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 城北冶金工業",
+   "results": [
+    "https://www.facebook.com/JOHOKU.Metallargical.Industry/",
+    "https://www.facebook.com/jyohoku.net/",
+    "https://www.facebook.com/johoku/",
+    "https://www.facebook.com/Atelier.KATA/posts/東京デンタルショー2022の城北冶金工業様の展示ブースを設計施工させて頂きました歯科金属の展示とのことでよくあるパッケージや商品の羅列した展示ではなく美術館の展/137836289008387/",
+    "https://www.facebook.com/城北化学工業株式会社-176654565792227/",
+    "https://www.facebook.com/CHBE.MOTO/",
+    "https://www.facebook.com/asakajc/posts/朝霞青年会議所の新規正入会員のご紹介です仮入会中から埼玉ブロック協議会へ出向してくれるなど仲間のために積極的に活動してくれています小栗旬似のナイスガイ城北冶金工/3506629229434302/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "城北冶金工業 note 社長",
+   "results": [
+    "https://compalyze.co.jp/company/9030001044828",
+    "https://johokuyakin.co.jp/company/",
+    "https://www.jyohoku.co.jp/",
+    "https://dt-fan.com/support-companies-2-2/johokuyakin-2/",
+    "https://www.johokuyakin.co.jp/",
+    "https://www.nyk.co.jp/about/officer.html",
+    "https://www.leaders-award.jp/2025/entrycg2zb.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "城北冶金工業 X 投稿",
+   "results": [
+    "https://www.jyohoku.co.jp/",
+    "https://www.instagram.com/love_factory_and_metal/",
+    "https://www.ibijinesu.com/城北冶金工業（株）-048-461-7576",
+    "https://www.facebook.com/JOHOKU.Metallargical.Industry/",
+    "https://x.com/johoku_yakin",
+    "https://www.johokuyakin.co.jp/",
+    "https://x.com/johoku_yakin/status/1499762377079676929"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像3件／外部15頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像3件／外部15頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式4頁／PDF・画像3件／外部15頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式4頁／PDF・画像3件／外部15頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式4頁／PDF・画像3件／外部15頁・検索9回）"
+ }
+}

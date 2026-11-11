@@ -1,0 +1,898 @@
+{
+ "name": "Nibbletechnology",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T19:11:22.585487+00:00",
+ "official_url": "https://www.nibbletechnology.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "23-Oct-2020 $300K $300K  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/470782-09",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Nibble - The AI negotiation platform for procurement",
+    "url": "https://nibbletechnology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Negotiation for Enterprise Procurement",
+    "url": "https://nibbletechnology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve a quote you’ve received or challenge renewal pricing",
+    "url": "https://nibbletechnology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Typical price improvement",
+    "url": "https://nibbletechnology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Typical price improvements of 7–10% and payment terms improved 30+ days on average.",
+    "url": "https://nibbletechnology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents go live in 4–8 weeks, starting with no integration — you prove value before you scale.",
+    "url": "https://nibbletechnology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built on 2M+ real negotiations and academic research from London Business School; does not use predictable workflows & yes/no buttons.",
+    "url": "https://nibbletechnology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The agent can never make or accept an offer outside the limits you set. Pricing logic runs outside the LLM using our deterministic model.",
+    "url": "https://nibbletechnology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recognized expertise. Enterprise-grade security.",
+    "url": "https://nibbletechnology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Academic rigour — negotiation strategy developed with Professor Niro Sivanathan, London Business School.",
+    "url": "https://nibbletechnology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Conversations with procurement leaders on what AI negotiation actually looks like in the real world.",
+    "url": "https://nibbletechnology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our deep-dive on where AI negotiation is heading in procurement.",
+    "url": "https://nibbletechnology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay up to date with AI negotiation in procurement.",
+    "url": "https://nibbletechnology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "for your procurement team?",
+    "url": "https://nibbletechnology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Each agent optimised for a different procurement use case and tailored to your data and tone of voice",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Price competition, scope alignment, service levels, delivery terms",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve a quote I received or combat renewal price increase",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "A table of 50+ suppliers including contact details and existing terms (e.g. price and payment days) to be re-negotiated",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Negotiates with every bidder at once: price, scope, service levels, delivery terms, so you see each supplier’s best offer side by side.",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "To get started you provide",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve a supplier quote & combat renewal price increases",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "A spreadsheet of suppliers, contacts and current terms",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Agree other terms with suppliers, not just price",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "We have proven experience finding where AI negotiation delivers immediate ROI.",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Match it to the problem: a renewal, a quote, an RFQ, or a list of tail-spend suppliers.",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "A spreadsheet of 10 suppliers, or 2–5 quotes. No integration needed. We use it to define your Negotiation Blueprint and agree the scope.",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Three weeks. Suppliers negotiate directly with the agent, within your limits. Track progress on the dashboard; a person steps in only where it adds value.",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Most clients add a second agent once the first is proven — asking for savings or rebates alongside payment terms, or moving to renewals, where engagement is higher because the supplier starts the conversation.",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Nibble isn’t limited to price. A supplier already in renewal discussions will often commit to other things too: confirming compliance with your standard terms, updating documentation, signing off on policy. With tail suppliers, risk avoidance can be worth as much as a discount.",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "for your procurement team?",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Nibble can support your objectives, such as saving time, saving costs, and growing profitable sales",
+    "url": "https://nibbletechnology.com/request-a-call/",
+    "pass": 1
+   },
+   {
+    "quote": "Typical price improvement",
+    "url": "https://nibbletechnology.com/request-a-call/",
+    "pass": 1
+   },
+   {
+    "quote": "Typical price improvements of 7–10% and payment terms improved 30+ days on average.",
+    "url": "https://nibbletechnology.com/request-a-call/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents go live in 4–8 weeks, starting with no integration — you prove value before you scale.",
+    "url": "https://nibbletechnology.com/request-a-call/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything we've learned about AI negotiation in procurement",
+    "url": "https://nibbletechnology.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Stay up to date with AI negotiation in procurement.",
+    "url": "https://nibbletechnology.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Our deep-dive on where AI negotiation is heading in procurement.",
+    "url": "https://nibbletechnology.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Conversations with procurement leaders on what AI negotiation actually looks like in the real world.",
+    "url": "https://nibbletechnology.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Each issue unpacks a real negotiation problem procurement teams are solving right now.",
+    "url": "https://nibbletechnology.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "We have all heard the advice a thousand times before, start with the problem you are trying to fix, not…",
+    "url": "https://nibbletechnology.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "3 key messages you missed at Konnect House Agentic AI in Procurement",
+    "url": "https://nibbletechnology.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Last week, the Nibble team attended the Konnect House “Agentic AI in Procurement” event in New York, where procurement leaders…",
+    "url": "https://nibbletechnology.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "How BT Sourced Built a Procurement Garage via a Culture of Bottom-Up Innovation",
+    "url": "https://nibbletechnology.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "BT Sourced CEO Cyril Pourrat shares how enterprise businesses can encourage AI experimentation In our newest episode of AI Negotiation…",
+    "url": "https://nibbletechnology.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Why AI Negotiation Means Procurement Will Never Be The Same",
+    "url": "https://nibbletechnology.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Why identifying what's truly important in procurement negotiation matters most – and is bot talking to bot the future of…",
+    "url": "https://nibbletechnology.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "How DS Smith Uses AI to Scale Procurement and Digital Strategy",
+    "url": "https://nibbletechnology.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Vodafone Procurement says AI is going to be transformative – but where to start?",
+    "url": "https://nibbletechnology.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Vodafone Procurement's Global Supply Chain Director & CEO, Ninian Wilson, joins us for the launch of season 2 of AI…",
+    "url": "https://nibbletechnology.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "for your procurement team?",
+    "url": "https://nibbletechnology.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Browse Procurement Software",
+    "url": "https://getlatka.com/companies/nibbletechnology.com",
+    "pass": 3
+   },
+   {
+    "quote": "Predict42",
+    "url": "https://getlatka.com/companies/nibbletechnology.com",
+    "pass": 3
+   },
+   {
+    "quote": "All Procurement Software companies, ranked",
+    "url": "https://getlatka.com/companies/nibbletechnology.com",
+    "pass": 3
+   },
+   {
+    "quote": "Natural Language Processing (NLP) Software",
+    "url": "https://getlatka.com/companies/nibbletechnology.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/nibbletechnology.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/nibbletechnology.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nibble 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/470782-09",
+    "pass": 3
+   },
+   {
+    "quote": "Build private market benchmarks to understand fund performance",
+    "url": "https://pitchbook.com/profiles/company/470782-09",
+    "pass": 3
+   },
+   {
+    "quote": "Discover comprehensive datasets",
+    "url": "https://pitchbook.com/profiles/company/470782-09",
+    "pass": 3
+   },
+   {
+    "quote": "Uncover financial data on private and public companies",
+    "url": "https://pitchbook.com/profiles/company/470782-09",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "hello@nibbletechnology.com",
+    "url": "https://nibbletechnology.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pushes back on a single quote or renewal to quickly get the best possible commercial terms. Clients tell us it saves around six emails per contract.",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom agents including: Simple NDAs, confirmation of policy compliance, basic contract checks. Nibble handles these in free text conversations with suppliers, handling FAQs and securing agreement without multiple emails back and forth.",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Where terms are uncertain at the outset, or the conversation runs over weeks, Nibble can act as a co-pilot: it handles what it can, then hands back — drafting an email for you to send, or briefing you on strategy before a call.",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us for details",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "hello@nibbletechnology.com",
+    "url": "https://nibbletechnology.com/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "hello@nibbletechnology.com",
+    "url": "https://nibbletechnology.com/request-a-call/",
+    "pass": 1
+   },
+   {
+    "quote": "hello@nibbletechnology.com",
+    "url": "https://nibbletechnology.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet our partners and contact us for future collaborations",
+    "url": "https://pitchbook.com/profiles/company/470782-09",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Resources - Nibble The Autonomous Negotiation platform — Resources - Nibble The Autonomous Negotiation platform nibbletechnology.com https://nibbletechnology.com > resour...",
+    "url": "https://nibbletechnology.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Nibble Technology - Products, Competitors, Financials ... — Nibble Technology - Products, Competitors, Financials ... CB Insights https://www.cbinsights.com > company",
+    "url": "https://www.cbinsights.com/company/nibble-technology",
+    "pass": 3
+   },
+   {
+    "quote": "Nibble - The AI negotiation platform for procurement — Nibble - The AI negotiation platform for procurement nibbletechnology.com https://nibbletechnology.com",
+    "url": "https://nibbletechnology.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Nibble Revenue 2025: $1.9M Est. - GetLatka — Nibble Revenue 2025: $1.9M Est. - GetLatka GetLatka https://getlatka.com > nibbletechnology",
+    "url": "https://getlatka.com/companies/nibbletechnology.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nibble Technology - Crunchbase Company Profile & Funding — Nibble Technology - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > nibble...",
+    "url": "https://www.crunchbase.com/organization/nibble-technology",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Nibble Revenue 2025: $1.9M Est.",
+    "url": "https://getlatka.com/companies/nibbletechnology.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nibble has not published its revenue. GetLatka estimates it at about $1.9M a year (September 2025).",
+    "url": "https://getlatka.com/companies/nibbletechnology.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nibble has 17 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/nibbletechnology.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Nibble's revenue?",
+    "url": "https://getlatka.com/companies/nibbletechnology.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Nibble's revenue at about",
+    "url": "https://getlatka.com/companies/nibbletechnology.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Nibble have?",
+    "url": "https://getlatka.com/companies/nibbletechnology.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/nibbletechnology.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/nibbletechnology.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/nibbletechnology.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/nibbletechnology.com",
+    "pass": 3
+   },
+   {
+    "quote": "PE-backed exits, IPOs, and GP-led secondaries",
+    "url": "https://pitchbook.com/profiles/company/470782-09",
+    "pass": 3
+   },
+   {
+    "quote": "Startup M&A, VC-backed IPOs, direct secondaries, and more",
+    "url": "https://pitchbook.com/profiles/company/470782-09",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/470782-09",
+    "pass": 3
+   },
+   {
+    "quote": "Nibble has 19 total employees.",
+    "url": "https://pitchbook.com/profiles/company/470782-09",
+    "pass": 3
+   },
+   {
+    "quote": "What is Nibble’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/470782-09",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Nibble is",
+    "url": "https://pitchbook.com/profiles/company/470782-09",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Follow PE and VC trends across key industrial segments",
+    "url": "https://pitchbook.com/profiles/company/470782-09",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Rosie Bailey (@thehonrosie) / Posts / X 4 unmissable insights: Promotional strategies for sustainable growth blog.nibbletechnology.com 💬 0 🔄 2 🤍 4",
+    "url": "https://x.com/thehonrosie",
+    "pass": 3
+   },
+   {
+    "quote": "Leonida Alfieri (@LeonidaAlfieri) / Posts / X The guide to Make an Offer buttons on the world's biggest marketplaces blog.nibbletechnology.com",
+    "url": "https://x.com/LeonidaAlfieri",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "How Nibble's AI helps procurement teams negotiate ... - LinkedIn How Nibble's AI helps procurement teams negotiate ... - LinkedIn LinkedIn https://www.linkedin.com > posts > nibbletechnology_ima...",
+    "url": "https://www.linkedin.com/posts/nibbletechnology_imagine-being-able-to-drag-and-drop-any-quote-activity-7353046711679840257-Zpde",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://nibbletechnology.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nibbletechnology.com/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nibbletechnology.com/request-a-call/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160144/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idtechproducts.com/ja/company/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nxp.jp/support/sample-and-buy/distributor-network:DISTRIBUTORS",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://products.sint.co.jp/siob/price/distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ute.com/jp/partner/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nibbletechnology.com/resources/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/nibbletechnology",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=H0pofImAc14",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vItueWqBbEJhGDwyDDACnZnskxtjbUETnaoE-KXD7HMNrw5mm1B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hpe.com/us/en/customer-case-studies.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://nibbletechnology.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tryleverage.ai/case-study-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/nibbletechnology.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/nibble-technology",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/470782-09",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://gaps.com/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/thehonrosie",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LeonidaAlfieri",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/nibbletechnology_imagine-being-able-to-drag-and-drop-any-quote-activity-7353046711679840257-Zpde",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Nibbletechnology 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160144/",
+    "https://www.chiba-tv.com/plus/detail/2026112187872",
+    "https://newswitch.jp/p/50724",
+    "https://www.youtube.com/watch?v=m9nvPNb7cwQ",
+    "https://global.nissannews.com/ja-JP/channels/technology-en?sortOrder=PublishedDescending&selectedTabId=channel-9ccb5b04e23dc4bd9255e677d10067e9-releases",
+    "https://jp.linkedin.com/company/nibbletechnology",
+    "https://nibbletechnology.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Nibbletechnology 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://idtechproducts.com/ja/company/distributors/",
+    "https://www.nxp.jp/support/sample-and-buy/distributor-network:DISTRIBUTORS",
+    "https://products.sint.co.jp/siob/price/distributor",
+    "https://www.ute.com/jp/partner/business",
+    "https://metoree.com/companies/272/distributors/",
+    "https://www.servants.co.jp/company/business/",
+    "https://dairitenboshu.com/search/category_1",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8130",
+    "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nibbletechnology Japan",
+   "results": [
+    "https://nibbletechnology.com/resources/",
+    "https://uk.linkedin.com/company/nibbletechnology",
+    "https://www.youtube.com/watch?v=H0pofImAc14",
+    "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
+    "https://www.cbinsights.com/company/nibble-technology",
+    "https://www.youtube.com/watch?v=faJgWWiwXSA",
+    "https://www.nibl.tech/",
+    "https://www.wsj.com/tech/a-critical-ai-niche-is-dominated-by-one-little-known-japanese-company-d9101853",
+    "https://sg.news.yahoo.com/nail-hammering-drilling-japan-robots-080856620.html",
+    "https://jp.linkedin.com/company/nibbletechnology"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Nibbletechnology manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vItueWqBbEJhGDwyDDACnZnskxtjbUETnaoE-KXD7HMNrw5mm1B",
+    "https://www.hpe.com/us/en/customer-case-studies.html",
+    "https://nibbletechnology.com/",
+    "https://tryleverage.ai/case-study-manufacturing",
+    "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "https://prototypingsolutions.com/case-studies/",
+    "https://hiflylabs.com/case-study/aluminum-manufacturer",
+    "https://www.twinthread.com/success-stories"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Nibbletechnology white label OR reseller OR partner program",
+   "results": [
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://customgpt.ai/white-label-software-to-resell/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://unidatalab.com/white-label-ai-partnership/",
+    "https://www.robofy.ai/blog/top-13-saas-reseller-programs-to-increase-your-revenue",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nibbletechnology founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/nibbletechnology.com",
+    "https://www.crunchbase.com/organization/nibble-technology",
+    "https://pitchbook.com/profiles/company/470782-09",
+    "https://gaps.com/finance/",
+    "https://uk.linkedin.com/company/nibbletechnology",
+    "https://newmarketpitch.com/blogs/news/ai-education-top-revenue",
+    "https://tracxn.com/d/companies/nibble/__gJrbHgq2kQh56Zzeulhwvge6ivHflkoLFLsmgQWv3nU",
+    "https://wwd.com/sourcing-journal/industry-news/nibble-technology-hagglebot-chatbot-generative-ai-asos-overconsumption-discounts-1238838815/",
+    "https://americanentrepreneurship.com/news/funding-news/",
+    "https://getlatka.com/companies/nibbletechnology.com/customers"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Nibbletechnology",
+   "results": [
+    "https://note.com/pei_umapro",
+    "https://note.com/dashboard",
+    "https://note.com/spaceygoblin/n/n0f0677188638",
+    "https://note.com/cute_willet990/n/n9529041a97d7",
+    "https://note.com/modern_ferret431/n/n37965c97c3d3",
+    "https://note.com/uzuuzu10/n/n1152029328f2?hl=en",
+    "https://note.com/snake_dragon/n/n254a25936d00"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Nibbletechnology",
+   "results": [
+    "https://x.com/thehonrosie",
+    "https://x.com/LeonidaAlfieri",
+    "https://x.com/soulespretty/status/2118788767880253654",
+    "https://x.com/NibbleBitTweets",
+    "https://x.com/Nibble_Finance",
+    "https://x.com/nibbleafrica",
+    "https://x.com/DaveTradesAll/status/2109378935989366886"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Nibbletechnology",
+   "results": [
+    "https://uk.linkedin.com/company/nibbletechnology",
+    "https://www.linkedin.com/posts/nibbletechnology_imagine-being-able-to-drag-and-drop-any-quote-activity-7353046711679840257-Zpde",
+    "https://www.linkedin.com/posts/nibbletechnology_how-can-procurement-teams-use-nibbles-ai-activity-7391429028878000128-YOjT",
+    "https://uk.linkedin.com/in/rosiebailey1",
+    "https://www.linkedin.com/posts/ibrahimennali_ai-in-procurement-becomes-useful-when-it-activity-7509220063808266240-6sEm",
+    "https://in.linkedin.com/company/nibblesoftwaretechnologies",
+    "https://uk.linkedin.com/in/jamieettedgui",
+    "https://www.linkedin.com/posts/norrin_the-analytical-writing-and-validating-ai-activity-7506211621581705217-ksib",
+    "https://ca.linkedin.com/in/loicfourniller",
+    "https://www.linkedin.com/company/nibbleconnects"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Nibbletechnology",
+   "results": [
+    "https://www.facebook.com/NibbleSoftwareTechnologies/",
+    "https://www.facebook.com/NibbleTI/",
+    "https://www.facebook.com/nibblecomputersociety/",
+    "https://www.facebook.com/nimbletech/",
+    "https://www.facebook.com/nibblecs/",
+    "https://www.facebook.com/NibbleTechnology/",
+    "https://www.facebook.com/p/Nibble-DataTech-61572638927975/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nibbletechnology note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://note.com/sadaaki",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://note.com/wooway",
+    "https://in.linkedin.com/in/njha48"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nibbletechnology X 投稿",
+   "results": [
+    "https://x.com/technology",
+    "https://www.nibl.tech/",
+    "https://www.youtube.com/watch?v=P3xsjzBm5ug",
+    "https://nvd.nist.gov/vuln/detail/CVE-2015-6967",
+    "https://xnibble.com/",
+    "https://par.nsf.gov/biblio/10329995",
+    "http://twitter.com/nibble_ds",
+    "https://www.youtube.com/watch?v=Q5onv1UOPQ0",
+    "https://www.rapid7.com/db/modules/exploit/multi/http/nibbleblog_file_upload/",
+    "https://jp.linkedin.com/company/nibbletechnology"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

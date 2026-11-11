@@ -1,0 +1,1167 @@
+{
+ "name": "Taxgpt",
+ "aliases": [],
+ "context": "旧営業リスト｜Financial Software｜未接触",
+ "researched_at": "2026-11-11T19:02:20.272519+00:00",
+ "official_url": "https://www.taxgpt.com",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金モデル",
+    "value": "無料トライアル",
+    "url": "https://creati.ai/ja/ai-tools/taxgpt/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI Tax Assistant for Accountants & Tax Professionals | TaxGPT",
+    "url": "https://www.taxgpt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents that run your firm's workflows across tax preparation, bookkeeping, payroll, advisory, audit, and more. You direct. They execute inside the tools you already use.",
+    "url": "https://www.taxgpt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every workflow in TaxGPT Cowork is built to take something off your plate and put finished work in your review queue. Tax preparation, bookkeeping, tax planning, R&D credit analysis, K-1 production, and more. Your team gets capacity back without adding headcount.",
+    "url": "https://www.taxgpt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cowork agents utilize your existing tax and practice management software and pull documents from connected storage. Your firm stays the system of record. Nothing to replace, nothing to relearn.",
+    "url": "https://www.taxgpt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Move faster without compromising trust",
+    "url": "https://www.taxgpt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automation shouldn't come at the cost of security. TaxGPT is SOC 2 Type II certified with automatic PII redaction and encryption on all client data. Agents operate on your data to complete their workflow and never use it for training.",
+    "url": "https://www.taxgpt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your complete client intelligence system. Store documents, track entity relationships, and maintain filing history. TaxGPT uses this context to deliver research and recommendations tailored to each client's specific tax profile.",
+    "url": "https://www.taxgpt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Track individuals, businesses, partnerships, and trusts with linked entity profiles. Visualize ownership structures, related entities, and complex relationships in one comprehensive view.",
+    "url": "https://www.taxgpt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "All tax returns, financial statements, K-1s, and engagement letters in one searchable system. Find documents instantly by client, year, type, or search the actual content inside files.",
+    "url": "https://www.taxgpt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agent Andrew is an AI-powered audit and review tool that analyzes prepared tax documents, including the 1040, 1065, 1120, 1120-S, and more. It generates a detailed, downloadable report with actionable insights, highlighting key findings using three color-coded flags.",
+    "url": "https://www.taxgpt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Green flags are designed to uncover tax savings, such as absent home office deductions, retirement contributions, depreciation elections, and other common strategies.",
+    "url": "https://www.taxgpt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cleared flags represent resolved or rejected red & green flags. These items require no further action and support.",
+    "url": "https://www.taxgpt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We're SOC 2 Type II certified. All client tax documents are protected with enterprise-grade encryption on AWS and Azure infrastructure, ensuring your data stays secure.",
+    "url": "https://www.taxgpt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This tool is providing invaluable assistance as I work with clients who have numerous questions. I always strive to offer top-tier support, and this tool is going to be a tremendous help.",
+    "url": "https://www.taxgpt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I love TaxGPT! As a solo practitioner in the last few months I have had it, it has saved so much of my time! Time you can’t get back…. Best investment ever other than my software!",
+    "url": "https://www.taxgpt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Loved by 80,000+ tax professionals and businesses",
+    "url": "https://www.taxgpt.com/",
+    "pass": 1
+   },
+   {
+    "quote": "TaxGPT Pricing | AI Tax Assistant for Accountants & Tax Professionals",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Plans that scale with your practice",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security across all plans",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For solo practitioners ready to bring AI into their daily tax workflow.",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Self-Guided Onboarding",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For growing practices that need more capacity and a full AI workflow.",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro, plus",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White Glove Onboarding",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For larger practices with custom security, deployment, and support needs.",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro Plus, plus",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority Feature Access",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-Grade Security",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything your practice runs on",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A persistent memory of every client's entities, filing history, and prior-year positions.",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "An AI agent that prepares the partner-level return inside the tax software you already use.",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Assign dedicated agents to workflows your firm runs manually - tax prep, bookkeeping, and more.",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade data protection",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "This tool is providing invaluable assistance as I work with clients who have numerous questions. I always strive to offer top-tier support, and this tool is going to be a tremendous help.",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "I love TaxGPT! As a solo practitioner in the last few months I have had it, it has saved so much of my time! Time you can’t get back…. Best investment ever other than my software!",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Loved by 80,000+ tax professionals and businesses",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How does TaxGPT pricing work?",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Each plan is tailored to your practice — your team size, the number of clients you serve, and the capabilities you need. Book a demo, and we’ll show you the platform on your own workflows and point you to the plan that fits.",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What’s the difference between Pro and Pro Plus?",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pro gives solo practitioners and small teams the full AI tax copilot: Research, Writer, Document Analysis, Matrix, Client Intelligence, and Agent Andrew review. Pro Plus adds TaxGPT Cowork agentic workflows and the AI Tax Preparation agent for firms ready to automate end-to-end work.",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, on every plan. TaxGPT is SOC 2 Type II certified with automatic PII redaction and encryption, hosted on AWS and Azure with US-based data processing. Access is role-based, every action is logged, and we never use your data to train our models.",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Marketing Officer",
+    "url": "https://www.taxgpt.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "SEO & Content Manager",
+    "url": "https://www.taxgpt.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Social Media Marketer",
+    "url": "https://www.taxgpt.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "At TaxGPT, everyone takes ownership of high-impact projects and features.",
+    "url": "https://www.taxgpt.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our philosophy is simple — hire a team of diverse, passionate people and foster a culture that empowers you to do your best work.",
+    "url": "https://www.taxgpt.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Development Representative (SDR)",
+    "url": "https://www.taxgpt.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We’re looking for a hungry, curious, and disciplined Sales Development Representative to help us reach the next wave of accounting firms, tax professionals, and finance teams across North America. As an SDR at TaxGPT, you’ll be the first human touchpoint for many of our future customers — researching accounts, making calls, and booking qualified meetings that drive real revenue.",
+    "url": "https://www.taxgpt.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Help us scale world-class customer support at the intersection of AI and tax intelligence. You'll be both operator and builder—delivering exceptional customer experiences while designing the automated systems and processes that enable us to serve thousands of firms efficiently.",
+    "url": "https://www.taxgpt.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Support Representative",
+    "url": "https://www.taxgpt.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We’re looking for a proactive, curious, and detail-oriented Customer Support Representative to help us deliver an exceptional experience to accounting firms, tax professionals, and finance teams using TaxGPT.",
+    "url": "https://www.taxgpt.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We’re looking for a customer-embedded tax professional who can turn TaxGPT into production-ready workflows inside accounting firms: someone who speaks fluent tax, redesigns how work gets done, and feeds what they learn straight back into product.",
+    "url": "https://www.taxgpt.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are seeking an Executive Assistant to support both our Chief Marketing Officer and Chief Revenue Officer. This is a shared role for someone who is operationally minded and thrives on keeping two busy executives organized, focused, and moving forward.",
+    "url": "https://www.taxgpt.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Data security is our top priority",
+    "url": "https://www.taxgpt.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Data security is a critical part of the tax profession. At TaxGPT, we understand the critical importance of protecting your sensitive information. This page outlines the security measures we have in place to ensure that your data remains secure, confidential, and encrypted at all times.",
+    "url": "https://www.taxgpt.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "We use state-of-the-art cybersecurity measures to prevent data breaches and unauthorized access.",
+    "url": "https://www.taxgpt.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Industry-standard protections",
+    "url": "https://www.taxgpt.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "All data is encrypted both in transit and at rest using AES-256 encryption protocols.",
+    "url": "https://www.taxgpt.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Data privacy policies",
+    "url": "https://www.taxgpt.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike other AI models, TaxGPT maintains a clear and unwavering policy to protect your data. Users do not need to opt out of data training as we do not engage in such practices.",
+    "url": "https://www.taxgpt.com/security",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by industry partners and customers like...",
+    "url": "https://www.taxgpt.com/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Draft memos, IRS correspondence, and client emails",
+    "url": "https://www.taxgpt.com/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.taxgpt.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We’re looking for a hungry, curious, and disciplined Sales Development Representative to help us reach the next wave of accounting firms, tax professionals, and finance teams across North America. As an SDR at TaxGPT, you’ll be the first human touchpoint for many of our future customers — researching accounts, making calls, and booking qualified meetings that drive real revenue.",
+    "url": "https://www.taxgpt.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Finance & Revenue Operations Lead",
+    "url": "https://www.taxgpt.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are looking for a Finance & Revenue Operations Lead to own the systems, data, and rhythm behind TaxGPT's revenue engine. We have grown fast on a motion that combines sales-led and self-serve, supported by a fast-scaling team.",
+    "url": "https://www.taxgpt.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are seeking an Executive Assistant to support both our Chief Marketing Officer and Chief Revenue Officer. This is a shared role for someone who is operationally minded and thrives on keeping two busy executives organized, focused, and moving forward.",
+    "url": "https://www.taxgpt.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of a team that values transparency, growth, and collaboration.",
+    "url": "https://www.taxgpt.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Data security is a critical part of the tax profession. At TaxGPT, we understand the critical importance of protecting your sensitive information. This page outlines the security measures we have in place to ensure that your data remains secure, confidential, and encrypted at all times.",
+    "url": "https://www.taxgpt.com/security",
+    "pass": 1
+   },
+   {
+    "quote": "TaxGPT Revenue 2025: $1.7M Est.",
+    "url": "https://getlatka.com/companies/taxgpt.com",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPT has not published its revenue. GetLatka estimates it at about $1.7M a year (September 2025).",
+    "url": "https://getlatka.com/companies/taxgpt.com",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPT CEO, founders & employees",
+    "url": "https://getlatka.com/companies/taxgpt.com",
+    "pass": 3
+   },
+   {
+    "quote": "Kashif Ali founded TaxGPT in 2023 and runs it as CEO. TaxGPT had 2–15 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/taxgpt.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is TaxGPT's revenue?",
+    "url": "https://getlatka.com/companies/taxgpt.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates TaxGPT's revenue at about",
+    "url": "https://getlatka.com/companies/taxgpt.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does TaxGPT have?",
+    "url": "https://getlatka.com/companies/taxgpt.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/taxgpt.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/taxgpt.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/taxgpt.com",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "税務申告の完全自動化を目指す「TaxGPT」の動向と、日本における専門業務AIの現在地 – グローバルAIメディア",
+    "url": "http://global-ai.jp/20260328-taxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "自律型AI時代における倫理とガバナンスの行方――グローバルな警告と日本企業への示唆",
+    "url": "http://global-ai.jp/20260328-taxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "自律型AIの台頭が迫る「組織の権限モデル」の再設計と日本企業への示唆",
+    "url": "http://global-ai.jp/20260328-taxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "「AI賛美へのブーイング」から学ぶ、日本企業におけるAI導入と組織の温度差",
+    "url": "http://global-ai.jp/20260328-taxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "Uberの事例に学ぶ、AI投資の「踊り場」と日本企業が直面するROIの壁",
+    "url": "http://global-ai.jp/20260328-taxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "「危険すぎるAI」の非公開化が意味するもの：制限付きAI時代に日本企業はどう備えるべきか",
+    "url": "http://global-ai.jp/20260328-taxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "税務申告の完全自動化を目指す「TaxGPT」の動向と、日本における専門業務AIの現在地",
+    "url": "http://global-ai.jp/20260328-taxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、この動向を起点に、経理や法務といった高度な専門領域におけるAI活用の可能性と、日本特有の法規制・商習慣を踏まえた実務的な課題について解説します",
+    "url": "http://global-ai.jp/20260328-taxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の法規制・商習慣における壁と現実的なアプローチ",
+    "url": "http://global-ai.jp/20260328-taxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "このAIエージェントの潮流を日本国内に持ち込む場合、考慮すべき特有の壁が存在します",
+    "url": "http://global-ai.jp/20260328-taxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、税理士資格を持たない者（あるいはAIシステムそのもの）が、有償・無償を問わず個別の税務相談に応じたり、税務申告書を作成したりすることは法律で固く禁じられています",
+    "url": "http://global-ai.jp/20260328-taxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "また、インボイス制度や電子帳簿保存法といった日本独自の複雑な制度、毎年のように行われる税制改正への対応も必要です",
+    "url": "http://global-ai.jp/20260328-taxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、日本企業が税務・会計領域でAIを活用する際の現実的なアプローチは、AIを「専門家を完全に代替する自律システム」としてではなく、「専門家の判断を支援する強力なアシスタント」として位置づけることです",
+    "url": "http://global-ai.jp/20260328-taxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPTのようなAIエージェントの動向から、日本企業は以下の3つの視点で実務への示唆を得ることができます",
+    "url": "http://global-ai.jp/20260328-taxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "汎用的なAIモデルをそのまま使うのではなく、自社の過去の業務データや社内規程、日本の最新法令を読み込ませ、特定領域に特化した精度を担保する仕組み（RAGなどの技術）への投資が競争力に直結します",
+    "url": "http://global-ai.jp/20260328-taxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPT タックスジーピーティーとは 米国税法の調べもののAI｜使い方・料金・日本語対応",
+    "url": "https://eeai.tv/tools/taxgpt",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPTの日本語対応は確認できていません",
+    "url": "https://eeai.tv/tools/taxgpt",
+    "pass": 3
+   },
+   {
+    "quote": "完全自動化を目指す税務AI「TaxGPT」から読み解く、自律型AIエージェントの可能性と日本企業の実務的課題 – グローバルAIメディア",
+    "url": "https://global-ai.jp/20260328-aitaxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "自律型AI時代における倫理とガバナンスの行方――グローバルな警告と日本企業への示唆",
+    "url": "https://global-ai.jp/20260328-aitaxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "自律型AIの台頭が迫る「組織の権限モデル」の再設計と日本企業への示唆",
+    "url": "https://global-ai.jp/20260328-aitaxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "「AI賛美へのブーイング」から学ぶ、日本企業におけるAI導入と組織の温度差",
+    "url": "https://global-ai.jp/20260328-aitaxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "Uberの事例に学ぶ、AI投資の「踊り場」と日本企業が直面するROIの壁",
+    "url": "https://global-ai.jp/20260328-aitaxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "「危険すぎるAI」の非公開化が意味するもの：制限付きAI時代に日本企業はどう備えるべきか",
+    "url": "https://global-ai.jp/20260328-aitaxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "完全自動化を目指す税務AI「TaxGPT」から読み解く、自律型AIエージェントの可能性と日本企業の実務的課題",
+    "url": "https://global-ai.jp/20260328-aitaxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の法規制や組織文化を踏まえ、企業がどのようにAIと協調し、リスクを管理しながら業務効率化を進めるべきか、実務的な視点で解説します",
+    "url": "https://global-ai.jp/20260328-aitaxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPTのようなエンドツーエンド（端から端まで）の自動化アプローチは、日本企業にとっても、経理・財務部門の慢性的な人材不足の解消や、決算期の過重労働を軽減する上で非常に魅力的なコンセプトです",
+    "url": "https://global-ai.jp/20260328-aitaxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の法規制・商習慣に照らした課題と「Human-in-the-loop」",
+    "url": "https://global-ai.jp/20260328-aitaxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内でこのような自律型AIを業務に導入・展開する際には、技術的な側面だけでなく、日本の複雑な税制や頻繁な法改正にどう追従するかという課題があります",
+    "url": "https://global-ai.jp/20260328-aitaxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、日本企業が現実的にAIを業務プロセスに組み込む上では、完全な無人化を急ぐのではなく、「Human-in-the-loop（人間の介在）」を前提としたシステム設計が求められます",
+    "url": "https://global-ai.jp/20260328-aitaxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "AIが帳票の読み取り、データの構造化、申告書のドラフト作成までを高速かつ網羅的に行い、最終的な内容の監査や例外処理に関する意思決定は専門知識を持つ人間が担うという「AIと人間の協調モデル」が、日本特有の組織文化や高い品質要求に最も適したアプローチと言えます",
+    "url": "https://global-ai.jp/20260328-aitaxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業がこの潮流を実務に取り入れ、安全に生産性を高めるための要点と示唆を以下に整理します",
+    "url": "https://global-ai.jp/20260328-aitaxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "技術の進化による利便性を享受しつつ、コンプライアンスと品質を担保する仕組みを整えることこそが、日本企業が持続可能なAI活用を実現するための最大の鍵となります",
+    "url": "https://global-ai.jp/20260328-aitaxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の税制にどこまで対応しているかも不明瞭で、海外向けの前提が混じります",
+    "url": "https://my-best.ai/taxgpt-review-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "AIツールの料金・機能・使い方を、日本語で比較・解説する情報メディアです",
+    "url": "https://my-best.ai/taxgpt-review-2026/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "税務申告の完全自動化を目指す「TaxGPT」の動向と、日本における専門... — Mar 28, 2026 · 海外メディアで報じられた「TaxGPT」は、まさにその象徴的な事例であり、税務申告（Tax Return）プロセスの全体をAIエージェントによって完了させることを目指しています。",
+    "url": "http://global-ai.jp/20260328-taxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPT タックスジーピーティーとは 税務申告の入力ミス防止のAI｜使... — TaxGPTは、こうした負担の大きい業務を正確に進めるために、複数の機能を用意しています。 具体的には、税法に関する質問に対して、税法の条文や裁判例、国税庁の通知などの正式な情報源から答えを引き出し、その根拠も一緒に示します。",
+    "url": "https://eeai.tv/tools/taxgpt",
+    "pass": 3
+   },
+   {
+    "quote": "完全自動化を目指す税務AI「TaxGPT」から読み解く、自律型AIエージェ... — Mar 28, 2026 · TaxGPTのようなエンドツーエンド（端から端まで）の自動化アプローチは、日本企業にとっても、経理・財務部門の慢性的な人材不足の解消や、決算期の過重労働を軽減する上で非常に魅力的なコンセプトです。",
+    "url": "https://global-ai.jp/20260328-aitaxgptai/",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPTを使ったレビュー【2026年】税務の疑問をAIに聞く前に — Sep 7, 2026 · TaxGPTは、税務の質問に答えるAIサービスです。 1週間、一般的な疑問をいくつか投げて試しました。 調べ始めの取っかかりとしては、悪くない手応えでした。 使える場面 制度の概要、用語の意味、手続きの流れ。",
+    "url": "https://my-best.ai/taxgpt-review-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPT:税理士・企業向けに税務リサーチ、文書作成、ドキュメント管理... — 製品概要 TaxGPTとは？ TaxGPTは税理士、公認会計士、企業向けに設計された先進的なAIプラットフォームで、複雑な税務コンプライアンスやリサーチ業務を簡素化します。",
+    "url": "https://moge.ai/ja/product/taxgpt",
+    "pass": 3
+   },
+   {
+    "quote": "What is TaxGPT — Executive Summary TaxGPT, trusted by 80,000+ active users including CPAs, enrolled agents, tax attorneys, and preparers, is the complete AI Tax Operating System purpose-built for tax, accounting, and advisory firms. Users have asked over 650,000 tax questions through the platform. Built on proprietary AI models trained on thousands of authoritative sources vetted by CPAs and tax a",
+    "url": "https://www.taxgpt.com/what-is-taxgpt",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPT Pricing | AI Tax Assistant for Accountants & Tax ... — Alongside our plans for tax and accounting firms, TaxGPT offers AI tax assistants for both businesses and individuals. If you're an individual looking for help with your personal taxes, you can sign up here and use TaxGPT Research to get answers to your questions.",
+    "url": "https://www.taxgpt.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPT：手間いらずの税務アシスタント | Creati.ai — TaxGPTは、個人、企業、税務専門家のために税の申告を簡素化し、税関連の質問に答えるAI駆動の税務アシスタントです。 広範な税法のデータベースを備えたTaxGPTは、正確でパーソナライズされた税務インサイトを提供します。",
+    "url": "https://creati.ai/ja/ai-tools/taxgpt/",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPTを使ったレビュー【2026年】税務の疑問をAIに聞く前に — Sep 7, 2026 · TaxGPTは、税務の質問に答えるAIサービスです。 1週間、一般的な疑問をいくつか投げて試しました。 調べ始めの取っかかりとしては、悪くない手応えでした。 使える場面 制度の概要、用語の意味、手続きの流れ。 こうした「どこを読めばいいか」を知りたい場面で役立ちます。",
+    "url": "https://my-best.ai/taxgpt-review-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPT Customer Stories - YouTube — Accounting firms, CPAs, and enrolled agents talk about how TaxGPT fits into their practice, in their own words. These are the people doing the work: research...",
+    "url": "https://www.youtube.com/playlist?list=PLEK-mmq93TL0",
+    "pass": 3
+   },
+   {
+    "quote": "AI Tax Assistant for Accountants & Tax Professionals | TaxGPT — Ask any federal, state, or local tax questions and receive detailed, cited responses in seconds. Every answer pulls directly from the IRC, Treasury Regulations, court cases, and official IRS guidance. Learn more. Generate client-ready tax memos, IRS notice responses, and engagement letters instantly.",
+    "url": "https://www.taxgpt.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Tax Research Software for Tax Professionals | TaxGPT — Ask any federal, state, or cross-border tax question. TaxGPT reasons through the IRC, Treasury Regulations, court cases, and the tax codes of all 50 states, then returns a cited answer in seconds, cutting research time by up to 99%.",
+    "url": "https://www.taxgpt.com/ai-tax-research",
+    "pass": 3
+   },
+   {
+    "quote": "Home | Help Center | TaxGPT — Questions? Getting started TaxGPT getting started guide for accountants 35 articles",
+    "url": "https://support.taxgpt.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPT Customers - CB Insights — See why customers chose TaxGPT's products and services. TaxGPT's customers include RightWorks, Mountain West Accounting, and Ascent Tax Advisers. RightWorks was a Internet/Internet Software & Services company based in San Jose, California. RightWorks was acquired in 2000.",
+    "url": "https://www.cbinsights.com/company/taxgpt/customers",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPT 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for TaxGPT. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/528396-76",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPT – Competitor List & Expansion Signals – 2026 — Discover TaxGPT's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/taxgpt",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPT Revenue 2025: $1.7M Est. - getlatka.com — Oct 30, 2026 · TaxGPT is a Tax Practice Management Software company based in San Francisco, founded in 2023.",
+    "url": "https://getlatka.com/companies/taxgpt.com",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPT - 2026 Company Profile, Funding & Investors | The ... — Oct 15, 2026 · TaxGPT has successfully raised a total of $5.22M across 3 strategic funding rounds. The most recent funding activity was a Series A round of $4.6 million completed in February 2025.",
+    "url": "https://www.thecompanycheck.com/company/b/taxgpt/4otwc9psyainon308",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPT - 2026 Company Profile, Funding & Competitors - TracxnTaxGPT - Overview, News & Similar companies | ZoomInfo.comTaxGPT - 2026 Company Profile, Funding & Competitors - Tracxn — Mar 7, 2026 · TaxGPT - About the company TaxGPT is a series A company based in San Francisco (United States), founded in 2023. It operates as a Provider of AI-powered tools for tax research, analysis, and client manag",
+    "url": "https://tracxn.com/d/companies/taxgpt/__lw6fX2T6LucT6DtTUyXFDIgjXMCiUTf_WMP4VDQIADQ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "TaxGPT (@AskTaxGPT) / X TaxGPT is hitting the road, and our first stop is Atlanta. On August 13, tax professionals are gathering for a full day of hands-on training, real conversation, and a look at what's next for the modern firm.",
+    "url": "https://x.com/asktaxgpt",
+    "pass": 3
+   },
+   {
+    "quote": "Mr. Joseph (@TaxGPT) / Posts / X Aug 30, 2012 · Mr. Joseph (@TaxGPT) - Posts - Providing exit liquidity since 2023. | X (formerly Twitter)",
+    "url": "https://x.com/TaxGPT",
+    "pass": 3
+   },
+   {
+    "quote": "\"#TaxGPT\" - Results on X | Live Posts & Updates TaxGPT — Canada’s AI tax chatbot TaxGPT is a friendly AI chatbot who helps Canadians with tax-filing questions.",
+    "url": "https://x.com/hashtag/TaxGPT",
+    "pass": 3
+   },
+   {
+    "quote": "Kash from TaxGPT.com (@ChKashifAli) / Posts / X Oct 15, 2011 · Apr 14 Doesn't matter if you file your taxes via Turbotax, Claude, or Perplexity; there will be costly mistakes. Use TaxGPT to review your tax returns for free. Maximize your deductions and avoid audits. 💬 15",
+    "url": "https://x.com/chkashifali",
+    "pass": 3
+   },
+   {
+    "quote": "TaxGPT (@AskTaxGPT) / X Ignacio uses TaxGPT as exactly that: another instrument in the firm’s toolkit for research, and for answers he can take straight back to clients. “It sort of feels like having a big brother in the room when you’re doing tax returns and trying to get deliverables out to client.”",
+    "url": "https://x.com/asktaxgpt",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "TaxGPT - LinkedIn TaxGPT is an AI operating system for tax, accounting, and advisory firms, automating tax preparation, research, document analysis, memos, and client management to boost productivity up to 10x.",
+    "url": "https://www.linkedin.com/company/taxgpt",
+    "pass": 3
+   },
+   {
+    "quote": "Kashif Ali - Building AI Tax Assistant for Everyone @ TaxGPT ...Alex R. - GTM at TaxGPT (YC ‘24) | LinkedInTaxBotGPT - LinkedInNoel Coleman - TaxGPT | LinkedInIsabella Maceda-Ali - TaxGPT | LinkedInPatrick Crowley - AI Tax Consultant / TaxGPT / YC S24 | LinkedIn As the Chief Executive Officer of TaxGPT, I lead the vision and strategy of a startup that automates tax filing using artificial intellig",
+    "url": "https://www.linkedin.com/in/chkashifali",
+    "pass": 3
+   },
+   {
+    "quote": "Alex R. - GTM at TaxGPT (YC ‘24) | LinkedInTaxBotGPT - LinkedInNoel Coleman - TaxGPT | LinkedInIsabella Maceda-Ali - TaxGPT | LinkedInPatrick Crowley - AI Tax Consultant / TaxGPT / YC S24 | LinkedIn GTM at TaxGPT (YC ‘24) · I’ve had experience working in sales and software development in startup, corporate and freelance environments in SaaS, finance and energy industries. TaxBotGPT | 279 followers",
+    "url": "https://ca.linkedin.com/in/alexosenberg1",
+    "pass": 3
+   },
+   {
+    "quote": "Kashif Ali - Building AI Tax Assistant for Everyone @ TaxGPT ...noteの歴代社長 - the-shashi.comTaxGPT CEO, Founder, Key Executive Team, Board of Directors ...Home | Help Center | TaxGPT As the Chief Executive Officer of TaxGPT, I lead the vision and strategy of a startup that automates tax filing using artificial intelligence and natural language processing. Oct 26, 2026 · 加藤貞顕 氏は2000年4月に アスキー 、2005年9月",
+    "url": "https://www.linkedin.com/in/chkashifali",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Taxgpt - Facebook Oct 19, 2026 · TaxGPT was built to take repetitive work off your plate so you can spend more time on review, judgment, strategy, and client conversations. If October is going to be busy, at least the busywork doesn’t all have to be yours.",
+    "url": "https://www.facebook.com/p/Taxgpt-100094529918148/",
+    "pass": 3
+   },
+   {
+    "quote": "Taxgpt - FacebookТатварын хөнгөлөлт чөлөөлөлт - FacebookTaxgpt.uae - FacebookTaxgpt - You get yet another tax question from a client ...Tax Pro Support | Would you use TaxGPT for tax preparation ...Taxgpt - Turn a stack of client documents into a partner ... TaxGPT delivers reviewer-ready returns where every line is mapped, every position is cited, and every flag is surfaced before the file is ope",
+    "url": "https://www.facebook.com/taxgpt-100094529918148/",
+    "pass": 3
+   },
+   {
+    "quote": "Татварын хөнгөлөлт чөлөөлөлт - Facebook Монголын анхны AI татварын зөвлөх 🇲🇳 Хуулиас хайх хэрэггүй — асуултаа TaxGPT-ээс шууд асуугаарай. Хүчин төгөлдөр татварын хууль, дүрэмд үндэслэн дунджаар 3 секундэд хариулна. taxgpt.mn",
+    "url": "https://www.facebook.com/TaxGPT/",
+    "pass": 3
+   },
+   {
+    "quote": "Taxgpt.uae - Facebook Jun 21, 2026 · Taxgpt.uae. 1,278 likes · 15 talking about this. Your AI tax assistant for accurate calculations, personalized advice, and stress-free tax season....",
+    "url": "https://www.facebook.com/61571529231588/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.taxgpt.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taxgpt.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taxgpt.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taxgpt.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.taxgpt.com/security",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "http://global-ai.jp/20260328-taxgptai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eeai.tv/tools/taxgpt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global-ai.jp/20260328-aitaxgptai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://my-best.ai/taxgpt-review-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gaishikei.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eeai.tv/tools/taxgpt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creati.ai/ja/ai-tools/taxgpt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japantaxcalculator.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/playlist?list=PLEK-mmq93TL0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://support.taxgpt.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.microsoft.com/en-US/partnership/partner-benefits-guide",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.microsoft.com/en-us/explore",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/528396-76",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/taxgpt",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/taxgpt.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/taxgpt/4otwc9psyainon308",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/asktaxgpt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TaxGPT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/TaxGPT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/chkashifali",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/taxgpt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/chkashifali",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/alexosenberg1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Taxgpt-100094529918148/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/taxgpt-100094529918148/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TaxGPT/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61571529231588/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/chkashifali",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/asktaxgpt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TaxGPT",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Taxgpt 日本 導入",
+   "results": [
+    "http://global-ai.jp/20260328-taxgptai/",
+    "https://eeai.tv/tools/taxgpt",
+    "https://global-ai.jp/20260328-aitaxgptai/",
+    "https://my-best.ai/taxgpt-review-2026/",
+    "https://moge.ai/ja/product/taxgpt",
+    "https://toolin.ai/ja/tools/taxgpt",
+    "https://www.kaikei-ai.jp/daily/2026-03-27/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taxgpt 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.taxgpt.com/what-is-taxgpt",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://www.gaishikei.net/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.taxnihongo.com/",
+    "https://ja.nozominetworks.com/company"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taxgpt Japan",
+   "results": [
+    "https://www.taxgpt.com/pricing",
+    "https://eeai.tv/tools/taxgpt",
+    "https://creati.ai/ja/ai-tools/taxgpt/",
+    "https://www.japantaxcalculator.jp/",
+    "https://my-best.ai/taxgpt-review-2026/",
+    "https://toolin.ai/ja/tools/taxgpt",
+    "https://www.taxgpt.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taxgpt manufacturing customer case study",
+   "results": [
+    "https://www.youtube.com/playlist?list=PLEK-mmq93TL0",
+    "https://www.taxgpt.com/",
+    "https://www.taxgpt.com/ai-tax-research",
+    "https://support.taxgpt.com/en/",
+    "https://www.cbinsights.com/company/taxgpt/customers",
+    "https://www.youtube.com/watch?v=fOKEun_kNGw",
+    "https://support.taxgpt.com/en/articles/10108650-how-to-use-taxgpt-research"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taxgpt white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partner.microsoft.com/en-US/partnership/partner-benefits-guide",
+    "https://partner.microsoft.com/en-us/explore",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taxgpt founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/528396-76",
+    "https://compworth.com/company/taxgpt",
+    "https://getlatka.com/companies/taxgpt.com",
+    "https://www.thecompanycheck.com/company/b/taxgpt/4otwc9psyainon308",
+    "https://tracxn.com/d/companies/taxgpt/__lw6fX2T6LucT6DtTUyXFDIgjXMCiUTf_WMP4VDQIADQ",
+    "https://www.zoominfo.com/c/taxgpt-inc/1326963092",
+    "https://tracxn.com/d/companies/taxgpt/__2QkOaGoerYLjycAZo5BcpkaNtxyutoSopWcAGU4Y8m0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Taxgpt",
+   "results": [
+    "https://note.com/_creative_wolf_/n/nab923408b5a9?hl=en",
+    "https://note.com/o_ob/n/ne417553bda58?hl=en",
+    "https://note.com/nice_dahlia4188/n/n305c2271e3ad?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/nekonote_ai_lab/n/n2fa6a96dca09?hl=en",
+    "https://note.com/truth_wave/n/n220ba26168c3?hl=en",
+    "https://note.com/truth_wave/n/nf7fb8e64a75e?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Taxgpt",
+   "results": [
+    "https://x.com/asktaxgpt",
+    "https://x.com/TaxGPT",
+    "https://x.com/hashtag/TaxGPT",
+    "https://x.com/chkashifali",
+    "https://x.com/taxgptai",
+    "https://x.com/AskTaxGPT/status/2031802825886613538",
+    "https://x.com/AskTaxGPT/status/2074597810272428131"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Taxgpt",
+   "results": [
+    "https://www.linkedin.com/company/taxgpt",
+    "https://www.linkedin.com/in/chkashifali",
+    "https://ca.linkedin.com/in/alexosenberg1",
+    "https://in.linkedin.com/company/tax-bot-gpt",
+    "https://www.linkedin.com/in/noelcoleman",
+    "https://www.linkedin.com/in/imaceda",
+    "https://www.linkedin.com/in/patrickjamescrowley"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Taxgpt",
+   "results": [
+    "https://www.facebook.com/p/Taxgpt-100094529918148/",
+    "https://www.facebook.com/taxgpt-100094529918148/",
+    "https://www.facebook.com/TaxGPT/",
+    "https://www.facebook.com/61571529231588/",
+    "https://www.facebook.com/100094529918148/posts/366310713196590/",
+    "https://www.facebook.com/groups/2344722262507201/posts/3842260509420028/",
+    "https://www.facebook.com/100094529918148/posts/turn-a-stack-of-client-documents-into-a-partner-level-1040-without-doing-the-pre/913233215171001/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taxgpt note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.taxgpt.com/",
+    "https://www.taxgpt.com/team/kashif-ali",
+    "https://www.linkedin.com/in/chkashifali",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.cbinsights.com/company/taxgpt/people",
+    "https://support.taxgpt.com/en/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Taxgpt X 投稿",
+   "results": [
+    "https://x.com/asktaxgpt",
+    "https://x.com/TaxGPT",
+    "https://www.instagram.com/asktaxgpt/",
+    "https://www.taxgpt.com/blog",
+    "https://support.taxgpt.com/en/",
+    "https://www.taxgpt.com/",
+    "https://app.taxgpt.com/login"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

@@ -1,0 +1,650 @@
+{
+ "name": "吉田工業株式会社 佐久平プラント",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T19:18:28.413244+00:00",
+ "official_url": "http://www.yoshidanet.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "【本社グリーンヒル】 アクセスはこちらから 〒384-2202 長野県佐久市望月内匠2166番地1 TEL：0267-53-2151 FAX：0267-53-5828 【佐久平プラント】 アクセスはこちらから 〒385-0021 長野県佐久市長土呂793番地13 TEL：0267-54-8371 FAX：0267-54-8372",
+    "url": "https://yoshidanet.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "【本社グリーンヒル】 アクセスはこちらから",
+    "value": "〒384-2202 長野県佐久市望月内匠2166番地1 TEL：0267-53-2151 FAX：0267-53-5828",
+    "url": "https://yoshidanet.com/company/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "海外拠点",
+    "value": "【中山吉田工业有限公司（中国工場）】 アクセスはこちらから 〒528437 中国広東省中山市火炬開発区通字路5号1楼 TEL：（+86）760-85337270 FAX：（+86）760-85338270 公式サイト 【Yoshida NPM(Thailand)Co.,Ltd.（タイ工場）】 アクセスはこちらから 〒20110 623 M.2 T.Nhong-Kham Sriracha, Chonburi Tel.+66(0)381-10361-3 Fax.+66(0)381-10361-4",
+    "url": "https://yoshidanet.com/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "254名（2025年1月1日現在）",
+    "url": "https://yoshidanet.com/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "自動車・二輪車の重要保安部品の製造 建設機械、環境、医療、くらし分野の製造、提案",
+    "url": "https://yoshidanet.com/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "吉田工業株式会社 | アルミ鋳造×切削でどんな製品もつくりあげる",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "切削・研磨と鋳造に加え、吉田工業では錆び防止や装飾性を高める自動メッキラインも導入、製品の表面処理も内製化しています",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「今まで肉厚3～4ミリが当たり前だったものが、今は2ミリを切るような製品もつくるよう、お客様からの要求があがっている",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、試作、一部量産になっている自自社技術を活かしたEV、水素燃料電池車等の製品です",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "温めたり冷やしたりするサーマルコントロールに、アルミという素材は非常に向いている、そういったアルミ製品をお客様に逆提案していきたい",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ABOUT KISSYO KISSYO（吉匠）について KISSYO（吉匠）は、吉田工業が培ってきた鋳造・加工技術を活かし、受託製造にとどまらず、自ら企画・開発した製品をお客様へ届けたいという想いを形にしたブランドです",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "足踏み式消毒スタンド「FUMIFUMI SHUSSHU」を自社製品として開発",
+    "url": "https://yoshidanet.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "新規製品の獲得をし検討したが、価格が合わず、下記のような製造上の課題がある",
+    "url": "https://yoshidanet.com/veva/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ鋳物にて過去大量に流動していた製品が需要の減少に伴い、鋳造工法では製造コストが合わなくなった",
+    "url": "https://yoshidanet.com/veva/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工職、製品検査職、品質保証職の3つを中心とした、製造パートの各役割をご紹介します",
+    "url": "https://yoshidanet.com/recruit/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "材種は、SUS，真鍮，鉄，アルミ，チタンなど多様な材種を加工できます",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "試作：チタン、インコネル、ハステロイ",
+    "url": "https://yoshidanet.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "鋳造で、パイプ形状（中空）を成形するために必要なシェル中子の元となる、砂の粒度・材質等を見直しました",
+    "url": "https://yoshidanet.com/veva/",
+    "pass": 1
+   },
+   {
+    "quote": "粒度・材質を変更することにより、下記の2点の課題がわかりました",
+    "url": "https://yoshidanet.com/veva/",
+    "pass": 1
+   },
+   {
+    "quote": "金型材質・金型形状・製造方案・製造条件の見直しを行い、性能の向上を実現しました",
+    "url": "https://yoshidanet.com/veva/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "「お客様の課題解決をするものづくり」をテーマに、開発、設計、シミュレーション、３Dプリンター、試作、鋳造、切削、熱処理、表面処理技術、各業界に適合した品質保証体制がYOSHIDAのつよみです",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "しかも開発試作から量産まで「一貫生産体制」でつくりあげる高品質部品が吉田工業のライバル企業に負けない強みになっています",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "■新展開は3Dプリンターを活用した試作品づくり",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "吉田工業は最新技術を活用し、量産だけでなく「試作品」も鋳造でつくることを可能にしました",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品に続く新たな柱を育てようと、いち早く3Dプリンターを活用した試作事業を展開",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、試作、一部量産になっている自自社技術を活かしたEV、水素燃料電池車等の製品です",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3D砂型プリンタを用いて短納期の試作にも対応しております",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "加工，鋳造共に試作から量産まで、一貫してサポートいたします",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3D砂型プリンターを導入し、試作ビジネスを主体とした事業開発グループを設立、サービスを開始",
+    "url": "https://yoshidanet.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作：チタン、インコネル、ハステロイ",
+    "url": "https://yoshidanet.com/product/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "アルミ鋳造・切削加工で自動車、建機、ロボット、医療、環境機器に貢献する吉田工業株式会社の企業PR動画です",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "切削や研磨と並ぶ、吉田工業のもう一つの強みが、溶かしたアルミを金型などに流し込む「重力鋳造」と呼ばれる鋳造技術です",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ鋳造の拠点となっている佐久平プラントでは、この春、大型ロボットラインを稼働",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品に続く新たな柱を育てようと、いち早く3Dプリンターを活用した試作事業を展開",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい技術を導入することで同じ自動車部品でも昔よりも高機能部品を手がけられるようにしていきたい」と、製造部副部長の塩原要介さん",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "■一貫生産による高品質な自動車部品をベースに新たな挑戦",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "EV化など自動車業界が大きく変化する中、社長は部品メーカーも新たな対応が迫られると話します",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "一貫生産による高品質な自動車部品をベースに、自動車以外にも加工分野を拡大するなど、吉田工業は新分野への参入に意欲を燃やします",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "また、アルミの鋳造を得意としており、砂型鋳造及び金型によるグラビティ（重力）鋳造を行っております",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "建設機械、環境、医療、くらし分野の製造、提案",
+    "url": "https://yoshidanet.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "金型材質・金型形状・製造方案・製造条件の見直しを行い、性能の向上を実現しました",
+    "url": "https://yoshidanet.com/veva/",
+    "pass": 1
+   },
+   {
+    "quote": "例①：鋳造時、シェル中子から発生するガスを、最小限にし効率よく金型外へ排出させる工夫",
+    "url": "https://yoshidanet.com/veva/",
+    "pass": 1
+   },
+   {
+    "quote": "例②：シェル中子造形時、比重の重い砂を金型の隅々まで充填させる工夫",
+    "url": "https://yoshidanet.com/veva/",
+    "pass": 1
+   },
+   {
+    "quote": "金型保管費の削減、金型の劣化に伴う修繕費用の削減が可能となりました",
+    "url": "https://yoshidanet.com/veva/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "3Dプリンタ砂型造形を使用してプランターカバーを製作しました！",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "■新展開は3Dプリンターを活用した試作品づくり",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "それが3Dプリンターによる「砂型積層」です",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品に続く新たな柱を育てようと、いち早く3Dプリンターを活用した試作事業を展開",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dデータから直接、砂型を造形することが可能になり納期やコストを大幅に短縮でるのがウリです",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ジャギの胸像は、アルミ鋳造とモルタル造形を用いて、細部まで丁寧に再現されています",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【挑戦するWell-being campany】インターンシップ募集中！/佐久市/製造業",
+    "url": "https://yoshidanet.com/",
+    "pass": 1
+   },
+   {
+    "quote": "623 M.2 T.Nhong-Kham Sriracha, Chonburi",
+    "url": "https://yoshidanet.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "623 M.2 T.Nhong-Kham",
+    "url": "https://yoshidanet.com/access/",
+    "pass": 1
+   },
+   {
+    "quote": "①シェル中子の造形性が悪化（充填性・流動性）",
+    "url": "https://yoshidanet.com/veva/",
+    "pass": 1
+   },
+   {
+    "quote": "例②：シェル中子造形時、比重の重い砂を金型の隅々まで充填させる工夫",
+    "url": "https://yoshidanet.com/veva/",
+    "pass": 1
+   },
+   {
+    "quote": "【挑戦するWell-being campany】インターンシップ募集中！/佐久市/製造業",
+    "url": "https://yoshidanet.com/recruit/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "各種勧誘、商品やサービス案内など、営業を目的としたお問い合わせではご遠慮ください",
+    "url": "https://yoshidanet.com/entry/",
+    "pass": 1
+   },
+   {
+    "quote": "本入力フォームおよびメールでご連絡頂きました、お客様の個人情報につきましては、厳重に管理を行っております",
+    "url": "https://yoshidanet.com/entry/",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "١٧٬٠٠٠ من وظائف 吉田工業株式会社 佐久平プラント〒385 0021長野県佐... تتم إضافة وظائف 吉田工業株式会社 佐久平プラント〒385 0021長野県佐久市長土呂793番地13※マイカー通勤可【雇入れ直後】上記事業所【変更の範囲】会社の定める各事業所マイナビ転職の勤務地区分では…長野県 Fax番号 جديدة يوميًا.",
+    "url": "https://sa.linkedin.com/jobs/吉田工業株式会社-佐久平プラント〒385-0021長野県佐久市長土呂793番地13※マイカー通勤可【雇入れ直後】上記事業所【変更の範囲】会社の定める各事業所マイナビ転職の勤務地区分では…長野県-fax番号-jobs?countryRedirected=1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "吉田工業 株式会社 佐久平プラント - Sākums | Facebook 吉田工業 株式会社 佐久平プラント - Sākums | Facebook Facebook https://www.facebook.com > pages > 吉田工業株式会社...",
+    "url": "https://www.facebook.com/pages/%E5%90%89%E7%94%B0%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BD%90%E4%B9%85%E5%B9%B3%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88/132619304019286?locale=lv_LV",
+    "pass": 3
+   },
+   {
+    "quote": "吉田工業 株式会社 佐久平プラント - 首頁| Facebook 吉田工業 株式会社 佐久平プラント - 首頁| Facebook Facebook https://www.facebook.com > pages > 吉田工業株式会社...",
+    "url": "https://www.facebook.com/pages/%E5%90%89%E7%94%B0%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BD%90%E4%B9%85%E5%B9%B3%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88/132619304019286?locale=zh_TW",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://yoshidanet.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshidanet.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshidanet.com/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshidanet.com/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshidanet.com/factory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshidanet.com/factory/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshidanet.com/veva/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshidanet.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshidanet.com/entry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshidanet.com/entry/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://yoshidanet.com/wp/wp-content/themes/yoshidakogyo_2024/assets/images/title/title-product.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2031952/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshidanet.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/89431/product/detail/64538/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshidanet.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp87359/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2031952/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yoshidanet.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakucci.or.jp/search/detail.php?id=334",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoshida-k.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sa.linkedin.com/jobs/吉田工業株式会社-佐久平プラント〒385-0021長野県佐久市長土呂793番地13※マイカー通勤可【雇入れ直後】上記事業所【変更の範囲】会社の定める各事業所マイナビ転職の勤務地区分では…長野県-fax番号-jobs?countryRedirected=1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E5%90%89%E7%94%B0%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BD%90%E4%B9%85%E5%B9%B3%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88/132619304019286?locale=lv_LV",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E5%90%89%E7%94%B0%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BD%90%E4%B9%85%E5%B9%B3%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88/132619304019286?locale=zh_TW",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "吉田工業 佐久平プラント 取扱製品 試作 小ロット",
+   "results": [
+    "https://mono.ipros.com/company/detail/2031952/",
+    "https://yoshidanet.com/",
+    "https://ja.nc-net.or.jp/company/89431/product/detail/64538/",
+    "https://www.youtube.com/watch?v=GICnwAUIXdc",
+    "https://www.sakucci.or.jp/search/detail.php?id=334",
+    "https://emidas-magazine.nc-net.com/news/10994/",
+    "https://injection-lab.com/download/1955-2.html",
+    "https://imono-cuttingwork.net/contents/008",
+    "https://www.naganoyoshida.co.jp/",
+    "https://www.ipros.com/company/detail/2031952/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "吉田工業 佐久平プラント 会社概要 事業内容",
+   "results": [
+    "https://yoshidanet.com/company/",
+    "https://job.mynavi.jp/27/pc/search/corp87359/outline.html",
+    "https://mono.ipros.com/company/detail/2031952/",
+    "https://www.jobs-go.jp/jobs/detail/12096",
+    "https://oikiai.jp/yoshidanet/",
+    "https://toranet.jp/viewjob/dd121b95eeb4eca1/",
+    "https://www.sakucci.or.jp/search/detail.php?id=334",
+    "https://www.shukatsu-nagano.jp/company_info/9824.html",
+    "https://jp.indeed.com/q-%E5%90%89%E7%94%B0%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E4%BD%90%E4%B9%85%E5%B9%B3%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88-%E6%B1%82%E4%BA%BA.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "吉田工業 佐久平プラント お問い合わせ メール",
+   "results": [
+    "https://yoshidanet.com/company/",
+    "https://www.sakucci.or.jp/search/detail.php?id=334",
+    "https://www.yoshida-k.com/contact/",
+    "https://yoshida-0nline.stores.jp/inquiry",
+    "https://www.yoshidakougyou-group.co.jp/contact/index.html",
+    "https://ja.nc-net.or.jp/company/89431/inquiry/",
+    "https://www.yoshida-industry.info/contact",
+    "https://yoshida-exterior.com/contact/",
+    "https://yoshidanet.com/access/",
+    "https://yoshidanet.com/contact/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 吉田工業 佐久平プラント",
+   "results": [
+    "https://note.com/aromacafeami2/n/n2749f6f8eed0",
+    "https://note.com/kobachou/n/n1142dc6e9a4b",
+    "https://note.com/clipcorporation/n/n789dfc79b761",
+    "https://note.com/cheermee/n/n6dd0ee1e8adc",
+    "https://note.com/clipcorporation/n/n91559a14cf25",
+    "https://note.com/clipcorporation/n/n2af20e536197",
+    "https://note.com/clipcorporation/n/n1c9bfdb464b5",
+    "https://note.com/clipcorporation/n/na89263303839",
+    "https://note.com/clipcorporation/n/n3ab3fac6202a",
+    "https://note.com/nob_yoshimoto/n/n5df8d4b416d9"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 吉田工業 佐久平プラント",
+   "results": [
+    "https://x.com/killxthexfat/status/2119271534493864146",
+    "https://x.com/RedRockys",
+    "https://x.com/RedRockys/status/1892855763594272818",
+    "https://x.com/yoshi_kariya",
+    "https://x.com/LtdYoshida/status/1821679028526260399",
+    "https://x.com/hashtag/吉田工業株式会社",
+    "https://x.com/karura_urc/status/2037380580493676825",
+    "https://x.com/yoshida8877",
+    "https://x.com/LtdYoshida",
+    "https://x.com/RedRockys/status/1509522821847781379"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:linkedin.com 吉田工業 佐久平プラント",
+   "results": [
+    "https://sa.linkedin.com/jobs/吉田工業株式会社-佐久平プラント〒385-0021長野県佐久市長土呂793番地13※マイカー通勤可【雇入れ直後】上記事業所【変更の範囲】会社の定める各事業所マイナビ転職の勤務地区分では…長野県-fax番号-jobs?countryRedirected=1",
+    "https://jp.linkedin.com/in/憲夫-吉田-3b274619a",
+    "https://www.linkedin.com/pub/dir/純/吉田",
+    "https://ca.linkedin.com/in/comfortafriyieregisteredpracticalnurse",
+    "https://jp.linkedin.com/in/修久-吉田-93b4173b1",
+    "https://www.linkedin.com/pulse/what-zimbabwes-factory-output-reveals-industrial-recovery-switzview-rb8af",
+    "https://cn.linkedin.com/in/masahiro-ogawa-845a92374"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 吉田工業 佐久平プラント",
+   "results": [
+    "https://www.facebook.com/132619304019286",
+    "https://www.facebook.com/pages/%E5%90%89%E7%94%B0%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BD%90%E4%B9%85%E5%B9%B3%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88/132619304019286?locale=lv_LV",
+    "https://www.facebook.com/100034802493370/videos/%E3%81%88%E3%81%A3%E3%81%93%E3%81%93%E6%9C%AC%E5%BD%93%E3%81%AB%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E9%95%B7%E9%87%8E%E7%9C%8C%E4%BD%90%E4%B9%85%E5%B8%82%E3%82%A2%E3%83%AB%E3%83%9F%E9%8B%B3%E9%80%A0%E3%82%92%E6%89%8B%E3%81%8C%E3%81%91%E3%82%8B%E5%90%89%E7%94%B0%E5%B7%A5%E6%A5%AD%E3%81%AE%E5%B7%A5%E5%A0%B4%E3%81%AE%E4%B8%AD%E3%81%AB%E3%81%BE%E3%81%95%E3%81%8B%E3%81%AE%E6%9C%AC%E6%A0%BC%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%80%E3%82%A4%E3%83%8A%E3%83%BC%E5%85%A5%E5%8F%A3%E3%81%AF%E3%81%A9%E3%81%86%E8%A6%8B%E3%81%A6%E3%82%82%E5%B7%A5%E5%A0%B4%E3%81%A7%E3%82%82%E4%B8%80%E6%AD%A9%E4%B8%AD%E3%81%B8%E5%85%A5%E3%82%8C%E3%81%B0%E3%81%9D%E3%81%93%E3%81%AB%E3%81%AF%E5%A4%96%E8%A6%B3%E3%81%8B%E3%82%89/1049712757494487/",
+    "https://www.facebook.com/pages/%E5%90%89%E7%94%B0%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%BD%90%E4%B9%85%E5%B9%B3%E3%83%97%E3%83%A9%E3%83%B3%E3%83%88/132619304019286?locale=zh_TW",
+    "https://www.facebook.com/AmericanDinerRedRocks/",
+    "https://www.facebook.com/akagishouten/videos/3237658649955616/",
+    "https://www.facebook.com/kaneyamamachi.sci/posts/%E4%BB%A4%E5%92%8C%EF%BC%94%E5%B9%B4%E5%BA%A6-%E5%A6%96%E7%B2%BE%E3%81%AE%E9%87%8C%E5%95%86%E5%93%81%E5%88%B8-%E7%AC%AC%EF%BC%92%E5%BC%BE%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E7%8E%87%EF%BC%92%EF%BC%95-%E7%99%BA%E8%A1%8C%E7%B7%8F%E9%A1%8D%EF%BC%91%E5%84%84%E5%86%86%EF%BC%99%E6%9C%88%EF%BC%91%EF%BC%92%E6%97%A5%E3%82%88%E3%82%8A%EF%BC%97%EF%BC%95%E6%AD%B3%E4%BB%A5%E4%B8%8A%E3%81%AE%E7%94%BA%E6%B0%91%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%AB%E5%A6%96%E7%B2%BE%E3%81%AE%E9%87%8C%E5%95%86%E5%93%81%E5%88%B8%E7%AC%AC%EF%BC%92%E5%BC%BE%E5%88%86%E3%82%92%E5%85%88%E8%A1%8C%E8%B2%A9%E5%A3%B2%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8A%E4%B8%80%E4%BA%BA%E6%A7%98%EF%BC%98%E4%B8%87%E5%86%86/620792046257054/",
+    "https://www.facebook.com/YoshidaIndustries/",
+    "https://www.facebook.com/吉田工業株式会社佐久平プラント-132619304019286/",
+    "https://www.facebook.com/YoshidaIndustries/posts/佐久平プラント-太陽光パネルアルミ鋳物-ロボット自動車バイク3dプリンター-cae金型砂型鋳造機械加工レースsandcastingcastingmachin/3709864292447398/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "吉田工業 佐久平プラント note 社長",
+   "results": [
+    "https://note.com/nob_yoshimoto/n/n5df8d4b416d9",
+    "https://yoshidanet.com/company/",
+    "https://note.com/hitomizutsunagu/n/n8c45689c8168",
+    "https://mono.ipros.com/company/detail/2031952/",
+    "https://www.facebook.com/yasuhiro.yoshida.9/?locale=ja_JP",
+    "https://www.sakucci.or.jp/search/detail.php?id=334",
+    "https://next.rikunabi.com/viewjob/jkdd121b95eeb4eca1/",
+    "https://www.instagram.com/reel/DdgThZTSDU0/",
+    "http://yoshidanet.com/company/",
+    "https://yoshidanet.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "吉田工業 佐久平プラント X 投稿",
+   "results": [
+    "https://yoshidanet.com/access/",
+    "https://www.youtube.com/watch?v=GICnwAUIXdc",
+    "https://x.com/LtdYoshida",
+    "https://www.sakucci.or.jp/search/detail.php?id=334",
+    "https://www.facebook.com/132619304019286",
+    "https://www.instagram.com/yoshida_kogyo/?hl=ja",
+    "https://ja.nc-net.or.jp/company/89431/product/detail/121726/",
+    "https://blog.nagano-ken.jp/saku/foods/33706.html",
+    "https://x.com/LtdYoshida/status/1821679028526260399",
+    "http://yoshidanet.com/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式10頁／PDF・画像1件／外部12頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像1件／外部12頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式10頁／PDF・画像1件／外部12頁・検索9回）"
+ }
+}

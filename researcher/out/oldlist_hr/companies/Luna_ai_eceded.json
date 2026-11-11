@@ -1,0 +1,668 @@
+{
+ "name": "Luna.ai",
+ "aliases": [],
+ "context": "旧営業リスト｜Smart Home / Security｜未接触",
+ "researched_at": "2026-11-11T18:34:44.252793+00:00",
+ "official_url": "https://luna.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "https://www.luna.ai/blog/luna-ai-becomes-utopian-labs — https://www.luna.ai/blog/luna-ai-becomes-utopian-labs luna.ai https://www.luna.ai > blog > luna-ai-b...",
+    "url": "https://www.luna.ai/blog/luna-ai-becomes-utopian-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Luna . ai - LinkedIn — Luna . ai - LinkedIn LinkedIn https://www.linkedin.com > getluna-ai",
+    "url": "https://www.linkedin.com/company/getluna-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Automate Planning, Progress Tracking and Reporting - Luna AI — Automate Planning, Progress Tracking and Reporting - Luna AI withLuna.ai https://www.withluna.ai > ai-for-prod...",
+    "url": "https://www.withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Luna . ai Funding | $600K-6.2M Revenue | Complete Analysis — Luna . ai Funding | $600K-6.2M Revenue | Complete Analysis Extruct AI https://www.extruct.ai > hub > luna-ai...",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Luna . ai Secures $2.5 Million in Pre-Seed Round — Luna . ai Secures $2.5 Million in Pre-Seed Round The SaaS News https://www.thesaasnews.com > news",
+    "url": "https://www.thesaasnews.com/news/luna-ai-secures-2-5-million-in-pre-seed-round/",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "Automate Planning, Progress Tracking and Reporting - Luna AI",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "AI for Product Teams: Automate Planning & Reporting",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Luna AI automates OKRs, roadmaps, Jira stories, and status updates, so product teams can focus on strategy and outcomes, not tracking work.",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "to spot risks and reprioritize",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Generate OKRs and product roadmaps instantly",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Scramble before each sprint to write stories and add acceptance criteria in Jira.",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Luna AI writes clear, editable stories with acceptance criteria: ready to push into the sprint.",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Summarize Jira sprints, issues & fix versions",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "You dig through Jira and Slack for updates. Reports are time-consuming and error-prone.",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Instant, structured sprint and issues summaries leveraging Jira and Slack data. No manual work.",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Accelerate Time-to-Market & Prevent Delays",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Reclaim Productive Time",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "by eliminating manual status reporting & update prep.",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "with shorter preparation and executive-ready insights.",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "AI-powered. Human-approved.",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Understand cross project status and",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Luna streamlines stakeholder alignment across various departments. It provides visibility to all stakeholders regarding ongoing activities and critical risks. Luna ultimately saves valuable time otherwise spent coordinating with multiple stakeholders.",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Luna is our launch portal, which is extremely helpful for me. A launch can be very chaotic so, having one place that I can trust and that provides the true holistic snapshot of where it is, is really important.",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Luna is a powerful visibility and alignment tool for C-levels and cross-functional stakeholders. As CEO, I can track key projects effortlessly on my customized view. And its advanced templates save my team a lot of time on project structuring and coordination.",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike task tools, Luna focuses on the overall project launch rather than just technical tickets, ensuring all users take action for successful outcomes. I love the visibility I get from Luna. It allows me to stay aligned with my team without constant reporting requests.",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Luna is the CEO's best solution for portfolio insights and risk monitoring. The platform's customizable views and proactive risk management features keep me informed and ahead of potential issues. Plus, the exceptional customer support ensures our team is always well-assisted and heard.",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Luna isn't just a tool – it's a game-changer for CEOs like me aiming to elevate their organization. Thanks to Luna I can now quickly understand what changes in a project, if the project is delayed, or if the status went to At risk, without having to ask anyone questions.",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Product Marketing Manager",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Luna solves our road mapping and milestones monitoring challenges. It streamlines our processes - previously scattered across sheets - providing real-time roadmap visibility to leadership and non-tech teams, and unifying project checkpoints in a single interface.",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Moving the product through all stages of a launch is tough, teams are not sure about the process and milestones, who to involve, what type of communication is needed. Luna brings certainty over the launch processes and helps reduce delays.",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Luna.ai is an all-in-one AI prospecting platform that leverages AI to enhance sales outreach through personalized email campaigns, lead generation, and task management. It aims to simplify the process of finding and attracting new customers by automating many aspects of sales outreach.",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Prospecting, Enrichment, Personalization, CRM Automation, Analytics",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Product Features & Capabilities",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "275 million+ verified leads, ORBIT AI sales agent, AI-powered messaging and personalization, multichannel outreach (email, LinkedIn, cold calling), task management, seamless integrations with Salesforce, Hubspot, and Pipedrive, personalized templates, automated follow-ups, behavior tracking, performance analytics, scheduling for email and LinkedIn campaigns.",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Plan: $0/month for 100 leads.",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Starter Plan: $120/month for 300 leads.",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Starter Plus: $360/month for 1,000 leads (most popular).",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Premium Plan: $825/month for 2,500 leads.",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimate Plan: $1,500/month for 5,000 leads (best value).",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Luna.ai has notable clients including MayaMaya, Sastrify, and NIE Number Fast, each achieving significant outcomes through the platform's AI-powered lead generation and outreach capabilities.",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "MayaMaya: An AI technology company in the software industry, MayaMaya utilized Luna.ai to enhance its sales process. They contacted 92 individuals, sent 160 emails, and secured 8 appointments, all at a lower cost than traditional methods. The principal, Vishwa Karthik, noted that Luna.ai's intuitive system provided high-quality leads and personalized communications, exceeding expectations.",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Sastrify: This platform manages software subscriptions and aimed to improve outreach strategies. By automating email personalization, Luna.ai helped Sastrify enhance its outreach effectiveness, resulting in a 4.5 times increase in meetings booked compared to human efforts. Sales rep Zoi Lazaris praised the platform for its non-generic and effective email suggestions.",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "NIE Number Fast: This company assists foreigners in obtaining Spanish NIE numbers and achieved 19 new partnerships with Realtors in three months using Luna.ai. They contacted 1,699 Realtors, achieving a 44.21% open rate and a 4.59% reply rate, resulting in approximately €80,000 in new business.",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Suggest edits to this profile",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "You can contact us at",
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "pass": 3
+   },
+   {
+    "quote": "Luna.ai is an all-in-one AI prospecting platform that leverages AI to enhance sales outreach through personalized email campaigns, lead generation, and task management. It aims to simplify the process of finding and attracting new customers by automating many aspects of sales outreach.",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "275 million+ verified leads, ORBIT AI sales agent, AI-powered messaging and personalization, multichannel outreach (email, LinkedIn, cold calling), task management, seamless integrations with Salesforce, Hubspot, and Pipedrive, personalized templates, automated follow-ups, behavior tracking, performance analytics, scheduling for email and LinkedIn campaigns.",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "MayaMaya: An AI technology company in the software industry, MayaMaya utilized Luna.ai to enhance its sales process. They contacted 92 individuals, sent 160 emails, and secured 8 appointments, all at a lower cost than traditional methods. The principal, Vishwa Karthik, noted that Luna.ai's intuitive system provided high-quality leads and personalized communications, exceeding expectations.",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Sastrify: This platform manages software subscriptions and aimed to improve outreach strategies. By automating email personalization, Luna.ai helped Sastrify enhance its outreach effectiveness, resulting in a 4.5 times increase in meetings booked compared to human efforts. Sales rep Zoi Lazaris praised the platform for its non-generic and effective email suggestions.",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Luna.ai Funding | $600K-6.2M Revenue | Complete Analysis | Extruct AI",
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Luna . ai - LinkedIn Luna . ai - LinkedIn LinkedIn https://www.linkedin.com > getluna-ai",
+    "url": "https://www.linkedin.com/company/getluna-ai",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://luna.ai/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000191364.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://play.google.com/store/apps/details?id=com.lunahomeai.homesecurity&hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000001_000191364/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ai-souken.com/article/what-is-luma-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000191364.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lunaaiagency.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/96651",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/2463/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000191364.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.apple.com/jp/app/luna-ai/id6511216510",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/getluna-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://trylunaai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gdit.com/capabilities/mission-solutions/digital-accelerators/luna-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20251029367852/en/Nearshore-Launches-Luna-AI-to-Help-Contract-Manufacturers-Automate-Quoting-and-Ordering",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/meet-luna-ai-tried-run-business-hired-humans-dev-inception-4rw4f",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://withluna.ai/ai-for-product-managers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.articsledge.com/post/white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investor.asuresoftware.com/news-releases/news-release-details/asure-introduces-luna-industrys-first-ai-agent-payroll-hr",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/luna",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.extruct.ai/hub/luna-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/luna/__lkTMI4Lv0bN3Hr4aJFzuTo61KM8dEqTGb0hJatQ8Jl4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ABCNews/videos/san-francisco-store-is-run-by-artificial-intelligence/1494243642344582/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/getluna-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Luna.ai 日本 導入",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000001.000191364.html",
+    "https://play.google.com/store/apps/details?id=com.lunahomeai.homesecurity&hl=ja",
+    "https://news.infoseek.co.jp/article/prtimes_000000001_000191364/",
+    "https://www.ai-souken.com/article/what-is-luma-ai",
+    "https://www.luna.ai/blog/luna-ai-becomes-utopian-labs",
+    "https://forbesjapan.com/articles/detail/96651",
+    "https://sitest.jp/blog/?p=7749",
+    "https://www.jiji.com/jc/article?k=000000001.000191364&g=prt",
+    "https://lunaix.ai/",
+    "https://lunahome.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Luna.ai 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000001.000191364.html",
+    "https://lunaaiagency.com/",
+    "https://forbesjapan.com/articles/detail/96651",
+    "https://metoree.com/companies/2463/distributors/",
+    "https://news.infoseek.co.jp/article/prtimes_000000001_000191364/",
+    "https://www.youtube.com/watch?v=g0cZ7GbeCBE",
+    "https://www.jiji.com/jc/article?k=000000001.000191364&g=prt",
+    "https://sitest.jp/blog/?p=7749",
+    "https://www.instagram.com/luna_ai_jp/",
+    "https://ja.wikipedia.org/wiki/SpaceXAI"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Luna.ai Japan",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000001.000191364.html",
+    "https://apps.apple.com/jp/app/luna-ai/id6511216510",
+    "https://www.linkedin.com/company/getluna-ai",
+    "https://trylunaai.com/",
+    "https://www.luna.ai/blog/luna-ai-becomes-utopian-labs",
+    "https://github.com/Arunachalam-gojosaturo/luna-ai",
+    "https://lunaix.ai/",
+    "https://lunaai.video/",
+    "https://luna.zhongjuai.com/app/auth/signup",
+    "https://japan-ai.co.jp/media/10406/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Luna.ai manufacturing customer case study",
+   "results": [
+    "https://www.gdit.com/capabilities/mission-solutions/digital-accelerators/luna-ai/",
+    "https://www.businesswire.com/news/home/20251029367852/en/Nearshore-Launches-Luna-AI-to-Help-Contract-Manufacturers-Automate-Quoting-and-Ordering",
+    "https://www.linkedin.com/pulse/meet-luna-ai-tried-run-business-hired-humans-dev-inception-4rw4f",
+    "https://www.withluna.ai/ai-for-product-managers",
+    "https://www.sotatek.com/blogs/ai-and-machine-learning/ai-in-manufacturing-case-study/",
+    "https://f7i.ai/case-studies",
+    "https://www.facebook.com/ABCNews/videos/san-francisco-store-is-run-by-artificial-intelligence/1494243642344582/",
+    "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "https://www.renascence.io/journal/case-studies-successful-customer-experience-cx-with-ai-implementation",
+    "https://www.lunab2b.com/cases"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Luna.ai white label OR reseller OR partner program",
+   "results": [
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://investor.asuresoftware.com/news-releases/news-release-details/asure-introduces-luna-industrys-first-ai-agent-payroll-hr",
+    "https://customgpt.ai/white-label-software-to-resell/",
+    "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "https://www.agentz.ai/partners",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://asyntai.com/white-label-solutions/",
+    "https://parallellabs.app/white-label-ai-platform/",
+    "https://lety.ai/",
+    "https://www.articsledge.com/post/ai-reseller-programs"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Luna.ai founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/luna",
+    "https://www.extruct.ai/hub/luna-ai-funding/",
+    "https://tracxn.com/d/companies/luna/__lkTMI4Lv0bN3Hr4aJFzuTo61KM8dEqTGb0hJatQ8Jl4",
+    "https://www.facebook.com/ABCNews/videos/san-francisco-store-is-run-by-artificial-intelligence/1494243642344582/",
+    "https://www.thesaasnews.com/news/luna-ai-secures-2-5-million-in-pre-seed-round/",
+    "https://getlatka.com/companies/luna.ai/vs/solar-for-schools",
+    "https://www.crunchbase.com/organization/luna-3",
+    "https://www.curiosityvc.com/post/luna-ai-secures-pre-seed-funding-to-accelerate-vision-of-building-the-ultimate-sales-ai",
+    "https://www.privco.com/company/lunaai",
+    "https://www.crunchbase.com/organization/luna-ai-9877"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Luna.ai",
+   "results": [
+    "https://note.com/money_jutsu/n/nd4306bb9efc9",
+    "https://note.com/kazu_t/n/n59a9d8383857?hl=en",
+    "https://note.com/luna3ai/n/n89c148e223f1?hl=en",
+    "https://note.com/yasuhitoo/n/n7d769dc37736",
+    "https://note.com/mbbs/n/ndffae82fa054",
+    "https://note.com/geminisayso/n/n3526974d8ea9",
+    "https://note.com/komlock_lab/n/ne580ce65a6fc",
+    "https://note.com/mbbs/n/n6038e86cb9a0",
+    "https://note.com/sane_mink364/n/n073aca1d1516?hl=en",
+    "https://note.com/collared_zill/n/ne502a70d8789"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Luna.ai",
+   "results": [
+    "https://x.com/luna_virtuals",
+    "https://x.com/i/trending/2088415990245966126",
+    "https://x.com/jpschroeder/status/2107464900792795555",
+    "https://x.com/MissDelulu9/status/2120237338295226387",
+    "https://x.com/Alphaecho207/status/2120219649409536309",
+    "https://x.com/i/article/2102748781674639866",
+    "https://x.com/LunaPRofficial/status/2117249290867519491",
+    "https://x.com/arena/status/2103210975612780824",
+    "https://x.com/kirillk_web3/article/2106429223225143454",
+    "https://x.com/heyrohitai/status/2120221396345512426"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "site:linkedin.com Luna.ai",
+   "results": [
+    "https://www.linkedin.com/company/getluna-ai",
+    "https://uk.linkedin.com/company/withluna-ai",
+    "https://www.linkedin.com/company/lunahome-ai",
+    "https://www.linkedin.com/company/lunabase-ai",
+    "https://in.linkedin.com/in/luna-ai-330512371",
+    "https://sg.linkedin.com/in/luna-ai-ctd",
+    "https://at.linkedin.com/in/steven-nelemans",
+    "https://www.linkedin.com/in/womenofai",
+    "https://www.linkedin.com/posts/sparsh-agrawal17_india-ka-ai-kaha-h-every-whatsapp-group-activity-7389139108293615616-tNKo",
+    "https://www.linkedin.com/posts/venkatraju_ai-bfsi-responsibleai-activity-7358778101335535617-hpIn"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Luna.ai",
+   "results": [
+    "https://www.facebook.com/chatwithLunaAI/",
+    "https://www.facebook.com/luna.ai.bots/",
+    "https://www.facebook.com/stevesramos01/videos/my-ai-luna-made-this-tiktok-shop-video-and-its-the-least-impressive-thing-she-do/1170395325651019/",
+    "https://www.facebook.com/p/Luna-Your-AI-Cooking-Assistant-61577040067975/",
+    "https://www.facebook.com/61591093304368/videos/-behind-the-magicthats-a-wrap-after-months-of-imagining-creating-testing-changin/2140126906542042/",
+    "https://www.facebook.com/lunabaseai/",
+    "https://www.facebook.com/thejoshandkristy/videos/comment-link-for-the-linkwaityou-can-get-the-new-luna-ai-camera-cheaper-were-tak/1646469727132391/",
+    "https://store.facebook.com/gb/glasses/",
+    "https://www.facebook.com/routenote/videos/-luna-ai-can-now-do-more-on-routenote-change-your-username-check-your-payment-de/615638997498617/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Luna.ai note 社長",
+   "results": [
+    "https://lunanotes.io/",
+    "https://note.com/money_jutsu/n/nd4306bb9efc9",
+    "https://play.google.com/store/apps/details?id=com.lunahomeai.homesecurity",
+    "https://www.youtube.com/watch?v=bZ8QF5hevDQ",
+    "https://chromewebstore.google.com/detail/lunanotes-youtube-notes-s/oehoffnnkgcdacmbkhmlbjedinpampak",
+    "https://www.withluna.ai/blog",
+    "https://prtimes.jp/main/html/rd/p/000000001.000191364.html",
+    "https://note.com/luna_utage/n/n3c9f4b3a1fd6?hl=en",
+    "https://cross-field-luna.kentakiriyama.chatgpt.site/",
+    "https://x.com/0keiji0"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Luna.ai X 投稿",
+   "results": [
+    "https://kling.ai/explore/luna_ai_video_generator",
+    "https://github.com/Arunachalam-gojosaturo/luna-ai",
+    "https://www.youtube.com/watch?v=XGLBnRxF_ts",
+    "https://x.com/luna_virtuals",
+    "https://play.google.com/store/apps/details?id=com.kanzati.lunaai",
+    "https://www.instagram.com/luna_with_ai/",
+    "https://apps.apple.com/jp/app/luna-ai/id6511216510",
+    "https://www.tiktok.com/discover/luna-ai-video",
+    "https://lunaai.video/ja",
+    "https://lunahome.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）"
+ }
+}

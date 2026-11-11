@@ -1,0 +1,797 @@
+{
+ "name": "株式会社オーヒラ",
+ "aliases": [],
+ "context": "ipros_all:少量",
+ "researched_at": "2026-11-11T18:55:23.203333+00:00",
+ "official_url": "https://ohira.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒949-7135 新潟県南魚沼市新堀新田629-961",
+    "url": "https://www.ohira.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒949-7135 南魚沼市新堀新田629-961",
+    "url": "https://www.city.minamiuonuma.niigata.jp/webkigyougaido/docs/4324.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "同上",
+    "url": "https://www.city.minamiuonuma.niigata.jp/webkigyougaido/docs/4324.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　大平 隆広",
+    "url": "https://www.ohira.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 大平 隆広",
+    "url": "https://www.city.minamiuonuma.niigata.jp/webkigyougaido/docs/4324.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "30名",
+    "url": "https://www.ohira.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "27名",
+    "url": "https://mono.ipros.com/company/detail/2049652/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "26人（男性13人、女性13人）",
+    "url": "https://www.city.minamiuonuma.niigata.jp/webkigyougaido/docs/4324.html",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "株式会社レクザム\n有限会社エル・アイ・ビー\n株式会社ジーシー\nリバーフィールド株式会社\n株式会社ノイズ研究所\n中央精機株式会社\n株式会社東京医研\n株式会社東和\nユニオン光学株式会社\n有限会社O&E\n株式会社エクシオテック\nその他　50社 (順不同・敬称略) ※医療関連及び光学・計測機器に関連した取引先が主な取引先です。",
+    "url": "https://mono.ipros.com/company/detail/2049652/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "眼科医療機器、医療機器、精密機械の設計、製造、組立",
+    "url": "https://www.city.minamiuonuma.niigata.jp/webkigyougaido/docs/4324.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "NC旋盤、マシニングセンタ、各種汎用旋盤、フライス盤、ボール盤等の加工設備による精密な金属や樹脂部品の加工を得意とし、お客様の要望にお応え致します",
+    "url": "https://www.ohira.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "精密機器の設計・開発支援、部材調達、金属・樹脂切削加工、表面処理、製品組立サポート、そして販売後の保守サービスと一貫したサービスを提供可能です",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "表面処理は、自社においては金属・樹脂塗装、パートナーにおいて、鍍金処理対応などが可能です",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "光学機器等で用いられる金属部品および樹脂部品の加工を高精度に実現可能です",
+    "url": "https://www.city.minamiuonuma.niigata.jp/webkigyougaido/docs/4324.html",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "徹底した生産管理と品質管理のもと、多品種少量で短納期化を実現し、医療用の部品等の高品質な部品の製造を挑戦し続けております",
+    "url": "https://www.ohira.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品又はユニットの設計、試作開発、量産まで行います",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "幅広い加工能力: CNC加工、汎用旋盤加工、フライス加工、マシニングセンターなど、試作品から量産品まで、様々な機器を活用して幅広い加工能力を持っています",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "○多種少量精密機器の開発・試作、製造・組立",
+    "url": "https://mono.ipros.com/company/detail/2049652/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "株式会社 オーヒラ | 新潟県の医療機器工場",
+    "url": "https://www.ohira.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "徹底した生産管理と品質管理のもと、多品種少量で短納期化を実現し、医療用の部品等の高品質な部品の製造を挑戦し続けております",
+    "url": "https://www.ohira.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "国際規格である品質マネジメントシステムISO 13485の認証取得をし、医療機器製品の製造を中心に高い品質基準で製造体制を管理しております",
+    "url": "https://www.ohira.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "現在では医療、計測、美容、健康機器等の高度な品質管理、部品加工、外観品質を要求される製品の受託製造を行うまでに至り、日々新しい分野やより高度な製品の製造に挑戦をしております",
+    "url": "https://www.ohira.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "精密な機構の医療機器の開発製造を得意としており、特に光学レーザー機器やロボティックスを利用する眼科、歯科、美容関連の分野でサービスを展開しています",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製造受託サービスとして、超音波手術用機器、歯科用レーザー、眼科用診断機器など、日本の薬機法、北米FDA、欧州MDRなどグローバルな法規制に基づいた活動など20年以上の実績があります",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器以外においては、精密機器の受託サービスも実施しており、お客様より実績に基づいた信頼を頂いております",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "品質管理と品質保証: 顧客要求に基づく設計開発プロセスで、医療機器の品質基準や規制に従って製品を開発し、品質の一貫性と信頼性を確保させていただきます",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、医療機器製品の製造が主力であるため、安全性と信頼性が高く品質管理が行われている供給者と長期に渡り関係構築を進めています",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "品質と安全性の確保：医療機器工程において品質と安全性が最も優先されます",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO 13485、欧州医療機器規制（MDR）などの認証を取得し、医療機器の安全性と信頼性を確保しています",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "第2種医療機器",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器・健康機器メーカーとして培ってきた技術力で、人々の未来に貢献します",
+    "url": "https://mono.ipros.com/company/detail/2049652/",
+    "pass": 3
+   },
+   {
+    "quote": "品質を重視し、眼科用医療機器の商品・サービスを提供しています",
+    "url": "https://mono.ipros.com/company/detail/2049652/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品医療機器等法及び北米、欧州等の諸外国の法規制にも対応しています",
+    "url": "https://mono.ipros.com/company/detail/2049652/",
+    "pass": 3
+   },
+   {
+    "quote": "○金属加工サービス(光学機器部品、医療用器具部品、精密機械部品)",
+    "url": "https://mono.ipros.com/company/detail/2049652/",
+    "pass": 3
+   },
+   {
+    "quote": "※医療関連及び光学・計測機器に関連した取引先が主な取引先です",
+    "url": "https://mono.ipros.com/company/detail/2049652/",
+    "pass": 3
+   },
+   {
+    "quote": "眼科用医療・美容・健康機器を設計から組立まで行い、眼科用医療機器は現在80ヶ国で使われています！",
+    "url": "https://www.city.minamiuonuma.niigata.jp/webkigyougaido/docs/4324.html",
+    "pass": 3
+   },
+   {
+    "quote": "眼科医療機器、医療機器、精密機械の設計、製造、組立",
+    "url": "https://www.city.minamiuonuma.niigata.jp/webkigyougaido/docs/4324.html",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは医療機器・健康機器メーカーとして培ってきた技術力で、人々の健康な未来に貢献します",
+    "url": "https://www.city.minamiuonuma.niigata.jp/webkigyougaido/docs/4324.html",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "国際規格である品質マネジメントシステムISO 13485の認証取得をし、医療機器製品の製造を中心に高い品質基準で製造体制を管理しております",
+    "url": "https://www.ohira.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "そこから約５０年にわたり私たちの最大の強みである製品の『社内一貫製造』体制を最大限に発揮すべく、自社の精密部品加工、塗装・表面処理、組立を共に歩んだ協力会社様のお力添えを得ながら発展させ、営んできました",
+    "url": "https://www.ohira.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "現在では医療、計測、美容、健康機器等の高度な品質管理、部品加工、外観品質を要求される製品の受託製造を行うまでに至り、日々新しい分野やより高度な製品の製造に挑戦をしております",
+    "url": "https://www.ohira.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "自分達の知識・スキルを向上させそれをノウハウに昇華させ、製造する製品の価値を未来永劫まで高めることが私たちの使命であると考えます",
+    "url": "https://www.ohira.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の製品開発及び製造をサポートする開発力、製造力、品質保証体制を構築しております",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "精密機器の設計・開発支援、部材調達、金属・樹脂切削加工、表面処理、製品組立サポート、そして販売後の保守サービスと一貫したサービスを提供可能です",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの受託製造製品は、60か国以上のユーザーにて利用されております",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "(株)オーヒラは、地域の人財が集結し、お客様の要求事項や情報を共有し、知恵と工夫で優れた商品及び製品を提供する企業として活動し続けています",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品又はユニットの設計、試作開発、量産まで行います",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、製品の要件や仕様を明確にし、顧客のニーズを理解させていただきます",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客とのコラボレーションが重要であるため、共同で最適な製品開発を進めさせていただきます",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客要求の理解と文書化：顧客からの要求仕様書やニーズの把握を行い、それを基に製品の設計開発を進めます",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "独自の技術や製造ノウハウ、AIやデータ解析などの先進的な手法を使用して、顧客の要求を満たす高品質な製品を開発致します",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "品質管理と品質保証: 顧客要求に基づく設計開発プロセスで、医療機器の品質基準や規制に従って製品を開発し、品質の一貫性と信頼性を確保させていただきます",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "結果と納品: 設計開発の結果として、顧客の要求を満たす最終製品が納品されることを説明します",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、医療機器製品の製造が主力であるため、安全性と信頼性が高く品質管理が行われている供給者と長期に渡り関係構築を進めています",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "グローバルな調達ネットワーク：弊社は、優れた製品・部品、材料を国内外の供給から調達し、納期及びコスト面で最適化に努めています",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品や部品が安全に使用され、使用後も安全に廃棄処理できる体制に努めています",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "寸法精度や仕上げの品質に対しては、製造管理規定及び検査・試験規定に基づく品質管理が実施され、顧客の要求を満たす高品質な製品を提供することを約束します",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "厳格な品質管理基準に基づいて、規制や規格に適合した製品の組立を行い、患者の安全性と信頼性を確保します",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "高度な品質管理体制：当社は厳格な品質管理プロセスを導入しており、製品の検査においても最高水準の基準を遵守しています",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "最新の検査技術：当社では最新の検査技術と装置を使用しており、製品の品質評価をより効率的かつ正確に行っています",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "高性能の安全試験機器、視覚検査システム、精密測定機器などを活用し、製品の欠陥や異常を早期に検出します",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の検査プロセスを的確に管理し、製品の品質を保証するために努力しています",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の特性や要件に基づき、検査プロセスを調整し、品質を最適化します",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の製品に関する要件や規制に対応するため、柔軟性のあるアプローチを取り入れています",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の信頼を得るために、品質に対する厳しい基準を設定し、製品の検査においても最善を尽くしています",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の安全性、効果、および一貫性を確保するために、品質保証体制を構築しています",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "フルトレーサビリティ：当社は製品の出荷管理においてフルトレーサビリティを確保しています",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(3)",
+    "url": "https://mono.ipros.com/company/detail/2049652/",
+    "pass": 3
+   },
+   {
+    "quote": "また、精密機器に用いられる金属部品の材料加工から、表面処理(取引先にて対応)、塗装等も含めて最終製品まで品質管理し対応しています",
+    "url": "https://mono.ipros.com/company/detail/2049652/",
+    "pass": 3
+   },
+   {
+    "quote": "特にレーザー光源の機構部品ついては、長年の経験によりお客様のニーズを具体的に製品として提供し続けています",
+    "url": "https://mono.ipros.com/company/detail/2049652/",
+    "pass": 3
+   },
+   {
+    "quote": "部品調達から製品・半製品まで細かに対応させていただきます",
+    "url": "https://mono.ipros.com/company/detail/2049652/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (3)",
+    "url": "https://mono.ipros.com/company/detail/2049652/",
+    "pass": 3
+   },
+   {
+    "quote": "社員の得意分野を育てながら製品化を実現しています",
+    "url": "https://www.city.minamiuonuma.niigata.jp/webkigyougaido/docs/4324.html",
+    "pass": 3
+   },
+   {
+    "quote": "ファブレス企業に対して部品調達から、製品組立まで、お客様の納期・コストに合わせてサービス提供しています",
+    "url": "https://www.city.minamiuonuma.niigata.jp/webkigyougaido/docs/4324.html",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくりを通じてチャレンジすることにより、知識経験を高め、仲間と協力し、お客様に喜ばれる製品を届ける仕事ができます",
+    "url": "https://www.city.minamiuonuma.niigata.jp/webkigyougaido/docs/4324.html",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "打合は、面談、電話会議、メールなど様々な手法を選択いただけます",
+    "url": "https://www.ohira.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当サイトでは一部のコンテンツにおいてお客様の情報として(氏名・法人名・部署名・電話番号・FAX番号・メールアドレス)をご記入いただく場合がございます",
+    "url": "https://www.ohira.co.jp/policy/",
+    "pass": 3
+   },
+   {
+    "quote": "・ お客様からのお問い合わせ内容確認、その他必要事項の連絡を行うため",
+    "url": "https://www.ohira.co.jp/policy/",
+    "pass": 3
+   },
+   {
+    "quote": "個人情報の取り扱いにつきまして、上記の請求・お問い合わせ等ございましたら、下記までご連絡くださいますようお願い申し上げます",
+    "url": "https://www.ohira.co.jp/policy/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "オーヒラ | 企業情報 | イプロスものづくり — オーヒラ | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用電気機器",
+    "url": "https://mono.ipros.com/company/detail/2049652/",
+    "pass": 3
+   },
+   {
+    "quote": "Site Map - 株式会社オーヒラ — Site Map - 株式会社オーヒラ 株式会社オーヒラ https://www.ohira.co.jp > site-map",
+    "url": "https://www.ohira.co.jp/site-map/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社オーヒラ の求人・中途採用情報 - doda — 株式 会社オーヒラ の求人・中途採用情報 - doda doda https://doda.jp > CompanyJobs > j_id__10112569606",
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10112569606/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社オーヒラ - SalesNow — 株式 会社オーヒラ - SalesNow SalesNow https://salesnow.jp > トップ > 都道府県 > 新潟県",
+    "url": "https://salesnow.jp/db/companies/jcbkw647xhj2duyhh",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社オーヒラ | 加工 会社 ナビ - 営業製作所 — 株式 会社オーヒラ | 加工 会社 ナビ - 営業製作所 営業製作所株式会社 https://eigyo-mfg.com > TOP > 新潟県の加工会社",
+    "url": "https://eigyo-mfg.com/service/navi/company/Ii5VWsJ3lGpa",
+    "pass": 3
+   },
+   {
+    "quote": "Contact | 株式会社 オーヒラ — Contact | 株式会社 オーヒラ 株式会社オーヒラ https://www.ohira.co.jp > contact",
+    "url": "https://www.ohira.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 オーヒラ - 南魚沼市 — 株式会社 オーヒラ - 南魚沼市 南魚沼市 https://www.city.minamiuonuma.niigata.jp > ... > E 製造業",
+    "url": "https://www.city.minamiuonuma.niigata.jp/webkigyougaido/docs/4324.html",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Policy | 株式会社 オーヒラ — Privacy Policy | 株式会社 オーヒラ 株式会社オーヒラ https://www.ohira.co.jp > policy",
+    "url": "https://www.ohira.co.jp/policy/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 オーヒラ | Minamiuonuma-shi Niigata - Facebook — 株式会社 オーヒラ | Minamiuonuma-shi Niigata - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/ohira.co.jp/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "カレンダーに書いてあったいい言葉｜よ。 オーヒラ 。 - note カレンダーに書いてあったいい言葉｜よ。 オーヒラ 。 - note note https://note.com > ライフスタイル > 時間管理・習慣化",
+    "url": "https://note.com/yoohira/n/n2c331b7fbb92",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 オーヒラ - LinkedIn 株式会社 オーヒラ - LinkedIn LinkedIn https://jp.linkedin.com > company > 株式会社オーヒラ",
+    "url": "https://jp.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AA%E3%83%BC%E3%83%92%E3%83%A9",
+    "pass": 3
+   },
+   {
+    "quote": "池田 明 - 株式会社 オーヒラ 取締役営業部長 | LinkedIn 池田 明 - 株式会社 オーヒラ 取締役営業部長 | LinkedIn LinkedIn https://jp.linkedin.com > akira-ikeda-b67688114",
+    "url": "https://jp.linkedin.com/in/akira-ikeda-b67688114/ja",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 オーヒラ | Minamiuonuma-shi Niigata - Facebook 株式会社 オーヒラ | Minamiuonuma-shi Niigata - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/ohira.co.jp/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ohira.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ohira.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ohira.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ohira.co.jp/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1%E3%82%92%E6%9B%B4%E6%96%B0%E8%87%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ohira.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ohira.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2049652/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ohira.co.jp/site-map/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10112569606/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ohira.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.minamiuonuma.niigata.jp/webkigyougaido/docs/4324.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ohira.co.jp/policy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yoohira/n/n2c331b7fbb92",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AA%E3%83%BC%E3%83%92%E3%83%A9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/akira-ikeda-b67688114/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ohira.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "オーヒラ 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://kyoeidesign.co.jp/lot-production/",
+    "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "https://mono.ipros.com/cg1/%E6%88%90%E5%BD%A2/%E5%B0%8F%E3%83%AD%E3%83%83%E3%83%88/",
+    "https://www.xeffect.com/small/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://shinko56.com/plastic.html",
+    "https://oripra.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "オーヒラ 会社概要 事業内容",
+   "results": [
+    "https://mono.ipros.com/company/detail/2049652/",
+    "https://www.ohira.co.jp/site-map/",
+    "https://doda.jp/DodaFront/View/CompanyJobs/j_id__10112569606/",
+    "https://salesnow.jp/db/companies/jcbkw647xhj2duyhh",
+    "https://eigyo-mfg.com/service/navi/company/Ii5VWsJ3lGpa",
+    "https://www.hellowork.mhlw.go.jp/kensaku/GECA110010.do?screenId=GECA110010&action=dispDetailBtn&kJNo=1512003995861&kJKbn=1&fullPart=1&shogaiKbn=0",
+    "https://jp.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AA%E3%83%BC%E3%83%92%E3%83%A9",
+    "https://ja.nc-net.or.jp/company/34250/product/detail/85472/",
+    "https://www.okuhira.co.jp/company/",
+    "https://ohira-kk.com/company"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "オーヒラ お問い合わせ メール",
+   "results": [
+    "https://www.ohira.co.jp/contact/",
+    "https://www.city.minamiuonuma.niigata.jp/webkigyougaido/docs/4324.html",
+    "https://www.ohira.co.jp/policy/",
+    "https://www.facebook.com/ohira.co.jp/",
+    "https://ohora.zendesk.com/hc/ja-jp/requests/new",
+    "https://baseconnect.in/companies/1cff6ded-f98e-4172-9523-9ccd527c27bc",
+    "https://niigata-kigyo-navi.jp/search/company/1334",
+    "https://www.orihica.com/contact/?srsltid=AYCX9vL2XhRY1SV9N983HxRWrQFKwfe-7jeviR4cNwmNWOATTv-PSn1b",
+    "https://test.webserver.ne.jp/2020.osakoh.co.jp/contact/",
+    "https://ohira-kk.com/contact"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com オーヒラ",
+   "results": [
+    "https://note.com/yoohira/n/n2c331b7fbb92",
+    "https://note.com/hashtag/note2%E5%9B%9E%E7%9B%AE%E6%8A%95%E7%A8%BF?f=hot",
+    "https://note.com/daijiro_sugiyama/n/nfc5f7d667577",
+    "https://note.com/kinma/n/nbac1715543f7",
+    "https://note.com/clipcorporation/n/na89263303839",
+    "https://note.com/kinma/n/n0b43f23098ef",
+    "https://note.com/yoohira/n/n8c994c07ae20",
+    "https://note.com/yoohira",
+    "https://note.com/keipopo_109",
+    "https://note.com/keipopo_109/membership"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com オーヒラ",
+   "results": [
+    "https://x.com/SR5ZsJWScr2scd8/status/2115645098256146827",
+    "https://x.com/atnd_kinki",
+    "https://x.com/naoki710fuel",
+    "https://x.com/0831hira",
+    "https://x.com/kaitoenOffcial/status/2114300032866459814",
+    "https://x.com/youfwji/status/1814234187806974309",
+    "https://x.com/pecharoh/status/2089693971639308575",
+    "https://x.com/Nabeno26_/status/2111429100904796575",
+    "https://x.com/Akirika_110/status/2120447504848449837",
+    "https://x.com/ichiro02/status/2102382701009576157"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:linkedin.com オーヒラ",
+   "results": [
+    "https://jp.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AA%E3%83%BC%E3%83%92%E3%83%A9",
+    "https://www.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AA%E3%83%BC%E3%83%92%E3%83%A9/mycompany/",
+    "https://jp.linkedin.com/in/akira-ikeda-b67688114/ja",
+    "https://fr.linkedin.com/company/inami-co-ltd?trk=similar-pages_result-card_full-click",
+    "https://jp.linkedin.com/pub/dir/Akira/Ikeda/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/pub/dir/%E6%98%8E/%E6%B1%A0%E7%94%B0/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/company/medmetalex-co-ltd",
+    "https://kr.linkedin.com/company/surgident-korea",
+    "https://jp.linkedin.com/in/masakazu-yasuna-191a20aa"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com オーヒラ",
+   "results": [
+    "https://www.facebook.com/ohira.co.jp/",
+    "https://www.facebook.com/city.minamiuonuma/posts/%E3%83%A1%E3%82%A4%E3%83%89-%E3%82%A4%E3%83%B3-%E5%8D%97%E9%AD%9A%E6%B2%BC-%E4%BC%81%E6%A5%AD%E3%82%92%E7%9F%A5%E3%82%8B%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99-%E5%B8%82%E5%86%85%E4%BC%81%E6%A5%AD%E3%81%9D%E3%81%AE%E9%AB%98%E3%81%84%E6%8A%80%E8%A1%93%E3%82%84%E5%84%AA%E3%82%8C%E3%81%9F%E8%A3%BD%E5%93%81%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B%E7%89%B9%E5%88%A5%E5%B1%95%E7%A4%BA%E3%82%92%E5%9B%B3%E6%9B%B8%E9%A4%A8%E5%86%85%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%84%E3%81%A4%E3%82%82%E9%80%9A%E3%82%8B%E9%81%93%E3%81%A9%E3%82%93%E3%81%AA%E4%BC%9A%E7%A4%BE%E3%81%AA%E3%81%AE%E3%81%8B%E4%BD%95%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6/1150975258404316/",
+    "https://www.facebook.com/dokuritsunewsroom/posts/%E7%B5%B9%E8%B0%B7%E5%B9%B8%E4%BA%8C%E4%BA%8B%E5%8B%99%E5%B1%80%E6%A7%98%E3%81%AE%E6%8A%95%E7%A8%BF%E3%81%A7%E3%81%992025%E5%B9%B46%E6%9C%8824%E6%97%A5-1900-2100%E3%83%86%E3%83%AC%E3%83%93%E6%9C%9D%E6%97%A5%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%81%AB%E3%81%A6/1155591576602338/",
+    "https://www.facebook.com/takokurajelly/?locale=ja_JP",
+    "https://www.facebook.com/ytsuboki/posts/youtube%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E4%B8%8D%E7%99%BB%E6%A0%A1%E3%81%AE%E8%A6%AA%E3%81%AE%E7%9B%B8%E8%AB%87%E5%AE%A4%E7%AC%AC5%E5%BC%BE95%E3%81%AE%E8%A6%AA%E3%81%8C%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E4%B8%8D%E7%99%BB%E6%A0%A1%E3%82%92%E6%97%A9%E3%81%8F%E6%B2%BB%E3%81%99%E5%A3%B0%E6%8E%9B%E3%81%91%E5%85%83%E5%BC%95%E3%81%8D%E3%81%93%E3%82%82%E3%82%8A%E3%81%AE%E8%A6%AA%E3%81%A7%E4%B8%8D%E7%99%BB%E6%A0%A1%E5%B0%82%E9%96%80%E5%AE%B6%E3%81%8C%E8%A7%A3%E8%AA%AC%E3%81%97%E3%81%BE%E3%81%99%E4%B8%8D%E7%99%BB%E6%A0%A1%E3%81%AE%E3%81%8A%E5%AD%90%E3%81%95%E3%82%93%E3%81%AB%E3%82%B3%E3%83%AC%E3%82%92%E8%A8%80%E3%81%88%E3%81%B0/27507387832297523/",
+    "https://www.facebook.com/groups/838817236269992/posts/3056908984460795/",
+    "https://www.facebook.com/ytsuboki/posts/youtube%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E4%B8%8D%E7%99%BB%E6%A0%A1%E3%81%AE%E8%A6%AA%E3%81%AE%E7%9B%B8%E8%AB%87%E5%AE%A4%E7%AC%AC6%E5%BC%BE%E3%81%93%E3%82%8Cng%E5%AF%BE%E5%BF%9C%E3%81%A7%E3%81%999%E5%89%B2%E3%81%AE%E8%A6%AA%E3%81%8C%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E4%B8%8D%E7%99%BB%E6%A0%A1%E3%82%92%E9%95%B7%E5%BC%95%E3%81%8B%E3%81%9B%E3%82%8B3%E3%81%A4%E3%81%AE%E5%AF%BE%E5%BF%9C%E4%B8%8D%E7%99%BB%E6%A0%A1%E3%81%AE%E8%A6%AA%E5%BE%A1%E3%81%95%E3%82%93%E3%81%AB%E3%81%9C%E3%81%B2%E8%A6%8B%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84%E5%86%85%E5%AE%B9%E3%81%A7%E3%81%99%E3%81%9C%E3%81%B2%E4%BB%8A%E6%97%A5%E3%81%8B/27594101706959468/",
+    "https://www.facebook.com/sakai.roku/",
+    "https://www.facebook.com/beijing.genjin.rugby/",
+    "https://www.facebook.com/p/株式会社オーヒラ-OhiracoLtd-100049615849086/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "オーヒラ note 社長",
+   "results": [
+    "https://note.com/yusuke_ohira/n/ne3591b7305be",
+    "https://note.com/krypton_ailab/n/ndf1b53f7fee1",
+    "https://note.com/saiyou_dekirukun/n/na4c3efd0c0cc",
+    "https://x.com/ohira_yusuke",
+    "https://nipponia.or.jp/blog/3571/",
+    "https://note.com/taihei_offcial/n/n23ed004ec922",
+    "https://medicalnote.jp/doctors/150209-000001-GSCZEV",
+    "https://shachomeikan.jp/industry_article/5902",
+    "https://plus-note.jp/message.html",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "オーヒラ X 投稿",
+   "results": [
+    "https://x.com/ohirahikaru",
+    "https://hashout.jp/sns/9066/",
+    "https://x.com/trampshunya/status/2009835527567216909",
+    "https://www.dentsuprc.co.jp/magazine/threads_pr/",
+    "https://www.karabinaheart.com/algorithm/",
+    "https://www.c-sqr.net/c/shinmorisatetsudo_kyuoetairatetsudo_20260523/reports/605726",
+    "https://www.oricon.co.jp/news/2412466/full/",
+    "https://www.youtube.com/shorts/oprxHcGt-20",
+    "https://x.com/kiro2tuku/status/2116009596867449105",
+    "https://x.com/Nabeno26_/status/2119655692491804713"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部13頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部13頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部13頁・検索9回）"
+ }
+}

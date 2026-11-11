@@ -1,0 +1,927 @@
+{
+ "name": "Instock",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T18:47:30.342914+00:00",
+ "official_url": "https://instock.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Our mission is to create universal way for autonomus mobile robots to store and move inventory in long-life containers. Instock’s breakthrough patented technology brings to eCommerce operators radically improved flexibility, modularity, and price point.",
+    "url": "https://instock.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Storage capacity is measured in the total number of bins available. Throughput capacity is measured in bin-presentations per hour, which is a close proxy to order lines per hour.",
+    "url": "https://instock.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Customer personnel are trained on basic operations and self-service protocols. And everything else? It’s on us.",
+    "url": "https://instock.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printers",
+    "url": "https://www.nowinstock.net/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Nintendo Switch Video Games List",
+    "url": "https://www.nowinstock.net/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "NowInStock.net is a FREE web service that monitors online retailer websites to see when products come in stock or up for pre-order. As soon as we see stock available for purchase, we alert you! To receive these alerts, you must register. Don't worry,",
+    "url": "https://www.nowinstock.net/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "We continually add new products, but let us know if you are having problems finding an item. More than likely, we can help you find it.",
+    "url": "https://www.nowinstock.net/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Submit a Product Suggestion »",
+    "url": "https://www.nowinstock.net/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "\"How do I bridge the gap between identifying a problem with data and actually fixing it on the shop floor?\"",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "The industry is littered with \"Pilot Purgatory\"—projects that worked in a controlled sandbox but failed to scale across a brownfield facility. The difference between failure and success rarely lies in the sophistication of the algorithm. It lies in the workflow.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "This guide analyzes successful case studies not just as isolated math problems, but as holistic operational shifts. We will explore how data science detects issues, and how maintenance management systems execute the solutions.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "To understand success, we must look at specific applications where the \"Closed-Loop\" approach—connecting Data Science detection with CMMS execution—was utilized.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "1. The \"Vibrating Conveyor\" Scenario: Predictive Maintenance in Food & Beverage",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "A large-scale bottling plant was experiencing micro-stoppages on their main overhead conveyor lines. These weren't catastrophic failures, but 2-minute jams occurring 30 times a day. Traditional Preventive Maintenance (PM) schedules (lubricating every week) weren't catching the root cause.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "Unplanned downtime dropped by 18%, and \"wrench time\" improved because technicians knew exactly which section of the conveyor needed adjustment.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "2. The \"Energy Leak\" Scenario: Compressed Air Optimization",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "An automotive parts manufacturer noticed their energy bill was climbing despite production levels remaining flat. Compressed air systems are notoriously inefficient, often called the \"fourth utility.\"",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "By integrating flow meters and power consumption data into a multivariate regression model, the data science team built a \"Digital Twin\" of the compressor network. The model predicted what energy consumption",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "be based on current production load.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "The difference between the \"predicted\" energy and \"actual\" energy highlighted leaks that were inaudible to the human ear.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "The system pinpointed the specific zone of the leak. A high-priority inspection task was routed to the maintenance team via their mobile devices.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "predictive maintenance for compressors",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "3. The \"Golden Batch\" Scenario: Prescriptive Quality Control in Pharma",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "A pharmaceutical manufacturer struggled with yield consistency. Two batches processed on the same equipment, with the same raw materials, would result in slightly different yields.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "The team aggregated time-series data from temperature, pressure, and pH sensors, along with operator logs. They used a Random Forest algorithm to identify the \"Golden Batch\" parameters—the exact combination of variables that produced the highest yield.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "The system moved from descriptive (what happened) to prescriptive (what to do).",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "Instead of a static SOP, the HMI (Human Machine Interface) now prompts operators with dynamic adjustments in real-time to keep the batch within the \"Golden\" trajectory.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "Yield consistency improved by 8%, significantly reducing waste and rework costs.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "Extracting logic data directly from the Programmable Logic Controller (cycle counts, error codes).",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "Sending terabytes of raw vibration data to the cloud is expensive and slow. \"Edge\" computing processes data locally on the machine. It filters out the noise and only sends relevant anomalies to the cloud. This is critical for real-time alerts.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": ". If the algorithm detects a 90% probability of failure, it must generate a work request, assign it to a technician, and check parts inventory.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "The data science prediction was correct, but the operational outcome was a failure.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "A \"High Priority\" work order is generated and pushed to the maintenance lead's phone via",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "Stock prices rise or fall and are typically driven by expectations of the corporation’s earnings, or profits.",
+    "url": "https://dfi.wa.gov/financial-education/information/basics-investing-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "There are two main kinds of stocks, common stock and preferred stock.",
+    "url": "https://dfi.wa.gov/financial-education/information/basics-investing-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "Preferred stockholders usually don’t have voting rights but they receive dividend payments before common stockholders do, and have priority over common stockholders if the company goes bankrupt and its assets are liquidated.",
+    "url": "https://dfi.wa.gov/financial-education/information/basics-investing-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "Growth stocks have earnings growing at a faster rate than the market average. They rarely pay dividends and investors buy them in the hope of capital appreciation. A start-up technology company is likely to be a growth stock.",
+    "url": "https://dfi.wa.gov/financial-education/information/basics-investing-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "Value stock shave a low price-to-earnings (PE) ratio, meaning they are cheaper to buy than stocks with a higher PE. Value stocks may be growth or income stocks, and their low PE ratio may reflect the fact that they have fallen out of favor with investors for some reason. People buy value stocks in the hope that the market has overreacted and that the stock’s price will rebound.",
+    "url": "https://dfi.wa.gov/financial-education/information/basics-investing-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "Share prices for a company falling, even to zero",
+    "url": "https://dfi.wa.gov/financial-education/information/basics-investing-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "Stock funds are another way to buy stocks. These are a type of mutual fund that invests primarily in stocks. Stock funds are offered by investment companies and can be purchased directly from them or through a broker or adviser.",
+    "url": "https://dfi.wa.gov/financial-education/information/basics-investing-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "One of the best sources of information is a company's annual report. Review a company’s annual report to learn about its business activities, whether it’s making a profit or loss, and the company’s strategy for the future..",
+    "url": "https://dfi.wa.gov/financial-education/information/basics-investing-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "Companies issuing shares are required to file a prospectus with the U.S. Securities and Exchange Commission. A prospectus is a formal legal document that gives details about the investment.",
+    "url": "https://dfi.wa.gov/financial-education/information/basics-investing-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "Work With Licensed Professionals and Registered Products",
+    "url": "https://dfi.wa.gov/financial-education/information/basics-investing-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "Questions you should ask about the investment and professional selling the investment:",
+    "url": "https://dfi.wa.gov/financial-education/information/basics-investing-stocks",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Goods-to-person system maximizing savings, storage density and throughput for eCommerce operators.",
+    "url": "https://instock.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Built from scratch for real-world operators",
+    "url": "https://instock.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Our mission is to create universal way for autonomus mobile robots to store and move inventory in long-life containers. Instock’s breakthrough patented technology brings to eCommerce operators radically improved flexibility, modularity, and price point.",
+    "url": "https://instock.com/en/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Science in Manufacturing: 5 Real-World Case Studies (2026)",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond the Hype: Successful Case Studies of Data Science in Manufacturing & How to Replicate Them",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "What are some successful case studies of data science in manufacturing",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "The year is 2026. By now, most manufacturing leaders have moved past the \"shiny object\" phase of Artificial Intelligence and Data Science. You aren't looking for buzzwords; you are looking for evidence. You want to know if the investment in sensors, cloud computing, and data teams actually translates to higher OEE (Overall Equipment Effectiveness) and lower maintenance costs.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "When you search for \"What are some successful case studies of data science in manufacturing,\" you are likely asking a deeper question:",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "\"How do I bridge the gap between identifying a problem with data and actually fixing it on the shop floor?\"",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "A large-scale bottling plant was experiencing micro-stoppages on their main overhead conveyor lines. These weren't catastrophic failures, but 2-minute jams occurring 30 times a day. Traditional Preventive Maintenance (PM) schedules (lubricating every week) weren't catching the root cause.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "The plant installed wireless vibration sensors and current transducers on the drive motors. They didn't just look for threshold breaches; they used",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "Unplanned downtime dropped by 18%, and \"wrench time\" improved because technicians knew exactly which section of the conveyor needed adjustment.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "An automotive parts manufacturer noticed their energy bill was climbing despite production levels remaining flat. Compressed air systems are notoriously inefficient, often called the \"fourth utility.\"",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "A pharmaceutical manufacturer struggled with yield consistency. Two batches processed on the same equipment, with the same raw materials, would result in slightly different yields.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "Instead of a static SOP, the HMI (Human Machine Interface) now prompts operators with dynamic adjustments in real-time to keep the batch within the \"Golden\" trajectory.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "It is not magic; it is a layered architecture. In 2026, successful data science stacks in manufacturing usually follow this flow:",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "It starts with the Industrial Internet of Things (IIoT). You cannot analyze what you cannot measure.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "Data Science detects; CMMS executes. You cannot have a successful case study without both.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "Case studies often feature brand new \"Smart Factories.\" But most of you manage facilities with equipment from 1995 mixed with equipment from 2025.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturing AI software",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "If your data science project feels like \"Big Brother\" watching the operators, they will reject it. They will feed it bad data or bypass the sensors.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "Do not try to digitize the entire factory at once. Use a phased approach.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "Once you prove ROI on the pilot (e.g., \"We saved $50k on Conveyor 3\"), use that case study to unlock budget for the rest of the plant.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "As we look deeper into 2026 and beyond, the definition of \"Data Science\" in manufacturing is evolving.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "The successful case studies of data science in manufacturing all share one trait:",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "Explore how MaintainX integrates with top industrial sensor platforms to turn data into done.",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "NowInStock.net Japan Restock Tracker and In Stock Notification App",
+    "url": "https://www.nowinstock.net/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "the power of knowing when & where online... in Japan",
+    "url": "https://www.nowinstock.net/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語WordNet(英和)での「instock」の意味",
+    "url": "https://ejje.weblio.jp/content/instock",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "NowInStock.net Japan Restock Tracker and In Stock ... — NowInStock.net Japan Restock Tracker and In Stock ... NowInStock https://www.nowinstock.net > ...",
+    "url": "https://www.nowinstock.net/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "instock の意味・使い方・読み方 | Weblio英和辞書 — instock の意味・使い方・読み方 | Weblio英和辞書 Weblio英和和英辞典 https://ejje.weblio.jp > ... > マイクロソフト用語",
+    "url": "https://ejje.weblio.jp/content/instock",
+    "pass": 3
+   },
+   {
+    "quote": "Instock .com - LinkedIn — Instock .com - LinkedIn LinkedIn https://www.linkedin.com > instockcom",
+    "url": "https://www.linkedin.com/company/instockcom",
+    "pass": 3
+   },
+   {
+    "quote": "Instock Ja - Facebook — Instock Ja - Facebook Facebook https://www.facebook.com > posts > instock-ja-",
+    "url": "https://www.facebook.com/Beeko.fashionshop/posts/instock-ja-/1729289852531032/",
+    "pass": 3
+   },
+   {
+    "quote": "About us - Instock — About us - Instock instock.com https://instock.com > about-us",
+    "url": "https://instock.com/en/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Instock Announces New Funding Led by Amazon Industrial ... — Instock Announces New Funding Led by Amazon Industrial ... instock.com https://instock.com > news > instock-...",
+    "url": "https://instock.com/en/news/instock-new-funding-led-by-amazon-industrial-innovation-fund/",
+    "pass": 3
+   },
+   {
+    "quote": "The Basics of Investing In Stocks — The Basics of Investing In Stocks The Washington State Department of Financial Institutions (.gov) https://dfi.wa.gov > information > bas...",
+    "url": "https://dfi.wa.gov/financial-education/information/basics-investing-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "2026 Funding Rounds & List of Investors - Instock - Tracxn — 2026 Funding Rounds & List of Investors - Instock - Tracxn Tracxn https://tracxn.com > ... > Instock",
+    "url": "https://tracxn.com/d/companies/instock/__Hr5BttkD-RITHuRvwxrcyzEKNfpN-OQICQ-23dIDARE/funding-and-investors",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Layer 1: Data Acquisition (The Senses)",
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "pass": 3
+   },
+   {
+    "quote": "Companies sell shares typically to gain additional money to grow the company. This is called the initial public offering (IPO). After the IPO, stockholders can resell shares on the stock market.",
+    "url": "https://dfi.wa.gov/financial-education/information/basics-investing-stocks",
+    "pass": 3
+   },
+   {
+    "quote": "Some companies allow you to buy or sell their stock directly through them without using a broker. Some companies limit direct stock plans to employees of the company or existing shareholders. Some require minimum amounts for purchases or account levels.",
+    "url": "https://dfi.wa.gov/financial-education/information/basics-investing-stocks",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "New Product from FAST TT! PRO X1 MONO BAR Now in Stock !! New Product from FAST TT! PRO X1 MONO BAR Now in Stock !! note https://note.com > DIY > DIY全般",
+    "url": "https://note.com/forza_tsukuba/n/na955ee818a46?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "# instock - Search / X # instock - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/instock",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Instock .com - LinkedIn Instock .com - LinkedIn LinkedIn https://www.linkedin.com > instockcom",
+    "url": "https://www.linkedin.com/company/instockcom",
+    "pass": 3
+   },
+   {
+    "quote": "InStock , Inc. - LinkedIn InStock , Inc. - LinkedIn LinkedIn https://www.linkedin.com > instock-inc",
+    "url": "https://www.linkedin.com/company/instock-inc.",
+    "pass": 3
+   },
+   {
+    "quote": "In Stock | LinkedIn In Stock | LinkedIn LinkedIn https://www.linkedin.com > instockorg",
+    "url": "https://www.linkedin.com/company/instockorg",
+    "pass": 3
+   },
+   {
+    "quote": "Instock Group - LinkedIn Instock Group - LinkedIn LinkedIn https://uk.linkedin.com > instock-group",
+    "url": "https://uk.linkedin.com/company/instock-group",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Instock - Facebook Instock - Facebook Facebook https://www.facebook.com > ... > E-commerce website",
+    "url": "https://www.facebook.com/p/Instock-61567093256736/",
+    "pass": 3
+   },
+   {
+    "quote": "Instock (@instockofficial) - Facebook Instock (@instockofficial) - Facebook Facebook https://www.facebook.com > ... > Brand > Clothing (Brand)",
+    "url": "https://www.facebook.com/instockofficial/",
+    "pass": 3
+   },
+   {
+    "quote": "Instock .com (@61558370953294) - Mentions - Facebook Instock .com (@61558370953294) - Mentions - Facebook Facebook https://www.facebook.com > ... > Instock.com",
+    "url": "https://www.facebook.com/61558370953294/mentions/",
+    "pass": 3
+   },
+   {
+    "quote": "InStock Games | Sherman TX - Facebook InStock Games | Sherman TX - Facebook Facebook https://www.facebook.com > InStockGamesFB",
+    "url": "https://www.facebook.com/InStockGamesFB/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://instock.com/en/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.caranddriver.co.jp/newcar/114898/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://response.jp/article/2026/11/07/418712.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/7273/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-dx.com/column/agency_dealer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nowinstock.net/jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ejje.weblio.jp/content/instock",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/instockcom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Beeko.fashionshop/posts/instock-ja-/1729289852531032/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.flexwareinnovation.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.foremostmedia.com/resources/blog/posts/how-to-build-a-case-study-for-your-manufacturing-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dfi.wa.gov/financial-education/information/basics-investing-stocks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/instock/__Hr5BttkD-RITHuRvwxrcyzEKNfpN-OQICQ-23dIDARE/funding-and-investors",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://investorrelations.sarepta.com/news-releases/news-release-details/sarepta-therapeutics-announces-fourth-quarter-and-full-year-2025",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/forza_tsukuba/n/na955ee818a46?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/hashtag/instock",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/instockcom",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/instock-inc.",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/instockorg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/instock-group",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Instock-61567093256736/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/instockofficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61558370953294/mentions/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/InStockGamesFB/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Instock 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "https://www.caranddriver.co.jp/newcar/114898/",
+    "https://response.jp/article/2026/11/07/418712.html",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.mycar-life.com/article/2026/11/08/32725.html",
+    "https://trafficnews.jp/post/725198",
+    "https://kuruma-news.jp/post/1135272",
+    "https://jp.ext.hp.com/printers/large-format-printers/designjet/user/overseas/instock/",
+    "https://www.nowinstock.net/jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Instock 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/7273/distributors/",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://growth-dx.com/column/agency_dealer/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.japan-port.com/news/374/",
+    "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendo02.html",
+    "https://www.total-hoken.co.jp/corp/products/outsourcing/index.html",
+    "https://www.hits-company.co.jp/alliance/column/agency-business/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Instock Japan",
+   "results": [
+    "https://www.nowinstock.net/jp/",
+    "https://ejje.weblio.jp/content/instock",
+    "https://www.linkedin.com/company/instockcom",
+    "https://www.facebook.com/Beeko.fashionshop/posts/instock-ja-/1729289852531032/",
+    "https://instock.com/en/about-us/",
+    "https://apps.apple.com/us/app/instock-shopping/id6445827103",
+    "https://refactory-antiques.jp/category/item/itemgenre/instock",
+    "https://instock-app.com/about",
+    "https://www.instockenterprise.com/",
+    "https://www.nowinstock.net/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Instock manufacturing customer case study",
+   "results": [
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.foremostmedia.com/resources/blog/posts/how-to-build-a-case-study-for-your-manufacturing-company",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://www.marketveep.com/blog/understanding-manufacturing-case-studies-definition-importance-and-more",
+    "https://www.infor.com/customer-stories",
+    "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "https://www.fergusonindustrial.com/case-studies/",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/Instock-case-study_US.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Instock white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.mycompanyworks.com/reseller",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Instock founded funding employees revenue",
+   "results": [
+    "https://instock.com/en/news/instock-new-funding-led-by-amazon-industrial-innovation-fund/",
+    "https://dfi.wa.gov/financial-education/information/basics-investing-stocks",
+    "https://tracxn.com/d/companies/instock/__Hr5BttkD-RITHuRvwxrcyzEKNfpN-OQICQ-23dIDARE/funding-and-investors",
+    "https://investorrelations.sarepta.com/news-releases/news-release-details/sarepta-therapeutics-announces-fourth-quarter-and-full-year-2025",
+    "https://getlatka.com/companies/insite-software",
+    "https://pitchbook.com/profiles/company/84550-96",
+    "https://www.linkedin.com/company/instockcom",
+    "https://www.microsoft.com/investor/reports/ar25/index.html",
+    "https://carta.com/learn/equity/stock-options/",
+    "https://compworth.com/company/instockcom"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Instock",
+   "results": [
+    "https://note.com/akihiroyasui/n/n18fa84622c84",
+    "https://note.com/kabutabi2000/n/nee35cdfa472f?hl=en",
+    "https://note.com/forza_tsukuba/n/na955ee818a46?hl=en",
+    "https://note.com/colony_i/n/nf6cd00cd3954?hl=en",
+    "https://note.com/forza_tsukuba/n/n6f6a02df2c56?hl=en",
+    "https://note.com/brisk_broom320/n/na73dacbdfe1e?hl=en",
+    "https://note.com/mikessan_life/n/n9c7ee98d947f?hl=en",
+    "https://note.com/asafreelance/n/n8e3efe3a3933?hl=en",
+    "https://note.com/cute_jacana889/n/nc00de169c82f?hl=en",
+    "https://note.com/kabuya66/n/ndc33cf59012e?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Instock",
+   "results": [
+    "https://x.com/hashtag/instock",
+    "https://x.com/Wario64/status/2115166180516229472",
+    "https://x.com/iAlertsAE/status/2118960874454995412",
+    "https://x.com/mia_sova/status/2110914544868450470",
+    "https://x.com/iAlertsAE/status/2118601215101513875",
+    "https://x.com/FatKidDeals/status/2118410596265963978",
+    "https://x.com/zilliz_universe/status/2120173384604545248",
+    "https://x.com/PokemonStockUS/status/2119060020167954941",
+    "https://x.com/iAlertsAE/status/2118960914829336692",
+    "https://x.com/instockradar"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Instock",
+   "results": [
+    "https://www.linkedin.com/company/instockcom",
+    "https://www.linkedin.com/company/instock-inc.",
+    "https://www.linkedin.com/company/instockorg",
+    "https://uk.linkedin.com/company/instock-group",
+    "https://www.linkedin.com/products/scriptengine-back-in-stock-alert-engine/",
+    "https://www.linkedin.com/company/instock-supplements",
+    "https://www.linkedin.com/in/anchyshkin",
+    "https://ca.linkedin.com/company/instock-trading-ltd",
+    "https://www.linkedin.com/jobs/amazon-manager-instock-management-jobs",
+    "https://uk.linkedin.com/in/michael-payne-6793a333"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Instock",
+   "results": [
+    "https://www.facebook.com/p/Instock-61567093256736/",
+    "https://www.facebook.com/instockofficial/",
+    "https://www.facebook.com/61558370953294/mentions/",
+    "https://www.facebook.com/InStockGamesFB/",
+    "https://www.facebook.com/InStockInc/",
+    "https://www.facebook.com/instockorg/",
+    "https://www.facebook.com/instock.nl/",
+    "https://www.facebook.com/groups/2988292571498461/posts/4206784556315917/",
+    "https://www.facebook.com/InstockNZ/",
+    "https://www.facebook.com/instockUK/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Instock note 社長",
+   "results": [
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://diamond.jp/articles/-/388572",
+    "https://x.com/sadaaki",
+    "https://note.com/sadaaki",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Instock X 投稿",
+   "results": [
+    "https://cloud.instock.com/",
+    "https://publish.x.com/",
+    "https://apps.apple.com/us/app/instock-shopping/id6445827103",
+    "https://embedsocial.jp/blog/twitter-x-copyright/",
+    "https://www.reddit.com/r/DurstonGearheads/comments/1qbwsrq/xdome_1_is_back_in_stock/",
+    "https://eow.alc.co.jp/search?q=instock",
+    "https://instock-app.com/about",
+    "https://www.instagram.com/stockx/",
+    "https://help.studio.design/ja/articles/4675994-x-twitter-%E3%81%AE%E5%80%8B%E5%88%A5%E6%8A%95%E7%A8%BF%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80",
+    "https://x.com/hashtag/instock"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

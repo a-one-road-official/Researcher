@@ -1,0 +1,1092 @@
+{
+ "name": "株式会社ムサシノエンジニアリング",
+ "aliases": [],
+ "context": "ipros_all:オーダーメイド",
+ "researched_at": "2026-11-11T19:42:23.411146+00:00",
+ "official_url": "http://www.musashino-eng.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "埼玉県さいたま市岩槻区並木二丁目10番10号",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "埼玉県さいたま市岩槻区並木二丁目10番10号",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒339-0068 埼玉県さいたま市岩槻区並木2-10-10",
+    "url": "https://www.atengineer.com/pr/musashino-eng/company",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "宮本　和夫",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "宮本　和夫",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "宮本　和夫",
+    "url": "https://www.atengineer.com/pr/musashino-eng/company",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "（納入先",
+    "value": "産業技術総合研究所）",
+    "url": "https://www.musashino-eng.co.jp/product/order/",
+    "pass": 1
+   },
+   {
+    "label": "多軸ステージ（納入先",
+    "value": "東京大学",
+    "url": "https://www.musashino-eng.co.jp/product/order/",
+    "pass": 1
+   },
+   {
+    "label": "納入先",
+    "value": "国立天文台（南極観測隊にて使用）",
+    "url": "https://www.musashino-eng.co.jp/product/order/",
+    "pass": 1
+   },
+   {
+    "label": "装置（納入先",
+    "value": "東北",
+    "url": "https://www.musashino-eng.co.jp/product/order/",
+    "pass": 1
+   },
+   {
+    "label": "（納入先",
+    "value": "東北大学",
+    "url": "https://www.musashino-eng.co.jp/product/order/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "業務内容",
+    "value": "1.大学、国の研究機関及び大手メーカー研究所等へオーダーメイドの特殊装置(精密機械及び真空装置)の機械設計、製作をして頂きます。 2.大学、国の研究機関及び大手メーカー研究所などに当社製品のPR\n            などを行っていただきます。 3.主な業務は、真空部品の検査(ノギス・マイクロなどの測定工具使用)、洗浄、梱包、組立、機械加工(旋盤)等を行います。",
+    "url": "https://www.musashino-eng.co.jp/recruit/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "製品の微細化、積層化を実現する低温・常温接合（貼り合わせ）装置と、超高真空装置の開発、部品のことならムサシノエンジニアリングへ",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の展示ブースでは「原子拡散接合 ADB」「表面活性接合 SAB」「真空脱ガス処理・ガス分析」「真空カメラ」等上記の製品やサービスについて展示をさせて頂き、ご来場者の方々にご興味をお持ち頂き大変光栄に存じます",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も安定的な製品供給と品質の維持・向上に努めて参ります",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品情報 「広視野角真空カメラＭＶＥ−０６」の販売開始について",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "販売依頼真空業界や半導体関連業界の皆様から反響を頂いている弊社の真空カメラシリーズですが、この度新たな新機種がラインナップに加わりました",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品「広視野角 真空カメラバキュームアイ ＭＶＥ−０６」",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新たにラインナップに加えさせていただきました",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品の参考ガス放出データに関する資料について",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "この度お客様からの要望が多かった弊社製品のガス放出のデータについて「参考資料」としてPDFの資料を用意しました",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "実際の使用される環境や、製品の形状・仕様・処理などによっても変動する可能性があるため、保証値ではなくあくまで参考値として認識下さい",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "皆様に長らくご愛顧を頂いてまいりました下記製品について",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "3種類同時の新製品です",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "加速製品に新たに「小角散乱用真空パス自動切換装置」が加わりました",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "全国中小企業団体中央会より平成２１年度ものづくり中小企業製品開発等支援補助金（試作開発等支援事業）に申請し、交付決定",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お仕着せの製品ではなく、お客様の御要望に合わせた提案を行い、世界にひとつしかない装置を多く開発しており、従来不可能だったことを可能にするお手伝いをしてまいりました",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "景気に左右されず、差別化された先端的技術、製品を持ちユーザーに対しても、また財務に於いても安定した強い会社を目指す",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品、技術、サービス全てに独自性をもつ",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ボルトから真空装置まで、幅広いラインナップで、お客様のご要望にお応えいたします",
+    "url": "https://www.musashino-eng.co.jp/product/standard/",
+    "pass": 1
+   },
+   {
+    "quote": "ボルト1本から、装置まで、お客様の仕様にそった製品を提供して参ります",
+    "url": "https://www.musashino-eng.co.jp/product/order/",
+    "pass": 1
+   },
+   {
+    "quote": "2.大学、国の研究機関及び大手メーカー研究所などに当社製品のPR",
+    "url": "https://www.musashino-eng.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "全国中小企業団体中央会より平成２１年度ものづくり中小企業製品開発等支援補助金（試作開発等支援事業）に申請し、交付決定",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お仕着せの製品ではなく、お客様の御要望に合わせた提案を行い、世界にひとつしかない装置を多く開発しており、従来不可能だったことを可能にするお手伝いをしてまいりました",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "景気に左右されず、差別化された先端的技術、製品を持ちユーザーに対しても、また財務に於いても安定した強い会社を目指す",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品、技術、サービス全てに独自性をもつ",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ICFフランジ用として、スタンダード品をラインナップ",
+    "url": "https://www.musashino-eng.co.jp/product/shinkuu/",
+    "pass": 1
+   },
+   {
+    "quote": "●上記製品の仕様条件としてWindows10以降に対応したPC環境が別途必要となります",
+    "url": "https://www.musashino-eng.co.jp/documents/20251014.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "新機種のMVE-04H・05Hシリーズが、弊社製品の従来の真空カメラと違う",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a5/pdf/MVE-04H_05H_QA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 上記製品の使用条件として、Windows7 以降 (USB3.0及びUSB2.0)に対応したPC環境が別途必要となります",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a5/pdf/mve04h.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 上記製品の使用条件として、Windows7 以降 (USB3.0及びUSB2.0)に対応したPC環境が別途必要となります",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a5/pdf/mve05h.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※上記は弊社製品であるAL製ICFフランジを、同じく弊社製品であるAL製ボルト",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a2/pdf/AL_ICF_flange_toruq.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "真空に関するお問い合わせの中で、昨今増えているのが製品や素材からのガス放出を測定して",
+    "url": "https://www.musashino-eng.co.jp/product/shinkuu/pdf/jyutaku_s_Hosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・真空用途で使用する既存の製品だが、実際にどんなガス放出が出ているのか測定してみたい",
+    "url": "https://www.musashino-eng.co.jp/product/shinkuu/pdf/jyutaku_s_Hosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "、製品・技術・サービス",
+    "url": "https://www.atengineer.com/pr/musashino-eng/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ムサシノエンジニアリングの製品・技術・サービス",
+    "url": "https://www.atengineer.com/pr/musashino-eng/company",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "チタンネジ・ナットの年度末応援セールの開催!",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・チタンネジ・ボルト（大気用・中低真空用・超高真空用 各種）",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発分野でも使用されている高品質なチタン、セラミックネジ・ボルトを是非この機会に手に入れてはいかがでしょうか",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・チタンネジ・ボルト（大気用・中低真空用・超高真空用 各種）は",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンネジ・真空圧着端子・アルミベローズ・超高真空ステージ（θ）各開発、販売開始",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレス、アルミニウム合金、銅、チタン、 ハーステロイ他",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・セラミックネジ（アルミナ、ジルコニア他）",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・特殊材質ボルト（チタン、モリブデン、インコネル他）",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ICF 以外の形状のもの・材質の変更・特殊形状",
+    "url": "https://www.musashino-eng.co.jp/product/standard/",
+    "pass": 1
+   },
+   {
+    "quote": "一般的なチャンバー材質のため、自由な形状が可能",
+    "url": "https://www.musashino-eng.co.jp/product/order/",
+    "pass": 1
+   },
+   {
+    "quote": "材質はXM-7(SUS304相当品)及びSUS316Lにて特殊表面処理後、ガス出しを行っている為、放出ガスが少ない",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a3/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質はXM-7(SUS304相当品)及びSUS316Lにてガスニゲ穴加工後、真空用脱脂洗浄を行っている",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a3/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "真空用のチタンネジとして超高真空領域（10-6〜10-10Pa）用、中低真空領域（10-2〜10-5Pa）用の2種類をご用意",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a3/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "■大気用のチタンネジの販売も行っております",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a3/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社独自の加工方法を駆使して製作され､セラミック本来の特性が生かせるセラミック製ネジ・ナットである",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a3/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質はアルミナ（標準 96％）",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a3/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境、用途に応じた材質にて製作が可能",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a3/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "チタンネジ・真空圧着端子・アルミベローズ・超高真空ステージ（θ）各開発、販売開始",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレス、アルミニウム合金、銅、チタン、 ハーステロイ他",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "・セラミックネジ（アルミナ、ジルコニア他）",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "・特殊材質ボルト（チタン、モリブデン、インコネル他）",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "アルミニウム合金、ステンレス、銅、チタン、他",
+    "url": "https://www.musashino-eng.co.jp/product/shinkuu/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミニウム合金、ステンレス合金、銅、チタン、モリブデン、ニッケル、パーマロイ、他各種金属、アルミナ、ジルコニア、マシナブルセラミック、他各種セラミックス、PTFE、ポリイミド、ナイロン、他各種樹脂",
+    "url": "https://www.musashino-eng.co.jp/product/shinkuu/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の使用される環境（真空度）や材質によって、ベーク温度やベーク時間を選択できます",
+    "url": "https://www.musashino-eng.co.jp/product/shinkuu/",
+    "pass": 1
+   },
+   {
+    "quote": "２．ボルト材質 ＳＵＳ３０４ ２．ボルト材質 ＳＵＳ３０４",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a2/pdf/SUS_ICF_flange_toruq.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．ガスケット材質 Ｃ１０２０ ３．ガスケット材質 Ｃ１０２０",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a2/pdf/SUS_ICF_flange_toruq.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "２．ボルト材質 Ａ２０２４－Ｔ４",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a2/pdf/AL_ICF_flange_toruq.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "３．ガスケット材質 Ａ１０５０－Ｈ２４",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a2/pdf/AL_ICF_flange_toruq.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・材質 ステンレス、アルミニウム合金、銅、チタン他",
+    "url": "https://www.atengineer.com/pr/musashino-eng/company",
+    "pass": 3
+   },
+   {
+    "quote": "・材質 ステンレス、アルミニウム合金、他",
+    "url": "https://www.atengineer.com/pr/musashino-eng/company",
+    "pass": 3
+   },
+   {
+    "quote": "・材質 ステンレス、アルミニウム、銅、他",
+    "url": "https://www.atengineer.com/pr/musashino-eng/company",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "＜ウルトラOリング 現規格品 ⇒ 受注生産品扱いへ変更のお知らせ＞",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "さて、当社ウルトラOリングの価格を2022年5月1日より規格品から受注生産品へと変更させて頂いております",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "※…今後2019年5月1日以降 受注生産品となります",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1.よくある質問と回答(常温接合試作/受託生産サービス編)",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2.常温接合 試作サ―ビス",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1.よくある質問と回答 試作サービス",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "少ロット・多品種で常温での接合に興味の有る方、常温接合装置の購入が難しいとお考えのユ−ザ−の方向けに、装置がなくても常温接合技術での生産を可能にするサービスです",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "常温接合に興味の有り、低コストで実験、試作をされたい方",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "全国中小企業団体中央会より平成２１年度ものづくり中小企業製品開発等支援補助金（試作開発等支援事業）に申請し、交付決定",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "常温接合による試作サービス及び受託生産サービスを開始",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "全国中小企業団体中央会より平成２４年度ものづくり中小企企業・小規模事業者試作開発等支援補助金に申請し、交付決定",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は規格品の販売も行っておりますが、オーダーメイド品の開発に積極的に応じております",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、スタンダード品では仕様が合わない場合は、オーダーメイドいたします",
+    "url": "https://www.musashino-eng.co.jp/product/standard/",
+    "pass": 1
+   },
+   {
+    "quote": "オーダーメイド品の詳細についてはこちらをご覧ください",
+    "url": "https://www.musashino-eng.co.jp/product/standard/",
+    "pass": 1
+   },
+   {
+    "quote": "オーダーメイド品｜常温接合・超高真空技術のムサシノエンジニアリング",
+    "url": "https://www.musashino-eng.co.jp/product/order/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、お客様のご要望に沿ったオーダーメイド品を数多く納品して参りました",
+    "url": "https://www.musashino-eng.co.jp/product/order/",
+    "pass": 1
+   },
+   {
+    "quote": "各電子顕微鏡でのお客様の多種多様なニーズに対応可能なオーダーメイドのマニピュレータです",
+    "url": "https://www.musashino-eng.co.jp/product/order/",
+    "pass": 1
+   },
+   {
+    "quote": "1.大学、国の研究機関及び大手メーカー研究所等へオーダーメイドの特殊装置(精密機械及び真空装置)の機械設計、製作をして頂きます",
+    "url": "https://www.musashino-eng.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "※受注生産の為あらかじめ納期をご確認ください",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a3/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "全国中小企業団体中央会より平成２１年度ものづくり中小企業製品開発等支援補助金（試作開発等支援事業）に申請し、交付決定",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "常温接合による試作サービス及び受託生産サービスを開始",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "全国中小企業団体中央会より平成２４年度ものづくり中小企企業・小規模事業者試作開発等支援補助金に申請し、交付決定",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は規格品の販売も行っておりますが、オーダーメイド品の開発に積極的に応じております",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "全体図から単品図を作成し、各種ユニットを製作することも可能です",
+    "url": "https://www.musashino-eng.co.jp/product/shinkuu/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "販売依頼真空業界や半導体関連業界の皆様から反響を頂いている弊社の真空カメラシリーズですが、この度新たな新機種がラインナップに加わりました",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "JAXA（独立行政法人宇宙航空研究開発機構）",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2012.11.2(金) JAXA筑波宇宙センター",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "東北自動車道を”大宮方面”へ出られて、6つ目の信号（深作南）を右折します(約3km)",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "信号を2つほど過ぎて東北自動車道を渡る橋の手前（一方通行）を左折します(約850m)",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体、フラットパネルディスプレイ向け、開発及び製造装置の設計・製作",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "医療・医療品向け、開発及び製造装置の設計・製作",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "６軸（ＸＹＺθ1，θ2，チルト）マニピュレータ、 マグネットカップリング、ロボット",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・宇宙環境機器，装置",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "東北自動車道を”大宮方面”へ出られて、6つ目の信号（深作南）を右折します(約3km)",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "信号を2つほど過ぎて東北自動車道を渡る橋の手前（一方通行）を左折します(約850m)",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体、フラットパネルディスプレイ向け、開発及び製造装置の設計・製作",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療・医療品向け、開発及び製造装置の設計・製作",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "６軸（ＸＹＺθ1，θ2，チルト）マニピュレータ、 マグネットカップリング、ロボット",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "・宇宙環境機器，装置",
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "■超高真空用搬送ロボット 1",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a1/",
+    "pass": 1
+   },
+   {
+    "quote": "■超高真空用搬送ロボット 2",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a1/",
+    "pass": 1
+   },
+   {
+    "quote": "・宇宙環境機器，装置",
+    "url": "https://www.atengineer.com/pr/musashino-eng/company",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お急ぎの場合は、各案件担当者ごとのメールアドレスか、",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社HP左側の黄色いボタンの「資料請求・お問い合わせ」をクリック頂き、ご用件をご入力頂けますと幸いです",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お盆休み期間中にいただきましたお問い合わせにつきましては、",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事前登録等は不要ですので、※メールアドレスは必要です",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせの多い、ガラスとガラスの常温接合についての特集ページを開設しました",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "MAIL：takahide.ikahata@tsubaki.co.jp",
+    "url": "https://www.musashino-eng.co.jp/documents/20251014.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また訪問だけでなくお電話やMAIL等でも随時ご相談を受け付けております",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a5/pdf/MVE-04H_05H_QA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "MAIL:y-horikoshi@musashino-eng.co.jp",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a5/pdf/MVE-04H_05H_QA.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "TEL：03-6718-0150 E-Mail：takahide.ikahata@tsubaki.co.jp",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a5/pdf/mve04h.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "E-mail info@musashino-eng.co.jp",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a5/pdf/mve05h.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "TEL：03-6718-0150 E-Mail：takahide.ikahata@tsubaki.co.jp",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a5/pdf/mve05h.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "真空に関するお問い合わせの中で、昨今増えているのが製品や素材からのガス放出を測定して",
+    "url": "https://www.musashino-eng.co.jp/product/shinkuu/pdf/jyutaku_s_Hosoku.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "E-mail info@musashino-eng.co.jp",
+    "url": "https://www.musashino-eng.co.jp/product/shinkuu/pdf/jyutaku_s_Hosoku.pdf",
+    "pass": 2
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "1〜200AMU",
+    "url": "https://www.musashino-eng.co.jp/product/shinkuu/",
+    "pass": 1
+   },
+   {
+    "quote": "CMOS Camera for High Vacuum \"Vacuum Eye\" TYPE MVE-04H",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a5/pdf/mve04h.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "CMOS Camera LED Light(Option)",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a5/pdf/mve04h.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "CMOS Camera for High Vacuum \"Vacuum Eye\" TYPE MVE-05H",
+    "url": "https://www.musashino-eng.co.jp/product/standard/a5/pdf/mve05h.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（SAMPLEイメージ） （SAMPLEイメージ）",
+    "url": "https://www.musashino-eng.co.jp/product/shinkuu/pdf/jyutaku_s_Hosoku.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "常温接合・超高真空技術のムサシノエンジニアリング — 少ロット・多品種で常温での接合に興味の有る方、常温接合装置の購入が難しいとお考えのユ－ザ－の方向けに、装置がなくても常温接合技術での生産を可能にするサービスです。 詳細はこちら 2012/6/25 常温接合による試作サービス始動！ ！",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "常温接合 試作／受託生産サービス｜常温接合・超高真空技術のムサシノ... — これまでムサシノエンジニアリングでは、常温接合装置 (SAB方式・ADB方式)の製造・販売を行ってきましたが、以下のようなお客様の声を聞くようになりました。 「装置の価格が高く、初期コストがかかりすぎる」",
+    "url": "https://www.musashino-eng.co.jp/prototype/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜常温接合・超高真空技術のムサシノエンジニアリング常温接合・超高真空技術のムサシノエンジニアリング株式会社ムサシノエンジニアリング - 会社概要株式会社 武蔵野エンジニアリング | HOME株式会社 武蔵野エンジニアリング | 会社案内会社概要｜企業情報｜ディスペンサーの武蔵エンジニアリング株式会社ムサシエンジニヤリング｜血液浄化治療に特化した医療専門商... — 保有技術 1．設計技術 一般産業機械の設計製作から、超高真空分野に入りましたので、機構的にも、一般 真空メーカーにないものが、設計可能です。 光学系，真空系，極低温系，超精密加工系などの基礎技術を基に駆動系をもっとも得意としており、容器及び装置までも、 設計しており制御系 ... ムサシノエンジニアリング トップページ ｜ 会社概要 ｜ 製品一覧 ｜ 常温接合 ｜ 「したい」に応える 加速器 ｜ 真空入門 ｜ Engli",
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "常温接合・超高真空技術のムサシノエンジニアリング — ムサシノエンジニアリング トップページ ｜ 会社概要 ｜ 製品一覧 ｜ 常温接合 ｜ 「したい」に応える 加速器 ｜ 真空入門 ｜ English ｜ 資料請求・お問い合わせ ｜ 採用情報 ｜ サイトマップ ｜ リンク",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ムサシノエンジニアリング - 会社概要 — 企業プロフィール 企業名 株式会社ムサシノエンジニアリング 企業名かな むさしのえんじにありんぐ 住所 〒339-0068 埼玉県さいたま市岩槻区並木2-10-10 最寄り駅 岩槻駅より徒歩で約30分 岩槻駅よりタクシーで約10分 代表者名 宮本 和夫 ホームページ 株式会社ムサシノエンジニアリングのホーム ...",
+    "url": "https://www.atengineer.com/pr/musashino-eng/company",
+    "pass": 3
+   },
+   {
+    "quote": "資料請求・お問い合わせ｜常温接合・超高真空技術のムサシノエンジニ... — ムサシノエンジニアリング トップページ ｜ 会社概要 ｜ 製品一覧 ｜ 常温接合 ｜ 「したい」に応える 加速器 ｜ 真空入門 ｜ English ｜ 資料請求・お問い合わせ ｜ 採用情報 ｜ サイトマップ ｜ リンク",
+    "url": "https://www.musashino-eng.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "常温接合・超高真空技術のムサシノエンジニアリング — 弊社HP左側の黄色いボタンの「資料請求・お問い合わせ」をクリック頂き、ご用件をご入力頂けますと幸いです。 上記の件ご不便をおかけしてしまい誠に恐れ入りますが、何卒宜しくお願い申し上げます。 2026/7/23 お盆休みのお知らせ",
+    "url": "https://www.musashino-eng.co.jp/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.musashino-eng.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/standard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/standard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/order/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/standard/a3/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/order/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/standard/a1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/shinkuu/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.musashino-eng.co.jp/documents/20251014.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/standard/a5/pdf/MVE-04H_05H_QA.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/standard/a5/pdf/mve04h.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/standard/a5/pdf/mve05h.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/standard/a2/pdf/SUS_ICF_flange_toruq.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/standard/a2/pdf/AL_ICF_flange_toruq.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/shinkuu/pdf/jyutaku_s_Hosoku.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/standard/a3/pdf/UHV_gas_housyutuSP.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/img/menu_company_on.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/img/menu_product_off.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/company/img/h2_01.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/company/img/index_pic01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/img/menu_company_off.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/img/menu_product_on.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/standard/img/h2_01.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/standard/img/img_std.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/order/img/h2_01.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/order/img/index_pic03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/order/img/index_pic03_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.musashino-eng.co.jp/product/order/img/index_pic01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.musasino.biz/jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/musashino-eng/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.musasino.biz/jp/contact/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ムサシノエンジニアリング 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.musashino-eng.co.jp/",
+    "https://www.musasino.biz/jp/product/",
+    "https://www.musashino-eng.co.jp/prototype/",
+    "http://www.n-musashino.co.jp/ordermade/",
+    "https://www.musashi-engineering.co.jp/",
+    "http://www.musashinoeng.co.jp/",
+    "https://musashinoeng-co-jp.secure-web.jp/items",
+    "https://www.musashi-engineering.co.jp/product.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "ムサシノエンジニアリング 会社概要 事業内容",
+   "results": [
+    "https://www.musashino-eng.co.jp/company/",
+    "https://www.musashino-eng.co.jp/",
+    "https://www.atengineer.com/pr/musashino-eng/company",
+    "https://www.musashi-engineering.co.jp/company/outline.html",
+    "http://www.musashinoeng.co.jp/",
+    "http://musashinoeng.co.jp/page/gaiyou",
+    "https://musashi-eng.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ムサシノエンジニアリング お問い合わせ メール",
+   "results": [
+    "https://www.musashino-eng.co.jp/contact/",
+    "https://www.musasino.biz/jp/contact/",
+    "https://www.musashino-eng.co.jp/",
+    "https://musashi-eng.co.jp/contact/",
+    "https://musashino-jp.com/contact/",
+    "https://www.musashi.co.jp/inquiry.html",
+    "http://musashinoeng.co.jp/contact"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ムサシノエンジニアリング",
+   "results": [
+    "https://note.com/musashino_ad_inc",
+    "https://note.com/musashino_ad_inc/all",
+    "https://note.com/shonan_power2021/n/n929e4b1806fd",
+    "https://note.com/musashino_ad_inc/n/nf0a67980a311",
+    "https://tales.note.com/",
+    "https://note.com/hidetoshiiwasaki/n/n2da12dd239f3",
+    "https://note.com/musashino_ad_inc/n/n790c80f41801"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ムサシノエンジニアリング",
+   "results": [
+    "https://x.com/",
+    "https://x.com/musashinofabric",
+    "https://x.com/musa_shino",
+    "https://x.com/musashinotrader",
+    "https://x.com/Daisantetudou/status/2108179767249752084",
+    "https://x.com/nmseng20171013",
+    "https://x.com/pressyanomask"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ムサシノエンジニアリング",
+   "results": [
+    "https://www.linkedin.com/company/musashino-chemical-laboratory-ltd/",
+    "https://cl.linkedin.com/in/paul-andrés-chateau-undurraga-8266842b7",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://www.linkedin.com/",
+    "https://es.linkedin.com/pulse/el-uso-y-abuso-del-prefijo-neuro-en-la-ciencia-lidera-psicología-uitrf",
+    "https://jp.linkedin.com/in/morinaga",
+    "https://jp.linkedin.com/in/sophia-hu-07b11342/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ムサシノエンジニアリング",
+   "results": [
+    "https://www.facebook.com/kspeng.co.jp/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/Muarrow/",
+    "https://www.facebook.com/musashinoseiki/videos/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/p/株式会社-ムサシノ照明-100057257456467/",
+    "https://www.facebook.com/p/ムサシノ広告社-100064003903242/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ムサシノエンジニアリング note 社長",
+   "results": [
+    "https://www.musashino-eng.co.jp/",
+    "https://compalyze.co.jp/company/1030001018244",
+    "https://www.musashino-eng.co.jp/company/",
+    "https://www.musashi.co.jp/company/director.html",
+    "https://www.musasino.biz/jp/",
+    "http://www.musashinoeng.co.jp/",
+    "https://musashi-eng.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ムサシノエンジニアリング X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像20件／外部3頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像20件／外部3頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式12頁／PDF・画像20件／外部3頁・検索9回）"
+ }
+}

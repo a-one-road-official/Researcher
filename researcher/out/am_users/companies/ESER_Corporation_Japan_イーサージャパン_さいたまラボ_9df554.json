@@ -1,0 +1,581 @@
+{
+ "name": "ESER Corporation-Japan(イーサージャパン） さいたまラボ",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T18:57:03.480134+00:00",
+ "official_url": "http://www.esercorp-jp.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒336-0017 埼玉県さいたま市南区南浦和３−１４−１４ 地図はこちら",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒610-0361 京都府京田辺市河原受田４３－８　ルーブルビル４A 地図はこちら",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "精度、耐久性に優れた製品の設計から製造まで一貫して行っております",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "このたび、当社主力製品であるスクリューディスペンサー「AMDシリーズ」の",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ラインナップに、大容量吐出モデル【AMD-9】が新たに加わり、販売を開始",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "新しいさいたまラボでは、当社の主力製品である**高精度スクリューディスペンサー（AMDシリーズ）をはじめ",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【新製品】『マイクロショット』発売のお知らせ",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "エアー源を使用しない自給式ポンプで、ジェット式より大きなマイクロリットルレベルの滴下できる『マイクロショット』を新製品として販売いたします",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "が、研究者・エンジニア向け製品・メーカー情報比較サイト",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【新製品】『超音波ノズル洗浄機』リニュアルのお知らせ",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【新製品】『AMD7シリーズ』発売のお知らせ",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "スクリューディスペンサAMDシリーズにAMD7P-μを新製品として販売いたします",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "容積移送式ポンプ ２タイプを販売新製品として販売いたします",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 | イーサーコーポレーションジャパン - 高精度スクリューディスペンサー",
+    "url": "https://www.esercorp-jp.com/20250612141904",
+    "pass": 1
+   },
+   {
+    "quote": "塗布装置カスタム製品 | イーサーコーポレーションジャパン - 高精度スクリューディスペンサー",
+    "url": "https://www.esercorp-jp.com/custum",
+    "pass": 1
+   },
+   {
+    "quote": "ESER Corporationは品質世界一の製品を業界に提供する事を目的に設立",
+    "url": "https://www.esercorp-jp.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は現在も将来も変わることのない『Simple is the best』の概念に基き、スクリューディスペンサーの製作をはじめ、精密ノズル、エラストマー、精密部品の機械加工、組み立て等、高品質の製品を最高なカスタマーサービスで業界に提供すべく日々努力を続けております",
+    "url": "https://www.esercorp-jp.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "モータは標準ラインナップとして安川電機社製・MAXON社製の選択が可能",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "安川電機製モータを使用し、従来のスクリューポンプ用コントローラでの使用可能、弊社セラミックノズルをダイレクトアタッチすることにより微細塗布が可能 …",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "積層圧電セラミックを使用したジェット式より",
+    "url": "https://www.esercorp-jp.com/20250612141904",
+    "pass": 1
+   },
+   {
+    "quote": "SUS製・セラミック製・PTFEノズルの製作可能",
+    "url": "https://www.esercorp-jp.com/20250612141904",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックスクリューポンプによりシリカ・蛍光体等の粒子が多く含まれた材料でも高精度に塗布が可能です",
+    "url": "https://www.esercorp-jp.com/custum",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックノズルにより高粘度材料の微細塗布が可能になりました",
+    "url": "https://www.esercorp-jp.com/custum",
+    "pass": 1
+   },
+   {
+    "quote": "ディスペンサー用セラミックノズル製造・販売",
+    "url": "https://www.esercorp-jp.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "シリンダ・接液ボディ材質はPEEKを採用し、嫌気性等の金属反応の接着剤に対応、",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "先端は、セラミックノズルをダイレクト接続、材料OUTをメねじボディータイプもご用意しており、",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "接液部にはジルコニアセラミックを採用、シリカ混入材料に対しても高耐久性を実現",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "SUS製ローターとパーフロ製ステーターを標準タイプとし、オーリング材質はFKM（フッ素ゴム）を使用しており",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックノズルをダイレクトに取り付け、塗布の応答性UP",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "によりイーサー製セラミックノズルを直接取り付け可能、計量室から先端までの容積を減らし",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "■さらに使用液剤対応の部品材質違いを各々３品種用意してあります",
+    "url": "https://www.esercorp-jp.com/ms-dispenser",
+    "pass": 1
+   },
+   {
+    "quote": "接液部はPTFE・セラミック・ルビー・サファイヤ等を使用し",
+    "url": "https://www.esercorp-jp.com/ms-dispenser",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "航空宇宙産業の技術を基にしたディスペンサー",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙産業で30年にわたり蓄積されたノウハウを生かし、",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "：航空宇宙技術のノウハウを応用し、高負荷な製造ラインでも安定した精度と優れた耐久性を発揮します",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品・電子基板・バッテリー等の大容量ディスペンス工程",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用ロボットや卓上型塗布ロボットへの組み込み",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "画像処理・高さセンサー標準搭載の3軸塗布装置、試薬分注ロボット",
+    "url": "https://www.esercorp-jp.com/20250612141904",
+    "pass": 1
+   },
+   {
+    "quote": "塗布・試薬分注ロボットからポンプ単体まで、",
+    "url": "https://www.esercorp-jp.com/20250612141904",
+    "pass": 1
+   },
+   {
+    "quote": "3軸ロボット",
+    "url": "https://www.esercorp-jp.com/20250612141904",
+    "pass": 1
+   },
+   {
+    "quote": "30年に亘り航空宇宙産業で蓄積されたノウハウを駆使し、汎用品の設計製造から販売までを一貫して行っています",
+    "url": "https://www.esercorp-jp.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "米国政府専用航空宇宙産業に従事する組織の経営陣が10年程前に民間部門強化の決定を下し、その組織内で民間事業専門部門としてESER Corporationが設立されました",
+    "url": "https://www.esercorp-jp.com/company",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "【AMD-9】販売のお知らせ",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "このたび、当社主力製品であるスクリューディスペンサー「AMDシリーズ」の",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ラインナップに、大容量吐出モデル【AMD-9】が新たに加わり、販売を開始",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【AMD-9 の主な特長・メリット】",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "新しいさいたまラボでは、当社の主力製品である**高精度スクリューディスペンサー（AMDシリーズ）をはじめ",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "一軸偏心モーノポンプ（AMD-9）、超微量塗布システム（マイクロショット）など、各種塗布装置のデモ機を",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【新製品】『AMD7シリーズ』発売のお知らせ",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "スクリューディスペンサAMDシリーズにAMD7P-μを新製品として販売いたします",
+    "url": "https://www.esercorp-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AMD-8シリーズ",
+    "url": "https://www.esercorp-jp.com/20250612141904",
+    "pass": 1
+   },
+   {
+    "quote": "Screw Pump ＆ Micro Ceramic Processing Technology",
+    "url": "https://www.esercorp-jp.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "AMD-3 スクリューディスペンサー",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "AMD-3 μ仕様",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "AMD-3 スクリューディスペンサー 塗布動画",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "AMD-７ スクリューディスペンサー",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "AMD-7 μ仕様",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "AMDー7嫌気性対応タイプ",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "AMD-7のコンパクト仕様タイプ",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "『AMD3』同様モータメーカの選択可能",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "AMD-7 スクリューディスペンサー クリームハンダ塗布動画",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "AMD-９ スクリューディスペンサー",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "AMD3・７",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "AMD-3の大容量タイプ",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "AMD-9 スクリューディスペンサー",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "CERAMIC 16-1-07_half",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "CERAMIC 8-2-2",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "CERAMIC 8-1-1",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "CERAMIC 4-1-07",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "ESER Japanが提案する『AMD8』は、",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "AMD-8-300シリーズ",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "AMD-8-300μシリーズ",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "AMD8-RD3シリーズ",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "AMD8-RD3μシリーズ",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "AMD8-RD4シリーズ",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "AMD8RD3・RD4用",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "AMD8-300用",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "独自構造のチューブ、小型微少量タイプから",
+    "url": "https://www.esercorp-jp.com/20250612141904",
+    "pass": 1
+   },
+   {
+    "quote": "■特注アダプタ採用により、",
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロショット | 微少量ポンプ 滴下ポンプ",
+    "url": "https://www.esercorp-jp.com/ms-dispenser",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "イーサージャパン - Facebook イーサージャパン - Facebook ... イーサージャパン",
+    "url": "https://www.facebook.com/イーサージャパン-102173725834514/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.esercorp-jp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esercorp-jp.com/20250612141904",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esercorp-jp.com/custum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esercorp-jp.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esercorp-jp.com/screw-dispenser1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esercorp-jp.com/ms-dispenser",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.esercorp-jp.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.esercorp-jp.com/library/59b11514363e0e257350249e/63d0e1c5f7c153046d3d5d57.png",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.facebook.com/イーサージャパン-102173725834514/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ESER -Japan(イーサージャパン) さいたまラボ 取扱製品 試作 小ロット",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "ESER -Japan(イーサージャパン) さいたまラボ 会社概要 事業内容",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "ESER -Japan(イーサージャパン) さいたまラボ お問い合わせ メール",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com ESER -Japan(イーサージャパン) さいたまラボ",
+   "results": [
+    "https://note.com/labtama",
+    "https://note.com/ischca/n/nbdcd5fb6dad2",
+    "https://note.com/labtama/n/n4b155f0d38e1?hl=en",
+    "https://note.com/labtama/n/n68ce7e4edb51",
+    "https://note.com/labtama/n/n9121febe3bec",
+    "https://note.com/labtama/n/n4b155f0d38e1",
+    "https://note.com/labtama/n/n21d7b33672bb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ESER -Japan(イーサージャパン) さいたまラボ",
+   "results": [
+    "https://x.com/EsetJapan/status/2117850524011860048",
+    "https://x.com/EsetJapan/status/2113200074499187044",
+    "https://x.com/URAWA_LABO",
+    "https://x.com/URAWA_LABO/status/2104755808886194249",
+    "https://x.com/URAWA_LABO/status/2118100582879953391",
+    "https://x.com/URAWA_LABO/status/2113468019167076585",
+    "https://x.com/URAWA_LABO/status/2074663460173156645"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ESER -Japan(イーサージャパン) さいたまラボ",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com ESER -Japan(イーサージャパン) さいたまラボ",
+   "results": [
+    "https://www.facebook.com/イーサージャパン-102173725834514/",
+    "https://www.facebook.com/saitamalabo/",
+    "https://www.facebook.com/esirdesign/",
+    "https://www.facebook.com/100075859645116/photos/starプロジェクト地域デザインラボさいたまの綾部です8月28日木にりそなコエドテラスにおいて経済産業省-令和6年度-未踏的な地方の若手人材発掘育成支援事業費補/797309599474354/",
+    "https://www.facebook.com/100075859645116/posts/starプロジェクト地域デザインラボさいたまの綾部です8月28日木にりそなコエドテラスにおいて経済産業省-令和6年度-未踏的な地方の若手人材発掘育成支援事業費補/797309619474352/",
+    "https://www.facebook.com/Takum1Method/",
+    "https://www.facebook.com/esirdesign/posts/イーサーデザインの一押しポイント直線を用いず造られたアートのような建築物architeckure-インテリアデザイン-自然派ワイン-ワイン好きな人と繋がりたい-/562739699188116/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ESER -Japan(イーサージャパン) さいたまラボ note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "ESER -Japan(イーサージャパン) さいたまラボ X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部1頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部1頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部1頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部1頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部1頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部1頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部1頁・検索9回）"
+ }
+}

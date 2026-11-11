@@ -8,55 +8,45 @@
  ],
  "context": "探し先",
  "kind": "market",
- "researched_at": "2026-11-09T13:04:36.633570+00:00",
+ "researched_at": "2026-11-11T18:27:34.628442+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/eytn_1a5zb7x/n/n39d452828ac0",
+    "url": "https://note.com/yukafujimura/n/nebb69858a059",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
-    "url": "https://note.com/clean_duck544/n/n5b0d73f0048e",
+    "url": "https://note.com/yukafujimura/n/n707f48ad1883",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
-    "url": "https://note.com/ppcinc/n/nc85dfb72893e",
+    "url": "https://note.com/pesu1759/n/n6159593da045",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
-    "url": "https://note.com/glad_crab7608/n/ne88a1d982ca6",
+    "url": "https://note.com/zenkigen/n/n58c0bcc8fb33",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
-    "url": "https://note.com/everprogress/n/n28fc53b2c5cc",
+    "url": "https://note.com/pr_iflab2017/n/n676851057a79",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
-    "url": "https://note.com/newshack_yjnews/n/n2a6a1f61e682",
+    "url": "https://note.com/shoji_orihara/n/nbee7ea77cb2a",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
-    "url": "https://ja.wikipedia.org/wiki/%E8%AA%BF%E6%9F%BB%E5%A0%B1%E9%81%93",
+    "url": "https://note.com/slownewsjp/n/nf26a0f091758",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000010590060005/files/090605.pdf",
-    "status": "ok",
-    "method": "pdf"
+    "method": "browser"
    },
    {
     "url": "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
@@ -64,79 +54,114 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.jstage.jst.go.jp/article/bunken/68/12/68_70/_pdf",
+    "url": "https://note.com/asahi_ictrad/n/n21e94fff2691",
     "status": "ok",
-    "method": "pdf"
+    "method": "browser"
    },
    {
-    "url": "https://jasr.or.jp/wp/asr/asrpdf/asr21/asr21_050.pdf",
-    "status": "network_error:ConnectTimeout",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.tokucho.co.jp/kigyo-chosa-method/",
+    "url": "https://slownews.com/all",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
-    "url": "https://www.ags.co.jp/nw/column/column05.html",
-    "status": "network_error:ConnectTimeout",
-    "method": "http"
-   },
-   {
-    "url": "https://www.asahi.com/investigative-reporting/",
+    "url": "https://www.yomiuri.co.jp/choken/kijironko/ckworld/20230802-OYT8T50038/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://kaz-ogiwara.github.io/digital-journalism-showcase/",
+    "url": "https://note.jp/n/n7917dc1cdfe9",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/Journalism/comments/1m1x5yb/i_never_understood_how_journalists_get_scoops_any/?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.asahi.com/tips/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000010590050004/files/090504.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.jstage.jst.go.jp/article/bunken/68/12/68_70/_pdf/-char/ja",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://note.com/kazukio/n/nec2648f9888c",
+    "url": "https://inquire.jp/2021/06/17/lighthouse_reports/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://tomdahne.com/articles/link-analysis-investigation-case-management.html",
+    "url": "https://www.nichibenren.or.jp/document/civil_liberties/year/1999/1999_3.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://blog.opencorporates.com/2026/02/13/open-data-in-investigative-journalism/",
+    "url": "https://blogs.ricoh.co.jp/RISB/society/post_750.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://leadiq.com/c/investigative-reporters-and-editors/5a1d846424000024005ecf29",
+    "url": "https://www.chosakai.gr.jp/project/notification/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://firmadapt.com/blog/company-analysis-for-journalists-and-investigative-reporters",
+    "url": "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21K01848",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.researchgate.net/publication/340137639_Cross-Border_Non-Profit_Investigative_Journalism_Networks_A_Structural_Analysis_of_the_Field",
+    "url": "https://www.nippon-foundation.or.jp/what/projects/media-solution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-forum.org/award/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Facebook",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/facebook",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cpajournal.com/2016/03/16/using-network-analysis-detect-collusive-fraud/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/when-independent-director-resigns-does-auditor-have-red-yogesh-kumar-zdk1c",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.a-lign.com/articles/audit-report-red-flags",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deepquarry.substack.com/p/when-auditors-walk-red-flags-and",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://gijn.org/resource/researching-corporations-and-their-owners/",
-    "status": "http_403",
+    "url": "https://aihc-assn.org/fraud-detection-understanding-red-flags-and-risks/",
+    "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/malaysia.accountant/posts/auditors-resignation-may-be-a-red-flag-common-reasons-for-external-auditor-resig/1212005950954854/",
+    "status": "robots_disallowed",
+    "method": ""
    }
   ]
  },
@@ -144,204 +169,254 @@
   {
    "query": "会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110） site:note.com",
    "results": [
-    "https://note.com/eytn_1a5zb7x/n/n39d452828ac0",
-    "https://note.com/clean_duck544/n/n5b0d73f0048e",
-    "https://note.com/ppcinc/n/nc85dfb72893e",
-    "https://note.com/glad_crab7608/n/ne88a1d982ca6",
-    "https://note.com/everprogress/n/n28fc53b2c5cc",
-    "https://note.com/newshack_yjnews/n/n2a6a1f61e682",
-    "https://note.com/ourai/n/nda2ed2cfbde1"
+    "https://note.com/yukafujimura/n/nebb69858a059",
+    "https://note.com/yukafujimura/n/n707f48ad1883",
+    "https://note.com/pesu1759/n/n6159593da045",
+    "https://note.com/zenkigen/n/n58c0bcc8fb33",
+    "https://note.com/pr_iflab2017/n/n676851057a79",
+    "https://note.com/shoji_orihara/n/nbee7ea77cb2a",
+    "https://note.com/fair_hyssop961/n/nf7a14b4890a6",
+    "https://note.com/nhk_pr/n/nab821feff921",
+    "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "https://note.com/hirokimiyano/n/n6506692d9de4"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 11
   },
   {
    "query": "会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110） note",
    "results": [
-    "https://ja.wikipedia.org/wiki/調査報道",
-    "https://note.com/",
-    "https://note.com/clean_duck544/n/n5b0d73f0048e",
-    "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000010590060005/files/090605.pdf",
+    "https://note.com/slownewsjp/n/nf26a0f091758",
     "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
-    "https://www.jstage.jst.go.jp/article/bunken/68/12/68_70/_pdf",
-    "https://jasr.or.jp/wp/asr/asrpdf/asr21/asr21_050.pdf"
+    "https://note.com/asahi_ictrad/n/n21e94fff2691",
+    "https://slownews.com/all",
+    "https://note.com/yukafujimura/n/nebb69858a059",
+    "https://www.yomiuri.co.jp/choken/kijironko/ckworld/20230802-OYT8T50038/",
+    "https://note.jp/n/n7917dc1cdfe9",
+    "https://www.nikkei.com/article/DGKKZO94019250U5A111C1MY7000/",
+    "https://note.com/nhk_pr/n/nab821feff921",
+    "https://www.amazon.com/gp/help/customer/display.html?nodeId=GMBQK6RKYHMSV3ZB"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 29
   },
   {
    "query": "会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110） やり方",
    "results": [
-    "https://ja.wikipedia.org/wiki/調査報道",
-    "https://www.tokucho.co.jp/kigyo-chosa-method/",
-    "https://www.ags.co.jp/nw/column/column05.html",
-    "https://jasr.or.jp/wp/asr/asrpdf/asr21/asr21_050.pdf",
     "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
-    "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000010590060005/files/090605.pdf",
-    "https://www.asahi.com/investigative-reporting/"
+    "https://www.reddit.com/r/Journalism/comments/1m1x5yb/i_never_understood_how_journalists_get_scoops_any/?tl=ja",
+    "https://www.asahi.com/tips/",
+    "https://inquire.jp/2021/06/17/lighthouse_reports/",
+    "https://www.nichibenren.or.jp/document/civil_liberties/year/1999/1999_3.html",
+    "https://blogs.ricoh.co.jp/RISB/society/post_750.html",
+    "https://www.yomiuri.co.jp/choken/kijironko/ckworld/20230802-OYT8T50038/",
+    "https://www.chosakai.gr.jp/project/notification/",
+    "https://www.youtube.com/watch?v=H9n7lNFmM4o",
+    "https://www.facebook.com/login.php/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 25
   },
   {
    "query": "会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110） 事例",
    "results": [
-    "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000010590060005/files/090605.pdf",
-    "https://kaz-ogiwara.github.io/digital-journalism-showcase/",
-    "https://note.com/clean_duck544/n/n5b0d73f0048e",
-    "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000010590050004/files/090504.pdf",
-    "https://www.asahi.com/investigative-reporting/",
-    "https://www.jstage.jst.go.jp/article/bunken/68/12/68_70/_pdf/-char/ja",
-    "https://note.com/kazukio/n/nec2648f9888c"
+    "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
+    "https://inquire.jp/2021/06/17/lighthouse_reports/",
+    "https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21K01848",
+    "https://www.nippon-foundation.or.jp/what/projects/media-solution",
+    "https://www.nichibenren.or.jp/document/civil_liberties/year/1999/1999_3.html",
+    "https://www.asahi.com/tips/",
+    "https://www.yomiuri.co.jp/choken/kijironko/ckworld/20230802-OYT8T50038/",
+    "https://blogs.ricoh.co.jp/RISB/society/post_750.html",
+    "https://j-forum.org/award/",
+    "https://en.wikipedia.org/wiki/Facebook"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 26
   },
   {
    "query": "investigative journalism company network analysis shared addresses directors red flags auditor resignation",
    "results": [
-    "https://tomdahne.com/articles/link-analysis-investigation-case-management.html",
-    "https://blog.opencorporates.com/2026/02/13/open-data-in-investigative-journalism/",
-    "https://leadiq.com/c/investigative-reporters-and-editors/5a1d846424000024005ecf29",
-    "https://firmadapt.com/blog/company-analysis-for-journalists-and-investigative-reporters",
-    "https://www.researchgate.net/publication/340137639_Cross-Border_Non-Profit_Investigative_Journalism_Networks_A_Structural_Analysis_of_the_Field",
+    "https://www.cpajournal.com/2016/03/16/using-network-analysis-detect-collusive-fraud/",
+    "https://www.linkedin.com/pulse/when-independent-director-resigns-does-auditor-have-red-yogesh-kumar-zdk1c",
+    "https://www.a-lign.com/articles/audit-report-red-flags",
+    "https://deepquarry.substack.com/p/when-auditors-walk-red-flags-and",
+    "https://aihc-assn.org/fraud-detection-understanding-red-flags-and-risks/",
+    "https://www.facebook.com/malaysia.accountant/posts/auditors-resignation-may-be-a-red-flag-common-reasons-for-external-auditor-resig/1212005950954854/",
     "https://gijn.org/resource/researching-corporations-and-their-owners/",
-    "https://www.ukjournohub.com/investigative/companies-house-forensics"
+    "https://www.govinfo.gov/content/pkg/CPRT-107SPRT82147/html/CPRT-107SPRT82147.htm",
+    "https://www.sec.gov/Archives/edgar/data/723527/000093176303001862/dex991.htm",
+    "https://blog.opencorporates.com/2026/02/13/open-data-in-investigative-journalism/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 25
   },
   {
    "query": "site:note.com 会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110）",
    "results": [
-    "https://note.com/eytn_1a5zb7x/n/n39d452828ac0",
-    "https://note.com/clean_duck544/n/n5b0d73f0048e",
-    "https://note.com/ppcinc/n/nc85dfb72893e",
-    "https://note.com/glad_crab7608/n/ne88a1d982ca6",
-    "https://note.com/natty_mint2394/n/n234749695fbf",
-    "https://note.com/joyous_swift3677/n/n2739f5209b6b",
-    "https://note.com/prime_donkey3295/n/ndaf8e7296e38"
+    "https://note.com/fair_hyssop961/n/nf7a14b4890a6",
+    "https://note.com/shoji_orihara/n/nbee7ea77cb2a",
+    "https://note.com/ichi_twnovel/n/n56533998f7d3",
+    "https://note.com/_takumi_inoue_/n/nb1a6c688a16c",
+    "https://note.com/nhk_pr/n/nab821feff921",
+    "https://note.com/hirokimiyano/n/n600e59bf309b",
+    "https://note.com/hirokimiyano/n/nb4e538628e12",
+    "https://note.com/ichi_twnovel/n/n02363dc0f2b9",
+    "https://note.com/bon0404/n/n88553b8c5466",
+    "https://note.com/hirokimiyano/n/n8d12d5b638db"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 27
   },
   {
    "query": "site:x.com 会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110）",
    "results": [
-    "https://x.com/ShunNiekawa/status/2060975597275468204",
-    "https://x.com/takesiyama/status/2110258581400674427",
-    "https://x.com/nkinvestigation",
-    "https://x.com/shueisha_imidas/status/2052586582667051245",
-    "https://x.com/masayukitakada",
-    "https://x.com/hitetsugisou/status/2118316703763648518",
-    "https://x.com/fact_check_jp/status/1816384141358764087"
+    "https://x.com/Fuji_spotlight",
+    "https://x.com/nikkeivdata",
+    "https://x.com/luigi_jpn/status/2113527379352252645",
+    "https://x.com/shinoken9",
+    "https://x.com/nikkei",
+    "https://x.com/luigi_jpn/article/2100528790161989729",
+    "https://x.com/wayama_ryousuke/status/2110908861020524755",
+    "https://x.com/luigi_jpn/status/2094562625690755302",
+    "https://x.com/KagawaTomo/status/2118110762615116249",
+    "https://x.com/luigi_jpn/status/2061063695447302347"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "site:linkedin.com 会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110）",
    "results": [
-    "https://jp.linkedin.com/pulse/different-types-market-research-methods-when-?tl=ja",
-    "https://jp.linkedin.com/pulse/what-business-research-methods-comprehensive-guide-primary-gxeqf?tl=ja",
-    "https://www.linkedin.com/posts/kenjiasada_17日土曜日日本記者クラブ土曜記者ゼミ調査報道でジャーナリスト記者向けに-activity-7012433755495694336-Pzqj",
-    "https://www.linkedin.com/pulse/調査結果snsで見る専が9割超企業の情報発信が届かない理由-daisuke-yamashita-l8gdc",
-    "https://jp.linkedin.com/pulse/osint-tools-investigative-journalists-vijay-gupta--jbhvc?tl=ja",
-    "https://jp.linkedin.com/pulse/top-5-b2c-market-research-methods-you-should-wuohc?tl=ja",
-    "https://jp.linkedin.com/pulse/seeing-through-new-eyes-how-fresh-perspectives-your-business-lorenz-yd7mc?tl=ja"
+    "https://jp.linkedin.com/in/%E4%BC%B8-%E5%A4%A7%E9%87%8E-38ab8126a",
+    "https://jp.linkedin.com/company/pr-newswire-asia",
+    "https://www.linkedin.com/",
+    "https://jp.linkedin.com/pulse/sharing-journey-new-way-network-j-t-o-donnell-myoge?tl=ja",
+    "https://www.linkedin.com/company/ntt",
+    "https://www.linkedin.com/in/shiho-matsuoka-997a2a90",
+    "https://jp.linkedin.com/pulse/%E3%82%AA%E3%83%BC%E3%83%88%E3%83%90%E3%82%A4%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%AA%E6%9D%A52026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE%E6%A7%8B%E9%80%A0%E7%9A%84%E6%B4%9E%E5%AF%9F%E3%81%A8cagr%E4%BA%88%E6%B8%AC-pharmaaxis-insights-zv2de",
+    "https://www.linkedin.com/company/ai-square-corp",
+    "https://tw.linkedin.com/company/cyberagent?trk=similar-pages_result-card_full-click",
+    "https://www.linkedin.com/company/fireeye"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "site:facebook.com 会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110）",
    "results": [
-    "https://www.facebook.com/hidewell777/posts/おはよーございます本日のニュース見出し一覧でございます2026-10-162026-10-18全46件対象日2026年10月16日金18日日内訳富裕層ビジネス1/2418912282209566/",
-    "https://www.facebook.com/SlowNewsJP/photos/中国漁船が海上に万里の長城日経のビジュアル調査報道が浮かび上がらせた異様な光景とは記事を読む-httpsslownewscomnnee2bd5d1e854東シナ/914513194666001/",
-    "https://www.facebook.com/JmeTV.official/posts/nhkスペシャル-調査報道新世紀-file-３デジタル時代に向け調査報道の手法をアップデート強化現代社会の様々な闇謎に迫る大型シリーズ調査報道新世紀今回はｓｎｓ/122145641918054205/",
-    "https://www.facebook.com/100002627702917/posts/報道実務家フォーラムの調査報道大賞スペシャル2025に来ています今年の調査報道の優れた8つに作品について取材を担当した記者から話を聞きました-オールドメディアが/24968825409455038/",
-    "https://www.facebook.com/NipponZaidan/posts/914月開催第4回社会課題解決のための報道手法研究会のご案内長期連載8がけ社会がめざす課題解決型報道をテーマに第4回社会課題解決のための報道手法研究会を開催いた/1531898622296995/",
-    "https://www.facebook.com/reel/1776096570006381/",
-    "https://www.facebook.com/NipponZaidan/posts/1013火開催第5回社会課題解決のための報道手法研究会参加者募集-日本財団では報道を通じて社会課題の解決を目指す課題解決型報道プロジェクトの一環として連続研究会/1565723395581184/"
+    "https://www.facebook.com/",
+    "https://www.facebook.com/NipponTVNews24Japan/videos/gmo-internet-group-chairman-and-ceo-kumagai-masatoshi-says-the-japanese-internet/1474441247968059/",
+    "https://www.facebook.com/privacy/center/l/?logging_data%5B0%5D=%7B%22falco_event_name%22%3A%22privacy_center%22%2C%22extra_data%22%3A%7B%22content_type%22%3A%22home%22%2C%22logging_element_name%22%3Anull%2C%22logging_element_type%22%3A%22outbound_link%22%2C%22entrypoint%22%3Anull%2C%22logging_element%22%3A%22settings_shortcuts_home_instagram_settings_outbound_link%22%2C%22guide_id%22%3Anull%2C%22parent_screen_element%22%3A%22privacy_center_home%22%2C%22parent_unit_element%22%3A%22settings_shortcuts_home%22%2C%22render_surface%22%3A%22comet%22%2C%22event%22%3A%22server_click%22%2C%22falco_event_name%22%3A%22privacy_center%22%7D%7D&redirect_url=https%3A%2F%2Fwww.instagram.com%2Fprivacy%2Fcenter%2Finterstitial%2F%3Fnext_url%3Dhttps%253A%252F%252Fwww.instagram.com%252Faccounts%252Fprivacy_and_security%252F%26logout_url%3Dhttps%253A%252F%252Fwww.instagram.com%252Faccounts%252Flogin%252F%253Fforce_authentication%253D1%2526next%253Dhttps%25253A%25252F%25252Fwww.instagram.com%25252Faccounts%25252Fprivacy_and_security%25252F",
+    "https://www.facebook.com/matsuo.akihito/posts/%E3%83%88%E3%83%A8%E3%82%BF%E3%83%80%E3%82%A4%E3%83%8F%E3%83%84%E3%81%AE%E8%BB%BD%E3%83%88%E3%83%A9%E3%82%92%E7%B1%B3%E5%9B%BD%E3%81%B8-%E3%83%8F%E3%82%A4%E3%82%BC%E3%83%83%E3%83%88%E3%81%A8%E3%83%88%E3%83%A8%E3%82%BF%E3%81%AE%E8%B2%A9%E5%A3%B2%E7%B6%B2%E3%82%92%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B%E3%82%8B%E5%BC%B7%E3%81%9511%E6%9C%8811%E6%97%A5yahoo%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%AB%E9%85%8D%E4%BF%A1%E3%81%95%E3%82%8C%E3%81%9Fcar-watch%E3%81%AE%E8%A8%98%E4%BA%8B%E3%82%92%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F%E3%83%88%E3%83%A8%E3%82%BF/29228545496765606/",
+    "https://www.facebook.com/hokkaido.tijipage/posts/%E5%8C%97%E6%B5%B7%E9%81%93%E3%81%AE%E5%BA%83%E5%A0%B1%E7%95%AA%E7%B5%84%E3%82%B0%E3%82%B0%E3%83%83%E3%81%A8%E6%B7%B1%E6%8E%98%E3%82%8A%E5%8C%97%E6%B5%B7%E9%81%93%E3%81%AE%E6%94%BE%E9%80%81-%E6%98%8E%E5%BE%8C%E6%97%A510%E6%9C%8818%E6%97%A5%E6%97%A5%E5%8D%88%E5%89%8D11%E6%99%8240%E5%88%86%E3%81%8B%E3%82%89stv%E3%83%86%E3%83%AC%E3%83%93%E3%81%A7%E6%94%BE%E9%80%81%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99-%E4%BB%8A%E5%9B%9E%E3%81%AF%E5%8C%97%E6%B5%B7%E9%81%93%E3%81%AE%E6%A3%AE%E6%9E%97%E3%81%AB%E6%B7%B1%E6%8E%98%E3%82%8A-%E7%95%AA%E7%B5%84mc%E3%81%AE%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%82%AC/1663753018642707/",
+    "https://www.facebook.com/AMIYA.jp/",
+    "https://www.facebook.com/SophiaUniversity/posts/%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%B7%E3%83%86%E3%82%A3%E3%82%B5%E3%82%B9%E3%83%86%E3%83%8A%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%E6%8E%A8%E9%80%B2%E5%AE%A4%E4%B8%BB%E5%82%AC%E3%81%AE%E3%83%88%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%89%E3%81%97%E3%81%84%E3%82%92%E8%B6%85%E3%81%88%E3%81%A6%E8%87%AA%E5%88%86%E3%82%89%E3%81%97%E3%81%95%E3%81%B8%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%82%BB%E3%83%B3%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9%E6%89%80%E5%B1%9E%E3%81%AE%E3%83%95%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%8A%E3%82%A6%E3%83%B3%E3%82%B5%E3%83%BC%E7%9B%B4%E5%B7%9D%E8%B2%B4%E5%8D%9A%E6%B0%8F%E3%81%A8%E6%97%A5%E6%9C%AC%E3%83%86%E3%83%AC%E3%83%93%E6%94%BE%E9%80%81%E7%B6%B2/1483041167183112/",
+    "https://www.facebook.com/fumiaki.kobayashi0408/",
+    "https://www.facebook.com/esrijapan/posts/%E6%B5%B7%E5%A4%96%E4%BA%8B%E4%BE%8B%E7%B4%99%E3%81%AE%E7%8F%BE%E5%9C%B0%E8%AA%BF%E6%9F%BB%E3%82%92%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB-gis-%E3%81%B8%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%83%A1%E3%83%88%E3%83%AD%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B8%E3%83%83%E3%83%88%E7%A4%BE%E3%81%A7%E3%81%AFarcgis-survey123-%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6%E3%83%90%E3%82%B9%E5%81%9C%E3%81%AE%E8%AA%BF%E6%9F%BB%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E6%A5%AD%E5%8B%99%E3%82%92%E5%8A%B9%E7%8E%87%E5%8C%96-1%E6%97%A5%E6%9C%80/1679494020854776/",
+    "https://www.facebook.com/HOTnetOfficial/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   },
   {
    "query": "会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110） note 社長",
    "results": [
-    "https://media.suke-dachi.jp/content/posts/illustration-note-recruiting/",
-    "https://diamond.jp/articles/-/388572",
-    "https://note.com/saiyou_dekirukun/all",
+    "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
+    "https://note.com/asahi_ictrad/n/n21e94fff2691",
+    "https://biz.note.com/n/n1f1e24306244",
+    "https://www.youtube.com/watch?v=0B60Sc-ExIs",
+    "https://www.nikkei.com/article/DGKKZO94019250U5A111C1MY7000/",
+    "https://www.yomiuri.co.jp/choken/kijironko/ckworld/20230802-OYT8T50038/",
     "https://biz.note.com/n/n96bd2a2931c2",
-    "https://note.com/clean_duck544/n/n5b0d73f0048e",
-    "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000010590060005/files/090605.pdf",
-    "https://matometchi.com/2026/01/24/8a08bc87f0a54234df44b36128185405/"
+    "https://note.smd-am.co.jp/n/n894d0ad614a1",
+    "https://note.jp/n/nfa2e6aa41241"
    ],
    "engines": [
-    "ddgs:google"
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 9
   },
   {
    "query": "会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110） X 投稿",
    "results": [
-    "https://x.com/nkinvestigation",
-    "https://tatap.jp/knowledge/x-twitter-corporate-operation-guide/",
-    "https://yosca.jp/sns-marketing/13172/",
-    "https://x.com/NTV_shakaibu",
-    "https://prtimes.jp/main/html/rd/p/000000097.000026754.html",
-    "https://www.asahi.com/articles/ASV763TG9V76UTIL02PM.html",
-    "https://x.com/takesiyama/status/2110258581400674427"
+    "https://www.factcheckcenter.jp/jfc-factcheck-course-practice8/",
+    "https://www.asahi.com/tips/",
+    "https://help.x.com/ja/rules-and-policies/media-settings",
+    "https://www.nikkei.com/article/DGXZQOGN214VF0R21C23A1000000/",
+    "https://www.nhk.or.jp/newspost/",
+    "https://impact-h.co.jp/news/press250722",
+    "https://prx.dentsuprc.co.jp/blog/c111",
+    "https://www.tribalmedia.co.jp/note/marketing-1068/",
+    "https://opac.teikyo-u.ac.jp/iwjs0016opc/bdyview.do?bodyid=TC70000426&elmid=Body&fname=joho17-05.pdf&loginflg=on&once=true",
+    "https://x.com/nkinvestigation"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "investigative journalism company network analysis shared addresses directors red flags auditor resignation site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/company/investigative-reporters-and-editors",
-    "https://www.linkedin.com/pulse/red-flags-you-should-never-ignore-corporate-sandeep-gupta-xbcef",
-    "https://ng.linkedin.com/company/center-for-collaborative-investigative-journalism",
-    "https://in.linkedin.com/company/the-bureau-of-investigative-journalism",
-    "https://ca.linkedin.com/company/investigative-journalism-bureau",
-    "https://za.linkedin.com/company/amabhungane-news",
-    "https://www.linkedin.com/company/international-consortium-of-investigative-journalists/"
+    "https://www.linkedin.com/pulse/why-do-companies-cover-up-criminal-employees-can-ai-i-andre-5qode",
+    "https://uk.linkedin.com/in/maor-mario-levin",
+    "https://in.linkedin.com/in/pranjali-nautiyal-732718219",
+    "https://www.linkedin.com/posts/partha-sarathy-v-7309391ab_indusindbank-sfio-auditprobe-activity-7452268910671724544-n8aY",
+    "https://in.linkedin.com/in/balaji-v-8501707",
+    "https://in.linkedin.com/in/ca-gautam-tagra-ab1829100",
+    "https://uk.linkedin.com/in/stephen-west-a6662a43",
+    "https://www.linkedin.com/in/jon-elvin-professional",
+    "https://nz.linkedin.com/in/greg-rimmer-hollyman",
+    "https://www.linkedin.com/in/svitlanadolinko"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ25頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ25頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ25頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ25頁・検索12回）",
-  "実例": "記載なし（読んだ25頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
+  "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 3,
+ "runs": 4,
  "first_researched_at": "2026-11-08T18:53:09.906604+00:00"
 }

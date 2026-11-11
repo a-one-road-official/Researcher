@@ -1,0 +1,1238 @@
+{
+ "name": "株式会社津田製作所",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T19:38:43.106027+00:00",
+ "official_url": "https://tsudass.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒738-0022　広島県廿日市市木材港南9-6 MAPはこちら→",
+    "url": "https://tsudass.com/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　津田 義明",
+    "url": "https://tsudass.com/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "自動車・半導体製造装置・建機・農機具・ロボット及び産業用機械などの精密部品の切削加工・検査",
+    "url": "https://tsudass.com/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "30名",
+    "url": "https://tsudass.com/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "時に製造現場から煙たがられ、でも良い製品のために欠かせない品質保証部（品証）",
+    "url": "https://tsudass.com/",
+    "pass": 1
+   },
+   {
+    "quote": "多彩なラインナップで、モノづくりの今と未来の可能性を広げます",
+    "url": "https://tsudass.com/",
+    "pass": 1
+   },
+   {
+    "quote": "様々な分野でグローバルに製品・サービスを提供しています",
+    "url": "https://tsudass.com/",
+    "pass": 1
+   },
+   {
+    "quote": "品質重視の製品、個人や小企業向けの商品開発のお手伝いも行います",
+    "url": "https://tsudass.com/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "メールや電話、FAXでのご連絡で製品作成・相談を承ります",
+    "url": "https://tsudass.com/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様と工場、製品製作について情報のやり取りを行います",
+    "url": "https://tsudass.com/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様と工場、製品制作について情報のやりとりを行います",
+    "url": "https://tsudass.com/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "製品製作の方法を考え、​PCを使用してプログラムを作成",
+    "url": "https://tsudass.com/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "生産技術部は製品制作時にPCを使用してCAD/CAM技術、プログラム作り・加工工程の組立を行っています",
+    "url": "https://tsudass.com/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "今まで培った経験にCAD/CAM技術を応用した3D加工、5軸制御加工をプラスする事で、よりスピードが求められる削り出し製品にも対応",
+    "url": "https://tsudass.com/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "出来上がった製品を丁寧に梱包し、お客様の元へお届けします",
+    "url": "https://tsudass.com/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "仕上がった製品は、検査機器で測定後丁寧に梱包しお客様各位へ出荷・配送いたします",
+    "url": "https://tsudass.com/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "「製品開発」に対しても待つばかりではなく、我々から提案し、リードしていくものづくりを今後の一つの指針としています",
+    "url": "https://tsudass.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "一貫生産による精密部品加工の精度と質をさらに高め、試作品開発に留まらず、製造プロセスにおける問題点の抽出、改善提案、設計まで活動範囲を広げるとともに、新たな事業として自社製品の開発にもチャレンジしていく構えです",
+    "url": "https://tsudass.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "優位性のある製品づくりのベースとなるのが「働く姿勢」です",
+    "url": "https://tsudass.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "非接触式CCDカメラ画像処理方式で、製品を痛めず人的誤差が少なく高精度な測定",
+    "url": "https://tsudass.com/induction/",
+    "pass": 1
+   },
+   {
+    "quote": "高い精度を必要とする製品に対応・確認します",
+    "url": "https://tsudass.com/induction/",
+    "pass": 1
+   },
+   {
+    "quote": "時に製造現場から煙たがられ、でも良い製品のために欠かせない品質保証部（品証）",
+    "url": "https://tsudass.com/2026/11/post-4714/",
+    "pass": 1
+   },
+   {
+    "quote": "でも、品証には近づきたくない、話するのも煩わしい、ってなると、良い製品作れなくなるじゃないですか",
+    "url": "https://tsudass.com/2026/11/post-4714/",
+    "pass": 1
+   },
+   {
+    "quote": "加工担当者と一緒に”どうすればもっと良い製品になるか”を、考えるようにしています",
+    "url": "https://tsudass.com/2026/11/post-4714/",
+    "pass": 1
+   },
+   {
+    "quote": "品証だけが品質を分かっていても、良い製品は作れないし、",
+    "url": "https://tsudass.com/2026/11/post-4714/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、第1工程→第2工程→第3工程、と加工が進む製品があったとして、",
+    "url": "https://tsudass.com/2026/11/post-4714/",
+    "pass": 1
+   },
+   {
+    "quote": "第1、第2工程の精度を少し良くすると、最終的に安定した製品になるということもあるんです",
+    "url": "https://tsudass.com/2026/11/post-4714/",
+    "pass": 1
+   },
+   {
+    "quote": "安定して良い製品を作れる過程を考えることも、品証の仕事だと思っています",
+    "url": "https://tsudass.com/2026/11/post-4714/",
+    "pass": 1
+   },
+   {
+    "quote": "品質保証部は、製品の合否を判定するだけの部署ではないと、改めて感じました",
+    "url": "https://tsudass.com/2026/11/post-4714/",
+    "pass": 1
+   },
+   {
+    "quote": "良い製品を安定して作れるようにするため、現場を日々支えてくれていたのです",
+    "url": "https://tsudass.com/2026/11/post-4714/",
+    "pass": 1
+   },
+   {
+    "quote": "そういう時は、製品の取り付けや、刃物の欠け・摩耗などが原因になっていることが多いです",
+    "url": "https://tsudass.com/2026/10/post-4669/",
+    "pass": 1
+   },
+   {
+    "quote": "目が取り出した製品にいってても、加工中の機械に何かあれば、耳が気付きます",
+    "url": "https://tsudass.com/2026/10/post-4669/",
+    "pass": 1
+   },
+   {
+    "quote": "さっき言った音の他に、機械から出る煙や製品の変色、油が焼ける臭い、体に伝わる機械の振動",
+    "url": "https://tsudass.com/2026/10/post-4669/",
+    "pass": 1
+   },
+   {
+    "quote": "削って終わり、にしてしまうと、切粉が飛び散って製品にキズを付けてしまうことがあるので、気をつけないといけないですね",
+    "url": "https://tsudass.com/2026/10/post-4669/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の出来栄えにも、経験の差は出ますよ",
+    "url": "https://tsudass.com/2026/10/post-4669/",
+    "pass": 1
+   },
+   {
+    "quote": "製品を測って、図面どおりか確認する",
+    "url": "https://tsudass.com/2026/10/post-4669/",
+    "pass": 1
+   },
+   {
+    "quote": "切れない刃物で無理に削っていると、製品にかかる力が大きくなり、固定している製品が動いてしまうことがあります",
+    "url": "https://tsudass.com/2026/10/post-4626/",
+    "pass": 1
+   },
+   {
+    "quote": "そうやって調整して、良い製品ができると、やっぱり面白いし、",
+    "url": "https://tsudass.com/2026/10/post-4626/",
+    "pass": 1
+   },
+   {
+    "quote": "「機械が製品を削っている間、担当者は何をしてる？」です",
+    "url": "https://tsudass.com/2026/10/post-4626/",
+    "pass": 1
+   },
+   {
+    "quote": "また、出た利益を、設備や人材育成、製品の品質向上に再投資へと循環する、",
+    "url": "https://tsudass.com/2026/02/post-3759/",
+    "pass": 1
+   },
+   {
+    "quote": "自分が営業できる”断トツ”の製品をつくろう 『60分』第9回 株式会社宇根鉄工所 〜後編〜 | 津田製作所",
+    "url": "https://tsudass.com/2026/01/post-3711/",
+    "pass": 1
+   },
+   {
+    "quote": "：「ここまで来るのにはもちろんご苦労もあったと思いますが、自社製品には夢があるなって感じるんですよ",
+    "url": "https://tsudass.com/2026/01/post-3711/",
+    "pass": 1
+   },
+   {
+    "quote": "いつもうちも自社製品が欲しいと思ってるんで、羨ましいです",
+    "url": "https://tsudass.com/2026/01/post-3711/",
+    "pass": 1
+   },
+   {
+    "quote": "『この製品がこうで、技術がこうなので、買ってください』じゃなくて、",
+    "url": "https://tsudass.com/2026/01/post-3711/",
+    "pass": 1
+   },
+   {
+    "quote": "それで、「製品自体『これが欲しい』と言われるようなものじゃないと、俺には売れんな」と思ったんです",
+    "url": "https://tsudass.com/2026/01/post-3711/",
+    "pass": 1
+   },
+   {
+    "quote": "『性能が突き抜けてて、他にない製品じゃないといけん",
+    "url": "https://tsudass.com/2026/01/post-3711/",
+    "pass": 1
+   },
+   {
+    "quote": "： 「最初の製品開発の時、まだ物が完成していない段階で「水圧でやります！」ってお客さんに宣言して、受注を決めてしまったんです（笑）",
+    "url": "https://tsudass.com/2026/01/post-3711/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば土地代、建物代、設備代、全部製品価格に載せなきゃやっていかれない",
+    "url": "https://tsudass.com/2026/01/post-3711/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品があるかどうかで、やっぱり違ってくると思うんです",
+    "url": "https://tsudass.com/2026/01/post-3711/",
+    "pass": 1
+   },
+   {
+    "quote": "技術を磨き続けていないと、製品そのものが作れないですから",
+    "url": "https://tsudass.com/2026/01/post-3711/",
+    "pass": 1
+   },
+   {
+    "quote": "単品生産なのに、カスタマイズ製品なのに、そこに規格性を求めるわけですよ",
+    "url": "https://tsudass.com/2026/01/post-3711/",
+    "pass": 1
+   },
+   {
+    "quote": "・製品1個単位でのトレーサビリティ管理",
+    "url": "https://tsudass.com/2025/10/post-3248/",
+    "pass": 1
+   },
+   {
+    "quote": "設置してある製品現場対応の三次元測定治具を使用し、",
+    "url": "https://tsudass.com/2025/10/post-3248/",
+    "pass": 1
+   },
+   {
+    "quote": "「万一不具合が発生した際に、製品1個単位で履歴を追跡できる体制」があるかどうか、でした",
+    "url": "https://tsudass.com/2025/10/post-3248/",
+    "pass": 1
+   },
+   {
+    "quote": "津田製作所では製品1個ごとの製造履歴を管理し、",
+    "url": "https://tsudass.com/2025/10/post-3248/",
+    "pass": 1
+   },
+   {
+    "quote": "必要に応じて、製品に識別番号を付与しているので、",
+    "url": "https://tsudass.com/2025/10/post-3248/",
+    "pass": 1
+   },
+   {
+    "quote": "出荷後の市場製品であっても追跡・調査が可能です",
+    "url": "https://tsudass.com/2025/10/post-3248/",
+    "pass": 1
+   },
+   {
+    "quote": "実際に製品を加工している製造部へ「深掘りQ＆A」です",
+    "url": "https://tsudass.com/2026/09/post-4545/",
+    "pass": 1
+   },
+   {
+    "quote": "加工する製品によって、使うプログラムも刃物も治具も違います",
+    "url": "https://tsudass.com/2026/09/post-4545/",
+    "pass": 1
+   },
+   {
+    "quote": "「製品と治具は、きちんとフィットしているか」",
+    "url": "https://tsudass.com/2026/09/post-4545/",
+    "pass": 1
+   },
+   {
+    "quote": "「刃物と製品が、思っていないところでぶつからないか」",
+    "url": "https://tsudass.com/2026/09/post-4545/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、製品や治具の固定状態と、刃物と製品の位置関係は大切で、",
+    "url": "https://tsudass.com/2026/09/post-4545/",
+    "pass": 1
+   },
+   {
+    "quote": "間違えると、製品が不良になるだけでは済みません",
+    "url": "https://tsudass.com/2026/09/post-4545/",
+    "pass": 1
+   },
+   {
+    "quote": "Q．機械が良い＝良い製品ができる、ではない？",
+    "url": "https://tsudass.com/2026/09/post-4545/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "津田製作所 | 試作開発部品加工・汎用旋盤修理サービス",
+    "url": "https://tsudass.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1点からの試作・量産・リピートでの実績がございます",
+    "url": "https://tsudass.com/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "新規開発試作品～量産品～補給品までリードタイム・予算・数量に応じた対応が可能です",
+    "url": "https://tsudass.com/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "1.試作品のご依頼",
+    "url": "https://tsudass.com/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "一貫生産による精密部品加工の精度と質をさらに高め、試作品開発に留まらず、製造プロセスにおける問題点の抽出、改善提案、設計まで活動範囲を広げるとともに、新たな事業として自社製品の開発にもチャレンジしていく構えです",
+    "url": "https://tsudass.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品や農機具の試作開発部品や船舶の部品加工を手がける",
+    "url": "https://tsudass.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット量産品・不定期リピート品を低価格で生産可能です",
+    "url": "https://tsudass.com/induction/",
+    "pass": 1
+   },
+   {
+    "quote": "夜間・無人運転により多品種変量生産に対応できます",
+    "url": "https://tsudass.com/induction/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属加工 #切削 #試作 #開発 #広島 #精密部品 #旋盤修理 #スピンドル再生 #廿日市 #ものづくり #工場見学",
+    "url": "https://tsudass.com/2026/11/post-4714/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属加工 #切削 #試作 #開発 #広島 #精密部品 #旋盤修理 #スピンドル再生 #廿日市 #ものづくり #工場見学",
+    "url": "https://tsudass.com/2026/10/post-4669/",
+    "pass": 1
+   },
+   {
+    "quote": "試作の場合は、段取りのときに刃物の摩耗を見て、摩耗が大きければ、新しいものに交換します",
+    "url": "https://tsudass.com/2026/10/post-4626/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属加工 #切削 #試作 #開発 #広島 #精密部品 #旋盤修理 #スピンドル再生 #廿日市 #ものづくり #工場見学",
+    "url": "https://tsudass.com/2026/10/post-4626/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属切削加工 #試作 #開発 #広島 #精密部品 #ものづくり",
+    "url": "https://tsudass.com/2025/01/post-1818/",
+    "pass": 1
+   },
+   {
+    "quote": "「図面はまだないが、試作をお願いしたい」というお声も少なくありません",
+    "url": "https://tsudass.com/2025/04/post-2725/",
+    "pass": 1
+   },
+   {
+    "quote": "手書きのアイデアスケッチから寸法の仮決め、簡易図面の作成まで一緒に行い、試作品を完成させました",
+    "url": "https://tsudass.com/2025/04/post-2725/",
+    "pass": 1
+   },
+   {
+    "quote": "複雑形状、高精度、小ロット、短納期…",
+    "url": "https://tsudass.com/2025/04/post-2725/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属 #切削加工 #試作 #開発 #広島 #精密部品 #造船",
+    "url": "https://tsudass.com/2025/04/post-2725/",
+    "pass": 1
+   },
+   {
+    "quote": "最近は少量多品種や急なスポット増産といったご相談をいただくことが増えてきました",
+    "url": "https://tsudass.com/2025/09/post-3214/",
+    "pass": 1
+   },
+   {
+    "quote": "少量生産でも、サービスパーツでも、急な増産でも、",
+    "url": "https://tsudass.com/2025/09/post-3214/",
+    "pass": 1
+   },
+   {
+    "quote": "また、多品種・少量生産は段取り替えが多く効率管理が難しいですが、",
+    "url": "https://tsudass.com/2025/09/post-3214/",
+    "pass": 1
+   },
+   {
+    "quote": "少量でも、図面が未完成でもかまいません",
+    "url": "https://tsudass.com/2025/09/post-3214/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属切削加工 #試作 #開発 #広島 #精密部品 #ものづくり #求人 ＃採用",
+    "url": "https://tsudass.com/2025/09/post-3214/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属切削加工 #試作 #開発 #広島 #精密部品 #ものづくり #求人 ＃採用",
+    "url": "https://tsudass.com/2025/10/post-3228/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属加工 #切削 #試作 #開発 #広島 #精密部品 #旋盤修理 #廿日市 #ものづくり",
+    "url": "https://tsudass.com/2026/02/post-3759/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属加工 #切削 #試作 #開発 #広島 #精密部品 #旋盤修理 #廿日市 #ものづくり #DX",
+    "url": "https://tsudass.com/2026/02/post-3743/",
+    "pass": 1
+   },
+   {
+    "quote": "単品生産なのに、カスタマイズ製品なのに、そこに規格性を求めるわけですよ",
+    "url": "https://tsudass.com/2026/01/post-3711/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属切削加工 #試作 #開発 #広島 #精密部品 #ものづくり #対談 #60分 #宇根鉄工所 #アクアシャッター #創業110年 #中小企業",
+    "url": "https://tsudass.com/2026/01/post-3711/",
+    "pass": 1
+   },
+   {
+    "quote": "・複雑な工程や少量試作にも臨機応変に対応してくれる",
+    "url": "https://tsudass.com/2025/10/post-3248/",
+    "pass": 1
+   },
+   {
+    "quote": "事例1：加工方法が定まらない試作部品",
+    "url": "https://tsudass.com/2025/10/post-3248/",
+    "pass": 1
+   },
+   {
+    "quote": "この件の後、お客様から試作から量産までお任せしてていただけるようになりました",
+    "url": "https://tsudass.com/2025/10/post-3248/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属切削加工 #試作 #開発 #広島 #精密部品 #ものづくり #求人 ＃採用",
+    "url": "https://tsudass.com/2025/10/post-3248/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、小ロット対応をしているか、",
+    "url": "https://tsudass.com/2025/10/post-3246/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属切削加工 #試作 #開発 #広島 #精密部品 #ものづくり #求人 ＃採用",
+    "url": "https://tsudass.com/2025/10/post-3246/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属加工 #切削 #試作 #開発 #広島 #精密部品 #旋盤修理 #新サービス #廿日市",
+    "url": "https://tsudass.com/2025/11/post-3446/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属加工 #切削 #試作 #開発 #広島 #精密部品 #旋盤修理 #スピンドル再生 #廿日市 #ものづくり #工場見学",
+    "url": "https://tsudass.com/2026/09/post-4545/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属加工 #切削 #試作 #開発 #広島 #精密部品 #旋盤修理 #廿日市 #ものづくり",
+    "url": "https://tsudass.com/2026/04/post-3918/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属加工 #切削 #試作 #開発 #広島 #精密部品 #旋盤修理 #スピンドル再生 #廿日市 #ものづくり #工場見学",
+    "url": "https://tsudass.com/2026/09/post-4567/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属加工 #切削 #試作 #開発 #広島 #精密部品 #旋盤修理 #スピンドル再生 #廿日市 #ものづくり #工場見学",
+    "url": "https://tsudass.com/2026/09/post-4536/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属加工 #切削 #試作 #開発 #広島 #精密部品 #旋盤修理 #スピンドル再生 #廿日市 #ものづくり",
+    "url": "https://tsudass.com/2026/07/post-4387/",
+    "pass": 1
+   },
+   {
+    "quote": "#津田製作所 #金属切削加工 #試作 #開発 #広島 #精密部品 #ものづくり #求人 ＃採用",
+    "url": "https://tsudass.com/2025/01/post-1921/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット・短納期・試作・部品入手困難なども柔軟対応",
+    "url": "https://www.tudass.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "小ロットの基板実装を引き受けてくれる会社がない",
+    "url": "https://www.tudass.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "新規製品の特殊な試作装置について、設計段階から相談しました",
+    "url": "https://www.tudass.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "試作1枚から量産まで対応可能",
+    "url": "https://tudass.co.jp/mounting",
+    "pass": 3
+   },
+   {
+    "quote": "大量生産ラインでは断られがちな少量案件も、専用ラインで1枚から対応いたします",
+    "url": "https://tudass.co.jp/mounting",
+    "pass": 3
+   },
+   {
+    "quote": "アイデア段階の試作から量産まで、一貫してサポートします",
+    "url": "https://tudass.co.jp/mounting",
+    "pass": 3
+   },
+   {
+    "quote": "1枚からの試作品、開発段階の基板実装に対応します",
+    "url": "https://tudass.co.jp/mounting",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "卓越した匠の技と経験を生かした、弊社独自の加工治具技術を持っています",
+    "url": "https://tsudass.com/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車・半導体製造装置・建機・農機具・ロボット及び産業用機械などの精密部品の切削加工・検査",
+    "url": "https://tsudass.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品や農機具の試作開発部品や船舶の部品加工を手がける",
+    "url": "https://tsudass.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "検査体制を強化し、自動車の開発部品、精密部品加工を主要品目とする",
+    "url": "https://tsudass.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、農機具部品の量産部品加工を24時間体制での生産開始",
+    "url": "https://tsudass.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "治具エリアΦ500×320H",
+    "url": "https://tsudass.com/induction/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車や船舶などのエンジン部品を中心に、難易度の高いご要望にも柔軟にお応えしています",
+    "url": "https://tsudass.com/2025/04/post-2725/",
+    "pass": 1
+   },
+   {
+    "quote": "他社で断られたとのことでしたが、弊社では加工順序・段取り・治具の設計から見直し、実現可能な方法を構築",
+    "url": "https://tsudass.com/2025/04/post-2725/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では長年、自動車業界を中心に、エンジンやトランスミッションの精密部品加工を手掛けてきました",
+    "url": "https://tsudass.com/2025/09/post-3214/",
+    "pass": 1
+   },
+   {
+    "quote": "輸送機器、造船、半導体など、複数の分野で技術をさらに磨き、実績を積み重ねること",
+    "url": "https://tsudass.com/2026/02/post-3759/",
+    "pass": 1
+   },
+   {
+    "quote": "・5軸加工機＋ロボットや多面パレット設備で24時間体制で稼働できる",
+    "url": "https://tsudass.com/2025/10/post-3248/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに治具設計も工夫して段取り回数を減らすことでコストも抑え、",
+    "url": "https://tsudass.com/2025/10/post-3248/",
+    "pass": 1
+   },
+   {
+    "quote": "設置してある製品現場対応の三次元測定治具を使用し、",
+    "url": "https://tsudass.com/2025/10/post-3248/",
+    "pass": 1
+   },
+   {
+    "quote": "加工する製品によって、使うプログラムも刃物も治具も違います",
+    "url": "https://tsudass.com/2026/09/post-4545/",
+    "pass": 1
+   },
+   {
+    "quote": "「製品と治具は、きちんとフィットしているか」",
+    "url": "https://tsudass.com/2026/09/post-4545/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、製品や治具の固定状態と、刃物と製品の位置関係は大切で、",
+    "url": "https://tsudass.com/2026/09/post-4545/",
+    "pass": 1
+   },
+   {
+    "quote": "刃物が折れたり、治具を壊したり、場合によっては設備にも影響しするので大ごとです",
+    "url": "https://tsudass.com/2026/09/post-4545/",
+    "pass": 1
+   },
+   {
+    "quote": "治具の心出し、製品の固定、工具、プログラム、加工条件、",
+    "url": "https://tsudass.com/2026/09/post-4545/",
+    "pass": 1
+   },
+   {
+    "quote": "工具が揃っていない、治具がすぐ出てこない、図面の確認が甘い",
+    "url": "https://tsudass.com/2026/04/post-3918/",
+    "pass": 1
+   },
+   {
+    "quote": "加工だけでなく、治具への取り付け方にもすごく気を使います",
+    "url": "https://tsudass.com/2026/09/post-4567/",
+    "pass": 1
+   },
+   {
+    "quote": "自分たちが考えた治具、作成したプログラム、選定した刃物や道具",
+    "url": "https://tsudass.com/2026/09/post-4536/",
+    "pass": 1
+   },
+   {
+    "quote": "「ここは使いにくい」「この治具は少し危ない」「ここで切粉がたまる」「もう少しこうした方が早い」といった話を聞きます",
+    "url": "https://tsudass.com/2026/09/post-4536/",
+    "pass": 1
+   },
+   {
+    "quote": "自分たちが考えた加工方法や治具、プログラムが、",
+    "url": "https://tsudass.com/2026/09/post-4536/",
+    "pass": 1
+   },
+   {
+    "quote": "ISOと併せた厳格な品質・情報管理のもと、高い信頼性が求められる医療機器向け基板の混載実装を実現しています",
+    "url": "https://tudass.co.jp/mounting",
+    "pass": 3
+   },
+   {
+    "quote": "医療東証一部上場2社",
+    "url": "https://www.tsuda-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "医療東証二部上場3社",
+    "url": "https://www.tsuda-ss.jp/company/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "生産技術部は製品制作時にPCを使用してCAD/CAM技術、プログラム作り・加工工程の組立を行っています",
+    "url": "https://tsudass.com/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "今まで培った経験にCAD/CAM技術を応用した3D加工、5軸制御加工をプラスする事で、よりスピードが求められる削り出し製品にも対応",
+    "url": "https://tsudass.com/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "MAM72-35V",
+    "url": "https://tsudass.com/induction/",
+    "pass": 1
+   },
+   {
+    "quote": "Microsoft Teamsによる情報共有",
+    "url": "https://tsudass.com/2026/02/post-3743/",
+    "pass": 1
+   },
+   {
+    "quote": "A．確かに、生産技術というとパソコンの前でCADやCAMを触っているイメージが強いかもしれませんが、",
+    "url": "https://tsudass.com/2026/09/post-4536/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "メールや電話、FAXでのご連絡で製品作成・相談を承ります",
+    "url": "https://tsudass.com/biz/",
+    "pass": 1
+   },
+   {
+    "quote": "＜会社見学・お問い合わせ・ご応募はこちらより＞",
+    "url": "https://tsudass.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "といった、よくいただくお問い合わせの答えと、ヒントになれば幸いです！",
+    "url": "https://tsudass.com/2025/10/post-3246/",
+    "pass": 1
+   },
+   {
+    "quote": "（メール、口頭指示、参考資料など）",
+    "url": "https://tsudass.com/2026/09/post-4536/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ | スウェージング、パイプ加工の津田製作所",
+    "url": "https://www.tsuda-ss.jp/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の事業に興味を持たれた方、お見積もりをご希望の方、求人に関して、その他各種ご質問は、下記のメールフォームからご連絡頂くか、お電話にてご連絡ください",
+    "url": "https://www.tsuda-ss.jp/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "採用希望（お問い合わせ内容に希望職種を記入願います）",
+    "url": "https://www.tsuda-ss.jp/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、お客様から会社および事業・サービスなどについてのご意見やご質問をEメールまたはお問い合わせフォームからいただく場合にのみ、お客様に対して個人情報の提供をお願いしています",
+    "url": "https://www.tsuda-ss.jp/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "こちらはお客様からのお問い合わせ専用フォームです",
+    "url": "https://www.tudass.co.jp/contact",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "以前は、ドリルやエンドミルなど、ほとんどが「ハイス」という材質でした",
+    "url": "https://tsudass.com/2026/10/post-4626/",
+    "pass": 1
+   },
+   {
+    "quote": "耐熱性・強度が必要な材質に加え、",
+    "url": "https://tsudass.com/2025/04/post-2725/",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレスや特殊鋼などの高価な材質を使う場合、部品の形状がシンプルでも、材料そのものが高いため、全体コストを押し上げます",
+    "url": "https://tsudass.com/2025/10/post-3228/",
+    "pass": 1
+   },
+   {
+    "quote": "鋳造や鍛造素材を使う場合、形状や材質にばらつきが出ることがあり、",
+    "url": "https://tsudass.com/2025/10/post-3228/",
+    "pass": 1
+   },
+   {
+    "quote": "寸法、公差、材質、幾何公差など、たくさんの情報が書かれているのですが、",
+    "url": "https://tsudass.com/2026/09/post-4536/",
+    "pass": 1
+   },
+   {
+    "quote": "（大きさ、形状、材質など）",
+    "url": "https://tsudass.com/2026/09/post-4536/",
+    "pass": 1
+   },
+   {
+    "quote": "パイプ加工品と樹脂切削品・成形品との接着等アッセンブリ",
+    "url": "https://www.tsuda-ss.jp/company/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "津田製作所 | 電子基板実装・修理・開発・基板複製・オーバーホール等... — FAQ よくあるご質問 Q 1. 小ロットや試作のみの依頼も可能ですか？ Q 2. 実物の基板しかないのですが、基板の複製は可能ですか？ Q 3. 対応できる部品実装の方式は何がありますか？ Q 4. 筐体組立や配線など、基板以外の作業も依頼できますか？",
+    "url": "https://www.tudass.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "複雑形状・高精度・小ロットも。津田製作所の加工事例3選 | 津田製作... — 複雑形状・高精度・小ロットも。 津田製作所の加工事例3選 他社では難しかった」部品も──津田製作所の加工対応事例 「形状が複雑すぎて加工できないと言われた」 「品質保証の対応をしてもらえず、依頼先が見つからない」",
+    "url": "https://tsudass.com/2025/04/post-2725/",
+    "pass": 3
+   },
+   {
+    "quote": "実装・組立 | 津田製作所 — PCB基板の実装・組立サービス。SMT実装から手はんだ実装、組立加工まで幅広く対応。小田原市の津田製作所が提供する高品 ...",
+    "url": "https://tudass.co.jp/mounting",
+    "pass": 3
+   },
+   {
+    "quote": "津田製作所のカタログ一覧 | イプロスものづくり — Oct 15, 2024 · 津田製作所のカタログ一覧です。無料でダウンロードできます。津田製作所は、小ロット品での新規開発試作～量産品～補給品まで主にアルミ・鉄、SUSなどの切削加工～検査を一貫対応します。 AIの進化、人口の減少、高齢化社会を例に挙げるまでもなく、日本社会において人の働き方が大きく ...",
+    "url": "https://mono.ipros.com/company/detail/2035053/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "津田製作所の製品・サービス一覧｜イプロスものづくり — Oct 15, 2024 · 津田製作所 の製品・サービス一覧です。 小ロット品での新規開発試作～量産品～補給品まで主にアルミ・鉄、SUSなどの切削加工～検査を一貫対応します。 AIの進化、人口の減少、高齢化社会を例に挙げるまでもなく、日本社会において人の働き方が大きく変わろうとしています。 ものづくりに ...",
+    "url": "https://mono.ipros.com/company/detail/2035053/category/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 - 津田製作所会社情報 | 津田製作所会社案内 | スウェージング、パイプ加工の津田製作所事業・製品 - 津田製作所津田製作所 | 電子基板実装・修理・開発・基板複製・オーバーホール等...会社概要 | ㈱津田製作所津田工業株式会社 — 会社概要 Outline 会社名 株式会社 津田製作所 TSUDA Co., Ltd. 本社所在地 〒738-0022 広島県廿日市市木材港南9-6 MAPはこちら→ 代表者 ... COMPANY HISTORY 会社沿革 神奈川県足柄上郡開成町にて津田眞一創業。 自動車鋳造部品のバリ取り、計測器のボビン製作等を行う。 代表取締役社長に津田久男が就任。 SMTラインシステム（三洋製）を導入、本格的に基板ASSYを開始。 社名 株式会社 津田製作所 代表 代表取締役社長 津田 基史 所在地 〒216-0033 神奈川県川崎市宮前区宮崎3-1-1 ",
+    "url": "https://tsudass.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | スウェージング、パイプ加工の津田製作所事業・製品 - 津田製作所津田製作所 | 電子基板実装・修理・開発・基板複製・オーバーホール等...会社概要 | ㈱津田製作所津田工業株式会社 — 社名 株式会社 津田製作所 代表 代表取締役社長 津田 基史 所在地 〒216-0033 神奈川県川崎市宮前区宮崎3-1-1 TEL 044-866-2331 FAX 044-855-5296 URL https://www.tsuda-ss.jp 営業品目 SUS他金属パイプ【φ0.2～φ30位】のスウェージング加工及び曲げ等の成形加工 パイプ加工品とプレス品・板金品板との溶接、ロウ付等 ... 30年以上の金属切削加工実績を持つTSUDAが顧客ニーズに合わせた制作提案。 予算に合わせた製品制作の提案。品質重視の製品、個人や小企業向けの商品開発のお手伝いも行います。 T... 神奈川県小田原",
+    "url": "https://www.tsuda-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | ㈱津田製作所 — 会社概要 社名 株式会社 津田製作所 代表取締役 廣田 浩治 所在地 〒223-0066 横浜市港北区高田西1-7-24 TEL. 045-592-6445 FAX. 045-593-2408 資本金 1,300万円 設立 1972年8月 従業員数 23名（2024年5月現在） 取引銀行 三井住友銀行 新横浜支店 川崎信用金庫 勝田支店",
+    "url": "http://www.tuda-seisakusyo.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | 津田製作所 — COMPANY HISTORY 会社沿革 神奈川県足柄上郡開成町にて津田眞一創業。 自動車鋳造部品のバリ取り、計測器のボビン製作等を行う。 代表取締役社長に津田久男が就任。 SMTラインシステム（三洋製）を導入、本格的に基板ASSYを開始。",
+    "url": "https://www.tudass.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "事業・製品 - 津田製作所 — 30年以上の金属切削加工実績を持つTSUDAが顧客ニーズに合わせた制作提案。 予算に合わせた製品制作の提案。品質重視の製品、個人や小企業向けの商品開発のお手伝いも行います。 T...",
+    "url": "https://tsudass.com/biz/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 津田製作所 — 当社の個人情報の取り扱いにつきまして、上記の請求・お問い合わせ等ございましたら、下記までご連絡くださいますようお願い申し上げます。 6.本方針の変更 本方針の内容は変更されることがあります。",
+    "url": "https://tsudass.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | スウェージング、パイプ加工の津田製作所 — 電話・FAX・メールでの お問い合わせ 様々なご要望に対応出来るよう、スウェージングマシン大小各種保有しております。",
+    "url": "https://www.tsuda-ss.jp/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 津田製作所 — お問い合わせ TEL: 0465-39-5166 ※受付時間 平日：09:00～18:00 ※定休日：土曜・日曜・祝日 プライバシーポリシー ©TSUDA manufacturing Co., Ltd. / 有限会社津田製作所",
+    "url": "https://www.tudass.co.jp/contact",
+    "pass": 3
+   },
+   {
+    "quote": "製品に関するお問い合わせ | 津田製作所 — ご連絡の内容によってはお時間をいただく場合もございます。予めご了承ください。お問い合わせフォームからの広告宣伝、セールス等は固くお断りしています。ご連絡先お電話でのお問い合わせ ☎ 0829－34...",
+    "url": "https://tsudass.com/contact01/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "有限会社津田山製作所 - Facebook株式会社 津田製作所津田製作所株式会社津田製作所 広報部 - FacebookYoshiaki Tsuda (@yoshiaki.tsuda.50) • Facebook, Connect with ...有限会社津田山製作所 - お客様のニーズに合わせ設計・部材調達・組立...株式会社津田金型製作所 Apr 21, 2021 · 有限会社津田山製作所. 20 followers. ㈲津田山製作所が運営する公式Facebookページです。 株式会社 津田製作所 津田製作所 ... 津田製作所 Jun 30, 2013 · 株式会社津田製作所 広報部 Feb 22, 2013 広報部の下っ端です。 来週、27日から3月1日まで東京ビックサイトで開 催される「量産・試作加工技術展」に出展します。 当社の社員も日替わりで会場に居ますので、是非ブー スに立",
+    "url": "https://www.facebook.com/tdymss/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 津田製作所 株式会社 津田製作所",
+    "url": "https://www.facebook.com/株式会社-津田製作所-612161995551441/",
+    "pass": 3
+   },
+   {
+    "quote": "津田製作所 津田製作所 ... 津田製作所",
+    "url": "https://www.facebook.com/津田製作所-697437773704672/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社津田製作所 広報部 - Facebook Jun 30, 2013 · 株式会社津田製作所 広報部 Feb 22, 2013 広報部の下っ端です。 来週、27日から3月1日まで東京ビックサイトで開 催される「量産・試作加工技術展」に出展します。 当社の社員も日替わりで会場に居ますので、是非ブー スに立ち寄ってみてください。",
+    "url": "https://www.facebook.com/profile.php/?id=100067989491349",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tsudass.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/biz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/induction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2026/11/post-4714/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2026/10/post-4669/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2026/10/post-4626/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2025/01/post-1818/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2025/04/post-2725/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2025/09/post-3214/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2025/10/post-3228/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2026/02/post-3759/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2026/02/post-3743/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2026/01/post-3711/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2025/10/post-3248/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2025/10/post-3246/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2025/11/post-3446/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2026/09/post-4545/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2026/04/post-3918/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2026/09/post-4567/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2026/09/post-4536/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2026/07/post-4387/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tsudass.com/2025/01/post-1921/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.tudass.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tudass.co.jp/mounting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuda-ss.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tuda-seisakusyo.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tsuda-ss.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tudass.co.jp/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/tdymss/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株式会社-津田製作所-612161995551441/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/津田製作所-697437773704672/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=100067989491349",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "津田製作所 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.tudass.co.jp/",
+    "https://tsudass.com/2025/04/post-2725/",
+    "https://tudass.co.jp/mounting",
+    "https://mono.ipros.com/company/detail/2035053/catalog/",
+    "https://mono.ipros.com/company/detail/2035053/category/",
+    "https://tsudass.com/biz/",
+    "https://make-tatsuta.co.jp/product_pro2/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "津田製作所 会社概要 事業内容",
+   "results": [
+    "https://tsudass.com/company/",
+    "https://www.tsuda-ss.jp/company/",
+    "http://www.tuda-seisakusyo.co.jp/company.html",
+    "https://www.tudass.co.jp/company",
+    "https://tsudass.com/biz/",
+    "https://www.tudass.co.jp/",
+    "https://www.tsuda-inc.co.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "津田製作所 お問い合わせ メール",
+   "results": [
+    "https://tsudass.com/contact/",
+    "https://www.tsuda-ss.jp/inquiry/",
+    "https://www.tudass.co.jp/contact",
+    "https://tsudass.com/contact01/",
+    "https://www.tsudaindustrial.co.jp/contact/",
+    "https://tuda.co.jp/contact/",
+    "http://www.tuda-seisakusyo.co.jp/contact.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 津田製作所",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/n8741b9a78780",
+    "https://note.com/tatsuya_sabato/n/n6cd8015e6edf",
+    "https://tales.note.com/",
+    "https://note.com/beckhoff_japan/n/n4940b5092d38",
+    "https://note.com/hikinojinji/n/nc1b2a582a167",
+    "https://note.com/novel_orca8728/n/n996afc263b35",
+    "https://note.com/jpstock_research/n/ne47c200a1c10"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 津田製作所",
+   "results": [
+    "https://x.com/Tsudan620",
+    "https://x.com/netatank",
+    "https://x.com/team_tsuda",
+    "https://x.com/tsuda",
+    "https://x.com/x_terada",
+    "https://x.com/TakuyaTsuda85",
+    "https://x.com/MichitakaTsuda"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 津田製作所",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 津田製作所",
+   "results": [
+    "https://www.facebook.com/tdymss/",
+    "https://www.facebook.com/株式会社-津田製作所-612161995551441/",
+    "https://www.facebook.com/津田製作所-697437773704672/",
+    "https://www.facebook.com/profile.php/?id=100067989491349",
+    "https://www.facebook.com/yoshiaki.tsuda.50/",
+    "https://www.facebook.com/tdymss/posts/お客様のニーズに合わせ設計部材調達組立配線試験検査の全行程を一貫生産に対応しています今後も多くのお客様にご満足いただけるよう1点ものや小ロット短納期にも対応が可/109375217950384/",
+    "https://www.facebook.com/株式会社津田金型製作所-533472346728382/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "津田製作所 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://tsudass.com/category/keiei/",
+    "https://www.tudass.co.jp/company",
+    "https://tsudass.com/2025/12/post-3581/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "津田製作所 X 投稿",
+   "results": [
+    "https://tsudass.com/category/製造部/",
+    "https://tsudass.com/2026/02/post-3743/",
+    "https://www.tudass.co.jp/",
+    "https://www.tsuda-ss.jp/",
+    "https://x.com/tsuda/articles",
+    "https://x.com/tsuda",
+    "https://search.yahoo.co.jp/realtime/search/名探偵津田/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式24頁／PDF・画像0件／外部10頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式24頁／PDF・画像0件／外部10頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式24頁／PDF・画像0件／外部10頁・検索9回）"
+ }
+}

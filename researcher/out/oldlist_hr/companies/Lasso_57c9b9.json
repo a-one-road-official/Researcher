@@ -1,0 +1,1366 @@
+{
+ "name": "Lasso",
+ "aliases": [],
+ "context": "旧営業リスト｜Cybersecurity (AI/LLM)｜状態なし",
+ "researched_at": "2026-11-11T18:40:26.735537+00:00",
+ "official_url": "https://www.lasso.security/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Secure AI Adoption at Enterprise Scale | Lasso",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents at Enterprise Scale",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Protection for every AI agent you build and deploy, wherever it runs.",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "New runtime protection for every AI agent",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Lasso in gaining recognition for security AI agents at enterprise scale. A simple space for report mentions, ranking and analyst validation.",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Decentralized ownership has led to Shadow AI across the enterprise. Security teams have zero visibility into the AI tools and agents employees are using and creating.",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional security relies on predictable rules, but AI is non-deterministic. Preventing risk requires analyzing the intent behind an agent's actions rather than relying on fixed patterns.",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Foundational models are inherently vulnerable, introducing risk into the software supply chain. Frequent provider updates can instantly change the behavior of any agent or application built on top of them.",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover. Assess. Protect.",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Lasso is purpose-built for enterprises with speed, scale, precision, and cost efficiency at the core of our AI Security Platform.",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Patents-pending on proprietary AI innovation",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Accuracy rate across content, context, and intent detections",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Bringing Claude Enterprise Activity Into Lasso With Claude's Compliance API",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "“Lasso’s investigative tools have been incredibly valuable. But they also help to prevent risks proactively by educating our employees about responsible AI usage. This has been key to enabling innovation while maintaining compliance and security.”",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "CISO & VP IT Productivity",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Lasso's full security suite has been crucial in fortifying our GenAI applications. Their approach ensures our organization, customers, data, and employees stay protected from various attacks while allowing me full control over my environment.\"",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "\"As a consultant, I’ve worked with countless security tools, but Lasso Security stands out with its comprehensive suite and LLM-first approach. It offers robust observation and protection for sensitive data and enables fast remediation and real-time response. In the fast-evolving AI landscape, Lasso delivers true value.\"",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "\"As a CEO focused on driving innovation and growth, ensuring the security of AI initiatives for our clients is paramount. We’re proud to have Lasso as our trusted security partner in adopting GenAI, enabling us to focus on what we do best—innovating and growing\"",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Lasso Security’s comprehensive security suite has been a critical part in securing our GenAI infrastructure. The level of control and visibility it provides ensures that both our internal data and client information are shielded from emerging threats and gives us the confidence to embrace GenAI safely\"",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "CISO & Global VP IT Productivity",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect every AI interaction with Lasso.",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver robust, future-proof security for your customers as they adopt GenAI.",
+    "url": "https://www.lasso.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "If your portfolio doesn’t yet include a GenAI-specific offering, now is the time to act. Lasso provides unparalleled security for LLM deployments, combining cutting-edge technology with the support and resources you need to succeed.",
+    "url": "https://www.lasso.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Tap into Lasso’s deep expertise in LLM security to prepare your clients for the future.",
+    "url": "https://www.lasso.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Position yourself as a leader with proactive GenAI security solutions featuring discovery, threat detection, and customizable policies.",
+    "url": "https://www.lasso.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Provide top-tier GenAI security solutions that exceed client expectations.",
+    "url": "https://www.lasso.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Joint GenAI Protection:",
+    "url": "https://www.lasso.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Safeguarding your data and protecting security gaps is no longer optional—it’s urgent.",
+    "url": "https://www.lasso.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Stand out by integrating GenAI security into your services, delivering unmatched value and providing your clients with peace of mind.",
+    "url": "https://www.lasso.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“Cybersecurity operations in the public sector are inherently complex. Partnering with Lasso was a natural choice for us and our customers to proactively address evolving threats in GenAI while ensuring compliance, regulatory standards, and operational resilience. This isn't just a partnership—it's a strategic alliance in the age of GenAI.”",
+    "url": "https://www.lasso.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "\"As GenAI transforms today's business landscape, Lasso delivers the security and compliance our customers need to innovate confidently, free from risk concerns. Lasso's solutions have become an essential part of our customer's strategy to proactively address emerging and existing threats.\"",
+    "url": "https://www.lasso.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Securing AI for Enterprises: Case Studies",
+    "url": "https://www.lasso.security/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Securing AI for Enterprises",
+    "url": "https://www.lasso.security/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Find out how we help security teams adopt AI at enterprise scale, protecting every agent and AI application they build and deploy, wherever it runs.",
+    "url": "https://www.lasso.security/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Protect every AI interaction with Lasso.",
+    "url": "https://www.lasso.security/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We encourage openness in communication, transparency in decision-making processes, and trust between all team members.",
+    "url": "https://www.lasso.security/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Lasso is the AI Security Platform built for the agentic era. By connecting discovery, AI risk management, automated red teaming, and runtime protection in a single continuous loop, Lasso ensures every agentic application behaves within its intended scope, at every stage of its lifecycle.",
+    "url": "https://www.lasso.security/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Download the full Case Study to learn about the security challenges Telit Cinterion faced when implementing GenAI technologies across their global IoT enterprise while maintaining their commitment to security and compliance.",
+    "url": "https://www.lasso.security/resources/case-study-how-lasso-support-telit-cinterions-journey-to-secure-genai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "Telit Cinterion: Balancing GenAI Innovation with Enterprise Security",
+    "url": "https://www.lasso.security/resources/case-study-how-lasso-support-telit-cinterions-journey-to-secure-genai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "Telit Cinterion, a global leader in end-to-end IoT solutions with approximately 1,000 employees across six continents, faced a common modern dilemma:",
+    "url": "https://www.lasso.security/resources/case-study-how-lasso-support-telit-cinterions-journey-to-secure-genai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "how to embrace the productivity benefits of Generative AI while maintaining robust security standards",
+    "url": "https://www.lasso.security/resources/case-study-how-lasso-support-telit-cinterions-journey-to-secure-genai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": ". As employees increasingly adopted tools like ChatGPT, Gemini, and Microsoft CoPilot, the company recognized GenAI's potential to provide a competitive advantage in the IoT space.",
+    "url": "https://www.lasso.security/resources/case-study-how-lasso-support-telit-cinterions-journey-to-secure-genai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study to learn how Telit Cinterion navigated these security challenges while implementing GenAI technologies across their enterprise—and how Lasso's GenAI security solution successfully addressed their concerns, enabling innovation and enhancing productivity for both employees and applications without compromising on security.",
+    "url": "https://www.lasso.security/resources/case-study-how-lasso-support-telit-cinterions-journey-to-secure-genai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "What I should know, what I should see, is what Lasso gave me. We are proud customers of Lasso, and are now expanding our usage to ensure our customer-facing AI services are protected against bias and data leaks.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "Optibus, as an adopter of innovative technologies and approaches, is working continuously to empower its employees with effective ways to continue providing the best cloud-native solutions for public transportation operators and agencies across the world.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "They knew AI was everywhere, but they didn’t actually know which tools or agents were being used by which teams. Developers were leaning on AI for code, while employees in Marketing and HR were experimenting with all sorts of different LLMs. Without a clear view of what was happening, it was impossible to ensure that sensitive company data was staying where it belonged.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "Employees used a mix of personal and professional accounts",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "Certain AI resources in use were not configurable for enterprise security requirements",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "Optibus partnered with Lasso Security to regain control of their AI ecosystem. Lasso provided a comprehensive security layer that integrated seamlessly with Optibus's existing security stack.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "Through Lasso’s web extension, Lasso immediately solved the visibility gap by mapping out every AI resource Optibus uses across the web and local desktops. For the first time, Optibus could see which business units were using which agents, their risk levels, and usage trends based on each AI provider.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "AI Application Protection with an AI Gateway",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "Looking forward, Optibus plans to implement Lasso’s AI Gateway for their customer-facing services. Acting as a middleman between the LLM and Optibus’ AI application, Lasso ensures that every customer prompt and response is safe, filtered for bias, and free from misconfigurations.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "Once they had visibility, Optibus transitioned to a granular, group-based access model. Instead of a \"one-size-fits-all\" approach, the security team created specific user groups based on departments to dictate exactly which AI resources were appropriate for which employees.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "For example, the R&D team was granted access to specific AI coding assistants and technical agents necessary for their workflow, while those same tools were restricted for departments like Marketing or HR, where they weren't needed.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond just choosing the tools, Optibus implemented company-wide guardrails. They set clear policies on what is and isn’t allowed in AI interactions, covering everything from content moderation (to prevent bias or inappropriate outputs) to strict data protection rules.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "If an employee tried to input sensitive data or use an unapproved agent, Lasso’s governance layer stepped in to ensure compliance with the company’s security standards and either blocked, alerted on, or masked the prompt.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "Lasso works with the security stack you already have. For Optibus, this meant they didn't have to overhaul their infrastructure to become AI-secure. Lasso simply plugged into their existing workflow, providing the guardrails necessary to innovate with confidence.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "The standout success of this partnership is Glide’s Penetration Testing (PT) Agent. Traditionally, a deep-dive pentest took the team 3 weeks of manual effort. By building an AI agent to automate the process, and securing that agent’s intent with Lasso, the timeline was revolutionized.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "Zero-Latency Protection",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "Optibus is a leading software-as-a-service (SaaS) platform for planning and operating public transportation. Using high-performance computing and AI, Optibus helps cities and operators around the world improve the efficiency and reliability of their transit networks.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Attack types & techniques used by our offensive AI agents",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Lasso Case Study: Securing GenAI for Telit",
+    "url": "https://www.lasso.security/resources/case-study-how-lasso-support-telit-cinterions-journey-to-secure-genai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "Download the full Case Study to learn about the security challenges Telit Cinterion faced when implementing GenAI technologies across their global IoT enterprise while maintaining their commitment to security and compliance.",
+    "url": "https://www.lasso.security/resources/case-study-how-lasso-support-telit-cinterions-journey-to-secure-genai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study to learn how Telit Cinterion navigated these security challenges while implementing GenAI technologies across their enterprise—and how Lasso's GenAI security solution successfully addressed their concerns, enabling innovation and enhancing productivity for both employees and applications without compromising on security.",
+    "url": "https://www.lasso.security/resources/case-study-how-lasso-support-telit-cinterions-journey-to-secure-genai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "Optibus, as an adopter of innovative technologies and approaches, is working continuously to empower its employees with effective ways to continue providing the best cloud-native solutions for public transportation operators and agencies across the world.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "They knew AI was everywhere, but they didn’t actually know which tools or agents were being used by which teams. Developers were leaning on AI for code, while employees in Marketing and HR were experimenting with all sorts of different LLMs. Without a clear view of what was happening, it was impossible to ensure that sensitive company data was staying where it belonged.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "Optibus is a leading software-as-a-service (SaaS) platform for planning and operating public transportation. Using high-performance computing and AI, Optibus helps cities and operators around the world improve the efficiency and reliability of their transit networks.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "AI Factory 1.3",
+    "url": "https://edbjapan.com/manual/category/lasso/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Factory（June 2025）",
+    "url": "https://edbjapan.com/manual/category/lasso/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Factory (2)",
+    "url": "https://edbjapan.com/manual/category/lasso/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Manufacturing Strategy",
+    "url": "https://lassosupplychain.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Industry Insights",
+    "url": "https://lassosupplychain.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories from Small & Mid-Sized Manufacturers",
+    "url": "https://lassosupplychain.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Transforming Decision-Making at a Precision Manufacturer Through Integrated Executive Dashboards",
+    "url": "https://lassosupplychain.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A growing precision manufacturer unified data across operations and finance to deliver real-time executive dashboards—enabling faster, more confident decisions at every level of the business.",
+    "url": "https://lassosupplychain.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Real-Time Manufacturing Dashboards for Plant Floor Visibility",
+    "url": "https://lassosupplychain.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time dashboards give supervisors and operators a clear view of production status, downtime, and issues—so problems get addressed before they impact the shift.",
+    "url": "https://lassosupplychain.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Modern Data Stack Enables Accurate, Optimized Inventory for a Mid-Sized Manufacturer",
+    "url": "https://lassosupplychain.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Reducing Waste, Increasing Yield: A Manufacturing Turnaround with Modern Data Analytics",
+    "url": "https://lassosupplychain.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A mid-sized manufacturer worked with Lasso to unify production and quality data, enabling real-time insights that reduced scrap, improved first-pass yield, and accelerated root cause analysis.",
+    "url": "https://lassosupplychain.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Data-Driven Quoting and Multi-Dimensional Profit Visibility for a Growing SMB Manufacturer",
+    "url": "https://lassosupplychain.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A small manufacturer worked with Lasso to transform their quoting workflow, adding data-driven quoting and clear profit visibility across jobs, products, machines, and customers to protect margins and scale with confidence.",
+    "url": "https://lassosupplychain.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Book A Free 30-Minute Manufacturing Data Assessment",
+    "url": "https://lassosupplychain.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Reducing Waste, Increasing Yield – A Manufacturing Turnaround with Modern Data Analytics – Lasso",
+    "url": "https://lassosupplychain.com/case-studies/case-study-reducing-waste-increasing-yield-a-manufacturing-turnaround-with-modern-data-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital Manufacturing Strategy",
+    "url": "https://lassosupplychain.com/case-studies/case-study-reducing-waste-increasing-yield-a-manufacturing-turnaround-with-modern-data-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Industry Insights",
+    "url": "https://lassosupplychain.com/case-studies/case-study-reducing-waste-increasing-yield-a-manufacturing-turnaround-with-modern-data-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "Reducing Waste, Increasing Yield: A Manufacturing Turnaround with Modern Data Analytics",
+    "url": "https://lassosupplychain.com/case-studies/case-study-reducing-waste-increasing-yield-a-manufacturing-turnaround-with-modern-data-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Reducing Waste, Increasing Yield – A Manufacturing Turnaround with Modern Data Analytics",
+    "url": "https://lassosupplychain.com/case-studies/case-study-reducing-waste-increasing-yield-a-manufacturing-turnaround-with-modern-data-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "A mid-sized manufacturer specializing in precision plastic and metal enclosures for medical-device and industrial-electronics customers. The company employs 120 people and operates a 65,000 sq ft facility in the Midwest US running three shifts. Production includes 18 CNC machines, 12 injection-molding presses, and a manual assembly line.",
+    "url": "https://lassosupplychain.com/case-studies/case-study-reducing-waste-increasing-yield-a-manufacturing-turnaround-with-modern-data-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "Lasso partnered with the manufacturer to get a handle on their yield and quality issues. The data existed, they just did not have the analytics infrastructure in place to turn this data into business value. The project unfolded in phases:",
+    "url": "https://lassosupplychain.com/case-studies/case-study-reducing-waste-increasing-yield-a-manufacturing-turnaround-with-modern-data-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "Lasso conducted a plant-wide data audit to identify sources, gaps, inconsistencies, and integration challenges. Together, we defined a roadmap prioritizing high-impact quality and yield improvements that connected operational data to business goals.",
+    "url": "https://lassosupplychain.com/case-studies/case-study-reducing-waste-increasing-yield-a-manufacturing-turnaround-with-modern-data-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "Lasso deployed edge connectors to pull real-time data from the factory floor, including temperature, vibration, and spindle speeds. This data was unified with the ERP & MES systems to create a Single Source of Truth.",
+    "url": "https://lassosupplychain.com/case-studies/case-study-reducing-waste-increasing-yield-a-manufacturing-turnaround-with-modern-data-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "By implementing a unified data lakehouse to ingest, store, and process the company’s data, the manufacturers was finally able to leverage all their data to drive better business outcomes, including:",
+    "url": "https://lassosupplychain.com/case-studies/case-study-reducing-waste-increasing-yield-a-manufacturing-turnaround-with-modern-data-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": ": After implementing Lasso’s analytics solutions, the manufacturer reduced scrap by more than 20 percent by identifying process drift, tooling wear patterns, and material lot variability that were previously hidden in siloed systems. Real-time monitoring and alerting enabled operators to correct issues before defects were produced, significantly lowering material waste and rework costs.",
+    "url": "https://lassosupplychain.com/case-studies/case-study-reducing-waste-increasing-yield-a-manufacturing-turnaround-with-modern-data-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Transforming Supplier Performance Through Data-Driven Insights",
+    "url": "https://lassosupplychain.com/case-studies/case-study-reducing-waste-increasing-yield-a-manufacturing-turnaround-with-modern-data-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Real-Time Manufacturing Dashboards for Plant Floor Visibility",
+    "url": "https://lassosupplychain.com/case-studies/case-study-reducing-waste-increasing-yield-a-manufacturing-turnaround-with-modern-data-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "Book A Free 30-Minute Manufacturing Data Assessment",
+    "url": "https://lassosupplychain.com/case-studies/case-study-reducing-waste-increasing-yield-a-manufacturing-turnaround-with-modern-data-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: LASSO Apparel achieves perfect-fit custom jeans with Tukatech software and laser cutting | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/tukatech/case-study/lasso-apparel-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: LASSO Apparel achieves perfect-fit custom jeans with Tukatech software and laser cutting",
+    "url": "https://www.casestudies.com/company/tukatech/case-study/lasso-apparel-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "LASSO Apparel - Customer Case Study",
+    "url": "https://www.casestudies.com/company/tukatech/case-study/lasso-apparel-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/tukatech/case-study/lasso-apparel-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/tukatech/case-study/lasso-apparel-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Read the case study →",
+    "url": "https://www.lasso.io/customer-stories/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Decentralized ownership has led to Shadow AI across the enterprise. Security teams have zero visibility into the AI tools and agents employees are using and creating.",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "“Lasso’s investigative tools have been incredibly valuable. But they also help to prevent risks proactively by educating our employees about responsible AI usage. This has been key to enabling innovation while maintaining compliance and security.”",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Lasso's full security suite has been crucial in fortifying our GenAI applications. Their approach ensures our organization, customers, data, and employees stay protected from various attacks while allowing me full control over my environment.\"",
+    "url": "https://www.lasso.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Be Part of the first GenAI Partners Community",
+    "url": "https://www.lasso.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Generate New Revenue Stream:",
+    "url": "https://www.lasso.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "\"As GenAI transforms today's business landscape, Lasso delivers the security and compliance our customers need to innovate confidently, free from risk concerns. Lasso's solutions have become an essential part of our customer's strategy to proactively address emerging and existing threats.\"",
+    "url": "https://www.lasso.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of something bigger with Lasso. Join a team where your work makes a real impact in the next gen of cybersecurity solutions.",
+    "url": "https://www.lasso.security/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Telit Cinterion, a global leader in end-to-end IoT solutions with approximately 1,000 employees across six continents, faced a common modern dilemma:",
+    "url": "https://www.lasso.security/resources/case-study-how-lasso-support-telit-cinterions-journey-to-secure-genai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": ". As employees increasingly adopted tools like ChatGPT, Gemini, and Microsoft CoPilot, the company recognized GenAI's potential to provide a competitive advantage in the IoT space.",
+    "url": "https://www.lasso.security/resources/case-study-how-lasso-support-telit-cinterions-journey-to-secure-genai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study to learn how Telit Cinterion navigated these security challenges while implementing GenAI technologies across their enterprise—and how Lasso's GenAI security solution successfully addressed their concerns, enabling innovation and enhancing productivity for both employees and applications without compromising on security.",
+    "url": "https://www.lasso.security/resources/case-study-how-lasso-support-telit-cinterions-journey-to-secure-genai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "How Optibus secured every AI interaction across 300+ employees, achieving 100% shadow AI elimination and a 60% reduction in AI-related security events.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "Optibus, as an adopter of innovative technologies and approaches, is working continuously to empower its employees with effective ways to continue providing the best cloud-native solutions for public transportation operators and agencies across the world.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "They knew AI was everywhere, but they didn’t actually know which tools or agents were being used by which teams. Developers were leaning on AI for code, while employees in Marketing and HR were experimenting with all sorts of different LLMs. Without a clear view of what was happening, it was impossible to ensure that sensitive company data was staying where it belonged.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "Employees used a mix of personal and professional accounts",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "Once they had visibility, Optibus transitioned to a granular, group-based access model. Instead of a \"one-size-fits-all\" approach, the security team created specific user groups based on departments to dictate exactly which AI resources were appropriate for which employees.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   },
+   {
+    "quote": "Breimanのnonnegative garroteについての研究",
+    "url": "https://www.ibm.com/jp-ja/think/topics/lasso-regression",
+    "pass": 3
+   },
+   {
+    "quote": "LASSO is not just a tool for us, it’s a vital part of our success. The speed and efficiency of the app, GPS tracking for accountability, and the seamless communication of rates all work together to replace the need for multiple office staff members.",
+    "url": "https://www.lasso.io/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "LASSO Revenue 2024: $9.7M Est., $2.1M Raised",
+    "url": "https://getlatka.com/companies/lasso",
+    "pass": 3
+   },
+   {
+    "quote": "LASSO has not published its revenue. GetLatka estimates it at about $9.7M a year (October 2024).",
+    "url": "https://getlatka.com/companies/lasso",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/lasso",
+    "pass": 3
+   },
+   {
+    "quote": "LASSO CEO, founders & employees",
+    "url": "https://getlatka.com/companies/lasso",
+    "pass": 3
+   },
+   {
+    "quote": "Clay Sifford founded LASSO in 2015 and runs it as CEO. LASSO had 234 employees (December 2024, LinkedIn), up from 193 a year earlier.",
+    "url": "https://getlatka.com/companies/lasso",
+    "pass": 3
+   },
+   {
+    "quote": "What is LASSO's revenue?",
+    "url": "https://getlatka.com/companies/lasso",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates LASSO's revenue at about",
+    "url": "https://getlatka.com/companies/lasso",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does LASSO have?",
+    "url": "https://getlatka.com/companies/lasso",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/lasso",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/lasso",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/lasso",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/lasso",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Optibus, as an adopter of innovative technologies and approaches, is working continuously to empower its employees with effective ways to continue providing the best cloud-native solutions for public transportation operators and agencies across the world.",
+    "url": "https://www.lasso.security/case-study/optibus",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本語訳｜Lasso 4.19.0",
+    "url": "https://edbjapan.com/manual/category/lasso/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語訳｜Lasso 4.17.0",
+    "url": "https://edbjapan.com/manual/category/lasso/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語訳｜Lasso 4.16.0",
+    "url": "https://edbjapan.com/manual/category/lasso/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語訳｜Lasso 4.15.0",
+    "url": "https://edbjapan.com/manual/category/lasso/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語訳｜Lasso 4.14.0",
+    "url": "https://edbjapan.com/manual/category/lasso/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語訳｜Lasso 4.13.0 ※GoogleのAutoML Translationを使用して翻訳しております",
+    "url": "https://edbjapan.com/manual/category/lasso/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語訳｜Lasso 4.11.0 ※GoogleのAutoML Translationを使用して翻訳しております",
+    "url": "https://edbjapan.com/manual/category/lasso/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語訳｜Lasso 4.0.0 ※GoogleのAutoML Translationを使用して翻訳しております",
+    "url": "https://edbjapan.com/manual/category/lasso/",
+    "pass": 3
+   },
+   {
+    "quote": "AI活用のグローバル・トレンドや日本の市場動向を踏まえたDX、生成AIの最新情報を毎月お届けします",
+    "url": "https://www.ibm.com/jp-ja/think/topics/lasso-regression",
+    "pass": 3
+   },
+   {
+    "quote": "本ニュースレターは【日本語】で配信しています",
+    "url": "https://www.ibm.com/jp-ja/think/topics/lasso-regression",
+    "pass": 3
+   },
+   {
+    "quote": "How to say lasso in Japanese",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-bf5e972943f0e90adb0d9bfa939dcc72ce410bec.html",
+    "pass": 3
+   },
+   {
+    "quote": "More Japanese words for lasso",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-bf5e972943f0e90adb0d9bfa939dcc72ce410bec.html",
+    "pass": 3
+   },
+   {
+    "quote": "Translate to Japanese",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-bf5e972943f0e90adb0d9bfa939dcc72ce410bec.html",
+    "pass": 3
+   },
+   {
+    "quote": "CONTEMPORARY JAPANESE garden & landscape design",
+    "url": "https://www.studiolasso.co.uk/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語WordNet(英和)での「Lasso」の意味",
+    "url": "https://ejje.weblio.jp/content/Lasso",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Lasso | EDB Manual 2026 — May 21, 2024 · Lasso 4.11.0 日本語訳｜Lasso 4.11.0 ※GoogleのAutoML Translationを使用して翻訳しております。 英語原文｜Lasso 4.11.0 2023年9月4日/ 最終更新日時 : 2026年1月25日edbjapan Lasso",
+    "url": "https://edbjapan.com/manual/category/lasso/",
+    "pass": 3
+   },
+   {
+    "quote": "ラッソ回帰（Lasso）完全ガイド：仕組み・変数選択・λの最適化と実務... — Nov 18, 2025 · ラッソ回帰（Lasso: Least Absolute Shrinkage and Selection Operator）は、統計学および機械学習における正則化付き線形回帰手法の一つです。 Tibshirani（1996）によって提案され、目的は過学習の抑制と説明変数の選択（スパース性の導入）を同時に実現することにあり ...",
+    "url": "https://everplay.jp/column/19446",
+    "pass": 3
+   },
+   {
+    "quote": "Lasso回帰とは - IBM — Lasso回帰（L1正規化としても知られる）は、 線形回帰 モデルの正規化の一形態です。 正規化 とは、トレーニングデータの過剰適合による誤差を減らすための統計的手法です。 このアプローチを次の式に反映します。",
+    "url": "https://www.ibm.com/jp-ja/think/topics/lasso-regression",
+    "pass": 3
+   },
+   {
+    "quote": "鳥取大学医学部附属病院でLASSOの実証実験を実施 | Jpex Asia Japan — Mar 27, 2026 · Jpex Asia Japanは、鳥取大学医学部附属病院と連携し、患者様の転倒・転落リスクを見守るシステム 「LASSO」の実証実験を行っています。 2025年9月29日より、 8A病棟にてデモ機の試用を開始しました。",
+    "url": "https://www.jpexasia.com/jp/info/news/鳥取大学医学部附属病院でlassoの実証実験を実施/",
+    "pass": 3
+   },
+   {
+    "quote": "How to say lasso in Japanese - WordHippo — How to say lasso in Japanese What's the Japanese word for lasso? Here's how you say it. Japanese Translation ラッソ Rasso",
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-bf5e972943f0e90adb0d9bfa939dcc72ce410bec.html",
+    "pass": 3
+   },
+   {
+    "quote": "Studio Lasso — Studio Lasso is a modern Japanese garden & landscape design studio based in London & Tokyo.",
+    "url": "https://www.studiolasso.co.uk/",
+    "pass": 3
+   },
+   {
+    "quote": "英語「Lasso」の意味・使い方・読み方 | Weblio英和辞書 — While the term \"lasso\" is most common among the general public, \"lariat\" also being known, the term \"rope\" is by far most common among those who practice or spectate modern roping.",
+    "url": "https://ejje.weblio.jp/content/Lasso",
+    "pass": 3
+   },
+   {
+    "quote": "LASSO - Translation in Japanese - bab.la — Translation for 'lasso' in the free English-Japanese dictionary and many other Japanese translations.",
+    "url": "https://en.bab.la/dictionary/english-japanese/lasso",
+    "pass": 3
+   },
+   {
+    "quote": "lasso in Japanese - English-Japanese Dictionary | Glosbe — Check 'lasso' translations into Japanese. Look through examples of lasso translation in sentences, listen to pronunciation and learn grammar.",
+    "url": "https://glosbe.com/en/ja/lasso",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies – Lasso — A small manufacturer worked with Lasso to transform their quoting workflow, adding data-driven quoting and clear profit visibility across jobs, products, machines, and customers to protect margins and scale with confidence.",
+    "url": "https://lassosupplychain.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Reducing Waste, Increasing Yield – A ... — Scrap Rate Reduction: After implementing Lasso’s analytics solutions, the manufacturer reduced scrap by more than 20 percent by identifying process drift, tooling wear patterns, and material lot variability that were previously hidden in siloed systems.",
+    "url": "https://lassosupplychain.com/case-studies/case-study-reducing-waste-increasing-yield-a-manufacturing-turnaround-with-modern-data-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: LASSO Apparel achieves perfect-fit custom jeans ... — The result was faster custom production, lower costs, maintained quality, and a zero-inventory model that reduced overproduction while delivering a better fit and customer experience. View this case study…",
+    "url": "https://www.casestudies.com/company/tukatech/case-study/lasso-apparel-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories - LASSO — Discover how AV Chicago relied on LASSO to coordinate crew for one of the city’s biggest events — the Cubs’ World Series victory rally — with zero chaos and maximum efficiency.",
+    "url": "https://www.lasso.io/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - ecisolutions.com — Lasso CRM Resources: Optimize Your New Home Sales Strategy Learn the benefits of a cloud-based business and explore industry case studies, videos, and more.",
+    "url": "https://www.ecisolutions.com/products/lasso-crm/resources/?types=case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Lasso – Overview – Funding, Revenue & Growth – 2026 — Discover Lasso's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/lasso",
+    "pass": 3
+   },
+   {
+    "quote": "Lasso – Financials, Industry Trends & Funding Info – 2026 — Discover Lasso's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/lassoplatformio",
+    "pass": 3
+   },
+   {
+    "quote": "LASSO Revenue 2024: $9.7M Est., $2.1M Raised - LATKA — Dec 23, 2024 · LASSO 2024 estimated revenue: $9.7M (up from $6.5M in 2023). Total funding: $2.1M across 2 rounds. 234 employees. Founded 2015. Updated Dec 23, 2024.",
+    "url": "https://getlatka.com/companies/lasso",
+    "pass": 3
+   },
+   {
+    "quote": "LASSO Software 2026 Company Profile: Valuation, Funding ...Lasso - 2026 Company Profile, Team, Funding & Competitors ...Lasso Revenue, Funding & ValuationLASSO Inc - $13.9 M Revenue, Employees & Growth | Kona Equity — Information on valuation, funding, cap tables, investors, and executives for LASSO Software. Use the PitchBook Platform to explore the full profile. Sep 16, 2026 · Explore Lasso's in",
+    "url": "https://pitchbook.com/profiles/company/114922-27",
+    "pass": 3
+   },
+   {
+    "quote": "Lasso - 2026 Company Profile, Team, Funding & Competitors ...Lasso Revenue, Funding & ValuationLASSO Inc - $13.9 M Revenue, Employees & Growth | Kona Equity — Sep 16, 2026 · Explore Lasso's in-depth company profile, including funding details, key investors, leadership, and competitors. Lasso has revenue of $100,000, estimated valuation of $320,000, $6,000,000 in total funding. Find contacts and co",
+    "url": "https://tracxn.com/d/companies/lasso/__HqvLCtSQFd1uNOpZbRkU88jAvcDShMzs3niRzG00h9M",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "contact@lassosupplychain.com",
+    "url": "https://lassosupplychain.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "contact@lassosupplychain.com",
+    "url": "https://lassosupplychain.com/case-studies/case-study-reducing-waste-increasing-yield-a-manufacturing-turnaround-with-modern-data-analytics/",
+    "pass": 3
+   },
+   {
+    "quote": "It’s a huge game‑changer to have one place to look instead of juggling calendars, schedules, QuickBooks, emails, and texts. In LASSO, it’s all in one place — which saves a ton of time.",
+    "url": "https://www.lasso.io/customer-stories/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[2026 Edition] Process Lasso Complete Guide | The Ultimate ... Jan 31, 2026 · Even though your PC specs should be high, why does it stutter for a split second, or why does the mouse feel sluggish...? The cause lies in Windows' \"meddlesome fairness.\" In this article, I will reveal the 2026 latest optimization template for \"Process Lasso,\" the god-tier tool that forces CPU scheduling into submission",
+    "url": "https://note.com/ppcngame/n/n49e12cb24008?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】Process Lasso完全攻略｜「公平」を捨てて「ゲーム専用機... Jan 31, 2026 · PCのスペックは高いはずなのに、なぜか一瞬カクつく、マウスの反応が重く感じる……。 その原因は、Windowsの「お節介な公平さ」にあります。 今回は、CPUスケジューリングを力技でねじ伏せる神ツール『Process Lasso』の、2026年最新最適化テンプレを公開し ...",
+    "url": "https://note.com/ppcngame/n/n49e12cb24008",
+    "pass": 3
+   },
+   {
+    "quote": "PCゲームを無料で軽くするいくつかの方法 (③Process Lasso CPU最適化... Feb 10, 2025 · ・Process Lasso 続いてはCPUを最適化するProcess Lassoというソフト https://bitsum.com/ ↑ここにアクセスしてDownload Free押してダウンロード＆インストール インストールしたらソフトの設定から ‣「メイン」→「アクティブなパワープロファイル」→「Turbo or Bitsum ...",
+    "url": "https://note.com/devicelike/n/n087e965ffa8b",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー養成講座：RによるLasso・機械学習統計解析 Apr 6, 2026 · RにおけるLasso回帰と因果推論を網羅した『ユーザー養成講座』の構成を作成します。 Rは統計学にルーツを持つ言語であるため、Lasso（glmnet）から最新の因果推論（DoubleMLやgrf）まで、非常に強力なパッケージ群が揃っています。",
+    "url": "https://note.com/platypus2000jp/n/nacb58df97752",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Lasso (@throwlasso) / X Lasso automatically clips every digital coupon at Kroger, Safeway, Dollar General, CVS, and about 100 other stores in one tap, plus card offers from Chase, Citi, and Bank of America.",
+    "url": "https://x.com/throwlasso",
+    "pass": 3
+   },
+   {
+    "quote": "Lasso (@La_sso) / X 希望各位有個快樂夏天!💖☀️🧴💖 但注意不要中暑和補充水分!💖🧉 💖 Dr.Lasso發明了任何角色被命中會自動穿戴黃金比堅尼 (自動添加光影)與巨大化的偉大科技槍!💖👙💖 (可惜很快就被發現和被制止💖🦊💦🐔💢) *現在推特 (X)有自動翻譯功能 ...",
+    "url": "https://x.com/La_sso",
+    "pass": 3
+   },
+   {
+    "quote": "Lasso (@LassoWP) / X Lasso Pages is a game-changer for anyone who wants to earn from social media. It's not just a link in your bio; it's a dynamic platform that turns your traffic into revenue.",
+    "url": "https://x.com/lassowp",
+    "pass": 3
+   },
+   {
+    "quote": "lasso (@LassoMusica) / X lasso @LassoMusica Show translation en serio si soy lasso Artist Mexico lassomusica.com/tour",
+    "url": "https://x.com/LassoMusica",
+    "pass": 3
+   },
+   {
+    "quote": "Lasso (@La_sso) / X Follow PostsPosts RepliesReplies RepostsReposts MediaMedia Pinned Lasso @La_sso Jan 12, 2023",
+    "url": "https://x.com/La_sso",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "LASSO | Alpharetta GA - FacebookLasso - FacebookFacebookLASSO Montréal - FacebookLassos & Lace - FacebookLasso - FacebookLasso Up Nutrition | Livingston MT - Facebook Sep 17, 2026 · Make their experience seamless—and your job easier—with LASSO. From finding and onboarding talent to travel, time tracking, and payroll, LASSO streamlines every step of crew management in one platform. 6 days ago · Las",
+    "url": "https://www.facebook.com/lasso.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Lasso - FacebookFacebookLASSO Montréal - FacebookLassos & Lace - FacebookLasso - FacebookLasso Up Nutrition | Livingston MT - Facebook 6 days ago · Lasso. 1,790,221 followers · 5,204 talking about this. si Log into Facebook to connect with friends, family, and people you know. Oct 19, 2026 · LASSO Montréal. 48,418 followers · 951 talking about this. Festival : 14-15 août 2027 / August 14-15, 2027 ",
+    "url": "https://www.facebook.com/lassomusica/",
+    "pass": 3
+   },
+   {
+    "quote": "LASSO Montréal - FacebookLassos & Lace - FacebookLasso - FacebookLasso Up Nutrition | Livingston MT - Facebook Oct 19, 2026 · LASSO Montréal. 48,418 followers · 951 talking about this. Festival : 14-15 août 2027 / August 14-15, 2027 LASSO EN VILLE le 13 août 2027 LASSO & LACE is hitting the pontoon stage at 6 PM! 🎸🔥 Grab your crew, hop on the boat, and come spend your Saturday night with us! 🍻☀️ 🎶",
+    "url": "https://www.facebook.com/lassomtl/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.lasso.security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lasso.security/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lasso.security/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lasso.security/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lasso.security/resources/case-study-how-lasso-support-telit-cinterions-journey-to-secure-genai-adoption",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lasso.security/case-study/optibus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lasso.security/case-study/glide-identity",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/677e57d57f0aaef07252dadc/6976162e19f15454d4638b8e_agent%20buiilder.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%83%E3%82%BD%E5%9B%9E%E5%B8%B0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edbjapan.com/manual/category/lasso/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://everplay.jp/column/19446",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibm.com/jp-ja/think/topics/lasso-regression",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wordhippo.com/what-is/the/japanese-word-for-bf5e972943f0e90adb0d9bfa939dcc72ce410bec.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.studiolasso.co.uk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ejje.weblio.jp/content/Lasso",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.bab.la/dictionary/english-japanese/lasso",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://lassosupplychain.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lassosupplychain.com/case-studies/case-study-reducing-waste-increasing-yield-a-manufacturing-turnaround-with-modern-data-analytics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/tukatech/case-study/lasso-apparel-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lasso.io/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/lasso",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/lassoplatformio",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/lasso",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/114922-27",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ppcngame/n/n49e12cb24008?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/ppcngame/n/n49e12cb24008",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/devicelike/n/n087e965ffa8b",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/platypus2000jp/n/nacb58df97752",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/throwlasso",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/La_sso",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lassowp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LassoMusica",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lasso.io/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lassomusica/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lassomtl/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/La_sso",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lassowp",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Lasso 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ラッソ回帰",
+    "https://edbjapan.com/manual/category/lasso/",
+    "https://everplay.jp/column/19446",
+    "https://www.ibm.com/jp-ja/think/topics/lasso-regression",
+    "https://www.jpexasia.com/jp/info/news/鳥取大学医学部附属病院でlassoの実証実験を実施/",
+    "https://qiita.com/miya_ppp/items/cebe1e75192211a00d9f",
+    "https://www.jp.soundeye.ai/lasso-1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lasso 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "http://langshagroup.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lasso Japan",
+   "results": [
+    "https://www.wordhippo.com/what-is/the/japanese-word-for-bf5e972943f0e90adb0d9bfa939dcc72ce410bec.html",
+    "https://www.studiolasso.co.uk/",
+    "https://ejje.weblio.jp/content/Lasso",
+    "https://en.bab.la/dictionary/english-japanese/lasso",
+    "https://glosbe.com/en/ja/lasso",
+    "https://wikilanguages.net/Japanese/lasso.html",
+    "https://www.learnentry.com/english-japanese/meaning/lasso/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lasso manufacturing customer case study",
+   "results": [
+    "https://lassosupplychain.com/case-studies/",
+    "https://lassosupplychain.com/case-studies/case-study-reducing-waste-increasing-yield-a-manufacturing-turnaround-with-modern-data-analytics/",
+    "https://www.casestudies.com/company/tukatech/case-study/lasso-apparel-customer-case-study",
+    "https://www.lasso.io/customer-stories/",
+    "https://www.ecisolutions.com/products/lasso-crm/resources/?types=case-study",
+    "https://www.cuspera.com/products/lasso-crm-x-10250/customer-story",
+    "https://www.casestudies.com/company/lasso-crm/case-study/brennan-builders-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lasso white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://www.sap.com/partners/partner-program.html",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lasso founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/lasso",
+    "https://compworth.com/company/lassoplatformio",
+    "https://getlatka.com/companies/lasso",
+    "https://pitchbook.com/profiles/company/114922-27",
+    "https://tracxn.com/d/companies/lasso/__HqvLCtSQFd1uNOpZbRkU88jAvcDShMzs3niRzG00h9M",
+    "https://prospeo.io/c/lasso-revenue",
+    "https://www.konaequity.com/company/lasso-inc-4019764255/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Lasso",
+   "results": [
+    "https://note.com/ppcngame/n/n49e12cb24008?hl=en",
+    "https://note.com/ppcngame/n/n49e12cb24008",
+    "https://note.com/devicelike/n/n087e965ffa8b",
+    "https://note.com/platypus2000jp/n/nacb58df97752",
+    "https://note.com/platypus2000jp/n/nf72f90e08bad",
+    "https://note.com/magic_whale1395/n/n8bf299761f40",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Lasso",
+   "results": [
+    "https://x.com/throwlasso",
+    "https://x.com/La_sso",
+    "https://x.com/lassowp",
+    "https://x.com/LassoMusica",
+    "https://x.com/LassoGuillermo",
+    "https://x.com/thelassoapp",
+    "https://x.com/Shelby_Lasso"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Lasso",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Lasso",
+   "results": [
+    "https://www.facebook.com/lasso.io/",
+    "https://www.facebook.com/lassomusica/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/lassomtl/",
+    "https://www.facebook.com/LassosAndLaceWI/",
+    "https://www.facebook.com/LassoGear/",
+    "https://www.facebook.com/p/Lasso-Up-Nutrition-61590939131124/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lasso note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lasso X 投稿",
+   "results": [
+    "https://x.com/La_sso",
+    "https://x.com/lassowp",
+    "https://lassox.com/",
+    "https://login.lasso.io/",
+    "https://www.lasso.io/",
+    "https://portal.lassox.com/",
+    "https://uravation.com/media/claude-code-x-auto-post-2026/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部37頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部37頁・検索12回）"
+ }
+}

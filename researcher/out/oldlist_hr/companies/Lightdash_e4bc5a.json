@@ -1,0 +1,1040 @@
+{
+ "name": "Lightdash",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T18:29:11.435675+00:00",
+ "official_url": "https://www.lightdash.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Lightdash Pricing & Plans",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Guided onboarding and tailored training sessions",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Automated migration from current BI provider",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced security, support and customization for enterprise-grade organizations",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Pro, plus",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Deployment flexibility (Cloud or On Prem)",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority support with defined SLAs",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated onboarding, enablement, and ongoing success reviews",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Early access to new features and the ability to shape new products",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Self-improving semantic layer",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "($790/month for 100k loads per Embed Worker)",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Private Slack channel, Live chat",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Private Slack channel and",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Data Protection Agreement",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your 21 day trial period starts from when you first connect and compile your dbt project in Lightdash. You don't need to enter payment details to get started. At the end of your trial you have the option to start your subscription and keep using Lightdash!",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Lightdash was built on the idea that you shouldn't limit access to users having access to data. Being data practitioners and former buyers of BI tools, we know how frustrating it can be to have to deal with seat-based pricing limitations. Therefore, we're taking a different approach by giving teams the freedom to have as many users as they want and set their permissions accordingly.",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Lightdash leverages your existing dbt project to build and govern your entire BI platform. If you don't have a fully fledged dbt project setup, you can still use Lightdash. Reach out to us to learn more! Lightdash supports all versions of dbt: dbt Core, dbt Cloud and dbt Enterprise.",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No. We make it as easy as possible - we've developed a bunch of our own migration tools that massively reduce the overheard required to move your existing content from your current BI tool over to Lightdash. As part of Lightdash Cloud Pro and Enterprise onboarding, we can help get this content moved over for you.",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Do you offer 1-on-1 training/support?",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes! We offer hands-on training and support as part of our Cloud Pro and Enterprise plans. We typically run 1-hour training sessions as part of the onboarding, and use shared Slack channels for priority support. Cloud Starter users can also access our free resources in",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How Gen H’s CCO shipped production metrics in two days using Agentic BI",
+    "url": "https://www.lightdash.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Solutions Architect",
+    "url": "https://www.lightdash.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Lightdash Cloud is available in private beta",
+    "url": "https://www.lightdash.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "AI Analyst is released in private beta",
+    "url": "https://www.lightdash.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "AI Agents launch in private beta",
+    "url": "https://www.lightdash.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Join us - we are hiring!",
+    "url": "https://www.lightdash.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "pre-1.0",
+    "url": "https://techblog.tver.co.jp/entry/2026/09/29/121922",
+    "pass": 3
+   },
+   {
+    "quote": "で profiles.yml の target を参照する形になります",
+    "url": "https://techblog.tver.co.jp/entry/2026/09/29/121922",
+    "pass": 3
+   },
+   {
+    "quote": "なお、まだ pre-1.0（今回は v0.8.0）なので、記法は今後変わる可能性が高そうです",
+    "url": "https://techblog.tver.co.jp/entry/2026/09/29/121922",
+    "pass": 3
+   },
+   {
+    "quote": "date,campaign,device,impressions,completes,clicks",
+    "url": "https://techblog.tver.co.jp/entry/2026/09/29/121922",
+    "pass": 3
+   },
+   {
+    "quote": "SELECT SUM(impressions) AS total_impressions FROM ad_daily",
+    "url": "https://techblog.tver.co.jp/entry/2026/09/29/121922",
+    "pass": 3
+   },
+   {
+    "quote": "SELECT date::DATE AS date, SUM(impressions) AS impressions",
+    "url": "https://techblog.tver.co.jp/entry/2026/09/29/121922",
+    "pass": 3
+   },
+   {
+    "quote": "YAML をリポジトリ管理・PR レビュー可",
+    "url": "https://techblog.tver.co.jp/entry/2026/09/29/121922",
+    "pass": 3
+   },
+   {
+    "quote": "pre-1.0（v0.8.0・記法が変わりうる）",
+    "url": "https://techblog.tver.co.jp/entry/2026/09/29/121922",
+    "pass": 3
+   },
+   {
+    "quote": "dbt Charts は YAML と SQL でボードを宣言して CLI でファイルに書き出せるので、PR レビューや CI に載せやすいのが構造的な強みだと感じました",
+    "url": "https://techblog.tver.co.jp/entry/2026/09/29/121922",
+    "pass": 3
+   },
+   {
+    "quote": "指標の定義が変わったときに PR の差分として残るのも、すでに dbt でモデルを管理している流れと地続きです",
+    "url": "https://techblog.tver.co.jp/entry/2026/09/29/121922",
+    "pass": 3
+   },
+   {
+    "quote": "https://pypi.org/project/dbt-charts/",
+    "url": "https://techblog.tver.co.jp/entry/2026/09/29/121922",
+    "pass": 3
+   },
+   {
+    "quote": "◎ dbt writeback機能で直接PR作成",
+    "url": "https://safie.hatenablog.com/entry/lightdash-vs-metabase",
+    "pass": 3
+   },
+   {
+    "quote": "たとえばデータベースに「cust_id」「ord_amt」「prd_cd」といったカラムが存在していたとしても、マーケティング担当者がそのまま理解するのは容易ではありません",
+    "url": "https://since2020.jp/media/lightdash_glossary/",
+    "pass": 3
+   },
+   {
+    "quote": "【深層学習】Weight Space Programming入門 ― LLMが重みを読み書きする時代",
+    "url": "https://since2020.jp/media/lightdash_glossary/",
+    "pass": 3
+   },
+   {
+    "quote": "Prediction-Powered Inference（PPI）：AIの予測を、統計的に正しく使う方法",
+    "url": "https://since2020.jp/media/lightdash_glossary/",
+    "pass": 3
+   },
+   {
+    "quote": "Data teams can build and maintain analytics with any AI agent, then use the terminal, pull requests, and CI to preview, validate, and ship changes. Business users can ask questions in plain English, explore dashboards, or create custom data apps without bypassing governance.",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": ": no infrastructure to run, always up to date, and ready for AI agents, Data Apps, scheduled deliveries, embedding, and enterprise controls.",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "Your metrics, charts, and dashboards live as files. Build them with coding agents, preview changes from the CLI, validate in CI, and review analytics in pull requests.",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "Lightdash agents answer from your context layer, not raw table guesses. They respect permissions, return inspectable queries, reuse verified answers, and improve through reviews and evaluations.",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "Build custom reports, workbooks, slide decks, forecasting tools, and customer-facing data products from a prompt, with your context layer, permissions, and auth already built in.",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "Define metrics, dimensions, joins, descriptions, caching, and access rules in one governed layer. Use dbt projects or standalone Lightdash YAML pointed at your warehouse.",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "Embed dashboards, AI agents, and Data Apps in your product with the Lightdash SDK which supports configurable row-level security, user attributes, and customer-facing permissions.",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "Self-host the core BI platform, contribute improvements, and run Lightdash in your own infrastructure. Enterprise deployments can add commercial features and support.",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "Lightdash gives coding agents the context they need to make safe analytics changes: install the Lightdash skills, preview what changed, then validate the project before anything lands.",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "Use agent skills and the Lightdash MCP server to build charts, dashboards, metrics, and Data Apps from your editor or terminal. Every change can still go through the workflow your team trusts: preview the branch, validate the project, review the pull request, merge.",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "to get a hosted workspace in minutes. This is the recommended path for teams that want AI agents, Data Apps, managed upgrades, and production-ready infrastructure without operating Lightdash themselves.",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "If you're deploying to production, start with the",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "production deployment checklist",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise features are available on self-hosted deployments with a license key;",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "Node.js, Express, TSOA, Knex, and PostgreSQL on the backend",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "A CLI, MCP server, SDKs, Git integrations, and content-as-code workflows for developer-native analytics",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "Former Director of Product Management at an insurtech (employee #7), grew the business from seed to Series B, $40M+ funding and >70 employees.",
+    "url": "https://www.ycombinator.com/companies/hubble",
+    "pass": 3
+   },
+   {
+    "quote": "In previous work, I worked with drone analytics technology and launched a late-night food delivery service based in London",
+    "url": "https://www.ycombinator.com/companies/hubble",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/lightdash.com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Data warehouse SSH tunnel",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Define metrics, dimensions, joins, descriptions, caching, and access rules in one governed layer. Use dbt projects or standalone Lightdash YAML pointed at your warehouse.",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse adapters for BigQuery, Snowflake, Redshift, Databricks, Postgres, Trino, ClickHouse, and more",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "Previously, the startup called itself Hubble and it was more focused on running tests on companies’ data warehouse environments to identify data quality issues. It later realized that this capability was best paired with a BI tool, hence the",
+    "url": "https://siliconangle.com/2024/10/08/open-source-bi-startup-lightdash-raises-11m-launches-first-ai-data-analyst/",
+    "pass": 3
+   },
+   {
+    "quote": "With the new AI analyst, Chaudhary hopes to spark a new round of growth for Lightdash, which has already managed to increase its revenue by more than sevenfold in the last 12 months of an undisclosed base. Its customers include the enterprise resource planning software giant Workday Inc. and many other well known companies, Chaudhary said.",
+    "url": "https://siliconangle.com/2024/10/08/open-source-bi-startup-lightdash-raises-11m-launches-first-ai-data-analyst/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "No. We make it as easy as possible - we've developed a bunch of our own migration tools that massively reduce the overheard required to move your existing content from your current BI tool over to Lightdash. As part of Lightdash Cloud Pro and Enterprise onboarding, we can help get this content moved over for you.",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes! We offer hands-on training and support as part of our Cloud Pro and Enterprise plans. We typically run 1-hour training sessions as part of the onboarding, and use shared Slack channels for priority support. Cloud Starter users can also access our free resources in",
+    "url": "https://www.lightdash.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Former Director of Product Management at an insurtech (employee #7), grew the business from seed to Series B, $40M+ funding and >70 employees.",
+    "url": "https://www.ycombinator.com/companies/hubble",
+    "pass": 3
+   },
+   {
+    "quote": "Lightdash Revenue 2024: $11M Est.",
+    "url": "https://getlatka.com/companies/lightdash.com",
+    "pass": 3
+   },
+   {
+    "quote": "Lightdash has not published its revenue. GetLatka estimates it at about $11M a year (June 2024).",
+    "url": "https://getlatka.com/companies/lightdash.com",
+    "pass": 3
+   },
+   {
+    "quote": "Lightdash CEO, founders & employees",
+    "url": "https://getlatka.com/companies/lightdash.com",
+    "pass": 3
+   },
+   {
+    "quote": "Hamzah Chaudhary founded Lightdash in 2020 and runs it as CEO. Lightdash had 19 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/lightdash.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Lightdash's revenue?",
+    "url": "https://getlatka.com/companies/lightdash.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Lightdash's revenue at about",
+    "url": "https://getlatka.com/companies/lightdash.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Lightdash have?",
+    "url": "https://getlatka.com/companies/lightdash.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/lightdash.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/lightdash.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/lightdash.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/lightdash.com",
+    "pass": 3
+   },
+   {
+    "quote": "With the new AI analyst, Chaudhary hopes to spark a new round of growth for Lightdash, which has already managed to increase its revenue by more than sevenfold in the last 12 months of an undisclosed base. Its customers include the enterprise resource planning software giant Workday Inc. and many other well known companies, Chaudhary said.",
+    "url": "https://siliconangle.com/2024/10/08/open-source-bi-startup-lightdash-raises-11m-launches-first-ai-data-analyst/",
+    "pass": 3
+   },
+   {
+    "quote": "As for the money, this will be used to expand Lightdash’s team, which currently consists of just 13 employees spread between its offices in the U.S. and Europe. The funds will also help to accelerate the development of new product features, including yet more AI tools.",
+    "url": "https://siliconangle.com/2024/10/08/open-source-bi-startup-lightdash-raises-11m-launches-first-ai-data-analyst/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "業界最大手高速バス料金比較サイト「バス比較なび」や、LCCなど飛行機との比較ができる「格安移動」を運営している、株式会社LCLのエンジニアの個人記事です",
+    "url": "https://zenn.dev/lclco/articles/04e97141779165",
+    "pass": 3
+   },
+   {
+    "quote": "は揃っているものの、日本語の実践記事はまだ少ないので、まずはダミーデータを使って自分で動かしてみることにしました",
+    "url": "https://techblog.tver.co.jp/entry/2026/09/29/121922",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の長いラベルは幅の計算がうまくいかないようで、",
+    "url": "https://techblog.tver.co.jp/entry/2026/09/29/121922",
+    "pass": 3
+   },
+   {
+    "quote": "横棒グラフだと日本語のキャンペーン名が見切れた",
+    "url": "https://techblog.tver.co.jp/entry/2026/09/29/121922",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザビリティ：非エンジニアでもグラフを簡単に作れるか、日本語対応の有無",
+    "url": "https://safie.hatenablog.com/entry/lightdash-vs-metabase",
+    "pass": 3
+   },
+   {
+    "quote": "Lightdashの導入事例：Ubieが実現したデータガバナンス",
+    "url": "https://since2020.jp/media/lightdash_glossary/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区浜松町2丁目3-8",
+    "url": "https://since2020.jp/media/lightdash_glossary/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Lightdash はいいぞ - Zenn — Lightdash はいいぞ - Zenn Zenn https://zenn.dev > lclco > articles",
+    "url": "https://zenn.dev/lclco/articles/04e97141779165",
+    "pass": 3
+   },
+   {
+    "quote": "全社で利用できるセルフサービスBIシステムを構築：Ubieが ... — 全社で利用できるセルフサービスBIシステムを構築：Ubieが ... Lightdash https://www.lightdash.com > customer-story > ubie-jp",
+    "url": "https://www.lightdash.com/customer-story/ubie-jp",
+    "pass": 3
+   },
+   {
+    "quote": "dbt-charts を触ってみた 〜 導入 手順と所感、 Lightdash との ... — dbt-charts を触ってみた 〜 導入 手順と所感、 Lightdash との ... TVer Tech Blog https://techblog.tver.co.jp > entry > 2026/09/29",
+    "url": "https://techblog.tver.co.jp/entry/2026/09/29/121922",
+    "pass": 3
+   },
+   {
+    "quote": "社内で Lightdash とMetabaseを比較検証した話 — 社内で Lightdash とMetabaseを比較検証した話 はてなブログ https://safie.hatenablog.com > entry > lightdash-vs-metabase",
+    "url": "https://safie.hatenablog.com/entry/lightdash-vs-metabase",
+    "pass": 3
+   },
+   {
+    "quote": "Lightdash の魅力とfluctにおける 導入 事例 - CARTA TECH BLOG — Lightdash の魅力とfluctにおける 導入 事例 - CARTA TECH BLOG CARTA TECH BLOG https://techblog.cartaholdings.co.jp > entry > fluct-lightda...",
+    "url": "https://techblog.cartaholdings.co.jp/entry/fluct-lightdash-introduction",
+    "pass": 3
+   },
+   {
+    "quote": "Lightdash で変わるデータ分析の未来：dbt連携からAI時代の ... — Lightdash で変わるデータ分析の未来：dbt連携からAI時代の ... 株式会社SiNCE https://since2020.jp > media > lightdash_glossary",
+    "url": "https://since2020.jp/media/lightdash_glossary/",
+    "pass": 3
+   },
+   {
+    "quote": "Lightdash | Build Intelligence, not just dashboards. — Lightdash | Build Intelligence, not just dashboards. Lightdash https://www.lightdash.com",
+    "url": "https://www.lightdash.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Lightdash - LinkedIn — Lightdash - LinkedIn LinkedIn https://uk.linkedin.com > lightdash",
+    "url": "https://uk.linkedin.com/company/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "lightdash / lightdash : Agentic BI. Analytics at the speed of code ... — lightdash / lightdash : Agentic BI. Analytics at the speed of code ... GitHub https://github.com > lightdash",
+    "url": "https://github.com/lightdash/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "Lightdash : The open source Looker alternative - Y Combinator — Lightdash : The open source Looker alternative - Y Combinator Y Combinator https://www.ycombinator.com > hubble",
+    "url": "https://www.ycombinator.com/companies/hubble",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories - Lightdash — Customer Stories - Lightdash Lightdash https://www.lightdash.com > custome...",
+    "url": "https://www.lightdash.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Become a Lightdash partner — Become a Lightdash partner Lightdash https://www.lightdash.com > partners...",
+    "url": "https://www.lightdash.com/partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "Lightdash Revenue 2024: $11M Est. - GetLatka — Lightdash Revenue 2024: $11M Est. - GetLatka GetLatka https://getlatka.com > lightdash",
+    "url": "https://getlatka.com/companies/lightdash.com",
+    "pass": 3
+   },
+   {
+    "quote": "Lightdash - Crunchbase Company Profile & Funding — Lightdash - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > lightd...",
+    "url": "https://www.crunchbase.com/organization/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "We've raised $8.4m to build the BI tool we always wanted — We've raised $8.4m to build the BI tool we always wanted Lightdash https://www.lightdash.com > blogpost",
+    "url": "https://www.lightdash.com/blogpost/lightdash-raises-seed-round",
+    "pass": 3
+   },
+   {
+    "quote": "Open-source BI startup Lightdash raises $11M and launches ... — Open-source BI startup Lightdash raises $11M and launches ... SiliconANGLE https://siliconangle.com > Big Data",
+    "url": "https://siliconangle.com/2024/10/08/open-source-bi-startup-lightdash-raises-11m-launches-first-ai-data-analyst/",
+    "pass": 3
+   },
+   {
+    "quote": "Lightdash - Valuation, Funding & Investors - PitchBook — Lightdash - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/438868-81",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "and rebrand as Lightdash in 2021.",
+    "url": "https://siliconangle.com/2024/10/08/open-source-bi-startup-lightdash-raises-11m-launches-first-ai-data-analyst/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "dbtと Lightdash の入門書を2冊出版しました｜はなはな - note dbtと Lightdash の入門書を2冊出版しました｜はなはな - note note https://note.com > コンピュータ・IT > データベース",
+    "url": "https://note.com/rich_willet573/n/n81f95536933e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Sho Yokoyama on X: \" Lightdash やLookerでお馴染みの画面 ... Sho Yokoyama on X: \" Lightdash やLookerでお馴染みの画面 ... X https://x.com > @yuzutas0",
+    "url": "https://x.com/yuzutas0/status/2051556101418856532",
+    "pass": 3
+   },
+   {
+    "quote": "OKIYUKI | おきゆき on X: \"Yuさんが Lightdash AI Agents ... OKIYUKI | おきゆき on X: \"Yuさんが Lightdash AI Agents ... X https://x.com > @okiyuki99",
+    "url": "https://x.com/okiyuki99/status/1973526292235690219",
+    "pass": 3
+   },
+   {
+    "quote": "LightDash (@LightDashSthlm) / X LightDash (@LightDashSthlm) / X X https://x.com > LightDashSthlm",
+    "url": "https://x.com/LightDashSthlm",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Lightdash - LinkedIn Lightdash - LinkedIn LinkedIn https://www.linkedin.com > lightdash",
+    "url": "https://www.linkedin.com/company/lightdash",
+    "pass": 3
+   },
+   {
+    "quote": "Hamzah Chaudhary - Co-Founder & CEO at Lightdash Hamzah Chaudhary - Co-Founder & CEO at Lightdash LinkedIn https://www.linkedin.com > hamzahc",
+    "url": "https://www.linkedin.com/in/hamzahc",
+    "pass": 3
+   },
+   {
+    "quote": "Lightdash | LinkedIn Lightdash | LinkedIn LinkedIn https://fr.linkedin.com > lightdash",
+    "url": "https://fr.linkedin.com/company/lightdash?trk=public_profile_topcard-current-company",
+    "pass": 3
+   },
+   {
+    "quote": "Oliver Laslett - Co-Founder & CTO @ Lightdash - Agentic BI Oliver Laslett - Co-Founder & CTO @ Lightdash - Agentic BI LinkedIn https://www.linkedin.com > olaslett",
+    "url": "https://www.linkedin.com/in/olaslett",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "LightDash Fightingspelsförening - Stockholm - Facebook LightDash Fightingspelsförening - Stockholm - Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/lightdash/",
+    "pass": 3
+   },
+   {
+    "quote": "Solution for led tail light dash warning? - Facebook Solution for led tail light dash warning? - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/3076990245770099/posts/3829401250528991/",
+    "pass": 3
+   },
+   {
+    "quote": "Why does brake light dash warning persist after replacing bulb? Why does brake light dash warning persist after replacing bulb? Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/1646090595683616/posts/3797182053907782/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.lightdash.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lightdash.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lightdash.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lightdash.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://zenn.dev/lclco/articles/04e97141779165",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techblog.tver.co.jp/entry/2026/09/29/121922",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://safie.hatenablog.com/entry/lightdash-vs-metabase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://since2020.jp/media/lightdash_glossary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://safie.hatenablog.com/entry/lightdash-vs-metabase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lightworks.co.jp/services/agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manageengine.jp/pace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/lightdash",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://github.com/lightdash/lightdash",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/hubble",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lightedge.com/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.griddynamics.com/blog/case-studies",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perspective.co/article/white-label-marketing-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/lightdash.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/lightdash",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://siliconangle.com/2024/10/08/open-source-bi-startup-lightdash-raises-11m-launches-first-ai-data-analyst/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rich_willet573/n/n81f95536933e",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/yuzutas0/status/2051556101418856532",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/okiyuki99/status/1973526292235690219",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LightDashSthlm",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/lightdash",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/hamzahc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/company/lightdash?trk=public_profile_topcard-current-company",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/olaslett",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/lightdash/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/3076990245770099/posts/3829401250528991/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1646090595683616/posts/3797182053907782/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Lightdash 日本 導入",
+   "results": [
+    "https://zenn.dev/lclco/articles/04e97141779165",
+    "https://www.lightdash.com/customer-story/ubie-jp",
+    "https://techblog.tver.co.jp/entry/2026/09/29/121922",
+    "https://safie.hatenablog.com/entry/lightdash-vs-metabase",
+    "https://techblog.cartaholdings.co.jp/entry/fluct-lightdash-introduction",
+    "https://github.com/lightdash/lightdash",
+    "https://findy-tools.io/products/lightdash/360/247",
+    "https://www.issoh.co.jp/tech/details/6478/",
+    "https://zenn.dev/ubie_dev/articles/38f208450fb745",
+    "https://www.lightdash.com/jp"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Lightdash 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://since2020.jp/media/lightdash_glossary/",
+    "https://safie.hatenablog.com/entry/lightdash-vs-metabase",
+    "https://www.lightworks.co.jp/services/agency",
+    "https://www.manageengine.jp/pace/",
+    "https://www.denodo.com/ja/press-release/2021-09-15/2021-new-partnership-hitachi-solutions",
+    "https://www.samuraiz.co.jp/gooddata/function/template_goodsalesbash.html",
+    "https://www.toukei.co.jp/service/tops100/",
+    "https://tigereye.ai/partners/",
+    "https://biz.jfe-systems.com/products/fibridge_dairiten",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Lightdash Japan",
+   "results": [
+    "https://www.lightdash.com/",
+    "https://uk.linkedin.com/company/lightdash",
+    "https://github.com/lightdash/lightdash",
+    "https://www.ycombinator.com/companies/hubble",
+    "https://zenn.dev/lclco/articles/04e97141779165",
+    "https://www.secoda.co/integrations/lightdash",
+    "https://www.getdot.ai/blog/lightdash-alternatives",
+    "https://www.youtube.com/channel/UCgVZeT_aqyW8ky4x-4xP_uA",
+    "https://blog.collectors.com/from-legacy-to-lightdash-collectors-journey-to-a-unified-data-platform/",
+    "https://www.lightdash.com/jp"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Lightdash manufacturing customer case study",
+   "results": [
+    "https://www.lightdash.com/customer-stories",
+    "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "https://lightedge.com/customer-stories/",
+    "https://www.griddynamics.com/blog/case-studies",
+    "https://www.factbird.com/resources/case-studies",
+    "https://www.l2l.com/case-studies",
+    "https://www.youtube.com/watch?v=zAk9mO0WmDk",
+    "https://www.qlik.com/us/resources/customer-stories",
+    "https://launchdarkly.com/customer-stories/",
+    "https://www.casestudies.com/company/lightdash"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Lightdash white label OR reseller OR partner program",
+   "results": [
+    "https://www.lightdash.com/partnerships",
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://dashthis.com/white-label/",
+    "https://www.dashclicks.com/blog/complete-guide-to-white-label-reselling",
+    "https://www.zoho.com/analytics/white-label-reporting-tool.html",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Lightdash founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/lightdash.com",
+    "https://www.crunchbase.com/organization/lightdash",
+    "https://www.lightdash.com/blogpost/lightdash-raises-seed-round",
+    "https://siliconangle.com/2024/10/08/open-source-bi-startup-lightdash-raises-11m-launches-first-ai-data-analyst/",
+    "https://pitchbook.com/profiles/company/438868-81",
+    "https://www.owler.com/company/lightdash",
+    "https://techfundingnews.com/lightdash-secures-11m-to-accelerate-adoption-of-self-serve-data-analytics/",
+    "https://tracxn.com/d/companies/lightdash/___1fVzIezFxVAyZZ_q8GjJhg8hpTRbEmODcfhkb8R-pk",
+    "https://techcrunch.com/2024/10/08/open-source-bi-platform-lightdash-gets-accels-backing-to-bring-ai-to-business-intelligence/",
+    "https://prospeo.io/c/lightdash-revenue"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Lightdash",
+   "results": [
+    "https://note.com/rich_willet573/n/n81f95536933e",
+    "https://note.com/mercari_data/n/ne3f283c02c54",
+    "https://note.com/michelet_odeon/n/n0c3cd24a37be?hl=en",
+    "https://note.com/ikki_mz/n/n3382a648c6c5",
+    "https://note.com/willanalysts/n/n59f88356cca6",
+    "https://note.com/natty_llama4275/n/n1256d443f271?hl=en",
+    "https://note.com/kohei210112/n/nfabdcf89045a?hl=en",
+    "https://note.com/okiyuki/n/neb6b31824cb5",
+    "https://note.com/willanalysts/n/nf598e2ce6b04",
+    "https://note.com/light_dunlin745/n/nf957a47f11cd?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Lightdash",
+   "results": [
+    "https://x.com/yuzutas0/status/2051556101418856532",
+    "https://x.com/okiyuki99/status/1973526292235690219",
+    "https://x.com/findy_tools/status/1997531528486928526",
+    "https://x.com/LightDashSthlm",
+    "https://x.com/cs_dev_engineer/status/2112515666163187927",
+    "https://x.com/robj3d3/status/2120213334930903125",
+    "https://x.com/yuzutas0/status/2051552465942880679",
+    "https://x.com/0xJokker/status/2120314741071430016",
+    "https://x.com/techtalkjp/status/2052632584946159705",
+    "https://x.com/lightdash_devs"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Lightdash",
+   "results": [
+    "https://www.linkedin.com/company/lightdash",
+    "https://www.linkedin.com/in/hamzahc",
+    "https://fr.linkedin.com/company/lightdash?trk=public_profile_topcard-current-company",
+    "https://www.linkedin.com/in/olaslett",
+    "https://www.linkedin.com/in/jakeptrsn",
+    "https://www.linkedin.com/posts/olaslett_lightdash-now-supports-clustering-forecasting-activity-7516881598026526720-WlXU",
+    "https://pt.linkedin.com/in/jess-hitchcock",
+    "https://www.linkedin.com/pulse/lightdash-database-tycoon-udlpc",
+    "https://www.linkedin.com/posts/olaslett_today-were-launching-our-most-requested-activity-7284972693475516417-C0Ua",
+    "https://www.linkedin.com/products/lightdash/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Lightdash",
+   "results": [
+    "https://www.facebook.com/groups/lightdash/",
+    "https://www.facebook.com/groups/155337159231844/posts/1486727206092826/",
+    "https://www.facebook.com/groups/3076990245770099/posts/3829401250528991/",
+    "https://www.facebook.com/groups/1646090595683616/posts/3797182053907782/",
+    "https://www.facebook.com/groups/rovedashcam/posts/328022392547565/",
+    "https://www.facebook.com/groups/1061856330967252/posts/2493918207761050/",
+    "https://www.facebook.com/groups/140882716333661/posts/2476657842756125/",
+    "https://www.facebook.com/groups/105968402809395/posts/24473515618961334/",
+    "https://www.facebook.com/groups/1439208566149446/posts/31097704103206500/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Lightdash note 社長",
+   "results": [
+    "https://zenn.dev/ubie_dev/articles/38f208450fb745",
+    "https://note.com/sadaaki",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.reddit.com/r/BusinessIntelligence/comments/1rmlskr/any_lightdash_users_shoping_for_new_bi_tools_and/?tl=ja",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://x.com/sadaaki",
+    "https://note.com/yosuke77",
+    "https://www.nikkei.com/article/DGXZQOUC096DN0Z01C22A2000000/",
+    "https://lp.startup-db.com/media/articles/piece-of-cake"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Lightdash X 投稿",
+   "results": [
+    "https://docs.lightdash.com/integrations/connect-project",
+    "https://github.com/lightdash/lightdash",
+    "https://www.reddit.com/r/BusinessIntelligence/comments/1rmlskr/any_lightdash_users_shoping_for_new_bi_tools_and/?tl=ja",
+    "https://www.youtube.com/watch?v=TABLBGCW6rw",
+    "https://zenn.dev/ubie_dev/articles/e66a5cace3c5a6",
+    "https://www.lightdash.com/",
+    "https://qiita.com/k_0120/items/fba990da17bf38722889",
+    "https://clickhouse.com/docs/integrations/connectors/data-visualization/lightdash-and-clickhouse",
+    "https://x.com/yuzutas0/status/2051552465942880679",
+    "https://x.com/Lightdashcom"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部30頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

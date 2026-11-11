@@ -1,0 +1,885 @@
+{
+ "name": "株式会社市川鉄工",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T19:29:15.471564+00:00",
+ "official_url": "http://www.ichikawa-jp.com",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "代表取締役社長　市川　昌宏",
+    "url": "http://www.ichikawa-jp.com/profile.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "25名",
+    "url": "http://www.ichikawa-jp.com/profile.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・3次元CAD/CAMによる各種精密部品加工 ・各種、繊維機械、開発・設計・製造・販売",
+    "url": "http://www.ichikawa-jp.com/profile.html",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主な取引先 （敬称略）",
+    "value": "アツギ株式会社 アツギケア株式会社 伊藤忠システック株式会社",
+    "url": "http://www.ichikawa-jp.com/profile.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒379-2312　群馬県みどり市笠懸町久宮364-1 TEL 0277-77-1050（代）　FAX 0277-77-1055",
+    "url": "http://www.ichikawa-jp.com/profile.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "一点物・少量多品種": [
+   {
+    "quote": "5軸加工・3次元CAD/CAM・試作・精密部品加工なら株式会社市川鉄工",
+    "url": "http://www.ichikawa-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "得意先より試作部門 総合優良感謝状を頂きました",
+    "url": "http://www.ichikawa-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの経験を活かし、5軸加工、3次元CAD/CAM、マルチタスキングマシン等による切削加工中心に、試作部品、小ロット精密部品の受託に、又、最新の加工設備の導入や環境作りにも積極的に取り組んでいます",
+    "url": "http://www.ichikawa-jp.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作部品、小ロット精密部品加工は確かな加工技術を持つ市川鉄工へぜひお任せください",
+    "url": "http://www.ichikawa-jp.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "本機は、各種カバードヤーンの研究開発および多品種小ロット生産用として開発された最新モデルで、カバーリング準備工程に必要なボビンワインダーを兼ね備えた複合機です",
+    "url": "http://www.ichikawa-jp.com/product/covering.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社 山田製作所殿より、試作最優秀賞を頂きました",
+    "url": "http://www.ichikawa-jp.com/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成２１年度ものづくり中小企業製品開発等支援補助金（試作開発等支援事業）の交付決定を受ける",
+    "url": "http://www.ichikawa-jp.com/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社 山田製作所殿より試作部門 品質で優良感謝賞を頂きました",
+    "url": "http://www.ichikawa-jp.com/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "(株)山田製作所殿より試作部門 総合優良感謝賞を頂きました",
+    "url": "http://www.ichikawa-jp.com/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット・試作依頼 | 市川鉄工株式会社 | 静岡県浜松市",
+    "url": "https://ichikawa-tekko.co.jp/prototype",
+    "pass": 3
+   },
+   {
+    "quote": "「こんな物がほしい」を形にするために、図面を元にした試作も可能です",
+    "url": "https://ichikawa-tekko.co.jp/prototype",
+    "pass": 3
+   },
+   {
+    "quote": "試作のご相談から具体的な仕様の実現まで、どうぞお気軽にお声がけください",
+    "url": "https://ichikawa-tekko.co.jp/prototype",
+    "pass": 3
+   },
+   {
+    "quote": "特注品のため1個のみだがお願いしたい",
+    "url": "https://ichikawa-tekko.co.jp/prototype",
+    "pass": 3
+   },
+   {
+    "quote": "特注品の為、少数のみをお願いしたい",
+    "url": "https://ichikawa-tekko.co.jp/prototype",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "5軸加工・3次元CAD/CAM・試作・精密部品加工なら株式会社市川鉄工",
+    "url": "http://www.ichikawa-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの経験を活かし、5軸加工、3次元CAD/CAM、マルチタスキングマシン等による切削加工中心に、試作部品、小ロット精密部品の受託に、又、最新の加工設備の導入や環境作りにも積極的に取り組んでいます",
+    "url": "http://www.ichikawa-jp.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "・3次元CAD/CAMによる各種精密部品加工",
+    "url": "http://www.ichikawa-jp.com/profile.html",
+    "pass": 1
+   },
+   {
+    "quote": "CAD/CAMによる各種精密部品加工/組立",
+    "url": "http://www.ichikawa-jp.com/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "NC/マシニングセンター及びCAD/CAM経験者優遇",
+    "url": "http://www.ichikawa-jp.com/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "NC旋盤 山崎 MAZATROL CAM QT-8",
+    "url": "http://www.ichikawa-jp.com/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "NC旋盤 山崎 MAZATROL CAM T-2",
+    "url": "http://www.ichikawa-jp.com/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "Unigrahics NX CAD/CAM/CAE",
+    "url": "http://www.ichikawa-jp.com/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "5軸用 CAMシステム（2D-5Xais Position）",
+    "url": "http://www.ichikawa-jp.com/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "牧野フライス 3次元CAMシステム FF/CAM",
+    "url": "http://www.ichikawa-jp.com/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "3次元CAMシステム Feature MILL 3D",
+    "url": "http://www.ichikawa-jp.com/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2.5次元CAMシステム Feature CAM",
+    "url": "http://www.ichikawa-jp.com/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "2次元CAMシステム Feature MILL MD",
+    "url": "http://www.ichikawa-jp.com/equipment.html",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "産業用新素材として四軸織物用織機の開発及び先進複合材料製造技術の開発",
+    "url": "http://www.ichikawa-jp.com/product/quadrupleloom.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社市川鉄工｜航空機用炭素繊維連続バイアス織物製織装置",
+    "url": "http://www.ichikawa-jp.com/product/biasfabric.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空機の構造部材は近年、CFRPへの移行を強化している",
+    "url": "http://www.ichikawa-jp.com/product/biasfabric.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPへの移行により軽量化に伴う燃料向上効果に加え、組立作業工数の削減等の副効果も実証されている",
+    "url": "http://www.ichikawa-jp.com/product/biasfabric.html",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、CFRPは、従来材料のアルミ合金と比較した場合、素材コストとして３倍以上も高く、コスト面で大きな課題を抱える",
+    "url": "http://www.ichikawa-jp.com/product/biasfabric.html",
+    "pass": 1
+   },
+   {
+    "quote": "これは炭素繊維のコスト高が主な原因であり、CFRP製造工程で生ずる材料ロス、工程ロスがコスト高を助長する大きな原因となっている",
+    "url": "http://www.ichikawa-jp.com/product/biasfabric.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPは、炭素繊維の経糸と緯糸が９０度で交わる二軸織物に樹脂を含浸させたシート（以下、二軸織プリプレグ）と±４５度のバイアス織物に樹脂を含浸させたシート（以下、バイアス織プリプレグ）を交互に複数枚積層しオートクレープ成型にて製造される",
+    "url": "http://www.ichikawa-jp.com/product/biasfabric.html",
+    "pass": 1
+   },
+   {
+    "quote": "二軸織物は、経糸と緯糸が９０度に交わる一般的な織物であり、炭素繊維を二軸製織する技術は確立されている",
+    "url": "http://www.ichikawa-jp.com/product/biasfabric.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうした状況下、川下製造業者等には、これまでの素材・工程等の生産ロスを解消し、CFRPコストの大幅なてい低減を早期に実現させたいという強いニーズがあり、炭素繊維ならびに製織技術の開発が強く求められている（図２）",
+    "url": "http://www.ichikawa-jp.com/product/biasfabric.html",
+    "pass": 1
+   },
+   {
+    "quote": "トーションレース機の製織原理を応用した繋ぎ目のない炭素繊維連続バイアス織物製織装置を開発することで、CFRPの低コスト化・高強度化を実現した（図３）（写真１）",
+    "url": "http://www.ichikawa-jp.com/product/biasfabric.html",
+    "pass": 1
+   },
+   {
+    "quote": "・密集した炭素繊維に損傷をさせずに、プレ開口装置及び筬打ちの駆動タイミングを確立した",
+    "url": "http://www.ichikawa-jp.com/product/biasfabric.html",
+    "pass": 1
+   },
+   {
+    "quote": "５．バイアス方向に製織された炭素繊維の目曲がりを抑え進直性を確立する研究開発",
+    "url": "http://www.ichikawa-jp.com/product/biasfabric.html",
+    "pass": 1
+   },
+   {
+    "quote": "・炭素繊維の進直性を確保するため、織前から巻取りまでに目曲がり補正ガイドを設置した",
+    "url": "http://www.ichikawa-jp.com/product/biasfabric.html",
+    "pass": 1
+   },
+   {
+    "quote": "７．CFRPの強度特性評価",
+    "url": "http://www.ichikawa-jp.com/product/biasfabric.html",
+    "pass": 1
+   },
+   {
+    "quote": "・試織したCF織物よりCFRPを成型し①引張②曲げ③圧縮④層間せん断の強度試験を実施した（表１）",
+    "url": "http://www.ichikawa-jp.com/product/biasfabric.html",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維等のフラットテープヤーン緯糸給糸装置を開発し、フランス、パリで開かれた国際繊維機械展に出品する",
+    "url": "http://www.ichikawa-jp.com/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "射出成形機 日精樹脂 PS60E9ASE型",
+    "url": "http://www.ichikawa-jp.com/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "現代では鉄加工の物は樹脂製品に形を変えてきている",
+    "url": "https://note.com/merry_go_round5/n/n9011081f9f24",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "株式会社市川鉄工｜航空機用炭素繊維連続バイアス織物製織装置",
+    "url": "http://www.ichikawa-jp.com/product/biasfabric.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空機の構造部材は近年、CFRPへの移行を強化している",
+    "url": "http://www.ichikawa-jp.com/product/biasfabric.html",
+    "pass": 1
+   },
+   {
+    "quote": "同年、プリンス自動車株式会社、繊維機械事業部と取引契約を結ぶ",
+    "url": "http://www.ichikawa-jp.com/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "日産自動車株式会社とプリンス自動車株式会社の合併により、日産自動車株式会社、繊維機械事業部の協力工場となる",
+    "url": "http://www.ichikawa-jp.com/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は主要製品で国内大手自動車メーカーから高い倍頼を得ており、国内シェア50%以上を誇ります",
+    "url": "https://ichikawa-tekko.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "人手だけでなくロボット活用や工数削減など、最大6000個/日の生産が可能",
+    "url": "https://ichikawa-tekko.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、電気自動車普及による自動車部品の減少、部品生産地域のグローバル化による価格競争の激化など、自動車業界を取り巻く環境は非常に厳しい状況となっています",
+    "url": "https://ichikawa-tekko.co.jp/corporate",
+    "pass": 3
+   },
+   {
+    "quote": "数ある鉄の加工方法の中で切削に特化し、主に自動車部品を製造",
+    "url": "https://note.com/merry_go_round5/n/n9011081f9f24",
+    "pass": 3
+   },
+   {
+    "quote": "愛知はご存じの通り国内市場規模3位の自動車産業を抱え、多くの製造業が存在する",
+    "url": "https://note.com/merry_go_round5/n/n9011081f9f24",
+    "pass": 3
+   },
+   {
+    "quote": "自動車産業に依存しているといっても過言ではなく、リーマンショック、コロナショックで会社の経営状態が左右される",
+    "url": "https://note.com/merry_go_round5/n/n9011081f9f24",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "平成２１年度ものづくり中小企業製品開発等支援補助金（試作開発等支援事業）の交付決定を受ける",
+    "url": "http://www.ichikawa-jp.com/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "平成27年度ぐんま新技術新製品開発推進補助金採択",
+    "url": "http://www.ichikawa-jp.com/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "全ての加工工程で安定した品質を誇り、高精度でお客様のニーズに応える製品を提供いたします",
+    "url": "https://ichikawa-tekko.co.jp/prototype",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は主要製品で国内大手自動車メーカーから高い倍頼を得ており、国内シェア50%以上を誇ります",
+    "url": "https://ichikawa-tekko.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "加工した製品は日本全国に発送可能で、国内全域のあらゆるご要望に柔軟に対応できる体制を整えています",
+    "url": "https://ichikawa-tekko.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "様々な測定器具を活用し製品寸法が図面や仕様書通りか常に確認して生産しています",
+    "url": "https://ichikawa-tekko.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "高品質、低価格な製品をご提供いたします",
+    "url": "https://ichikawa-tekko.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "『お客様の求める品質・お客様が納得する価格』に応える為、社員一丸となり製品開発に取り組んできました",
+    "url": "https://ichikawa-tekko.co.jp/corporate",
+    "pass": 3
+   },
+   {
+    "quote": "現代では鉄加工の物は樹脂製品に形を変えてきている",
+    "url": "https://note.com/merry_go_round5/n/n9011081f9f24",
+    "pass": 3
+   },
+   {
+    "quote": "『工業製品のスペックと本気を、机に』をコンセプトに展開",
+    "url": "https://note.com/merry_go_round5/n/n9011081f9f24",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社市川鉄工｜事業紹介 - ichikawa-jp.com — 株式会社 市川鉄工 〒379-2312 群馬県みどり市笠懸町久宮 364-1 TEL:0277-77-1050（代） FAX:0277-77-1055 事業紹介 事業紹介 製品情報 カバーリング複合機 トーションレース編機 フィーダー その他の製品 四軸織機 航空機用炭素繊維織物装置 会社案内 会社案内 会社沿革 ...",
+    "url": "http://www.ichikawa-jp.com/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "小ロット・試作依頼 | 市川鉄工株式会社 | 静岡県浜松市 — 過去のお問い合わせ 事例 特注品のため1個のみだがお願いしたい 現行品をコストダウンしたい 早急に試作品がほしい 特注品の為、少数のみをお願いしたい 短期で大量生産をお願いしたい パイプ先端を特殊な形状に加工したい パイプを様々な形に曲げたい",
+    "url": "https://ichikawa-tekko.co.jp/prototype",
+    "pass": 3
+   },
+   {
+    "quote": "カテゴリー: 小ロット・試作について | 市川鉄工株式会社 | 静岡県浜... — お客様の条件に合わせて試作いたします",
+    "url": "https://ichikawa-tekko.co.jp/category/小ロット・試作について",
+    "pass": 3
+   },
+   {
+    "quote": "5軸加工・3次元CAD/CAM・試作・精密部品加工なら株式会社市川鉄工 — 5軸加工、3次元CAD/CAM、マルチタスキングマシンなどの試作・精密部品加工なら、繊維機械の分野で長年培った株式会社市川 ...",
+    "url": "http://www.ichikawa-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "パイプ曲げ・パイプ切断・ヘッドレストステー製造 | 市川鉄工株式会社... — 事業内容 製品紹介 市川鉄工について ABOUT 弊社は主要製品で国内大手自動車メーカーから高い倍頼を得ており、国内シェア50%以上を誇ります。 切断・面取り・溶接・曲げ加工・プレス加工・検査を一貫して行い、経験豊富な技術力で多様なニーズにお応えし ...",
+    "url": "https://ichikawa-tekko.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 市川鉄工株式会社 | 静岡県浜松市 — 所在地 静岡県浜松市浜名区永島18番地の1 TEL 053-586-2497 FAX 053-586-0168 代表取締役社長 市川幸雄 設立年月日 1966年10月1日 事業内容 四輪車部品（シート部品関係） 二輪車部品（サッシモール・ホーミング） 四輪車部品（プレス・溶接） ワイヤー曲げ加工 ロー付け",
+    "url": "https://ichikawa-tekko.co.jp/corporate",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社市川鉄工｜会社案内 - ichikawa-jp.com — 【経営理念】 培われた独自な技術で未来に向けて新しい価値を創造し、お客様の様々なニーズにお応えしていきます。 【品質方針】 お客様に信頼され満足していただける技術とサービスを提供し、品質マネジメントシステムの有効性の継続的な改善に取り組む。 ①品質・納期・コストを継続 ...",
+    "url": "https://www.ichikawa-jp.com/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介｜有限会社市川鉄工 - ichikawatekkou.com — 竣工年：2023/8 パークタワー勝どきミッド 【東京都中央区】",
+    "url": "https://ichikawatekkou.com/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜有限会社市川鉄工 — お問い合わせフォーム、メール・電話・FAX、契約手続き、採用活動などを通じて、必要な範囲で取得いたします。 第3条（個人情報の利用目的） 当社は、取得した個人情報を以下の目的で利用いたします。 1 お問い合わせ・見積・契約・請求等の業務遂行の ...",
+    "url": "https://ichikawatekkou.com/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社市川鉄工｜お問い合わせ — 株式会社市川鉄工のウェブサイトをご覧頂き、誠にありがとうございます。 当社へのお問い合わせは TEL 0277-77-1050 （受付時間 8:20～17:30）まで直接お電話を頂くか、フォームの各項目についてご入力の上で送信してください。後日折り返しご連絡をさせていただきます。 尚、お問い合わせの際に ...",
+    "url": "https://www.ichikawa-jp.com/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜有限会社市川鉄工 — お問い合わせ 入力にエラーがあります。 下記をご確認の上「戻る」ボタンにて修正をお願い致します。 【お問い合わせ区分】が未選択です。 【お名前】が未選択です。 【ふりがな】が未選択です。 【メールアドレス】が未選択です。",
+    "url": "https://ichikawatekkou.com/mail.php",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 市川鉄工株式会社 | 静岡県浜松市 — 鉄製パイプの曲げ加工、切断加工、ヘッドレストステー製造に関するお問い合わせはもちろん、1本からのご依頼や短納期、大量生産についてもこちらのフォームまたはお電話でお気軽にお問い合わせください。",
+    "url": "https://ichikawa-tekko.co.jp/contact",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "ご相談・お見積りのご依頼・採用に関するお問い合わせは、下記フォームにて受け付けております",
+    "url": "https://ichikawatekkou.com/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "本ポリシーにおいて「個人情報」とは、生存する個人に関する情報であって、氏名、住所、電話番号、電子メールアドレス、その他特定の個人を識別できる情報を指します",
+    "url": "https://ichikawatekkou.com/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせフォーム、メール・電話・FAX、契約手続き、採用活動などを通じて、必要な範囲で取得いたします",
+    "url": "https://ichikawatekkou.com/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "1 お問い合わせ・見積・契約・請求等の業務遂行のため",
+    "url": "https://ichikawatekkou.com/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "第9条（お問い合わせ窓口）",
+    "url": "https://ichikawatekkou.com/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "個人情報の取扱いに関するお問い合わせは、以下へご連絡ください",
+    "url": "https://ichikawatekkou.com/contact.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "伝統と進化｜ほのり｜note May 21, 2020 · 市川鉄工所の新ブランド \"62fe\" (ロクニーエフイー） 鉄の原子番号は26・元素記号がFeであること。 26をひっくり返し62とし、これは市川鉄工所で働いている社員さんパートさん全ての方の人数。 会社の全員がクリエイター、そう感じる。",
+    "url": "https://note.com/merry_go_round5/n/n9011081f9f24",
+    "pass": 3
+   },
+   {
+    "quote": "自ら実行する｜ほのり｜note Jun 16, 2020 · 幸福 市川さんに紹介されたラッセルの幸福論と一緒にアランの幸福論を買った。 度々書いているが出てくる友人であり尊敬する市川鉄工所の代表。 詳しくはこちらを読んでみてください。 紹介されたのはラッセルの幸福論だが、まだ追いつけていないのでアランの一節をご紹介しようと思う ...",
+    "url": "https://note.com/merry_go_round5/n/nac2fdd80e97a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "だが昨今だと日本のブランドはマイナスなニュースが続いている。",
+    "url": "https://note.com/merry_go_round5/n/n9011081f9f24",
+    "pass": 3
+   },
+   {
+    "quote": "シャープの倒産買収の経緯、タカタの倒産、神戸製鋼、三菱マテリアルのデータ改竄等、2020年になりそういった話は潜めたが大手企業の動きは日本の技術というところを曇らす結果となってきた。",
+    "url": "https://note.com/merry_go_round5/n/n9011081f9f24",
+    "pass": 3
+   },
+   {
+    "quote": "自分自身、誇ってきたものを根底から疑わざる数々のニュースに落胆した。",
+    "url": "https://note.com/merry_go_round5/n/n9011081f9f24",
+    "pass": 3
+   },
+   {
+    "quote": "それと同時に改竄せざる負えない体制があるんだと思い、いろいろと考えさせられた。",
+    "url": "https://note.com/merry_go_round5/n/n9011081f9f24",
+    "pass": 3
+   },
+   {
+    "quote": "ニュースとなることは失敗や否定から入るのを好むことが多い。",
+    "url": "https://note.com/merry_go_round5/n/n9011081f9f24",
+    "pass": 3
+   },
+   {
+    "quote": "批判をすることの方が起きた後の打開策を考えるより楽だからだ。",
+    "url": "https://note.com/merry_go_round5/n/n9011081f9f24",
+    "pass": 3
+   },
+   {
+    "quote": "批判する姿勢に同調していれば簡単に時事に関心があり、意見があるという風に見られ博識を語れる。",
+    "url": "https://note.com/merry_go_round5/n/n9011081f9f24",
+    "pass": 3
+   },
+   {
+    "quote": "ただそこにどうしたら良いのかを考えることが意見だと思っている。",
+    "url": "https://note.com/merry_go_round5/n/n9011081f9f24",
+    "pass": 3
+   },
+   {
+    "quote": "市川さんに紹介されたラッセルの幸福論と一緒にアランの幸福論を買った。",
+    "url": "https://note.com/merry_go_round5/n/nac2fdd80e97a",
+    "pass": 3
+   },
+   {
+    "quote": "度々書いているが出てくる友人であり尊敬する市川鉄工所の代表。",
+    "url": "https://note.com/merry_go_round5/n/nac2fdd80e97a",
+    "pass": 3
+   },
+   {
+    "quote": "紹介されたのはラッセルの幸福論だが、まだ追いつけていないのでアランの一節をご紹介しようと思う。",
+    "url": "https://note.com/merry_go_round5/n/nac2fdd80e97a",
+    "pass": 3
+   },
+   {
+    "quote": "市川さん、また読んだらご紹介させてください。",
+    "url": "https://note.com/merry_go_round5/n/nac2fdd80e97a",
+    "pass": 3
+   },
+   {
+    "quote": "おとなしく言いなりになるのではなく、自分で実行すること、そこに喜びの本質があるのだ。",
+    "url": "https://note.com/merry_go_round5/n/nac2fdd80e97a",
+    "pass": 3
+   },
+   {
+    "quote": "飴玉は口の中で溶けるにまかせているだけでちょっとしたおいしさが味わえるものだから、幸せも同じように味わいたいと考えたい人が多いがそれは間違っている。",
+    "url": "https://note.com/merry_go_round5/n/nac2fdd80e97a",
+    "pass": 3
+   },
+   {
+    "quote": "音楽の楽しみも、一度も自分で歌ったことが無くてただ聞くだけならば、たいしたことはない。",
+    "url": "https://note.com/merry_go_round5/n/nac2fdd80e97a",
+    "pass": 3
+   },
+   {
+    "quote": "それで、物分かりの良い人は自分は音楽を耳ではなくのどで楽しむ、と言っているのである。",
+    "url": "https://note.com/merry_go_round5/n/nac2fdd80e97a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "市川鉄工 - Facebook 市川鉄工 - Facebook ... 市川鉄工",
+    "url": "https://www.facebook.com/市川鉄工-908441159178193/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社市川鉄工 - Facebook 株式会社市川鉄工",
+    "url": "https://www.facebook.com/株式会社市川鉄工-103911618170153/",
+    "pass": 3
+   },
+   {
+    "quote": "市川鉄工所 - Facebook 市川鉄工所",
+    "url": "https://www.facebook.com/市川鉄工所-359341500780082/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.ichikawa-jp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ichikawa-jp.com/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ichikawa-jp.com/product/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ichikawa-jp.com/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ichikawa-jp.com/product/others.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ichikawa-jp.com/recruit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ichikawa-jp.com/product/covering.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ichikawa-jp.com/product/f-torchon.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ichikawa-jp.com/product/feeder.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ichikawa-jp.com/product/quadrupleloom.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ichikawa-jp.com/product/biasfabric.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ichikawa-jp.com/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ichikawa-jp.com/equipment.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "http://www.ichikawa-jp.com/images/productimg.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.ichikawa-jp.com/images/tx_sub_product.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.ichikawa-jp.com/images/ti_profile.gif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.kiw.co.jp/prod/material/small-lot-products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ichikawa-tekko.co.jp/prototype",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ichikawa-tekko.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ichikawa-tekko.co.jp/corporate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ichikawatekkou.com/contact.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ichikawatekkou.com/mail.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/merry_go_round5/n/n9011081f9f24",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/merry_go_round5/n/nac2fdd80e97a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/市川鉄工-908441159178193/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株式会社市川鉄工-103911618170153/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/市川鉄工所-359341500780082/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "市川鉄工 取扱製品 試作 小ロット",
+   "results": [
+    "http://www.ichikawa-jp.com/business.html",
+    "https://www.kiw.co.jp/prod/material/small-lot-products",
+    "https://ichikawa-tekko.co.jp/prototype",
+    "https://ichikawa-tekko.co.jp/category/小ロット・試作について",
+    "http://www.ichikawa-jp.com/",
+    "https://www.kiw.co.jp/prod/material/small-lot-products/small-lot",
+    "https://www.hashiba-shisaku.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "市川鉄工 会社概要 事業内容",
+   "results": [
+    "https://ichikawa-tekko.co.jp/",
+    "http://www.ichikawa-jp.com/business.html",
+    "https://ichikawa-tekko.co.jp/corporate",
+    "https://www.ichikawa-jp.com/profile.html",
+    "https://ichikawatekkou.com/business.html",
+    "https://ichikawatekkou.com/",
+    "https://www.ichikawa-steel.co.jp/business"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "市川鉄工 お問い合わせ メール",
+   "results": [
+    "https://ichikawatekkou.com/contact.html",
+    "https://www.ichikawa-jp.com/contact.html",
+    "https://ichikawatekkou.com/mail.php",
+    "https://ichikawa-tekko.co.jp/contact",
+    "https://www.ichikawa-steel.co.jp/contact",
+    "https://ja.nc-net.or.jp/company/5635/inquiry/",
+    "https://www.jitsukawa-tekko.com/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 市川鉄工",
+   "results": [
+    "https://note.com/merry_go_round5/n/n9011081f9f24",
+    "https://note.com/merry_go_round5/n/nac2fdd80e97a",
+    "https://note.com/h_ichikawa",
+    "https://note.com/uq0820",
+    "https://note.com/kandousoukolfc/n/nc8e5e5962446",
+    "https://note.com/haradaiko1/n/nee30d9a777cc",
+    "https://note.com/hirokimiyano/n/n3b364f0d4f07"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 市川鉄工",
+   "results": [
+    "https://x.com/the_yoneyama",
+    "https://x.com/ChiyodaSteel",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/serra2020",
+    "https://x.com/ichikawakoji",
+    "https://x.com/jamesichikawa",
+    "https://x.com/riku_ichikawa2"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 市川鉄工",
+   "results": [
+    "https://jp.linkedin.com/in/suehiro-uiji-a01842288",
+    "https://jp.linkedin.com/in/久明-石川-a04454a2",
+    "https://www.linkedin.com/login/",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://www.linkedin.com/",
+    "https://cl.linkedin.com/in/saul-marval",
+    "https://ch.linkedin.com/in/fabien-lacroix-89713014"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 市川鉄工",
+   "results": [
+    "https://www.facebook.com/市川鉄工-908441159178193/",
+    "https://www.facebook.com/株式会社市川鉄工-103911618170153/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/市川鉄工所-359341500780082/",
+    "https://www.facebook.com/pages/株式会社市川鉄工所/439384922839556/",
+    "https://www.facebook.com/nakaterutekko/",
+    "https://www.facebook.com/takashi.ishii.94/posts/今宵のナイトキャップラフロイグセレクトをロックで梅雨時は仕上げ現場最近オープンした所だったので天候関係なかったんだけど-今は掘削から基礎工事なので雨で全然仕事に/27960621900300240/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "市川鉄工 note 社長",
+   "results": [
+    "https://compalyze.co.jp/company/9110002023756",
+    "https://www.ichikawa-jp.com/history.html",
+    "https://compalyze.co.jp/company/4070001015607",
+    "https://www.ichikawa-jp.com/profile.html",
+    "https://ichikawatekkou.com/",
+    "https://ichikawa-tekko.co.jp/corporate",
+    "https://note.com/kandousoukolfc/n/nc8e5e5962446"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "市川鉄工 X 投稿",
+   "results": [
+    "https://ichikawatekkou.com/contact.html",
+    "https://www.ichikawa-jp.com/profile.html",
+    "https://ichikawa-tekko.com/",
+    "https://ichikawatekkou.com/",
+    "http://www.ichikawa-jp.com/",
+    "https://x.com/IchikawaTebcbm/status/2119805026831110210",
+    "https://x.com/ichikawa_shi"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像3件／外部11頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式13頁／PDF・画像3件／外部11頁・検索9回）"
+ }
+}

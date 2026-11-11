@@ -1,0 +1,653 @@
+{
+ "name": "Inferedge",
+ "aliases": [],
+ "context": "旧営業リスト｜Financial Technology (Fintech)｜未接触",
+ "researched_at": "2026-11-11T19:10:39.266174+00:00",
+ "official_url": "https://www.inferedge.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "POC in days · Delivery in weeks · Pricing on outcomes",
+    "url": "https://www.inferedge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "−50 bps vs prior quarter",
+    "url": "https://www.inferedge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "TO PROCESS A DOCUMENT",
+    "url": "https://www.inferedge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Priced on the agreed result. The output stays yours.",
+    "url": "https://www.inferedge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Priced on the outcome",
+    "url": "https://www.inferedge.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Professional",
+    "url": "https://www.inferedge.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise deployment",
+    "url": "https://www.inferedge.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Investment teams repeat the same work every quarter: refresh the models, rerun the attribution, rebuild the product notes. It's skilled work, but a lot of it is mechanical.",
+    "url": "https://www.inferedge.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The broader team combines institutional finance expertise with experience building production-scale software systems and AI/ML infrastructure in regulated or highly technical environments at Amazon Alexa, Wells Fargo, Deutsche Bank, SAP and global startups.",
+    "url": "https://www.inferedge.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Managed $200M+ as a private wealth manager",
+    "url": "https://www.inferedge.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "コスト監視：PromQL で GPU 時間を秒単位で課金換算",
+    "url": "https://colabmix.co.jp/technical_explanation/edge%E6%8E%A8%E8%AB%96%E6%99%82%E4%BB%A3%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AC%E3%82%B9ml%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "Prometheus + Grafana で月次レポートを自動生成し、推論ごとの売上貢献度と突き合わせることが重要です",
+    "url": "https://colabmix.co.jp/technical_explanation/edge%E6%8E%A8%E8%AB%96%E6%99%82%E4%BB%A3%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AC%E3%82%B9ml%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "InferEdge 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/893665-90",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/893665-90",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/893665-90",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/893665-90",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/893665-90",
+    "pass": 3
+   },
+   {
+    "quote": "InferEdge’s primary industry is Software Development Applications.",
+    "url": "https://pitchbook.com/profiles/company/893665-90",
+    "pass": 3
+   },
+   {
+    "quote": "Is InferEdge a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/893665-90",
+    "pass": 3
+   },
+   {
+    "quote": "InferEdge is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/893665-90",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/893665-90",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/893665-90",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/893665-90",
+    "pass": 3
+   },
+   {
+    "quote": "InferEdge Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "url": "https://www.cbinsights.com/company/harmoney-1/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Valuations are submitted by companies, mined from state filings or news, provided by VentureSource, or based on a comparables valuation model.",
+    "url": "https://www.cbinsights.com/company/harmoney-1/financials",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/harmoney-1/financials",
+    "pass": 3
+   },
+   {
+    "quote": "InferEdge - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/harmoney-1",
+    "pass": 3
+   },
+   {
+    "quote": "The Mosaic Score is an algorithm that measures the overall financial health and market potential of private companies.",
+    "url": "https://www.cbinsights.com/company/harmoney-1",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/harmoney-1",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by investment teams",
+    "url": "https://www.inferedge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our customers include Temasek and Mahindra Manulife Mutual Fund.",
+    "url": "https://www.inferedge.com/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Automating 2 days of collation across flows, revenue & distribution costs",
+    "url": "https://www.inferedge.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PaySense (acquired by PayU for $185M): Director of Special Ops",
+    "url": "https://www.inferedge.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "InferEdge has 3 total employees.",
+    "url": "https://pitchbook.com/profiles/company/893665-90",
+    "pass": 3
+   },
+   {
+    "quote": "What is InferEdge’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/893665-90",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for InferEdge is",
+    "url": "https://pitchbook.com/profiles/company/893665-90",
+    "pass": 3
+   },
+   {
+    "quote": "InferEdge Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "url": "https://www.cbinsights.com/company/harmoney-1/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Funding, Valuation & Revenue",
+    "url": "https://www.cbinsights.com/company/harmoney-1/financials",
+    "pass": 3
+   },
+   {
+    "quote": "InferEdge - Products, Competitors, Financials, Employees, Headquarters Locations",
+    "url": "https://www.cbinsights.com/company/harmoney-1",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "サーバーレスEdge推論フレームワーク「InferEdge」の完全解説｜費用相... — May 2, 2025 · Wasm×eBPF で高速動作する次世代推論基盤「InferEdge」を徹底解説。 特徴・導入ステップ・コスト最適化手法に加え、システム開発会社の選び方や見積り相場も具体的に紹介します。 Edge AI プロジェクトを成功させたい発注担当者は必見！",
+    "url": "https://colabmix.co.jp/technical_explanation/edge推論時代を切り開くサーバーレスmlフレームワー/",
+    "pass": 3
+   },
+   {
+    "quote": "inferedge.com - Agentic AI for investment teams — InferEdge is built by former quants from Goldman Sachs and hedge funds, alongside engineers from the IITs. Having done the work ourselves, we know the standard an output must meet.",
+    "url": "https://www.inferedge.com/",
+    "pass": 3
+   },
+   {
+    "quote": "InferEdge | Compress the Analyst Function — InferEdge is built by ex-analysts and systems engineers who know what actually ships in a regulated fund. We invested early in the hard parts — skills, MCP, evals, citations, caching — because that's what separates a prototype from a system.",
+    "url": "https://www.inferedge.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing | InferEdge — PRICING AI as a service, priced on outcomes. Sign up today for a free 7 day trial.",
+    "url": "https://www.inferedge.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing | InferEdge — Use our data and AI workflows on a self-serve plan, or bring us a workflow and pay for the result.",
+    "url": "https://www.inferedge.com/pricing",
+    "pass": 3
+   },
+   {
+    "quote": "inferedge.com - Agentic AI for investment teams — InferEdge is built by former quants from Goldman Sachs and hedge funds, alongside engineers from the IITs. Having done the work ourselves, we know the standard an output must meet. Every system we deliver is evaluated, cited and controlled from day one. Pick the work your team repeats every quarter.",
+    "url": "https://www.inferedge.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About InferEdge | InferEdge — InferEdge delivers AI workflows for investment research, portfolio management, risk and client servicing. We work as forward-deployed engineers and are paid on outcomes, from offices in Singapore and Mumbai.",
+    "url": "https://www.inferedge.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "InferEdge | Compress the Analyst Function — InferEdge is built by ex-analysts and systems engineers who know what actually ships in a regulated fund. We invested early in the hard parts — skills, MCP, evals, citations, caching — because that's what separates a prototype from a system. Give your team their morning back.",
+    "url": "https://www.inferedge.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "InferEdge - LinkedIn — InferEdge | 124 followers on LinkedIn. Agentic solutions for asset managers. Compress the analyst function | Agentic infrastructure for investment teams.",
+    "url": "https://www.linkedin.com/company/inferedge-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Sign in · InferEdge — Data, research, and AI tooling for capital markets.",
+    "url": "https://app.inferedge.com/",
+    "pass": 3
+   },
+   {
+    "quote": "InferEdge Blog | InferEdge — Sep 10, 2026 · How a global investment firm replaced two days of monthly data collection with InferEdge's live dashboard that tracks flows, performance and market share across India's mutual fund industry.",
+    "url": "https://www.inferedge.com/blog",
+    "pass": 3
+   },
+   {
+    "quote": "InferEdge 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for InferEdge. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/893665-90",
+    "pass": 3
+   },
+   {
+    "quote": "InferEdge Stock Price, Funding, Valuation, Revenue ... — Jan 1, 2022 · It serves various clients, including foreign institutional investors, domestic mutual funds, hedge funds, banks, insurance companies, private equity firms, corporate houses, small and medium-sized enterprises, and high-net-worth individuals. It was founded in 1995 and is based in Mumbai, India.",
+    "url": "https://www.cbinsights.com/company/harmoney-1/financials",
+    "pass": 3
+   },
+   {
+    "quote": "InferEdge - Products, Competitors, Financials, Employees ... — InferEdge Frequently Asked Questions (FAQ) When was InferEdge founded? InferEdge was founded in 2021. What is InferEdge's latest funding round? InferEdge's latest funding round is Convertible Note. How much did InferEdge raise? InferEdge raised a total of $500K. Who are the investors of InferEdge?",
+    "url": "https://www.cbinsights.com/company/harmoney-1",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/893665-90",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "InferEdge - LinkedIn InferEdge | 124 followers on LinkedIn. Agentic solutions for asset managers. Compress the analyst function | Agentic infrastructure for investment teams.",
+    "url": "https://www.linkedin.com/company/inferedge-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Amal Dani, CFA - Co-Founder at InferEdge | Quant Investing at ...Shreya Khubber - Forward Deployed Quant @ InferEdge (YC 22 ...Marc Capobianco - Co-Founder/Chief Marketing Officer at ...infoedge LLC - LinkedInMoss (YC F25) | LinkedIn Co-Founder at InferEdge | Quant Investing at Versor | Goldman Sachs | CSE@IIT Bombay · Building Harmoney - Agentic AI solution for Fixed Income Research, Portfolio An",
+    "url": "https://in.linkedin.com/in/amal-dani",
+    "pass": 3
+   },
+   {
+    "quote": "Shreya Khubber - Forward Deployed Quant @ InferEdge (YC 22 ...Marc Capobianco - Co-Founder/Chief Marketing Officer at ...infoedge LLC - LinkedInMoss (YC F25) | LinkedIn Forward Deployed Quant @ InferEdge (YC 22) | Experimenting · Engineer by education. Quant by profession. Writer, builder, and occasional abstract-art enthusiast by compulsion. I studied at BITS... Co-Founder/Chief Marketing Officer",
+    "url": "https://in.linkedin.com/in/shreya-khubber",
+    "pass": 3
+   },
+   {
+    "quote": "Marc Capobianco - Co-Founder/Chief Marketing Officer at ...infoedge LLC - LinkedInMoss (YC F25) | LinkedIn Co-Founder/Chief Marketing Officer at InferEdge · I have worked independently in numerous capacities in development in the West Coast wine industry since 1982 while maintaining my practice in ... infoedge LLC is a management consulting firm helping customers improve business strategy, acceler",
+    "url": "https://www.linkedin.com/in/donaldmarc",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.inferedge.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inferedge.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inferedge.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://colabmix.co.jp/technical_explanation/edge%E6%8E%A8%E8%AB%96%E6%99%82%E4%BB%A3%E3%82%92%E5%88%87%E3%82%8A%E9%96%8B%E3%81%8F%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AC%E3%82%B9ml%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inferedge.tech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.analog.com/jp/who-we-are/corporate-information.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inferedge.tech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/inferedge-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.infor.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manufacturersalliance.org/research-insights/explore-benefits-and-use-cases-industrial-edge-computing-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sap.com/partners/partner-program.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ninjaone.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/893665-90",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/afterquery.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/harmoney-1/financials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/harmoney-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/inferedge-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/amal-dani",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/shreya-khubber",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/donaldmarc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/inferedge-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Inferedge 日本 導入",
+   "results": [
+    "https://colabmix.co.jp/technical_explanation/edge推論時代を切り開くサーバーレスmlフレームワー/",
+    "https://www.inferedge.com/",
+    "https://www.inferedge.tech/",
+    "https://www.inferedge.com/pricing",
+    "https://prtimes.jp/main/html/rd/p/000000016.000180050.html",
+    "https://imitsu.jp/list/web-system/edge-ai",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inferedge 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.analog.com/jp/who-we-are/corporate-information.html",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.inferedge.com/pricing",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inferedge Japan",
+   "results": [
+    "https://www.inferedge.com/",
+    "https://www.inferedge.com/about",
+    "https://www.inferedge.tech/",
+    "https://www.linkedin.com/company/inferedge-ai",
+    "https://app.inferedge.com/",
+    "https://inferrededge.com/",
+    "http://infoedg.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inferedge manufacturing customer case study",
+   "results": [
+    "https://www.inferedge.com/",
+    "https://www.inferedge.com/blog",
+    "https://www.infor.com/customer-stories",
+    "https://www.manufacturersalliance.org/research-insights/explore-benefits-and-use-cases-industrial-edge-computing-manufacturing",
+    "https://www.inferedge.tech/",
+    "https://www.featuredcustomers.com/vendor/solid-edge/case-studies",
+    "https://inferrededge.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inferedge white label OR reseller OR partner program",
+   "results": [
+    "https://www.sap.com/partners/partner-program.html",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inferedge founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/893665-90",
+    "https://getlatka.com/companies/afterquery.com",
+    "https://www.cbinsights.com/company/harmoney-1/financials",
+    "https://www.cbinsights.com/company/harmoney-1",
+    "https://tracxn.com/d/venture-capital/info-edge-ventures/__15PsfDJQ97MvMP1vbNw2_DVxUNMSDT0GJpZ5J3ohvmU",
+    "https://pitchbook.com/profiles/company/472331-53",
+    "https://www.infoedge.in/InvestorRelations/IR_Annual_Report",
+    "https://en.wikipedia.org/wiki/Info_Edge",
+    "https://getlatka.com/companies/brightedge",
+    "https://www.infoedge.in/pdfs/Report_filings/InfoEdge_Annual_Report_2025.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:note.com Inferedge",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/yuzu_monaka_/n/n46d1d95edd93?hl=en",
+    "https://note.com/kagawatomo/n/nb6c0632d2e41?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/anchovy_pasta256/n/n66b291be58d5",
+    "https://note.com/quruli/n/n35d2b6cdc37a",
+    "https://note.com/yomasaru/n/n6d549c8577eb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Inferedge",
+   "results": [
+    "https://about.x.com/en",
+    "https://x.com/",
+    "https://help.x.com/en",
+    "https://docs.x.com/developer-guidelines",
+    "https://x.com/inferxai",
+    "https://x.com/IncInfer",
+    "https://help.x.com/en/using-x/create-x-account"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Inferedge",
+   "results": [
+    "https://www.linkedin.com/company/inferedge-ai",
+    "https://in.linkedin.com/in/amal-dani",
+    "https://in.linkedin.com/in/shreya-khubber",
+    "https://www.linkedin.com/in/donaldmarc",
+    "https://www.linkedin.com/company/inferrededge",
+    "https://www.linkedin.com/company/infoedge",
+    "https://www.linkedin.com/company/mossdev"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Inferedge",
+   "results": [
+    "https://www.facebook.com/infersol/",
+    "https://www.facebook.com/Innodata.Inc/",
+    "https://secure.facebook.com/login/",
+    "https://secure.facebook.com/",
+    "https://business.facebook.com/latest/home/",
+    "https://www.facebook.com/induinferentia/",
+    "https://eventsmanager.facebook.com/business/news/ai-innovation-in-metas-ads-ranking-driving-advertiser-performance/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inferedge note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.inferedge.com/about",
+    "https://www.inferedge.com/",
+    "https://www.linkedin.com/company/inferedge-ai",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://inferrededge.com/team"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Inferedge X 投稿",
+   "results": [
+    "https://www.inferedge.com/",
+    "https://www.inferedge.com/about",
+    "https://www.inferedge.tech/",
+    "https://app.inferedge.com/",
+    "https://app.inferedge.com/client/register",
+    "https://inferrededge.com/",
+    "https://evolvingvillage.com/personal-brand-submit/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部22頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部22頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部22頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部22頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部22頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部22頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部22頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部22頁・検索12回）"
+ }
+}

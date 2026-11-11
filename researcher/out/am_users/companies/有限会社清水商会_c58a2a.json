@@ -1,0 +1,706 @@
+{
+ "name": "有限会社清水商会",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T18:40:26.790806+00:00",
+ "official_url": "http://www.ceramics-shimizu.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒610-1146 京都市西京区大原野西境谷町2-14-14",
+    "url": "https://www.ceramics-shimizu.co.jp/about/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "清水祥平",
+    "url": "https://www.ceramics-shimizu.co.jp/about/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "セラミック基板への薄膜・厚膜印刷 スクリーン印刷による厚膜パターン形成 真空成膜・メッキ・フォトリソ・エッチングによる薄膜パターン形成 その他VIA充填や抵抗体形成、スルーホール形成 セラミック加工 アルミナ・ジルコニア・窒化珪素・炭化珪素 窒化アルミ・BN・石英・カーボン・マコール シェイパルHiMソフト・ホトベール・マセライト",
+    "url": "https://www.ceramics-shimizu.co.jp/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "お問い合わせ｜ファインセラミックス｜京都セラミック加工 清水商会",
+    "url": "https://www.ceramics-shimizu.co.jp/info/",
+    "pass": 1
+   },
+   {
+    "quote": "初期は樹脂特にテフロンの取り扱いが多く、",
+    "url": "https://www.ceramics-shimizu.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介｜ファインセラミックス｜京都セラミック加工 清水商会",
+    "url": "https://www.ceramics-shimizu.co.jp/lineup/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミック加工例｜精密加工｜京都セラミック加工 清水商会",
+    "url": "https://www.ceramics-shimizu.co.jp/sample/",
+    "pass": 1
+   },
+   {
+    "quote": "レアメタル・モリブデン・タングステン・タンタル・樹脂",
+    "url": "https://www.ceramics-shimizu.co.jp/sample/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミック製造プロセス｜京都セラミック加工 清水商会",
+    "url": "https://www.ceramics-shimizu.co.jp/process/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックは原料の成形、焼成、加⼯を含む⼯程から成り⽴っています",
+    "url": "https://www.ceramics-shimizu.co.jp/process/",
+    "pass": 1
+   },
+   {
+    "quote": "メタライズ（薄膜・厚膜）加工｜京都セラミック加工 清水商会",
+    "url": "https://www.ceramics-shimizu.co.jp/metalize/",
+    "pass": 1
+   },
+   {
+    "quote": "薄膜・厚膜メタライズ セラミック基板応用分野",
+    "url": "https://www.ceramics-shimizu.co.jp/metalize/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "お客様の用途に合わせた小ロットからご対応致します",
+    "url": "https://www.ceramics-shimizu.co.jp/info/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の用途に合わせた小ロットからご対応致します",
+    "url": "https://www.ceramics-shimizu.co.jp/process/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせ｜ファインセラミックス｜京都セラミック加工 清水商会",
+    "url": "https://www.ceramics-shimizu.co.jp/info/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、お客様からお問い合わせなどでいただいた個人情報は、下記の場合を除いて無断で収集・利用しません",
+    "url": "https://www.ceramics-shimizu.co.jp/info/",
+    "pass": 1
+   },
+   {
+    "quote": "5分以内に自動返信メールが届きます",
+    "url": "https://www.ceramics-shimizu.co.jp/info/",
+    "pass": 1
+   },
+   {
+    "quote": "自動返信メールが届かない場合は送信できていない可能性がありますので再度送信をお願いします",
+    "url": "https://www.ceramics-shimizu.co.jp/info/",
+    "pass": 1
+   },
+   {
+    "quote": "お急ぎの場合は大変お手数ですが、電話でお問い合わせ頂けますようお願いいたします",
+    "url": "https://www.ceramics-shimizu.co.jp/info/",
+    "pass": 1
+   },
+   {
+    "quote": "工場の『単純だけど数が多い』仕事——メールの仕分け、注文書からの数値抜き出し、問い合わせの一次振り分け——は、この小型AIで十分なことが多い",
+    "url": "https://www.smz-shokai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "「掲載お知らせ」に登録しておくと、この企業が求人を再開した際にメールでお知らせします",
+    "url": "https://tenshoku.mynavi.jp/company/398088/",
+    "pass": 3
+   },
+   {
+    "quote": "この企業の「掲載お知らせ」メールを受けとる",
+    "url": "https://tenshoku.mynavi.jp/company/398088/",
+    "pass": 3
+   },
+   {
+    "quote": "取扱商品に関するお問い合わせ、設備・機器の点検や",
+    "url": "https://www.shimizushokai.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社清水商会 | お問い合わせ 読み込まれました",
+    "url": "https://shimizushokai-20180316.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "3営業日を過ぎても返信がない場合は、お手数ですが再度お問い合わせをお願いいたします",
+    "url": "https://shimizushokai-20180316.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 札幌市南区の美装・ハウスクリーニング｜株式会社清水商会",
+    "url": "https://shimizu-shokai.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "信頼できる製品・信頼できる担当者だと思います",
+    "url": "https://www.ceramics-shimizu.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介｜ファインセラミックス｜京都セラミック加工 清水商会",
+    "url": "https://www.ceramics-shimizu.co.jp/lineup/",
+    "pass": 1
+   },
+   {
+    "quote": "切削加⼯により⾼精度な製品を短納期で提供可能",
+    "url": "https://www.ceramics-shimizu.co.jp/lineup/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "京都縦貫自動車道大原野I.Cから国道141号を東へ、新林本通境谷の交差点を右折し境谷商店街方面へ",
+    "url": "https://www.ceramics-shimizu.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "搬送アーム、真空チャック、メカニカルシール、ポンプ部品、真球ボール、その他半導体製造関連部品、プラズマ対策、CVD、PVD、エッチャー、インシュレーター、炉心管、アルミナ管",
+    "url": "https://www.ceramics-shimizu.co.jp/lineup/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス⽤治具、⾦属溶融⽤るつぼ、焼成⽤セッター、電気絶縁部品、放熱シート、⾼温潤滑添加材",
+    "url": "https://www.ceramics-shimizu.co.jp/lineup/",
+    "pass": 1
+   },
+   {
+    "quote": "高温下の電気絶縁体、電子回路、半導体製造装置用部材、半導体検査装置用部材、真空用絶縁材、医療機器部品、耐放射線用絶縁材、極低温容器",
+    "url": "https://www.ceramics-shimizu.co.jp/lineup/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置部品、真空装置部品、分析装置部品",
+    "url": "https://www.ceramics-shimizu.co.jp/lineup/",
+    "pass": 1
+   },
+   {
+    "quote": "るつぼ、ヒーター、封着用治具、ハーメチック、プラズマＣＶＤ用電極、サセプター、ダイス、ヒーター、スペーサー、スリーブ、放電加工用電極、メカニカルシール、軸受",
+    "url": "https://www.ceramics-shimizu.co.jp/lineup/",
+    "pass": 1
+   },
+   {
+    "quote": "絶縁体、治具",
+    "url": "https://www.ceramics-shimizu.co.jp/lineup/",
+    "pass": 1
+   },
+   {
+    "quote": "SI3N4 窒化珪素 金型リング",
+    "url": "https://www.ceramics-shimizu.co.jp/sample/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体に代表されるようなフォトリソグラフを用いて、高精度で微細なパターン形成が可能",
+    "url": "https://www.ceramics-shimizu.co.jp/metalize/",
+    "pass": 1
+   },
+   {
+    "quote": "光通信、半導体、測定機器、医療機器、高電圧電極、センサー、MEMS分野、ハイブリッドIC等",
+    "url": "https://www.ceramics-shimizu.co.jp/metalize/",
+    "pass": 1
+   },
+   {
+    "quote": "歯車加工とは、自動車・産業機械・ロボット・建設機械など、",
+    "url": "https://www.smz-shokai.com/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "⿊鉛に似た結晶構造を持った⽩⾊粉末から作られる",
+    "url": "https://www.ceramics-shimizu.co.jp/lineup/",
+    "pass": 1
+   },
+   {
+    "quote": "SAMPLE1",
+    "url": "https://www.ceramics-shimizu.co.jp/sample/",
+    "pass": 1
+   },
+   {
+    "quote": "SAMPLE2",
+    "url": "https://www.ceramics-shimizu.co.jp/sample/",
+    "pass": 1
+   },
+   {
+    "quote": "SAMPLE3",
+    "url": "https://www.ceramics-shimizu.co.jp/sample/",
+    "pass": 1
+   },
+   {
+    "quote": "SAMPLE4",
+    "url": "https://www.ceramics-shimizu.co.jp/sample/",
+    "pass": 1
+   },
+   {
+    "quote": "SAMPLE5",
+    "url": "https://www.ceramics-shimizu.co.jp/sample/",
+    "pass": 1
+   },
+   {
+    "quote": "SAMPLE6",
+    "url": "https://www.ceramics-shimizu.co.jp/sample/",
+    "pass": 1
+   },
+   {
+    "quote": "SAMPLE7",
+    "url": "https://www.ceramics-shimizu.co.jp/sample/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "京都セラミック加工 清水商会 — 京都セラミック加工 清水商会 ceramics-shimizu.co.jp https://www.ceramics-shimizu.co.jp",
+    "url": "https://www.ceramics-shimizu.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "取扱 メーカー - 株式会社清水商会 — 取扱 メーカー - 株式会社清水商会 shimizushokai.com https://www.shimizushokai.com > brands-we-deal-with",
+    "url": "https://www.shimizushokai.com/brands-we-deal-with/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 株式会社清水商会 — 会社情報 - 株式会社清水商会 shimizushokai.com https://www.shimizushokai.com > company",
+    "url": "https://www.shimizushokai.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 清水商會（ 清水商会 ） — 株式 会社 清水商會（ 清水商会 ） smz-shokai.com https://www.smz-shokai.com",
+    "url": "https://www.smz-shokai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 清水商会 の 会社概要 - マイナビ転職 — 株式会社 清水商会 の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/398088/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社清水商会 - SalesNow — 株式 会社清水商会 - SalesNow SalesNow https://salesnow.jp > トップ > 都道府県 > 滋賀県",
+    "url": "https://salesnow.jp/db/companies/jcbarv9kd54yd9sw",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - （株） 清水商会 (千葉県千葉市中央区) | ツクリンク — 会社概要 - （株） 清水商会 (千葉県千葉市中央区) | ツクリンク ツクリンク https://tsukulink.net > 千葉県 > 千葉市中央区",
+    "url": "https://tsukulink.net/chiba/city_121011/326864",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社清水商会 — お問い合わせ - 株式会社清水商会 shimizushokai.com https://www.shimizushokai.com > contact",
+    "url": "https://www.shimizushokai.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社清水商会 — お問い合わせ - 株式会社清水商会 shimizushokai-20180316.com https://shimizushokai-20180316.com > contact",
+    "url": "https://shimizushokai-20180316.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社清水商会 — お問い合わせ - 株式会社清水商会 shimizu-shokai.jp https://shimizu-shokai.jp > contact",
+    "url": "https://shimizu-shokai.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 清水商会 — お問い合わせ - 清水商会 miyazaki-shimizushokai.com https://www.miyazaki-shimizushokai.com > contact",
+    "url": "https://www.miyazaki-shimizushokai.com/contact",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "上尾の自転車バイク店 清水商会 on X: \"@beansandroaster ... 上尾の自転車バイク店 清水商会 on X: \"@beansandroaster ... X https://x.com > @shimizu_bike",
+    "url": "https://x.com/shimizu_bike/status/2037105492108177591",
+    "pass": 3
+   },
+   {
+    "quote": "上尾の自転車バイク店 清水商会 (@shimizu_bike) / X 上尾の自転車バイク店 清水商会 (@shimizu_bike) / X X https://x.com > shimizu_bike",
+    "url": "https://x.com/shimizu_bike",
+    "pass": 3
+   },
+   {
+    "quote": "上尾の自転車バイク店 清水商会 - X 上尾の自転車バイク店 清水商会 - X X https://x.com > @shimizu_bike",
+    "url": "https://x.com/shimizu_bike/status/2008746063755386908",
+    "pass": 3
+   },
+   {
+    "quote": "上尾の自転車バイク店 清水商会 on X - @shimizu_bike 上尾の自転車バイク店 清水商会 on X - @shimizu_bike X https://x.com > @shimizu_bike",
+    "url": "https://x.com/shimizu_bike/status/2085868956183839187",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Juichi shimizu - 清水商会 - 代表者 - LinkedIn Juichi shimizu - 清水商会 - 代表者 - LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/juichi-shimizu-6b1041143",
+    "pass": 3
+   },
+   {
+    "quote": "Minoru Shimizu - 株式会社 清水商会 - 代表取締役 | LinkedIn Minoru Shimizu - 株式会社 清水商会 - 代表取締役 | LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/minoru-shimizu-113409b1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 古 清水商会 | Edogawa-ku Tokyo - Facebook 株式会社 古 清水商会 | Edogawa-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > Retail company",
+    "url": "https://www.facebook.com/koshimizu.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "清水商会 (@simizu.syokai) 清水商会 (@simizu.syokai) Facebook https://www.facebook.com > simizu.syokai",
+    "url": "https://www.facebook.com/simizu.syokai/",
+    "pass": 3
+   },
+   {
+    "quote": "(有) 清水商会 | Kahoku-shi Ishikawa - Facebook (有) 清水商会 | Kahoku-shi Ishikawa - Facebook Facebook https://www.facebook.com > ... > 小売・販売",
+    "url": "https://www.facebook.com/simizushokai/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "清水商会 ・小竹モータース | Kotake-machi Kurate-gun Nagano 清水商会 ・小竹モータース | Kotake-machi Kurate-gun Nagano Facebook https://www.facebook.com > ... > Motor vehicle company",
+    "url": "https://www.facebook.com/p/%E6%B8%85%E6%B0%B4%E5%95%86%E4%BC%9A%E5%B0%8F%E7%AB%B9%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9-100064940623383/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ceramics-shimizu.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ceramics-shimizu.co.jp/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ceramics-shimizu.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ceramics-shimizu.co.jp/lineup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ceramics-shimizu.co.jp/sample/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ceramics-shimizu.co.jp/process/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ceramics-shimizu.co.jp/metalize/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimizushokai.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smz-shokai.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/398088/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shimizushokai.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shimizushokai-20180316.com/contact",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://shimizu-shokai.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/shimizu_bike/status/2037105492108177591",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shimizu_bike",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shimizu_bike/status/2008746063755386908",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shimizu_bike/status/2085868956183839187",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/juichi-shimizu-6b1041143",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/minoru-shimizu-113409b1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/koshimizu.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/simizu.syokai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/simizushokai/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E6%B8%85%E6%B0%B4%E5%95%86%E4%BC%9A%E5%B0%8F%E7%AB%B9%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9-100064940623383/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "清水商会 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://www.ceramics-shimizu.co.jp/",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "https://www.shimizushokai.com/brands-we-deal-with/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://injection-fuchu.com/column/1203/",
+    "https://www.hotty.co.jp/product/shasyutsuseikei/",
+    "https://kakounosusume.com/product/epomold/",
+    "https://www.shimizushokai.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "清水商会 会社概要 事業内容",
+   "results": [
+    "https://www.shimizushokai.com/company/",
+    "https://www.smz-shokai.com/",
+    "https://tenshoku.mynavi.jp/company/398088/",
+    "https://salesnow.jp/db/companies/jcbarv9kd54yd9sw",
+    "https://tsukulink.net/chiba/city_121011/326864",
+    "https://doda.jp/DodaFront/View/Company/j_id__10008642341/",
+    "https://www.big-advance.site/c/154/1476/profile",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=6200001037247",
+    "https://www.shimizushokai.com/",
+    "https://shimi-shou.com/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "清水商会 お問い合わせ メール",
+   "results": [
+    "https://www.shimizushokai.com/contact/",
+    "https://shimizushokai-20180316.com/contact",
+    "https://shimizu-shokai.jp/contact/",
+    "https://www.miyazaki-shimizushokai.com/contact",
+    "https://www.scdc.co.jp/contact/form-scdc.php",
+    "https://www.shimizudenki.co.jp/contact/",
+    "https://www.shimizu-net.co.jp/contact/",
+    "https://www.smz-shokai.com/",
+    "https://www.shimz.co.jp/inquiry/",
+    "https://www.shimizushoukai.com/contact.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com 清水商会",
+   "results": [
+    "https://note.com/hatta_tomonori88/n/n1229b7f97581",
+    "https://note.com/recycle_hokkaido/n/n36a2e0990206",
+    "https://note.com/hisatune/n/nc5829ead4227",
+    "https://note.com/hokori_to_kansya/n/n3f312bdb057f",
+    "https://note.com/xaymaca/n/nf27f50cd5d69",
+    "https://note.com/pchpch__/n/n81b9ced70bf6",
+    "https://note.com/honyameguriaichi/n/n03c211415136",
+    "https://note.com/cherubi_no/n/n137cf7b8eae7",
+    "https://note.com/yasuhisayamada/n/na1a841dbf889",
+    "https://note.com/tacnagoya_qcc/n/n1bda51eccc0f"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 清水商会",
+   "results": [
+    "https://x.com/shimizu_bike/status/2037105492108177591",
+    "https://x.com/shimizu_bike",
+    "https://x.com/shimizu_bike/status/2008746063755386908",
+    "https://x.com/shimizu_bike/status/2085868956183839187",
+    "https://x.com/shimizu_bike/status/2040257346388230457",
+    "https://x.com/shimizu_bike/status/2091102042903490703",
+    "https://x.com/shimizu_bike/status/2081379789143970060",
+    "https://x.com/emikawa_jan/status/1999313925800886475",
+    "https://x.com/manchan_sub_acc/status/1052492241019658240",
+    "https://x.com/shimizu_bike/status/2072107878585119144"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 清水商会",
+   "results": [
+    "https://jp.linkedin.com/in/juichi-shimizu-6b1041143",
+    "https://jp.linkedin.com/in/minoru-shimizu-113409b1",
+    "https://www.linkedin.com/pub/dir/Minoru/Shimizu",
+    "https://www.linkedin.com/pub/dir/Minoru/Shimizu/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/pub/dir/Minoru/Shimizu/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/pub/dir/%E6%B8%85%E6%B0%B4/Shimizu",
+    "https://www.linkedin.com/pub/dir/Tetsuya/MORI/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/pub/dir/Yoshinori/Shimizu",
+    "https://jp.linkedin.com/pub/dir/%E6%B8%85%E6%B0%B4/Shimizu/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/pub/dir/minoru/shimizu/jp-0-日本"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com 清水商会",
+   "results": [
+    "https://www.facebook.com/koshimizu.co.jp/",
+    "https://www.facebook.com/simizu.syokai/",
+    "https://www.facebook.com/simizushokai/?locale=ja_JP",
+    "https://www.facebook.com/p/%E6%B8%85%E6%B0%B4%E5%95%86%E4%BC%9A%E5%B0%8F%E7%AB%B9%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B9-100064940623383/",
+    "https://www.facebook.com/p/%E6%B8%85%E6%B0%B4-%E6%99%BA%E6%88%90-100006799534156/",
+    "https://www.facebook.com/ageo.otokujyohokan/posts/%E6%9C%89%E6%B8%85%E6%B0%B4%E5%95%86%E4%BC%9A%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%83%90%E3%82%A4%E3%82%AF%E3%81%AE%E3%81%8A%E5%BA%97%E3%81%A7%E3%81%99%E8%B2%A9%E5%A3%B2%E3%81%8B%E3%82%89%E4%BF%AE%E7%90%86%E3%83%A1%E3%83%B3%E3%83%86%E3%83%8A%E3%83%B3%E3%82%B9%E8%BB%8A%E6%A4%9C%E3%81%AA%E3%81%A9%E5%BF%AB%E9%81%A9%E3%81%AA%E8%87%AA%E8%BB%A2%E8%BB%8A%E3%83%90%E3%82%A4%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%95%E3%81%AE%E3%81%8A%E6%89%8B%E4%BC%9D%E3%81%84%E3%82%92%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%991970%E5%B9%B4%E5%89%B5%E6%A5%AD%E8%AA%8D%E8%A8%BC%E5%B7%A5%E5%A0%B4%E5%AE%8C%E5%82%994-2762%E8%87%AA%E8%BB%A2%E8%BB%8A%E6%8A%80%E5%B8%AB%E3%81%AB/208587274828862/",
+    "https://www.facebook.com/p/%E6%B8%85%E6%B0%B4%E5%95%86%E4%BC%9A-100069620025203/",
+    "https://www.facebook.com/100064940623383/photos/%E6%B8%A1%E8%BE%BA%E8%AC%99%E3%81%8B%E3%82%89%E5%A7%8B%E3%81%BE%E3%82%8A%E5%A0%80%E5%8C%97%E7%9C%9F%E5%B8%8C%E3%81%8D%E3%82%83%E3%82%8A%E3%83%BC%E3%81%B1%E3%81%BF%E3%82%85%E3%81%B1%E3%81%BF%E3%82%85%E7%9F%B3%E5%8E%9F%E8%BB%8D%E5%9B%A3%E6%9D%8F%E3%81%BE%E3%81%A7%E3%82%82%E3%81%8C%E3%82%A8%E3%83%8D%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E6%9C%80%E8%BF%91%EF%BD%94%EF%BD%96%E3%81%A7%E3%82%82%E9%A0%BB%E7%B9%81%E3%81%AB%E6%B5%81%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%82%B9%E3%82%BA%E3%82%AD%E3%81%AE%EF%BD%83%EF%BD%8D%E5%BC%8A%E7%A4%BE%E3%81%A7%E3%82%82%E8%A9%A6%E4%B9%97%E8%BB%8A%E3%82%92%E7%94%A8%E6%84%8F%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E6%9D%A5/481471858606898/",
+    "https://www.facebook.com/100064940623383/photos/%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E5%B9%B4%E6%9C%AB%E3%82%82%E8%BF%91%E3%81%8F%E3%81%AA%E3%82%8A%E5%AF%92%E3%81%84%E5%AD%A3%E7%AF%80%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E5%80%8B%E4%BA%BA%E7%9A%84%E3%81%AB%E3%81%AF%E8%82%8C%E3%82%92%E5%88%BA%E3%81%99%E5%86%B7%E3%81%9F%E3%81%84%E9%A2%A8%E3%81%8C%E8%BA%AB%E3%82%82%E5%BF%83%E3%82%82%E5%BC%95%E3%81%8D%E7%B7%A0%E3%81%BE%E3%82%8A%E3%82%88%E3%82%8A%E4%B8%80%E5%B1%A4%E6%A5%AD%E5%8B%99%E3%81%AB%E7%86%B1%E3%81%8C%E5%85%A5%E3%82%8A%E5%B0%82%E5%BF%B5%E3%81%A7%E3%81%8D%E3%82%8B%E6%99%82%E6%9C%9F%E3%81%A7%E3%82%82%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99o%E5%BC%8A%E7%A4%BE%E3%81%AE%E5%B7%A5%E5%A0%B4%E3%81%AE/535278476559569/",
+    "https://www.facebook.com/shimizu1798/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "清水商会 note 社長",
+   "results": [
+    "https://note.com/shimizu_shinya",
+    "https://note.com/smzcpa/n/nf8b3c7e2434d",
+    "https://note.com/kiyoshi_shimizu/all",
+    "https://note.com/ippractice/n/ndb367b674e14",
+    "https://note.com/gstartup/n/n70ae4050eefe",
+    "https://www.shimizushokai.com/advantage/",
+    "https://note.com/tokunaga_tritech/n/nb2fecdd40905",
+    "https://note.com/shimizt",
+    "https://note.com/proper_thyme8002",
+    "https://www.shimizushokai.com/company/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "清水商会 X 投稿",
+   "results": [
+    "https://www.shimizushokai.com/",
+    "https://x.com/yellow_flame_/status/2073652417661751578",
+    "https://shimizushokai-20180316.com/",
+    "https://m.yelp.com/biz/%E6%B8%85%E6%B0%B4%E5%95%86%E4%BC%9A-%E4%B8%AD%E5%A4%AE%E5%8C%BA",
+    "https://www.smz-shokai.com/",
+    "https://www.big-advance.site/c/154/1476/profile",
+    "https://nagahama.or.jp/member/wholesale/14617/",
+    "https://x.com/shimizu_bike/status/2104792066933076237",
+    "http://www.surplusleopard.com/",
+    "https://x.com/mikeshimizu/status/2119429454275793270"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部18頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部18頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部18頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部18頁・検索9回）"
+ }
+}

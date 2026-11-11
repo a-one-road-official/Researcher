@@ -1,0 +1,794 @@
+{
+ "name": "Joincarma",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T18:52:39.524400+00:00",
+ "official_url": "https://www.joincarma.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2024",
+    "url": "https://startupintros.com/orgs/carma",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/carma",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Find your profit leaks in 24 hours →",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find your profit leaks",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Finish projects faster.",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Carma is the AI workspace where your team and Adam, your AI operator, run every machine and job for profit.",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "more operating profit",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Then your team spends 3 hours on calls, quotes, and approvals while the crew waits.",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Brake pads worn past spec.",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prices every idle hour and picks the fix with the lowest total cost.",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Adam builds one case from the crew’s report and alerts, and prices the idle crew.",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fault code: hydraulic pressure low",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A breakdown hits your profit three times.",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Adam protects all three.",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "your profit three times.",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Adam priced it for your next bid: $18,400 lower at the same margin.",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Adam runs every repair, idle machine, and buy, repair, or sell decision for profit.",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Adam will put crews on ready work. Today he prioritizes every repair by what the waiting crew costs you.",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Managers approve every cost.",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Approve 1, decline 2",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Managers approve every repair and cost. Adam does the coordination in between.",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Carma sells no parts, rentals, or machines. Adam’s only incentive is to maximize your profit.",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Send a year of records. In 24 hours, see where profit leaked. The audit is free.",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Carma (Automotive) 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an AI-powered fleet operations platform designed to find the local offers for auto services. The company's platform provides vehicle service through its application, customizes location and date, provides service requests, and selects a payment option of the customer's choice, enabling clients to get quality service at a transparent price through a single platform.",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Not-For-Profit Venture Capital",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Carma (Automotive)’s primary industry is Automotive.",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Is Carma (Automotive) a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Carma (Automotive) is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/joincarma.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/joincarma.com",
+    "pass": 3
+   },
+   {
+    "quote": "Carma is a B2B managed marketplace founded in 2023 that provides",
+    "url": "https://startupintros.com/orgs/carma",
+    "pass": 3
+   },
+   {
+    "quote": "real-time, transparent pricing offers",
+    "url": "https://startupintros.com/orgs/carma",
+    "pass": 3
+   },
+   {
+    "quote": "from a network of vetted service centers, ensuring cost-effective and efficient vehicle maintenance. Carma’s solution addresses the $573 billion global annual spend on fleet auto repairs by eliminating delays, opaque pricing, and unreliable service, thereby saving fleets significant time and money while reducing vehicle downtime[1][2][3].",
+    "url": "https://startupintros.com/orgs/carma",
+    "pass": 3
+   },
+   {
+    "quote": "Product Differentiators:",
+    "url": "https://startupintros.com/orgs/carma",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time competitive offers, guaranteed 24-hour turnaround, locked-in pricing with no hidden fees, and on-demand valet vehicle transport.",
+    "url": "https://startupintros.com/orgs/carma",
+    "pass": 3
+   },
+   {
+    "quote": "Same-day service prioritization reduces downtime by over 60%, with fleets saving upwards of 30-50% compared to median local prices.",
+    "url": "https://startupintros.com/orgs/carma",
+    "pass": 3
+   },
+   {
+    "quote": "Network of highly vetted, licensed, and insured partner service centers nationwide, supported by ASE-Certified Master Technicians providing dedicated fleet support.",
+    "url": "https://startupintros.com/orgs/carma",
+    "pass": 3
+   },
+   {
+    "quote": "hiretop.com/blog2/carma-commercial-fleets-same-day-auto-repair",
+    "url": "https://startupintros.com/orgs/carma",
+    "pass": 3
+   },
+   {
+    "quote": "Carma's investors include General Catalyst, L Catterton Growth, Tiger Global Management, Norwest Venture Partners, Prashant Malik.",
+    "url": "https://startupintros.com/orgs/carma",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the contractors building America’s data centers.",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "operations staff, technicians, and field workers do their work in Carma",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Carma (Automotive) 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Carma (Automotive) Timeline",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Carma (Automotive) Valuation & Funding",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "To view Carma (Automotive)’s complete valuation and funding history, request access »",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Carma (Automotive) Signals",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Carma (Automotive) Investors (4)",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "To view Carma (Automotive)’s complete investors history, request access »",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Carma (Automotive) FAQs",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "When was Carma (Automotive) founded?",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Carma (Automotive) was founded in 2022.",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Where is Carma (Automotive) headquartered?",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Carma (Automotive) is headquartered in San Francisco, CA.",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "What is the size of Carma (Automotive)?",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Carma (Automotive) has 14 total employees.",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "What industry is Carma (Automotive) in?",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Carma (Automotive)’s primary industry is Automotive.",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Is Carma (Automotive) a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Carma (Automotive) is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "What is Carma (Automotive)’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Carma (Automotive) is",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "How much funding has Carma (Automotive) raised over time?",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Carma (Automotive) has raised $500K.",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Who are Carma (Automotive)’s investors?",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "have invested in Carma (Automotive).",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Network of highly vetted, licensed, and insured partner service centers nationwide, supported by ASE-Certified Master Technicians providing dedicated fleet support.",
+    "url": "https://startupintros.com/orgs/carma",
+    "pass": 3
+   },
+   {
+    "quote": "digital transformation in fleet management and automotive services",
+    "url": "https://startupintros.com/orgs/carma",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Arrived / Not in Service",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Holds every estimate and invoice to standard times, history, and warranty.",
+    "url": "https://www.joincarma.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Carma (Automotive) has 14 total employees.",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "What is Carma (Automotive)’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Carma (Automotive) is",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   },
+   {
+    "quote": "Carma Revenue 2024: $1.4M Est.",
+    "url": "https://getlatka.com/companies/joincarma.com",
+    "pass": 3
+   },
+   {
+    "quote": "Carma has not published its revenue. GetLatka estimates it at about $1.4M a year (June 2024).",
+    "url": "https://getlatka.com/companies/joincarma.com",
+    "pass": 3
+   },
+   {
+    "quote": "Carma CEO, founders & employees",
+    "url": "https://getlatka.com/companies/joincarma.com",
+    "pass": 3
+   },
+   {
+    "quote": "Muhammad Alasgarli founded Carma in 2023 and runs it as CEO. Carma had 9 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/joincarma.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Carma's revenue?",
+    "url": "https://getlatka.com/companies/joincarma.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Carma's revenue at about",
+    "url": "https://getlatka.com/companies/joincarma.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Carma have?",
+    "url": "https://getlatka.com/companies/joincarma.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/joincarma.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/joincarma.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/joincarma.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/joincarma.com",
+    "pass": 3
+   },
+   {
+    "quote": "Integration with telematics for automated maintenance tracking and a centralized dashboard for service history, spending, warranties, and recalls[1][2][3].",
+    "url": "https://startupintros.com/orgs/carma",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Carma (@joincarma) / Posts / X Carma (@joincarma) - Posts - Get correct car repair fast and fair. | X (formerly Twitter)",
+    "url": "https://x.com/joincarma",
+    "pass": 3
+   },
+   {
+    "quote": "CARMA on X: \"AI is accelerating, and so is its energy demand ... AI is accelerating, and so is its energy demand. Join CARMA’s From Megawatts to Message online webinar to explore what this means for communicators. 🌍 Register: hubs.li/Q04qQkKP0 #CARMA #AI #Energy #DataCentres",
+    "url": "https://x.com/CARMA/status/2095451818952187932",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Join Carma (@join.carma) • Facebook, Connect with friends Join Carma is on Facebook. Join Facebook to connect with Join Carma and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/join.carma/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.joincarma.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://carma.com/new-tokyo-office/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carma.com/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.joincarma.com/register",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/company/leo-burnett/case-study/project-carma-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/carma-group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carmagrp.com/projects/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carma.net/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verkada.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/520545-16",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/joincarma.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/carma/__gnd7cghrX8ii-nvbVnfFMtGDjNMQE7tLKbwOqU2Obe4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/carma",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/joincarma",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CARMA/status/2095451818952187932",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/join.carma/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/joincarma",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Joincarma 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Joincarma 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Joincarma Japan",
+   "results": [
+    "https://carma.com/new-tokyo-office/",
+    "https://www.joincarma.com/",
+    "https://carma.com/japan/",
+    "https://partner.joincarma.com/register",
+    "https://trust.joincarma.com/",
+    "https://admin.joincarma.com/",
+    "https://go.joincarma.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Joincarma manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/leo-burnett/case-study/project-carma-customer-case-study",
+    "https://www.casestudies.com/customer/carma-group",
+    "https://www.carmagrp.com/projects/",
+    "https://carma.net/customer-stories",
+    "https://carma.com/wellcome-trust-case-study/",
+    "https://www.carma.earth/case-studies",
+    "https://www.joincarma.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Joincarma white label OR reseller OR partner program",
+   "results": [
+    "https://www.verkada.com/partners/",
+    "https://partner.vw.com/",
+    "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Joincarma founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/520545-16",
+    "https://getlatka.com/companies/joincarma.com",
+    "https://tracxn.com/d/companies/carma/__gnd7cghrX8ii-nvbVnfFMtGDjNMQE7tLKbwOqU2Obe4",
+    "https://startupintros.com/orgs/carma",
+    "https://indexed.vc/companies/carma-com",
+    "https://www.extruct.ai/hub/joincarma-com-funding/",
+    "https://www.zoominfo.com/c/carma/5000717149"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Joincarma",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/terrakei07",
+    "https://note.com/dashboard",
+    "https://note.com/tag/みいちゃんと山田さん",
+    "https://note.com/moral_sloth6678/n/n213deddfd463",
+    "https://note.com/genial_quince1/n/nfa82b3b404bc",
+    "https://note.com/cute_willet990/n/n9529041a97d7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Joincarma",
+   "results": [
+    "https://x.com/joincarma",
+    "https://x.com/CARMA/status/2095451818952187932",
+    "https://x.com/CARMA",
+    "https://x.com/CARMAcares",
+    "https://x.com/Carmadogshelter",
+    "https://x.com/CARMA/status/2067140189856964853",
+    "https://x.com/Sir_carma"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Joincarma",
+   "results": [
+    "https://www.linkedin.com/company/carma-com/",
+    "https://www.linkedin.com/company/carma",
+    "https://in.linkedin.com/company/carma",
+    "https://sg.linkedin.com/company/carma",
+    "https://sg.linkedin.com/jobs/view/join-carma’s-talent-community-at-carma-4418082481",
+    "https://eg.linkedin.com/company/carma",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Joincarma",
+   "results": [
+    "https://www.facebook.com/join.carma/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/carmaoc/",
+    "https://www.facebook.com/joincarma.com/",
+    "https://www.facebook.com/CARMAGlobal/",
+    "https://www.facebook.com/TTUCARMA/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Joincarma note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://team.nipponia.or.jp/blog/3997/",
+    "https://www.joincarma.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Joincarma X 投稿",
+   "results": [
+    "https://x.com/joincarma",
+    "https://www.instagram.com/joincarma/",
+    "https://www.ycombinator.com/companies/carma",
+    "https://x.com/CARMA",
+    "https://www.joincarma.com/",
+    "https://evolvingvillage.com/personal-brand-submit/",
+    "https://help.x.com/ja/using-x/edit-post"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索12回）"
+ }
+}

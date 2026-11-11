@@ -1,0 +1,714 @@
+{
+ "name": "株式会社フジレメック",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T18:58:28.656234+00:00",
+ "official_url": "http://www.fjr.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "代表取締役　西方 規雄",
+    "url": "https://www.fjr.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒955-0053 新潟県三条市北入蔵1丁目2番5号",
+    "url": "https://www.fjr.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "業務内容",
+    "value": "プラスチック金型 設計 製造 NC・MC・EDMによる 部品加工 試作成形や小ロット成形",
+    "url": "https://www.fjr.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "74名",
+    "url": "https://www.fjr.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数 74 名",
+    "value": "男性 62 名",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "72名",
+    "url": "https://mono.ipros.com/company/detail/2067760/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "製品分野": [
+   {
+    "quote": "創業以来５０余年に亘り、プラスチック射出成型用金型の設計・製作のトップメーカーとして高硬度材を使用した焼入れ型、ネジ抜き金型やギア金型、２色成形金型等、多種多様な金型であらゆる業界のニーズに応えてまいりました",
+    "url": "https://www.fjr.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "近年はPPS等での金属代替だけでなく、様々な素材のプラスチックへの置換えが進んでおり、今まで以上に高精度・高品質な金型が求められております",
+    "url": "https://www.fjr.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちフジレメックは、ものづくりの町、新潟県三条市から金型の新たな価値と可能性を皆様に提供し、金型製作を通し、皆様の豊かな暮らしを支えることを使命として、これからも成長してまいります",
+    "url": "https://www.fjr.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "三条市一ノ木戸119-5において金型メーカーとして創業",
+    "url": "https://www.fjr.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "フジレメックは、昭和41年の創業以来「金属加工のまち、職人のまち」新潟県三条市で金型を作り続けてきた老舗金型メーカーです",
+    "url": "https://www.fjr.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "各種プラスチックインジェクション金型の設計製作（熱硬化性・熱可塑性射出成形用金型）や成形機10ｔ以下クラスの小物から600ｔクラス(金型重量5ｔ)の中型までの金型の設計・製作を行っております",
+    "url": "https://www.fjr.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "カメラ・時計・光学機器部品・電子・情報・OA機器をはじめ、コネクターや医療機器部品、機構部品や構造部品等、幅広い分野での金型を、お客様のご要望に合わせて製作しております",
+    "url": "https://www.fjr.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "（各種インサート金型 板金インサート金型 樹脂インサート金型 等）",
+    "url": "https://www.fjr.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "各種ネジ抜き（一条ネジ 二条ネジ 多条ネジ）用金型",
+    "url": "https://www.fjr.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "金型鏡面磨き（ミガキ ～ #12000）",
+    "url": "https://www.fjr.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "いろいろな樹脂に最適な金型を作っているよ！",
+    "url": "https://www.fjr.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカー様との打ち合わせを大切にした金型設計",
+    "url": "https://www.fjr.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "より平らに、より直角に、金型部品の基準を作る",
+    "url": "https://www.fjr.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "金型はもちろん、製品の品質保証体制の確立",
+    "url": "https://www.fjr.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品から成形品まで、確実で正確な品質管理",
+    "url": "https://www.fjr.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "金型や部品の修理等、高精度のレーザー溶接機は欠かせません",
+    "url": "https://www.fjr.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "家電、通信、医療、自動車など、",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "品質の高い金型をお届けし、お客様から厚い信頼を得ています",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来、当社は医療機器、光学機器、情報機器、自動車、家電など、幅広い分野のプラスチック成形用金型の製作を手がけ、国内はもとより世界のあらゆる製造現場を支えています",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は常に、精密で高度な金型にチャレンジする技術思想と独創性を持ち続け、金型トップメーカーとして、他社にはできないハイレベルな金型製作に取り組んでいます",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製作のようなモノづくりには、前向きな考え、積極的な行動、挑戦意欲が欠かせません",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "精密金型メーカーとしての技術力は県内ナンバーワンと自負しております",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "それらを生み出す『金型』に直接ふれる機会は圧倒的に少ないのです",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "金型を必要とする各メーカー様と製作に関する打ち合わせを行い、メーカー様の求める金型と、安全に安定した生産が出来るよう問題点を提起しながら、ものづくりの母体となる設計を行っています",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製作が困難と思われる案件に挑戦し、無事に品物が金型から取り出せた時に言葉では言い表せない達成感と「ホッ」という安堵を感じることが出来る点です",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "測定は、製作部品の検査や金型で製作された成形品の寸法確認などを行っています",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "自分が描いた図面上の「データ」が実際に「カタチ」となり、金型の部品として組まれている様子を目にすると、ものづくりの面白みと自分の仕事の意義を実感します",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "金型の仕上げ調整、組み立てを担当しています",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製作の中の最終工程なのでとても緊張しますが、完成を見届けることのできる達成感ある仕事です",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "図面データよりCAMというソフトを使い、スチールの塊を金型パーツに削り出していくプログラムを組んでいます",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "学生の時、地元のお菓子の木型を作る機会があったことから金型に興味を持ちました",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "全くのゼロから、製品を生み出すために必須となる金型（マザーマシーン）を作ることにとてもやりがいを感じます",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製作した金型から、次々と製品が生まれていく",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "これこそ、金型製作の魅力です",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社で製作する金型はほとんど同じものがなく、毎日が新鮮です",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "精密金型は日本の独歩技術として、世界中の注目を浴びてきました",
+    "url": "https://www.fjr.co.jp/img/banner/pdf/mold_flow.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "《⑭ 日本のモノづくりを支えている金型産業のほとんどが中小企業です",
+    "url": "https://www.fjr.co.jp/img/banner/pdf/mold_flow.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "《@9 フジレメックは国内でわずかな大規模な金型メーカーです",
+    "url": "https://www.fjr.co.jp/img/banner/pdf/mold_flow.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "《⑭ 日本の金型技術は世界でNo.1",
+    "url": "https://www.fjr.co.jp/img/banner/pdf/mold_flow.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お客様のご要望に柔軟にお応えし、より良い金型を提案いたします！",
+    "url": "https://mono.ipros.com/company/detail/2067760/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フジレメックは、各種プラスチック射出成形用金型の設計・製作を行っている会社です",
+    "url": "https://mono.ipros.com/company/detail/2067760/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車関連部品や医療機器関連部品、住設関連部品等、幅広い分野での金型を",
+    "url": "https://mono.ipros.com/company/detail/2067760/",
+    "pass": 3
+   },
+   {
+    "quote": "複雑なアンダーカット処理、ネジ抜き機構等、高難易度金型の実績多数",
+    "url": "https://mono.ipros.com/company/detail/2067760/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "（各種インサート金型 板金インサート金型 樹脂インサート金型 等）",
+    "url": "https://www.fjr.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "流動性の良い樹脂（PPS レニー フォートロン 等）",
+    "url": "https://www.fjr.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂（PEEK ABS PBT PBE PP 等）",
+    "url": "https://www.fjr.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "いろいろな樹脂に最適な金型を作っているよ！",
+    "url": "https://www.fjr.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用樹脂からPPS、PPEK等のスーパーエンプラまで、あらゆる成形材料に対応可能です",
+    "url": "https://mono.ipros.com/company/detail/2067760/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "より良い製品を作るために、今まで培ってきた経験値・技術力を用い、高次元CAD⁄CAM のデータリンケージにより、最良最適の品質を提供いたします",
+    "url": "https://www.fjr.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "金型はもちろん、製品の品質保証体制の確立",
+    "url": "https://www.fjr.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "日常を暮らすほとんどの人々は量産された製品を手に取ることは多くありますが、",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカー様から提供されるデジタルデータを実際の製品にしていくことが楽しさですね",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "全くのゼロから、製品を生み出すために必須となる金型（マザーマシーン）を作ることにとてもやりがいを感じます",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製作した金型から、次々と製品が生まれていく",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(3)",
+    "url": "https://mono.ipros.com/company/detail/2067760/",
+    "pass": 3
+   },
+   {
+    "quote": "カメラ・時計・光学機器部品・電子・情報・OA機器・ギア製品をはじめ、",
+    "url": "https://mono.ipros.com/company/detail/2067760/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (3)",
+    "url": "https://mono.ipros.com/company/detail/2067760/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "成形試作（成形品の測定データ作成）、量産試作（量産立ち上げまでの成形）もいたします",
+    "url": "https://www.fjr.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "試作後の性能改善やトラブル発生時に社員が一丸となって問題に取り組み解決・挽回するパワーがあります",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "より良い製品を作るために、今まで培ってきた経験値・技術力を用い、高次元CAD⁄CAM のデータリンケージにより、最良最適の品質を提供いたします",
+    "url": "https://www.fjr.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "CAM-TOOL V19.2",
+    "url": "https://www.fjr.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "FF CAM 2024",
+    "url": "https://www.fjr.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "Go2Cam V6.10",
+    "url": "https://www.fjr.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "一般的な材料はもちろん、高硬度（～HRC65）の焼入れ材料、極小径工具（Φ0.1～）による微細加工、高精度な加工もCAM による高精度データと高速加工機の組み合わせで可能に",
+    "url": "https://www.fjr.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "図面データよりCAMというソフトを使い、スチールの塊を金型パーツに削り出していくプログラムを組んでいます",
+    "url": "https://www.fjr.co.jp/recruit/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "焼き入れ型 インサート型 ネジ抜き型など 各種樹脂金型を製作 ... — 焼き入れ型 インサート型 ネジ抜き型など 各種樹脂金型を製作 ... フジレメック https://fjr.co.jp > company > business",
+    "url": "https://fjr.co.jp/company/business.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社 案内 | 株式 会社フジレメック — 会社 案内 | 株式 会社フジレメック フジレメック https://www.fjr.co.jp > company",
+    "url": "https://www.fjr.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "フジレメック | 企業情報 | イプロスものづくり — フジレメック | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2067760/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 フジレメック の 会社概要 ・製品情報 - Metoree — 株式会社 フジレメック の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/20874/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社フジレメック ：企業情報 - にいがた就職応援団 — 株式 会社フジレメック ：企業情報 - にいがた就職応援団 にいがた就職応援団 https://www.niigata-job.ne.jp > company",
+    "url": "https://www.niigata-job.ne.jp/2027/c/company.html?cmp_id=800",
+    "pass": 3
+   },
+   {
+    "quote": "精密プラスチック金型 株式会社 フジレメック （新潟県三条市） — 精密プラスチック金型 株式会社 フジレメック （新潟県三条市） フジレメック https://fjr.co.jp > contact",
+    "url": "https://fjr.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 フジレメック の会社概要・製品情報 | Metoree — 株式会社 フジレメック の会社概要・製品情報 | Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/20874/",
+    "pass": 3
+   },
+   {
+    "quote": "フジレメック - にいがた県央金型協同組合 — フジレメック - にいがた県央金型協同組合 にいがた県央金型協同組合 https://www.kenou-kanagata.or.jp > 企業一覧",
+    "url": "https://www.kenou-kanagata.or.jp/member/%E3%83%95%E3%82%B8%E3%83%AC%E3%83%A1%E3%83%83%E3%82%AF/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 フジレメック ：企業情報 - にいがた就職応援団 — 株式会社 フジレメック ：企業情報 - にいがた就職応援団 にいがた就職応援団 https://www.niigata-job.ne.jp > company",
+    "url": "https://www.niigata-job.ne.jp/2027/c/company.html?cmp_id=800",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Fuji Retina - Japanese Retina and Vitreous Society | LinkedInLinkedIn: Log In or Sign Up血管アクセス市場の戦略的見通し：主要な促進要因、成長トレンド、お...LinkedIn0 フジレメック 口コミ jobs in ZambiaAdvu's Joshua MALONDA - Relationship Manager | Banking ...Ana Cristina Varga - Business & Marketing | Digital ... Japanese Retina and Vitreous Society · Fuji Retina: East Asian forum for vitreo-retinology discussions and new values. · 職歴: Jap",
+    "url": "https://jp.linkedin.com/in/fuji-retina-b500192a7",
+    "pass": 3
+   },
+   {
+    "quote": "0 フジレメック 口コミ jobs in Zambia Today's top 0 フジレメック 口コミ jobs in Zambia. Leverage your professional network, and get hired. New フジレメック 口コミ jobs added daily.",
+    "url": "https://zm.linkedin.com/jobs/フジレメック　口コミ-jobs?countryRedirected=1",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fjr.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fjr.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fjr.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fjr.co.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fjr.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.fjr.co.jp/img/banner/pdf/mold_flow.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2067760/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/20874/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fjr.co.jp/contact/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2067760/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/20874/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/fuji-retina-b500192a7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://zm.linkedin.com/jobs/フジレメック　口コミ-jobs?countryRedirected=1",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "フジレメック 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://fjr.co.jp/company/business.html",
+    "https://www.gkn.co.jp/blog/prototype-mold/",
+    "https://www.rd-stuff.com/injectionmolding-lp/",
+    "https://www.minamidesign.co.jp/review/984/",
+    "https://www.slkco.jp/column/inject/knowledge/small-lot",
+    "https://formlabs.com/jp/blog/low-volume-injection-molding/",
+    "https://www.fjr.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "フジレメック 会社概要 事業内容",
+   "results": [
+    "https://www.fjr.co.jp/company/",
+    "https://mono.ipros.com/company/detail/2067760/",
+    "https://metoree.com/companies/20874/",
+    "https://www.niigata-job.ne.jp/2027/c/company.html?cmp_id=800",
+    "https://fjr.co.jp/company/business.html",
+    "https://www.atengineer.com/pr/fjr/company",
+    "https://compalyze.co.jp/company/8110001014641",
+    "https://eigyo-mfg.com/service/navi/company/jNo12AENouKJ",
+    "https://www.sanjo-kogyokai.or.jp/member/kanagata/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%83%AC%E3%83%A1%E3%83%83%E3%82%AF",
+    "https://www.fjr.co.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "フジレメック お問い合わせ メール",
+   "results": [
+    "https://fjr.co.jp/contact/",
+    "https://mono.ipros.com/company/detail/2067760/",
+    "https://metoree.com/companies/20874/",
+    "https://www.kenou-kanagata.or.jp/member/%E3%83%95%E3%82%B8%E3%83%AC%E3%83%A1%E3%83%83%E3%82%AF/",
+    "https://www.niigata-job.ne.jp/2027/c/company.html?cmp_id=800",
+    "https://www.fujipream.co.jp/contact/",
+    "https://www.fujioh.com/support",
+    "https://fj-tec.co.jp/contact/contact.html",
+    "https://www.shinkumi.jp/ssl/2062s/contact/mailform.php",
+    "https://www.fjr.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com フジレメック",
+   "results": [
+    "https://note.com/naoya_note3000/all",
+    "https://note.com/apotheke_umschau/n/nb14e50bac27d",
+    "https://tales.note.com/",
+    "https://note.com/open_thyme3934/n/n9b05513c5d6a",
+    "https://note.com/ynofilm/n/ncdf45de04fe0",
+    "https://note.com/businessreferee/n/nb8c84350d0fc",
+    "https://note.com/atoyomi_note/n/nf1215d3586dd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com フジレメック",
+   "results": [
+    "https://x.com/fismec",
+    "https://x.com/kamimae_hiroki/status/2120086719718715409",
+    "https://x.com/FerencFricsay2/status/2119374864746221619",
+    "https://x.com/fice_ltd",
+    "https://x.com/fabondesu/status/2120115717404250434",
+    "https://x.com/KaranVtuber/status/2104002948405805115",
+    "https://x.com/ssc_hideiyo/status/2118987186540597332"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com フジレメック",
+   "results": [
+    "https://jp.linkedin.com/in/fuji-retina-b500192a7",
+    "https://www.linkedin.com/check/en",
+    "https://zm.linkedin.com/jobs/フジレメック　口コミ-jobs?countryRedirected=1",
+    "https://www.linkedin.com/",
+    "https://ro.linkedin.com/in/ana-cristina-varga-0376257b",
+    "https://jp.linkedin.com/pulse/血管アクセス市場の戦略的見通し主要な促進要因成長トレンドおよび2033までの収益予測81のc-7523549450636648448-nmyje",
+    "https://cd.linkedin.com/in/advu-s-joshua-malonda-327a50331"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com フジレメック",
+   "results": [
+    "https://www.facebook.com/FACTORY.GEAR/videos/%E4%BB%8A%E5%B9%B4%E3%82%82%E3%82%84%E3%82%8A%E3%81%BE%E3%81%99%E5%B7%A5%E5%85%B7%E5%A5%BD%E3%81%8D%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E4%B8%80%E5%A4%A7%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%AE%E3%82%A2%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF%E9%96%8B%E5%82%AC%E6%B1%BA%E5%AE%9Ahttpsf-gearcojpshops-newsshop-tokyo58753%E4%BC%9A%E5%A0%B4%E5%A4%A9%E7%8E%8B%E6%B4%B2%E3%82%A2%E3%82%A4%E3%83%AB-/1266041241692237/",
+    "https://www.facebook.com/FACTORY.GEAR/videos/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%AE%E3%82%A2tv%E5%B7%A5%E5%85%B7%E5%A5%BD%E3%81%8D%E6%9C%AC%E6%97%A5%E5%A4%9C7%E6%99%82%E5%85%AC%E9%96%8B%EF%B8%8F-%E3%81%82%E3%81%AE%E6%A8%A1%E5%9E%8B%E7%94%A8%E3%83%8B%E3%83%83%E3%83%91%E3%83%BC%E3%81%AF%E3%83%9B%E3%83%B3%E3%83%88%E3%81%AB%E5%87%84%E3%81%84%E3%81%AE%E3%81%8B-1%E9%A6%AC%E5%8A%9B%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%B5%E3%83%BC%E3%81%A7%E3%83%97%E3%83%A9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E5%A1%97%E8%A3%85%E3%81%AF%E5%87%BA%E6%9D%A5%E3%82%8B%E3%81%AE%E3%81%8B-%E9%AB%98%E9%87%8E%E5%80%89%E3%81%8C63%E6%AD%B3%E3%81%AE%E8%AA%95%E7%94%9F%E6%97%A5/1623877658822620/",
+    "https://www.facebook.com/igarashiplirestool/",
+    "https://www.facebook.com/finemolds.co.jp/videos/6%E6%9C%88%E5%86%8D%E7%94%9F%E7%94%A3%E4%BA%88%E5%AE%9A120%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB-%E3%83%97%E3%83%A9%E3%83%A2%E3%83%87%E3%83%AB%E7%AB%8B%E5%BD%A2%E3%81%9F%E3%81%A6%E3%81%8C%E3%81%9F%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%BB%E3%83%B3%E3%82%BF-mkino-v33ihttpfinemoldscojpwwwv33ihtml%E7%89%A7%E9%87%8E%E3%83%95%E3%83%A9%E3%82%A4%E3%82%B9%E8%A3%BD/625396031517307/",
+    "https://www.facebook.com/choutsugai/videos/%E7%87%95%E4%B8%89%E6%9D%A1%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%A1%E3%83%83%E3%82%BB%E9%96%8B%E5%B9%95%E6%9C%AC%E6%97%A522%E6%97%A5%E3%81%AF16%E6%99%82%E3%81%BE%E3%81%A7%E6%98%8E%E6%97%A5%E3%81%AF10%E6%99%82%E3%81%8B%E3%82%8916%E6%99%82%E3%81%BE%E3%81%A7%E5%A4%9A%E5%93%81%E7%A8%AE%E5%B0%91%E9%87%8F%E3%81%8C%E5%BE%97%E6%84%8F%E3%81%AA%E8%9D%B6%E7%95%AA%E8%A3%BD%E9%80%A0%E3%81%A8%E8%9D%B6%E7%95%AA%E3%82%92%E8%B5%B7%E7%82%B9%E3%81%A8%E3%81%99%E3%82%8B%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E4%BC%8A%E8%B1%86%E4%BF%AE%E5%96%84%E5%AF%BA%E3%81%AE%E7%94%BA%E5%B7%A5%E5%A0%B4%E3%82%92pr%E3%81%97%E3%81%BE%E3%81%99%E3%83%96/1472099131648663/",
+    "https://www.facebook.com/igarashiplirestool/posts/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%B8%8F11%E6%9C%8828%E6%97%A5%E3%81%AF%E3%81%84%E3%81%84%E3%83%8B%E3%83%83%E3%83%91%E3%83%BC%E3%81%AE%E6%97%A5%E4%B8%89%E6%9D%A1%E5%B8%82%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B%E3%83%8B%E3%83%83%E3%83%91%E3%83%BC-fes%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99-%E7%87%95%E4%B8%89%E6%9D%A1%E3%81%8C%E8%AA%87%E3%82%8B%E3%83%8B%E3%83%83%E3%83%91%E3%83%BC%E3%82%84%E4%BD%9C%E6%A5%AD%E5%B7%A5%E5%85%B7%E3%81%AE%E5%B1%95%E7%A4%BA%E3%82%92%E3%81%AF%E3%81%98%E3%82%81%E3%83%97%E3%83%A9/1569317191879831/",
+    "https://www.facebook.com/igarashiplirestool/videos/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%EF%B8%8F11%E6%9C%8828%E6%97%A5%E3%81%AF%E3%81%84%E3%81%84%E3%83%8B%E3%83%83%E3%83%91%E3%83%BC%E3%81%AE%E6%97%A5%E4%B8%89%E6%9D%A1%E5%B8%82%E7%AB%8B%E5%A4%A7%E5%AD%A6%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B%E3%83%8B%E3%83%83%E3%83%91%E3%83%BC-fes%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99-%E7%87%95%E4%B8%89%E6%9D%A1%E3%81%8C%E8%AA%87%E3%82%8B%E3%83%8B%E3%83%83%E3%83%91%E3%83%BC%E3%82%84%E4%BD%9C%E6%A5%AD%E5%B7%A5%E5%85%B7%E3%81%AE%E5%B1%95%E7%A4%BA%E3%82%92%E3%81%AF%E3%81%98%E3%82%81%E3%83%97%E3%83%A9/1133119549425037/",
+    "https://www.facebook.com/100004068524413/videos/10%E6%9C%8823%E6%97%A5%E9%87%91%E6%9B%9C%E6%97%A524%E6%97%A5%E5%9C%9F%E6%9B%9C%E6%97%A5%E3%81%AB%E8%A1%8C%E3%82%8F%E3%82%8C%E3%82%8B%E7%A3%90%E7%94%B0%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%95%E3%82%A7%E3%82%B9%E3%81%AE%E3%83%AA%E3%83%8F%E3%83%BC%E3%82%B5%E3%83%AB%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E5%AE%9F%E8%A1%8C%E5%A7%94%E5%93%A1%E3%81%AE%E7%9A%86%E3%81%95%E3%82%93%E3%82%82%E7%84%A1%E6%88%91%E5%A4%A2%E4%B8%AD%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%82%92%E3%81%9C%E3%81%B2%E4%BD%93%E9%A8%93%E3%81%97%E3%81%AB%E6%9D%A5%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/4843505849257520/",
+    "https://www.facebook.com/plamokojo.tw/videos/-%E8%87%AA%E7%94%B1%E8%87%AA%E5%9C%A8%E5%A4%A7%E5%AE%B9%E9%87%8F%E6%94%B6%E7%B4%8D%E9%AB%98%E5%AE%B9%E9%87%8F%E5%B7%A5%E5%85%B7%E6%94%B6%E7%B4%8D%E5%8C%85%E5%8F%B0%E7%81%A3%E9%A0%90%E8%A8%889%E6%9C%88%E4%B8%8B%E6%97%AC%E7%99%BC%E5%94%AE%E5%A4%A7%E5%9E%8B%E5%B7%A5%E5%85%B7%E5%B0%8F%E5%9E%8B%E5%B7%A5%E5%85%B7%E5%85%A8%E9%83%A8%E4%B8%80%E5%80%8B%E6%94%B6%E7%B4%8D%E5%8C%85%E5%B0%B1%E8%83%BD%E6%90%9E%E5%AE%9A%E6%95%AC%E8%AB%8B%E6%9C%9F%E5%BE%85%E4%B8%8A%E5%B8%82%E3%83%97%E3%83%A9%E3%83%A2%E5%90%91%E4%B8%8A%E5%A7%94%E5%93%A1%E4%BC%9A-%E3%83%97%E3%83%A9%E3%83%A2%E5%90%91%E4%B8%8A%E5%A7%94%E5%93%A1%E6%9C%83-%E5%90%91%E4%B8%8A%E5%A7%94%E5%93%A1%E6%9C%83-pla/1346525207262018/",
+    "https://secure.facebook.com/login/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "フジレメック note 社長",
+   "results": [
+    "https://note.com/project23/m/m18108c1c6899",
+    "https://www.fjr.co.jp/",
+    "https://note.com/project23/m/m18108c1c6899/archive/2023-05",
+    "https://www.niigata-job.ne.jp/2027/c/company.html?cmp_id=800",
+    "https://note.com/project23/m/m18108c1c6899/archive/2022-10",
+    "https://www.kenou-kanagata.or.jp/member/%E3%83%95%E3%82%B8%E3%83%AC%E3%83%A1%E3%83%83%E3%82%AF/",
+    "https://note.com/fuchifriend/n/nf0b3fa19c5d4",
+    "https://www.sanjo-kogyokai.or.jp/member/kanagata/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%83%AC%E3%83%A1%E3%83%83%E3%82%AF",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.fjr.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "フジレメック X 投稿",
+   "results": [
+    "https://www.fjr.co.jp/",
+    "https://www.kenou-kanagata.or.jp/member/%E3%83%95%E3%82%B8%E3%83%AC%E3%83%A1%E3%83%83%E3%82%AF/",
+    "https://mono.ipros.com/company/detail/2067760/",
+    "https://www.sanjo-kogyokai.or.jp/member/kanagata/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%95%E3%82%B8%E3%83%AC%E3%83%A1%E3%83%83%E3%82%AF",
+    "https://syukatsu-kaigi.jp/companies/147624/word_mouths",
+    "https://metoree.com/companies/20874/",
+    "https://fjr.co.jp/website.html",
+    "https://www.fujifilm-x.com/ja-jp/sns/",
+    "https://www.fujiinnovation.com/social-media",
+    "https://www.fjr.co.jp/blog/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部10頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部10頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部10頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部10頁・検索9回）"
+ }
+}

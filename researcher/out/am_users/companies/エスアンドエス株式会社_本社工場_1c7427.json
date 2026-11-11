@@ -1,0 +1,461 @@
+{
+ "name": "エスアンドエス株式会社 本社工場",
+ "aliases": [],
+ "context": "ipros_all:単品",
+ "researched_at": "2026-11-11T19:24:06.124634+00:00",
+ "official_url": "http://sands-g.com",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "澤田　修二",
+    "url": "http://sands-g.com/company",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "（本社工場）〒379-2306　群馬県太田市大久保町399-1　　　（新田工場）〒370-0314　群馬県太田市新田市野井町1665-4",
+    "url": "http://sands-g.com/company",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "10名（2019年1月現在）",
+    "url": "http://sands-g.com/company",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "プレス金型製造から培った技術を活かし、大型製缶品から大型特殊鋳造品など多くの分野の製品を加工しています",
+    "url": "http://sands-g.com/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス金型製造から培った技術を活かし、大型製缶品から大型特殊鋳造品など多くの分野の製品を加工しています",
+    "url": "http://sands-g.com/machining",
+    "pass": 1
+   },
+   {
+    "quote": "どんな大きさの製品でも1クレーンで設置できます",
+    "url": "http://sands-g.com/machining",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "弊社の要である自動車プレス金型部品加工の加工技術（単品加工）は群馬県一社一技術に選定されています",
+    "url": "http://sands-g.com/",
+    "pass": 1
+   },
+   {
+    "quote": "長い年月による技術に裏打ちされた単品加工の実績をもとに、エスアンドエスではお客様に信頼される大型加工品をご提供致します",
+    "url": "http://sands-g.com/machining",
+    "pass": 1
+   },
+   {
+    "quote": "一般的に精度の部分でプレス金型部品の単品化は難しいとされ、部品を本体に組み付けて一体加工しているのが現状ですが、弊社では試行錯誤の末、お客様に満足してもらえるものを単品で作り出すことに成功しました",
+    "url": "http://sands-g.com/press",
+    "pass": 1
+   },
+   {
+    "quote": "鋳鋼、鋼材を問わず支給図面/データどおりに製作を行い、精度の高い単品加工技術が必要とされるトリムリスト構造部の切刃も製造できます",
+    "url": "http://sands-g.com/press",
+    "pass": 1
+   },
+   {
+    "quote": "プレス金型の上型刃材の単品加工が群馬県一社一技術に選定される",
+    "url": "http://sands-g.com/company",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "プレス金型製造から培った技術を活かし、大型製缶品から大型特殊鋳造品など多くの分野の製品を加工しています",
+    "url": "http://sands-g.com/",
+    "pass": 1
+   },
+   {
+    "quote": "テーブルサイズ10m×4mの五面門型マシニングセンタで、金型部品加工、ロータリーカム加工、ベース加工など行っています",
+    "url": "http://sands-g.com/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工の中でもロータリーカム加工や金型部品を製造しています",
+    "url": "http://sands-g.com/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の要である自動車プレス金型部品加工の加工技術（単品加工）は群馬県一社一技術に選定されています",
+    "url": "http://sands-g.com/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス金型製造から培った技術を活かし、大型製缶品から大型特殊鋳造品など多くの分野の製品を加工しています",
+    "url": "http://sands-g.com/machining",
+    "pass": 1
+   },
+   {
+    "quote": "自動車のプレス金型や大型装置部品などを手掛けています",
+    "url": "http://sands-g.com/machining",
+    "pass": 1
+   },
+   {
+    "quote": "大型機械加工の中でも自動車プレス金型を制作してきた経験から3Dデータに対応できます",
+    "url": "http://sands-g.com/machining",
+    "pass": 1
+   },
+   {
+    "quote": "セラミック形状に合わせた治具を用いて高精度の加工を実現します",
+    "url": "http://sands-g.com/ceramic",
+    "pass": 1
+   },
+   {
+    "quote": "精度出しの難しいプレス金型部品加工 | エスアンドエス㈱群馬県",
+    "url": "http://sands-g.com/press",
+    "pass": 1
+   },
+   {
+    "quote": "一般的に精度の部分でプレス金型部品の単品化は難しいとされ、部品を本体に組み付けて一体加工しているのが現状ですが、弊社では試行錯誤の末、お客様に満足してもらえるものを単品で作り出すことに成功しました",
+    "url": "http://sands-g.com/press",
+    "pass": 1
+   },
+   {
+    "quote": "プレス金型の上型刃材の単品加工が群馬県一社一技術に選定される",
+    "url": "http://sands-g.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "航空機製作用アルミ治具フレームの加工 | エスアンドエス㈱群馬県",
+    "url": "http://sands-g.com/archives/case/frame4",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "平面研磨加工機を用いたセラミック研磨加工 | エスアンドエス㈱群馬県",
+    "url": "http://sands-g.com/ceramic",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では3台の平面研磨加工機を使い、製紙機械の部品に使われるセラミックの研磨加工をおこなっています",
+    "url": "http://sands-g.com/ceramic",
+    "pass": 1
+   },
+   {
+    "quote": "製紙機械部品に使われるセラミック機器の研磨加工を主としておこなっています",
+    "url": "http://sands-g.com/ceramic",
+    "pass": 1
+   },
+   {
+    "quote": "研磨加工の中でも特に難しいとされるセラミックの研磨加工",
+    "url": "http://sands-g.com/ceramic",
+    "pass": 1
+   },
+   {
+    "quote": "弊社ではセラミックに特化した研磨加工をおこなっており、砥石の選定もそれに合わせておこなっています",
+    "url": "http://sands-g.com/ceramic",
+    "pass": 1
+   },
+   {
+    "quote": "主な材質・・・酸化アルミナ（Al2O3）、窒化珪素（SiN）、炭化珪素（SiC）",
+    "url": "http://sands-g.com/ceramic",
+    "pass": 1
+   },
+   {
+    "quote": "セラミック形状に合わせた治具を用いて高精度の加工を実現します",
+    "url": "http://sands-g.com/ceramic",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "CAD・CAMを導入し3次元加工を始める",
+    "url": "http://sands-g.com/company",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://sands-g.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sands-g.com/archives/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sands-g.com/machining",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sands-g.com/ceramic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sands-g.com/rotarycam",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sands-g.com/press",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sands-g.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sands-g.com/recruit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sands-g.com/equipment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sands-g.com/archives/case/8m%E5%BD%A2%E7%8A%B6%E5%80%A3%E3%81%84%E5%8A%A0%E5%B7%A5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sands-g.com/archives/case/10%EF%BD%8D%E3%83%97%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E8%A7%92%E5%BA%A6%E5%8A%A0%E5%B7%A5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sands-g.com/archives/case/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E7%90%83%E4%BD%93%E3%81%AE%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sands-g.com/archives/case/acrylic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sands-g.com/archives/case/frame4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sands-g.com/archives/case/8m%E5%BD%A2%E7%8A%B6%E5%80%A3%E3%81%84%E5%8A%A0%E5%B7%A5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sands-g.com/archives/case/10%EF%BD%8D%E3%83%97%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E8%A7%92%E5%BA%A6%E5%8A%A0%E5%B7%A5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://sands-g.com/archives/case/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E7%90%83%E4%BD%93%E3%81%AE%E5%88%87%E5%89%8A%E5%8A%A0%E5%B7%A5",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ss-products.wixsite.com/main/home-1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2093492/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sas1212.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ssinc.jp/ja/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sands-21.com/organization.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sands-japan.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sas1212.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aands-company.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エスアンドエス 本社工場 取扱製品 試作 小ロット",
+   "results": [
+    "https://ss-products.wixsite.com/main/home-1",
+    "https://mono.ipros.com/company/detail/2093492/",
+    "http://sands-g.com/company",
+    "https://mono.ipros.com/company/detail/2093492/category/",
+    "https://ja.nc-net.or.jp/company/79761/",
+    "https://www.sas1212.co.jp/",
+    "http://www.ss-board.co.jp/publics/index/6/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "エスアンドエス 本社工場 会社概要 事業内容",
+   "results": [
+    "https://www.sas1212.co.jp/",
+    "https://ssinc.jp/ja/company/",
+    "https://www.sands-21.com/organization.html",
+    "https://www.sas1212.co.jp/information/",
+    "https://sanesu.net/company/",
+    "https://www.sands-japan.com/",
+    "http://www.ss-board.co.jp/publics/index/6/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "エスアンドエス 本社工場 お問い合わせ メール",
+   "results": [
+    "https://www.sands-japan.com/contact/",
+    "https://www.sas1212.co.jp/contact/",
+    "https://www.aands-company.jp/contact/",
+    "https://www.sus-g.co.jp/contact/",
+    "http://sands-g.com/inquiry",
+    "https://ssinc.jp/ja/contact/",
+    "https://www.ss1962.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com エスアンドエス 本社工場",
+   "results": [
+    "https://note.com/",
+    "https://note.com/sas_official/n/n7008349e9773",
+    "https://note.com/hanyo_bob/n/nb84db9a4398a",
+    "https://note.com/moneystudy_me/n/nd712de07f763",
+    "https://note.com/esnet_recruite/n/n4cd22d3c1fe7",
+    "https://note.com/esnet_recruite/n/n98abe65dcb53",
+    "https://note.com/note_spica/n/nd4f859863d85"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com エスアンドエス 本社工場",
+   "results": [
+    "https://x.com/starwarsjapan/status/2116093407919833350",
+    "https://x.com/lililustra/status/2115085722004627462",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/e30_sus",
+    "https://x.com/_ahm3x/status/2114897968415281319",
+    "https://x.com/RyanAFournier/status/2117296789443240367",
+    "https://x.com/CogitoEdu/status/2117911840973861028"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com エスアンドエス 本社工場",
+   "results": [
+    "https://jp.linkedin.com/in/sunhee-lee-475705b9",
+    "https://www.linkedin.com/company/エス・アンド・アイ株式会社",
+    "https://jp.linkedin.com/company/iss-japan",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://www.linkedin.com/company/エス・アンド・アイ（株）",
+    "https://bg.linkedin.com/",
+    "https://bm.linkedin.com/in/slottimore"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com エスアンドエス 本社工場",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "エスアンドエス 本社工場 note 社長",
+   "results": [
+    "https://compalyze.co.jp/company/7010001150704",
+    "https://www.sas1212.co.jp/company/overview.html",
+    "http://sands-g.com/company",
+    "https://www.sands-21.com/organization.html",
+    "https://www.ussnet.co.jp/corporate/management/index.html",
+    "https://www.ss1962.co.jp/about/",
+    "https://compalyze.co.jp/company/2010501028289"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "エスアンドエス 本社工場 X 投稿",
+   "results": [
+    "https://ss-products.co.jp/",
+    "http://sands-g.com/",
+    "https://www.sas1212.co.jp/",
+    "https://www.ss1962.co.jp/",
+    "https://www.sands-japan.com/",
+    "https://www.ss-multi.co.jp/",
+    "https://x.com/Xcorpjp"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部8頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部8頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部8頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部8頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部8頁・検索9回）"
+ }
+}

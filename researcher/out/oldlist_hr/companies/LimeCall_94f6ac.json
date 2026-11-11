@@ -1,0 +1,1341 @@
+{
+ "name": "LimeCall",
+ "aliases": [],
+ "context": "旧営業リスト｜AI SDR｜未接触",
+ "researched_at": "2026-11-11T18:24:36.909031+00:00",
+ "official_url": "https://limecall.com/",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "AI talk minutes / mo",
+    "value": "400 1,500 4,000",
+    "url": "https://limecall.com/pricing/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "Email",
+    "value": "",
+    "url": "https://limecall.com/pricing/",
+    "pass": 1
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2018 Founded",
+    "url": "https://limecall.com/about-us/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Priya M. · +1 (415) 555-0188",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "It checks real availability and books the slot while the caller is still on the phone. Prefer to keep control? Turn booking off and it captures the request with a preferred time instead.",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Territory, product, language or who is actually free — the caller is put through to the rep who can help, and warm-transferred with the context already gathered.",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inbound · Enterprise · DE",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Können wir das auf Deutsch besprechen?",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "— Waiting for your approval",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Waiting for your approval",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI qualifies leads before they reach a rep",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See leads by channel across Google Ads, Meta and organic",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leads go to whoever answers first. LimeCall answers every time, on every channel.",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LimeCall is an AI receptionist that answers your business calls, website chat, WhatsApp and SMS 24/7. It qualifies leads, books appointments, calls website visitors back in about 28 seconds and tracks every lead to the campaign that brought it in.",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most businesses are live the same day. LimeCall learns from your website, you add your FAQs and booking calendar, then forward your number or add the chat widget with one snippet. It works with WordPress, Webflow, Shopify and any HTML site.",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales guides, conversion tips, and product news.",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Answering Service Cost (2026): Live vs AI, Real Prices",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What an answering service really costs in 2026, from live per-minute and per-call plans to AI receptionists and hiring in-house, with vendor prices and the arithmetic at 50, 200 and 500 calls a month.",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner With LimeCall — Agency & Technology Partner Program",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Join 200+ agency and technology partners earning recurring revenue while helping their clients convert more leads into calls. 30% revenue share, dedicated manager, co-marketing included.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "View Affiliate Program",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing and sales agencies that recommend LimeCall to clients, implement the platform, and earn recurring revenue share on every account they bring in. Ideal for agencies focused on lead generation, conversion rate optimisation, or sales enablement.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-branded proposal templates",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Priority technical support",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS platforms, CRMs, marketing tools, and analytics providers that integrate with LimeCall to offer a more complete solution to shared customers. Listed in the LimeCall integration directory with joint go-to-market support.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-marketing campaigns",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Shared product roadmap access",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Regional resellers and value-added resellers (VARs) who want to include LimeCall in their product portfolio. Full white-glove onboarding, training, and account management support to help you grow your LimeCall customer base.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller training program",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom pricing for your clients",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Get featured in LimeCall marketing campaigns, case studies, and the partner directory. Joint webinars, blog posts, and social promotion available.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Training & Certification",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Access the LimeCall Partner Academy with product training, sales enablement content, and a partner certification you can display to clients.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Once approved, you get access to the Partner Academy, your unique partner link, and a kickoff call with your dedicated partner manager to plan your first 90 days.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "There are no minimum revenue or client count requirements to apply. We look for partners who serve businesses with active sales or marketing teams, and who are genuinely committed to helping clients improve their lead conversion. Agencies, consultants, SaaS companies, and resellers are all welcome.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "All partners get a dedicated partner manager, access to the Partner Academy training content, a partner Slack channel, and priority technical support. Agency and reseller partners also get co-marketing support and access to proposal templates.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label options are available for reseller partners who meet volume thresholds. Contact the partnerships team to discuss white-label pricing and branding requirements for your specific use case.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Partners get access to a real-time dashboard showing all referred accounts, their subscription status, monthly recurring revenue attributed to your partnership, and commission earned to date. Payouts are processed monthly via PayPal or bank transfer.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Handle high call volume on a busy salon floor without stopping work or hiring a receptionist.",
+    "url": "https://limecall.com/ai-receptionist-for/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect paid studio time from interruptions while still capturing new enquiries.",
+    "url": "https://limecall.com/ai-receptionist-for/",
+    "pass": 1
+   },
+   {
+    "quote": "AI receptionist for property managers →",
+    "url": "https://limecall.com/ai-receptionist-for/",
+    "pass": 1
+   },
+   {
+    "quote": "Separate prospects, job applicants and operational calls before they reach your team.",
+    "url": "https://limecall.com/ai-receptionist-for/",
+    "pass": 1
+   },
+   {
+    "quote": "AI receptionist for training providers →",
+    "url": "https://limecall.com/ai-receptionist-for/",
+    "pass": 1
+   },
+   {
+    "quote": "Capture candidate and client calls simultaneously, across time zones, with clean records.",
+    "url": "https://limecall.com/ai-receptionist-for/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect quiet, precision work from phone interruptions without losing the enquiry.",
+    "url": "https://limecall.com/ai-receptionist-for/",
+    "pass": 1
+   },
+   {
+    "quote": "Not on the list? The product is the same — you train it on your own services and rules.",
+    "url": "https://limecall.com/ai-receptionist-for/",
+    "pass": 1
+   },
+   {
+    "quote": "Every industry above runs on one product. What changes is what it knows and when it interrupts you.",
+    "url": "https://limecall.com/ai-receptionist-for/",
+    "pass": 1
+   },
+   {
+    "quote": "It learns your services and prices from your website, answers only from what you have confirmed, and takes a message rather than guessing when it is unsure.",
+    "url": "https://limecall.com/ai-receptionist-for/",
+    "pass": 1
+   },
+   {
+    "quote": "An AI receptionist answers your business phone the way a front-desk person would: it greets the caller, answers questions about your services, hours and prices, books an appointment or captures the enquiry, and hands you a recording, transcript and summary afterwards. It works 24/7 and never puts anyone on hold.",
+    "url": "https://limecall.com/ai-receptionist-for/",
+    "pass": 1
+   },
+   {
+    "quote": "Any business where the phone rings while your hands are busy — salons, spas, clinics, plumbing and specialty trades, recording studios, lettings and property management, security firms, training providers, venues and recruitment. Each has a page written for its own calls.",
+    "url": "https://limecall.com/ai-receptionist-for/",
+    "pass": 1
+   },
+   {
+    "quote": "The product is the same regardless of trade — you train it on your own services, prices and rules, so it fits any business that takes booking or enquiry calls. Start with the closest page, or go straight to the main AI receptionist page.",
+    "url": "https://limecall.com/ai-receptionist-for/",
+    "pass": 1
+   },
+   {
+    "quote": "About five minutes. It reads your website and builds a first draft of the receptionist, you check what it found and set your hours and escalation rules, then forward your number. You can call it yourself before telling a single customer about it.",
+    "url": "https://limecall.com/ai-receptionist-for/",
+    "pass": 1
+   },
+   {
+    "quote": "Real estate, SaaS, travel, finance, e-commerce, healthcare. Wherever inbound phone leads matter, LimeCall routes each one to the right person in under 28 seconds.",
+    "url": "https://limecall.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn property browsers into booked viewings",
+    "url": "https://limecall.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Convert financial leads before they go cold",
+    "url": "https://limecall.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS companies use LimeCall to activate trial users, book product demos, and convert high-intent enterprise visitors before they evaluate a competitor.",
+    "url": "https://limecall.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Answer product questions instantly, help hesitant buyers commit, and handle post-purchase support, all with a callback widget on your store.",
+    "url": "https://limecall.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Convert prospective students and parents",
+    "url": "https://limecall.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Enrollment enquiries, course questions, and admissions support, handled instantly by the right advisor. Never lose a prospective student to a slow response.",
+    "url": "https://limecall.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Instant callbacks from pricing and product pages",
+    "url": "https://limecall.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Slack alerts when new leads arrive",
+    "url": "https://limecall.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Facebook and Google Ads conversion tracking",
+    "url": "https://limecall.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect inbound leads to reps in 28 seconds.",
+    "url": "https://limecall.com/use-cases/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 700+ teams worldwide",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams who can't afford a missed call",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Airlines, tour operators, hotels, transfer services. LimeCall serves every segment of the travel and aviation industry.",
+    "url": "https://limecall.com/use-cases/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "No hold music, no voicemail, no \"we're closed\". It greets the caller in your business's voice and handles the conversation — including the ones that arrive at 11pm on a Sunday.",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join 200+ agency and technology partners earning recurring revenue while helping their clients convert more leads into calls. 30% revenue share, dedicated manager, co-marketing included.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing and sales agencies that recommend LimeCall to clients, implement the platform, and earn recurring revenue share on every account they bring in. Ideal for agencies focused on lead generation, conversion rate optimisation, or sales enablement.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue share on all referred clients",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS platforms, CRMs, marketing tools, and analytics providers that integrate with LimeCall to offer a more complete solution to shared customers. Listed in the LimeCall integration directory with joint go-to-market support.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Earn 30% recurring revenue share on every LimeCall customer you refer or manage. Commission applies for the lifetime of the customer.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time visibility into your referrals, revenue share, and client health scores. Know exactly what is performing and where to focus.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "There are no minimum revenue or client count requirements to apply. We look for partners who serve businesses with active sales or marketing teams, and who are genuinely committed to helping clients improve their lead conversion. Agencies, consultants, SaaS companies, and resellers are all welcome.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "How does the revenue share work?",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Partners get access to a real-time dashboard showing all referred accounts, their subscription status, monthly recurring revenue attributed to your partnership, and commission earned to date. Payouts are processed monthly via PayPal or bank transfer.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Free to join · 30% revenue share · Dedicated partner manager",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "What if my industry is not listed?",
+    "url": "https://limecall.com/ai-receptionist-for/",
+    "pass": 1
+   },
+   {
+    "quote": "Slack alerts when new leads arrive",
+    "url": "https://limecall.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "You pay to get traffic. LimeCall makes sure that traffic converts. Track which campaigns drive callbacks, attribute revenue accurately, and stop optimizing for clicks.",
+    "url": "https://limecall.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Track which campaigns drive callbacks and revenue.",
+    "url": "https://limecall.com/use-cases/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. However the call was arranged, the same rule applies — a rep and a lead, connected, past ten seconds.",
+    "url": "https://limecall.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Porting is available on Starter, Team and Business. $20 per number, charged when you submit the transfer. Annual plans get the first transfer free (one per account). Refunded automatically if the carrier confirms the number did not port.",
+    "url": "https://limecall.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, numbers can be ported in. It costs $20 per number, charged when you submit the transfer. Annual plans get the first transfer free (one per account). If the carrier confirms the number did not port, the fee is refunded automatically. Until the port completes your new number works alongside it, so nothing goes unanswered.",
+    "url": "https://limecall.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "The demo request that arrives at 16:58 on a Friday",
+    "url": "https://limecall.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Making phone conversations the fastest path to revenue",
+    "url": "https://limecall.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "conversation costs businesses billions in lost revenue every year. We built the platform to",
+    "url": "https://limecall.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Four product areas, one platform for turning conversations into revenue.",
+    "url": "https://limecall.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Attribute every phone call to the marketing campaign, keyword, or page that drove it. Know exactly what generates revenue.",
+    "url": "https://limecall.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We measure our success by our customers’ outcomes. Revenue generated, leads converted, and deals closed — those are the numbers that matter to us.",
+    "url": "https://limecall.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "customer outcomes. If you want to build products that directly move business revenue, we",
+    "url": "https://limecall.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "No. LimeCall is privately held. This lets us focus entirely on our customers and product without the pressure of quarterly earnings cycles. We are funded by the revenue our customers generate with the platform.",
+    "url": "https://limecall.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty and product issue calls require specialist knowledge. LimeCall routes to the right team instantly and logs every interaction for compliance.",
+    "url": "https://limecall.com/customer-services/",
+    "pass": 1
+   },
+   {
+    "quote": "The demo request that arrives at 16:58 on a Friday | Website Callback story | LimeCall",
+    "url": "https://limecall.com/customers/saas-pricing-page-callback/",
+    "pass": 1
+   },
+   {
+    "quote": "The demo request that arrives at 16:58 on a Friday",
+    "url": "https://limecall.com/customers/saas-pricing-page-callback/",
+    "pass": 1
+   },
+   {
+    "quote": "Reps open a call that already carries the page it came from.",
+    "url": "https://limecall.com/customers/saas-pricing-page-callback/",
+    "pass": 1
+   },
+   {
+    "quote": "US carrier registration (10DLC)",
+    "url": "https://docs.limecall.com/virtual-numbers/devices",
+    "pass": 3
+   },
+   {
+    "quote": "- Carry your sales data where ever you go, anywhere, and any time",
+    "url": "https://play.google.com/store/apps/details?id=com.limecall&hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. However the call was arranged, the same rule applies — a rep and a lead, connected, past ten seconds.",
+    "url": "https://www.limecall.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Porting is available on Starter, Team and Business. $20 per number, charged when you submit the transfer. Annual plans get the first transfer free (one per account). Refunded automatically if the carrier confirms the number did not port.",
+    "url": "https://www.limecall.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, numbers can be ported in. It costs $20 per number, charged when you submit the transfer. Annual plans get the first transfer free (one per account). If the carrier confirms the number did not port, the fee is refunded automatically. Until the port completes your new number works alongside it, so nothing goes unanswered.",
+    "url": "https://www.limecall.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Join 200+ agency and technology partners earning recurring revenue while helping their clients convert more leads into calls. 30% revenue share, dedicated manager, co-marketing included.",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and sales agencies that recommend LimeCall to clients, implement the platform, and earn recurring revenue share on every account they bring in. Ideal for agencies focused on lead generation, conversion rate optimisation, or sales enablement.",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue share on all referred clients",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS platforms, CRMs, marketing tools, and analytics providers that integrate with LimeCall to offer a more complete solution to shared customers. Listed in the LimeCall integration directory with joint go-to-market support.",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Earn 30% recurring revenue share on every LimeCall customer you refer or manage. Commission applies for the lifetime of the customer.",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time visibility into your referrals, revenue share, and client health scores. Know exactly what is performing and where to focus.",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "There are no minimum revenue or client count requirements to apply. We look for partners who serve businesses with active sales or marketing teams, and who are genuinely committed to helping clients improve their lead conversion. Agencies, consultants, SaaS companies, and resellers are all welcome.",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "How does the revenue share work?",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Partners get access to a real-time dashboard showing all referred accounts, their subscription status, monthly recurring revenue attributed to your partnership, and commission earned to date. Payouts are processed monthly via PayPal or bank transfer.",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Free to join · 30% revenue share · Dedicated partner manager",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Making phone conversations the fastest path to revenue",
+    "url": "https://www.limecall.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "conversation costs businesses billions in lost revenue every year. We built the platform to",
+    "url": "https://www.limecall.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Four product areas, one platform for turning conversations into revenue.",
+    "url": "https://www.limecall.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Attribute every phone call to the marketing campaign, keyword, or page that drove it. Know exactly what generates revenue.",
+    "url": "https://www.limecall.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "We measure our success by our customers’ outcomes. Revenue generated, leads converted, and deals closed — those are the numbers that matter to us.",
+    "url": "https://www.limecall.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "customer outcomes. If you want to build products that directly move business revenue, we",
+    "url": "https://www.limecall.com/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "No. LimeCall is privately held. This lets us focus entirely on our customers and product without the pressure of quarterly earnings cycles. We are funded by the revenue our customers generate with the platform.",
+    "url": "https://www.limecall.com/about-us/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "No hold music, no voicemail, no \"we're closed\". It greets the caller in your business's voice and handles the conversation — including the ones that arrive at 11pm on a Sunday.",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why an AI receptionist beats voicemail and contact forms",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail nobody hears until morning",
+    "url": "https://limecall.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Day, night, weekends and during the call you are already on. No hold music, no voicemail.",
+    "url": "https://limecall.com/ai-receptionist-for/",
+    "pass": 1
+   },
+   {
+    "quote": "How many callers the AI can talk to at the same time. Callers beyond that are held or sent to voicemail, not dropped.",
+    "url": "https://limecall.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent voicemail",
+    "url": "https://limecall.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Post-call SMS, email and WhatsApp actions",
+    "url": "https://limecall.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Two at a time on Starter, five on Growth and ten on Scale. Callers beyond that are held or sent to voicemail rather than dropped.",
+    "url": "https://limecall.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail and voicemail transcripts",
+    "url": "https://limecall.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail and transcripts",
+    "url": "https://limecall.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Transfer US and Canadian numbers yourself from the dashboard. It usually takes 7–14 days. For numbers in other countries, email support first.",
+    "url": "https://limecall.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail: toilet running constantly",
+    "url": "https://limecall.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "A voicemail that actually talks",
+    "url": "https://limecall.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "After every service call, LimeCall automatically sends a CSAT survey to the customer via SMS or email. The survey is sent within minutes of call completion. Scores and feedback are captured in the LimeCall dashboard and tied to the agent, call recording, and customer record for full context.",
+    "url": "https://limecall.com/customer-services/",
+    "pass": 1
+   },
+   {
+    "quote": "A form becomes an email, an email becomes a task, and a Friday-afternoon task becomes a Monday call.",
+    "url": "https://limecall.com/customers/saas-pricing-page-callback/",
+    "pass": 1
+   },
+   {
+    "quote": "4. Start receiving inbound lead notifications and respond to your prospects and customers instantly through calls, sms, whatsapp or email.",
+    "url": "https://play.google.com/store/apps/details?id=com.limecall&hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "How many callers the AI can talk to at the same time. Callers beyond that are held or sent to voicemail, not dropped.",
+    "url": "https://www.limecall.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligent voicemail",
+    "url": "https://www.limecall.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Post-call SMS, email and WhatsApp actions",
+    "url": "https://www.limecall.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Two at a time on Starter, five on Growth and ten on Scale. Callers beyond that are held or sent to voicemail rather than dropped.",
+    "url": "https://www.limecall.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Voicemail and voicemail transcripts",
+    "url": "https://www.limecall.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Voicemail and transcripts",
+    "url": "https://www.limecall.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Transfer US and Canadian numbers yourself from the dashboard. It usually takes 7–14 days. For numbers in other countries, email support first.",
+    "url": "https://www.limecall.com/pricing/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Partner With LimeCall — Agency & Technology Partner Program",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing and sales agencies that recommend LimeCall to clients, implement the platform, and earn recurring revenue share on every account they bring in. Ideal for agencies focused on lead generation, conversion rate optimisation, or sales enablement.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label reporting options",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Regional resellers and value-added resellers (VARs) who want to include LimeCall in their product portfolio. Full white-glove onboarding, training, and account management support to help you grow your LimeCall customer base.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller training program",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "How to become a partner",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "There are no minimum revenue or client count requirements to apply. We look for partners who serve businesses with active sales or marketing teams, and who are genuinely committed to helping clients improve their lead conversion. Agencies, consultants, SaaS companies, and resellers are all welcome.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "All partners get a dedicated partner manager, access to the Partner Academy training content, a partner Slack channel, and priority technical support. Agency and reseller partners also get co-marketing support and access to proposal templates.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label options are available for reseller partners who meet volume thresholds. Contact the partnerships team to discuss white-label pricing and branding requirements for your specific use case.",
+    "url": "https://limecall.com/partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "White-label, SSO & auto-delete recordings (add-ons)",
+    "url": "https://limecall.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Your branding (white-label)",
+    "url": "https://limecall.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "- Marketing Agencies & Services",
+    "url": "https://play.google.com/store/apps/details?id=com.limecall&hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "White-label, SSO & auto-delete recordings (add-ons)",
+    "url": "https://www.limecall.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Your branding (white-label)",
+    "url": "https://www.limecall.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner With LimeCall — Agency & Technology Partner Program",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and sales agencies that recommend LimeCall to clients, implement the platform, and earn recurring revenue share on every account they bring in. Ideal for agencies focused on lead generation, conversion rate optimisation, or sales enablement.",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label reporting options",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Regional resellers and value-added resellers (VARs) who want to include LimeCall in their product portfolio. Full white-glove onboarding, training, and account management support to help you grow your LimeCall customer base.",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller training program",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "How to become a partner",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "There are no minimum revenue or client count requirements to apply. We look for partners who serve businesses with active sales or marketing teams, and who are genuinely committed to helping clients improve their lead conversion. Agencies, consultants, SaaS companies, and resellers are all welcome.",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "All partners get a dedicated partner manager, access to the Partner Academy training content, a partner Slack channel, and priority technical support. Agency and reseller partners also get co-marketing support and access to proposal templates.",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "White-label options are available for reseller partners who meet volume thresholds. Contact the partnerships team to discuss white-label pricing and branding requirements for your specific use case.",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Limecall - LinkedIn — Limecall - LinkedIn LinkedIn https://www.linkedin.com > limecallapp",
+    "url": "https://www.linkedin.com/company/limecallapp",
+    "pass": 3
+   },
+   {
+    "quote": "Read Customer Service Reviews of limecall .com - Trustpilot — Read Customer Service Reviews of limecall .com - Trustpilot Trustpilot https://www.trustpilot.com > limecall",
+    "url": "https://www.trustpilot.com/review/limecall.com",
+    "pass": 3
+   },
+   {
+    "quote": "Devices - LimeCall Documentation — Devices - LimeCall Documentation LimeCall https://docs.limecall.com > devices",
+    "url": "https://docs.limecall.com/virtual-numbers/devices",
+    "pass": 3
+   },
+   {
+    "quote": "Limecall : Lead Management App - Google Play のアプリ — Limecall : Lead Management App - Google Play のアプリ Google Play https://play.google.com > store > apps > details > id=com.l...",
+    "url": "https://play.google.com/store/apps/details?id=com.limecall&hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Limephone & limecall : r/VOIP - Reddit — Limephone & limecall : r/VOIP - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/VOIP/comments/1mttor5/limephone_limecall/",
+    "pass": 3
+   },
+   {
+    "quote": "AI answering, website callbacks and business phone - LimeCall — AI answering, website callbacks and business phone - LimeCall LimeCall https://www.limecall.com > Pricing",
+    "url": "https://www.limecall.com/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner With LimeCall — Agency & Technology Partner Program — Partner With LimeCall — Agency & Technology Partner Program LimeCall https://www.limecall.com > partnership",
+    "url": "https://www.limecall.com/partnership/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us — The Company Behind LimeCall — About Us — The Company Behind LimeCall LimeCall https://www.limecall.com > about-us",
+    "url": "https://www.limecall.com/about-us/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Limecall - LinkedIn Limecall - LinkedIn LinkedIn https://www.linkedin.com > limecallapp",
+    "url": "https://www.linkedin.com/company/limecallapp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Lime Call (@limecallapp) - Facebook Lime Call (@limecallapp) - Facebook Facebook https://www.facebook.com > ... > Other > Brand > Software",
+    "url": "https://www.facebook.com/limecallapp/",
+    "pass": 3
+   },
+   {
+    "quote": "BBQ AMD LIME CALL BIG BREEZE - Facebook BBQ AMD LIME CALL BIG BREEZE - Facebook Facebook https://www.facebook.com > bbq-amd-lime-call-big-breeze",
+    "url": "https://www.facebook.com/events/guyana-georgetown-guyana/bbq-amd-lime-call-big-breeze/851813346554748/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://limecall.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limecall.com/partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limecall.com/ai-receptionist-for/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limecall.com/use-cases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limecall.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limecall.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limecall.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limecall.com/customer-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limecall.com/customers/saas-pricing-page-callback/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loopbound.proguide.co.jp/posts/Rv8b8jak",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.goo-net.com/magazine/cartopic/event-report/294321/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ramico.co.jp/partner/recruitment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biz.ne.jp/list/corporate-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/limecallapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.trustpilot.com/review/limecall.com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://docs.limecall.com/virtual-numbers/devices",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://play.google.com/store/apps/details?id=com.limecall&hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.athenaswc.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.madcapsoftware.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vK-Yl8ExC_QguOPUpDn09ocNyis4x89-P6iibupMyErSnKh4SMn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limecall.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limecall.com/partnership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limecellular.com/reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.limecall.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/limecallapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/lemlist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaps.com/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/limecallapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/limecallapp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/events/guyana-georgetown-guyana/bbq-amd-lime-call-big-breeze/851813346554748/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "LimeCall 日本 導入",
+   "results": [
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://loopbound.proguide.co.jp/posts/Rv8b8jak",
+    "https://www.goo-net.com/magazine/cartopic/event-report/294321/",
+    "https://www.li.me/ja-jp/blog/%E3%82%A2%E3%82%B8%E3%82%A2%E5%88%9D%E5%B0%8E%E5%85%A5-limebike-%E6%97%A5%E6%9C%AC%E3%81%A7%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B-%E7%AC%AC%E4%B8%80%E5%BC%BE%E3%81%A8%E3%81%97%E3%81%A6%E6%9D%B1%E4%BA%AC16%E5%8C%BA%E3%81%A7%E9%A0%86%E6%AC%A1%E9%85%8D%E5%82%99-%E6%97%A5%E5%B8%B8%E3%81%8B%E3%82%89%E8%A6%B3%E5%85%89%E3%81%BE%E3%81%A7-%E9%83%BD%E5%B8%82%E3%81%AE%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AF%E3%83%B3%E3%83%9E%E3%82%A4%E3%83%AB%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B",
+    "https://www.netdenjd.com/archives/708202",
+    "https://www.facebook.com/bestcarweb/posts/%E3%82%B9%E3%83%86%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%8C%E7%B1%B3%E5%9B%BD%E8%A3%BD%E8%87%AA%E5%8B%95%E8%BB%8A%E8%AA%8D%E5%AE%9A%E5%88%B6%E5%BA%A6%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%A6%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%83%A9%E3%83%A0%E3%81%AE2027%E5%B9%B4%E3%81%AE%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5%E3%82%92%E7%99%BA%E8%A1%A8-%E3%82%84%E3%81%A3%E3%81%B1%E3%82%8A%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3v8%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%81%AF%E3%82%B7%E3%83%93%E3%82%8C%E3%82%8B%E3%81%9C%E3%82%B8%E3%83%BC%E3%83%97-%E3%82%B9/1406792421438022/",
+    "https://www.nikkei.com/article/DGXZQOUC047AA0U6A101C2000000/",
+    "https://webcatalog.io/ja/apps/limecall",
+    "https://limecall.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "LimeCall 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.ramico.co.jp/partner/recruitment/",
+    "https://www.biz.ne.jp/list/corporate-agency/",
+    "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "https://www.japan-port.com/news/374/",
+    "https://alpc.tokyo/pages/business-d2c",
+    "https://limehair.jp/lime-ec-agency-form",
+    "https://bizresearch.net/prod/446",
+    "https://limecall.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "LimeCall Japan",
+   "results": [
+    "https://www.linkedin.com/company/limecallapp",
+    "https://www.trustpilot.com/review/limecall.com",
+    "https://docs.limecall.com/virtual-numbers/devices",
+    "https://play.google.com/store/apps/details?id=com.limecall&hl=ja",
+    "https://www.reddit.com/r/VOIP/comments/1mttor5/limephone_limecall/",
+    "https://lca-forum.org/english/lime/",
+    "https://limeresorts.com/myoko/en",
+    "https://moshimoshi81.com/international-calls/Japan?srsltid=AYCX9vIybWD_SNta7qFrwN2QG885xVSj-P08uk2TnYP6AtXTSc6h7kDe",
+    "https://all.accor.com/hotel/C5R4/index.en.shtml",
+    "https://limecall.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "LimeCall manufacturing customer case study",
+   "results": [
+    "https://www.athenaswc.com/case-studies/",
+    "https://www.madcapsoftware.com/case-studies/",
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vK-Yl8ExC_QguOPUpDn09ocNyis4x89-P6iibupMyErSnKh4SMn",
+    "https://www.limecall.com/pricing/",
+    "https://www.l2l.com/case-studies",
+    "https://www.mitel.com/learn/case-studies",
+    "https://kt.team/cases/manufacturing",
+    "https://connect.lime-technologies.com/en/blog/chatbot-case-studies/",
+    "https://kayako.com/blog/5-case-studies-to-improve-your-customer-service/",
+    "https://www.limecall.com/customers/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "LimeCall white label OR reseller OR partner program",
+   "results": [
+    "https://www.limecall.com/partnership/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.limecellular.com/reseller/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.intermedia.com/guides/white-label-communications",
+    "https://telecomreseller.com/2025/10/09/white-label-sms-reseller-solution/",
+    "https://skyswitch.com/blog/become-a-whitelabel-voip-reseller-full-guide/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://sales-label.com/blog/white-label-saas-reseller"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "LimeCall founded funding employees revenue",
+   "results": [
+    "https://www.limecall.com/about-us/",
+    "https://www.linkedin.com/company/limecallapp",
+    "https://getlatka.com/companies/lemlist",
+    "https://gaps.com/finance/",
+    "https://www.linkedin.com/posts/cj-gustafson-13140948_limes-s-1-breakdown-the-18b-scooter-ipo-activity-7475869679446786048--9Xy",
+    "https://growjo.com/company/Lumine_Group",
+    "https://tracxn.com/d/companies/limechat/__JpwMMDaPvQGKqQ5lkbDd3eDn2ySpl6KpCyNljAxi-nE",
+    "https://pitchbook.com/profiles/company/769629-07",
+    "https://www.reveliolabs.com/companies/lime-one-capital/employees",
+    "https://compworth.com/company/limecall"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com LimeCall",
+   "results": [
+    "https://note.com/light_coot554",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/habibee/n/n50a8b6a6ca51",
+    "https://note.com/stargazingwario/n/nd0c2290b0c42",
+    "https://note.com/spaceygoblin/n/n0f0677188638",
+    "https://note.com/muratamasashi/n/n714eb61d1cc7",
+    "https://note.com/tori_1980/n/n21037c205ade"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com LimeCall",
+   "results": [
+    "https://x.com/nicholaselmi",
+    "https://x.com/AkiLeafs",
+    "https://about.x.com/en",
+    "https://help.x.com/en",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/RyanAFournier/status/2117296789443240367",
+    "https://x.com/AndreJanonesMG/status/2115462221673218058",
+    "https://x.com/tamaescence/status/2116905153932804375",
+    "https://x.com/colormejassy/status/2118498768739790880"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com LimeCall",
+   "results": [
+    "https://www.linkedin.com/company/limecallapp",
+    "https://uk.linkedin.com/in/isathish",
+    "https://www.linkedin.com/company/purplerain-inc",
+    "https://eg.linkedin.com/in/mohamed-hamdy-355969159",
+    "https://au.linkedin.com/company/solitarytechnology",
+    "https://www.linkedin.com/company/lime-cellular-llc",
+    "https://pk.linkedin.com/company/khayaban-rehab-center",
+    "https://in.linkedin.com/in/purple-rain-964b04a7",
+    "https://www.linkedin.com/in/wayne-ting-a877405a",
+    "https://www.linkedin.com/products/limecallapp-limecall"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com LimeCall",
+   "results": [
+    "https://www.facebook.com/limecallapp/",
+    "https://www.facebook.com/groups/195865630852629/posts/2630364590736042/",
+    "https://www.facebook.com/events/guyana-georgetown-guyana/bbq-amd-lime-call-big-breeze/851813346554748/",
+    "https://www.facebook.com/gcornsoup/posts/order-bbq-chicken-for-your-next-limecall-764-soupemail-gcornsoupgmailcomtrini-cu/923845375731555/",
+    "https://www.facebook.com/groups/1747395965288274/posts/29859166307017863/",
+    "https://www.facebook.com/100071824040184/videos/come-enjoy-the-weekend-trini-river-lime-call-or-whatsapp-1868462-7564open-now-%EF%B8%8F-/1410780594086444/",
+    "https://www.facebook.com/bdogpocono/posts/soldbulldog10999retail21999mongoose-kids-scan-18-bmx-bikecolor-limecall-to-make-/818995904213887/",
+    "https://www.facebook.com/CowboysEnterpriseInc/photos/-your-freight-our-focus-end-dump-quad-axlewood-chip-haulinglitter-lime-call-or-t/1761562792646134/",
+    "https://www.facebook.com/fairwaystobago/posts/its-wings-friday-at-fairways-make-it-a-lunch-date-or-an-after-work-lime-call-us-/1570614828405503/",
+    "https://www.facebook.com/limecallapp/posts/limecall-is-more-than-just-a-callbacksolutionits-the-complete-solution-for-brand/803145570506921/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "LimeCall note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://note.com/ai_shacho",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://online.nikkei-cnbc.co.jp/vod/58940",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://diamond.jp/articles/-/388572",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "LimeCall X 投稿",
+   "results": [
+    "https://docs.limecall.com/account/usage-and-credits",
+    "https://www.reddit.com/r/VOIP/comments/1mttor5/limephone_limecall/",
+    "https://x.com/Lime_uk",
+    "https://limexltd.com/",
+    "https://github.com/marcotcr/lime",
+    "https://limex.com/",
+    "https://docs.limecall.com/virtual-numbers/devices",
+    "https://www.mdichkou.com/projects/limecall",
+    "https://www.usecarly.com/blog/x-calls/",
+    "https://x.com/LimeCall"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

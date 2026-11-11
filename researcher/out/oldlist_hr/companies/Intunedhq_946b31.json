@@ -1,0 +1,859 @@
+{
+ "name": "Intunedhq",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T19:06:31.487746+00:00",
+ "official_url": "https://intunedhq.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "01-Jan-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Create a scraper for any website - e-commerce, government portals, job boards, or anything else. Intuned Agent is the first AI Agent designed to build and maintain Scrapers. Intuned Agent generates playwright code that will be fast, cheap and predictable when it runs.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intuned Agent - Generate any scraper from a prompt and schema, fix issues with AI when sites change.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover, navigate, and collect data across thousands of pages. Build crawlers that follow links, parse sitemaps, and index content - with built-in stealth, scheduling, and scale.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stealth mode - Anti-detection, proxies, and captcha solving built in",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate internal operations in back-office systems that have no APIs. Intuned runs reliable browser automations for data entry, status checks, form submissions, report downloads, and account updates - with auth, stealth, concurrency, and monitoring built in.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build AI-powered automations that can navigate, interact, and extract from any website. Whether you're building AI agents as a product or using AI to automate scraping and workflows - deploy with built-in stealth, auth, and scale.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Need to support dozens of integrations with services that have no API? Our team builds, runs, and maintains those automations for you, then exposes one reliable API your product can use. You focus on your customer experience; Intuned handles auth, browser flows, site changes, monitoring, and scale.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One API for your team - Intuned wraps every no-API service behind a consistent endpoint your product can call.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Authenticated workflows - Intuned manages sessions and auth state so AI automations can work inside logged-in products and portals.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mix AI with deterministic code - Use models for judgment-heavy steps and code for the parts that need to be fast, cheap, and predictable.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build product integrations with services that do not have APIs. Your users connect their account, Intuned manages authenticated browser sessions, and your product gets a reliable API for reading data, taking actions, and keeping workflows in sync.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "API for your product - Wrap browser and network automation behind a stable endpoint your app can call.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production operations - Handle captchas, retries, concurrency, logs, traces, and monitoring without running browser infrastructure yourself.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Describe what you need — a scraper, RPA workflow, crawler, or any automation — and the agent builds it as production-ready code.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One click from a failed run. The agent reads the error, analyzes traces, and writes a fix.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything you need to run browser automations in production. Built in, not bolted on.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stealth mode, automatic captcha solving, and proxy support built in. Run automations without getting blocked.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Products and Services",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering Program Manager, Packaging",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Data Scientist, Marketing Analytics",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering Program Manager, Data Center Operations",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "API-first · No lock-in · Usage-based pricing · Usage monitoring & alerts",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We depend on Intuned for production workloads — thousands of runs a day. The platform handles browser automation flawlessly, and the monitoring is the best we've seen. Browser traces, logs, timing — when something goes wrong, we know exactly why in minutes.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A builder's guide to the bot detection stack: IP and TLS fingerprinting, browser and framework signals, behavioral analysis, and CAPTCHAs, and the specific things that get a legitimate scraper or RPA flow caught.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Webwright writes you a working browser script. The webwright-to-intuned skill turns that craft into a hosted API your product can call, with your logic untouched.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "5 API machines (1 per project)",
+    "url": "https://intunedhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "7-day data retention",
+    "url": "https://intunedhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "25 API machines (5 per project)",
+    "url": "https://intunedhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "30-day data retention",
+    "url": "https://intunedhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For teams with production workloads",
+    "url": "https://intunedhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "100 API machines (15 per project)",
+    "url": "https://intunedhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Volume pricing for runs and AI usage",
+    "url": "https://intunedhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated solutions and onboarding support",
+    "url": "https://intunedhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Custom retention, regions, and compliance setup",
+    "url": "https://intunedhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority architecture reviews and escalation paths",
+    "url": "https://intunedhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Compare pricing, limits, and support across every plan.",
+    "url": "https://intunedhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Max API machines per project/app",
+    "url": "https://intunedhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/intunedhq.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/intunedhq.com",
+    "pass": 3
+   },
+   {
+    "quote": "Intuned 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of data assistant software designed for engineering leaders to gain visibility into their engineering team's processes and proactively address roadblocks.",
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of data assistant software designed for engineering leaders to gain visibility into their engineering team's processes and proactively address roadblocks. The company offers to monitor and alert capabilities on trends in their custom metrics and gives visibility into team processes and workflows to proactively drive change, enabling clients to improve team efficiency.",
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "pass": 3
+   },
+   {
+    "quote": "Intuned’s primary industry is Software Development Applications.",
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "pass": 3
+   },
+   {
+    "quote": "Is Intuned a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "pass": 3
+   },
+   {
+    "quote": "Intuned is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "pass": 3
+   },
+   {
+    "quote": "Tech-focused companies needing reliable data extraction and web automation, including developers and product teams",
+    "url": "https://www.intelpilot.ai/company/intuned/6a028c3ea6715bdc30963866",
+    "pass": 3
+   },
+   {
+    "quote": "Free tier with $5 AI credits, Entry ~$20/mo for 100 browser hours, Mid ~$99/mo for 500 browser hours, Enterprise custom pricing",
+    "url": "https://www.intelpilot.ai/company/intuned/6a028c3ea6715bdc30963866",
+    "pass": 3
+   },
+   {
+    "quote": "Launched through Y Combinator S22 for credibility and network access. Offers freemium model with AI credits to drive adoption. Focuses on developer-friendly tools with Playwright integration. Uses tiered pricing from free to enterprise to capture different market segments.",
+    "url": "https://www.intelpilot.ai/company/intuned/6a028c3ea6715bdc30963866",
+    "pass": 3
+   },
+   {
+    "quote": "Content marketing through company blog sharing pivot story and product updates. Leverages Y Combinator network and alumni connections. Developer-focused approach with technical documentation and integration guides. Partnership mentions with companies like Evaro Studio for case studies.",
+    "url": "https://www.intelpilot.ai/company/intuned/6a028c3ea6715bdc30963866",
+    "pass": 3
+   },
+   {
+    "quote": "Launch of the AI agent platform that builds and maintains production-ready browser automation code.",
+    "url": "https://www.intelpilot.ai/company/intuned/6a028c3ea6715bdc30963866",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Transform and deliver - Normalize records before sending data to your warehouse, app, API endpoint, webhook, or custom destination.",
+    "url": "https://intunedhq.com/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Intuned レビュー：AI が Playwright コードを自動生成するブラウザ自... — コミットする前に、マシンごとまたはジョブごとのコストを確認してください。 Intuned の Web サイト（https://intunedhq.com/）にアクセスして、実際に試してみてください。 サイトを訪問",
+    "url": "https://345tool.com/ja/ai/tool/intunedhq.com",
+    "pass": 3
+   },
+   {
+    "quote": "Intunedhq - Roaster — Hey HN, we're Faisal and Ahmad from Intuned (https://intunedhq.com). We’re building a platform for building, deploying, and maintaining browser automations. ...",
+    "url": "https://roasterhq.com/products/intunedhq",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Intuned Revenue 2024: $5M Est.",
+    "url": "https://getlatka.com/companies/intunedhq.com",
+    "pass": 3
+   },
+   {
+    "quote": "Intuned has not published its revenue. GetLatka estimates it at about $5M a year (June 2024).",
+    "url": "https://getlatka.com/companies/intunedhq.com",
+    "pass": 3
+   },
+   {
+    "quote": "Intuned CEO, founders & employees",
+    "url": "https://getlatka.com/companies/intunedhq.com",
+    "pass": 3
+   },
+   {
+    "quote": "Faisal Ilaiwi founded Intuned in 2022 and runs it as CEO. Intuned had 5 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/intunedhq.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Intuned's revenue?",
+    "url": "https://getlatka.com/companies/intunedhq.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Intuned's revenue at about",
+    "url": "https://getlatka.com/companies/intunedhq.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Intuned have?",
+    "url": "https://getlatka.com/companies/intunedhq.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/intunedhq.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/intunedhq.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/intunedhq.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/intunedhq.com",
+    "pass": 3
+   },
+   {
+    "quote": "Intuned has 10 total employees.",
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "pass": 3
+   },
+   {
+    "quote": "What is Intuned’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Intuned is",
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "pass": 3
+   },
+   {
+    "quote": "Intuned — AI Developer Tools Revenue, Funding & Data | IntelPilot.ai",
+    "url": "https://www.intelpilot.ai/company/intuned/6a028c3ea6715bdc30963866",
+    "pass": 3
+   },
+   {
+    "quote": "$5M ARR",
+    "url": "https://www.intelpilot.ai/company/intuned/6a028c3ea6715bdc30963866",
+    "pass": 3
+   },
+   {
+    "quote": "5-15 employees",
+    "url": "https://www.intelpilot.ai/company/intuned/6a028c3ea6715bdc30963866",
+    "pass": 3
+   },
+   {
+    "quote": "Consistent revenue growth since 2022",
+    "url": "https://www.intelpilot.ai/company/intuned/6a028c3ea6715bdc30963866",
+    "pass": 3
+   },
+   {
+    "quote": "Consistent revenue growth since 2022 launch",
+    "url": "https://www.intelpilot.ai/company/intuned/6a028c3ea6715bdc30963866",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Intuned (@IntunedHQ) on X Intuned (@IntunedHQ). 5 likes. This post walks through how those systems work, layer by layer, from the network connection up to behavioral machine learning. The framing is deliberately from the builder's side: for each layer, what signal the detector reads, and why a legitimate automation often looks robotic enough to get flagged. If you run scrapers, RPA flows, or crawl",
+    "url": "https://x.com/IntunedHQ/status/2062282385228751166",
+    "pass": 3
+   },
+   {
+    "quote": "Kailash on X: \"Recent web work for @IntunedHQ Check https://t ... Post Kailash @kail_designs Recent web work for @IntunedHQ Check intunedhq.com 00:00 Kailash @kail_designs",
+    "url": "https://x.com/kail_designs/status/2048852428553060714",
+    "pass": 3
+   },
+   {
+    "quote": "Intuned (@intuned_ai) / X Introducing Intuned The service you need has no API? Describe what you need — Intuned Agent builds it, runs it at scale, and fixes it when the site changes. Auth, captchas & monitoring handled. intunedhq.com",
+    "url": "https://x.com/intuned_ai",
+    "pass": 3
+   },
+   {
+    "quote": "Your scraper runs perfectly on localhost. You deploy it and ... Your scraper runs perfectly on localhost. You deploy it and start seeing CAPTCHAs you never saw before and you can't bypass them no matter what you do. The reason is you are being marked by A bot detection system. Here is how those systems actually work, layer by layer: Intuned IntunedHQ Jun 3",
+    "url": "https://x.com/IntunedHQ/status/2062282863165440430",
+    "pass": 3
+   },
+   {
+    "quote": "@intunedhq | X The latest posts from @intunedhq",
+    "url": "https://x.com/intunedhq",
+    "pass": 3
+   },
+   {
+    "quote": "Intuned (@IntunedHQ) on X Jun 3, 2026 · Intuned (@IntunedHQ). 5 likes. This post walks through how those systems work, layer by layer, from the network connection up to behavioral machine learning. The framing is deliberately from the builder's side: for each layer, what signal the detector reads, and why a legitimate automation often looks robotic enough to get flagged. If you run scrapers, RPA f",
+    "url": "https://x.com/IntunedHQ/status/2062282385228751166",
+    "pass": 3
+   },
+   {
+    "quote": "Kailash on X: \"Recent web work for @IntunedHQ Check https://t ... Apr 28, 2026 · Post Kailash @kail_designs Recent web work for @IntunedHQ Check intunedhq.com 00:00 Kailash @kail_designs",
+    "url": "https://x.com/kail_designs/status/2048852428553060714",
+    "pass": 3
+   },
+   {
+    "quote": "Intuned (@intuned_ai) / X Oct 8, 2026 · Introducing Intuned The service you need has no API? Describe what you need — Intuned Agent builds it, runs it at scale, and fixes it when the site changes. Auth, captchas & monitoring handled. intunedhq.com",
+    "url": "https://x.com/intuned_ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Intuned | LinkedIn About us Code-first browser automation, built and maintained by AI Website https://intunedhq.com External link for Intuned Industry Data Infrastructure and Analytics Company size 2-10 employees...",
+    "url": "https://na.linkedin.com/company/intunedhq",
+    "pass": 3
+   },
+   {
+    "quote": "Ahmad Ilaiwi - Co-founder at Intuned (YC S22) | LinkedInIntuned Online - LinkedInBrowser Automation in Production with Playwright | Intuned ...How to build authenticated scrapers with Intuned Sessions Co-founder at Intuned (YC S22) · Experience: Intuned (YC S22) · Education: An Najah National University · Location: Palestinian Authority · 500+ connections on LinkedIn. View Ahmad Ilaiwi’s profile o",
+    "url": "https://ps.linkedin.com/in/ahmad-ilaiwi",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://intunedhq.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://intunedhq.com/pricing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://345tool.com/ja/ai/tool/intunedhq.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai.negi-lab.com/posts/intuned-agent-ai-browser-automation-review/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aitoolnet.com/ja/intuned",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/UD%E3%83%AA%E3%83%86%E3%83%BC%E3%83%AB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://roasterhq.com/products/intunedhq",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://na.linkedin.com/company/intunedhq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.infor.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ninjaone.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/intunedhq.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/501454-72",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://indexed.vc/companies/intunedhq",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.intelpilot.ai/company/intuned/6a028c3ea6715bdc30963866",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/IntunedHQ/status/2062282385228751166",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kail_designs/status/2048852428553060714",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/intuned_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IntunedHQ/status/2062282863165440430",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://na.linkedin.com/company/intunedhq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ps.linkedin.com/in/ahmad-ilaiwi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/intunedhq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IntunedHQ/status/2062282385228751166",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kail_designs/status/2048852428553060714",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/intuned_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Intunedhq 日本 導入",
+   "results": [
+    "https://345tool.com/ja/ai/tool/intunedhq.com",
+    "https://ai.negi-lab.com/posts/intuned-agent-ai-browser-automation-review/",
+    "https://www.aitoolnet.com/ja/intuned",
+    "https://intunedhq.com/",
+    "https://intunedhq.com/docs/main/00-getting-started/how-intuned-works",
+    "https://learn.microsoft.com/ja-jp/intune/fundamentals/what-is-intune",
+    "https://learn.microsoft.com/ja-jp/intune/whats-new/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intunedhq 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/UDリテール",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://intunedhq.com/docs/main/00-getting-started/introduction",
+    "https://boostedintl.com/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intunedhq Japan",
+   "results": [
+    "https://roasterhq.com/products/intunedhq",
+    "https://intunedhq.com/",
+    "https://na.linkedin.com/company/intunedhq",
+    "https://intunedhq.com/docs/main/00-getting-started/introduction",
+    "https://intunedhq.com/pricing",
+    "https://intunedhq.com/docs/main/00-getting-started/how-intuned-works",
+    "https://www.facebook.com/IntunedHQ/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intunedhq manufacturing customer case study",
+   "results": [
+    "https://www.infor.com/customer-stories",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.casestudies.com/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://intunedhq.com/blog/intuned-act-3",
+    "https://intunedhq.com/",
+    "https://na.linkedin.com/company/intunedhq"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intunedhq white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intunedhq founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/intunedhq.com",
+    "https://pitchbook.com/profiles/company/501454-72",
+    "https://indexed.vc/companies/intunedhq",
+    "https://www.intelpilot.ai/company/intuned/6a028c3ea6715bdc30963866",
+    "https://startupintros.com/orgs/intuned",
+    "https://www.cbinsights.com/company/intuned",
+    "https://www.crunchbase.com/organization/metrics-shop"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Intunedhq",
+   "results": [
+    "https://note.com/wise_turtle184",
+    "https://note.com/",
+    "https://note.com/chokuzen_note/n/ne21215af1013",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/quick_hound2879/n/nf0d92851264d",
+    "https://note.com/chokuzen_note/n/n446b6ac7d01d",
+    "https://note.com/dobokutorisetsu/n/n0e58e6ebd207"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Intunedhq",
+   "results": [
+    "https://x.com/IntunedHQ/status/2062282385228751166",
+    "https://x.com/kail_designs/status/2048852428553060714",
+    "https://x.com/intuned_ai",
+    "https://x.com/IntunedHQ/status/2062282863165440430",
+    "https://x.com/IntunedHQ/status/2061514867056554078",
+    "https://x.com/intuned_ai/status/2108220857487421779",
+    "https://x.com/intuned"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Intunedhq",
+   "results": [
+    "https://na.linkedin.com/company/intunedhq",
+    "https://www.linkedin.com/company/intuned",
+    "https://ps.linkedin.com/in/ahmad-ilaiwi",
+    "https://www.linkedin.com/company/intuned-online",
+    "https://www.linkedin.com/posts/intunedhq_your-scraper-just-broke-and-you-dont-know-activity-7467281850600898561-a7n9",
+    "https://www.linkedin.com/posts/intunedhq_the-5-layers-to-run-browser-automation-in-activity-7469066484787441675-CVLH",
+    "https://www.linkedin.com/posts/intunedhq_now-you-can-build-authenticated-scrapers-activity-7239642153092542464-keqf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Intunedhq",
+   "results": [
+    "https://www.facebook.com/IntunedHQ/",
+    "https://www.facebook.com/IntunedAir/",
+    "https://www.facebook.com/p/Intunedtm-61572575092723/",
+    "https://www.facebook.com/intunedmedia/",
+    "https://www.facebook.com/IntunedMusicPH/",
+    "https://www.facebook.com/p/intunedofficial-100064021744249/",
+    "https://www.facebook.com/IntunedDigitalMarketing/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intunedhq note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://united.jp/ir/note/note_1.html",
+    "https://na.linkedin.com/company/intunedhq",
+    "https://intunedhq.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intunedhq X 投稿",
+   "results": [
+    "https://x.com/intunedhq",
+    "https://x.com/IntunedHQ/status/2062282385228751166",
+    "https://x.com/kail_designs/status/2048852428553060714",
+    "https://x.com/intuned_ai",
+    "https://github.com/Intuned/",
+    "https://intunedhq.com/",
+    "https://x.com/ocarinaut/status/2120466646133621221"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

@@ -1,0 +1,887 @@
+{
+ "name": "株式会社ショーダ",
+ "aliases": [],
+ "context": "ipros_all:多品種",
+ "researched_at": "2026-11-11T19:18:51.939157+00:00",
+ "official_url": "https://www.sho-da.jp",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "各種機械部品製造加工 重要保安部品加工 マシニング加工 金型、治具、歯車、ボルト、溶接、溶断 多品種の部品製造 （JR用部品，船舶のエンジン部品，工作機各部品， 医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "各種機械部品製造加工 重要保安部品加工 マシニング加工 金型、治具、歯車、ボルト、溶接、溶断 多品種の部品製造 （JR用部品，船舶のエンジン部品，工作機各部品， 医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/product/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "各種機械部品製造加工 重要保安部品加工 マシニング加工 金型、治具、歯車、ボルト、溶接、溶断 多品種の部品製造 （JR用部品，船舶のエンジン部品，工作機各部品，医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "各種機械部品製造加工 重要保安部品加工 マシニング加工 金型、治具、歯車、ボルト、溶接、溶断 多品種の部品製造 （JR用部品，船舶のエンジン部品，工作機各部品， 医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "各種機械部品製造加工 重要保安部品加工 マシニング加工 金型、治具、歯車、ボルト、溶接、溶断 多品種の部品製造 （JR用部品，船舶のエンジン部品，工作機各部品， 医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/product/369/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "各種機械部品製造加工 重要保安部品加工 マシニング加工 金型、治具、歯車、ボルト、溶接、溶断 多品種の部品製造 （JR用部品，船舶のエンジン部品，工作機各部品， 医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/product/358/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "各種機械部品製造加工 重要保安部品加工 マシニング加工 金型、治具、歯車、ボルト、溶接、溶断 多品種の部品製造 （JR用部品，船舶のエンジン部品，工作機各部品， 医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/product/341/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "各種機械部品製造加工 重要保安部品加工 マシニング加工 金型、治具、歯車、ボルト、溶接、溶断 多品種の部品製造 （JR用部品，船舶のエンジン部品，工作機各部品， 医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/works/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "各種機械部品製造加工 重要保安部品加工 マシニング加工 金型、治具、歯車、ボルト、溶接、溶断 多品種の部品製造 （JR用部品，船舶のエンジン部品，工作機各部品， 医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "各種機械部品製造加工 重要保安部品加工 マシニング加工 金型、治具、歯車、ボルト、溶接、溶断 多品種の部品製造 （JR用部品，船舶のエンジン部品，工作機各部品， 医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/production/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "各種機械部品製造加工 重要保安部品加工 マシニング加工 金型、治具、歯車、ボルト、溶接、溶断 多品種の部品製造 （JR用部品，船舶のエンジン部品，工作機各部品， 医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/product/47/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "正田　公平",
+    "url": "https://www.sho-da.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "17名",
+    "url": "https://www.sho-da.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒729-4203　広島県三次市吉舎町安田1076-1",
+    "url": "https://www.sho-da.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "佐藤商事（株）広島支店 因島機械（株） （株）トーキン シージーケー（株） （株）カストムインダストリー 北川鋼業（株） 大博鋼業（株） 因島精機（株） エムエスケイ農業機械（株） 甲神電機（株） （株）光栄工作所 （株）東城ポートリー南山農場 菱電商事（株） 佐藤商事（株）福山支店 福軸商工（株） （株）英田エンジニアリング 向島造機（株） マーテック（株） （株）正英製作所 （株）テック 友鉄工業（株） （有）林工業所 （株）友和 リョーノーファクトリー（株） リョービミラサカ（株）",
+    "url": "https://www.sho-da.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "主要仕入先",
+    "value": "佐藤商事（株）広島支店 佐藤商事（株）福山支店 大博鋼業（株） キソメック（株） 木村合金（株） 日立金属工具鋼（株） 光陽産業（株） （有）重親鉄工 （株）サントウ 泉州歯車工業（株） （有）福山研磨工作所 （株）日本アート （株）日本パーカーライジング 阪神メタリックス",
+    "url": "https://www.sho-da.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "一点物・少量多品種": [
+   {
+    "quote": "インフラ設備から自動車製造ラインまで、多業種・多品種にわたって",
+    "url": "https://www.sho-da.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では、単品から量産品まで1カ月に約200種類の製品が流れるため、納期・顧客名・図番・品名・数量・後処理の有無・材料の納入日をディスプレイに反映し、社内における情報共有を行っています",
+    "url": "https://www.sho-da.jp/production/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "インフラ設備から自動車製造ラインまで、多業種・多品種にわたって",
+    "url": "https://www.sho-da.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "広島県を中心に各種機械部品（金型・冶具・歯車・ボルトなど）の製造、マシニング・NC旋盤・研磨などの加工",
+    "url": "https://www.sho-da.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "金型、治具、歯車、ボルト、溶接、溶断",
+    "url": "https://www.sho-da.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "広島の各種機械部品の製造・加工（マシニング・金型・治具・歯車・ボルト・溶接・溶断）は株式会社ショーダへ",
+    "url": "https://www.sho-da.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "広島県を中心に各種機械部品（金型・冶具・歯車・ボルトなど）の製造、マシニング・NC旋盤・研磨などの加工",
+    "url": "https://www.sho-da.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "金型、治具、歯車、ボルト、溶接、溶断",
+    "url": "https://www.sho-da.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "（JR用部品，船舶のエンジン部品，工作機各部品，医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "広島の各種機械部品の製造・加工（マシニング・金型・治具・歯車・ボルト・溶接・溶断）は株式会社ショーダへ",
+    "url": "https://www.sho-da.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "広島県を中心に各種機械部品（金型・冶具・歯車・ボルトなど）の製造、マシニング・NC旋盤・研磨などの加工",
+    "url": "https://www.sho-da.jp/product/369/",
+    "pass": 1
+   },
+   {
+    "quote": "金型、治具、歯車、ボルト、溶接、溶断",
+    "url": "https://www.sho-da.jp/product/369/",
+    "pass": 1
+   },
+   {
+    "quote": "医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/product/369/",
+    "pass": 1
+   },
+   {
+    "quote": "広島の各種機械部品の製造・加工（マシニング・金型・治具・歯車・ボルト・溶接・溶断）は株式会社ショーダへ",
+    "url": "https://www.sho-da.jp/product/369/",
+    "pass": 1
+   },
+   {
+    "quote": "広島県を中心に各種機械部品（金型・冶具・歯車・ボルトなど）の製造、マシニング・NC旋盤・研磨などの加工",
+    "url": "https://www.sho-da.jp/product/358/",
+    "pass": 1
+   },
+   {
+    "quote": "金型、治具、歯車、ボルト、溶接、溶断",
+    "url": "https://www.sho-da.jp/product/358/",
+    "pass": 1
+   },
+   {
+    "quote": "医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/product/358/",
+    "pass": 1
+   },
+   {
+    "quote": "広島の各種機械部品の製造・加工（マシニング・金型・治具・歯車・ボルト・溶接・溶断）は株式会社ショーダへ",
+    "url": "https://www.sho-da.jp/product/358/",
+    "pass": 1
+   },
+   {
+    "quote": "広島県を中心に各種機械部品（金型・冶具・歯車・ボルトなど）の製造、マシニング・NC旋盤・研磨などの加工",
+    "url": "https://www.sho-da.jp/product/341/",
+    "pass": 1
+   },
+   {
+    "quote": "金型、治具、歯車、ボルト、溶接、溶断",
+    "url": "https://www.sho-da.jp/product/341/",
+    "pass": 1
+   },
+   {
+    "quote": "医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/product/341/",
+    "pass": 1
+   },
+   {
+    "quote": "広島の各種機械部品の製造・加工（マシニング・金型・治具・歯車・ボルト・溶接・溶断）は株式会社ショーダへ",
+    "url": "https://www.sho-da.jp/product/341/",
+    "pass": 1
+   },
+   {
+    "quote": "広島県を中心に各種機械部品（金型・冶具・歯車・ボルトなど）の製造、マシニング・NC旋盤・研磨などの加工",
+    "url": "https://www.sho-da.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "各種メーカーの自動車部品製造ライン部品を製造しています",
+    "url": "https://www.sho-da.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "金型、治具、歯車、ボルト、溶接、溶断",
+    "url": "https://www.sho-da.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "広島の各種機械部品の製造・加工（マシニング・金型・治具・歯車・ボルト・溶接・溶断）は株式会社ショーダへ",
+    "url": "https://www.sho-da.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "広島県を中心に各種機械部品（金型・冶具・歯車・ボルトなど）の製造、マシニング・NC旋盤・研磨などの加工",
+    "url": "https://www.sho-da.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "金型、治具、歯車、ボルト、溶接、溶断",
+    "url": "https://www.sho-da.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "広島の各種機械部品の製造・加工（マシニング・金型・治具・歯車・ボルト・溶接・溶断）は株式会社ショーダへ",
+    "url": "https://www.sho-da.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "広島県を中心に各種機械部品（金型・冶具・歯車・ボルトなど）の製造、マシニング・NC旋盤・研磨などの加工",
+    "url": "https://www.sho-da.jp/production/",
+    "pass": 1
+   },
+   {
+    "quote": "金型、治具、歯車、ボルト、溶接、溶断",
+    "url": "https://www.sho-da.jp/production/",
+    "pass": 1
+   },
+   {
+    "quote": "医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/production/",
+    "pass": 1
+   },
+   {
+    "quote": "広島の各種機械部品の製造・加工（マシニング・金型・治具・歯車・ボルト・溶接・溶断）は株式会社ショーダへ",
+    "url": "https://www.sho-da.jp/production/",
+    "pass": 1
+   },
+   {
+    "quote": "広島県を中心に各種機械部品（金型・冶具・歯車・ボルトなど）の製造、マシニング・NC旋盤・研磨などの加工",
+    "url": "https://www.sho-da.jp/product/47/",
+    "pass": 1
+   },
+   {
+    "quote": "金型、治具、歯車、ボルト、溶接、溶断",
+    "url": "https://www.sho-da.jp/product/47/",
+    "pass": 1
+   },
+   {
+    "quote": "医療器部品，IC部品，歯車他）",
+    "url": "https://www.sho-da.jp/product/47/",
+    "pass": 1
+   },
+   {
+    "quote": "広島の各種機械部品の製造・加工（マシニング・金型・治具・歯車・ボルト・溶接・溶断）は株式会社ショーダへ",
+    "url": "https://www.sho-da.jp/product/47/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "5軸加工機、CAD/CAM",
+    "url": "https://www.sho-da.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "更に、CAD/CAMを使用することで複雑な加工も可能にし、段取り時間の短縮にも繋がり、",
+    "url": "https://www.sho-da.jp/production/",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "製品紹介｜広島で機械部品製造加工なら（株）ショーダ",
+    "url": "https://www.sho-da.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "豊かな経験と優れた技術でつくる、ショーダの主な製造・加工製品をご紹介いたします",
+    "url": "https://www.sho-da.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "これからの製品開発にもたゆまぬ努力を続けています",
+    "url": "https://www.sho-da.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "ねじ切りや外丸削りなど各加工の特徴と製品の形状、今後の工程や完成図を頭に描きながら、丁寧に作業しています",
+    "url": "https://www.sho-da.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "様々な形への加工が多いマシニング技術ですが、一つ一つの製品の特徴をつかみながら、プログラム設計から施工までを行います",
+    "url": "https://www.sho-da.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "旋盤技術使用製品｜製品紹介｜広島で機械部品製造加工なら（株）ショーダ",
+    "url": "https://www.sho-da.jp/product/369/",
+    "pass": 1
+   },
+   {
+    "quote": "ねじ切りや外丸削りなど各加工の特徴と製品の形状、今後の工程や完成図を頭に描きながら、丁寧に作業しています",
+    "url": "https://www.sho-da.jp/product/369/",
+    "pass": 1
+   },
+   {
+    "quote": "マシニング技術使用製品｜製品紹介｜広島で機械部品製造加工なら（株）ショーダ",
+    "url": "https://www.sho-da.jp/product/358/",
+    "pass": 1
+   },
+   {
+    "quote": "様々な形への加工が多いマシニング技術ですが、一つ一つの製品の特徴をつかみながら、プログラム設計から施工までを行います",
+    "url": "https://www.sho-da.jp/product/358/",
+    "pass": 1
+   },
+   {
+    "quote": "研磨技術使用製品｜製品紹介｜広島で機械部品製造加工なら（株）ショーダ",
+    "url": "https://www.sho-da.jp/product/341/",
+    "pass": 1
+   },
+   {
+    "quote": "まで社内対応している為、スムーズに製品を流すことが出来ます",
+    "url": "https://www.sho-da.jp/production/",
+    "pass": 1
+   },
+   {
+    "quote": "切削加工が終了した製品は、必ず検査を行います",
+    "url": "https://www.sho-da.jp/production/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の中には、熱処理・メッキ等の後処理が必要なものも多くあります",
+    "url": "https://www.sho-da.jp/production/",
+    "pass": 1
+   },
+   {
+    "quote": "傷つきやすい製品は1点1点個別の梱包をし、出荷もしくは弊社トラックにてお届けいたします",
+    "url": "https://www.sho-da.jp/production/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では、単品から量産品まで1カ月に約200種類の製品が流れるため、納期・顧客名・図番・品名・数量・後処理の有無・材料の納入日をディスプレイに反映し、社内における情報共有を行っています",
+    "url": "https://www.sho-da.jp/production/",
+    "pass": 1
+   },
+   {
+    "quote": "主な製造部品｜製品紹介｜広島で機械部品製造加工なら（株）ショーダ",
+    "url": "https://www.sho-da.jp/product/47/",
+    "pass": 1
+   },
+   {
+    "quote": "豊かな経験と優れた技術でつくる、ショーダの主な製造・加工製品をご紹介いたします",
+    "url": "https://www.sho-da.jp/product/47/",
+    "pass": 1
+   },
+   {
+    "quote": "これからの製品開発にもたゆまぬ努力を続けています",
+    "url": "https://www.sho-da.jp/product/47/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせいただいた案件に関して、そもそも製造が可能か、製造するとしたらどのような方法が適しているかを社内にて検討し、",
+    "url": "https://www.sho-da.jp/production/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "製品紹介｜広島で機械部品製造加工なら（株）ショーダ — 多品種の部品製造 （JR用部品，船舶のエンジン部品，工作機各部品， 医療器部品，IC部品，歯車他） © 2016 広島の各種機械部品の製造・加工（マシニング・金型・治具・歯車・ボルト・溶接・溶断）は株式会社ショーダへ This Website is created by 株式会社リコネ ...",
+    "url": "https://www.sho-da.jp/product/",
+    "pass": 3
+   },
+   {
+    "quote": "広島で機械部品製造加工なら（株）ショーダ — ほぼすべての社員が製造技術とプログラミング技術を合わせて保有し、最先端の 機械 によって多種多様な製品に対応 いたします。 大量生産・短納期にもできる限り対応させていただきますので、お気軽にお問い合わせください。",
+    "url": "https://www.sho-da.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 | ショーダテクトロン株式会社 — Sep 1, 2026 · SDGsへの取り組み ショーダテクトロンのSDGsへの取り組み。 独自の技術と事業活動を通じて、環境・社会課題の解決に挑み、持続可能で豊かな未来の実現に貢献します。 続きを読む",
+    "url": "http://www.stech.co.jp/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内｜広島で機械部品製造加工なら（株）ショーダ広島で機械部品製造加工なら（株）ショーダSHODA - Wikipedia — 広島県三次市に工場を構える株式会社ショーダは、金型・冶具・歯車・ボルトなどの機械部品の製造、マシニング・NC旋盤・汎用旋盤・研磨加工など、各種機械部品製造・加工を行っております。どんな部品でも豊富な経験と技術で細部にまでこだわって製造いたしますので、お気軽にお ... 広島県三次市に工場を構える株式会社ショーダは、金型・冶具・歯車・ボルトなどの機械部品の製造、マシニング・NC旋盤・汎用旋盤・研磨加工など、各種機械部品製造・加工を行っております。 SHODA ... SHODA株式会社 （しょうだ）は 静岡県 浜松市 浜名区 に本社を置く 工作機械 製造企業。 1926年創業。 1968年日本初の NC ルータ 加工機を開発した。 2019年1月1日より庄田鉄工株",
+    "url": "https://www.sho-da.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "広島で機械部品製造加工なら（株）ショーダ — 広島県三次市に工場を構える株式会社ショーダは、金型・冶具・歯車・ボルトなどの機械部品の製造、マシニング・NC旋盤・汎用旋盤・研磨加工など、各種機械部品製造・加工を行っております。",
+    "url": "https://www.sho-da.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 | 会社情報 | ショーダテクトロン株式会社 — Sep 1, 2026 · 精密加工技術を核とした自動化装置の開発・製造・販売など、当社の主要事業を紹介します。",
+    "url": "http://www.stech.co.jp/corporate/business-activities/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜広島で機械部品製造加工なら（株）ショーダ — 下記フォームに必要事項をご入力いただき、確認画面へお進みください。 なお、動作環境や通信環境などにより、うまく入力・送信できない場合がございます。 その場合は、上記のお電話またはメールアドレスよりお問い合わせください。",
+    "url": "https://www.sho-da.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせありがとうございます｜広島で機械部品製造加工なら（株... — 多品種の部品製造 （JR用部品，船舶のエンジン部品，工作機各部品， 医療器部品，IC部品，歯車他） © 2016 広島の各種機械部品の製造・加工（マシニング・金型・治具・歯車・ボルト・溶接・溶断）は株式会社ショーダへ This Website is created by 株式会社リコネ ...",
+    "url": "https://www.sho-da.jp/thanks/",
+    "pass": 3
+   },
+   {
+    "quote": "一般・総合お問い合わせ | ショーダテクトロン株式会社 — プリント配線基板加工装置・硬脆性加工装置の製造・販売・修理 日本語 ENGLISH ホームHome ショーダテクトロンの強みStrengths 製品・サービスProducts 会社情報Corporate 新着情報What's new お問い合わせContact リクルートRecruit",
+    "url": "http://www.stech.co.jp/contact/contact_01/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | ショーダテクトロン株式会社 — Sep 1, 2026 · 製品に関するお問い合わせ 製品仕様、価格、納期、導入相談、不具合など製品に関するお問い合わせは こちら お電話でのお問い合わせ お急ぎの方はお電話にてお問い合わせください TEL.053-414-6111",
+    "url": "http://www.stech.co.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "動画の〇〇を指してみた「ショーダンオリジナル」｜てめえ May 14, 2022 · 私は普段、初手26歩には34歩がメインで、25歩を決めてくる場合には角換わりから右玉、76歩なら44歩と突いて雁木にすることが多いです。 二手目34歩でも不満はないですが、たまに攻めたくなった時には84歩としてショーダ",
+    "url": "https://note.com/temee/n/nb74392e7452d",
+    "pass": 3
+   },
+   {
+    "quote": "Google Pixel × 三笘薫選手の国際CM、日本側DPとして参加した記録 Mar 13, 2026 · 昨年、国際的なコマーシャル撮影に日本側のDPとして参加する機会があった。 監督はショーダユキヒロさん。 ProdCoに所属し、日本国内にとどまらず、国際的なコマーシャルプロジェクトを数多く手がけている方だ。",
+    "url": "https://note.com/shotafujii/n/ned6f60edb320",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Masahiro Shoda - President - Shoda Techtron corp. | LinkedIn4件の「Masahiro Shoda」のプロフィール | LinkedIn800+ \"Shoda\" profiles | LinkedIn4 \"Masahiro Shoda\" profiles | LinkedInMaximilien Pischedda - 15 years of experience | Global ...Susumu SHIMODA - 東京コンサルティングファーム (カンボジア) | Link...Siddardha Garimella - Auxia | LinkedIn President - Shoda Techtron corp. · 職歴: ショーダテクトロン株式会社 · 学歴: 山梨学院大学 · 場所: 浜松 · LinkedInのつ",
+    "url": "https://jp.linkedin.com/in/masahiro-shoda-b7572951",
+    "pass": 3
+   },
+   {
+    "quote": "4件の「Masahiro Shoda」のプロフィール | LinkedIn 「Masahiro Shoda」に関する 4 件の検索結果 Masahiro Shoda President - Shoda Techtron corp. 浜松 ショーダテクトロン株式会社、その他1社以上 山梨学院大学",
+    "url": "https://jp.linkedin.com/pub/dir/Masahiro/Shoda",
+    "pass": 3
+   },
+   {
+    "quote": "800+ \"Shoda\" profiles | LinkedIn Masahiro Shoda President - Shoda Techtron corp. Hamamatsu ショーダテクトロン株式会社, +1 more 山梨学院大学",
+    "url": "https://www.linkedin.com/pub/dir/+/Shoda/",
+    "pass": 3
+   },
+   {
+    "quote": "4 \"Masahiro Shoda\" profiles | LinkedIn 4 Results for \"Masahiro Shoda\" in Japan Search worldwide Masahiro Shoda President - Shoda Techtron corp. Hamamatsu ショーダテクトロン株式会社, +1 more 山梨学院大学",
+    "url": "https://www.linkedin.com/pub/dir/Masahiro/Shoda/jp-0-日本",
+    "pass": 3
+   },
+   {
+    "quote": "Masahiro Shoda - President - Shoda Techtron corp. | LinkedInnoteの歴代社長 - the-shashi.comnote ――つくる、つながる、とどける。経営チーム｜note株式会社 President - Shoda Techtron corp. · 職歴: ショーダテクトロン株式会社 · 学歴: 山梨学院大学 · 場所: 浜松 · LinkedInのつながり63人。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでMasahiro Shodaさんのプロフィールを閲覧しましょう。 Oct 26, 2026 · 加藤貞顕 氏は2000年4月に アスキー 、2005年9月にダイヤモンドへ入社し、2011年12月にピースオブケイク（現note）を設立して代表取締役CEOに就任した。 2025年11月期末",
+    "url": "https://jp.linkedin.com/in/masahiro-shoda-b7572951",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "服の工房ショーダ | Toshima Tokyo - Facebook Nov 14, 2020 · 縫製のことなら東京都豊島区池袋の服の工房ショーダへ 。 婦人服・紳士服? 台風19号の接近に伴いご迷惑をおかけしますが 10月12日 (土曜日) 13日 (日曜日)臨時休業となります。 10月15日 (火曜日)は、通常営業となります ご来店お待ちしております",
+    "url": "https://www.facebook.com/koboshoda1/",
+    "pass": 3
+   },
+   {
+    "quote": "SHODA 株式会社 | Hamamatsu-shi Shizuoka - Facebookショーダテクトロン株式会社 - Facebook服の工房ショーダ | FacebookSHODA 株式会社 - ／ 2026年 展示会情報！ \\ 今年も国内外の展示会に...Kenjiro Shoda - FacebookSHODA 株式会社 - 高精度の門型コンパクトNCルータのご紹介です。 テ... Sep 28, 2026 · SHODA 株式会社, Hamamatsu. 609 followers · 11 talking about this · 30 were here. 経営理念 愛と独創的な技術力で人々を豊かにし、 尊敬される企業になり、 社員全員で幸せになる Jun 6, 2018 · 本年のJPCAショーも「東京ビッグサイト」（東京国 際展示場）にて、6/6（水）～6/8（金）の",
+    "url": "https://www.facebook.com/The.SHODA.Company/",
+    "pass": 3
+   },
+   {
+    "quote": "服の工房ショーダ | Facebook Nov 14, 2020 · 服の工房ショーダ, Toshima. 17 likes. 縫製のことなら東京都豊島区池袋の服の工房ショーダへ。婦人服・紳士服",
+    "url": "https://www.facebook.com/koboshoda1/posts/3589632197759815/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ショーダイマン (@shodaiman8) / Posts / X Aug 8, 2021 · ショーダイマン (@shodaiman8) - Posts - よく眠れた 今日は最高の1日になりそうだ ものすごく良い予感がするぞ /🇷🇴 岐阜SGI/前人未到の4億遍唱題突破を目指すパイオニア /おもちゃコレクター/米国催眠療法士/中国陰陽五行音叉療法士/... | X (formerly Twitter)",
+    "url": "https://x.com/shodaiman8",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sho-da.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-da.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-da.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-da.jp/product/369/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-da.jp/product/358/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-da.jp/product/341/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-da.jp/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-da.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-da.jp/production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sho-da.jp/product/47/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sho-da.jp/wp/wp-content/uploads/2016/11/mct_img_parts_product04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sho-da.jp/wp/wp-content/uploads/2016/11/mct_img_parts_product05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sho-da.jp/wp/wp-content/uploads/2016/11/mct_img_product13-1-1-1-2-1-1-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sho-da.jp/wp/wp-content/uploads/2016/10/mct_img_product28.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sho-da.jp/wp/wp-content/uploads/2016/10/mct_img_product05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sho-da.jp/wp/wp-content/uploads/2016/11/mct_img_product24.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sho-da.jp/wp/wp-content/uploads/2016/11/mct_img_staff_product05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sho-da.jp/wp/wp-content/uploads/2016/11/mct_img_parts_product_10.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sho-da.jp/wp/wp-content/uploads/2016/11/mct_img_parts_product02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sho-da.jp/wp/wp-content/uploads/2016/11/mct_img_parts_product01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sho-da.jp/wp/wp-content/uploads/2016/11/mct_img_product20-2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sho-da.jp/wp/wp-content/uploads/2016/10/mct_img_product02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kurodaseiki.co.jp/3-3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/SHODA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.stech.co.jp/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shoda.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/temee/n/nb74392e7452d",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/shotafujii/n/ned6f60edb320",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/masahiro-shoda-b7572951",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/pub/dir/Masahiro/Shoda",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/+/Shoda/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/Masahiro/Shoda/jp-0-日本",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/koboshoda1/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/The.SHODA.Company/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/koboshoda1/posts/3589632197759815/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/masahiro-shoda-b7572951",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/shodaiman8",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ショーダ 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.sho-da.jp/product/",
+    "https://kurodaseiki.co.jp/3-3",
+    "https://www.sho-da.jp/",
+    "https://ja.nc-net.or.jp/company/91246/product/detail/257642/",
+    "http://hoss.co.jp/",
+    "https://www.shoda.com/",
+    "https://www.shoda.com/product/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ショーダ 会社概要 事業内容",
+   "results": [
+    "https://ja.wikipedia.org/wiki/SHODA",
+    "http://www.stech.co.jp/corporate/",
+    "https://www.sho-da.jp/company/",
+    "https://www.sho-da.jp/",
+    "http://www.stech.co.jp/corporate/business-activities/",
+    "https://www.shoda.com/company/",
+    "https://www.shoda.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ショーダ お問い合わせ メール",
+   "results": [
+    "https://www.sho-da.jp/contact/",
+    "https://www.shoda.com/contact/",
+    "https://www.sho-da.jp/thanks/",
+    "http://www.stech.co.jp/contact/contact_01/",
+    "http://www.stech.co.jp/contact/",
+    "https://www.koshida.co.jp/contact/contact.php",
+    "https://www.chiyodagrp.co.jp/mail/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ショーダ",
+   "results": [
+    "https://note.com/temee/n/nb74392e7452d",
+    "https://note.com/shotafujii/n/ned6f60edb320",
+    "https://note.com/mayoyumebee/n/n38ee3d41029f",
+    "https://tales.note.com/amelob/wmivdxmcbjzbp/episodes/e4rt579x4h93t",
+    "https://tales.note.com/kind_cosmos9896/wiyxpcjj4ahp0/episodes/e9ub1f3bgc4ti",
+    "https://note.com/rivas_bucho/n/ncb55904300ed",
+    "https://note.com/junkomasachika/n/na237db34fc50"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ショーダ",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com ショーダ",
+   "results": [
+    "https://jp.linkedin.com/in/masahiro-shoda-b7572951",
+    "https://jp.linkedin.com/pub/dir/Masahiro/Shoda",
+    "https://www.linkedin.com/pub/dir/+/Shoda/",
+    "https://www.linkedin.com/pub/dir/Masahiro/Shoda/jp-0-日本",
+    "https://mg.linkedin.com/in/maximilien-pischedda-40626741",
+    "https://in.linkedin.com/in/gsiddardha",
+    "https://kh.linkedin.com/in/susumu-shimoda-31964722a/en"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ショーダ",
+   "results": [
+    "https://www.facebook.com/koboshoda1/",
+    "https://www.facebook.com/The.SHODA.Company/",
+    "https://www.facebook.com/koboshoda1/posts/3589632197759815/",
+    "https://www.facebook.com/kenjiro.shoda.1/",
+    "https://www.facebook.com/p/ショーダテクトロン株式会社-100071405922574/",
+    "https://www.facebook.com/The.SHODA.Company/posts/2026年-展示会情報今年も国内外の展示会に出展することが決定しました2026年に出展する展示会をお知らせいたします072728-shoda-dtl新商品内覧会/1465028475627640/",
+    "https://www.facebook.com/The.SHODA.Company/posts/高精度の門型コンパクトncルータのご紹介ですテーブルサイズは1200600ですnc260特徴省スペース高剛性高性能ヘッド間隔自動可変可能300mm600ｍｍ高周/827332612730566/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ショーダ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://jp.linkedin.com/in/masahiro-shoda-b7572951",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/",
+    "http://www.showa-note.co.jp/company/message.html",
+    "https://www.showa-note.co.jp/company/overview.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ショーダ X 投稿",
+   "results": [
+    "https://x.com/shodaiman8",
+    "https://x.com/",
+    "https://www.xvideos.com/?k=無修正+ストリップ",
+    "https://xshadowban.com/ja",
+    "https://www.xvideos.com/?k=素人投稿",
+    "https://www.xnxx.com/search/スレンダー　無修正",
+    "https://help.x.com/ja/safety-and-security/public-and-protected-posts"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像12件／外部15頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式10頁／PDF・画像12件／外部15頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式10頁／PDF・画像12件／外部15頁・検索9回）"
+ }
+}

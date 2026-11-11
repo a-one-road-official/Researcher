@@ -1,0 +1,1020 @@
+{
+ "name": "株式会社ミツワ精機製作所 本社、第二工場",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T19:20:17.478344+00:00",
+ "official_url": "http://mitsuwaseiki.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社 及び 本社工場",
+    "value": "住所：〒402-0045　山梨県 都留市 大幡1185番地 規模：敷地　936.49m²　建物延べ床面積（2階含む）　965.39m² TEL：0554-43-4455 FAX：0554-43-4422",
+    "url": "https://www.mitsuwaseiki.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒402-0045 山梨県 都留市 大幡1185番地",
+    "url": "https://www.mitsuwaseiki.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒402-0043 山梨県 都留市 平栗1074-12番地",
+    "url": "https://www.mitsuwaseiki.co.jp/about.html",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "第二工場",
+    "value": "住所：〒402-0043　山梨県 都留市 平栗1074-12番地 規模：敷地　1223.63m²　建物延べ床面積（2階含む）　457.34m² TEL：0554-45-2983 FAX：0554-45-2384",
+    "url": "https://www.mitsuwaseiki.co.jp/about.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "営業品目",
+    "value": "精密プレス金型及び治工具設計製作 精密小型モーター用コア順送積層自在型設計製作 順送金型設計製作 高精度水中ワイヤーカット放電加工及び試作 精密プレス加工及びフライス加工 精密組立加工及びカシメ加工 精密小型モーター減速機（ギアヘッド）組立",
+    "url": "https://www.mitsuwaseiki.co.jp/about.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "45名（男性30名　女性15名）",
+    "url": "https://www.mitsuwaseiki.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "46名",
+    "url": "https://mono.ipros.com/company/detail/2071742/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "ミツワ精機製作所はプレス加工で、使いやすい製品をお届けします",
+    "url": "https://www.mitsuwaseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用製品メーカー比較のサイト、メトリーにも試験的に弊社の情報を提供させていただきました",
+    "url": "https://www.mitsuwaseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "尚、製品の納期や前倒しのご注文、至急のご依頼等ございましたら各担当までご連絡ください",
+    "url": "https://www.mitsuwaseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ご協力いただいた全ての皆様に感謝申し上げるとともに更なる努力をし、より良い製品をお客様へお届けすることをお約束いたします",
+    "url": "https://www.mitsuwaseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品事例の積層モーターコア部品に積層モーターコアとはのコンテンツを追加しました",
+    "url": "https://www.mitsuwaseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品事例（カメラ部品（リフレクター、反射傘））を追加しました",
+    "url": "https://www.mitsuwaseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "精密プレス部品や、積層モータコアの製品事例｜ミツワ精機製作所",
+    "url": "https://www.mitsuwaseiki.co.jp/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療用の機械を製作している会社様と取引をさせて頂いており、医療機器として使われる製品の一部部品を製作させて頂いております",
+    "url": "https://www.mitsuwaseiki.co.jp/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要｜ミツワ精機製作所はプレス加工で、使いやすい製品をお届けします",
+    "url": "https://www.mitsuwaseiki.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在もISOの品質マネジメントシステム、環境マネジメントシステムを活用し、環境に優しく品質に厳しい製品づくりを実践しています",
+    "url": "https://www.mitsuwaseiki.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、お客様から充注した板金・機械加工を行う事業活動の中で、経営理念を尊重し「お客様の満足と高い信頼」を得る製品を提供します",
+    "url": "https://www.mitsuwaseiki.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "１．お客様のニーズと期待を理解し、要求事項を満たす製品を提供します",
+    "url": "https://www.mitsuwaseiki.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "（７）製品の有害化学物質の各国の法規制及び顧客の要求事項の順守",
+    "url": "https://www.mitsuwaseiki.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "設備一覧｜ミツワ精機製作所はプレス加工で、使いやすい製品をお届けします",
+    "url": "https://www.mitsuwaseiki.co.jp/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報｜ミツワ精機製作所はプレス加工で、使いやすい製品をお届けします",
+    "url": "https://www.mitsuwaseiki.co.jp/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "ミツワ精機製作所はプレス加工で、使いやすい製品をお届けします",
+    "url": "https://www.mitsuwaseiki.co.jp/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "尚、製品の納期や前倒しのご注文、至急のご依頼等ございましたら各担当までご",
+    "url": "https://www.mitsuwaseiki.co.jp/pdf/forcustomers220412.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "尚、製品の納期や前倒しのご注文、至急のご依頼等ございましたら各担当までご連絡ください",
+    "url": "https://www.mitsuwaseiki.co.jp/pdf/20200727.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "尚、製品の納期や前倒しのご注文、至急のご依頼等ございましたら各担",
+    "url": "https://www.mitsuwaseiki.co.jp/pdf/20200623.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "尚、製品の納期や前倒しのご注文、至急のご依頼等ございましたら各担",
+    "url": "https://www.mitsuwaseiki.co.jp/pdf/20200605.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品・サービス(33)",
+    "url": "https://mono.ipros.com/company/detail/2071742/",
+    "pass": 3
+   },
+   {
+    "quote": "金型設計、金型製作、プレス加工、二次加工（処理）まで一貫して生産できるため、お客様の手元に届く製品は",
+    "url": "https://mono.ipros.com/company/detail/2071742/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (33)",
+    "url": "https://mono.ipros.com/company/detail/2071742/",
+    "pass": 3
+   },
+   {
+    "quote": "ミツワ精機製作所の製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(33)",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "検査設備のご紹介！プレス加工で使いやすい製品をお届けします",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "ミツワ精機製作所はプレス加工で使いやすい製品をお届けします！",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "ミツワ精機製作所はプレス加工で、使いやすい製品を",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "使いやすい製品をお届け！ミツワ精機製作所で保有する機械加工設備をご紹介",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "ミツワ精機製作所はプレス加工で、使いやすい製品をお届けします",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "板厚は0.5t、サイズは30mm×15mm×20mmの製品",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "サイズはΦ25.5mm～、厚板はt＝0.5×H14.5～の製品",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【製品事例】医療関連部品＜SUS631CSP-3/4H＞",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "サイズはΦ10～Φ35mm、ロットは100個/月～で生産可能な製品です",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【製品事例】医療関連部品＜NKスーパーEコア＞",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器モーター部品の用途に！医療機器として使われる製品の一部部品を製作",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "厚板t＝0.1の製品",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【製品事例】医療関連部品＜SUS304-1/2H＞",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器として使われる製品の一部部品を製作させていただいております",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【製品事例】産業機器部品＜SECC-CF＞",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【製品事例】産業機器部品＜エコトリオZSNH190＞",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【製品事例】産業機器部品＜亜鉛メッキ鋼板＞",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【製品事例】カメラ部品＜MIRO2＞",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【製品事例】カメラ部品＜ロット1000個/月～＞",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【製品事例】カメラ部品＜ロット10000個/月～＞",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "サイズはL＝10.0mm～35.0mmの製品",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【製品事例】光学業界部品＜A5052＞",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【製品事例】光学業界部品＜SK-5＞",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "「すぐに使える」をキーワードに、金型～プレス、バレル研磨まで半完成品の部品として納品させて頂きます",
+    "url": "https://www.mitsuwaseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製作（順送、単発）",
+    "url": "https://www.mitsuwaseiki.co.jp/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "光学部品の他に産業用ロボットの部品や、モータ用の薄板加工、また外観に使用される部品などの加工を手掛けております",
+    "url": "https://www.mitsuwaseiki.co.jp/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療用の機械を製作している会社様と取引をさせて頂いており、医療機器として使われる製品の一部部品を製作させて頂いております",
+    "url": "https://www.mitsuwaseiki.co.jp/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、昭和40年創業以来50年間一貫して精密プレス金型製作及びプレス加工を主力として、業務を行っております",
+    "url": "https://www.mitsuwaseiki.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "優勝者は・・・・金型製造部 設計 天野課長代理でした",
+    "url": "https://www.mitsuwaseiki.co.jp/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "今回の優勝は、前回王者天野龍馬君に変わり、金型製造部三森涼平君でした",
+    "url": "https://www.mitsuwaseiki.co.jp/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "3連覇のかかった金型設計の三森君を追うのは、ルーキーで管理所属の大森君",
+    "url": "https://www.mitsuwaseiki.co.jp/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ミツワ精機製作所は、創業50余年、一貫して精密プレス金型製作及びプレス加工を主力として業務を行っております",
+    "url": "https://mono.ipros.com/company/detail/2071742/",
+    "pass": 3
+   },
+   {
+    "quote": "金型設計、金型製作、プレス加工、二次加工（処理）まで一貫して生産できるため、お客様の手元に届く製品は",
+    "url": "https://mono.ipros.com/company/detail/2071742/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車、医療、ドローンなど様々なモーター積層コアの開発に取り組んでいます",
+    "url": "https://mono.ipros.com/company/detail/2071742/",
+    "pass": 3
+   },
+   {
+    "quote": "精密プレス金型・プレス加工サービス カタログ",
+    "url": "https://mono.ipros.com/company/detail/2071742/",
+    "pass": 3
+   },
+   {
+    "quote": "ロットは3,000個/月！金型製作から最終検査まで行った事例をご紹介",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作からプレス加工、最終検査まで実施いたしました",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作からプレス加工、最終検査まで実施！ミツワ精機製作所で行った事例をご紹介",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社で製作した、「医療用モータコア」の事例をご紹介いたします",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作から最終検査まで行い、サイズは",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作(順送)からプレス加工を経て、最終検査まで実施",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作からプレス加工、最終検査まで！ミツワ精機製作所で行った事例をご紹介",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "ロットは100,000個/月～！金型製作(順送2ヶ取り)から最終検査までの事例をご紹介",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作(順送2ヶ取り)し、プレス加工を経て最終検査を行っております",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "加工時間等がかかるためコスト高になりますが、金型の精度は要求されず、",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "カシメ方式と比べて、コスト高になりますが、金型の精度は要求されず、",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "金型の精度が要求されますが、プレス以降の過程を自動化できるため、",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【製品事例】医療関連部品＜SUS631CSP-3/4H＞",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "医療用の機械を製作している会社様と取引をさせていただいております！",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社で製作した、材質がSUS631CSP-3/4Hの「医療関連部品」の事例を",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作(順送)からプレス加工、熱処理を経て最終検査を実施",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【製品事例】医療関連部品＜NKスーパーEコア＞",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器モーター部品の用途に！医療機器として使われる製品の一部部品を製作",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社で製作した、材質がNKスーパーEコアの「医療関連部品」の事例を",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器モーター部品に用いられ、サイズはΦ10～Φ35mmで",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【製品事例】医療関連部品＜SUS304-1/2H＞",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社で製作した、材質がSUS304-1/2Hの「医療関連部品」の事例を",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "ロットは100個/月～で生産可能、用途は医療機器付属品",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作(単型)、プレス加工、バレル、最終検査を実施",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、医療用の機械を製作している会社様と取引をさせていただいており、",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "https://www.tenjikai-uketsuke.com/form/suwamesse2022/",
+    "url": "https://www.mitsuwaseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AMADA TP-350-X2",
+    "url": "https://www.mitsuwaseiki.co.jp/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "AMADA IP-250-X2",
+    "url": "https://www.mitsuwaseiki.co.jp/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "AMADA TP-250",
+    "url": "https://www.mitsuwaseiki.co.jp/equipment.html",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "弊社の名前が入ったスパムメールに関してお詫びとお願い",
+    "url": "https://www.mitsuwaseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "さて、この度、弊社の認識不足によりスパムメールを送信してしまうという",
+    "url": "https://www.mitsuwaseiki.co.jp/pdf/20191210.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お得意様、関係先の皆様には弊社の社員名を語るスパムメールが何度も送信",
+    "url": "https://www.mitsuwaseiki.co.jp/pdf/20191210.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ご迷惑をおかけして申し訳ありませんが、受信したメールアドレスをご確認",
+    "url": "https://www.mitsuwaseiki.co.jp/pdf/20191210.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "いただき通常以外のメールアドレスから来たものに関しては添付ファイルを開",
+    "url": "https://www.mitsuwaseiki.co.jp/pdf/20191210.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "名前の表示が弊社担当名等になっておりますが、メールアドレスを見ると全",
+    "url": "https://www.mitsuwaseiki.co.jp/pdf/20191210.pdf",
+    "pass": 2
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "試作〜量産〜SUB ASSY まで行い、お客様には部品の組み込みのみ作業への確立を図っております",
+    "url": "https://www.mitsuwaseiki.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "■高精度水中ワイヤーカット放電加工及び試作",
+    "url": "https://mono.ipros.com/company/detail/2071742/",
+    "pass": 3
+   },
+   {
+    "quote": "量産ですが、試作、開発に関しても、引き受けており、試作、開発に",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "ステッピングモータ用・金属部品の試作等もお受けしておりますので",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機器の部品や、各種モータコア部品の試作も承っております",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■高精度水中ワイヤーカット放電加工及び試作",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "材質にはSECCを用いて、",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "材質には50H470を使用し、厚板はt＝0.5×4で製作",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■材質：50H470",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "材質には35H270を用いて、サイズは",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■材質：35H270",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "材質は35H360を使用！当社で製作したモーターコアの事例をご紹介",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■材質：35H360",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "材質は50H470を使用しており、ロットは20,000個/月～です",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "材質は35H360を使用し、サイズはΦ14.4mmで製作",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社で製作した、材質がSUS631CSP-3/4Hの「医療関連部品」の事例を",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■材質：SUS631CSP-3/4H",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社で製作した、材質がNKスーパーEコアの「医療関連部品」の事例を",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社で製作した、材質がSUS304-1/2Hの「医療関連部品」の事例を",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■材質：SUS304-1/2H",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社で製作した、材質がSECC-CFの「産業機器部品」の事例を",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社で製作した、材質がエコトリオZSNH190の「産業機器部品」の",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■材質：エコトリオZSNH190",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社で製作した、材質が亜鉛メッキ鋼板の「産業機器部品」の事例を",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社で製作した、材質がMIRO2の「カメラ部品」の事例を",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■材質：MIRO2",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "材質はMIRO2！カメラの部品や、反射傘などの製作をさせていただいております",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "用途はカメラフラッシュ部品で、材質はMIRO2",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社で製作した、材質がSUSの「光学業界部品」の事例を",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社で製作した、材質がA5052の「光学業界部品」の事例を",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■材質：A5052",
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mitsuwaseiki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuwaseiki.co.jp/products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuwaseiki.co.jp/products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuwaseiki.co.jp/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuwaseiki.co.jp/equipment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuwaseiki.co.jp/recruit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuwaseiki.co.jp/equipment.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mitsuwaseiki.co.jp/pdf/2024mitsuwa-calendar.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsuwaseiki.co.jp/pdf/forcustomers220412.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsuwaseiki.co.jp/pdf/20200727.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsuwaseiki.co.jp/pdf/20200623.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsuwaseiki.co.jp/pdf/20200605.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsuwaseiki.co.jp/pdf/20200423.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsuwaseiki.co.jp/pdf/20191210.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsuwaseiki.co.jp/img/mag201910_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mitsuwaseiki.co.jp/img/index01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2071742/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuwaseiki.co.jp/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/44119/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2071742/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuwaseiki.co.jp/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/44119/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tsu-kumiai.com/kaiin/%E6%A0%AA%E3%83%9F%E3%83%84%E3%83%AF%E7%B2%BE%E6%A9%9F%E8%A3%BD%E4%BD%9C%E6%89%80/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2071742/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitsuwa-ss.jp/contact.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ミツワ精機製作所 本社、第二工場 取扱製品 試作 小ロット",
+   "results": [
+    "https://mono.ipros.com/company/detail/2071742/",
+    "https://www.mitsuwaseiki.co.jp/about.html",
+    "https://metoree.com/companies/44119/",
+    "https://tsu-kumiai.com/kaiin/%E6%A0%AA%E3%83%9F%E3%83%84%E3%83%AF%E7%B2%BE%E6%A9%9F%E8%A3%BD%E4%BD%9C%E6%89%80/",
+    "https://www.motorcore-dojo.com/maker/mitsuwaseiki.html",
+    "http://www.shokokai-yamanashi.or.jp/~tsuru/b2b/bankin/4455.html",
+    "https://www.mitsuwa-ss.jp/service.html",
+    "https://ja.nc-net.or.jp/company/112155/product/detail/270367/",
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%9E%8B%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://www.mitsuwaseiki.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ミツワ精機製作所 本社、第二工場 会社概要 事業内容",
+   "results": [
+    "https://mono.ipros.com/company/detail/2071742/",
+    "https://www.mitsuwaseiki.co.jp/about.html",
+    "https://metoree.com/companies/44119/",
+    "https://ivry.jp/telsearch/0554452983/",
+    "https://tsu-kumiai.com/kaiin/%E6%A0%AA%E3%83%9F%E3%83%84%E3%83%AF%E7%B2%BE%E6%A9%9F%E8%A3%BD%E4%BD%9C%E6%89%80/",
+    "https://www.pref.yamanashi.jp/smartphone/rosei-koy/kigyo-navi/company/company-177.html",
+    "https://tsurukeieikyo.jp/company/394",
+    "https://www.mitsuwa-ss.jp/company.html",
+    "https://ja.nc-net.or.jp/company/73463/history/",
+    "https://www.mitsuwaseiki.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "ミツワ精機製作所 本社、第二工場 お問い合わせ メール",
+   "results": [
+    "https://tsu-kumiai.com/kaiin/%E6%A0%AA%E3%83%9F%E3%83%84%E3%83%AF%E7%B2%BE%E6%A9%9F%E8%A3%BD%E4%BD%9C%E6%89%80/",
+    "https://mono.ipros.com/company/detail/2071742/category/",
+    "https://www.mitsuwa-ss.jp/contact.html",
+    "https://www.mitsuwaseiki.co.jp/",
+    "https://ivry.jp/telsearch/0554452983/",
+    "https://mitsuwaseiki-ltd.jp/contact/",
+    "https://tsurukeieikyo.jp/company/394",
+    "http://www.shokokai-yamanashi.or.jp/~tsuru/b2b/bankin/4455.html",
+    "https://www.mitsu.co.jp/contact/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com ミツワ精機製作所 本社、第二工場",
+   "results": [
+    "https://note.com/apako_news/n/nbb10051fed91",
+    "https://note.com/sharp/n/n231750dacbbd",
+    "https://note.com/osakakotetu/n/n73ebbc67046e",
+    "https://note.com/okamasayuki/n/n2f3ceabbad9f",
+    "https://note.com/shokoryuzaki/n/neff3becf918c",
+    "https://note.com/kiyopenguin/n/n1a754dcb8828",
+    "https://note.com/kakunoshins/n/n6484fb9ce864",
+    "https://note.com/chitose_ark/n/n99149c2d9178",
+    "https://note.com/ikematsu/n/n0716fee5a606",
+    "https://note.com/clipcorporation/n/n789dfc79b761"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com ミツワ精機製作所 本社、第二工場",
+   "results": [
+    "https://x.com/yumeka___h",
+    "https://x.com/sangi_sen",
+    "https://x.com/WBterminal",
+    "https://x.com/mrtwakemon",
+    "https://jf.x.com/images/media-preview/2098867153667854385",
+    "https://x.com/kyokutouseiki/status/1643173399840309248",
+    "https://x.com/HowaSeiki",
+    "https://x.com/nikkeikansai/status/1783239571267813822",
+    "https://x.com/kyokutouseiki",
+    "https://x.com/bisai_matsuura"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:linkedin.com ミツワ精機製作所 本社、第二工場",
+   "results": [
+    "https://jp.linkedin.com/directory/companies/more-4",
+    "https://www.linkedin.com/in/takashi-watanabe-a37704267",
+    "https://zm.linkedin.com/jobs/株式会社ミツワ精機製作所-熊本-jobs?countryRedirected=1",
+    "https://jp.linkedin.com/company/hibikiseiki",
+    "https://in.linkedin.com/company/zetwerk-in",
+    "https://jp.linkedin.com/company/駿河精機（株）",
+    "https://www.linkedin.com/home/?originalSubdomain=in",
+    "https://in.linkedin.com/jobs/retail-associate-jobs-india"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com ミツワ精機製作所 本社、第二工場",
+   "results": [
+    "https://www.facebook.com/zenkokutaikai.kanagawa/posts/%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E7%B5%8C%E5%96%B6%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AE%E5%A4%A7%E8%B0%B7%E7%9B%B4%E7%B4%80%E3%81%A7%E3%81%99%E6%9C%AC%E6%97%A5%E3%81%AF%E7%A7%81%E3%81%8B%E3%82%89%E5%88%86%E7%A7%91%E4%BC%9A%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%E3%82%92%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E7%B5%8C%E5%96%B6%E7%A0%94%E7%A9%B6%E4%BC%9A-%E5%88%86%E7%A7%91%E4%BC%9A%E8%AC%9B%E5%B8%AB-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%A4%E3%82%B6%E3%82%AD-%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9-%E5%B1%B1%E4%B9%8B%E4%B8%8A-%E9%81%93%E5%BB%A3-%E6%B0%8F-%E8%AC%9B/350613172208333/",
+    "https://www.facebook.com/miyazakiinternationalfes/videos/%E5%85%A8%E5%9B%BD%E6%8A%80%E8%83%BD%E4%BA%94%E8%BC%AA%E5%BB%BA%E5%85%B7%E9%83%A8%E9%96%80%E3%81%A7%E7%AC%AC%EF%BC%92%E4%BD%8D%E3%82%92%E5%8F%8E%E3%82%81%E3%81%9F%E5%AE%9F%E5%8A%9B%E3%81%AE%E6%8C%81%E3%81%A1%E4%B8%BB%E5%9C%9F%E6%8C%81%E3%81%95%E3%82%93%E3%82%A4%E3%83%B3%E3%83%90%E3%82%A6%E3%83%B3%E3%83%89%E3%83%96%E3%83%BC%E3%82%B9%E3%81%AB%E7%99%BB%E5%A0%B4%E3%81%A3/1557543224362867/",
+    "https://www.facebook.com/100063634716103/posts/1744830070981467/",
+    "https://www.facebook.com/miyazakiwelding/?locale=ja_JP",
+    "https://www.facebook.com/yoshimasa.hayashi.giinz/posts/%E9%AD%9A%E5%B1%8B%E3%81%AE%E3%81%8A%E3%81%A3%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%81%AB%E5%87%BA%E6%BC%94%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E7%9B%B4%E5%89%8D%E3%81%8C%E5%B0%8F%E6%B3%89%E9%80%B2%E6%AC%A1%E9%83%8E%E3%81%95%E3%82%93%E3%81%A8%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E4%BA%8B%E3%82%92%E3%81%97%E3%82%83%E3%81%B9%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A8%E3%81%AE%E3%81%93%E3%81%A8%E3%81%A7%E6%AC%A1%E4%B8%96%E4%BB%A3%E9%9D%A9%E6%96%B0%E7%82%89%E3%82%84%E3%83%AF%E3%83%83%E3%83%88%E3%83%93%E3%83%83%E3%83%88%E9%80%A3%E6%90%BA%E3%81%A8%E3%81%84%E3%81%A3%E3%81%9F%E7%A7%81%E3%81%AE%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E6%94%BF%E7%AD%96%E3%81%8B%E3%82%89%E8%A9%B1%E3%81%8C/913962460549035/",
+    "https://www.facebook.com/jal.japan/photos/%E6%9C%AC%E6%97%A5%E3%81%8B%E3%82%89%E4%BB%95%E4%BA%8B%E5%A7%8B%E3%82%81%E3%81%AE%E6%96%B9%E3%82%82%E5%A4%9A%E3%81%84%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B%E6%B0%97%E6%8C%81%E3%81%A1%E6%96%B0%E3%81%9F%E3%81%ABtakeoff/2940226186010026/",
+    "https://www.facebook.com/SaitoCityOffice/posts/%E5%BA%83%E5%A0%B1%E3%81%95%E3%81%84%E3%81%A8-12%E6%9C%88%E5%8F%B7-%E7%99%BA%E8%A1%8C%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E5%BA%83%E5%A0%B1%E3%81%95%E3%81%84%E3%81%A8%E3%81%AF%E5%9B%9E%E8%A6%A7%E3%81%A7%E3%81%94%E5%AE%B6%E5%BA%AD%E3%81%AB%E3%81%8A%E5%B1%8A%E3%81%91%E3%81%99%E3%82%8B%E3%81%BB%E3%81%8B%E5%B8%82%E5%BD%B9%E6%89%80%E3%82%84%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AA%E3%81%A9%E3%81%AE%E5%85%AC%E5%85%B1%E6%96%BD%E8%A8%AD%E3%81%AE%E3%81%BB%E3%81%8B%E5%B8%82%E5%86%85%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%81%86%E3%82%81%E3%81%93%E3%81%86%E3%81%98%E3%82%A8%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%97%E3%83%91%E3%82%AA%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%83%90%E3%83%AA%E3%83%A5%E3%82%84/1270860071735941/",
+    "https://www.facebook.com/MAHARAJA.Night/videos/%E7%86%8A%E6%9C%AC%E3%83%9E%E3%83%8F%E3%83%A9%E3%82%B8%E3%83%A3%E3%83%8A%E3%82%A4%E3%83%88/1846439206256514/",
+    "https://www.facebook.com/groups/186819818356968/",
+    "https://www.facebook.com/100009126998128/posts/4805953013052218/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "ミツワ精機製作所 本社、第二工場 note 社長",
+   "results": [
+    "https://tsu-kumiai.com/kaiin/%E6%A0%AA%E3%83%9F%E3%83%84%E3%83%AF%E7%B2%BE%E6%A9%9F%E8%A3%BD%E4%BD%9C%E6%89%80/",
+    "https://mono.ipros.com/company/detail/2071742/",
+    "https://ivry.jp/telsearch/0554452983/",
+    "https://www.mitsuwaseiki.co.jp/about.html",
+    "https://metoree.com/companies/44119/",
+    "http://www.shokokai-yamanashi.or.jp/~tsuru/b2b/bankin/4455.html",
+    "https://tsurukeieikyo.jp/company/394",
+    "https://note.com/machi_hito1507/n/n60b6fbbc055b",
+    "https://suwa.monozukuri.or.jp/detail/02072/",
+    "https://www.mitsuwa-ss.jp/company.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ミツワ精機製作所 本社、第二工場 X 投稿",
+   "results": [
+    "https://www.mitsuwaseiki.co.jp/about.html",
+    "https://mono.ipros.com/company/detail/2071742/",
+    "https://tsurukeieikyo.jp/company/394",
+    "https://ivry.jp/telsearch/0554452983/",
+    "https://tsu-kumiai.com/kaiin/%E6%A0%AA%E3%83%9F%E3%83%84%E3%83%AF%E7%B2%BE%E6%A9%9F%E8%A3%BD%E4%BD%9C%E6%89%80/",
+    "http://www.shokokai-yamanashi.or.jp/~tsuru/b2b/bankin/4455.html",
+    "https://www.mapion.co.jp/phonebook/M26037/19204/21930943817/",
+    "https://mono.ipros.com/product/detail/2001138853/",
+    "https://www.mitsuwaseiki.co.jp/",
+    "https://www.mitsuwa-ss.jp/company.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式7頁／PDF・画像9件／外部9頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像9件／外部9頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式7頁／PDF・画像9件／外部9頁・検索9回）"
+ }
+}

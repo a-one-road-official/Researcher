@@ -1,0 +1,1061 @@
+{
+ "name": "Metoro",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T19:35:28.715022+00:00",
+ "official_url": "https://metoro.io",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金モデル",
+    "value": "freemium",
+    "url": "https://saasmap.jp/tools/metoro",
+    "pass": 3
+   },
+   {
+    "label": "Pricing",
+    "value": "https://metoro.io/pricing",
+    "url": "https://saasmap.jp/tools/metoro",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "09-Sep-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/534585-79",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Metoro collects logs, metrics, traces, profiling, Kubernetes events, and deployment context from your cluster with eBPF.",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Metoro's AI agents use that context to detect production issues, investigate alerts, verify deployments, identify root causes, and open fix PRs.",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Metoro's collector runs as a DaemonSet on every node and captures the full telemetry stack at the kernel with no code changes, no SDKs, and no restarts. Every signal arrives pre-correlated with Kubernetes identity, so services, pods, and deploys already line up when the agent goes looking.",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "On-CPU flame graphs per process, always on. Spot hot paths and memory leaks without redeploying.",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Every rollout tied to commit, author, PR, and the workloads it touched.",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "OpenTelemetry / Prometheus-compatible for anything eBPF can't see",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser does not support the video tag.",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The same data that powers your dashboards becomes context for an agent that watches production continuously - detecting regressions, investigating alerts, verifying deploys, and opening fix PRs for issues as they arise.",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Metoro detects every change across your clusters. After a change is detected, Metoro analyzes the change (code or config) and verifies that production behavior is not impacted.",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Metoro investigates each alert automatically, filters the noise, and returns root cause and next steps before on-call digs in so you can can wake up to answers, not problems.",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Detection, investigation, and the fix PR - all before I finished reading the page. It's the first AI SRE that's actually earned its name.",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Pay only for what you use, no hidden fees, no surprises.",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "24/7 white glove support and onboarding",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "On-premises deployments",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "AWS Marketplace seller profile",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": ", whichever fits your preference. Compare prices with other vendors using our",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything you need to know about the product and billing. Cannot find the answer? Ask us in our",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "This is a great question and this was previously a problem with linux kernel modules. However, eBPF is explicitly designed in such a way that an ebpf program crash will not cause the kernel to crash. More info at",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Metoro uses our own eBPF programs that are loaded into the kernel of all your nodes in the Kubernetes cluster. This means you do not need to restart your containers to start collecting data.",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Which LLM providers does Metoro support for AI features?",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Do you offer on-premises installations?",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, we do as part of our enterprise offering. Please contact us for more information.",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "No, you do not need to enter your credit card details to sign up. You can sign up for free and use Metoro for free for limited workloads. When you are ready just upgrade to a paid plan.",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Metoro Pricing | Kubernetes Observability and AI SRE Pricing",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "24/7 white glove support and onboarding",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "On-premises deployments",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AWS Marketplace seller profile",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ". Compare prices with other vendors using our",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every tier is built around Kubernetes observability. Scale and Enterprise add the production controls most teams need as they grow.",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Contract, BYOC, or on-prem",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited with onboarding",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "BYOC / on-prem deployment",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Platform price stays separate",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your Metoro platform subscription covers observability, storage, retention, and product access.",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise customers can route AI SRE requests through their own AWS Bedrock account for tighter control.",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Startup teams are time starved. Metoro gives qualifying companies end-to-end Kubernetes observability in minutes, three months free, and discounted pricing after the free period.",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Discounted pricing after",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Apply to the startup programme",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Start with three months of Metoro at no cost, then move to discounted startup pricing.",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Install quickly and get logs, metrics, traces, events, profiling, and AI SRE context without a long instrumentation project.",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get a dedicated Slack channel for feature requests, onboarding questions, and ongoing support.",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Estimate Metoro pricing.",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Switch between Metoro Cloud, BYOC, and On-prem pricing.",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "days of retention. The first month is included in ingest pricing; longer retention is charged per GB for each additional month.",
+    "url": "https://metoro.io/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We're a small team in London and San Francisco shipping the tools we wish we'd had at 3am. If you like building production systems with real users on the other side, we'd love to talk.",
+    "url": "https://metoro.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Three principles, no exceptions.",
+    "url": "https://metoro.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We ship features in days, not months. Your code will be in production faster than you can say “kubectl apply”.",
+    "url": "https://metoro.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You'll work directly with our users, understand their pain points, and build solutions that actually solve their problems.",
+    "url": "https://metoro.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Have an idea? Test it. We believe in rapid experimentation and learning. No endless meetings or approval chains.",
+    "url": "https://metoro.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We're hiring across the team.",
+    "url": "https://metoro.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Proficiency in Go, Python, or TypeScript",
+    "url": "https://metoro.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Strong problem-solving skills",
+    "url": "https://metoro.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Experience with observability tools (Prometheus, Grafana, etc.)",
+    "url": "https://metoro.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Experience with data processing pipelines",
+    "url": "https://metoro.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Growth & Marketing Lead",
+    "url": "https://metoro.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "growth-marketing-lead",
+    "url": "https://metoro.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Lead our growth and marketing efforts to help developers discover and adopt Metoro. You'll own our go-to-market strategy and build our brand in the cloud-native community.",
+    "url": "https://metoro.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "5+ years of experience in growth marketing for B2B SaaS",
+    "url": "https://metoro.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Experience marketing to developers and DevOps teams",
+    "url": "https://metoro.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Technical background or ability to understand technical products",
+    "url": "https://metoro.io/careers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by hundreds of the best at",
+    "url": "https://metoro.io/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Metoro's collector runs as a DaemonSet on every node and captures the full telemetry stack at the kernel with no code changes, no SDKs, and no restarts. Every signal arrives pre-correlated with Kubernetes identity, so services, pods, and deploys already line up when the agent goes looking.",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, we do as part of our enterprise offering. Please contact us for more information.",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Join us if you want to work on genuinely cool tech, solve problems that make developers go “wait, that's possible?”, and be part of a team that believes debugging shouldn't require a PhD in distributed systems.",
+    "url": "https://metoro.io/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We began by defining Metoro’s Ideal Customer Profile (ICP) through in-depth research, identifying key personas such as DevOps teams, Site Reliability Engineers (SREs), and tech startups managing Kubernetes environments. This helped us narrow the focus to decision-makers who could benefit most from the platform.",
+    "url": "https://www.solveo.co/case-study/helping-metoro-define-their-icp-and-attract-early-users",
+    "pass": 3
+   },
+   {
+    "quote": "To build further visibility, we listed Metoro in over",
+    "url": "https://www.solveo.co/case-study/helping-metoro-define-their-icp-and-attract-early-users",
+    "pass": 3
+   },
+   {
+    "quote": "Metoro was listed in more than 15 startup directories, strengthening its presence within the tech and startup ecosystem.",
+    "url": "https://www.solveo.co/case-study/helping-metoro-define-their-icp-and-attract-early-users",
+    "pass": 3
+   },
+   {
+    "quote": "Metoro has 3 total employees.",
+    "url": "https://pitchbook.com/profiles/company/534585-79",
+    "pass": 3
+   },
+   {
+    "quote": "What is Metoro’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/534585-79",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Metoro is",
+    "url": "https://pitchbook.com/profiles/company/534585-79",
+    "pass": 3
+   },
+   {
+    "quote": "Metoro — AI Infrastructure Revenue, Funding & Data | IntelPilot.ai",
+    "url": "https://www.intelpilot.ai/company/metoro/69daff26a6715bdc3095e490",
+    "pass": 3
+   },
+   {
+    "quote": "$330K ARR",
+    "url": "https://www.intelpilot.ai/company/metoro/69daff26a6715bdc3095e490",
+    "pass": 3
+   },
+   {
+    "quote": "Reached $330K ARR in 2025",
+    "url": "https://www.intelpilot.ai/company/metoro/69daff26a6715bdc3095e490",
+    "pass": 3
+   },
+   {
+    "quote": "3 employees",
+    "url": "https://www.intelpilot.ai/company/metoro/69daff26a6715bdc3095e490",
+    "pass": 3
+   },
+   {
+    "quote": "Developer-focused content marketing through technical blog posts. Y Combinator network and community for early customer acquisition. Direct outreach to DevOps and SRE teams at cloud-native companies.",
+    "url": "https://www.intelpilot.ai/company/metoro/69daff26a6715bdc3095e490",
+    "pass": 3
+   },
+   {
+    "quote": "How Metoro hit $330K revenue with a 3 person team in 2025",
+    "url": "https://www.intelpilot.ai/company/metoro/69daff26a6715bdc3095e490",
+    "pass": 3
+   },
+   {
+    "quote": "Metoro CEO shares how they hit $330K revenue with a small team.",
+    "url": "https://www.intelpilot.ai/company/metoro/69daff26a6715bdc3095e490",
+    "pass": 3
+   },
+   {
+    "quote": "Metoro Revenue 2025: $330K Est.",
+    "url": "https://getlatka.com/companies/metoro.io",
+    "pass": 3
+   },
+   {
+    "quote": "Metoro has not published its revenue. GetLatka estimates it at about $330K a year (September 2025).",
+    "url": "https://getlatka.com/companies/metoro.io",
+    "pass": 3
+   },
+   {
+    "quote": "Metoro CEO, founders & employees",
+    "url": "https://getlatka.com/companies/metoro.io",
+    "pass": 3
+   },
+   {
+    "quote": "Chris Battarbee founded Metoro in 2023 and runs it as CEO. Metoro had 3 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/metoro.io",
+    "pass": 3
+   },
+   {
+    "quote": "What is Metoro's revenue?",
+    "url": "https://getlatka.com/companies/metoro.io",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Metoro's revenue at about",
+    "url": "https://getlatka.com/companies/metoro.io",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Metoro have?",
+    "url": "https://getlatka.com/companies/metoro.io",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/metoro.io",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/metoro.io",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/metoro.io",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/metoro.io",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Yes, we do as part of our enterprise offering. Please contact us for more information.",
+    "url": "https://metoro.io/",
+    "pass": 1
+   },
+   {
+    "quote": "With the ICP established, we launched targeted LinkedIn and email campaigns aimed at connecting with these decision-makers. These efforts, combined with Google Ads campaigns, drove high-intent traffic to Metoro’s website, contributing to a",
+    "url": "https://www.solveo.co/case-study/helping-metoro-define-their-icp-and-attract-early-users",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/534585-79",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "SaaS MAPでは、単に有名かどうかではなく、AI機能、Agent Ready、料金、日本からの使いやすさ、外部連携の観点から導入判断に必要な情報を整理しています",
+    "url": "https://saasmap.jp/tools/metoro",
+    "pass": 3
+   },
+   {
+    "quote": "日本語UI、JCB決済、日本円請求書などの国内対応は導入前に公式情報で確認したい項目です",
+    "url": "https://saasmap.jp/tools/metoro",
+    "pass": 3
+   },
+   {
+    "quote": "日本語UIや日本語ドキュメントは限定的な可能性があります",
+    "url": "https://saasmap.jp/tools/metoro",
+    "pass": 3
+   },
+   {
+    "quote": "日本円請求書や支払い条件は導入前に確認したい",
+    "url": "https://saasmap.jp/tools/metoro",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Metoro: Kubernetesオブザーバビリティの未来を切り開くAIプラットフ... — Dec 26, 2024 · Metoroのソリューションは、生成AIを活用してシステムの異常検出や根本原因分析を効率化しています。 具体的には、収集されたトレース、メトリクス、ログ、プロファイリングデータをAIが解析し、パフォーマンス低下の原因や異常を特定します。",
+    "url": "https://generative-ai.co.jp/usecase/ai-startup-usecase-metoro/",
+    "pass": 3
+   },
+   {
+    "quote": "Metoroの使い方・料金・MCP対応｜アクセス解析・プロダクト分析【2026... — SaaS MAPでは、単に有名かどうかではなく、AI機能、Agent Ready、料金、日本からの使いやすさ、外部連携の観点から導入判断に必要な情報を整理しています。 AI機能はネイティブ機能として組み込まれており、日常業務の自動化や判断支援に活用できます。",
+    "url": "https://saasmap.jp/tools/metoro",
+    "pass": 3
+   },
+   {
+    "quote": "Metoro | AI SRE Agent For Kubernetes — Metoro is an AI SRE and observability platform for teams running on Kubernetes. It automatically detects production issues, investigates alerts, verifies deployments, and finds root causes using built-in eBPF telemetry, Kubernetes context, and code-change analysis.",
+    "url": "https://metoro.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Helping Metoro Define Their ICP and Attract Early Users — We began by defining Metoro’s Ideal Customer Profile (ICP) through in-depth research, identifying key personas such as DevOps teams, Site Reliability Engineers (SREs), and tech startups managing Kubernetes environments.",
+    "url": "https://www.solveo.co/case-study/helping-metoro-define-their-icp-and-attract-early-users",
+    "pass": 3
+   },
+   {
+    "quote": "Metoro ROI — A business case for Metoro usually comes from a mix of lower downtime cost, lower engineering time spent debugging, lower observability platform cost, and fewer incidents reaching production.",
+    "url": "https://metoro.io/enterprise/support-docs/metoro-roi",
+    "pass": 3
+   },
+   {
+    "quote": "Metoro 2026 Company Profile: Valuation, Funding & Investors ...Metoro — AI Infrastructure Revenue, Funding & DataMetoro Revenue 2025: $330K Est. - getlatka.comMetoro - 2025 Company Profile, Team, Funding & Competitors ...Metoro - Crunchbase Company Profile & FundingMetro – Financial Footprint & Growth Factors – 2026 – AlamoMetoro - Products, Competitors, Financials, Employees ... — Information on ",
+    "url": "https://pitchbook.com/profiles/company/534585-79",
+    "pass": 3
+   },
+   {
+    "quote": "Metoro — AI Infrastructure Revenue, Funding & Data — AI SRE platform that autonomously monitors Kubernetes environments and fixes issues. Revenue: $330K ARR. Funding: $130K seed from Y Combinator S23. Team: 3 employees. Users: Hundreds of teams. Source-verified data from IntelPilot.ai.",
+    "url": "https://www.intelpilot.ai/company/metoro/69daff26a6715bdc3095e490",
+    "pass": 3
+   },
+   {
+    "quote": "Metoro Revenue 2025: $330K Est. - getlatka.com — Aug 10, 2026 · Metoro is an AIOps Tools company based in London, founded in 2023. Metoro has not published its revenue. GetLatka estimates it at about $330K a year (September 2025). Chris Battarbee founded Metoro in 2023 and runs it as CEO. Metoro had 3 employees (June 2024, LinkedIn). What is Metoro's revenue?",
+    "url": "https://getlatka.com/companies/metoro.io",
+    "pass": 3
+   },
+   {
+    "quote": "Metoro - 2025 Company Profile, Team, Funding & Competitors ... — Metoro is a seed company based in San Francisco (United States), founded in 2023 by Chris Battarbee and Thomas Pointon. It operates as an AI powered bug fixing platform.",
+    "url": "https://tracxn.com/d/companies/metoro/__cWy3N8_2_CNjmUjzWG-yanCJrTy5WQ01LRE5zoUha3k",
+    "pass": 3
+   },
+   {
+    "quote": "Metoro - Crunchbase Company Profile & FundingMetro – Financial Footprint & Growth Factors – 2026 – AlamoMetoro - Products, Competitors, Financials, Employees ... — Metoro has 5 investors including XG Ventures and Apertu Capital. When was the last funding round for Metoro? Metoro closed its last funding round on. from a Pre-Seed round. Who are Metoro's competitors? Alternatives and possible competi",
+    "url": "https://www.crunchbase.com/organization/metoro",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Metoro (@soymetoro_) / X 1 223 Metoro @soymetoro_ Mar 17 how it feels to not draw and just watch how my acc deteriorates each day cuz im lowkey a chud",
+    "url": "https://x.com/soymetoro_",
+    "pass": 3
+   },
+   {
+    "quote": "METORO (@metorokou) / X 今話題のマットレスを購入してみて数ヶ月経ったけど、やっぱり買ってよかった！ クーポンコード【metoro】で10%OFFにて購入いただけます 👇マットレスの概要はこちら👇 bit.ly/3ZmrO5B #PR #NELL #NELLマットレス #ネル #ネルマットレス #NELL愛",
+    "url": "https://x.com/metorokou",
+    "pass": 3
+   },
+   {
+    "quote": "metoro (@nedo1026) / X 37 metoro @nedo1026 5h リメイクらしいからあんまりシナリオ面の追加要素とか諸々は期待できないだろうなぁと思いつつも、キャラの深掘りとかないかなと思ってる",
+    "url": "https://x.com/nedo1026",
+    "pass": 3
+   },
+   {
+    "quote": "Metoro on X: \"guess whos back ️ (comm) #furry #furryart # ... Post Metoro @soymetoro_ guess whos back 👀🗣️ (comm) #furry #furryart #artwork #commissionㅤ 4:30 PM · Jul 28, 2026 1KViews",
+    "url": "https://x.com/soymetoro_/status/2082247229406908581",
+    "pass": 3
+   },
+   {
+    "quote": "METORO (@metorokou) / X @metorokou Mar 2 こちら沢山のご応募ありがとうございます 予定がかなり埋まってきたため、一旦募集を停止させていただきます 5月頃から再開しますので、ご検討中の方は是非ご一緒しましょう🙌 METORO @metorokou Feb 15",
+    "url": "https://x.com/metorokou",
+    "pass": 3
+   },
+   {
+    "quote": "めとろ (@metoro_mt) / X めとろ @metoro_mt ゲーム&日常雑多│お絵描き垢は @ metoro_mtr 🔰🎨 pixiv.net/users/96176218 Joined February 2021",
+    "url": "https://x.com/metoro_mt",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Metoro - LinkedIn The AI SRE for teams running on Kubernetes. About us Metoro helps Kubernetes teams detect production issues, investigate alerts, verify deployments, and identify root causes automatically.",
+    "url": "https://www.linkedin.com/company/metoroai",
+    "pass": 3
+   },
+   {
+    "quote": "Metoro Okoko - Generative AI | Prompt Engineering | Product ...Meteoro Minerals - LinkedInMETRO Sourcing International Limited - LinkedInNathan Meteoro - Psychologist | Organisational Psychology ...METRO Pakistan (Pvt) Limited - LinkedIn View Metoro Okoko’s profile on LinkedIn, a professional community of 1 billion members. Meteoro Minerals | 837 seguidores en LinkedIn. Trade Smarter. Move Faster.",
+    "url": "https://ng.linkedin.com/in/metoro-okoko",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Metoro - Facebook Jul 31, 2023 · Metoro (YC S23) is an AI that understand your production systems, helping developers debug faster.",
+    "url": "https://www.facebook.com/metoroai/",
+    "pass": 3
+   },
+   {
+    "quote": "Metoro - Facebook Metoro is a town in Ancuabe District in Cabo Delgado Province in northeastern Mozambique.It is located southwest of the district capital of Ancuabe.",
+    "url": "https://www.facebook.com/pages/Metoro/105992582764653/",
+    "pass": 3
+   },
+   {
+    "quote": "Meteoro - FacebookMetoro Abraham - FacebookMeteoro Brasil - FacebookMetoro Akpan - Facebook May 5, 2026 · Meteoro. 360,525 followers · 60 talking about this. Informacion Meteorologica los 365 dias del Año. 10 Años informando el tiempo para La Republica Argentina y el mundo. Lider en Informes... Oct 15, 2026 · Metoro Abraham. 140 followers · 25 talking about this. happiness is everything bro🤷 God f",
+    "url": "https://www.facebook.com/PaginaOficialdeMeteoro/",
+    "pass": 3
+   },
+   {
+    "quote": "Metoro Abraham - Facebook Oct 15, 2026 · Metoro Abraham. 140 followers · 25 talking about this. happiness is everything bro🤷 God first 🙏stay consistent because there is time for everything",
+    "url": "https://www.facebook.com/p/Metoro-Abraham-61574372886952/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://metoro.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoro.io/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoro.io/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://metoro.io/_next/image?url=%2Fstatic%2Fimages%2Flogos%2FYCombinator.png&w=256&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://metoro.io/static/images/logos/nucocloud.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://metoro.io/_next/image?url=%2Fstatic%2Fimages%2Flogos%2Faposyro.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://metoro.io/static/images/logos/asteroid-ai.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://generative-ai.co.jp/usecase/ai-startup-usecase-metoro/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saasmap.jp/tools/metoro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hitachi.com/ja-jp/press/articles/2025/11/1126/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metrohm.com/ja_jp.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://context.reverso.net/%E7%BF%BB%E8%A8%B3/%E6%97%A5%E6%9C%AC%E8%AA%9E-%E8%8B%B1%E8%AA%9E/%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metoro-web.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Tokyo_Metro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/List_of_urban_rail_systems_in_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyometro.jp/en/index.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/windows-metro-style",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solveo.co/case-study/helping-metoro-define-their-icp-and-attract-early-users",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.studocu.com/in/document/gl-bajaj-institute-of-technology-and-management/mba/case-study-mcob-mr-rajeshs-journey-to-presidency-at-metro-manufacturing/174228525",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/534585-79",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.intelpilot.ai/company/metoro/69daff26a6715bdc3095e490",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/metoro.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/metoro/__cWy3N8_2_CNjmUjzWG-yanCJrTy5WQ01LRE5zoUha3k",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/soymetoro_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/metorokou",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nedo1026",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/soymetoro_/status/2082247229406908581",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/metoroai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ng.linkedin.com/in/metoro-okoko",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/metoroai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/Metoro/105992582764653/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PaginaOficialdeMeteoro/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Metoro-Abraham-61574372886952/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/metorokou",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/soymetoro_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nedo1026",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/metoro_mt",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Metoro 日本 導入",
+   "results": [
+    "https://generative-ai.co.jp/usecase/ai-startup-usecase-metoro/",
+    "https://saasmap.jp/tools/metoro",
+    "https://www.hitachi.com/ja-jp/press/articles/2025/11/1126/",
+    "https://www.metrohm.com/ja_jp.html",
+    "https://www.metoro.jp/",
+    "https://www.tokyometro.jp/corporate/enterprise/passenger_rail/cars/index.html",
+    "https://www.metrol.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metoro 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.metoro-web.com/",
+    "https://metroele.com/",
+    "https://www.metro.co.jp/corporate/about_corporate.html",
+    "https://global.nissannews.com/en/releases/160715-01-j"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metoro Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Tokyo_Metro",
+    "https://en.wikipedia.org/wiki/List_of_urban_rail_systems_in_Japan",
+    "https://metoro.io/",
+    "https://www.tokyometro.jp/en/index.html",
+    "https://www.tokyometro.jp/en/subwaymap/index.html",
+    "https://www.metro-japan.com/",
+    "https://www.metroresidences.com/jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metoro manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/windows-metro-style",
+    "https://www.solveo.co/case-study/helping-metoro-define-their-icp-and-attract-early-users",
+    "https://www.studocu.com/in/document/gl-bajaj-institute-of-technology-and-management/mba/case-study-mcob-mr-rajeshs-journey-to-presidency-at-metro-manufacturing/174228525",
+    "https://metoro.io/enterprise/support-docs/metoro-roi",
+    "https://www.metro-sys.com/case-studies",
+    "https://metrosteelusa.com/blog/case-studies/",
+    "https://www.motorolasolutions.com/en_us/about/customers.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metoro white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.seoreseller.com/",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.sap.com/partners/partner-program.html",
+    "https://upcloud.com/partner-program/",
+    "https://partner.vw.com/partner"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metoro founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/534585-79",
+    "https://www.intelpilot.ai/company/metoro/69daff26a6715bdc3095e490",
+    "https://getlatka.com/companies/metoro.io",
+    "https://tracxn.com/d/companies/metoro/__cWy3N8_2_CNjmUjzWG-yanCJrTy5WQ01LRE5zoUha3k",
+    "https://www.crunchbase.com/organization/metoro",
+    "https://www.cbinsights.com/company/metoro",
+    "https://compworth.com/company/metro"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Metoro",
+   "results": [
+    "https://note.com/metoro_ire",
+    "https://note.com/mmmetro",
+    "https://note.com/the_metro___/n/n342d10c0e338?hl=en",
+    "https://note.com/meteoro717/n/n753982f4f642",
+    "https://note.com/hopesan/n/ncbb7c6e64833",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/cute_willet990/n/n9529041a97d7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Metoro",
+   "results": [
+    "https://x.com/soymetoro_",
+    "https://x.com/metorokou",
+    "https://x.com/nedo1026",
+    "https://x.com/soymetoro_/status/2082247229406908581",
+    "https://x.com/metrolosangeles",
+    "https://x.com/meteoro_br",
+    "https://x.com/metroboomin"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Metoro",
+   "results": [
+    "https://www.linkedin.com/company/metoroai",
+    "https://www.linkedin.com/company/metro",
+    "https://ng.linkedin.com/in/metoro-okoko",
+    "https://co.linkedin.com/company/meteorominerals",
+    "https://hk.linkedin.com/company/metro-sourcing-international-limited",
+    "https://pk.linkedin.com/company/metro-pakistan-pvt-limited",
+    "https://au.linkedin.com/in/n-meteoro"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Metoro",
+   "results": [
+    "https://www.facebook.com/metoroai/",
+    "https://www.facebook.com/pages/Metoro/105992582764653/",
+    "https://www.facebook.com/PaginaOficialdeMeteoro/",
+    "https://www.facebook.com/p/Metoro-Abraham-61574372886952/",
+    "https://www.facebook.com/metoro.akpan.2025/",
+    "https://www.facebook.com/EscuelaMeteoroAviacion/",
+    "https://www.facebook.com/meteorobr/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metoro note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.zaikai.jp/articles/detail/2552"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metoro X 投稿",
+   "results": [
+    "https://x.com/metorokou",
+    "https://x.com/soymetoro_",
+    "https://x.com/nedo1026",
+    "https://x.com/metoro_mt",
+    "https://x.com/metorokou/status/1160763362906501120",
+    "https://x.com/retoro_metoro/status/2112712220715143198",
+    "https://x.com/metoro_youtube/status/2113557289147736554"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部36頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部36頁・検索12回）"
+ }
+}

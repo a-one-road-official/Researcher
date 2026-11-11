@@ -1,0 +1,1019 @@
+{
+ "name": "Gitprime",
+ "aliases": [],
+ "context": "旧営業リスト｜Software Engineering Intelligence｜未接触",
+ "researched_at": "2026-11-11T19:12:07.851494+00:00",
+ "official_url": "https://www.appfire.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "hiring-without-whiteboards",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "Companies that don't do typical CS based whiteboard interviews. The whiteboard is metaphorical.",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "Tools for Git users and GitPrime Customers",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "gitprime/gitprime-tools's past year of commit activity",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "test-repo-branch-prune-finish",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "gitprime/test-repo-branch-prune-finish's past year of commit activity",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "test-repo-branch-prune-start",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "gitprime/test-repo-branch-prune-start's past year of commit activity",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "gitprime/CVESlack's past year of commit activity",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "The HTML Presentation Framework",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "gitprime/reveal.js's past year of commit activity",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "gitprime/segment-queue's past year of commit activity",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "gitprime/hiring-without-whiteboards's past year of commit activity",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "gitprime/GitPython's past year of commit activity",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "gitprime/python-functools32's past year of commit activity",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime: ソフトウェア開発リーダーのための可視化と分析",
+    "url": "https://huntscreens.com/ja/products/gitprime",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrimeは、ソフトウェア開発リーダー向けの可視化と分析を提供するツールです",
+    "url": "https://huntscreens.com/ja/products/gitprime",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime Is Gone: What Happened to Pluralsight Flow and What to Use Instead",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "If you're looking for GitPrime, you're looking for something that no longer exists under that name. GitPrime was acquired by Pluralsight in 2019, rebranded as Pluralsight Flow, and then folded into Vista Equity's private-equity roll-up of Pluralsight in 2021. Here's the full story — and where engineering teams are going now.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime was founded in 2015 by Travis Kimmel and Davida Rivka in Durango, Colorado. At the time, engineering managers had almost no visibility into how their teams worked. Velocity was measured in story points (a deeply imperfect proxy), and questions like \"which teams are shipping fastest?\" or \"where is review time piling up?\" required manual analysis of GitHub data that nobody had time to do.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime changed that. It connected to GitHub and surfaced PR cycle time, review participation, coding days, and throughput in a clean dashboard. It was arguably the first product that made engineering metrics accessible to non-engineers — engineering managers could finally open a dashboard and understand what their team had shipped last week without asking a developer to write a query.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "The product grew quickly among engineering-led companies in 2016–2018, particularly in the software-as-a-service sector. It pioneered what is now called the \"engineering intelligence\" category.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2019, Pluralsight acquired GitPrime for an undisclosed sum. Pluralsight, then a publicly traded developer skills platform, saw GitPrime as a natural extension of its mission: if you're already tracking developer skills development, why not also track developer output?",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Pluralsight rebranded GitPrime as Pluralsight Flow and integrated it into its product suite. For the first year or two post-acquisition, Flow continued to receive product investment — the team shipped DORA metric dashboards (deploying the research from the DORA State of DevOps reports), improved team benchmarking, and added more Jira integration capabilities.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "The original GitPrime founding team eventually departed, as often happens post-acquisition. Without the original product vision driving it, Flow began drifting toward maintenance mode.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "In December 2020, Vista Equity Partners announced it would take Pluralsight private for approximately $3.5 billion. The deal closed in early 2021. Vista Equity is a private-equity firm that specializes in enterprise software acquisitions, and its standard playbook is well-documented: cut costs, focus on revenue retention, reduce R&D investment, and optimize for EBITDA.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "For Pluralsight Flow, this meant the product entered a slow freeze. Feature development slowed significantly. The engineering team was reduced. The integration roadmap that Flow users had been expecting — better incident management integration, AI-powered analysis, risk prediction, coverage tracking — never materialized.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Meanwhile, competitors were shipping rapidly. Swarmia added Linear integration and developer experience metrics. LinearB shipped an automation layer for PR workflows. Jellyfish expanded its business alignment reporting. And newer entrants like Koalr built deployment risk prediction, AI chat, and CODEOWNERS enforcement from scratch as first-class features — things Flow never added.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Pluralsight Flow still exists as a product. It still has customers. The core DORA dashboard functionality, PR analytics, and GitHub/Jira integration still work. If your team signed up for Flow four years ago and the basics are sufficient for your needs, you're probably still getting value from it.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "But the product is frozen relative to the market. Pricing remains enterprise-only (contact sales), which prices out teams that were considering it. The roadmap shows little in the way of AI, risk prediction, or new integration work. Support response times have stretched. Teams that need more than the 2020-era feature set are leaving.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Teams leaving GitPrime / Pluralsight Flow in 2026 are generally moving to one of four platforms, depending on their priorities:",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Strong GitHub and Linear integration, clean interface, good DORA dashboards. Best for teams focused on developer experience measurement and investment balance. No deployment risk prediction or AI chat.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "LinearB — PR workflow automation",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Mature DORA and PR metrics with a unique automation layer (WorkerB) that can auto-label PRs, request reviews, and send reminders. Best for teams that want workflow automation built into their metrics platform.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Jellyfish — Enterprise business alignment",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "The enterprise option for teams that need to connect engineering work to OKRs, roadmap commitments, and board-level reporting. $114.5M funded. High cost and implementation overhead — genuine overkill for DORA-only needs.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "The GitPrime Legacy: What It Got Right",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Every tool in this category stands on the foundation GitPrime built. The question for engineering teams today is what comes next: the baseline capabilities GitPrime established are now table stakes, and the differentiation is in what you build on top of them.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Deployment risk prediction. AI-powered analysis. CODEOWNERS governance. Coverage integration. The engineering intelligence category has moved far beyond where GitPrime left it.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Looking for a modern GitPrime replacement?",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Koalr picks up where GitPrime left off — same DORA foundation, plus deploy risk scoring, AI chat, and CODEOWNERS enforcement.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub - gitprime/gitprime-tools: Tools for Git users and GitPrime Customers · GitHub",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Tools for Git users and GitPrime Customers",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "The GitPrime Tools (GPT) are command-line tools, based on Bash, indented to give developers extra tools they can use to",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Build as an extensible \"command executor\", the tools can be extended easily to provide new functionality as",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Git hook extensions to allow developers to embed hooks into their projects that are automatically executed.",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Bash-based scripting libraries that can be used in other scripting projects.",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Installation of the GitPrime Tools is very simple and straight forward. To install them:",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "https://github.com/gitprime/gitprime-tools/releases",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Decompress the downloaded artifact into a temporary directory.",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "In a terminal window, change to the directory where you decompressed the artifact. For example",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "cd /tmp/gitprime-tools-1.0.0",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Exit your terminal window and open a new one so that the new settings and tools are properly activated.",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "--directory: This option sets the directory where the GitPrime Tools will be installed on your system.",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "${HOME}/.gitprime-tools",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Once the tools are properly installed and activated in your terminal, there are several commands you can",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "For example, to update the GitPrime Tools, execute:",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Update GitPrime Tools to the latest version:",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime Tools were originally created to provide an extensible mechanism for using Git hooks. This",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "This organization has no public members. You must be a member to see who’s a part of this organization.",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "If you're looking for GitPrime, you're looking for something that no longer exists under that name. GitPrime was acquired by Pluralsight in 2019, rebranded as Pluralsight Flow, and then folded into Vista Equity's private-equity roll-up of Pluralsight in 2021. Here's the full story — and where engineering teams are going now.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "The Pluralsight Acquisition (2019)",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "In March 2019, Pluralsight acquired GitPrime for an undisclosed sum. Pluralsight, then a publicly traded developer skills platform, saw GitPrime as a natural extension of its mission: if you're already tracking developer skills development, why not also track developer output?",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Pluralsight rebranded GitPrime as Pluralsight Flow and integrated it into its product suite. For the first year or two post-acquisition, Flow continued to receive product investment — the team shipped DORA metric dashboards (deploying the research from the DORA State of DevOps reports), improved team benchmarking, and added more Jira integration capabilities.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "The original GitPrime founding team eventually departed, as often happens post-acquisition. Without the original product vision driving it, Flow began drifting toward maintenance mode.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "In December 2020, Vista Equity Partners announced it would take Pluralsight private for approximately $3.5 billion. The deal closed in early 2021. Vista Equity is a private-equity firm that specializes in enterprise software acquisitions, and its standard playbook is well-documented: cut costs, focus on revenue retention, reduce R&D investment, and optimize for EBITDA.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "part of the GitPrime Tools packages is very extensible and can be used to extend and enforce developer",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/101628-55",
+    "pass": 3
+   },
+   {
+    "quote": "9. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/101628-55",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime has 60 total employees.",
+    "url": "https://pitchbook.com/profiles/company/101628-55",
+    "pass": 3
+   },
+   {
+    "quote": "What is GitPrime’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/101628-55",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for GitPrime is",
+    "url": "https://pitchbook.com/profiles/company/101628-55",
+    "pass": 3
+   },
+   {
+    "quote": "When was GitPrime acquired?",
+    "url": "https://pitchbook.com/profiles/company/101628-55",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime was acquired on 09-May-2019.",
+    "url": "https://pitchbook.com/profiles/company/101628-55",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired GitPrime?",
+    "url": "https://pitchbook.com/profiles/company/101628-55",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime was acquired by",
+    "url": "https://pitchbook.com/profiles/company/101628-55",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/gitprime/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "durangoherald.com/articles/gitprime-acquired-by-utah-company-for-170-million",
+    "url": "https://startupintros.com/orgs/gitprime",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "If you're looking for GitPrime, you're looking for something that no longer exists under that name. GitPrime was acquired by Pluralsight in 2019, rebranded as Pluralsight Flow, and then folded into Vista Equity's private-equity roll-up of Pluralsight in 2021. Here's the full story — and where engineering teams are going now.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Pluralsight rebranded GitPrime as Pluralsight Flow and integrated it into its product suite. For the first year or two post-acquisition, Flow continued to receive product investment — the team shipped DORA metric dashboards (deploying the research from the DORA State of DevOps reports), improved team benchmarking, and added more Jira integration capabilities.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "--ticket-url: This sets the URL of your ticket-tracking system. This URL will be used by the ticket-enforcement",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "Replicated Case Study: GitPrime – GitPrime - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/replicated/case-study/gitprime-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime - Customer Case Study",
+    "url": "https://www.casestudies.com/company/replicated/case-study/gitprime-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how GitPrime used Replicated",
+    "url": "https://www.casestudies.com/company/replicated/case-study/gitprime-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/replicated/case-study/gitprime-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/replicated/case-study/gitprime-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "128 Technology - Customer case study",
+    "url": "https://www.casestudies.com/company/gitprime",
+    "pass": 3
+   },
+   {
+    "quote": "Storyblocks - Customer case study",
+    "url": "https://www.casestudies.com/company/gitprime",
+    "pass": 3
+   },
+   {
+    "quote": "128 Technology - Customer case study",
+    "url": "https://www.featuredcustomers.com/vendor/gitprime/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/gitprime/case-studies",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "GitPrime - GitHub — GitPrime Data driven productivity tracking for software teams 16 followers Worldwide https://gitprime.com/ 9",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime: ソフトウェア開発リーダーのための可視化と分析 — GitPrimeは、ソフトウェア開発リーダー向けの可視化と分析を提供するツールです。2019年5月にPluralsightに買収されました。",
+    "url": "https://huntscreens.com/ja/products/gitprime",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime Is Gone: What Happened to Pluralsight Flow and What ... — Mar 17, 2026 · If you're looking for GitPrime, you're looking for something that no longer exists under that name. GitPrime was acquired by Pluralsight in 2019, rebranded as Pluralsight Flow, and then folded into Vista Equity's private-equity roll-up of Pluralsight in 2021.",
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Tools for Git users and GitPrime Customers - GitHub — GitPrime Tools were originally created to provide an extensible mechanism for using Git hooks. This part of the GitPrime Tools packages is very extensible and can be used to extend and enforce developer workflows when using Git.",
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime 2026 Company Profile: Valuation, Investors ... — Information on acquisition, funding, cap tables, investors, and executives for GitPrime. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/101628-55",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime - GitHub — Tools for Git users and GitPrime Customers. Scans feeds for tools/applications/services and sends them to a slack channel. GitPython is a python library used to interact with Git repositories. A wrapper around Segment's library to use Redis queuing. Backport of the functools module from Python 3.2.3 for use with Python 2.7 and PyPy.",
+    "url": "https://github.com/gitprime/",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime: ソフトウェア開発リーダーのための可視化と分析 — GitPrimeは、ソフトウェア開発リーダー向けの可視化と分析を提供するツールです。 2019年5月にPluralsightに買収されました。",
+    "url": "https://huntscreens.com/ja/products/gitprime",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime 2026 Company Profile: Valuation, Investors ...Remote Job Opportunities at GitPrime - We Work RemotelyGit Compare — Information on acquisition, funding, cap tables, investors, and executives for GitPrime. Use the PitchBook Platform to explore the full profile. GitPrime is pioneering data-driven engineering. We report on the work patterns and the people-side of software development so engin",
+    "url": "https://pitchbook.com/profiles/company/101628-55",
+    "pass": 3
+   },
+   {
+    "quote": "Remote Job Opportunities at GitPrime - We Work Remotely — GitPrime is pioneering data-driven engineering. We report on the work patterns and the people-side of software development so engineering leaders can advocate for resources and show they’re driving business value based on objective data.",
+    "url": "https://weworkremotely.com/company/gitprime",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime - Customer Case Study — GitPrime partnered with Replicated (Internet) to solve key challenges. \"GitPrime - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/replicated/case-study/gitprime-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime B2B Case Studies & Customer Successes — See how GitPrime solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/gitprime",
+    "pass": 3
+   },
+   {
+    "quote": "12 GitPrime Case Studies, Success Stories, & Customer Stories — Narrow down 12 case studies by company size & industry to find out how GitPrime works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/gitprime/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "HOW GitPrime GENERATED $4.2M IN PIPELINE IN 90 DAYS WITH METADATA — GitPrime needed to increase the volume of top-of-funnel leads, improve lead conversion rates and lead quality, and accelerate existing opportunities, all with a lean demand gen staff.",
+    "url": "https://cdn2.hubspot.net/hubfs/496564/Case+Studies/Metadata+GitPrime+Case+Study+Final.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "27 GitPrime Customer Reviews & References | FeaturedCustomerscdn.featuredcustomers.com10 Manufacturing Case Studies [Detailed Review] [2026] — Read use cases, approaches & end results from real customers, including 12 testimonials & reviews, 3 videos, customer stories, & GitPrime reviews. In the case of GitPrime, we have a couple dozen employees and have raised just about $2 million in venture cap",
+    "url": "https://www.featuredcustomers.com/vendor/gitprime",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime — Company Profile | The Company Check — Oct 15, 2026 · GitPrime is a company based in Durango (United States) founded in 2014 by Travis Kimmel and Ben Thompson was acquired by Pluralsight in May 2019.. GitPrime has raised $13.84 million across 4 funding rounds from investors including Pluralsight, OpenView and DCVC.",
+    "url": "https://www.thecompanycheck.com/company/b/gitprime/tebzn1enoltodi61c",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime 2026 Company Profile: Valuation, Investors ...GitPrime – Estimated Net Worth, Growth & Competitor Overview –…GitPrime: Funding, Team & Investors | Startup IntrosGitPrime Information - RocketReachGitPrime Information - RocketReachGitPrime — Company Profile & Funding | Indexed.vc — Information on acquisition, funding, cap tables, investors, and executives for GitPrime. Use the PitchBook Pla",
+    "url": "https://pitchbook.com/profiles/company/101628-55",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime – Estimated Net Worth, Growth & Competitor Overview –… — Discover GitPrime's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/gitprime",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · GitPrime was founded in 2014 by Travis Kimmel and Ben Thompson in Durango, Colorado. Both founders brought a background in software development and engineering management, which informed their vision to create a tool that could quantify engineering progress and productivity objectively.",
+    "url": "https://startupintros.com/orgs/gitprime",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime Information - RocketReach — GitPrime is a Software, Computer Software, and Engineering Software company located in Durango, Colorado with $11.4 million in revenue and 31 employees. Find top employees, contact details and business statistics at RocketReach.",
+    "url": "https://rocketreach.co/gitprime-profile_b58f4023f71ac3ee",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/101628-55",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/gitprime/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/gitprime/case-studies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Georgia Witchel on X: \"A bunch of new followers here so I ... I was Born and raised in San Francisco, my dad was actually the COO and president of a YC company (Gitprime), and I did YC twice (Does that make me the first YC legacy?)",
+    "url": "https://x.com/GWitchel/status/2098450467840045058",
+    "pass": 3
+   },
+   {
+    "quote": "@gitprime | X The latest posts from @gitprime",
+    "url": "https://x.com/gitprime",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Today marks the end of my adventure at GitPrime ... - LinkedIn I’m grateful for the coaching, exposure, and challenges I’ve been given the opportunity to learn from at GitPrime, and for being able to work in such a strong, hungry, and tight-knit team.",
+    "url": "https://www.linkedin.com/posts/brookperry_today-marks-the-end-of-my-adventure-at-gitprime-activity-6613837574454681600-SvOA",
+    "pass": 3
+   },
+   {
+    "quote": "Exciting times at GitPrime — we just raised a ... - LinkedIn Exciting times at GitPrime — we just raised a $10.5M Series A led by OpenView Venture Partners to continue helping software engineering teams improve the way they work with concrete data.",
+    "url": "https://www.linkedin.com/posts/thompsonben_exciting-times-atgitprime-we-just-raised-activity-6394893022324092928-GKUY",
+    "pass": 3
+   },
+   {
+    "quote": "Pluralsight To Acquire GitPrime, the Leading Developer ... Big week at GitPrime - excited about this next stage for our team and for our customers. https://lnkd.in/gqh8R7Z",
+    "url": "https://hr.linkedin.com/posts/bclausen_pluralsight-to-acquire-gitprime-the-leading-activity-6530157550762106880-zmAY",
+    "pass": 3
+   },
+   {
+    "quote": "Devansh Tyagi - Sales and Marketing Specialist | Driving ...Jackson Gitundu - Engineering Management | AI Governance ...Laura Tacho posted on LinkedInOctavian Brînzea - Founder at erom.io | Governed AI Delivery ... As a Sales and Marketing Specialist at GITPRIME EDUCATION PVT LTD, I develop and execute strategies to increase the enrollment and retention of students in online courses. Senior Softwa",
+    "url": "https://in.linkedin.com/in/devansh-tyagi-698884239",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "GIT Prime - FacebookGitPrime acquired by Pluralsight Big... - Startup Colorado ...GitPrime is engineering intelligence... - WE CAN LIVE on mars ...Travis Kimmel, CEO of GitPrime sits down to chat ... - FacebookPunctuated Equilibrium? Travis Kimmel, CEO and Founder of ...FinSMEs.com - GitPrime Raises $10.5M in Series A Funding...Voltage Control - Thanks GitPrime for a great article on... May the Ja",
+    "url": "https://www.facebook.com/gitprimeeducation/",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime acquired by Pluralsight Big... - Startup Colorado ... May 3, 2019 · GitPrime acquired by Pluralsight Big news out of Durango - the local tech startup GitPrime has just been acquired by Pluralsight for $170 million. This...",
+    "url": "https://www.facebook.com/StartupColoradoOfficial/posts/gitprime-acquired-by-pluralsightbig-news-out-of-durango-the-local-tech-startup-g/2169761356482862/",
+    "pass": 3
+   },
+   {
+    "quote": "GitPrime is engineering intelligence... - WE CAN LIVE on mars ... Apr 28, 2015 · GitPrime is engineering intelligence that powers technology leadership with deep insight to reduce risk, optimize delivery & know the answer to hard...",
+    "url": "https://www.facebook.com/WeCanLiveOnMars/posts/gitprime-is-engineering-intelligence-that-powers-technology-leadership-with-deep/821569497931775/",
+    "pass": 3
+   },
+   {
+    "quote": "Travis Kimmel, CEO of GitPrime sits down to chat ... - Facebook Jan 31, 2019 · Travis Kimmel, CEO of GitPrime sits down to chat with us live from Silicon Slopes. GitPrime aggregates historical git data into easy to understand insights and reports, to help make engineering teams more successful.",
+    "url": "https://www.facebook.com/Nasdaq/videos/ssts19-ceo-of-gitprime-travis-kimmel/2242007979346906/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.appfire.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://github.com/gitprime/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/gitprime",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/gitprime/gitprime-tools",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%97%E3%83%A2%E3%83%AA%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.atlassian.com/ja/blog/atlassian-japan-launched",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/gitprime/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://koalr.com/blog/gitprime-alternatives",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/gitprime",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/101628-55",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/company/replicated/case-study/gitprime-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/gitprime",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/gitprime/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn2.hubspot.net/hubfs/496564/Case+Studies/Metadata+GitPrime+Case+Study+Final.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databricks.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.microsoft.com/en-us/partner-center/enroll/indirect-reseller-eligibility-requirements",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/gitprime/tebzn1enoltodi61c",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/101628-55",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/gitprime",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/gitprime",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/GWitchel/status/2098450467840045058",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/brookperry_today-marks-the-end-of-my-adventure-at-gitprime-activity-6613837574454681600-SvOA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/thompsonben_exciting-times-atgitprime-we-just-raised-activity-6394893022324092928-GKUY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hr.linkedin.com/posts/bclausen_pluralsight-to-acquire-gitprime-the-leading-activity-6530157550762106880-zmAY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/devansh-tyagi-698884239",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/gitprimeeducation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/StartupColoradoOfficial/posts/gitprime-acquired-by-pluralsightbig-news-out-of-durango-the-local-tech-startup-g/2169761356482862/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/WeCanLiveOnMars/posts/gitprime-is-engineering-intelligence-that-powers-technology-leadership-with-deep/821569497931775/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Nasdaq/videos/ssts19-ceo-of-gitprime-travis-kimmel/2242007979346906/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gitprime",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Gitprime 日本 導入",
+   "results": [
+    "https://github.com/gitprime/",
+    "https://huntscreens.com/ja/products/gitprime",
+    "https://koalr.com/blog/gitprime-alternatives",
+    "https://github.com/gitprime/gitprime-tools",
+    "https://pitchbook.com/profiles/company/101628-55",
+    "https://car.watch.impress.co.jp/docs/news/2153268.html",
+    "https://saiteki-ai.com/basics/ai-tool/github-copilot/how-to-set-github-copilot-to-japanese/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gitprime 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://ja.wikipedia.org/wiki/フィリップモリス",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.atlassian.com/ja/blog/atlassian-japan-launched",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://www.indexpro.co.jp/distributor/search-maker"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gitprime Japan",
+   "results": [
+    "https://github.com/gitprime/",
+    "https://koalr.com/blog/gitprime-alternatives",
+    "https://huntscreens.com/ja/products/gitprime",
+    "https://pitchbook.com/profiles/company/101628-55",
+    "https://weworkremotely.com/company/gitprime",
+    "https://gitprime.in/",
+    "https://www.amazon.co.jp/-/en/amazonprime"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gitprime manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/replicated/case-study/gitprime-customer-case-study",
+    "https://www.casestudies.com/company/gitprime",
+    "https://www.featuredcustomers.com/vendor/gitprime/case-studies",
+    "https://cdn2.hubspot.net/hubfs/496564/Case+Studies/Metadata+GitPrime+Case+Study+Final.pdf",
+    "https://www.featuredcustomers.com/vendor/gitprime",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/GitPrime.pdf",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gitprime white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.databricks.com/partners",
+    "https://learn.microsoft.com/en-us/partner-center/enroll/indirect-reseller-eligibility-requirements",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.seoreseller.com/",
+    "https://partners.adobe.com/digitalexperience/",
+    "https://www.youtube.com/creators/earn/youtube-partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gitprime founded funding employees revenue",
+   "results": [
+    "https://www.thecompanycheck.com/company/b/gitprime/tebzn1enoltodi61c",
+    "https://pitchbook.com/profiles/company/101628-55",
+    "https://compworth.com/company/gitprime",
+    "https://startupintros.com/orgs/gitprime",
+    "https://rocketreach.co/gitprime-profile_b58f4023f71ac3ee",
+    "https://rocketreach.co/gitprime-profile_b6a4facac87f2ebf",
+    "https://indexed.vc/companies/gitprime"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Gitprime",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Gitprime",
+   "results": [
+    "https://x.com/",
+    "https://x.com/GWitchel/status/2098450467840045058",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/emma_jean23/status/2118935085554540586",
+    "https://x.com/Ayanfe_Baddo/status/2118956400743469507",
+    "https://x.com/KatieMiller/status/2118879997683478801"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Gitprime",
+   "results": [
+    "https://www.linkedin.com/posts/brookperry_today-marks-the-end-of-my-adventure-at-gitprime-activity-6613837574454681600-SvOA",
+    "https://www.linkedin.com/posts/thompsonben_exciting-times-atgitprime-we-just-raised-activity-6394893022324092928-GKUY",
+    "https://hr.linkedin.com/posts/bclausen_pluralsight-to-acquire-gitprime-the-leading-activity-6530157550762106880-zmAY",
+    "https://in.linkedin.com/in/devansh-tyagi-698884239",
+    "https://ke.linkedin.com/in/jackson-gitundu-8a515269",
+    "https://in.linkedin.com/posts/lauratacho_productivity-engineeringmanagement-startups-activity-6950712689388113920-BIcv",
+    "https://uk.linkedin.com/in/octavianbrinzea"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Gitprime",
+   "results": [
+    "https://www.facebook.com/gitprimeeducation/",
+    "https://www.facebook.com/StartupColoradoOfficial/posts/gitprime-acquired-by-pluralsightbig-news-out-of-durango-the-local-tech-startup-g/2169761356482862/",
+    "https://www.facebook.com/WeCanLiveOnMars/posts/gitprime-is-engineering-intelligence-that-powers-technology-leadership-with-deep/821569497931775/",
+    "https://www.facebook.com/Nasdaq/videos/ssts19-ceo-of-gitprime-travis-kimmel/2242007979346906/",
+    "https://www.facebook.com/finsmes/posts/gitprime-raises-105m-in-series-a-funding-httpstcoawnni42qcm/10155670106607428/",
+    "https://www.facebook.com/voltagecontrol/posts/thanks-gitprime-for-a-great-article-on-the-5-day-sprint-process-we-implementhttp/452509835316929/",
+    "https://www.facebook.com/moderncto/videos/travis-kimmel/1153692181506243/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gitprime note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gitprime X 投稿",
+   "results": [
+    "https://x.com/gitprime",
+    "https://github.com/gitprime/",
+    "https://koalr.com/blog/gitprime-alternatives",
+    "https://github.com/textonly/git-prime",
+    "https://www.comnico.jp/we-love-social/x-algorithm",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://x.com/NousResearch/status/2118822925445050435"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

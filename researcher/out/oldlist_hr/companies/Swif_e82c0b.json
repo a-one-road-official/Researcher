@@ -1,0 +1,1081 @@
+{
+ "name": "Swif",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Cybersecurity｜未接触",
+ "researched_at": "2026-11-11T19:13:12.573354+00:00",
+ "official_url": "https://www.swif.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Every OS. Easy Onboarding. One Console.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Full policy control with Windows Autopilot provisioning.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Android Enterprise work profiles, silent installs, kiosk mode.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Enterprise and Startup Teams with Real Security Concerns",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Swif’s platform is essential for our compliance processes and ensuring we have the oversight we need for managing our devices.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I tell our team the reason I like partnering with Swif is you’re super nimble and scrappy like us; You get customers and hear our feedback and quickly work to make the product more aligned to what today’s, not yesterday’s, clients need!",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Swif cut our audit prep time by 80% while giving us real AI tool visibility.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Swif integrates out of the box with your identity provider, HR system, GRC platform, and security tools, so you can keep using the systems you already rely on without needing to reinstall anything.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre built control mappings to SOC 2, ISO 27001, HIPAA, NIST, CIS, and NIS 2 which synced automatically to your GRC tool.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Zero Standing Privileges",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Granular, least privilege role based access control with an immutable audit trail of every admin action. Exportable logs make your next audit a formality.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The Swif agent protects data with AES 256 encryption in transit and at rest, so nothing sits exposed on the endpoint, the network, or the server.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2 Type II attested, GDPR ready, and penetration tested quarterly by third party security firms. EU data residency available for regulated teams.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What problem does Swif.ai solve that an MDM or XDR alone can’t?",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "No, you still need an auditing platform like Vanta or Drata. But soon Growth and Enterprise tiers will include “Compliance Turbo,” mapping CIS, SOC 2, ISO 27001, and HIPAA controls to real time device data, then exporting audit ready evidence in seconds.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "All telemetry is encrypted in transit and at rest; for enterprise customers, you can choose US, or EU data pods. Raw usage stays on device which only metadata needed for policy decisions is sent to the cloud.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Swif.ai flags the usage instantly, can coach the user with an on screen policy prompt, or auto block the tool based on rules you set, so no manual ticket required.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Can Swif.ai automate account provisioning and deprovisioning without an SSO?",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How is Swif.ai priced?",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Simple per user tiers: Free (up to 5 employees), Growth, and Custom/Enterprise. Annual plans save ~15%. See full details on our Pricing page.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise includes a multi tenant MSP console. Partners can manage multiple clients and optionally white label the portal. Contact sales for details.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Free: community & email; Growth: chat with next business day SLA; Enterprise: 24×7 chat/phone plus a dedicated CSM and quarterly security reviews.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With 20 years of combined IT management experience, Swif started by solving a painful operational task Angelo Huang’s team experienced at his previous EdTech startup. Swif.ai builds MDM software focused on helping organizations manage devices securely as they scale, shaped by firsthand experience with remote teams and modern IT challenges.",
+    "url": "https://www.swif.ai/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "is revolutionizing device security with AI, we are the first to eliminate the Shadow IT problem—empowering businesses with complete control, visibility, and security.",
+    "url": "https://www.swif.ai/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The team is composed of repeated entrepreneurs that manage remote teams and have experienced device security issues first-hand",
+    "url": "https://www.swif.ai/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Do you ever wish you had a magical wand to make remote team onboarding, offboarding, and device management as smooth as butter on hot toast? Well, buckle up because Swif.ai is here to grant your wish! As a company building MDM software, Swif.ai brings together teams experienced in device management, security, and modern IT operations.",
+    "url": "https://www.swif.ai/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Zero-touch onboarding",
+    "url": "https://www.swif.ai/products/unified-endpoint-management-uem",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2 • GDPR • EU residency",
+    "url": "https://www.swif.ai/products/unified-endpoint-management-uem",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2 Attested • GDPR • EU Data Residency • Free for 5",
+    "url": "https://www.swif.ai/products/unified-endpoint-management-uem",
+    "pass": 1
+   },
+   {
+    "quote": "ABM/ADE, Autopilot, Android Enterprise & silent installers.",
+    "url": "https://www.swif.ai/products/unified-endpoint-management-uem",
+    "pass": 1
+   },
+   {
+    "quote": "Surface unapproved SaaS & AI tools via browser extension.",
+    "url": "https://www.swif.ai/products/unified-endpoint-management-uem",
+    "pass": 1
+   },
+   {
+    "quote": "Regulated Enterprises",
+    "url": "https://www.swif.ai/products/unified-endpoint-management-uem",
+    "pass": 1
+   },
+   {
+    "quote": "SECURITY, PRIVACY & TRUST",
+    "url": "https://www.swif.ai/products/unified-endpoint-management-uem",
+    "pass": 1
+   },
+   {
+    "quote": "How does onboarding work?",
+    "url": "https://www.swif.ai/products/unified-endpoint-management-uem",
+    "pass": 1
+   },
+   {
+    "quote": "Zero-touch via Apple Business Manager, Windows Autopilot, Android Enterprise, or silent installers for Linux.",
+    "url": "https://www.swif.ai/products/unified-endpoint-management-uem",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive threat detection, geo-fencing, and encryption enforcement for enterprises in FinTech, HealthTech, and beyond.",
+    "url": "https://www.swif.ai/company/request-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Looking for help with the product?",
+    "url": "https://www.swif.ai/company/request-demo",
+    "pass": 1
+   },
+   {
+    "quote": ", expecting the usual \"we’ll pass this along\" response. Instead, the CEO personally followed up within two days to let us know it was being prioritized and rolled out.",
+    "url": "https://www.swif.ai/company/request-demo",
+    "pass": 1
+   },
+   {
+    "quote": "MDM and compliance aren’t usually the corners of tech where you expect speed or responsiveness — so this was a standout moment. Great product, even better team! Thanks",
+    "url": "https://www.swif.ai/company/request-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Product Management",
+    "url": "https://www.swif.ai/company/request-demo",
+    "pass": 1
+   },
+   {
+    "quote": "I tell our team the reason I like partnering with Swif is you’re super-nimble and scrappy like us; You get customers and hear our feedback and quickly work to make the product more aligned to what today’s, not yesterday’s, clients need!",
+    "url": "https://www.swif.ai/company/request-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Swif.ai Pricing | MDM Software Plans",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing plans tailored to your team",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "IT Onboarding & Offboarding Checklist (Incl. Device Retrieval)",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Device Catalog for Zero-Touch Onboarding",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "SSO Identity Providers",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited Software Provision & Patching (all major package managers)",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Volume Pricing & Custom Onboarding Services",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email & Chat Support & Slack-Connect & Priority SLA",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Managed Security Service Pricing",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Includes expert management + basic onboarding & offboarding",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get tailored pricing and onboarding support for compliance-focused teams evaluating Swif for SOC 2, ISO 27001, and audit readiness.",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Swif.ai Affiliate Program for MSSPs",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Join the Swif.ai MDM Software Affiliate Program — designed exclusively for Managed Security and IT Service Providers who want to expand their offerings while earning recurring revenue.",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "This program is ideal for:",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Apply to the Affiliate Program",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How does the Free tier differ from Growth and Enterprise?",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Free secures up to 5 employees with basic policies. Growth unlocks unlimited devices, full compliance automation, and Shadow-IT detection. Enterprise adds AI-usage analytics, multi-tenant MSP console, data-residency options, and premium support.",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely. All data, policies, and device agents migrate automatically—you only pay the prorated difference when you move to Growth or Enterprise.",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes—all three are included in Growth and Enterprise. Free supports manual enrollment only.",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by Enterprise and Startup Teams with Real Security Concerns",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Swift Manufacturing: Manufacturing SaaS case study · Kevin Horek",
+    "url": "https://www.kevinhorek.com/work/swift-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Contract manufacturers track lots in one system, costs in a spreadsheet and client questions over email. Swift tracks every batch from raw material to finished goods, calculates true cost with rolling weighted-average materials plus labor and overhead, flags reorders, runs QC checkpoints and recall simulations, and gives brand owners a portal to see live inventory and submit production requests.",
+    "url": "https://www.kevinhorek.com/work/swift-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "The platform had to be sold to other manufacturers and industries under their own brand.",
+    "url": "https://www.kevinhorek.com/work/swift-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Build for one manufacturer, or design multi-tenant from the first screen.",
+    "url": "https://www.kevinhorek.com/work/swift-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Swif achieves 10x faster customer education content creation with Clueso | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/clueso/case-study/how-swif-transformed-their-customer-education-with-clueso",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Swif achieves 10x faster customer education content creation with Clueso",
+    "url": "https://www.casestudies.com/company/clueso/case-study/how-swif-transformed-their-customer-education-with-clueso",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/clueso/case-study/how-swif-transformed-their-customer-education-with-clueso",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/clueso/case-study/how-swif-transformed-their-customer-education-with-clueso",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Swif Transformed Their Customer Education with Clueso",
+    "url": "https://www.clueso.io/customers/swif",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Do you offer MSP or white label options?",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise includes a multi tenant MSP console. Partners can manage multiple clients and optionally white label the portal. Contact sales for details.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Security resellers wanting to add AI-driven compliance and Shadow IT visibility to their stack.",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Can MSPs resell or white-label Swif.ai?",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The Enterprise “MSP Console” allows multi-tenant management and optional white-label domains. Contact sales for partner pricing.",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-tenant and white-label from the start: tenancy, theming and a client portal are part of the information architecture rather than a later layer.",
+    "url": "https://www.kevinhorek.com/work/swift-manufacturing",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Simple per user tiers: Free (up to 5 employees), Growth, and Custom/Enterprise. Annual plans save ~15%. See full details on our Pricing page.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of Swif.ai team",
+    "url": "https://www.swif.ai/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "5 employees",
+    "url": "https://www.swif.ai/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Free for up to 5 employees • No credit card",
+    "url": "https://www.swif.ai/products/unified-endpoint-management-uem",
+    "pass": 1
+   },
+   {
+    "quote": "2 Employees",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "100 employees+",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Join the Swif.ai MDM Software Affiliate Program — designed exclusively for Managed Security and IT Service Providers who want to expand their offerings while earning recurring revenue.",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Recurring Revenue Model",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Free secures up to 5 employees with basic policies. Growth unlocks unlimited devices, full compliance automation, and Shadow-IT detection. Enterprise adds AI-usage analytics, multi-tenant MSP console, data-residency options, and premium support.",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What if we need more than 5 employees on the Free plan?",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Farrell, Henry and Abraham Newman. 2019.",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%8A%80%E8%A1%8C%E9%96%93%E9%80%9A%E4%BF%A1%E5%8D%94%E4%BC%9A",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-tenant and white-label from the start: tenancy, theming and a client portal are part of the information architecture rather than a later layer.",
+    "url": "https://www.kevinhorek.com/work/swift-manufacturing",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Free: community & email; Growth: chat with next business day SLA; Enterprise: 24×7 chat/phone plus a dedicated CSM and quarterly security reviews.",
+    "url": "https://www.swif.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Monthly Email reporting",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "(Slack/Email) Scheduled reporting",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email & Chat Support & Slack-Connect",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email & Chat Support & Slack-Connect & Priority SLA",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "• Free—email & community Slack",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "• Growth—chat + next-business-day email",
+    "url": "https://www.swif.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Contract manufacturers track lots in one system, costs in a spreadsheet and client questions over email. Swift tracks every batch from raw material to finished goods, calculates true cost with rolling weighted-average materials plus labor and overhead, flags reorders, runs QC checkpoints and recall simulations, and gives brand owners a portal to see live inventory and submit production requests.",
+    "url": "https://www.kevinhorek.com/work/swift-manufacturing",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本語では、アルファベットの頭文字「SWIFT」を",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%8A%80%E8%A1%8C%E9%96%93%E9%80%9A%E4%BF%A1%E5%8D%94%E4%BC%9A",
+    "pass": 3
+   },
+   {
+    "quote": "日本スイフトの開通は1981年3月9日である",
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%8A%80%E8%A1%8C%E9%96%93%E9%80%9A%E4%BF%A1%E5%8D%94%E4%BC%9A",
+    "pass": 3
+   },
+   {
+    "quote": "日本アイ・ビー・エム株式会社, コンサルティング事業本部, 金融サービス事業部, インダストリー・トランスフォーメーション・マネージング・コンサルタント",
+    "url": "https://www.ibm.com/jp-ja/think/insights/ic-banking-financial-payment",
+    "pass": 3
+   },
+   {
+    "quote": "日本アイ・ビー・エム株式会社, コンサルティング事業本部, 金融サービス事業部, サスティナブル・フィナンシャルマーケッツ・マネージング・コンサルタント",
+    "url": "https://www.ibm.com/jp-ja/think/insights/ic-banking-financial-payment",
+    "pass": 3
+   },
+   {
+    "quote": "https://swift-japan.com/",
+    "url": "https://higasihojinkai.jp/news/corplist/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEswift-japan/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Swift 日本語 | Swift — Swiftはお客様の代理として資金を保持したり、口座を管理することはしませんが、グローバルなユーザー業界が安全かつ信頼できる方法によって、標準化された金融メッセージを相互に通信することを可能にします。",
+    "url": "https://www.swift.com/ja/swift-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "ドキュメントセンター | Swift — Jul 14, 2026 · Swift、国際送金取引におけるCBDCのシームレスな導入に向け、相互運用ソリューションの多様な活用事例を発表 ※本リリースは 2024 年 3 月 25 日に Swift が配信した英語版の抄訳です",
+    "url": "https://www.swift.com/ja/swift-japanese/tokiyumentosenta",
+    "pass": 3
+   },
+   {
+    "quote": "国際金融取引サービス「Swift」の今とこれから | IBM — コンビニやスマートフォンからの海外送金サービスが定着してきています。 このような変化を受け、これまで広く利用されてきたSwiftはどう変わっていくのでしょうか。 金融機関へのインタビュー結果を交えて紹介します。",
+    "url": "https://www.ibm.com/jp-ja/think/insights/ic-banking-financial-payment",
+    "pass": 3
+   },
+   {
+    "quote": "SWIF：韓国キャラクターとフィギュアが彩る日本公式ストア — SWIF日本公式ストアは、韓国発の魅力的なキャラクターIPやフィギュア、デザイン雑貨を取り扱います。 株式会社ネクサスビズが大阪を拠点に運営し、Claws-Upのクリエイティブな商品を日本のお客様にお届けします。",
+    "url": "https://swif.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Swift 日本語 | Swift — Swiftについて 当社は金融メッセージングフォーマットの標準と、メッセージングのためのプラットフォームを業界に提供し、そのネットワークへのアクセスと業務との統合、認証確認、データ分析、法令遵守を容易にする製品とサービスを提供します。",
+    "url": "https://www.swift.com/ja/swift-japanese",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社SWIFT JAPANSwiftSWIFT | AUTOMOBILE |Global SuzukiSWIF ASIA - Heartful Thermal TechnologySWIFT/BIC Codes for Banks in JapanJapan Driving License Translation from €59.90 | SwiftJapan — 名古屋東法人会は、よき経営者をめざすものの団体として会員の積極的な自己啓発を支援し、納税意識の向上と企業経営および社会の健全な発展に貢献します。 Jul 20, 2026 · At Swift, we enable seamless interoperability across market infrastructures, networks, and asset types. Whether working with ",
+    "url": "https://higasihojinkai.jp/news/corplist/株式会社swift-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Swift — Jul 20, 2026 · At Swift, we enable seamless interoperability across market infrastructures, networks, and asset types. Whether working with traditional or digital currencies, our solutions help you connect effortlessly, ensuring efficiency and innovation for you and your customers.",
+    "url": "https://www.swift.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "SWIF ASIA - Heartful Thermal Technology — Industrial thermal technology engineered for precision, efficiency, and lower carbon emissions backed by 75+ years of Japanese expertise. No.1 Leading Furnace Manufacturer in Asean. PT SWIF Asia is a subsidiary company of SANKEN SANGYO ltd.",
+    "url": "https://www.swifasia.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Swift Manufacturing: Manufacturing SaaS case study · Kevin Horek — Manufacturing intelligence for contract manufacturers: inventory, batches, true costs and a client portal.",
+    "url": "https://www.kevinhorek.com/work/swift-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Case studies - Swift — Jun 3, 2026 · From the migration to ISO 20022 and the evolution of Swift gpi, to the emergence of new payments schemes, digital currencies and regulatory requirements, the focus is on delivering value quickly to clients while improving transparency, efficiency and security in payments.",
+    "url": "https://www.swift.com/insights/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Swif achieves 10x faster customer education ... — Swif, a device management and MDM security software, faced a significant challenge in creating the how-to articles and video tutorials essential for their customer onboarding and support.",
+    "url": "https://www.casestudies.com/company/clueso/case-study/how-swif-transformed-their-customer-education-with-clueso",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Swif Transformed Their Customer Education with Clueso — The results: Swif is now creating user education material 10x faster; leading to 10+ hours saved every week. Since integrating Clueso guides into their help center, Swif has successfully slashed over 50% of how-to queries from their customers.",
+    "url": "https://www.clueso.io/customers/swif",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Aeroswift achieves unprecedented large-scale ... — Aeroswift, a South African large-format metal additive manufacturing project led by Aerosud and the CSIR, set out to demonstrate and commercialize very large metal 3D-printed aerospace components.",
+    "url": "https://www.casestudies.com/company/altair/case-study/aeroswift-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Swif (@swif_ai) / Posts / X Swif is a one-stop AI-powered device management and security for compliance automation.",
+    "url": "https://x.com/swif_ai",
+    "pass": 3
+   },
+   {
+    "quote": "Swif (@Swifl7v) / X Follow Posts Posts RepliesReplies RepostsReposts MediaMedia Pinned Swif @Swifl7v Sep 19 T.me/Smarttbait T.me/Smarttbait",
+    "url": "https://x.com/Swifl7v",
+    "pass": 3
+   },
+   {
+    "quote": "swif (@swif_tyy) / Posts / X swif (@swif_tyy) - Posts - multifandom yes i like multiple | X (formerly Twitter)",
+    "url": "https://x.com/swif_tyy",
+    "pass": 3
+   },
+   {
+    "quote": "swif on X: \"@P3RF3CT_CHA0S who are you and why is this in my ... ufo 🔆🍥 @realAlita Sep 30 how I feel when I read the ai summary when googling something and it actually answers my question 6 135 736 8.5K swif @swif_tyy who are you and why is this in my tl getrout 6:35 AM · Oct 1, 2026 · 492 Views 2 2 Hayu 🪫🕹️ @Hayyishere 12h Someone who loves Blackrock 68 GA7ORMAN @GA7ORMAN 15h Idk ether bro 93",
+    "url": "https://x.com/swif_tyy/status/2105547045725753713",
+    "pass": 3
+   },
+   {
+    "quote": "Swif (@swif_ai) / Posts / X The anticipated return of @Splashtop and Swif awaits! Here lies the significance of our partnership, to unite remote desktop providers with simple-to-use yet eloquent remote desktop access for your device management sophistication.",
+    "url": "https://x.com/swif_ai",
+    "pass": 3
+   },
+   {
+    "quote": "DinoSwift on X: \"以前、俺は投稿者でもないのに拓也さんに「. 」のコ... 以前、俺は投稿者でもないのに拓也さんに「. 」のコメントを送りつけられた事がある。 そのコメントが付けられたのは拓也さんの名作動画で感動系の動画を紹介するものだった。 しかも数年前の書込み。",
+    "url": "https://x.com/dino_swift/status/2109433417108709879",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Swif.ai - LinkedIn Swif.ai Computer and Network Security Sunnyvale, California 3,330 followers Manage every device. Govern every AI agent. About us Swif.ai is Unified Agent & Endpoint Management (UAEM) Manage...",
+    "url": "https://www.linkedin.com/company/swifai",
+    "pass": 3
+   },
+   {
+    "quote": "Swift - LinkedIn Swift | 248,003 followers on LinkedIn. We're on a mission to make international transactions instant, frictionless and interoperable. | Swift is a global member-owned cooperative and the world ...",
+    "url": "https://www.linkedin.com/company/swift",
+    "pass": 3
+   },
+   {
+    "quote": "Swift - LinkedIn Swift | 247,940 followers on LinkedIn. We're on a mission to make international transactions instant, frictionless and interoperable. | Swift is a global member-owned cooperative and the world’s leading provider of secure financial messaging services. We provide our community with a platform for messaging and standards for communicating, and we offer products and services to facil",
+    "url": "https://be.linkedin.com/company/swift",
+    "pass": 3
+   },
+   {
+    "quote": "Swift - LinkedIn Swift | 248,054 followers on LinkedIn. We're on a mission to make international transactions instant, frictionless and interoperable. | Swift is a global member-owned cooperative and the world’s leading provider of secure financial messaging services. We provide our community with a platform for messaging and standards for communicating, and we offer products and services to facil",
+    "url": "https://sg.linkedin.com/company/swift",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Southwest Indian Foundation | Gallup NM - FacebookSouthwest Initiative Foundation | Hutchinson MN - FacebookSocial Welfare and Impact Forum - SWIF - FacebookSWIF Music - FacebookSwif Entertainment - FacebookSwif2events LLC | Warren OH - FacebookSwift Steps: the Recovery & Healing Community for Swifties Oct 28, 2026 · SWIF is continuing to engage in relief efforts for both victims and first respond",
+    "url": "https://www.facebook.com/SouthwestIndianFoundation/",
+    "pass": 3
+   },
+   {
+    "quote": "Southwest Initiative Foundation | Hutchinson MN - FacebookSocial Welfare and Impact Forum - SWIF - FacebookSWIF Music - FacebookSwif Entertainment - FacebookSwif2events LLC | Warren OH - FacebookSwift Steps: the Recovery & Healing Community for Swifties Oct 19, 2026 · At SWIF, we believe in connecting people, investing in ideas, and building communities. The Born Learning Trail is a wonderful refl",
+    "url": "https://www.facebook.com/SouthwestInitiativeFoundation/",
+    "pass": 3
+   },
+   {
+    "quote": "Social Welfare and Impact Forum - SWIF - Facebook Oct 2, 2026 · Grateful to Innovative Broadcast for highlighting the SWIF Presents World Cleanup Day Campaign 2026 and helping strengthen its impact. Together, let's keep turning awareness into action!",
+    "url": "https://www.facebook.com/swif.org/",
+    "pass": 3
+   },
+   {
+    "quote": "SWIF Music - FacebookSwif Entertainment - FacebookSwif2events LLC | Warren OH - FacebookSwift Steps: the Recovery & Healing Community for Swifties Feb 24, 2026 · SWIF Music. 1,155 followers. S.W.I.F. means \"Sing What I Feel.\" SWIF Music enhances your events with stellar live music performances in the metro Phoenix... Feb 22, 2026 · Swif Entertainment is at Cobb County Civic Center. We had an AMAZI",
+    "url": "https://www.facebook.com/SwifMusic/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.swif.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swif.ai/company/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swif.ai/products/unified-endpoint-management-uem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swif.ai/company/request-demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swif.ai/resources/swif-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swif.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swif.ai/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swif.ai/products/unified-endpoint-management-uem",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%8A%80%E8%A1%8C%E9%96%93%E9%80%9A%E4%BF%A1%E5%8D%94%E4%BC%9A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swift.com/ja/swift-japanese",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swift.com/ja/swift-japanese/tokiyumentosenta",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ibm.com/jp-ja/think/insights/ic-banking-financial-payment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/SIN_JAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swift.com/ja/swift-japanese",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://higasihojinkai.jp/news/corplist/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEswift-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swift.com/ja",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kevinhorek.com/work/swift-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.swift.com/insights/case-studies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/clueso/case-study/how-swif-transformed-their-customer-education-with-clueso",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clueso.io/customers/swif",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/swif_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Swifl7v",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/swif_tyy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/swif_tyy/status/2105547045725753713",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/swifai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/swift",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://be.linkedin.com/company/swift",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/company/swift",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SouthwestIndianFoundation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SouthwestInitiativeFoundation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/swif.org/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SwifMusic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/swif_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dino_swift/status/2109433417108709879",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Swif 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/国際銀行間通信協会",
+    "https://www.swift.com/ja/swift-japanese",
+    "https://www.swift.com/ja/swift-japanese/tokiyumentosenta",
+    "https://www.ibm.com/jp-ja/think/insights/ic-banking-financial-payment",
+    "https://swif.jp/",
+    "https://exiap.jp/guides/what-is-swift",
+    "https://www.zenginkyo.or.jp/swift/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Swif 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Swif Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/SIN_JAPAN",
+    "https://www.swift.com/ja/swift-japanese",
+    "https://higasihojinkai.jp/news/corplist/株式会社swift-japan/",
+    "https://www.swift.com/ja",
+    "https://www.swifasia.com/",
+    "https://www.theswiftcodes.com/japan/",
+    "https://swiftjapan.com/en/japan-license-translation",
+    "https://www.globalsuzuki.com/automobile/lineup/swift/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Swif manufacturing customer case study",
+   "results": [
+    "https://www.kevinhorek.com/work/swift-manufacturing",
+    "https://www.swift.com/insights/case-studies",
+    "https://www.casestudies.com/company/clueso/case-study/how-swif-transformed-their-customer-education-with-clueso",
+    "https://www.clueso.io/customers/swif",
+    "https://www.casestudies.com/company/altair/case-study/aeroswift-customer-case-study",
+    "https://www.swiftfilters.com/pages/filtration-solutions-case-studies",
+    "https://swift-cut.com/testimonials-and-case-studies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Swif white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://www.sap.com/partners/partner-program.html",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Swif founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Swif",
+   "results": [
+    "https://note.com/natty_swift5479",
+    "https://note.com/kind_swift9270",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://tales.note.com/ripe_swift6336/works?sort=PUBLISHED_AT_DESC",
+    "https://tales.note.com/ripe_swift6336?sort=PUBLISHED_AT_DESC",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Swif",
+   "results": [
+    "https://x.com/swif_ai",
+    "https://x.com/Swifl7v",
+    "https://x.com/swif_tyy",
+    "https://x.com/swif_tyy/status/2105547045725753713",
+    "https://x.com/swiftcommunity",
+    "https://x.com/swif_ai/status/2119011211471929707",
+    "https://help.x.com/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Swif",
+   "results": [
+    "https://www.linkedin.com/company/swifai",
+    "https://www.linkedin.com/company/swift",
+    "https://be.linkedin.com/company/swift",
+    "https://sg.linkedin.com/company/swift",
+    "https://br.linkedin.com/company/lojaswift",
+    "https://ca.linkedin.com/company/swifstudy",
+    "https://uk.linkedin.com/in/ifeoluwa-ogunbufunmi"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Swif",
+   "results": [
+    "https://www.facebook.com/SouthwestIndianFoundation/",
+    "https://www.facebook.com/SouthwestInitiativeFoundation/",
+    "https://www.facebook.com/swif.org/",
+    "https://www.facebook.com/SwifMusic/",
+    "https://www.facebook.com/swifentertainment/",
+    "https://www.facebook.com/SWIF2EVENTS/",
+    "https://www.facebook.com/swiftsteps13/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Swif note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.swift.co.jp/company/",
+    "https://jp.linkedin.com/in/takahiro-shirasuna-aa975b74"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Swif X 投稿",
+   "results": [
+    "https://x.com/swif_ai",
+    "https://swiftx-express.com/",
+    "https://x.com/dino_swift/status/2109433417108709879",
+    "https://swifttime.fanbox.cc/posts?page=1&sort=newest",
+    "https://splatoonnews.com/switch-x-post/",
+    "https://kokorogu.com/sns-post",
+    "https://help.x.com/ja/using-x/posting-gifs-and-pictures"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

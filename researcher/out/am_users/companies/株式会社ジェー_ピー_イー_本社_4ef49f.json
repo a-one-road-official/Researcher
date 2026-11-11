@@ -1,0 +1,540 @@
+{
+ "name": "株式会社ジェー・ピー・イー 本社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T19:23:46.619792+00:00",
+ "official_url": "http://www.jpe2000.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒386-1212 長野県上田市富士山字鴻ノ巣2329-1",
+    "url": "https://jpe2000.co.jp/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒386-1212 長野県上田市富士山字鴻ノ巣2329-1",
+    "url": "https://jpe2000.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表メッセージ",
+    "value": "株式会社ジェー．ピー．イー．は、専用機・省力機械・治工具の設計・製作を通じて、多くの業界・業種のお客様の生産現場を支えてきました。 私どもにご相談・ご注文いただく機械・設備には、必ず明確な目的があります。 そしてこれらすべては、最終的に「工場全体としての利益向上」を実現することにつながっています。 だからこそ私たちは、自らを単なる機械メーカーではなく、お客様にとっての “外部にいる生産技術・品質管理スタッフ” と位置づけています。",
+    "url": "https://jpe2000.co.jp/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "五味 剛志",
+    "url": "https://jpe2000.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "7億8,400万円 (2024年度実績)",
+    "url": "https://jpe2000.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "31名",
+    "url": "https://jpe2000.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "42名",
+    "url": "https://mono.ipros.com/company/detail/320020/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "1. 多業界の専用機、自動組立機、自動検査機、自動供給収納機、冶工具の設計、製作。 2. シーケンサー、NC、PC を使った制御システムの設計、製作。 3. 真空を使う機械システムの設計、製作。 4. 切削、板金、溶接などが複合された部品加工。",
+    "url": "https://jpe2000.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "株式会社岡本工作機械製作所/ 樫山工業株式会社/ 京三電機株式会社/ 株式会社コーシンインテックス/ 株式会社ジェイテクト/ 大昭和精機株 式会社/ 株式会社デンソー/ 株式会社ドクター製作所/ 長野計器株式会 社/ 株式会社マイクロテック/ ミネベアミツミ株式会社/ ヤマハ発動機 株式会社/ ヤマハロボティクス株式会社・・・他70社 (アイウエオ順)",
+    "url": "https://jpe2000.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "製品分野": [
+   {
+    "quote": "自動機、省力機、加工・組立治具、設計、精密部品加工はJPE・株式会社ジェー．ピー．イー． | 自動機の設計、製作、省力機械、制御設計、精密部品加工は「ジェー．ピー．イー．」",
+    "url": "https://jpe2000.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "多品種・少量生産に対応する加工治工具・組立治具による低投資・高効率化",
+    "url": "https://jpe2000.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボット制御、タッチパネルHMI",
+    "url": "https://jpe2000.co.jp/buisiness/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品検査装置、バリ取り機、部品組立機、シートカット装置、ローディング装置、鋳物切断機 など",
+    "url": "https://jpe2000.co.jp/buisiness/",
+    "pass": 1
+   },
+   {
+    "quote": "電気回路を設計し、PLCやロボットのプログラムを組み、装置全体の動きを構築します",
+    "url": "https://jpe2000.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "難加工材を含むユニットの一括受託 | 自動機、省力機、加工・組立治具、設計、精密部品加工はJPE・株式会社ジェー．ピー．イー．",
+    "url": "https://jpe2000.co.jp/story03/",
+    "pass": 1
+   },
+   {
+    "quote": "STORY | 自動機、省力機、加工・組立治具、設計、精密部品加工はJPE・株式会社ジェー．ピー．イー．",
+    "url": "https://jpe2000.co.jp/category/story/",
+    "pass": 1
+   },
+   {
+    "quote": "・半導体、電子部品、食品、理化学機械、印刷、自動車、",
+    "url": "https://mono.ipros.com/company/detail/320020/",
+    "pass": 3
+   },
+   {
+    "quote": "モールド金型等多種な業界の専用機 自動化設備を",
+    "url": "https://mono.ipros.com/company/detail/320020/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "仕様確定・試作・製品化・監修立ち会い・納品確認",
+    "url": "https://jpe2000.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先情報・製品仕様は含まず、",
+    "url": "https://jpe2000.co.jp/story03/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(7)",
+    "url": "https://mono.ipros.com/company/detail/320020/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (7)",
+    "url": "https://mono.ipros.com/company/detail/320020/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "多品種・少量生産に対応する加工治工具・組立治具による低投資・高効率化",
+    "url": "https://jpe2000.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様ご発案による新商品の開発設計および試作支援",
+    "url": "https://jpe2000.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "仕様確定・試作・製品化・監修立ち会い・納品確認",
+    "url": "https://jpe2000.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作〜小ロットでも、短納期・高精度でお応えします",
+    "url": "https://jpe2000.co.jp/buisiness/",
+    "pass": 1
+   },
+   {
+    "quote": "検査と試作を“仕組み”として立て直した話 背景｜検査が追いつかない現場で起きていたこと ある現場では、不具合が発生する…",
+    "url": "https://jpe2000.co.jp/buisiness/",
+    "pass": 1
+   },
+   {
+    "quote": "多様な設備を社内に備えることで、試作から小ロット生産まで短納期で対応可能です",
+    "url": "https://jpe2000.co.jp/facilities/",
+    "pass": 1
+   },
+   {
+    "quote": "試作開発｜まずは「測れるかどうか」を確かめるところから",
+    "url": "https://jpe2000.co.jp/story03/",
+    "pass": 1
+   },
+   {
+    "quote": "「そもそも、どう測るのが最適なのか」を確かめるための試作でした",
+    "url": "https://jpe2000.co.jp/story03/",
+    "pass": 1
+   },
+   {
+    "quote": "目的から逆算し、必要な機能に絞った試作装置を設計",
+    "url": "https://jpe2000.co.jp/story03/",
+    "pass": 1
+   },
+   {
+    "quote": "対話を重ねながら形にできる試作が、次の一手につながりました",
+    "url": "https://jpe2000.co.jp/story03/",
+    "pass": 1
+   },
+   {
+    "quote": "試作で測定方法の目処が立った段階で、検査工程そのものを設計し直しました",
+    "url": "https://jpe2000.co.jp/story03/",
+    "pass": 1
+   },
+   {
+    "quote": "検査・試作・専用機は、別々の仕事に見えますが、根は同じです",
+    "url": "https://jpe2000.co.jp/story03/",
+    "pass": 1
+   },
+   {
+    "quote": "研究段階の試作から、量産工程の検査、",
+    "url": "https://jpe2000.co.jp/story03/",
+    "pass": 1
+   },
+   {
+    "quote": "検査と試作を“仕組み”として立て直した話 背景｜検査が追いつかない現場で起きていたこと ある現場では、不具合が発生するたびに全数検査が必要になっていました",
+    "url": "https://jpe2000.co.jp/category/story/",
+    "pass": 1
+   },
+   {
+    "quote": "・試作など機械設計技術が必要な加工、あるいはチタン、",
+    "url": "https://mono.ipros.com/company/detail/320020/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "設計・加工・組立・制御を自社で完結できるだけでなく、NC・汎用機・放電加工機・板金設備を備え、チタンや各種プラスチックなど 多種材料を組み合わせた複合加工にも対応",
+    "url": "https://jpe2000.co.jp/buisiness/",
+    "pass": 1
+   },
+   {
+    "quote": "・試作など機械設計技術が必要な加工、あるいはチタン、",
+    "url": "https://mono.ipros.com/company/detail/320020/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "AMACOM AP100",
+    "url": "https://jpe2000.co.jp/facilities/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "採用に関するお問い合わせはこちらのフォームから受け付けております",
+    "url": "https://jpe2000.co.jp/recruit/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://jpe2000.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpe2000.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpe2000.co.jp/buisiness/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpe2000.co.jp/facilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpe2000.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpe2000.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpe2000.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpe2000.co.jp/buisiness/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpe2000.co.jp/facilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpe2000.co.jp/story03/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpe2000.co.jp/category/story/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.zen.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/374381/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpe2000.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/320020/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpe2000.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jpea.gr.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jae.com/contact/JAE/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ジェー・ピー・イー 本社 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.zen.co.jp/",
+    "https://injection-lab.com/technology/64-2.html",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://mono.ipros.com/cg2/%E5%B0%8F%E3%83%AD%E3%83%83%E3%83%88%E7%94%9F%E7%94%A3/",
+    "https://kyoeidesign.co.jp/lot-production/",
+    "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "https://jp.marketplace.meviy.misumi-ec.com/info/ja/tips/prototype004_resin-casting/",
+    "https://kako.jpe2000.co.jp/service/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ジェー・ピー・イー 本社 会社概要 事業内容",
+   "results": [
+    "https://tenshoku.mynavi.jp/company/374381/",
+    "https://jpe2000.co.jp/company/",
+    "https://mono.ipros.com/company/detail/320020/",
+    "https://job.mynavi.jp/27/pc/search/corp82713/outline.html",
+    "https://www.r-agent.com/company/c5663/",
+    "https://www.jobs-go.jp/jobs/detail/8343",
+    "https://sangyo-no-jin.jp/2026/list/jpe/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10053589341/",
+    "https://jobtalk.jp/companies/27058",
+    "http://jepgroup.co.jp/info.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ジェー・ピー・イー 本社 お問い合わせ メール",
+   "results": [
+    "https://jpe2000.co.jp/contact/",
+    "https://www.jpea.gr.jp/inquiry/",
+    "https://www.jae.com/contact/JAE/",
+    "https://www.j-eng.co.jp/contact/",
+    "https://www.jnc-corp.co.jp/contact/",
+    "https://support.nintendo.com/jp/inquiry/index.html",
+    "https://www.joshin.co.jp/ja/contact.html",
+    "https://www.tjsys.co.jp/form/contact.php?blogid=2&entryid=4118&formid=contact-em",
+    "https://www.eenour.jp/pages/personal-support?srsltid=AYCX9vJvKK2AZBM-msugo0bWN8PUT8Gv_ThBEElYZ-WDjCBkC9kWHOkd",
+    "http://www.jp-group.co.jp/jp/toiawase.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com ジェー・ピー・イー 本社",
+   "results": [
+    "https://note.com/hisayoshiiwasaki/n/n8962154199e3",
+    "https://note.com/vc_f_c_nw/n/na426a72ab78d",
+    "https://note.com/pe_gogo/n/n5d4d56b524f4",
+    "https://note.com/pebank/n/n48d1f3e07e10",
+    "https://note.com/eagency/n/n85b5723ae86e",
+    "https://note.com/pebank/n/n9c93ace1469b",
+    "https://note.com/eagency/n/nbd02f61d1ca4",
+    "https://note.com/elancerjapan/n/n90e4c9ebf4d0",
+    "https://note.com/tatsu_s123/n/n324b1441db81",
+    "https://note.com/eagency/n/na2f41657d44c"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com ジェー・ピー・イー 本社",
+   "results": [
+    "https://x.com/varivas_jp/status/2077868377146540351",
+    "https://x.com/efalcon_news",
+    "https://x.com/eTechnology_PR",
+    "https://x.com/LussoCars",
+    "https://x.com/e_Broad_jp",
+    "https://x.com/tshrcap",
+    "https://x.com/eGrid_official",
+    "https://x.com/eguaranteeIR",
+    "https://x.com/maskdB"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com ジェー・ピー・イー 本社",
+   "results": [
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E6%9C%AC%E7%A4%BE%E5%8B%A4%E5%8B%99%E3%80%91pe%E3%83%95%E3%82%A1%E3%83%B3%E3%83%89%E6%8A%95%E8%B3%87%E3%83%BB%E4%BC%81%E7%94%BB%E6%A5%AD%E5%8B%99%E2%97%86%E5%9C%A8%E5%AE%85%E5%8B%A4%E5%8B%99%E5%8F%AF-%E6%A5%AD%E5%8B%99%E6%8B%A1%E5%A4%A7%E4%B8%AD-%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E5%85%A5%E8%A1%8C%E8%80%85%E6%B4%BB%E8%BA%8D%E4%B8%AD-%E7%B5%8C%E9%A8%93%E8%80%85%E6%AD%93%E8%BF%8E-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4489109360?position=15&pageNum=0&refId=IK6RTqina60KYkp9cDEpbw%3D%3D&trackingId=uf8b%2FNbiBaF0Rnz9fpsv6Q%3D%3D",
+    "https://jp.linkedin.com/jobs/view/sr-pe-jp-robotics-jcfs-at-amazon-4375132330",
+    "https://jp.linkedin.com/in/hianraku/en",
+    "https://jp.linkedin.com/company/ne-chemcat-corporation-eg",
+    "https://jp.linkedin.com/company/michael-baker-corporation",
+    "https://jp.linkedin.com/company/toyota",
+    "https://jp.linkedin.com/company/the-hartford",
+    "https://jp.linkedin.com/jobs/view/cfo-pe-backed-manufacturing-company-up-to-50m-jpy-at-trusted-partners-4467034335",
+    "https://jp.linkedin.com/jobs/view/%E6%A5%AD%E5%8B%99%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%BC%81%E7%94%BB%EF%BC%88%E3%83%90%E3%83%83%E3%82%AF%E3%83%A4%E3%83%BC%E3%83%89%E6%A5%AD%E5%8B%99%E3%81%AE%E6%94%B9%E5%96%84%E3%82%84%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E4%BC%81%E7%94%BB%E3%83%BB%E8%A8%AD%E8%A8%88%EF%BC%89%E2%97%86%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E4%B8%8A%E5%A0%B4-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4483390535",
+    "https://jp.linkedin.com/in/masao-ando-603b2390"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com ジェー・ピー・イー 本社",
+   "results": [
+    "https://www.facebook.com/sangyonojin/posts/%E6%9D%B1%E4%BF%A1%E5%B7%9E-%E7%94%A3%E6%A5%AD%E3%81%AE%E9%99%A32026%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E3%83%AD%E3%82%B4%E3%81%8C%E5%AE%8C%E6%88%90%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%B9%B4%E3%81%AF%E6%96%B0%E3%81%9F%E3%81%AA%E6%A5%AD%E7%A8%AE%E3%81%AE%E4%BC%81%E6%A5%AD%E3%82%82%E5%8A%A0%E3%82%8F%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8B%E3%82%89%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E7%94%A3%E6%A5%AD%E3%81%AE%E9%99%A3%E3%81%AE%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E6%AE%8B%E3%81%97%E3%81%AA%E3%81%8C%E3%82%89%E3%82%82%E6%96%B0%E3%81%97%E3%81%84%E5%8D%B0%E8%B1%A1%E3%82%92%E6%84%9F%E3%81%98%E3%82%89%E3%82%8C%E3%82%8B%E3%83%AD%E3%82%B4%E3%81%AB%E3%83%AA/122187381632888924/",
+    "https://www.facebook.com/sangyonojin/",
+    "https://www.facebook.com/airshare.jp/posts/%E6%9C%AA%E9%81%94%E3%81%AE%E7%B5%8C%E9%A8%93%E3%82%92%E7%B3%A7%E3%81%AB%E6%A0%AA%E5%BC%8F%E6%8A%95%E8%B3%87%E5%9E%8B%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%B8%E5%86%8D%E6%8C%91%E6%88%A6-driva%E3%82%A4%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%81%AB%E3%81%A6%E6%88%90%E9%95%B7%E8%B3%87%E9%87%91%E3%81%AE%E5%8B%9F%E9%9B%86%E3%82%92%E9%96%8B%E5%A7%8B-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%A2%E3%82%B7%E3%82%A7%E3%82%A2%E6%9C%AC%E7%A4%BE%E5%8C%97%E6%B5%B7%E9%81%93%E5%B8%AF%E5%BA%83%E5%B8%82%E4%BB%A3%E8%A1%A8%E5%8F%96%E7%B7%A0%E5%BD%B9%E9%80%B2%E8%97%A4-%E5%AF%9B%E4%B9%9F/1364287722156364/",
+    "https://www.facebook.com/egrid.recruit/",
+    "https://www.facebook.com/p/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%82%A2%E3%83%BC%E3%83%AB%E3%83%94%E3%83%BC%E3%82%A4%E3%83%BC-100064178314268/",
+    "https://www.facebook.com/eholdings.jp/",
+    "https://www.facebook.com/pebank.jp/posts/pe-bank%E3%81%AB%E6%89%80%E5%B1%9E%E3%81%99%E3%82%8Bit%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E6%96%B9%E3%81%B8%E3%81%AE%E4%B8%BB%E8%A6%81%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AE%E3%81%B2%E3%81%A8%E3%81%A4%E7%A2%BA%E5%AE%9A%E7%94%B3%E5%91%8A%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E7%94%B3%E5%91%8A%E4%BC%9A%E3%81%8C%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E4%BB%8A%E6%97%A5%E3%81%A8%E6%98%8E%E6%97%A5%E3%81%AE2%E6%97%A5%E9%96%93%E3%81%AF%E7%A7%8B%E8%91%89%E5%8E%9Fudx%E3%81%AB%E3%81%A6%E9%96%8B%E5%82%AC%E3%81%93%E3%81%AE%E5%BE%8C/2460313357376970/",
+    "https://www.facebook.com/kkMARUKAWA/?locale=ja_JP",
+    "https://www.facebook.com/MorrisCoLtd/posts/%E3%83%99%E3%82%A4%E3%83%88%E3%83%95%E3%82%A3%E3%83%8D%E3%82%B9pe-x5%E3%82%92%E3%82%84%E3%81%BE%E3%81%91%E3%82%93%E8%A6%96%E7%82%B9%E3%81%A7%E6%B7%B1%E6%8E%98%E3%82%8A5%E6%9C%88%E3%81%AB%E7%99%BA%E5%A3%B2%E9%96%8B%E5%A7%8B%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%88%E3%83%A9%E3%82%A6%E3%83%88%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9-%E3%83%99%E3%82%A4%E3%83%88%E3%83%95%E3%82%A3%E3%83%8D%E3%82%B9-%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%83%91%E3%83%AF%E3%83%BCpe-x5%E3%81%AF%E3%81%8A%E4%BD%BF%E3%81%84%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8B-/1457515813081439/",
+    "https://www.facebook.com/0929295370Desgin/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ジェー・ピー・イー 本社 note 社長",
+   "results": [
+    "https://jpe2000.co.jp/company/",
+    "https://job.mynavi.jp/27/pc/search/corp82713/outline.html",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://blog.nagano-ken.jp/josho/shokan/18415.html",
+    "https://mono.ipros.com/company/detail/320020/",
+    "https://note.com/pebank/n/n482a787e3534",
+    "https://suwa.monozukuri.or.jp/detail/01886/",
+    "https://x.com/sadaaki",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000XBxEJ",
+    "https://ja.wikipedia.org/wiki/ノート:ジェーピー_(企業)"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ジェー・ピー・イー 本社 X 投稿",
+   "results": [
+    "https://jpe2000.co.jp/company/",
+    "https://blog.nagano-ken.jp/josho/shokan/18415.html",
+    "https://job.mynavi.jp/27/pc/search/corp82713/outline.html",
+    "https://sangyo-no-jin.jp/2026/list/jpe/",
+    "https://jp.indeed.com/q-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%B8%E3%82%A7%E3%83%BC-%E3%83%94%E3%83%BC-%E3%82%A4%E3%83%BC-l-%E9%95%B7%E9%87%8E%E7%9C%8C-%E4%B8%8A%E7%94%B0%E5%B8%82-%E6%B1%82%E4%BA%BA.html",
+    "https://jobtalk.jp/companies/27058/answers",
+    "https://suwa.monozukuri.or.jp/detail/01886/",
+    "https://www.shukatsu-nagano.jp/company_info/10238.html",
+    "https://x.com/jpyc_official/photo",
+    "https://ja.wikipedia.org/wiki/JPYC"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "拠点": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部9頁・検索9回）"
+ }
+}

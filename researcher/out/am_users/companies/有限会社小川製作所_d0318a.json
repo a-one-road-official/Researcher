@@ -1,0 +1,810 @@
+{
+ "name": "有限会社小川製作所",
+ "aliases": [],
+ "context": "ipros_all:オーダーメイド",
+ "researched_at": "2026-11-11T19:38:17.544720+00:00",
+ "official_url": "https://ogwss.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒719-1121 岡山県総社市総社赤浜600（テクノパーク総社内）",
+    "url": "https://ogwss.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 小川晃一郎",
+    "url": "https://ogwss.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "24人",
+    "url": "https://ogwss.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・各種専用機・治具等の設計、製作 ・保守・メンテナンス ・製缶、機械加工、電気設計等 ・三次元測定サービス ・電力測定サービス",
+    "url": "https://ogwss.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "一点物・少量多品種": [
+   {
+    "quote": "オーダーメイド＋機械づくりの全ての製造工程が自社にあります",
+    "url": "https://ogwss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "繊細なワーク、多品種少量生産に！振動フィーダーFRシリーズ",
+    "url": "https://ogwss.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "繊細なワーク、多品種少量生産に！振動フィーダーFRシリーズ",
+    "url": "https://ogwss.co.jp/company/business-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "繊細なワーク、多品種少量生産に！振動フィーダーFRシリーズ",
+    "url": "https://ogwss.co.jp/problem-solving/",
+    "pass": 1
+   },
+   {
+    "quote": "繊細なワーク、多品種少量生産に！振動フィーダーFRシリーズ",
+    "url": "https://ogwss.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "繊細なワーク、多品種少量生産に！振動フィーダーFRシリーズ",
+    "url": "https://ogwss.co.jp/company/factory-information/",
+    "pass": 1
+   },
+   {
+    "quote": "繊細なワーク、多品種少量生産に！振動フィーダーFRシリーズ",
+    "url": "https://ogwss.co.jp/company/professional-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "繊細なワーク、多品種少量生産に！振動フィーダーFRシリーズ",
+    "url": "https://ogwss.co.jp/company/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "繊細なワーク、多品種少量生産に！振動フィーダーFRシリーズ",
+    "url": "https://ogwss.co.jp/post-2712/",
+    "pass": 1
+   },
+   {
+    "quote": "試作量産分野または開発案件は是非お任せください",
+    "url": "http://ogasei.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "材質・厚み・冶具による寸法変化をデータ化し、ミクロンオーダーの試作品・冶具等の加工を行う弊社において、より高度な精度保証を付けた納品をお約束します",
+    "url": "http://ogasei.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "また、試作においては秘密保持契約も締結し、情報漏洩には万全の体制と管理でお応えいたします",
+    "url": "http://ogasei.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "試作加工 | ㈱小川製作所｜ワイヤーカット加工専門 愛知県豊橋市",
+    "url": "http://ogasei.co.jp/trial",
+    "pass": 3
+   },
+   {
+    "quote": "現在お仕事を受注している試作、一点物のお仕事につきましてもお客様より安心であるとのお声も頂戴しております",
+    "url": "http://ogasei.co.jp/trial",
+    "pass": 3
+   },
+   {
+    "quote": "試作に関連した加工につきまして、短納期にも対応しております",
+    "url": "http://ogasei.co.jp/trial",
+    "pass": 3
+   },
+   {
+    "quote": "機械部品加工を中心に、設計、組立、調整、据付まで行っており、試作品はもちろん、小ロット（1個から）から特注品（オーダーメイド品）の製作まで迅速に対応いたします",
+    "url": "https://www.ogawa-seisakusho.jp/pages/17/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "今回はこれから自動化を検討される方に向けて、代表的な2つの方法（協働ロボットと…",
+    "url": "https://ogwss.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "治具、機械部品の製作",
+    "url": "https://ogwss.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "治具、機械部品製作",
+    "url": "https://ogwss.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車関連のメーカー様からの依頼をきっかけに特殊専用機の設計製作を始める",
+    "url": "https://ogwss.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "納入先 輸送用機器業界 用途 セットした鉄製のワークを、ロボットがCO2溶接します",
+    "url": "https://ogwss.co.jp/problem-solving/",
+    "pass": 1
+   },
+   {
+    "quote": "・各種専用機・治具等の設計、製作",
+    "url": "https://ogwss.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用ロボットの教示等の業務に係る特別教育",
+    "url": "https://ogwss.co.jp/company/professional-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "航空部品関連をはじめ、精密加工においてはお客様からも「精巧・正確・迅速な対応が安心」とのお声を頂いております",
+    "url": "http://ogasei.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "また、精密金型加工の分野でも長年お客様より熱い信頼をいただいております",
+    "url": "http://ogasei.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "東広島・呉自動車道 馬木ICから国道375号線「呉方面」へ",
+    "url": "https://www.ogawa-seisakusho.jp/pages/17/",
+    "pass": 3
+   },
+   {
+    "quote": "東広島・呉自動車道 馬木ICから国道375線「呉方面」へ",
+    "url": "https://www.ogawa-seisakusho.jp/pages/17/",
+    "pass": 3
+   },
+   {
+    "quote": "東北自動車道「国見IC」より国道349号線（約40分）",
+    "url": "https://www.ogawa-mfg.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "東北自動車道「村田IC」より大河原町、角田市（広域農道）経由（約45分）",
+    "url": "https://www.ogawa-mfg.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "常盤自動車道「山元IC」より県道272号線、角田市経由（約25分）",
+    "url": "https://www.ogawa-mfg.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "常盤自動車道「新地IC」より国道113号線（約20分）",
+    "url": "https://www.ogawa-mfg.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜株式会社小川製作所｜自動車用生産設備の主要部品製作｜埼玉県川越市",
+    "url": "https://ogw-mfg.com/contact/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "メーカーが不明、中古で購入したためサポートが受けられない、または海外メーカー製品で国内サポートが無い場合でも、当社の技術者が現場での計測や現物解析を行い、正確に部品を製作いたします",
+    "url": "https://ogwss.co.jp/service/maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "受注した段階で、製品に対するベストな製作工程を把握、製作することにより、より良い製品を迅速に安価で提供させていただくことを心掛けています",
+    "url": "https://ogwss.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "ユニット毎に組立・精度出しを行ったり、立会い前に社内チェックリストに基づいて検査をすることで、より満足していただける製品づくりを心掛けています",
+    "url": "https://ogwss.co.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "三次元測定機HEXAGON・Romer Absolute Arm(ﾍｷｻｺﾞﾝ・ﾒﾄﾛｼﾞｰ株式会社製品)を導入",
+    "url": "https://ogwss.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "NCﾊﾞﾝﾄﾞｿｰﾏｼﾝ(帯鋸盤) LTAⅡ2630（大東精機株式会社製品)を導入",
+    "url": "https://ogwss.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "３Dプリンター Raise Pro 3(日本３Dプリンター株式会社製品)を導入",
+    "url": "https://ogwss.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "導入背景 ステンレス等の板状の製品に保護フィルムを貼る作業が存在する企業様からのご依頼を受けました",
+    "url": "https://ogwss.co.jp/problem-solving/",
+    "pass": 1
+   },
+   {
+    "quote": "これまで片面のフィルム貼りは既存の専用機を運用して作業を行われていましたが、1枚数十キロある製品を扱うには作業員の方々 […]",
+    "url": "https://ogwss.co.jp/problem-solving/",
+    "pass": 1
+   },
+   {
+    "quote": "“環境と調和”をテーマに地域に密着した環境改善の実現のために、技術の向上に尽力し、お客様の要望に応えることにより、喜んでいただける製品を提供することに、日々努力してまいる所存でございます",
+    "url": "https://www.ogawa-seisakusyo.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "小川製作所は、これからも常にお客さまの視点に立ち、技術力を駆使した製品を創り続けてまいります",
+    "url": "https://www.ogawa-seisakusho.jp/pages/17/",
+    "pass": 3
+   },
+   {
+    "quote": "当社も創業以来、高品質の製品を提供しお客さまより高い評価をいただいております",
+    "url": "https://www.ogawa-seisakusho.jp/pages/17/",
+    "pass": 3
+   },
+   {
+    "quote": "今後も長年の信頼と実績を原点に初心を忘れることなく、より良い製品づくりを目指して社会に貢献してまいります",
+    "url": "https://www.ogawa-seisakusho.jp/pages/17/",
+    "pass": 3
+   },
+   {
+    "quote": "今後も、ひとつひとつの製品にこだわることで、お客さまに満足いただけるよう努めます",
+    "url": "https://www.ogawa-seisakusho.jp/pages/17/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "保守・メンテナンスに関するお問い合わせは、以下の連絡先またはお問い合わせフォームよりお寄せください",
+    "url": "https://ogwss.co.jp/service/maintenance/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社 小川製作所 【各種お問い合わせ】",
+    "url": "http://www.ogawaseisakusho.co.jp/mail.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせは、下記フォームをご記入の上、「送信」ボタンをクリックしてください",
+    "url": "http://www.ogawaseisakusho.co.jp/mail.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ内容を確認のうえ、弊社担当よりご連絡差し上げます",
+    "url": "http://www.ogawaseisakusho.co.jp/mail.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜株式会社小川製作所｜自動車用生産設備の主要部品製作｜埼玉県川越市",
+    "url": "https://ogw-mfg.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "下記は、メールでのお問い合わせフォームとなっております",
+    "url": "https://ogw-mfg.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、メールフォームでご連絡いただいてから返信まで、数日かかる場合もございます",
+    "url": "https://ogw-mfg.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜株式会社小川製作所（公式ホームページ）",
+    "url": "https://www.ogawa-seisakusho.jp/pages/49/",
+    "pass": 3
+   },
+   {
+    "quote": "当社へのお問い合わせをご検討いただき、誠にありがとうございます",
+    "url": "https://www.ogawa-seisakusho.jp/pages/49/",
+    "pass": 3
+   },
+   {
+    "quote": "■返信メールをお受け取りいただけるよう、受信設定（迷惑メール設定）等をお確かめください",
+    "url": "https://www.ogawa-seisakusho.jp/pages/49/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "材質・厚み・冶具による寸法変化をデータ化し、ミクロンオーダーの試作品・冶具等の加工を行う弊社において、より高度な精度保証を付けた納品をお約束します",
+    "url": "http://ogasei.co.jp/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "㈱小川製作所｜ワイヤーカット加工専門 愛知県豊橋市 | ワイヤーカッ... — 小川製作所では、三次元測定機、画像顕微鏡に続き、アジエを導入しました。これにより、制度はもちろん、CADデータモ3Dデータでの受け入れが可能になりました。試作量産分野または開発案件は是非お任せください。",
+    "url": "http://ogasei.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "試作加工 | ㈱小川製作所｜ワイヤーカット加工専門 愛知県豊橋市 — 小川製作所の最大の特徴なのが、精密加工分野での精度保証です。大手メーカー様と同等の設備と環境を持つことにより、安定した加工と精度保証が可能となっております。 加工技術や加工ノウハウも充実しておりますので、お客様より非常に高い信頼をいただいております。",
+    "url": "http://ogasei.co.jp/trial",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内｜株式会社小川製作所（公式ホームページ）小ロット対応 | 神奈川県座間市 有限会社 河野製作所小ロット対応｜株式会社FEW — 株式会社小川製作所は創業以来、高品質・短納期・低コストを目指しお客さまから信頼をいただいてまいりました。機械部品加工を中心に、設計、組立、調整、据付まで行っており、試作品はもちろん、小ロット（1個から）から特注品（オーダーメイド品）の製作まで迅速に対応いたします。 最小ロット2個から、試作は1個から承ります！ 河野製作所では、 最小ロット2個から 承っており、月産で数万個の製品を弊社で製造し続けております。 数量とご予算、生産計画に応じて、最適なご提案をさせていただきます。 1台～小ロット対応の強み 01 1台から対応できる内製技術 部品加工や巻線工程などを自社で内製できるため、多品種少量生産が可能です。 お客様のニーズに合わせた製品を小ロット・短納期で製",
+    "url": "https://www.ogawa-seisakusho.jp/pages/17/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社小川製作所 — 会社概要 社名 株式会社小川製作所 代表取締役 小川伸治 本社所在地 〒779-3112 徳島市国府町芝原字天満65-3 TEL. 088-642-1328（代） FAX. 088-642-1357 資本金 5,000万円 設立 昭和46年5月 許可・登録 （特-04）第1291号 機械器具設置工事業・管工事業・電気工事業 鋼構造物工事業・土木工事業・建築工事業 ...",
+    "url": "https://www.ogawa-seisakusyo.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内｜株式会社小川製作所（公式ホームページ）株式会社小川製作所（公式ホームページ）会社概要|株式会社小川製作所会社案内｜株式会社小川製作所株式会社小川製作所は横浜市鶴見区にある輸送用機器、鉄道車両部品の...株式会社小川製作所 — 株式会社小川製作所は創業以来、高品質・短納期・低コストを目指しお客さまから信頼をいただいてまいりました。機械部品加工を中心に、設計、組立、調整、据付まで行っており、試作品はもちろん、小ロット（1個から）から特注品（オーダーメイド品）の製作まで迅速に対応いたします。 Feb 19, 2026 · 当社は大正初期、旋盤メーカーとして創業し、以来100年にわたり微力ながら日本の産業を支えてまいりました。今までもこれからも皆さまに良い製品を届けられるよう、努力してまいります。 会社名 株式会社小川製作所 代表取締役 佐藤 恵美子 所在地 〒981-2116 宮城県伊",
+    "url": "https://www.ogawa-seisakusho.jp/pages/17/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要|株式会社小川製作所 — 会社名 株式会社小川製作所 代表取締役 佐藤 恵美子 所在地 〒981-2116 宮城県伊具郡丸森町字石倉155番地 TEL 0224-72-2237 FAX 0224-72-1513 創業 1973年3月15日 資本金 1,000万円 敷地面積 4,614㎡ 建物面積 1,529㎡ 業種 精密板金加工 主生産品 通信関連機器 半導体製造装置 主な得意先 東京エレクトロン ...",
+    "url": "https://www.ogawa-mfg.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内｜株式会社小川製作所株式会社小川製作所は横浜市鶴見区にある輸送用機器、鉄道車両部品の...株式会社小川製作所 — 会社案内｜株式会社小川製作所は精密板金加工からCNCレーザー加工、CNCパンチプレス加工まで常に最新技術の導入と技術力の向上を目指しています。 会社概要 社 名 株式会社小川製作所 代 表 者 代表取締役 小川眞史 設 立 昭和37年6月 資 本 金 1,000万円 事業内容 輸送用機械機器製造業 所 在 地 （本社工場）神奈川県横浜市鶴見区栄町通4-39-2 （群馬工場）群馬県太田市龍舞町5011 2026年稼働予定 電話番号 045 ... 株式会社小川製作所は、モノづくりを通じて、“美しい水と緑を守り続けること”を目的とし地域社会への貢献に努める会社です。 創業以来、常に時代のニーズを先取りした事業展開と一貫した作業で、皆様の厚い信頼にお応えしてまいりました。 こ",
+    "url": "http://www.w-ogawa.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社小川製作所は横浜市鶴見区にある輸送用機器、鉄道車両部品の... — 会社概要 社 名 株式会社小川製作所 代 表 者 代表取締役 小川眞史 設 立 昭和37年6月 資 本 金 1,000万円 事業内容 輸送用機械機器製造業 所 在 地 （本社工場）神奈川県横浜市鶴見区栄町通4-39-2 （群馬工場）群馬県太田市龍舞町5011 2026年稼働予定 電話番号 045 ...",
+    "url": "https://www.ogawamfg.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 小川製作所 【各種お問い合わせ】 — 下記フォームがご利用いただけない場合は、必要事項をご記入の上、下記アドレス まで直接お問い合わせください。 soumuka@ogawaseisakusho.co.jp なお、お取引中のお客様は、下記アドレス（製造事務所）へお問い合わせください。 jdw01003@nifty.com (*) は必須項目です。",
+    "url": "http://www.ogawaseisakusho.co.jp/mail.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜株式会社小川製作所｜自動車用生産設備の主要部品製作... — 下記は、メールでのお問い合わせフォームとなっております。 なお、メールフォームでご連絡いただいてから返信まで、数日かかる場合もございます。 お急ぎの方は、お電話でのご連絡をお願いいたします。 お問い合わせの際は 個人情報保護方針 をお読みになり、同意のうえご記入ください。",
+    "url": "https://ogw-mfg.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜株式会社小川製作所（公式ホームページ）お問合わせ | 小川製作所 医療機器・半導体製造装置・理化学装置・食...お問い合わせ – (有) 小川製作所お問合せ | 株式会社 小川製作所 | 株式会社小川製作所お問い合わせ - 銅/モリブデン等の難削材や焼き入れ品の金属加工 — 回答に時間がかかる場合がありますので、お急ぎの方はお電話にてお問い合わせください。 返信メールをお受け取りいただけるよう、受信設定（迷惑メール設定）等をお確かめください。 メールフォームでうまく送信できない場合や、ファイルをご送信いただく場合は下記メールアドレス宛にご連絡下さい。 MAIL: info@ogawa-tech.jp TEL: 03-3657-4196 FAX: 03-3673-4755 営業技術担当： 小川 新規お取引について 新規のお引き合いを歓迎しております。 初めてお問合せいただく場合",
+    "url": "https://www.ogawa-seisakusho.jp/pages/49/",
+    "pass": 3
+   },
+   {
+    "quote": "お問合わせ | 小川製作所 医療機器・半導体製造装置・理化学装置・食... — メールフォームでうまく送信できない場合や、ファイルをご送信いただく場合は下記メールアドレス宛にご連絡下さい。 MAIL: info@ogawa-tech.jp TEL: 03-3657-4196 FAX: 03-3673-4755 営業技術担当： 小川 新規お取引について 新規のお引き合いを歓迎しております。 初めてお問合せいただく場合は、下記につき ...",
+    "url": "https://ogawa-tech.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ – (有) 小川製作所 — よくあるお問い合わせ Q. どのくらいのサイズの成形に対応していますか？ A. 当社では50tから680tまでの射出成形機を社内に完備しております。 お米粒サイズの精密な小物部品から、約500mm～750mmサイズに対応可能です。",
+    "url": "https://ogawa-works.com/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "岡山の自動化SIer｜小川製作所 (@fa_ogwss) / X もちろん更なる進化も遂げる予定です、、 是非ご来場ください！ 『おかやまテクノロジー展（OTEX）2025』 ～精鋭企業と出会う技術展示商談会～に出展します！ | 工場自動化設備のワンストップ製作｜有限会社小川製作所",
+    "url": "https://x.com/fa_ogwss",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 小川製作所 (@oss1955_4) / Posts / X 株式会社 小川製作所 oss1955_4 Apr 6 おはようございます☀ 先日、フォロワー様より自分がガチャガチャで手に入れた現場猫の等身大版があったとの事で写真を頂きました🎥 中々のクオリティーですね…！ 現場、工場で働く皆様も指先確認を徹底していき ...",
+    "url": "https://x.com/oss1955_4",
+    "pass": 3
+   },
+   {
+    "quote": "小川製作所 | 製造業x経済統計 (@OgawaSeisakusho) / X News Picks Topicsの最新記事が公開されました！ 「高所得国では誰の純負債が増えている？」 金融資産と負債の正味額である金融資産・負債差額を部門別にみてみると、家計が金融資産を増やす裏で、誰が純負債を増やしているかが可視化されます。 Show more",
+    "url": "https://x.com/OgawaSeisakusho",
+    "pass": 3
+   },
+   {
+    "quote": "小川晃一郎 @ 小川製作所 (@ogawass) / X 岡山県総社市でいろいろな機械や治具（道具）の設計から製作、メンテナンスまで行っている会社です。部品のみの製作や修理等も承っていますので、法人様はもちろん個人の方もお困りのことがございましたら是非ご相談ください。Xでは社長の私が会社の事や地域の事、審判をしている少年 ...",
+    "url": "https://x.com/ogawass",
+    "pass": 3
+   },
+   {
+    "quote": "小川製作所 | 製造業x経済統計 (@OgawaSeisakusho) / X OECDの雇用保護指標を見てみると、雇用保護の仕組み自体はアメリカよりは厳しいようですが、ドイツを始め多くの先進国より緩いようです。 ↓日本の経済統計と転換点 286 日本は解雇しにくい国？ - 雇用保護指標の国際比較｜小川製作所 | 製造業x経済統計",
+    "url": "https://x.com/OgawaSeisakusho",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "株式会社小川製作所 | LinkedIn 株式会社小川製作所 Industrial Machinery Manufacturing 葛飾区, 東京都 18 followers 製缶・溶接・バフ研磨加工、精密機械加工 (5軸、複合工程)、3D CAD",
+    "url": "https://www.linkedin.com/company/ogawa-seisakusho/",
+    "pass": 3
+   },
+   {
+    "quote": "小川 真由 - 株式会社小川製作所 - 取締役 営業技術担当 東京都葛飾区...株式会社 小川 | LinkedIn297 日本の時給は高いのか？ - 労働時間あたり雇用者報酬の国際比較 |...株式会社 小川商店 | LinkedIn1,000+（株）小川製作所 Jobs in Worldwide - LinkedIn小川 幸夫 - 有限会社小川製作所の自営業 | LinkedIn 株式会社小川製作所 ・医療器具・食品機械・理化学装置などの製缶・溶接・バフ研磨加工 ・航空宇宙、半導体製造装置などの精密加工部品 ・3D CADを活用した機械・装置・治具の設計開発支援 小川製作所 ブログ 日本の経済統計と転換点 https://ogawa-tech.jp/blog 株式会社 小川 | LinkedInのフォロワー数8人。MISSION：「えっ、どきっ、キュン」のある世の中にないものをつくる ",
+    "url": "https://jp.linkedin.com/in/masayoshi-ogawa1980",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "小川製作所 Oct 29, 2024 · 340 労働者って何？ - 就業者と有業者と従業者 | 小川製作所 研磨・溶接・製缶加工と医療機器製造 日本の労働者数の定義と統計データについて整理し... 「直接投資の効率とは？ 」 直接投資の効率は、残高に対する所得の比率として計 算する事ができます。",
+    "url": "https://www.facebook.com/ogawatech2015/",
+    "pass": 3
+   },
+   {
+    "quote": "岡山の自動化SIer｜小川製作所 | Soja-shi Okayama Jul 23, 2025 · 岡山の自動化SIer｜小川製作所 is attending an event. 📢【展示会出展のお知らせ】📢 7月24日 (水)・25日 (木)に三光電業様にて開催される「 ロボット展」に出展いたします。 今回は、当社独自の供給ソリューション「ばらけピッ ク」を展示します。",
+    "url": "https://www.facebook.com/profile.php/?id=61565071298062",
+    "pass": 3
+   },
+   {
+    "quote": "小川製作所 - 株式会社小川製作所のホームページをリニューアルしまし... May 2, 2020 · 小川製作所 Oct 29, 2024 下町の町工場はなぜ統計記事を発信するのか 「統計から見える日本経済の「可能性と課題」」 X- BORDER様による当社取組についての連載記事第5回 ( 最終回)が公開されました。 当社が統計データをSNSで共有する理由や、日本経済",
+    "url": "https://www.facebook.com/ogawatech2015/posts/株式会社小川製作所のホームページをリニューアルしましたこれからも皆様のお役に立てるよう努力してまいりますので今後とも何卒宜しくお願い申し上げますhttpsban/3712576285483853/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "小川製作所 | 製造業x経済統計｜note 小川製作所 | 製造業x経済統計12日前 448 正味の総所得が拡大する政府 一般政府の第1次所得バランス (純) 国際比較 小川製作所 | 製造業x経済統計2週間前 447 実は多い日本企業の正味の所得 企業の第1次所得バランス (純) 国際比較",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "小川製作所 | 製造業x経済統計｜note",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "450 実は少ない日本人の財産所得 家計の純受取 国際比較",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "449 財産所得の純受取が多い日本 総所得への寄与率 国際比較",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "448 正味の総所得が拡大する政府 一般政府の第1次所得バランス(純) 国際比較",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "447 実は多い日本企業の正味の所得 企業の第1次所得バランス(純) 国際比較",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "446 日本人の正味の総所得ってどれくらい？ 家計の第1次所得バランス(純) 国際比較",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "445 日本の正味の総所得は多いのか？ 第1次所得バランス(純) 国際比較",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ogwss.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogwss.co.jp/service/maintenance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogwss.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogwss.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogwss.co.jp/company/business-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogwss.co.jp/problem-solving/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogwss.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogwss.co.jp/company/factory-information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogwss.co.jp/company/professional-introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogwss.co.jp/company/csr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogwss.co.jp/job-information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogwss.co.jp/post-2712/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "http://ogasei.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://ogasei.co.jp/trial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.anazawa.co.jp/2026/07/20/small-lot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ogawa-seisakusyo.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ogawa-seisakusho.jp/pages/17/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ogawa-mfg.com/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ogawaseisakusho.co.jp/mail.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogw-mfg.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ogawa-seisakusho.jp/pages/49/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/fa_ogwss",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/oss1955_4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OgawaSeisakusho",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ogawass",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ogawa-seisakusho/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/masayoshi-ogawa1980",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ogawatech2015/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=61565071298062",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ogawatech2015/posts/株式会社小川製作所のホームページをリニューアルしましたこれからも皆様のお役に立てるよう努力してまいりますので今後とも何卒宜しくお願い申し上げますhttpsban/3712576285483853/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OgawaSeisakusho",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/ogawa_tech",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "小川製作所 取扱製品 試作 小ロット",
+   "results": [
+    "http://ogasei.co.jp/",
+    "http://ogasei.co.jp/trial",
+    "https://www.anazawa.co.jp/2026/07/20/small-lot/",
+    "https://www.ogawa-seisakusho.jp/pages/17/",
+    "https://kouno-ss.com/small-lot/",
+    "https://www.few.co.jp/small-lot/",
+    "https://www.ogawa-ss.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "小川製作所 会社概要 事業内容",
+   "results": [
+    "https://www.ogawa-seisakusyo.co.jp/company.html",
+    "https://www.ogawa-seisakusho.jp/pages/17/",
+    "https://www.ogawa-mfg.com/company.html",
+    "http://www.w-ogawa.co.jp/company.html",
+    "https://www.ogawamfg.com/",
+    "https://www.ogawa-seisakusyo.co.jp/",
+    "https://www.ogawa-seisakusho.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "小川製作所 お問い合わせ メール",
+   "results": [
+    "http://www.ogawaseisakusho.co.jp/mail.html",
+    "https://ogw-mfg.com/contact/",
+    "https://www.ogawa-seisakusho.jp/pages/49/",
+    "https://ogawa-tech.jp/contact/",
+    "https://ogawa-works.com/contact/",
+    "https://ogwsss.co.jp/inquiry/",
+    "https://www.ogawaworks-ltd.com/contact/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 小川製作所",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com 小川製作所",
+   "results": [
+    "https://x.com/fa_ogwss",
+    "https://x.com/oss1955_4",
+    "https://x.com/OgawaSeisakusho",
+    "https://x.com/ogawass",
+    "https://x.com/OgawaSeisakusho/status/2118813345575031120",
+    "https://x.com/OgawaSeisakusho/status/2118813993569776069",
+    "https://x.com/OgawaSeisakusho/status/2099297840787001366"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 小川製作所",
+   "results": [
+    "https://www.linkedin.com/company/ogawa-seisakusho/",
+    "https://jp.linkedin.com/in/masayoshi-ogawa1980",
+    "https://jp.linkedin.com/company/株式会社小川",
+    "https://jp.linkedin.com/company/ogawacoltd",
+    "https://www.linkedin.com/jobs/（株）小川製作所-jobs-worldwide",
+    "https://jp.linkedin.com/in/幸夫-小川-a2a206256",
+    "https://www.linkedin.com/posts/masayoshi-ogawa1980_297-日本の時給は高いのか-労働時間あたり雇用者報酬の国際比較-小川製作所-activity-7133566426803568641-sorB"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 小川製作所",
+   "results": [
+    "https://www.facebook.com/ogawatech2015/",
+    "https://www.facebook.com/profile.php/?id=61565071298062",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/ogawatech2015/posts/株式会社小川製作所のホームページをリニューアルしましたこれからも皆様のお役に立てるよう努力してまいりますので今後とも何卒宜しくお願い申し上げますhttpsban/3712576285483853/",
+    "https://www.facebook.com/pages/有小川製作所/121936291231988/",
+    "https://www.facebook.com/people/株式会社小川製作所/100080476122050/",
+    "https://www.facebook.com/story.php/?story_fbid=2571151726489725&id=100063441950625"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "小川製作所 note 社長",
+   "results": [
+    "https://tokyo-fabhub.com/author/ogawa-technical-works/",
+    "https://ogwsss.co.jp/company/president/",
+    "https://ogawaseisakusyo.jp/company.html",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/ogawa_tech",
+    "https://www.instagram.com/reel/DeNf1RHyTfv/",
+    "https://note.com/taimee"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "小川製作所 X 投稿",
+   "results": [
+    "https://x.com/OgawaSeisakusho",
+    "https://note.com/ogawa_tech",
+    "https://www.ogawa-seisakusho.jp/",
+    "https://tokyo-fabhub.com/author/ogawa-technical-works/",
+    "https://www.instagram.com/ogawaseisakusho/",
+    "https://x.com/OgawaSeisakusho/status/2106661919398764724",
+    "https://ogwsss.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部20頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部20頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部20頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部20頁・検索9回）"
+ }
+}

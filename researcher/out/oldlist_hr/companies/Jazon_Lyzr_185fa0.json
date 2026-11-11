@@ -1,0 +1,1521 @@
+{
+ "name": "Jazon (Lyzr)",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T18:45:18.057237+00:00",
+ "official_url": "https://www.lyzr.ai",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/lyzr-ai-revenue",
+    "pass": 3
+   },
+   {
+    "label": "ARR",
+    "value": "$12M",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$2,900,000",
+    "url": "https://prospeo.io/c/lyzr-ai-revenue",
+    "pass": 3
+   },
+   {
+    "label": "Total raised",
+    "value": "$14.5M",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Jersey City, New Jersey, United States",
+    "url": "https://prospeo.io/c/lyzr-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://prospeo.io/c/lyzr-ai-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Lyzr | Take your AI agents to production, faster.",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lending, onboarding, and compliance",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fraud, onboarding, and payments",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Content, campaigns, and demand",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring, onboarding, and people ops",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Govern AI across the enterprise",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Take agents to production",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver Lyzr at enterprise scale",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "This video can’t be played inline here.",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Production agents running across customer environments",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Quarter-on-quarter growth in deployed agentic workloads",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The world’s top enterprises",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Accenture took a client’s finance close from pilot to production in nine weeks by rebuilding core workflows around agents.",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every enterprise has a different starting point. We meet you there, with the technology, expertise, and deployment model to move your AI ambitions into production.",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Add enterprise safety to your existing stack",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect agents, workflows, and enterprise systems around a shared objective, with Lyzr orchestrating execution from end to end.",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Build around your infrastructure, your data, and your rules, with the security and control your enterprise demands.",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "One pane to run, monitor, and govern every agent in production, wherever it was built.",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The pro-code workbench for engineering teams. Design, test, and ship production agents from one place.",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The primitives underneath: memory, tools, retrieval, and orchestration, composable in your own runtime.",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Regulatory Filing Preparation Agent",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Regulatory filings demand precision, consistency, and strict adherence to evolving compliance requirements.",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automates the review, comparison, and negotiation process, ensuring compliance with company standards.",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Helps public service teams automate intake, route requests intelligently, and improve response times with greater visibility.",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Supplier Onboarding Agent",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Partner Program for Enterprise Growth | Lyzr AI",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Lending, onboarding, and compliance",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Fraud, onboarding, and payments",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Content, campaigns, and demand",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring, onboarding, and people ops",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Govern AI across the enterprise",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Take agents to production",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver Lyzr at enterprise scale",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "This video can’t be played inline here.",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with Lyzr. Build the next generation of enterprise AI businesses.",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-ready AI platform",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy, govern, and run agents inside production environments.",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-sell, co-marketing, and a named partner success manager.",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprises across industries",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprises pick Lyzr over Palantir AIP, Microsoft Copilot, and Salesforce Agentforce. Then they sign multi-year contracts.",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Strengthened their pipeline with larger enterprise opportunities",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Shipped more robust, production-ready agent solutions to clients",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "enterprise AI delivery.",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "AWS · Azure · GCP · On-prem",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Pipeline into Lyzr’s enterprise & sovereign customer base.",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Idea to production, faster.",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Build, govern, and deploy enterprise agents on a production-ready platform. Every layer is already built.",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A four-week onboarding program, hands-on workshops, certifications, and full Lyzr University access.",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise from day one.",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Security, governance, observability, role-based access, human approvals, and audit trails built in.",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy production-ready AI Agents on AWS",
+    "url": "https://www.lyzr.ai/partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Lending, onboarding, and compliance",
+    "url": "https://www.lyzr.ai/partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Fraud, onboarding, and payments",
+    "url": "https://www.lyzr.ai/partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Content, campaigns, and demand",
+    "url": "https://www.lyzr.ai/partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring, onboarding, and people ops",
+    "url": "https://www.lyzr.ai/partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Govern AI across the enterprise",
+    "url": "https://www.lyzr.ai/partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Take agents to production",
+    "url": "https://www.lyzr.ai/partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver Lyzr at enterprise scale",
+    "url": "https://www.lyzr.ai/partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "This video can’t be played inline here.",
+    "url": "https://www.lyzr.ai/partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy production-ready",
+    "url": "https://www.lyzr.ai/partners/aws/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by Accenture, WTW, Verifone, KPMG, AWS, Hitachi, Movate, Firstsource, MSP Corp and AirAsia Move.",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing firm",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprises across industries",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing firm",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprises across industries",
+    "url": "https://www.lyzr.ai/partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Your AI Agent Partner — built on AWS, trusted by AWS.",
+    "url": "https://www.lyzr.ai/partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing firm",
+    "url": "https://www.lyzr.ai/partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "A reusable agent factory across every client. Build the production layer once on Vertex AI. Deploy it across your entire book of business.",
+    "url": "https://www.lyzr.ai/partners/google/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing firm",
+    "url": "https://www.lyzr.ai/partners/google/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing firm",
+    "url": "https://www.lyzr.ai/partners/microsoft/",
+    "pass": 1
+   },
+   {
+    "quote": "Lyzr AI agent case study - Nelson Global",
+    "url": "https://www.lyzr.ai/case-studies/industrial-manufacturing-firm/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study · AI Incident Prediction",
+    "url": "https://www.lyzr.ai/case-studies/industrial-manufacturing-firm/",
+    "pass": 1
+   },
+   {
+    "quote": "Nelson Global, a global leader in manufacturing clean, efficient sub-systems for agriculture, construction, and power generation, with a focus on innovation and sustainability.",
+    "url": "https://www.lyzr.ai/case-studies/industrial-manufacturing-firm/",
+    "pass": 1
+   },
+   {
+    "quote": "Consistent, clear communication was essential for timely decision-making in manufacturing processes.",
+    "url": "https://www.lyzr.ai/case-studies/industrial-manufacturing-firm/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing firm",
+    "url": "https://www.lyzr.ai/case-studies/industrial-manufacturing-firm/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by teams at leading enterprises worldwide",
+    "url": "https://www.lyzr.ai/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing firm",
+    "url": "https://www.lyzr.ai/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing firm",
+    "url": "https://www.lyzr.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing firm",
+    "url": "https://www.lyzr.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "That means slower promises, faster delivery, and a relentless bias to what is safe, observable, and actually used by your teams.",
+    "url": "https://www.lyzr.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing firm",
+    "url": "https://www.lyzr.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Lyzr AI agent case study - Dairyland Power",
+    "url": "https://www.lyzr.ai/case-studies/leading-energy-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study · Accelerating Work Orders with AI",
+    "url": "https://www.lyzr.ai/case-studies/leading-energy-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing firm",
+    "url": "https://www.lyzr.ai/case-studies/leading-energy-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Lyzr AI agent case study - NTT Data",
+    "url": "https://www.lyzr.ai/case-studies/ntt-data/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing firm",
+    "url": "https://www.lyzr.ai/case-studies/ntt-data/",
+    "pass": 1
+   },
+   {
+    "quote": "Lyzr AI agent case study - SurePeople",
+    "url": "https://www.lyzr.ai/case-studies/hr-workforce-leader/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study · AI-Powered Employee Coaching",
+    "url": "https://www.lyzr.ai/case-studies/hr-workforce-leader/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing firm",
+    "url": "https://www.lyzr.ai/case-studies/hr-workforce-leader/",
+    "pass": 1
+   },
+   {
+    "quote": "Lyzr AI agent case study - NPD Powered",
+    "url": "https://www.lyzr.ai/case-studies/customer-service-leader/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study · AI Invoice Automation",
+    "url": "https://www.lyzr.ai/case-studies/customer-service-leader/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing firm",
+    "url": "https://www.lyzr.ai/case-studies/customer-service-leader/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study · Yugabyte's AI GTM Engine",
+    "url": "https://www.lyzr.ai/case-studies/yugabyte-built-an-ai-driven-gtm-intelligence-engine-with-lyzr/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing firm",
+    "url": "https://www.lyzr.ai/case-studies/yugabyte-built-an-ai-driven-gtm-intelligence-engine-with-lyzr/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study · Scaling SDR with AI",
+    "url": "https://www.lyzr.ai/case-studies/global-infrastructure-leader-scaled-inbound-sdr-operations/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing firm",
+    "url": "https://www.lyzr.ai/case-studies/global-infrastructure-leader-scaled-inbound-sdr-operations/",
+    "pass": 1
+   },
+   {
+    "quote": "Lyzr AI agent case study - Support Breakthrough",
+    "url": "https://www.lyzr.ai/case-studies/leading-retail-company-re-imagined-customer-support/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study · Retail Support Success",
+    "url": "https://www.lyzr.ai/case-studies/leading-retail-company-re-imagined-customer-support/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing firm",
+    "url": "https://www.lyzr.ai/case-studies/leading-retail-company-re-imagined-customer-support/",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Lyzr Agent Studio",
+    "url": "https://www.casestudies.com/customer/lyzr-agent-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Automation Machinery Manufacturing",
+    "url": "https://www.casestudies.com/company/lyzr",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Powered Troubleshooting Agent cuts downtime and boosts safety in high-risk industrial environments",
+    "url": "https://www.casestudies.com/company/lyzr",
+    "pass": 3
+   },
+   {
+    "quote": "Enhancing a VC firm’s thought leadership in manufacturing with an AI-driven marketing agent",
+    "url": "https://www.casestudies.com/company/lyzr",
+    "pass": 3
+   },
+   {
+    "quote": "Witzeal - Customer Case Study",
+    "url": "https://www.casestudies.com/company/lyzr",
+    "pass": 3
+   },
+   {
+    "quote": "Yardstick - Customer Case Study",
+    "url": "https://www.casestudies.com/company/lyzr",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "WTW scaled submission triage across carrier workflows adding 3.1x more broker throughput",
+    "url": "https://www.lyzr.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue share & rebates",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Earn recurring revenue through license rebates and referrals.",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "a million in AI revenue.",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Scaled from $0 to over $1 million in new AI services revenue",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "New AI services revenue",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Omakase – A Michelin-starred dinner with AI Leaders",
+    "url": "https://www.lyzr.ai/partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Omakase means trust – the diner placing themselves in the chef’s hands. 14 seats. One Michelin-starred chef. One long conversation.",
+    "url": "https://www.lyzr.ai/partners/aws/",
+    "pass": 1
+   },
+   {
+    "quote": "Faster pivot from advisory revenue to managed-service revenue. A real platform underneath the offering changes the commercial model of every engagement you run.",
+    "url": "https://www.lyzr.ai/partners/google/",
+    "pass": 1
+   },
+   {
+    "quote": "Teams in the US and China struggled with language barriers during daily meetings.",
+    "url": "https://www.lyzr.ai/case-studies/industrial-manufacturing-firm/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated notes free up employees from manual transcription, boosting productivity.",
+    "url": "https://www.lyzr.ai/case-studies/industrial-manufacturing-firm/",
+    "pass": 1
+   },
+   {
+    "quote": "Employees needed real-time guidance on how to interact effectively with colleagues and managers.",
+    "url": "https://www.lyzr.ai/case-studies/hr-workforce-leader/",
+    "pass": 1
+   },
+   {
+    "quote": "Employees receive tailored insights in real time, boosting satisfaction with HR tools.",
+    "url": "https://www.lyzr.ai/case-studies/hr-workforce-leader/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Powered M&A Screening speeds company discovery and cuts analyst hours for high-impact acquisitions",
+    "url": "https://www.casestudies.com/company/lyzr",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Powered Coaching elevates psychometric insights, helping employees build stronger workplace relationships",
+    "url": "https://www.casestudies.com/company/lyzr",
+    "pass": 3
+   },
+   {
+    "quote": "Lyzr AI Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/lyzr-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Lyzr AI",
+    "url": "https://prospeo.io/c/lyzr-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/lyzr-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/lyzr-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/lyzr-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Lyzr AI?",
+    "url": "https://prospeo.io/c/lyzr-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Lyzr AI generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/lyzr-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/lyzr-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/lyzr-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Lyzr AI have?",
+    "url": "https://prospeo.io/c/lyzr-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/lyzr-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/550185-85",
+    "pass": 3
+   },
+   {
+    "quote": "Lyzr has 191 total employees.",
+    "url": "https://pitchbook.com/profiles/company/550185-85",
+    "pass": 3
+   },
+   {
+    "quote": "What is Lyzr’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/550185-85",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Lyzr is",
+    "url": "https://pitchbook.com/profiles/company/550185-85",
+    "pass": 3
+   },
+   {
+    "quote": "Lyzr AI Revenue 2026: $12M ARR, $250M Valuation",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Lyzr AI revenue & ARR",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Siva Surendira said on camera that Lyzr AI's annual recurring revenue was $12M (June 2026). That is up 4700% from $250K a year earlier.",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": ", level with two others. The list ranks the 1,298 companies Nathan Latka has interviewed by revenue.",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "All 5 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How Lyzr AI Reached $12M ARR at 95% Gross Margin with 32 Enterprise Customers (Interview with CEO Siva Surendira)",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "$12,000,000 ARR",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "$3,500,000 ARR",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "$650,000 ARR",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "$250,000 ARR",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Lyzr AI CEO, founders & employees",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Siva Surendira founded Lyzr AI in 2023 with Anirudh Narayan and Jithin George and runs it as CEO. Lyzr AI has 73 employees (August 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Lyzr AI's revenue?",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Lyzr AI's annual recurring revenue was",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Lyzr AI have?",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of August 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "The Latka List ranks the private, operating companies Nathan Latka has interviewed by the latest revenue figure on each profile, reported or estimated; equal figures share a rank.",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "AI Partner Program for Enterprise Growth | Lyzr AI",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Browse our global network of certified implementation and reseller partners",
+    "url": "https://www.lyzr.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Value-Added Resellers",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "The platform generated engagement summaries, stakeholder insights, personalized email drafts, and outreach recommendations automatically. This significantly reduced the manual effort required before outbound execution.",
+    "url": "https://www.lyzr.ai/case-studies/yugabyte-built-an-ai-driven-gtm-intelligence-engine-with-lyzr/",
+    "pass": 1
+   },
+   {
+    "quote": "Jazon is an AI-powered Sales Development Representative (SDR) that automates entire sales outreach processes. It handles prospect research, email generation, follow-ups, and meeting scheduling, leveraging advanced AI to create personalized, context-aware communication strategies while ensuring data privacy and efficiency.",
+    "url": "https://www.aiagentlink.ai/catalog/view/ai-agent/jazon-by-lyzr-ai",
+    "pass": 3
+   },
+   {
+    "quote": "EMAIL OPTIMIZED LANGUAGE MODEL,",
+    "url": "https://www.aiagentlink.ai/catalog/view/ai-agent/jazon-by-lyzr-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Jazon is an AI-powered Sales Development Representative (SDR) that automates entire sales outreach processes. It handles prospect research, email generation, follow-ups, and meeting scheduling, leveraging advanced AI to create personalized, context-aware communication strategies while ensuring data privacy and efficiency.",
+    "url": "https://arintoo.com/en/employees/e9395fe8-4eda-4368-ad15-d0524e38d428",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/lyzr-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/550185-85",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "The agentic OS built for the enterprise sales function. - Lyzr — Jazon sits at the centre of your sales function. It reads every signal across pipeline and accounts, activates the right plays, and closes every loop back to revenue.",
+    "url": "https://www.lyzr.ai/jazon/",
+    "pass": 3
+   },
+   {
+    "quote": "Lyzr | Take your AI agents to production, faster. — Understand where and how users actually work. Design the simplest possible user experience. Test with real users and remove friction. Drive rollout, onboarding, and ongoing adoption. Strong on offense. Serious on defense. Lyzr is built for enterprise security, governance, and compliance across identity, data, access, and infrastructure.",
+    "url": "https://www.lyzr.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Jazon AI SDR Agent — Automate Outbound Sales - Lyzr — “Jazon has completely transformed our outbound game. We went from 12 qualified meetings per month to 78, and our SDR team can finally focus on relationship building instead of cold calling. It’s like having a tireless sales machine that never sleeps.”",
+    "url": "https://www.lyzr.ai/interactive-pages/jazon-ai-sdr-agent-automate-outbound-sales-lyzr/",
+    "pass": 3
+   },
+   {
+    "quote": "Jazon - by Lyzr.ai — Jazon is a AI Sales Development Representative who can help you automate your sales. Start by creating a new sales project.",
+    "url": "https://jazon.studio.lyzr.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Lyzrは日本語対応してる?UI・出力・サポートを検証 (2026) | AI PICKS — Lyzrの日本語対応を、UI表示・入出力・サポートの3項目で整理しました。 公式サイトの表示言語と編集部の評価をもとに、日本語で業務に使えるかの判断材料と、同カテゴリの代替候補をまとめています。",
+    "url": "https://aipicks.jp/tool/lyzr/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Jazon by Lyzr AI by Lyzr | AI Agents | o-mega — Jazon is Lyzr's agentic AI SDR that autonomously handles prospect research, personalized outreach, follow-ups, and meeting booking.",
+    "url": "https://o-mega.ai/agents/jazon-by-lyzr-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Jazon by Lyzr AI — Jazon is an AI-powered Sales Development Representative (SDR) that automates entire sales outreach processes. It handles prospect research, email generation, follow-ups, and meeting scheduling, leveraging advanced AI to create personalized, context-aware communication strategies while ensuring data privacy and efficiency. Used For SALES OUTREACH AUTOMATION, LEAD GENERATION, MEET",
+    "url": "https://www.aiagentlink.ai/catalog/view/ai-agent/jazon-by-lyzr-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Lyzr | Take your AI agents to production, faster. — Most AI agent projects never reach production. Lyzr provides the platform and expertise to deploy governed AI agents at scale.",
+    "url": "https://www.lyzr.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "AI for Sales: Jazon vs. Jordan - The Ultimate Comparison of ... — Aug 20, 2024 · All posts Sales AI for Sales: Jazon vs. Jordan – The Ultimate Comparison of AI-Powered Phone Representatives Introduction to Agents in AI for Sales In the race to deliver unparalleled customer service, the battle lines are being drawn between cutting-edge technologies that promise to redefine the…",
+    "url": "https://www.lyzr.ai/blog/jazon-vs-jordan/",
+    "pass": 3
+   },
+   {
+    "quote": "Jazon by Lyzr – AI SDR Transforms Buyer Intent into Growth — Jazon is an AI-powered SDR that maps accounts, personalizes outreach, and drives smarter sales conversations across email, LinkedIn, and WhatsApp.",
+    "url": "https://aiagents.saastrac.com/ai-agent/jazon/",
+    "pass": 3
+   },
+   {
+    "quote": "Jazon AI SDR Agent — Automate Outbound Sales - Lyzr — Jazon is designed for complex B2B environments with multiple stakeholders, long sales cycles, and sophisticated buying processes. It adapts its approach based on prospect behavior and engagement patterns. Jazon offers complete customization of messaging, timing, and outreach sequences.",
+    "url": "https://www.lyzr.ai/interactive-pages/jazon-ai-sdr-agent-automate-outbound-sales-lyzr/",
+    "pass": 3
+   },
+   {
+    "quote": "Arintoo - Jazon by Lyzr AI — Whether you are looking to scale a startup or optimize an established sales department, Jazon provides a scalable, intelligent solution for consistent outbound growth without the overhead of additional headcount.",
+    "url": "https://arintoo.com/en/employees/e9395fe8-4eda-4368-ad15-d0524e38d428",
+    "pass": 3
+   },
+   {
+    "quote": "Jazon 2.0 by Lyzr: The First Truly Human-Like AI for Sales ... — Dec 9, 2024 · Boosting sales performance with intelligent, scalable outreach for 10x growth. Lyzr, a leader in generative AI (Gen AI) solutions, announces the launch of Jazon 2.0, the world’s first agentic AI sales development representative (AI SDR).",
+    "url": "https://www.sales30conf.com/blog/jazon-2-0-by-lyzr-the-first-truly-human-like-ai-for-sales-development/",
+    "pass": 3
+   },
+   {
+    "quote": "The agentic OS built for the enterprise sales function. - Lyzr — “Lyzr gave us a team that understood what production-grade AI means in a regulated environment. They didn’t just ship, they helped us think through compliance, auditability, and scale.”",
+    "url": "https://www.lyzr.ai/jazon/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring Lyzr Agent Studio as the Customer — Explore case studies featuring Lyzr Agent Studio as the customer — learn how vendors and partners helped Lyzr Agent Studio solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/lyzr-agent-studio",
+    "pass": 3
+   },
+   {
+    "quote": "Lyzr B2B Case Studies & Customer Successes — See how Lyzr solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/lyzr",
+    "pass": 3
+   },
+   {
+    "quote": "How Lyzr Stopped Selling AI Agents (And Started Hiring You a ... — May 19, 2026 · And Lyzr a company that, on paper, sells multi-agent orchestration infrastructure with a frankly intimidating technical stack figured out something most AI companies still haven’t.",
+    "url": "https://storysellssoftware.substack.com/p/how-lyzr-stopped-selling-ai-agents",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies — Lyzr Partner Hub — 60 real Lyzr deployments with measurable results — pulled live from lyzr.ai and mapped to the industries they belong to.",
+    "url": "https://lyzr-partner-hub.vercel.app/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Lyzr AI Revenue, Funding & ValuationLyzr 2026 Company Profile: Valuation, Funding & Investors ...Lyzr AI Revenue 2026: $12M ARR, $250M ValuationLyzr - 2026 Company Profile, Team, Funding & Competitors - TracxnLyzr AI hits $250M valuation to build on-prem enterprise AI ...Lyzr Revenue, Valuation, Funding & Investors | MultiplesJAZON Revenue, Funding & Valuation — Lyzr AI has revenue of $6,673,290, ",
+    "url": "https://prospeo.io/c/lyzr-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Lyzr 2026 Company Profile: Valuation, Funding & Investors ...Lyzr AI Revenue 2026: $12M ARR, $250M ValuationLyzr - 2026 Company Profile, Team, Funding & Competitors - TracxnLyzr AI hits $250M valuation to build on-prem enterprise AI ...Lyzr Revenue, Valuation, Funding & Investors | MultiplesJAZON Revenue, Funding & Valuation — Information on valuation, funding, cap tables, investors, and executive",
+    "url": "https://pitchbook.com/profiles/company/550185-85",
+    "pass": 3
+   },
+   {
+    "quote": "Lyzr AI Revenue 2026: $12M ARR, $250M Valuation — Nov 4, 2026 · Lyzr AI 2026 revenue: $12M ARR (up from $1.5M in 2025). Valuation: $250M. Total funding: $14.5M across 2 rounds. Founded 2023. Updated Nov 4, 2026.",
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Lyzr - 2026 Company Profile, Team, Funding & Competitors - TracxnLyzr AI hits $250M valuation to build on-prem enterprise AI ...Lyzr Revenue, Valuation, Funding & Investors | MultiplesJAZON Revenue, Funding & Valuation — Sep 11, 2026 · Lyzr is a series B company based in Jersey City (United States), founded in 2023 by Jithin George, Anirudh Narayan, Ankit Garg and Siva Surendira. It operates as a ",
+    "url": "https://tracxn.com/d/companies/lyzr/__3iNuwF28pWvfOkygQJziJIfs1U-wu38eTORcpSBqjqo",
+    "pass": 3
+   },
+   {
+    "quote": "Lyzr AI hits $250M valuation to build on-prem enterprise AI ... — Mar 9, 2026 · According to Bloomberg, Lyzr’s revenue has grown by more than 300% in each of the past two quarters, and the company expects to reach profitability as early as April. The company currently has about 130 employees, with most of its engineering team based in Bangalore, India.",
+    "url": "https://techfundingnews.com/lyzr-ai-14-5m-accenture-250m-valuation/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Jazon (@Jazon_Official) / X Jazon.Official Official Music - Listen to songs on Spotify, Apple Music, Tidal | Check for Videos...",
+    "url": "https://x.com/Jazon_Official",
+    "pass": 3
+   },
+   {
+    "quote": "Jazon LesTer╰☆╮ (@ja_zon) / X May 11, 2012 · ╰☆╮Jazon LesTer╰☆╮ @ja_zon Fun loving guy, just being me...Happily married to @ Ghostwritter69, brother to @ TerrellLester & Brother-In-law 2 @ That_girl_me #TeamLesTer Joined May 2012 1,273",
+    "url": "https://x.com/ja_zon",
+    "pass": 3
+   },
+   {
+    "quote": "jazon (@ja_z09) / Posts / X Dec 18, 2018 · 🤍 0 0 📎 jazon ja_z09 Dec 29 don’t bother tryna buy this. he’ll take your money n send you a link to a telegram of all the same previews in this page",
+    "url": "https://x.com/ja_z09",
+    "pass": 3
+   },
+   {
+    "quote": "Jazon (@JazonMane) / X 13 975 98K Jazon @JazonMane Jul 2 Attendez ne bougez pas, y a Hiro qui est en train de faire un 1v5 contre des bronzes (il se fait débrancher par un Iron à 38 % de WR)",
+    "url": "https://x.com/JazonMane",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "JAzon: Your 1000x AI-SDR | Lyzr AI - LinkedIn Powered by Lyzr AI Automata, Jazon is a system where multiple expert agents function together to solve complex problems and automate workflows. 𝐖𝐡𝐲 𝐉𝐚𝐳𝐨𝐧? Jazon offers ...",
+    "url": "https://www.linkedin.com/posts/lyzr-platform_jazon-your-1000x-ai-sdr-activity-7189118429637853185-3JFY",
+    "pass": 3
+   },
+   {
+    "quote": "Meet Jazon: The AI-SDR that can automate all sales outreach ... Launching Jazon - World’s First Downloadable AI SDR 😎 Jazon is your 1000x Sales Development Rep, capable of conversing with your prospects and booking meetings for you.",
+    "url": "https://www.linkedin.com/posts/lyzr-platform_meet-jazon-the-ai-sdr-that-can-automate-activity-7191679995402928128--sOy",
+    "pass": 3
+   },
+   {
+    "quote": "Imagine a world where Jazon, Skott, Kathy, Diane, and Jeff ... Imagine a world where Jazon, Skott, Kathy, Diane, and Jeff aren't just your AI tools, but your AI-powered workforce. 🤖💼 - Your routine mundane tasks vanish and creativity reigns - Strategic...",
+    "url": "https://pe.linkedin.com/posts/lyzr-platform_ai-artificialintelligence-genai-activity-7231170548276281346-E1c5",
+    "pass": 3
+   },
+   {
+    "quote": "Anupam Parashar - Senior Full Stack AI Engineer · Agentic AI ...Jason Lazar - Executive Leader | Commercial Growth ... - LinkedInJazon Alvez - Central Luzon, Philippines | Propesyonal na ... Most recently at Lyzr AI, I contributed to Jazon, an AI SDR platform that helped drive $1.2M+ ARR, and worked on Lyzr Studio, the agent platform powering 200+ production AI agents across... A commercially astu",
+    "url": "https://in.linkedin.com/in/anupam-parashar",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Jazon - FacebookLyzr AI - FacebookLyzr AI | Jersey City NJ - FacebookJason Lyzer Profiles | FacebookJazon Roblox - FacebookLyzr - Key Differences Between Autonomous AI Agents vs ...Gary Jazon - Facebook Apr 2, 2026 · Jazon, Elkhart. 361 followers. This is the official page for Rap an r&b jazon plz come and enjoy my music I will contact fans Mar 4, 2025 · Jazon & Skott are just the beginning. More ",
+    "url": "https://www.facebook.com/jazonofficial/",
+    "pass": 3
+   },
+   {
+    "quote": "Lyzr AI - Facebook Mar 4, 2025 · Jazon & Skott are just the beginning. More Role Agents, coming soon from Lyzr AI. 🫡 https://ow.ly/9w1s50Shlyk",
+    "url": "https://www.facebook.com/p/Lyzr-AI-61560540832224/",
+    "pass": 3
+   },
+   {
+    "quote": "Lyzr AI | Jersey City NJ - Facebook Jul 19, 2024 · This is the BIG news we've been waiting to share - introducing Lyzr Xponents! The AI workforce revolution is here. 🤖 Xponents are super-intelligent, human-like agents, without the hardware.",
+    "url": "https://www.facebook.com/61557265123947/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.lyzr.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/partners/aws/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/partners/google/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/partners/microsoft/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/partners/aws/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/case-studies/industrial-manufacturing-firm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/case-studies/leading-energy-provider/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/case-studies/ntt-data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/case-studies/hr-workforce-leader/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/case-studies/customer-service-leader/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/case-studies/yugabyte-built-an-ai-driven-gtm-intelligence-engine-with-lyzr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/case-studies/global-infrastructure-leader-scaled-inbound-sdr-operations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/case-studies/leading-retail-company-re-imagined-customer-support/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "https://www.lyzr.ai/partners/aws/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/case-studies/industrial-manufacturing-firm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lyzr.ai/case-studies/industrial-manufacturing-firm/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jazon.studio.lyzr.ai/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://o-mega.ai/agents/jazon-by-lyzr-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aiagentlink.ai/catalog/view/ai-agent/jazon-by-lyzr-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jazon.studio.lyzr.ai/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://arintoo.com/en/employees/e9395fe8-4eda-4368-ad15-d0524e38d428",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/lyzr-agent-studio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/lyzr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://storysellssoftware.substack.com/p/how-lyzr-stopped-selling-ai-agents",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/lyzr-ai-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/550185-85",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/lyzr.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/lyzr/__3iNuwF28pWvfOkygQJziJIfs1U-wu38eTORcpSBqjqo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Jazon_Official",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ja_zon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ja_z09",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JazonMane",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/lyzr-platform_jazon-your-1000x-ai-sdr-activity-7189118429637853185-3JFY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/lyzr-platform_meet-jazon-the-ai-sdr-that-can-automate-activity-7191679995402928128--sOy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pe.linkedin.com/posts/lyzr-platform_ai-artificialintelligence-genai-activity-7231170548276281346-E1c5",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/anupam-parashar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jazonofficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Lyzr-AI-61560540832224/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61557265123947/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Jazon (Lyzr) 日本 導入",
+   "results": [
+    "https://www.lyzr.ai/jazon/",
+    "https://www.lyzr.ai/",
+    "https://www.lyzr.ai/interactive-pages/jazon-ai-sdr-agent-automate-outbound-sales-lyzr/",
+    "https://jazon.studio.lyzr.ai/",
+    "https://aipicks.jp/tool/lyzr/japanese",
+    "https://www.lyzr.ai/blueprints/sales/ai-sdr-agent/",
+    "https://www.sales30conf.com/blog/jazon-2-0-by-lyzr-the-first-truly-human-like-ai-for-sales-development/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jazon (Lyzr) 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://o-mega.ai/agents/jazon-by-lyzr-ai",
+    "https://www.aiagentlink.ai/catalog/view/ai-agent/jazon-by-lyzr-ai",
+    "https://www.lyzr.ai/",
+    "https://www.lyzr.ai/blog/jazon-vs-jordan/",
+    "https://aiagents.saastrac.com/ai-agent/jazon/",
+    "https://www.jll.com/ja-jp/about-jll/japan-information",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jazon (Lyzr) Japan",
+   "results": [
+    "https://www.lyzr.ai/jazon/",
+    "https://www.lyzr.ai/interactive-pages/jazon-ai-sdr-agent-automate-outbound-sales-lyzr/",
+    "https://jazon.studio.lyzr.ai/",
+    "https://arintoo.com/en/employees/e9395fe8-4eda-4368-ad15-d0524e38d428",
+    "https://www.sales30conf.com/blog/jazon-2-0-by-lyzr-the-first-truly-human-like-ai-for-sales-development/",
+    "https://www.reddit.com/r/SaaS/comments/1ccvqfk/meet_jazon_worlds_first_downloadable_ai_sdr/",
+    "https://github.com/LyzrCore/jazon-sdr"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jazon (Lyzr) manufacturing customer case study",
+   "results": [
+    "https://www.lyzr.ai/jazon/",
+    "https://www.casestudies.com/customer/lyzr-agent-studio",
+    "https://www.casestudies.com/company/lyzr",
+    "https://storysellssoftware.substack.com/p/how-lyzr-stopped-selling-ai-agents",
+    "https://lyzr-partner-hub.vercel.app/case-studies/",
+    "https://www.llamaindex.ai/blog/case-study-lyzr-taking-autonomous-ai-agents-to-usd1m-arr-with-llamaindex",
+    "https://www.lyzr.ai/case-studies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jazon (Lyzr) white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.lyzr.ai/",
+    "https://partner.vw.com/partner",
+    "https://reseller.amazon.com/",
+    "https://partners.spectrum.com/",
+    "https://portal.americavoice.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jazon (Lyzr) founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/lyzr-ai-revenue",
+    "https://pitchbook.com/profiles/company/550185-85",
+    "https://getlatka.com/companies/lyzr.ai",
+    "https://tracxn.com/d/companies/lyzr/__3iNuwF28pWvfOkygQJziJIfs1U-wu38eTORcpSBqjqo",
+    "https://techfundingnews.com/lyzr-ai-14-5m-accenture-250m-valuation/",
+    "https://multiples.vc/private-comps/lyzr",
+    "https://prospeo.io/c/jazon-revenue"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Jazon (Lyzr)",
+   "results": [
+    "https://note.com/dashboard",
+    "https://note.com/tag/社内SE",
+    "https://note.com/tag/CVE-2026-109618",
+    "https://note.com/ahidasanka/n/n141b55b74f27",
+    "https://note.com/end_hamaokanp/n/n86a8ede22413",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Jazon (Lyzr)",
+   "results": [
+    "https://x.com/Jazon_Official",
+    "https://x.com/ja_zon",
+    "https://x.com/ja_z09",
+    "https://x.com/JazonMane",
+    "https://x.com/lyzr3640",
+    "https://help.x.com/en",
+    "https://help.x.com/en/using-x/download-the-x-app"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Jazon (Lyzr)",
+   "results": [
+    "https://www.linkedin.com/posts/lyzr-platform_jazon-your-1000x-ai-sdr-activity-7189118429637853185-3JFY",
+    "https://www.linkedin.com/posts/lyzr-platform_meet-jazon-the-ai-sdr-that-can-automate-activity-7191679995402928128--sOy",
+    "https://pe.linkedin.com/posts/lyzr-platform_ai-artificialintelligence-genai-activity-7231170548276281346-E1c5",
+    "https://in.linkedin.com/in/anupam-parashar",
+    "https://au.linkedin.com/in/jasonslazar",
+    "https://ph.linkedin.com/in/jazon-alvez",
+    "https://pe.linkedin.com/pulse/virtual-sales-assistants-passé-you-need-ai-agent-who-can-xwwmf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Jazon (Lyzr)",
+   "results": [
+    "https://www.facebook.com/jazonofficial/",
+    "https://www.facebook.com/p/Lyzr-AI-61560540832224/",
+    "https://www.facebook.com/61557265123947/",
+    "https://www.facebook.com/public/Jason-Lyzer/",
+    "https://www.facebook.com/profile.php/?id=61572988623646",
+    "https://www.facebook.com/61557265123947/photos/-key-differences-between-autonomous-ai-agents-vs-traditional-ai-systems-curious-/122147692202242170/",
+    "https://www.facebook.com/garyjazon/grid/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jazon (Lyzr) note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/president__",
+    "https://www.lyzr.ai/jazon/",
+    "https://jazon.studio.lyzr.ai/",
+    "https://www.lyzr.ai/interactive-pages/jazon-ai-sdr-agent-automate-outbound-sales-lyzr/",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Jazon (Lyzr) X 投稿",
+   "results": [
+    "https://www.lyzr.ai/jazon/",
+    "https://jazon.studio.lyzr.ai/",
+    "https://github.com/LyzrCore/jazon-sdr",
+    "https://www.lyzr.ai/",
+    "https://www.lyzr.ai/interactive-pages/jazon-ai-sdr-agent-automate-outbound-sales-lyzr/",
+    "https://x.com/JazzonAnims",
+    "https://x.com/14poyo927/status/2118236003546874313"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部26頁・検索12回）"
+ }
+}

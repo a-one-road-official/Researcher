@@ -1,0 +1,1219 @@
+{
+ "name": "Mastra",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T18:24:20.457840+00:00",
+ "official_url": "https://mastra.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "input processor: message-history",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Compose typed steps, retries, and branches into production workflows your team can inspect and ship.",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Coordinate multi-mode agents with shared state, threads, and storage — the same harness that runs Mastra Code.",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A system of specialized AI agents that takes software from issue to production.",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Score agent runs against repeatable checks before changes reach production.",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Track latency, cost, model calls, and tool usage across every production agent run.",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Subscribe agent threads to external resources and route webhook or polling events into notification signals.",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How Sanity Built a Content Agent for a CMS Used by 1M+ Users",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How WorkOS Went From Evaluating Mastra to Using It in Prod in ~1 Month",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Build a company brain, Slack/Teams agents, or automate important business processes",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "problem we're solving.",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Answer users, complete tasks, hand off to your product flows",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Build AI SREs or give product teams shared agent primitives",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mastra is an open-source TypeScript framework for building AI-powered applications and agents. Mastra provides agents, workflows, memory, workspaces and observability, letting developers go from idea to implementation. Mastra integrates with frontend and backend frameworks like React, Next.js and Node, or can be deployed anywhere as a standalone server.",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What AI models and providers does Mastra support?",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mastra's model routing connects to 90+ providers through one standard interface. Mastra supports models from OpenAI, Anthropic, Gemini and more, allowing developers to use different AI providers through a single API.",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mastra's memory system provides conversation history, data retrieval from APIs, databases and files, and human-like working and semantic memory so agents behave coherently. Developers can give Mastra agents the right context at the right time by combining message history with retrieval from external data sources.",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mastra supports authoring Model Context Protocol (MCP) servers, exposing agents, tools and other structured resources via the MCP interface. MCP servers built with Mastra can be accessed by any system or agent that supports the protocol.",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mastra applications can be deployed to any Node.js-compatible environment. Mastra includes optional built-in deployers for Vercel, Netlify and Cloudflare to automate the deployment process. Developers can also deploy Mastra as a standalone server powered by Hono, integrate it with existing web frameworks like Next.js, or use their existing Hono, Express, Fastify or any other server app.",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mastra's core framework is open source under the Apache 2.0 license. Enterprise features are source-available under the Mastra Enterprise License. Mastra is free to start with no seats or usage tiers.",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Create a new Mastra project. Mastra is a framework for AI applications and agents on a modern TypeScript stack. Before running the command, ask these questions one at a time and wait for each answer unless it was already provided:",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Project name? (default: \"my-mastra-app\")",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Provider? (required; options: \"openai\", \"anthropic\", \"google\", \"xai\")",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "If the provider isn't supported, ask again and list the supported values.",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Run: `npm create mastra@latest <project-name> -- --llm <provider>`",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "15-day trace retention",
+    "url": "https://mastra.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1 small dedicated project",
+    "url": "https://mastra.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "60-day trace retention",
+    "url": "https://mastra.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "2 medium dedicated projects",
+    "url": "https://mastra.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "180-day trace retention",
+    "url": "https://mastra.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prices per workspace, each month.",
+    "url": "https://mastra.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For Serverless projects and sandboxes",
+    "url": "https://mastra.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Additional projects at the sizes below",
+    "url": "https://mastra.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "then $10 / GB per project",
+    "url": "https://mastra.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How Sanity Built a Content Agent for a CMS Used by 1M+ Users",
+    "url": "https://mastra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How SoftBank Cut Presentation Creation From Hours to 2 Minutes",
+    "url": "https://mastra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How WorkOS Went From Evaluating Mastra to Using It in Prod in ~1 Month",
+    "url": "https://mastra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Agent platform turning client calls into project plans for the biggest consumer brands",
+    "url": "https://mastra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "AI order management platform that helps distributors process 3× more orders",
+    "url": "https://mastra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "30+ agents and 22 workflows for fleet management, onboarding, and internal ops",
+    "url": "https://mastra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-agent football assistant that cuts NFL coaches' game prep from hours to minutes",
+    "url": "https://mastra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Agent that creates thumbnails, clips, and show notes, and delegates video edits via A2A",
+    "url": "https://mastra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Create a new Mastra project. Mastra is a framework for AI applications and agents on a modern TypeScript stack. Before running the command, ask these questions one at a time and wait for each answer unless it was already provided:",
+    "url": "https://mastra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Project name? (default: \"my-mastra-app\")",
+    "url": "https://mastra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Provider? (required; options: \"openai\", \"anthropic\", \"google\", \"xai\")",
+    "url": "https://mastra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "If the provider isn't supported, ask again and list the supported values.",
+    "url": "https://mastra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Run: `npm create mastra@latest <project-name> -- --llm <provider>`",
+    "url": "https://mastra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The command creates a default Mastra project, installs Mastra skills for detected coding assistants, and initializes Git when appropriate.",
+    "url": "https://mastra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "After creation, enter the project directory and start the dev server: `npx bgproc start -n <project-name> -w -- npm run dev`",
+    "url": "https://mastra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Also mention that the Mastra model router provides access to thousands of models: https://mastra.ai/models",
+    "url": "https://mastra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Marsh Built LenAI, Their Company Brain, at Enterprise Scale",
+    "url": "https://mastra.ai/company-brain",
+    "pass": 1
+   },
+   {
+    "quote": "How SoftBank Cut Presentation Creation From Hours to 2 Minutes",
+    "url": "https://mastra.ai/company-brain",
+    "pass": 1
+   },
+   {
+    "quote": "Mastra is an open-source TypeScript framework for building AI-powered applications and agents. Mastra provides agents, workflows, memory, workspaces and observability, letting developers go from idea to implementation. Mastra integrates with frontend and backend frameworks like React, Next.js and Node, or can be deployed anywhere as a standalone server.",
+    "url": "https://mastra.ai/company-brain",
+    "pass": 1
+   },
+   {
+    "quote": "What AI models and providers does Mastra support?",
+    "url": "https://mastra.ai/company-brain",
+    "pass": 1
+   },
+   {
+    "quote": "Mastra's model routing connects to 90+ providers through one standard interface. Mastra supports models from OpenAI, Anthropic, Gemini and more, allowing developers to use different AI providers through a single API.",
+    "url": "https://mastra.ai/company-brain",
+    "pass": 1
+   },
+   {
+    "quote": "Mastra's memory system provides conversation history, data retrieval from APIs, databases and files, and human-like working and semantic memory so agents behave coherently. Developers can give Mastra agents the right context at the right time by combining message history with retrieval from external data sources.",
+    "url": "https://mastra.ai/company-brain",
+    "pass": 1
+   },
+   {
+    "quote": "Mastra supports authoring Model Context Protocol (MCP) servers, exposing agents, tools and other structured resources via the MCP interface. MCP servers built with Mastra can be accessed by any system or agent that supports the protocol.",
+    "url": "https://mastra.ai/company-brain",
+    "pass": 1
+   },
+   {
+    "quote": "Create a new Mastra project. Mastra is a framework for AI applications and agents on a modern TypeScript stack. Before running the command, ask these questions one at a time and wait for each answer unless it was already provided:",
+    "url": "https://mastra.ai/company-brain",
+    "pass": 1
+   },
+   {
+    "quote": "Project name? (default: \"my-mastra-app\")",
+    "url": "https://mastra.ai/company-brain",
+    "pass": 1
+   },
+   {
+    "quote": "Provider? (required; options: \"openai\", \"anthropic\", \"google\", \"xai\")",
+    "url": "https://mastra.ai/company-brain",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "How Sanity Built a Content Agent for a CMS Used by 1M+ Users",
+    "url": "https://mastra.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How Sanity Built a Content Agent for a CMS Used by 1M+ Users",
+    "url": "https://mastra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Software factory with a Slack coding agent and an AI SRE",
+    "url": "https://mastra.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "LenAI is now used by 90,000 employees across four business units and processes around 2 million AI requests per month.",
+    "url": "https://mastra.ai/customers/marsh",
+    "pass": 1
+   },
+   {
+    "quote": "Database explorer agent that navigates complex Databricks warehouse structures",
+    "url": "https://mastra.ai/customers/marsh",
+    "pass": 1
+   },
+   {
+    "quote": "Finally, they hope to keep growing the adoption. LenAI launched at the end of 2023 and is already used by 90k employees. \"If I walked around our office right now, I bet five or ten of the 40 people would have Mastra docs open,\" says Maher. Soon, he expects to see 40 to 50 Mastra-powered applications across the org.",
+    "url": "https://mastra.ai/customers/marsh",
+    "pass": 1
+   },
+   {
+    "quote": "How Sanity Built a Content Agent for a CMS Used by 1M+ Users | Mastra Customers",
+    "url": "https://mastra.ai/customers/sanity",
+    "pass": 1
+   },
+   {
+    "quote": "is a CMS platform used by 1M+ users in 6k+ teams, powering companies like Linear, Skims, Shopify, Spotify, Figma, Expedia, Anthropic, Replit, Brex, and Mejuri. The company built an incredibly sophisticated approach to structured content. Their Content Lake stores content as data, not pages — queryable, reusable, portable across any channel.",
+    "url": "https://mastra.ai/customers/sanity",
+    "pass": 1
+   },
+   {
+    "quote": "Since the 1990s, Japan's white-collar productivity has steadily declined while blue-collar efficiency remained world-class. Hiraoka's theory on why? Japan's consensus-driven culture requires extensive documentation for every decision.",
+    "url": "https://mastra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "How Sanity Built a Content Agent for a CMS Used by 1M+ Users",
+    "url": "https://mastra.ai/customers/workos",
+    "pass": 1
+   },
+   {
+    "quote": "How Sanity Built a Content Agent for a CMS Used by 1M+ Users",
+    "url": "https://mastra.ai/customers/factorial",
+    "pass": 1
+   },
+   {
+    "quote": "How Sanity Built a Content Agent for a CMS Used by 1M+ Users",
+    "url": "https://mastra.ai/customers/replit",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "means writing a ton of custom code and configuration. Salesforce executes code written in a language called Apex, Salesforce's proprietary language whose syntax is connected directly to the org's live schema, and there are around 100,000 active Salesforce developers who work at customers and agencies doing this work.",
+    "url": "https://mastra.ai/customers/salesforce",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": ": When an agent runs, Mastra emits an internal stream of events (text arriving, a tool getting called, etc.) in its own format. Salesforce wrote a converter that turns them into the shape their tooling expects. It also logs anything that isn't recognized.",
+    "url": "https://mastra.ai/customers/salesforce",
+    "pass": 1
+   },
+   {
+    "quote": "is a Fortune 500 global company that owns multibillion-dollar businesses including Marsh, Guy Carpenter (now Marsh Re), Mercer, and Oliver Wyman. Inside such a big org, they built something unusual: a central innovation team reporting directly to the board, led by developers who could move at startup speed inside an enterprise company.",
+    "url": "https://mastra.ai/customers/marsh",
+    "pass": 1
+   },
+   {
+    "quote": "Each Marsh business unit was building AI tools in isolation while employees used personal ChatGPT accounts, creating security nightmares. The innovation team needed to unify AI development without forcing standardization that would slow everyone down.",
+    "url": "https://mastra.ai/customers/marsh",
+    "pass": 1
+   },
+   {
+    "quote": "LenAI is now used by 90,000 employees across four business units and processes around 2 million AI requests per month.",
+    "url": "https://mastra.ai/customers/marsh",
+    "pass": 1
+   },
+   {
+    "quote": "\"We convert them to agents but make them available as tools to the big-boy agent,\" they say. This gives the main LenAI agent a way to hand off specialized work without carrying every underlying tool itself. The pattern they want to get to is selecting an agent that has access to a subset of tools, rather than selecting a tool.",
+    "url": "https://mastra.ai/customers/marsh",
+    "pass": 1
+   },
+   {
+    "quote": "Finally, they hope to keep growing the adoption. LenAI launched at the end of 2023 and is already used by 90k employees. \"If I walked around our office right now, I bet five or ten of the 40 people would have Mastra docs open,\" says Maher. Soon, he expects to see 40 to 50 Mastra-powered applications across the org.",
+    "url": "https://mastra.ai/customers/marsh",
+    "pass": 1
+   },
+   {
+    "quote": "'s internal survey confirmed employees spent hours daily on document creation—and found this stressful.",
+    "url": "https://mastra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": ", an auth provider for companies like OpenAI and Plaid that recently crossed $20m in annual revenue",
+    "url": "https://mastra.ai/customers/workos",
+    "pass": 1
+   },
+   {
+    "quote": "One part of Nick's job is creating proofs of concept, and Mastra solved an immediate problem. Post-Mastra, he could stay focused on business logic, without worrying about interface design, while still ending up with a polished interface ready to present ideas to the team.",
+    "url": "https://mastra.ai/customers/workos",
+    "pass": 1
+   },
+   {
+    "quote": "When it comes to compliance, David frames it as a narrower case of a more general problem: explainability. Range needs to be able to pinpoint exactly why an agent produced the response it did. It built its observability and post-generation analysis pipeline to answer that question — for regulators first, but the same infrastructure is what lets Range debug and improve its agents.",
+    "url": "https://mastra.ai/customers/range",
+    "pass": 1
+   },
+   {
+    "quote": "That became One: a harness built on Mastra that puts an agent at the center of the Factorial platform. It helps managers and HR admins understand their teams in natural language, and helps employees get clarity on policies and their own data, all while respecting user-level permissions.",
+    "url": "https://mastra.ai/customers/factorial",
+    "pass": 1
+   },
+   {
+    "quote": "\"We don't want your employees to hand your data to an AI tool. We think the right thing is to put AI in the center of your data.\"",
+    "url": "https://mastra.ai/customers/factorial",
+    "pass": 1
+   },
+   {
+    "quote": "spins up thousands of Mastra agent sandboxes weekly. In September 2025, they announced a new funding round at a $3 billion valuation, along with $150M annual revenue (up from $3 million in under a year, a 50x jump).",
+    "url": "https://mastra.ai/customers/replit",
+    "pass": 1
+   },
+   {
+    "quote": "The team sees the market for agent based systems expanding—and Replit’s leadership agrees. They recently acquired Amadeo Pellice’s AI-native integrations company, OpenInt.",
+    "url": "https://mastra.ai/customers/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Founder/CEO of Mastra. Spent last ~8yrs as cofounder of Gatsby.js, an open-source React website framework, scaled to $5M ARR, sold to Netlify. Eng <20 at Zenefits (W13) and Plangrid (W12). Spent two years knocking doors. Stanford '11.",
+    "url": "https://www.ycombinator.com/companies/mastra",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Taku Hiraoka stood before thousands at SoftBank World with a striking statistic: Japanese workers spend up to 2 hours per day creating documents—roughly 30 trillion yen worth of labor annually dedicated to presentation preparation.",
+    "url": "https://mastra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "\"Today, we're here to solve the massive burden of document creation that has held back Japan's white-collar productivity for 25 years,\" he explained.",
+    "url": "https://mastra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "Since the 1990s, Japan's white-collar productivity has steadily declined while blue-collar efficiency remained world-class. Hiraoka's theory on why? Japan's consensus-driven culture requires extensive documentation for every decision.",
+    "url": "https://mastra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "Technical Lead Yuki Taguchi and his team of 11 engineers chose Mastra as their AI agent framework. \"We needed something that could handle complex document workflows while maintaining the precision Japanese business documents require,\" explains Taguchi. \"Mastra's TypeScript-native approach and flexible agent architecture gave us exactly that.\"",
+    "url": "https://mastra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "Using Mastra, SoftBank's team went from requirements to production deployment in just 1.5 months. They're now expanding to mobile workflows, allowing salespeople to update proposals during their commute, and are integrating with Sakana AI's Japanese LLM for better localization.",
+    "url": "https://mastra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "\"We're not just building a product,\" Hiraoka concluded. \"We're reclaiming Japan's lost 25 years and are bringing about a white-collar productivity revolution.\"",
+    "url": "https://mastra.ai/customers/softbank",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社DELTA / ak2-lucky",
+    "url": "https://findy-tools.io/products/mastra/415",
+    "pass": 3
+   },
+   {
+    "quote": "Mastraは日本語の記事が少なく、公式のテンプレートから試行錯誤しながら実装が必要になる印象です",
+    "url": "https://qiita.com/sea_news_yass/items/d433f65afb454e6e305e",
+    "pass": 3
+   },
+   {
+    "quote": "まだ新興のため日本語情報は限られますが、",
+    "url": "https://zenn.dev/takuh/articles/6de1a0f6046dd9",
+    "pass": 3
+   },
+   {
+    "quote": "そして、そこから得たデータをもとに「東京は晴れ、気温は28度です」といったわかりやすい答えを返してくれるのです",
+    "url": "https://gmo-miyazaki-creators.com/coding/mastra/",
+    "pass": 3
+   },
+   {
+    "quote": "「東京の天気は？」と入力してみたところ、本当に応答が返ってきた瞬間は感動すら覚えました",
+    "url": "https://gmo-miyazaki-creators.com/coding/mastra/",
+    "pass": 3
+   },
+   {
+    "quote": "1. 日本語ドキュメントが少ない",
+    "url": "https://gmo-miyazaki-creators.com/coding/mastra/",
+    "pass": 3
+   },
+   {
+    "quote": "英語ドキュメントは充実していますが、日本語での情報はまだ少なめ",
+    "url": "https://gmo-miyazaki-creators.com/coding/mastra/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "You can now use Agent 3 to build daily tech digests that fetch RSS feeds, summarize with AI, and email formatted newsletters. Or Slack bots that query your Notion database. Or Telegram bots that schedule appointments on your calendar.",
+    "url": "https://mastra.ai/customers/replit",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Mastra とは？機能や特徴・製品の概要まとめ - Findy Tools — Mastra とは？機能や特徴・製品の概要まとめ - Findy Tools Findy Tools https://findy-tools.io > products > mastra",
+    "url": "https://findy-tools.io/products/mastra/415",
+    "pass": 3
+   },
+   {
+    "quote": "【実装】Next.jsアプリ内にて mastra を用いてエージェント機能 ... — 【実装】Next.jsアプリ内にて mastra を用いてエージェント機能 ... Qiita https://qiita.com > TypeScript",
+    "url": "https://qiita.com/sea_news_yass/items/d433f65afb454e6e305e",
+    "pass": 3
+   },
+   {
+    "quote": "【徹底解説】 Mastra （マストラ）とは？JavaScript/TypeScript ... — 【徹底解説】 Mastra （マストラ）とは？JavaScript/TypeScript ... Zenn https://zenn.dev > takuh > articles",
+    "url": "https://zenn.dev/takuh/articles/6de1a0f6046dd9",
+    "pass": 3
+   },
+   {
+    "quote": "「 Mastra 」で初めてのAIエージェント構築に挑戦！ — 「 Mastra 」で初めてのAIエージェント構築に挑戦！ 宮崎クリエイターズブログ https://gmo-miyazaki-creators.com > coding > mastra",
+    "url": "https://gmo-miyazaki-creators.com/coding/mastra/",
+    "pass": 3
+   },
+   {
+    "quote": "Mastra とは？Skills・サンドボックス・メモリまで分かる ... — Mastra とは？Skills・サンドボックス・メモリまで分かる ... 株式会社一創 https://www.issoh.co.jp > ... > AI > AIエージェント・MCP",
+    "url": "https://www.issoh.co.jp/tech/details/6062/",
+    "pass": 3
+   },
+   {
+    "quote": "Mastra .vs. Langgraph 比較 - Zenn — Mastra .vs. Langgraph 比較 - Zenn Zenn https://zenn.dev > furunag > articles",
+    "url": "https://zenn.dev/furunag/articles/71fc0a6f44e033",
+    "pass": 3
+   },
+   {
+    "quote": "Mastra : TypeScript AI Framework for Agents and Apps — Mastra : TypeScript AI Framework for Agents and Apps Mastra https://mastra.ai",
+    "url": "https://mastra.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Mastra is the modern TypeScript framework for AI ... - GitHub — Mastra is the modern TypeScript framework for AI ... - GitHub GitHub https://github.com > mastra-ai > mastra",
+    "url": "https://github.com/mastra-ai/mastra",
+    "pass": 3
+   },
+   {
+    "quote": "MASTRA — MASTRA mastragame.com https://mastragame.com",
+    "url": "https://mastragame.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mastra : The Javascript framework for building AI agents, from ... — Mastra : The Javascript framework for building AI agents, from ... Y Combinator https://www.ycombinator.com > mastra",
+    "url": "https://www.ycombinator.com/companies/mastra",
+    "pass": 3
+   },
+   {
+    "quote": "Mastra - LinkedIn — Mastra - LinkedIn LinkedIn https://www.linkedin.com > mastra-ai",
+    "url": "https://www.linkedin.com/company/mastra-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Announcing our $13m seed round from YC, pg, Gradient ... — Announcing our $13m seed round from YC, pg, Gradient ... Mastra https://mastra.ai > Blog > Company",
+    "url": "https://mastra.ai/blog/seed-round",
+    "pass": 3
+   },
+   {
+    "quote": "Mastra Raises $22M Series A, Becomes TypeScript Control ... — Mastra Raises $22M Series A, Becomes TypeScript Control ... LinkedIn https://www.linkedin.com > posts > gr...",
+    "url": "https://www.linkedin.com/posts/grishinrobotics_mastra-just-raised-a-22m-series-a-led-by-activity-7448725220519124992-N4HL",
+    "pass": 3
+   },
+   {
+    "quote": "Mastra - 2026 Company Profile, Team, Funding & Competitors — Mastra - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/mastra/__VemR6LSWo5xXOP6OTzoOBeOQA7V6dYDn0H1J56buBKg",
+    "pass": 3
+   },
+   {
+    "quote": "Mastra - Crunchbase Company Profile & Funding — Mastra - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > mastra...",
+    "url": "https://www.crunchbase.com/organization/mastra-44ba",
+    "pass": 3
+   },
+   {
+    "quote": "Ambit-Ai vs Mastra : Revenue , Funding & Team Size Compared — Ambit-Ai vs Mastra : Revenue , Funding & Team Size Compared GetLatka https://getlatka.com > ... > Ambit-Ai",
+    "url": "https://getlatka.com/companies/ambit-ai/vs/mastra.ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Mastra のサンプル集を一気に紹介する｜yoshi8 - note Mastra のサンプル集を一気に紹介する｜yoshi8 - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/yoshi8__/n/n465c3ce1fc39",
+    "pass": 3
+   },
+   {
+    "quote": "Mastra でMCP連携できるAIエージェントを作ろう｜ニケちゃん Mastra でMCP連携できるAIエージェントを作ろう｜ニケちゃん note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/nike_cha_n/n/nbc7696f06eb8",
+    "pass": 3
+   },
+   {
+    "quote": "Mastra .aiでAIエージェントを実装したらLangChainより構成が ... Mastra .aiでAIエージェントを実装したらLangChainより構成が ... note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/ai_dev_notes/n/n5d44807bba48",
+    "pass": 3
+   },
+   {
+    "quote": "Mastra のAIエージェントで記憶機能を試す｜ニケちゃん - note Mastra のAIエージェントで記憶機能を試す｜ニケちゃん - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/nike_cha_n/n/n507ed2da077a",
+    "pass": 3
+   },
+   {
+    "quote": "絶対に諦めないKAWADA Ver.2 〜 mastra を添えて - note 絶対に諦めないKAWADA Ver.2 〜 mastra を添えて - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/mogamin3/n/ncfb7e6c16ca3",
+    "pass": 3
+   },
+   {
+    "quote": "Mastra の人気・新着記事まとめ - note Mastra の人気・新着記事まとめ - note note https://note.com > tag > Mastra",
+    "url": "https://note.com/tag/Mastra",
+    "pass": 3
+   },
+   {
+    "quote": "【第2回・前編】 Mastra を使っても、依頼の受付と利用量の ... 【第2回・前編】 Mastra を使っても、依頼の受付と利用量の ... note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/anyoneanderson/n/n025042d6691a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Mastra - X Mastra - X X https://x.com > mastra",
+    "url": "https://x.com/mastra",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mastra - LinkedIn Mastra - LinkedIn LinkedIn https://www.linkedin.com > mastra-ai",
+    "url": "https://www.linkedin.com/company/mastra-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Sam Bhagwat - founder/ceo mastra , author “principles of ... Sam Bhagwat - founder/ceo mastra , author “principles of ... LinkedIn https://www.linkedin.com > sambhag...",
+    "url": "https://www.linkedin.com/in/sambhagwat",
+    "pass": 3
+   },
+   {
+    "quote": "Mastra : Open-source framework for building agents - LinkedIn Mastra : Open-source framework for building agents - LinkedIn LinkedIn https://www.linkedin.com > posts > y-combinator_mastra-...",
+    "url": "https://www.linkedin.com/posts/y-combinator_mastra-is-the-open-source-javascript-framework-activity-7301285085972987904-08yZ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mastra (@mastrathegame) - Facebook Mastra (@mastrathegame) - Facebook Facebook https://www.facebook.com > ... > Brand > Video Game",
+    "url": "https://www.facebook.com/mastrathegame/",
+    "pass": 3
+   },
+   {
+    "quote": "Mastra Italian Bakery Bistro | American Fork UT - Facebook Mastra Italian Bakery Bistro | American Fork UT - Facebook Facebook https://www.facebook.com > ... > Italian Restaurant",
+    "url": "https://www.facebook.com/p/Mastra-Italian-Bakery-Bistro-100038995341880/",
+    "pass": 3
+   },
+   {
+    "quote": "HackCBS 9.0 announces Mastra as learning partner in India HackCBS 9.0 announces Mastra as learning partner in India Facebook https://www.facebook.com > hackcbs > posts > were-excit...",
+    "url": "https://www.facebook.com/hackcbs/posts/were-excited-to-welcome-mastra-as-our-learning-partner-for-hackcbs-90-mastra-is/1444314877900604/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://mastra.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mastra.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mastra.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mastra.ai/company-brain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mastra.ai/customers/salesforce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mastra.ai/customers/marsh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mastra.ai/customers/sanity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mastra.ai/customers/softbank",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mastra.ai/customers/workos",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mastra.ai/customers/range",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mastra.ai/customers/mongodb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mastra.ai/customers/factorial",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mastra.ai/customers/replit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mastra.ai/real-world-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mastra.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mastra.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mastra.ai/customers/palette",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://findy-tools.io/products/mastra/415",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/sea_news_yass/items/d433f65afb454e6e305e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/takuh/articles/6de1a0f6046dd9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gmo-miyazaki-creators.com/coding/mastra/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ask-corp.jp/products/cooler-master/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canon-its.co.jp/solution/industry/cross-industry/edi/edi-mastercloud/partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aiuto-jp.co.jp/products/maker_5.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tonarism.co.jp/news/news_detail.php?n_id=56",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/mastra-ai/mastra",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mastragame.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/mastra",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/customer-stories/case-studies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mastercard.com/global/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/grishinrobotics_mastra-just-raised-a-22m-series-a-led-by-activity-7448725220519124992-N4HL",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/mastra/__VemR6LSWo5xXOP6OTzoOBeOQA7V6dYDn0H1J56buBKg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/mastra-44ba",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yoshi8__/n/n465c3ce1fc39",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/nike_cha_n/n/nbc7696f06eb8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/ai_dev_notes/n/n5d44807bba48",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/nike_cha_n/n/n507ed2da077a",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/mastra",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mastra-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sambhagwat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_mastra-is-the-open-source-javascript-framework-activity-7301285085972987904-08yZ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mastrathegame/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Mastra-Italian-Bakery-Bistro-100038995341880/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hackcbs/posts/were-excited-to-welcome-mastra-as-our-learning-partner-for-hackcbs-90-mastra-is/1444314877900604/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/mogamin3/n/ncfb7e6c16ca3",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tag/Mastra",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/anyoneanderson/n/n025042d6691a",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/mastra",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mastra 日本 導入",
+   "results": [
+    "https://findy-tools.io/products/mastra/415",
+    "https://qiita.com/sea_news_yass/items/d433f65afb454e6e305e",
+    "https://zenn.dev/takuh/articles/6de1a0f6046dd9",
+    "https://gmo-miyazaki-creators.com/coding/mastra/",
+    "https://www.issoh.co.jp/tech/details/6062/",
+    "https://www.youtube.com/watch?v=5bxkQjGX1i8",
+    "https://note.shiftinc.jp/n/n5559b7360ffc",
+    "https://tech.plaid.co.jp/microservice-ai-system-with-mastra",
+    "https://note.com/doerstokyo_kb/n/neb1023adbc1d",
+    "https://www.opensourcelab.jp/articles/what-is-mastra"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mastra 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.ask-corp.jp/products/cooler-master/",
+    "https://www.canon-its.co.jp/solution/industry/cross-industry/edi/edi-mastercloud/partner",
+    "https://www.aiuto-jp.co.jp/products/maker_5.php",
+    "https://tonarism.co.jp/news/news_detail.php?n_id=56",
+    "https://zenn.dev/furunag/articles/71fc0a6f44e033",
+    "https://alpc.tokyo/pages/business-d2c",
+    "https://www.customer-rings.com/partner/",
+    "https://macareux.co.jp/blog/ai-agent-integration-4",
+    "https://goleadgrid.com/lp/partner",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mastra Japan",
+   "results": [
+    "https://mastra.ai/",
+    "https://github.com/mastra-ai/mastra",
+    "https://mastragame.com/",
+    "https://www.ycombinator.com/companies/mastra",
+    "https://www.linkedin.com/company/mastra-ai",
+    "https://dev.to/gabrielanhaia/mastra-in-2026-what-it-is-when-to-use-it-and-how-it-compares-2go1",
+    "https://www.npmjs.com/package/@mastra/core",
+    "https://www.youtube.com/watch?v=_dG8iZgmicQ",
+    "https://mastrama.com/",
+    "https://aidevdb.com/agents/mastra/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Mastra manufacturing customer case study",
+   "results": [
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://www.autodesk.com/customer-stories/case-studies",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://markforged.com/resources/case-studies",
+    "https://www.ataccama.com/whitepaper/manufacturing-ai-use-cases",
+    "https://www.athenaswc.com/case-studies/",
+    "https://repo.uni-hannover.de/bitstreams/e0c5232a-15df-4b1b-879e-8e4613da4503/download",
+    "https://www.thinkartha.com/case-studies",
+    "https://www.prusa3d.com/p/case-studies/",
+    "https://www.eragroup.com/case-studies/mastra"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mastra white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.mastercard.com/global/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://customgpt.ai/white-label-software-to-resell/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Mastra founded funding employees revenue",
+   "results": [
+    "https://mastra.ai/blog/seed-round",
+    "https://www.linkedin.com/posts/grishinrobotics_mastra-just-raised-a-22m-series-a-led-by-activity-7448725220519124992-N4HL",
+    "https://tracxn.com/d/companies/mastra/__VemR6LSWo5xXOP6OTzoOBeOQA7V6dYDn0H1J56buBKg",
+    "https://www.crunchbase.com/organization/mastra-44ba",
+    "https://getlatka.com/companies/ambit-ai/vs/mastra.ai",
+    "https://www.caplight.com/company/mastra",
+    "https://www.linkedin.com/posts/sambhagwat_were-excited-to-announce-today-that-mastra-activity-7448063240703635456-fNcI",
+    "https://dealroom.co/companies/mastra-ai/",
+    "https://pitchbook.com/profiles/company/720731-62",
+    "https://getlatka.com/companies/mastra.ai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Mastra",
+   "results": [
+    "https://note.com/yoshi8__/n/n465c3ce1fc39",
+    "https://note.com/nike_cha_n/n/nbc7696f06eb8",
+    "https://note.com/ai_dev_notes/n/n5d44807bba48",
+    "https://note.com/nike_cha_n/n/n507ed2da077a",
+    "https://note.com/logiless/n/n4b0ae3589f75",
+    "https://note.com/doerstokyo_kb/n/neb1023adbc1d?hl=en",
+    "https://note.com/komzweb/n/na91683b7c7a0?hl=en",
+    "https://note.com/anyoneanderson/n/n025042d6691a",
+    "https://note.com/nike_cha_n/n/nc2c56e3c8fd1",
+    "https://note.com/tfcxzaqwerds/n/nc8a9ddf0a1b0?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Mastra",
+   "results": [
+    "https://x.com/mastra",
+    "https://x.com/calcsam",
+    "https://x.com/abhiaiyer",
+    "https://x.com/smthomas3",
+    "https://x.com/bookercodes",
+    "https://x.com/jhleath/status/2067254547148624225",
+    "https://x.com/mastra/status/2119822422790828041",
+    "https://x.com/calcsam/status/2115846778742558817",
+    "https://x.com/neondatabase/status/2118427925909504303/photo/1",
+    "https://x.com/MastraHQ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Mastra",
+   "results": [
+    "https://www.linkedin.com/company/mastra-ai",
+    "https://www.linkedin.com/in/sambhagwat",
+    "https://www.linkedin.com/posts/y-combinator_mastra-is-the-open-source-javascript-framework-activity-7301285085972987904-08yZ",
+    "https://www.linkedin.com/in/abhi-aiyer-aa41bb42",
+    "https://www.linkedin.com/in/smthomas3",
+    "https://www.linkedin.com/posts/sambhagwat_introducing-mastra-storage-building-ai-activity-7313005204382052352-nO70",
+    "https://www.linkedin.com/posts/guiljh_ive-really-enjoyed-building-ai-agents-with-activity-7425584369592877056-oVT4",
+    "https://www.linkedin.com/posts/sambhagwat_were-excited-to-announce-today-that-mastra-activity-7448063240703635456-fNcI",
+    "https://www.linkedin.com/posts/smthomas3_typescript-ai-framework-for-agents-and-apps-activity-7269409722011660288-yeKk",
+    "https://br.linkedin.com/company/mastra-escapamentos"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Mastra",
+   "results": [
+    "https://www.facebook.com/mastrathegame/",
+    "https://www.facebook.com/p/Mastra-Italian-Bakery-Bistro-100038995341880/",
+    "https://www.facebook.com/hackcbs/posts/were-excited-to-welcome-mastra-as-our-learning-partner-for-hackcbs-90-mastra-is/1444314877900604/",
+    "https://www.facebook.com/DMagazineOnline/videos/a-beautiful-smile-starts-with-personalized-care-dr-salvator-j-la-mastra-v-has-bu/1368566814838268/",
+    "https://www.facebook.com/DittyTV/posts/-new-artist-spotlight-frank-mastra-frank-mastra-has-released-his-debut-ep-bitter/1562807652527138/",
+    "https://www.facebook.com/mattfuegostine/videos/frank-mastra-has-a-voice-straight-from-the-past-i-swear/1637688941413796/",
+    "https://www.facebook.com/groups/reactjs.co/",
+    "https://www.facebook.com/p/Mastra-Carpentry-61555374502840/",
+    "https://www.facebook.com/JeffersonTheater/posts/frank-mastra-has-been-added-as-support-for-winyah-x-penelope-road-in-charlottesv/1514682540703829/",
+    "https://www.facebook.com/MASTRAMALAYSIA/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Mastra note 社長",
+   "results": [
+    "https://note.com/mogamin3/n/ncfb7e6c16ca3",
+    "https://note.com/tag/Mastra",
+    "https://note.com/ai_shacho",
+    "https://note.com/anyoneanderson/n/n025042d6691a",
+    "https://x.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Mastra X 投稿",
+   "results": [
+    "https://x.com/mastra",
+    "https://tech-lab.sios.jp/archives/54667",
+    "https://lifrell-tech.com/950/",
+    "https://www.youtube.com/watch?v=4tX-sQWOOdY",
+    "https://www.soloop.io/ja/blog/x-automation-rules-for-ai-agents",
+    "https://debono.co.jp/media/x-toko-ai-sakusei/",
+    "https://note.com/yaoyoroztech/n/n999051b371ec",
+    "https://lp.yoom.fun/blog-posts/how-to-automatically-create-ai-content-and-post-to-x-twitter-25w22",
+    "https://mastra.ai/workshops/build-and-deploy-your-first-agent-with-mastra-2026-01-26",
+    "https://x.com/MastraHQ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部37頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式17頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

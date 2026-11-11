@@ -1,0 +1,1402 @@
+{
+ "name": "Kombo",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-11T18:29:37.674106+00:00",
+ "official_url": "https://www.kombo.dev/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "use-case for your enterprise customers – Kombo does the heavy-lifting,",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "A partner for product and market expansion",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "here to help you, as the preferred partner of several companies.",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "our team of integration experts, engineers, and product managers via",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "From your product team integrating Kombo to your customers connecting their systems through Kombo's white-label solution.",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Our comprehensive dashboard offers a clear overview of all your integrations, providing real-time status updates to ensure smooth operations.",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Customize your data collection with precision.",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Our scopes enable to control and anonymize the data extracted and stored, ensuring privacy, GDPR-compliance, and security.",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Our logs provide a detailed historical record of all events, including issues and successful synchronizations.",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "enterprise-level customization",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "What teams say about building on Kombo's unified API for HR, payroll, recruiting, and learning integrations.",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Kombo allows us to integrate all our customers from startup to enterprise - with minimal effort!",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Jobteaser, Product Manager",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "PowerUs, Sr. Product Manager",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Our trust In Kombo to support our core product has been well placed. Time and again we’ve seen their deep connections with HR platforms allow them to maintain best-in-class integrations.",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Spendesk, Sr. Product Manager",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Within weeks we were able to launch dozens of integrations despite just having launched our product a couple weeks earlier.",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team loves Kombo as we’re able to make the recruiting experience for our customers as smooth as possible and speed up the process for everyone.",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Workwise, Product Manager",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "How TestGorilla closed enterprises with Kombo’s assessment integrations",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for enterprise data protection needs",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Kombo provides comprehensive security controls and compliance frameworks specifically built for the regulatory requirements and data sensitivity of people data.",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "We power integrations for hundreds of companies, from seed-stage startups to Fortune 500 enterprises - all while maintaining 99.9% uptime. Our infrastructure is built to handle your growth without compromising performance.",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Compliant with security and privacy standards",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "protect your customers' data. Kombo complies with SOC 2 Type 2, HIPAA,",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "We are outstanding at having impact because we find the right balance between delivering fast and producing excellent results. Each situation requires a different balance, and we become great at navigating it.",
+    "url": "https://www.kombo.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We earn our right to exist by creating value for our customers. We're obsessed about understanding their needs and problems in order to build the best solutions. We know our customers pay well, because we create huge value.",
+    "url": "https://www.kombo.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We grew from zero to over $10M ARR in less than three years — proof that customers love what we build.",
+    "url": "https://www.kombo.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Embed into recruiters workflows and let your results drive hiring decisions by integrating 90+ ATS with one API. Automate candidate data collection, write results directly into ATS systems, trigger screenings at any hiring stage, and track hiring outcomes.",
+    "url": "https://www.kombo.dev/solutions/ai-screening",
+    "pass": 1
+   },
+   {
+    "quote": "Don’t lose valuable candidates over delayed outreach. Get new applications in real-time and without having to handle the technical complexity across ATS.",
+    "url": "https://www.kombo.dev/solutions/ai-screening",
+    "pass": 1
+   },
+   {
+    "quote": "Drive hiring decisions",
+    "url": "https://www.kombo.dev/solutions/ai-screening",
+    "pass": 1
+   },
+   {
+    "quote": "Don’t just provide results to your customers. Make sure they actually drive hiring decisions through automated hiring stage updates based on screening outcomes.",
+    "url": "https://www.kombo.dev/solutions/ai-screening",
+    "pass": 1
+   },
+   {
+    "quote": "Screen new applicants first, at any ATS size",
+    "url": "https://www.kombo.dev/solutions/ai-screening",
+    "pass": 1
+   },
+   {
+    "quote": "Candidate packages sync large ATS instances one candidate at a time, newest and most recently updated first - so you can score this week's applicants while years of history fill in. If a sync stops, the next one picks up where it left off. Nothing changes in your integration.",
+    "url": "https://www.kombo.dev/solutions/ai-screening",
+    "pass": 1
+   },
+   {
+    "quote": "Start screening immediately when candidates apply. Kombo's hybrid architecture combines native ATS webhooks with high frequency delta syncs, optimizing for real-time pulls and performance at scale.",
+    "url": "https://www.kombo.dev/solutions/ai-screening",
+    "pass": 1
+   },
+   {
+    "quote": "Serve all clients, no matter of their hiring needs. Kombo handles the complexity of stage-based triggers across ATS systems in real-time, whether screening occurs immediately after application or later in the interview process.",
+    "url": "https://www.kombo.dev/solutions/ai-screening",
+    "pass": 1
+   },
+   {
+    "quote": "No more sharing exports or lacking data. Kombo provides all the candidate data you need, regardless of whether you’re conducting phone screens, background checks, or reference verification.",
+    "url": "https://www.kombo.dev/solutions/ai-screening",
+    "pass": 1
+   },
+   {
+    "quote": "Let your customers analyze results within their ATS. Kombo lets you write screening scores, pass/fail status, results links, and detailed analysis directly into ATS systems where recruiters make hiring decisions.",
+    "url": "https://www.kombo.dev/solutions/ai-screening",
+    "pass": 1
+   },
+   {
+    "quote": "Let your screening results drive hiring decisions. Kombo enables programmatic stage advancement and rejection workflows based on your screening outcomes.",
+    "url": "https://www.kombo.dev/solutions/ai-screening",
+    "pass": 1
+   },
+   {
+    "quote": "use-case for your enterprise customers – Kombo does the heavy-lifting,",
+    "url": "https://www.kombo.dev/solutions/ai-screening",
+    "pass": 1
+   },
+   {
+    "quote": "A partner for product and market expansion",
+    "url": "https://www.kombo.dev/solutions/ai-screening",
+    "pass": 1
+   },
+   {
+    "quote": "here to help you, as the preferred partner of several companies.",
+    "url": "https://www.kombo.dev/solutions/ai-screening",
+    "pass": 1
+   },
+   {
+    "quote": "our team of integration experts, engineers, and product managers via",
+    "url": "https://www.kombo.dev/solutions/ai-screening",
+    "pass": 1
+   },
+   {
+    "quote": "Automate onboarding workflows and eliminate sales bottlenecks by integrating 85 API-based HRIS integrations with one API. Create employee records from within your ATS and eliminate manual hire-to-onboard experiences.",
+    "url": "https://www.kombo.dev/solutions/ats",
+    "pass": 1
+   },
+   {
+    "quote": "Stop losing deals to competitors with better integration coverage. Guarantee HRIS integration delivery within days instead of weeks, removing the objection during enterprise sales conversations.",
+    "url": "https://www.kombo.dev/solutions/ats",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate manual hire-to-onboard handoffs",
+    "url": "https://www.kombo.dev/solutions/ats",
+    "pass": 1
+   },
+   {
+    "quote": "Cater to enterprises by replacing the 10-20 minute manual process per hire with automated employee creation. Recruiters complete the entire workflow within your ATS without emailing candidate details to HR for re-entry.",
+    "url": "https://www.kombo.dev/solutions/ats",
+    "pass": 1
+   },
+   {
+    "quote": "Focus engineering resources on product differentiation, instead of building and maintaining integrations. One integration gives you comprehensive coverage across all major HRIS platforms.",
+    "url": "https://www.kombo.dev/solutions/ats",
+    "pass": 1
+   },
+   {
+    "quote": "Create new hires across HRIS systems",
+    "url": "https://www.kombo.dev/solutions/ats",
+    "pass": 1
+   },
+   {
+    "quote": "Replace manual candidate-to-employee handoffs. Kombo creates new employee records in HR system using dynamically generated forms that reflect each system's required fields and configuration.",
+    "url": "https://www.kombo.dev/solutions/ats",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent errors when creating records",
+    "url": "https://www.kombo.dev/solutions/ats",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Technical Product",
+    "url": "https://www.kombo.dev/solutions/ats",
+    "pass": 1
+   },
+   {
+    "quote": "use-case for your enterprise customers – Kombo does the heavy-lifting,",
+    "url": "https://www.kombo.dev/solutions/ats",
+    "pass": 1
+   },
+   {
+    "quote": "A partner for product and market expansion",
+    "url": "https://www.kombo.dev/solutions/ats",
+    "pass": 1
+   },
+   {
+    "quote": "here to help you, as the preferred partner of several companies.",
+    "url": "https://www.kombo.dev/solutions/ats",
+    "pass": 1
+   },
+   {
+    "quote": "our team of integration experts, engineers, and product managers via",
+    "url": "https://www.kombo.dev/solutions/ats",
+    "pass": 1
+   },
+   {
+    "quote": "Show up natively in recruiters workflows and let your results drive hiring decisions by integrating 90+ ATS with one API. Trigger assessments from ATS workflows, send structured results and scorecards back to recruiters, and automate candidate progression based on assessment outcomes.",
+    "url": "https://www.kombo.dev/solutions/assessment",
+    "pass": 1
+   },
+   {
+    "quote": "Drive hiring decisions",
+    "url": "https://www.kombo.dev/solutions/assessment",
+    "pass": 1
+   },
+   {
+    "quote": "Don’t just provide results to your customers. Make sure they actually drive hiring decisions through automated hiring stage updates based on assessment outcomes.",
+    "url": "https://www.kombo.dev/solutions/assessment",
+    "pass": 1
+   },
+   {
+    "quote": "Send assessments automatically when candidates progress to certain stages. Check the completion status and send back the results without manual work.",
+    "url": "https://www.kombo.dev/solutions/assessment",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "From your product team integrating Kombo to your customers connecting their systems through Kombo's white-label solution.",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label Connection Guides",
+    "url": "https://www.kombo.dev/pricing",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Getting listed on one of our tools' marketplaces or getting introduced",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrations are a really important part of our business, but the need to build each one individually was a real bottleneck for us. Kombo enabled us to move forward really quickly with their broad set of integrations.",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "We power integrations for hundreds of companies, from seed-stage startups to Fortune 500 enterprises - all while maintaining 99.9% uptime. Our infrastructure is built to handle your growth without compromising performance.",
+    "url": "https://www.kombo.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "$10M ARR in 3 years",
+    "url": "https://www.kombo.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We grew from zero to over $10M ARR in less than three years — proof that customers love what we build.",
+    "url": "https://www.kombo.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "$100M ARR by 2028",
+    "url": "https://www.kombo.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our plan is to grow 10x to $100M ARR by 2028 and become the industry standard for integrations.",
+    "url": "https://www.kombo.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Getting listed on one of our tools' marketplaces or getting introduced",
+    "url": "https://www.kombo.dev/solutions/ai-screening",
+    "pass": 1
+   },
+   {
+    "quote": "Getting listed on one of our tools' marketplaces or getting introduced",
+    "url": "https://www.kombo.dev/solutions/ats",
+    "pass": 1
+   },
+   {
+    "quote": "Getting listed on one of our tools' marketplaces or getting introduced",
+    "url": "https://www.kombo.dev/solutions/assessment",
+    "pass": 1
+   },
+   {
+    "quote": "Getting listed on one of our tools' marketplaces or getting introduced",
+    "url": "https://www.kombo.dev/solutions/background-check",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent revenue leakage from delayed onboarding. New employees are provisioned automatically on the first eligible day without manual work from you or your customers.",
+    "url": "https://www.kombo.dev/solutions/benefits",
+    "pass": 1
+   },
+   {
+    "quote": "Don’t provide benefits to the wrong employees. Apply eligibility rules automatically across all client HR systems without manual filtering or client-side configuration.",
+    "url": "https://www.kombo.dev/solutions/benefits",
+    "pass": 1
+   },
+   {
+    "quote": "Immediately remove departing employees. Monitor departures and job changes in real time to prevent unauthorized benefit access, ensure compliance with benefit eligibility rules, and protect your customers from benefit fraud or misuse.",
+    "url": "https://www.kombo.dev/solutions/benefits",
+    "pass": 1
+   },
+   {
+    "quote": "Departing employees are immediately deprovisioned. Kombo provides real-time webhooks for role changes, department transfers, and departures, ensuring security and compliance.",
+    "url": "https://www.kombo.dev/solutions/benefits",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure only eligible employees get access to your benefit. Kombo handles the complexity of filtering eligible participants based on department, location, employment type, or custom fields.",
+    "url": "https://www.kombo.dev/solutions/benefits",
+    "pass": 1
+   },
+   {
+    "quote": "Don't lose valuable contracts over enterprise HRIS complexity. Kombo's enterprise-grade infrastructure handles data mapping, security requirements, and compliance needs across Fortune 500 HR technology stacks.",
+    "url": "https://www.kombo.dev/solutions/benefits",
+    "pass": 1
+   },
+   {
+    "quote": "Especially for enterprise companies with thousands of employees and different sub-companies, it makes sales discussions way easier.",
+    "url": "https://www.kombo.dev/solutions/benefits",
+    "pass": 1
+   },
+   {
+    "quote": "Getting listed on one of our tools' marketplaces or getting introduced",
+    "url": "https://www.kombo.dev/solutions/benefits",
+    "pass": 1
+   },
+   {
+    "quote": "Don't lose valuable contracts over enterprise HRIS and payroll complexity. Kombo's enterprise-grade infrastructure handles data mapping, security requirements, and compliance needs across Fortune 500 HR technology stacks.",
+    "url": "https://www.kombo.dev/solutions/compensation-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Getting listed on one of our tools' marketplaces or getting introduced",
+    "url": "https://www.kombo.dev/solutions/compensation-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Getting listed on one of our tools' marketplaces or getting introduced",
+    "url": "https://www.kombo.dev/solutions/content-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent missed revenue from delayed onboarding. New employees are provisioned automatically on the first eligible day without manual work from you or your customers.",
+    "url": "https://www.kombo.dev/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Don’t issue corporate cards to unauthorized employees. Apply spending limits and access rules automatically across all client HR systems without manual filtering or client-side configuration.",
+    "url": "https://www.kombo.dev/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Immediately remove departing employees. Monitor departures and job changes in real time to maintain security, ensure compliance, and prevent fraud or financial loss for your customers.",
+    "url": "https://www.kombo.dev/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Remove departing employees immediately. Kombo provides real-time webhooks for role changes, department transfers, and departures, ensuring security and compliance.",
+    "url": "https://www.kombo.dev/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure only eligible employees get access to your services. Kombo provides standardized employee data including department, location, and employment details for you to apply spending limits and access controls.",
+    "url": "https://www.kombo.dev/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Don't lose valuable contracts over enterprise HRIS complexity. Kombo's enterprise-grade infrastructure handles data mapping, security requirements, and compliance needs across Fortune 500 HR technology stacks.",
+    "url": "https://www.kombo.dev/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Getting listed on one of our tools' marketplaces or getting introduced",
+    "url": "https://www.kombo.dev/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Getting listed on one of our tools' marketplaces or getting introduced",
+    "url": "https://www.kombo.dev/solutions/job-boards",
+    "pass": 1
+   },
+   {
+    "quote": "Getting listed on one of our tools' marketplaces or getting introduced",
+    "url": "https://www.kombo.dev/solutions/recruiting-and-sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent revenue leakage from delayed onboarding. New employees are provisioned automatically on the first eligible day without manual work from you or your customers.",
+    "url": "https://www.kombo.dev/solutions/security-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Don't grant security system access to ineligible employees. Apply role-based security permissions and training requirements automatically across all client HR systems without manual filtering or client-side configuration.",
+    "url": "https://www.kombo.dev/solutions/security-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Immediately remove departing employees. Monitor departures and job changes in real time to maintain data security, ensure compliance, and prevent unauthorized access or security breaches for your customers.",
+    "url": "https://www.kombo.dev/solutions/security-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Remove departing employees immediately from all systems. Kombo provides real-time webhooks for role changes, department transfers, and departures, ensuring security and compliance.",
+    "url": "https://www.kombo.dev/solutions/security-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure only eligible employees get enrolled. Kombo handles the complexity of filtering eligible participants based on department, location, employment type, or custom fields.",
+    "url": "https://www.kombo.dev/solutions/security-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Getting listed on one of our tools' marketplaces or getting introduced",
+    "url": "https://www.kombo.dev/solutions/security-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Getting listed on one of our tools' marketplaces or getting introduced",
+    "url": "https://www.kombo.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Integrations are a really important part of our business, but the need to build each one individually was a real bottleneck for us. Kombo enabled us to move forward really quickly with their broad set of integrations.",
+    "url": "https://www.kombo.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "EGYM WELLPASS is a corporate wellness platform that gives employees access to",
+    "url": "https://www.kombo.dev/case-study/how-egym-wellpass-increases-customer-adoption-with-kombos-hris-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "provide fitness benefits to their employees, requiring real-time data sync",
+    "url": "https://www.kombo.dev/case-study/how-egym-wellpass-increases-customer-adoption-with-kombos-hris-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "employees can access the service.",
+    "url": "https://www.kombo.dev/case-study/how-egym-wellpass-increases-customer-adoption-with-kombos-hris-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "activating employees when they join, and enabling corporates to efficiently",
+    "url": "https://www.kombo.dev/case-study/how-egym-wellpass-increases-customer-adoption-with-kombos-hris-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "block access for ineligible employees or those who had left the company. Their",
+    "url": "https://www.kombo.dev/case-study/how-egym-wellpass-increases-customer-adoption-with-kombos-hris-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "employee data to define the eligibility or have employees join via a sign up",
+    "url": "https://www.kombo.dev/case-study/how-egym-wellpass-increases-customer-adoption-with-kombos-hris-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "This not only created a poor customer experience, but also led to lost revenue",
+    "url": "https://www.kombo.dev/case-study/how-egym-wellpass-increases-customer-adoption-with-kombos-hris-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "directly reduced activation and impacted monthly recurring revenue.",
+    "url": "https://www.kombo.dev/case-study/how-egym-wellpass-increases-customer-adoption-with-kombos-hris-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "When employees depart or become ineligible, EGYM WELLPASS receives real-time",
+    "url": "https://www.kombo.dev/case-study/how-egym-wellpass-increases-customer-adoption-with-kombos-hris-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "continued billing for departed employees and maintains compliance. This",
+    "url": "https://www.kombo.dev/case-study/how-egym-wellpass-increases-customer-adoption-with-kombos-hris-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "customers can filter employees by departments, locations, employment types,",
+    "url": "https://www.kombo.dev/case-study/how-egym-wellpass-increases-customer-adoption-with-kombos-hris-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "and other attributes to control which employees have access to benefits.",
+    "url": "https://www.kombo.dev/case-study/how-egym-wellpass-increases-customer-adoption-with-kombos-hris-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "restrict benefits to specific employee groups - such as full-time employees in",
+    "url": "https://www.kombo.dev/case-study/how-egym-wellpass-increases-customer-adoption-with-kombos-hris-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Especially for enterprise companies with thousands of employees and",
+    "url": "https://www.kombo.dev/case-study/how-egym-wellpass-increases-customer-adoption-with-kombos-hris-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "into new markets without technical barriers.",
+    "url": "https://www.kombo.dev/case-study/how-egym-wellpass-increases-customer-adoption-with-kombos-hris-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "employees across different locations, this eliminates manual work while",
+    "url": "https://www.kombo.dev/case-study/how-egym-wellpass-increases-customer-adoption-with-kombos-hris-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "direct revenue impact of expanded HRIS coverage.",
+    "url": "https://www.kombo.dev/case-study/apploi",
+    "pass": 1
+   },
+   {
+    "quote": "systems immediately, eliminating delays that previously left employees waiting",
+    "url": "https://www.kombo.dev/case-study/apploi",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise access without partnership barriers",
+    "url": "https://www.kombo.dev/case-study/testgorilla",
+    "pass": 1
+   },
+   {
+    "quote": "most costly gaps in compliance workflows. With Kombo as part of our",
+    "url": "https://www.kombo.dev/case-study/karmacheck",
+    "pass": 1
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/266162-59",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the world's leading B2B companies",
+    "url": "https://www.kombo.dev/solutions/ai-screening",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading B2B companies",
+    "url": "https://www.kombo.dev/solutions/ats",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading B2B companies",
+    "url": "https://www.kombo.dev/solutions/assessment",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading B2B companies",
+    "url": "https://www.kombo.dev/solutions/background-check",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading B2B companies",
+    "url": "https://www.kombo.dev/solutions/benefits",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading B2B companies",
+    "url": "https://www.kombo.dev/solutions/compensation-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading B2B companies",
+    "url": "https://www.kombo.dev/solutions/content-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading B2B companies",
+    "url": "https://www.kombo.dev/solutions/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading B2B companies",
+    "url": "https://www.kombo.dev/solutions/job-boards",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading B2B companies",
+    "url": "https://www.kombo.dev/solutions/recruiting-and-sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world's leading B2B companies",
+    "url": "https://www.kombo.dev/solutions/security-compliance",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading HR tech companies",
+    "url": "https://www.kombo.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "trusted by more than 9,000 organizations to deliver a speedy, seamless process",
+    "url": "https://www.kombo.dev/case-study/apploi",
+    "pass": 1
+   },
+   {
+    "quote": "Kombo Case Study | Stonly",
+    "url": "https://stonly.com/case-studies/kombo",
+    "pass": 3
+   },
+   {
+    "quote": "Case study with the Kombo customer team",
+    "url": "https://stonly.com/case-studies/kombo",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Cater to enterprises by replacing the 10-20 minute manual process per hire with automated employee creation. Recruiters complete the entire workflow within your ATS without emailing candidate details to HR for re-entry.",
+    "url": "https://www.kombo.dev/solutions/ats",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure your completion data is linked to the right learner records. Kombo lets you look up LMS users directly by work email, so you can match learners between your platform and your customers' LMS.",
+    "url": "https://www.kombo.dev/solutions/content-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited Slack & Email support",
+    "url": "https://www.kombo.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited Slack/MS Teams and Email",
+    "url": "https://www.kombo.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "unlimited text/email communication, organizations can accelerate their",
+    "url": "https://www.kombo.dev/case-study/apploi",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/266162-59",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Security | Kombo — Security | Kombo kombo.dev https://www.kombo.dev > security",
+    "url": "https://www.kombo.dev/security",
+    "pass": 3
+   },
+   {
+    "quote": "Kombo - LinkedIn — Kombo - LinkedIn LinkedIn https://www.linkedin.com > kombo-api",
+    "url": "https://www.linkedin.com/company/kombo-api",
+    "pass": 3
+   },
+   {
+    "quote": "Kombo — Biography, Discography, Albums & Expert Reviews — Kombo — Biography, Discography, Albums & Expert Reviews AllMusic https://www.allmusic.com > artist > k...",
+    "url": "https://www.allmusic.com/artist/kombo-mn0000109563",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Kombo — Case Studies | Kombo kombo.dev https://www.kombo.dev > case-studies",
+    "url": "https://www.kombo.dev/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Kombo Case Study - Stonly — Kombo Case Study - Stonly Stonly https://stonly.com > kombo",
+    "url": "https://stonly.com/case-studies/kombo",
+    "pass": 3
+   },
+   {
+    "quote": "EmployeeReferrals.com vs Kombo : Revenue & Funding — EmployeeReferrals.com vs Kombo : Revenue & Funding GetLatka https://getlatka.com > kombo",
+    "url": "https://getlatka.com/companies/employeereferralscom/vs/kombo.dev",
+    "pass": 3
+   },
+   {
+    "quote": "Kombo . 2026 Company Profile: Valuation, Funding & Investors — Kombo . 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/266162-59",
+    "pass": 3
+   },
+   {
+    "quote": "Kombo - Crunchbase Company Profile & Funding — Kombo - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > komb...",
+    "url": "https://www.crunchbase.com/organization/kombo-9d88",
+    "pass": 3
+   },
+   {
+    "quote": "Kombo - 2026 Company Profile & Team - Tracxn — Kombo - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/kombo/__9zWrTI1RX4QKvEn-gdCncJd90_AOwNsJL9Dmlz7jgV0",
+    "pass": 3
+   },
+   {
+    "quote": "The Infrastructure Layer for Financial Services Companies — The Infrastructure Layer for Financial Services Companies kombo.dev https://www.kombo.dev > solutions",
+    "url": "https://www.kombo.dev/solutions/financial-services",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "KOMBO ™ (@ultimate_kombo) / X KOMBO ™ (@ultimate_kombo) / X X https://x.com > ultimate_kombo",
+    "url": "https://x.com/ultimate_kombo",
+    "pass": 3
+   },
+   {
+    "quote": "kombo (@kombo000) / X kombo (@kombo000) / X X https://x.com > kombo000",
+    "url": "https://x.com/kombo000",
+    "pass": 3
+   },
+   {
+    "quote": "KOMBO ™ on X: \"Jude Bellingham is a very incredible ... KOMBO ™ on X: \"Jude Bellingham is a very incredible ... X https://x.com > @ultimate_kombo",
+    "url": "https://x.com/ultimate_kombo/status/2106771052185415859",
+    "pass": 3
+   },
+   {
+    "quote": "KOMBO ™ on X: \"Comparing Messi to Ronaldo right now is ... KOMBO ™ on X: \"Comparing Messi to Ronaldo right now is ... X https://x.com > @ultimate_kombo",
+    "url": "https://x.com/ultimate_kombo/status/2071093738718306524",
+    "pass": 3
+   },
+   {
+    "quote": "KOMBO ™ on X : \"This should have been a goal \" / X KOMBO ™ on X : \"This should have been a goal \" / X X https://x.com > @ultimate_kombo",
+    "url": "https://x.com/ultimate_kombo/status/2119523019181662662/photo/1",
+    "pass": 3
+   },
+   {
+    "quote": "KOMBO ™ on X : \"WHY MUST WE CONCEDE \" / X KOMBO ™ on X : \"WHY MUST WE CONCEDE \" / X X https://x.com > @ultimate_kombo",
+    "url": "https://x.com/ultimate_kombo/status/2116649195880992785/photo/1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Kombo - LinkedIn Kombo - LinkedIn LinkedIn https://www.linkedin.com > kombo-api",
+    "url": "https://www.linkedin.com/company/kombo-api",
+    "pass": 3
+   },
+   {
+    "quote": "Alexander Kuebel - Co-Founder & CEO @ Kombo (YC S22) Alexander Kuebel - Co-Founder & CEO @ Kombo (YC S22) LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/alexander-kuebel-8b8351180",
+    "pass": 3
+   },
+   {
+    "quote": "Max Schulz - Kombo (YC S22) - LinkedIn Max Schulz - Kombo (YC S22) - LinkedIn LinkedIn https://www.linkedin.com > max-schu...",
+    "url": "https://www.linkedin.com/in/max-schulz1",
+    "pass": 3
+   },
+   {
+    "quote": "Kombo Ventures | LinkedIn Kombo Ventures | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/kombo-ventures",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "D REAL KOMBO - Facebook D REAL KOMBO - Facebook Facebook https://www.facebook.com > Pages > Interest > Sports",
+    "url": "https://www.facebook.com/p/D-REAL-KOMBO-61559648084697/",
+    "pass": 3
+   },
+   {
+    "quote": "The Real Kombo fans Group | Facebook The Real Kombo fans Group | Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/1104801758072997/",
+    "pass": 3
+   },
+   {
+    "quote": "Ivy Kombo Kasi (@IvyKomboKasimusic) - Facebook Ivy Kombo Kasi (@IvyKomboKasimusic) - Facebook Facebook https://www.facebook.com > ... > Public figure > Musician",
+    "url": "https://www.facebook.com/IvyKomboKasimusic/",
+    "pass": 3
+   },
+   {
+    "quote": "Perfect Kombo (@PerfectKombo) - Photos - Facebook Perfect Kombo (@PerfectKombo) - Photos - Facebook Facebook https://www.facebook.com > ... > Perfect Kombo",
+    "url": "https://www.facebook.com/PerfectKombo/photos/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kombo.dev/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/solutions/ai-screening",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/solutions/ats",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/solutions/assessment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/solutions/background-check",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/solutions/benefits",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/solutions/compensation-analytics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/solutions/content-providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/solutions/financial-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/solutions/job-boards",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/solutions/recruiting-and-sourcing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/solutions/security-compliance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/case-study/how-egym-wellpass-increases-customer-adoption-with-kombos-hris-integrations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/case-study/how-classet-built-their-real-time-phone-screening-with-kombo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/case-study/apploi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/case-study/testgorilla",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kombo.dev/case-study/karmacheck",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ag959.blog.fc2.com/blog-entry-2700.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carislife.hatenablog.com/entry/2020/04/06/190000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://clicccar.com/2023/07/07/1296566/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/bisley_combo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qubo.jp/agency",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Kombu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/kombo-api",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ajinomoto.com/stories/eat-deliciously-the-magic-words-that-launched-over-a-century-of-food-innovation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stonly.com/case-studies/kombo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kibocommerce.com/customer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pimcore.com/en/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/employeereferralscom#competitors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/266162-59",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/kombo-9d88",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/kombo/__9zWrTI1RX4QKvEn-gdCncJd90_AOwNsJL9Dmlz7jgV0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ultimate_kombo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kombo000",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ultimate_kombo/status/2106771052185415859",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ultimate_kombo/status/2071093738718306524",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/kombo-api",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/alexander-kuebel-8b8351180",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/max-schulz1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/kombo-ventures",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/D-REAL-KOMBO-61559648084697/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1104801758072997/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/IvyKomboKasimusic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PerfectKombo/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ultimate_kombo/status/2119523019181662662/photo/1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ultimate_kombo/status/2116649195880992785/photo/1",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Kombo 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "http://ag959.blog12.fc2.com/blog-entry-2700.html",
+    "https://carislife.hatenablog.com/entry/2020/04/06/190000",
+    "https://clicccar.com/2023/07/07/1296566/",
+    "https://response.jp/article/2024/07/11/383926.html",
+    "http://hakko-andco.co.jp/190802_wild_speed/",
+    "https://autoc-one.jp/opel/vita/special-5008164/0002.html",
+    "https://diamond.jp/articles/-/27171",
+    "https://ja.wikipedia.org/wiki/いすゞ・コモ",
+    "https://www.kombo.dev/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Kombo 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.instagram.com/bisley_combo/",
+    "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "https://www.qubo.jp/agency",
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://www.kantan-order.com/enterprise_recruitment/",
+    "https://www.deex.co.jp/media/8uGKOPAJ",
+    "https://www.bisley.co.jp/company/?brand=bisley",
+    "https://b-seeds.com/business/use/contract/outsourcing",
+    "https://ja.wikipedia.org/wiki/日本サムスン"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Kombo Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Kombu",
+    "https://www.kombo.dev/security",
+    "https://www.linkedin.com/company/kombo-api",
+    "https://www.ajinomoto.com/stories/eat-deliciously-the-magic-words-that-launched-over-a-century-of-food-innovation",
+    "https://www.allmusic.com/artist/kombo-mn0000109563",
+    "https://www.builtinnyc.com/company/kombo",
+    "https://www.shanachie.com/artist/kombo",
+    "https://www.merge.dev/blog/kombo-alternatives",
+    "https://www.kombo.dev/",
+    "https://www.wordhippo.com/what-is/the/japanese-word-for-2fb0c35b296ff47d2e6537bff0ecf0dbc0386a80.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Kombo manufacturing customer case study",
+   "results": [
+    "https://www.kombo.dev/case-studies",
+    "https://stonly.com/case-studies/kombo",
+    "https://www.kibocommerce.com/customer/",
+    "https://pimcore.com/en/customers",
+    "https://markforged.com/resources/case-studies",
+    "https://getknit.dev/blog/a-detailed-evaluation-of-kombo-as-a-unified-hr-api-platform/",
+    "https://www.mckinsey.com/capabilities/operations/how-we-help-clients/solving-the-digital-manufacturing-disconnect",
+    "https://www.simplus.com/case-studies/kibo-case-study/",
+    "https://kt.team/cases/manufacturing",
+    "https://www.casestudies.com/company/kombo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Kombo white label OR reseller OR partner program",
+   "results": [
+    "https://www.intermedia.com/resellers",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://webinone.com/reseller-program",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.cloudblue.com/glossary/white-label-reseller/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Kombo founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/employeereferralscom/vs/kombo.dev",
+    "https://pitchbook.com/profiles/company/266162-59",
+    "https://www.crunchbase.com/organization/kombo-9d88",
+    "https://tracxn.com/d/companies/kombo/__9zWrTI1RX4QKvEn-gdCncJd90_AOwNsJL9Dmlz7jgV0",
+    "https://www.kombo.dev/solutions/financial-services",
+    "https://www.caplight.com/company/kombo",
+    "https://rocketreach.co/kombo-yc-s22-profile_b795ae00c2343094",
+    "https://www.dhrmap.com/news/berlin-based-kombo-secures-25m-to-accelerate-people-data-interoperability",
+    "https://www.linkedin.com/posts/kombo-api_kombo-raised-a-25-million-series-a-to-build-activity-7429892043440578560-ADYw",
+    "https://startupintros.com/orgs/kombo"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Kombo",
+   "results": [
+    "https://note.com/hellokeiko/n/n35177a4d371c",
+    "https://note.com/vc_startup/n/n0fb0c77a8917",
+    "https://note.com/nature_duo/n/na24a56cfe85f?hl=en",
+    "https://note.com/ebisen/n/na5bcd8f51d54?hl=en",
+    "https://note.com/fuyo_udo/n/n54251f4f8865?hl=en",
+    "https://note.com/hitokuchime_1031/n/n14730dd351d2?hl=en",
+    "https://note.com/mame_sweden/n/n697528a81c8e",
+    "https://note.com/dadasuke/n/n9ade212b1831",
+    "https://note.com/bonmoko_3/n/n21ed46db0cdf",
+    "https://note.com/seigo77"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Kombo",
+   "results": [
+    "https://x.com/ultimate_kombo",
+    "https://x.com/kombo000",
+    "https://x.com/ultimate_kombo/status/2106771052185415859",
+    "https://x.com/ultimate_kombo/status/2071093738718306524",
+    "https://x.com/ultimate_kombo/status/2120095751992955030",
+    "https://x.com/ultimate_kombo/status/2117021876950278255",
+    "https://x.com/ultimate_kombo/status/2051052397397475444",
+    "https://x.com/ultimate_kombo/status/2120471963130827096",
+    "https://x.com/ultimate_kombo/status/2114017767028572569",
+    "https://x.com/Kombotv"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Kombo",
+   "results": [
+    "https://www.linkedin.com/company/kombo-api",
+    "https://www.linkedin.com/in/alexander-kuebel-8b8351180",
+    "https://www.linkedin.com/in/max-schulz1",
+    "https://www.linkedin.com/company/kombo-ventures",
+    "https://www.linkedin.com/in/madalina-tricolici",
+    "https://www.linkedin.com/in/maria-idjilov",
+    "https://www.linkedin.com/posts/kombo-api_kombo-raised-a-25-million-series-a-to-build-activity-7429892043440578560-ADYw",
+    "https://www.linkedin.com/posts/kombo-api_big-news-as-were-walking-the-floors-of-activity-7442267732215078912-S2C6",
+    "https://www.linkedin.com/in/michael-fibich",
+    "https://www.linkedin.com/company/kombotechsolutions"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Kombo",
+   "results": [
+    "https://www.facebook.com/p/D-REAL-KOMBO-61559648084697/",
+    "https://www.facebook.com/groups/1104801758072997/",
+    "https://www.facebook.com/IvyKomboKasimusic/",
+    "https://www.facebook.com/PerfectKombo/photos/",
+    "https://www.facebook.com/ultimatekombo/",
+    "https://www.facebook.com/61550522278297/posts/you-dont-know-how-happy-this-made-memehn-we-dey-here-when-kombo-started-content-/122341047170017409/",
+    "https://www.facebook.com/Ligue1/posts/kombo-reacts-to-goals-from-matchday-8-in-ligue-1-%EF%B8%8F-d-real-kombo-ligue1/1604365588399450/",
+    "https://www.facebook.com/kombobeach/",
+    "https://www.facebook.com/kombovietnam/",
+    "https://www.facebook.com/p/KOMBO-慷柏體育-61559813863853/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Kombo note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://diamond.jp/articles/-/388572",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Kombo X 投稿",
+   "results": [
+    "https://x.com/ultimate_kombo/status/2119523019181662662/photo/1",
+    "https://www.youtube.com/shorts/UCd512WDA-o",
+    "https://x.com/ultimate_kombo/status/2116649195880992785/photo/1",
+    "https://getkombo.ai/",
+    "https://kombo.so/legal/terms-of-service",
+    "https://www.youtube.com/watch?v=BrbgyIMie18",
+    "https://kombotunes.com/",
+    "https://www.reddit.com/r/MortalKombat/comments/334y9l/mortal_kombat_x_learning_takeda_heres_a_simple_40/",
+    "https://x.com/ultimate_kombo",
+    "https://x.com/k0mboz"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部36頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部36頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

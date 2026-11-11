@@ -1,0 +1,1311 @@
+{
+ "name": "Helionenergy",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Energy｜未接触",
+ "researched_at": "2026-11-11T18:59:23.892261+00:00",
+ "official_url": "https://www.helionenergy.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2013 ; 13 years ago ( 2013 )",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Everett, Washington , U.S.",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Deuterium is collected from water, and helium-3 is produced through fusion reactions. Unlike fossil fuels, fusion isn’t constrained by scarce resources or geopolitics.",
+    "url": "https://www.helionenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fusion starts and stops instantly, so it can’t run out of control. It’s carbon-free and does not produce the long-lived radioactive waste associated with traditional nuclear power.",
+    "url": "https://www.helionenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Consistent energy without compromise.",
+    "url": "https://www.helionenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fusion plants can operate 24/7, regardless of weather, providing continuous carbon-free power to the grid.",
+    "url": "https://www.helionenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "POWER Magazine | Polaris has become the first privately developed fusion energy machine to demonstrate measurable deuterium-tritium (DT) fusion.",
+    "url": "https://www.helionenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Grande, Helion’s 4th fusion prototype, is developed to test high field operation. Grande achieves magnetic field compression of 4 tesla, forms cm-scale FRCs, and reaches plasma temperatures of 5 keV. Grande outperforms any other private fusion company.",
+    "url": "https://www.helionenergy.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Venti, Helion’s 5th protoype, with support from ARPA-E, is constructed to test the scalability of the results from IPA-C and Grande. Venti produces magnetic fields of 7 tesla and reaches ion temperatures of 2 keV at high density reaches ion temperatures of 2 keV at high density. Fusion output is the highest ever recorded by private or pulsed magnetic fusion.",
+    "url": "https://www.helionenergy.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Trenta, Helion’s 6th fusion prototype, demonstrates the largest and most energetic high-beta or FRC fusion plasmas ever created. Trenta compresses FRC plasmas to over 8 tesla, reaches plasma temperatures greater than 9 keV (100M°C) (ion temperatures over 8 keV and electron temperatures over 2 keV), and proves sufficient plasma confinement to generate electricity.",
+    "url": "https://www.helionenergy.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Raised $500M to build 7th fusion prototype, Polaris.",
+    "url": "https://www.helionenergy.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Helion moves its headquarters from Redmond, WA to Everett, WA. In Everett, the team begins to construct Polaris, Helion’s 7th fusion prototype.",
+    "url": "https://www.helionenergy.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Helion completes initial Polaris construction and achieves first plasma pulses in its 7th fusion prototype.",
+    "url": "https://www.helionenergy.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Polaris becomes first privately funded fusion energy machine to do bulk thermonuclear fusion with deuterium-tritium fuel and sets record with plasma temperatures of 150 million degrees Celsius.",
+    "url": "https://www.helionenergy.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "FOR THOSE WHO CHOOSE THE HARD PROBLEMS.",
+    "url": "https://www.helionenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Fusion can provide clean, reliable baseload power at scale. Commercializing fusion will reshape how electricity is generated and deployed, and Helion is the company closest to making that real.",
+    "url": "https://www.helionenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The work at Helion is (really) challenging. We hire people who lean into the challenge, find solutions, and deliver working hardware. Executing rigorously is a non-negotiable.",
+    "url": "https://www.helionenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Helion is hiring engineers, technicians, machinists, and scientists to build and deploy commercial fusion power systems. Open positions span mechanical engineering, electrical engineering, plasma physics, power electronics, manufacturing, supply chain, and operations across our Washington facilities.",
+    "url": "https://www.helionenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "[Prototype and R&D Technician]",
+    "url": "https://www.helionenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "WHAT WE PROVIDE TO SUPPORT OUR TEAM",
+    "url": "https://www.helionenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive wellness",
+    "url": "https://www.helionenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Helion provides meaningful time to disconnect with 21 vacation days, 10 sick days, and 11 holidays plus a week of winter break.",
+    "url": "https://www.helionenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Headquartered in Everett, WA, most team members take advantage of the immediate year-round access to the ocean and mountains. For eligible roles, Helion provides a generous cash bonus for relocation and access to local moving experts through a third-party vendor.",
+    "url": "https://www.helionenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Meditation and Brain Aging: Can Mindfulness Improve Memory and Attention?",
+    "url": "https://koriscience.com/helion-energy-fusion-startup-ai-power-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Aprender idiomas y salud cerebral: memoria, neuroplasticidad y demencia",
+    "url": "https://koriscience.com/helion-energy-fusion-startup-ai-power-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "PR. ビザスク：時給3万を目指そう 専門知識と経験を生かして挑戦できる副業",
+    "url": "https://jpscience.info/2026-feb-helion-energy/",
+    "pass": 3
+   },
+   {
+    "quote": "5th prototype, 'Venti'",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "6th prototype, 'Trenta'",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "7th prototype, 'Polaris'",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "8th prototype, 'Orion'",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "George Votroubek (principal scientist)",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "technology to produce",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": ", a nonprofit accelerator program supporting early-stage clean technology companies. The recognition highlighted the company's early work in magneto-inertial fusion and its potential applications for commercial electricity generation.",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "The management team were awarded a 2015 ARPA-E ALPHA contract, \"Staged Magnetic Compression of FRC Targets to Fusion Conditions\".",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "On May 10, 2023, Helion Energy announced that it had agreed to provide 50-",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "producer and recycler in North America, agreed to develop a 500-MWe fusion power plant at one of Nucor's manufacturing facilities.",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "list, citing the company's progress toward commercial fusion power through its planned Orion power plant and Polaris fusion milestones.",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "In February its Polaris prototype achieved two firsts for private fusion:",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "materials in preparation for its Orion power plant in",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "Helion's approach uses a linear fusion system with pulsed magnetic compression and differs from the traditional design for fusion reactions, which relies on",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "Hz, injecting plasma, compressing it to fusion conditions, expanding it, and recovering the energy to produce electricity.",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "The pulsed-fusion system used is said to be theoretically capable of running 24/7 for electricity production. Due to its compact size, the systems would be able to replace current fossil fuel infrastructure without major needs for investment.",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "He is rare and expensive. Instead Helion plans to produce",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "He reactions. D–D fusion has an equal chance of producing a",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "He atom and of producing a",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "H) atom plus a proton. Tritium beta decays into more",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "He produced this way and reuse it as fuel. Helion has a patent on this process.",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "These experiments used deuterium–deuterium fusion, which produced a 2.45-MeV neutron in half of the reactions. The IPA experiments claimed 300",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "km/s velocities, deuterium neutron production, and 2-keV deuterium ion temperatures.",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "(D–T) implementation that is the easiest to achieve but generates 14 MeV neutrons. The Helion team published peer-reviewed research demonstrating D–D neutron production in 2011.",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "Can You Invest in Helion Energy Pre-IPO? Here’s What You Need to Know",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "Helion is a privately held company with no current plans to go public.",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "Helion Energy has a bold goal to do what no company has ever done: harness the immense power of fusion energy. Fusion, the process that the sun and stars use to create energy, could provide the world with an abundant form of low-cost, emissions-free energy. Fusion energy could help solve climate change by providing the world with a large-scale, clean power source.",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "Many believe fusion power is still decades away. However, Helion Energy began construction on its first nuclear fusion plant in 2025 and aims to start producing electricity from fusion by 2028. It has already agreed to supply tech titan",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion's promise and Helion Energy's big-name backers have many investors eagerly anticipating its",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "Helion Energy is not a publicly traded company. It's a private company owned by Altman and other investors, including Mithril Capital, Capricorn Investment Group, Dustin Moskovitz, Lightspeed, SoftBank Vision Fund 2, and",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "IPO (Initial Public Offering) is the first sale of stock by a private company to the public, making it a publicly traded entity.",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "Is Helion Energy profitable?",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "As a private company, Helion Energy doesn't have to publicly disclose its financial results, so there was no publicly available information about its profitability.",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "However, the company likely wasn't profitable. It was still working to develop commercial fusion power. It has committed to begin producing fusion power for Microsoft by 2028. If it doesn't, it will need to pay financial penalties. It also has a deal to build a power plant for steelmaker Nucor, which it hopes to bring online in the 2030s.",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "The company isn't yet producing power, so it's likely not generating revenue while posting significant losses. Helion is investing heavily in testing its fusion technology as it works towards a commercial breakthrough. Since no company has ever commercially produced electricity from fusion, Helion might never turn a profit on the technology.",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Helion | Building the world's first fusion power plant",
+    "url": "https://www.helionenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fusion plants can operate 24/7, regardless of weather, providing continuous carbon-free power to the grid.",
+    "url": "https://www.helionenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Building the world's first fusion power plant",
+    "url": "https://www.helionenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Helion announced it has signed a letter of intent with the U.S. Department of Commerce to receive up to $175 million in funding through the CHIPS Research and Development Office to conduct R&D critical to the development and manufacturing of next-generation semiconductor technologies for commercial fusion energy.",
+    "url": "https://www.helionenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Led by Thrive Capital at $15.5 billion post-money valuation, new financing expands U.S. fusion manufacturing capacity, accelerates deployment",
+    "url": "https://www.helionenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Raises $425 million to scale manufacturing, forms largest FRCs ever created in Polaris; breaks ground on Orion, the world's first fusion power plant.",
+    "url": "https://www.helionenergy.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Helion is hiring engineers, technicians, machinists, and scientists to build and deploy commercial fusion power systems. Open positions span mechanical engineering, electrical engineering, plasma physics, power electronics, manufacturing, supply chain, and operations across our Washington facilities.",
+    "url": "https://www.helionenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "producer and recycler in North America, agreed to develop a 500-MWe fusion power plant at one of Nucor's manufacturing facilities.",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "list, citing the company's progress toward commercial fusion power through its planned Orion power plant and Polaris fusion milestones.",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "materials in preparation for its Orion power plant in",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2025, Helion announced plans to build a 50-megawatt fusion plant at property owned by the",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": ", in Chelan County, Washington. The company said the plant is planned to be operational by 2028, supplying power to nearby",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "The bill gave Helion Energy the ability to pursue a local permitting option to gain approval for its proposed plant site in Chelan County.",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "to support domestic development and manufacturing of high-voltage semiconductors for fusion power systems, with $175 million from federal funding and $50 million in additional private investement.",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "\"Helion Energy is Building the World's First Fusion Power Plant\"",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "\"Startup begins work on US fusion power plant. Yes, fusion\"",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "\"Helion Energy starts construction of nuclear fusion plant to power Microsoft data centers\"",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "\"World's First Ever Fusion Power Plant Planned in Malaga\"",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "\"Helion Advances Fusion Plant Plans in Chelan County After Landmark Energy Law\"",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "\"Helion Hosts Community Meeting for Fusion Power Plant in Malaga\"",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "\"Helion secures world's first regulatory licenses for fusion power plant being built in Washington\"",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "Many believe fusion power is still decades away. However, Helion Energy began construction on its first nuclear fusion plant in 2025 and aims to start producing electricity from fusion by 2028. It has already agreed to supply tech titan",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "However, the company likely wasn't profitable. It was still working to develop commercial fusion power. It has committed to begin producing fusion power for Microsoft by 2028. If it doesn't, it will need to pay financial penalties. It also has a deal to build a power plant for steelmaker Nucor, which it hopes to bring online in the 2030s.",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "Matt DiLallo has been a contributing Motley Fool stock analyst specializing in the energy, industrials, and real estate sectors since 2012. He also covers dividend-paying stocks, pre-IPO companies, ETFs, and other investing topics. He holds an MBA from Liberty University.",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "Helion's next big bet is manufacturing fusion power at scale",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "Helion’s next big bet is fusion power manufacturing at scale – but tech uncertainty remains",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "Inside Helion’s Omega, the company’s new manufacturing facility that could fit three football fields. (GeekWire Photo / Lisa Stiffler)",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "is doing much more than that. It’s building its seventh-generation fusion prototype to prove that its technology will deliver energy to the grid while simultaneously constructing a commercial power plant in Central Washington and establishing manufacturing operations to assemble future facilities.",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "Helion’s multi-track strategy — developing the prototype while standing up industrial-scale production — reflects the belief that speed will be key once fusion is proven viable.",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "“Helion is a manufacturing company,” said",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": ", Helion’s director of production. “It’s not an R&D company. It’s not a science experiment. It’s very much a manufacturing company.”",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "To meet its lofty goals, Helion has charted rapid growth in recent years — landing huge investments, hitting a headcount of more than 500 employees, and spreading its footprint across an industrial region north of Seattle that’s also home to aviation titan Boeing.",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "If it works, the demand is there. Data centers and AI expansion, plus economy-wide efforts to electrify transportation, building heating and cooling, and industrial operations are all hungry for clean power.",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft, which is investing heavily in AI-related data center infrastructure, has agreed to buy the electricity produced by the 50-megawatt Orion plant.",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing strategies",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "Helion’s 166,000 square foot Omega building in Everett, Wash., will house key manufacturing. (GeekWire Photo / Lisa Stiffler)",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "Building fusion plants requires more than physics breakthroughs — it demands industrial muscle. That’s where Helion’s Omega facility comes in.",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "to keep its manufacturing and assembly in-house. The approach avoided supply chain disruptions during the pandemic, could help skirt fluctuating tariffs and, perhaps most importantly, allows for quick adjustments as facility designs and operations are fine-tuned.",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "Standing inside Omega’s freshly painted, gleaming white space just minutes from Helion’s headquarters, Gizzi explained that the proximity between engineering and manufacturing is strategic.",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "“If you want to scale quickly, and if you want to be able to build an intelligent manufacturing process, you have to have [manufacturing] engineers with a really good understanding of how the thing works,” Gizzi said. “And you have to have design engineers with a really good understanding of what’s hard about manufacturing.”",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "Helion’s manufacturing-first philosophy aligns with a broader push to restore American production capacity. Washington state congressional leaders Sen. Maria Cantwell and Rep. Suzan DelBene recently introduced the bipartisan",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion Advanced Manufacturing Parity Act",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "in January specifically to finance its manufacturing build out in the Omega facility. Investors in the round included OpenAI CEO Sam Altman, Facebook co-founder Dustin Moskovitz, steel manufacturer Nucor, Mithril Capital, SoftBank and others.",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "The facility will help produce the roughly 2,500 capacitor units needed for the Orion power plant in Malaga, Wash., using both workers and robotics that include off-the-shelf and custom automation technology to significantly expedite the current processes.",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "With the effort to scale its manufacturing capacity, Helion is focused on the future and what comes after the first plant is running.",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "“These high volume lines are not for our Orion machine, but for the next machine,” Gizzi said. “A factory operating at 50% of its design capacity or less can spit out Orion, no problem. But we’re really looking beyond that into 2030.”",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Helion demonstrates the first direct magnetic energy recovery from a subscale pulsed magnetic system, utilizing modern high-voltage insulated gate bipolar transistors to recover energy at over 95% round-trip efficiency for over 1 million pulses. In a smaller system, the team demonstrates the formation of more than 1 billion FRCs.",
+    "url": "https://www.helionenergy.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Competitive salary with annual performance-based increases and a 5% 401(k) match. All employees receive Helion stock options, as well. Having equity in Helion means that you can own shares of the company, and we all benefit from Helion’s success.",
+    "url": "https://www.helionenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "startup accelerator as part of its Summer 2013 (S14) batch.",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2025, Helion announced plans to build a 50-megawatt fusion plant at property owned by the",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "Proctor, Darrell (February 13, 2026).",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "Warren Buffett Investments",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "Can You Invest in Helion Energy Pre-IPO? Here’s What You Need to Know",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "initial public offering (IPO)",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": ". Here's everything you need to know about investing in Helion Energy ahead of any future IPO.",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "Helion Energy is not a publicly traded company. It's a private company owned by Altman and other investors, including Mithril Capital, Capricorn Investment Group, Dustin Moskovitz, Lightspeed, SoftBank Vision Fund 2, and",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "IPO (Initial Public Offering) is the first sale of stock by a private company to the public, making it a publicly traded entity.",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "The company isn't yet producing power, so it's likely not generating revenue while posting significant losses. Helion is investing heavily in testing its fusion technology as it works towards a commercial breakthrough. Since no company has ever commercially produced electricity from fusion, Helion might never turn a profit on the technology.",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "(i.e., those with high net worth or high income) can sometimes buy shares of pre-IPO companies on secondary marketplaces, such as",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": ") Forge Global and Hiive. Accredited investors who really want to buy pre-IPO shares of Helion should check out secondary market platforms to see if any have shares of the fusion company available.",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "Non-accredited investors will need to wait for Helion Energy's IPO to buy shares. In the meantime, they can invest in a company like Helion Energy, which seeks to help address climate change by developing emissions-free energy sources. Here are three alternatives in the nuclear",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "to consider buying while you await Helion Energy's IPO:",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "special purpose acquisition company",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "Can You Invest in Starlink in Pre-IPO? Here's What You Need to Know",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "Matt DiLallo has been a contributing Motley Fool stock analyst specializing in the energy, industrials, and real estate sectors since 2012. He also covers dividend-paying stocks, pre-IPO companies, ETFs, and other investing topics. He holds an MBA from Liberty University.",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "Hiring AI Agents & the Rise of Revenue Orchestration Series",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "To meet its lofty goals, Helion has charted rapid growth in recent years — landing huge investments, hitting a headcount of more than 500 employees, and spreading its footprint across an industrial region north of Seattle that’s also home to aviation titan Boeing.",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "“While the path to commercial fusion is still unfolding, we’re proud to support Helion’s pioneering work here in Washington state as part of our broader commitment to investing in sustainable energy,” said Melanie Nakagawa, Microsoft’s chief sustainability officer, when",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "Bezos-backed real estate startup Arrived raises $27M to help fuel new ‘stock market’ for rental properties",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/65013-49",
+    "pass": 3
+   },
+   {
+    "quote": "Helion has 800 total employees.",
+    "url": "https://pitchbook.com/profiles/company/65013-49",
+    "pass": 3
+   },
+   {
+    "quote": "What is Helion’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/65013-49",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Helion is",
+    "url": "https://pitchbook.com/profiles/company/65013-49",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本でも核融合研究に関心がある読者なら、ITERやJT-60SA、KSTARなどの名前を聞いたことがあるかもしれません",
+    "url": "https://koriscience.com/helion-energy-fusion-startup-ai-power-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "FRCとは、Field-Reversed Configurationの略で、日本語では「磁場反転配位」と訳されます",
+    "url": "https://koriscience.com/helion-energy-fusion-startup-ai-power-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の読者に置き換えるなら、大都市の外側に巨大なデータセンターが増え、そのすべてが24時間安定した電力を必要とするイメージです",
+    "url": "https://koriscience.com/helion-energy-fusion-startup-ai-power-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は製造業が強く、電力の安定供給が産業競争力に直結します",
+    "url": "https://koriscience.com/helion-energy-fusion-startup-ai-power-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本には、放射線や原子力発電に関する規制は既に存在しますが、核融合発電に関する規制の議論はまだ始まったばかりです",
+    "url": "https://jpscience.info/2026-feb-helion-energy/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の核融合安全規制検討（骨子案）の最新動向【2025年1月】",
+    "url": "https://jpscience.info/2026-feb-helion-energy/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、日本における核融合安全規制の検討状況について、2025年1月時点での最新の状況を解説します",
+    "url": "https://jpscience.info/2026-feb-helion-energy/",
+    "pass": 3
+   },
+   {
+    "quote": "世界にはHelion Energy社のOrionのように、自社核融合発電所1号機目の建設を開始した事業者も現れ始めた現在、日本でも迅速な規制の議論が望まれます",
+    "url": "https://jpscience.info/2026-feb-helion-energy/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の核融合国家戦略が改定（2025年6月4日）",
+    "url": "https://jpscience.info/2026-feb-helion-energy/",
+    "pass": 3
+   },
+   {
+    "quote": "フュージョンエネルギー（核融合）日本政策化が加速 2024年5月",
+    "url": "https://jpscience.info/2026-feb-helion-energy/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の核融合ニュース (2023年12月、2024年1月号)",
+    "url": "https://jpscience.info/2026-feb-helion-energy/",
+    "pass": 3
+   },
+   {
+    "quote": "【特集】日本の核融合スタートアップ（2025年4月版）",
+    "url": "https://jpscience.info/2026-feb-helion-energy/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Helion Energy - Building the world's first fusion power plant — Oct 22, 2026 · Helion is building the world's first fusion power plant to deliver clean, reliable, and abundant electricity to the grid.",
+    "url": "https://www.helionenergy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Helion Energy 徹底解説｜フュージョニスト（Fusionist） — 企業解説 2026/05/28 Helion Energy 徹底解説 タービンを使わず電気を直接取り出す——独自路線で10億ドル超を集めたHelion。 その大胆な賭けを読み解く。 FRCとパルス方式 Helionは FRC (磁場反転配位) のプラズマを両側から高速で衝突・圧縮する、パルス型の方式を ...",
+    "url": "https://fusionist.jp/article-helion/",
+    "pass": 3
+   },
+   {
+    "quote": "Helion Energyとは？AI時代の電力不足とMicrosoft契約で注目される核... — Aug 16, 2026 · 「いつかの未来技術」だった核融合を、契約・建設・顧客・産業電力の話へ近づけています。 一言でまとめるなら、 Helion Energyは、核融合をAI時代の実用電源に変えようとしている、最も攻めた民間核融合企業の一つです。",
+    "url": "https://koriscience.com/helion-energy-fusion-startup-ai-power-jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年2月 Helion Energyのトリチウム実験成功で世界が核融合発電にま... — Mar 22, 2026 · この記事では、米国核融合スタートアップ「Helion Energy」が2026年2月に、民間企業としては世界で初めて成功させたトリチウム使用実験について解説します。",
+    "url": "https://jpscience.info/2026-feb-helion-energy/",
+    "pass": 3
+   },
+   {
+    "quote": "Helion Energy - Wikipedia — Helion's approach uses a linear fusion system with pulsed magnetic compression and differs from the traditional design for fusion reactions, which relies on tokamaks. [14] The system is intended to operate at 1 Hz, injecting plasma, compressing it to fusion conditions, expanding it, and recovering the energy to produce electricity. [21] The pulsed-fusion system used is ",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "Can You Invest in Helion Energy in 2026? Details ...Helion Energy (Pvt) Ltd – Helionizing the FutureDealership Managed IT & Cybersecurity | Helion TechnologiesJLL日本について — May 11, 2026 · Fusion energy could help solve climate change by providing the world with a large-scale clean power source. Can you cash in on this new technology? Helion Energy (Pvt) Ltd delivers innovative, intelligent, and futu",
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "pass": 3
+   },
+   {
+    "quote": "Helion Energy (Pvt) Ltd – Helionizing the Future — Helion Energy (Pvt) Ltd delivers innovative, intelligent, and future-ready solar and electrical infrastructure solutions across Pakistan. We engineer reliability — blending technology, precision, and sustainability to build systems that don’t just power today, but define tomorrow.",
+    "url": "https://helionenergy.com.pk/",
+    "pass": 3
+   },
+   {
+    "quote": "Helion Energy - Wikipedia — Retired Princeton Plasma Physics Laboratory researcher Daniel Jassby mentioned Helion Energy in a letter included in the American Physical Society newsletter Physics & Society (April 2019) as being among fusion start-ups allegedly practicing \"voodoo fusion\" rather than legitimate science.",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "Helion Energy is building a fusion power plant. Can its ... — May 19, 2026 · Helion Energy, one of the world’s best-funded private fusion companies, is building what it calls Orion: a machine it says will become the world’s first fusion power plant, delivering 50...",
+    "url": "https://www.scientificamerican.com/article/helion-energy-is-building-a-fusion-power-plant-can-its-technology-deliver/",
+    "pass": 3
+   },
+   {
+    "quote": "Inside Helion's capacitor manufacturing line - helionenergy.com — Oct 16, 2026 · We estimate that Helion is among the top global producers of pulsed power capacitors by volume. There simply isn’t an external supply chain built for this use case or scale, reinforcing our decision to invest early in building a production capability tailored specifically to our needs.",
+    "url": "https://www.helionenergy.com/blog/inside-helions-capacitor-manufacturing-line",
+    "pass": 3
+   },
+   {
+    "quote": "Helion's next big bet is manufacturing fusion power at scale — Nov 11, 2025 · Helion Energy is simultaneously proving out its technology, constructing its first commercial plant, and building manufacturing for future facilities.",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "Helion Energy - Wikipedia — The company was founded in 2013 by David Kirtley, John Slough, Chris Pihl, and George Votroubek. [5] In 2013, Helion was selected as a finalist in the Clean Tech Open, a nonprofit accelerator program supporting early-stage clean technology companies.",
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "pass": 3
+   },
+   {
+    "quote": "Helion - 2026 Company Profile, Team, Funding & Competitors ...Helion 2026 Company Profile: Valuation, Funding & Investors ...Helion Energy - $25.1 M Revenue, Employees & Growth | Kona EquityHelion Energy: Valuation, Funding & Metrics | SterlingHelion Energy - WikipediaHelion Energy Funding, Valuation & Investors — Mar 7, 2026 · Helion is a series F company based in Everett (United States), founded",
+    "url": "https://tracxn.com/d/companies/helion/__fS6qGKScel2LE9EV85bGN9zjK8uhT4s_uRFQXu4k0M8",
+    "pass": 3
+   },
+   {
+    "quote": "Helion 2026 Company Profile: Valuation, Funding & Investors ...Helion Energy - $25.1 M Revenue, Employees & Growth | Kona EquityHelion Energy: Valuation, Funding & Metrics | SterlingHelion Energy - WikipediaHelion Energy Funding, Valuation & Investors — Information on valuation, funding, cap tables, investors, and executives for Helion. Use the PitchBook Platform to explore the full profile. Dec 1",
+    "url": "https://pitchbook.com/profiles/company/65013-49",
+    "pass": 3
+   },
+   {
+    "quote": "Helion Energy - $25.1 M Revenue, Employees & Growth | Kona Equity — Dec 19, 2024 · Helion Energy has an estimated annual revenue of $25.1 M, 641 employees, headquartered in Redmond, WA, founded in 2013. Explore Helion Energy revenue history, growth rate, competitors, and more in the Energy Equipment And Solutions industry.",
+    "url": "https://www.konaequity.com/company/helion-energy-4391679725/",
+    "pass": 3
+   },
+   {
+    "quote": "Helion Energy: Valuation, Funding & Metrics | Sterling — Explore funding rounds, investors, valuation history, revenue estimates, and key business metrics on Sterling.",
+    "url": "https://sterlingcharts.com/companies/helion-energy",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "startup email newsletter",
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/65013-49",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Fusion Energy, the Door to Commercialization Opens: Helion ... Feb 19, 2026 · However, between 2024 and 2026, Everett, Washington-based Helion Energy achieved a series of historic milestones, pulling fusion out of the realm of 'science fiction' and into 'real-world industry.'",
+    "url": "https://note.com/kyoto_gonchan/n/n1a75404e6fb3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Shocking】Helion Fusion Achieves Ultra-High Temperatures! Is ... In this article, I will explain Helion Energy's challenge and the future that fusion energy will bring in an easy-to-understand way. Come on, let's dive into the front lines of the energy revolution together!",
+    "url": "https://note.com/n1_news/n/nb1e29aebe3d6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Decameron 031: What is Pulsed Magnetic Fusion?｜TakTempest Aug 28, 2026 · However, what Helion Energy, based in Everett, Washington, is building looks completely different. It is a single tube, over ten meters long, shaped like an hourglass—thick at both ends and narrow in the middle. There are no cooling towers or steam turbines to be seen.",
+    "url": "https://note.com/taktempest222tt/n/n2ab4f36154d0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Fusion without heat? The challenge of US startup Helion Energy Aug 9, 2026 · Helion Energy is a US fusion startup that has garnered attention for signing the world's first fusion power purchase agreement (PPA) with Microsoft and raising massive funding from prominent investors, including OpenAI CEO Sam Altman.",
+    "url": "https://note.com/kyoto_gonchan/n/n802ff63d6dbc?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Helion Energy (@helionenergy) / Posts / X Helion Energy (@helionenergy) - Posts - | X (formerly Twitter)",
+    "url": "https://x.com/helionenergy",
+    "pass": 3
+   },
+   {
+    "quote": "Helion (@Helion_Energy) / X Helion's plasma really is pink. But what makes it appear that color is more complex than what our eyes can detect. Read the science behind the glow: helionenergy.com/blog/why-is-fu…",
+    "url": "https://x.com/helion_energy",
+    "pass": 3
+   },
+   {
+    "quote": "Helion on X: \"We’ve raised a $465 million Series G funding ... We’ve raised a $465 million Series G funding round at $15.5B post-money valuation to accelerate the commercial deployment of fusion. Read more here: helionenergy.com/newsroom/helio…",
+    "url": "https://x.com/Helion_Energy/status/2062554317564108825",
+    "pass": 3
+   },
+   {
+    "quote": "Helion Energy (@helionenergy) / Posts / X Aug 20, 2014 · Helion Energy (@helionenergy) - Posts - | X (formerly Twitter)",
+    "url": "https://x.com/helionenergy",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "David Kirtley - Founder and CEO of Helion Energy | LinkedIn Founder and CEO of Helion Energy · Founder and CEO at Helion, a privately funded fusion electricity company creating the world’s first fusion power plant.",
+    "url": "https://www.linkedin.com/in/davidkirtley",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Helion Energy | Everett WA - FacebookHelion Energy | Everett WA - FacebookHelionenergy - FacebookHelion Energy - Unlimited clean energy on the horizon. | FacebookHelion Energy - Construction progress continues on Orion’s ...Helion Energy - As Helion prepares for commercial scale ...POV: You’re walking through the world’s first fusion power ... Oct 22, 2026 · Helion Energy, Everett. 3,682 followers",
+    "url": "https://www.facebook.com/helionenergy/",
+    "pass": 3
+   },
+   {
+    "quote": "Helion Energy | Everett WA - Facebook Helion Energy, Everett. 3,478 likes · 289 talking about this. Helion is a fusion power company in Everett, WA enabling a future with unlimited...",
+    "url": "https://www.facebook.com/helionenergy/reels/",
+    "pass": 3
+   },
+   {
+    "quote": "Helion Energy - As Helion prepares for commercial scale ... May 28, 2026 · As Helion prepares for commercial scale fusion, our manufacturing team is focused on a key building block: capacitor windings. Each winding for Orion is made from ultrathin layers of film and...",
+    "url": "https://www.facebook.com/helionenergy/posts/as-helion-prepares-for-commercial-scale-fusion-our-manufacturing-team-is-focused/1515580626928378/",
+    "pass": 3
+   },
+   {
+    "quote": "Helionenergy - Facebook What are fusion machines made of? Designing materials that can withstand the extreme conditions of fusion is one of the hardest engineering challenges on the planet. At Helion, our materials work starts from the inside out: the chamber surface that surrounds the fusion plasma, the electromagnets that drive the process, and the insulators that keep high voltage where it belo",
+    "url": "https://www.facebook.com/people/Helionenergy/61575338901610/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.helionenergy.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.helionenergy.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.helionenergy.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://fusionist.jp/article-helion/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://koriscience.com/helion-energy-fusion-startup-ai-power-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jpscience.info/2026-feb-helion-energy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://koriscience.com/helion-energy-fusion-startup-ai-power-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helion360.com/services/case-study-design-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-mobile.com/business/partner-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Helion_Energy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/helion/__fS6qGKScel2LE9EV85bGN9zjK8uhT4s_uRFQXu4k0M8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/65013-49",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.konaequity.com/company/helion-energy-4391679725/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/kyoto_gonchan/n/n1a75404e6fb3?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/n1_news/n/nb1e29aebe3d6?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/taktempest222tt/n/n2ab4f36154d0?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/kyoto_gonchan/n/n802ff63d6dbc?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/helionenergy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/helion_energy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Helion_Energy/status/2062554317564108825",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/davidkirtley",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/helionenergy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/helionenergy/reels/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/helionenergy/posts/as-helion-prepares-for-commercial-scale-fusion-our-manufacturing-team-is-focused/1515580626928378/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Helionenergy/61575338901610/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/davidkirtley",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/helionenergy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/helion_energy",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Helionenergy 日本 導入",
+   "results": [
+    "https://www.helionenergy.com/",
+    "https://fusionist.jp/article-helion/",
+    "https://koriscience.com/helion-energy-fusion-startup-ai-power-jp/",
+    "https://jpscience.info/2026-feb-helion-energy/",
+    "https://techshift.jp/2026/03/24/post-978/",
+    "https://www.jaif.or.jp/journal/oversea/29227.html",
+    "https://www.atx-research.co.jp/contents/helion-energy"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Helionenergy 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://en.wikipedia.org/wiki/Helion_Energy",
+    "https://www.helionenergy.com/",
+    "https://www.helionenergy.com/about",
+    "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-helion-energy-stock/",
+    "https://helionenergy.com.pk/",
+    "https://heliontechnologies.com/",
+    "https://www.jll.com/ja-jp/about-jll/japan-information"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Helionenergy Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Helion_Energy",
+    "https://www.helionenergy.com/",
+    "https://www.helionenergy.com/newsroom/helion-clears-key-regulatory-milestone-on-the-path-to-building-and-operating-the-worlds-first-fusion-power-plant",
+    "https://koriscience.com/helion-energy-fusion-startup-ai-power-jp/",
+    "https://www.scientificamerican.com/article/helion-energy-is-building-a-fusion-power-plant-can-its-technology-deliver/",
+    "https://jp.linkedin.com/company/helion-energy",
+    "https://www.businessinsider.jp/article/269773/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Helionenergy manufacturing customer case study",
+   "results": [
+    "https://www.helionenergy.com/blog/inside-helions-capacitor-manufacturing-line",
+    "https://www.helionenergy.com/manifesto",
+    "https://www.geekwire.com/2025/helions-next-big-bet-is-fusion-power-manufacturing-at-scale-but-tech-uncertainty-remains/",
+    "https://helion360.com/services/case-study-design-services",
+    "https://nucor.com/2025/05/27/helion-case-study/",
+    "https://research.contrary.com/report/helion-energy",
+    "https://www.isolutions.ch/media/vu5oswpq/helion-cloud-transformation-case-study_en.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Helionenergy white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://partner.vw.com/",
+    "https://www.canva.com/partners/reseller/",
+    "https://upcloud.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.youtube.com/creators/earn/youtube-partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Helionenergy founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/Helion_Energy",
+    "https://tracxn.com/d/companies/helion/__fS6qGKScel2LE9EV85bGN9zjK8uhT4s_uRFQXu4k0M8",
+    "https://pitchbook.com/profiles/company/65013-49",
+    "https://www.konaequity.com/company/helion-energy-4391679725/",
+    "https://sterlingcharts.com/companies/helion-energy",
+    "https://venturecapitaltracker.com/startup/helion-energy",
+    "https://compworth.com/company/helion-energy"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Helionenergy",
+   "results": [
+    "https://note.com/kyoto_gonchan/n/n1a75404e6fb3?hl=en",
+    "https://note.com/n1_news/n/nb1e29aebe3d6?hl=en",
+    "https://note.com/taktempest222tt/n/n2ab4f36154d0?hl=en",
+    "https://note.com/kyoto_gonchan/n/n802ff63d6dbc?hl=en",
+    "https://note.com/taktempest222tt/n/neb584a52c6f4",
+    "https://note.com/nob75note/n/n1e5147d19ecd?hl=en",
+    "https://note.com/jolly_kudu6898/n/nb0509a0d88bd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Helionenergy",
+   "results": [
+    "https://x.com/helionenergy",
+    "https://x.com/helion_energy",
+    "https://x.com/Helion_Energy/with_replies",
+    "https://x.com/Helion_Energy/status/2062554317564108825",
+    "https://x.com/Helion_Energy/status/1656283665398403072",
+    "https://x.com/Helion_Energy/status/2066902977496109192",
+    "https://x.com/Helion_Energy/status/2069549491406172553"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Helionenergy",
+   "results": [
+    "https://www.linkedin.com/company/helion-energy/",
+    "https://www.linkedin.com/company/helion-energy/jobs/",
+    "https://www.linkedin.com/in/davidkirtley",
+    "https://www.linkedin.com/company/helion-energy/life",
+    "https://www.linkedin.com/company/heliongroup",
+    "https://cg.linkedin.com/posts/amy-roma-2302006_announcing-helions-fusion-energy-purchasing-activity-7062105034439684096-R_8k",
+    "https://lt.linkedin.com/posts/noelle-walsh-b29356108_announcing-helions-fusion-energy-purchasing-activity-7062052553101873152-KuYi"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Helionenergy",
+   "results": [
+    "https://www.facebook.com/helionenergy/",
+    "https://www.facebook.com/helionenergy/reels/",
+    "https://www.facebook.com/helionenergy/posts/as-helion-prepares-for-commercial-scale-fusion-our-manufacturing-team-is-focused/1515580626928378/",
+    "https://www.facebook.com/people/Helionenergy/61575338901610/",
+    "https://www.facebook.com/helionenergy/posts/unlimited-clean-energy-on-the-horizon/1623834426102997/",
+    "https://www.facebook.com/helionenergy/posts/construction-progress-continues-on-orions-generator-building/1514032053749902/",
+    "https://www.facebook.com/helionenergy/videos/pov-youre-walking-through-the-worlds-first-fusion-power-plant/1523630206488300/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Helionenergy note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Helion_Energy",
+    "https://www.linkedin.com/in/davidkirtley",
+    "https://www.geekwire.com/2026/the-fusion-pivot-helion-ceo-david-kirtleys-journey-from-starships-to-sustainable-star-power/",
+    "https://www.helionenergy.com/about",
+    "https://www.theofficialboard.com/biography/david-kirtley-d9629",
+    "https://www.helionenergy.com/",
+    "https://siliconvalleyinvestclub.com/companies/helionenergy/team/david-kirtley/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Helionenergy X 投稿",
+   "results": [
+    "https://x.com/helionenergy",
+    "https://www.instagram.com/helionenergy/",
+    "https://www.reddit.com/r/HelionEnergy/",
+    "https://x.com/helion_energy",
+    "https://www.helionenergy.com/hercules",
+    "https://www.instagram.com/p/CWoc34zPFfK/",
+    "https://www.helionenergy.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

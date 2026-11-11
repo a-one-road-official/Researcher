@@ -1,0 +1,848 @@
+{
+ "name": "株式会社須藤機械",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T18:55:38.856407+00:00",
+ "official_url": "http://www.sudokikai.com",
+ "identified_by": "given",
+ "profile": {
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "商用車、建機、ガス検知器、工作機械 他",
+    "url": "https://www.joyobank.co.jp/enterpri/monozukuri/2026/21.html",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "群馬県桐生市相生町2-303-50",
+    "url": "https://www.joyobank.co.jp/enterpri/monozukuri/2026/21.html",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "65名",
+    "url": "https://www.joyobank.co.jp/enterpri/monozukuri/2026/21.html",
+    "pass": 3
+   }
+  ],
+  "拠点": [
+   {
+    "label": "海外生産拠点国・ 地域と生産品目",
+    "value": "なし",
+    "url": "https://www.joyobank.co.jp/enterpri/monozukuri/2026/21.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "「鋳物加工」が産業用製品比較サイト『メトリー(Metoree)』で紹介されました",
+    "url": "https://sudokikai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「鋳物加工」が産業用製品比較サイト『メトリー(Metoree)』で紹介されました | 須藤機械",
+    "url": "https://sudokikai.com/news/%E3%80%8C%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%80%8D%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8E%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BCm/",
+    "pass": 1
+   },
+   {
+    "quote": "このたび、弊社の「鋳物加工」に関するページが、日本最大級の産業用製品検索サービス『メトリー(Metoree)』に掲載されました",
+    "url": "https://sudokikai.com/news/%E3%80%8C%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%80%8D%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8E%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BCm/",
+    "pass": 1
+   },
+   {
+    "quote": "『メトリー(Metoree)』は、センサー・測定器・工具など幅広い産業用製品カテゴリを取り扱う、日本最大級の産業用製品検索サービスです",
+    "url": "https://sudokikai.com/news/%E3%80%8C%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%80%8D%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8E%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BCm/",
+    "pass": 1
+   },
+   {
+    "quote": "を提供しており、製品比較・検討に役立つプラットフォームです",
+    "url": "https://sudokikai.com/news/%E3%80%8C%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%80%8D%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8E%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BCm/",
+    "pass": 1
+   },
+   {
+    "quote": "また、『メトリー(Metoree)』の公式YouTubeチャンネルでは、最新情報や製品紹介もご覧いただけます",
+    "url": "https://sudokikai.com/news/%E3%80%8C%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%80%8D%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8E%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BCm/",
+    "pass": 1
+   },
+   {
+    "quote": "「鋳物加工」が産業用製品比較サイト『メトリー(Metoree)』で紹介されました",
+    "url": "https://sudokikai.com/news/%E3%80%8C%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%80%8D%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8E%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BCm/",
+    "pass": 1
+   },
+   {
+    "quote": "｢信頼される製品づくり」を基本に、事業の変革と成長を継続し、これからもお客様の声にお応えするべく、日々精進していきます",
+    "url": "https://sudokikai.com/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "品質保証課の主な仕事は、完成した製品を測定して、設計通りのものになっているかどうかを確認することです",
+    "url": "https://sudokikai.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "毎日10個程度の製品を測定しています",
+    "url": "https://sudokikai.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "三次元測定器、マイクロメーター、ノギスなどを使って測定しますが、製品によっては±5/1000ミリ以内にばらつきを抑えなければいけないものもあります",
+    "url": "https://sudokikai.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "まだ入社して間もないので、いろんな製品を測定して実績を積んで、もっと勉強して「あいつに任せれば大丈夫」とみんなに言ってもらえるような存在になりたいと思っています",
+    "url": "https://sudokikai.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製造している製品は、商用車部品、医療機器、半導体部品、建機など幅広く加工しています",
+    "url": "https://sudokikai.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "Bさん：要求されたすべての製品を、自分で作ることができるようになりたいと思っています",
+    "url": "https://sudokikai.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "事業継続力強化計画は、自然災害や感染症、その他の緊急事態が発生した際にも、お客様への製品供給を継続し、事業を早期に復旧できる体制を整備する企業を国が認定する制度です",
+    "url": "https://sudokikai.com/news/20260706/",
+    "pass": 1
+   },
+   {
+    "quote": "「鋳物加工」が産業用製品比較サイト『メトリー(Metoree)』で紹介されました",
+    "url": "https://sudokikai.com/news/20260706/",
+    "pass": 1
+   },
+   {
+    "quote": "鋳物加工は、多くの工程を経て製品が完成します",
+    "url": "https://sudokikai.com/news/20250121/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、短納期での製品提供が可能となり、コスト削減効果が顕著に現れています",
+    "url": "https://sudokikai.com/news/20250121/",
+    "pass": 1
+   },
+   {
+    "quote": "比較的ロット数の少ない製品については汎用ラインにて生産し、ロット数の多い製品については専用ライン化することで段取り時間の削減、中間仕掛在庫の削減、サイクルタイムの削減をし、製品に応じて適切な生産方式を採用することで、少量多品種生産と大量生産の両方に対応できる生産体制を整えています",
+    "url": "https://sudokikai.com/news/20250121/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、既存の工法に捉われることなく、製品特性に応じて製造方法の能率化によるコスト低減に向けた様々なVAVE提案活動を行っています",
+    "url": "https://sudokikai.com/news/20250121/",
+    "pass": 1
+   },
+   {
+    "quote": "「鋳物加工」が産業用製品比較サイト『メトリー(Metoree)』で紹介されました",
+    "url": "https://sudokikai.com/news/20250121/",
+    "pass": 1
+   },
+   {
+    "quote": "組立精度が要求される機構部品において、ほんのわずかなズレが製品性能に大きく影響することも珍しくありません",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "1/1000mm単位での寸法管理や、製品の形状、材質、大きさによって変わる歪み対策、さらには組立時の性能維持まで含めて考える必要があります",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "通常のバイスでチャッキングした際に、製品が歪んだ状態になる",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "チャッキングを緩めた瞬間、製品が元の形状に戻り寸法が狂うリスクがある",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "このため、鋳物加工では一品ごとの形状や精度要件に合わせた「専用の加工治具」を設計し、製品の歪みを最小限に抑えた状態で加工を行うことが重要になります",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "鋳物加工において高精度・高品質を実現するためには、単なる設備力だけでなく、製品ごとに合わせた工程設計や、厳格な検査体制が欠かせません",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "鋳物は形状やサイズが製品ごとに異なり、固定方法や工程設計次第で精度が大きく変わります",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "須藤機械では、製品特性に合わせた最適な工法選定・加工治具設計・ツール選定・切削条件の抽出までトータルで対応",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "製品形状や素材特性を見極めた最適な工程設計",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "須藤機械では、一部製品で統計的プロセス管理（例：X-R管理図）を活用し、1/1000mm単位の寸法管理を実施",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "異常値を早期発見し、製品の品質を守っています",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "加工と検査の両面から、信頼性の高い製品をお届けします",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "B社は新製品開発に伴い、展伸材の総削りでアルミ部品3点とステンレス部品4点を試作・量産対応したいと考えていました",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "B社の新製品開発をスピーディーかつ低コストでサポートすることができました",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "須藤機械では、単に鋳物を削るだけではなく、お客様の課題や新製品開発段階でのコスト・品質・納期といったバランスを考慮した技術提案（VA/VE）も強みとしています",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "鋳物の機械加工には、製品一つひとつに合わせた治具設計や工程設計が必要です",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "「鋳物加工」が産業用製品比較サイト『メトリー(Met...",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "「鋳物加工」が産業用製品比較サイト『メトリー(Metoree)』で紹介されました",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "・ISO9001に基づく安定した品質の製品提供",
+    "url": "https://sudokikai.com/wp_new_2023/wp-content/themes/nano_tcd065-child/add/pdf/sdgs.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "気候変動対策や廃棄物削減、環境に配慮した製品・技術の開",
+    "url": "https://sudokikai.com/wp_new_2023/wp-content/uploads/2025/09/csr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "5. 製品・サービスの信頼性",
+    "url": "https://sudokikai.com/wp_new_2023/wp-content/uploads/2025/09/csr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "当社は、法令を遵守した安全で高品質な製品・サービスを提供します",
+    "url": "https://sudokikai.com/wp_new_2023/wp-content/uploads/2025/09/csr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品の完全性を守り、常にお客様の信頼に応えるものづくりを",
+    "url": "https://sudokikai.com/wp_new_2023/wp-content/uploads/2025/09/csr.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品・サービス(64)",
+    "url": "https://mono.ipros.com/company/detail/2066815/catalog/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "自動車部品、商用車部品、船舶部品、農業用機械部品、建設機械部品、工作機械部品、半導体装置関連部品 等",
+    "url": "https://sudokikai.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "1965年以降は、自動車（特に商用車）の鋳造部品加工に力を入れ、鋳物加工の技術を磨き、2016年からは鋳物加工に完全に軸足を移し「鋳物加工の専門メーカー」として地位を確立しております",
+    "url": "https://sudokikai.com/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイカスト（普通、真空、スクイズ、PF）・砂型鋳造・金型鋳造・棒材・ブロック材",
+    "url": "https://sudokikai.com/works/",
+    "pass": 1
+   },
+   {
+    "quote": "今では自動車、建機、半導体、工作機械、医療機器、産業用ロボット等、",
+    "url": "https://sudokikai.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製造している製品は、商用車部品、医療機器、半導体部品、建機など幅広く加工しています",
+    "url": "https://sudokikai.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、自動車部品の鋳物製造では、肉厚を調整することで金属の使用量を10%削減した事例があります",
+    "url": "https://sudokikai.com/news/20250121/",
+    "pass": 1
+   },
+   {
+    "quote": "また、加工治具を自社で設計・製作することで鋳物特有の「歪」に対応した治具設計、及び幾何公差0.01程度の高精度な鋳物部品加工に対応しております",
+    "url": "https://sudokikai.com/news/20250121/",
+    "pass": 1
+   },
+   {
+    "quote": "当社ではこれまで50年以上に渡って商用車・自動車向け「重要保安部品」の生産実績があり、高い品質レベルを維持しつつ、徹底したムリ・ムダ・ムラの排除により高品質でコストパフォーマンスに優れた加工技術を実現しております",
+    "url": "https://sudokikai.com/news/20250121/",
+    "pass": 1
+   },
+   {
+    "quote": "産業機械・自動車部品などの機構部品では、±0.01mm以下の厳しい寸法公差が求められるケースが多い",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "幾何公差（平行度・同軸度・直角度）などを含む高精度な鋳物加工を実現するためには、素材特性を理解し、最適な加工工程や治具設計を行う技術力が求められるのです",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "このため、鋳物加工では一品ごとの形状や精度要件に合わせた「専用の加工治具」を設計し、製品の歪みを最小限に抑えた状態で加工を行うことが重要になります",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "須藤機械では、鋳物加工専用の治具をすべて自社設計しており、経験豊富な技術者が最適な加工条件を検討することで、他社では真似できない高精度な加工を実現しています",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "須藤機械では、製品特性に合わせた最適な工法選定・加工治具設計・ツール選定・切削条件の抽出までトータルで対応",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "須藤機械がこの加工を引き受け、工程設計と治具設計を見直したことで、安定した寸法精度と納期厳守を同時に実現",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "【ケース2】半導体製造装置メーカーB社",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "鋳物の機械加工には、製品一つひとつに合わせた治具設計や工程設計が必要です",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、商用車、二輪車、自転車、船舶、農業機械、建機、工作機械、産業機器、半導体製造装置、電子光学機器、防衛装備、産業ロボット、医療機器、航空宇宙 等",
+    "url": "https://www.joyobank.co.jp/enterpri/monozukuri/2026/21.html",
+    "pass": 3
+   },
+   {
+    "quote": "【加工事例】医療機器向けバルブ部品2",
+    "url": "https://mono.ipros.com/company/detail/2066815/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "【加工事例】医療機器向けバルブ部品1",
+    "url": "https://mono.ipros.com/company/detail/2066815/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "【加工事例】自動車向けギア部品「シャフトギア」",
+    "url": "https://mono.ipros.com/company/detail/2066815/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "【加工事例】商用車向けブレーキ部品「ブラケット」",
+    "url": "https://mono.ipros.com/company/detail/2066815/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "【加工事例】自動車向け部品(鍛造材)「プーリー」",
+    "url": "https://mono.ipros.com/company/detail/2066815/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "【加工事例】半導体向けアニール炉部品「ランプホルダー」",
+    "url": "https://mono.ipros.com/company/detail/2066815/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "諸機械部品加工組立、その他、精密機械加工、自動化・省力化・開発・設計製造、金型設計製作、治工具設計、製作粉粒体処理機器、受託設計製造、各種粉粒体微細化、実験受託",
+    "url": "https://www.atengineer.com/pr/sudou-mecha-p/company",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "弊社ホームページからもお問い合わせいただけますが、今後は『メトリー(Metoree)』サイトからも簡単に御見積依頼が可能となります",
+    "url": "https://sudokikai.com/news/%E3%80%8C%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%80%8D%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8E%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BCm/",
+    "pass": 1
+   },
+   {
+    "quote": "5. お問い合わせと次のステップ",
+    "url": "https://sudokikai.com/news/20250121/",
+    "pass": 1
+   },
+   {
+    "quote": "メールアドレス：monozukuri@joyobank.co.jp",
+    "url": "https://www.joyobank.co.jp/enterpri/monozukuri/2026/21.html",
+    "pass": 3
+   },
+   {
+    "quote": "ご登録いただいた個人情報は、お客様からのご予約・お問い合わせの対応などのサービスに使用させていただきます",
+    "url": "https://sudokikai.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "本ウェブサイトが規定する個人情報とは、氏名・住所・電話番号・電子メールアドレス等、個人を特定できるものを指します",
+    "url": "https://sudokikai.com/contact/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "亜鉛合金、銅、真鍮、チタン、インコネル、ハステロイ、樹脂、他",
+    "url": "https://sudokikai.com/works/",
+    "pass": 1
+   },
+   {
+    "quote": "※上記以外の材質もご対応いたしますのでご相談ください",
+    "url": "https://sudokikai.com/works/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では信頼性の高い材料仕入れ先と連携し、材質の選定から鋳造方法の選定、素材形状の見直しなども含め、コスト削減と品質維持を両立しています",
+    "url": "https://sudokikai.com/news/20250121/",
+    "pass": 1
+   },
+   {
+    "quote": "1/1000mm単位での寸法管理や、製品の形状、材質、大きさによって変わる歪み対策、さらには組立時の性能維持まで含めて考える必要があります",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "【材質】 鉄、アルミ、ステンレス、真鍮等",
+    "url": "https://www.joyobank.co.jp/enterpri/monozukuri/2026/21.html",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "比較的ロット数の少ない製品については汎用ラインにて生産し、ロット数の多い製品については専用ライン化することで段取り時間の削減、中間仕掛在庫の削減、サイクルタイムの削減をし、製品に応じて適切な生産方式を採用することで、少量多品種生産と大量生産の両方に対応できる生産体制を整えています",
+    "url": "https://sudokikai.com/news/20250121/",
+    "pass": 1
+   },
+   {
+    "quote": "B社は新製品開発に伴い、展伸材の総削りでアルミ部品3点とステンレス部品4点を試作・量産対応したいと考えていました",
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット、多品種対応",
+    "url": "https://www.joyobank.co.jp/enterpri/monozukuri/2026/21.html",
+    "pass": 3
+   },
+   {
+    "quote": "【小ロット多品種】 ロット数個～月産数千個まで",
+    "url": "https://www.joyobank.co.jp/enterpri/monozukuri/2026/21.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "須藤機械 | めぶきFG ものづくり企業フォーラム 2026須藤機械 のカタログ一覧 | イプロスものづくり須藤機械 の製品・サービス一覧｜イプロスものづくり須藤機械 のカタログ一覧 | イプロス — indexに戻る 掲載企業との商談・工場見学をご希望の場合は、下記までご連絡ください。 [お問合せ]常陽銀行 コンサルティング営業部 メールアドレス：monozukuri@joyobank.co.jp Mar 25, 2024 · 「信頼される製品づくり」をモットーとし、創業以来培ってきた技術力と最新鋭の設備をもとに、お客様の厚い信頼にお応えしております。 ・高度化、高精度化したニーズにもお応えいたします。 ・小ロット品から量産品までご対応いたします。 Mar 25, 2024 · 須藤機械 の製品・サービス一覧です。 小ロット多品種の鋳物加工なら当社にお任せ下さい 当社は、輸送用機器におけ",
+    "url": "https://www.joyobank.co.jp/enterpri/monozukuri/2026/21.html",
+    "pass": 3
+   },
+   {
+    "quote": "須藤機械 のカタログ一覧 | イプロスものづくり — Mar 25, 2024 · 「信頼される製品づくり」をモットーとし、創業以来培ってきた技術力と最新鋭の設備をもとに、お客様の厚い信頼にお応えしております。 ・高度化、高精度化したニーズにもお応えいたします。 ・小ロット品から量産品までご対応いたします。",
+    "url": "https://mono.ipros.com/company/detail/2066815/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "須藤機械 の製品・サービス一覧｜イプロスものづくり — Mar 25, 2024 · 須藤機械 の製品・サービス一覧です。 小ロット多品種の鋳物加工なら当社にお任せ下さい 当社は、輸送用機器における重要保安部品の量産切削加工を主とし、鋳鉄・アルミ鋳物・アルミダイカスト・ステンレス材等の多種材料の切削加工を行っております。",
+    "url": "https://mono.ipros.com/company/detail/2066815/category/",
+    "pass": 3
+   },
+   {
+    "quote": "須藤機械 のカタログ一覧 | イプロス — 「信頼される製品づくり」をモットーとし、創業以来培ってきた技術力と最新鋭の設備をもとに、お客様の厚い信頼にお応えしております。 ・高度化、高精度化したニーズにもお応えいたします。 ・小ロット品から量産品までご対応いたします。",
+    "url": "https://www.ipros.com/company/detail/2066815/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 須藤機械 — 会社概要 Company 社名 株式会社 須藤機械 所在地 本社〒376-0011 群馬県桐生市相生町2-30",
+    "url": "https://sudokikai.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "須藤機械工業株式会社 - 会社概要 — 須藤機械工業株式会社の事業概要 諸機械部品加工組立、その他、精密機械加工、自動化・省力化・開発・設計製造、金型設計製作、治工具設計、製作粉粒体処理機器、受託設計製造、各種粉粒体微細化、実験受託 加工精密",
+    "url": "https://www.atengineer.com/pr/sudou-mecha-p/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社須藤機械の企業情報 | インターンシップ・新卒採用情報からES... — 株式会社須藤機械の企業情報ページです。就活のクチコミなど様々な情報を掲載しています。",
+    "url": "https://job.career-tasu.jp/corp/00137105/detail-uc/",
+    "pass": 3
+   },
+   {
+    "quote": "須藤機械 | 企業情報 | イプロスものづくり — Mar 25, 2024 · 須藤機械 の会社概要 小ロット多品種の鋳物加工なら当社にお任せ下さい 当社は、輸送用機器における重要保安部品の量産切削加工を主とし、鋳鉄・アルミ鋳物・アルミダイカスト・ステンレス材等の多種材料の切削加工を行っております。",
+    "url": "https://mono.ipros.com/company/detail/2066815/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 須藤機械 — 本ウェブサイト内でご登録頂いた個人情報等はお客様のご希望で、更新および利用の中止をすることができます。 各サービス担当までご連絡下さい。 連絡先がわからない場合は、お手数ですが本ウェブサイトよりお問い合わせください。",
+    "url": "https://sudokikai.com/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社須藤機械 - Facebook Aug 23, 2020 · 株式会社須藤機械. 7 followers. 1946年創業。 自動車部品加工を主体とし、鋳鉄・アルミ鋳物・アルミダイカスト・ステンレス材等の多種材料の切削加工を行っております。",
+    "url": "https://www.facebook.com/p/株式会社須藤機械-100064278813060/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社須藤機械 - Facebook Aug 23, 2020 · 株式会社須藤機械. 7 likes. 1946年創業。 自動車部品加工を主体とし、鋳鉄・アルミ鋳物・アルミダイカスト・ステンレス材等の多種材料の切削加工を行っております。",
+    "url": "https://www.facebook.com/100064278813060/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社須藤機械 - Facebook Aug 23, 2020 · 【前橋】須藤機械（群馬県伊勢崎市、須藤純吾社長、0270・62・8288）は、抗ウイルス性を持たせたアシストフック「ブロンズ・ハンド・アシスト」を発売した。 銅と真ちゅうを素材に採用し、高級感を持たせた...",
+    "url": "https://www.facebook.com/people/株式会社須藤機械/100064278813060/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sudokikai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sudokikai.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sudokikai.com/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sudokikai.com/production-facilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sudokikai.com/news/%E3%80%8C%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%80%8D%E3%81%8C%E7%94%A3%E6%A5%AD%E7%94%A8%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8E%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BCm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sudokikai.com/company/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sudokikai.com/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sudokikai.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sudokikai.com/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sudokikai.com/news/20260706/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sudokikai.com/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sudokikai.com/news/20250121/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sudokikai.com/news/%E9%8B%B3%E7%89%A9%E5%8A%A0%E5%B7%A5%E3%81%AE%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%82%92%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%EF%BD%9C%E9%A0%88%E8%97%A4%E6%A9%9F%E6%A2%B0%E3%81%AE%E6%8A%80/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://sudokikai.com/wp_new_2023/wp-content/themes/nano_tcd065-child/add/pdf/jigyoukyoukalogo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sudokikai.com/wp_new_2023/wp-content/themes/nano_tcd065-child/add/pdf/sdgs.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sudokikai.com/wp_new_2023/wp-content/uploads/2026/04/127937_ninteisyo_2026.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sudokikai.com/wp_new_2023/wp-content/themes/nano_tcd065-child/add/pdf/partner.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sudokikai.com/wp_new_2023/wp-content/uploads/2025/09/01security.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sudokikai.com/wp_new_2023/wp-content/uploads/2025/09/csr.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://systemcreate-inc.co.jp/products/moiron_top",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.joyobank.co.jp/enterpri/monozukuri/2026/21.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2066815/catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sudokikai.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sudoukogyo.co.jp/%E4%BC%9A%E7%A4%BE%E6%83%85%E5%A0%B1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/sudou-mecha-p/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sudokikai.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sudo-precise.co.jp/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sudoukougyou.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/p/株式会社須藤機械-100064278813060/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100064278813060/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/株式会社須藤機械/100064278813060/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "須藤機械 取扱製品 試作 小ロット",
+   "results": [
+    "https://systemcreate-inc.co.jp/products/moiron_top",
+    "https://www.joyobank.co.jp/enterpri/monozukuri/2026/21.html",
+    "https://mono.ipros.com/company/detail/2066815/catalog/",
+    "https://mono.ipros.com/company/detail/2066815/category/",
+    "https://www.ipros.com/company/detail/2066815/catalog/",
+    "https://sudokikai.com/works/",
+    "https://sudokikai.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "須藤機械 会社概要 事業内容",
+   "results": [
+    "https://sudokikai.com/company/",
+    "https://www.sudoukogyo.co.jp/会社情報/",
+    "https://www.atengineer.com/pr/sudou-mecha-p/company",
+    "https://job.career-tasu.jp/corp/00137105/detail-uc/",
+    "https://mono.ipros.com/company/detail/2066815/",
+    "https://sudokikai.com/",
+    "https://www.isesaki-monodukuri.jp/pages/102/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "須藤機械 お問い合わせ メール",
+   "results": [
+    "https://sudokikai.com/contact/",
+    "https://www.sudo-precise.co.jp/contact",
+    "https://sudoukougyou.jp/contact/",
+    "https://www.sudousyouji.com/contact-us/",
+    "https://sudo-ew.co.jp/contact.html",
+    "https://www.sudoukogyo.co.jp/お問い合わせ/",
+    "https://sudo-ss.jp/contact"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 須藤機械",
+   "results": [
+    "https://note.com/hsmark",
+    "https://note.com/stockmark/n/n18f0f9fe5fad",
+    "https://tales.note.com/pastatanaka/w9szb43yn16sk",
+    "https://note.com/eyar/n/n86c2a3d291f3",
+    "https://note.com/sudoh_corp/n/nebc2aee4877d",
+    "https://note.com/sudoboku/n/nbeb86f2e9c9d",
+    "https://note.com/syoshi_bass_note/n/n10ef4c5c4ddd"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 須藤機械",
+   "results": [
+    "https://x.com/HexagonScrew/status/2071698564666057044",
+    "https://x.com/S7_D8/status/2098320785043779960",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/Japan_gyuuziou/status/1842273698214244660",
+    "https://x.com/suto_kai",
+    "https://x.com/anjusuto/status/1135894690585169921",
+    "https://x.com/anjusuto/status/1166393094465413121"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 須藤機械",
+   "results": [
+    "https://jp.linkedin.com/in/shunya-sudo-0755233a0/ja",
+    "https://jp.linkedin.com/in/晶-須藤-3b28642a9",
+    "https://www.linkedin.com/pub/dir/+/須藤",
+    "https://www.linkedin.com/pub/dir/裕之/須藤",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://ro.linkedin.com/in/ana-cristina-varga-0376257b",
+    "https://ch.linkedin.com/in/fabien-lacroix-89713014"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 須藤機械",
+   "results": [
+    "https://www.facebook.com/p/株式会社須藤機械-100064278813060/",
+    "https://www.facebook.com/100064278813060/",
+    "https://www.facebook.com/people/株式会社須藤機械/100064278813060/",
+    "https://www.facebook.com/BCS.giant/",
+    "https://www.facebook.com/sudohideki/",
+    "https://www.facebook.com/sudogenki13/",
+    "https://www.facebook.com/sudokogyo/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "須藤機械 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://sudokikai.com/company/",
+    "https://sudokikai.com/",
+    "https://compalyze.co.jp/company/2070001016177",
+    "https://monodukuri-review.com/categories/plan-trial/株式会社須藤機械/",
+    "https://www.nikkan.co.jp/articles/view/00569777?gnr_footer=0054953",
+    "https://www.sudo-precise.co.jp/ceo"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "須藤機械 X 投稿",
+   "results": [
+    "https://sudokikai.com/",
+    "https://www.tiktok.com/@sudokikai",
+    "https://www.instagram.com/sutoh_kikai/",
+    "https://www.instagram.com/p/DRf3q_DD4KG/",
+    "https://x.com/toki131/status/2120147580562948338",
+    "https://x.com/genki_sudo",
+    "https://search.yahoo.co.jp/realtime/search/須藤/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式13頁／PDF・画像6件／外部12頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式13頁／PDF・画像6件／外部12頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像6件／外部12頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式13頁／PDF・画像6件／外部12頁・検索9回）"
+ }
+}

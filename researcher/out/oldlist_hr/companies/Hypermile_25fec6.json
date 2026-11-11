@@ -1,0 +1,868 @@
+{
+ "name": "Hypermile",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T18:52:09.786758+00:00",
+ "official_url": "https://hypermile.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Hypermile reduces fuel consumption by up to 11% and CO₂ emissions by 22 tons per truck per year — while making every journey smoother and safer. Our advanced AI system delivers unprecedented efficiency without compromising safety while improving driver comfort.",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hypermile uses superhuman perception and prediction models to anticipate other vehicles behavior and adapt your truck's speed in the most fuel efficient way.",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our proprietary algorithms continuously learn from real-world driving patterns, adapting to terrain, traffic conditions, and vehicle characteristics to optimize every aspect for fuel efficiency.",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "OTA-updatable algorithms ensure constant performance improvement",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision algorithms generate optimal acceleration and deceleration commands",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven impact on the road",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hypermile has been rigorously tested across thousands of kilometers with leading European fleets and OEM partners. Our results aren't theoretical projections — they're real-world savings achieved in daily operations across diverse terrain, weather conditions, and traffic scenarios. Every metric represents actual performance data from production deployments.",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Simple installation process with minimal vehicle downtime and no structural changes",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our intelligent control system makes existing fleets dramatically more efficient, reducing the environmental footprint of every kilometer traveled. For fleet operators facing stringent ESG reporting requirements and carbon reduction mandates, Hypermile provides a proven pathway to compliance that pays for itself through fuel savings.",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hypermile is being piloted and integrated with major European trucking companies and manufacturers. Early adopters have reported double-digit fuel savings and smoother driving experiences, validating our technology across diverse operational environments. These partnerships represent the future of intelligent transportation, where AI enhances human expertise and manufacturer engineering.",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "achieved across 50-vehicle pilot program operating on major European corridors. Fleet reported improved driver satisfaction and reduced maintenance costs alongside fuel savings.",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "per vehicle per year in regional distribution operations. Results exceeded initial projections, with additional benefits in reduced brake wear and extended vehicle lifespan.",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hypermile leverages multi-sensor fusion to build a comprehensive understanding of the road environment. Our perception stack processes data from cameras, radar, and vehicle telemetry at 20Hz, creating a real-time map of traffic conditions, road geometry, and upcoming terrain changes.",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Machine learning models trained on millions of kilometers predict optimal speed profiles up to 2 kilometers ahead. These predictions account for traffic patterns, road grade, curve geometry, and historical conditions to maximize efficiency while maintaining schedule compliance.",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hypermile's innovative approach to fuel efficiency has garnered attention from industry leaders, regulators, and sustainability organizations across Europe. Our technology represents a pragmatic solution to immediate emissions challenges while the transportation sector transitions to zero-emission vehicles.",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Coverage of our breakthrough 11% fuel efficiency improvement and unique OEM partnership model",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Hypermile represents the kind of practical innovation we need right now — technology that makes existing fleets dramatically more efficient while we work toward full electrification.\"",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "© Hypermile is a product of",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "— 2025 • Privacy • Terms",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Safety and awareness program",
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "pass": 3
+   },
+   {
+    "quote": "Hypermiling can be practiced in any vehicle regardless of fuel consumption. It gained popularity with the rise in gasoline prices in the 2000s.",
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "pass": 3
+   },
+   {
+    "quote": "Practice the Driving Without Brakes (DWB) mantra, where you try and drive for as long as possible without touching the brakes",
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "pass": 3
+   },
+   {
+    "quote": "tire-pressure monitoring system",
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "pass": 3
+   },
+   {
+    "quote": "Keep up on proper and timely car maintenance",
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "pass": 3
+   },
+   {
+    "quote": "Hypermiling can also be practiced using relatively lower fuel efficiency vehicles like SUVs.",
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "pass": 3
+   },
+   {
+    "quote": "By slowing to extend range, mileage approaches",
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "pass": 3
+   },
+   {
+    "quote": "consulted with pilots of the Army Air Corps and the Marine Corps and introduced engine-leaning techniques which greatly improved fuel consumption at cruise speeds and enabled aircraft to fly longer-range missions.",
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "pass": 3
+   },
+   {
+    "quote": "on a single charge. It beat a previous record of",
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "pass": 3
+   },
+   {
+    "quote": "to break the previous Renault Zoe EV hypermiling record.",
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "pass": 3
+   },
+   {
+    "quote": "to promote a safety and education program that promotes legal fuel-saving techniques.",
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "pass": 3
+   },
+   {
+    "quote": "\"EERE News: Progressive Automotive X Prize",
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "pass": 3
+   },
+   {
+    "quote": "\"Gale - Product Login\"",
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "pass": 3
+   },
+   {
+    "quote": "wikiHow marks an article as reader-approved once it receives enough positive feedback. In this case, 89% of readers who voted found the article helpful, earning it our reader-approved status.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "Poorly maintained or out of tune cars are a significant source of pollution. These driving techniques won't work if you don't properly maintain your car, which you should do whether you're hypermiling or not:",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "Keep your car tuned up. Out of tune cars are more inefficient and produce more pollution. A regular schedule of maintenance for you car is the first step to even having a car you can hyper-mile with.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "Use high performance spark plugs. High performance spark plugs like iridium-tipped \"performance\" spark plugs create a larger combustion spark which contributes to fuller, more efficient burn in the combustion chamber. This provides slightly more power, better fuel efficiency and lower emissions.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "Check tire pressure regularly. If the tires are incorrectly inflated, then there will be excess drag, or insufficient surface contact with the road, causing significant decreases in fuel efficiency.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "and that they are working properly. For many hypermiling techniques you'll be varying your following distance from cars. Seeing the car in front of you is vital for safety as well as for efficiency.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "You can save gas and maintain your car better by driving at a safe and appropriate speed for the driving conditions.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "Keep your foot ready to use the brake. If you do need to stop suddenly you should be able to react quickly. Since you're using the accelerator as little as possible, braking or not braking is your primary means of controlling your speed.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "Most people waste a significant amount of gas simply sitting in traffic or at a stop sign, not going anywhere. Turning off the engine when you stop for more than one minute can improve fuel efficiency by 19%.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "; all you need to do is drive gently for 5-10 minutes. If you're following the previous two steps, you're going to be driving gently all the way anyway, so you may as well use that for your engine's warmup.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "\"Pulse\" or accelerate up to a speed that is the higher end of a range of speeds that are appropriate. Do this using one of the sweet spots for mileage/power ratio on your car. For the Prius these spots are ~15 mph (24 km/h) and 25 mph (40 km/h), and correspond to times at which the gas engine is powering the car and charging the battery.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "\"Glide\" between periods of acceleration, but use the accelerator to provide electric assist. This requires knowing how hard to push and in which circumstances. Use your car's consumption screen to provide feedback. Get used to the maximum electric assist you can use and you'll go further between pulses, further increasing your mileage.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "Generally, this means you should go slower up hills, and faster down hills. Going uphill slower helps prevent wasting more gas than is necessary to get up the hill. Going downhill faster uses less gas and produces valuable momentum that you can use instead of engine power. If you combine the two in areas with small hills, you'll see much higher mileage.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "is driving through this area of disrupted air — it is much more aerodynamically efficient than simply bulling through still air. This is a controversial practice, and you should carefully consider whether you want to do this.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "Country roads are good because you don't have to stop (and go) as much and you don't have to accelerate/brake to get on/off (like with the highway). Steep uphills or downhills will have impacts on your fuel economy as well.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "If you're driving on sloped roads, it's useful to think about where you should come to a full stop, because that will affect how hard you need to accelerate.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": ". These can be mounted anywhere in your car and can provide active miles-per-gallon updated every second, including calculations of cost per mile, gallons per hour, time till empty and miles till empty. This will help keep you in the mindset of achieving optimal hypermiling techniques.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "to track your improvements in fuel economy.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "Please provide your name and last initial",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "Jacqueline Regev. Driving Instructor. Expert Interview",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "wikiHow Tech Help Pro:",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Works seamlessly with existing manufacturer systems, enhancing rather than replacing",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed with safety as the foundation, maintains all manufacturer safeguards",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Seamless integration with manufacturer cruise systems executes refined control decisions",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Validated with Europe's largest fleets and truck manufacturers",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our intelligent control system makes existing fleets dramatically more efficient, reducing the environmental footprint of every kilometer traveled. For fleet operators facing stringent ESG reporting requirements and carbon reduction mandates, Hypermile provides a proven pathway to compliance that pays for itself through fuel savings.",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading fleets and OEMs",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hypermile is being piloted and integrated with major European trucking companies and manufacturers. Early adopters have reported double-digit fuel savings and smoother driving experiences, validating our technology across diverse operational environments. These partnerships represent the future of intelligent transportation, where AI enhances human expertise and manufacturer engineering.",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "in next-generation truck platform scheduled for 2026 launch. Collaborative development ensures optimal integration with manufacturer systems from design phase.",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborative development agreements with three major European truck manufacturers",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "There are various techniques used by gas-powered car driving hypermilers that help increase their gas mileage.",
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "pass": 3
+   },
+   {
+    "quote": "\"EERE News: Progressive Automotive X Prize",
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Hypermile has been rigorously tested across thousands of kilometers with leading European fleets and OEM partners. Our results aren't theoretical projections — they're real-world savings achieved in daily operations across diverse terrain, weather conditions, and traffic scenarios. Every metric represents actual performance data from production deployments.",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading fleets and OEMs",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Integration Pilot",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "French regulation compliance achieved, OEM partnerships established",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Coverage of our breakthrough 11% fuel efficiency improvement and unique OEM partnership model",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're a fleet operator seeking to reduce operational costs and meet sustainability targets, or an OEM looking to enhance your vehicle offerings with cutting-edge efficiency technology, we're here to help you achieve your goals.",
+    "url": "https://hypermile.ai/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Carrying the least weight possible will also aid in less fuel consumed.",
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "pass": 3
+   },
+   {
+    "quote": "Get rid of the \"junk in the trunk\" — the more weight you're carrying, the more the engine and drive-train have to work. Removing extra weight increases efficiency.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "Generally, it's better for your fuel economy if you maintain a steady speed, which is why using cruise control and driving at or below the speed limit is an important part of hypermiling. However, varying your speed in relation to the actual terrain you're driving over is also necessary.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Include your email address to get a message when this question is answered.",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "How do you hypermile an EV? - Reddit — How do you hypermile an EV? - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/hypermiling/comments/1s1spka/how_do_you_hypermile_an_ev/",
+    "pass": 3
+   },
+   {
+    "quote": "How 'Hypermilers' Are Trying to Beat High Gas Prices — How 'Hypermilers' Are Trying to Beat High Gas Prices The New York Times https://www.nytimes.com > 2026/09/07",
+    "url": "https://www.nytimes.com/2026/09/07/us/hypermile-car-gas-prices.html",
+    "pass": 3
+   },
+   {
+    "quote": "How to Hypermile : Tips to Save Fuel - wikiHow — How to Hypermile : Tips to Save Fuel - wikiHow wikiHow https://www.wikihow.com > Hypermile",
+    "url": "https://www.wikihow.com/Hypermile",
+    "pass": 3
+   },
+   {
+    "quote": "Should you do a HyperMile build? - YouTube — Should you do a HyperMile build? - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=wnFMip9s2pg",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Hypermile (@Hypermile_site) / Posts / X Hypermile (@Hypermile_site) - Posts - Better driving, safe driving. | X (formerly Twitter)",
+    "url": "https://x.com/Hypermile_site",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "HyperMile Technical Tuesday: Metis Engineering Sensor Tech HyperMile Technical Tuesday: Metis Engineering Sensor Tech LinkedIn https://www.linkedin.com > posts > uclracing_hypermile-...",
+    "url": "https://www.linkedin.com/posts/uclracing_hypermile-hydrogenvehicle-metisengineering-activity-7462512041044463616-Jx86",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Can I hypermile my C8 Corvette? - Facebook Can I hypermile my C8 Corvette? - Facebook Facebook https://www.facebook.com > C8.Corvette.Owners > posts",
+    "url": "https://www.facebook.com/groups/C8.Corvette.Owners/posts/1710901709580723/",
+    "pass": 3
+   },
+   {
+    "quote": "Chevy Equinox EV hypermile range test results - Facebook Chevy Equinox EV hypermile range test results - Facebook Facebook https://www.facebook.com > groups > equinoxev > posts",
+    "url": "https://www.facebook.com/groups/equinoxev/posts/4113812782242048/",
+    "pass": 3
+   },
+   {
+    "quote": "BMW iX3 xDrive50 hypermile range test - Facebook BMW iX3 xDrive50 hypermile range test - Facebook Facebook https://www.facebook.com > TEVAssociation > posts > an...",
+    "url": "https://www.facebook.com/TEVAssociation/posts/another-hypermile-today-from-midland-to-collingwood-and-later-back-to-to-using-s/1135335462490082/",
+    "pass": 3
+   },
+   {
+    "quote": "2026 #ToyotaRav4phev #DCFastCharging after # hypermile trip 2026 #ToyotaRav4phev #DCFastCharging after # hypermile trip Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/TEVAssociation/videos/2026-toyotarav4phev-dcfastcharging-after-hypermile-trip-/1999195677454382/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://hypermile.ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2154332.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=z49S-ZKeF6M",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://newswitch.jp/p/50724",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.excite.co.jp/news/article/Trafficnews_725198/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://hodaikyo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://product.hiway.app/blog/manufacturing-dealer-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.infinicloud.com/agencypartner.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/hypermiling/comments/1s1spka/how_do_you_hypermile_an_ev/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Hypermiling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nytimes.com/2026/09/07/us/hypermile-car-gas-prices.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.wikihow.com/Hypermile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://highqa.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.guidewheel.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hpe.com/us/en/customer-case-studies.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ludovicbodin_atomicscaling-founderinsights-scalingleverage-activity-7364932394526642176-j2Ff",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.vestbee.com/insights/articles/hyperline-secures-10-m",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexventures.com/perspectives/hyperline-launches-with-4m-in-funding-to-make-pricing-and-billing-radically-simple/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaps.com/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Hypermile_site",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/uclracing_hypermile-hydrogenvehicle-metisengineering-activity-7462512041044463616-Jx86",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/C8.Corvette.Owners/posts/1710901709580723/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/equinoxev/posts/4113812782242048/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TEVAssociation/posts/another-hypermile-today-from-midland-to-collingwood-and-later-back-to-to-using-s/1135335462490082/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TEVAssociation/videos/2026-toyotarav4phev-dcfastcharging-after-hypermile-trip-/1999195677454382/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Hypermile 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2154332.html",
+    "https://www.youtube.com/watch?v=z49S-ZKeF6M",
+    "https://newswitch.jp/p/50724",
+    "http://www.excite.co.jp/news/article/Trafficnews_725198/",
+    "https://www.youtube.com/watch?v=LVGDfHc5_5o",
+    "https://motorcars.jp/category/news",
+    "https://www.webcg.net/articles/-/51678",
+    "https://ainiche.net/ja/tools/hypermile",
+    "https://hypermile.ai/",
+    "https://carview.yahoo.co.jp/article/detail/301477aa1b38b564eb3bbadb50ac8e1a1f837bc4/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Hypermile 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://hodaikyo.com/",
+    "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "https://product.hiway.app/blog/manufacturing-dealer-management/",
+    "https://partner.infinicloud.com/agencypartner.html",
+    "https://www.greensleeves21.com/partner/",
+    "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "https://www.seiho.or.jp/quality_result/list/",
+    "https://alpc.tokyo/pages/business-d2c",
+    "https://fc-kamei.net/CT2",
+    "https://www.sidebizz.net/blog/agent/general-agency/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Hypermile Japan",
+   "results": [
+    "https://www.reddit.com/r/hypermiling/comments/1s1spka/how_do_you_hypermile_an_ev/",
+    "https://en.wikipedia.org/wiki/Hypermiling",
+    "https://www.nytimes.com/2026/09/07/us/hypermile-car-gas-prices.html",
+    "https://www.wikihow.com/Hypermile",
+    "https://www.youtube.com/watch?v=wnFMip9s2pg",
+    "https://www.fbfs.com/learning-center/the-benefits-and-risks-of-hypermiling",
+    "https://www.bramanmiamihyundai.com/blog/2020/june/29/hypermiling-21-simple-tactics-to-boost-fuel-economy.htm?srsltid=AYCX9vI0egBHDfEHbj8l-HxQ62yNNHT2d7j6evLmX5oV8w_qlyc9bSWn",
+    "https://sustainableamerica.org/blog/what-is-hypermiling-and-how-do-i-do-it/",
+    "https://www.dictionary.com/browse/hypermile",
+    "https://hypermile.ai/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Hypermile manufacturing customer case study",
+   "results": [
+    "https://highqa.com/case-studies/",
+    "https://www.guidewheel.com/case-studies",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://www.hpe.com/us/en/customer-case-studies.html",
+    "https://www.autodesk.com/customer-stories/case-studies",
+    "https://www.hcltech.com/case-study/manufacturing-redesign-drives-flexible-product-delivery-for-automotive-oem",
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vKoS5KpVEfkrKSgl7_d3upiFdQk4bw7_iDxar4ofYkYTu_JQ-vH",
+    "https://c3.ai/customers",
+    "https://www.athenaswc.com/case-studies/",
+    "https://en.wikipedia.org/wiki/Hypermiling"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Hypermile white label OR reseller OR partner program",
+   "results": [
+    "https://www.intermedia.com/resellers",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://hypermail.com/white-label-email-marketing-software",
+    "https://seedlycrm.com/blog/white-label-crm-playbook",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Hypermile founded funding employees revenue",
+   "results": [
+    "https://www.linkedin.com/posts/ludovicbodin_atomicscaling-founderinsights-scalingleverage-activity-7364932394526642176-j2Ff",
+    "https://vestbee.com/insights/articles/hyperline-secures-10-m",
+    "https://www.indexventures.com/perspectives/hyperline-launches-with-4m-in-funding-to-make-pricing-and-billing-radically-simple/",
+    "https://gaps.com/finance/",
+    "https://www.demandgenreport.com/financial-news/",
+    "https://tracxn.com/d/companies/hypercore/__1gqEbRAsRgdiRFPx4-jA5E6-pMqbuDKUgkDfHq4dHbs",
+    "https://burklandassociates.com/client-news/",
+    "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-connectrn-nabs-65m-loan-valera-health-scores-44m",
+    "https://www.hyperline.co/resources/blog/hyperline-secured-a-new-round-of-funding-led-by-index-ventures",
+    "https://compworth.com/company/hypermile"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Hypermile",
+   "results": [
+    "https://note.com/dashboard",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/cute_willet990/n/n9529041a97d7",
+    "https://note.com/spaceygoblin/n/n0f0677188638",
+    "https://note.com/tsugu0721/n/n72a1b89666b9",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/draft_candidate/n/nba3fa979bc29"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Hypermile",
+   "results": [
+    "https://x.com/ClausMller17/status/2090339656520831482",
+    "https://x.com/FermanTwitt/status/2117616841124462992",
+    "https://x.com/JuanSanchez0x0",
+    "https://x.com/Hypermile_site",
+    "https://x.com/hypermileai",
+    "https://x.com/testerdahl/status/1506767946156318723",
+    "https://x.com/nonsensei_kun/status/2071635166053749211",
+    "https://x.com/mallyloboo/status/2034512270072693185",
+    "https://x.com/Balram1470/status/2106297221214085336",
+    "https://x.com/Xroaders_001/status/2037411860325273925"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com Hypermile",
+   "results": [
+    "https://www.linkedin.com/posts/uclracing_hypermile-hydrogenvehicle-metisengineering-activity-7462512041044463616-Jx86",
+    "https://uk.linkedin.com/in/dachi-gvinadze-8320a7332",
+    "https://uk.linkedin.com/company/uclracing",
+    "https://uk.linkedin.com/in/m-machin",
+    "https://www.linkedin.com/posts/konboi_konboi-collaborates-with-volvo-group-through-activity-7469640663198957569-L-3k",
+    "https://www.linkedin.com/in/jakublangr",
+    "https://uk.linkedin.com/in/james-hennessey-2357391a",
+    "https://fr.linkedin.com/company/konboi",
+    "https://uk.linkedin.com/in/james-slough-95615b206",
+    "https://www.linkedin.com/company/hypermileio"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Hypermile",
+   "results": [
+    "https://www.facebook.com/groups/C8.Corvette.Owners/posts/1710901709580723/",
+    "https://www.facebook.com/groups/equinoxev/posts/4113812782242048/",
+    "https://www.facebook.com/TEVAssociation/posts/another-hypermile-today-from-midland-to-collingwood-and-later-back-to-to-using-s/1135335462490082/",
+    "https://www.facebook.com/TEVAssociation/videos/2026-toyotarav4phev-dcfastcharging-after-hypermile-trip-/1999195677454382/",
+    "https://www.facebook.com/groups/895291394929914/posts/1244165023375881/",
+    "https://www.facebook.com/greenhillsofficial/posts/flash-sale-speed-up-and-grab-hot-wheels-hypermile-dual-dash-now-at-30-off-this-s/10158554462374791/",
+    "https://www.facebook.com/groups/1022197795003480/posts/1439765893246666/",
+    "https://www.facebook.com/groups/2041856606030081/posts/4501525903396460/",
+    "https://www.facebook.com/TEVAssociation/posts/2027-bmwix3xdrive50-hypermile-successful-l-in-matching-the-rated-range-of-700km-/1132612552762373/",
+    "https://www.facebook.com/Hypermile.site/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Hypermile note 社長",
+   "results": [
+    "https://note.com/araihirofumi/n/n0e76e4c624f6?hl=en",
+    "https://happysmile-inc.jp/news/4675/",
+    "https://www.dictionary.com/browse/hypermile",
+    "https://note.com/hyakkei2025",
+    "https://www.youtube.com/watch?v=H6YAMk-zS-8",
+    "https://dimension-note.jp/",
+    "https://note.com/taimee",
+    "https://www.youtube.com/watch?v=mTsE6YpxvgU",
+    "https://corp.skillnote.jp/company/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Hypermile X 投稿",
+   "results": [
+    "https://www.youtube.com/watch?v=Pds98lm4yhk",
+    "https://www.reddit.com/r/hypermiling/",
+    "https://www.youtube.com/watch?v=wnFMip9s2pg",
+    "https://www.youtube.com/watch?v=eu9G7WkUbLc",
+    "https://x.com/Mileage_impo?lang=ja",
+    "https://www.clubintegra.com/forum/threads/how-to-hypermile-integra-specific.59553/",
+    "https://www.subaruxvforum.com/threads/hypermiling.183057/",
+    "https://www.toyotanation.com/threads/how-to-hypermile-according-to-the-toyota-camry-manual-page-88.1795039/",
+    "https://www.chryslerminivan.net/threads/any-hyper-hypermilers-any-modifications-and-tips.185968/",
+    "https://x.com/hypermileai"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

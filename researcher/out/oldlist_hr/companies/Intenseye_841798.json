@@ -1,0 +1,1495 @@
+{
+ "name": "Intenseye",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T19:05:05.554340+00:00",
+ "official_url": "https://www.intenseye.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$26,000",
+    "url": "https://prospeo.io/c/intenseye-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$124,900,000",
+    "url": "https://prospeo.io/c/intenseye-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "1250 Broadway, Suite 401, New York, NY 10001, US",
+    "url": "https://prospeo.io/c/intenseye-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2018",
+    "url": "https://prospeo.io/c/intenseye-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "See the risks. Prevent the SIFs.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Safety teams work hard, but what you can't see are hidden risks turn into serious injuries and fatalities - leaving teams one step behind preventable tragedies.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Close the loop from detection to prevention",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intenseye detects SIF precursors in real time, helps teams act in the moment, and turns every event into evidence for coaching, follow-up, and measurable risk reduction.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Watch risk fall - and prove it.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Risk is trending down - with proof.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI watches every camera, 24/7, and flags the risks that lead to SIFs - with video evidence.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Watch pSIF risk fall week over week - and prove the program works.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From safety risks to process checks, see it all in real time.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intenseye helps industrial teams see the risks, movement patterns, and process conditions that shape safety outcomes, operational performance, and quality compliance.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent serious injuries and fatalities in real time, across 50+ hazard types.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Verify hygiene, QA-station checks, and cold chain continuously - with time-stamped proof.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sentinel extends Intenseye into the physical spaces where risks happen, adding specialized sensing, edge computing, and real-time response for your highest-priority use cases.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reads a torn glove or open guard across the bay.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "50+ DETECTIONS PRELOADED",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "GPU edge AI; every frame processed on-site.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "High-bandwidth, secure, enterprise-scale.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Guards presses, winders, and robotic cells from reach-in.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Guards winders, presses, robotic cells.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The software that turns video into prevention.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time dashboards and analytics that track performance and measure prevention impact.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PROVEN AT GLOBAL SCALE",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for enterprise teams operating worldwide.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Incidents prevented / yr",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SVP of EHS & S, CRH Americas Building Products",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intenseye runs real-time hazard detection on the cameras manufacturing floors already have. Intenseye helps safety teams detect serious-injury risks across assembly lines, stamping areas, conveyors, packaging lines, forklift routes, and yard traffic before they injure workers or stop production.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "to a machine stop at a press or robot cell",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "packs presses, conveyors, robotic cells, overhead loads, and forklift traffic into one space - alongside the people who run them. That density is exactly where serious injuries and fatalities (SIFs) happen.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "- warning workers, stopping machines, and proving risk is falling across every line and shift.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Reach-in at presses, robots, and conveyor pinch points.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Suspended loads, crane paths, and stored energy.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Proximity and blind-corner conflict in aisles.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "50+ detections, organized the way plant safety teams think - from the press line to the loading dock. Pick a family to see what Intenseye watches, and why each one matters on a real floor.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Press & stamping reach-in",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Crane & suspended loads",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Hand inside the die area while the press is live.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Presence-sensing device muted or defeated.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A worker reaches into a running conveyor. Same hazard, same instant - but observation only logs the risk. Intervention prevents the injury.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Intenseye runs on the CCTV you already own. Where a standard camera can't see - inside a press, at a robot cell, across a busy dock - purpose-built Sentinel devices fill the gap. Manufacturing needs",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Sees reach-in at presses, robots, and conveyors in true 3D.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Halts a press, robot cell, or conveyor in ~0.8s on a reach-in.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Sentinel Core / Hub Pro",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The manufacturer couldn't quantify how often workers reached into machine restricted areas - the leading indicator behind its most serious caught-in risk - so it couldn't prove",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Surface the highest-priority risks automatically.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Capture forklift–pedestrian proximity, over-speed, and right-of-way conflicts.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Personal protective equipment",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Verify hard hats, hi-vis, eye, and hand protection in the zones that require them.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Mastering SIF Prevention Through Real-Time Safety Management",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes - about 90% of IP cameras across 200+ brands, out of the box. Add Sentinel devices only where a standard camera can't see, like inside a press or across a busy dock.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How does it prevent a serious injury at a machine?",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A leading building materials producer",
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How a leading building materials producer cut its Total Recordable Incident Rate by 25%",
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "of the frontline workers reported feeling safer",
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Proven impact across industries",
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Conducted plant-wide training sessions and reinforced safety protocols for night-shift workers.",
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Partnered with the maintenance team to close gaps in safety protocols.",
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Implemented measures like pre-job briefings, enhanced lighting, and strict PPE enforcement.",
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A manufacturing facility faced high risks of vehicle-pedestrian interactions, including direct contact with moving forklifts. Traditional safety measures were not enough to prevent close calls and potential incidents. By deploying Intenseye’s Vehicle Controls AI, the site:",
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Provided AI-driven insights, allowing targeted TBT training for employees.",
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Monitored safety score improvements, ensuring sustained compliance over time.",
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "TRUSTED BY LEADERS AT",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "BUILT FOR INDUSTRIAL VISIBILITY",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intenseye helps industrial teams see the risks, movement patterns, and process conditions that shape safety outcomes, operational performance, and quality compliance.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial edge AI compute",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial-grade; runs where IT closets can't.",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial PLC hard-stop",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LIVE · PLANT 04",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible packaging · global manufacturer",
+    "url": "https://www.intenseye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI workplace safety for industrial manufacturing | Intenseye",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "INDUSTRIES / INDUSTRIAL MANUFACTURING",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing operations",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Intenseye runs real-time hazard detection on the cameras manufacturing floors already have. Intenseye helps safety teams detect serious-injury risks across assembly lines, stamping areas, conveyors, packaging lines, forklift routes, and yard traffic before they injure workers or stop production.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "AI SAFETY FOR MANUFACTURING",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Why manufacturing floors are the hardest to keep safe.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "A manufacturing plant",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The use cases that matter on a manufacturing floor.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "50+ detections, organized the way plant safety teams think - from the press line to the loading dock. Pick a family to see what Intenseye watches, and why each one matters on a real floor.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware coverage for manufacturing risk zones.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Intenseye runs on the CCTV you already own. Where a standard camera can't see - inside a press, at a robot cell, across a busy dock - purpose-built Sentinel devices fill the gap. Manufacturing needs",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Wide-area coverage and edge compute across the plant floor.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The manufacturer couldn't quantify how often workers reached into machine restricted areas - the leading indicator behind its most serious caught-in risk - so it couldn't prove",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "cameras already in the plants",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Built around the standards your plant already answers to.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Intenseye's detections map directly to the OSHA standards that drive citations and SIFs in manufacturing - and the leading-indicator record shows what happened and what you did about it.",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Powered industrial trucks",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Playbook",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Does Intenseye work with the cameras in our plant?",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Which hazards matter most on a manufacturing floor?",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How fast do plants see results?",
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A metals manufacturer struggled with maintaining safety in restricted areas during night shifts, where workers were often at unsafe distances from moving machinery. By implementing Intenseye’s Area Controls solution, they:",
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Conducted plant-wide training sessions and reinforced safety protocols for night-shift workers.",
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A manufacturing facility faced high risks of vehicle-pedestrian interactions, including direct contact with moving forklifts. Traditional safety measures were not enough to prevent close calls and potential incidents. By deploying Intenseye’s Vehicle Controls AI, the site:",
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://www.intenseye.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouses & Distribution",
+    "url": "https://www.intenseye.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "SIF PLAYBOOK · AUTOMOTIVE",
+    "url": "https://www.intenseye.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive SIF Prevention Playbook",
+    "url": "https://www.intenseye.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing, logistics, food & beverage, metals and more.",
+    "url": "https://www.intenseye.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://www.intenseye.com/solutions/safety",
+    "pass": 1
+   },
+   {
+    "quote": "Guarding/traffic separation per OSHA 1910 (powered industrial trucks); high-visibility marking per ANSI Z535.",
+    "url": "https://www.intenseye.com/solutions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial manufacturing",
+    "url": "https://www.intenseye.com/solutions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Manufacturing",
+    "url": "https://www.intenseye.com/solutions/quality",
+    "pass": 1
+   },
+   {
+    "quote": "AI workplace safety for automotive manufacturing | Intenseye",
+    "url": "https://www.intenseye.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "INDUSTRIES / AUTOMOTIVE",
+    "url": "https://www.intenseye.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time visibility for Automotive Manufacturing operations",
+    "url": "https://www.intenseye.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive manufacturing operations move fast, with people, robots, AGVs, and production lines working in close proximity. Intenseye helps safety teams detect serious-injury risks across body shops, stamping areas, paint lines, trim, final assembly, robot cells, and vehicle movement zones before they injure workers or stop production.",
+    "url": "https://www.intenseye.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "AI SAFETY FOR AUTOMOTIVE",
+    "url": "https://www.intenseye.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Why automotive floors are the hardest to keep safe.",
+    "url": "https://www.intenseye.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "The use cases that matter on an automotive floor.",
+    "url": "https://www.intenseye.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "50+ detections, organized the way plant safety teams think - from the body shop to final assembly to parts logistics. Pick a scenario to see what Intenseye watches, and why each one matters on a real floor.",
+    "url": "https://www.intenseye.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware tuned to the automotive plant.",
+    "url": "https://www.intenseye.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Intenseye runs on the CCTV you already own. Where a standard camera can't see - inside a robot cell, at a press, across a weld bay - purpose-built Sentinel devices fill the gap. Automotive needs",
+    "url": "https://www.intenseye.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Across dozens of facilities in multiple countries, leadership couldn't make high-severity risk visible or actionable at scale — so behavior change stalled and serious-injury exposure persisted plant to plant.",
+    "url": "https://www.intenseye.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "— where risk wasn't visible plant to plant",
+    "url": "https://www.intenseye.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Intenseye deployed AI-driven safety across the plants and",
+    "url": "https://www.intenseye.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Built around the standards your plant already answers to.",
+    "url": "https://www.intenseye.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Intenseye's detections map directly to the OSHA standards - and the robot-safety consensus standards - that drive citations and SIFs in automotive, and the leading-indicator record shows what happened and what you did about it.",
+    "url": "https://www.intenseye.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Powered industrial trucks",
+    "url": "https://www.intenseye.com/industries/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial robot safeguarding",
+    "url": "https://www.intenseye.com/industries/automotive",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "93% of employees feel safer: Transforming EHS in the textile industry",
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Installed additional visual cues and barriers to clearly mark restricted areas.",
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Provided AI-driven insights, allowing targeted TBT training for employees.",
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "You resell and want a recurring revenue line, camera-agnostic, with margin.",
+    "url": "https://www.intenseye.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Walkway narrowed below safe width.",
+    "url": "https://www.intenseye.com/solutions/safety",
+    "pass": 1
+   },
+   {
+    "quote": "Find the corner that carries the most traffic - and backs everything up.",
+    "url": "https://www.intenseye.com/solutions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "One corner carrying a disproportionate share of the traffic.",
+    "url": "https://www.intenseye.com/solutions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Flow backs up where a path narrows.",
+    "url": "https://www.intenseye.com/solutions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Path narrowed below efficient working width.",
+    "url": "https://www.intenseye.com/solutions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Every person and vehicle, aggregated into a live density map. The hottest corner is the one carrying the most traffic - usually the bottleneck to fix first.",
+    "url": "https://www.intenseye.com/solutions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Four hotspot cells (~20% of total density) sit at the left picking-aisle mouth, where ~43 pedestrians/day step blind into a drive aisle carrying ~30 forklifts/day. The rack upright kills the sightline, so both converge unseen at one corner — it must be",
+    "url": "https://www.intenseye.com/solutions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Entry to a barricaded lift exclusion zone.",
+    "url": "https://www.intenseye.com/industries/metals-steel",
+    "pass": 1
+   },
+   {
+    "quote": "Huhtamaki - a global manufacturer of sustainable packaging, operating in 35 countries with 17,400+ employees - wanted to see and act on the unsafe acts behind its most serious risks across a global plant footprint, and prove",
+    "url": "https://www.intenseye.com/industries/paper-packaging",
+    "pass": 1
+   },
+   {
+    "quote": "Building material production environments run hot, dusty, and heavy. Intenseye helps safety teams detect serious-injury risks across kilns, furnaces, crushers, conveyors, batch plants, quarries, and haul-truck routes before they injure workers or stop production.",
+    "url": "https://www.intenseye.com/industries/building-materials",
+    "pass": 1
+   },
+   {
+    "quote": "50+ detections, organized the way plant and quarry safety teams think - from the haul road to the crusher to the kiln. Pick a scenario to see what Intenseye watches, and why each one matters on a real floor.",
+    "url": "https://www.intenseye.com/industries/building-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Building material production sites need visibility across hot, dusty, and hard-to-monitor areas, from kilns and furnaces to crushers, conveyors, quarry haul roads, batch plants, and mobile equipment zones. Sentinel devices help extend coverage where serious-injury risks can escalate quickly.",
+    "url": "https://www.intenseye.com/industries/building-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Wide-area coverage across quarry, yard, and plant.",
+    "url": "https://www.intenseye.com/industries/building-materials",
+    "pass": 1
+   },
+   {
+    "quote": "A mature safety program still carried",
+    "url": "https://www.intenseye.com/industries/building-materials",
+    "pass": 1
+   },
+   {
+    "quote": "May apply at quarries & aggregate operations - alongside the OSHA general-industry mapping.",
+    "url": "https://www.intenseye.com/industries/building-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Does Intenseye work with our plant & quarry cameras?",
+    "url": "https://www.intenseye.com/industries/building-materials",
+    "pass": 1
+   },
+   {
+    "quote": "belt loaders, reach stackers, straddle carriers, cranes, and yard trucks moving freight past people - 24/7, often outdoors, across large sites run by multiple ground-handling crews. Vehicle and equipment conflict with people on the ground is the leading cause of serious injuries here.",
+    "url": "https://www.intenseye.com/industries/air-cargo-logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Worker in the path of a reach stacker or straddle carrier.",
+    "url": "https://www.intenseye.com/industries/air-cargo-logistics",
+    "pass": 1
+   },
+   {
+    "quote": "A mature safety program still carried",
+    "url": "https://www.intenseye.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Zehan Wang was previously Engineering Lead of Cortex Applied Research at Twitter and was Co-founder / CTO at Magic Pony Technology before acquisition by Twitter.",
+    "url": "https://www.intenseye.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Intenseye Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/intenseye-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Intenseye",
+    "url": "https://prospeo.io/c/intenseye-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/intenseye-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/intenseye-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/intenseye-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Intenseye?",
+    "url": "https://prospeo.io/c/intenseye-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Intenseye generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/intenseye-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/intenseye-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/intenseye-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Intenseye have?",
+    "url": "https://prospeo.io/c/intenseye-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/intenseye-revenue",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Certified installers and channel partners bring Intenseye to the floor. You own the account and the install; we run the AI behind it.",
+    "url": "https://www.intenseye.com/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Value-added resellers",
+    "url": "https://www.intenseye.com/partner",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "導入事例（AIモニタリングシステムで危険察知）",
+    "url": "https://t-i-trading.co.jp/intenseye/",
+    "pass": 3
+   },
+   {
+    "quote": "墜落防止用ハンドブックと墜落防止商品導入事例集を進呈",
+    "url": "https://pr.www.ipros.com/t-i-trading/product/detail/2001555590/",
+    "pass": 3
+   },
+   {
+    "quote": "Intenseye AIモニタリングシステム | ティー・アイ・トレーディング株式会社",
+    "url": "https://t-i-trading.co.jp/products/products/in/",
+    "pass": 3
+   },
+   {
+    "quote": "ティー・アイ・トレーディング株式会社は、防犯カメラ、紫外線硬化FRPシート、墜落防止製品などの世界各国の良品をご提供しています",
+    "url": "https://t-i-trading.co.jp/products/products/in/",
+    "pass": 3
+   },
+   {
+    "quote": "〒140-0013 東京都品川区南大井5丁目26-12 JSCビル４F",
+    "url": "https://t-i-trading.co.jp/products/products/in/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AIモニタリングシステムならIntenseye｜既設CCTVカメラとAIで危険を検... — 使いやすさ、拡張性、そして倫理的なAIの運用により、かけがえのないツールとなっています。 Intenseye導入以降、危険の検知精度は驚くほど高まり、負傷率の低下と安全文化の定着につながっています。",
+    "url": "https://t-i-trading.co.jp/intenseye/",
+    "pass": 3
+   },
+   {
+    "quote": "Intenseye - Real-time AI workplace safety platform — Prevent serious workplace injuries in real time. Intenseye runs computer-vision AI on your cameras or its Sentinel devices for safety, operations, and quality.",
+    "url": "https://www.intenseye.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AIモニタリングシステムならIntenseye | ティー・アイ・トレーディン... — ティー・アイ・トレーディング のAIモニタリングシステムならIntenseye の技術や価格情報などをご紹介。 AIで危険を可視化し 事故をゼロに。 応相談 応相談。",
+    "url": "https://pr.www.ipros.com/t-i-trading/product/detail/2001555590/",
+    "pass": 3
+   },
+   {
+    "quote": "Intenseye AIモニタリングシステム | ティー・アイ・トレーディング株... — Intenseye AIモニタリングシステムの取扱製品一覧ページです。 AIで危険を可視化し事故をゼロに。 ティー・アイ・トレーディング株式会社は、防犯カメラ、紫外線硬化FRPシート、墜落防止製品などの世界各国の良品をご提供しています。",
+    "url": "https://t-i-trading.co.jp/products/products/in/",
+    "pass": 3
+   },
+   {
+    "quote": "Intenseye - 全製品 — 導入にはある程度の初期費用がかかり、中小規模の現場にはハードルとなる場合があります。 カメラの画質や照明条件によってAIの検出精度が左右されるため、環境の整備が重要です。",
+    "url": "https://mifar.net/ja/tools/intenseye",
+    "pass": 3
+   },
+   {
+    "quote": "AIモニタリングシステムならIntenseye｜既設CCTVカメラとAIで危険を検... — Intenseyeは、既存のカメラインフラにシームレスに統合され、リアルタイムで実用的な洞察を提供することで、職場の安全性を大幅に向上させました。 使いやすさ、拡張性、そして倫理的なAIの運用により、かけがえのないツールとなっています。",
+    "url": "https://t-i-trading.co.jp/intenseye/",
+    "pass": 3
+   },
+   {
+    "quote": "intenseye — Intenseye uses in-browser analytics and session replay to understand how you use the product in your browser and improve it over time. Declining stops this browser-based capture; it does not affect server-side product analytics. You can change your choice at any time from your privacy settings.",
+    "url": "https://app.intenseye.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Intenseye Software - one platform: see, understand, act, prove — The AI safety platform that closes the loop. Intenseye connects hazard detection, intervention, coaching, and reporting in one AI safety platform, so teams can move from seeing risk to reducing it.",
+    "url": "https://www.intenseye.com/software",
+    "pass": 3
+   },
+   {
+    "quote": "Intenseye | LinkedIn — More than 100,000 workers at Fortune 500 companies and leading industrial groups in 25+ countries are protected by Intenseye. With Intenseye, you can allocate more time to value-adding tasks,...",
+    "url": "https://jp.linkedin.com/company/intenseye",
+    "pass": 3
+   },
+   {
+    "quote": "Beverage manufacturing case study | Intenseye case study — Discover the remarkable impact of Intenseye on a top-tier beverage manufacturer, reducing unsafe conditions by a staggering 90% in 6 months!",
+    "url": "https://www.intenseye.com/case-studies/a-leading-f-b-manufacturer",
+    "pass": 3
+   },
+   {
+    "quote": "Case studies - measured workplace-safety results | Intenseye — Intenseye customers measure their safety outcomes: a 25% drop in Total Recordable Incident Rate, a 27% decrease in lost day rate within a year, 200x more hazards caught than manual observation. Every number below comes from a customer's own deployment.",
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Coats achieves a 24% drop in recordable injuries ... — Leading Textile Manufacturing Company (Textiles) partnered with Intenseye (Computer Software) to solve key challenges. \"Leading Textile Manufacturing Company - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/intenseye/case-study/leading-textile-manufacturing-company-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: a leading beverage manufacturer reduces unsafe ... — The implementation, supported by Intenseye's Customer Success team, delivered significant operational and financial benefits, including decreased work stoppages, lower insurance costs, and improved employee morale. View this case study…",
+    "url": "https://www.casestudies.com/company/intenseye/case-study/leading-beverage-manufacturer-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Details - Human-Machine Collaboration - Intenseye ... — Two customer organizations have created EHS AI Specialist positions to manage the interface between continuous machine observation and human safety decision-making.",
+    "url": "https://initiatives.weforum.org/human-machine-collaboration/case-study-details/intenseye-leading-with-trust:-ai-powered-safety-to-power-future-production-floors-and-warehouses/aJYTG0000001EQj4AM",
+    "pass": 3
+   },
+   {
+    "quote": "Intenseye – Overview – Funding, Revenue & Growth – 2026 — Intenseye’s strategic edge lies in estimated revenue of $18.8M, company valuation nearing $300M, team of around 100+ employees, located in New York Ci...",
+    "url": "https://compworth.com/company/intenseye",
+    "pass": 3
+   },
+   {
+    "quote": "Intenseye - 2026 Company Profile, Team, Funding & Competitors ...Intenseye 2026 Company Profile: Valuation, Funding ...Intenseye Revenue, Funding & Valuation - prospeo.ioIntenseye - Overview, News & Similar companies | ZoomInfo.comintenseye: Funding, Team & Investors | Startup IntrosIntenseye: Employees, Headcount Growth, Org Chart, Layoffs ... — Feb 25, 2026 · Intenseye is a series B company base",
+    "url": "https://tracxn.com/d/companies/intenseye/__y7CaMxz5Et_i8QuII7Ug38CjWCBryoqazVecROMOrJ0",
+    "pass": 3
+   },
+   {
+    "quote": "Intenseye 2026 Company Profile: Valuation, Funding ...Intenseye Revenue, Funding & Valuation - prospeo.ioIntenseye - Overview, News & Similar companies | ZoomInfo.comintenseye: Funding, Team & Investors | Startup IntrosIntenseye: Employees, Headcount Growth, Org Chart, Layoffs ... — Information on valuation, funding, cap tables, investors, and executives for Intenseye. Use the PitchBook Platform t",
+    "url": "https://pitchbook.com/profiles/company/279476-38",
+    "pass": 3
+   },
+   {
+    "quote": "Intenseye Revenue, Funding & Valuation - prospeo.io — Intenseye has revenue of $3,600,000, estimated valuation of $11,600,000, $124,900,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/intenseye-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Intenseye - Overview, News & Similar companies | ZoomInfo.com — Gather financial insights about Intenseye, including details on funding rounds, investors, total funding, and acquisitions, to gain a comprehensive understanding of their financial strategy.",
+    "url": "https://www.zoominfo.com/c/intenseye-inc/464687296",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/intenseye-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "We are changing how #EHS teams evaluate #ergonomicrisks with ... We are changing how #EHS teams evaluate #ergonomicrisks with #intenseye #Ergonomics module! Schedule a demo with us today to join the shift in the Ergonomics field from pen and paper to cutting-edge #AI: intenseye.com/get-demo?utm_s…",
+    "url": "https://x.com/intenseye/status/1658858561575825410",
+    "pass": 3
+   },
+   {
+    "quote": "@intenseye | X The latest posts from @intenseye",
+    "url": "https://x.com/intenseye",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Intenseye - LinkedIn Intenseye | 28,599 followers on LinkedIn. Real-Time Safety Management & SIF Prevention, Powered by AI | Intenseye is on a mission to transform workplace safety with computer vision AI.",
+    "url": "https://www.linkedin.com/company/intenseye",
+    "pass": 3
+   },
+   {
+    "quote": "Intenseye Platform - LinkedIn Intenseye Platform | Continuous visibility: Offers real-time insights into potential hazards, helping to proactively address risks before they escalate. Ergonomic risk assessments: Identifies ...",
+    "url": "https://www.linkedin.com/products/intenseye-aipowered-ehs-platform",
+    "pass": 3
+   },
+   {
+    "quote": "İpek Mazıoğlu - Intenseye | LinkedInBerkay Akçay - Intenseye | LinkedInSercan Esen - CEO, Intenseye — EHS AI for SIF Prevention ...Intenseye: Jobs | LinkedInSerhat Cillidag - Co-Founder & CTO at Intenseye | LinkedIn Deneyim: Intenseye · Eğitim: İstanbul Bilgi Üniversitesi · Konum: Türkiye · 500+ bağlantı LinkedIn‘de. İpek Mazıoğlu adlı kişinin profilini 1 milyar üyenin yer aldığı profesyonel bir t",
+    "url": "https://tr.linkedin.com/in/ipek-mazioglu",
+    "pass": 3
+   },
+   {
+    "quote": "Berkay Akçay - Intenseye | LinkedIn Deneyim: Intenseye · Eğitim: Boğaziçi University · Konum: Türkiye · 257 bağlantı LinkedIn‘de. Berkay Akçay adlı kişinin profilini 1 milyar üyenin yer aldığı profesyonel bir topluluk olan...",
+    "url": "https://tr.linkedin.com/in/akcay91",
+    "pass": 3
+   },
+   {
+    "quote": "Sercan Esen - CEO, Intenseye — EHS AI for SIF Prevention ...Sercan Esen, CEO & Co-Founder of Intenseye: $93 Million ...intenseye Management Team | Org Chart - RocketReachSercan Esen Bio – Intenseye CEO - The Official BoardIntenseye - Real-time AI workplace safety platform Intenseye is an AI-powered employee health and safety software platform that helps the world’s largest enterprises to scale emp",
+    "url": "https://www.linkedin.com/in/sercan-esen",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Intenseye | New York NY - FacebookIntensely /.\\aliyah - FacebookIntenseye - Big news from intenseye! We’re ... - FacebookDiscover Intenseye’s Task Management module - FacebookIntenseye is now SOC 2 Type II compliant! | ... - FacebookIntenseye - Breaking news We are pleased to ... - FacebookIntenseye provides artificial intelligence job safety ... Aug 22, 2023 · A huge shoutout to our dedicated Int",
+    "url": "https://www.facebook.com/intenseye/",
+    "pass": 3
+   },
+   {
+    "quote": "Intensely /.\\aliyah - FacebookIntenseye - Big news from intenseye! We’re ... - FacebookDiscover Intenseye’s Task Management module - FacebookIntenseye is now SOC 2 Type II compliant! | ... - FacebookIntenseye - Breaking news We are pleased to ... - FacebookIntenseye provides artificial intelligence job safety ... 5 days ago · Intensely /.\\\\aliyah, Paris. 156,656 followers · 6,759 talking about thi",
+    "url": "https://www.facebook.com/IntenselyAaliyah/",
+    "pass": 3
+   },
+   {
+    "quote": "Intenseye - Big news from intenseye! We’re ... - Facebook Apr 17, 2023 · At Intenseye, we’re committed to ethical and transparent AI practices. Join us as we continue to create safer and more secure work environments for everyone, driven by responsible AI practices.",
+    "url": "https://www.facebook.com/intenseye/posts/-big-news-from-intenseye-were-excited-to-introduce-our-latest-innovation-the-3d-/643456481125588/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover Intenseye’s Task Management module - Facebook Apr 13, 2023 · Discover Intenseye’s Task Management module — a powerful tool designed to streamline EHS operations and make compliance easier 🎯 The module includes a...",
+    "url": "https://www.facebook.com/intenseye/videos/explore-intenseyes-complete-ehs-platform/786511482829991/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.intenseye.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intenseye.com/industries/industrial-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intenseye.com/customers/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intenseye.com/partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intenseye.com/solutions/safety",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intenseye.com/solutions/operations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intenseye.com/solutions/quality",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intenseye.com/industries/automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intenseye.com/industries/warehousing-distribution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intenseye.com/industries/food-beverage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intenseye.com/industries/metals-steel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intenseye.com/industries/chemicals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intenseye.com/industries/paper-packaging",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intenseye.com/industries/building-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intenseye.com/industries/air-cargo-logistics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intenseye.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intenseye.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intenseye.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intenseye.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.intenseye.com/assets/logos/Intenseye-logo-primary-dark.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.intenseye.com/assets/nav/ind-manufacturing.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.intenseye.com/assets/industries/industrial-manufacturing/hero-manufacturing.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.intenseye.com/assets/industries/industrial-manufacturing/sif-caught-in.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://t-i-trading.co.jp/intenseye/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.www.ipros.com/t-i-trading/product/detail/2001555590/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://t-i-trading.co.jp/products/products/in/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tmi-st.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://t-i-trading.co.jp/intenseye/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.intenseye.com/auth/sign-in",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/intenseye/case-study/leading-textile-manufacturing-company-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/intenseye/case-study/leading-beverage-manufacturer-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/intenseye",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/intenseye/__y7CaMxz5Et_i8QuII7Ug38CjWCBryoqazVecROMOrJ0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/279476-38",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/intenseye-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/intenseye/status/1658858561575825410",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/intenseye",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/intenseye-aipowered-ehs-platform",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tr.linkedin.com/in/ipek-mazioglu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tr.linkedin.com/in/akcay91",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/intenseye/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/IntenselyAaliyah/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/intenseye/posts/-big-news-from-intenseye-were-excited-to-introduce-our-latest-innovation-the-3d-/643456481125588/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/intenseye/videos/explore-intenseyes-complete-ehs-platform/786511482829991/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sercan-esen",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/intenseye",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Intenseye 日本 導入",
+   "results": [
+    "https://t-i-trading.co.jp/intenseye/",
+    "https://www.intenseye.com/",
+    "https://pr.www.ipros.com/t-i-trading/product/detail/2001555590/",
+    "https://t-i-trading.co.jp/products/products/in/",
+    "https://mifar.net/ja/tools/intenseye",
+    "https://cldnavi.com/blog/ai-ppe-safety-detection-guide-2026/",
+    "https://help.intenseye.com/ja/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intenseye 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.intenseye.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://tmi-st.com/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://www.ipsen.com/japan/会社/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intenseye Japan",
+   "results": [
+    "https://www.intenseye.com/",
+    "https://t-i-trading.co.jp/intenseye/",
+    "https://app.intenseye.com/",
+    "https://www.intenseye.com/software",
+    "https://jp.linkedin.com/company/intenseye",
+    "https://marketplace.microsoft.com/ja-jp/product/saas/wa200007836?tab=overview",
+    "https://help.intenseye.com/ja/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intenseye manufacturing customer case study",
+   "results": [
+    "https://www.intenseye.com/case-studies/a-leading-f-b-manufacturer",
+    "https://www.intenseye.com/customers/case-studies",
+    "https://www.casestudies.com/company/intenseye/case-study/leading-textile-manufacturing-company-customer-case-study",
+    "https://www.casestudies.com/company/intenseye/case-study/leading-beverage-manufacturer-customer-case-study",
+    "https://initiatives.weforum.org/human-machine-collaboration/case-study-details/intenseye-leading-with-trust:-ai-powered-safety-to-power-future-production-floors-and-warehouses/aJYTG0000001EQj4AM",
+    "https://www.featuredcustomers.com/vendor/intenseye/case-studies",
+    "https://www.synthesia.io/case-studies/intenseye"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intenseye white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.seoreseller.com/",
+    "https://www.superantispyware.com/reseller-program",
+    "https://www.ninjaone.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intenseye founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/intenseye",
+    "https://tracxn.com/d/companies/intenseye/__y7CaMxz5Et_i8QuII7Ug38CjWCBryoqazVecROMOrJ0",
+    "https://pitchbook.com/profiles/company/279476-38",
+    "https://prospeo.io/c/intenseye-revenue",
+    "https://www.zoominfo.com/c/intenseye-inc/464687296",
+    "https://startupintros.com/orgs/intenseye",
+    "https://6figr.com/company/intenseye"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Intenseye",
+   "results": [
+    "https://note.com/audiogarden/n/n411198f22f86?hl=en",
+    "https://note.com/jinseiworakuni/n/n44c4294d62ff?hl=en",
+    "https://note.com/kasumi_empower/n/nc4277c14a4df?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hunter_5160/n/neb1bf44afe25",
+    "https://note.com/quruli/n/n35d2b6cdc37a",
+    "https://note.com/fond_clam2634/n/n06d26defb95d"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Intenseye",
+   "results": [
+    "https://about.x.com/en",
+    "https://x.com/",
+    "https://x.com/intenseye/status/1658858561575825410",
+    "https://help.x.com/en",
+    "https://x.com/rapid7/status/1283865251679739906",
+    "https://x.com/i/spaces/1lgkEWjjaKdKLy",
+    "https://help.x.com/en/using-x/create-x-account"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Intenseye",
+   "results": [
+    "https://www.linkedin.com/company/intenseye",
+    "https://www.linkedin.com/products/intenseye-aipowered-ehs-platform",
+    "https://tr.linkedin.com/in/ipek-mazioglu",
+    "https://tr.linkedin.com/in/akcay91",
+    "https://www.linkedin.com/in/sercan-esen",
+    "https://www.linkedin.com/company/intenseye/jobs",
+    "https://www.linkedin.com/in/cillidag"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Intenseye",
+   "results": [
+    "https://www.facebook.com/intenseye/",
+    "https://www.facebook.com/IntenselyAaliyah/",
+    "https://www.facebook.com/intenseye/posts/-big-news-from-intenseye-were-excited-to-introduce-our-latest-innovation-the-3d-/643456481125588/",
+    "https://www.facebook.com/intenseye/videos/explore-intenseyes-complete-ehs-platform/786511482829991/",
+    "https://www.facebook.com/intenseye/videos/intenseye-is-now-soc-2-type-ii-compliant/2186911684828567/",
+    "https://www.facebook.com/intenseye/posts/breaking-news-we-are-pleased-to-welcome-sean-snyder-as-our-head-of-partnerships-/667084672096102/",
+    "https://www.facebook.com/folstudio/videos/intenseye-provides-artificial-intelligence-job-safety-solutions-to-in-total-of-4/795377628507743/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intenseye note 社長",
+   "results": [
+    "https://sercanesen.com/",
+    "https://www.theofficialboard.com/org-chart/intenseye",
+    "https://www.linkedin.com/in/sercan-esen",
+    "https://www.frontlines.io/podcasts/sercan-esen/",
+    "https://rocketreach.co/intenseye-management_b45e7652fc75143d",
+    "https://www.theofficialboard.com/biography/sercan-esen-e5395",
+    "https://www.intenseye.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Intenseye X 投稿",
+   "results": [
+    "https://x.com/intenseye",
+    "https://www.intenseye.com/",
+    "https://www.intenseye.com/resources/faq",
+    "https://app.intenseye.com/",
+    "https://dashboard.intenseye.com/",
+    "https://x.com/WW_JP_Official/status/2118674766986965220",
+    "https://help.intenseye.com/ja/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部29頁・検索12回）"
+ }
+}

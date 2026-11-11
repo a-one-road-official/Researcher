@@ -1,0 +1,1355 @@
+{
+ "name": "Topsort",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜状態なし",
+ "researched_at": "2026-11-11T18:46:06.668354+00:00",
+ "official_url": "https://www.topsort.com/",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "Auctions/month",
+    "value": "100B+ Auctions/month",
+    "url": "https://www.topsort.com/solutions/scale",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$8.4M",
+    "url": "https://getlatka.com/companies/topsort",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Monetization infrastructure built for modern commerce. Topsort connects advertising, discovery and intelligence so you can monetize and improve every customer experience.",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how retailers, marketplaces and brands use Topsort to grow revenue and improve the shopper experience.",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything you need to run a commerce media business, ads, auctions, self-serve and reporting, on one platform.",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turns shopper, product and transaction signals into better discovery, ranking and personalization.",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Combines product, shopper, transaction and campaign signals into one commerce-native view.",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Runs advertising, search, recommendations and in-store experiences.",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Feeds outcomes back in to improve every future decision.",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven across dynamic commerce markets.",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The same infrastructure everywhere. Proof, priorities and support shaped by each regional market.",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Topsort’s global presence",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Delivery and quick-commerce ads",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Latin America runs some of the world's most competitive marketplace and delivery ecosystems. Topsort's deepest regional proof sits here, across multi-country retailers, marketplaces and agency-led demand.",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Weee! is the leading U.S. online grocery retailer for Asian and Hispanic foods, delivering culturally specific fresh produce, pantry staples, and hard-to-find specialty items directly to customers. Founded in 2015, Weee! has rapidly become a go-to for underserved communities seeking authentic ingredients often absent in mainstream stores.",
+    "url": "https://www.topsort.com/casestudy/weee",
+    "pass": 1
+   },
+   {
+    "quote": "Weee! had developed an in-house advertising solution to support their growing marketplace, but as demand increased, they encountered limitations in scalability and self-service capabilities for sellers. They needed an infrastructure that could efficiently handle their expansion, simplify ad management, and provide sellers with transparency and control over their campaigns.",
+    "url": "https://www.topsort.com/casestudy/weee",
+    "pass": 1
+   },
+   {
+    "quote": "Since partnering with Topsort, Weee! seamlessly transitioned to a modern retail media platform in under a month. Sellers benefited from hands-on onboarding, enabling them to adapt quickly and optimize their campaigns with ease. Topsort’s robust A/B testing phase ensured a smooth rollout and maximized performance.",
+    "url": "https://www.topsort.com/casestudy/weee",
+    "pass": 1
+   },
+   {
+    "quote": "Improved shopper engagement drove significant growth.",
+    "url": "https://www.topsort.com/casestudy/weee",
+    "pass": 1
+   },
+   {
+    "quote": "Weee! is poised to continue expanding its retail media strategy with Topsort’s support. Future initiatives include exploring additional ad formats and enhancing data insights to provide sellers with even more actionable analytics.",
+    "url": "https://www.topsort.com/casestudy/weee",
+    "pass": 1
+   },
+   {
+    "quote": "\"Our scalable and customizable retail media platform will provide their sellers with the tools they need to thrive while Weee! continues to focus on community and quality,\"",
+    "url": "https://www.topsort.com/casestudy/weee",
+    "pass": 1
+   },
+   {
+    "quote": "Latin America's Falabella migrated its Fmedia retail media unit to Topsort’s AI-native, auction-based platform, delivering double-digit ROAS/CTR improvements and up to 5x ad revenue over a legacy provider.",
+    "url": "https://www.topsort.com/casestudy/weee",
+    "pass": 1
+   },
+   {
+    "quote": "Marketplaces and retailers need dynamic ranking and pricing systems, not static placements and manual sales.",
+    "url": "https://www.topsort.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our products benefit retailers, marketplaces, brands, advertisers, and consumers alike.",
+    "url": "https://www.topsort.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Careers · We're hiring",
+    "url": "https://www.topsort.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Use AI-powered ranking and auction intelligence to place the right products across search and category experiences while protecting relevance and conversion.",
+    "url": "https://www.topsort.com/solutions/sponsored-listings",
+    "pass": 1
+   },
+   {
+    "quote": "Run flexible auctions with configurable pricing models, bid floors, and intelligent decisioning.",
+    "url": "https://www.topsort.com/solutions/sponsored-listings",
+    "pass": 1
+   },
+   {
+    "quote": "Measure impressions, clicks, conversions, and campaign performance with configurable attribution.",
+    "url": "https://www.topsort.com/solutions/sponsored-listings",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the auctions, outcomes, and integrations behind marketplace advertising.",
+    "url": "https://www.topsort.com/solutions/sponsored-listings",
+    "pass": 1
+   },
+   {
+    "quote": "A practical introduction to generalized second-price auctions.",
+    "url": "https://www.topsort.com/solutions/sponsored-listings",
+    "pass": 1
+   },
+   {
+    "quote": "Offsite Advertising — Demand Orchestration | Topsort",
+    "url": "https://www.topsort.com/solutions/offsite-ads",
+    "pass": 1
+   },
+   {
+    "quote": "Extend your advertiser demand across search, social, video, AI and programmatic channels, all through the same commerce media infrastructure.",
+    "url": "https://www.topsort.com/solutions/offsite-ads",
+    "pass": 1
+   },
+   {
+    "quote": "Advertisers can create and manage campaigns through the self-service console, while Topsort automates vendor onboarding, billing, and creative restrictions.",
+    "url": "https://www.topsort.com/solutions/offsite-ads",
+    "pass": 1
+   },
+   {
+    "quote": "Commerce-native product ads",
+    "url": "https://www.topsort.com/solutions/offsite-ads",
+    "pass": 1
+   },
+   {
+    "quote": "Creatives are generated automatically from the retailer catalog and link straight to product pages, no manual creative production required.",
+    "url": "https://www.topsort.com/solutions/offsite-ads",
+    "pass": 1
+   },
+   {
+    "quote": "Activate Google Shopping, Meta, TikTok, Pinterest and programmatic networks from one place, with budgets and pacing controlled centrally.",
+    "url": "https://www.topsort.com/solutions/offsite-ads",
+    "pass": 1
+   },
+   {
+    "quote": "Acquire new shoppers, retarget product viewers and drive incremental traffic that routes back to your own commerce surfaces.",
+    "url": "https://www.topsort.com/solutions/offsite-ads",
+    "pass": 1
+   },
+   {
+    "quote": "Impressions, clicks, SKU-level sales, new-to-brand customers and total basket impact reported in one view.",
+    "url": "https://www.topsort.com/solutions/offsite-ads",
+    "pass": 1
+   },
+   {
+    "quote": "Expand product discovery",
+    "url": "https://www.topsort.com/solutions/offsite-ads",
+    "pass": 1
+   },
+   {
+    "quote": "Bring relevant products and categories into new discovery experiences with catalog-driven advertising.",
+    "url": "https://www.topsort.com/solutions/offsite-ads",
+    "pass": 1
+   },
+   {
+    "quote": "Use real-time auction intelligence to decide which ads appear across entrances, aisles, endcaps, and checkout surfaces.",
+    "url": "https://www.topsort.com/solutions/in-store",
+    "pass": 1
+   },
+   {
+    "quote": "Turn physical exposure into measurable signals with impression measurement, shopper engagement, and audience insights.",
+    "url": "https://www.topsort.com/solutions/in-store",
+    "pass": 1
+   },
+   {
+    "quote": "Bring relevant brand and product experiences to entrances and high-traffic areas with intelligent screen decisioning.",
+    "url": "https://www.topsort.com/solutions/in-store",
+    "pass": 1
+   },
+   {
+    "quote": "Surface relevant products and seasonal campaigns across aisle and endcap experiences.",
+    "url": "https://www.topsort.com/solutions/in-store",
+    "pass": 1
+   },
+   {
+    "quote": "Start a new commerce media business with production-ready infrastructure.",
+    "url": "https://www.topsort.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Improve yield, ROAS, pacing and relevance.",
+    "url": "https://www.topsort.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Monetize search, browse, product and discovery experiences directly inside your platform.",
+    "url": "https://www.topsort.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Create advertising experiences that feel native to commerce and measurable from impression to purchase.",
+    "url": "https://www.topsort.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Promote products directly within search, browse and recommendation experiences.",
+    "url": "https://www.topsort.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Give brands premium visibility across high-intent commerce surfaces.",
+    "url": "https://www.topsort.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Turn premium commerce inventory into measurable brand advertising.",
+    "url": "https://www.topsort.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Bring video storytelling into commerce experiences.",
+    "url": "https://www.topsort.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Give sellers premium visibility across listings and search.",
+    "url": "https://www.topsort.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Ads that behave like good merchandising.",
+    "url": "https://www.topsort.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Impression to purchase attribution.",
+    "url": "https://www.topsort.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Creative assets and approvals",
+    "url": "https://www.topsort.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Launch your commerce media business with production-ready infrastructure: auctions, APIs, advertiser tools and measurement, ready from day one.",
+    "url": "https://www.topsort.com/solutions/launch",
+    "pass": 1
+   },
+   {
+    "quote": "Production-grade auction engine with configurable bidding models (CPC, CPM, CPA) out of the box.",
+    "url": "https://www.topsort.com/solutions/launch",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time reporting on impressions, clicks, conversions, and revenue with exportable dashboards.",
+    "url": "https://www.topsort.com/solutions/launch",
+    "pass": 1
+   },
+   {
+    "quote": "Serve ads across search, browse, product detail, and category pages from a single integration.",
+    "url": "https://www.topsort.com/solutions/launch",
+    "pass": 1
+   },
+   {
+    "quote": "Add a high-margin advertising revenue stream alongside existing commission and subscription models.",
+    "url": "https://www.topsort.com/solutions/launch",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic floor pricing and bid optimization that maximizes revenue as your inventory grows.",
+    "url": "https://www.topsort.com/solutions/scale",
+    "pass": 1
+   },
+   {
+    "quote": "Handle Black Friday, Prime Day, and flash sale traffic without degraded ad performance.",
+    "url": "https://www.topsort.com/solutions/scale",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Concentrated retail markets with established grocery and marketplace operators. Measurement and supplier relationships drive retail media adoption here.",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fast-growing digital commerce and bilingual storefronts. Marketplace operators here are building retail media into a core revenue line.",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading brands and built by talent from top companies and universities",
+    "url": "https://www.topsort.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Marketplace case study",
+    "url": "https://www.topsort.com/solutions/sponsored-listings",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering Auction Infrastructure for One-of-a-Kind Marketplaces: A 1stDibs Case Study",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Cencosud Retail Media Case Study | 5× Vendor Growth | Topsort",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Cencosud Retail Media Case Study: 5× Active Vendor Growth with Topsort",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Poshmark Advertising Case Study: 43% Seller Sales Lift | Topsort",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Why Do Marketplace Operators Need to Think Like Ad-Tech Engineers?",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Why have retail media operations become so technical? Learn how fragmented tools shift complexity to operators and what better infrastructure should do.",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Best Retail Media Platforms for Commerce Operators: What to Compare Before You Choose",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Sodimac Homecenter achieves 6.4× ROAS with Topsort | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/topsort/case-study/how-the-home-goods-retailer-sodimac-scaled-from-fixed-prices-to-auction-first-with-topsort",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Sodimac Homecenter achieves 6.4× ROAS with Topsort",
+    "url": "https://www.casestudies.com/company/topsort/case-study/how-the-home-goods-retailer-sodimac-scaled-from-fixed-prices-to-auction-first-with-topsort",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/topsort/case-study/how-the-home-goods-retailer-sodimac-scaled-from-fixed-prices-to-auction-first-with-topsort",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/topsort/case-study/how-the-home-goods-retailer-sodimac-scaled-from-fixed-prices-to-auction-first-with-topsort",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/topsort/case-studies",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Launch a retail media network, connect brands and agencies, automate operations and power discovery, all on one commerce platform.",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For brands and agencies:",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One free workspace where brands and agencies manage campaigns across every network they work with.",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a retail media network, connect brands and agencies, automate operations and power discovery, all on one commerce platform.",
+    "url": "https://www.topsort.com/casestudy/weee",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a retail media network, connect brands and agencies, automate operations and power discovery, all on one commerce platform.",
+    "url": "https://www.topsort.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a retail media network, connect brands and agencies, automate operations and power discovery, all on one commerce platform.",
+    "url": "https://www.topsort.com/solutions/sponsored-listings",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a retail media network, connect brands and agencies, automate operations and power discovery, all on one commerce platform.",
+    "url": "https://www.topsort.com/solutions/offsite-ads",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a retail media network, connect brands and agencies, automate operations and power discovery, all on one commerce platform.",
+    "url": "https://www.topsort.com/solutions/in-store",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a retail media network, connect brands and agencies, automate operations and power discovery, all on one commerce platform.",
+    "url": "https://www.topsort.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a retail media network, connect brands and agencies, automate operations and power discovery, all on one commerce platform.",
+    "url": "https://www.topsort.com/solutions/launch",
+    "pass": 1
+   },
+   {
+    "quote": "White-label self-serve dashboard for advertisers to create campaigns, set budgets, and track performance.",
+    "url": "https://www.topsort.com/solutions/launch",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a retail media network, connect brands and agencies, automate operations and power discovery, all on one commerce platform.",
+    "url": "https://www.topsort.com/solutions/scale",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a retail media network, connect brands and agencies, automate operations and power discovery, all on one commerce platform.",
+    "url": "https://www.topsort.com/solutions/optimize",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a retail media network, connect brands and agencies, automate operations and power discovery, all on one commerce platform.",
+    "url": "https://www.topsort.com/solutions/expand",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a retail media network, connect brands and agencies, automate operations and power discovery, all on one commerce platform.",
+    "url": "https://www.topsort.com/solutions/sponsored-brands",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a retail media network, connect brands and agencies, automate operations and power discovery, all on one commerce platform.",
+    "url": "https://www.topsort.com/solutions/display-banner",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a retail media network, connect brands and agencies, automate operations and power discovery, all on one commerce platform.",
+    "url": "https://www.topsort.com/solutions/native-placements",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a retail media network, connect brands and agencies, automate operations and power discovery, all on one commerce platform.",
+    "url": "https://www.topsort.com/solutions/video-ads",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a retail media network, connect brands and agencies, automate operations and power discovery, all on one commerce platform.",
+    "url": "https://www.topsort.com/solutions/marketplaces",
+    "pass": 1
+   },
+   {
+    "quote": "Launch a retail media network, connect brands and agencies, automate operations and power discovery, all on one commerce platform.",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Own the relationship with your sellers by whitelabelling Topsort’s vendor dashboards",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "See how retailers, marketplaces and brands use Topsort to grow revenue and improve the shopper experience.",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fast-growing digital commerce and bilingual storefronts. Marketplace operators here are building retail media into a core revenue line.",
+    "url": "https://www.topsort.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Latin America's Falabella migrated its Fmedia retail media unit to Topsort’s AI-native, auction-based platform, delivering double-digit ROAS/CTR improvements and up to 5x ad revenue over a legacy provider.",
+    "url": "https://www.topsort.com/casestudy/weee",
+    "pass": 1
+   },
+   {
+    "quote": "120+ employees across 4 continents.",
+    "url": "https://www.topsort.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Move one placement, validate revenue, then move the next.",
+    "url": "https://www.topsort.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time reporting on impressions, clicks, conversions, and revenue with exportable dashboards.",
+    "url": "https://www.topsort.com/solutions/launch",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Diversification",
+    "url": "https://www.topsort.com/solutions/launch",
+    "pass": 1
+   },
+   {
+    "quote": "Add a high-margin advertising revenue stream alongside existing commission and subscription models.",
+    "url": "https://www.topsort.com/solutions/launch",
+    "pass": 1
+   },
+   {
+    "quote": "Go from zero to a revenue-generating commerce media business in under 30 days.",
+    "url": "https://www.topsort.com/solutions/launch",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic floor pricing and bid optimization that maximizes revenue as your inventory grows.",
+    "url": "https://www.topsort.com/solutions/scale",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize your commerce media revenue.",
+    "url": "https://www.topsort.com/solutions/optimize",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered optimization that grows revenue while keeping every commerce experience relevant.",
+    "url": "https://www.topsort.com/solutions/optimize",
+    "pass": 1
+   },
+   {
+    "quote": "Understand revenue, demand, fill rate, and performance with real-time marketplace intelligence.",
+    "url": "https://www.topsort.com/solutions/marketplaces",
+    "pass": 1
+   },
+   {
+    "quote": "Turn supplier demand and buyer intent into relevant advertising and new marketplace revenue.",
+    "url": "https://www.topsort.com/solutions/marketplaces",
+    "pass": 1
+   },
+   {
+    "quote": "ElGrocer Scales Ad Revenue 3x with Topsort",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Total attributed revenue",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "La Rebaja Pharmacy Rockets Ad Revenue 137%",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue over forecast",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Atida Pharmacy Surpasses $2M Ad Revenue with Auctions",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Falabella’s A/B Test: Topsort Delivers 5× Ad Revenue",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Marketplace Monetization: How to Turn Marketplace Traffic Into Ad Revenue",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Retail media is fragmenting, but the tide is turning. Learn why open ecosystems, not closed systems, are the key to unlocking true revenue growth and market competition.",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Retail media has outgrown its first stack. Learn why retailers are abandoning legacy ad servers and migrating to commerce-native infrastructure to handle scale, complexity, and growing revenue pressure.",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing In-Store Ads: Scale Digital Screen Revenue Through Self-Service",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Static price floors fail when markets shift. Learn why dynamic floor pricing is essential for retail media revenue in volatile conditions.",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Topsort integrates with Google Ad Manager to unlock programmatic demand, helping retailers fill more ad inventory and grow revenue.",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Topsort's Demand Mediation fills unsold ad slots by routing inventory to secondary demand sources, maximizing revenue per impression.",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Silicon Valley AI innovator in retail media makes first acquisition and appoints UK Lead",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how to correct common errors in an ad server platform to enhance ad performance and increase revenue with Topsort's expert insights.",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Topsort Integrates Google Ad Manager to Maximize Retail Media Revenue from Every Impression",
+    "url": "https://www.topsort.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Atida achieves $2.6M in ad revenue with Topsort",
+    "url": "https://www.casestudies.com/company/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "ElGrocer achieves 3x ad revenue growth with Topsort",
+    "url": "https://www.casestudies.com/company/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "Topsort generated 5x Ad Revenue than Legacy Provider in Falabella's A/B Testing",
+    "url": "https://www.casestudies.com/company/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "La Rebaja achieves 137% ad revenue growth with Topsort",
+    "url": "https://www.casestudies.com/company/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "Wolf & Badger boosts independent brand revenue with Topsort retail media",
+    "url": "https://www.casestudies.com/company/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "Bidnamic combines advanced machine learning with human expertise to drive revenue and profits from Google Shopping adverts. They work with ecommerce companies to maximise the potential of every product, whether …",
+    "url": "https://www.featuredcustomers.com/vendor/topsort/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/topsort/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Topsort Revenue 2024: $6M Est., $8.4M Raised",
+    "url": "https://getlatka.com/companies/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "Topsort has not published its revenue. GetLatka estimates it at about $6M a year (October 2024).",
+    "url": "https://getlatka.com/companies/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "Topsort CEO, founders & employees",
+    "url": "https://getlatka.com/companies/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "Regina Ye founded Topsort in 2021 and runs it as CEO. Topsort had 83 employees (December 2024, LinkedIn), up from 45 a year earlier.",
+    "url": "https://getlatka.com/companies/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "What is Topsort's revenue?",
+    "url": "https://getlatka.com/companies/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Topsort's revenue at about",
+    "url": "https://getlatka.com/companies/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Topsort have?",
+    "url": "https://getlatka.com/companies/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/topsort",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Deploy native placements across web, mobile app, and email with consistent experiences.",
+    "url": "https://www.topsort.com/solutions/native-placements",
+    "pass": 1
+   },
+   {
+    "quote": "Native product placements within transactional emails and push notification content.",
+    "url": "https://www.topsort.com/solutions/native-placements",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/topsort/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/topsort/case-studies",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Topsort | Commerce AI for Retail Media Networks — Topsort is Commerce AI for retailers and marketplaces: grow your retail media network with sponsored listings, sub-5ms auctions, offsite and in-store ads.",
+    "url": "https://www.topsort.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Topsortが「Sponsored Prompts」を発表 ── エージェンティック時代の... — Apr 23, 2026 · Topsortがチャットボットの会話を広告在庫に変える「Sponsored Prompts」を発表。 検索依存型のリテールメディアがAIエージェント時代にどう再構築されるかを解説します。",
+    "url": "https://stellagent.ai/ja/insights/topsort-sponsored-prompts-agentic-retail-media",
+    "pass": 3
+   },
+   {
+    "quote": "Topsort Launches Tomi to Automate Retail Media Campaign ... — The launch reinforces Topsort's mission to build AI-native retail media infrastructure that helps enterprise marketplaces scale advertising programs without the complexity of legacy ad tech.",
+    "url": "https://www.topsort.com/newsroom/topsort-launches-tomi-to-automate-retail-media-campaign-operations",
+    "pass": 3
+   },
+   {
+    "quote": "Topsort 的孤島之戰：一場關於電商AI統一層的終極測試 – Stories Shap... — Topsort的切入點很清楚。 他們從拍賣與排序開始，這裡是最容易量化、最容易驗證的場景。 現在，他們要把同一套決策能力延伸到搜尋、推薦、預測和優化。 目標是把分散的孤島縫合成一個統一層。 官方說法很漂亮。 商業現實更值得拆解。",
+    "url": "https://asiastoryline.com/business/topsort-的孤島之戰：一場關於電商ai統一層的終極測試/",
+    "pass": 3
+   },
+   {
+    "quote": "Topsort Company Page — Developers Everything your engineering team needs to build with Topsort: API references, SDKs, integration guides and live platform status.",
+    "url": "https://www.topsort.com/newsroom/topsort-company-page",
+    "pass": 3
+   },
+   {
+    "quote": "Topsort Accounts — Where are you signing in. One Topsort account works across every product. Pick where you want to go and we'll take you there after sign-in.",
+    "url": "https://accounts.topsort.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Topsort Agricultural Equipment Supplied In In Japan — The TOPSORT Grain Color Sorter is equipped with the latest optical sorting technology, using advanced CCD cameras and intelligent capture software to facilitate high-precision sorting of grains such as wheat, corn, quinoas, and more.",
+    "url": "https://www.agriculture-xprt.com/products/available-in-japan/brand-topsort",
+    "pass": 3
+   },
+   {
+    "quote": "Topsort B2B Case Studies & Customer Successes — See how Topsort solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Sodimac Homecenter achieves 6.4× ROAS with Topsort — The program delivered 6.4× ROAS, 95M sponsored product impressions, 33% year-over-year ad spend growth, and over 1,500 auction-based campaigns, helping sellers achieve stronger performance and higher transparency. View this case study…",
+    "url": "https://www.casestudies.com/company/topsort/case-study/how-the-home-goods-retailer-sodimac-scaled-from-fixed-prices-to-auction-first-with-topsort",
+    "pass": 3
+   },
+   {
+    "quote": "7 Topsort Case Studies, Success Stories, & Customer Stories ... — Discover how other companies use Topsort, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/topsort/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Sodimac, the Home Goods Giant, Sees 6.4× ROAS - topsort.com — Topsort’s AI-first Retail Media infrastructure enabled Sodimac to build their own Sponsored Products Network, migrating from a fix-priced to an auction-based advertising model, with real-time dashboards and self-service features for their advertisers.",
+    "url": "https://www.topsort.com/casestudy/sodimac1",
+    "pass": 3
+   },
+   {
+    "quote": "Topsort – Industry Ranking & Company Valuation – 2026 — Topsort Revenue & Valuation An estimated $17.9M in revenue is attributed to Topsort each year. Topsort anticipates $167.5K in revenue per employee. The total funding raised by Topsort is $43M. Topsort is currently valued at $150M according to available data.",
+    "url": "https://compworth.com/company/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "Topsort Revenue 2024: $6M Est., $8.4M Raised - getlatka.com — Dec 23, 2024 · Topsort 2024 estimated revenue: $6M (up from $3.9M in 2023). Total funding: $8.4M across 1 round. 83 employees. Founded 2021. Updated Dec 23, 2024.",
+    "url": "https://getlatka.com/companies/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "Topsort - 2026 Company Profile, Team, Funding & Competitors ...Topsort - 2026 Company Profile, Funding & Investors | The ...Topsort: Employees, Headcount Growth, Org Chart, Layoffs ...TOPsport Revenue, Funding & Valuation - prospeo.ioTopsort: Funding, Team & Investors | Startup Intros — Mar 20, 2026 · Topsort is a series A company based in Cambridge (United States), founded in 2021 by Regina Ye, M",
+    "url": "https://tracxn.com/d/companies/topsort/__AHuVUqv6DVRlPp6VyjkIxdPVtyTbAgfVnT8tcWUXW3U",
+    "pass": 3
+   },
+   {
+    "quote": "Topsort - 2026 Company Profile, Funding & Investors | The ... — Oct 17, 2026 · Topsort is a Retail company based in Cambridge (United States) founded in 2021 by Francisco Larraín, Michael Ostrovsky, and Regina Ye. Ad campaign management solutions for retail industry are provided. It operates in the Retail, Technology, and Media & Entertainment sectors.",
+    "url": "https://www.thecompanycheck.com/company/b/topsort/o7qznrcf41c5j327t",
+    "pass": 3
+   },
+   {
+    "quote": "Topsort: Employees, Headcount Growth, Org Chart, Layoffs ... — Topsort is a retail media infrastructure company founded in 2021 and based in Menlo Park, California, with additional offices in Boston, São Paulo, and Santiago. The company focuses on making auction-based advertising and AI-driven monetization tools accessible to e-commerce businesses worldwide.",
+    "url": "https://6figr.com/company/topsort",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Topsort, Dónde, Creatively, Barnfox, CoFi — 2022年3月14日 Mar 14, 2022 · Topsortを使うと、例えばAirbnbに数日以内でホスト向けの有料検索の実装が可能です。 素晴らしい！ Dónde HP のスクリーンショット EVA Growth Index EVA プロダクト 雇用主が従業員に旅行を福利厚生として提供できるようにする福利厚生プラットフォーム リード投資 ...",
+    "url": "https://note.com/headline_asia/n/nb8367acfd170",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "topsort (@topsort) / Posts / X Sep 27, 2008 · topsort (@topsort) - Posts - | X (formerly Twitter) topsort topsort Joined: Sep 27, 2008 1Posts 1Following 4Followers",
+    "url": "https://x.com/topsort",
+    "pass": 3
+   },
+   {
+    "quote": "Topsort Bella (@Topsortbella) / Posts / X May 12, 2023 · Topsort Bella (@Topsortbella) - Posts - I'm a sales manger of color sorter machine for Anhui Topsort Technology CO.,LTD | X (formerly Twitter)",
+    "url": "https://x.com/Topsortbella",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Topsort - LinkedIn Founded in 2021, Topsort powers leading commerce businesses across more than 40 countries.",
+    "url": "https://www.linkedin.com/company/topsort/",
+    "pass": 3
+   },
+   {
+    "quote": "Topsort - LinkedIn About Topsort is all you need to build, scale, and optimize an ad business that is privacy-respecting, intelligent, and expedites your marketplace flywheel.",
+    "url": "https://www.linkedin.com/products/topsort/",
+    "pass": 3
+   },
+   {
+    "quote": "Topsort | LinkedIn Powered by proprietary AI and commerce intelligence, we make the capabilities of the world’s largest technology platforms accessible through products that are simple, transparent, and built to...",
+    "url": "https://br.linkedin.com/company/topsort/",
+    "pass": 3
+   },
+   {
+    "quote": "Regina Ye - Co-Founder and CEO at Topsort | LinkedInFrancisco Larrain - Topsort | LinkedInTOPsport - LinkedInTopSport - LinkedIn Co-Founder and CEO at Topsort · · Experience: Topsort · Education: Mount Holyoke College · Location: Cambridge · 500+ connections on LinkedIn. Aug 1, 2005 · About Topsort is a rapidly growing, well-funded start-up that provides auction-based… TOPsport | 747 followers on ",
+    "url": "https://www.linkedin.com/in/reginazye",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.topsort.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topsort.com/casestudy/weee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topsort.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topsort.com/solutions/sponsored-listings",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topsort.com/solutions/offsite-ads",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topsort.com/solutions/in-store",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topsort.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topsort.com/solutions/launch",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topsort.com/solutions/scale",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topsort.com/solutions/optimize",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topsort.com/solutions/expand",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topsort.com/solutions/sponsored-brands",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topsort.com/solutions/display-banner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topsort.com/solutions/native-placements",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topsort.com/solutions/video-ads",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topsort.com/solutions/marketplaces",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.topsort.com/resources",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6480e9e0e831edad18801fb3/69efe9fbf331fe8176c1fc1a_thumbnail%20Partnership%20Heb%2027%20Apr%2026.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6480e9e0e831edad18801fb3/69e761810c4d60b779251734_thumbnail%20Partnership%20Placements%20-%207%20Apr%2026.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://topsort-nav-palette.lovable.app/__l5e/assets-v1/1961062e-995e-4433-8341-431a15744946/customer-logos.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://topsort-nav-palette.lovable.app/__l5e/assets-v1/1961062e-995e-4433-8341-431a15744946/customer-logos.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://stellagent.ai/ja/insights/topsort-sponsored-prompts-agentic-retail-media",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiastoryline.com/business/topsort-%E7%9A%84%E5%AD%A4%E5%B3%B6%E4%B9%8B%E6%88%B0%EF%BC%9A%E4%B8%80%E5%A0%B4%E9%97%9C%E6%96%BC%E9%9B%BB%E5%95%86ai%E7%B5%B1%E4%B8%80%E5%B1%A4%E7%9A%84%E7%B5%82%E6%A5%B5%E6%B8%AC%E8%A9%A6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gaishikei.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://accounts.topsort.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agriculture-xprt.com/products/available-in-japan/brand-topsort",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/topsort",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/topsort/case-study/how-the-home-goods-retailer-sodimac-scaled-from-fixed-prices-to-auction-first-with-topsort",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/topsort/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/topsort",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/topsort",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/topsort/__AHuVUqv6DVRlPp6VyjkIxdPVtyTbAgfVnT8tcWUXW3U",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/topsort/o7qznrcf41c5j327t",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/headline_asia/n/nb8367acfd170",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/topsort",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Topsortbella",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/topsort/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/topsort/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/company/topsort/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/reginazye",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/topsort",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Topsortbella",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Topsort 日本 導入",
+   "results": [
+    "https://www.topsort.com/",
+    "https://stellagent.ai/ja/insights/topsort-sponsored-prompts-agentic-retail-media",
+    "https://www.topsort.com/newsroom/topsort-launches-tomi-to-automate-retail-media-campaign-operations",
+    "https://asiastoryline.com/business/topsort-的孤島之戰：一場關於電商ai統一層的終極測試/",
+    "https://sustainablejapan.jp/2026/10/09/jpx-topix-reform/131249",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026",
+    "https://www.bloomberg.com/jp/news/articles/2026-10-29/TNLCMET96OSW00"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topsort 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.topsort.com/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.gaishikei.net/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "https://www.tosho.cc/en/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topsort Japan",
+   "results": [
+    "https://www.topsort.com/",
+    "https://www.topsort.com/newsroom/topsort-company-page",
+    "https://accounts.topsort.com/",
+    "https://www.agriculture-xprt.com/products/available-in-japan/brand-topsort",
+    "https://toprankglobal.jp/",
+    "https://docs.topsort.com/en/overview",
+    "https://www.linkedin.com/company/topsort/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topsort manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/topsort",
+    "https://www.topsort.com/",
+    "https://www.casestudies.com/company/topsort/case-study/how-the-home-goods-retailer-sodimac-scaled-from-fixed-prices-to-auction-first-with-topsort",
+    "https://www.featuredcustomers.com/vendor/topsort/case-studies",
+    "https://www.topsort.com/casestudy/sodimac1",
+    "https://techcrunch.com/2022/03/10/topsort-an-auction-based-advertising-startup-now-valued-at-110m-after-seed-round/",
+    "https://www.featuredcustomers.com/vendor/topsort"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topsort white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.nextiva.com/company/partners"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topsort founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/topsort",
+    "https://getlatka.com/companies/topsort",
+    "https://tracxn.com/d/companies/topsort/__AHuVUqv6DVRlPp6VyjkIxdPVtyTbAgfVnT8tcWUXW3U",
+    "https://www.thecompanycheck.com/company/b/topsort/o7qznrcf41c5j327t",
+    "https://6figr.com/company/topsort",
+    "https://prospeo.io/c/topsport-revenue",
+    "https://startupintros.com/orgs/topsort"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Topsort",
+   "results": [
+    "https://note.com/headline_asia/n/nb8367acfd170",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/lithe_allium4803",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/horikawa55/n/nf1e8fe7af6be",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Topsort",
+   "results": [
+    "https://x.com/topsort",
+    "https://x.com/Topsortbella",
+    "https://x.com/TopsportCMMNTY",
+    "https://x.com/",
+    "https://x.com/TopsportNoord",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/dhtopsport"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Topsort",
+   "results": [
+    "https://www.linkedin.com/company/topsort/",
+    "https://www.linkedin.com/products/topsort/",
+    "https://br.linkedin.com/company/topsort/",
+    "https://www.linkedin.com/in/reginazye",
+    "https://www.linkedin.com/in/franciscolarrain",
+    "https://www.linkedin.com/company/top-sport",
+    "https://www.linkedin.com/company/topsport-com-au"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Topsort",
+   "results": [
+    "https://www.facebook.com/Topsportkayaking/",
+    "https://www.facebook.com/TopSport.com.au/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://business.facebook.com/groups/1378000578911058/",
+    "https://www.facebook.com/topsportusa/",
+    "https://www.facebook.com/topsportsuriname/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Topsort note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Topsort X 投稿",
+   "results": [
+    "https://x.com/topsort",
+    "https://x.com/Topsortbella",
+    "https://www.topsort.com/",
+    "https://www.instagram.com/topsortofficial/",
+    "https://help.x.com/ja/using-x/top-search-results-faqs",
+    "https://jp.xhamster.com/search/japanese+個人+投稿",
+    "https://help.x.com/ja/using-x/mentions-and-replies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部27頁・検索12回）"
+ }
+}

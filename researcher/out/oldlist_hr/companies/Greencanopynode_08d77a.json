@@ -1,0 +1,933 @@
+{
+ "name": "Greencanopynode",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T19:08:10.237196+00:00",
+ "official_url": "https://www.greencanopynode.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "8. Equity Crowdfunding",
+    "value": "22-Feb-2023    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   },
+   {
+    "label": "Portland Seed Fund",
+    "value": "Venture Capital Minority",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Comprehensive Construction Plan",
+    "url": "https://www.greencanopynode.com/",
+    "pass": 1
+   },
+   {
+    "quote": "on your stick-framed multi-unit project or you'd like to take advantage of our prefabricated",
+    "url": "https://www.greencanopynode.com/",
+    "pass": 1
+   },
+   {
+    "quote": "your real estate project",
+    "url": "https://www.greencanopynode.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Green Canopy NODE’s Buildings Kits for multi-unit homes and apartments provide greater cost control, quality, and speed.",
+    "url": "https://www.greencanopynode.com/",
+    "pass": 1
+   },
+   {
+    "quote": "including prefabrication, installation, and logistics. Components were manufactured off-site and the two-story + rooftop deck home",
+    "url": "https://www.greencanopynode.com/",
+    "pass": 1
+   },
+   {
+    "quote": "managed by Green Canopy NODE bringing impact investment to deep green residential real estate projects.",
+    "url": "https://www.greencanopynode.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Construction Plan",
+    "url": "https://www.greencanopynode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the Job Board",
+    "url": "https://www.greencanopynode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Together we're building the future of housing. We're a team deeply committed to innovation, collaboration and you! We take pride in ensuring our Green Canopy NODE team members not only feel valued, but live into their potential.",
+    "url": "https://www.greencanopynode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Professional development",
+    "url": "https://www.greencanopynode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Working with a DEIB consultant to rethink our recruiting and hiring practices, policy documents, and internal/external content",
+    "url": "https://www.greencanopynode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A company-wide unconscious bias training workshop",
+    "url": "https://www.greencanopynode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Incorporating our DEIB learnings into all new projects, working groups, content creation, policy documents, and processes",
+    "url": "https://www.greencanopynode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Ongoing discussions, committees, and trainings",
+    "url": "https://www.greencanopynode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Associate Project Manager",
+    "url": "https://www.greencanopynode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“The R&D team is a group of creative people from a variety of different industries. We're problem solvers and makers at heart, committed to asking the right questions so we can get to the best solutions.”",
+    "url": "https://www.greencanopynode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Design Project Manager",
+    "url": "https://www.greencanopynode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“Green Canopy NODE encourages us to continually improve upon ourselves – and the company stands in support of you.”",
+    "url": "https://www.greencanopynode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "If you are passionate about making a positive impact, determined and proactive in the way you approach work, and love to be part of a fast-paced, mission-driven team… get in touch.",
+    "url": "https://www.greencanopynode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Construction Plan",
+    "url": "https://www.greencanopynode.com/mission-values",
+    "pass": 1
+   },
+   {
+    "quote": "Homes are the nexus of our lives. They provide for our most basic needs of shelter, safety, and security. They are also a place where one can develop a sense of love, belonging, acceptance with friends and family, and even be a space to achieve one’s highest potential in life.",
+    "url": "https://www.greencanopynode.com/mission-values",
+    "pass": 1
+   },
+   {
+    "quote": "Homes also sit at the nexus of some of our greatest societal challenges - climate, affordability, and sprawl.",
+    "url": "https://www.greencanopynode.com/mission-values",
+    "pass": 1
+   },
+   {
+    "quote": "participates in a process annually",
+    "url": "https://www.greencanopynode.com/mission-values",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Construction Plan",
+    "url": "https://www.greencanopynode.com/development-services",
+    "pass": 1
+   },
+   {
+    "quote": "Developing real estate projects on time and budget requires a trusted partner. Design and construction cycles are complex, involving multiple contractors, supply chain shortages, and regulatory uncertainty. As a result, capital-intensive investments are often at-risk from a lack of transparency and control.",
+    "url": "https://www.greencanopynode.com/development-services",
+    "pass": 1
+   },
+   {
+    "quote": "Taking projects from vision to reality doesn’t have to be so challenging.",
+    "url": "https://www.greencanopynode.com/development-services",
+    "pass": 1
+   },
+   {
+    "quote": "Wide-ranging expertise in residential infill projects to efficiently evaluate project feasibility.",
+    "url": "https://www.greencanopynode.com/development-services",
+    "pass": 1
+   },
+   {
+    "quote": "Close collaboration between Builders and Architects leads to better design decisions.",
+    "url": "https://www.greencanopynode.com/development-services",
+    "pass": 1
+   },
+   {
+    "quote": "Fully integrated services for streamlined project completion.",
+    "url": "https://www.greencanopynode.com/development-services",
+    "pass": 1
+   },
+   {
+    "quote": "empower our clients to navigate the complex construction cycle and uncertain regulatory environment while promoting cost control, accurate planning, and a data-informed process.",
+    "url": "https://www.greencanopynode.com/development-services",
+    "pass": 1
+   },
+   {
+    "quote": "range from site development and feasibility to procurement and general contracting management. This broad scope of work enables real-time feedback loops, learning, and adapting for a streamlined project completion.",
+    "url": "https://www.greencanopynode.com/development-services",
+    "pass": 1
+   },
+   {
+    "quote": "By solving the inefficiencies of a segmented delivery, projects run more smoothly. The outcome? Higher returns for our stakeholders, from investors to clients.",
+    "url": "https://www.greencanopynode.com/development-services",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering 250+ homes to market comes with the knowledge that every project is unique. Our",
+    "url": "https://www.greencanopynode.com/development-services",
+    "pass": 1
+   },
+   {
+    "quote": "allow us to adapt to clients’ needs and work with them at any stage of the development process, meeting financial, social, and environmental goals.",
+    "url": "https://www.greencanopynode.com/development-services",
+    "pass": 1
+   },
+   {
+    "quote": "We don’t just develop projects together; we build lasting and positive legacies.",
+    "url": "https://www.greencanopynode.com/development-services",
+    "pass": 1
+   },
+   {
+    "quote": "Green Canopy NODE Capital provides strategic financial consulting to help our clients maximize the power of their capital and control risks.",
+    "url": "https://www.greencanopynode.com/development-services",
+    "pass": 1
+   },
+   {
+    "quote": "promote transparency throughout the project cycle, flagging potential hurdles and addressing them as they arise. As a result, enhancing investment outcomes and safeguarding that impact investors earn profits.",
+    "url": "https://www.greencanopynode.com/development-services",
+    "pass": 1
+   },
+   {
+    "quote": "The construction industry is stagnant. To combat this, we are pursuing tech innovation to revolutionize construction, prioritizing sustainability, and efficiency.",
+    "url": "https://www.greencanopynode.com/development-services",
+    "pass": 1
+   },
+   {
+    "quote": "brings together – design, build, modular construction, project management, finance and sustainable values –",
+    "url": "https://www.greencanopynode.com/development-services",
+    "pass": 1
+   },
+   {
+    "quote": "Development Services Project Showcase",
+    "url": "https://www.greencanopynode.com/development-services",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Construction Plan",
+    "url": "https://www.greencanopynode.com/team-board",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Construction Plan",
+    "url": "https://www.greencanopynode.com/blog/2021/2/3/green-canopy-grow-community-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "- Green Canopy and the Grow Community have announced their partnership to build the third and final phase of the Bainbridge Island development project.",
+    "url": "https://www.greencanopynode.com/blog/2021/2/3/green-canopy-grow-community-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Phase 3 of the Grow Community will bookend the project, with a focus on townhomes that reflect the rest of Grow’s intentional sustainable, healthy, and community-based lifestyle. Jonathan Davis, the architect and resident of Phase 1, will be returning to design the final phase of the Grow Community.",
+    "url": "https://www.greencanopynode.com/blog/2021/2/3/green-canopy-grow-community-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "The collaboration from Green Canopy and the Grow Community signifies a dual commitment to building resilient and sustainable communities. Green Canopy is known for building deep green and Net Zero Energy homes ranging from single-family homes to multi-unit projects, and its proprietary project development platform allows for unparalleled cost control and project management.",
+    "url": "https://www.greencanopynode.com/blog/2021/2/3/green-canopy-grow-community-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "“What is exciting about this project is the alignment of values – this project aligns with our mission. It’s humbling to be welcomed into the Grow community as a development partner with so much of the way already paved before us” said Sam Lai, Green Canopy’s co-founder.",
+    "url": "https://www.greencanopynode.com/blog/2021/2/3/green-canopy-grow-community-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "The Grow Community is the first One Planet neighborhood in the United States. The One Planet framework guides the design of Net Zero Energy neighborhoods as places where people can reduce their overall carbon footprint while living healthier and reducing costs. The program focuses not just on environmental impacts, but also on economic and social sustainability.",
+    "url": "https://www.greencanopynode.com/blog/2021/2/3/green-canopy-grow-community-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "“Founding partners John and Ed Ellis have been instrumental in the completion of this project,” said Grow resident and original development team member Marja Williams. “Without them, this community would have never been as successful as it is today.”",
+    "url": "https://www.greencanopynode.com/blog/2021/2/3/green-canopy-grow-community-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "“I’m eager to see this project finished in a way that I can be proud of. Much of the work that we’ve done with the Grow Community was meant to inspire others, and I think we’ve been successful in that,” said Ed Ellis.",
+    "url": "https://www.greencanopynode.com/blog/2021/2/3/green-canopy-grow-community-partnership",
+    "pass": 1
+   },
+   {
+    "quote": ". The team at Green Canopy offers development and general contracting services to third party investors, developers, and investment property owners.",
+    "url": "https://www.greencanopynode.com/blog/2021/2/3/green-canopy-grow-community-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "April 21, 2021",
+    "url": "https://www.greencanopynode.com/blog/2021/2/3/green-canopy-grow-community-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Construction Plan",
+    "url": "https://www.greencanopynode.com/development-services-interest",
+    "pass": 1
+   },
+   {
+    "quote": "Green Canopy NODE 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   },
+   {
+    "quote": "Provider of environmentally friendly home-building services intended to offer urban infill, deep green homebuilding, and impact investment capital.",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   },
+   {
+    "quote": "System for determining online bidding price for internet group investment of court auction and method thereof",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Below are some of the ways in which we value our employees and their contributions to our shared mission.",
+    "url": "https://www.greencanopynode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "If you are passionate about making a positive impact, determined and proactive in the way you approach work, and love to be part of a fast-paced, mission-driven team… get in touch.",
+    "url": "https://www.greencanopynode.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   },
+   {
+    "quote": "To view Green Canopy NODE’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE has 34 total employees.",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   },
+   {
+    "quote": "What is Green Canopy NODE’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Green Canopy NODE is",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE Revenue 2024: $11M Est.",
+    "url": "https://getlatka.com/companies/greencanopynode.com",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE revenue",
+    "url": "https://getlatka.com/companies/greencanopynode.com",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE has not published its revenue. GetLatka estimates it at about $11M a year (June 2024).",
+    "url": "https://getlatka.com/companies/greencanopynode.com",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE CEO, founders & employees",
+    "url": "https://getlatka.com/companies/greencanopynode.com",
+    "pass": 3
+   },
+   {
+    "quote": "Don Bunnell founded Green Canopy NODE in 2017 and runs it as CEO. Green Canopy NODE had 31 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/greencanopynode.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Green Canopy NODE's revenue?",
+    "url": "https://getlatka.com/companies/greencanopynode.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Green Canopy NODE's revenue at about",
+    "url": "https://getlatka.com/companies/greencanopynode.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Green Canopy NODE have?",
+    "url": "https://getlatka.com/companies/greencanopynode.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/greencanopynode.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/greencanopynode.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/greencanopynode.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/greencanopynode.com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Plant knowledge, grow relationships, harvest solutions",
+    "url": "https://www.greencanopynode.com/mission-values",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Green Canopy NODE — Green Canopy NODE is a construction technology company tackling the housing and environmental crises through product innovation to develop sustainable, healthy, and affordable homes in the PNW.",
+    "url": "https://www.greencanopynode.com/",
+    "pass": 3
+   },
+   {
+    "quote": "グリーンキャノピー NODE：持続可能な住宅を迅速に建設 — NotchNook NotchNook is back — Dynamic Island for Mac Tola A simple daily todo list 2d3d.tools Free, secure, and local CAD and 3D model converter Green Canopy NODEの代替品 BuildScience Elite4Energy Plume",
+    "url": "https://huntscreens.com/ja/products/green-canopy-node",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE Promotes Sustainable Homes with Cross ... — May 24, 2023 · Green Canopy NODE は、二酸化炭素排出量を削減しながら手頃な価格の住宅を建設するための新しい建設技術を革新することで、すべての人を支援する ...",
+    "url": "https://techacute.com/ja/グリーンキャノピーノードは直交積層材を使用した持続可能な住宅を促進します/",
+    "pass": 3
+   },
+   {
+    "quote": "Green Building - Green Canopy NODE — All-Electric Homes Green Canopy NODE chooses to build all-electric homes because we cannot continue to rely on fossil fuels. Learn more →",
+    "url": "https://www.greencanopynode.com/green-building",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE - LinkedIn 日本 — Green Canopy NODE is a vertically integrated construction technology firm. Our mission is to build relationships, businesses, and homes that help regenerate communities and environments.",
+    "url": "https://jp.linkedin.com/company/green-canopy-node",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Us — Green Canopy NODE — Contact Green Canopy NODE for inquiries about sustainable, healthy, and affordable housing solutions in the Pacific Northwest.",
+    "url": "https://www.greencanopynode.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE - FacebookGreenField | 株式会社グリーンフィールドAnthropic opens Tokyo office \\ AnthropicGreenNode海外ネットワーク | グローバルネットワーク | 企業情報 | 信越化学工... — Jul 25, 2025 · Green Canopy NODE. 1,402 followers. Green Canopy NODE builds homes, relationships, and businesses that help regenerate communities and e 2 days ago · デュポン™、DuPont™、デュポンオーバルロゴ、The miracles of science™、GreenVista®、グリーンビスタ®、ザバーン®、Xavan®、タイベック",
+    "url": "https://www.facebook.com/GreenCanopyNODE/",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE (@greencanopynode) - InstagramGreen Canopy NODE - YouTubeNODEGreen Canopy NODE - Facebookグリーンキャノピー NODE：持続可能な住宅を迅速に建設 — 5,473 Followers, 424 Following, 158 Posts - Green Canopy NODE (@greencanopynode) on Instagram: \"🏡 Building simplified 🌿 Based in the PNW\" Building a Home in Less Than 100 Days: Green Canopy NODE's Mass Timber Integrated Building Kit 3.9K 3y ago 0:39 Green Canopy",
+    "url": "https://www.instagram.com/greencanopynode/",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE - YouTube — Building a Home in Less Than 100 Days: Green Canopy NODE's Mass Timber Integrated Building Kit 3.9K 3y ago 0:39",
+    "url": "https://www.youtube.com/@GreenCanopyNODE",
+    "pass": 3
+   },
+   {
+    "quote": "NODE — Green Canopy NODE. Together, we are building the future of housing. Onward . Seattle, WA. hello@node.eco. Our Work. About. Build It. Developers. Land + Home Owners. Enthusiasts. Contact Us. Follow.",
+    "url": "https://www.nodeeco.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE 2026 Company Profile: Valuation, Funding ...Green Canopy NODE - 2026 Company Profile, Team, Funding ...Green Canopy NODE Revenue 2024: $11M Est. - getlatka.comGreen Canopy NODE — Company Profile & Funding | Indexed.vcGreen Canopy NODE Funding History, Valuation and Investors ...Green Canopy NODE: company details - SeedtableGreen Canopy NODE Stock Price, Funding, Valuation, Revenu",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE - 2026 Company Profile, Team, Funding ... — Green Canopy NODE is a series C company based in Seattle (United States), founded in 2010 by Andy Wolverton. It operates as a Developer of green building communities.",
+    "url": "https://tracxn.com/d/companies/greencanopynode/__PXIHvstBTe7Ybku8Ln1bpJno5MxDZSp50sgsBCl028I",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE Revenue 2024: $11M Est. - getlatka.com — Aug 10, 2026 · Who is the CEO of Green Canopy NODE? Don Bunnell is the CEO of Green Canopy NODE and founded the company in 2017.",
+    "url": "https://getlatka.com/companies/greencanopynode.com",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE — Company Profile & Funding | Indexed.vc — Sep 19, 2026 · Green Canopy NODE is a Hardware company based in Seattle, United States, founded in 2017. It has raised $9.9M in total across 2 rounds, most recently a $1.2M Equity Crowdfunding round in Dec 2022.",
+    "url": "https://indexed.vc/companies/green-canopy-node",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE Funding History, Valuation and Investors ... — Funding rounds, valuation history, and investor coverage across 4 investors for Green Canopy NODE.",
+    "url": "https://aventure.vc/companies/green-canopy-node-seattle-wa-us/fundraising",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Aaron Fairchild (@AFairchildGC) / Posts / X The Timber Finance Initiative, Green Canopy NODE, @southpoleglobal, and Gordian Knot Strategies are pleased to announce they have joined efforts in creating the first mass timber carbon credit methodology.",
+    "url": "https://x.com/AFairchildGC",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Green Canopy NODE - LinkedIn Green Canopy NODE is a vertically integrated construction technology firm. Our mission is to build relationships, businesses, and homes that help regenerate communities and environments.",
+    "url": "https://www.linkedin.com/company/green-canopy-node",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE on LinkedIn: Impact Report — Green Canopy NODE We are thrilled to present our 2022 Impact Report! 🌟 Green Canopy NODE is guided by the desire for sustainable and healthy homes to be accessible to people at every income level.",
+    "url": "https://www.linkedin.com/posts/green-canopy-node_impact-report-green-canopy-node-activity-7080298381708824576-jHDG",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE posted on LinkedIn Hear what Benjamin Hall, Product Manager/Designer at Green Canopy NODE thinks about this in our latest Smarter Building podcast. Listen now on: Spotify: https://spoti.fi/3XE9BOM Apple...",
+    "url": "https://in.linkedin.com/posts/green-canopy-node_smarterbuilding-podcast-sustainability-activity-7027314560906743808-8FfS",
+    "pass": 3
+   },
+   {
+    "quote": "Bec Wilder - CEO Green Canopy NODE | LinkedIn Green Canopy NODE is a full-service development partner that leverages industry expertise and cutting-edge construction technology to deliver sustainable housing.",
+    "url": "https://www.linkedin.com/in/bec-wilder",
+    "pass": 3
+   },
+   {
+    "quote": "Bec Wilder - CEO Green Canopy NODE | LinkedInAbout — Aaron FairchildGreen Canopy NODE CEO, Founder, Key Executive Team, Board of ...Aaron Fairchild - Co-Founder and Co-CEO @ Green Canopy NODE ...GitHub - api-evangelist/green-canopy-node: Company profile ... Green Canopy NODE is a full-service development partner that leverages industry expertise and cutting-edge construction technology to deliver ",
+    "url": "https://www.linkedin.com/in/bec-wilder",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Green Canopy NODE - FacebookGreen Canopy NODE is raising capital... - Green ... - FacebookRendering vs Reality ️ ️ From... - Green Canopy NODE | FacebookGreen Canopy NODE Construction Technologies - FacebookGreen Canopy is proud to be a driving... - Green Canopy NODE ...Sustainable, healthy homes for... - Green Canopy NODE - FacebookGreen Canopy NODE takes an ecosystem... - Green Canopy NODE Jul 2",
+    "url": "https://www.facebook.com/GreenCanopyNODE/",
+    "pass": 3
+   },
+   {
+    "quote": "Rendering vs Reality ️ ️ From... - Green Canopy NODE | Facebook Sep 19, 2023 · Green Canopy NODE Dec 6, 2023 We are excited to share a sneak peek of the renderings for this CLT modular apartment building, commissioned by our client. Designed by Green Canopy NODE, the 4-story, 33-unit apartment building in Seattle's Rainier Valley features sustainably forested CLT assembled into modules at Mercer M",
+    "url": "https://www.facebook.com/GreenCanopyNODE/posts/rendering-vs-reality-️️-from-drawings-to-realities-we-make-it-happen-seamlessly-/793119796150538/",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE is raising capital... - Green ... - Facebook Dec 2, 2022 · Green Canopy NODE is raising capital to build ⏩faster 🌿cleaner 🏡more sustainable homes We’re scaling innovative technology development to simplify...",
+    "url": "https://www.facebook.com/GreenCanopyNODE/posts/green-canopy-node-is-raising-capital-to-buildfastercleanermore-sustainable-homes/580754310720422/",
+    "pass": 3
+   },
+   {
+    "quote": "Green Canopy NODE Construction Technologies - Facebook Dec 20, 2022 · I'm Bec Chapin, co-CEO of Green Canopy Node and that's exactly what we're doing. We're scaling healthy, sustainable homes for everyone. I'm Erin Fairshaw, co- CEO of Green Canopy Node. We are facing extreme labor and supply shortages and we simply don't have enough affordably priced homes.",
+    "url": "https://www.facebook.com/GreenCanopyNODE/videos/green-canopy-node-construction-technologies/1809523766077327/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.greencanopynode.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greencanopynode.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greencanopynode.com/mission-values",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greencanopynode.com/development-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greencanopynode.com/team-board",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greencanopynode.com/blog/2021/2/3/green-canopy-grow-community-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greencanopynode.com/development-services-interest",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://images.squarespace-cdn.com/content/v1/6154cd046acbc95f8aa598f3/1632947634147-1HYBOCSBA6QWT8UF9HNZ/Logos+header+image.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://huntscreens.com/ja/products/green-canopy-node",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techacute.com/ja/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%8E%E3%83%94%E3%83%BC%E3%83%8E%E3%83%BC%E3%83%89%E3%81%AF%E7%9B%B4%E4%BA%A4%E7%A9%8D%E5%B1%A4%E6%9D%90%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E3%81%AA%E4%BD%8F%E5%AE%85%E3%82%92%E4%BF%83%E9%80%B2%E3%81%97%E3%81%BE%E3%81%99/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/GreenCanopyNODE/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://gfield.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/greencanopynode/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/@GreenCanopyNODE",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/digitalexperience/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/54841-33",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/greencanopynode/__PXIHvstBTe7Ybku8Ln1bpJno5MxDZSp50sgsBCl028I",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/greencanopynode.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/green-canopy-node",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/AFairchildGC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/green-canopy-node",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/green-canopy-node_impact-report-green-canopy-node-activity-7080298381708824576-jHDG",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/posts/green-canopy-node_smarterbuilding-podcast-sustainability-activity-7027314560906743808-8FfS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/bec-wilder",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GreenCanopyNODE/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GreenCanopyNODE/posts/rendering-vs-reality-️️-from-drawings-to-realities-we-make-it-happen-seamlessly-/793119796150538/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GreenCanopyNODE/posts/green-canopy-node-is-raising-capital-to-buildfastercleanermore-sustainable-homes/580754310720422/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GreenCanopyNODE/videos/green-canopy-node-construction-technologies/1809523766077327/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/bec-wilder",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Greencanopynode 日本 導入",
+   "results": [
+    "https://www.greencanopynode.com/",
+    "https://huntscreens.com/ja/products/green-canopy-node",
+    "https://techacute.com/ja/グリーンキャノピーノードは直交積層材を使用した持続可能な住宅を促進します/",
+    "https://www.greencanopynode.com/green-building",
+    "https://jp.linkedin.com/company/green-canopy-node",
+    "https://diamond.jp/articles/-/395504",
+    "https://pressnow.jp/2026/07/29/canopy/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Greencanopynode 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.greencanopynode.com/",
+    "https://www.greencanopynode.com/contact",
+    "https://www.facebook.com/GreenCanopyNODE/",
+    "https://gfield.co.jp/",
+    "https://www.anthropic.com/news/opening-our-tokyo-office",
+    "https://cp.greennode.net/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Greencanopynode Japan",
+   "results": [
+    "https://www.instagram.com/greencanopynode/",
+    "https://www.greencanopynode.com/",
+    "https://www.greencanopynode.com/green-building",
+    "https://www.youtube.com/@GreenCanopyNODE",
+    "https://www.nodeeco.com/",
+    "https://www.facebook.com/GreenCanopyNODE/",
+    "https://huntscreens.com/ja/products/green-canopy-node"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Greencanopynode manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Greencanopynode white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.canva.com/partners/reseller/",
+    "https://partners.adobe.com/digitalexperience/",
+    "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.t-mobile.com/business/partner-recruitment"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Greencanopynode founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/54841-33",
+    "https://tracxn.com/d/companies/greencanopynode/__PXIHvstBTe7Ybku8Ln1bpJno5MxDZSp50sgsBCl028I",
+    "https://getlatka.com/companies/greencanopynode.com",
+    "https://indexed.vc/companies/green-canopy-node",
+    "https://aventure.vc/companies/green-canopy-node-seattle-wa-us/fundraising",
+    "https://www.cbinsights.com/company/green-canopy-node/financials",
+    "https://seedtable.com/companies/green-canopy-node/details"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Greencanopynode",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/quruli/n/n35d2b6cdc37a",
+    "https://note.com/cd350476/n/n6883f35ae37c",
+    "https://note.com/nice_dahlia4188/n/n66e9965b028e",
+    "https://note.com/goma1212goma/n/n38b75fd0a4fa",
+    "https://note.com/kokonenomae/n/n3f1d4851d866",
+    "https://note.com/dobokutorisetsu/n/ne3a94a016790"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Greencanopynode",
+   "results": [
+    "https://x.com/CNPYNetwork/status/2094424972869644655",
+    "https://x.com/AFairchildGC",
+    "https://x.com/Greennode_ai",
+    "https://x.com/OKgreencanopy",
+    "https://x.com/CNPYNetwork/status/2118765359138480342",
+    "https://x.com/CNPYNetwork/status/2087901992291074159",
+    "https://x.com/kbiji619/status/2094425531232240013"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Greencanopynode",
+   "results": [
+    "https://www.linkedin.com/company/green-canopy-node",
+    "https://www.linkedin.com/posts/green-canopy-node_impact-report-green-canopy-node-activity-7080298381708824576-jHDG",
+    "https://in.linkedin.com/posts/green-canopy-node_smarterbuilding-podcast-sustainability-activity-7027314560906743808-8FfS",
+    "https://www.linkedin.com/in/bec-wilder",
+    "https://in.linkedin.com/posts/green-canopy-node_masstimber-buildingthefutureofhousing-activity-7024146616764796928-afYs",
+    "https://qa.linkedin.com/posts/susan-fairchild_green-canopy-nodes-integrated-kit-for-workforce-activity-7047665430542368768-yoGR",
+    "https://www.linkedin.com/posts/green-canopy-node_impact-report-green-canopy-node-activity-7227419058634117121-mMTt"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Greencanopynode",
+   "results": [
+    "https://www.facebook.com/GreenCanopyNODE/",
+    "https://www.facebook.com/GreenCanopyNODE/posts/rendering-vs-reality-️️-from-drawings-to-realities-we-make-it-happen-seamlessly-/793119796150538/",
+    "https://www.facebook.com/GreenCanopyNODE/posts/green-canopy-node-is-raising-capital-to-buildfastercleanermore-sustainable-homes/580754310720422/",
+    "https://www.facebook.com/GreenCanopyNODE/videos/green-canopy-node-construction-technologies/1809523766077327/",
+    "https://www.facebook.com/GreenCanopyNODE/posts/sustainable-healthy-homes-for-everyone-green-canopy-node-is-innovating-in-constr/597442449051608/",
+    "https://www.facebook.com/GreenCanopyNODE/posts/green-canopy-is-proud-to-be-a-driving-force-in-the-movement-towards-all-electric/2979416438791654/",
+    "https://www.facebook.com/GreenCanopyNODE/posts/green-canopy-node-takes-an-ecosystem-approach-to-impact-the-housing-climate-cris/599072368888616/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Greencanopynode note 社長",
+   "results": [
+    "https://www.greencanopynode.com/sam-lai",
+    "https://www.greencanopynode.com/our-team/profiles",
+    "https://www.linkedin.com/in/bec-wilder",
+    "https://www.aaronfairchild.com/about",
+    "https://www.cbinsights.com/company/green-canopy-node/people",
+    "https://www.crunchbase.com/person/aaron-fairchild",
+    "https://github.com/api-evangelist/green-canopy-node"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Greencanopynode X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部24頁・検索12回）"
+ }
+}

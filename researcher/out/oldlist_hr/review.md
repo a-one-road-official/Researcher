@@ -1786,6 +1786,11 @@
 - 「2025年10月の新しい版の画面での始め方、シード論文の入れ方、Grow で地図を広げる手順と点の読み方、旧版の Similar・Earlier・Later Work の新しい場所、Rabbit-hole と著者の探し方、コレクションと読書リスト、Zotero との連携、BibTeX・RIS・CSV の書き出し、日本語での使い方、無料版と RR+ の違いと料金、解約までまとめます」（https://aiteller.jp/blog/undermind-tsukaikata）
 - 「論文が後の研究でどう引用されたかを「支持・反論・言及」に分けて示す scite の使い方を、運営元 Scite, LLC（Research Solutions の子会社）の料金ページ・ヘルプ・公式ブログで整理」（https://aiteller.jp/blog/undermind-tsukaikata）
 
+## Turntide Technologies（https://turntide.com/）
+- 「HUDメーカーに液晶ディスプレイを売り込みたく、日本国内のコンタクト先の会社名、組織名、責任者名をリスト化して」（https://www.marklines.com/ja/news/343617）
+- 「三菱自、タイから日本への輸出を皮切りに新型「パジェロ」のグローバル出荷を開始」（https://www.marklines.com/ja/news/343617）
+- 「このネオジムやジスプロシウムといったレアアースであるが、資源の偏在性が高く、2010年に中国が日本に対して重希土類の輸出制限をかけたことで、その調達リスクが一気に顕在化したことから、様々な企業がレアアースの使用量削減や、レアアースフリーのモーターの開発に取り組んでいる」（https://core2001.zdm.jp/2021/07/03/turntide-technologies-funding-250m/）
+
 ## Truelinkfinancial（https://www.truelinkfinancial.com/）
 - 「日本企業と世界のトップティアVCを繋ぐ CVCの現場経験から生まれたファンド・オブ・ファンズとは？ AT PARTNERS」（https://techblitz.com/startup-interview/true-link-financial/）
 - 「―日本を含め、海外進出も視野に入っているのでしょうか」（https://techblitz.com/startup-interview/true-link-financial/）
@@ -1829,6 +1834,11 @@
 ## Teachwithkoala（https://www.teachwithkoala.com/）
 - 「As of Jun 2022, Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Hong Kong, Ireland, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Singapore, Sweden, Switzerland, UK, and USA.」（https://www.teachwithkoala.com/）
 
+## Taxgpt（https://www.taxgpt.com）
+- 「税務申告の完全自動化を目指す「TaxGPT」の動向と、日本における専門業務AIの現在地 – グローバルAIメディア」（http://global-ai.jp/20260328-taxgptai/）
+- 「自律型AI時代における倫理とガバナンスの行方――グローバルな警告と日本企業への示唆」（http://global-ai.jp/20260328-taxgptai/）
+- 「自律型AIの台頭が迫る「組織の権限モデル」の再設計と日本企業への示唆」（http://global-ai.jp/20260328-taxgptai/）
+
 ## Tamarind（https://www.tamarind.bio）
 - 「瀧井康勝『366日 誕生花の本』日本ヴォーグ社、1990年11月30日、232頁」（https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%89）
 - 「｜旬のもの｜暦生活｜日本の季節を楽しむ暮らし」（https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%89）
@@ -1853,6 +1863,11 @@
 ## Svara（https://trysvara.com/）
 - 「While Jews have often been drawn to Eastern traditions, few dedicate nearly a decade to becoming a devout Buddhist in Japan. Lappe is hardcore. But before making her final commitment, she consulted with a rabbi in Tokyo who gave her a copy of “Pirkei Avot.”」（https://forward.com/news/459228/in-chicago-an-lgbtq-talmud-study-center-gets-a-pandemic-boost/）
 - 「Multilingual Support – English (US & UK), Hindi, Spanish, French, Japanese, Italian, Portuguese (Brazil), and Chinese.」（https://apps.apple.com/jp/app/ai-text-to-speech-svara/id6751228607?l=en-US）
+
+## Sully（https://www.sully.ai）
+- 「In Japan, it scored the third biggest opening for Eastwood with $2.3 million, behind」（https://en.wikipedia.org/wiki/Sully_(film)）
+- 「Outside North America, the biggest markets have been Japan ($13.2 million), Australia ($9.9 million), the United Kingdom ($5.4 million), and Italy ($5.1 million).」（https://en.wikipedia.org/wiki/Sully_(film)）
+- 「Japan Academy Film Prize」（https://en.wikipedia.org/wiki/Sully_(film)）
 
 ## SuiteDash（https://suitedash.com）
 - 「No Japanese / Sept 2026」（https://apps.apple.com/jp/app/covve-business-card-scanner/id1459654107）
@@ -2101,6 +2116,11 @@
 - 「One of Japan's largest exhibitions of industrial cleaning products and technologies,」（https://biz.nikkan.co.jp/eve/en/）
 - 「Japan Robot Week 2024 is held every other year as a sister exhibition to the iREX, which」（https://biz.nikkan.co.jp/eve/en/）
 
+## Neria.ai（https://neria.ai/）
+- 「特に日本語の音声認識精度は気になるところだ」（https://www.sofarbot.com/ja/tools/okpll1mGFFNG）
+- 「音声 AI は言語によって性能差が大きいため、日本語がどこまで自然に扱えるのかは未知数」（https://www.sofarbot.com/ja/tools/okpll1mGFFNG）
+- 「対応言語が明記されておらず、日本語の品質が未知数」（https://www.sofarbot.com/ja/tools/okpll1mGFFNG）
+
 ## Nanoprecise Sci Corp（https://nanoprecise.io/）
 - 「このラウンドはカナダ輸出開発公社（EDC）が主導し、Honeywell Venturesと日本精工（NSK Ltd. ）、EC Mergers & Acquisitionsが参加した」（https://kyodonewsprwire.jp/release/202301101949）
 - 「世界3大ベアリングメーカーの1社である日本精工（NSK Ltd.）と、産業技術セクターに特化した大手国際投資銀行のEC Mergers & Acquisitionsも、Nanopreciseの高い成長の可能性とソリューションの広範な普及のためのこの投資ラウンドを通じてNanopreciseを支援することを選択した」（https://kyodonewsprwire.jp/release/202301101949）
@@ -2136,6 +2156,12 @@
 - 「. Miso is widely used in both traditional and modern cooking in Japan, and as of 2018 had been gaining worldwide interest.」（https://en.wikipedia.org/wiki/Miso）
 - 「Kitopi is the world’s leading state-of-the-art, managed cloud kitchen platform with over 1000 employees across UAE, KSA and Kuwait. Kitopi enables restaurants to open delivery only locations by providing the …」（https://www.featuredcustomers.com/vendor/miso-robotics/case-studies）
 
+## Minimum（https://www.minimum.com）
+- 「日系企業によるグローバル・ミニマム課税（BEPS 2.0 Pillar 2）対応に関するロードマップ（前編） | 情報センサー2025年10月 Tax update | EY Japan」（https://www.ey.com/ja_jp/insights/tax/info-sensor-2025-10-06-tax-update）
+- 「日本においては、国際的な合意に沿って、＜図1＞の通り、IIR、UTPRおよびQDMTTの3つのルールが導入されています」（https://www.ey.com/ja_jp/insights/tax/info-sensor-2025-10-06-tax-update）
+- 「さらに、日本以外の国においても、国際的な合意に沿って、これら3つのルールの全てまたは一部が導入されています」（https://www.ey.com/ja_jp/insights/tax/info-sensor-2025-10-06-tax-update）
+- 「海外子会社の所在地国法令により海外子会社に対して適用されるQDMTT」（https://www.ey.com/ja_jp/insights/tax/info-sensor-2025-10-06-tax-update）
+
 ## Mindgard（https://mindgard.ai）
 - 「公式サイトに日本語の表示は見当たりません（2026年9月時点）」（https://aipicks.jp/tool/mindgard#japanese）
 - 「公式サイトに日本語の表示は見当たりません（2026年9月時点）」（https://aipicks.jp/tool/mindgard）
@@ -2145,6 +2171,11 @@
 - 「Hospital, Okinawa, Japan, 2 Department of Emergency and」（https://www.jstage.jst.go.jp/article/jsem/20/3/20_534/_pdf/-char/ja）
 - 「Japan, 3 Department of Surgery, Chubu Tokushukai」（https://www.jstage.jst.go.jp/article/jsem/20/3/20_534/_pdf/-char/ja）
 - 「Matthijs Welle founded Mews Systems in 2012 and runs it as CEO. Mews Systems has 1,418 employees (November 2025, LinkedIn), up from 1,236 a year earlier.」（https://getlatka.com/companies/mews-systems）
+
+## Metoro（https://metoro.io）
+- 「SaaS MAPでは、単に有名かどうかではなく、AI機能、Agent Ready、料金、日本からの使いやすさ、外部連携の観点から導入判断に必要な情報を整理しています」（https://saasmap.jp/tools/metoro）
+- 「日本語UI、JCB決済、日本円請求書などの国内対応は導入前に公式情報で確認したい項目です」（https://saasmap.jp/tools/metoro）
+- 「日本語UIや日本語ドキュメントは限定的な可能性があります」（https://saasmap.jp/tools/metoro）
 
 ## Metal（https://metal.ai/）
 - 「Metal Gathering Tour Live in Japan 2010 — Grokipedia」（https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010）
@@ -2156,6 +2187,9 @@
 - 「Learn how Material Bank Japan transitioned to a fully localized commerce platform built with Medusa, enabling end-to-end workflows from design to order in minutes.」（https://medusajs.com/blog/materialbank）
 - 「is a global unicorn that has raised over $300M to transform how architects and designers source material samples. In 2023, Material Bank Japan, operated by DesignFuture Japan, launched a platform that now centralizes over 70,000 samples from 210 brands, all available with free overnight shipping nat」（https://medusajs.com/blog/materialbank）
 - 「However, the Japanese market required more than a direct replication of HQ’s commerce experience. To meet the needs of customers ranging from small studios to some of Japan’s largest design firms, the local team needed full control over their tech stack and the agility to build commerce features tai」（https://medusajs.com/blog/materialbank）
+
+## Matia（https://www.matia.io/）
+- 「USB 2.0 Keyboard – Japanese – Black」（http://matias.ca/usb2keyboard/support/resources/FK105-JP_Manual_WEB.pdf）
 
 ## Lugg（https://www.lugg.com）
 - 「日本、韓国、中国、台湾、ベトナム、香港、インドネシア、シンガポール、アメリカ、タイ、イタリア、イギリス、マカオ、マレーシア、スペイン、フランス、オランダ、オーストラリア、アラブ首長国連邦、オーストリア、カナダ、チェコ、ドイツ、ギリシャ、ハンガリー、ニュージーランド、フィリピン、ポルトガル、トルコ」（https://luggagent.com/ja/destinations）
@@ -2172,9 +2206,53 @@
 - 「FitGapの要件チェックでは、「日本語UI対応」が×(非対応)です」（https://fitgap.com/jp/products/limble-cmms）
 - 「一方で、「日本語アラート文適合」や「日本市場保全フロー適合」は○(対応)のため、アラートや保全手順の適合だけでなく、日常的に操作する画面の言語まで確認することが重要です」（https://fitgap.com/jp/products/limble-cmms）
 
+## Latentspace（https://latentspace.sh/）
+- 「日本の著作権法では、」（https://izutsu.aa0.netvolante.jp/pukiwiki2/?LatentSpace）
+- 「日本の著作権法では、このような行為を「情報解析」として認めています」（https://izutsu.aa0.netvolante.jp/pukiwiki2/?LatentSpace）
+- 「日本でも同様に、開発者が「AIが何を学び、何を保持していないか」を明確に示すことが求められています」（https://izutsu.aa0.netvolante.jp/pukiwiki2/?LatentSpace）
+
+## Lasso（https://www.lasso.security/）
+- 「日本語訳｜Lasso 4.19.0」（https://edbjapan.com/manual/category/lasso/）
+- 「日本語訳｜Lasso 4.17.0」（https://edbjapan.com/manual/category/lasso/）
+- 「日本語訳｜Lasso 4.16.0」（https://edbjapan.com/manual/category/lasso/）
+- 「Telit Cinterion, a global leader in end-to-end IoT solutions with approximately 1,000 employees across six continents, faced a common modern dilemma:」（https://www.lasso.security/resources/case-study-how-lasso-support-telit-cinterions-journey-to-secure-genai-adoption）
+
+## Kreon Technologies（https://www.kreon3d.com/）
+- 「中国・杭州に本社、ドイツ、米国、スペイン、日本、中国国内に複数の拠点を構え、1,300人超の社員が100以上の国と地域のユーザーを、サポートしています」（https://www.polyworks.com/ja-jp/about/partners）
+- 「50カ国以上に展開する子会社および代理店が、販売およびアフターサービスを通じてお客様をサポートしています」（https://www.kreon3d.com/ja/article/wenzel-partnership-with-kreon）
+
+## Kinetic（https://kineticcomp.com/）
+- 「How Japan Is Turning Footsteps Into Electricity with Piezoelectric Technology」（https://parametric-architecture.com/japan-turning-footsteps-electricity/）
+- 「Piezoelectric materials have the unique ability to generate an electric charge in response to mechanical stress. When pressure is applied, such as a footstep, the material deforms slightly, producing a small electrical current. In Japan, these」（https://parametric-architecture.com/japan-turning-footsteps-electricity/）
+- 「Similarly, East Japan Railway Co. has installed piezoelectric pads under ticket gates at Tokyo Station. Each time a commuter steps through the gate, pressure from the footsteps is turned into energy, contributing to the station’s overall energy efficiency.」（https://parametric-architecture.com/japan-turning-footsteps-electricity/）
+- 「Kinetic Technologies is a majority-owned subsidiary of Cyient Semiconductors Private Limited.」（https://kinet-ic.com/）
+
+## Justflip（https://flip.com/）
+- 「- Added and refined localized content across Czech, German, English, Spanish, French, Italian, Japanese, Korean, and Portuguese.」（https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421）
+- 「日本語とその他8言語」（https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421）
+- 「日本語、イタリア語、スペイン語、チェコ語、ドイツ語、フランス語、ポルトガル語、英語、韓国語」（https://apps.apple.com/jp/app/justflip-%E5%8D%98%E8%AA%9E%E5%B8%B3/id6770141421）
+
 ## Joinfleek（https://www.joinfleek.com/）
 - 「米国、ヨーロッパ、オーストラリア、日本のバイヤーは、発送前に内容を正確に把握できるため、大規模に調達できます」（https://www.joinfleek.com/ja/careers）
 - 「米国、オーストラリア、日本、ヨーロッパ全域に顧客」（https://www.joinfleek.com/ja/careers）
+
+## Itsjack（https://www.itsjack.com）
+- 「Japan's leading independent VC」（https://www.itsjack.com/about）
+- 「Part of the Transfez Group」（https://www.itsjack.com/about）
+
+## Instock（https://instock.com/）
+- 「NowInStock.net Japan Restock Tracker and In Stock Notification App」（https://www.nowinstock.net/jp/）
+- 「the power of knowing when & where online... in Japan」（https://www.nowinstock.net/jp/）
+- 「日本語WordNet(英和)での「instock」の意味」（https://ejje.weblio.jp/content/instock）
+
+## Helionenergy（https://www.helionenergy.com）
+- 「日本でも核融合研究に関心がある読者なら、ITERやJT-60SA、KSTARなどの名前を聞いたことがあるかもしれません」（https://koriscience.com/helion-energy-fusion-startup-ai-power-jp/）
+- 「FRCとは、Field-Reversed Configurationの略で、日本語では「磁場反転配位」と訳されます」（https://koriscience.com/helion-energy-fusion-startup-ai-power-jp/）
+- 「日本の読者に置き換えるなら、大都市の外側に巨大なデータセンターが増え、そのすべてが24時間安定した電力を必要とするイメージです」（https://koriscience.com/helion-energy-fusion-startup-ai-power-jp/）
+
+## Getbalance（https://www.getbalance.com）
+- 「日本では過去24時間に 0 件のレポートが記録されており、そのうち 0 件が過去1時間以内のものです」（https://www.entireweb.com/jp/status/getbalance）
+- 「Alibaba.com is part of the Alibaba International Digital Commerce Group, a global leading B2B ecommerce platform serving sellers and buyers from over 200 countries and regions. Their U.S. buyers had a clear, growing need: more flexible payment options beyond credit cards and traditional wire transfe」（https://www.getbalance.com/case-study/alibaba/）
 
 ## Metalpine GmbH（https://www.metalpine.at）
 - 「METALPINE is part of the internationally represented htm Group (hightech metal invest) with locations in Germany, Austria, Bahrain and Japan.」（https://metalpine.at/）

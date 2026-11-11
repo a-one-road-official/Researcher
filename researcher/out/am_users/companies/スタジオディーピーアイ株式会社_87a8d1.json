@@ -1,0 +1,1405 @@
+{
+ "name": "スタジオディーピーアイ株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T18:42:12.611514+00:00",
+ "official_url": "https://dpi-web.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒802-0031 福岡県北九州市小倉北区赤坂海岸7-1",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒802-0031　小倉北区赤坂海岸7-1 TEL 093-981-2020 / FAX 093-981-2525",
+    "url": "https://net.kitakyushucci.or.jp/mono-db/companys/index/312164",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "創業（個人事業）",
+    "value": "2003年4月1日",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "PUDLEE 事業",
+    "value": "自社ブランド「PUDLEE（パドリー）」製品の開発・製造・卸・販売・輸出事業。2021年現在、釣具製品を展開中。 https://pudlee.jp/fishing/",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業所名",
+    "value": "スタジオディーピーアイ(株)",
+    "url": "https://net.kitakyushucci.or.jp/mono-db/companys/index/312164",
+    "pass": 3
+   },
+   {
+    "label": "業務内容",
+    "value": "プロダクトデザイン、筐体設計、機構設計、試作・量産、グラフィックデザイン、CG画像制作、デザインコンサルティング、デザインワークショップについて詳細情報を掲載",
+    "url": "https://mono.ipros.com/company/detail/2032770/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　上野 和宏",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "上野　和宏",
+    "url": "https://net.kitakyushucci.or.jp/mono-db/companys/index/312164",
+    "pass": 3
+   }
+  ],
+  "拠点": [
+   {
+    "label": "株式会社第一製作所 九州工場",
+    "value": "協力分野：射出成形・組立",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "全社従業員数",
+    "value": "2人（事業所従業員数2人）",
+    "url": "https://net.kitakyushucci.or.jp/mono-db/companys/index/312164",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "2名",
+    "url": "https://mono.ipros.com/company/detail/2032770/",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "●大手最終クライアント（敬称略/商社経由含む）\nPanasonic | Cannon | RYOBI | 協和発酵 | 安川情報システム | 安川コントロール | NISSAN | TOYOTA | MAZDA ･･･ etc\n\nその他、ロボットメーカー様、家電メーカー様、雑貨メーカー様、加工･試作メーカー様、設計事務所様 etc (順不同・敬称略)",
+    "url": "https://mono.ipros.com/company/detail/2032770/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "一貫したコンセプトで、デザインマネジメントを重視した製品開発を実現",
+    "url": "https://dpi-web.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "それを見出し、製品をあるべき姿へ導くデザインスタジオ",
+    "url": "https://dpi-web.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーが製品を通して得られる経験価値（ユーザーエクスペリエンス）、所有する喜び",
+    "url": "https://dpi-web.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その価値が提供される時、製品はどうあるべきなのか",
+    "url": "https://dpi-web.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "全国のプロダクトデザインや機構設計などの製品開発お...",
+    "url": "https://dpi-web.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品を取り巻くパッケージやプロモーションツール、様々な分野でデザインが力を発揮する",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器、ロボット、電子機器、雑貨等、工業製品を「愛される商品」にする技術",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクトデザインは、様々な製品の意匠（スタイリング・カラー・マテリアル）を設計し、審美性や機能性、利便性、生産性を意図的に向上させる高度な特殊技術",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "様々な問題解決を図り、本来そこにある価値を見出し、製品のあるべき姿を形にします",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "製品を通して得られる体験（ユーザーエクスペリエンス）にはさらに価値がある",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "その価値が提供される時、製品はどうあるべきなのか",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "その解を具現化し、製品に反映する",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "一言で表せば「製品のデザイン」という意味です",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの身の回りにある家電製品や文具といった生活用品、医療機器、自動車、工場で使用される産業機械のような工業製品から手作りの伝統工芸品のようなものまで、ありとあらゆる製品が対象となります",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "製品を購入する前（使う前）から、優れたパッケージデザインにより良い製品であると感じてもらったり、お買い得だと感じてもらったり、魅力的なWebデザインによりそのブランドや製品に興味を持ってもらい、その存在自体を知ってもらったりと、製品を取り巻くパッケージやプロモーション、マーケティングの分野でそれらのデザインが力を発揮します",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、それらは製品そのものを変えるデザインではありません",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "「良さを伝える」「良く見せる」「流行っているように感じさせる」といった期待感を抱かせることはマーケティングの上で非常に重要ですが、製品そのものが本当に良いモノになっていなければ、結果的に”期待外れ”ということになります",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクトデザインは、製品そのものを本当に良いモノにするための特殊な工業技術です",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクトデザインは製品の形、色、素材、表面処理、感触、場合によっては構造や機能に至るまで様々な仕様を策定し、審美性を向上させます",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "一言で表せば「工業製品のデザイン」という意味です",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクトデザインと同じように製品のデザインを指しますが、その中でも、特に大量生産を前提とした工業製品を対象とし、手作りの伝統工芸品のような製品を含みません",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "インダストリアルデザインは工業製品を対象としているため、量産できるデザインであることが絶対条件となります",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "メーカー企業の事業理念や社会的課題も鑑みて製品デザインに反映するために、哲学的で倫理的な思考ができる必要があります",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "そのためのデザインでもあるため、ブランディング戦略や販売戦略も考慮しつつ、そこから逆算して製品仕様を策定する必要もあります",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "近年、製品を所有すること自体の価値、物質的な価値だけでなく、その製品を通して得られる体験自体に価値があるという考えでデザインを捉えることも、インダストリアルデザインの重要なテーマとなっています",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "その製品が価値を提供している時に、製品はどうあるべきなのか？それが製品デザインにも反映されています",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "「この製品は何を想って、このデザインになっているのだろう？」そういう視点で製品デザインを眺めるといろんな気づきがあります",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "本来あるべき姿、そこにある価値を見出し、製品に投影する",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "製品デザインを検討するための、手描きデザイン画",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "手描きのデザイン画、3D-CAD設計、2D-CAD図面、実写レベルのリアルなCG画像等、様々な表現方法で、まだ見ぬ新製品の姿を描き出します",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "最終的な量産品まで、デザインエンジニアが信頼できる協力企業と共にハイクオリティな製品を作り上げます",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "それらの要素をしっかりと製品に反映するところまでがデザイナーの重要な役割です",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "マスターを基に反転型となるFRP型を製作し、ハンドレイアップにより製品側FRPを積層、塗装して筐体完成",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "製品形状の設計データを元に、マスター型設計を行います",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "マスター型はケミカルウッドや高密度発泡ウレタンを切削し、製品形状に近い凸型を作成します",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "マスター型を基に反転した凹型を作成し、FRP型（製品も型もFRP製となります）とします",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作/量産】 製品形状を基に各種鋳造方法に適した注型のマスター形状を設計、光造形や切削加工でマスター形状を製作、鋳型を作成し、様々な金属（鉛/鈴/ピューター）を流して鋳造します",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "高さ2mを超える大型サイズの製品についても、分割できるユニット単位の設計を行い、現場でドッキングする仕組みとすることで、営業担当者が現場で搬入・組立・設置を行うことができる製品となります",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発・製造・ブランドマーケティング、",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・設計、試作・量産等の製品開発を行う",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発を弊社へご依頼くださる企業様の持つポテンシャルを最大限に引き出す",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品パッケージ、取扱説明書、パンフレット、ポスター、名刺、ロゴ等のCI/VI計画、グラフィックデザイン",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "自社ブランド「PUDLEE（パドリー）」製品の開発・製造・卸・販売・輸出事業",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2021年現在、釣具製品を展開中",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクトデザイン（工業製品のデザイン）、筐体設計、機構設計、3Dプリンタ（光造形）用3D-CADモデリング受託（主に家電部品、自動車部品）、射出成形金型入子・電極の3D-CAD設計モデリング、グラフィックデザイン、CG画像制作、動画編集、Webコンサルティング等の業務を開始",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "従来業務の他、デザインコンサルティング、デザインワークショップ業務の他、自社製品開発・販売を行うPUDLEE事業を開始",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "韓国、スペインへの自社製品輸出開始（他国については商社経由）",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "企画開発室にて製品のデザイン・設計業務をスタートする",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "また、デザイン・設計のみに留まらず、営業企画・販促企画・パッケージデザイン・POPデザイン・カタログデザインなど、あらゆる販促ツール制作を製品開発者である自らが行っていた",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "組立治具や実験装置の制作、QC工程表や作業標準書の作成、製品ごとに品質管理の検査成績書フォーマットの作成、営業マニュアルの作成、営業ツールの作成 などを通し、モノづくりには企画初期段階から一貫した理念とコンセプトが必要であることを身を持って実感する",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "その実績を積み重ねる中で、製品が企画、開発、製造、販売、さらにはリピート購入されるまでの一連の流れを逆算した上で、モノづくりのスタートを切ることが、売り上げに直結する製品開発の絶対条件である という自身の開発スタイルを確立することとなった",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "約10年間に渡り、家庭日用品メーカーでの製品開発業務を続けた後、2002年に同社を退社",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "同時に、従来のプロダクトデザイン・製品設計、グラフィックデザインなどのデザインワークに加え、Webコンサルティング、光造形や切削加工の形状モデリング、射出成形金型の入子や電極の設計モデリング等も主な業務として取扱い品目を拡大した",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "協力分野：FRP製品の試作・製造、塗装",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "協力分野：電源関連製品、PCB等、電装部品開発・製造",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクトデザイン、製品開発全般、ブランディング、",
+    "url": "https://dpi-web.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "工業製品の企画、プロダクトデザイン、設計、試作、量産、パッケージデザイン等の製品開発",
+    "url": "https://dpi-web.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "モノづくりにおけるあらゆる工程を網羅する製品開発総合支援",
+    "url": "https://dpi-web.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "量産を前提とした製品のインダストリアルデザイン（工業デザイン）、プロダクトデザインを行います",
+    "url": "https://dpi-web.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット試作（切削加工・3Dプリント・真空注型等）から大量生産（射出成形・真空成形・板金等、組立）まで、製品試作・製造を受託します",
+    "url": "https://dpi-web.jp/service/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "プロダクトデザイン、筐体設計・機構設計、試作・量産、グラフィックデザイン、CG画像制作等受託",
+    "url": "https://dpi-web.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクトデザイン、筐体設計、機構設計、試作、量産、プロモーションまで、トータルデザイン",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクトデザイン、筐体設計・機構設計、クレイモデル試作、光造形試作、CAE、製図等、一連の製品開発工程を解説",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "11｜3Dプリンタで試作、組付・動作確認",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "12｜試作品の持ち感を調整・設計変更",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品に対し、パテ盛りしてホールド感を調整し、ボタン配置についてもさらに調整",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "試作 / 量産 - スタジオディーピーアイ株式会社 公式Webサイト",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "設計検証試作、モニター用プロト、量産",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "あらゆる加工法で試作、量産をバックアップ",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン意匠、機構や操作性を試作で検証し、デザイン・設計をブラッシュアップ",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット生産｜ケミカルウッドを切削加工し、型用マスター形状を製作",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "試作、量産には様々な加工法があり、そこには協力企業の高度な技術があります",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "国内の高品質な加工は元よりコストパフォーマンスとスピードにも定評のある海外での試作・量産も可能",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "試作の目的、量産で求められる条件等に応じて、適宜ご提案を行いながら進めています",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "試作｜海外での切削加工・塗装・樹脂メッキ加工、国内での光造形マスター製作・真空注型（エラストマーライク）",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作】 高精細3Dプリンタでの出力",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作/小ロット生産/量産】 ステンレス、アルミ、樹脂、ケミカルウッド（人口木材）等、様々な材料を高精度に切削加工",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "試作、量産用に加工が可能です",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作】 切削加工や光造形等で3Dプリントして、表面をきれいに処理したマスター形状を基にシリコン型を制作し、熱硬化性樹脂を流して部品形状を形作ります",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "ABSライクやPPライク、エラストマー・ゴムライク等、熱可塑性樹脂を模した物性を持つ樹脂を注型することで、より、量産に近いワーキングモデルの試作が可能となります",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作・小ロット生産・量産】 ハンドレイアップ",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作/量産】 製品形状を基に各種鋳造方法に適した注型のマスター形状を設計、光造形や切削加工でマスター形状を製作、鋳型を作成し、様々な金属（鉛/鈴/ピューター）を流して鋳造します",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "試作に関しては耐熱シリコン型、量産に関してはラバーキャストマシン（ゴム型・シリコン型）で鋳造し、研磨、塗装が可能です",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作/量産】 ワイヤーカット、曲げ加工、溶接等での部品製作、製缶、塗装（ウレタン・粉体）が可能です",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作型/量産型】 自動車部品や家電部品の金型加工等も得意とする、高度な技術を持つ金型メーカーとの連携により、高品質の射出成形金型加工が可能です",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作・小ロット生産・量産】 射出成形に比べると形状的な制約はありますが、金型等の初期費用が安価で、特に大型部品の製造においては低コスト化が図れます",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作/量産】 ウレタン塗装で自動車塗装のような高品質で耐久性のある塗装が可能",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "レーザー加工やメッキ加工、パッド印刷等による印字・ロゴ入れ、アクリル曲げ加工等、イレクターやアルミフレーム等の規格品での構造物製作等、必要に応じて様々な試作・量産加工が可能です",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット生産｜国内・海外での板金加工、切削加工、組立",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "試作・小ロット生産｜ケミカルウッドを切削加工し、マスター形状を製作",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット生産｜ケミカルウッドを切削加工し、マスター形状を製作",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "・設計、試作・量産等の製品開発を行う",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "インダストリアルデザイン・筐体設計・機構設計、国内外における試作・量産受託",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作・量産、国内・海外での加工受託",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "程なくして、デザイン・設計を起こしたものは自身の手で試作する手法を確立",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "同時に、同社への2D-CAD・3D-CADの選定、導入も積極的に進め、1999年頃より3D-CADで設計/モデリングしたデータを基にした切削加工試作や光造形（3Dプリント）、真空注型などの試作外注の活用も開始",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "強力なプレゼンテーションツールとして、仕様検討用のCG試作として、また、パッケージ・カタログ・Web・プレス掲載などのプロモーション用画像として、「金型が出来ていなくても3ヶ月早くプロモーションできる」をキャッチコピーに、コストとスピードとクオリティの面で、ビジネスに絶大な利益を生み出すサービスを開始",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ハイクオリティな試作・量産、効果絶大なプロモーション・マーケティングの大規模展開も可能",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "協力分野：FRP製品の試作・製造、塗装",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "協力分野：切削加工・レーザー加工・塗装・3Dスキャンなどの試作全般、リバースエンジニアリング",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "協力分野：海外生産・簡易金型・小ロット生産・機械設計・機械設備",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "協力分野：3Dプリント（光造形・粉末造形）・切削加工・真空注型・アルミ鋳造・塗装などの試作全般",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "他に、真空成形、板金加工、塗装、海外協力工場（試作・量産）多数",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "工業製品の企画、プロダクトデザイン、設計、試作、量産、パッケージデザイン等の製品開発",
+    "url": "https://dpi-web.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "筐体設計・機構設計・試作・量産を考慮した構造を生み出し、ブランディング・マーケティング等の商業的な戦略にもマッチするデザインコンセプトの策定を行います",
+    "url": "https://dpi-web.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "試作・量産可能な筐体設計／機構設計を行います",
+    "url": "https://dpi-web.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット試作（切削加工・3Dプリント・真空注型等）から大量生産（射出成形・真空成形・板金等、組立）まで、製品試作・製造を受託します",
+    "url": "https://dpi-web.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "製品企画、ブランドコンセプト・製品コンセプト・販売戦略の策定、プロダクトデザインや機構設計、試作、購買、量産、プロモーション、D2Cへの移行等、デザインを主軸とした事業構築のトータルデザインマネジメント、デザインコンサルティングを行います",
+    "url": "https://dpi-web.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "デザインから導かれる一筋の解を設計、試作、量産、プロモーションへと真直ぐ受け継ぐ製品開発を行います",
+    "url": "https://dpi-web.jp/service/mechanicaldesign/",
+    "pass": 1
+   },
+   {
+    "quote": "それを基に各種試作、CG画像製作、CAE（解析）、金型加工への展開が可能",
+    "url": "https://dpi-web.jp/service/mechanicaldesign/",
+    "pass": 1
+   },
+   {
+    "quote": "製品企画、プロダクトデザイン、筐体・機構設計を始めとする製品開発、国内外での試作・量産、",
+    "url": "https://dpi-web.jp/service/design-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクトデザイン、筐体設計・機構設計、試作、量産、ブランディング、プロモーション、マーケティング、事業戦略構築",
+    "url": "https://dpi-web.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "釣具（ブランド名：PUDLEE）｜製品開発受託（プロダクトデザイン・設計・試作・量産）｜デザインコンサルティングサービス（デザイン経営・デザインマネジメント）｜デザインワークショップ開催",
+    "url": "https://net.kitakyushucci.or.jp/mono-db/companys/index/312164",
+    "pass": 3
+   },
+   {
+    "quote": "●製品開発｜プロダクトデザイン・設計・試作・量産",
+    "url": "https://net.kitakyushucci.or.jp/mono-db/companys/index/312164",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット・医療機器・家電・雑貨 等 様々な製品のデザイン、設計、試作、量産を受託します",
+    "url": "https://net.kitakyushucci.or.jp/mono-db/companys/index/312164",
+    "pass": 3
+   },
+   {
+    "quote": "国内外の優れた協力工場とのパートナーシップによりハイレベルな試作・量産体制を備えており、1個の試作から数十万個レベルの量産まで対応します",
+    "url": "https://net.kitakyushucci.or.jp/mono-db/companys/index/312164",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクトデザイン（工業デザイン）と詳細な機構設計、国内外での試作・量産等の手配をデザイナーがワンストップで行い、製造・商流にも精通する豊富なモノづくりの知識・経験を基に製品開発受託、デザインコンサルティングサービス提供します",
+    "url": "https://net.kitakyushucci.or.jp/mono-db/companys/index/312164",
+    "pass": 3
+   },
+   {
+    "quote": "スタジオディーピーアイは、企画/デザイン/設計/試作/量産/パッケージを公式情報で確認できる候補です",
+    "url": "https://www.product-development-consulting.com/companies/studio-dpi/",
+    "pass": 3
+   },
+   {
+    "quote": "調査範囲、企画案の粒度、検証方法、開発工程への接続、費用算定の範囲を、プロダクトデザイン/設計/試作/量産の相談内容に合わせて確認してください",
+    "url": "https://www.product-development-consulting.com/companies/studio-dpi/",
+    "pass": 3
+   },
+   {
+    "quote": "スタジオディーピーアイは、プロダクトデザイン/設計/試作/量産の領域で比較したい候補です",
+    "url": "https://www.product-development-consulting.com/companies/studio-dpi/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "医療機器、ロボット、電子機器、雑貨等、工業製品を「愛される商品」にする技術",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの身の回りにある家電製品や文具といった生活用品、医療機器、自動車、工場で使用される産業機械のような工業製品から手作りの伝統工芸品のようなものまで、ありとあらゆる製品が対象となります",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作型/量産型】 自動車部品や家電部品の金型加工等も得意とする、高度な技術を持つ金型メーカーとの連携により、高品質の射出成形金型加工が可能です",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【量産】 自動車部品や家電部品の射出成形実績も豊富で、金型検討段階からモールドフロー（樹脂流動解析）を通してゲート位置やガスベンド等、金型仕様についての相談もできる射出成形メーカーとの連携により、安定した量産が可能です",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作・小ロット生産・量産】 射出成形に比べると形状的な制約はありますが、金型等の初期費用が安価で、特に大型部品の製造においては低コスト化が図れます",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作/量産】 ウレタン塗装で自動車塗装のような高品質で耐久性のある塗装が可能",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "スタジオディーピーアイは、医療機器・ロボット・各種電子機器・雑貨等、ジャンル",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクトデザイン（工業製品のデザイン）、筐体設計、機構設計、3Dプリンタ（光造形）用3D-CADモデリング受託（主に家電部品、自動車部品）、射出成形金型入子・電極の3D-CAD設計モデリング、グラフィックデザイン、CG画像制作、動画編集、Webコンサルティング等の業務を開始",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "組立治具や実験装置の制作、QC工程表や作業標準書の作成、製品ごとに品質管理の検査成績書フォーマットの作成、営業マニュアルの作成、営業ツールの作成 などを通し、モノづくりには企画初期段階から一貫した理念とコンセプトが必要であることを身を持って実感する",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "同時に、従来のプロダクトデザイン・製品設計、グラフィックデザインなどのデザインワークに加え、Webコンサルティング、光造形や切削加工の形状モデリング、射出成形金型の入子や電極の設計モデリング等も主な業務として取扱い品目を拡大した",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "強力なプレゼンテーションツールとして、仕様検討用のCG試作として、また、パッケージ・カタログ・Web・プレス掲載などのプロモーション用画像として、「金型が出来ていなくても3ヶ月早くプロモーションできる」をキャッチコピーに、コストとスピードとクオリティの面で、ビジネスに絶大な利益を生み出すサービスを開始",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "協力分野：医療・美容・健康を中心としたブランディングデザイン、Webコンサルティング",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "協力分野：海外生産・簡易金型・小ロット生産・機械設計・機械設備",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "3D-CADにて意匠面のデザイン意図を反映しながら、射出成形金型・成形、真空成形・圧空成形、プレス加工や切削加工、組立作業等の製造工程を考慮した設計を行います",
+    "url": "https://dpi-web.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "電子機器、自動車パーツ、ロボット、",
+    "url": "https://dpi-web.jp/service/mechanicaldesign/",
+    "pass": 1
+   },
+   {
+    "quote": "射出成形金型の入子・電極設計、",
+    "url": "https://dpi-web.jp/service/mechanicaldesign/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品や家電製品など複雑な製品形状の射出成形金型における入子、放電加工用の電極、",
+    "url": "https://dpi-web.jp/service/mechanicaldesign/",
+    "pass": 1
+   },
+   {
+    "quote": "金型構成パーツの 設計・3D-CADモデリングを通して培った、製品設計を確実に実現する技術",
+    "url": "https://dpi-web.jp/service/mechanicaldesign/",
+    "pass": 1
+   },
+   {
+    "quote": "それを基に各種試作、CG画像製作、CAE（解析）、金型加工への展開が可能",
+    "url": "https://dpi-web.jp/service/mechanicaldesign/",
+    "pass": 1
+   },
+   {
+    "quote": "成形・金型メーカーとの協議参画、成形TRY立ち会い",
+    "url": "https://dpi-web.jp/service/mechanicaldesign/",
+    "pass": 1
+   },
+   {
+    "quote": "金型・製品が出来る3か月前から営業開始",
+    "url": "https://dpi-web.jp/service/cg/",
+    "pass": 1
+   },
+   {
+    "quote": "・デザイン的観点による金型・治工具等の検査",
+    "url": "https://dpi-web.jp/service/design-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器・電化製品・ロボット・工業製品・雑貨等 様々なジャンルの",
+    "url": "https://net.kitakyushucci.or.jp/mono-db/companys/index/312164",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット・医療機器・家電・雑貨 等 様々な製品のデザイン、設計、試作、量産を受託します",
+    "url": "https://net.kitakyushucci.or.jp/mono-db/companys/index/312164",
+    "pass": 3
+   },
+   {
+    "quote": "製品コンセプトの策定の他、射出成形金型の構造や加工、組立、検査等の製造事情、商習慣等も考慮して、プロダクトデザイン（インダストリアルデザイン、工業デザイン）、筐体設計・機構設計を行う、全国的にも希少なプロダクトデザイン事務所です",
+    "url": "https://net.kitakyushucci.or.jp/mono-db/companys/index/312164",
+    "pass": 3
+   },
+   {
+    "quote": "ロボット・自動車・家電・医療機器・雑貨 の製品開発シンクタンク",
+    "url": "https://mono.ipros.com/company/detail/2032770/",
+    "pass": 3
+   },
+   {
+    "quote": "●射出成形金型の入子・電極・切削・RP(光造形)試作用 形状モデリング",
+    "url": "https://mono.ipros.com/company/detail/2032770/",
+    "pass": 3
+   },
+   {
+    "quote": "●海外での金型加工・成形・製造・アルミ型少ロット生産",
+    "url": "https://mono.ipros.com/company/detail/2032770/",
+    "pass": 3
+   },
+   {
+    "quote": "その他、ロボットメーカー様、家電メーカー様、雑貨メーカー様、加工･試作メーカー様、設計事務所様 etc",
+    "url": "https://mono.ipros.com/company/detail/2032770/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "プロダクトデザイン、筐体設計・機構設計、クレイモデル試作、光造形試作、CAE、製図等、一連の製品開発工程を解説",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "11｜3Dプリンタで試作、組付・動作確認",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "CAD上での検証、設計修正を終えたところで、高精細な3Dプリンタ（光造形）で出力し、基板・バッテリーも実機同様に組み上げ、使用感や作動状況を検証",
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "pass": 1
+   },
+   {
+    "quote": "試作｜海外での切削加工・塗装・樹脂メッキ加工、国内での光造形マスター製作・真空注型（エラストマーライク）",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作】 高精細3Dプリンタでの出力",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "他に、弾性のある粉末造形等、用途に応じた出力方法をご提案いたします",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "光造形で出力後、表面をきれいに仕上げ、サーフェイサー（塗装下地）仕上げや塗装仕上げが可能です",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作】 切削加工や光造形等で3Dプリントして、表面をきれいに処理したマスター形状を基にシリコン型を制作し、熱硬化性樹脂を流して部品形状を形作ります",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作/量産】 製品形状を基に各種鋳造方法に適した注型のマスター形状を設計、光造形や切削加工でマスター形状を製作、鋳型を作成し、様々な金属（鉛/鈴/ピューター）を流して鋳造します",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "プロダクトデザイン（工業製品のデザイン）、筐体設計、機構設計、3Dプリンタ（光造形）用3D-CADモデリング受託（主に家電部品、自動車部品）、射出成形金型入子・電極の3D-CAD設計モデリング、グラフィックデザイン、CG画像制作、動画編集、Webコンサルティング等の業務を開始",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "3D CAD/CAMシステム Topsolid 販売代理店業務開始",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "同時に、同社への2D-CAD・3D-CADの選定、導入も積極的に進め、1999年頃より3D-CADで設計/モデリングしたデータを基にした切削加工試作や光造形（3Dプリント）、真空注型などの試作外注の活用も開始",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "同時に、従来のプロダクトデザイン・製品設計、グラフィックデザインなどのデザインワークに加え、Webコンサルティング、光造形や切削加工の形状モデリング、射出成形金型の入子や電極の設計モデリング等も主な業務として取扱い品目を拡大した",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "協力分野：3Dプリント（光造形・粉末造形）・切削加工・真空注型・アルミ鋳造・塗装などの試作全般",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・電話またはTV電話（ZOOM/SKYPE/Teams等）による協議、サポート",
+    "url": "https://dpi-web.jp/service/design-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "画像引用元：https://amtc.jp/",
+    "url": "https://www.product-development-consulting.com/companies/studio-dpi/",
+    "pass": 3
+   },
+   {
+    "quote": "●射出成形金型の入子・電極・切削・RP(光造形)試作用 形状モデリング",
+    "url": "https://mono.ipros.com/company/detail/2032770/",
+    "pass": 3
+   },
+   {
+    "quote": "●3D CAD/CAMシステムTopsolid 販売代理店",
+    "url": "https://mono.ipros.com/company/detail/2032770/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "試作｜海外での切削加工・塗装・樹脂メッキ加工、国内での光造形マスター製作・真空注型（エラストマーライク）",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "※品物によっては樹脂メッキ加工等も可能です",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作/小ロット生産/量産】 ステンレス、アルミ、樹脂、ケミカルウッド（人口木材）等、様々な材料を高精度に切削加工",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作】 切削加工や光造形等で3Dプリントして、表面をきれいに処理したマスター形状を基にシリコン型を制作し、熱硬化性樹脂を流して部品形状を形作ります",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "注型する際に、形状表面に巣ができないように真空状態で脱泡しながら形状の隅々まで樹脂を充填します",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "ABSライクやPPライク、エラストマー・ゴムライク等、熱可塑性樹脂を模した物性を持つ樹脂を注型することで、より、量産に近いワーキングモデルの試作が可能となります",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "シリコンを注型する場合は樹脂型（樹脂を切削加工）を作成します",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "出来上がったFRP型にガラス繊維と樹脂を塗り重ねて、積層しながら形状を作ります",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   },
+   {
+    "quote": "【量産】 自動車部品や家電部品の射出成形実績も豊富で、金型検討段階からモールドフロー（樹脂流動解析）を通してゲート位置やガスベンド等、金型仕様についての相談もできる射出成形メーカーとの連携により、安定した量産が可能です",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "・EメールやWeb転送サービスによる各種資料、データの提出",
+    "url": "https://dpi-web.jp/service/design-consulting/",
+    "pass": 1
+   },
+   {
+    "quote": "E-MAIL ( 必須 ) ※ 公開されません",
+    "url": "https://dpi-web.jp/%E5%85%A8%E5%9B%BD%E3%81%AE%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%84%E6%A9%9F%E6%A7%8B%E8%A8%AD%E8%A8%88%E3%81%AA%E3%81%A9%E3%81%AE%E8%A3%BD%E5%93%81/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "試作 / 量産 - スタジオディーピーアイ 株式会社 公式Webサイト — 試作 / 量産 - スタジオディーピーアイ 株式会社 公式Webサイト dpi-web.jp https://dpi-web.jp > SERVICE",
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "pass": 3
+   },
+   {
+    "quote": "COMPANY | 会社概要 － スタジオディーピーアイ 株式会社 — COMPANY | 会社概要 － スタジオディーピーアイ 株式会社 dpi-web.jp https://dpi-web.jp > company",
+    "url": "https://dpi-web.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "スタジオディーピーアイ (株) | ものづくり北九州企業 ... — スタジオディーピーアイ (株) | ものづくり北九州企業 ... 北九州商工会議所 https://net.kitakyushucci.or.jp > companys > index",
+    "url": "https://net.kitakyushucci.or.jp/mono-db/companys/index/312164",
+    "pass": 3
+   },
+   {
+    "quote": "スタジオディーピーアイ 製品開発コンサル｜新商品テーマ ... — スタジオディーピーアイ 製品開発コンサル｜新商品テーマ ... product-development-consulting.com https://www.product-development-consulting.com > studi...",
+    "url": "https://www.product-development-consulting.com/companies/studio-dpi/",
+    "pass": 3
+   },
+   {
+    "quote": "スタジオディーピーアイ 株式 会社 - NCネットワーク — スタジオディーピーアイ 株式 会社 - NCネットワーク エミダス https://ja.nc-net.or.jp > company > product > detail",
+    "url": "https://ja.nc-net.or.jp/company/88000/product/detail/148257/",
+    "pass": 3
+   },
+   {
+    "quote": "Studio dpi, inc.【 スタジオ ディーピーアイ 株式 会社 】 — Studio dpi, inc.【 スタジオ ディーピーアイ 株式 会社 】 Facebook https://www.facebook.com > ... > Merchandising Service",
+    "url": "https://www.facebook.com/dpi.japan/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "スタジオディーピーアイ | 企業情報 | イプロスものづくり — スタジオディーピーアイ | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > その他製造",
+    "url": "https://mono.ipros.com/company/detail/2032770/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTACT | お問い合わせ － スタジオディーピーアイ 株式会社 — CONTACT | お問い合わせ － スタジオディーピーアイ 株式会社 dpi-web.jp https://dpi-web.jp > contact",
+    "url": "https://dpi-web.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Studio dpi, inc.【 スタジオ ディーピーアイ 株式会社】 Studio dpi, inc.【 スタジオ ディーピーアイ 株式会社】 Facebook https://www.facebook.com > dpi.japan > photos",
+    "url": "https://www.facebook.com/dpi.japan/photos/",
+    "pass": 3
+   },
+   {
+    "quote": "Studio dpi, inc.【 スタジオ ディーピーアイ 株式会社】 Studio dpi, inc.【 スタジオ ディーピーアイ 株式会社】 Facebook https://www.facebook.com > ... > Merchandising Service",
+    "url": "https://www.facebook.com/dpi.japan/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://dpi-web.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dpi-web.jp/service/productdesign/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dpi-web.jp/service/prototyping-mass-production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dpi-web.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dpi-web.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dpi-web.jp/service/mechanicaldesign/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dpi-web.jp/service/graphicdesign/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dpi-web.jp/service/cg/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dpi-web.jp/service/design-consulting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dpi-web.jp/service/design-workshop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dpi-web.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dpi-web.jp/%E5%85%A8%E5%9B%BD%E3%81%AE%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%84%E6%A9%9F%E6%A7%8B%E8%A8%AD%E8%A8%88%E3%81%AA%E3%81%A9%E3%81%AE%E8%A3%BD%E5%93%81/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://dpi-web.jp/wp-content/uploads/2022/01/img_productdesign_001.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://dpi-web.jp/wp-content/uploads/2022/01/img_productdesign_002.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://dpi-web.jp/wp-content/uploads/cache/2022/01/productdesign_sketch_004/3402180756.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://dpi-web.jp/wp-content/uploads/cache/2022/01/productdesign_sketch_005/2367903615.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://dpi-web.jp/wp-content/uploads/cache/2022/01/works_productdesign_091_houkousha_02_2012/4246129805.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://dpi-web.jp/wp-content/uploads/cache/2022/01/productdesign_sketch_012/10743586.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://dpi-web.jp/wp-content/uploads/cache/2022/01/productdesign_sketch_008/3025779521.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://dpi-web.jp/wp-content/uploads/cache/2022/01/productdesign_sketch_001/2708595999.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://dpi-web.jp/wp-content/uploads/cache/2022/01/productdesign_sketch_002/1208579722.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://dpi-web.jp/wp-content/uploads/cache/2022/01/productdesign_sketch_003/3779736101.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://dpi-web.jp/wp-content/uploads/cache/2022/01/productdesign_sketch_007/177094043.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://dpi-web.jp/wp-content/uploads/cache/2022/01/productdesign_sketch_013/1678856998.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/download/1955-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://net.kitakyushucci.or.jp/mono-db/companys/index/312164",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.product-development-consulting.com/companies/studio-dpi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2032770/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://studio.design/ja/support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/dpi.japan/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/dpi.japan/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "スタジオディーピーアイ 取扱製品 試作 小ロット",
+   "results": [
+    "https://dpi-web.jp/service/prototyping-mass-production/",
+    "https://injection-lab.com/download/1955-2.html",
+    "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "https://injection-fuchu.com/column/1203/",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "https://www.design-kd.com/3d-printer-ryosan-shohinka",
+    "https://kyoeidesign.co.jp/lot-production/qa-lot-production/",
+    "https://www.product-development-consulting.com/companies/studio-dpi/",
+    "https://dpi-web.jp/service/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "スタジオディーピーアイ 会社概要 事業内容",
+   "results": [
+    "https://dpi-web.jp/company/",
+    "https://net.kitakyushucci.or.jp/mono-db/companys/index/312164",
+    "https://www.product-development-consulting.com/companies/studio-dpi/",
+    "https://ja.nc-net.or.jp/company/88000/product/detail/148257/",
+    "https://www.facebook.com/dpi.japan/?locale=ja_JP",
+    "https://dpi-web.jp/",
+    "https://x.com/studio_dpi",
+    "https://sites.google.com/site/industrialdesigndpi",
+    "https://www.i-studio.co.jp/company/company-overview/",
+    "https://pudlee.jp/fishing/company/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "スタジオディーピーアイ お問い合わせ メール",
+   "results": [
+    "https://mono.ipros.com/company/detail/2032770/",
+    "https://dpi-web.jp/contact/",
+    "https://studio.design/ja/support",
+    "https://www.product-development-consulting.com/companies/studio-dpi/",
+    "https://www.discover-design.jp/contact.html",
+    "https://www.deen.co.jp/contact-m",
+    "https://dpi-tokyo.com/contact/index.html",
+    "https://dpi-japan.org/inquiry/",
+    "https://qrstudiofree.com/ja/contact/",
+    "https://ja.nc-net.or.jp/company/88000/inquiry/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com スタジオディーピーアイ",
+   "results": [
+    "https://note.com/vesper_illust/n/nd604b1879a50",
+    "https://note.com/ippainokaito/n/n9a9c523acedc",
+    "https://note.com/camera_banban/n/nbe8529187462",
+    "https://note.com/tjgmagjma0852/n/n9932c7266602",
+    "https://note.com/kanatanagi/n/n6c2dd767afbc",
+    "https://note.com/hghvrhfejh2865fj/n/nc27ad069f4d3",
+    "https://note.com/hakuhodo_oi/n/n2ed2cba839aa",
+    "https://note.com/famous_godwit374/n/n951c9a2de9d1",
+    "https://note.com/nice_haru1934/n/n8848eb1582fd",
+    "https://note.com/deft_quokka2492/n/nc87eb1ef94c2"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com スタジオディーピーアイ",
+   "results": [
+    "https://x.com/studio_dpi",
+    "https://x.com/airphoto_jp",
+    "https://x.com/numerous_music/status/2001261840396058969",
+    "https://x.com/pudlee_Fishing",
+    "https://x.com/s_pierrot_store/status/1938447198212989101",
+    "https://x.com/pudlee_Fishing/status/2115423627072208986",
+    "https://x.com/comicomistudio/status/932820991117373440",
+    "https://x.com/fmcocolo765/status/932874632331276288",
+    "https://x.com/pudlee_Fishing/status/1888493912542904497",
+    "https://x.com/STUDIO_dpi"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com スタジオディーピーアイ",
+   "results": [
+    "https://jp.linkedin.com/pulse/2026-venture-capital-industry-forecast-john-cowan-naf4e?tl=ja",
+    "https://www.linkedin.com/pub/dir/Kazuhiro/Ueno",
+    "https://www.linkedin.com/posts/kaise-shiwa-255a3a136_miumiu-miumiugymnasium-popup-activity-7294682321226452992-dPI-",
+    "https://jp.linkedin.com/pulse/%E4%B8%96%E7%95%8C%E3%81%AE%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E5%B8%82%E5%A0%B4%E3%82%92%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%8B%E3%82%89%E6%88%A6%E7%95%A5%E3%81%BE%E3%81%A72026%E5%B9%B42033%E5%B9%B4-nimbusnodex-ut1xe",
+    "https://jp.linkedin.com/directory/companies/more",
+    "https://www.linkedin.com/jobs/%E7%BA%B8%E9%A3%9E%E6%9C%BA%E5%AE%9E%E4%BD%93%E4%B9%A6pg%E7%9C%9F%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%E7%BD%91%E7%BB%9C%E8%AF%AD%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9B%B4%E6%92%AD%E9%97%B4%E8%A3%85%E9%A5%B0%E7%81%B5%E6%84%9F-jobs?position=1&pageNum=0",
+    "https://jp.linkedin.com/in/sonokasagara",
+    "https://jp.linkedin.com/in/sendo",
+    "https://jp.linkedin.com/in/yumatanaka",
+    "https://jp.linkedin.com/in/shinya-fujiwara-1a657151"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com スタジオディーピーアイ",
+   "results": [
+    "https://www.facebook.com/dpi.japan/photos/",
+    "https://www.facebook.com/dpi.japan/posts/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC-%E4%B8%8A%E9%87%8E%E3%81%A7%E3%81%99%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AB%E7%94%BB%E6%9D%90%E6%96%B0%E8%AA%BF%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%81%9A%E3%81%84%E3%81%B6%E3%82%93%E5%89%8D%E3%81%8B%E3%82%89-pc%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%E3%81%A7%E6%8F%8F%E3%81%8F%E3%81%93%E3%81%A8%E3%81%AE%E6%96%B9%E3%81%8C%E5%A4%9A%E3%81%8F%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8C%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E3%83%A2%E3%83%A4%E3%83%A2%E3%83%A4%E3%81%A8%E7%94%9F%E3%81%BE%E3%82%8C%E3%82%8B%E3%82%82%E3%81%AE%E3%82%92%E6%8E%A2%E3%81%90%E3%82%8A%E3%81%AA%E3%81%8C/5031518686939159/",
+    "https://www.facebook.com/dpi.japan/posts/%E6%80%A5%E5%8B%9F%E5%86%85%E8%81%B7%E3%81%95%E3%82%93-%E5%8B%9F%E9%9B%86%E4%B8%AD%E3%81%A7%E3%81%99%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%B8%82%E5%86%85%E3%81%AB%E3%81%8A%E4%BD%8F%E3%81%BE%E3%81%84%E3%81%AE%E6%96%B9%E3%81%A7%E5%BC%8A%E7%A4%BE%E8%A3%BD%E5%93%81%E9%87%A3%E5%85%B7%E3%81%AE%E9%83%A8%E5%93%81%E4%BD%9C%E6%88%90%E3%81%AE%E5%86%85%E8%81%B7%E4%BD%9C%E6%A5%AD%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91%E3%82%8B%E6%96%B9%E3%82%92%E5%8B%9F%E9%9B%86%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E8%A9%B3%E7%B4%B0%E3%81%AA%E5%86%85%E5%AE%B9%E3%81%AB%E3%81%A4%E3%81%8D%E3%81%BE%E3%81%97%E3%81%A6%E3%81%AF%E3%81%8A%E9%9B%BB%E8%A9%B1%E3%81%AB%E3%81%A6%E3%81%94%E8%AA%AC%E6%98%8E%E3%81%95%E3%81%9B/2868794733211576/",
+    "https://www.facebook.com/pudlee.Fishing/posts/%E3%81%93%E3%81%AE%E8%BA%8D%E5%8B%95%E6%84%9F%E6%BA%A2%E3%82%8C%E3%82%8B%E5%95%86%E5%93%81%E3%83%AD%E3%82%B4%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%AE%E8%91%97%E5%90%8D%E3%81%AA%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC-%E5%B9%B3%E6%9D%BE-%E8%81%96%E6%82%9F-%E6%B0%8F%E3%81%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%97%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E6%9B%B8%E7%B1%8Dlogo-mark-in-japan%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%AD%E3%82%B4%E3%83%9E%E3%83%BC%E3%82%AF%E9%9B%86-vol6/1481186982244713/",
+    "https://www.facebook.com/ko1photo/posts/%E9%A1%8D%E8%A3%85%E5%86%99%E7%9C%9F%E8%B2%A9%E5%A3%B2%E4%B8%AD/706680642454885/",
+    "https://www.facebook.com/interiorsanai/posts/%E6%96%BD%E5%B7%A5%E4%BA%8B%E4%BE%8B%E3%81%9B%E3%81%A8%E3%81%86%E3%81%A1%E3%83%87%E3%83%8B%E3%83%A0-%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E3%83%87%E3%83%8B%E3%83%A0%E3%82%AB%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%9D%E3%81%AE%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E3%81%84%E3%81%84%E6%84%8F%E5%91%B3%E3%81%A7%E8%A3%8F%E5%88%87%E3%82%8B%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E7%80%AC%E6%88%B8%E5%86%85%E5%82%99%E5%BE%8C%E7%A6%8F%E5%B1%B1%E3%81%AE%E3%83%87%E3%83%8B%E3%83%A0%E7%94%A3%E5%9C%B0%E3%81%8B%E3%82%89%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9F%E6%9C%AC%E6%A0%BC%E3%83%87%E3%83%8B%E3%83%A0%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3%E5%AE%9F%E3%81%AF-%E3%82%A4/921770090502930/",
+    "https://www.facebook.com/interiorsanai/posts/%E6%96%BD%E5%B7%A5%E4%BA%8B%E4%BE%8B%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%AB%E3%83%BC%E3%83%9A%E3%83%83%E3%83%88%E3%81%94%E5%85%A5%E5%B1%85%E5%89%8D%E3%81%AE%E3%81%8A%E5%AE%A2%E6%A7%98%E3%82%88%E3%82%8A%E4%B8%8B%E9%9A%8E%E3%81%B8%E3%81%AE%E9%9F%B3%E3%82%92%E6%8A%91%E3%81%88%E3%81%9F%E3%81%84%E5%B0%86%E6%9D%A5%E3%81%AE%E5%8E%9F%E7%8A%B6%E5%9B%9E%E5%BE%A9%E3%82%82%E8%80%83%E3%81%88%E3%81%9F%E3%81%84%E3%81%A8%E3%81%84%E3%81%86%E3%81%94%E7%9B%B8%E8%AB%87%E3%82%92%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%9D%E3%81%93%E3%81%A7%E3%81%94%E6%8F%90%E6%A1%88%E3%81%97%E3%81%9F%E3%81%AE%E3%81%8C%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%AB%E3%83%BC%E3%83%9A%E3%83%83%E3%83%88%E6%96%BD%E5%B7%A5%E3%81%A7%E3%81%99/983871474292791/",
+    "https://www.facebook.com/interiorsanai/photos/d41d8cd9/909671408379465/",
+    "https://www.facebook.com/interiorsanai/photos/d41d8cd9/458988670114410/",
+    "https://www.facebook.com/dpi.japan/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "スタジオディーピーアイ note 社長",
+   "results": [
+    "https://dpi-web.jp/",
+    "https://note.com/harahiroshi/n/naae8ba17e839",
+    "https://note.com/harahiroshi/n/n0f31081a5fee",
+    "https://ja.nc-net.or.jp/company/88000/product/detail/148257/",
+    "https://www.facebook.com/dpi.japan/?locale=ja_JP",
+    "https://note.jp/n/nf1a45fb051de",
+    "https://x.com/studio_dpi",
+    "https://note.com/harahiroshi/m/m132dc20dc2b6",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://jp.linkedin.com/in/和宏-上野-81371a247"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "スタジオディーピーアイ X 投稿",
+   "results": [
+    "https://x.com/studio_dpi",
+    "https://dpi-web.jp/",
+    "https://www.facebook.com/dpi.japan/?locale=ja_JP",
+    "https://www.instagram.com/reel/DEpJpfvy_iK/",
+    "https://ja.nc-net.or.jp/company/88000/",
+    "https://www.youtube.com/watch?v=ecOgVkfyA9c&vl=ja",
+    "https://www.facebook.com/printful/videos/is-your-design-actually-print-ready-heres-what-dpi-means-and-why-it-matters/1511348053973861/",
+    "https://www.product-development-consulting.com/companies/studio-dpi/",
+    "https://www.instagram.com/studio_dpi/",
+    "https://dpi-web.jp/2026/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像12件／外部8頁・検索9回）"
+ }
+}

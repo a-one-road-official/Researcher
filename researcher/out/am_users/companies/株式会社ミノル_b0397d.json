@@ -1,0 +1,831 @@
+{
+ "name": "株式会社ミノル",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T18:57:31.341782+00:00",
+ "official_url": "http://www.minoru-1968.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒959-1265　新潟県燕市道金1154-1",
+    "url": "https://www.minoru-1968.co.jp/annai/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "関川 大作",
+    "url": "https://www.minoru-1968.co.jp/annai/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "23名",
+    "url": "https://www.minoru-1968.co.jp/annai/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "自動車部品・自転車部品の金属 プレス加工品・時計部品の製造 家電・OA機器シャーシ 農業機械・エンジン部品 マグネシウム塑性加工 プレス金型・溶接治具",
+    "url": "https://www.minoru-1968.co.jp/annai/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "工場規模",
+    "value": "敷地 2042・ 建坪 1300・",
+    "url": "https://www.minoru-1968.co.jp/annai/",
+    "pass": 1
+   },
+   {
+    "label": "協力工場",
+    "value": "板金プレス部門・１１社 切削部門・・・・・３社 金型部門・・・・・４社 溶接部門・・・・・５社 表面処理部門・・・５社 研磨部門・・・・・２社",
+    "url": "https://www.minoru-1968.co.jp/annai/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "株式会社 大内製作所 株式会社 穴澤製作所 高橋金属 株式会社 清水工業 株式会社",
+    "url": "https://www.minoru-1968.co.jp/annai/",
+    "pass": 1
+   },
+   {
+    "label": "主要仕入先",
+    "value": "中條鋼材 株式会社 藤田金属 株式会社 ニイガタ産業振興 株式会社",
+    "url": "https://www.minoru-1968.co.jp/annai/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "株式会社ミノルは、300t プレス機で大物製品から小物部品まで一貫生産",
+    "url": "https://www.minoru-1968.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "(協)県央スマップ他： 県中央会の補助でマグネシウム利用の製品開発 新潟『00.７.14 日刊工業新聞』『プレス技術９月号』（掲載）解説：ミノルの参加する、異業種交流団体・ (協)県央スマップで、環境素材マグネシウムのプレス工法＋溶接加工でマグカップを作成",
+    "url": "https://www.minoru-1968.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大物製品から小物部品まで、精度の高いプレス加 …",
+    "url": "https://www.minoru-1968.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ミノルは、300t プレス機で大物製品から小物部品まで一貫生産",
+    "url": "https://www.minoru-1968.co.jp/annai/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は常に人間性を重視し、当社製品が自動車等の安全走行の一翼を担うことを強く自覚し､製造に取り組んでいます",
+    "url": "https://www.minoru-1968.co.jp/annai/",
+    "pass": 1
+   },
+   {
+    "quote": "そのために、高度な技術による金属プレスの金型生産から、プレス製品、生産へと、一貫した管理のもと、自動車部品・自転車部品を量産しております",
+    "url": "https://www.minoru-1968.co.jp/annai/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ミノルは、300t プレス機で大物製品から小物部品まで一貫生産",
+    "url": "https://www.minoru-1968.co.jp/kaihatu/",
+    "pass": 1
+   },
+   {
+    "quote": "では、お客様のご依頼による製品開発はもとより、異業種交流に積極的に取り組み、あらたな製品開発と技術向上に努めています",
+    "url": "https://www.minoru-1968.co.jp/kaihatu/",
+    "pass": 1
+   },
+   {
+    "quote": "また、製品開発の分野にアイデアを出すのはもちろんですが、製造工程における自動化ロボットも自社にて開発し、品質アップとコストダウンの努力を惜しみません",
+    "url": "https://www.minoru-1968.co.jp/kaihatu/",
+    "pass": 1
+   },
+   {
+    "quote": "(協)県央スマップ他： 県中央会の補助でマグネシウム利用の製品開発 新潟『00.７.14 日刊工業新聞』『プレス技術９月号』（掲載）解説：",
+    "url": "https://www.minoru-1968.co.jp/kaihatu/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ミノルは、300t プレス機で大物製品から小物部品まで一貫生産",
+    "url": "https://www.minoru-1968.co.jp/map/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ミノルは、300t プレス機で大物製品から小物部品まで一貫生産",
+    "url": "https://www.minoru-1968.co.jp/kojyo2/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ミノルは、300t プレス機で大物製品から小物部品まで一貫生産",
+    "url": "https://www.minoru-1968.co.jp/kojyo3/",
+    "pass": 1
+   },
+   {
+    "quote": "用途、サイズ、数量、希望納期、予算感を伺い、製品化に必要な条件を整理します",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "実物で形や寸法を確かめながら、製品化に向けた修正点を整理します",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "できあがった製品を手に取り、ひとつひとつ丁寧に検品します",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "寸法や外観、組付けなど、製品に合わせた確認ポイントを共有し、仕上がりを確かめます",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "製品の確認ができたら、届ける状態を整えて納品します",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "製品に合った緩衝材や個包装で、傷や破損を防ぎます",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "新製品や企画段階のご相談に合わせて、必要に応じてNDAの締結に対応します",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、初期コンセプトの立案や試作から量産に至るまで、製品ライフサイクルのあらゆる段階でお客様の技術パートナーとして伴走します",
+    "url": "https://www.minoru-japan.co.jp/company-info.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品の仕様、技術資料、およびアプリケーションガイドの詳細につきましては、みのるグループが運営する以下のドメインにて公開しております",
+    "url": "https://www.minoru-japan.co.jp/company-info.html",
+    "pass": 3
+   },
+   {
+    "quote": "– 製品情報や技術的な内容を網羅した日本語サイト",
+    "url": "https://www.minoru-japan.co.jp/company-info.html",
+    "pass": 3
+   },
+   {
+    "quote": "– 製品概要および主要な技術情報を掲載した英語サイト",
+    "url": "https://www.minoru-japan.co.jp/company-info.html",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、当サイト内には製品カタログ、技術データシート、商用ツール等の全文は掲載しておりません",
+    "url": "https://www.minoru-japan.co.jp/company-info.html",
+    "pass": 3
+   },
+   {
+    "quote": "上記のリンクをクリックすると、minoru-japan.co.jp（ゲートウェイサイト）を離れ、製品情報や技術情報の詳細を掲載した各事業サイトへ移動します",
+    "url": "https://www.minoru-japan.co.jp/company-info.html",
+    "pass": 3
+   },
+   {
+    "quote": "の各ウェブサイトは、このグループ体制のもと、本ゲートウェイサイトの枠組みを超えて、お客様に最新の製品情報や活用事例を提供するために運営されています",
+    "url": "https://www.minoru-japan.co.jp/company-info.html",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "(協)県央スマップ他： 県中央会の補助でマグネシウム利用の製品開発 新潟『00.７.14 日刊工業新聞』『プレス技術９月号』（掲載）解説：ミノルの参加する、異業種交流団体・ (協)県央スマップで、環境素材マグネシウムのプレス工法＋溶接加工でマグカップを作成",
+    "url": "https://www.minoru-1968.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "(協)県央スマップ他： 県中央会の補助でマグネシウム利用の製品開発 新潟『00.７.14 日刊工業新聞』『プレス技術９月号』（掲載）解説：",
+    "url": "https://www.minoru-1968.co.jp/kaihatu/",
+    "pass": 1
+   },
+   {
+    "quote": "で、環境素材マグネシウムのプレス工法＋溶接加工でマグカップを作成",
+    "url": "https://www.minoru-1968.co.jp/kaihatu/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "精度の高いプレス加工を得意とする・多種小ロット生産に対応します",
+    "url": "https://www.minoru-1968.co.jp/annai/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタによる試作も相談可能です",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "小ロットと量産の両面から現実的な進め方を提案します",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "方法を共有したら、試作や見積で具体的な条件を確かめます",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで試作し、形や大きさ、持ちやすさ、部品の組付けを実物で確認します",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "商品にもよりますが、試作品を含め1つからご提供いたします",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "必要に応じて図面化や試作の進め方を提案します",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "内容によって最適な製法は変わりますが、試作や小ロットの相談も承っています",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "金型費用や試作費用はどの段階で分かりますか？",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "形や使い勝手を確認してから量産を検討したい場合も、試作の目的に合わせて進め方を相談できます",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "NDA対応可・図面不要・小ロット1個からご相談いただけます",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、初期コンセプトの立案や試作から量産に至るまで、製品ライフサイクルのあらゆる段階でお客様の技術パートナーとして伴走します",
+    "url": "https://www.minoru-japan.co.jp/company-info.html",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "当社は常に人間性を重視し、当社製品が自動車等の安全走行の一翼を担うことを強く自覚し､製造に取り組んでいます",
+    "url": "https://www.minoru-1968.co.jp/annai/",
+    "pass": 1
+   },
+   {
+    "quote": "そのために、高度な技術による金属プレスの金型生産から、プレス製品、生産へと、一貫した管理のもと、自動車部品・自転車部品を量産しております",
+    "url": "https://www.minoru-1968.co.jp/annai/",
+    "pass": 1
+   },
+   {
+    "quote": "CO2ロボット溶接",
+    "url": "https://www.minoru-1968.co.jp/annai/",
+    "pass": 1
+   },
+   {
+    "quote": "金型部門・・・・・４社",
+    "url": "https://www.minoru-1968.co.jp/annai/",
+    "pass": 1
+   },
+   {
+    "quote": "また、製品開発の分野にアイデアを出すのはもちろんですが、製造工程における自動化ロボットも自社にて開発し、品質アップとコストダウンの努力を惜しみません",
+    "url": "https://www.minoru-1968.co.jp/kaihatu/",
+    "pass": 1
+   },
+   {
+    "quote": "自動順送ラインや、自動機械ロボットを自社で開発しています",
+    "url": "https://www.minoru-1968.co.jp/kaihatu/",
+    "pass": 1
+   },
+   {
+    "quote": "北陸自動車道 三条燕インター、または、栄インター",
+    "url": "https://www.minoru-1968.co.jp/map/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボット：4台",
+    "url": "https://www.minoru-1968.co.jp/kojyo2/",
+    "pass": 1
+   },
+   {
+    "quote": "CO2溶接ロボット",
+    "url": "https://www.minoru-1968.co.jp/kojyo3/",
+    "pass": 1
+   },
+   {
+    "quote": "数量や形状に合わせて、金型製作や成形方法を選定します",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "金型費用や試作費用はどの段階で分かりますか？",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "ミノル株式会社は、カーエレクトロニクス、医療機器、モバイル端末など、高度な要求水準が求められる産業に向けて、最先端の材料ソリューションを開発・製造するリーディングカンパニーです",
+    "url": "https://www.minoru-japan.co.jp/company-info.html",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "3Dプリンタによる試作も相談可能です",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンターで試作し、形や大きさ、持ちやすさ、部品の組付けを実物で確認します",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "Official company name (EN)",
+    "url": "https://www.minoru-japan.co.jp/company-info.html",
+    "pass": 3
+   },
+   {
+    "quote": "Official company name (JP)",
+    "url": "https://www.minoru-japan.co.jp/company-info.html",
+    "pass": 3
+   },
+   {
+    "quote": "5-21-13 Pegasus Station Plaza Kamata B2F-2,",
+    "url": "https://www.minoru-japan.co.jp/company-info.html",
+    "pass": 3
+   },
+   {
+    "quote": "Kamata, Ota-ku, Tokyo 144-0052 JAPAN",
+    "url": "https://www.minoru-japan.co.jp/company-info.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "OEM製作・別注製作 - ミノル化学工業株式会社 — OEM製作・別注製作 - ミノル化学工業株式会社 ミノル化学工業株式会社 https://minoru-net.com > oem",
+    "url": "https://minoru-net.com/oem",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 ｜株式会社 ミノル サービス — 会社概要 ｜株式会社 ミノル サービス 株式会社ミノルサービス https://www.minoru-sv.co.jp > company > outline",
+    "url": "https://www.minoru-sv.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "ミノル 工業（株） | 企業ガイド - モノクエ — ミノル 工業（株） | 企業ガイド - モノクエ Mono Que https://monoque.jp > kaisya-guide > kaisya-detail",
+    "url": "https://monoque.jp/kaisya-guide/kaisya-detail/?id=16505",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ Contact - ミノルサービス — お問い合わせ Contact - ミノルサービス 株式会社ミノルサービス https://www.minoru-sv.co.jp > contact",
+    "url": "https://www.minoru-sv.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ ／CONTACT｜ ミノル 工業株式会社 — お問い合わせ ／CONTACT｜ ミノル 工業株式会社 minoru-tec.co.jp https://minoru-tec.co.jp > contact",
+    "url": "https://minoru-tec.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ ｜株式会社 ミノル 運送（公式ホームページ） — お問い合わせ ｜株式会社 ミノル 運送（公式ホームページ） 株式会社ミノル運送 https://minoru888.jp > smarts > index",
+    "url": "https://minoru888.jp/smarts/index/5/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "ミノルサービスへのご意見・ご要望・お問い合わせは、下のフォームからお寄せください",
+    "url": "https://www.minoru-sv.co.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "軍師 ミノル さんについて｜コバルト/椎谷和也の雑記帳 - note 軍師 ミノル さんについて｜コバルト/椎谷和也の雑記帳 - note note https://note.com > ゲーム > ゲーム",
+    "url": "https://note.com/modern_lion235/n/nad9b82c408b5",
+    "pass": 3
+   },
+   {
+    "quote": "ミノル さんとモンハン／酒が主食の民族／節約術 - note ミノル さんとモンハン／酒が主食の民族／節約術 - note note https://note.com > ゲーム > ゲーム",
+    "url": "https://note.com/tarochin1985/n/n30edc55fa12e",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ミノル 寺田 社長 インタビュー① - note 株式会社 ミノル 寺田 社長 インタビュー① - note note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/mi_no_ru_/n/n31b0a2d431f8",
+    "pass": 3
+   },
+   {
+    "quote": "ファルコン ミノル の人気・新着記事まとめ - note ファルコン ミノル の人気・新着記事まとめ - note note https://note.com > tag > ファルコンミノル",
+    "url": "https://note.com/tag/%E3%83%95%E3%82%A1%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%9F%E3%83%8E%E3%83%AB",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "軍師 ミノル (@minoru4160) / X 軍師 ミノル (@minoru4160) / X X https://x.com > minoru4160",
+    "url": "https://x.com/minoru4160",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by 軍師 ミノル (@minoru4160) / X Replies by 軍師 ミノル (@minoru4160) / X X https://x.com > minoru4160 > with_replies",
+    "url": "https://x.com/minoru4160/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "軍師 ミノル (@minoru4160) / X 軍師 ミノル (@minoru4160) / X X https://x.com > minoru4160 > all",
+    "url": "https://x.com/minoru4160/all",
+    "pass": 3
+   },
+   {
+    "quote": "軍師 ミノル さん40歳誕生日、ファンアートで大祝福 - X 軍師 ミノル さん40歳誕生日、ファンアートで大祝福 - X X https://x.com > Trending",
+    "url": "https://x.com/i/trending/2024870212923711769",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ミノル 株式会社 ( Minoru Co., Ltd.) - LinkedIn ミノル 株式会社 ( Minoru Co., Ltd.) - LinkedIn LinkedIn https://jp.linkedin.com > company > minoru-corp",
+    "url": "https://jp.linkedin.com/company/minoru-corp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "オカダ ミノル - Facebook オカダ ミノル - Facebook Facebook https://www.facebook.com > Pages > Public figure > Author",
+    "url": "https://www.facebook.com/p/%E3%82%AA%E3%82%AB%E3%83%80-%E3%83%9F%E3%83%8E%E3%83%AB-100095166544553/",
+    "pass": 3
+   },
+   {
+    "quote": "田中 ミノル (@ Minoru .TM) - Facebook 田中 ミノル (@ Minoru .TM) - Facebook Facebook https://www.facebook.com > ... > Automotive Service",
+    "url": "https://www.facebook.com/Minoru.TM/",
+    "pass": 3
+   },
+   {
+    "quote": "ミノル 工業株式会社 - Facebook ミノル 工業株式会社 - Facebook Facebook https://www.facebook.com > ... > Brand > Tools/Equipment",
+    "url": "https://www.facebook.com/CreateBetterTools/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.minoru-1968.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.minoru-1968.co.jp/annai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.minoru-1968.co.jp/kaihatu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.minoru-1968.co.jp/map/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.minoru-1968.co.jp/kojyo2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.minoru-1968.co.jp/kaihatu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.minoru-1968.co.jp/kojyo3/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://minoru-net.com/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kikumatsu.company/company/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://watch-jewelry-repairlab.co.jp/blog/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.minoru-japan.co.jp/company-info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://minorugroup.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.minoru-sangyo.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.minoru-sv.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/modern_lion235/n/nad9b82c408b5",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tarochin1985/n/n30edc55fa12e",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/minoru4160",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/minoru4160/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/minoru4160/all",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/trending/2024870212923711769",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/minoru-corp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E3%82%AA%E3%82%AB%E3%83%80-%E3%83%9F%E3%83%8E%E3%83%AB-100095166544553/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Minoru.TM/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CreateBetterTools/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/mi_no_ru_/n/n31b0a2d431f8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/tag/%E3%83%95%E3%82%A1%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%9F%E3%83%8E%E3%83%AB",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/minoru4160",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/minoru4160/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ミノル 取扱製品 試作 小ロット",
+   "results": [
+    "https://minoru-net.com/oem",
+    "https://injection-lab.com/technology/64-2.html",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://jp.marketplace.meviy.misumi-ec.com/info/ja/tips/prototype004_resin-casting/",
+    "https://www.techno-labo.com/",
+    "https://injection-fuchu.com/column/1203/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://mono.ipros.com/cg2/%E5%B0%8F%E3%83%AD%E3%83%83%E3%83%88%E7%94%9F%E7%94%A3/",
+    "https://minoru-net.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ミノル 会社概要 事業内容",
+   "results": [
+    "https://kikumatsu.company/company/",
+    "https://watch-jewelry-repairlab.co.jp/blog/company/",
+    "https://www.minoru-japan.co.jp/company-info.html",
+    "https://www.minoru-sv.co.jp/company/outline.html",
+    "https://monoque.jp/kaisya-guide/kaisya-detail/?id=16505",
+    "https://www.nepconjapan.jp/tokyo/ja-jp/search/2026/directory/directory-details.org-f9c3eb4d-171d-4899-aaaf-069c2f39ab14.html",
+    "https://www.hatalike.jp/viewjob/69a4d6b92a0a0031/",
+    "https://en-gage.net/jewelryminoru_saiyo6/",
+    "http://www.jewelryminoru.co.jp/",
+    "https://mi-no-ru.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ミノル お問い合わせ メール",
+   "results": [
+    "https://minorugroup.com/contact/",
+    "https://www.minoru-sangyo.co.jp/contact/",
+    "https://www.minoru-sv.co.jp/contact/",
+    "https://minoru-tec.co.jp/contact/",
+    "https://minoru888.jp/smarts/index/5/",
+    "https://minorutokkyo.com/contact/",
+    "http://www.minoru-kogyo.co.jp/contact",
+    "https://minoru-eng.com/pages/5/",
+    "https://www.minoru-1968.co.jp/inquiry/",
+    "https://www.mi-no-ru.co.jp/otoiawase.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com ミノル",
+   "results": [
+    "https://note.com/modern_lion235/n/nad9b82c408b5",
+    "https://note.com/shijimiota/n/n974e84a43930",
+    "https://note.com/kadimilson",
+    "https://note.com/tarochin1985/n/n30edc55fa12e",
+    "https://note.com/monomono117/n/na1ef273c0c23",
+    "https://note.com/minoru0827/n/n45f6afd0dcc9",
+    "https://note.com/tag/%E3%83%9E%E3%83%84%E3%83%80%E3%83%9F%E3%83%8E%E3%83%AB",
+    "https://note.com/kakutotoranoana/n/n79ecda29e447",
+    "https://note.com/minoru1357",
+    "https://note.com/gifted_hosta481/n/n5d0a4880eaaf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com ミノル",
+   "results": [
+    "https://x.com/minoru4160",
+    "https://x.com/minoru4160/with_replies",
+    "https://x.com/minoru4160/all",
+    "https://x.com/i/trending/2024870212923711769",
+    "https://x.com/Tgurentaifujit",
+    "https://x.com/Kanadome_Minoru",
+    "https://x.com/minoru4160/status/2111349976727179420",
+    "https://x.com/minoru4160/status/2070558245048164785",
+    "https://x.com/minoru200",
+    "https://x.com/minoru366"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com ミノル",
+   "results": [
+    "https://www.linkedin.com/in/sasakimi",
+    "https://jp.linkedin.com/company/minoru-corp",
+    "https://www.linkedin.com/in/minoru-tanabe-44b61453",
+    "https://www.linkedin.com/in/minoru-ko-b46374106",
+    "https://www.linkedin.com/in/minoru-tonogai-8834946",
+    "https://www.linkedin.com/in/minoru-nakashima-a49036110",
+    "https://www.linkedin.com/in/minoru-kimura-369851204",
+    "https://www.linkedin.com/in/minoru-underhill-a4674020a",
+    "https://www.linkedin.com/in/mtakada",
+    "https://www.linkedin.com/in/minoru-kurahashi-6ab096a3"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com ミノル",
+   "results": [
+    "https://www.facebook.com/minoru.hayashi.14/",
+    "https://www.facebook.com/p/%E3%82%AA%E3%82%AB%E3%83%80-%E3%83%9F%E3%83%8E%E3%83%AB-100095166544553/",
+    "https://www.facebook.com/Minoru.TM/",
+    "https://www.facebook.com/CreateBetterTools/",
+    "https://www.facebook.com/minoru.wakuwaku/",
+    "https://www.facebook.com/minoru.maeda.102/",
+    "https://www.facebook.com/minorukagaku/?locale=ja_JP",
+    "https://www.facebook.com/p/%E3%83%9F%E3%83%8E%E3%83%AB%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9-100063894944438/",
+    "https://www.facebook.com/mc.takizawa/",
+    "https://www.facebook.com/jewelryminoru.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ミノル note 社長",
+   "results": [
+    "https://note.com/mi_no_ru_/n/n31b0a2d431f8",
+    "https://note.com/kadimilson",
+    "https://note.com/tag/%E3%83%95%E3%82%A1%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%9F%E3%83%8E%E3%83%AB",
+    "https://note.com/yogayoga12",
+    "https://note.com/nana_nouchi/n/n2ad3c599cf3e",
+    "https://note.com/tag/%E3%83%99%E3%83%AB%E3%83%9E%E3%83%BC%E3%83%AC%E3%83%9F%E3%83%8E%E3%83%AB",
+    "https://www.youtube.com/watch?v=olwOIx3PF5g",
+    "https://minoru-consulting.com/message",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ミノル X 投稿",
+   "results": [
+    "https://x.com/minoru4160",
+    "https://x.com/minoru4160/with_replies",
+    "https://www.twitch.tv/minoru04160/clips",
+    "https://www.twitch.tv/minoru04160/clip/ExuberantWanderingLionJebaited-xVdDkHxOqJ0LgehC?lang=el",
+    "https://www.youtube.com/channel/UCTihjqbpa6rQFMtSTSGlFbA",
+    "https://x.com/minoru4160/status/2015652058926616875",
+    "https://x.com/minoru7311/status/2101309499369984474",
+    "https://search.yahoo.co.jp/realtime/search/ミノル/",
+    "https://fantia.jp/fanclubs/479112",
+    "https://www.pixiv.net/en/users/48330"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部23頁・検索9回）"
+ }
+}

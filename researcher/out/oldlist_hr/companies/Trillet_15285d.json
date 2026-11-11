@@ -1,0 +1,1975 @@
+{
+ "name": "Trillet",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜返信あり",
+ "researched_at": "2026-11-11T18:41:41.490357+00:00",
+ "official_url": "https://trillet.ai",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email support",
+    "value": "Included Included Included",
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "pass": 1
+   },
+   {
+    "label": "Email",
+    "value": "Platform, AI usage, mailbox or delivery provider, storage",
+    "url": "https://trillet.ai/blogs/white-label-ai-chatbot-pricing-comparison",
+    "pass": 1
+   }
+  ],
+  "料金": [
+   {
+    "label": "($297/mo)",
+    "value": "500 minutes, basic features",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "label": "($497/mo)",
+    "value": "1,500 minutes, calendar integration, SMS",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "label": "($997/mo)",
+    "value": "A larger defined allowance, priority support, custom integrations, and a published overage rate",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue",
+    "value": "$9,940/month",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Proudly Australian owned. A global leader.",
+    "url": "https://trillet.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "No problem. Let me book that for you.",
+    "url": "https://trillet.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven in healthcare, legal, finance and government",
+    "url": "https://trillet.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Gemma 4 on LiveKit: 354 milliseconds time to first sentence in LiveKit’s published benchmark. Industry average: 1,400 milliseconds, the lower bound of Hamming AI’s 1.4–1.7 second production median. This is not a measured Trillet end-to-end response time.",
+    "url": "https://trillet.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "When we deploy into an enterprise environment, we need one platform that owns the full stack. Trillet centralizes the infrastructure so we stay focused on delivery.",
+    "url": "https://trillet.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "First vendor to answer our on-premise and compliance requirements without a six-month integration. It runs inside our infrastructure — fully.",
+    "url": "https://trillet.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reads from and writes to your live tools so every conversation results in a completed action rather than a note or ticket.",
+    "url": "https://trillet.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Connects to the telephony, CRM, practice management, payment and calendar systems you already run. Reads and writes during the call, without a parallel system to maintain.",
+    "url": "https://trillet.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise deployment options including on-premise and private cloud.",
+    "url": "https://trillet.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Full audit logs and role-based access; SSO on Enterprise.",
+    "url": "https://trillet.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "On Enterprise, Australian data residency for call recordings, transcripts and backups, and in-country LLM hosting, by agreement.",
+    "url": "https://trillet.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AU residency (Enterprise)",
+    "url": "https://trillet.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trillet Reseller Program for Channel Partners | Trillet",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Bring the Trillet industry solutions named in your agreement to your customers. Stay customer-facing, with products, margins and delivery roles agreed together.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the programme",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Sell approved Trillet solutions",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Earn margin on approved licences, renewals and growth. Terms reflect your market, volume and services.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "The reseller programme",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Build the programme around how you sell, with support and delivery roles agreed together.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Your agreement sets the products, markets, margins and support. The full Trillet portfolio is not included by default.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Protection under your agreement",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Register and protect eligible opportunities when included in your programme.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Where included, manage registered deals and approved sales resources in one place.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Enablement & training.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Add sales training, technical onboarding or both, based on your team’s role.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Agree the products, markets, margins, delivery roles and support.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Follow the agreed sales and delivery process for your first approved opportunity.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Official Trillet industry solutions (Health, Legal, Finance and Government) are not part of self-serve white label. Approved partners get the solutions named in their agreement, and large organisations can buy them directly as enterprise customers through sales. Partner status does not automatically grant access to the full portfolio.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Trillet’s. As a reseller you sell Trillet-branded conversation AI — your clients know what they are buying and you stay the trusted supplier who sold and delivered it. If you want the platform under your own brand instead, that is the white-label platform, which is a product rather than a partner track.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "If deal registration is included, your agreement defines which opportunities qualify, how protection works and how long it lasts. Sales-engineering support applies only where it is part of the agreed program.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Your agreement defines the markets and territories you are authorised to cover. Do not assume exclusivity unless it is expressly included in the agreement.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "What support does Trillet provide after the sale?",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Support responsibilities are set around the solution and your delivery capability. Your team may provide first-line support, while Trillet handles agreed platform or escalation responsibilities behind the deal.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, where the solution and agreement support that motion. We scope the approved offer, governance model, location-level configuration, rollout responsibilities, support process and commercial structure for the customer group.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Program — Bring Trillet Solutions to Market | Trillet",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Trillet industry solutions to your market under a partner agreement, or embed our conversation engine in your product.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Build AI into your product",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Add approved Trillet-branded solutions to the portfolio your customers already trust.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Provide the solution, platform and agreed enablement.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Your product experience",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Build it into your product.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Embed Trillet’s conversation engine in a product or managed service you own.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Own the product experience, brand and customer relationship.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Power the approved capability and agreed technical model.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Sales enablement & training",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "An enterprise-ready foundation.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Full audit logs and role-based access; SSO and Australian data residency on Enterprise, by agreement.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Self-serve white-label does not include the official Trillet industry solutions. Approved partners get them through their agreement; large organisations buy directly through sales.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Official Trillet industry solutions (Health, Legal, Finance and Government) are not part of self-serve white label. Approved partners get the solutions named in their agreement, and large organisations can buy them directly as enterprise customers through sales. Partner status does not automatically grant access to the full portfolio.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "If you want conversation AI inside your own product, choose Technology & OEM. If you want to sell Trillet solutions to clients, choose Reseller. If you want to introduce businesses to Trillet, choose Referral. If you are an agency that wants to run the platform under your own brand, use the self-serve white-label platform instead.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Depending on the model and agreed scope, a partnership may include sales enablement, technical onboarding, deal registration, sales-engineering support, implementation assistance, co-marketing and partner portal access. These are scoped case by case rather than promised as a standard bundle.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "White-label is a self-serve platform product for agencies building their own client solutions under their own brand. It does not include the official Trillet Health, Trillet Legal or Trillet Finance implementations. A partnership is a scoped commercial relationship to embed, resell or refer approved Trillet offerings.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Embed our conversation engine in your product. Add Trillet industry solutions where your agreement names them. Your brand stays in front.",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Own the product experience",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Keep the product yours.",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Use APIs and webhooks to connect conversations to your product data and workflows.",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Agree branding, deployment, support and commercial terms with our product and engineering teams.",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "One engine behind your product.",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Choose the channels, integrations and deployment your product needs. No fixed bundle.",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Voice, SMS, chat and email on one platform. Use the channels your product needs.",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Agents that verify callers, complete tasks in your systems and leave a full audit trail. Designed for regulated industries. Trusted by",
+    "url": "https://trillet.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://trillet.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What operators are saying",
+    "url": "https://trillet.ai/whitelabel",
+    "pass": 1
+   },
+   {
+    "quote": "Solo operators who can't answer while working",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "Understanding the real economics of white-label voice AI helps agencies price competitively while maintaining healthy margins. As of July 2026, this guide breaks down actual cost structures, pricing strategies, and margin optimization tactics used by successful agencies, with the underlying arithmetic shown so you can plug in your own numbers. For the full platform overview, see the",
+    "url": "https://trillet.ai/blogs/white-label-ai-profit-margins",
+    "pass": 1
+   },
+   {
+    "quote": "Trillet AI case study | Google Cloud",
+    "url": "https://cloud.google.com/customers/trilletai",
+    "pass": 3
+   },
+   {
+    "quote": "Used by 800+ customers in 70+ countries",
+    "url": "https://www.rillet.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Contract Manufacturing Revenue Recognition: Point-in-Time vs. Over-Time",
+    "url": "https://www.rillet.com/blog/100m-series-c",
+    "pass": 3
+   },
+   {
+    "quote": "Pitch deck: Ex-Airbus engineer lands €30M for electric plane built in Lilium’s old battery plant",
+    "url": "https://techfundingnews.com/rillet-becomes-unicorn-100m-series-c-iconiq/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "White-label platform for teams serving",
+    "url": "https://trillet.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trillet Reseller Program for Channel Partners | Trillet",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "The reseller programme",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Official Trillet industry solutions (Health, Legal, Finance and Government) are not part of self-serve white label. Approved partners get the solutions named in their agreement, and large organisations can buy them directly as enterprise customers through sales. Partner status does not automatically grant access to the full portfolio.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Trillet’s. As a reseller you sell Trillet-branded conversation AI — your clients know what they are buying and you stay the trusted supplier who sold and delivered it. If you want the platform under your own brand instead, that is the white-label platform, which is a product rather than a partner track.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "What margin do resellers earn?",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Your agreement defines account ownership and the responsibilities around contracting, implementation, renewals and support. The reseller remains customer-facing, while Trillet’s role behind the deal is agreed before launch.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Your agreement lists the Trillet solutions, markets and territories you can sell. Reseller status does not include Health, Government, Finance, Legal or the full portfolio by default.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us who you serve and how you sell. We’ll shape the reseller model with you.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Discuss a reseller partnership",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Building client solutions under your own brand?",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Explore self-serve white-label",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Program — Bring Trillet Solutions to Market | Trillet",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Explore OEM partnership",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller margin, referral rewards or embed economics, structured around your model and agreed scope.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The self-serve white-label platform",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Build and run client solutions under your own brand with Trillet’s white-label platform.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Self-serve white-label does not include the official Trillet industry solutions. Approved partners get them through their agreement; large organisations buy directly through sales.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Official Trillet industry solutions (Health, Legal, Finance and Government) are not part of self-serve white label. Approved partners get the solutions named in their agreement, and large organisations can buy them directly as enterprise customers through sales. Partner status does not automatically grant access to the full portfolio.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "If you want conversation AI inside your own product, choose Technology & OEM. If you want to sell Trillet solutions to clients, choose Reseller. If you want to introduce businesses to Trillet, choose Referral. If you are an agency that wants to run the platform under your own brand, use the self-serve white-label platform instead.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Terms are structured per partnership — margin for resellers, embed economics for OEM, rewards for referrals — around your motion and volume rather than published tier sheets. Every track starts with a conversation with the partnerships team.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How is white-label different from a partnership?",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "White-label is a self-serve platform product for agencies building their own client solutions under their own brand. It does not include the official Trillet Health, Trillet Legal or Trillet Finance implementations. A partnership is a scoped commercial relationship to embed, resell or refer approved Trillet offerings.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Conversation AI for Software Platforms | Trillet",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Embed our conversation engine in your product. Add Trillet industry solutions where your agreement names them. Your brand stays in front.",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Discuss an OEM partnership",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "The product, users and launch goal. OEM suits a repeatable use case with a clear route to market.",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Official Trillet industry solutions (Health, Legal, Finance and Government) are not part of self-serve white label. Approved partners get the solutions named in their agreement, and large organisations can buy them directly as enterprise customers through sales. Partner status does not automatically grant access to the full portfolio.",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Trillet can remain invisible where agreed in the OEM scope. Your domain, interface and product name can stay primary. Your brand and customer relationship remain in front, while implementation, support, escalation and service responsibilities are defined in the agreement.",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "How is OEM different from agency white-label?",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "OEM embeds agreed Trillet capabilities into a product or managed service you own through a scoped partnership. White-label is a self-serve platform for agencies building and operating their own client solutions under the agency brand.",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Does OEM include Trillet’s proprietary industry solutions?",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "OEM has no published self-serve plan. Terms are structured around channels, expected usage and volume, tenancy, deployment, integration depth, support model and any approved packaged-solution rights.",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Book an OEM scoping call",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Building client solutions under your own brand?",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Explore self-serve white-label",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Referral Partner Program | Introduce Businesses to Trillet",
+    "url": "https://trillet.ai/partners/referral",
+    "pass": 1
+   },
+   {
+    "quote": "A repeatable referral programme.",
+    "url": "https://trillet.ai/partners/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Official Trillet industry solutions (Health, Legal, Finance and Government) are not part of self-serve white label. Approved partners get the solutions named in their agreement, and large organisations can buy them directly as enterprise customers through sales. Partner status does not automatically grant access to the full portfolio.",
+    "url": "https://trillet.ai/partners/referral",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label Platform Pricing | Trillet",
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-label platform pricing",
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Where most agencies start. White-label, manage up to 3 clients, and sell under your own brand.",
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For agencies past the first few clients. Unlimited workspaces, your own domain, your own margins, and full operational control.",
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-label plan features and rates",
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "how white-label voice AI platforms compare",
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "on white-label depth and cost at 2,000 minutes.",
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How agencies model those margins",
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Most agencies start on Studio ($99/mo). It gives you white-label branding on a Trillet-hosted address, up to 3 workspaces, 1,000 included minutes, Trillet MCP and 2,000 workflow runs a month. Agency ($299/mo) adds unlimited workspaces, a custom domain, branded emails, custom minute markup and priority support.",
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Move to Agency when you need a fourth workspace, a custom domain, your own minute markup or priority support. Studio is capped at 3 workspaces and runs on a Trillet-hosted address with your branding. Agency ($299/mo) adds unlimited workspaces, your own domain and branded email, 3,000 included minutes, 10 phone numbers and control over what you charge your clients.",
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Launch under your own brand from $99/month. Set your prices and build a recurring service around the clients you know.",
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Best White-Label Voice AI Platform 2026: How to Choose (and Top 10) | Trillet Blog",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Best White-Label Voice AI Platform 2026: How to Choose (and Top 10)",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Stammer AI's Pro White Label plan at $99/month, with no included minutes and voice billed by model at $0.11 to $0.17/min (as of October 2026).",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Best Voice AI Platform for Agencies: Verdict by Use Case",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Service agencies selling a branded voice AI service",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "First-party white-label application; Agency adds custom domain, branded email, minute markup, and unlimited workspaces",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-led agencies that want a mature visual builder",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "First-party white-label with custom domain and subaccounts; client billing now runs outside Synthflow",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise from $30,000/year; white-label terms quoted",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies selling chat and voice together",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Identity verification and payment arrangements without increasing headcount. Lower abandonment rates with full audit and TCPA compliance.",
+    "url": "https://trillet.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Balance enquiries, payment arrangements, outage status and service requests — answered instantly, day or night. Life-safety calls are transferred straight to your emergency line.",
+    "url": "https://trillet.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Create a new revenue line.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Official Trillet industry solutions (Health, Legal, Finance and Government) are not part of self-serve white label. Approved partners get the solutions named in their agreement, and large organisations can buy them directly as enterprise customers through sales. Partner status does not automatically grant access to the full portfolio.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "If deal registration is included, your agreement defines which opportunities qualify, how protection works and how long it lasts. Sales-engineering support applies only where it is part of the agreed program.",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Official Trillet industry solutions (Health, Legal, Finance and Government) are not part of self-serve white label. Approved partners get the solutions named in their agreement, and large organisations can buy them directly as enterprise customers through sales. Partner status does not automatically grant access to the full portfolio.",
+    "url": "https://trillet.ai/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier-level forwarding",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier-level telephony.",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Where voice is in scope, keep existing numbers with carrier-level forwarding.",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Official Trillet industry solutions (Health, Legal, Finance and Government) are not part of self-serve white label. Approved partners get the solutions named in their agreement, and large organisations can buy them directly as enterprise customers through sales. Partner status does not automatically grant access to the full portfolio.",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "One trusted relationship can be enough. Agree the arrangement before you connect us.",
+    "url": "https://trillet.ai/partners/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Official Trillet industry solutions (Health, Legal, Finance and Government) are not part of self-serve white label. Approved partners get the solutions named in their agreement, and large organisations can buy them directly as enterprise customers through sales. Partner status does not automatically grant access to the full portfolio.",
+    "url": "https://trillet.ai/partners/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Not in a standard referral arrangement. Trillet manages qualification, scoping, contracting and delivery. You may remain involved where it helps the relationship, with that role defined before referrals begin.",
+    "url": "https://trillet.ai/partners/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Both can participate. We consider individuals, consultants, associations and companies. What matters is trust, fit and the ability to make qualified introductions; the arrangement must be approved before the first introduction.",
+    "url": "https://trillet.ai/partners/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, where a member-network arrangement is approved. We can plan member education, campaigns, referral tracking, reporting and commercial terms around the audience and program.",
+    "url": "https://trillet.ai/partners/referral",
+    "pass": 1
+   },
+   {
+    "quote": "For a standard referral arrangement, there is no sales quota, certification requirement or delivery responsibility. Association or campaign-based arrangements may include responsibilities suited to the program.",
+    "url": "https://trillet.ai/partners/referral",
+    "pass": 1
+   },
+   {
+    "quote": "Your next revenue stream.",
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Submit a reproducible technical problem during the trial. Preserve the call identifier, expected outcome, actual outcome, configuration version, and timing. Assess whether support can trace the issue across the application, provider, carrier, and integration. First-response time is less important than clear ownership and a useful corrective action.",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Request the actual audit evidence and the contract that applies to the proposed plan. Map the application, model and speech vendors, carrier, integrations, storage, exports, and agency procedures. Confirm retention, deletion, access roles, regions, and incident notice. A BAA does not replace consent or secure operations, and HIPAA should not be described as a certification.",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "A first-party voice AI application operates the client-facing voice product, but it can still use carriers, speech services, models, and cloud subprocessors. A wrapper provides a client portal connected to a separate upstream voice platform account. A hybrid can support more than one route.",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Studio has a hard limit of three workspaces, so a growing agency should budget for Agency. Telephony remains separate from the AI-minute allowance. Teams that need to select and tune every speech, model, carrier, and turn-taking component may find Vapi or Retell more flexible.",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "The white-label add-on price is not public, so the listed tiers do not establish the complete reseller cost. Public terms and marketing have also needed reconciliation. Ask for the branding fee, usage rates, included minutes, number and concurrency charges, data location, support level, and cancellation terms in writing before building margin projections.",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Assistable's first-party GHL application can keep call outcomes, tags, workflows, and follow-up inside the system many agencies already operate. The tier progression is explicit: three, ten, or unlimited subaccounts, with 50 concurrent calls listed on the unlimited tier. Its fully itemised public rate sheet also makes usage modelling easier than credit-only pricing.",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "At 20 clients using 300 AI minutes each, monthly revenue is $7,000 and AI usage is 6,000 minutes.",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": ". Contribution is $6,341 before carrier charges, numbers, transfers, support, sales, payment fees, taxes, and other overhead.",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Contribution = client revenue - platform subscription - AI usage - telephony - numbers - provider subscriptions - payment fees - support labor - other delivery costs",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "When you have narrowed the field to two or three platforms, these matchups compare them directly on price, per-minute cost, compliance, and agency fit.",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "PlayAI Alternatives 2026: Where Agencies Are Migrating After the Meta Acquisition",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Treat platform selection as a short procurement project rather than a sequence of sales calls. Start with a written use case, expected client count, minute range, required integrations, data types, jurisdictions, and support expectations. Give every shortlisted vendor the same scenario and request a quote against the same assumptions.",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Before signing, reconcile a sample month from call records to platform usage, carrier usage, provider charges, and a client invoice. Confirm how credits, transfers, failed calls, taxes, and refunds are handled. For a wrapper, document both the portal and upstream renewal dates and the effect of a provider price change.",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "A wrapper connects its portal to a separate upstream voice platform account. A first-party application operates the voice AI product but can still use carrier, model, speech, and cloud subprocessors. Count the contracts, bills, dashboards, and support boundaries.",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Plan for prompts, knowledge, integrations, numbers or forwarding, reporting, client access, and testing. Migration time depends on the agents and carrier configuration.",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Your next revenue stream.",
+    "url": "https://trillet.ai/whitelabel",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how to land your first client, price with confidence and scale recurring revenue alongside partners already deploying under their own brand.",
+    "url": "https://trillet.ai/whitelabel",
+    "pass": 1
+   },
+   {
+    "quote": "No. Clients keep their existing business numbers — Trillet uses carrier-level call forwarding rather than number porting, so setup takes about 30 seconds and the customer experience stays seamless.",
+    "url": "https://trillet.ai/whitelabel",
+    "pass": 1
+   },
+   {
+    "quote": "Your recurring revenue.",
+    "url": "https://trillet.ai/whitelabel",
+    "pass": 1
+   },
+   {
+    "quote": "White-label voice AI platforms let agencies build, brand, and resell AI phone agents to clients, creating recurring revenue without building technology from scratch.",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": ": Trillet operates the application, orchestration, workflow, and multi-tenant layers while managing ordinary carrier, model, speech, and cloud subprocessors. The agency gets one core hosted-platform and support relationship.",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "Predictable revenue for you and client",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue: $9,940/month",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "Client acquisition (outbound, referrals, content)",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "Client Acquisition Strategies",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "Estimated revenue influenced",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "Once established, expand revenue per client:",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "At 20 clients paying $497/month, gross revenue would be $9,940/month. At 300 AI minutes per client, the Agency fee plus additional AI usage would be $659 before telephony, transfers, support, sales, payment fees, taxes, refunds, and labour. That is a planning scenario, not a typical-income claim; use your real close rate, usage, service load, and churn to estimate profit.",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "White-label voice AI represents a significant opportunity for agencies to build recurring revenue streams while delivering genuine value to clients. The market is early, technology is mature enough to deliver results, and platforms like Trillet have reduced the barriers to entry dramatically.",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "The business side of a voice AI agency, from knowing when to add a revenue line to keeping accounts once they are live. Start with",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "the five signs your agency needs a new revenue stream",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "where agencies are migrating after the PlayAI acquisition",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "White-label AI profit margins depend on the client price, shared plan allowance, usage above that allowance, telephony, labor, support, acquisition cost, and churn. The worked scenarios below show how fixed platform cost spreads across a portfolio, but they are planning models rather than industry earnings benchmarks. Replace every assumption with your own operating data before quoting a margin.",
+    "url": "https://trillet.ai/blogs/white-label-ai-profit-margins",
+    "pass": 1
+   },
+   {
+    "quote": "Separate; use your carrier or Trillet number rate",
+    "url": "https://trillet.ai/blogs/white-label-ai-profit-margins",
+    "pass": 1
+   },
+   {
+    "quote": "Labor, support, software, acquisition and taxes",
+    "url": "https://trillet.ai/blogs/white-label-ai-profit-margins",
+    "pass": 1
+   },
+   {
+    "quote": "These are platform-and-AI-usage gross margins only. They exclude telephony, labor, support, acquisition, software, taxes, refunds, and bad debt, all of which must be added before you call the result agency profit. The software line grows with the",
+    "url": "https://trillet.ai/blogs/white-label-ai-profit-margins",
+    "pass": 1
+   },
+   {
+    "quote": "Margin advantage: Predictable revenue, no usage tracking complexity.",
+    "url": "https://trillet.ai/blogs/white-label-ai-profit-margins",
+    "pass": 1
+   },
+   {
+    "quote": "Margin advantage: Guaranteed baseline revenue plus upside from heavy users.",
+    "url": "https://trillet.ai/blogs/white-label-ai-profit-margins",
+    "pass": 1
+   },
+   {
+    "quote": "Monthly churn directly erodes margin because customer acquisition has upfront costs, and because a client who leaves early never repays the full value you could have earned.",
+    "url": "https://trillet.ai/blogs/white-label-ai-profit-margins",
+    "pass": 1
+   },
+   {
+    "quote": "Assume a $500 customer acquisition cost (CAC) and $300 in monthly profit per client. There are two distinct numbers here, and they are often confused:",
+    "url": "https://trillet.ai/blogs/white-label-ai-profit-margins",
+    "pass": 1
+   },
+   {
+    "quote": "This is the same regardless of churn, because it only measures how long the client must stay before they have repaid your acquisition cost. The original version of this table listed 1.7 months across every churn rate, which is technically correct but tells you nothing about churn, so it is not the metric that matters here.",
+    "url": "https://trillet.ai/blogs/white-label-ai-profit-margins",
+    "pass": 1
+   },
+   {
+    "quote": "Subtracting the $500 acquisition cost gives the true profit per client over their lifetime.",
+    "url": "https://trillet.ai/blogs/white-label-ai-profit-margins",
+    "pass": 1
+   },
+   {
+    "quote": "White-label voice AI can support healthy margins when the portfolio allowance, client price, telephony, labor, support, acquisition cost, and churn are modeled together. Once your unit economics are sound, reducing churn increases lifetime value. Pair this article with the",
+    "url": "https://trillet.ai/blogs/white-label-ai-profit-margins",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Voice, SMS, chat and email on one platform. Use the channels your product needs.",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Trillet’s conversation engine — AI agents across voice, SMS, chat and email, with platform API access plus in-call APIs and webhooks. Which channels and depth of integration you use is scoped to your product.",
+    "url": "https://trillet.ai/partners/oem",
+    "pass": 1
+   },
+   {
+    "quote": "Custom branded emails",
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Post-call email summaries",
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Most agencies start on Studio ($99/mo). It gives you white-label branding on a Trillet-hosted address, up to 3 workspaces, 1,000 included minutes, Trillet MCP and 2,000 workflow runs a month. Agency ($299/mo) adds unlimited workspaces, a custom domain, branded emails, custom minute markup and priority support.",
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Move to Agency when you need a fourth workspace, a custom domain, your own minute markup or priority support. Studio is capped at 3 workspaces and runs on a Trillet-hosted address with your branding. Agency ($299/mo) adds unlimited workspaces, your own domain and branded email, 3,000 included minutes, 10 phone numbers and control over what you charge your clients.",
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "First-party white-label application; Agency adds custom domain, branded email, minute markup, and unlimited workspaces",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies adding WhatsApp, Instagram, and email to voice",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Custom domain, branded email, and Stripe rebilling; 5% fee on agency margin",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Check domain, login, email, workspaces, reports, invoices, and support links.",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Create a client-level user and inspect the login domain, dashboard, email sender, notifications, reports, exports, invoices, help links, and support route. Check mobile rendering and permission isolation. The most damaging branding leak often appears in an automated email or error page rather than the main dashboard.",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Run at least ten calls covering the normal path and failure cases. Test business hours, transfers, voicemail, booking changes, names and addresses, caller interruptions, background noise, unsupported requests, integration failure, and escalation to a human. Review transcripts and downstream records, not only audio quality.",
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Calls, SMS and email orchestrated from one trigger.",
+    "url": "https://trillet.ai/whitelabel",
+    "pass": 1
+   },
+   {
+    "quote": "Post-call email builder",
+    "url": "https://trillet.ai/whitelabel",
+    "pass": 1
+   },
+   {
+    "quote": "Your own domain and branded emails",
+    "url": "https://trillet.ai/whitelabel",
+    "pass": 1
+   },
+   {
+    "quote": "Contract templates, onboarding workflows, sales scripts and email sequences — everything you need to land clients and deliver, already built.",
+    "url": "https://trillet.ai/whitelabel",
+    "pass": 1
+   },
+   {
+    "quote": "Screens for urgency and storm damage so you get qualified jobs, not voicemails.",
+    "url": "https://trillet.ai/receptionist/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Most businesses handle overflow with voicemail or an answering service. Here's what changes when the receptionist is AI trained on your business.",
+    "url": "https://trillet.ai/receptionist/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Emails you every caller’s details",
+    "url": "https://trillet.ai/receptionist/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Caller gets a calendar invite by email",
+    "url": "https://trillet.ai/receptionist/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Summary and transcript by app or email",
+    "url": "https://trillet.ai/receptionist/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "SMS and email automation",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "Workflow automation starts from an incoming webhook, a finished call, an inbound text to a Message Flows agent, or a recurring schedule, with steps for email or SMS, AI calls, conditions, delays, business-hours routing and writing data back; Studio includes 2,000 runs a month and Agency 10,000",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "Email sender addresses",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": ": Unified conversations across voice, SMS, web chat, and email.",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "Trillet includes email and ticket support on Studio and priority support on Agency. Evaluate any current training resources during the trial rather than assuming a particular community or messaging channel is contractually included.",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "\"Stop losing leads to voicemail. AI answers your calls 24/7, books appointments, and follows up, so you can focus on your craft.\"",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "multi-channel support for e-commerce across voice, SMS, chat, and email",
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "pass": 1
+   },
+   {
+    "quote": "Thoughtly's bundled omnichannel entry can be attractive if you want voice, SMS, email, and workflows in one first-party platform. For an agency, the open question is how the Enterprise contract allocates client environments, branding, usage, and billing because those mechanics are not publicly itemized.",
+    "url": "https://trillet.ai/blogs/thoughtly-alternative",
+    "pass": 1
+   },
+   {
+    "quote": "Studio branding on hosted address; Agency custom domain/email",
+    "url": "https://trillet.ai/blogs/thoughtly-alternative",
+    "pass": 1
+   },
+   {
+    "quote": "Trillet ships the agency layer as a standard part of the platform, not a sales-quoted add-on. The Agency plan at $299/month includes unlimited workspaces, a custom domain, logo and colours, branded email, and custom minute markup. Each workspace gives an agency a distinct client environment it can manage under its brand.",
+    "url": "https://trillet.ai/blogs/thoughtly-alternative",
+    "pass": 1
+   },
+   {
+    "quote": "Trillet publishes a self-serve agency model: unlimited workspaces, custom domain, branded emails, custom minute markup, 3,000 included AI minutes, and 10 phone numbers on the $299 Agency plan. Thoughtly is a strong first-party omnichannel platform with Enterprise white-labeling, but its agency economics and portal mechanics require a sales conversation.",
+    "url": "https://trillet.ai/blogs/thoughtly-alternative",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Thoughtly offers a first-party omnichannel product across voice, SMS, email, and workflows, plus higher-concurrency Scale and Enterprise options. Its Enterprise white-label offer may suit a negotiated deployment; Trillet is easier to model when an agency wants public self-serve workspace and branding entitlements.",
+    "url": "https://trillet.ai/blogs/thoughtly-alternative",
+    "pass": 1
+   },
+   {
+    "quote": "Trillet White-Label is built for that operating model: $99/month Studio for three workspaces and 1,000 AI minutes, or $299/month Agency for unlimited workspaces, 3,000 AI minutes, a custom domain, branded emails, custom minute markup, and priority support. Additional AI usage is $0.12/minute and telephony is separate. For agencies building recurring revenue on voice AI,",
+    "url": "https://trillet.ai/blogs/thoughtly-alternative",
+    "pass": 1
+   },
+   {
+    "quote": "Trillet supports web chat, SMS, voice, and email inside its white-label platform, but it does not publish a separate text-only SKU or per-message price in the current product authority. This article does not invent one.",
+    "url": "https://trillet.ai/blogs/white-label-ai-chatbot-pricing-comparison",
+    "pass": 1
+   },
+   {
+    "quote": "Trillet White-Label supports voice, SMS, web chat, and email, but the current authority publishes no standalone text-only SKU or per-message rate. The",
+    "url": "https://trillet.ai/blogs/white-label-ai-chatbot-pricing-comparison",
+    "pass": 1
+   },
+   {
+    "quote": "when the requirement expands beyond text chat into a white-label platform spanning voice, SMS, web chat, and email, with exact messaging pricing confirmed for the planned workload.",
+    "url": "https://trillet.ai/blogs/white-label-ai-chatbot-pricing-comparison",
+    "pass": 1
+   },
+   {
+    "quote": ": If an agency already operates its own Retell or Vapi account, ChatDash's roughly $100 monthly annualised entry can be economical at small scale. Confirm client slots, email and backend branding, provider usage, HIPAA add-on and support before comparing it with an all-in application platform.",
+    "url": "https://trillet.ai/blogs/voice-agent-reseller-program-comparison",
+    "pass": 1
+   },
+   {
+    "quote": "Trillet Agency, Synthflow's contracted white-label offer, VoiceAIWrapper and higher ChatDash tiers provide meaningful branding and client access. Completeness varies across domain, email, portal, invoices, recordings and support communications, so test every client-facing surface before promising full removal of vendor identity.",
+    "url": "https://trillet.ai/blogs/voice-agent-reseller-program-comparison",
+    "pass": 1
+   },
+   {
+    "quote": "Email follow-up for slower-moving inquiries",
+    "url": "https://trillet.ai/blogs/voice-agent-for-real-estate-agencies-white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Trillet's white-label platform includes these voice, SMS, web chat, and email capabilities natively, allowing agencies to deploy comprehensive real estate solutions without custom development.",
+    "url": "https://trillet.ai/blogs/voice-agent-for-real-estate-agencies-white-label",
+    "pass": 1
+   },
+   {
+    "quote": "\"Most buyers go with the first agent who actually responds, and NAR data shows the majority interview only one. An AI that answers immediately and books a callback with you beats a voicemail that sits unanswered while the lead calls the next listing. We're not replacing you. We're making sure you get the chance to have that real conversation.\"",
+    "url": "https://trillet.ai/blogs/voice-agent-for-real-estate-agencies-white-label",
+    "pass": 1
+   },
+   {
+    "quote": "The AI integrates natively with Google Calendar and Cal.com (which also covers Outlook), plus other scheduling tools via API and webhooks. During a call, it checks the agent's real-time availability and books the showing directly, sending confirmation to both the lead and the agent via SMS and email.",
+    "url": "https://trillet.ai/blogs/voice-agent-for-real-estate-agencies-white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Something went wrong. Please try again, or email support@retellai.com if it keeps happening.",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "You can contact or verify outreach from Dominic by emailing",
+    "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+    "pass": 3
+   },
+   {
+    "quote": "By clicking submit, you agree to share your email address with TFN to receive marketing, updates, and other emails from the site owner. Use the unsubscribe link in the emails to opt out at any time.",
+    "url": "https://techfundingnews.com/rillet-becomes-unicorn-100m-series-c-iconiq/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "代理店向けおすすめホワイトラベル音声AIプラットフォーム | Retell AI",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "代理店向けおすすめホワイトラベル音声AIプラットフォーム（2026年）",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "代理店におすすめのホワイトラベル音声AIプラットフォームは？",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "2026年に代理店が再販できるホワイトラベル音声AIの選択肢には、Retell AI、HighLevel Voice AI、Trillet、VoiceAIWrapper、Autocalls、Synthflowがあります",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "代理店向けまたはリセラー向けの提供内容を公開している選択肢を取り上げ、各ベンダーのページに記載されている内容と、記載されていない内容をレビューしています",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は代理店向けプラットフォームの比較です",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "代理店によるAI音声エージェントの価格設定",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "ホワイトラベル音声AIとは、代理店が自社サービスとしてリブランドして再販する音声エージェントプラットフォームです",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "代理店はクライアントとの関係を維持し、音声処理と電話インフラはベンダーが裏側で運用します",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "多くの代理店が実際に販売しているのは、地域の事業者向けのAI受付やAIフォローアップ発信です",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "発信者には電話をかけた事業者として応対し、クライアントには販売する製品に代理店の名前が表示されます",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Retell AIは、すべてのクライアントのエージェントを自社で構築・運用したい代理店に適しています",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "1分あたり$0.07からで、新しい代理店でも最初のクライアント獲得前に固定費がかかりません",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "では認定代理店を掲載して見込み顧客を紹介しており、上位ティアでは共同マーケティングも利用できます",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "また、Retellはクライアントのワークスペースごとに利用分を請求しますが、クライアントへの請求や代理店のマークアップの適用は行いません",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントポータルが必要な代理店は、Retell APIで構築するか、App Partner Directoryのホワイトラベルダッシュボードツールを使うか、クライアントを閲覧専用のMemberとして招待します",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "HighLevel Voice AIは、すでにクライアントをHighLevelで運用している代理店に最適です",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Trilletはオーストラリア拠点のセルフサービス型ホワイトラベルプラットフォームで、中小企業にAI受付や音声エージェントを販売する代理店向けに作られています",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントは代理店のロゴ、名前、カラーのワークスペースにログインし、Agencyプランでは独自ドメインも利用できます",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "2つの代理店向けプラン：",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "クライアントが通話転送でTrilletの番号に転送するか、代理店が所有する番号をTwilio、Telnyx、カスタムSIP接続で接続します",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Studioは3ワークスペースが上限のため、多くの代理店は4社目のクライアントの時点でAgencyに移行します",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Autocallsは、技術者のいない代理店向けのオールインクルーシブ型ホワイトラベルプラットフォームです",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、もはやセルフサービス型の代理店向け製品ではなく、多くの代理店にとって採算の計算が変わります",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "$30,000の最低額と外部での請求管理により、クライアントが数社の代理店には適しません",
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AI Receptionist Bilingual Support | Trillet Blog — AI Receptionist Bilingual Support | Trillet Blog Trillet https://trillet.ai > Blog",
+    "url": "https://trillet.ai/blogs/ai-receptionist-bilingual-support",
+    "pass": 3
+   },
+   {
+    "quote": "Read Customer Service Reviews of trillet .ai - Trustpilot — Read Customer Service Reviews of trillet .ai - Trustpilot Trustpilot https://www.trustpilot.com > trillet",
+    "url": "https://www.trustpilot.com/review/trillet.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Trillet AI case study | Google Cloud — Trillet AI case study | Google Cloud Google Cloud https://cloud.google.com > trilletai",
+    "url": "https://cloud.google.com/customers/trilletai",
+    "pass": 3
+   },
+   {
+    "quote": "Trillet AI | LinkedIn — Trillet AI | LinkedIn LinkedIn Australia https://au.linkedin.com > trillet-ai",
+    "url": "https://au.linkedin.com/company/trillet-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories | How Finance Teams Use Rillet — Customer Stories | How Finance Teams Use Rillet Rillet https://www.rillet.com > customers",
+    "url": "https://www.rillet.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "TRILLET AI Case Study - Zubair Ibrahim — A closer look at TRILLET AI, a project built across LinkedIn, Instagram, Facebook for the B2B / Voice AI space, combining Ads, Reels, Product Demos with services like Strategy, Scripting, Filming, Editing.",
+    "url": "https://www.zubairibrahim.com/works/trillet",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program — Bring Trillet Solutions to Market — Partner Program — Bring Trillet Solutions to Market Trillet https://trillet.ai > partners",
+    "url": "https://trillet.ai/partners",
+    "pass": 3
+   },
+   {
+    "quote": "White - Label Reseller Programs : 2026 Comparison for Agencies — White - Label Reseller Programs : 2026 Comparison for Agencies Trillet https://trillet.ai > Blog",
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Trillet Reseller Program for Channel Partners — Trillet Reseller Program for Channel Partners Trillet https://trillet.ai > Partners",
+    "url": "https://trillet.ai/partners/reseller",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Trillet on X: \"Voice AI agents for high-stakes conversations ... Trillet on X: \"Voice AI agents for high-stakes conversations ... X https://x.com > @trillet_ai",
+    "url": "https://x.com/trillet_ai/status/2118332727510663474",
+    "pass": 3
+   },
+   {
+    "quote": "Véronique Trillet -Lenoir (@VTrillet_Lenoir) / X Véronique Trillet -Lenoir (@VTrillet_Lenoir) / X X https://x.com > VTrillet_Lenoir",
+    "url": "https://x.com/VTrillet_Lenoir",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Trillet AI | LinkedIn Trillet AI | LinkedIn LinkedIn Australia https://au.linkedin.com > trillet-ai",
+    "url": "https://au.linkedin.com/company/trillet-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Trillet AI partners with VECTOR to boost AI in MENAP region Trillet AI partners with VECTOR to boost AI in MENAP region LinkedIn https://www.linkedin.com > posts > tri...",
+    "url": "https://www.linkedin.com/posts/trillet-ai_%F0%9D%97%A7%F0%9D%97%BF%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%B2%F0%9D%98%81-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%96%F0%9D%97%A7%F0%9D%97%A2%F0%9D%97%A5-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB-activity-7318718767134400512-cjSu",
+    "pass": 3
+   },
+   {
+    "quote": "Laurence Latin - Co-Founder @ Trillet AI - LinkedIn Laurence Latin - Co-Founder @ Trillet AI - LinkedIn LinkedIn Australia https://au.linkedin.com > laurencelatin",
+    "url": "https://au.linkedin.com/in/laurencelatin",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Thierry Trillet (@ThierryTrillet) - Facebook Thierry Trillet (@ThierryTrillet) - Facebook Facebook https://www.facebook.com > ... > Coach",
+    "url": "https://www.facebook.com/ThierryTrillet/",
+    "pass": 3
+   },
+   {
+    "quote": "Trillet AI Phone Answering Service Reviews - Facebook Trillet AI Phone Answering Service Reviews - Facebook Facebook https://www.facebook.com > fb-answers > trillet-ai-phone...",
+    "url": "https://www.facebook.com/fb-answers/trillet-ai-phone-answering-service-reviews/",
+    "pass": 3
+   },
+   {
+    "quote": "Thierry Trillet - Facebook Thierry Trillet - Facebook Facebook https://www.facebook.com > ThierryTrillet > posts",
+    "url": "https://www.facebook.com/ThierryTrillet/posts/1679581620755770/",
+    "pass": 3
+   },
+   {
+    "quote": "Thierry Trillet's post - Facebook Thierry Trillet's post - Facebook Facebook https://www.facebook.com > ThierryTrillet > posts",
+    "url": "https://www.facebook.com/ThierryTrillet/posts/1681528430561089/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://trillet.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/partners/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/partners/oem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/partners/referral",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/whitelabel/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/top-10-white-label-voice-ai-platforms-for-agencies-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/whitelabel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/receptionist/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/receptionist/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/whitelabel-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/white-label-ai-profit-margins",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/compare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/thoughtly-alternative",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/voice-ai-white-label-pricing-breakdown-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/white-label-ai-chatbot-pricing-comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/voice-agent-reseller-program-comparison",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/ai-receptionist-white-label-pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/voice-agent-for-real-estate-agencies-white-label",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://trillet.ai/_next/image?url=%2Fpartners%2Freseller-landscape-watercolour.webp&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://trillet.ai/_next/image?url=%2Fpartners%2Friver-bridge-watercolour.webp&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://trillet.ai/_next/image?url=%2Fpartners%2Foem-landscape-watercolour.webp&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://trillet.ai/_next/image?url=%2Fpartners%2Freferral-landscape-watercolour.webp&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/toshiki_voiceai/n/nac86e5d6645d",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trucknews.biz/article/s040708/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/toshiki_voiceai/n/nac86e5d6645d",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.trustpilot.com/review/trillet.ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cloud.google.com/customers/trilletai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cloud.google.com/customers/trilletai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rillet.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trailique.ai/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://archlet.io/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=6weNaVTUmQQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rillet.com/blog/100m-series-c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techfundingnews.com/rillet-becomes-unicorn-100m-series-c-iconiq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/rillet.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/trillet_ai/status/2118332727510663474",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/VTrillet_Lenoir",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/company/trillet-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/trillet-ai_%F0%9D%97%A7%F0%9D%97%BF%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%B2%F0%9D%98%81-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%96%F0%9D%97%A7%F0%9D%97%A2%F0%9D%97%A5-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB-activity-7318718767134400512-cjSu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/laurencelatin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ThierryTrillet/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/trillet-ai-phone-answering-service-reviews/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ThierryTrillet/posts/1679581620755770/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ThierryTrillet/posts/1681528430561089/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Trillet 日本 導入",
+   "results": [
+    "https://note.com/toshiki_voiceai/n/nac86e5d6645d",
+    "https://trafficnews.jp/post/725198",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.trucknews.biz/article/s040708/",
+    "http://www.excite.co.jp/news/article/Trafficnews_725198/",
+    "https://trillet.ai/",
+    "https://jp.colormango.com/company/trillet.html",
+    "https://trillet.ai/pricing",
+    "https://av.watch.impress.co.jp/docs/news/2147140.html",
+    "https://www.alljrs.co.jp/case/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Trillet 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.retellai.com/ja/blog/white-label-voice-ai-platforms-agencies",
+    "https://ja.wikipedia.org/wiki/カーライル・グループ",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://tlight.jp/",
+    "https://industrial.filtrationgroup.com/ja/联系我们/",
+    "https://jpmktg.winbond.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Trillet Japan",
+   "results": [
+    "https://note.com/toshiki_voiceai/n/nac86e5d6645d",
+    "https://trillet.ai/blogs/ai-receptionist-bilingual-support",
+    "https://www.trustpilot.com/review/trillet.ai",
+    "https://cloud.google.com/customers/trilletai",
+    "https://au.linkedin.com/company/trillet-ai",
+    "https://www.triplet.cc/home",
+    "https://www.tiktok.com/@thierrytrilletwrestling/video/7493243885523701014",
+    "https://au.linkedin.com/in/laurencelatin"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Trillet manufacturing customer case study",
+   "results": [
+    "https://cloud.google.com/customers/trilletai",
+    "https://www.rillet.com/customers",
+    "https://www.trailique.ai/resources/case-studies",
+    "https://archlet.io/customer-stories",
+    "https://www.zubairibrahim.com/works/trillet",
+    "https://terillium.com/netsuite-case-studies/",
+    "https://www.linkedin.com/posts/trillet-ai_trillet-ai-case-study-activity-7447107701836349440-xHnC",
+    "https://www.linkedin.com/company/trillet-ai",
+    "https://trillet.ai/",
+    "https://trillet.ai/blogs/high-cost-of-latency"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Trillet white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/partners",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://trillet.ai/partners/reseller",
+    "https://www.youtube.com/watch?v=6weNaVTUmQQ",
+    "https://www.retellai.com/blog/white-label-voice-ai-platforms-agencies",
+    "https://autocalls.ai/article/best-white-label-ai-voice-agent-platforms",
+    "https://www.reddit.com/r/AI_Agents/comments/1rf9jok/best_white_label_voice_ai_for_marketing_agencies/",
+    "https://trillet.ai/whitelabel",
+    "https://ainora.lt/white-label-ai-voice-alternatives/trillet",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Trillet founded funding employees revenue",
+   "results": [
+    "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+    "https://www.rillet.com/blog/100m-series-c",
+    "https://techfundingnews.com/rillet-becomes-unicorn-100m-series-c-iconiq/",
+    "https://getlatka.com/companies/rillet.com",
+    "https://fortune.com/2026/08/18/rillet-unicorn-1-billion-valuation-series-c-nicolas-kopp-accounting-ai/",
+    "https://tracxn.com/d/companies/rillet/__Rz1MMAsME_mL7iTWytJzOc1urfvqa8jnNoUYjm3H_W8",
+    "https://thenextweb.com/news/rillet-100m-series-c-1bn-accounting-ai",
+    "https://cryptobriefing.com/rillet-unicorn-series-c-funding-valuation/",
+    "https://pitchbook.com/profiles/company/503679-61",
+    "https://siliconvalleyinvestclub.com/id/companies/rillet/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Trillet",
+   "results": [
+    "https://note.com/toshiki_voiceai/n/nac86e5d6645d",
+    "https://note.com/clean_holly147/n/n39c29f0b8f1a",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/diparururun",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/long_hare2578/n/n2a4e6ef50e68",
+    "https://note.com/abeshi/n/n0506b291db8a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com Trillet",
+   "results": [
+    "https://x.com/trillet_ai/status/2118332727510663474",
+    "https://x.com/tarush_agarwal_/status/2115155432364970304",
+    "https://x.com/VTrillet_Lenoir",
+    "https://x.com/kang1_wei/status/2118336410260541747",
+    "https://x.com/WHOatEU",
+    "https://x.com/srbank",
+    "https://x.com/RolfEinarFife",
+    "https://x.com/everythingcdhav",
+    "https://x.com/UnivLyon1/status/1690024539411906560/photo/3",
+    "https://x.com/PolitiUpdate0/status/2118342489727791194"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Trillet",
+   "results": [
+    "https://au.linkedin.com/company/trillet-ai",
+    "https://www.linkedin.com/posts/trillet-ai_%F0%9D%97%A7%F0%9D%97%BF%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%B2%F0%9D%98%81-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%A9%F0%9D%97%98%F0%9D%97%96%F0%9D%97%A7%F0%9D%97%A2%F0%9D%97%A5-%F0%9D%97%94%F0%9D%97%9C-%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB-activity-7318718767134400512-cjSu",
+    "https://au.linkedin.com/in/laurencelatin",
+    "https://au.linkedin.com/in/mingxu6464",
+    "https://ae.linkedin.com/in/isaam",
+    "https://au.linkedin.com/in/andrew-wang26",
+    "https://www.linkedin.com/in/orivaisbort",
+    "https://be.linkedin.com/in/antoine-trillet/en",
+    "https://be.linkedin.com/in/denistrillet/en",
+    "https://www.linkedin.com/company/trillet-ai"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Trillet",
+   "results": [
+    "https://www.facebook.com/ThierryTrillet/",
+    "https://www.facebook.com/fb-answers/trillet-ai-phone-answering-service-reviews/",
+    "https://www.facebook.com/ThierryTrillet/posts/1679581620755770/",
+    "https://www.facebook.com/ThierryTrillet/posts/1681528430561089/",
+    "https://www.facebook.com/jeff.trillet.2025/",
+    "https://www.facebook.com/jessetrilletmusic/",
+    "https://www.facebook.com/raphael.trillet/",
+    "https://www.facebook.com/eve.trillet/",
+    "https://www.facebook.com/brittany.trillet.3/",
+    "https://www.facebook.com/p/Delphine-Trillet-100081897045530/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Trillet note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://trillet.ai/",
+    "https://note.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trillet X 投稿",
+   "results": [
+    "https://note.com/gas_lab/n/n3df344b2ec23",
+    "https://lifrell-tech.com/950/",
+    "https://x.com/ishida_chatgpt/article/2066323646180954330",
+    "https://www.theaiventure.com/ai-tweet-generation-claude-guide/",
+    "https://x.com/posi_posi8/status/2114871084185161812",
+    "https://programming-zero.net/twitter-reservation-tool-manual/",
+    "https://note.com/shiodome_098/n/n1affb597aeb4",
+    "https://note.com/ai_dev_lab/n/n49fd66fad5a4",
+    "https://x.com/trillet_ai/status/2118332949427048475",
+    "https://trillet.ai/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）"
+ }
+}

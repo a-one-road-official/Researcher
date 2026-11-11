@@ -1,0 +1,603 @@
+{
+ "name": "株式会社MES甲信",
+ "aliases": [],
+ "context": "ipros_all:受注生産",
+ "researched_at": "2026-11-11T19:22:06.445674+00:00",
+ "official_url": "https://meskoshin.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "村山　徹",
+    "url": "https://meskoshin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "代表取締役　村山　徹",
+    "url": "https://www.jobs-go.jp/jobs/detail/12442",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒396-0111　長野県伊那市美篶5830-1",
+    "url": "https://meskoshin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "沖縄県那覇市久米２丁目３番１５号　ＣＯＩ那覇ビル５階",
+    "url": "https://meskoshin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "長野県松本市大字島内３５１３－４　１階",
+    "url": "https://meskoshin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "Đường số 6 , Khu Công Nghiệp Nhơn Trạch 3 – giai đoạn 2 , Xã Nhơn Trạch , Tỉnh Đồng Nai, Việt Nam",
+    "url": "https://meskoshin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "長野県伊那市美篶5830-1",
+    "url": "https://www.jobs-go.jp/jobs/detail/12442",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "24名（2025年10月現在）",
+    "url": "https://meskoshin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "企業全体：24名 就業場所：24名（うち女性9名）",
+    "url": "https://www.jobs-go.jp/jobs/detail/12442",
+    "pass": 3
+   }
+  ],
+  "拠点": [
+   {
+    "label": "支店名",
+    "value": "沖縄支店",
+    "url": "https://meskoshin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "支店名",
+    "value": "松本支店",
+    "url": "https://meskoshin.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "機械設計、製造、設備 産業用機械装置の設計・製造・製作を行っています。 新しい会社で若い社員が頑張っています。",
+    "url": "https://www.jobs-go.jp/jobs/detail/12442",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "－",
+    "url": "https://www.jobs-go.jp/jobs/detail/12442",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "様々な工業製品の製作工程にMES甲信の技術が",
+    "url": "https://meskoshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コンクリート製品の型取り出しから段積み排出をロボットによる自動化",
+    "url": "https://meskoshin.co.jp/service_products/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社MES甲信が創りだす全ての製品に思いをこめて",
+    "url": "https://meskoshin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の装置はベトナム工場で製作・品質を満たした製品を使用しております",
+    "url": "https://meskoshin.co.jp/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・ステンレス・アルミニウム・真鍮・黄銅・樹脂製品（POM PP PVC FRPなど）",
+    "url": "https://meskoshin.co.jp/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "まとまった数量・納期に猶予をいただける製品についてはローコスト対応を心掛けいたします",
+    "url": "https://meskoshin.co.jp/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://mono.ipros.com/company/detail/2096684/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (1)",
+    "url": "https://mono.ipros.com/company/detail/2096684/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社MES甲信が創りだす全ての製品に思いをこめて",
+    "url": "https://www.jobs-go.jp/jobs/detail/12442",
+    "pass": 3
+   },
+   {
+    "quote": "担当いただく営業職では、得意先のニーズ把握や製品紹介の他、提案営業、新規顧客の開拓と社内各部門との調整などを行っていただきます",
+    "url": "https://uij-matching.pref.nagano.lg.jp/recruit/detail?id=931",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "産業ロボット装置機械電気設計製作全般・機械設計・制御プログラム・",
+    "url": "https://meskoshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電気設計・画像処理プログラム・ロボットプログラム設計",
+    "url": "https://meskoshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボットテクノロジージャパン2026ご来場あ ...",
+    "url": "https://meskoshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボットテクノロジージャパン2026に出展し ...",
+    "url": "https://meskoshin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちMES甲信は、省人化や省力化のニーズに応えるため、様々なロボットを使った設備のご提案をさせていただいています",
+    "url": "https://meskoshin.co.jp/service_products/",
+    "pass": 1
+   },
+   {
+    "quote": "垂直多関節ロボット、パラレルリンクロボット、双腕ロボット、スカラロボットなど様々な種類、メーカーのロボットを組み合わせた設備の製作を得意としています",
+    "url": "https://meskoshin.co.jp/service_products/",
+    "pass": 1
+   },
+   {
+    "quote": "コンクリート製品の型取り出しから段積み排出をロボットによる自動化",
+    "url": "https://meskoshin.co.jp/service_products/",
+    "pass": 1
+   },
+   {
+    "quote": "双腕ロボットを使って加工設備へ移載する設備",
+    "url": "https://meskoshin.co.jp/service_products/",
+    "pass": 1
+   },
+   {
+    "quote": "・FA省力化機器・機械部品・自動車部品関連・計測機・食品関連など",
+    "url": "https://meskoshin.co.jp/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車の場合：中央自動車道 伊那インターより約5km",
+    "url": "https://meskoshin.co.jp/access/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、垂直多関節ロボット、パラレルリンクロボット、双腕ロボット、",
+    "url": "https://mono.ipros.com/company/detail/2096684/",
+    "pass": 3
+   },
+   {
+    "quote": "スカラロボットなど様々な種類・メーカーのロボットを組み合わせた",
+    "url": "https://mono.ipros.com/company/detail/2096684/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "産業用機械装置完全受注生産・オーダーメイドの専用機",
+    "url": "https://meskoshin.co.jp/service_products/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、専用機の完全受注生産・オーダーメイド製作を行っております",
+    "url": "https://mono.ipros.com/company/detail/2096684/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、お客様のニーズに合わせたオーダーメイドの機械装置を主軸に販売しているメーカーです",
+    "url": "https://www.jobs-go.jp/jobs/detail/12442",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "Đường số 6 , Khu Công Nghiệp Nhơn Trạch 3 – giai đoạn 2 , Xã Nhơn Trạch , Tỉnh Đồng Nai, Việt Nam",
+    "url": "https://meskoshin.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "鉄・ステンレス・アルミニウム・真鍮・黄銅・樹脂製品（POM PP PVC FRPなど）",
+    "url": "https://meskoshin.co.jp/cutting/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - MES甲信 — 会社概要 - MES甲信 MES甲信 https://meskoshin.co.jp > company",
+    "url": "https://meskoshin.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社MES甲信 - イプロス — 株式 会社MES甲信 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2096684/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機械装置の機械設計 株式 会社MES甲信 の求人 情報 /長野県 ... — 産業機械装置の機械設計 株式 会社MES甲信 の求人 情報 /長野県 ... ジョブズゴー https://www.jobs-go.jp > jobs > detail",
+    "url": "https://www.jobs-go.jp/jobs/detail/12442",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社MES甲信 - シューカツNAGANO — 株式 会社MES甲信 - シューカツNAGANO シューカツNAGANO https://www.shukatsu-nagano.jp > 企業情報 > 上伊那エリア",
+    "url": "https://www.shukatsu-nagano.jp/company_info/33595.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社MES甲信 の求人 情報 - E-CURE イーキュア — 株式 会社MES甲信 の求人 情報 - E-CURE イーキュア イーキュア https://www.ecure.co.jp > detail",
+    "url": "https://www.ecure.co.jp/h/detail/314",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - MES甲信 — お問い合わせ - MES甲信 MES甲信 https://meskoshin.co.jp > contact",
+    "url": "https://meskoshin.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "（株） MES甲信 （長野県伊那市美篶5830-1） — （株） MES甲信 （長野県伊那市美篶5830-1） 元気ビジネス応援隊 https://www.genkibiz.net > member",
+    "url": "https://www.genkibiz.net/member/95/page=form",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 MES甲信 -営業職 求人情報 | 長野県移住支援金対象 ... — 株式会社 MES甲信 -営業職 求人情報 | 長野県移住支援金対象 ... 長野県移住支援金対象求人サイト https://uij-matching.pref.nagano.lg.jp > recruit > detail",
+    "url": "https://uij-matching.pref.nagano.lg.jp/recruit/detail?id=931",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 MES甲信 -企業情報 | Techno Reach Nagano（テクノ ... — 株式会社 MES甲信 -企業情報 | Techno Reach Nagano（テクノ ... テクノリーチ ナガノ https://t-reach.nice-o.or.jp > company",
+    "url": "https://t-reach.nice-o.or.jp/company/343",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 MES甲信 - イプロス — 株式会社 MES甲信 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2096684/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "（株）MES甲信 （長野県伊那市美篶5830-1） へのお問い合わせフォーム",
+    "url": "https://www.genkibiz.net/member/95/page=form",
+    "pass": 3
+   },
+   {
+    "quote": "MES甲信へのお問い合せはこちらのメールフォームからお願い申し上げます",
+    "url": "https://www.genkibiz.net/member/95/page=form",
+    "pass": 3
+   },
+   {
+    "quote": "メールまたはホームページよりお問合せください",
+    "url": "https://uij-matching.pref.nagano.lg.jp/recruit/detail?id=931",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://meskoshin.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meskoshin.co.jp/service_products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meskoshin.co.jp/service_products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meskoshin.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meskoshin.co.jp/cutting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meskoshin.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meskoshin.co.jp/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meskoshin.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meskoshin.co.jp/recruit/apply/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://meskoshin.co.jp/wp-content/uploads/2024/10/service_products_header_img.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://meskoshin.co.jp/wp-content/themes/meskoshin/img/top/service_products/01-3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://meskoshin.co.jp/wp-content/themes/meskoshin/img/top/service_products/02-3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://meskoshin.co.jp/wp-content/themes/meskoshin/img/top/service_products/03-3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://meskoshin.co.jp/wp-content/themes/meskoshin/img/top/service_products/04-2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://meskoshin.co.jp/wp-content/themes/meskoshin/img/service_products/abb-robot.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2096684/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jobs-go.jp/jobs/detail/12442",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.genkibiz.net/member/95/page=form",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uij-matching.pref.nagano.lg.jp/recruit/detail?id=931",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MES甲信 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://mono.ipros.com/cg2/%E5%B0%8F%E3%83%AD%E3%83%83%E3%83%88%E7%94%9F%E7%94%A3/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://kyoeidesign.co.jp/lot-production/qa-lot-production/",
+    "https://injection-fuchu.com/column/1203/",
+    "https://kakounosusume.com/product/epomold/",
+    "https://asiaplanning.com/machining/column/column-4733/",
+    "https://meskoshin.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "MES甲信 会社概要 事業内容",
+   "results": [
+    "https://meskoshin.co.jp/company/",
+    "https://mono.ipros.com/company/detail/2096684/",
+    "https://www.jobs-go.jp/jobs/detail/12442",
+    "https://www.shukatsu-nagano.jp/company_info/33595.html",
+    "https://www.ecure.co.jp/h/detail/314",
+    "https://uij-matching.pref.nagano.lg.jp/company/detail?id=454",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3016058417/",
+    "https://oikiai.jp/mes-koushin/",
+    "https://t-reach.nice-o.or.jp/company/343",
+    "https://meskoshin.co.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "MES甲信 お問い合わせ メール",
+   "results": [
+    "https://meskoshin.co.jp/contact/",
+    "https://www.genkibiz.net/member/95/page=form",
+    "https://uij-matching.pref.nagano.lg.jp/recruit/detail?id=931",
+    "https://t-reach.nice-o.or.jp/company/343",
+    "https://mono.ipros.com/company/detail/2096684/",
+    "https://www.mes2023.com/contact",
+    "https://www.shukatsu-nagano.jp/company_info/33595.html",
+    "https://clip-corporation.com/company-matching/company-details/?corporate_number=2100001023905",
+    "https://www.jobs-go.jp/jobs/detail/12441",
+    "https://meskoshin.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com MES甲信",
+   "results": [
+    "https://note.com/butsuryuya/n/ne00e7655c50e",
+    "https://note.com/",
+    "https://note.com/yucky_39/n/n79c3c76b23ab",
+    "https://note.com/anchiwind/n/nf2db9ea4af36",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/azumi_elecpg/n/nae63e4fb7bac",
+    "https://note.com/daikidomon/n/n238268ba8967",
+    "https://note.com/magic_lily7002/n/n21beac15c7dc"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com MES甲信",
+   "results": [
+    "https://x.com/f04013tk",
+    "https://x.com/ayaco_kato",
+    "https://x.com/SM_gensan/status/2115687595892166988",
+    "https://x.com/hashtag/%E5%91%B3%E4%BB%99%E6%9C%AC%E5%BA%97",
+    "https://x.com/meamet",
+    "https://x.com/",
+    "https://x.com/MesC",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/koushindenka525",
+    "https://help.x.com/zh-tw/using-x"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:linkedin.com MES甲信",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com MES甲信",
+   "results": [
+    "https://www.facebook.com/groups/678837902886346/posts/2085132355590220/",
+    "https://www.facebook.com/groups/mochilerosenjapon/posts/2460352401131203/",
+    "https://www.facebook.com/japankakkoii/videos/%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%AD%E0%B8%94%E0%B8%A3%E0%B8%96%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B9%82%E0%B8%99%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%B4-%E0%B9%83%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B9%82%E0%B8%95-%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%AD%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%9E%E0%B8%AD-%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%AD%E0%B8%94%E0%B8%81%E0%B9%87%E0%B9%81%E0%B8%9E/764108616279457/",
+    "https://www.facebook.com/tvasahinews/videos/%E6%9D%B1%E4%BA%AC29%E6%97%A5%E9%80%A3%E7%B6%9A%E3%81%AE%E9%9B%A8-%E4%B9%85%E3%80%85%E3%81%AB%E6%99%B4%E5%A4%A9-%E6%B0%B4%E4%B8%8D%E8%B6%B3%E3%81%AE%E8%A5%BF%E6%97%A5%E6%9C%AC-%E3%81%82%E3%81%99%E3%82%82%E6%99%B4%E5%A4%A9%E6%9C%80%E6%96%B0%E3%81%AE%E6%B0%97%E8%B1%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89%EF%B8%8F-httpsnewstv-asahicojpnews_society2ht/1118018244009757/",
+    "https://www.facebook.com/noticiasnippon/posts/tenkiyoh%C5%8D-jap%C3%B3n-estrena-octubre-entre-lluvias-y-calor-as%C3%AD-estar%C3%A1-el-tiempo-de-no/1594238919412155/",
+    "https://www.facebook.com/groups/mochilerosenjapon/posts/2246322849200827/",
+    "https://www.facebook.com/groups/Alquilerapartamentoscasaspr/posts/3683779835105663/",
+    "https://www.facebook.com/groups/30709239577/posts/10164109383734578/",
+    "https://www.facebook.com/groups/mochilerosenjapon/posts/2466669263832850/",
+    "https://www.facebook.com/bbc1997/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "MES甲信 note 社長",
+   "results": [
+    "https://meskoshin.co.jp/concept/",
+    "https://www.shukatsu-nagano.jp/company_info/33595.html",
+    "https://t-reach.nice-o.or.jp/company/343",
+    "https://uij-matching.pref.nagano.lg.jp/company/detail?id=454",
+    "https://mono.ipros.com/company/detail/2096684/",
+    "https://ina-dani.net/topics/detail/?id=68804",
+    "https://www.genkibiz.net/member/95/",
+    "https://jp.indeed.com/cmp/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%80%80%EF%BD%8D%EF%BD%85%EF%BD%93%E7%94%B2%E4%BF%A1",
+    "https://www.youtube.com/channel/UCsE4d5FWPpAKR_fOWHC4ziQ",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "MES甲信 X 投稿",
+   "results": [
+    "https://meskoshin.co.jp/",
+    "https://www.shukatsu-nagano.jp/company_info/33595.html",
+    "https://mono.ipros.com/company/detail/2096684/",
+    "https://uij-matching.pref.nagano.lg.jp/recruit/detail?id=931",
+    "https://t-reach.nice-o.or.jp/company/343",
+    "https://www.genkibiz.net/member/95/",
+    "https://oikiai.jp/mes-koushin/",
+    "https://x.com/hashtag/mes",
+    "https://meskoshin.co.jp/feed/",
+    "https://www.youtube.com/@株式会社MES甲信"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像6件／外部7頁・検索9回）"
+ }
+}

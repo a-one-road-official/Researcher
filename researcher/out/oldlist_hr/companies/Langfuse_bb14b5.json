@@ -1,0 +1,1534 @@
+{
+ "name": "Langfuse",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T18:27:38.680270+00:00",
+ "official_url": "https://langfuse.com",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "Custom Usage Pricing",
+    "value": "Available with Yearly Commitment",
+    "url": "https://langfuse.com/pricing",
+    "pass": 1
+   },
+   {
+    "label": "droidrun / mobilerun",
+    "value": "9947",
+    "url": "https://github.com/langfuse/langfuse/blob/main/README.ja.md",
+    "pass": 3
+   },
+   {
+    "label": "miurla / morphic",
+    "value": "9275",
+    "url": "https://github.com/langfuse/langfuse/blob/main/README.ja.md",
+    "pass": 3
+   },
+   {
+    "label": "droidrun / mobilerun",
+    "value": "9947",
+    "url": "https://github.com/langfuse/langfuse",
+    "pass": 3
+   },
+   {
+    "label": "miurla / morphic",
+    "value": "9275",
+    "url": "https://github.com/langfuse/langfuse",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Langfuse is one open platform for every AI call your company makes and every agent your teams build. Track usage and costs, trace and evaluate agents, and use production logs to ship better AI. Cloud or self-hosted.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "traces, sessions, agents, prompts",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "prompts, models, code variants",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In production, trace and monitor your application, and iterate directly on what monitoring surfaces. During development, build datasets, then experiment and evaluate, iterating until a change is good enough. Deploy it, and the loop starts again with new traces.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One integrated platform to trace, manage prompts, evaluate, and experiment from prototype to production scale.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LLM-as-a-judge, heuristic functions, or human review. Run evaluators on production data or during experiments.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Separate prompts from code with one-click deployments and rollbacks. Turn improving your production prompts a team sport.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Test prompts on real production inputs and compare models side-by-side.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Canva's AI team relies on Langfuse to trace and debug their generative design features in production.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LiteLLM (Proxy/Gateway)",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "All product features MIT licensed",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", the Langfuse assistant, investigates production and takes approved actions; SKILL.md, CLI, and MCP connect coding agents to Langfuse.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate the AI engineering loop: investigate production data, understand what happened, and turn findings into approved actions without leaving Langfuse.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A ready-made skill for managing prompts, traces, and evals through natural language.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Structured access for IDE agents to manage prompts, query traces, and use Langfuse data.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional observability handles many small spans. LLM systems run differently. Every step carries rich, verbose I/O that legacy platforms can't handle at scale. Langfuse ingests and queries LLM traces reliably at enterprise scale while following strict compliance frameworks.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "S3/Blob storage for large payloads",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "90B+ observations processed per month",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Langfuse is the most widely adopted open-source LLM engineering platform. Developers who value open-source and control over their data build production grade agents and LLM applications with Langfuse.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Langfuse powers the entire development cycle from prototype to full scale production loads.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tracing never blocks your application. Background processing, automatic batching.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "50,000+ companies using Langfuse. Billions of events processed per month. 65M+ SDK installs/month. Fortune 50 deployments.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Install the Langfuse Agent Skill from github.com/langfuse/skills and use it to add tracing to this application with Langfuse following best practices.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Install the Langfuse Agent Skill from github.com/langfuse/skills and use it to set up evals for this application with Langfuse. Guide me through choosing the right evaluation approach methods.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Install the Langfuse Agent Skill from github.com/langfuse/skills and use it to migrate the prompts in this codebase to Langfuse.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help customers build, deploy, and continuously improve production AI agents. Langfuse is the open AI engineering platform that connects tracing, monitoring, prompt management, datasets, experiments, and evaluations in one workflow.",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "One service motion for production AI",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Langfuse fits into the AI implementation work your team already delivers. Partners can support the full customer journey from an initial agent implementation to the quality workflows and production handover that keep it reliable.",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Define evaluation strategy, curate datasets, run experiments, monitor quality, and set up prompt-management workflows that customers can operate after handover.",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "This creates a broader services opportunity than platform delivery alone: help customers ship useful agents, make their behavior observable, establish a repeatable improvement loop, and transfer the system into production ownership.",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Add observability, evaluation, experimentation, and prompt operations to agent and application delivery.",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Give customers one connected improvement loop.",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Create reference implementations, evaluation templates, industry accelerators, and proof-of-concept patterns that shorten future projects.",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "GAO is the approved launch partner for this directory. More firms may be added after they demonstrate successful Langfuse delivery.",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "GAO helps organizations across Japan and APAC adopt Langfuse as part of production AI initiatives, with implementation services, technical support, and local procurement support in Japan.",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Langfuse professional services",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Local procurement in Japan",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "This path is designed for systems integrators and professional services firms that already know how to build AI agents or AI-powered applications. It adds Langfuse product fluency and delivery evidence to that foundation.",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "product documentation",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": ", then create a demonstrable agent implementation, reusable accelerator, or customer proof of concept that shows how you apply Langfuse in practice.",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "ClickHouse House Mates program",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": ", rather than creating a separate partner program. Depending on program fit and participation, House Mates provides:",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Deal registration and protection",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partners can package Langfuse implementation and advisory services into broader AI-agent engagements. Typical work includes agent implementation, tracing and instrumentation, evaluation design, datasets and experiments, quality monitoring, prompt-management workflows, and production handover.",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Bring your AI implementation experience, build hands-on Langfuse fluency, and show how your team can help customers run better production agents.",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Teams building AI applications need to monitor and evaluate them continuously to get them into production and keep improving them. Langfuse is the open-source platform for that workflow. Read about",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "AI-native companies and large enterprises",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "run on Langfuse, and so do very large enterprises. See more",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Engineers own a feature area and stay with it as the team grows. Marketers own launches, events, or a program like Langfuse Academy. The people who build a feature answer users in",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": ", docs and marketing. (",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our bet is that ClickHouse will be one of the great infrastructure companies of the AI era, and that joining Langfuse now means being part of that. The database already runs real-time analytics, observability, and AI workloads. Langfuse is how that platform sees what agents do in production. For more background,",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Each of these projects was usually executed by one person.",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You own your projects end to end and the product outcome, building whatever it takes, putting the user and the product first, and making smart technical choices.",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A Tokyo region so traces, prompts, and evaluations stay in Japan.",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our audience is AI engineers, so most of our marketing is material they'd bookmark:",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Developer content, like the",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product marketing,",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are remote-first and hire engineers across Europe and in US-East time zones. Engineering teams are mixed EU/US. Marketing and all other roles hire in Europe and all of the United States. All roles are listed on the ClickHouse careers site. See",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise & Partnerships",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product Marketing Engineer",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "without changing code. Every call lands in Langfuse for tracing, evals, and cost tracking, and you can export it to your warehouse.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "that routes your AI calls through Langfuse and traces each one with usage and cost. Many teams start with tracing alone and adopt other features as they need them. Langfuse is used by 50,000+ companies and processes billions of observations per month. You can try it instantly with the",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Langfuse is the most widely adopted LLM Engineering platform, used by",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial engineering and manufacturing company",
+    "url": "https://langfuse.com/users",
+    "pass": 1
+   },
+   {
+    "quote": "Langfuse is the most widely adopted LLM Engineering platform, used by",
+    "url": "https://langfuse.com/about",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "EU, US & Japan Data Regions",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "US, EU, Japan, and HIPAA data regions",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Japan, APAC",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "GAO helps organizations across Japan and APAC adopt Langfuse as part of production AI initiatives, with implementation services, technical support, and local procurement support in Japan.",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Local procurement in Japan",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Then you meet everyone in person at an offsite in Tokyo or Berlin. (",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A Tokyo region so traces, prompts, and evaluations stay in Japan.",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Langfuse Cloud is hosted on AWS and data is stored in the US, EU, or Japan depending on your selection. Enterprise customers can also choose a HIPAA-compliant US region. See our",
+    "url": "https://langfuse.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "All secondary regions are within the same legal jurisdiction as their primary region (EU ↔ EU, US ↔ US, Japan ↔ Japan), so cross-region replication does not change the data-residency or cross-border-transfer posture declared in the",
+    "url": "https://langfuse.com/security/data-regions",
+    "pass": 1
+   },
+   {
+    "quote": "Langfuse Cloud is hosted on AWS and data is stored in the US, EU, or Japan depending on your selection. Enterprise customers can also choose a HIPAA-compliant US region. See our",
+    "url": "https://langfuse.com/pricing-self-host",
+    "pass": 1
+   },
+   {
+    "quote": "Langfuse Cloud Japan - Langfuse",
+    "url": "https://langfuse.com/changelog/2026-04-27-langfuse-cloud-japan",
+    "pass": 1
+   },
+   {
+    "quote": "A new dedicated cloud region in Tokyo keeps traces, prompts, and evaluation data inside Japan.",
+    "url": "https://langfuse.com/changelog/2026-04-27-langfuse-cloud-japan",
+    "pass": 1
+   },
+   {
+    "quote": "Langfuse Cloud is now live in a dedicated Japan region, hosted in Tokyo (",
+    "url": "https://langfuse.com/changelog/2026-04-27-langfuse-cloud-japan",
+    "pass": 1
+   },
+   {
+    "quote": "). Traces, prompts, and evaluation data stay in Japan. Langfuse Cloud Japan is available via",
+    "url": "https://langfuse.com/changelog/2026-04-27-langfuse-cloud-japan",
+    "pass": 1
+   },
+   {
+    "quote": "What is Langfuse Cloud Japan?",
+    "url": "https://langfuse.com/changelog/2026-04-27-langfuse-cloud-japan",
+    "pass": 1
+   },
+   {
+    "quote": "— traces, prompts, and evaluation records are stored and processed in Tokyo",
+    "url": "https://langfuse.com/changelog/2026-04-27-langfuse-cloud-japan",
+    "pass": 1
+   },
+   {
+    "quote": "Japanese-speaking team",
+    "url": "https://langfuse.com/changelog/2026-04-27-langfuse-cloud-japan",
+    "pass": 1
+   },
+   {
+    "quote": "based in Tokyo for sales and support",
+    "url": "https://langfuse.com/changelog/2026-04-27-langfuse-cloud-japan",
+    "pass": 1
+   },
+   {
+    "quote": "Getting Started (日本語)",
+    "url": "https://langfuse.com/changelog/2026-04-27-langfuse-cloud-japan",
+    "pass": 1
+   },
+   {
+    "quote": "2 times per year, the whole ClickHouse team comes together (e.g. in Tokyo in Spring 2026). In addition, we do another Langfuse-only offsite once per year. Last year this was Portugal.",
+    "url": "https://langfuse.com/handbook/perks-and-pay",
+    "pass": 1
+   },
+   {
+    "quote": "Choose between US, EU, Japan, or HIPAA-ready",
+    "url": "https://langfuse.com/handbook/chapters/why",
+    "pass": 1
+   },
+   {
+    "quote": "LANGFUSE_BASE_URL=\"https://jp.cloud.langfuse.com\" # 🇯🇵 日本リージョン",
+    "url": "https://github.com/langfuse/langfuse/blob/main/README.ja.md",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse Enterprise の導入・本番運用支援 — 日本初の公式リセラー GAO, Inc.",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse Official Reseller · Japan",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の技術チームと、",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンスの提供から導入・運用まで、技術チームが日本語で支援します",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "Official Reseller · Japan / APAC Partner",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "SaaS（日本リージョン対応） / Self-hosted",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "日本初のLangfuse公式リセラーとして、国内企業への導入を支援",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "導入・設定・トラブルシューティングを、日本語で技術サポート",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "海外ベンダーとの直接契約ではなく、GAOとの日本円での契約・請求に対応",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "日本リージョンにも対応し、インフラ管理を任せながらObservability、Evaluation、Prompt Managementを利用できます",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "日本でのLangfuse導入を、",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "日本で早期からLangfuseの導入・技術支援を行ってきた公式リセラーとして、エンタープライズでの導入、Self-hosted構築、Observability / Evaluation設計、LLMOps運用まで多数のプロジェクトを支援しています",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "ガオ株式会社、ClickHouse とリセラーパートナー契約を締結 ―ClickHouse による Langfuse 正式提供開始を受け、Langfuse と ClickHouse の両製品をワンストップで支援できる国内初のパートナーへ―",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "GAOとの国内契約、日本円でのお支払いが可能です",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse Cloudには日本リージョンが用意されています",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内でのデータ管理が必要な場合もご相談ください",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス提供に加えて、日本語テクニカルサポートやLLMOps支援を組み合わせることもできます",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "LANGFUSE ENTERPRISE · JAPAN",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "導入・運用・LLMOpsまで、日本語でご相談いただけます",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "ガオ株式会社 · Langfuse Official Partner",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "国内初！ ガオ株式会社、Langfuse と協業を開始 | ガオ株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000152505.html",
+    "pass": 3
+   },
+   {
+    "quote": "国内初！ ガオ株式会社、Langfuse と協業を開始",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000152505.html",
+    "pass": 3
+   },
+   {
+    "quote": "ガオ株式会社（本社：東京都千代田区、代表取締役：嘉門 延親、以下「ガオ」）は LLM エンジニアリング プラットフォームで躍進を続ける Langfuse GmbH と日本初のエンタープライズ ライセンスのリセラー契約を締結いたしました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000152505.html",
+    "pass": 3
+   },
+   {
+    "quote": "：ガオによる日本語サポートや Langfuse 社とのスムーズなコミュニケーションを実現します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000152505.html",
+    "pass": 3
+   },
+   {
+    "quote": "「このたび、ガオ株式会社という理想的なパートナーとともに日本市場に参加できることを大変嬉しく思います",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000152505.html",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、これまで主にアメリカとヨーロッパで Langfuse を成長させてきましたが、いよいよ日本企業のニーズに応じたカスタム サービスを提供できる体制が整いました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000152505.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場への進出を支援し、日本企業が生成 AI の力を最大限に活用できるよう尽力しているガオ株式会社に深く感謝します」",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000152505.html",
+    "pass": 3
+   },
+   {
+    "quote": "ガオ株式会社 代表取締役 嘉門延親は次のように述べています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000152505.html",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse の革新的な LLM エンジニアリング プラットフォームは、日本の企業が直面する LLM アプリケーションの開発および運用における課題を克服し、成功を収めるための重要なツールになると確信しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000152505.html",
+    "pass": 3
+   },
+   {
+    "quote": "本社：東京都千代田区大手町 1-7-2 東京サンケイビル 27 階",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000152505.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要：ガオ株式会社は、2024 年 10 月に設立した GenAIOps の支援に特化した企業です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000152505.html",
+    "pass": 3
+   },
+   {
+    "quote": "吉積ホールディングス グループの一員で、グループ企業にクラウドエース株式会社、吉積情報株式会社があります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000152505.html",
+    "pass": 3
+   },
+   {
+    "quote": "※クラウドエースはクラウドエース株式会社の商標です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000152505.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都千代田区大手町１丁目７番２号",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000152505.html",
+    "pass": 3
+   },
+   {
+    "quote": "LANGFUSE_BASE_URL=\"https://jp.cloud.langfuse.com\" # 🇯🇵 Japan region",
+    "url": "https://github.com/langfuse/langfuse",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Traditional observability handles many small spans. LLM systems run differently. Every step carries rich, verbose I/O that legacy platforms can't handle at scale. Langfuse ingests and queries LLM traces reliably at enterprise scale while following strict compliance frameworks.",
+    "url": "https://langfuse.com/",
+    "pass": 1
+   },
+   {
+    "quote": "GAO helps organizations across Japan and APAC adopt Langfuse as part of production AI initiatives, with implementation services, technical support, and local procurement support in Japan.",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "No. Langfuse Cloud is the standard managed platform and does not require a partner-operated deployment. Platform delivery is an optional part of AI implementation, not a separate required service track.",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-tenant managed services and OEM arrangements require case-by-case review with Langfuse and ClickHouse before they are offered to customers.",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Join the team building the leading open-source AI engineering platform, now part of ClickHouse",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "of the Fortune 500",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our bet is that ClickHouse will be one of the great infrastructure companies of the AI era, and that joining Langfuse now means being part of that. The database already runs real-time analytics, observability, and AI workloads. Langfuse is how that platform sees what agents do in production. For more background,",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are remote-first and hire engineers across Europe and in US-East time zones. Engineering teams are mixed EU/US. Marketing and all other roles hire in Europe and all of the United States. All roles are listed on the ClickHouse careers site. See",
+    "url": "https://langfuse.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We will show you how teams in regulated industries get there, from the first prototype to an agent that handles part of the work on its own.",
+    "url": "https://langfuse.com/blog/2026-11-04-regulated-industries-ai-agents-production",
+    "pass": 1
+   },
+   {
+    "quote": "Now, we're part of Clickhouse, the leading open-source database for real-time analytics -",
+    "url": "https://langfuse.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "of the Fortune 500",
+    "url": "https://langfuse.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "of the Fortune 500",
+    "url": "https://langfuse.com/handbook/chapters/why",
+    "pass": 1
+   },
+   {
+    "quote": "Interested in contributing to Langfuse full-time? Langfuse is growing fast (we doubled the team in the last 6 months). Since January 2026 we're part of ClickHouse. We hire remotely, with offices in Berlin, San Francisco, Amsterdam, and New York.",
+    "url": "https://github.com/langfuse/langfuse",
+    "pass": 3
+   },
+   {
+    "quote": "of the Fortune 500 use it",
+    "url": "https://brainforge.ai/partners/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse Revenue 2024: $1.1M Est.",
+    "url": "https://getlatka.com/companies/langfuse.com",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse has not published its revenue. GetLatka estimates it at about $1.1M a year (June 2024).",
+    "url": "https://getlatka.com/companies/langfuse.com",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse CEO, founders & employees",
+    "url": "https://getlatka.com/companies/langfuse.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marc Klingen founded Langfuse in 2022 and runs it as CEO. Langfuse had 7 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/langfuse.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Langfuse's revenue?",
+    "url": "https://getlatka.com/companies/langfuse.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Langfuse's revenue at about",
+    "url": "https://getlatka.com/companies/langfuse.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Langfuse have?",
+    "url": "https://getlatka.com/companies/langfuse.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/langfuse.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/langfuse.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/langfuse.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/langfuse.com",
+    "pass": 3
+   },
+   {
+    "quote": "While searching for ideas the team started building new prototypes with LLMs and it was only through this process that they started to notice how hard it was to scale LLM products and arrived at the idea for Langfuse.",
+    "url": "https://posthog.com/spotlight/startup-langfuse",
+    "pass": 3
+   },
+   {
+    "quote": "“Open source is a great way to get more enterprise adoption,” says Marc. “We wouldn’t have expected to reach large Fortune 500 companies without a dedicated sales team, but we’ve since realized that teams in those companies frequently adopt open source tools because they give them more visibility and control over data.”",
+    "url": "https://posthog.com/spotlight/startup-langfuse",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": ", rather than creating a separate partner program. Depending on program fit and participation, House Mates provides:",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Can partners offer multi-tenant managed services or OEM Langfuse?",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-tenant managed services and OEM arrangements require case-by-case review with Langfuse and ClickHouse before they are offered to customers.",
+    "url": "https://langfuse.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Langfuse Official Reseller · Japan",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "Official Reseller · Japan / APAC Partner",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Yes, you can configure spend alerts to receive email notifications when your organization's spending exceeds predefined monetary thresholds. This helps you monitor costs and take action before unexpected charges occur. Navigate to your organization settings and the Billing tab to configure spend alerts. Learn more in our",
+    "url": "https://langfuse.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, you can configure spend alerts to receive email notifications when your organization's spending exceeds predefined monetary thresholds. This helps you monitor costs and take action before unexpected charges occur. Navigate to your organization settings and the Billing tab to configure spend alerts. Learn more in our",
+    "url": "https://langfuse.com/pricing-self-host",
+    "pass": 1
+   },
+   {
+    "quote": "to get an email about important features and new releases for open source Langfuse — self-hosting updates only, no marketing.",
+    "url": "https://github.com/langfuse/langfuse",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Langfuse Cloud Japan — 東京でホストされるLLMオブザーバ ... — Langfuse Cloud Japan — 東京でホストされるLLMオブザーバ ... Langfuse https://langfuse.com > japan",
+    "url": "https://langfuse.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "langfuse /README.ja.md at main - GitHub — langfuse /README.ja.md at main - GitHub GitHub https://github.com > blob > main > README.ja.md",
+    "url": "https://github.com/langfuse/langfuse/blob/main/README.ja.md",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse Enterprise の 導入 ・本番運用支援 - GAO, Inc. — Langfuse Enterprise の 導入 ・本番運用支援 - GAO, Inc. ガオ株式会社 https://gao-ai.com > langfuse",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse JP同好会 (@LangfuseJP) / X — Langfuse JP同好会 (@LangfuseJP) / X X https://x.com > LangfuseJP",
+    "url": "https://x.com/LangfuseJP",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse Cloud Japan — Langfuse Cloud Japan Langfuse https://langfuse.com > changelog > 2...",
+    "url": "https://langfuse.com/changelog/2026-04-27-langfuse-cloud-japan",
+    "pass": 3
+   },
+   {
+    "quote": "GenAI Ops / Langfuse 導入支援 | クラウドエース株式会社 — GenAI Ops / Langfuse 導入支援 | クラウドエース株式会社 クラウドエース株式会社 https://cloud-ace.jp > サービス",
+    "url": "https://cloud-ace.jp/service/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse JP同好会 - connpass — Langfuse JP同好会 - connpass connpass https://langfuse.connpass.com",
+    "url": "https://langfuse.connpass.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Careers at Langfuse — Careers at Langfuse Langfuse https://langfuse.com > careers",
+    "url": "https://langfuse.com/careers",
+    "pass": 3
+   },
+   {
+    "quote": "国内初！ ガオ株式会社、 Langfuse と協業を開始 - PR TIMES — 国内初！ ガオ株式会社、 Langfuse と協業を開始 - PR TIMES PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000152505.html",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIサービスの「運用」ってどうしてる？ 「 Langfuse ... — 生成AIサービスの「運用」ってどうしてる？ 「 Langfuse ... CodeZine https://codezine.jp > article > detail",
+    "url": "https://codezine.jp/article/detail/22063",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub - langfuse / langfuse : Open source AI engineering ... — GitHub - langfuse / langfuse : Open source AI engineering ... GitHub https://github.com > langfuse",
+    "url": "https://github.com/langfuse/langfuse",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse Enterprise の導入・本番運用支援 - GAO, Inc. — Langfuse Enterprise の導入・本番運用支援 - GAO, Inc. ガオ株式会社 https://gao-ai.com > langfuse",
+    "url": "https://gao-ai.com/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers - Langfuse — Customers - Langfuse Langfuse https://langfuse.com > users",
+    "url": "https://langfuse.com/users",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse + Brainforge | Partnerships — Langfuse + Brainforge | Partnerships Brainforge https://brainforge.ai > Partnerships",
+    "url": "https://brainforge.ai/partners/langfuse/",
+    "pass": 3
+   },
+   {
+    "quote": "Building with Langfuse - Observability & Analytics for LLM ... — Building with Langfuse - Observability & Analytics for LLM ... Lightspeed Venture Partners https://lsvp.com > stories > building-...",
+    "url": "https://lsvp.com/stories/building-with-langfuse-observability-analytics-for-llm-applications/",
+    "pass": 3
+   },
+   {
+    "quote": "How Merck uses Langfuse - YouTube — How Merck uses Langfuse - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=2qfrB1yHUVQ",
+    "pass": 3
+   },
+   {
+    "quote": "How to package langfuse into our own enterprise software? — How to package langfuse into our own enterprise software? GitHub https://github.com > orgs > discussions",
+    "url": "https://github.com/orgs/langfuse/discussions/8381",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse Partners — Langfuse Partners Langfuse https://langfuse.com > partners",
+    "url": "https://langfuse.com/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse Revenue 2024: $1.1M Est. - GetLatka — Langfuse Revenue 2024: $1.1M Est. - GetLatka GetLatka https://getlatka.com > langfuse",
+    "url": "https://getlatka.com/companies/langfuse.com",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse raises $4M — Langfuse raises $4M Langfuse https://langfuse.com > blog > announ...",
+    "url": "https://langfuse.com/blog/announcing-our-seed-round",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse - 2026 Company Profile & Team - Tracxn — Langfuse - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/langfuse/__ShKqRFsp1-W_wOiiPE5R9ZjXs68jfy9uv88xZcE9pP0",
+    "pass": 3
+   },
+   {
+    "quote": "How Langfuse pivoted and raised $4M after leaving Y ... — How Langfuse pivoted and raised $4M after leaving Y ... PostHog https://posthog.com > startup-langfuse",
+    "url": "https://posthog.com/spotlight/startup-langfuse",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse 2026 Company Profile - PitchBook — Langfuse 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/517418-38",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "LangChainとLangGraphを LangFuse に接続して、LLM ... - note LangChainとLangGraphを LangFuse に接続して、LLM ... - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/takuya_kubo_1986/n/n0914834af1e5",
+    "pass": 3
+   },
+   {
+    "quote": "LLMOps基盤（ Langfuse Cloud）を日本リージョンに移行しま ... LLMOps基盤（ Langfuse Cloud）を日本リージョンに移行しま ... note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/oshira_proni/n/n20047c547d85",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse for Beginners: Make LLM App Development ... - note Langfuse for Beginners: Make LLM App Development ... - note note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/ralios/n/nf91acfc430e7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクトに Langfuse を入れた話 LLM 運用を“見える化”する ... プロダクトに Langfuse を入れた話 LLM 運用を“見える化”する ... note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/scenelive/n/n8159f8b03462",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "langfuse .com (@ langfuse ) / X langfuse .com (@ langfuse ) / X X https://x.com > langfuse",
+    "url": "https://x.com/langfuse",
+    "pass": 3
+   },
+   {
+    "quote": "\"Today, we are launching Langfuse AI Gateway, in public beta ... \"Today, we are launching Langfuse AI Gateway, in public beta ... X https://x.com > @langfuse",
+    "url": "https://x.com/langfuse/status/2119837547555618872",
+    "pass": 3
+   },
+   {
+    "quote": "ku on X: \"@ langfuse capいただいたのでこれから布教してい ... ku on X: \"@ langfuse capいただいたのでこれから布教してい ... X https://x.com > @ku",
+    "url": "https://x.com/ku/status/1990695011500110146",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Langfuse - LinkedIn Langfuse - LinkedIn LinkedIn https://www.linkedin.com > langfuse",
+    "url": "https://www.linkedin.com/company/langfuse",
+    "pass": 3
+   },
+   {
+    "quote": "Lotte Verheyden - Langfuse - LinkedIn Lotte Verheyden - Langfuse - LinkedIn LinkedIn https://www.linkedin.com > lotteverh...",
+    "url": "https://www.linkedin.com/in/lotteverheyden",
+    "pass": 3
+   },
+   {
+    "quote": "How to Set Up AI Agent Monitoring with Langfuse in 5 Steps How to Set Up AI Agent Monitoring with Langfuse in 5 Steps LinkedIn https://www.linkedin.com > pulse > h...",
+    "url": "https://www.linkedin.com/pulse/how-set-up-ai-agent-monitoring-langfuse-5-steps-ashish-kots-thu1c",
+    "pass": 3
+   },
+   {
+    "quote": "Max Deichmann – co-founder at langfuse .com (YC W23) Max Deichmann – co-founder at langfuse .com (YC W23) LinkedIn https://de.linkedin.com > maxdeichm...",
+    "url": "https://de.linkedin.com/in/maxdeichmann",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Langfuse or LangSmith: What People Actually Use - Facebook Langfuse or LangSmith: What People Actually Use - Facebook Facebook https://www.facebook.com > langfuse-or-langsmith",
+    "url": "https://www.facebook.com/fb-answers/langfuse-or-langsmith/",
+    "pass": 3
+   },
+   {
+    "quote": "Langfuse vs LangSmith: Which LLM tracing platform should ... Langfuse vs LangSmith: Which LLM tracing platform should ... Facebook https://www.facebook.com > posts > langfuse-vs-langsmit...",
+    "url": "https://www.facebook.com/61592104195780/posts/langfuse-vs-langsmith-which-llm-tracing-platform-should-you-actually-use-if-your/122123804919403473/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://langfuse.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://langfuse.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://langfuse.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://langfuse.com/users",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://langfuse.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://langfuse.com/blog/2026-11-04-regulated-industries-ai-agents-production",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://langfuse.com/security/data-regions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://langfuse.com/pricing-self-host",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://langfuse.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://langfuse.com/handbook/chapters/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://langfuse.com/changelog/2026-04-27-langfuse-cloud-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://langfuse.com/handbook/perks-and-pay",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://langfuse.com/handbook/chapters/why",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://langfuse.com/talk-to-us",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://langfuse.com/images/customers/ramp/ramp-light.svg?dpl=dpl_G2Brgb62Qinr29qvuYAK4uvTTo3K",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://langfuse.com/images/customers/ramp/ramp-dark.svg?dpl=dpl_G2Brgb62Qinr29qvuYAK4uvTTo3K",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://langfuse.com/images/customers/canva/Canva-color.png?dpl=dpl_G2Brgb62Qinr29qvuYAK4uvTTo3K",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://langfuse.com/images/customers/canva/Canva-white.png?dpl=dpl_G2Brgb62Qinr29qvuYAK4uvTTo3K",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://github.com/langfuse/langfuse/blob/main/README.ja.md",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gao-ai.com/langfuse/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/LangfuseJP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cloud-ace.jp/service/langfuse/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://langfuse.connpass.com/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000152505.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/langfuse/langfuse",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/LangfuseJP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://brainforge.ai/partners/langfuse/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lsvp.com/stories/building-with-langfuse-observability-analytics-for-llm-applications/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=2qfrB1yHUVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robofy.ai/blog/robofy-whitelabel-reseller-program-complete-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/langfuse.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/langfuse/__ShKqRFsp1-W_wOiiPE5R9ZjXs68jfy9uv88xZcE9pP0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://posthog.com/spotlight/startup-langfuse",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takuya_kubo_1986/n/n0914834af1e5",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/oshira_proni/n/n20047c547d85",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/ralios/n/nf91acfc430e7?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/langfuse",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/langfuse/status/2119837547555618872",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ku/status/1990695011500110146",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/langfuse",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/lotteverheyden",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/how-set-up-ai-agent-monitoring-langfuse-5-steps-ashish-kots-thu1c",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/maxdeichmann",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/langfuse-or-langsmith/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61592104195780/posts/langfuse-vs-langsmith-which-llm-tracing-platform-should-you-actually-use-if-your/122123804919403473/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/scenelive/n/n8159f8b03462",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/langfuse",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Langfuse 日本 導入",
+   "results": [
+    "https://langfuse.com/japan",
+    "https://github.com/langfuse/langfuse/blob/main/README.ja.md",
+    "https://gao-ai.com/langfuse/",
+    "https://x.com/LangfuseJP",
+    "https://langfuse.com/changelog/2026-04-27-langfuse-cloud-japan",
+    "https://langfuse.connpass.com/",
+    "https://tech.layerx.co.jp/entry/stable-ai-agent-dev-with-langfuse",
+    "https://note.com/oshira_proni/n/n20047c547d85",
+    "https://nexa-corp.jp/langfuse-guide/",
+    "https://dot-ai.myuuu.co.jp/times/articles/1819"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Langfuse 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://cloud-ace.jp/service/langfuse/",
+    "https://langfuse.connpass.com/",
+    "https://langfuse.com/careers",
+    "https://prtimes.jp/main/html/rd/p/000000002.000152505.html",
+    "https://codezine.jp/article/detail/22063",
+    "https://gao-ai.com/",
+    "https://www.linkedin.com/posts/takeshi-kaneko-50960411_%E6%98%A8%E6%97%A5clickhouse%E6%97%A5%E6%9C%AC%E6%B3%95%E4%BA%BA%E3%81%AE%E8%A8%AD%E7%AB%8B%E8%A8%98%E5%BF%B5%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%82%92%E8%A1%8C%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E5%A4%9A%E3%81%8F%E3%81%AE%E3%81%8A%E5%AE%A2%E6%A7%98%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC-activity-7454912099660746752-Pdb1",
+    "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news029.html",
+    "https://note.com/hiroshikinoshita/n/n0e2d3f8269fb",
+    "https://langfuse.com/blog/2026-04-27-langfuse-cloud-japan-jp"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Langfuse Japan",
+   "results": [
+    "https://langfuse.com/changelog/2026-04-27-langfuse-cloud-japan",
+    "https://langfuse.com/japan",
+    "https://github.com/langfuse/langfuse",
+    "https://x.com/LangfuseJP",
+    "https://gao-ai.com/langfuse/",
+    "https://langfuse.com/blog/2026-04-27-langfuse-cloud-japan",
+    "https://clickhouse.com/docs/ja/products/cloud/features/ai-ml/langfuse",
+    "https://note.com/oshira_proni/n/n20047c547d85",
+    "https://langfuse.connpass.com/",
+    "https://dot-ai.myuuu.co.jp/times/articles/1819"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Langfuse manufacturing customer case study",
+   "results": [
+    "https://langfuse.com/users",
+    "https://brainforge.ai/partners/langfuse/",
+    "https://lsvp.com/stories/building-with-langfuse-observability-analytics-for-llm-applications/",
+    "https://www.youtube.com/watch?v=2qfrB1yHUVQ",
+    "https://github.com/orgs/langfuse/discussions/8381",
+    "https://www.truefoundry.com/docs/ai-gateway/langfuse",
+    "https://www.zenml.io/blog/langfuse-vs-langsmith",
+    "https://cresta.com/blog/observability-for-ai-agents-tracing-multi-service-llm-pipelines-with-langfuse",
+    "https://medium.com/@sharanharsoor/cost-optimization-in-llm-observability-how-langfuse-handles-petabytes-without-breaking-the-bank-0b0451242d1e",
+    "https://langfuse.com/handbook/chapters/customers"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Langfuse white label OR reseller OR partner program",
+   "results": [
+    "https://langfuse.com/partners",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.robofy.ai/blog/robofy-whitelabel-reseller-program-complete-overview",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://www.vendasta.com/blog/white-label-software-partner-program/",
+    "https://www.agentz.ai/partners",
+    "https://botpenguin.com/blogs/white-label-reseller-program",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Langfuse founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/langfuse.com",
+    "https://langfuse.com/blog/announcing-our-seed-round",
+    "https://tracxn.com/d/companies/langfuse/__ShKqRFsp1-W_wOiiPE5R9ZjXs68jfy9uv88xZcE9pP0",
+    "https://posthog.com/spotlight/startup-langfuse",
+    "https://pitchbook.com/profiles/company/517418-38",
+    "https://www.crunchbase.com/organization/finto-acba",
+    "https://lsvp.com/stories/building-with-langfuse-observability-analytics-for-llm-applications/",
+    "https://www.cbinsights.com/company/langfuse/financials",
+    "https://medium.com/@vcnewsfr/startup-funding-radar-2026-week-2-711920859539",
+    "https://startupintros.com/orgs/langfuse"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com Langfuse",
+   "results": [
+    "https://note.com/oshira_proni/n/nc16a7f6247b1?hl=en",
+    "https://note.com/takuya_kubo_1986/n/n0914834af1e5",
+    "https://note.com/oshira_proni/n/n20047c547d85",
+    "https://note.com/ralios/n/nf91acfc430e7?hl=en",
+    "https://note.com/sky_note_m/n/n8a44cea1ca7c",
+    "https://note.com/saitoxu/n/na902568bb2cd",
+    "https://note.com/jolly_dahlia842/n/nde893dcd7c30",
+    "https://note.com/scenelive_massu/n/n3814c8d06386",
+    "https://note.com/humble_rose2342/n/na77bd41f2d55",
+    "https://note.com/hiroshikinoshita/n/n0e2d3f8269fb"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com Langfuse",
+   "results": [
+    "https://x.com/langfuse",
+    "https://x.com/langfuse/status/2119837547555618872",
+    "https://x.com/marcklingen",
+    "https://x.com/ku/status/1990695011500110146",
+    "https://x.com/langfuse/status/2117661003723026937",
+    "https://x.com/langfuse/status/2118724675744239823",
+    "https://x.com/langfuse/status/2117657089028046987",
+    "https://x.com/minicoohei/article/2064354158325768260",
+    "https://x.com/stretchcloud/status/2120127330572001715",
+    "https://x.com/langfuse/status/2109631200306385267"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Langfuse",
+   "results": [
+    "https://www.linkedin.com/company/langfuse",
+    "https://www.linkedin.com/in/lotteverheyden",
+    "https://www.linkedin.com/pulse/how-set-up-ai-agent-monitoring-langfuse-5-steps-ashish-kots-thu1c",
+    "https://de.linkedin.com/in/maxdeichmann",
+    "https://www.linkedin.com/products/langfuse/",
+    "https://www.linkedin.com/posts/marcklingen_langfuse-joins-clickhouse-westarted-langfuse-activity-7417969281725812738-Ms5A",
+    "https://www.linkedin.com/posts/langfuse_langfuse-integrates-with-the-new-microsoft-activity-7384943817512202240-Ohpy",
+    "https://de.linkedin.com/in/marcklingen",
+    "https://www.linkedin.com/posts/maxdeichmann_langfuse-yc-w23-is-growing-quickly-join-activity-7298013180381843457-Dr-V",
+    "https://de.linkedin.com/company/langfuse"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Langfuse",
+   "results": [
+    "https://www.facebook.com/fb-answers/langfuse-or-langsmith/",
+    "https://www.facebook.com/NTTDATARO/posts/%F0%9D%90%87%F0%9D%90%A8%F0%9D%90%B0-%F0%9D%90%9D%F0%9D%90%A8-%F0%9D%90%B0%F0%9D%90%9E-%F0%9D%90%A4%F0%9D%90%A7%F0%9D%90%A8%F0%9D%90%B0-%F0%9D%90%A2%F0%9D%90%9F-%F0%9D%90%9A%F0%9D%90%A7-%F0%9D%90%80%F0%9D%90%88-%F0%9D%90%80%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%A6%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%B0%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A5as-ai-agents-become-more-capable/1339098004909726/",
+    "https://www.facebook.com/61592104195780/posts/langfuse-vs-langsmith-which-llm-tracing-platform-should-you-actually-use-if-your/122123804919403473/",
+    "https://www.facebook.com/groups/thaidev/posts/1627660721366785/",
+    "https://www.facebook.com/100053260665726/posts/-note%E6%9B%B4%E6%96%B0langfuse%E3%81%A8bigquery%E3%82%92%E3%81%A4%E3%81%AA%E3%81%8Ellm%E3%81%AE%E8%A6%B3%E6%B8%AC%E5%88%86%E6%9E%90%E6%94%B9%E5%96%84%E3%81%AE%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%82%92%E3%81%A9%E3%81%86%E5%9B%9E%E3%81%99%E3%81%AE%E3%81%8B%E3%83%87%E3%83%BC%E3%82%BF%E5%9F%BA%E7%9B%A4%E3%81%A8llm%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%94%B9%E5%96%84%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%A5%E3%81%8F%E3%82%8A%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE/1795214112263927/",
+    "https://www.facebook.com/groups/aigctw/posts/2790503601133534/",
+    "https://www.facebook.com/groups/1577315533418837/posts/1644100130073710/",
+    "https://www.facebook.com/61567459511803/posts/your-ai-agent-needs-logs-and-traces-just-like-any-microserviceon-oct-14-anthropi/122210378264581983/",
+    "https://www.facebook.com/groups/playwright.automation.test/posts/1979878632579452/",
+    "https://www.facebook.com/rafaelmvr/videos/se-essa-solução-te-interessou-comenta-prompt-que-eu-te-mando-um-tutorial-de-como/2066760477357725/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Langfuse note 社長",
+   "results": [
+    "https://langfuse.com/press",
+    "https://note.com/scenelive/n/n8159f8b03462",
+    "https://github.com/langfuse/langfuse",
+    "https://ajay-arunachalam08.medium.com/exploring-langfuse-an-open-source-llm-engineering-platform-38cf5fe746e6",
+    "https://note.com/sky_note_m/n/n8a44cea1ca7c",
+    "https://x.com/LangfuseJP",
+    "https://note.com/oshira_proni/n/n20047c547d85",
+    "https://lsvp.com/stories/building-with-langfuse-observability-analytics-for-llm-applications/",
+    "https://www.linkedin.com/company/langfuse",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Langfuse X 投稿",
+   "results": [
+    "https://x.com/langfuse",
+    "https://langfuse.com/",
+    "https://github.com/langfuse/openclaw-x-langfuse-plugin",
+    "https://www.youtube.com/watch?v=V1khxZL-yVA",
+    "https://docs.langflow.org/integrations-langfuse",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1i2ycgi/thoughts_on_langfuse/?tl=ja",
+    "https://zenn.dev/serio/articles/222e26634385c8",
+    "https://www.langchain.com/resources/langsmith-vs-langfuse",
+    "https://langfuse.com/blog/langflow",
+    "https://pub.towardsai.net/langfuse-x-your-langfuse-traces-are-already-yours-here-is-how-you-get-them-out-67332ac3f010"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式14頁／PDF・画像4件／外部31頁・検索12回）"
+ }
+}

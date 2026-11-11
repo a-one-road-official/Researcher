@@ -1,19 +1,19 @@
 # 分野_AI・半導体_輸入（海外→日本（輸入）・顧客起点の3C＋PEST・事実のみ）
 
 ### 海外→日本（輸入）｜人型ロボット（humanoid robot）
-- 取得：2026-11-10T14:20・調査7回目・読んだ頁81
+- 取得：2026-11-11T18:51・調査8回目・読んだ頁81
 - 痛み・損（深さの印）（13件）：
   - ［一次］2026-11-08「Amid advances in AI technology and a worsening labor shortage, development and demonstration efforts」https://tcnc.jp/tech_journal/2026_humanoid_robot.pdf
   - ［記事］2026-11-08「（2026年8月28日一部変更）は、物流を、労働の負荷や時間の面で厳しい環境にある労働集約型の産業の一つとし、人手不足による倒産が2025年に52件と過去最多で、全業界で2番目に多かったと記しています」https://ex.ipros.jp/article/insight/humanoid-robot/
   - ［記事］2026-11-07「In the aviation industry, which faces serious labor shortages, GMO AIR aims to build a more stable operating structure by introducing humanoids that can operate 24 hours a day.」https://group.gmo/en/news/article/851/
   - ［記事］2026-11-07「While labor shortages grow ever more severe, every existing environment has been designed around the human body. Humanoids—with their human form—can be deployed just like people, without changing environments or workflow」https://ai-robotics.gmo/en/
   - ［記事］2026-11-06「給与そのものに加えて、社会保険料、採用費、教育費、離職対応、派遣・請負費用なども含めると、人手に依存する工程の維持コストは大きくなります」https://www.icom-giken.com/blog/humanoid-robot-factory-employment/
-- 顧客（金を払う側）（104件）：
+- 顧客（金を払う側）（105件）：
+  - ［一次］2026-11-11「B 中国の人型Hボット本体企業数は110社を超え、 世界全体の半数を占める※」https://www.nri.com/jp/knowledge/report/files/000049393.pdf
+  - ［一次］2026-11-11「人型ロボット本体企業の主要地域分布 (2024年12月時点)」https://www.nri.com/jp/knowledge/report/files/000049393.pdf
+  - ［一次］2026-11-11「(他の国の人型ロボット本体企業の数は、 いずれも10社未満)」https://www.nri.com/jp/knowledge/report/files/000049393.pdf
+  - ［一次］2026-11-11「※統計結果には既に関連製品やプロトタイプを発表した企業のみが含まれており、 実際に人型Hボットの開発に取り組んでいる企業の数はさらに多い可能性がある」https://www.nri.com/jp/knowledge/report/files/000049393.pdf
   - ［一次］2026-11-04「「対象機器・サービス」リストに掲載されている品目の多くは、中国やロシアの特定企業の通信機器やサービスとなっており、中国は今回の措置に対して、報復措置を講じると表明している（米通商専門誌「インサイドUSトレード」7月30日）」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-  - ［一次］2026-11-04「リスト掲載品目の中で、製造企業を特定せず製品カテゴリー自体を掲載し、特定製品に「条件付き承認」を与える形式となっているのは、今回の外国製高度ロボット機器およびインバーターのほか、消費者ルーター（」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-  - ［記事］2026-11-10「米テスラや米アマゾン・ドット・コムなどの企業は、人型ロボットの開発に数十億ドル（数千億円）を投資している」https://jbpress.ismedia.jp/articles/-/82100
-  - ［記事］2026-11-10「テスラは製造業向け人型ロボットの開発に力を注ぐ企業の1社である」https://jbpress.ismedia.jp/articles/-/82100
-  - ［記事］2026-11-10「同社は23年10月、出資する米新興企業、アジリティ・ロボティクスが開発した人型ロボット「Digit（ディジット）」の運用テストを開始した」https://jbpress.ismedia.jp/articles/-/82100
 - 顧客の顧客（発注元が求めること）（40件）：
   - ［一次］2026-11-07「⚫ AIの高度化とSDR※への移行を見据え、多用途ロボットの国産OEMメーカーやSIerを育成するとともに、産業競争力強化や経済」https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics_strategy/pdf/001_03_00.pdf
   - ［一次］2026-11-07「• 汎用性や拡張性の高いサプライチェーンへの段階的な移行を見据えて、SIerが市場が要求する条件に対応する能力を持てるよう、」https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics_strategy/pdf/001_03_00.pdf
@@ -38,74 +38,74 @@
   - ［一次］2026-11-06「くるため、ロボフレ環境整備の継続や、ロボット導入補助金などの支援策が必要」https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics/pdf/002_2_02_00.pdf
   - ［一次］2026-11-04「今回のリスト追加は、これらの機器が米国の経済安全保障や国家安全保障を損なうサプライチェーン上の脆弱（ぜいじゃく）性を生じさせ、米国の重要インフラにサイバーセキュリティーリスクをもたらす恐れがあるとの省庁横断組織の判断に基づく」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
   - ［一次］2026-11-04「この導入促進要因としては、中国政府のロボット導入補助金、導入ロボットの普及拡大（新市場や新しい作業用途の拡大を含む）、一般的なハードウェアの学習曲線に伴」https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics/pdf/20251008_2.pdf
-- 経済（規模・価格・為替）（54件）：
+- 経済（規模・価格・為替）（52件）：
   - ［一次］2026-11-10「2025年中国人型Hロボットの各応用シーン別市場規模構成比の推計」https://www.nri.com/jp/knowledge/report/files/000063002.pdf
   - ［一次］2026-11-05「日本国内のヒューマノイドロボットの市場は、自動車製造工場を中心に 2028年に立ち上がり、市場規模は 20億円と」https://tcnc.jp/tech_journal/2026_humanoid_robot.pdf
   - ［一次］2026-11-05「manufacturing plants, with a projected market size of 2 billion yen. Subsequently, the range of industries」https://tcnc.jp/tech_journal/2026_humanoid_robot.pdf
   - ［一次］2026-11-05「５. 産業用ヒューマノイドロボットの国内市場規模予測」https://tcnc.jp/tech_journal/2026_humanoid_robot.pdf
   - ［一次］2026-11-05「図表6．産業用ヒューマノイドロボットの国内市場規模予測」https://tcnc.jp/tech_journal/2026_humanoid_robot.pdf
-- 社会（人・担い手）（64件）：
+- 社会（人・担い手）（65件）：
+  - ［一次］2026-11-11「⚫ また、国内の労働力確保の観点から、人手不足に悩む小売や中小製造業、介護といったロングテール市場に多用途ロボッ」https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics_strategy/pdf/001_03_00.pdf
   - ［一次］2026-11-05「Amid advances in AI technology and a worsening labor shortage, development and demonstration efforts」https://tcnc.jp/tech_journal/2026_humanoid_robot.pdf
   - ［一次］2026-11-05「通知では、（1）実地訓練スペースの構築、（2）イノベーション応用コンソーシアムの設立、（3）実用的な作業技能の開発、（4）実環境での応用検証と継続的な配備の強化、（5）重要分野の基盤整備の強化（標準化の推進、人材育成、金融支援などを含む）、（6）蓄積された知見の整理・普及といった6つの側面の具体的な取り組みが盛り込まれた」https://www.jetro.go.jp/biznews/2026/07/d17df8127c38f0b9.html
   - ［一次］2026-11-04「（注１）各職種における2040年におけるARIについては、 RIETIディスカッションペーパー「AIおよびロボット技術の進展と日本の雇用・賃金」において示されている、厚生労働省のjob tag ベースの職業名を日本標準産業分類の職種名（大分類）に対応させ、」https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics/pdf/20251008_2.pdf
   - ［一次］2026-11-04「（出所）RIETIディスカッションペーパー「AIおよびロボット技術の進展と日本の雇用・賃金」、厚生労働省「労働力調査」」https://www.meti.go.jp/shingikai/mono_info_service/ai_robotics/pdf/20251008_2.pdf
-  - ［一次］2026-11-04「検証・試験設備を活用しながら、ロボットを導入してデータ収集、検証、標準化、人材育成を同時に進める社会実装のハブ」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-- 技術（新しい技術・実証）（130件）：
+- 技術（新しい技術・実証）（134件）：
+  - ［一次］2026-11-11「m 人型品ボット (ヒューマノイドロボット) とは、目や口、手足なとの人間の身体的特徴を持ち、 自律的判断や歩行などが可能で高度な知能化」https://www.nri.com/jp/knowledge/report/files/000049393.pdf
+  - ［一次］2026-11-11「B 従来の自動化とは異なり、 人型ロボットは自動化の可能性を「汎用性]タスクへ拡大していく」https://www.nri.com/jp/knowledge/report/files/000049393.pdf
+  - ［一次］2026-11-11「Pe Al. 自動制御、 ロボットオペレーティングシステム (ROS) などの」https://www.nri.com/jp/knowledge/report/files/000049393.pdf
   - ［一次］2026-11-04「米連邦通信委、外国製ヒューマノイドロボットなどの新規流通を実質禁止」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
   - ［一次］2026-11-04「外国製のヒューマノイドや四足歩行ロボットなどの高度ロボット機器と、ネットワーク接続型パワーインバーターを追加したと発表」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-  - ［一次］2026-11-04「ただし、ロボットについては戦争省（国防総省）が、インバーターについては国土安全保障省が、国家安全保障上のリスクがないとして「条件付き承認（Conditional Approval）」を付与した場合は、FCCの認証を受けられる（注）」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-  - ［一次］2026-11-04「リスト掲載品目の中で、製造企業を特定せず製品カテゴリー自体を掲載し、特定製品に「条件付き承認」を与える形式となっているのは、今回の外国製高度ロボット機器およびインバーターのほか、消費者ルーター（」https://www.jetro.go.jp/biznews/2026/08/fa8ebe6a3c903d67.html
-  - ［記事］2026-11-10「人型ロボット市場、6兆円規模へ」https://jbpress.ismedia.jp/articles/-/82100
-- SNS・note（Facebook・検索結果の抜粋）（5件）：
-  - ［SNS］2026-11-05「【世界人型ロボット運動会 日本から唯一参戦「ひとみん」400mと1500m... Aug 27, 2026 · 大会、二日目の昨日は、 四百メートル走が行われました。 中には、常識を覆す走りを見せる ロボットも。 アメリカの調査会社によりますと、 今年、上半期で出荷された、人型ロボットの内、 九十七パーセントが、中国メーカー制だったと言い ます。」https://www.facebook.com/tvasahinews/videos/世界人型ロボット運動会-日本から唯一参戦ひとみん400mと1500mを完走-北京中国で5日間にわたって行われている人型ロボットの運動会で日本と中国の企業が世界最/1605544117889612/
-  - ［SNS］2026-11-05「人型ロボット研究開発チーム - Facebook Feb 25, 2026 · 本時刻より自社HPを公開いたします。 0から自力で開発していますので、何か、不具合や改 善箇所があればご連絡いただけたら修繕にかかります 。 下記、URLよりHPを閲覧できます。 HR-RT.COM 人型ロボット研究開発チーム」https://www.facebook.com/profile.php/?id=61586129523341
-  - ［SNS］2026-11-05「人型ロボットを待つか、今あるロボットから始めるか、決めていますか... 人型ロボットを待つか、今あるロボットから始めるか 、決めていますか。 横須賀の造船所づくりを進めた幕臣と、飛ぶ機械を描 き続けた画家が語ったら。 人型ロボットが自動車工場で部品を運ぶ映像を見て、 うちもいずれ導入すべきかと考える。」https://www.facebook.com/growthintelligence2026/videos/人型ロボットを待つか今あるロボットから始めるか決めていますか横須賀の造船所づくりを進めた幕臣と飛ぶ機械を描き続けた画家が語ったら人型ロボットが自動車工場で部品を/951094967720868/
-  - ［SNS］2026-11-05「【初の人型ロボット「100メートル走チャンピオン」誕生】17日に北京で... Aug 19, 2025 · 【初の人型ロボット「100メートル走チャンピオン」誕生】17日に北京で行われた2025世界人型ロボット競技大会100メートル短距離走決勝で、北京人型ロボットイノベーションセンターの「エンボディド天工Ultra」が21.50秒の記録で優勝した。」https://www.facebook.com/jinminmou/videos/初の人型ロボット100メートル走チャンピオン誕生17日に北京で行われた2025世界人型ロボット競技大会100メートル短距離走決勝で北京人型ロボットイノベーション/1283658783224435/
-  - ［SNS］2026-11-04「UBTECHが公開したフルサイズの新しい 人型ロボット 。日本円 ... UBTECHが公開したフルサイズの新しい 人型ロボット 。日本円 ... Facebook https://www.facebook.com > ... > Videos」https://www.facebook.com/BilingualNewsPodcast/videos/ubtech%E3%81%8C%E5%85%AC%E9%96%8B%E3%81%97%E3%81%9F%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%97%A5%E6%9C%AC%E5%86%86%E3%81%A72000%E4%B8%87%E5%86%86%E3%81%BB%E3%81%A9%E3%81%A7%E8%B2%A9%E5%A3%B2%E4%BA%88%E5%AE%9A%E5%84%AA%E9%9B%85%E3%81%AB%E3%83%AF%E3%83%AB%E3%83%84%E3%82%92%E3%81%99%E3%82%8B%E5%A5%B3%E6%80%A7%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%A9%E3%81%86%E6%80%9D%E3%81%86%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%81%AF2026%E5%B9%B4%E6%9C%80%E5%85%88%E7%AB%AF%E6%8A%80/1493981065376043/
-- SNS・note（X・検索結果の抜粋）（6件）：
-  - ［SNS］2026-11-06「人型ロボット 「Unitree G1」改造2日目。 今回はAI専用の ... - X 人型ロボット 「Unitree G1」改造2日目。 今回はAI専用の ... - X X https://x.com > @masahirochaen」https://x.com/masahirochaen/status/2109313327948333217/video/1
-  - ［SNS］2026-11-05「ぽん吉 on X: " 世界人型ロボット最新レポート①｜2026年11月4日 8:00 ... 🤖 世界人型ロボット最新レポート①｜2026年11月4日 8:00 JST 本日の最重要ニュースは、Xiaomiが11月3日に発表した、工場と住宅の両方におけるロボット実証の進展です。 ① 🟢 Xiaomi：自動車工場で8時間の作業を検証 Xiaomiは11月3日、人型ロボットの実用化に関する最新成果を発表しました。 主な ...」https://x.com/Zwe3sJg1hD54815/status/2117783993366307302
-  - ［SNS］2026-11-05「JR西日本ニュース【公式】 on X: " 「量産型人型ロボット」 既導入の... 「量産型人型ロボット」 既導入の人型ロボットを軽量・小型化 より高所での作業が可能になり、操作性も向上 小型・軽量化、ブーム長さを延長などの改良実施 線路沿線の支障木伐採を対象に活用 2026年11月より使用開始」https://x.com/news_jrwest/status/2111027510318354489
-  - ［SNS］2026-11-05「春節ガラで人型ロボットがカンフーとアクロバットを華麗に披露 2月17日にCCTVが生放送した春節聯歓晚会で、Unitree RoboticsのG1やH1ロボットが主役級の活躍を見せ、ヌンチャクさばきやパルクールなどの高難度技を完全自律で披露した。」https://x.com/i/trending/2025902294076686756
-  - ［SNS］2026-11-05「日本唯一の人型ロボ「ひとみん」、北京ロボット大会1500mで7位完走 北京の国家速滑館で開催中の第2回世界人型ロボット運動会で、日本から唯一参加したGMO AI＆ロボティクス商事の「ひとみん」が1500mを完走し、35体中7位の成績を収めた。」https://x.com/i/trending/2092075570679157121
-- SNS・note（LinkedIn・検索結果の抜粋）（4件）：
-  - ［SNS］2026-11-05「What Is a Humanoid Robot? Definition, Capabilities, and ... Dec 30, 2025 · A humanoid robot is a robot designed with a human-like body structure and capabilities, enabling it to operate in environments built for people w」https://www.linkedin.com/pulse/what-humanoid-robot-definition-capabilities-industrial-reality-qzx7c/
-  - ［SNS］2026-11-05「Humanoid - LinkedIn The development of a functional humanoid robot underpins an era of abundance and well-being where poverty will disappear, and people will be able to choose what they want to do.」https://www.linkedin.com/company/humanoidai/
-  - ［SNS］2026-11-05「Artem Sokolov - Founder of Humanoid | AI & Robotics ... Founded in May 2024, Humanoid develops humanoid robots powered by a proprietary AI model for real-world deployment across logistics, retail, and industrial environm」https://uk.linkedin.com/in/artem-sokolov-s
-  - ［SNS］2026-11-05「Humanoid - LinkedIn The development of a functional humanoid robot underpins an era of abundance and well-being where poverty will disappear, and people will be able to choose what they want to do.」https://uk.linkedin.com/company/humanoidai
 - SNS・note（note・本文）（74件）：
   - ［SNS］2026-11-09「人型ロボットがいずれ人間の代わりに働いてくれる、と希望を託す人が少なくない。でも私は当面、難しいように思う。「関節が壊れる」から。」https://note.com/shinshinohara/n/ne714c4a05db1
   - ［SNS］2026-11-09「ロボットは、大地に固定する形だとかなりパワフルだし丈夫だけど、人間のように歩行したりして移動するとなった途端、華奢になり、弱くなる。」https://note.com/shinshinohara/n/ne714c4a05db1
   - ［SNS］2026-11-09「実際に岩だらけのガケを自在に駆け下りる四足歩行ロボットができてるやないか！という人もいるだろうけど、機械の厄介なのは、重くて関節がやられやすい割に「治癒」能力がないこと。人間なら関節を痛めても、しばらく休めば治る。でも機械は決して治らない。修理するか交換するかが必要。」https://note.com/shinshinohara/n/ne714c4a05db1
   - ［SNS］2026-11-09「治らない上に、機械はたいがい金属でできてるから重い。関節への負担が大きい。関節が壊れやすいのに勝手には治ってくれない。移動型ロボットは、このために軽量化を目指してる。軽量化を目指せば華奢になり、パワーは犠牲になる。」https://note.com/shinshinohara/n/ne714c4a05db1
   - ［SNS］2026-11-09「そう考えると人間をはじめ、生きものってすごい。わずかな食料を食べて、重い荷物も運べ、簡単には関節も壊れず、多少の故障なら休めば治る。こんなロボットはいまだに開発できていない。」https://note.com/shinshinohara/n/ne714c4a05db1
-- 検索結果の抜粋（2件）：
-  - ［記事］2026-11-06「ヒューマノイドが4,370ドル。「 ロボット の価格崩壊」は中小 ... — ヒューマノイドが4,370ドル。「 ロボット の価格崩壊」は中小 ... worldinsight.com https://worldinsight.com > News > Japanese」https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/
-  - ［記事］2026-11-05「ヒューマノイド ロボット の 市場規模2026 。主要メーカーと ... — ヒューマノイド ロボット の 市場規模2026 。主要メーカーと ... ailife.kmccorp.jp https://ailife.kmccorp.jp > humanoid-robot-market-2026-...」https://ailife.kmccorp.jp/humanoid-robot-market-2026-overview/
+- SNS・note（Facebook・検索結果の抜粋）（5件）：
+  - ［SNS］2026-11-05「【世界人型ロボット運動会 日本から唯一参戦「ひとみん」400mと1500m... Aug 27, 2026 · 大会、二日目の昨日は、 四百メートル走が行われました。 中には、常識を覆す走りを見せる ロボットも。 アメリカの調査会社によりますと、 今年、上半期で出荷された、人型ロボットの内、 九十七パーセントが、中国メーカー制だったと言い ます。」https://www.facebook.com/tvasahinews/videos/世界人型ロボット運動会-日本から唯一参戦ひとみん400mと1500mを完走-北京中国で5日間にわたって行われている人型ロボットの運動会で日本と中国の企業が世界最/1605544117889612/
+  - ［SNS］2026-11-05「人型ロボット研究開発チーム - Facebook Feb 25, 2026 · 本時刻より自社HPを公開いたします。 0から自力で開発していますので、何か、不具合や改 善箇所があればご連絡いただけたら修繕にかかります 。 下記、URLよりHPを閲覧できます。 HR-RT.COM 人型ロボット研究開発チーム」https://www.facebook.com/profile.php/?id=61586129523341
+  - ［SNS］2026-11-05「人型ロボットを待つか、今あるロボットから始めるか、決めていますか... 人型ロボットを待つか、今あるロボットから始めるか 、決めていますか。 横須賀の造船所づくりを進めた幕臣と、飛ぶ機械を描 き続けた画家が語ったら。 人型ロボットが自動車工場で部品を運ぶ映像を見て、 うちもいずれ導入すべきかと考える。」https://www.facebook.com/growthintelligence2026/videos/人型ロボットを待つか今あるロボットから始めるか決めていますか横須賀の造船所づくりを進めた幕臣と飛ぶ機械を描き続けた画家が語ったら人型ロボットが自動車工場で部品を/951094967720868/
+  - ［SNS］2026-11-05「【初の人型ロボット「100メートル走チャンピオン」誕生】17日に北京で... Aug 19, 2025 · 【初の人型ロボット「100メートル走チャンピオン」誕生】17日に北京で行われた2025世界人型ロボット競技大会100メートル短距離走決勝で、北京人型ロボットイノベーションセンターの「エンボディド天工Ultra」が21.50秒の記録で優勝した。」https://www.facebook.com/jinminmou/videos/初の人型ロボット100メートル走チャンピオン誕生17日に北京で行われた2025世界人型ロボット競技大会100メートル短距離走決勝で北京人型ロボットイノベーション/1283658783224435/
+  - ［SNS］2026-11-04「UBTECHが公開したフルサイズの新しい 人型ロボット 。日本円 ... UBTECHが公開したフルサイズの新しい 人型ロボット 。日本円 ... Facebook https://www.facebook.com > ... > Videos」https://www.facebook.com/BilingualNewsPodcast/videos/ubtech%E3%81%8C%E5%85%AC%E9%96%8B%E3%81%97%E3%81%9F%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%81%AE%E6%96%B0%E3%81%97%E3%81%84%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%97%A5%E6%9C%AC%E5%86%86%E3%81%A72000%E4%B8%87%E5%86%86%E3%81%BB%E3%81%A9%E3%81%A7%E8%B2%A9%E5%A3%B2%E4%BA%88%E5%AE%9A%E5%84%AA%E9%9B%85%E3%81%AB%E3%83%AF%E3%83%AB%E3%83%84%E3%82%92%E3%81%99%E3%82%8B%E5%A5%B3%E6%80%A7%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%A9%E3%81%86%E6%80%9D%E3%81%86%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%88%E3%83%94%E3%83%83%E3%82%AF%E3%81%AF2026%E5%B9%B4%E6%9C%80%E5%85%88%E7%AB%AF%E6%8A%80/1493981065376043/
 - SNS・note（note・検索結果の抜粋）（3件）：
   - ［SNS］2026-11-08「AIロボティクスの未来。 人型ロボット は本当に必要なのか ... AIロボティクスの未来。 人型ロボット は本当に必要なのか ... note https://note.com > 科学・テクノロジー > ロボット技術」https://note.com/amane_bombaye/n/ne5d512e15c39
   - ［SNS］2026-11-05「小倉崇＠シンクロボ代表取締役社長｜note ロボットベンチャーが全社員にClaude Codeを配った話 清掃ロボットは"つまらない"のか ── 地味なロボットが世界を取る理由 ヒューマノイドこそが次の世界最大の産業になる理由 私がヒューマノイドロボットではなく業務用清掃ロボットを開発する理由」https://note.com/otl_sr
   - ［SNS］2026-11-04「成功率99%、作業効率45%。 人型ロボット が工場で戦力になる日 成功率99%、作業効率45%。 人型ロボット が工場で戦力になる日 note https://note.com > ビジネス > ビジネス全般」https://note.com/all_zero/n/n4646576c0bb0
+- SNS・note（LinkedIn・検索結果の抜粋）（4件）：
+  - ［SNS］2026-11-05「What Is a Humanoid Robot? Definition, Capabilities, and ... Dec 30, 2025 · A humanoid robot is a robot designed with a human-like body structure and capabilities, enabling it to operate in environments built for people w」https://www.linkedin.com/pulse/what-humanoid-robot-definition-capabilities-industrial-reality-qzx7c/
+  - ［SNS］2026-11-05「Humanoid - LinkedIn The development of a functional humanoid robot underpins an era of abundance and well-being where poverty will disappear, and people will be able to choose what they want to do.」https://www.linkedin.com/company/humanoidai/
+  - ［SNS］2026-11-05「Artem Sokolov - Founder of Humanoid | AI & Robotics ... Founded in May 2024, Humanoid develops humanoid robots powered by a proprietary AI model for real-world deployment across logistics, retail, and industrial environm」https://uk.linkedin.com/in/artem-sokolov-s
+  - ［SNS］2026-11-05「Humanoid - LinkedIn The development of a functional humanoid robot underpins an era of abundance and well-being where poverty will disappear, and people will be able to choose what they want to do.」https://uk.linkedin.com/company/humanoidai
+- 検索結果の抜粋（2件）：
+  - ［記事］2026-11-06「ヒューマノイドが4,370ドル。「 ロボット の価格崩壊」は中小 ... — ヒューマノイドが4,370ドル。「 ロボット の価格崩壊」は中小 ... worldinsight.com https://worldinsight.com > News > Japanese」https://worldinsight.com/news/japanese/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%81%8C4370%E3%83%89%E3%83%AB%E3%80%82%E3%80%8C%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E4%BE%A1%E6%A0%BC%E5%B4%A9%E5%A3%8A/
+  - ［記事］2026-11-05「ヒューマノイド ロボット の 市場規模2026 。主要メーカーと ... — ヒューマノイド ロボット の 市場規模2026 。主要メーカーと ... ailife.kmccorp.jp https://ailife.kmccorp.jp > humanoid-robot-market-2026-...」https://ailife.kmccorp.jp/humanoid-robot-market-2026-overview/
+- SNS・note（X・検索結果の抜粋）（6件）：
+  - ［SNS］2026-11-06「人型ロボット 「Unitree G1」改造2日目。 今回はAI専用の ... - X 人型ロボット 「Unitree G1」改造2日目。 今回はAI専用の ... - X X https://x.com > @masahirochaen」https://x.com/masahirochaen/status/2109313327948333217/video/1
+  - ［SNS］2026-11-05「ぽん吉 on X: " 世界人型ロボット最新レポート①｜2026年11月4日 8:00 ... 🤖 世界人型ロボット最新レポート①｜2026年11月4日 8:00 JST 本日の最重要ニュースは、Xiaomiが11月3日に発表した、工場と住宅の両方におけるロボット実証の進展です。 ① 🟢 Xiaomi：自動車工場で8時間の作業を検証 Xiaomiは11月3日、人型ロボットの実用化に関する最新成果を発表しました。 主な ...」https://x.com/Zwe3sJg1hD54815/status/2117783993366307302
+  - ［SNS］2026-11-05「JR西日本ニュース【公式】 on X: " 「量産型人型ロボット」 既導入の... 「量産型人型ロボット」 既導入の人型ロボットを軽量・小型化 より高所での作業が可能になり、操作性も向上 小型・軽量化、ブーム長さを延長などの改良実施 線路沿線の支障木伐採を対象に活用 2026年11月より使用開始」https://x.com/news_jrwest/status/2111027510318354489
+  - ［SNS］2026-11-05「春節ガラで人型ロボットがカンフーとアクロバットを華麗に披露 2月17日にCCTVが生放送した春節聯歓晚会で、Unitree RoboticsのG1やH1ロボットが主役級の活躍を見せ、ヌンチャクさばきやパルクールなどの高難度技を完全自律で披露した。」https://x.com/i/trending/2025902294076686756
+  - ［SNS］2026-11-05「日本唯一の人型ロボ「ひとみん」、北京ロボット大会1500mで7位完走 北京の国家速滑館で開催中の第2回世界人型ロボット運動会で、日本から唯一参加したGMO AI＆ロボティクス商事の「ひとみん」が1500mを完走し、35体中7位の成績を収めた。」https://x.com/i/trending/2092075570679157121
 ### 海外→日本（輸入）｜エッジAIチップ（edge AI chip）
-- 取得：2026-11-10T14:51・調査7回目・読んだ頁75
+- 取得：2026-11-11T18:39・調査8回目・読んだ頁73
 - 痛み・損（深さの印）（5件）：
   - ［記事］2026-11-09「, driven by increasing automation, labor shortages, and continued investment in」https://www.asiabusinessoutlook.com/news/deepx-and-koshida-partner-to-expand-edge-ai-across-japan-market-nwid-12143.html
   - ［記事］2026-11-07「◇Chip Industry Sees Labor Shortages Threatening US Expansion Plan―US chip growth at risk from 67K too few skilled workers (7月25日付け BNN Bloomberg (Canada))」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
   - ［記事］2026-11-07「◇Chip Industry Sees Labor Shortages Threatening US Expansion Plan―Based on graduation rates, many jobs could be hard to fill―Biden administration is trying to foster domestic chipmaking (7月25日付け Bloomberg)」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
   - ［記事］2026-11-06「受注残増大や生産能力制約、サプライチェーン、セキュリティ、データ主権の課題に対し、AIでどう対応すべきかを示す調査レポート」https://www.ibm.com/thought-leadership/institute-business-value/jp-ja/report/semiconductors-ai-race
   - ［SNS］2026-11-10「ブルーム・エナジー（BE）が大型受注で株価の景色が変わったように、SYMもウォルマートなどから「数年先まで埋まった超巨大な受注残」を抱えています」https://note.com/sohji_invest/n/n7574e9a04fa0
-- 顧客（金を払う側）（118件）：
+- 顧客（金を払う側）（117件）：
   - ［記事］2026-11-10「工場への導入を想定し、金属製の密閉筐体に基板を収めて連続稼働テストを開始すると、開始から数分後、モニター上のFPS値が急激に低下し始める現象がよく見られます」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-chip-selection-criteria/
   - ［記事］2026-11-10「代わりに「One-to-One Head」と呼ばれる設計が導入され、1つの物体に対して1つのバウンディングボックスを直接出力するNMS-freeな推論が可能になりました」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-chip-selection-criteria/
   - ［記事］2026-11-10「そのため、ライフサイクルの短いコンシューマー向けの最新チップを安易に採用するのではなく、産業用グレード（Industrial Grade）として明確な長期供給保証（Longevity Program）が提供されているかを厳格にチェックすることが欠かせません」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-chip-selection-criteria/
   - ［記事］2026-11-10「量産仕様のエッジAIカメラが完成し、現場に導入された際の一般的な成果について解説します」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-chip-selection-criteria/
   - ［記事］2026-11-10「電力効率の良いチップを採用できれば、チップ単価だけでなく、電源回路や放熱部品のコストも下がります」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-chip-selection-criteria/
-- 顧客の顧客（発注元が求めること）（71件）：
-  - ［記事］2026-11-10「第10章では、エッジAI推論SoCに使用される原材料、サプライヤー、生産コスト、製造プロセス、関連サプライチェーンを調査します」https://newscast.jp/smart/news/4932143
-  - ［記事］2026-11-10「第10章では、エッジAI推論SoCに使用される原材料、サプライヤー、生産コスト、製造プロセス、関連サプライチェーンを調査します」https://www.atpress.ne.jp/news/4932143
-  - ［記事］2026-11-09「Qualification and lifecycle mismatch: Industrial and automotive end users require 10–15 year lifecycle support, while global edge AI chip vendors often refresh architectures every 2–3 years. This mismatch creates a niche」https://www.indexbox.io/store/japan-edge-ai-semiconductor-market-analysis-forecast-size-trends-and-insights/
-  - ［記事］2026-11-09「Rising design complexity and validation costs: Edge AI chip development projects now involve software stacks, neural network compilers, and security modules. For Japanese system integrators, the average qualification cyc」https://www.indexbox.io/store/japan-edge-ai-semiconductor-market-analysis-forecast-size-trends-and-insights/
-  - ［記事］2026-11-09「Third, the healthcare sector—medical imaging for endoscopic and ultrasound devices—is adopting real-time AI analysis, a niche where Japanese medical device OEMs are actively sourcing custom edge AI chips with long-life g」https://www.indexbox.io/store/japan-edge-ai-semiconductor-market-analysis-forecast-size-trends-and-insights/
+- 顧客の顧客（発注元が求めること）（76件）：
+  - ［記事］2026-11-11「本レポートは、急速に進化する市場をナビゲートする半導体企業、チップ設計者、OEM、システムインテグレーター、投資家、政策立案者向けに実用的な知見を提供する」https://www.dri.co.jp/auto/report/fminc/260223-edge-ai-chips.html
+  - ［記事］2026-11-11「自動車分野は最も高い成長機会の一つであり、SAEレベル2+からレベル3自動運転への移行により法的責任がドライバーからOEMへ移行するため、大幅に強化されたエッジAI演算能力が必要となる」https://www.dri.co.jp/auto/report/fminc/260223-edge-ai-chips.html
+  - ［記事］2026-11-11「AIスマートフォンは数量ベースでエッジAIチップ市場を支配しており、2026年1月時点で主要OEM各社がフラッグシップ端末にAI対応機能を搭載している」https://www.dri.co.jp/auto/report/fminc/260223-edge-ai-chips.html
+  - ［記事］2026-11-11「Automotive AI Chips — ADAS and autonomous driving inference platforms from NVIDIA, Mobileye, Qualcomm, and automotive OEM in-house developments」https://www.futuremarketsinc.com/edge-ai-chips-market-report-2026-2036/
+  - ［記事］2026-11-11「Ideal for semiconductor investors, OEM hardware teams, AI product developers, and electronics supply chain strategists.」https://www.futuremarketsinc.com/edge-ai-chips-market-report-2026-2036/
 - 顧客の競合（奪いに来る側）（92件）：
   - ［記事］2026-11-07「競合にはソニーによるエッジAIカメラ、米NVIDIAの組込AIソリューション、大手電機メーカーやイスラエルのスタートアップが存在するが、Tokyo Artisan Intelligenceは現場実装力やオーダーメイド型の提案、国内外大手インフラ事業者との協業実績を強みとしている」https://kepple.co.jp/articles/vh_svobtf62p
   - ［記事］2026-11-07「TSMCやラピダス、キオクシアなどのメーカーの動向や供給不足、シェア推移など関連業界や市場の最新ニュース・解説をタイムリーに発信します」https://www.nikkei.com/article/DGXZQOUC228EQ0S6A021C2000000/
@@ -118,7 +118,7 @@
   - ［記事］2026-11-09「Japan’s robotics and telecom sectors are primed for low‑power AI; local distributors such as Koshida can accelerate market penetration.」https://techedgeai.com/deepx-unveils-mass-produced-dx-m1-edge-ai-chip-at-japan-it-week-2026/
   - ［記事］2026-11-09「Partnerships with Japanese distributors give DEEPX immediate access to telecom and manufacturing customers, shortening sales cycles.」https://techedgeai.com/deepx-unveils-mass-produced-dx-m1-edge-ai-chip-at-japan-it-week-2026/
   - ［記事］2026-11-09「IBM + AWS: Agentic approach to application migration and modernization」https://techedgeai.com/deepx-unveils-mass-produced-dx-m1-edge-ai-chip-at-japan-it-week-2026/
-- 政治（法・予算・規制）（51件）：
+- 政治（法・予算・規制）（57件）：
   - ［一次］2026-11-06「」は、半導体サプライチェーンにおいてマレーシアが従来の後工程から、より付加価値の高い前工程のハブへと転換することを目指す政府主導の半導体設計人材育成・スタートアップ支援プログラムだ」https://www.jetro.go.jp/biznews/2026/06/32930a6521d0f9db.html
   - ［一次］2026-11-06「BISは、バイデン前政権下の2023年11月から、輸出管理規則（EAR）上の国別グループ「D:5」に指定された国（注1）またはマカオに本社（または最終的親会社）がある企業に対し、特定の先端コンピューティング関連製品を輸出などする際には許可取得を求める暫定最終規則（IFR）を施行している（」https://www.jetro.go.jp/biznews/2026/06/4e6356036e6ae77a.html
   - ［一次］2026-11-06「こうした経緯を背景に、BISに対して、2023年11月から施行した「D:5」またはマカオに親会社がある企業向けの輸出規制は現時点でも有効か、との質問が相次いでいた」https://www.jetro.go.jp/biznews/2026/06/4e6356036e6ae77a.html
@@ -130,30 +130,24 @@
   - ［記事］2026-11-07「Resi Forが9000万円を調達──製造現場向けAIエッジ開発で海外展開を視野に」https://kepple.co.jp/articles/vh_svobtf62p
   - ［記事］2026-11-07「人工知能（AI）関連の新興、トウキョウ アーチザン インテリジェンス（TAI、横浜市）はベンチャーキャピタル（VC）などを引受先とする第三者割当増資とみずほ銀行からの借り入れで計12億7000万円を調達した」https://www.nikkei.com/article/DGXZQOUC228EQ0S6A021C2000000/
   - ［記事］2026-11-07「→世界最大のメモリー・半導体・メーカーであるサムスン電子は、世界経済の低迷が長引く中、グローバル半導体事業の売上げでライバルの台湾セミコンダクター・マニュファクチャリング社(TSMC)に4四半期連続で遅れをとっているよう」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
-- 社会（人・担い手）（34件）：
+- 社会（人・担い手）（36件）：
   - ［一次］2026-11-06「」は、半導体サプライチェーンにおいてマレーシアが従来の後工程から、より付加価値の高い前工程のハブへと転換することを目指す政府主導の半導体設計人材育成・スタートアップ支援プログラムだ」https://www.jetro.go.jp/biznews/2026/06/32930a6521d0f9db.html
+  - ［記事］2026-11-11「遠隔操作業務を、障がい者や高齢者の雇用創出（福祉就労）につなげている点がユニークで、「人とロボットの共生」だけでなく、「ロボットを通じた社会参画」を実現する日本らしいモデルと言えます」https://qiita.com/mhamadajp/items/25aa2e4a95a9ee9b42d8
+  - ［記事］2026-11-11「特に、熟練技能者の「暗黙知」をデジタル化し、ロボットに実装するというアプローチは、少子高齢化という課題を逆手に取った、日本独自の勝ち筋となり得ます」https://qiita.com/mhamadajp/items/25aa2e4a95a9ee9b42d8
   - ［記事］2026-11-10「AIソリューション事業では、JR九州をはじめとする鉄道事業者や地方自治体など、人手不足が課題となっている現場を中心に実証・導入を進めてきた」https://tomoruba.eiicon.net/articles/5919
   - ［記事］2026-11-10「AI普及に伴う電力消費の増加や、製造・物流・インフラ分野における人手不足といった課題に対し、日本発のディープテック企業として社会実装を進めていく」https://tomoruba.eiicon.net/articles/5919
-  - ［記事］2026-11-09「, driven by increasing automation, labor shortages, and continued investment in」https://www.asiabusinessoutlook.com/news/deepx-and-koshida-partner-to-expand-edge-ai-across-japan-market-nwid-12143.html
-  - ［記事］2026-11-07「もう1つ、半導体新工場への取り組みが各国で行われる中、米国・Semiconductor Industry Association(SIA)が人材不足の問題の警鐘を鳴らす報告書を発表、2030年までに半導体業界で6万7000人不足するとして、関係方面に波紋を呼んでいる」https://www.semiconportal.com/archive/blog/insiders/nagami/230731-pickup739.html
-- 技術（新しい技術・実証）（133件）：
-  - ［記事］2026-11-10「エッジAIチップ選定の注意点：カタログスペックだけで選ぶと失敗する」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-chip-selection-criteria/
-  - ［記事］2026-11-10「エッジAIデバイスのチップ選定において、カタログ上のTOPS（Trillions of Operations Per Second）値だけで判断するのは危険です」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-chip-selection-criteria/
-  - ［記事］2026-11-10「この記事では、エッジAIデバイス開発におけるチップ選定の注意点について解説します」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-chip-selection-criteria/
-  - ［記事］2026-11-10「クラウドAIからエッジAIへの移行を検討している方、あるいは新規デバイスのチップ選定で迷っている方の参考になれば幸いです」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-chip-selection-criteria/
-  - ［記事］2026-11-10「従来は、高解像度のラインスキャンカメラで撮影した画像をクラウド上のGPUサーバーに送信し、そこでAI推論を行って良品・不良品の判定をしていました」https://media.tcdigital.jp/ai-knowledge-flow/articles/edge-ai-chip-selection-criteria/
-- SNS・note（note・本文）（20件）：
-  - ［記事］2026-11-06「エッジAIソリューションとAI半導体チップを開発するTokyo Artisan Intelligence株式会社がシリーズCラウンド ファーストクローズで総額12.7億円の資金調達を実施」https://startuplog.com/n/n9123f81347ce?gs=a8f47aca008ef055815ae7980c98a64b
-  - ［記事］2026-11-06「事業内容：東北大学発のAI・半導体研究を基盤に、深層学習アルゴリズムの研究開発、エッジAIプロダクトの開発・販売、AIエキスパート・エンジニアの育成を手がけ、鉄道・インフラ・製造分野などの現場向けにリアルタイム性と低消費電力を両立するAIソリューションを提供するとともに、独自のAI半導体チップ「Manta Ray」の研究開発を推進する。」https://startuplog.com/n/n9123f81347ce?gs=a8f47aca008ef055815ae7980c98a64b
-  - ［SNS］2026-11-09「エッジAI半導体世界市場レポート：主要企業、ランキング、成長予測2026-2032」https://note.com/qy_research/n/n576e3026ce5e
-  - ［SNS］2026-11-09「は、クラウドに依存することなく端末側でAI推論やリアルタイムデータ処理を実行するために設計された専用半導体であり、エッジコンピューティングの中核デバイスとして急速に市場規模を拡大している。CPU、GPU、NPU、DSP、FPGAなどの演算アーキテクチャを組み合わせ、高い演算性能と低消費電力を両立しながら、画像認識、音声処理、センサーデータ解析、生成AI推論などを高速に実行できる点が大きな特徴である。エッジAI半導体は、自動車、ロボティク」https://note.com/qy_research/n/n576e3026ce5e
-  - ［SNS］2026-11-09「市場規模を見ると、2025年の世界エッジAI半導体市場は79,110百万米ドルと推計され、2026～2032年の予測期間における年平均成長率（CAGR）は18.3%となり、2032年には251,980百万米ドルへ拡大すると予測されている。2025年には米国の関税政策および各国の通商政策が半導体産業に新たな不確実性をもたらしており、サプライチェーンの再編、地域生産体制の強化、AI半導体の現地調達ニーズが市場競争に大きな影響を及ぼしている。」https://note.com/qy_research/n/n576e3026ce5e
-- 検索結果の抜粋（17件）：
-  - ［記事］2026-11-10「エッジAIチップ徹底比較2026──Jetson Thor・Hailo・Axelera・Qualcomm... — Jul 22, 2026 · バッテリー動作のロボット・車載カメラ・工場設置センサーは、電力制約の中で最大限のAI推論を行う必要があります。 本記事では、各チップの仕様・電力効率・アーキテクチャの違いを整理し、用途別の最適選択ガイドを提供します。」https://semi-connect.net/edge-ai-chip-comparison-jetson-hailo-axelera-qualcomm-2026/
-  - ［記事］2026-11-10「「次世代エッジAI半導体」国家プロジェクト始動 ― 組み込み・IoTエン... — Nov 2, 2026 · 2026年度、経済産業省・文部科学省・科学技術振興機構（JST）が三位一体で動かす国家プロジェクト「次世代エッジAI半導体研究開発」が本格稼働し、大学と企業から約500人の研究者が結集した。」https://engineer-go.net/next-gen-edge-ai-semiconductor-national-project-2026/
-  - ［記事］2026-11-10「DeepX and Koshida Partner to Expand Edge AI Across Japan Market — Jul 3, 2026 · South Korean AI chip startup DeepX has partnered with Japanese technology distributor Koshida to expand the reach of its edge AI chips acros」https://www.asiabusinessoutlook.com/news/deepx-and-koshida-partner-to-expand-edge-ai-across-japan-market-nwid-12143.html
-  - ［記事］2026-11-10「DEEPX's DX-M2 Edge AI Chip Reaches Tape-Out, With PIM ... — 14 hours ago · DEEPX, the South Korean AI semiconductor company, has taped out its second-generation edge AI chip, the DX-M2, EE Times reported on November 9, 2」https://xenospectrum.com/en/deepx-m2-japan-sample-conditions/
-  - ［記事］2026-11-10「Japan Edge Artificial Intelligence Chips, 2026-2033Japan Edge Artificial Intelligence Chips Market Size, ShareEdge Artificial Intelligence Chips Market in Japan | Report ...Edge AI in Japan 2026: The Complete Business Gu」https://www.grandviewresearch.com/horizon/outlook/edge-artificial-intelligence-chips/japan
+- 技術（新しい技術・実証）（131件）：
+  - ［記事］2026-11-11「EdgeCortixは、「SAKURA-II」の成熟が進んでいることに加え、AIをデータセンターではなくエンドポイント機器上で直接実行する、実用的なエッジAIユースケースの拡大を強調しています」https://www.edgecortix.com/ja/news
+  - ［記事］2026-11-11「SWaP-C制約のある防衛・宇宙システム向けCOTSエッジAIアクセラレータ」https://www.edgecortix.com/ja/news
+  - ［記事］2026-11-11「高性能なエッジAIモデルと先進的なCOTSエッジAIアクセラレータの融合により、防衛・宇宙分野におけるAIコンピューティングの実装と展開が大きく変わりつつあります」https://www.edgecortix.com/ja/news
+  - ［記事］2026-11-11「CG Power arm Axiro、MPowerが日本のAIチップメーカーEdgeCortixに出資」https://www.edgecortix.com/ja/news
+  - ［記事］2026-11-11「Axiro Semiconductor、次世代エッジAIプラットフォームの推進に向けEdgeCortixへ出資」https://www.edgecortix.com/ja/news
+- SNS・note（LinkedIn・検索結果の抜粋）（8件）：
+  - ［SNS］2026-11-11「Edge AI Computing Chips Market Outlook (2026) - LinkedIn 1 day ago · The Edge AI Computing Chips market does not look the same everywhere. This article sets the Edge AI Computing Chips market against the global picture a」https://www.linkedin.com/pulse/edge-ai-computing-chips-market-outlook-2026-future-report-6eghf
+  - ［SNS］2026-11-11「Edge AI System-on-Chip (SoC) Solutions and Their ... - LinkedIn Nov 4, 2025 · Edge AI SoCs are transforming modern vehicles into intelligent, self-reliant systems capable of real-time decision-making, advanced safety, an」https://www.linkedin.com/pulse/edge-ai-system-on-chip-soc-solutions-3rurc/
+  - ［SNS］2026-11-10「EDGE AI CHIP - LinkedIn Nov 18, 2023 · Edge AI chips represent a significant advancement in bringing AI capabilities directly to devices, empowering them to perform complex tasks without relying solely on cloud-based pro」https://www.linkedin.com/pulse/edge-ai-chip-raghav-balasubramanian-2xabc
+  - ［SNS］2026-11-10「Edge AI Chips Market: Identifying the Next Big Investment ... Oct 6, 2026 · The Edge AI Chips Market is becoming an important part of the next generation of computing as businesses and device manufacturers look to proces」https://www.linkedin.com/pulse/edge-ai-chips-market-identifying-next-big-investment-wave-shivsharan-x24xf
+  - ［SNS］2026-11-10「Jie Su - Looking for partners (investors, customers, and chip ...Yuval Pick - Co-Founder & CEO at Ghostlayer | Develop edge ...Unlock Next-Gen Endpoint & Edge AI with RA8 Series MCU ...Hệ thống trên chip Edge AI - Linked」https://cn.linkedin.com/in/sujie
 - SNS・note（note・検索結果の抜粋）（4件）：
   - ［SNS］2026-11-10「エッジAI半導体世界市場レポート：主要企業、ランキング、成長予測202... Jul 7, 2026 · エッジAI半導体は、クラウドに依存することなく端末側でAI推論やリアルタイムデータ処理を実行するために設計された専用半導体であり、エッジコンピューティングの中核デバイスとして急速に市場規模を拡大している。」https://note.com/qy_research/n/n576e3026ce5e
   - ［SNS］2026-11-10「日本のAI半導体はここまで来ていた――EdgeCortix「RAIDEN」3.36PFLOPS... Sep 29, 2026 · 最大3.36PFLOPSのFP4演算性能を掲げるEdgeCortixの「RAIDEN」、低消費電力のPhysical AIを狙うNAIST発スタートアップLENZO、独自リコンフィギャラブルAI半導体の量産へ踏み出したTokyo Artisan Intelligence、生成AIの「メモリの壁」を3D積層D」https://note.com/kagawatomo/n/n0e318c8eef77
@@ -165,66 +159,72 @@
   - ［SNS］2026-11-09「ボクが気になってるのは、AIがいまデータセンターから工場の現場に降... でもここで大事なのは、センターと現場では『必要なチップが全然違う』ってことなんだよ。 データセンターのNVIDIAみたいな高性能GPUじゃなくて、現場で動く低消費電力のエッジAIチップが急激に需要を増してる。 2026年の今、ここが分かれ道なんだ。」https://x.com/handoutainews/status/2041259905294962964
   - ［SNS］2026-11-09「「AIモデルとNPUとワイヤレス機能を集積したSoCをNordicがまもなく量... 「AIモデルとNPUとワイヤレス機能を集積したSoCをNordicがまもなく量産」 Nordic Semiconductorがワイヤレスジャパンで示したエッジAIチップは2種類のAI技術を搭載した低消費電力SoCであり、MCUとマルチプロトコルの無線機能も集積したAIoT（AI+IoT）チップといえる。」https://x.com/semicon_portal/status/2065333351259734484
   - ［SNS］2026-11-09「Takaping｜DevDog-Lab on X: "AIチップのPositronが評価額50億ドルの... Sep 25, 2026 · AIチップのPositronが評価額50億ドルの資金調達に。 日本発EdgeCortixは3.36PFLOPSのエッジAIチップ「RAIDEN」を発表。 DeepLのMCP対応、ローカルQwenで3Dプリント実践など今昼のまとめ #AIチップ #生成AI」https://x.com/devdoglab/status/2103291239701659781
-- SNS・note（LinkedIn・検索結果の抜粋）（6件）：
-  - ［SNS］2026-11-10「EDGE AI CHIP - LinkedIn Nov 18, 2023 · Edge AI chips represent a significant advancement in bringing AI capabilities directly to devices, empowering them to perform complex tasks without relying solely on cloud-based pro」https://www.linkedin.com/pulse/edge-ai-chip-raghav-balasubramanian-2xabc
-  - ［SNS］2026-11-10「Edge AI Chips Market: Identifying the Next Big Investment ... Oct 6, 2026 · The Edge AI Chips Market is becoming an important part of the next generation of computing as businesses and device manufacturers look to proces」https://www.linkedin.com/pulse/edge-ai-chips-market-identifying-next-big-investment-wave-shivsharan-x24xf
-  - ［SNS］2026-11-10「Jie Su - Looking for partners (investors, customers, and chip ...Yuval Pick - Co-Founder & CEO at Ghostlayer | Develop edge ...Unlock Next-Gen Endpoint & Edge AI with RA8 Series MCU ...Hệ thống trên chip Edge AI - Linked」https://cn.linkedin.com/in/sujie
-  - ［SNS］2026-11-09「2026年から2033年までの予測6.2% CAGRでのエッジ AI チップ業界の収益... Sep 13, 2026 · 現在、エッジ AI チップ市場の規模は約XX億ドルとされており、2026年から2033年にかけて年平均成長率（CAGR）6.2%で成長する見込みです。これにより、2033年までには市場規模がXX億ドルに達すると予測されています。この成長は、インターネット接続の普及、データ生成の急増、リアルタイム ...」https://jp.linkedin.com/pulse/2026年から2033年までの予測62-cagrでのエッジ-ai-チップ業界の収益と需要予測-stratimex-research-yyuye
-  - ［SNS］2026-11-09「Edge AI Chips Market: Identifying the Next Big Investment ... Oct 6, 2026 · The Edge AI Chips Market is becoming an important part of the next generation of computing as businesses and device manufacturers look to proces」https://www.linkedin.com/pulse/edge-ai-chips-market-identifying-next-big-investment-wave-shivsharan-x24xf
-- SNS・note（Facebook・検索結果の抜粋）（6件）：
+- SNS・note（Facebook・検索結果の抜粋）（9件）：
+  - ［SNS］2026-11-11「Edge AI Box and Edge AI Station - Facebook【StartupGo!Go! The Pitch 2026 アーカイブ #06 】 セミファイナル A...Startup Go Go - 【StartupGo!Go! The Pitch 2026 アーカイブ #02 ...月刊事業構想 - 【事業構想ニュース】エッジAIチップ...樂益文創股份有限公司 - 日本新創公司 世界初！自律学習する「エッジA」https://www.facebook.com/EDGEMATRIX.INC/
+  - ［SNS］2026-11-11「VVDN テクノロジー - Akida™ Edge AI Box で、BrainChipのAKD1000 ... Nov 7, 2024 · Akida™ Edge AI Box で、BrainChipのAKD1000 AIチップを搭載した効率的で高性能なエッジコンピューティングを体験してください。 コンパクトで簡単に導入でき、12VDC電源に対応したAIソリューションです。 詳しくは salesjapan@vvdntech.com..」https://www.facebook.com/VVDNJapan/posts/akida-edge-ai-box-でbrainchipのakd1000-aiチップを搭載した効率的で高性能なエッジコンピューティングを体験してくださいコンパク/593091243245014/
+  - ［SNS］2026-11-11「【StartupGo!Go! The Pitch 2026 アーカイブ #06 】 セミファイナル A... 3 days ago · developing ultra-low-power edge AI chips. Its proprietary analog compute-in-memory architecture unifies compute and memory, enabling always-on sensing a」https://www.facebook.com/Startup55/videos/startupgogo-the-pitch-2026-アーカイブ-06-セミファイナル-aブロックalpenglow-tek-co-ltdピッチは英語です台湾新/1758633341879568/
   - ［SNS］2026-11-10「Edge AI Box and Edge AI Station - FacebookVVDN テクノロジー - Akida™ Edge AI Box で、BrainChipのAKD1000 ...Ledge.ai - AIのエッジ化が加速します。 https://ledge.ai/aising-dbt...Aiコーチングlabo - ヘイロ、エッジAI チップ量産 3月から供給...YOLOv3を20mWで実行するエッジAIチップ -.」https://www.facebook.com/EDGEMATRIX.INC/
   - ［SNS］2026-11-10「月刊事業構想 - 【事業構想ニュース】エッジAIチップ... Jun 20, 2022 · エッジAIチップ 「AiOnIc」を開発しているJ-StartupベンチャーのArchiTek（大阪市）は、シリーズCラウンドで約11.8億円の資金調達を実施したことを、2022年6月20日に発表した。」https://www.facebook.com/pdreview/posts/事業構想ニュースエッジaiチップ-aionicを開発しているj-startupベンチャーのarchitek大阪市はシリーズcラウンドで約118億円の資金調達を実/4586415848126199/
-  - ［SNS］2026-11-10「【StartupGo!Go! The Pitch 2026 アーカイブ #06 】 セミファイナル A... 2 days ago · 【StartupGo!Go! The Pitch 2026 アーカイブ #06 】 セミファイナル Aブロック Alpenglow Tek CO., LTD. ※ピッチは英語です ===================== 台湾・新北発、超低消費電力のエッジAIチップを開発する半導体スタートアップ。独自」https://www.facebook.com/Startup55/videos/startupgogo-the-pitch-2026-アーカイブ-06-セミファイナル-aブロックalpenglow-tek-co-ltdピッチは英語です台湾新/1758633341879568/
-  - ［SNS］2026-11-09「Edge AI Box and Edge AI Station - FacebookVVDN テクノロジー - Akida™ Edge AI Box で、BrainChipのAKD1000 ...Ledge.ai - AIのエッジ化が加速します。 https://ledge.ai/aising-dbt...Aiコーチングlabo - ヘイロ、エッジAI チップ量産 3月から供給...Edge AI Taiwan邊緣智能交流區 | Fac」https://www.facebook.com/EDGEMATRIX.INC/
-  - ［SNS］2026-11-09「YOLOv3を20mWで実行するエッジAIチップ -... - Codexa 人工知能特化オ... Apr 15, 2020 · YOLOv3を20mWで実行するエッジAIチップ - シリコンバレーの新興企業Percieveが、ニューラルネットワーク計算を再発明し、エッジAIチップ「Ergo」を開発したと発表した。」https://www.facebook.com/codexa.net/posts/623935114826083/
+- 検索結果の抜粋（24件）：
+  - ［記事］2026-11-11「日本発スタートアップのエッジAIチップがNVIDIA超え、AI処理性能は3.3... — Sep 25, 2026 · AIアクセラレータを手掛ける日本発スタートアップのEdgeCortix（エッジコーティックス）は2026年9月24日、最大3.36PFLOPSのAI（人工知能）処理性能を発揮するフィジカルAI向けの次世代スケーラブルAIチップレットプラットフォーム「RAIDEN」を発表した。」https://monoist.itmedia.co.jp/mn/articles/2609/25/news063.html
+  - ［記事］2026-11-11「Edge AI Chips: Technologies, Markets, and Forecasts 2026-2036 — The report examines the edge AI chip supply chain across CPU, NPU, and GPU architectures, including a detailed review of cutting-edge semiconductor manufact」https://www.researchandmarkets.com/reports/6225879/edge-ai-chips-technologies-markets-forecasts
+  - ［記事］2026-11-11「Edge AI Chips: Technologies, Markets, and Forecasts 2026–2036 ... — The report examines the edge AI chip supply chain across CPU, NPU, and GPU architectures, including a detailed review of cutting-edge semiconductor manu」https://www.dri.co.jp/auto/report/fminc/260223-edge-ai-chips.html
+  - ［記事］2026-11-11「Edge AI Chips Market Report 2026-2036: Technologies, Markets ... — The edge AI chips market report 2026-2036 from Future Markets Inc provides comprehensive analysis of the silicon and chiplet solutions enabling artificia」https://www.futuremarketsinc.com/edge-ai-chips-market-report-2026-2036/
+  - ［記事］2026-11-11「Japan Edge Artificial Intelligence Chips, 2026-2033エッジAIチップ：技術、市場、予測（2026年～2036年）Edge AI Semiconductor Market in Japan | Report - IndexBox ...Global Edge AI Chips Market Size, Share, Trends, and Industry ... — Jun 19, 20」https://www.grandviewresearch.com/horizon/outlook/edge-artificial-intelligence-chips/japan
+- SNS・note（note・本文）（20件）：
+  - ［記事］2026-11-06「エッジAIソリューションとAI半導体チップを開発するTokyo Artisan Intelligence株式会社がシリーズCラウンド ファーストクローズで総額12.7億円の資金調達を実施」https://startuplog.com/n/n9123f81347ce?gs=a8f47aca008ef055815ae7980c98a64b
+  - ［記事］2026-11-06「事業内容：東北大学発のAI・半導体研究を基盤に、深層学習アルゴリズムの研究開発、エッジAIプロダクトの開発・販売、AIエキスパート・エンジニアの育成を手がけ、鉄道・インフラ・製造分野などの現場向けにリアルタイム性と低消費電力を両立するAIソリューションを提供するとともに、独自のAI半導体チップ「Manta Ray」の研究開発を推進する。」https://startuplog.com/n/n9123f81347ce?gs=a8f47aca008ef055815ae7980c98a64b
+  - ［SNS］2026-11-09「エッジAI半導体世界市場レポート：主要企業、ランキング、成長予測2026-2032」https://note.com/qy_research/n/n576e3026ce5e
+  - ［SNS］2026-11-09「は、クラウドに依存することなく端末側でAI推論やリアルタイムデータ処理を実行するために設計された専用半導体であり、エッジコンピューティングの中核デバイスとして急速に市場規模を拡大している。CPU、GPU、NPU、DSP、FPGAなどの演算アーキテクチャを組み合わせ、高い演算性能と低消費電力を両立しながら、画像認識、音声処理、センサーデータ解析、生成AI推論などを高速に実行できる点が大きな特徴である。エッジAI半導体は、自動車、ロボティク」https://note.com/qy_research/n/n576e3026ce5e
+  - ［SNS］2026-11-09「市場規模を見ると、2025年の世界エッジAI半導体市場は79,110百万米ドルと推計され、2026～2032年の予測期間における年平均成長率（CAGR）は18.3%となり、2032年には251,980百万米ドルへ拡大すると予測されている。2025年には米国の関税政策および各国の通商政策が半導体産業に新たな不確実性をもたらしており、サプライチェーンの再編、地域生産体制の強化、AI半導体の現地調達ニーズが市場競争に大きな影響を及ぼしている。」https://note.com/qy_research/n/n576e3026ce5e
 ### 海外→日本（輸入）｜生成AI半導体（AI accelerator chip）
-- 取得：2026-11-10T14:55・調査7回目・読んだ頁68
+- 取得：2026-11-11T19:03・調査8回目・読んだ頁66
 - 痛み・損（深さの印）（2件）：
   - ［記事］2026-11-06「AI半導体が依然好調で2027年までの受注残が1兆ドル（約159兆円）に達したことも明らかにした」https://www.nikkei.com/article/DGXZQOGN150C80V10C26A3000000/
   - ［SNS］2026-11-06「半導体株のようにSOX指数に振り回されることなく、受注残という形で数年先の売上が見える」https://note.com/tatsuya_sabato/n/na37816fa37c3
-- 顧客（金を払う側）（77件）：
+- 顧客（金を払う側）（83件）：
   - ［一次］2026-11-05「AIモデルの学習や推論に不可欠な画像処理装置（GPU）や、高速データ処理を可能にする高帯域幅メモリー（HBM）の需要が急増し、これらを供給する企業が世界の半導体市場を牽引している」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「GPUの設計を手掛ける米国エヌビディアの急成長に加え、GPU・HBMの製造を手掛ける企業による大規模投資が相次ぎ、「AI時代の主役はGPUとHBM」とも見て取れる」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「先端パッケージングにはさまざまな種類があるが、CoWoSはAI向け半導体で広く採用されている代表例といえる」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「現在、HBMの量産で十分な供給能力を有するのは、韓国のSKハイニックスおよびサムスン電子（以下、サムスン）、米国のマイクロン・テクノロジー（以下、マイクロン）の3社だ」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「このように、GPUは限られた企業しか設計・製造できないことから、その供給はTSMCを中心とする先端ロジック・パッケージング能力と、HBM大手3社の供給能力に大きく左右される」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
-- 顧客の顧客（発注元が求めること）（32件）：
+- 顧客の顧客（発注元が求めること）（36件）：
   - ［一次］2026-11-05「学習や大規模な推論処理の多くは引き続きデータセンターで実行される一方、エッジAIでは学習済みモデルを端末側で実行し、利用者の要求や周囲の状況に応じてリアルタイムに回答や判断を行う必要がある」https://www.jetro.go.jp/biz/areareports/special/2026/0801/adf38a7c21c7f8ea.html
   - ［一次］2026-11-05「これらの進化はすべて半導体の高性能化・低消費電力化・大容量化への要求と直結している」https://www.seaj.or.jp/file/july2026seajforecastforpress_j.pdf
   - ［一次］2026-11-04「• プライバシー、セーフティ、セキュリティの確保や、多用途ロボットと人との協働の観点から求められる技術要件等の基準整備と認証制度を検討」https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf
   - ［一次］2026-11-04「 国・地方のAX/DX基盤（GSS、ネットワーク、クラウドやAIの基盤、データ連携基盤・認証基盤、外国人政策のDX基盤等）は行政運営や」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「IEC42001 AI利活用に際するマネジメントシステムの要求事項を整理 AIシステムを開発・提供・使用する組織 AIシステム普及に伴って、安心・安全な開発・提供・使用が求められる」https://www.jri.co.jp/MediaLibrary/file/advanced/advanced-technology/pdf/15918.pdf
-- 顧客の競合（奪いに来る側）（69件）：
+- 顧客の競合（奪いに来る側）（75件）：
   - ［一次］2026-11-09「1. コロケーション事業市場プレイヤーシェア2023, 100%比 (IDC); 2. スマートフォン市場2024年100%比 (IDC); 3. BEV新車販売市場2024年 100%比 (S&P Global mobility GADT 20250610); 4. 2024年市場規模 (各」https://www.meti.go.jp/policy/mono_info_service/joho/conference/seichosenryakuwg/aisemicon01/shiryo04.pdf
   - ［一次］2026-11-05「GPUの設計を手掛ける米国エヌビディアの急成長に加え、GPU・HBMの製造を手掛ける企業による大規模投資が相次ぎ、「AI時代の主役はGPUとHBM」とも見て取れる」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「国際データセンター機関（IDCA）によると、データセンター向けAIアクセラレーターの台数シェアは、エヌビディアが90％を占め、続く米AMD（6％）を大きく引き離している」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「現在、HBMの量産で十分な供給能力を有するのは、韓国のSKハイニックスおよびサムスン電子（以下、サムスン）、米国のマイクロン・テクノロジー（以下、マイクロン）の3社だ」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「TSMCは台湾を最先端のロジック量産およびパッケージング拠点として維持・拡大しつつ、米国アリゾナ州にもその機能を振り向けつつある」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
-- 自社の競合（商社・代理店・仲介）（24件）：
+- 自社の競合（商社・代理店・仲介）（34件）：
   - ［一次］2026-11-10「convoluted Journey ”, European Commission, European Data Market Study 2021 -2023,」https://www.jri.co.jp/MediaLibrary/file/report/viewpoint/pdf/16595.pdf
   - ［一次］2026-11-04「 エージェント型AI(Agentic AI)の社会実装やAIを軸とした経営改革（AX）の進展により、想定以上の付加価値の創出が期待されて」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
-  - ［記事］2026-11-08「これとは別に、今後AI開発が加速し、日本でもエヌビディア製品への需要が増えるとの予想から、エヌビディア製品の代理店であると確認できたエレクトロニクス商社も採り上げました」https://go.sbisec.co.jp/media/report/dom_senryaku/dom_senryaku_230602.html
-  - ［記事］2026-11-08「ここでは、エヌビディアの半導体について代理店となっている日本のエレクトロニクス商社についてご紹介しました」https://go.sbisec.co.jp/media/report/dom_senryaku/dom_senryaku_230602.html
-  - ［記事］2026-11-07「Cadenceは2026年5月31日〜6月1日のCOMPUTEX 2026で、ChipStack AI Super Agentを「Level-5（完全自律）」へ拡張したと発表した」https://ai-revolution.co.jp/media/ai-in-semiconductor/
+  - ［記事］2026-11-11「さらにSEAJは、現在のLLM（大規模言語モデル）を基盤として、計画・意思決定・行動が可能なAgentic AIや、現実世界を認識して物理空間で動くPhysical AIへと発展していくとみる」https://semicon.today/archives/11740
+  - ［記事］2026-11-11「AI総合研究所のAI Agent Hubは、Teamsから呼び出せる業務特化Agent群を1つのダッシュボードで統合管理し、補助金活用と業務Agent導入を一気通貫で進める運用基盤として機能します」https://www.ai-souken.com/article/japan-ai-semiconductor-policy-2026
+  - ［記事］2026-11-11「AI chip demand is moving beyond GPU-only scaling as generative, agentic, and physical AI add new workloads.」https://www.precedenceresearch.com/artificial-intelligence-chip-market
 - 政治（法・予算・規制）（65件）：
   - ［一次］2026-11-06「• EUは同域内における次世代半導体の世界シェアを20%以上に引き上げ • 半導体の研究開発補助金プログラム「欧州半導体イニシアチブ」による設計・製造能力の強化、企業・人材育成の支援」https://www.jri.co.jp/MediaLibrary/file/advanced/advanced-technology/pdf/15918.pdf
   - ［一次］2026-11-06「出所：[1] 半導体・デジタル産業戦略（経済産業省 商務情報政策局）, [12-19, 21] 地域・分析レポート（JETRO）, [20] 英国政府HP」https://www.jri.co.jp/MediaLibrary/file/advanced/advanced-technology/pdf/15918.pdf
   - ［一次］2026-11-06「新型コロナ禍以降の半導体市場は、供給制約や地政学リスクの高まりを背景として、各国の補助金政策や生産拠点誘致に支えられた「産業政策主導」の投資局面を経験してきた」https://www.jetro.go.jp/world/gtir/2026/ch2/sec2/sub3.html
   - ［一次］2026-11-06「米国では「CHIPSおよび科学法」（CHIPSプラス法、2022年施行）に基づく補助金を受けた大規模投資案件が複数先行しており、2025年は調整局面となったことが示唆される」https://www.jetro.go.jp/world/gtir/2026/ch2/sec2/sub3.html
   - ［一次］2026-11-06「（1）のドイツ（マクデブルク）では先端ファブ、ポーランド（ヴロツワフ）では後工程拠点を新設する計画で、欧州半導体法に基づく両国政府からの助成が予定されていた」https://www.jetro.go.jp/world/gtir/2026/ch2/sec2/sub3.html
-- 経済（規模・価格・為替）（41件）：
+- 経済（規模・価格・為替）（43件）：
   - ［一次］2026-11-10「までの 7 年間で AI・半導体分野の支援のために 10 兆円以上の公的支援を行う「AI・半導体産業基」https://www.jri.co.jp/MediaLibrary/file/report/viewpoint/pdf/16595.pdf
   - ［一次］2026-11-06「• 半導体産業の追加生産額を2.6兆台湾元（日本円で11.8兆円相当）引き上げ」https://www.jri.co.jp/MediaLibrary/file/advanced/advanced-technology/pdf/15918.pdf
   - ［一次］2026-11-06「• 2030年、日本国内の半導体製造企業の合計売上高15兆円超に引き上げ」https://www.jri.co.jp/MediaLibrary/file/advanced/advanced-technology/pdf/15918.pdf
   - ［一次］2026-11-06「3 Akopyan, F., Sawada, J., Cassidy, A., Alvarez-Icaza, R., Arthur, J., Merolla, P., ... & Modha, D. S. (2015). Truenorth: Design a nd tool flow of a 65 mw 1 million neuron programmable neurosynaptic chip. IEEE transactio」https://www.jri.co.jp/MediaLibrary/file/advanced/advanced-technology/pdf/15918.pdf
   - ［一次］2026-11-05「2025～2027年の設備投資額について製品タイプ別に見ると、世界全体では77.8％がロジック半導体とメモリー向けとなる予測だ（図2参照）」https://www.jetro.go.jp/biz/areareports/special/2026/0801/adf38a7c21c7f8ea.html
-- 社会（人・担い手）（40件）：
+- 社会（人・担い手）（42件）：
   - ［一次］2026-11-04「となる環境を構築することで、世界から優秀な人材が集まるAIロボティクスのCenter of Excellenceやテストベットを創設」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「半導体分野におけるキャリアパスやロールモデルの提示により、女性も含めた半導体人材の活躍促進を図」https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/pdf/rm2026.pdf
   - ［一次］2026-11-04「• EUは同域内における次世代半導体の世界シェアを20%以上に引き上げ • 半導体の研究開発補助金プログラム「欧州半導体イニシアチブ」による設計・製造能力の強化、企業・人材育成の支援」https://www.jri.co.jp/MediaLibrary/file/advanced/advanced-technology/pdf/15918.pdf
   - ［一次］2026-11-04「• 半導体研究に強い大学/大学院を支援し、専門人材の育成を促進」https://www.jri.co.jp/MediaLibrary/file/advanced/advanced-technology/pdf/15918.pdf
-  - ［記事］2026-11-08「・SBI証券銘柄検索ウインドウに「人材派遣」と入力し、出力され、半導体産業との関係が深いとみられる銘柄→（2）」https://go.sbisec.co.jp/media/report/dom_senryaku/dom_senryaku_230602.html
-- 技術（新しい技術・実証）（97件）：
+  - ［記事］2026-11-11「大企業向けの半導体量産補助金と直接繋がる制度ではありませんが、「AI導入で人手不足を解消する」政策方針を中小企業レベルで支える設計です」https://www.ai-souken.com/article/japan-ai-semiconductor-policy-2026
+- 技術（新しい技術・実証）（95件）：
   - ［一次］2026-11-05「AI時代の半導体産業（1）AI向け半導体の「主役」に迫る（世界）」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「AI時代の半導体産業（1）」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
   - ［一次］2026-11-05「生成AI（人工知能）の急速な普及を背景に、半導体産業はかつてない活況を迎えている」https://www.jetro.go.jp/biz/areareports/special/2026/0801/1aee4b7856c0c87c.html
@@ -236,23 +236,23 @@
   - ［SNS］2026-11-09「大分デバイステクノロジー株式会社 - Facebook国土強靭化で伸びる AI・半導体関連注目株 7選 2026年、生成AIの波は...Takashi Yunogami - Facebookフェローテック、中国光通信大手とAI分野で協業――半導体部材会社を約3...「フィジカルAI狂騒曲、日本のモノづくりは生き残れるか？」 9月7日（... Mar 16, 2026 · 今回の業界トレンド情報では、 「AI需要で拡大する半導体材料市場、」https://www.facebook.com/odtcorp/
   - ［SNS］2026-11-08「大分デバイステクノロジー株式会社 - Facebook国土強靭化で伸びる AI・半導体関連注目株 7選 2026年、生成AIの波は...Takashi Yunogami - FacebookKeisuke Taki - Facebookフェローテック、中国光通信大手とAI分野で協業――半導体部材会社を約3... Mar 16, 2026 · 大分デバイステクノロジー（ODT）の最新情報を掲... 業界トレンド情報 第53弾『半導体市場・」https://www.facebook.com/odtcorp/
   - ［SNS］2026-11-07「大分デバイステクノロジー株式会社 - FacebookKeisuke Taki - Facebook国土強靭化で伸びる AI・半導体関連注目株 7選 2026年、生成AIの波は...Takashi Yunogami - Facebook舞鶴高専 清原研究室 - Facebook Mar 16, 2026 · 大分デバイステクノロジー（ODT）の最新情報を掲... 業界トレンド情報 第53弾『半導体市場・半導体設備投資の状況』を掲載 📰 」https://www.facebook.com/odtcorp/
-- SNS・note（X・検索結果の抜粋）（4件）：
-  - ［SNS］2026-11-07「Semi-journal公式 on X: "【半導体の業界地図2026】 メモリメーカーも... 【半導体の業界地図2026】 メモリメーカーも良くまとめられているので、ぜひ。 生成AIサービスの普及で学習や推論に使うGPUやHBMが不足。 AI半導体では米エヌビディアが9割のシェアを占め、台湾の製造受託会社、TSMCに生産を委託する。」https://x.com/semi_journal_jp/status/2027879827777466612
-  - ［SNS］2026-11-07「Semi-journal公式 on X: "【半導体の業界地図2026】 メモリメーカーも... Apr 4, 2026 · 【半導体の業界地図2026】 メモリメーカーも良くまとめられているので、ぜひ。 生成AIサービスの普及で学習や推論に使うGPUやHBMが不足。 AI半導体では米エヌビディアが9割のシェアを占め、台湾の製造受託会社、TSMCに生産を委託する。」https://x.com/semi_journal_jp/status/2027879827777466612
-  - ［SNS］2026-11-06「Valora AI on X: "NVIDIAが半導体製造にもAIを広げている。 新技術で... NVIDIAが半導体製造にもAIを広げている。 新技術では原子・分子のシミュレーションを さらに2〜3倍高速化。 Lam Researchでは、 別のGPU技術でシミュレーションを30倍高速化したという。 AIは文章生成だけじゃない。 製造そのものを速くする段階に入っている。」https://x.com/Valora_AI_/status/2110581430552068104
-  - ［SNS］2026-11-06「Semi-journal公式 on X: "【半導体の業界地図2026】 メモリメーカーも... Mar 10, 2026 · 【半導体の業界地図2026】 メモリメーカーも良くまとめられているので、ぜひ。 生成AIサービスの普及で学習や推論に使うGPUやHBMが不足。 AI半導体では米エヌビディアが9割のシェアを占め、台湾の製造受託会社、TSMCに生産を委託する。」https://x.com/semi_journal_jp/status/2027879827777466612
-- 検索結果の抜粋（15件）：
-  - ［記事］2026-11-10「Global AI Accelerator Chips Market Size, Share, Trends, and ... — Oct 22, 2026 · AI Accelerator Chips Market Trends Custom and workload-specific architectures are becoming increasingly important for large language models」https://finance.yahoo.com/technology/ai/articles/global-ai-accelerator-chips-market-192100972.html?fr=sycsrp_catchall
-  - ［記事］2026-11-10「AI Accelerator Chips Market Size & Share 2026-2035 — The ai accelerator chips market was estimated at USD 120.2 billion in 2025 and is expected to grow at a CAGR of 23.6% between 2026 and 2035.」https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market
-  - ［記事］2026-11-10「Best AI Chip Companies 2026 — AI Accelerators & Hardware Compared — Home › Best AI Companies › AI Chip Companies Best AI Chip Companies 2026 The AI accelerator market exceeded $100 billion in 2025 and is growing at 35%+ 」https://artificialintelligencecompanies.com/best/ai-chip-companies/
-  - ［記事］2026-11-09「AI Accelerator Chip Market 2026 - semiconductorinsight.com — May 26, 2026 · This market research report provides a comprehensive analysis of the AI Accelerator Chip Market , covering the forecast period 2026–2034. It off」https://semiconductorinsight.com/report/ai-accelerator-chip-market/
-  - ［記事］2026-11-08「AI Accelerator Market 2026, $10B Microsoft Japan Deal - ENKI — Aug 31, 2026 · The New AI Supply Chain: Custom ASICs by Google & AWS Challenge GPU Monoculture The rise of in-house custom silicon, particularly from hypersc」https://enkiai.com/ai-infrastructure/ai-accelerator-market-2026-10b/
 - SNS・note（LinkedIn・検索結果の抜粋）（12件）：
   - ［SNS］2026-11-10「AI Accelerator Chip Industry Is Transforming Artificial ... Nov 2, 2026 · Introduction: The AI accelerator chip industry is becoming a critical foundation of modern artificial intelligence infrastructure. As organization」https://www.linkedin.com/pulse/ai-accelerator-chip-industry-transforming-artificial-ich6f
   - ［SNS］2026-11-09「AIが指し示す鉱脈の場所 | 青柳匡恭 - LinkedIn AIに命じたのは 「世界中からビジネス的な鉱脈を特定しろ」 「掘削者はヤマハ発動機を想定しろ」 【生成AI半導体の『真の鉱脈』はどこにあるか ...」https://www.linkedin.com/posts/匡恭-青柳-b2276b160_aiが指し示す鉱脈の場所-activity-7523329403347533824--Z_Q
   - ［SNS］2026-11-09「AI Accelerator Chip Industry Is Transforming Artificial ... Nov 2, 2026 · AI accelerator chips are specialized semiconductor processors designed to execute artificial intelligence and machine learning computations more e」https://www.linkedin.com/pulse/ai-accelerator-chip-industry-transforming-artificial-ich6f
   - ［SNS］2026-11-09「AI Accelerator Chip Market Outlook from 2026 to ... - LinkedIn Jun 28, 2026 · The AI accelerator chip market is poised for significant growth, driven by the increasing demand for enhanced computational power to support d」https://www.linkedin.com/pulse/ai-accelerator-chip-market-outlook-from-2026-2033-fznzf
   - ［SNS］2026-11-08「AI Accelerator Chip Industry Is Transforming Artificial ... 6 days ago · Introduction: The AI accelerator chip industry is becoming a critical foundation of modern artificial intelligence infrastructure. As organizations」https://www.linkedin.com/pulse/ai-accelerator-chip-industry-transforming-artificial-ich6f
+- 検索結果の抜粋（22件）：
+  - ［記事］2026-11-11「Artificial Intelligence (AI) Chip Market Companies, Size ... — Oct 13, 2026 · Increasing demand for deep learning and deployment of artificial intelligence (AI) in various industries are boosting the growth of the artifi」https://www.precedenceresearch.com/artificial-intelligence-chip-market
+  - ［記事］2026-11-11「Best AI Chip Companies 2026 — AI Accelerators & Hardware Compared — Compare the leading AI chip companies in 2026: Cerebras, Tenstorrent, SambaNova, Groq, AMD, and NVIDIA. Expert guide to wafer-scale engines, LPU inferen」https://artificialintelligencecompanies.com/best/ai-chip-companies/
+  - ［記事］2026-11-11「Top 30+ AI Chip Makers: NVIDIA & Its Competitors - AIMultiple — Oct 13, 2026 · Explore 30+ AI chip makers from NVIDIA and AMD to Broadcom and Marvell. Compare data center GPUs, edge accelerators and mobile chips.」https://aimultiple.com/ai-chip-makers
+  - ［記事］2026-11-11「AI Chip Market Share 2026 - Presenc AI — NVIDIA continues to dominate AI accelerator market share in 2026 but the structure is no longer a monopoly. AMD MI300X+ ramps, Google TPU v6 expands beyond Google's internal use, 」https://presenc.ai/research/ai-chip-market-share-2026
+  - ［記事］2026-11-11「AI Accelerator Chips Market Size & Share 2026-2035 — The global AI accelerator chips market was valued at $120.2 billion in 2025 and is projected to reach $154.6 billion in 2026, expanding to $1 trillion by 2035 at a com」https://www.gminsights.com/industry-analysis/ai-accelerator-chips-market
+- SNS・note（X・検索結果の抜粋）（4件）：
+  - ［SNS］2026-11-07「Semi-journal公式 on X: "【半導体の業界地図2026】 メモリメーカーも... 【半導体の業界地図2026】 メモリメーカーも良くまとめられているので、ぜひ。 生成AIサービスの普及で学習や推論に使うGPUやHBMが不足。 AI半導体では米エヌビディアが9割のシェアを占め、台湾の製造受託会社、TSMCに生産を委託する。」https://x.com/semi_journal_jp/status/2027879827777466612
+  - ［SNS］2026-11-07「Semi-journal公式 on X: "【半導体の業界地図2026】 メモリメーカーも... Apr 4, 2026 · 【半導体の業界地図2026】 メモリメーカーも良くまとめられているので、ぜひ。 生成AIサービスの普及で学習や推論に使うGPUやHBMが不足。 AI半導体では米エヌビディアが9割のシェアを占め、台湾の製造受託会社、TSMCに生産を委託する。」https://x.com/semi_journal_jp/status/2027879827777466612
+  - ［SNS］2026-11-06「Valora AI on X: "NVIDIAが半導体製造にもAIを広げている。 新技術で... NVIDIAが半導体製造にもAIを広げている。 新技術では原子・分子のシミュレーションを さらに2〜3倍高速化。 Lam Researchでは、 別のGPU技術でシミュレーションを30倍高速化したという。 AIは文章生成だけじゃない。 製造そのものを速くする段階に入っている。」https://x.com/Valora_AI_/status/2110581430552068104
+  - ［SNS］2026-11-06「Semi-journal公式 on X: "【半導体の業界地図2026】 メモリメーカーも... Mar 10, 2026 · 【半導体の業界地図2026】 メモリメーカーも良くまとめられているので、ぜひ。 生成AIサービスの普及で学習や推論に使うGPUやHBMが不足。 AI半導体では米エヌビディアが9割のシェアを占め、台湾の製造受託会社、TSMCに生産を委託する。」https://x.com/semi_journal_jp/status/2027879827777466612
 ### 海外→日本（輸入）｜バーティカルAI（vertical AI）
 - 取得：2026-11-10T18:06・調査7回目・読んだ頁72
 - 痛み・損（深さの印）（5件）：

@@ -1,0 +1,455 @@
+{
+ "name": "有限会社カサミ工業",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T19:11:14.737220+00:00",
+ "official_url": "http://www.kasami.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒736-0043 広島県安芸郡海田町栄町３番１４号 地図で見る ↗",
+    "url": "https://pitact.com/companies/detail/520764_1240002049325",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "30人",
+    "url": "https://pitact.com/companies/detail/520764_1240002049325",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年商",
+    "value": "1億~3億円",
+    "url": "https://pitact.com/companies/detail/520764_1240002049325",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "AM関連": [
+   {
+    "quote": "You don't have permission to access \"http://forsale.godaddy.com/forsale/www.kasami.com?\" on this server.",
+    "url": "http://www.kasami.com/",
+    "pass": 1
+   },
+   {
+    "quote": "関連リンク - http://www.kasami.com/",
+    "url": "https://mono.ipros.com/product/detail/2000147405/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "製品・サービス一覧 (1)",
+    "url": "https://mono.ipros.com/product/detail/2000147405/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://mono.ipros.com/company/detail/2034986/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (1)",
+    "url": "https://mono.ipros.com/company/detail/2034986/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "一個の試作品から金型・量産まで心を込めて一貫生産で創ります",
+    "url": "https://mono.ipros.com/product/detail/2000147405/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社カサミ工業は、創業以来自動車用部品等の試作・開発で培ってきた独自の技術力を活かし、新分野への取り組みも積極的に行っています",
+    "url": "https://mono.ipros.com/product/detail/2000147405/",
+    "pass": 3
+   },
+   {
+    "quote": "カサミ工業は『あなたの想いを形に！』のテーマを掲げ、一個の試作品から金型・量産まで心を込めて一貫生産で創ります",
+    "url": "https://mono.ipros.com/product/detail/2000147405/",
+    "pass": 3
+   },
+   {
+    "quote": "○自動車用部品の試作・開発・金型・量産、一貫生産による小ロット製作",
+    "url": "https://mono.ipros.com/product/detail/2000147405/",
+    "pass": 3
+   },
+   {
+    "quote": "比較的精度が必要な『試作品』も【超短納期】でお請けします",
+    "url": "https://mono.ipros.com/product/detail/2000147405/",
+    "pass": 3
+   },
+   {
+    "quote": "工法転換｜溶接・組立品をアルミ鋳物で一体化 1個から試作",
+    "url": "https://mono.ipros.com/product/detail/2000147405/",
+    "pass": 3
+   },
+   {
+    "quote": "『創造力応援企業・アイデアを形に！』 一個の試作品から金型・量産まで心を込めて一貫生産で創ります",
+    "url": "https://mono.ipros.com/company/detail/2034986/",
+    "pass": 3
+   },
+   {
+    "quote": "カサミ工業は『あなたの想いを形に！』のテーマを掲げ、一個の試作品から金型・量産まで心を込めて一貫生産で創ります",
+    "url": "https://mono.ipros.com/company/detail/2034986/",
+    "pass": 3
+   },
+   {
+    "quote": "○自動車用部品の試作・開発・金型・量産、一貫生産による小ロット製作",
+    "url": "https://mono.ipros.com/company/detail/2034986/",
+    "pass": 3
+   },
+   {
+    "quote": "② プレス金型、試作、設計製作",
+    "url": "https://www.atengineer.com/pr/kasami/company",
+    "pass": 3
+   },
+   {
+    "quote": "④ 自動車部品、弱電部品、建築金物等の開発試作",
+    "url": "https://www.atengineer.com/pr/kasami/company",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "一個の試作品から金型・量産まで心を込めて一貫生産で創ります",
+    "url": "https://mono.ipros.com/product/detail/2000147405/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社カサミ工業は、創業以来自動車用部品等の試作・開発で培ってきた独自の技術力を活かし、新分野への取り組みも積極的に行っています",
+    "url": "https://mono.ipros.com/product/detail/2000147405/",
+    "pass": 3
+   },
+   {
+    "quote": "カサミ工業は『あなたの想いを形に！』のテーマを掲げ、一個の試作品から金型・量産まで心を込めて一貫生産で創ります",
+    "url": "https://mono.ipros.com/product/detail/2000147405/",
+    "pass": 3
+   },
+   {
+    "quote": "○自動車用部品の試作・開発・金型・量産、一貫生産による小ロット製作",
+    "url": "https://mono.ipros.com/product/detail/2000147405/",
+    "pass": 3
+   },
+   {
+    "quote": "『創造力応援企業・アイデアを形に！』 一個の試作品から金型・量産まで心を込めて一貫生産で創ります",
+    "url": "https://mono.ipros.com/company/detail/2034986/",
+    "pass": 3
+   },
+   {
+    "quote": "カサミ工業は『あなたの想いを形に！』のテーマを掲げ、一個の試作品から金型・量産まで心を込めて一貫生産で創ります",
+    "url": "https://mono.ipros.com/company/detail/2034986/",
+    "pass": 3
+   },
+   {
+    "quote": "○自動車用部品の試作・開発・金型・量産、一貫生産による小ロット製作",
+    "url": "https://mono.ipros.com/company/detail/2034986/",
+    "pass": 3
+   },
+   {
+    "quote": "② プレス金型、試作、設計製作",
+    "url": "https://www.atengineer.com/pr/kasami/company",
+    "pass": 3
+   },
+   {
+    "quote": "④ 自動車部品、弱電部品、建築金物等の開発試作",
+    "url": "https://www.atengineer.com/pr/kasami/company",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社カサミ工業は医療機器製造や金属プレス加工、缶製造などを行ってる会社です",
+    "url": "https://pitact.com/companies/detail/520764_1240002049325",
+    "pass": 3
+   },
+   {
+    "quote": "製造加工, 金型",
+    "url": "https://ivry.jp/telsearch/0828863711/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "詳しくはお問い合わせ、もしくはカタログをご覧ください",
+    "url": "https://mono.ipros.com/product/detail/2000147405/",
+    "pass": 3
+   },
+   {
+    "quote": "●詳しくはお問い合わせ、もしくはカタログをご覧ください",
+    "url": "https://mono.ipros.com/product/detail/2000147405/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "有限会社カサミ工業 事業紹介 カサミ工業 | イプロスものづくり — 一個の試作品から金型・量産まで心を込めて一貫生産で創ります。 有限会社カサミ工業は、創業以来自動車用部品等の試作・開発で培ってきた独自の技術力を活かし、新分野への取り組みも積極的に行っています。",
+    "url": "https://mono.ipros.com/product/detail/2000147405/",
+    "pass": 3
+   },
+   {
+    "quote": "カサミ工業 | 企業情報 | イプロスものづくり — Aug 9, 2013 · カサミ工業の企業情報や製品・サービス、関連カタログをご紹介。 『創造力応援企業・アイデアを形に！ 』 一個の試作品から金型・量産まで心を込めて一貫生産で創ります。 イプロスものづくりでは、製造・加工受託など製造業向けの情報を多数掲載。",
+    "url": "https://mono.ipros.com/company/detail/2034986/",
+    "pass": 3
+   },
+   {
+    "quote": "設備 - 有限会社 カサミ工業 広島県 安芸郡 — Sep 27, 2017 · プレス金型 (順送）、試作の設計製作。 また製缶や小ロット量産なども行っております。 特に試作に関しては、受注から納品までをレーザー加工機のティーチングレス導入などにより、より短納期での納品が可能になりました。 詳しくはHPをご覧下さい。",
+    "url": "https://ja.nc-net.or.jp/company/64015/equipment/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 カサミ工業 広島県 安芸郡 - NCNetwork — Sep 27, 2017 · プレス金型 (順送）、試作の設計製作。 また製缶や小ロット量産なども行っております。 特に試作に関しては、受注から納品までをレーザー加工機のティーチングレス導入などにより、より短納期での納品が可能になりました。 詳しくはHPをご覧下さい。",
+    "url": "https://ja.nc-net.or.jp/company/64015/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社カサミ工業 - 会社概要 — 有限会社カサミ工業の事業概要 ① 金属精密加工 ② プレス金型、試作、設計製作 ③ 治具製作 ④ 自動車部品、弱電部品、建築金物等の開発試作 ⑤ 各前号に付帯する一切の業務",
+    "url": "https://www.atengineer.com/pr/kasami/company",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社カサミ工業 事業紹介 カサミ工業 | イプロスものづくり — 有限会社カサミ工業は、創業以来自動車用部品等の試作・開発で培ってきた独自の技術力を活かし、新分野への取り組みも積極的に行っています。 品質保証を最重点課題として企業発展の基礎確立のために技術開発を積極的にすすめています。",
+    "url": "https://mono.ipros.com/product/detail/2000147405/",
+    "pass": 3
+   },
+   {
+    "quote": "カサミ工業 | 企業情報 | イプロスものづくり — Aug 9, 2013 · カサミ工業は『あなたの想いを形に！ 』のテーマを掲げ、一個の試作品から金型・量産まで心を込めて一貫生産で創ります。 今後もより一層地域社会に貢献出来る企業、社員全員が気持ちよく働ける職場、成長し続ける企業を目指して努力して参ります。",
+    "url": "https://mono.ipros.com/company/detail/2034986/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社カサミ工業 | 加工会社ナビ — 有限会社カサミ工業の 概要 同社は金属精密加工、機械加工、プレス加工、3次元レーザー加工を手がけています。 自動車部品の試作・開発から量産まで、多品種小ロット生産に対応しています。",
+    "url": "https://eigyo-mfg.com/service/navi/company/MPCcwNkjI4z3",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社カサミ工業 (法人番号：1240002049325)の企業情報 | PITACT（... — 2 days ago · TOP › 広島県 › 安芸郡海田町 › 有限会社カサミ工業 企業情報 法人番号 1240002049325 ／ 広島県安芸郡海田町栄町3番14号 ／ 更新 2026年11月9日",
+    "url": "https://pitact.com/companies/detail/520764_1240002049325",
+    "pass": 3
+   },
+   {
+    "quote": "0828863711は有限会社カサミ工業の電話番号 | アイブリー — 082-886-3711 は、 有限会社カサミ工業 の電話番号です。 有限会社カサミ工業は ビジネス に関わる事業者 で、所在地は広島県安芸郡坂町北新地1丁目4−99 です。 回線種別は 固定電話 で、番号提供事業者は 西日本電信電話株式会社 です。",
+    "url": "https://ivry.jp/telsearch/0828863711/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "M&Aレポート広島 on X: \"【広島のM&A ニュース】 カイタック 機械加工... 【広島のM&A ニュース】 📰カイタック 機械加工など工種拡充へカサミ工業子会社化📰 板金加工のKAITAK（海田町、松村健社長）は8月1日、機械加工などのカサミ工業（坂町、岩本雅至社長）の全株式を取得した。",
+    "url": "https://x.com/MandA_hiroshima/status/1706171193777422655",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.kasami.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/product/detail/2000147405/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2034986/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/64015/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/kasami/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2000147405/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2034986/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitact.com/companies/detail/520764_1240002049325",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ivry.jp/telsearch/0828863711/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mikasa-corp.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MandA_hiroshima/status/1706171193777422655",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "カサミ工業 取扱製品 試作 小ロット",
+   "results": [
+    "https://mono.ipros.com/product/detail/2000147405/",
+    "https://mono.ipros.com/company/detail/2034986/",
+    "https://ja.nc-net.or.jp/company/64015/equipment/",
+    "https://ja.nc-net.or.jp/company/64015/",
+    "https://kishimotokogyo.co.jp/archives/prototype/",
+    "https://takamikogyo.jp/small_lot",
+    "https://www.kashima-ind.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "カサミ工業 会社概要 事業内容",
+   "results": [
+    "https://www.atengineer.com/pr/kasami/company",
+    "https://mono.ipros.com/product/detail/2000147405/",
+    "https://mono.ipros.com/company/detail/2034986/",
+    "https://eigyo-mfg.com/service/navi/company/MPCcwNkjI4z3",
+    "https://www.mikasa.co.jp/company/outline/",
+    "https://companydata.tsujigawa.com/company2/1240002049325/",
+    "https://www.kasai.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "カサミ工業 お問い合わせ メール",
+   "results": [
+    "https://pitact.com/companies/detail/520764_1240002049325",
+    "https://ivry.jp/telsearch/0828863711/",
+    "https://mikasa-corp.com/contact/",
+    "https://www.kasanen.jp/contact/",
+    "https://kamisyoji.co.jp/contact/",
+    "https://kisami.shop-pro.jp/customer/inquiries/new",
+    "https://kaitak.co.jp/blog/blog-864/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com カサミ工業",
+   "results": [
+    "https://note.com/fancy_tapir2276",
+    "https://note.com/fancy_tapir2276/all",
+    "https://note.com/fancy_tapir2276/n/nd2fc472298f4",
+    "https://note.com/fancy_tapir2276/n/nb319ce071e52",
+    "https://note.com/fancy_tapir2276/n/nafb41dc7ae97",
+    "https://note.com/fancy_tapir2276/n/nd019c023fa76",
+    "https://note.com/clipcorporation/n/nbe39e081e681"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com カサミ工業",
+   "results": [
+    "https://x.com/kgbukabu/status/2046799325087621270",
+    "https://x.com/MandA_hiroshima/status/1706171193777422655",
+    "https://x.com/responsejp/status/2120369696898003275",
+    "https://x.com/kasalovedesign",
+    "https://x.com/responsejp/status/2057623991133913208",
+    "https://x.com/kowmeiism",
+    "https://x.com/hironakamura01/status/2046858589223190965"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com カサミ工業",
+   "results": [
+    "https://www.linkedin.com/company/河西工業（株）",
+    "https://jp.linkedin.com/in/kaz-kikuchi-a39ab79b",
+    "https://www.linkedin.com/company/komatsu",
+    "https://in.linkedin.com/company/linkedin",
+    "https://sg.linkedin.com/company/kasagilabo",
+    "https://my.linkedin.com/company/kasagilabo",
+    "https://jp.linkedin.com/in/yuki-miyauchi-806969293"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com カサミ工業",
+   "results": [
+    "https://www.facebook.com/kasaikogyoJP/about/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/kasaikogyoJP/posts/河西工業facebookをご覧いただきどうもありがとうございます組立技術部組立課に所属している孫と申します私は組立技術部でサンバイザーを作るための生産工程設計設/539800620118522/",
+    "https://www.facebook.com/kasami.ibuki/",
+    "https://www.facebook.com/クズミ電子工業株式会社-155863534511361/",
+    "https://www.facebook.com/kasaikogyoJP/photos/624867614945155/",
+    "https://www.facebook.com/photo.php/?fbid=480546756043909"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "カサミ工業 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.kasami.com/",
+    "https://kaitak.co.jp/blog/blog-864/",
+    "https://kaitak.co.jp/about/",
+    "https://www.instagram.com/p/Cvg6iuppdZr/",
+    "https://www.kasai.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "カサミ工業 X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部10頁・検索9回）"
+ }
+}

@@ -1,0 +1,826 @@
+{
+ "name": "アドバンエンジ株式会社",
+ "aliases": [],
+ "context": "ipros_all:オーダーメイド",
+ "researched_at": "2026-11-11T19:20:12.517731+00:00",
+ "official_url": "http://www.adv-eng.co.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "お客様のニーズに合わせた製品開発はもちろん、産学官連携も積極的に推進し、お客様や地域社会などのステークホルダーの期待に応えると同時に、環境問題をはじめとする持続可能な社会の実現に向けて革新的技術をもって応えていきます",
+    "url": "https://www.adv-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関することなど、",
+    "url": "https://www.adv-eng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関することなど、",
+    "url": "https://www.adv-eng.co.jp/about/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは主力製品である工業炉の設計と製造、ジオポリマーの研究開発を主に行っております",
+    "url": "https://www.adv-eng.co.jp/about/locations/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関することなど、",
+    "url": "https://www.adv-eng.co.jp/about/locations/",
+    "pass": 1
+   },
+   {
+    "quote": "熱と環境を科学するアドバンエンジ株式会社 ： 製品情報",
+    "url": "https://www.adv-eng.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "アドバンエンジがもっとも得意とする製品群です",
+    "url": "https://www.adv-eng.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関することなど、",
+    "url": "https://www.adv-eng.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに合わせた製品開発はもちろん、産学官連携も積極的に推進し、お客様や地域社会などのステークホルダーの期待に応えると同時に、環境問題をはじめとする持続可能な社会の実現に向けて革新的技術をもって応えていきます",
+    "url": "https://www.adv-eng.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの製品には、お客様が求めるニーズの分だけバリエーションがあり、技術はお客様と共に挑戦する度に進化を遂げてきました",
+    "url": "https://www.adv-eng.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "環境負荷の低減に着目して製品開発に取り組んできました",
+    "url": "https://www.adv-eng.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関することなど、",
+    "url": "https://www.adv-eng.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "我々の主力製品である工業炉を取り巻く環境は、カーボンニュートラルの実現に向けて劇的に変化しています",
+    "url": "https://www.adv-eng.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関することなど、",
+    "url": "https://www.adv-eng.co.jp/about/message/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関することなど、",
+    "url": "https://www.adv-eng.co.jp/about/performance/",
+    "pass": 1
+   },
+   {
+    "quote": "ご要望をお聞かせいただければ、お客様それぞれの環境・要件に合った製品のご提供が可能です",
+    "url": "https://www.adv-eng.co.jp/products/fields/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関することなど、",
+    "url": "https://www.adv-eng.co.jp/products/fields/",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは代表的な製品をご紹介させていただきますが、当社ではオーダーメイドな製作に力を入れております",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "ご要望をお聞かせいただければ、お客様それぞれの環境・要件に合った製品のご提供が可能です",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の粉末は2重ダンパーを通して垂直に供給、排出することでトレイ等の治具を使わず連続バッチ処理が可能です",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "処理製品に応じて2000℃以上の高温仕様も設計可能です",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "搬送方法は製品形状に応じてローラーハース、メッシュベルト、ウォーキングビーム、トレープッシャーなど多彩な実績があります",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "●対象製品の大きさに合わせて専用設計いたします",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "電子部品や半導体の製造工程で使用される石英ガラス製品のアニール炉には、より汚染の少ないクリーンな性能が求められます",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の石英ガラス高純度アニール炉は不純物を低減した高純度セラミックスファイバーを断熱材としてライニングし、更に炉体をオールステンレス製とすることで、アニール工程における石英ガラス製品の表面汚染を大幅に減少させることが可能です",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "また処理製品の大口径化、長尺化に対応するべく炉体の大型化を進めており、お客様のご要望に応じて専用設計いたします",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "クリーン度が求められる製品向けにはウォーキングビーム搬送を採用し、駆動部、摺動部から発生するコンタミも極力低減します",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関することなど、",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは代表的な製品をご紹介させていただきますが、当社ではオーダーメイドな製作に力を入れております",
+    "url": "https://www.adv-eng.co.jp/products/transport/",
+    "pass": 1
+   },
+   {
+    "quote": "ご要望をお聞かせいただければ、お客様それぞれの環境・要件に合った製品のご提供が可能です",
+    "url": "https://www.adv-eng.co.jp/products/transport/",
+    "pass": 1
+   },
+   {
+    "quote": "各種コンベアと移載装置、ロボットとの組み合わせで製品形状と炉内搬送方式にベストマッチの前後搬送装置を提供いたします",
+    "url": "https://www.adv-eng.co.jp/products/transport/",
+    "pass": 1
+   },
+   {
+    "quote": "また製品から発生するバインダーやNOx、SOxを無害化する排ガス処理装置についても豊富な実績があります",
+    "url": "https://www.adv-eng.co.jp/products/transport/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関することなど、",
+    "url": "https://www.adv-eng.co.jp/products/transport/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービスに関することなど、",
+    "url": "https://www.adv-eng.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(7)",
+    "url": "https://mono.ipros.com/company/detail/215031/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (7)",
+    "url": "https://mono.ipros.com/company/detail/215031/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "SAV.07-03.10 The Sun Avenue, No. 28 Mai Chi Tho Street, An Phu Ward, Thu Duc City, Ho Chi Minh City, Viet Nam",
+    "url": "https://www.adv-eng.co.jp/about/locations/",
+    "pass": 1
+   },
+   {
+    "quote": "NEW MATERIALS & CERAMICS",
+    "url": "https://www.adv-eng.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "●セラミックス、カーボン粉末用の高温仕様対応",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末を大気に触れず連続バッチ処理することができる縦型炉です",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の粉末は2重ダンパーを通して垂直に供給、排出することでトレイ等の治具を使わず連続バッチ処理が可能です",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "NEW MATERIALS & CERAMICS",
+    "url": "https://www.adv-eng.co.jp/wp/wp-content/themes/advaneng/image/products/icn_product_01.png",
+    "pass": 2
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "新素材、セラミックス",
+    "url": "https://www.adv-eng.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "●セラミックス、カーボン粉末用の高温仕様対応",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の石英ガラス高純度アニール炉は不純物を低減した高純度セラミックスファイバーを断熱材としてライニングし、更に炉体をオールステンレス製とすることで、アニール工程における石英ガラス製品の表面汚染を大幅に減少させることが可能です",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "熱処理へのニーズは、金属、セラミックス、黒鉛、電子部品材料、航空機新素材、半導体材料など多岐にわたります",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207344/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の工業炉はカーボン、セラミックス、半導体材料など先端素材の製造、加工を支えるものが多く、全てオーダーメイドでお客様のニーズに対応いたします",
+    "url": "https://mono.ipros.com/company/detail/215031/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "多様な工業炉を「オーダーメイド」で製作することにこだわっています",
+    "url": "https://www.adv-eng.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "当社ではオーダーメイドな製作に力を入れております",
+    "url": "https://www.adv-eng.co.jp/products/fields/",
+    "pass": 1
+   },
+   {
+    "quote": "真空加熱、N2・Arガスでの減圧～常圧加熱、各種プロセスガスの使用など、多様なニーズに対応するオーダーメイド仕様の真空炉を提供いたします",
+    "url": "https://www.adv-eng.co.jp/products/fields/",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは代表的な製品をご紹介させていただきますが、当社ではオーダーメイドな製作に力を入れております",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "真空加熱、N2・Arガスでの減圧～常圧加熱、各種プロセスガスの使用など、多様なニーズに対応するオーダーメイド仕様の真空炉を提供いたします",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "また、先行ワーク処理中に次のワークの処理条件を準備することができるので、処理条件の異なるワークの連続条件変更を短時間で可能とし、多品種小ロットの生産に効果を発揮します",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは代表的な製品をご紹介させていただきますが、当社ではオーダーメイドな製作に力を入れております",
+    "url": "https://www.adv-eng.co.jp/products/transport/",
+    "pass": 1
+   },
+   {
+    "quote": "50年以上の実績とこれまで蓄積してきた技術・ノウハウを基に、1社1社のニーズに応えられるよう「オーダーメイド製作」を実現させています",
+    "url": "https://www.adv-eng.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは加熱炉、熱処理炉など幅広い「工業炉」のオーダーメイド開発を主に行っています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207344/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "私たちの強みは「オーダーメイド」へのこだわり",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207344/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社は低・中温から高い技術力が必要とされる３０００℃程度の超高温まで幅広い温度域に対応しており、完全パッケージではなく、お客様の要望やニーズに最適にお応えできるよう、多様な工業炉を「オーダーメイド」で製作することにこだわっています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207344/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の工業炉はカーボン、セラミックス、半導体材料など先端素材の製造、加工を支えるものが多く、全てオーダーメイドでお客様のニーズに対応いたします",
+    "url": "https://mono.ipros.com/company/detail/215031/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "スマートフォンや航空機、電気自動車など、多分野で使用される素材を生み出す工業炉",
+    "url": "https://www.adv-eng.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の粉末は2重ダンパーを通して垂直に供給、排出することでトレイ等の治具を使わず連続バッチ処理が可能です",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "電子部品や半導体の製造工程で使用される石英ガラス製品のアニール炉には、より汚染の少ないクリーンな性能が求められます",
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "pass": 1
+   },
+   {
+    "quote": "各種コンベアと移載装置、ロボットとの組み合わせで製品形状と炉内搬送方式にベストマッチの前後搬送装置を提供いたします",
+    "url": "https://www.adv-eng.co.jp/products/transport/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体関連部品や、カーボンなどの新素材、自動車部品、リチウムイオン電池材料の熱処理といった、最先端分野を含む多彩な産業で、私たちの手がけた工業炉が活躍しています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207344/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォンや航空機、燃料電池車など、他分野で使用される素材を生み出す工業炉",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207344/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォンや航空機、電気自動車など、他分野で使用される素材を生み出す工業炉",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207344/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "熱処理へのニーズは、金属、セラミックス、黒鉛、電子部品材料、航空機新素材、半導体材料など多岐にわたります",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207344/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社の工業炉はカーボン、セラミックス、半導体材料など先端素材の製造、加工を支えるものが多く、全てオーダーメイドでお客様のニーズに対応いたします",
+    "url": "https://mono.ipros.com/company/detail/215031/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "熱と環境を科学する アドバンエンジ 株式会社 ： 会社概要 — 熱と環境を科学する アドバンエンジ 株式会社 ： 会社概要 アドバンエンジ株式会社 https://www.adv-eng.co.jp > アドバンエンジについて",
+    "url": "https://www.adv-eng.co.jp/about/company/",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンエンジ (株)の新卒採用・ 会社概要 | マイナビ2027 — アドバンエンジ (株)の新卒採用・ 会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp207344 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp207344/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンエンジ | 企業 情報 | イプロスものづくり — アドバンエンジ | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用機械",
+    "url": "https://mono.ipros.com/company/detail/215031/",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンエンジ の熱処理炉の特徴や種類、サポートなどを紹介 — アドバンエンジ の熱処理炉の特徴や種類、サポートなどを紹介 kogyolopedia.com https://www.kogyolopedia.com > list > adv-eng",
+    "url": "https://www.kogyolopedia.com/list/adv-eng.html",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンエンジ 株式 会社 - 新潟企業情報ナビ — アドバンエンジ 株式 会社 - 新潟企業情報ナビ 新潟企業情報ナビ https://niigata-kigyo-navi.jp > 企業情報",
+    "url": "https://niigata-kigyo-navi.jp/search/company/714",
+    "pass": 3
+   },
+   {
+    "quote": "一般の お問い合わせ Contact - アドバンエンジ株式会社 — 一般の お問い合わせ Contact - アドバンエンジ株式会社 アドバンエンジ株式会社 https://www.adv-eng.co.jp > contact",
+    "url": "https://www.adv-eng.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンエンジ 株式会社 - お問い合わせ — アドバンエンジ 株式会社 - お問い合わせ atengineer.com https://www.atengineer.com > adv-eng > inquiry",
+    "url": "https://www.atengineer.com/pr/adv-eng/inquiry",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンエンジ | 企業情報 | イプロスものづくり — アドバンエンジ | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 産業用機械",
+    "url": "https://mono.ipros.com/company/detail/215031/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "アドバンエンジ 株式会社 - Inicio | Facebook アドバンエンジ 株式会社 - Inicio | Facebook Facebook https://www.facebook.com > アドバンエンジ株式会社",
+    "url": "https://www.facebook.com/pages/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/315563858486533?locale=es_LA",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンエンジ 株式会社 - Hlavní stránka | Facebook アドバンエンジ 株式会社 - Hlavní stránka | Facebook Facebook https://www.facebook.com > アドバンエンジ株式会社",
+    "url": "https://www.facebook.com/pages/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/315563858486533?locale=cs_CZ",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンエンジ 株式会社 - ਮੁੱਖ ਪੰਨਾ - Facebook アドバンエンジ 株式会社 - ਮੁੱਖ ਪੰਨਾ - Facebook Facebook https://www.facebook.com > アドバンエンジ株式会社",
+    "url": "https://www.facebook.com/pages/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/315563858486533?locale=pa_IN",
+    "pass": 3
+   },
+   {
+    "quote": "アドバンエンジ 株式会社 - Početna stranica | Facebook アドバンエンジ 株式会社 - Početna stranica | Facebook Facebook https://www.facebook.com > アドバンエンジ株式会社",
+    "url": "https://www.facebook.com/pages/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/315563858486533?locale=bs_BA",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.adv-eng.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/about/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/about/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/about/locations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/about/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/about/performance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/products/fields/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/products/transport/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/products/fields/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/products/furnaces/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/products/transport/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/about/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/about/locations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.adv-eng.co.jp/wp/wp-content/themes/advaneng/image/common/img_hero_sub_product.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/wp/wp-content/themes/advaneng/image/products/icn_product_01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/wp/wp-content/themes/advaneng/image/products/icn_product_02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/wp/wp-content/themes/advaneng/image/products/icn_product_03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/wp/wp-content/themes/advaneng/image/products/icn_product_04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/wp/wp-content/themes/advaneng/image/products/icn_product_05.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/wp/wp-content/themes/advaneng/image/products/feilds/pic_feilds01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/wp/wp-content/themes/advaneng/image/products/feilds/pic_feilds02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/wp/wp-content/themes/advaneng/image/products/furnaces/pic_itemB_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/wp/wp-content/themes/advaneng/image/products/furnaces/pic_itemB_04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/wp/wp-content/themes/advaneng/image/products/furnaces/pic_itemB_05-2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.adv-eng.co.jp/wp/wp-content/themes/advaneng/image/products/furnaces/pic_intro_furnaces.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp207344/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/215031/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/adv-eng/inquiry",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/215031/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/315563858486533?locale=es_LA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/315563858486533?locale=cs_CZ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/315563858486533?locale=pa_IN",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/315563858486533?locale=bs_BA",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アドバンエンジ 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "https://partners.solize.com/manufacturing/technology/rapid-mold",
+    "https://www.zen.co.jp/",
+    "https://www.adv-eng.co.jp/products/",
+    "https://shinko56.com/trial.html",
+    "https://kishimotokogyo.co.jp/archives/prototype/",
+    "https://www.adv-eng.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "アドバンエンジ 会社概要 事業内容",
+   "results": [
+    "https://www.adv-eng.co.jp/about/company/",
+    "https://job.mynavi.jp/27/pc/search/corp207344/outline.html",
+    "https://mono.ipros.com/company/detail/215031/",
+    "https://www.kogyolopedia.com/list/adv-eng.html",
+    "https://niigata-kigyo-navi.jp/search/company/714",
+    "https://www.adv-eng.co.jp/about/locations/",
+    "https://compalyze.co.jp/company/6110001003547",
+    "https://www.buffett-code.com/company/14ukxp9s5f/",
+    "https://www.adv-eng.co.jp/",
+    "https://www.kensetumap.com/company/234561/profile.php"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "アドバンエンジ お問い合わせ メール",
+   "results": [
+    "https://www.adv-eng.co.jp/contact/",
+    "https://www.atengineer.com/pr/adv-eng/inquiry",
+    "https://mono.ipros.com/company/detail/215031/",
+    "https://www.adtec.com/contact/",
+    "https://advan-corp.co.jp/contact.php",
+    "https://www.advan.co.jp/eshop/contact/",
+    "https://niigata-kigyo-navi.jp/search/company/714",
+    "https://www.adv-eng.co.jp/about/locations/",
+    "https://jobdoor.niigata-cci.or.jp/company/00004860-00/",
+    "https://advan-inc.co.jp/contact"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com アドバンエンジ",
+   "results": [
+    "https://note.com/emperor_d/n/nf31caba7824d",
+    "https://note.com/cvt_march/n/ncfcc2de62700?hl=en",
+    "https://note.com/daikimekong/n/n0d7122f211e2",
+    "https://note.com/emperor_d/n/nccd40b4addea",
+    "https://note.com/aoi_krnzm/n/nd5f54e346b24",
+    "https://note.com/brave_koala615/n/nf61f1aba0747",
+    "https://note.com/brave_koala615/n/naf2a546c8702",
+    "https://note.com/clipcorporation/n/n64b332a0a055",
+    "https://note.com/clipcorporation/n/n265f7fe4f42f",
+    "https://note.com/clipcorporation/n/n789dfc79b761"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com アドバンエンジ",
+   "results": [
+    "https://x.com/IHI_ad/status/1815293608305860948",
+    "https://x.com/NUAC_Niigata",
+    "https://x.com/pyon/status/2119210746693419341",
+    "https://x.com/72Factory72gr",
+    "https://x.com/takahashi_38/reposts",
+    "https://x.com/ikeozi_888",
+    "https://x.com/youdaoxiatianle",
+    "https://x.com/kaikai2120621",
+    "https://x.com/1603custom",
+    "https://x.com/NUAC_Niigata/status/2111258423077851277"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com アドバンエンジ",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com アドバンエンジ",
+   "results": [
+    "https://www.facebook.com/pages/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/315563858486533?locale=es_LA",
+    "https://www.facebook.com/pages/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/315563858486533?locale=cs_CZ",
+    "https://www.facebook.com/pages/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/315563858486533?locale=pa_IN",
+    "https://www.facebook.com/pages/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/315563858486533?locale=bs_BA",
+    "https://www.facebook.com/pages/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/315563858486533?locale=ca_ES",
+    "https://www.facebook.com/pages/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/315563858486533?locale=bg_BG",
+    "https://www.facebook.com/pages/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/315563858486533?locale=hr_HR",
+    "https://www.facebook.com/pages/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/315563858486533?locale=ru_RU",
+    "https://www.facebook.com/pages/%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/315563858486533?locale=sw_KE",
+    "https://www.facebook.com/アドバンエンジ株式会社-315563858486533/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "アドバンエンジ note 社長",
+   "results": [
+    "https://www.adv-eng.co.jp/",
+    "https://job.mynavi.jp/27/pc/search/corp207344/outline.html",
+    "https://niigata-kigyo-navi.jp/search/company/714",
+    "https://note.com/mystar_group/n/n71657bc63530",
+    "https://syukatsu-kaigi.jp/companies/100342/word_mouths",
+    "https://jobdoor.niigata-cci.or.jp/company/00004860-00/",
+    "https://www.kogyolopedia.com/list/adv-eng.html",
+    "https://www.adv-eng.co.jp/about/company/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "アドバンエンジ X 投稿",
+   "results": [
+    "https://www.adv-eng.co.jp/",
+    "https://syukatsu-kaigi.jp/companies/100342/word_mouths",
+    "https://job.mynavi.jp/27/pc/search/corp207344/outline.html",
+    "https://niigata-kigyo-navi.jp/search/company/714",
+    "https://www.adv-eng.co.jp/about/",
+    "https://x.com/feed_fujita_eng/status/2065242072995774582",
+    "https://compalyze.co.jp/company/6110001003547",
+    "https://ja.nc-net.or.jp/company/94875/",
+    "https://www.adv-eng.co.jp/about/company/",
+    "https://jobcatalog.yahoo.co.jp/company/1110021459/review/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像12件／外部11頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式20頁／PDF・画像12件／外部11頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式20頁／PDF・画像12件／外部11頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像12件／外部11頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像12件／外部11頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式20頁／PDF・画像12件／外部11頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式20頁／PDF・画像12件／外部11頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式20頁／PDF・画像12件／外部11頁・検索9回）"
+ }
+}

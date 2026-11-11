@@ -1,0 +1,668 @@
+{
+ "name": "コスモリサーチ株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T19:44:46.198647+00:00",
+ "official_url": "https://www.cosmoresearch.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒331-0812　埼玉県さいたま市北区宮原町3-148-5　コスモビル",
+    "url": "https://www.cosmoresearch.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　伊藤 武司",
+    "url": "https://www.cosmoresearch.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "20名（技術者18名）",
+    "url": "https://www.cosmoresearch.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年商",
+    "value": "10億円（2022年1月期）",
+    "url": "https://www.cosmoresearch.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "最近の納入先",
+    "value": "NICT情報通信研究機構、JAXA宇宙航空研究開発機構、NHK放送技術研究所、 NAO国立天文台、東芝、住友電気工業、パナソニック、光電製作所、日本アンテナ、オーク製作所など",
+    "url": "https://www.cosmoresearch.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "異業種の顧客の製品にイノベーションをもたらします",
+    "url": "https://www.cosmoresearch.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コスモリサーチは、これら先行開発したベース技術をもとに、顧客の製品のイノベーションを目指します",
+    "url": "https://www.cosmoresearch.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自社ブランドだけでなく、共同開発にも積極的に取り組み、顧客の製品にイノベーションを起こします",
+    "url": "https://www.cosmoresearch.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "先行開発した技術をもとに、顧客の製品に落とし込みます",
+    "url": "https://www.cosmoresearch.co.jp/project/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "5.7/2.4Ghz帯ドローン搭載用ブロードバンド送受信機",
+    "url": "https://www.cosmoresearch.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン通信、機械学習、量子コンピュータの分野に注目しています",
+    "url": "https://www.cosmoresearch.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SPD-boosterをベースに開発した航空管制用AM無線機です",
+    "url": "https://www.cosmoresearch.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "5.7/2.4Ghz帯ドローン搭載用ブロードバンド送受信機",
+    "url": "https://www.cosmoresearch.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "NICT情報通信研究機構、JAXA宇宙航空研究開発機構、NHK放送技術研究所、 NAO国立天文台、東芝、住友電気工業、パナソニック、光電製作所、日本アンテナ、オーク製作所など",
+    "url": "https://www.cosmoresearch.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "5.7/2.4Ghz帯ドローン搭載用ブロードバンド送受信機",
+    "url": "https://www.cosmoresearch.co.jp/buisiness/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン、無人機",
+    "url": "https://www.cosmoresearch.co.jp/buisiness/",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン通信、機械学習、量子コンピュータの分野に注目しています",
+    "url": "https://www.cosmoresearch.co.jp/buisiness/",
+    "pass": 1
+   },
+   {
+    "quote": "5.7/2.4Ghz帯ドローン搭載用ブロードバンド送受信機",
+    "url": "https://www.cosmoresearch.co.jp/project/",
+    "pass": 1
+   },
+   {
+    "quote": "SPD-boosterをベースに開発した航空管制用AM無線機です",
+    "url": "https://www.cosmoresearch.co.jp/project/",
+    "pass": 1
+   },
+   {
+    "quote": "主催は水道DXサービス「宇宙水道局」を運営する株式会社天地人",
+    "url": "https://note.com/tenchijincompass/n/n8bc6991de0f5",
+    "pass": 3
+   },
+   {
+    "quote": "主催は水道DXサービス「宇宙水道局」を運営する株式会社天地人",
+    "url": "https://note.com/tenchijincompass/n/nfd5ee6a7b020",
+    "pass": 3
+   },
+   {
+    "quote": "主催は水道DXサービス「宇宙水道局」を運営する株式会社天地人",
+    "url": "https://note.com/tenchijincompass/n/n7be525138933",
+    "pass": 3
+   },
+   {
+    "quote": "本レポートでは、第2部「全部を調べる前に、どこから見るべきかを決める〜宇宙水道局による管路リスクの濃淡・偏りの見える化〜」の内容をお伝えする",
+    "url": "https://note.com/tenchijincompass/n/n7be525138933",
+    "pass": 3
+   },
+   {
+    "quote": "OR、ロジスティクス、意思決定分析を専門とし、防衛・運輸・郵政など省庁での政策立案や企業の戦略策定に関わる調査研究・コンサルティングに従事",
+    "url": "https://note.com/tenchijincompass/n/n7be525138933",
+    "pass": 3
+   },
+   {
+    "quote": "「天」の衛星から得た宇宙情報、「地」上のビッグデータ、「人」の活動で得られるデータやノウハウを掛け合わせる",
+    "url": "https://note.com/tenchijincompass/n/n7be525138933",
+    "pass": 3
+   },
+   {
+    "quote": "天地人が提供する水道DXサービス「宇宙水道局」は、衛星データとAIによる漏水リスク診断を軸にしている",
+    "url": "https://note.com/tenchijincompass/n/n7be525138933",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "VHF/UHFエアーバンド帯AM無線送受信機",
+    "url": "https://www.cosmoresearch.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "コスモリサーチはSDR（ソフトウエア無線）技術をベースに最新のOFDM無線機器はもとより、レガシーなAM,FM無線機の置き換えを提案しています",
+    "url": "https://www.cosmoresearch.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AM/FMはもとよりOFDM(直行周波数分割多重)方式のハード、ソフトをスクラッチで（一から）設計する技術力を有し、地デジなどの規格やカスタム変復調方式にも対応可能です",
+    "url": "https://www.cosmoresearch.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SPD-boosterをベースに開発した航空管制用AM無線機です",
+    "url": "https://www.cosmoresearch.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "VHF/UHFエアーバンド帯AM無線送受信機",
+    "url": "https://www.cosmoresearch.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "VHF/UHFエアーバンド帯AM無線送受信機",
+    "url": "https://www.cosmoresearch.co.jp/buisiness/",
+    "pass": 1
+   },
+   {
+    "quote": "AM/FMはもとよりOFDM(直行周波数分割多重)方式のハード、ソフトをスクラッチで（一から）設計する技術力を有し、地デジなどの規格やカスタム変復調方式にも対応可能です",
+    "url": "https://www.cosmoresearch.co.jp/buisiness/",
+    "pass": 1
+   },
+   {
+    "quote": "VHF/UHFエアーバンド帯AM無線送受信機",
+    "url": "https://www.cosmoresearch.co.jp/project/",
+    "pass": 1
+   },
+   {
+    "quote": "SPD-boosterをベースに開発した航空管制用AM無線機です",
+    "url": "https://www.cosmoresearch.co.jp/project/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "無線通信機開発製造・高速信号処理機器開発製造のコスモリサーチ — コスモリサーチは、1988年創業以来、黎明期からFPGAをベースにディジタル信号処理技術を開発し続けています。 コスモリサーチのビジネスは、先行開発から始まります。",
+    "url": "https://www.cosmoresearch.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 無線通信機開発製造・高速信号処理機器開発製造のコスモリ...会社概要 | 株式会社コスモリサーチ｜漏水調査｜福岡事業内容 | 株式会社コスモリサーチ｜漏水調査｜福岡コスモリサーチ株式会社 - 会社概要コスモリサーチ | 企業情報 | イプロスものづくりコスモリサーチ株式会社の会社概要・製品情報 | Metoree — 会社紹介 コスモリサーチについて コスモリサーチは、尖った技術で無線通信機、高速信号処理機器を開発製造する会社です。 1988年の創業以来、エンジニアを育て、果敢に開発にチャレンジしてきました。 コスモリサーチの凄さは、OFDM送受信機をスクラッチで開発する技術力。 自社ブランド ... 株式会社コスモリサーチ会社概要 会社名 株式会社 コスモリサーチ 代表取締役 築山 邦弘 設立：平成元年2月27日 URL： https://www.cosmo-r.jp 本社",
+    "url": "https://www.cosmoresearch.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社コスモリサーチ｜漏水調査｜福岡 — 株式会社コスモリサーチ会社概要 会社名 株式会社 コスモリサーチ 代表取締役 築山 邦弘 設立：平成元年2月27日 URL： https://www.cosmo-r.jp 本社 〒812-0872 福岡市博多区春町2丁目8番9号 電話：092－575－0651 Fax：092－572－4656",
+    "url": "https://www.cosmo-r.jp/profile",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 | 株式会社コスモリサーチ｜漏水調査｜福岡 — 株式会社コスモリサーチの事業内容です。漏水調査の方法や、様々な機器（機械）を使用した作業工程をご紹介いたします。基本工法 （作業計画作成、現場下見調査、戸別音聴調査、弁栓音聴調査 、路面音聴調査、 確認調査、報告書作成）計量工法、ロガ型相関式調査 （Zcorr)、探査、GIS式 ...",
+    "url": "https://www.cosmo-r.jp/business",
+    "pass": 3
+   },
+   {
+    "quote": "コスモリサーチ株式会社 - 会社概要 — コスモリサーチ株式会社の事業概要 1. 高速無線通信ソリューション 主に、先端無線通信の分野において蓄積したIPを提供し顧客の製品の高付加価値化と開発の迅速化、リスクの低減に貢献する。 2. 研究用実験機器開発受託 官公庁、大手企業の研究所向に、研究成果を実証するための、実験装置 ...",
+    "url": "https://www.atengineer.com/pr/cosmoresearch/company",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせフォーム | 無線通信機開発製造・高速信号処理機器開発製... — 自動で受付メールを送信いたします。 メールが送信されない場合、お手数ですが、下記電話番号までご連絡ください。 コスモリサーチ株式会社 【受付時間】9：00～18：00 （土・日・祝日は除く）",
+    "url": "https://www.cosmoresearch.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問合せ | 株式会社コスモリサーチ｜漏水調査｜福岡 — 株式会社 コスモリサーチ 大切な資源を守る 漏水調査専門業者 TOPへ戻る お問合せ SMAPSについて MENU ホーム 事業内容 -計量工法 -選別工法 -ロガ型相関式調査 （Zcorr) -探査 -GIS式管路図作成 -その他 安全の取組 会社概要 採用情報 お問合せ 個人情報保護方針",
+    "url": "https://www.cosmo-r.jp/contact",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "調査を「答え合わせ」で終わらせない。コスモリサーチが語る、現場情... Aug 20, 2026 · EYストラテジー・アンド・コンサルティング株式会社、株式会社コスモリサーチの協力を得て、参加対象者は自治体職員限定で行われた。 第1部で経営、第2部でマクロの視点が示されたのを受け、第3部は現場に最も近い場所に立つ。",
+    "url": "https://note.com/tenchijincompass/n/n8bc6991de0f5",
+    "pass": 3
+   },
+   {
+    "quote": "水道の現場から「継承する技術がない」という声が出始めた。3社が語る... Sep 2, 2026 · 水道の現場から「継承する技術がない」という声が出始めた。3社が語る、持久戦の限界と最初の一歩【天地人×EY×コスモリサーチ 上下水道セミナーレポート】",
+    "url": "https://note.com/tenchijincompass/n/nfd5ee6a7b020",
+    "pass": 3
+   },
+   {
+    "quote": "リスクの高い1.5％に、漏水の24％が集中。天地人が語る「調べる前に、... Aug 20, 2026 · 【天地人×EY×コスモリサーチ 上下水道セミナー】 セッションレポート一覧 第1部： DXも広域化も官民連携も、入口は同じだった。 EYが語る「正しいアセット情報の把握」 第2部：リスクの高い1.5％に、漏水の24％が集中していた。",
+    "url": "https://note.com/tenchijincompass/n/n7be525138933",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "熟練の技術者になると、音を聞いた時点で漏水の大きさや、聞いている場所からの距離、さらには管種が金属系か樹脂系かまで判別できるという",
+    "url": "https://note.com/tenchijincompass/n/n8bc6991de0f5",
+    "pass": 3
+   },
+   {
+    "quote": "自治体・水道事業者から、管路の情報（材質や経過年数など）、過去の漏水事故の履歴、修繕の履歴を提供してもらい、天地人側が衛星データとオープンデータを組み合わせて、独自のAIで解析・分析する",
+    "url": "https://note.com/tenchijincompass/n/n7be525138933",
+    "pass": 3
+   },
+   {
+    "quote": "「例えば同じ属性、同じ材質、同じ長さ、同じ年代に埋められた管路であったとしても、その埋設環境の違いによって、老朽化の進行するスピードが早くなったり遅くなったりします」",
+    "url": "https://note.com/tenchijincompass/n/n7be525138933",
+    "pass": 3
+   },
+   {
+    "quote": "材質や布設年度だけで並べていては見分けられない差を、埋設環境のデータで分離する",
+    "url": "https://note.com/tenchijincompass/n/n7be525138933",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "調査を「答え合わせ」で終わらせない。コスモリサーチが語る、現場情報を次の計画へ戻す仕組み【天地人×EY×コスモリサーチ 上下水道セミナーレポート】｜株式会社天地人",
+    "url": "https://note.com/tenchijincompass/n/n8bc6991de0f5",
+    "pass": 3
+   },
+   {
+    "quote": "調査を「答え合わせ」で終わらせない。コスモリサーチが語る、現場情報を次の計画へ戻す仕組み【天地人×EY×コスモリサーチ 上下水道セミナーレポート】",
+    "url": "https://note.com/tenchijincompass/n/n8bc6991de0f5",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月24日、上下水道事業者向けのオンラインセミナー「維持管理の高度化と『経営改革』、何から始めるか〜広域化・DXの土台となる『アセット情報の見える化』事例から学ぶ最初の一歩〜」が開催された。主催は水道DXサービス「宇宙水道局」を運営する株式会社天地人。EYストラテジー・アンド・コンサルティング株式会社、株式会社コスモリサーチの協力を得て、参加対象者は自治体職員限定で行われた。",
+    "url": "https://note.com/tenchijincompass/n/n8bc6991de0f5",
+    "pass": 3
+   },
+   {
+    "quote": "第1部で経営、第2部でマクロの視点が示されたのを受け、第3部は現場に最も近い場所に立つ。本レポートでは、第3部「現場調査を、次の判断に戻す〜現場調査で得た情報を蓄積・活用し、管路管理の高度化や有収率維持向上、更新判断を支えるデータ資産へ育てる仕組み〜」の内容をお伝えする。漏水調査を35年以上続けてきた専門企業から見たとき、有収率向上が止まる理由はどこにあるのか。",
+    "url": "https://note.com/tenchijincompass/n/n8bc6991de0f5",
+    "pass": 3
+   },
+   {
+    "quote": "築山剛志氏（株式会社コスモリサーチ 取締役副社長）",
+    "url": "https://note.com/tenchijincompass/n/n8bc6991de0f5",
+    "pass": 3
+   },
+   {
+    "quote": "浄水場等のプラント設備から管路の維持管理まで、水道インフラ分野における幅広い経験を有する。前職の総合水処理会社では、上下水・し尿処理施設等のプラント営業として、水道施設の整備・維持管理に関する提案を担当。その後、株式会社コスモリサーチに入社し、有収率向上に向けた漏水調査・管路診断、管路管理スキームの構築に携わる。近年は、衛星データ、AI解析、遠隔監視技術等も活用し、自治体の実情に即した管路管理手法の構築・展開を進めている。",
+    "url": "https://note.com/tenchijincompass/n/n8bc6991de0f5",
+    "pass": 3
+   },
+   {
+    "quote": "また、JWRCの管路研究プロジェクト研究員を歴任。海外案件では、JICA関連事業を通じて、発展途上国における給水改善・無収水対策にも従事。現在は同社取締役副社長として、会社の経営改善と管路管理分野における事業展開を推進している。",
+    "url": "https://note.com/tenchijincompass/n/n8bc6991de0f5",
+    "pass": 3
+   },
+   {
+    "quote": "調査で完結しない会社。現場と設計の両方を持つ",
+    "url": "https://note.com/tenchijincompass/n/n8bc6991de0f5",
+    "pass": 3
+   },
+   {
+    "quote": "水道の現場から「継承する技術がない」という声が出始めた。3社が語る、持久戦の限界と最初の一歩【天地人×EY×コスモリサーチ 上下水道セミナーレポート】｜株式会社天地人",
+    "url": "https://note.com/tenchijincompass/n/nfd5ee6a7b020",
+    "pass": 3
+   },
+   {
+    "quote": "水道の現場から「継承する技術がない」という声が出始めた。3社が語る、持久戦の限界と最初の一歩【天地人×EY×コスモリサーチ 上下水道セミナーレポート】",
+    "url": "https://note.com/tenchijincompass/n/nfd5ee6a7b020",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月24日、上下水道事業者向けのオンラインセミナー「維持管理の高度化と『経営改革』、何から始めるか〜広域化・DXの土台となる『アセット情報の見える化』事例から学ぶ最初の一歩〜」が開催された。主催は水道DXサービス「宇宙水道局」を運営する株式会社天地人。EYストラテジー・アンド・コンサルティング株式会社、株式会社コスモリサーチの協力を得て、参加対象者は自治体職員限定で行われた。",
+    "url": "https://note.com/tenchijincompass/n/nfd5ee6a7b020",
+    "pass": 3
+   },
+   {
+    "quote": "セミナーの最後は3社によるトークセッション「持続可能な上下水道経営に向けたアセットマネジメントの本音と実践」で締めくくられた。テーマは3つ。今のやり方はいつまで続けられるのか、最初の一歩は何か、そしてデータが循環し始めた先にどんな景色があるのか。タイトルに掲げたひと言も、支援先の自治体職員自身の口から出たものである。",
+    "url": "https://note.com/tenchijincompass/n/nfd5ee6a7b020",
+    "pass": 3
+   },
+   {
+    "quote": "松村隆司氏（EYストラテジー・アンド・コンサルティング株式会社 インフラストラクチャー・アドバイザリー ディレクター）",
+    "url": "https://note.com/tenchijincompass/n/nfd5ee6a7b020",
+    "pass": 3
+   },
+   {
+    "quote": "築山剛志氏（株式会社コスモリサーチ 取締役 副社長）",
+    "url": "https://note.com/tenchijincompass/n/nfd5ee6a7b020",
+    "pass": 3
+   },
+   {
+    "quote": "樋口宣人氏（株式会社天地人 執行役員COO）",
+    "url": "https://note.com/tenchijincompass/n/nfd5ee6a7b020",
+    "pass": 3
+   },
+   {
+    "quote": "【テーマ1：危機の直視〜「今は回っている」は、いつまで続くのか？】",
+    "url": "https://note.com/tenchijincompass/n/nfd5ee6a7b020",
+    "pass": 3
+   },
+   {
+    "quote": "リスクの高い1.5％に、漏水の24％が集中。天地人が語る「調べる前に、絞る」【天地人×EY×コスモリサーチ 上下水道セミナーレポート】｜株式会社天地人",
+    "url": "https://note.com/tenchijincompass/n/n7be525138933",
+    "pass": 3
+   },
+   {
+    "quote": "リスクの高い1.5％に、漏水の24％が集中。天地人が語る「調べる前に、絞る」【天地人×EY×コスモリサーチ 上下水道セミナーレポート】",
+    "url": "https://note.com/tenchijincompass/n/n7be525138933",
+    "pass": 3
+   },
+   {
+    "quote": "2026年7月24日、上下水道事業者向けのオンラインセミナー「維持管理の高度化と『経営改革』、何から始めるか〜広域化・DXの土台となる『アセット情報の見える化』事例から学ぶ最初の一歩〜」が開催された。主催は水道DXサービス「宇宙水道局」を運営する株式会社天地人。EYストラテジー・アンド・コンサルティング株式会社、株式会社コスモリサーチの協力を得て、参加対象者は自治体職員限定で行われた。",
+    "url": "https://note.com/tenchijincompass/n/n7be525138933",
+    "pass": 3
+   },
+   {
+    "quote": "第1部でEYの松村隆司氏が「あらゆる経営改革の土台は正しいアセット情報の把握にある」と論じたのを受け、第2部は視点を地域全体へ引き上げる。管路を1本ずつ見るのではなく、どこに手をつけるべきかを面で捉えるマクロの視点である。本レポートでは、第2部「全部を調べる前に、どこから見るべきかを決める〜宇宙水道局による管路リスクの濃淡・偏りの見える化〜」の内容をお伝えする。地中に埋まっていて目視できない管路のリスクを、衛星データとAIでどう定量化し、限られた予算と人員をどこに向けるか。「調べる前に、絞る」という考え方をめぐるセッションとなった。",
+    "url": "https://note.com/tenchijincompass/n/n7be525138933",
+    "pass": 3
+   },
+   {
+    "quote": "樋口宣人氏（株式会社天地人 執行役員COO）",
+    "url": "https://note.com/tenchijincompass/n/n7be525138933",
+    "pass": 3
+   },
+   {
+    "quote": "1990年、株式会社三菱総合研究所に入社。OR、ロジスティクス、意思決定分析を専門とし、防衛・運輸・郵政など省庁での政策立案や企業の戦略策定に関わる調査研究・コンサルティングに従事。2000年にケンコーコム株式会社を共同創業し、常務取締役COOとしてヘルスケア領域のEC事業を牽引。2015年以降はスタートアップ企業の経営支援に注力し、国内上場企業のCEOや米国AI企業日本法人代表などを歴任。2024年7月より天地人に参画。",
+    "url": "https://note.com/tenchijincompass/n/n7be525138933",
+    "pass": 3
+   },
+   {
+    "quote": "見えない管路が、四重苦・五重苦の中心にある",
+    "url": "https://note.com/tenchijincompass/n/n7be525138933",
+    "pass": 3
+   },
+   {
+    "quote": "樋口氏は冒頭、第1部の議論を受けて自らのテーマの位置を示した。「先ほどの松村様のお話の中にあっても、現状を正しく把握することが非常に重要である、というお話をいただいております。その中で私どもは、特に水道管路のリスクという目に見えないものを定量化する、数値化して共有するということに注力しております」",
+    "url": "https://note.com/tenchijincompass/n/n7be525138933",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "アウクセシアのコスモリサーチ完了！ 麦コスタ@SS用 (@mugi_kosuta). 12 likes 799 views. アウクセシアのコスモリサーチ完了！",
+    "url": "https://x.com/mugi_kosuta/status/2062900857835045248",
+    "pass": 3
+   },
+   {
+    "quote": "\\\\\\コスモリサーチ・プロフェッサー/／ 戌助 (イヌスケ)＠不滅隊 (@ffinudog). 66 views. \\\\コスモリサーチ・プロフェッサー/／",
+    "url": "https://x.com/ffinudog/status/2074079458798268556",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "takeshi ito - コスモリサーチ - なし | LinkedInTetsuo Masubuchi - コスモリサーチ - シニアエキスパート | LinkedInCosmos-Hub | LinkedInCosmo Du - Meta | LinkedInCosmo Spens - Founder | Mediatech | Fintech | Arts ...Research Cosmos | LinkedInCosmo Coulter - Setting Up a New Investment Firm | LinkedIn コスモリサーチ - なし · 職歴: コスモリサーチ · 場所: 埼玉県。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでtakeshi itoさんのプロフィールを閲覧しましょう。 コスモリサーチ - シニアエキスパート ",
+    "url": "https://jp.linkedin.com/in/takeshi-ito-10182a158",
+    "pass": 3
+   },
+   {
+    "quote": "Tetsuo Masubuchi - コスモリサーチ - シニアエキスパート | LinkedIn コスモリサーチ - シニアエキスパート · 職歴: コスモリサーチ · 場所: 日本 · LinkedInのつながり2人。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでTetsuo Masubuchiさんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/tetsuo-masubuchi-a9a03191",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.cosmoresearch.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmoresearch.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmoresearch.co.jp/buisiness/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmoresearch.co.jp/project/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.pioneer-j.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cosmo-create.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmo-r.jp/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cosmo-r.jp/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kosmo.jp/contact/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tenchijincompass/n/n8bc6991de0f5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tenchijincompass/n/nfd5ee6a7b020",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tenchijincompass/n/n7be525138933",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mugi_kosuta/status/2062900857835045248",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ffinudog/status/2074079458798268556",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/takeshi-ito-10182a158",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/tetsuo-masubuchi-a9a03191",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "コスモリサーチ 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.cosmoresearch.co.jp/",
+    "https://www.pioneer-j.co.jp/",
+    "https://cosmo-create.jp/",
+    "https://www.pioneer-j.co.jp/products/",
+    "https://www.cosmolibre.com/",
+    "https://www.cosmoresearch.co.jp/faq/",
+    "http://www.cosmo-d.co.jp/manufacture/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "コスモリサーチ 会社概要 事業内容",
+   "results": [
+    "https://www.cosmoresearch.co.jp/",
+    "https://www.cosmoresearch.co.jp/company/",
+    "https://www.cosmo-r.jp/profile",
+    "https://www.cosmo-r.jp/business",
+    "https://www.atengineer.com/pr/cosmoresearch/company",
+    "https://mono.ipros.com/company/detail/2055411/",
+    "https://metoree.com/companies/14628/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "コスモリサーチ お問い合わせ メール",
+   "results": [
+    "https://www.cosmoresearch.co.jp/contact/",
+    "https://www.cosmo-r.jp/contact",
+    "http://www.kosmo.jp/contact/",
+    "https://iceyacosmo.com/contact?sec01",
+    "http://www.csm-c.co.jp/contact/",
+    "https://www.cosmospc.co.jp/contact/",
+    "https://cosmo-recruiter.com/?page_id=318"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com コスモリサーチ",
+   "results": [
+    "https://note.com/tenchijincompass/n/n8bc6991de0f5",
+    "https://note.com/cosmolab",
+    "https://note.com/tenchijincompass/n/nfd5ee6a7b020",
+    "https://note.com/tenchijincompass/n/n7be525138933",
+    "https://note.com/tenchijincompass/n/n8bc6991de0f5?hl=en",
+    "https://note.com/tenchijincompass/n/n9b485f735d54",
+    "https://note.com/rapid_salvia5855/n/n1e281aaf887a"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com コスモリサーチ",
+   "results": [
+    "https://x.com/mugi_kosuta/status/2062900857835045248",
+    "https://x.com/ffinudog/status/2074079458798268556",
+    "https://x.com/Cosmocover",
+    "https://x.com/p_research777/status/2112816154997670294",
+    "https://x.com/labs_cosmo",
+    "https://x.com/tresearch_sp",
+    "https://x.com/p_research777/status/2113165312246030614"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com コスモリサーチ",
+   "results": [
+    "https://jp.linkedin.com/in/takeshi-ito-10182a158",
+    "https://jp.linkedin.com/in/tetsuo-masubuchi-a9a03191",
+    "https://www.linkedin.com/in/cosmodu",
+    "https://uk.linkedin.com/in/cosmo-spens",
+    "https://in.linkedin.com/company/researchcosmos",
+    "https://uk.linkedin.com/in/cosmo-coulter-3a4644138",
+    "https://www.linkedin.com/company/cosmosid"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com コスモリサーチ",
+   "results": [
+    "https://www.facebook.com/cosmo.researchprogram/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/crsijournal/",
+    "https://www.facebook.com/CosmoGuruGL/",
+    "https://www.facebook.com/CosmoResearchInstitution/",
+    "https://www.facebook.com/cosmoenthospital/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "コスモリサーチ note 社長",
+   "results": [
+    "https://www.cosmoresearch.co.jp/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.cosmoresearch.co.jp/company/",
+    "https://www.cosmo-r.jp/profile",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://cosmo-recruiter.com/?p=117",
+    "https://guardians7.com/cosmo-research/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "コスモリサーチ X 投稿",
+   "results": [
+    "https://www.cosmoresearch.co.jp/",
+    "https://www.cosmoresearch.co.jp/news/",
+    "https://research.thinkmove.jp/",
+    "https://note.com/kawaken1am/n/n606e8463531f",
+    "https://x.com/researchboy_vr/status/2028660044854690004",
+    "https://shigoto-erabi.com/2026/01/24/x-analyze/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 6
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部12頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部12頁・検索9回）",
+  "一点物・少量多品種": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部12頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部12頁・検索9回）"
+ }
+}

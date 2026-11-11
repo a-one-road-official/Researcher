@@ -1,0 +1,453 @@
+{
+ "name": "株式会社サトウ精機",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T19:30:35.777728+00:00",
+ "official_url": "http://www.sato-seiki.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒０２５－０３２４",
+    "url": "https://sato-seiki.com/about/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "工場",
+    "value": "５００坪",
+    "url": "https://sato-seiki.com/about/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "２８名",
+    "url": "https://sato-seiki.com/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "一点物・少量多品種": [
+   {
+    "quote": "サトウ精機は、精密金属加工のオーダーメイドを手掛けるマイスター集団です",
+    "url": "https://sato-seiki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちサトウ精機は、精密金属加工のオーダーメイドを手掛けるマイスター集団です",
+    "url": "https://sato-seiki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、精密金属加工のオーダーメイドを手掛けるマイスター集団です",
+    "url": "https://sato-seiki.com/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちサトウ精機は、精密金属加工のオーダーメイドを手掛けるマイスター集団です",
+    "url": "https://sato-seiki.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、精密金属加工のオーダーメイドを手掛けるマイスター集団です",
+    "url": "https://sato-seiki.com/recruit/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "そして現在に至るまで多くの産業のお客様とのご縁をいただき、自動車関連、半導体関連、航空機関連、医療機器関連等の精密部品の製作や、生産ラインで使用される治工具の設計・製作などを手掛けております",
+    "url": "https://sato-seiki.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "サトウ精機が作った精密金属加工部品は、交通・通信インフラ、半導体、医療機器など、時代のニーズに合った産業に用いられ、世界中の人々の安全・安心で豊かな暮らしを支え続けています",
+    "url": "https://sato-seiki.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "サトウ精機は創業以来、三重県・四日市市より時代と共に進化していく自動車業界に欠かせない製品を生み出す機械を造り続け、日本でも数少ない受注オーダー製の製造機械・自動組立機・自動検査機・自動搬送装置などの製作を行っている2次加工専用機メーカーです",
+    "url": "https://satou-seiki.jp/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "サトウ精機は創業以来、三重県・四日市市より時代と共に進化していく自動車業界に欠かせない製品を生み出す機械を造り続け、日本でも数少ない受注オーダー製の製造機械・自動組立機・自動検査機・自動搬送装置などの製作を行っている2次加工専用機メーカーです",
+    "url": "https://satou-seiki.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「製造の効率化を図りたい」「自動製品供給から完成品の排出までを一貫したい」など、お客様のニーズや要望にお応えできる技術をご提供いたします",
+    "url": "https://satou-seiki.jp/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "サトウ精機株式会社 — サトウ精機株式会社は、三重県四日市市より受注オーダー製の製造機械・自動組立機・自動検査機・自動搬送装置などの製作を行っている2次加工専用機メーカーです。創業以来、お客様のニーズに合わせ、時代の変化に応じた多種多様な機械や装置の納入実績がございます。",
+    "url": "https://satou-seiki.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サトウ精機 - 岩手県花巻市の精密金属加工会社 — Apr 10, 2025 · [ BUSINESS ] 私たちサトウ精機は、精密金属加工のオーダーメイドを手掛けるマイスター集団です。 40年近い実績を基に常に進化を続けながら、素材、形状、ロット、納期と、それぞれ異なるお客様のご要望にあわせて、一つひとつ誠実にお応えしています。",
+    "url": "https://sato-seiki.com/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | サトウ精機株式会社事業内容 - 佐藤精機株式会社会社概要 - 佐藤精機株式会社サトウ精機について - 部品加工・旋盤加工 株式会社サトウ精機 岩手県...株式会社サトウ精機 - 岩手県花巻市の精密金属加工会社 — 当社ホームページをご覧いただきありがとうございます。 当社は創業36年となる2次加工専用機メーカーです。 創業以来、受注オーダー製の製造機械 (専用機)・自動組立機・自動検査機・自動搬送装置などを、数多くのユーザー様へ納入した実績がございます。また、近年の「ものづくり」変化 ... 産業機器全般及び、部品の制作・組立各種、工作機械による切削加工を中心に行っています。 量産品ではなく多品種超微 会社概要 1 2 3 4 5 サトウ精機は、昭和61年に下請けで精密部品を加工する小さな工場（こうば）として創業し、旋盤加工機一台と創業者一人というミニマムな体制で始まりました",
+    "url": "https://satou-seiki.jp/company.php",
+    "pass": 3
+   },
+   {
+    "quote": "サトウ精機について - 部品加工・旋盤加工 株式会社サトウ精機 岩手県... — サトウ精機は、昭和61年に下請けで精密部品を加工する小さな工場（こうば）として創業し、旋盤加工機一台と創業者一人というミニマムな体制で始まりました。",
+    "url": "https://sato-seiki.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTACT - お問合せ ｜ サトウ精機株式会社 — お電話または下記のお問合せフォームよりお気軽にお問合せください。 当サイトでお預りした氏名、メールアドレス等の お客様の情報は、再利用や他者に渡すなどといったことが無いことをお約束いたします。",
+    "url": "https://satou-seiki.jp/contact.php",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜佐藤グループお問い合わせ - 部品加工・旋盤加工 株式会社サトウ精機 岩手県花巻市お問合せ - 佐藤精機株式会社 — 静岡県富士宮市にある佐藤グループ（株式会社佐藤精機、株式会社佐藤精密金型）のWebサイトです。自動車部品のプレス金型・射出成形用金型の設計製作から、インサート樹脂成形部品の量産まで一貫して対応しています。 Home ‥ CONTACT US 法人のお客様 個人のお客様 会社名 役職名 お名前 【必須】 郵便番号 住所 電話番号 メールアドレス【必須】 お問い合わせの種類 【必須】 見積依頼 特注カスタマイズ リクルート 材料購入 その他 お問い合わせ内容【必須】 ファイルを添付する TEL（本社）079-274-1047 お名前・ご担当者 (必須) 会社名 メールアドレス (必須) TEL (必須) FAX 題名 メッセージ本文",
+    "url": "https://www.satoseiki.co.jp/contact/index",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 部品加工・旋盤加工 株式会社サトウ精機 岩手県花巻市 — Home ‥ CONTACT US 法人のお客様 個人のお客様 会社名 役職名 お名前 【必須】 郵便番号 住所 電話番号 メールアドレス【必須】 お問い合わせの種類 【必須】 見積依頼 特注カスタマイズ リクルート 材料購入 その他 お問い合わせ内容【必須】 ファイルを添付する",
+    "url": "https://sato-seiki.com/contact/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "当サイトでお預りした氏名、メールアドレス等の",
+    "url": "https://satou-seiki.jp/contact.php",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "岩手県の主要なその他の製造業関連企業一覧｜企業クリップ Aug 6, 2025 · 株式会社サトウ精機 | 岩手県花巻市小瀬川第3地割143番地3 日精電機株式会社 | 岩手県花巻市本館201 株式会社オヤマ | 岩手県一関市室根町折壁字愛宕下161番地 イーエヌ大塚製薬株式会社 | 岩手県花巻市二枚橋第4地割3番地5",
+    "url": "https://note.com/clipcorporation/n/nc24dc046e043",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "岩手県の主要なその他の製造業関連企業一覧｜企業クリップ",
+    "url": "https://note.com/clipcorporation/n/nc24dc046e043",
+    "pass": 3
+   },
+   {
+    "quote": "遠野精器株式会社 | 岩手県遠野市下組町１１番４４号",
+    "url": "https://note.com/clipcorporation/n/nc24dc046e043",
+    "pass": 3
+   },
+   {
+    "quote": "久慈琥珀株式会社 | 岩手県久慈市小久慈町第１９地割１５６番１３３",
+    "url": "https://note.com/clipcorporation/n/nc24dc046e043",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社明成ケミカル | 岩手県一関市藤沢町砂子田字高田１０９番地",
+    "url": "https://note.com/clipcorporation/n/nc24dc046e043",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社マインドギア | 岩手県花巻市椚ノ目第３地割２２番地６",
+    "url": "https://note.com/clipcorporation/n/nc24dc046e043",
+    "pass": 3
+   },
+   {
+    "quote": "盛岡セイコー工業株式会社 | 岩手県岩手郡雫石町板橋６１番地１",
+    "url": "https://note.com/clipcorporation/n/nc24dc046e043",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社夢工房 | 岩手県北上市村崎野２０地割７０番地",
+    "url": "https://note.com/clipcorporation/n/nc24dc046e043",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アジテック・ファインフーズ | 岩手県釜石市鈴子町２３番１５号",
+    "url": "https://note.com/clipcorporation/n/nc24dc046e043",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "佐藤精機株式会社 | Himeji-shi Hyogo - Facebook佐藤精機 | Nasukarasuyama-shi Tochigi - Facebookサトウ精機 - Facebook（株）佐藤精機 - Facebook佐藤精機 | Niiza-shi Saitama - Facebook佐藤精機株式会社 - 弊社は本年10月1日をもって創業70周年を迎えまし...有限会社佐藤精機 | Niiza-shi Saitama - Facebook 佐藤精機株式会社, Himeji-shi. 271 followers · 21 were here. 高精度機械加工、同時5軸加工で機械加工の新たな次元に… 切削加工のオールラウンダーを自負し、バリエーション豊かな設備と技術力でお客様のニーズにお答えします。 ⚫︎JIS Q9100(航空宇宙) 取得 ⚫︎半導体・建機・レーシングカー・船",
+    "url": "https://www.facebook.com/satoseiki.e/",
+    "pass": 3
+   },
+   {
+    "quote": "佐藤精機 | Nasukarasuyama-shi Tochigi - Facebookサトウ精機 - Facebook（株）佐藤精機 - Facebook佐藤精機 | Niiza-shi Saitama - Facebook佐藤精機株式会社 - 弊社は本年10月1日をもって創業70周年を迎えまし...有限会社佐藤精機 | Niiza-shi Saitama - Facebook Jan 24, 2017 · 右側が新しいほうで、佐藤精機のロゴ入りです。 弊社新しい設備として、マキノV33i、4軸仕様導 入です。 切削液温度コントローラ、スーパーGI制御等、精密 加工に適しているOPパーツを付属しています。 今後 弊社の中心的な戦力に なります。 サトウ精機 - Facebook ... サトウ精機 （株）佐藤精機. 2 followers. CNC自動盤・CNC円筒研削盤・歯切り・高周波",
+    "url": "https://www.facebook.com/satoseiki3D/",
+    "pass": 3
+   },
+   {
+    "quote": "サトウ精機 - Facebook サトウ精機 - Facebook ... サトウ精機",
+    "url": "https://www.facebook.com/サトウ精機-381678428691765/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sato-seiki.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sato-seiki.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sato-seiki.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sato-seiki.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sato-seiki.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sato-seiki.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sato-seiki.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://satou-seiki.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sato-seiki.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://satou-seiki.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://satou-seiki.jp/company.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ssc-e.co.jp/TOP/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://satou-seiki.jp/contact.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://satosk.com/contact/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sato-sk.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/nc24dc046e043",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/satoseiki.e/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/satoseiki3D/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/サトウ精機-381678428691765/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "サトウ精機 取扱製品 試作 小ロット",
+   "results": [
+    "https://satou-seiki.jp/",
+    "https://sato-seiki.com/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://housing-case-factory.com/product/708/",
+    "https://mono.ipros.com/product/detail/2000017374/",
+    "https://satoss.co.jp/capabilities/lot-production/",
+    "https://satoss.co.jp/processing/nc-lathe/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "サトウ精機 会社概要 事業内容",
+   "results": [
+    "https://satou-seiki.jp/",
+    "https://satou-seiki.jp/company.php",
+    "https://www.ssc-e.co.jp/TOP/company/",
+    "https://sato-seiki.com/about/",
+    "https://sato-seiki.com/",
+    "https://www.satoseiki.co.jp/company_group_overview",
+    "https://www.ssc-e.co.jp/TOP/business/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "サトウ精機 お問い合わせ メール",
+   "results": [
+    "https://satou-seiki.jp/contact.php",
+    "https://satosk.com/contact/",
+    "https://www.sato-sk.jp/contact/",
+    "https://www.satoseiki.co.jp/contact/index",
+    "https://sato-seiki.com/contact/",
+    "http://www.satou-ss.com/contact.html",
+    "https://www.ssc-e.co.jp/TOP/お問合せ/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com サトウ精機",
+   "results": [
+    "https://note.com/blxxk24",
+    "https://note.com/lively_hare867/all",
+    "https://note.com/blxxk24/n/n6730abe80cd7",
+    "https://note.com/clipcorporation/n/nc24dc046e043",
+    "https://note.com/sasaguchisan/n/n96b480f5a524",
+    "https://tales.note.com/",
+    "https://note.com/shoeiseiki/n/n60a37c72348b"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com サトウ精機",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com サトウ精機",
+   "results": [
+    "https://jp.linkedin.com/in/亮介-佐藤-8a7430230",
+    "https://jp.linkedin.com/in/tomoyuki-satou-ab5a7a56",
+    "https://www.linkedin.com/company/satocorporation",
+    "https://www.linkedin.com/company/sato-inc",
+    "https://in.linkedin.com/company/sato-argox-india",
+    "https://hr.linkedin.com/company/sato-d-o-o",
+    "https://ro.linkedin.com/in/ana-cristina-varga-0376257b"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com サトウ精機",
+   "results": [
+    "https://www.facebook.com/satoseiki.e/",
+    "https://www.facebook.com/satoseiki3D/",
+    "https://www.facebook.com/サトウ精機-381678428691765/",
+    "https://www.facebook.com/株佐藤精機-779659002161391/photos/",
+    "https://www.facebook.com/people/佐藤精機/100054305690517/",
+    "https://www.facebook.com/310seiki/",
+    "https://www.facebook.com/satoseiki.e/posts/弊社は本年10月1日をもって創業70周年を迎えました️️神戸新聞さんにて特集記事を掲載頂き各種方面の様々な方々から有難いお祝いのお言葉を頂戴しました心より御礼申/1351180956359379/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "サトウ精機 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://sato-seiki.com/about/",
+    "https://sato-seiki.com/",
+    "https://fm-one.net/第322回　サトウ精機　代表取締役-佐藤智栄様/",
+    "https://www.youtube.com/watch?v=Q62K83H8sJk",
+    "https://the-shashi.com/tse/7287/executives/ceo/sato-koichi/",
+    "https://www.sanjo-u.ac.jp/info/4927/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "サトウ精機 X 投稿",
+   "results": [
+    "https://sato-seiki.com/",
+    "https://x.com/satoseiki531",
+    "https://x.com/satoseiki531/status/2097517225733447779",
+    "https://x.com/satoseiki531/reposts",
+    "https://x.com/satoseiki531/status/2082648624358715657",
+    "https://x.com/satoseiki531/status/2118614183034212572",
+    "https://x.com/satoseiki531/status/2094220548285010065"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部13頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部13頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部13頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部13頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部13頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部13頁・検索9回）"
+ }
+}

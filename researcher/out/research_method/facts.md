@@ -7491,11 +7491,11 @@
 
 ## 投資仮説を当時の公開情報で書き、次の開示の日に○△×で答え合わせする実務（バイアウト・株式の事後検証・答え合わせの日を先に決める）（writing investment hypotheses with contemporaneous public information and scoring them at the next disclosure date）
 - 文脈：手順・やり方
-- 手順・やり方：記載なし（読んだ25頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
-- 実例：記載なし（読んだ25頁・検索12回）
+- 手順・やり方：記載なし（読んだ24頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
+- 実例：記載なし（読んだ24頁・検索12回）
 
 ## 分析の前提の点検（Key Assumptions Check）と変化の兆し（Indicators・Signposts）を企業・市場調査で使う手順（key assumptions check indicators signposts of change structured analytic techniques business research）
 - 文脈：手順・やり方
@@ -7817,6 +7817,14 @@
 ## 引用が元の本文に実在するかの機械検証（抜き出しと判定を分ける・RAG の引用の誤り・特許調査や法律調査の実務）（quote grounding verification extracted citation exists in source text RAG hallucination legal research）
 - 文脈：検証
 - 手順・やり方：
+  - 「Without that step you get hallucination. Ask a bare LLM "what did the Supreme Court hold in」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「So retrieval roughly halves the error rate, and it still leaves one wrong or unsupported answer in every three to six. The study's point is the one this guide is built around: RAG is necessary, but the vendor claim of "hallucination-free" is marketing. What closes the remaining gap is the verification and treatment work in the back half of the pipeline, not the retrieval step alone.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「One step sits in front of all six and the diagram leaves out:」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「, 467 U.S. 837 (1984). For forty years that was the controlling framework, and the opinion text is a perfect semantic match for any deference question.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「, summarizes its two-step test, and hands it to you without flagging」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「Studying legal NLP or inventing new retrieval methods means working on the stages directly, since the stages are the subject of the work.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「"We Do Not Train on Your Data": How to Verify the Claim」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「How to Verify AI Legal Citations Before You File (ABA 512 Checklist)」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
   - 「Abstention is a product state, not an error message. Design the "I cannot answer this from the documents" path, measure it, and give it a next step.」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
   - 「Then comes the display step, which is also a control: the interface decides whether a reader can check the answer in five seconds or has to trust it.」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
   - 「Step one: constrain the model to what you gave it」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
@@ -7824,14 +7832,6 @@
   - 「Step three: design the "I cannot answer that" path」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
   - 「Offer a next step: rephrase, narrow the scope, search another source, or hand over to a person.」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
   - 「Step four: verify claims after generation」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
-  - 「Extra tokens or a second step」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
-  - 「with next steps, as above, styled as a normal outcome rather than an error.」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
-  - 「RAG Hallucination: Why It Happens and How to Fix It (2026)」（https://hussain-nazary.github.io/rag-hallucination.html）
-  - 「RAG Evaluation: How to Measure Retrieval Quality」（https://hussain-nazary.github.io/rag-hallucination.html）
-  - 「Those three steps, retrieval, grounding, and verification, are what make RAG legal research reliable enough to file from. This guide walks through each layer of the pipeline and shows exactly where each one breaks.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
-  - 「Deployment is governed by a rigorous evaluation framework using」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
-  - 「Fine-tuning the generator with LoRA on a jurisdiction-aware embedding index ensures every assertion is grounded in a verifiable source. The evaluation framework uses citation precision and recall to guarantee zero-tolerance for fabricated case law, directly mitigating malpractice risk and sanctions exposure.」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
-  - 「vector index partitioned by jurisdiction for low-latency, high-relevance retrieval. Our evaluation framework measures」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
 - 突き合わせ・推定：
   - 「AIが示した公報番号と引用は、J-PlatPatの原文で1件ずつ照合するまで使わない」（https://coplus-one.jp/tokkyo-chosa-ai/）
   - 「原文で1件ずつ照合します」（https://coplus-one.jp/tokkyo-chosa-ai/）
@@ -7881,21 +7881,21 @@
   - 「"required": ["bias_assessment", "changed_elements"],」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
   - 「"bias_assessment": { "type": "string" },」（https://note.com/tsunobuchi/n/nb8ca80cd6249）
 - 実例：
+  - 「Why can embedding similarity alone miss that a case is no longer good law?」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「AI Case Law Search Explained: How Semantic Search Finds the Right Precedent」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「What Legal AI Actually Avoids Hallucinating Cases (and Why Most Do Not)」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「. The LLM is the student. The case law is the textbook. Retrieval is flipping to the right pages before answering.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「Six stages. Each has its own failure modes. Let me walk through them with real US case law.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「Sounds trivial. It is not. A single sentence in a Supreme Court opinion can run fifteen lines, with nested parentheticals, string cites to four other cases, and a "but see" buried in the middle. Split it in the wrong place and the meaning falls apart. Split too coarsely and the embeddings become too generic to match a specific question.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「We tested several embedding models with hard negative mining, training on case pairs that look similar but reach opposite outcomes, before landing on our current approach.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「The database also shapes retrieval quality. HNSW is an approximate nearest-neighbor algorithm. It is fast, and it misses results. For legal research, where a missed case can flip an argument, you tune」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「, 585 U.S. 296 (2018). All three live in the same neighborhood of vector space because they are all "Fourth Amendment search" cases.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「6. Citation normalization: one case, three reporters」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
+  - 「cites point at one case. Get it wrong and you either tell a user that two cites are two different cases or you merge two different cases into one. Building a」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
   - 「Structured outputs and citations cannot be combined on the Anthropic API today, so an extraction pipeline needs a different grounding strategy, for example a verification pass over the JSON values.」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
   - 「, grounds the answer in that retrieved text, then verifies every citation against the source before you see it. It does not ask the model to recall the law from memory. That single design choice is the difference between a tool that cites real authority and one that invents cases.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
   - 「In 2023 a New York lawyer filed a brief citing six cases that did not exist. A generative AI tool had written them, names, citations, and quoted holdings, and nobody checked.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
   - 「I'm Priyansh, CTO of Vaquill AI. I've spent two years building this pipeline for US case law and statutes, and this is the explainer I wish existed when I started.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
-  - 「The grounding layer (mapping every claim back to a real source passage with a pin cite, and surfacing whether the case is still good law) is what separates a demo from something a lawyer can file.」（https://www.vaquill.ai/blog/how-ai-legal-research-works-rag）
-  - 「Fine-tuning the generator with LoRA on a jurisdiction-aware embedding index ensures every assertion is grounded in a verifiable source. The evaluation framework uses citation precision and recall to guarantee zero-tolerance for fabricated case law, directly mitigating malpractice risk and sanctions exposure.」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
-  - 「The entire training and inference pipeline can be packaged for fully disconnected, on-premises environments. This supports national security, grand jury, and highly confidential litigation use cases where external API calls are prohibited, using optimized serving on air-gapped GPU clusters.」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
-  - 「(are cited cases real and correctly formatted?),」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
-  - 「of a case—not just a semantically similar one. This index handles state-specific reporter abbreviations, parallel citations, and depublication signals that generic vector databases miss.」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
-  - 「Local evaluation with MLflow tracking; acceptance gate requires precision >= 0.97 and recall >= 0.93 on jurisdiction-specific test sets; manual attorney review of edge cases」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
-  - 「Enables AI citation verification for national security, grand jury, and sealed cases; zero risk of data exfiltration; defensible chain of custody for model artifacts」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
-  - 「—the moment a cited case is overturned, depublished, or distinguished by a new appellate ruling. We implement a continuous retraining pipeline orchestrated via」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
-  - 「How does the system handle complex cross-reference resolution, where a state case's authority depends on a federal precedent that may have been overturned?」（https://inferensys.com/train/generative-ai-for-legal-precedent-and-citation-verification/state-appellate-citation-verification-models/fine-tuning-rag-architectures-for-state-appellate-citation-grounding-and-hallucination-reduction）
-  - 「constructs grounded training examples from unlabeled queries using a pretrained」（https://www.emergentmind.com/topics/citation-grounding-cg）
-  - 「, by contrast, studies closed-book authority generation with citation retrieval, citation completion, citation error detection, case matching, and case verification/correction, and introduces Misleading Answer Rate as a measure of concrete but incorrect outputs under low」（https://www.emergentmind.com/topics/citation-grounding-cg）
 - 検索結果の抜粋：
   - 「LLM hallucinations: grounding and citations · Balázs Csorba — Aug 20, 2026 · A Stanford study found leading RAG legal tools still hallucinated between 17% and 33% of the time, often by citing a real source that does not support the claim. Treat grounding as a pipeline, not a prompt: an evidence gate before generation, native citations during generation, claim-level verification after, and a UI tha」（https://balazscsorba.com/blog/llm-hallucination-grounding-citations）
 
@@ -9042,22 +9042,23 @@
 ## 上場廃止・増資・負債の増加で決算公告の義務と損益計算書の有無が変わる時点の確かめ方（大会社の判定を毎期）（Japan kessan koukoku obligation change delisting capital increase large company P/L summary）
 - 文脈：決算公告
 - 手順・やり方：
-  - 「この記事では、決算公告における損益計算書の開示義務を会社の規模別・公告方法別に整理し、損益計算書を公告しない場合の対応方法、さらに大会社へ移行する際の実務上の注意点まで解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「まず会社法の基本条文を確認し、次に大会社・非大会社の開示範囲の違い、そして公告方法ごとの記載ルールを順にお伝えします」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「決算公告で損益計算書が必要かを判断する5ステップ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「ステップ1: 会社形態の確認」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「ステップ2: EDINET利用の有無」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「ステップ3: 大会社の判定」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「ステップ4: 公告方法の確認」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「ステップ5: 付記事項の確認」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「決算公告の方法は「官報」「日刊新聞紙」「電子公告」の3種類があり、それぞれ損益計算書の記載ルールが異なります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「については、費用や手順を含めて別記事で詳しく解説しています」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「自社の決算公告で損益計算書の開示が必要かどうかは、以下の5つのステップで判断できます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「売上高、売上原価、各段階利益など、競合他社に知られたくない経営情報が長期間にわたって公開されることになるため、大会社への移行を機に公告方法を電子公告から官報へ変更する企業もあります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「ただし、公告方法の変更には定款変更が必要であり、株主総会の特別決議（議決権の3分の2以上の賛成）と登記手続きが求められます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「合併公告と決算公告の同時掲載とは？手順・費用・スケジュールを徹底解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「まずは自社が大会社に該当するかどうかを確認し、該当する場合は公告方法に応じた損益計算書の準備を始めましょう」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「決算公告をしないとどうなる？義務の対象やリスク、おすすめの公告方法を解説 | クラウド会計ソフト マネーフォワード」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「決算公告をしないとどうなる？義務の対象やリスク、おすすめの公告方法を解説」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「本記事では、決算公告をしないことで生じるリスクや、決算公告が義務となる対象、おすすめの公告方法などを解説します」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「東京商工リサーチによる『2022年「官報」決算公告調査』では、公告方法を官報としている株式会社のうち、実際に決算公告を実施しているのは1.8％という調査結果が明らかになっています」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「公告方法や公告時期については、会社法に定めがあります」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「継続して電磁的方法（インターネット）で計算書類を開示している株式会社」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「決算公告の方法は、官報、日刊新聞、または電子公告の3種類が認められています」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「決算公告義務がある株式会社はいずれかの方法を選択したうえで、定款に公告方法を記載しなければなりません」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「具体的な活用方法もご紹介しておりますので、まずは簡単に使ってみたい、そんな方におすすめの一冊です」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「特に決算公告の3つの方法のうち、より多くの人の目に触れる日刊新聞紙での公告であれば、大きな効果が期待できるかもしれません」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「決算公告の方法は官報、日刊新聞紙、電子公告の3種類があり、それぞれ特徴は異なります」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「各方法のメリット・デメリットを理解し、自社にとってベストな方法を選択することが大切です」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「日刊新聞紙での決算公告は、ほかの2つの方法よりもかなり費用相場が高いため選択する企業は限られています」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「3つの公告方法から自社に適した公告方法を選択し、会社法の規定に基づいて正しく決算公告を行いましょう」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「以前はインストール型ソフトを利用していたので、それが」（https://biz.moneyforward.com/accounting/basic/75443/）
 - 突き合わせ・推定：
+  - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「規程整備のスケジュール｜N-3期からの逆算と優先順位」（https://ipo-method.com/legal-compliance/6735/）
   - 「退職代行業者の行政データ検証やゲーム企業決算シーズン入りも」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
@@ -9067,22 +9068,24 @@
   - 「3. 申込から掲載まで約15営業日かかるため、逆算してスケジュールを立てる」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
   - 「決算公告ニュース:10/19〜10/25は、取引先の官報決算公告・倒産情報などを一括照合できるサービス「天羅Pro」の機能強化を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
 - 一次情報の探し方：
-  - 「決算公告に損益計算書は必要？大会社と中小企業の開示義務を徹底解説【2026年版】 | 電子決算公告ドットコムMagazine」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「決算公告に損益計算書は必要？大会社と中小企業の開示義務を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「「決算公告を出すとき、損益計算書まで載せなければいけないのだろうか」と疑問に思ったことはありませんか」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「この記事では、決算公告における損益計算書の開示義務を会社の規模別・公告方法別に整理し、損益計算書を公告しない場合の対応方法、さらに大会社へ移行する際の実務上の注意点まで解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「決算公告と損益計算書の関係とは？会社法の基本ルールを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「決算公告で損益計算書が必要かを判断する5ステップ」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「Q1: 決算公告で損益計算書を省略すると罰則はありますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「Q2: 合同会社は損益計算書の決算公告が必要ですか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「Q6: 決算公告で損益計算書の当期純損益が赤字の場合も公告する必要がありますか？」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「まとめ：決算公告で損益計算書が必要かのチェックポイント」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「決算公告とは、株式会社が定時株主総会の終結後に、貸借対照表（大会社にあっては貸借対照表および損益計算書）を公告する義務のことです」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「まず、決算公告に関わる法令の全体像を整理しましょう」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「つまり、大会社に該当しない中小企業が決算公告を行う場合は、貸借対照表だけを開示すれば法律上の義務は満たされます」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「大会社に該当するかどうかで、決算公告の開示範囲は大きく変わります」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
-  - 「経営の透明性をアピールすることで、採用活動にプラスの効果がある」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「決算公告をしないとどうなる？義務の対象やリスク、おすすめの公告方法を解説 | クラウド会計ソフト マネーフォワード」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「決算公告をしないとどうなる？義務の対象やリスク、おすすめの公告方法を解説」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「決算公告は会社法によって株式会社に課せられた義務です」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「決算公告をしないと会社法第976条2号によって過料が科せられる可能性があるほか、会社の信頼度低下などのリスクが高まります」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「本記事では、決算公告をしないことで生じるリスクや、決算公告が義務となる対象、おすすめの公告方法などを解説します」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「なお、マネーフォワード クラウド会計では、自分で決算書作成をしたい方にも安心な「」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「決算書作成をご自身で行ってみたいと考える経営者や財務担当者の方は、ぜひお気軽にダウンロードしてご活用ください」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「※当資料は、専門家なしでの決算書作成を推奨している趣旨ではありません」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「ご自身での決算書作成が不安な場合は、専門家にご相談ください」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「義務付けられていない企業が決算公告を行うメリット」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「決算公告を電子公告、法定公告を官報で行う」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「決算公告を正しく行って不要なリスクは回避しよう」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「決算公告は一部の例外を除き、すべての株式会社に義務付けられています」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「決算公告をしないと、会社法にのっとり行政罰が下されることになります」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「決算公告を適切な時期に行わなかった場合は、会社法第976条2号により100万円以下の過料に処されることになります」（https://biz.moneyforward.com/accounting/basic/75443/）
 - 失敗・落とし穴：
+  - 「社長交代時に官報への決算公告は必要か？役員変更登記と決算公告の制度的違いから電子公告の実務注意点まで、会社法に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
+  - 「なお、電子公告の場合は5年分の貸借対照表の全文（大会社の場合は損益計算書も必要）を掲載し続ける必要がある点には注意が必要です」（https://biz.moneyforward.com/accounting/basic/75443/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「決算公告を電子公告で行う方法｜費用・手順・注意点を徹底解説【2026年版】」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
   - 「合併で消滅する会社の決算公告義務｜存続会社が引き継ぐ手続きと注意点」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
@@ -9096,9 +9099,10 @@
   - 「大会社の判定基準(資本金5億円・負債200億円)、注記の省略範囲、公告方法別の注意点を条文に沿って解説します」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否について解説！法定公告を官報に掲載する場合は要注意 | 千代田区の司法書士事務所「司法書士法人永田町事務所」-商業登記特化-」（https://asanagi.co.jp/2023/03/07/5096/）
   - 「上場会社が決算承認前に行う官報公告掲載の注意点と決算公告の要否について解説！法定公告を官報に掲載する場合は要注意」（https://asanagi.co.jp/2023/03/07/5096/）
-  - 「上場会社の決算承認前に行う決算公告の掲載の注意点と要否について解説」（https://asanagi.co.jp/2023/03/07/5096/）
-  - 「有価証券報告書をエディネットに上げる日以前に掲載開始する場合は、上述の②のとおり前年の有価証券報告書の開示は有効とならず、貸借対照表の要旨の同時公告が必要となる場合は注意が必要です」（https://asanagi.co.jp/2023/03/07/5096/）
 - 実例：
+  - 「東京商工リサーチによる『2022年「官報」決算公告調査』では、公告方法を官報としている株式会社のうち、実際に決算公告を実施しているのは1.8％という調査結果が明らかになっています」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「この結果からは、決算公告は会社法によって実施が義務付けられてはいるものの、実際に行っている企業がごく少数である、ということがうかがえるでしょう」（https://biz.moneyforward.com/accounting/basic/75443/）
+  - 「官報同様、貸借対照表や損益計算書の要旨のみの掲載でよいとされていますが、官報よりも掲載料が高額になるケースがほとんどです」（https://biz.moneyforward.com/accounting/basic/75443/）
   - 「分割公告と決算公告の同時掲載が必要なケース、費用・スケジュール・電子公告への切替まで」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
   - 「例えば、仕訳帳や総勘定元帳などが該当します」（https://kikumoto-taxfp.com/%E6%B1%BA%E7%AE%97%E6%9B%B8%E3%82%92%E4%BD%9C%E3%82%8B%E3%81%A0%E3%81%91%E3%81%A7%E3%81%AF%E7%B5%82%E3%82%8F%E3%82%89%E3%81%AA%E3%81%84%E2%80%95%E2%80%95%E4%BC%9A%E7%A4%BE%E6%B3%95%E4%B8%8A%E3%81%AE/）
@@ -9111,10 +9115,8 @@
   - 「アンゾフの成長マトリクスとは? 企業事例や経営戦略をわかりやすく解説」（https://biz.moneyforward.com/erp/basic/2193/）
   - 「これは、決算公告を怠ったことを理由に実際に過料が科されるケースが多くないためです」（https://sw-kaikei.com/archives/1874）
   - 「試算表や決算書の数字は、あくまで「過去の結果」を表すものです」（https://sw-kaikei.com/archives/1874）
-  - 「決算公告ニュース:9/28〜10/4は法務専門誌「会社法務A2Z」10月号の会社法改正議論特集と、非上場の鹿島アントラーズ・エフ・シーが官報に決算公告を掲載した事例を取り上げます」（https://media.denshi-kessan-koukoku.com/columns/kaishaho-kessan-koukoku-gimu-guide/）
-  - 「企業によくある問題として、部門ごとに最適化を進めた結果、部門間に壁ができ、業務の一貫性や効率性が損なわれてしまうことがあります」（https://biz.moneyforward.com/erp/basic/2193/）
-  - 「その結果、取引に際して危険性が高いと判断されて取引を打ち切られたり、信用力が低下して株主や顧客の離反が生じたりするリスクがあります」（https://biz.moneyforward.com/erp/basic/2193/）
 - 検索結果の抜粋：
+  - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算公告の義務とは｜公告する内容・方法・怠ったときの過料 | HQLab会社法 法定公告について - kanpo.go.jp決算公告に関する会社法等の規定について｜法定公告に関する疑問を解... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も少なからず存在します。 」（https://www.kigyou-houmu.com/secret-4/）
   - 「決算公告の義務とは｜公告する内容・方法・怠ったときの過料 | HQLab — Oct 17, 2026 · 決算公告とは、株式会社が定時株主総会のあと、貸借対照表（大会社は損益計算書も）を公告する会社法上の義務です。 官報や日刊新聞紙なら要旨で足り、ホームページに5年間掲載する方法も選べます。」（https://headquarterslabs.com/governance-compliance/financial-statement-public-notice/）
   - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務とは｜公告する内容・方法・怠ったときの過料 | HQLab日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...決算書を作るだけでは終わらない――会社法上の計算書類・承認・公告 | ... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も」（https://www.kigyou-houmu.com/secret-4/）
   - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...決算公告の義務とは｜公告する内容・方法・怠ったときの過料 | HQLab決算書を作るだけでは終わらない――会社法上の計算書類・承認・公告 | ...日本の開示制度の全体像：有価証券報告書・計算書類・決算短信の法規...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小企業も」（https://www.kigyou-houmu.com/secret-4/）
@@ -11862,7 +11864,7 @@
   - 「- Request data in machine-readable format (CSV, JSON, XML) rather than PDF」（https://journalismauthority.com/data-journalism/）
 - 実例：
   - 「translates findings into charts, maps, tables, or interactive graphics. The Reuters Graphics team and the New York Times's The Upshot are documented examples of in-house units that have published methodologies alongside their data stories, allowing readers to inspect source datasets directly.」（https://journalismauthority.com/data-journalism/）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
 
 ## 情報源の評価のアドミラルティ・コード（A〜F×1〜6）を実務で使う手順と失敗例（admiralty code source grading practical OSINT analysts mistakes）
 - 文脈：手法
@@ -11983,21 +11985,21 @@
 ## 競合仮説分析（ACH）を複数人・複数の情報源で回す手順（仮説の列挙を1人で閉じない・表を一巡したら仮説と証拠を足して回し直す・確からしい仮説として報告）（analysis of competing hypotheses team workflow iterate add hypotheses OSINT report most likely）
 - 文脈：手法
 - 手順・やり方：
-  - 「仮説を立て、検証する際に入り込む思い込みや先入観を抑える方法として、ACH（Analysis of Competing Hypotheses：競合仮説分析）があります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「この方法は、一人でも使えますが、6〜8人で実施すると効果が高まります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「ここまで、インテリジェンス思考術として、分析の進め方を順に見てきました」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「今回のシリーズでは、その基本的な考え方と手順を示しました」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「この手法は、次の手順で進めます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「私は、この手順に加えて、前提を評価する際にマトリクスを使います」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「私は、相関関係から因果関係を見極める際、次の手順で進めます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「情報を批判的に評価する方法は、大きく外的批判と内的批判の二つに分けられます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「前回は、オシント情報をインターネットなどで集める方法について述べました」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「仮想環境の仕組みを「部屋」のたとえで徹底解説！コマンドの使い方からフォルダ構造まで初心者でもわかる完全ガイド」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「エージェント・サーバー・インデクサー・ダッシュボードの4つの部品を「防犯カメラ・警備室・録画保管庫・監視モニター」にたとえて1枚の図で整理し、できること8つ、SSH総当たり攻撃を見つける流れ、必要なスペックと導入手順、向いている人の診断、よくある勘違い、Wazuh自身の脆弱性CVE-2025-24016の教訓までまとめました」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「Linux フォレンジックの基本的な考え方（揮発性の順序）・メモリ・プロセス・ネットワークなど揮発性アーティファクトの取得方法・ログ・ファイルシステム・ユーザー活動など永続的アーティファクトの取得方法・bash 履歴・Cron・systemd など攻撃者がよく残す痕跡の見つけ方・代表的な解析ツール（Volatility・Autopsy・log2timeline・KAPE など）の使い方・トリアージスクリプトによる一括収集の自動化」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「公開情報を使った情報収集の基本、検索テクニック、SNS・地理情報・企業調査への活用方法、注意点までわかりやすく紹介する完全ガイド」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「マルウェア解析と仮想環境とInetsimの活用方法」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「【解析】VirusTotal 完全ガイド 使い方とOSINT活用法」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「Let's EncryptとCertbotを使った無料SSL/TLS証明書の設定方法を初心者向けに解説」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「HTTPS化の仕組み・手順・自動更新・セキュリティ強化まで完全網羅」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「You read several articles on how to build a treehouse on a social media platform. This information might be added to a profile to mark your interest in content related to outdoors as well as do-it-yourself guides (with the objective of allowing the personalisation of content, so that for example you are presented with more blog posts and articles on treehouses and wood cabins in the future).」（https://www.oldhamathletic.co.uk/）
+  - 「You read several articles on how to build a treehouse on a social media platform. This information might be added to a profile to mark your interest in content related to outdoors as well as do-it-yourself guides (with the objective of allowing the personalisation of content, so that for example you are presented with more blog posts and articles on treehouses and wood cabins in the future).」（https://www.oldhamathletic.co.uk/events/）
+  - 「You read several articles on how to build a treehouse on a social media platform. This information might be added to a profile to mark your interest in content related to outdoors as well as do-it-yourself guides (with the objective of allowing the personalisation of content, so that for example you are presented with more blog posts and articles on treehouses and wood cabins in the future).」（https://www.oldhamathletic.co.uk/news/）
+  - 「Analysis of Competing Hypotheses (ACH) is an intelligence analysis method based on」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「ACH is an eight-step method based on cognitive」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「cal scientific method. The rigor inherently re-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「quired means this method is appropriate to use」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「Time frame: The method is appropriate for any」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「in the method can com-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「intelligence circles, where this method is」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「How to Adapt ACH Tools to Foresight」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「scientific framework would help reduce cogni-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
 - 突き合わせ・推定：
   - 「仮説を立て、検証する際に入り込む思い込みや先入観を抑える方法として、ACH（Analysis of Competing Hypotheses：競合仮説分析）があります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
   - 「ACHの特徴は、仮説を「裏付ける証拠」ではなく、「否定する証拠」で評価する点にあります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
@@ -12031,6 +12033,13 @@
   - 「その引用元に当たることで、第一次情報に遡ることが可能」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
   - 「第一次情報源に近いからといって、その内容がすべて事実であるとは限りません」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
 - 失敗・落とし穴：
+  - 「70種類以上のセキュリティエンジンで一括チェックできる無料サービスの基本操作から、Intelligence・Retrohunt・Graphといった高度機能、OSINT調査でのピボット活用、安全に使うための注意点までまとめて解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
+  - 「least, does mitigate confirmation bias. Evidence suggests that these two methods can modestly」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「in the way of accurate forecasts regarding the future. Cognitive biases, for example, are rules of」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「an optical illusion, no matter how much an analyst consciously tries to see past these biases,」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「the unconscious part of the brain continues to assert itself. Indeed, confirmation bias, which」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「to conspiracy theories. Other cognitive biases can have similar negative effects when forecast-」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
+  - 「A common pitfall in this step is to see a large amount of evidence (relative to the total amount」（https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706）
   - 「さらに、9・11同時多発テロやイラク戦争で分析の誤りが問題となり、この手法が改めて注目されました」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
   - 「とくに、見かけだけの関係には注意が必要です」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
   - 「しかし、情報分析官としての経験から申し上げれば、情報入力の段階での誤りを減らすために、最低限意識すべき評価の視点は存在します」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
@@ -12039,29 +12048,22 @@
   - 「筆者は、内的批判を行う際、とくに次の点に注意しています」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
   - 「とくに極端に高い割合や断定的な数字には注意が必要です」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
   - 「多くの人の目にさらされ、誤りが修正され続ける、という側面があるためです」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「しかし、観察には落とし穴があります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「ここで注意すべき点は、」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「公開情報を使った情報収集の基本、検索テクニック、SNS・地理情報・企業調査への活用方法、注意点までわかりやすく紹介する完全ガイド」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「シグネチャルールの構造、content／pcre、IDSとIPSの違いと注意、ET Openルールの運用、Zeek・SIEM連携まで、防御者の視点でやさしく解説します」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「ブラウザだけで使える無料ツールの使い方と、安全に使う5つの注意」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
-  - 「Cognitive Biases in CTI: Structured Techniques for Sharper Analysis」（https://liberty91.com/blog/cti-trenches-analyst-tradecraft）
-  - 「Next: Cognitive Biases in CTI →」（https://liberty91.com/blog/cti-trenches-analyst-tradecraft）
 - 実例：
+  - 「Advertising presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type or which content you are (or have been) interacting with (for example, to limit the number of times an ad is presented to you).」（https://www.oldhamathletic.co.uk/）
+  - 「You read several articles on how to build a treehouse on a social media platform. This information might be added to a profile to mark your interest in content related to outdoors as well as do-it-yourself guides (with the objective of allowing the personalisation of content, so that for example you are presented with more blog posts and articles on treehouses and wood cabins in the future).」（https://www.oldhamathletic.co.uk/）
+  - 「Content presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type, or which content you are (or have been) interacting with (for example, to limit the number of times a video or an article is presented to you).」（https://www.oldhamathletic.co.uk/）
+  - 「Your data can be used to monitor for and prevent unusual and possibly fraudulent activity (for example, regarding advertising, ad clicks by bots), and ensure systems and processes work properly and securely. It can also be used to correct any problems you, the publisher or the advertiser may encounter in the delivery of content and ads and in your interaction with them.」（https://www.oldhamathletic.co.uk/）
+  - 「Advertising presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type or which content you are (or have been) interacting with (for example, to limit the number of times an ad is presented to you).」（https://www.oldhamathletic.co.uk/events/）
+  - 「You read several articles on how to build a treehouse on a social media platform. This information might be added to a profile to mark your interest in content related to outdoors as well as do-it-yourself guides (with the objective of allowing the personalisation of content, so that for example you are presented with more blog posts and articles on treehouses and wood cabins in the future).」（https://www.oldhamathletic.co.uk/events/）
+  - 「Content presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type, or which content you are (or have been) interacting with (for example, to limit the number of times a video or an article is presented to you).」（https://www.oldhamathletic.co.uk/events/）
+  - 「Your data can be used to monitor for and prevent unusual and possibly fraudulent activity (for example, regarding advertising, ad clicks by bots), and ensure systems and processes work properly and securely. It can also be used to correct any problems you, the publisher or the advertiser may encounter in the delivery of content and ads and in your interaction with them.」（https://www.oldhamathletic.co.uk/events/）
+  - 「Advertising presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type or which content you are (or have been) interacting with (for example, to limit the number of times an ad is presented to you).」（https://www.oldhamathletic.co.uk/news/）
+  - 「You read several articles on how to build a treehouse on a social media platform. This information might be added to a profile to mark your interest in content related to outdoors as well as do-it-yourself guides (with the objective of allowing the personalisation of content, so that for example you are presented with more blog posts and articles on treehouses and wood cabins in the future).」（https://www.oldhamathletic.co.uk/news/）
+  - 「Content presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type, or which content you are (or have been) interacting with (for example, to limit the number of times a video or an article is presented to you).」（https://www.oldhamathletic.co.uk/news/）
+  - 「Your data can be used to monitor for and prevent unusual and possibly fraudulent activity (for example, regarding advertising, ad clicks by bots), and ensure systems and processes work properly and securely. It can also be used to correct any problems you, the publisher or the advertiser may encounter in the delivery of content and ads and in your interaction with them.」（https://www.oldhamathletic.co.uk/news/）
   - 「ただし、本来であれば、個々の手法は事例とともに説明する必要があります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
   - 「実際の事例にあてはめながら、「どのように使うのか」を中心に説明していきます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
   - 「昨年10月13日からニュースレターを配信してきましたが、読者の広がりという点では十分な結果を得ることができませんでした」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「その結果、2022年に習氏は3選を果たし、現在に至っています」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「しかし、この結果を社長に報告したところ、社長は次のように言いました」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「その結果、関連性が高いにもかかわらず立証が不十分な前提に注目します」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「さらに、過去の事例から、業績悪化の前には次のような兆候が見られます」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「たとえば、「企業の業績が悪化した」という結果があり、「新規参入企業が市場に増えた」とします」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「私はこの関係を、原因と結果の可能性として扱います」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「② 原因が先、結果が後という時間の順序を確認する」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「その結果、政策判断に役立つインテリジェンスを作ることは難しくなります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「分析した結果を統合し、意味を解釈する必要があります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「対象を誤れば、偏った結果になります」（https://atsumori.shop/archives/category/%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B9%E6%80%9D%E8%80%83%E8%A1%93）
-  - 「マッキンゼー・BCGの仮説運用事例とBallista支援事例」（https://constep.jp/column/3773）
-  - 「生成AIによって「調べる」「まとめる」の限界コストがゼロに近づいた結果、人間側に残るのは「何を問い、どの仮説を検証するか」という上流の判断です」（https://constep.jp/column/3773）
 - 検索結果の抜粋：
   - 「競合する仮説の分析｜幻想の近現代 — May 8, 2021 · 「競合する仮説の分析」（以下ACH）というのは、観測された競合する複数の仮説を評価するための公平な方法論と言われています。アメリカのCIAにおいて45年のキャリアを持つR・ホイヤーによって1970年代に開発されたと ...」（https://note.com/ia_wake/n/ne7dcc8132cdf）
   - 「集めた情報を「評価」する技術Admiralty Code・循環報道・ACH・確度表... — Jul 10, 2026 · OSINTは集めて終わりではありません。NATO式の格付け、循環報道の見抜き方、CIA発の分析手法ACH、確度の言語化まで——収集した生の情報を「使える結論」に変える評価工程を体系的に解説します。」（https://yasashii-cybersecurity.com/osint-information-evaluation-guide/）
@@ -13553,11 +13555,11 @@
 
 ## 調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事（investigator triangulation independent coders agreement fact-checking analysts）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ25頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
-- 実例：記載なし（読んだ25頁・検索12回）
+- 手順・やり方：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
+- 実例：記載なし（読んだ19頁・検索12回）
 
 ## 仮説の形（主効果・調整・媒介）を事業・市場の調べ物の仮説に当てはめる書き方（規模で向きが変わる仮説を規模別の表で確かめる）（hypothesis forms moderation mediation business research segment analysis）
 - 文脈：手順
@@ -15014,11 +15016,11 @@
 
 ## 会社を網の目で見る調査報道の手法（関連会社・共通の住所や役員・登記代理人・名義の取締役・監査人の辞任などの危機の印・Graham Barrow・Reynolds Center・GIJN の書き手・4-110）（investigative journalism company network analysis shared addresses directors red flags auditor resignation）
 - 文脈：探し先
-- 手順・やり方：記載なし（読んだ25頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ25頁・検索12回）
-- 実例：記載なし（読んだ25頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 非公開の会社を記録で調べる調査報道の手順（IRE・Investigative Reporters and Editors のティップシート・裁判記録・登記の全件データの一括取得・規制当局の処分の頻度を同業と比べる・不動産の記録・4-111）（IRE tipsheet investigating private companies records court filings business registry bulk data regulatory violations）
 - 文脈：探し先

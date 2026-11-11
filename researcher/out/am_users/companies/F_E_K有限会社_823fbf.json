@@ -1,0 +1,284 @@
+{
+ "name": "F.E.K有限会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T19:24:50.894561+00:00",
+ "official_url": "http://fek-coltd.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "F.E.K | 企業情報 | イプロスものづくり — Feb 2, 2015 · 製造・加工工場からの直送・卸も承って下ります。 極小ロットから大口ロットまでに対応しており、工場直送による新しいコスト削減もご提案を致しております。 JIS規格製品はもちろん、規格外製品の多種多様なサイズ・形状にまで対応。",
+    "url": "https://mono.ipros.com/company/detail/2045555/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 株式会社エフテック - F.techABOUT｜F.A.K.EF.E.K | 企業情報 | イプロスものづくり会社概要 - 株式会社エフ・ケー・シー — 社長（企業）メッセージ Better than Ever 足廻り機能領域の専門メーカーとして世界No.1を目指す。 エフテックの歴史は、挑戦と革新の歴史です。半世紀以上に渡り自動車の進化に応じ、高機能足廻り製品を世界の自動車メーカーに供給してまいりました。 近年、自動車業界は100年に一度の大変革期 ... 株式会社 F.A.K.E F.A.K.E INC. 本社 〒155-0032 東京都世田谷区代沢2-33-13 TEL. 03-6662-8211 （代表） FAX. 03-6662-8212 支社 〒155-0031 東京都世田谷区北沢2-15-15 末広ビル4A TEL. 03-5779-6616 FAX. 03-6",
+    "url": "https://www.ftech.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ABOUT｜F.A.K.EF.E.K | 企業情報 | イプロスものづくり会社概要 - 株式会社エフ・ケー・シー — 株式会社 F.A.K.E F.A.K.E INC. 本社 〒155-0032 東京都世田谷区代沢2-33-13 TEL. 03-6662-8211 （代表） FAX. 03-6662-8212 支社 〒155-0031 東京都世田谷区北沢2-15-15 末広ビル4A TEL. 03-5779-6616 FAX. 03-6453-2387 代表取締役 小倉 丈知 設立 平成18年12月12日 資本金 300万円 取引銀行 みずほ ... Feb 2, 2015 · F.E.Kの企業情報や製品・サービス、関連カタログをご紹介。 Made in JAPANの 確かな技術と新しい自由な発想 信頼性の高い製造・加工製品を提案します。 イプロスものづくりでは、その他製造など製造業向けの",
+    "url": "https://fakenet.asia/about/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "F.E.K有限会社 (@FEK_CoLtd) / X Jul 13, 2014 · F.E.K 有限会社の新たな取組みの一環とし申請を出しておりました、経営革新新案が埼玉県より承認されました。 昨日は寄居町商工会様にて経営革新新案承認授与式が開催され、出席して参りました。 皆様ありがとうございます。",
+    "url": "https://x.com/FEK_CoLtd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Jorg van Boxtel - Calculator bij F.E.K. Metaal B.V. | LinkedInGeneralist Strategy Consultant (M,F,D) - Hybrid arrangementStrategy Associate Consultant, Industrials (M, F, D ...Mario Schulze – Kaufmännischer Geschäftsführer bei F.E.K Gmbh ...FEK - Friedrich-Ebert-Krankenhaus Neumünster GmbH | LinkedIn Calculator bij F.E.K. Metaal B.V. · Ervaring: F.E.K. Metaal B.V. · Opleiding: Koning Willem 1 Coll",
+    "url": "https://nl.linkedin.com/in/jorg-van-boxtel-b9086011b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Effek - Facebookテフロン被服Oリング・テフロンチューブ製造・加工のFEK有限会社御待たせしておりました F.E.K 有限会社... - テフロン被服Oリング・... Effek. 121,998 followers · 68 talking about this. Welcome to our official fan page! Here we'll share with you all about F**K world: news, collections,... Sep 1, 2015 · F.E.K 有限会社です。 国産第1号テフロン被覆Oリングとして F.E.K 有限会社のPFA被覆Oリングは誕生しました。 会社設立25年の実績と55年以上のノウハウとともに 試行錯誤を繰り返して品質向上に努めて参りました。 極短納期！ 場合により当日発送も可能です！ Oct 11",
+    "url": "https://www.facebook.com/fkofficial.it/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://fek-coltd.com",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.few.co.jp/small-lot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f-r-k.co.jp/about/lot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ftcj.co.jp/products/film-prototype/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabercompany.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.freee.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ftech.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fedex.com/ja-jp/customer-support/contact.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gf-k.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.f-ticket.com/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/FEK_CoLtd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/in/jorg-van-boxtel-b9086011b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fkofficial.it/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "F.E.K 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.few.co.jp/small-lot/",
+    "https://f-r-k.co.jp/about/lot",
+    "https://www.ftcj.co.jp/products/film-prototype/",
+    "https://fukuda-kk.com/service/",
+    "https://mono.ipros.com/company/detail/2045555/",
+    "https://mono.ipros.com/company/detail/2045555/category/",
+    "https://www.incom.co.jp/corporation/product_list.php?company_id=8969"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "F.E.K 会社概要 事業内容",
+   "results": [
+    "https://www.fabercompany.co.jp/company/outline/",
+    "https://corp.freee.co.jp/company/",
+    "https://www.ftech.co.jp/company/",
+    "https://fakenet.asia/about/",
+    "https://www.fkc.co.jp/company/",
+    "https://fakenet.asia/",
+    "https://mono.ipros.com/company/detail/2045555/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "F.E.K お問い合わせ メール",
+   "results": [
+    "https://www.fedex.com/ja-jp/customer-support/contact.html",
+    "https://www.gf-k.co.jp/contact/",
+    "https://www.f-ticket.com/お問い合わせ",
+    "https://www.fedex.com/ja-jp/customer-support.html",
+    "https://seikyu.fukuyama-tsuun.com/corp/",
+    "https://www.fightingeagles.jp/inquiry/",
+    "https://freee.my.site.com/HelpCenter/s/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com F.E.K",
+   "results": [
+    "https://note.com/tag/ウォーハンマー40K",
+    "https://note.com/masumikagami0828/n/n8b3e611fe9f8",
+    "https://note.com/benkyokoryaku/n/n256c3be5fe10",
+    "https://tales.note.com/deepstar6/w7f7j1m7k1q06/episodes/e1cdhtwxtj462",
+    "https://tales.note.com/deepstar6/w7f7j1m7k1q06/episodes/e0yvy4bd4kf7a",
+    "https://note.com/nice_sedum8741/n/n7fb89fe79dc3",
+    "https://note.com/fantootkpop/n/n82f8c0e88074?hl=en"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com F.E.K",
+   "results": [
+    "https://x.com/",
+    "https://x.com/pccomponentes/status/2120427055334482142",
+    "https://x.com/FW3AKS/status/2120209112164073662",
+    "https://x.com/FEK_CoLtd",
+    "https://x.com/Marlinefervk",
+    "https://x.com/EDSdt1234/status/2120531968391577765",
+    "https://x.com/piperfjek/status/2117854863254307043"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com F.E.K",
+   "results": [
+    "https://www.linkedin.com/check/en",
+    "https://www.linkedin.com/company/fek-metaal",
+    "https://nl.linkedin.com/in/jorg-van-boxtel-b9086011b",
+    "https://de.linkedin.com/company/friedrich-ebert-krankenhaus-neumünster-gmbh",
+    "https://uk.linkedin.com/jobs/view/generalist-strategy-consultant-m-f-d-hybrid-arrangement-at-l-e-k-consulting-4464235021",
+    "https://uk.linkedin.com/jobs/view/strategy-associate-consultant-industrials-m-f-d-–-london-office-hybrid-arrangement-at-l-e-k-consulting-4478944349",
+    "https://de.linkedin.com/in/mario-schulze-aa9158282"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com F.E.K",
+   "results": [
+    "https://www.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/fkofficial.it/",
+    "https://www.facebook.com/login.php/",
+    "https://www.facebook.com/profile.php/?id=61582114894676",
+    "https://www.facebook.com/p/テフロン被服Oリングテフロンチューブ製造加工のFEK有限会社-100065014683894/",
+    "https://www.facebook.com/permalink.php/?id=764582953565111&story_fbid=807034475986625"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "F.E.K note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "F.E.K X 投稿",
+   "results": [
+    "https://tubesafari.com/search/素人-投稿",
+    "https://x.com/",
+    "https://www.xvideos.com/tags/素人-投稿",
+    "https://www.xvideos.com/?k=、素人投稿",
+    "https://x.com/m_f_n_e_w",
+    "https://mobile-xvideos.com/?k=日本素人投稿動画&sort=relevance&datef=all",
+    "https://jp.xhamster.com/search/japanese+素人+投稿",
+    "https://www.xnxx.com/search/顔出し変態熟女投稿"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索9回）",
+  "取扱製品": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索9回）",
+  "一点物・少量多品種": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索9回）",
+  "製品分野": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部12頁・検索9回）"
+ }
+}

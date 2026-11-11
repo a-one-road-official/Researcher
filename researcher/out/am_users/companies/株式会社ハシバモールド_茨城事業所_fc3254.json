@@ -1,0 +1,301 @@
+{
+ "name": "株式会社ハシバモールド 茨城事業所",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T18:38:30.447510+00:00",
+ "official_url": "http://www.hashiba-shisaku.co.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "ジャストタイムな製品供給を継続する事で、人々の便利で豊かな未来、",
+    "url": "https://hashiba-shisaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(4)",
+    "url": "https://mono.ipros.com/company/detail/2008681/",
+    "pass": 3
+   },
+   {
+    "quote": "ジャストタイムな製品供給を継続する事で、人々の便利で豊かな未来、",
+    "url": "https://mono.ipros.com/company/detail/2008681/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (4)",
+    "url": "https://mono.ipros.com/company/detail/2008681/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://www.ipros.com/company/detail/2008681/",
+    "pass": 3
+   },
+   {
+    "quote": "ジャストタイムな製品供給を継続する事で、人々の便利で豊かな未来、",
+    "url": "https://www.ipros.com/company/detail/2008681/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (1)",
+    "url": "https://www.ipros.com/company/detail/2008681/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "石膏鋳造による試作・小ロット生産｜HASHIBA（ハシバモールド）",
+    "url": "https://hashiba-shisaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "情熱とこだわりが、日本の試作を支えます",
+    "url": "https://hashiba-shisaku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "精密鋳造法の1つである石膏鋳造は、試作や小ロット品の製作に向いており",
+    "url": "https://mono.ipros.com/company/detail/2008681/",
+    "pass": 3
+   },
+   {
+    "quote": "精密鋳造法の1つである石膏鋳造は、試作や小ロット品の製作に向いており",
+    "url": "https://www.ipros.com/company/detail/2008681/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "材料は主にアルミニウム合金ととマグネシウム合金です",
+    "url": "https://mono.ipros.com/company/detail/2008681/",
+    "pass": 3
+   },
+   {
+    "quote": "軽量化や高熱伝導部品として多く利用されており、特殊材を含めた様々な材質提案が可能です",
+    "url": "https://mono.ipros.com/company/detail/2008681/",
+    "pass": 3
+   },
+   {
+    "quote": "材料は主にアルミニウム合金ととマグネシウム合金です",
+    "url": "https://www.ipros.com/company/detail/2008681/",
+    "pass": 3
+   },
+   {
+    "quote": "軽量化や高熱伝導部品として多く利用されており、特殊材を含めた様々な材質提案が可能です",
+    "url": "https://www.ipros.com/company/detail/2008681/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "メーカー各社（自動車、電機、医療機器、光学機器、ロボティクス、エネルギー、流体機器、航空、etc）",
+    "url": "https://mono.ipros.com/company/detail/2008681/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー各社（自動車、電機、医療機器、光学機器、ロボティクス、エネルギー、流体機器、航空、etc）",
+    "url": "https://www.ipros.com/company/detail/2008681/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://hashiba-shisaku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://hashiba-shisaku.co.jp/img/top_008_007.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.joyobank.co.jp/enterpri/monozukuri/2014/02/2-2-09-062.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2008681/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2008681/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/company/detail/2008681/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hashiba-shisaku.co.jp/input.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2008681/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ハシバモールド 茨城事業所 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.hashiba-shisaku.co.jp/company/",
+    "https://www.joyobank.co.jp/enterpri/monozukuri/2014/02/2-2-09-062.html",
+    "https://mono.ipros.com/company/detail/2008681/",
+    "https://mono.ipros.com/company/detail/2008681/category/",
+    "https://www.hashiba-shisaku.co.jp/",
+    "https://ja.nc-net.or.jp/company/39081/",
+    "https://ja.nc-net.or.jp/company/39081/product/1/class/0/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ハシバモールド 茨城事業所 会社概要 事業内容",
+   "results": [
+    "https://www.hashiba-shisaku.co.jp/company/",
+    "https://mono.ipros.com/company/detail/2008681/",
+    "https://www.ipros.com/company/detail/2008681/",
+    "https://metoree.com/companies/1005966/",
+    "https://ja.nc-net.or.jp/company/39081/",
+    "http://www.hashiba-shisaku.co.jp/",
+    "http://www.hashiba-tire-mold.co.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ハシバモールド 茨城事業所 お問い合わせ メール",
+   "results": [
+    "https://hashiba-shisaku.co.jp/input.html",
+    "https://www.hashiba-shisaku.co.jp/company/",
+    "https://mono.ipros.com/company/detail/2008681/",
+    "https://www.ipros.com/company/detail/2008681/",
+    "https://baseconnect.in/branch_offices/94b07577-d9fb-497d-b00c-4930268aa93e",
+    "https://ja.nc-net.or.jp/company/39081/",
+    "http://www.hashiba-tire-mold.co.jp/",
+    "https://workshop-access.com/forum/contact/hashiba_ct.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:note.com ハシバモールド 茨城事業所",
+   "results": [
+    "https://note.com/848farm/n/n7238c133b31e",
+    "https://note.com/th1r230618",
+    "https://note.com/848farm/all",
+    "https://note.com/shiba1014/all",
+    "https://note.com/moldtech/n/n87fae5668570",
+    "https://note.com/clipcorporation/n/ne1423174a980",
+    "https://note.com/yamato_group22/n/ne327ca11f00a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ハシバモールド 茨城事業所",
+   "results": [
+    "https://x.com/HASHIBA_Group",
+    "https://x.com/HASHIBA_Group/status/2120325950516932706",
+    "https://x.com/MuseeLouvre/status/2113583246034313432",
+    "https://x.com/HASHIBA_Group/status/1946071849755902242",
+    "https://x.com/hashibapie",
+    "https://x.com/makarongo",
+    "https://x.com/moja_kazuki/status/2117211166665535502"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ハシバモールド 茨城事業所",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com ハシバモールド 茨城事業所",
+   "results": [
+    "https://www.facebook.com/sisakubisai/posts/53ハシバモールド茨城県-httpwwwhashiba-shisakucojp石膏鋳造-焼失鋳造サンプルの展示見どころ精密石膏鋳造は少量部品試作部品複雑形状部品/1000589593322019/",
+    "https://www.facebook.com/p/ハシバ-マリ-100072448393776/",
+    "https://www.facebook.com/pages/株式会社ハシバテック/465519056813985/",
+    "https://www.facebook.com/ssh1.8483/",
+    "https://www.facebook.com/INTERMOLD/posts/3732711753440329/",
+    "https://www.facebook.com/INTERMOLD/posts/名古屋-intermold金型展金属プレス加工技術展一社日本金型工業会-ブース出展企業のご紹介_________________________________/1840571662654357/",
+    "https://www.facebook.com/HandballElSalvador/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ハシバモールド 茨城事業所 note 社長",
+   "results": [
+    "https://www.hashiba-shisaku.co.jp/company/",
+    "https://mono.ipros.com/company/detail/2008681/",
+    "https://mono.ipros.com/en/company/detail/2008681/",
+    "https://www.ipros.com/company/detail/2008681/",
+    "https://www.jspacesystems.or.jp/jss/wp-content/uploads/2026/08/hashiba-shisaku.co_.pdf",
+    "http://www.hashiba-shisaku.co.jp/",
+    "https://ja.nc-net.or.jp/company/39081/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ハシバモールド 茨城事業所 X 投稿",
+   "results": [
+    "https://x.com/HASHIBA_Group",
+    "https://www.hashiba-shisaku.co.jp/company/",
+    "https://x.com/HASHIBA_Group/status/2120325950516932706",
+    "http://www.hashiba-shisaku.co.jp/",
+    "http://www.hashiba-tire-mold.co.jp/",
+    "https://ja.nc-net.or.jp/company/39081/",
+    "https://workshop-access.com/forum/hashiba.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部6頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部6頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部6頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部6頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部6頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部6頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部6頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部6頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部6頁・検索9回）"
+ }
+}

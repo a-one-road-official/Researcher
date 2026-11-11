@@ -1,0 +1,763 @@
+{
+ "name": "有限会社伊藤製作所",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T19:01:01.259610+00:00",
+ "official_url": "http://www.ito-seisakusyo.ecnet.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒99-0033 長野県松本市笹賀4253-2 TEL0263-88-7484 FAX0263-88-2225",
+    "url": "http://www.ito-seisakusyo.ecnet.jp/2mein.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "第一工場６人",
+    "url": "http://www.ito-seisakusyo.ecnet.jp/2mein.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "第二工場６人",
+    "url": "http://www.ito-seisakusyo.ecnet.jp/2mein.html",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "伊藤　正典",
+    "url": "http://www.ito-seisakusyo.ecnet.jp/2mein.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "１ 樹脂サンプル",
+    "url": "http://www.ito-seisakusyo.ecnet.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "１ 樹脂サンプル",
+    "url": "http://www.ito-seisakusyo.ecnet.jp/2mein.html",
+    "pass": 1
+   },
+   {
+    "quote": "１ 樹脂サンプル",
+    "url": "http://www.ito-seisakusyo.ecnet.jp/6mein.html",
+    "pass": 1
+   },
+   {
+    "quote": "1.SUS316、チタン等難削材の高精度切削加工（量産品切削面粗度3S確保可）",
+    "url": "http://ito-seisakusho.co.jp/seihin.html",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "マシニング加工・アルミ加工・試作加工・（有）伊藤製作所",
+    "url": "http://www.ito-seisakusyo.ecnet.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、難削材の超精密、高精度、加工を得意としており、大量生産から小ロット生産まで幅広く受注に対応しております",
+    "url": "http://ito-seisakusho.co.jp/seihin.html",
+    "pass": 3
+   },
+   {
+    "quote": "設計から手掛けるオーダーメイド製品からマイクロシリンジ標準品まで、100%自社工場で加工一貫生産による製造を行っております",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "個別製品の取り扱いの他、お客様のご要望に合わせた形でオーダーメイドによる製品のご発注も承っております",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "小ロットからの生産も対応しており、より多くのお客様にご満足して頂ける体制をつくっております",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "3D CAD/CAM",
+    "url": "http://www.ito-seisakusyo.ecnet.jp/6mein.html",
+    "pass": 1
+   },
+   {
+    "quote": "2D CAD/CAM",
+    "url": "http://www.ito-seisakusyo.ecnet.jp/6mein.html",
+    "pass": 1
+   },
+   {
+    "quote": "客先のニーズに応え、CAD/CAMを導入",
+    "url": "https://www.itoseisakusho.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "32ビットCAD/CAM 2セット増設",
+    "url": "https://www.itoseisakusho.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "合弁会社へ設備移転の為、プレス 9台、CAD/CAM 4台、MC 2台、ワイヤカット 2台、NCフライス、3次元測定機導入",
+    "url": "https://www.itoseisakusho.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Calamba,Laguna,Philippines",
+    "url": "https://www.itoseisakusho.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Greenland International Industrial Center GIIC-Kota Deltamas,",
+    "url": "https://www.itoseisakusho.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "製品の品質を保証するための検査設備も数多く所有しております",
+    "url": "http://ito-seisakusho.co.jp/seihin.html",
+    "pass": 3
+   },
+   {
+    "quote": "1.切削とバニッシング加工による 非鉄金属（アルミ、ステンレスなど）の表面粗さ3Sto0.8S加工製品",
+    "url": "http://ito-seisakusho.co.jp/seihin.html",
+    "pass": 3
+   },
+   {
+    "quote": "2.切削と転造加工による 非鉄金属（ステンレスなど）の穴明け・ネジ 加工製品",
+    "url": "http://ito-seisakusho.co.jp/seihin.html",
+    "pass": 3
+   },
+   {
+    "quote": "私たち伊藤製作所は、パイプ・ノズルからポンプまで、液体・気体の吸引、吐出に関連する製品の製造販売を行っており、分析化学を始め、医療、製薬、食品、環境、半導体、染料など幅広い分野で製品をお使い頂いております",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、シリンジ製品の取扱い企業として国内トップメーカーに位置づけられているほか、その技術や品質を駆使してパイプ・ノズルなどの製品開発にも成功し医療関係や研究職・開発者の方々に高い支持を得ることが出来ております",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "設計から手掛けるオーダーメイド製品からマイクロシリンジ標準品まで、100%自社工場で加工一貫生産による製造を行っております",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "今後も、高品質な製品を安定的に供給するために成長・発展を続けて参りたいと思います",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちが取り扱っている製品は全て外部への委託はしておらず、社内で加工一貫生産を取り組んでおります",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "個別製品の取り扱いの他、お客様のご要望に合わせた形でオーダーメイドによる製品のご発注も承っております",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "また、国内トップメーカーとしての技術を駆使し、お客様に信頼される製品のご提供に努めております",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様に寄り添った対応で、高い品質、適正な価格、短い納期を実現させ、他社が追随できない高品質・高付加価値製品の開発をこれからも実現させていきます",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "高精度な加工技術、徹底した品質管理、そして課題解決につながる開発力を通じて、安心してご使用いただける製品づくりに取り組んでいます",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "「お客様に満足していただける製品作り」を合言葉に、短納期・低コストで安定した品質をご提供させていただくため、製品製作で必要なあらゆる部品の内製化に取り組んでおります",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "製品1つ1つを人間の目で確認し、厳しい基準をクリアしたもののみ出荷されます",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "多岐にわたる商品ラインナップはもちろんのこと、お客様のご要望に合わせた個別での製品開発も承っております",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "プレス工場製品倉庫を増設（420㎡）",
+    "url": "https://www.itoseisakusho.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "伊藤製作所について｜株式会社伊藤製作所 | マイクロシリンジ、医療機器、パイプ、シリンジ",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "私たち伊藤製作所は、パイプ・ノズルからポンプまで、液体・気体の吸引、吐出に関連する製品の製造販売を行っており、分析化学を始め、医療、製薬、食品、環境、半導体、染料など幅広い分野で製品をお使い頂いております",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "1980年、大手医療機器メーカーよりマイクロシリンジの製造権を取得し、事業をスタートいたしました",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "現在は、シリンジ製品の取扱い企業として国内トップメーカーに位置づけられているほか、その技術や品質を駆使してパイプ・ノズルなどの製品開発にも成功し医療関係や研究職・開発者の方々に高い支持を得ることが出来ております",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "会長の伊藤澄夫は1964年から順送り金型の設計製作とプレス加工を開始しました",
+    "url": "https://www.itoseisakusho.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "また、プラザ合意以降の自動車産業をはじめとする国内企業の海外進出に対応し1996年にフィリピン、2013年にはインドネシアに進出し、時代背景に対応しながら変化を遂げてきました",
+    "url": "https://www.itoseisakusho.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、自動車産業は100年に一度の変革期を迎えています",
+    "url": "https://www.itoseisakusho.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "順送り金型設計製作、プレス部品加工、部品組立",
+    "url": "https://www.itoseisakusho.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "黄金町に工場を新設し、プレス金型製造合理化のため、機械の増設を図る",
+    "url": "https://www.itoseisakusho.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "金型部門の合理化のため、自動プロ、MCを導入",
+    "url": "https://www.itoseisakusho.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "金型部門の合理化のため、100本ツールMCほか関連設備増設",
+    "url": "https://www.itoseisakusho.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "本社金型工場（960㎡）、恒温室（336㎡）の建築",
+    "url": "https://www.itoseisakusho.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "イトーセイサクショフィリピン（ISPC）金型専用工場を新設",
+    "url": "https://www.itoseisakusho.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "順送り金型設計、専用機設計、ダイセツト製作",
+    "url": "https://www.itoseisakusho.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜株式会社伊藤製作所 | マイクロシリンジ、医療機器、パイプ、シリンジ",
+    "url": "https://www.ito-ex.co.jp/jp/form/contact/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "製品 案内 - 株式会社伊藤製作所 — 製品 案内 - 株式会社伊藤製作所 ito-seisakusho.co.jp http://ito-seisakusho.co.jp > seihin",
+    "url": "http://ito-seisakusho.co.jp/seihin.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 伊藤製作所 | マイクロシリンジ、医療機器、パイプ — 株式会社 伊藤製作所 | マイクロシリンジ、医療機器、パイプ ito-ex.co.jp https://www.ito-ex.co.jp > HOME > 伊藤製作所について",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社 伊藤製作所 — 会社概要 - 株式会社 伊藤製作所 itoseisakusho.co.jp https://www.itoseisakusho.co.jp > company",
+    "url": "https://www.itoseisakusho.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社 案内 | 株式 会社伊藤製作所 ｜カラビナ等の連結用品・落下 ... — 会社 案内 | 株式 会社伊藤製作所 ｜カラビナ等の連結用品・落下 ... 株式会社伊藤製作所 https://www.ito123.com > company",
+    "url": "https://www.ito123.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社伊藤製作所 | マイクロシリンジ、医療機器、パイプ — 株式 会社伊藤製作所 | マイクロシリンジ、医療機器、パイプ ito-ex.co.jp https://www.ito-ex.co.jp > HOME > 伊藤製作所について",
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤製作所 | 企業 情報 | イプロスものづくり — 伊藤製作所 | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > その他製造",
+    "url": "https://mono.ipros.com/company/detail/2062712/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 伊藤製作所 (三重県)の 会社概要 ・製品情報 | Metoree — 株式会社 伊藤製作所 (三重県)の 会社概要 ・製品情報 | Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/46239/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ フォーム | 株式会社 伊藤製作所 — お問い合わせ フォーム | 株式会社 伊藤製作所 ito-ex.co.jp https://www.ito-ex.co.jp > contact",
+    "url": "https://www.ito-ex.co.jp/jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 有限会社伊藤製作所 — お問い合わせ - 有限会社伊藤製作所 有限会社伊藤製作所 http://www.itoss.co.jp > contact",
+    "url": "http://www.itoss.co.jp/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 株式会社 伊藤製作所 ｜カラビナ等の連結用品 ... — お問い合わせ | 株式会社 伊藤製作所 ｜カラビナ等の連結用品 ... 株式会社伊藤製作所 https://www.ito123.com > contact",
+    "url": "https://www.ito123.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社 伊藤製作所 — お問い合わせ - 株式会社 伊藤製作所 itoseisakusho.co.jp https://www.itoseisakusho.co.jp > contact",
+    "url": "https://www.itoseisakusho.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 有限会社伊藤製作所 — お問い合わせ - 有限会社伊藤製作所 ito-ss.net https://www.ito-ss.net > contact",
+    "url": "https://www.ito-ss.net/contact",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせ｜株式会社伊藤製作所 | マイクロシリンジ、医療機器、パイプ、シリンジ",
+    "url": "https://www.ito-ex.co.jp/jp/form/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせのご返信は通常 2、3 営業日以内に担当者よりご連絡させていただきます",
+    "url": "http://www.itoss.co.jp/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "数日経っても当社からの返信がない場合は、ご入力いただいたメールアドレスに間違い、又はお客様のメールサーバーなどにより自動的に「迷惑メール」として格納される場合があります",
+    "url": "http://www.itoss.co.jp/contact.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "伊藤製作所 無料Webセミナー｜nana box - note 伊藤製作所 無料Webセミナー｜nana box - note note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/nanamusic/n/n5a327bd4c226",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤製作所 と（株）ランバーミル｜ITO Yosei - note 伊藤製作所 と（株）ランバーミル｜ITO Yosei - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/yosei/n/n1eba9804429e",
+    "pass": 3
+   },
+   {
+    "quote": "【BL小説】友達でいいから 第一章 プロローグ｜ 伊藤製作所 ... 【BL小説】友達でいいから 第一章 プロローグ｜ 伊藤製作所 ... note https://note.com > 創作系 > 小説",
+    "url": "https://note.com/itoh_seisakujo/n/nfad34a6bf942",
+    "pass": 3
+   },
+   {
+    "quote": "親愛なる18年前の僕へ｜ 伊藤製作所 【BL短編小説家】 - note 親愛なる18年前の僕へ｜ 伊藤製作所 【BL短編小説家】 - note note https://note.com > キャリア > キャリア全般",
+    "url": "https://note.com/itoh_seisakujo/n/n020b3d443531",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "伊藤製作所 (芸人兼BL小説家) (@itoseisakujoh) / X 伊藤製作所 (芸人兼BL小説家) (@itoseisakujoh) / X X https://x.com > itoseisakujoh",
+    "url": "https://x.com/itoseisakujoh",
+    "pass": 3
+   },
+   {
+    "quote": "# 伊藤製作所 - Search / X # 伊藤製作所 - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/%E4%BC%8A%E8%97%A4%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤製作所 (芸人兼BL小説家) - X 伊藤製作所 (芸人兼BL小説家) - X X https://x.com > @itoseisakujoh",
+    "url": "https://x.com/itoseisakujoh/status/2086717594200080825",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "北川和彦 Kazuhiko kitagawa - 伊藤製作所 - 総務部長 - LinkedIn 北川和彦 Kazuhiko kitagawa - 伊藤製作所 - 総務部長 - LinkedIn LinkedIn https://jp.linkedin.com > kazuhiko-kitagawa-北川和彦-33...",
+    "url": "https://jp.linkedin.com/in/kazuhiko-kitagawa-%E5%8C%97%E5%B7%9D%E5%92%8C%E5%BD%A6-3369a4127",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "伊藤製作所 - Home | Facebook 伊藤製作所 - Home | Facebook Facebook https://www.facebook.com > pages > 伊藤製作所",
+    "url": "https://www.facebook.com/pages/%E4%BC%8A%E8%97%A4%E8%A3%BD%E4%BD%9C%E6%89%80/218228865586974?locale=en_GB",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 伊藤製作所 | Yatomi-shi Aichi - Facebook 株式会社 伊藤製作所 | Yatomi-shi Aichi - Facebook Facebook https://www.facebook.com > ... > Industrial Company",
+    "url": "https://www.facebook.com/itoseisakusyo/",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤製作所 - Heim | Facebook 伊藤製作所 - Heim | Facebook Facebook https://www.facebook.com > pages > 伊藤製作所",
+    "url": "https://www.facebook.com/pages/%E4%BC%8A%E8%97%A4%E8%A3%BD%E4%BD%9C%E6%89%80/218228865586974?locale=nn_NO",
+    "pass": 3
+   },
+   {
+    "quote": "伊藤製作所 - Home | Facebook 伊藤製作所 - Home | Facebook Facebook https://www.facebook.com > ...",
+    "url": "https://www.facebook.com/198390403997945",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.ito-seisakusyo.ecnet.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ito-seisakusyo.ecnet.jp/2mein.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ito-seisakusyo.ecnet.jp/6mein.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "http://www.ito-seisakusyo.ecnet.jp/sinnmai.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://ito-seisakusho.co.jp/seihin.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itoseisakusho.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ito123.com/company/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ito-ex.co.jp/jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ito-ex.co.jp/jp/form/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.itoss.co.jp/contact.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ito123.com/contact/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nanamusic/n/n5a327bd4c226",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/yosei/n/n1eba9804429e",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/itoh_seisakujo/n/nfad34a6bf942",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/itoseisakujoh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/%E4%BC%8A%E8%97%A4%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/itoseisakujoh/status/2086717594200080825",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/kazuhiko-kitagawa-%E5%8C%97%E5%B7%9D%E5%92%8C%E5%BD%A6-3369a4127",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E4%BC%8A%E8%97%A4%E8%A3%BD%E4%BD%9C%E6%89%80/218228865586974?locale=en_GB",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/itoseisakusyo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E4%BC%8A%E8%97%A4%E8%A3%BD%E4%BD%9C%E6%89%80/218228865586974?locale=nn_NO",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/198390403997945",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/itoh_seisakujo/n/n020b3d443531",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/nanamusic/n/n5a327bd4c226",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/itoseisakujoh",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "伊藤製作所 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "http://ito-seisakusho.co.jp/seihin.html",
+    "https://www.ito-ex.co.jp/jp/about/",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://itou.co.jp/",
+    "https://itoh-mfg.com/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://www.ito123.com/products/",
+    "https://ito-seimitsu.com/qa_cat/試作・小ロット対応/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "伊藤製作所 会社概要 事業内容",
+   "results": [
+    "https://www.itoseisakusho.co.jp/company/",
+    "https://www.ito123.com/company/",
+    "https://www.ito-ex.co.jp/jp/about/",
+    "https://mono.ipros.com/company/detail/2062712/",
+    "https://metoree.com/companies/46239/",
+    "http://ito-seisakusho.co.jp/company.html",
+    "http://www.itoss.co.jp/recruit.html",
+    "https://www.ito-ss.jp/company/index.html",
+    "https://itou.co.jp/recruit/",
+    "https://interia-itoh.com/company/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "伊藤製作所 お問い合わせ メール",
+   "results": [
+    "https://www.ito-ex.co.jp/jp/contact/",
+    "http://www.itoss.co.jp/contact.html",
+    "https://www.ito123.com/contact/",
+    "https://www.itoseisakusho.co.jp/contact/",
+    "https://www.ito-ss.net/contact",
+    "https://itocoat.co.jp/contact/",
+    "https://itou-seisakusho.jimdofree.com/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "https://itoh-ss.co.jp/contact/",
+    "https://ito-seisakusyo.co.jp/privacypolicy/",
+    "https://ito-seisakusyo.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com 伊藤製作所",
+   "results": [
+    "https://note.com/nanamusic/n/n5a327bd4c226",
+    "https://note.com/yosei/n/n1eba9804429e",
+    "https://note.com/itoh_seisakujo/n/nfad34a6bf942",
+    "https://note.com/itoh_seisakujo/n/n6e4cd626bd60",
+    "https://note.com/itoh_seisakujo/n/n020b3d443531",
+    "https://note.com/itoh_seisakujo/n/nd4a9581bf893",
+    "https://note.com/yosei/n/nb5339ab50e7d",
+    "https://note.com/itoh_seisakujo/n/nb307719f663a?sub_rt=share_b",
+    "https://note.com/itoh_seisakujo/n/nfa59549c8d08",
+    "https://note.com/itoh_seisakujo/n/n03e83d473cab?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 伊藤製作所",
+   "results": [
+    "https://x.com/itoseisakujoh",
+    "https://x.com/hashtag/%E4%BC%8A%E8%97%A4%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://x.com/itoseisakusho",
+    "https://x.com/itoseisakujoh/status/2086717594200080825",
+    "https://x.com/itoseisakujoh/status/2119983151720419439",
+    "https://x.com/itoseisakujoh/status/2096154381725135027",
+    "https://x.com/itoseisakujoh/status/2058097738949255344",
+    "https://x.com/hashtag/11%E6%9C%8811%E6%97%A5%E3%81%AF%E4%BC%8A%E8%97%A4%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E6%97%A5",
+    "https://x.com/itoseisakujoh/status/2115309506334986568",
+    "https://x.com/itoseisakusho1"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com 伊藤製作所",
+   "results": [
+    "https://jp.linkedin.com/in/kazuhiko-kitagawa-%E5%8C%97%E5%B7%9D%E5%92%8C%E5%BD%A6-3369a4127",
+    "https://www.linkedin.com/pub/dir/Kazuhiko/%E5%92%8C%E5%BD%A6",
+    "https://www.linkedin.com/posts/hitachi-%E2%80%93-global-research_%E6%97%A5%E7%AB%8B%E8%A3%BD%E4%BD%9C%E6%89%80%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E7%A0%94%E7%A9%B6%E5%93%A1%E6%97%A9%E7%A8%B2%E7%94%B0%E5%A4%A7%E5%AD%A6%E5%AE%A2%E5%93%A1%E7%A0%94%E7%A9%B6%E5%93%A1%E3%81%AE%E4%BC%8A%E8%97%A4-%E6%B4%8B%E3%81%8C%E6%B7%B1%E5%B1%A4%E4%BA%88%E6%B8%AC%E5%AD%A6%E7%BF%92%E3%81%AE%E9%96%8B%E7%99%BA-activity-7267131748990230528-fDwW",
+    "https://jp.linkedin.com/in/shinichi-ito-1a729443/ja",
+    "https://jp.linkedin.com/in/yutaro-ito",
+    "https://www.linkedin.com/pub/dir/Shinobu/Watanabe",
+    "https://jp.linkedin.com/in/%E6%AD%A3%E6%98%8E-%E4%BC%8A%E8%97%A4-431658334",
+    "https://jp.linkedin.com/in/%E5%8F%8B%E4%BB%8B-%E4%BC%8A%E8%97%A4-0b11a2286",
+    "https://jp.linkedin.com/in/%E5%89%9B-%E4%BC%8A%E8%97%A4-7a594728b"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 伊藤製作所",
+   "results": [
+    "https://www.facebook.com/pages/%E4%BC%8A%E8%97%A4%E8%A3%BD%E4%BD%9C%E6%89%80/218228865586974?locale=en_GB",
+    "https://www.facebook.com/itoseisakusyo/",
+    "https://www.facebook.com/pages/%E4%BC%8A%E8%97%A4%E8%A3%BD%E4%BD%9C%E6%89%80/218228865586974?locale=nn_NO",
+    "https://www.facebook.com/198390403997945",
+    "https://www.facebook.com/robotdigest/photos/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%8C%E6%B4%BB%E8%BA%8D%E3%81%99%E3%82%8B%E7%8F%BE%E5%A0%B4-vol57%EF%BC%93%E5%8F%B0%EF%BC%91%E7%B5%84%E3%81%AE%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%81%E3%83%BC%E3%83%A0%E3%81%8C%E3%81%8D%E3%81%A4%E3%81%84%E4%BD%9C%E6%A5%AD%E3%82%92%E8%82%A9%E4%BB%A3%E3%82%8F%E3%82%8A%E4%BC%8A%E8%97%A4%E8%A3%BD%E4%BD%9C%E6%89%80httpswwwrobot-digestcomnewarticleid/1396907379116377/",
+    "https://www.facebook.com/100047610523482/photos/1894399360815811/",
+    "https://www.facebook.com/toyokazu.it/photos/",
+    "https://www.facebook.com/ZhuShiHuiSheYiTengJingMiGongJuZhiZuoSuo/",
+    "https://www.facebook.com/61585032213224/",
+    "https://www.facebook.com/100054527886292/posts/1626890384088835/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "伊藤製作所 note 社長",
+   "results": [
+    "https://note.com/itoh_seisakujo/n/n020b3d443531",
+    "https://search.rakuten.co.jp/search/mall/%E4%BC%8A%E8%97%A4%E8%A3%BD%E4%BD%9C%E6%89%80+%E3%82%A2%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9%E3%83%88+%E3%83%8E%E3%83%BC%E3%83%88/",
+    "https://note.com/nanamusic/n/n5a327bd4c226",
+    "https://x.com/itoseisakujoh",
+    "https://note.com/yosei/n/n1eba9804429e",
+    "https://www.amazon.co.jp/%E4%BC%8A%E8%97%A4%E8%A3%BD%E4%BD%9C%E6%89%80-%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-E12%E7%B3%BB%E5%B0%82%E7%94%A8-%E3%82%A2%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%B9%E3%83%88-NOA-1/dp/B00I4GQ5TM",
+    "https://www.askul.co.jp/p/AAR7747/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "伊藤製作所 X 投稿",
+   "results": [
+    "https://x.com/itoseisakusho?lang=ja",
+    "https://www.itoseisakusho.co.jp/movies/",
+    "https://www.youtube.com/watch?v=vS59wj1MVVw",
+    "https://www.ito123.com/",
+    "https://www.ito-ex.co.jp/jp/contact/",
+    "https://ito-seisakusyo.co.jp/",
+    "https://www.ito-ss.jp/works/index3.html",
+    "https://www.openwork.jp/company.php?m_id=a0C10000014tQQF",
+    "https://x.com/itoseisakujoh",
+    "https://lmlab.net/posts.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部23頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部23頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部23頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部23頁・検索9回）"
+ }
+}

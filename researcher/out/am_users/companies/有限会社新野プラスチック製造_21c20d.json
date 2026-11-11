@@ -1,0 +1,607 @@
+{
+ "name": "有限会社新野プラスチック製造",
+ "aliases": [],
+ "context": "ipros_all:多品種",
+ "researched_at": "2026-11-11T18:33:43.172903+00:00",
+ "official_url": "https://sinno-ps.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "平林 明",
+    "url": "https://sinno-ps.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 平林 明",
+    "url": "https://www.crtj.co.jp/news/information/entry-857/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　平林　明",
+    "url": "https://nagano-pma.jp/%E4%BC%9A%E5%93%A1%E5%90%8D%E7%B0%BF%E3%80%90%E6%AD%A3%E4%BC%9A%E5%93%A1%E3%80%91%E3%88%B2%E6%96%B0%E9%87%8E%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E8%A3%BD%E9%80%A0",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "精密プラスチック成形加工及びモールド金型設計・製作",
+    "url": "https://sinno-ps.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "精密プラスチック成形加工及びモールド金型設計・製作",
+    "url": "https://www.crtj.co.jp/news/information/entry-857/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "20名",
+    "url": "https://sinno-ps.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "20名",
+    "url": "https://mono.ipros.com/company/detail/2113439/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "20名",
+    "url": "https://www.crtj.co.jp/news/information/entry-857/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒383-0034　長野県中野市大字新野725",
+    "url": "https://sinno-ps.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "長野県中野市大字新野725",
+    "url": "https://www.crtj.co.jp/news/information/entry-857/",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "〒383-0034 長野県中野市新野725",
+    "url": "https://nagano-pma.jp/%E4%BC%9A%E5%93%A1%E5%90%8D%E7%B0%BF%E3%80%90%E6%AD%A3%E4%BC%9A%E5%93%A1%E3%80%91%E3%88%B2%E6%96%B0%E9%87%8E%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E8%A3%BD%E9%80%A0",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "製品分野": [
+   {
+    "quote": "精密プラスチック成形加工及びモールド金型設計・製作",
+    "url": "https://sinno-ps.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "金型設計及び製作、射出成形事業を通じて、",
+    "url": "https://sinno-ps.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "ｃ射出成形モールド金型 設計・製作業務 駐車場 あり",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・金型修理、調整、メンテナンス",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "プラスチック製品のモールド金型設計、又は金型製作業務経験者 賃",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "あありり（前年度実績 あり）普通自動車運転免許 必須 （AT限定可）",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "精密プラスチック成形加工、及びモールド金型設計・製作",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "あありり（前年度実績 あり）普通自動車運転免許 必須 （AT限定可）",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "精密プラスチック成形加工、及びモールド金型設計・製作",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(有)新野プラスチック製造は、金型設計及び製作、射出成形事業を通じて、",
+    "url": "https://mono.ipros.com/company/detail/2113439/",
+    "pass": 3
+   },
+   {
+    "quote": "◎精密プラスチック成形加工及びモールド金型設計・製作",
+    "url": "https://mono.ipros.com/company/detail/2113439/",
+    "pass": 3
+   },
+   {
+    "quote": "・半導体搬送トレイ （2インチ・3インチ・4インチ）",
+    "url": "https://mono.ipros.com/company/detail/2113439/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 ：精密プラスチック成形加工及びモールド金型設計・製作",
+    "url": "https://www.crtj.co.jp/news/information/entry-857/",
+    "pass": 3
+   },
+   {
+    "quote": "精密電気部品/医療部品/住宅関連部品/半導体パッケージ/製品設計/金型製作",
+    "url": "https://nagano-pma.jp/%E4%BC%9A%E5%93%A1%E5%90%8D%E7%B0%BF%E3%80%90%E6%AD%A3%E4%BC%9A%E5%93%A1%E3%80%91%E3%88%B2%E6%96%B0%E9%87%8E%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E8%A3%BD%E9%80%A0",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "社内には射出成形機13台あり、15ｔ～100ｔまで0.1ｇの物から、最大100ｇまでの製品を作る事が可能です",
+    "url": "https://sinno-ps.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "設備は常に更新し、高安定・高品質製品を供給できるよう目指しております",
+    "url": "https://sinno-ps.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "品質を最優先で考え、お客さまの信頼と満足を得るためにニーズに合った良い製品とサービスを提供します",
+    "url": "https://sinno-ps.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "あらゆる分野のニーズに対応した製品製造、開発を行っています",
+    "url": "https://sinno-ps.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製造部門で、プラスチック製品量産の業務を行っています",
+    "url": "https://sinno-ps.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様へよりよい製品をお届けするため、",
+    "url": "https://sinno-ps.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "自分の関わった製品で、一人でも多くの人が笑顔になってもらえるように、",
+    "url": "https://sinno-ps.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "オンライン自主応募不可 工業用プラスチック製品製183",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "変更範囲：製品の測定業務、成形加工補助業務",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "プラスチック製品のモールド金型設計、又は金型製作業務経験者 賃",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "あらゆる分野でのニーズに対応した製品製造、開発を目指し、",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "オンライン自主応募不可 工業用プラスチック製品製183",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・プラスチック製品の品質管理、クレーム対応",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "変更範囲：製品の測定業務、成形加工補助業務",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "プラスチック製品の品質管理業務経験者、又は成形加工オペレータ",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "あらゆる分野でのニーズに対応した製品製造、開発を目指し、",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品・サービス(7)",
+    "url": "https://mono.ipros.com/company/detail/2113439/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (7)",
+    "url": "https://mono.ipros.com/company/detail/2113439/",
+    "pass": 3
+   },
+   {
+    "quote": "精密電気部品/医療部品/住宅関連部品/半導体パッケージ/製品設計/金型製作",
+    "url": "https://nagano-pma.jp/%E4%BC%9A%E5%93%A1%E5%90%8D%E7%B0%BF%E3%80%90%E6%AD%A3%E4%BC%9A%E5%93%A1%E3%80%91%E3%88%B2%E6%96%B0%E9%87%8E%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E8%A3%BD%E9%80%A0",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "樹脂素材を基盤とした総合成形加工会社として成長をしてまいりました",
+    "url": "https://sinno-ps.co.jp/company/greeting/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "・プラスチック成形品の試作、初品検査 他",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・成形品の多品種少量生産、インサート成形も対応致します",
+    "url": "https://mono.ipros.com/company/detail/2113439/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "エクセル、ワード操作、ＰＣメール送受信 通勤手当正社員登用 月額 15,000 円実費支給（上限あり）正社員登用の実績（過去３年間）",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "求職者マイページに連絡 郵送 電話 その他＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ Eメール",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Eメール＝＝＝＝＝＝＝＝＝＝＝＝ 郵送週休二日制 その他 持参",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-2.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "エクセル、ワード操作、ＰＣメール送受信 通",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "方法 求職者マイページに連絡 郵送 電話 その他＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ Eメール",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-3.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Eメール＝＝＝＝＝＝＝＝＝＝＝＝ 郵送週休二日制 毎 週 持参",
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-3.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 ・沿革 - 有限会社 新野プラスチック製造 — 会社概要 ・沿革 - 有限会社 新野プラスチック製造 新野プラスチック製造 https://sinno-ps.co.jp > 会社案内",
+    "url": "https://sinno-ps.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "新野プラスチック製造 | 企業情報 | イプロスものづくり — 新野プラスチック製造 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 樹脂・プラスチック",
+    "url": "https://mono.ipros.com/company/detail/2113439/",
+    "pass": 3
+   },
+   {
+    "quote": "(有) 新野プラスチック製造 、子会社化のお知らせ — (有) 新野プラスチック製造 、子会社化のお知らせ セラテックジャパン株式会社 https://www.crtj.co.jp > お知らせ > お知らせ",
+    "url": "https://www.crtj.co.jp/news/information/entry-857/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 新野プラスチック製造 （長野県）の 会社概要 ・役員 — 有限会社 新野プラスチック製造 （長野県）の 会社概要 ・役員 Compalyze https://compalyze.co.jp > 企業検索 > 化学・素材",
+    "url": "https://compalyze.co.jp/company/9100002017957",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 新野プラスチック製造 – ゆたかな人と社会をめざして — 有限会社 新野プラスチック製造 – ゆたかな人と社会をめざして 新野プラスチック製造 https://sinno-ps.co.jp",
+    "url": "https://sinno-ps.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "新野プラスチック製造 - 長野県プラスチック工業会 — 新野プラスチック製造 - 長野県プラスチック工業会 長野県プラスチック工業会 https://nagano-pma.jp > 会員名簿【正会員】㈲新野プラ...",
+    "url": "https://nagano-pma.jp/%E4%BC%9A%E5%93%A1%E5%90%8D%E7%B0%BF%E3%80%90%E6%AD%A3%E4%BC%9A%E5%93%A1%E3%80%91%E3%88%B2%E6%96%B0%E9%87%8E%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E8%A3%BD%E9%80%A0",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sinno-ps.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sinno-ps.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sinno-ps.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sinno-ps.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sinno-ps.co.jp/company/greeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sinno-ps.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sinno-ps.co.jp/wp-content/uploads/2026/06/260605-3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sinno-ps.com/wp-content/uploads/2024/03/%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2113439/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crtj.co.jp/news/information/entry-857/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2113439/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nagano-pma.jp/%E4%BC%9A%E5%93%A1%E5%90%8D%E7%B0%BF%E3%80%90%E6%AD%A3%E4%BC%9A%E5%93%A1%E3%80%91%E3%88%B2%E6%96%B0%E9%87%8E%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E8%A3%BD%E9%80%A0",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "新野プラスチック製造 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://www.kknaigai.co.jp/column/",
+    "https://www.techno-labo.com/",
+    "https://www.slkco.jp/column/inject/knowledge/small-lot",
+    "https://www.gkn.co.jp/blog/prototype-mold/",
+    "https://kishimotokogyo.co.jp/archives/original-small-lot/",
+    "https://www.daytech.co.jp/reason/prototype-mold",
+    "https://sinno-ps.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "新野プラスチック製造 会社概要 事業内容",
+   "results": [
+    "https://sinno-ps.co.jp/company/outline/",
+    "https://mono.ipros.com/company/detail/2113439/",
+    "https://www.crtj.co.jp/news/information/entry-857/",
+    "http://www.hokupura.jp/kumiaiin06.htm",
+    "https://compalyze.co.jp/company/9100002017957",
+    "https://mitsukijapan.com/ma/interviews/102/",
+    "https://sinno-ps.co.jp/business/",
+    "https://salesnow.jp/db/companies/jcba8f4m9aavek0b6",
+    "https://nagano-pma.jp/%E4%BC%9A%E5%93%A1%E5%90%8D%E7%B0%BF%E3%80%90%E6%AD%A3%E4%BC%9A%E5%93%A1%E3%80%91%E3%88%B2%E6%96%B0%E9%87%8E%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E8%A3%BD%E9%80%A0",
+    "https://sinno-ps.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "新野プラスチック製造 お問い合わせ メール",
+   "results": [
+    "https://mono.ipros.com/company/detail/2113439/",
+    "https://sinno-ps.co.jp/",
+    "https://nagano-pma.jp/%E4%BC%9A%E5%93%A1%E5%90%8D%E7%B0%BF%E3%80%90%E6%AD%A3%E4%BC%9A%E5%93%A1%E3%80%91%E3%88%B2%E6%96%B0%E9%87%8E%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E8%A3%BD%E9%80%A0",
+    "https://www.crtj.co.jp/news/information/entry-857/",
+    "http://www.hokupura.jp/kumiaiin06.htm",
+    "https://mitsukijapan.com/ma/interviews/102/",
+    "https://www.shinshu-nakano.jp/shops/corp/shinnoplastic-seizou",
+    "https://saiplus.jp/special/847/",
+    "https://compalyze.co.jp/company/9100002017957",
+    "https://sinno-ps.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 新野プラスチック製造",
+   "results": [
+    "https://note.com/bioplastic/n/n79c80fc7c247",
+    "https://note.com/atelier_nakano/n/n4c30161928f6",
+    "https://note.com/loyal_ivy9071/n/nb93424299523",
+    "https://note.com/clipcorporation/n/n1c9bfdb464b5",
+    "https://note.com/owaraianime/n/nd3ec182dcff3",
+    "https://note.com/dakudhigura/n/n015677b91218",
+    "https://note.com/metal_attitude/all",
+    "https://note.com/nengineering/n/n07c181c4bfe7",
+    "https://note.com/e_p/n/n75d562e5a0b7",
+    "https://note.com/qy_research/n/ncd7a305e1612"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com 新野プラスチック製造",
+   "results": [
+    "https://x.com/TCTJapan",
+    "https://x.com/shashinhatomyo",
+    "https://x.com/midi_o"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 3
+  },
+  {
+   "query": "site:linkedin.com 新野プラスチック製造",
+   "results": [
+    "https://jp.linkedin.com/in/%E6%B4%8B%E4%BB%8B-%E4%B8%8A%E6%9D%91-0540862a2",
+    "https://jp.linkedin.com/in/will-e",
+    "https://jp.linkedin.com/in/由佳-新野-7b8965355",
+    "https://jp.linkedin.com/in/新野-圭二郎-0294a671",
+    "https://www.linkedin.com/company/limk",
+    "https://www.linkedin.com/in/susumukudo/ja",
+    "https://cl.linkedin.com/in/paul-andrés-chateau-undurraga-8266842b7",
+    "https://nl.linkedin.com/in/rima-husseini-8873a6364",
+    "https://tw.linkedin.com/company/asctefpass"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 新野プラスチック製造",
+   "results": [
+    "https://www.facebook.com/groups/466713326872071/posts/3279163175627058/",
+    "https://www.facebook.com/JMIDassociation/",
+    "https://www.facebook.com/100070758462503/photos/%E3%81%A8%E3%82%8C%E3%81%A8%E3%82%8C%E3%83%9E%E3%83%AB%E3%82%B7%E3%82%A7%E9%96%8B%E5%82%AC32%E5%9C%9F%E9%98%BF%E5%8D%97%E5%B8%82%E9%82%A3%E8%B3%80%E5%B7%9D%E7%94%BA%E3%81%AB%E3%81%82%E3%82%8B%EF%BD%8A%EF%BD%81%E7%94%A3%E7%9B%B4%E5%B8%82%E3%81%A8%E3%82%8C%E3%81%A8%E3%82%8C%E5%B8%82%E5%85%AC%E6%96%B9%E3%81%A7%E3%83%9E%E3%83%AB%E3%82%B7%E3%82%A7%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E6%8E%A1%E3%82%8C%E3%81%9F%E3%81%A6%E3%81%AE%E8%BE%B2%E7%94%A3%E7%89%A9%E3%82%84%E6%B5%B7%E7%94%A3%E7%89%A9%E3%81%AE%E3%81%BB%E3%81%8B%E3%82%B7%E3%83%95%E3%82%A9%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%AD%E3%82%84%E3%83%91%E3%83%B3%E3%81%AA%E3%81%A9%E3%81%AE%E5%8A%A0%E5%B7%A5%E5%93%81%E3%81%95%E3%82%89%E3%81%AB/425420573159888/",
+    "https://www.facebook.com/ohyamafoods/videos/%E5%AE%AE%E5%B4%8E%E5%B8%82%E6%97%A5%E3%81%AE%E5%87%BA%E7%94%BA%E3%81%AB%E7%9B%B4%E5%A3%B2%E6%89%80%E3%81%8Copen%E3%81%B2%E3%81%A8%E3%81%A4%E3%81%B0%E6%B8%AF%E3%81%AE%E9%A7%85%E9%A3%9F%E5%BD%A9%E5%B8%82%E5%A0%B4%E5%96%B6%E6%A5%AD%E6%99%82%E9%96%93-9001800%E5%AE%9A%E4%BC%91%E6%97%A5-%E6%AF%8E%E9%80%B1%E6%B0%B4%E6%9B%9C%E6%97%A5%E5%A0%B4%E6%89%80-coco%E5%A3%B1%E7%95%AA%E5%B1%8B%E5%AE%AE%E5%B4%8E%E6%97%A5%E3%81%AE%E5%87%BA%E7%94%BA%E5%BA%97%E3%81%95%E3%82%93%E3%81%AE%E7%9B%AE%E3%81%AE%E5%89%8D%E4%BB%8A%E6%97%A5%E3%82%84%E3%81%A3%E3%81%A8%E8%A1%8C%E3%81%91%E3%81%9F%E3%81%AE/1038378082265665/",
+    "https://www.facebook.com/hayashiwax.yamagata/videos/1153886620441152/",
+    "https://www.facebook.com/8jo.yamadaya/posts/%E7%B4%A0%E6%95%B5%E3%81%AA%E5%85%AB%E4%B8%88%E5%B3%B6%E3%81%AE%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E3%82%92%E7%BD%AE%E3%81%8B%E3%81%9B%E3%81%A6%E3%82%82%E3%82%89%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99%E5%85%AB%E4%B8%88%E5%B3%B6%E5%85%AB%E4%B8%88%E5%B3%B6%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E5%8D%93%E4%B8%8A%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BChirokundodesho%E6%9E%97%E5%86%AC%E4%BA%BA%E5%86%99%E7%9C%9F%E4%BA%8B%E5%8B%99%E6%89%80%E5%86%85%E5%B1%B1%E5%BA%83%E8%B7%AF/639210534875242/",
+    "https://www.facebook.com/groups/1495088254046106/",
+    "https://www.facebook.com/harmoniakobekitano/",
+    "https://www.facebook.com/obusemilk/?locale=ca_ES",
+    "https://www.facebook.com/groups/677944195594011/posts/25844988925129524/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "新野プラスチック製造 note 社長",
+   "results": [
+    "https://sinno-ps.co.jp/",
+    "https://mono.ipros.com/company/detail/2113439/",
+    "https://nagano-pma.jp/%E4%BC%9A%E5%93%A1%E5%90%8D%E7%B0%BF%E3%80%90%E6%AD%A3%E4%BC%9A%E5%93%A1%E3%80%91%E3%88%B2%E6%96%B0%E9%87%8E%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E8%A3%BD%E9%80%A0",
+    "https://www.crtj.co.jp/news/information/entry-857/",
+    "https://mitsukijapan.com/ma/interviews/102/",
+    "http://www.hokupura.jp/kumiaiin06.htm",
+    "https://note.com/tag/%E5%B0%84%E5%87%BA%E6%88%90%E5%BD%A2",
+    "https://saiplus.jp/special/847/",
+    "https://compalyze.co.jp/company/9100002017957",
+    "https://nagano-pma.jp/会員名簿【正会員】㈲新野プラスチック製造"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "新野プラスチック製造 X 投稿",
+   "results": [
+    "https://sinno-ps.co.jp/",
+    "https://mono.ipros.com/company/detail/2113439/",
+    "http://www.hokupura.jp/kumiaiin06.htm",
+    "https://www.crtj.co.jp/news/information/entry-857/",
+    "https://nagano-pma.jp/%E4%BC%9A%E5%93%A1%E5%90%8D%E7%B0%BF%E3%80%90%E6%AD%A3%E4%BC%9A%E5%93%A1%E3%80%91%E3%88%B2%E6%96%B0%E9%87%8E%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E8%A3%BD%E9%80%A0",
+    "https://saiplus.jp/special/847/",
+    "https://mitsukijapan.com/ma/interviews/102/",
+    "https://sinno-ps.co.jp/company/outline/",
+    "https://sinno-ps.co.jp/company/",
+    "https://www.youtube.com/watch?v=ShVbV_MNzF0"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部7頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部7頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部7頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式6頁／PDF・画像3件／外部7頁・検索9回）"
+ }
+}

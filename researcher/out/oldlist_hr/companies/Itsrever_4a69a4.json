@@ -1,0 +1,842 @@
+{
+ "name": "Itsrever",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T19:02:25.911883+00:00",
+ "official_url": "https://itsrever.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "19-Jun-2023 $8.08M $9.2M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "01-Apr-2022 $1.1M $1.1M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "📆 157 RETURNS PROCESSED & RETAINED €25,000 📈",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Turn potential returns into opportunities for retention and upselling with REVER’s powerful exchange platform.",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Automate your returns process while unlocking new opportunities for re-engagement and upselling.",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "REVER’s team works with you to create custom integrations that meet your business needs and fully optimize your returns process.",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline your returns process with automated workflows that do the hard work for you, so you can focus on growing your business.",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "REVER offers integrations with leading third-party logistics providers and shipping carriers. Easily manage your returns across multiple channels and geographies with a wide range of shipping options.",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "HOFF aims to reach 100 million euros by 2025, driven by agreements with El Corte Inglés and expansion into new international markets. Within this growth, REVER plays a crucial role in retention.",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Adidas strengthens its operations with REVER through improved warranties, seamless logistics, ERP and warehouse integration",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "I received the refund very promptly thank you",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "I am particularly impressed with the return label for international shipping and how easy it was to drop off at UPS",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Customer of Project Lobster",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Todo perfecto, rápido y sin rodeos. Sin duda volveré a comprar",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Todo muy bien, sin hacer falta imprimir la etiqueta y muy rápido",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "REVER is a returns management solution designed to streamline the returns process for eCommerce. It delivers fast, frictionless and sustainable returns, helping to improve customer satisfaction, reduce operational costs and increase overall efficiency.",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "How does REVER improve the customer experience?",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "By offering a simple and convenient returns process, REVER ensures that your customers have a positive experience when returning products, resulting in increased loyalty and repeat purchases.",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "REVER integrates seamlessly with popular eCommerce platforms such as Shopify, WooCommerce, Magento and PrestaShop. Our team will work closely with you to ensure a smooth integration process and provide the necessary guidance and support.",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, REVER supports international returns. Our platform is designed to handle returns from customers around the world, providing a consistent and efficient returns experience for your global customer base.",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "REVER automates many aspects of the returns process, including tracking, processing and managing customer queries. By offering self-service options and real-time updates, customers can easily track the status of their returns, reducing the need for support tickets.",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "REVER provides a complete returns management engine that integrates deeply with your e-commerce platform. Whether you're on Shopify, Magento, WooCommerce, or a custom-built platform, REVER handles the full return lifecycle: from customer-initiated returns to refunds, exchanges, and inventory restocking.",
+    "url": "https://docs.itsrever.com/guides",
+    "pass": 3
+   },
+   {
+    "quote": "REVER provides 3 main APIs:",
+    "url": "https://docs.itsrever.com/guides",
+    "pass": 3
+   },
+   {
+    "quote": "We receive any product in 24h anywhere on the planet, but... Why can't we also return & get refunded just as quickly?",
+    "url": "https://www.ycombinator.com/companies/rever",
+    "pass": 3
+   },
+   {
+    "quote": "to make the collection process easier and faster too, and centralize the information in a single dashboard (SaaS) that enables eComs to manage their returns more efficiently.",
+    "url": "https://www.ycombinator.com/companies/rever",
+    "pass": 3
+   },
+   {
+    "quote": "Marius, while at Glovo as Global Head of Logistics, was approached by multiple clients (Aliexpress, Apple, Nike, etc.) who wanted a solution for returns management, Glovo was offering them a Last Mile solution, but they also needed a solution for returns.",
+    "url": "https://www.ycombinator.com/companies/rever",
+    "pass": 3
+   },
+   {
+    "quote": "Account Executive Spain (Enterprise)",
+    "url": "https://www.ycombinator.com/companies/rever",
+    "pass": 3
+   },
+   {
+    "quote": "REVER 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of technologies designed to create a new category in the e-commerce space. The company's platform revolutionizes the entire post-sale process, from returns to re-sales, reviews, and beyond, empowering businesses to grow and scale by providing them with the tools they need to succeed, enabling clients with frictionless, superfast, and sustainable returns anytime and anywhere.",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "3. Secondary Transaction - Private",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "01-Apr-2022",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "Private Equity-Backed",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "REVER’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "Is REVER a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "REVER is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/itsrever.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/itsrever.com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Adidas strengthens its operations with REVER through improved warranties, seamless logistics, ERP and warehouse integration",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "REVER offers integrations with leading third-party logistics providers and shipping carriers. Easily manage your returns across multiple channels and geographies with a wide range of shipping options.",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "+46% withholding tax on refund revenue",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "more revenue in 2023",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Adidas strengthens its operations with REVER through improved warranties, seamless logistics, ERP and warehouse integration",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "revenue growth in 2023",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "4% of your revenue.",
+    "url": "https://www.itsrever.com/en",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/itsrever.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/itsrever.com",
+    "pass": 3
+   },
+   {
+    "quote": "REVER is currently handling +100M€ in yearly returns, with more than 50M€ in revenues",
+    "url": "https://www.ycombinator.com/companies/rever",
+    "pass": 3
+   },
+   {
+    "quote": "+50 logistics carriers",
+    "url": "https://www.ycombinator.com/companies/rever",
+    "pass": 3
+   },
+   {
+    "quote": "Oriol carried out the reverse logistics strategic plan USA's biggest carrier while at BCG and, working at Bank of America Merrill Lynch, participated a series of multi-billion deals involving the world's biggest fashion marketplaces and detected that returns are a critical part of the operations and financial performance for eCommerce.",
+    "url": "https://www.ycombinator.com/companies/rever",
+    "pass": 3
+   },
+   {
+    "quote": "Carrer Industria 58",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "REVER has 65 total employees.",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "What is REVER’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for REVER is",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   },
+   {
+    "quote": "REVER Revenue 2024: $5.3M Est.",
+    "url": "https://getlatka.com/companies/itsrever.com",
+    "pass": 3
+   },
+   {
+    "quote": "REVER has not published its revenue. GetLatka estimates it at about $5.3M a year (June 2024).",
+    "url": "https://getlatka.com/companies/itsrever.com",
+    "pass": 3
+   },
+   {
+    "quote": "REVER CEO, founders & employees",
+    "url": "https://getlatka.com/companies/itsrever.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marius Montmany founded REVER in 2022 and runs it as CEO. REVER had 35 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/itsrever.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is REVER's revenue?",
+    "url": "https://getlatka.com/companies/itsrever.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates REVER's revenue at about",
+    "url": "https://getlatka.com/companies/itsrever.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does REVER have?",
+    "url": "https://getlatka.com/companies/itsrever.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/itsrever.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/itsrever.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/itsrever.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/itsrever.com",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "A customizable whitelabel returns portal for eCommerce and retailers of the world, so that their end customers are able to request returns in",
+    "url": "https://www.ycombinator.com/companies/rever",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "We are offering a 1-month free trial to retailers that want to join the future of eCommerce. If you are struggling with your returns, send us an email at",
+    "url": "https://www.ycombinator.com/companies/rever",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "REVER API Integration Guide - docs.itsrever.com — Support For integration support: Email: developer@itsrever.com Website: https://itsrever.com Documentation: Available through OpenAPI specification",
+    "url": "https://docs.itsrever.com/guides",
+    "pass": 3
+   },
+   {
+    "quote": "REVERの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — 本ページの企業情報は、公式サイト（https://itsrever.com）および公開情報（報道・プレスリリース等）をもとにAIが調査・要約したものです。 内容の正確性については公式サイト・出典をご確認ください。 続きの詳しい内容は、無料会員登録でご覧いただけ ...",
+    "url": "https://www.firstcvc.jp/global/itsrever.com",
+    "pass": 3
+   },
+   {
+    "quote": "REVER: Changing the way people buy by giving superpowers to ... — How to get started? We are offering a 1-month free trial to retailers that want to join the future of eCommerce. If you are struggling with your returns, send us an email at sales@itsrever.com.",
+    "url": "https://www.ycombinator.com/companies/rever",
+    "pass": 3
+   },
+   {
+    "quote": "Solutions | Rever - itsrever.com — REVER allows Misako shoppers to get a refund in a matter of seconds at any of their shops, while getting detailed analysis of all their returns. REVER helps you bring returns down to zero with AI-powered insights that make more sales for keeps.",
+    "url": "https://www.itsrever.com/en/solutions",
+    "pass": 3
+   },
+   {
+    "quote": "Returns | Rever - itsrever.com — REVER is a returns management solution designed to streamline the returns process for eCommerce. It delivers fast, frictionless and sustainable returns, helping to improve customer satisfaction, reduce operational costs and increase overall efficiency. How does REVER improve the customer experience?",
+    "url": "https://www.itsrever.com/en/returns",
+    "pass": 3
+   },
+   {
+    "quote": "REVER Reviews | Read Customer Service Reviews of itsrever.comFAQ - ReverPartners | Rever - itsrever.com — Jul 31, 2026 · It was very easy to make an exchange. I received the new items even before sending the product back. Amazing experience and everything super clear. Although I ordered the wrong size it was very easy to exchange clothing without additional costs. Thanks for the good service. How ",
+    "url": "https://www.trustpilot.com/review/itsrever.com",
+    "pass": 3
+   },
+   {
+    "quote": "Partners | Rever - itsrever.com — REVER allows Misako shoppers to get a refund in a matter of seconds at any of their shops, while getting detailed analysis of all their returns. REVER is proud to be the go-to solution for the world’s fastest growing e-commerce brands. Ready to take your business to the next level?",
+    "url": "https://www.itsrever.com/en/our-partners",
+    "pass": 3
+   },
+   {
+    "quote": "Succes stories | Rever - itsrever.com — 99% returns <10 seconds All Manufacturing Insurance Finance Apparel Retail Select filter All Manufacturing Insurance Finance Apparel Retail",
+    "url": "https://www.itsrever.com/en/succes-stories",
+    "pass": 3
+   },
+   {
+    "quote": "REVER Reviews | Read Customer Service Reviews of itsrever.comCustomer Success Stories | ITI ManufacturingREVER: Changing the way people buy by giving superpowers to ...Case Studies - Tata Consultancy ServicesIndustrial Manufacturing Case Studies - Oracle — Jul 31, 2026 · Step by step information and my refund was returned quickly. I ordered what I thought was my size according to the size guide. W",
+    "url": "https://www.trustpilot.com/review/itsrever.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "itsrever (@itsrever) / Posts / X itsrever (@itsrever) - Posts - Making returns smarter. | X (formerly Twitter)",
+    "url": "https://x.com/itsrever",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "REVER AI (YC S22) - LinkedIn Website www.itsrever.com Industry Financial Services Company size 11-50 employees Headquarters Barcelona | San Francisco | London | Paris | Milano | Berlin | Amsterdam",
+    "url": "https://www.linkedin.com/company/itsrever",
+    "pass": 3
+   },
+   {
+    "quote": "REVER AI (YC S22) | LinkedIn Website www.itsrever.com Industry Financial Services Company size 11-50 employees Headquarters Barcelona | San Francisco | London | Paris | Milano | Berlin | Amsterdam",
+    "url": "https://na.linkedin.com/company/itsrever",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.itsrever.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itsrever.com/en",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/65f815c0d8922a9e40d7a3dc/65fc0a90b9384cf3cc99db07_clickup-logos.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://docs.itsrever.com/guides",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/itsrever.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/rever",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itsrever.com/en/returns-management-platform",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/TVer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itsrever.com/en/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itsrever.com/en/returns",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trustpilot.com/review/itsrever.com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.itsrever.com/en/our-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itsrever.com/en/succes-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trustpilot.com/review/itsrever.com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://itimanufacturing.com/success-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.its-group.com/become-a-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/497382-58",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/itsrever.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/rever/__1UaxQOnbe0Rap-6D4Pk5dxA0iUWybrScPfb1IBU9_8A",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/rever-itsrever-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/itsrever",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/itsrever",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://na.linkedin.com/company/itsrever",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/itsrever",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Itsrever 日本 導入",
+   "results": [
+    "https://docs.itsrever.com/guides",
+    "https://www.firstcvc.jp/global/itsrever.com",
+    "https://www.ycombinator.com/companies/rever",
+    "https://www.itsrever.com/en/returns-management-platform",
+    "https://www.itsrever.com/",
+    "https://note.com/ai_hack_dx/n/nd2936fa8b1d3",
+    "https://monoist.itmedia.co.jp/mn/articles/2610/20/news044.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Itsrever 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/TVer",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.kuonitumlare.com/ja/about-us",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Itsrever Japan",
+   "results": [
+    "https://www.itsrever.com/en/solutions",
+    "https://www.itsrever.com/en/returns",
+    "https://www.trustpilot.com/review/itsrever.com",
+    "https://www.itsrever.com/en/our-partners",
+    "https://www.itsrever.com/",
+    "https://www.itsrever.com/en/returns-management-platform",
+    "https://www.itsrever.com/en/faq"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Itsrever manufacturing customer case study",
+   "results": [
+    "https://www.itsrever.com/en/succes-stories",
+    "https://www.trustpilot.com/review/itsrever.com",
+    "https://itimanufacturing.com/success-stories/",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.itsrever.com/en/returns-management-platform",
+    "https://www.ycombinator.com/companies/rever"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Itsrever white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.its-group.com/become-a-reseller",
+    "https://upcloud.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Itsrever founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/497382-58",
+    "https://getlatka.com/companies/itsrever.com",
+    "https://tracxn.com/d/companies/rever/__1UaxQOnbe0Rap-6D4Pk5dxA0iUWybrScPfb1IBU9_8A",
+    "https://fundediq.co/rever-itsrever-com-funding/",
+    "https://www.caplight.com/company/itsrever",
+    "https://www.itsrever.com/en/annual-report",
+    "https://www.extruct.ai/hub/itsrever-com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Itsrever",
+   "results": [
+    "https://note.com/dashboard",
+    "https://note.com/moto_solo_works/n/n60d9596c3737?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/nagityann/n/n08e6f084209a",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/inuiazuma/n/nfc433e3e3b6a",
+    "https://note.com/miyamototooru/n/n3783d18f8888"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Itsrever",
+   "results": [
+    "https://x.com/itsrever",
+    "https://x.com/server_buyback",
+    "https://x.com/hashtag/ITserver",
+    "https://x.com/kek2server/status/2115830737970544728",
+    "https://x.com/mmrtsv",
+    "https://x.com/like_farts/status/2119548471933796411",
+    "https://x.com/i/trending/2117034954445975962"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Itsrever",
+   "results": [
+    "https://www.linkedin.com/company/itsrever",
+    "https://na.linkedin.com/company/itsrever",
+    "https://www.linkedin.com/products/itsrever-rever-yc-s22/",
+    "https://in.linkedin.com/company/it-serv",
+    "https://es.linkedin.com/in/andriy-pighi",
+    "https://ar.linkedin.com/company/it-server-infraestructura-it-y-soporte-especializado",
+    "https://www.linkedin.com/posts/itsrever_its-here-we-are-pleased-to-announce-the-activity-6944556982255144960-SER0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Itsrever",
+   "results": [
+    "https://www.facebook.com/ITServer/",
+    "https://www.facebook.com/ITServeAlliance/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/61575063086630/",
+    "https://www.facebook.com/synserver/",
+    "https://www.facebook.com/p/It-Server-61575063086630/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Itsrever note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Itsrever X 投稿",
+   "results": [
+    "https://x.com/itsrever",
+    "https://www.instagram.com/itsrever_official/",
+    "https://docs.itsrever.com/guides",
+    "https://www.itsrever.com/en/support-articles/integrations-overview",
+    "https://www.itsrever.com/",
+    "https://x.com/itoshinoco/status/2120462326138802338",
+    "https://docs.itsrever.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部28頁・検索12回）"
+ }
+}

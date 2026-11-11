@@ -1,0 +1,1412 @@
+{
+ "name": "Invisible AI",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T18:50:30.325757+00:00",
+ "official_url": "https://www.invisible.ai/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$72,000",
+    "url": "https://prospeo.io/c/invisible-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$15,000,000",
+    "url": "https://prospeo.io/c/invisible-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "1 S Linden Ave, Ste. 5, South San Francisco, California 94080, US",
+    "url": "https://prospeo.io/c/invisible-ai-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2018",
+    "url": "https://prospeo.io/c/invisible-ai-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "find improvements, validate changes, and scale what works — with",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "proactive insights that surface what to focus on next.",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Built Around How Production Teams Actually Work",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "See if improvements stick — across all conditions, shifts, and operators with statistical confidence.",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Get Proactive Insights",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Insights are pushed directly to IEs and team leads — surfacing cycle time variability, process drift, and improvement opportunities so they can act on what matters most.",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous Improvement",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Management",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Give your industrial engineering team cycle-level data across every line and shift — replacing manual time studies with always-on visibility, so IEs can spend more time improving processes and less time collecting data.",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "about Continuous Improvement",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Team leads get a real-time pulse on every line — with alerts when cycle times drift, throughput drops, or a station falls behind, so they can act on issues the moment they appear.",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "about Production Management",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify process deviations at the station — before they become escapes. When issues surface, trace them to the exact cycle with video context, replacing guesswork with facts.",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ergonomic risk data is pushed to safety teams and team leads automatically — flagging high-risk stations before injuries happen, not after.",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "You became an IE to improve processes — not to spend your day",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Get proactive insights that surface improvement opportunities",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Secure On-Premise Deployment for Fast Time-to-Value",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Entirely on-premise solution",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We deploy entirely on-premise with no extra bandwidth required, for real-time feedback without accessing the cloud.",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"I used to spend 3-4 hours a day root-causing all the problems on the line, walking to every station and talking to people. It took forever. Now, I just type in the serial number and find the root-cause in minutes.\"",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Invisible AI has been a great partner for Toyota as we work toward building the manufacturing processes of the future.\"",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every minute of downtime we prevent saves us $1k.",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We expect 3-5x ROI on each device in efficiency gains alone. Every minute of downtime we prevent saves us $1k, and every workstation we can remove saves us $200k per year.\"",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From reactive to proactive with Invisible AI.",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Invisible AI is not only helping us find opportunities for improvement on the assembly lines, but we're also constantly finding new use cases for their technology such as ergonomics analysis to proactively prevent injuries.\"",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With AI-powered vision and analytics, a major automaker transformed how it identifies, validates, and prevents production issues — unlocking lasting gains in quality, uptime, and safety.",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Invisible AI helped a global automaker transform production with real-time motion analytics, reducing safety incidents, downtime, and repairs while saving $2.47M annually.",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Within four hours of implementation, this supplier was able to meet their target TAKT time, improving throughput by 63%.",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "This OEM faced significant challenges in training and efficiently utilizing staff on critical lines until they partnered with Invisible AI.",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Invisible AI helps top OEMs boost FPY, OEE, and workforce safety through real-time visual intelligence.",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Our engineers have advanced degrees from prestigious engineering & robotics institutions. They are experts in computer vision and AI for human body and motion tracking.",
+    "url": "https://www.invisible.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We have raised our Series A fundraising round and are rapidly scaling our business. If you are interested in building the future of computer vision and manufacturing technology, check out our careers page.",
+    "url": "https://www.invisible.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "providing visibility and insight into the physical world.",
+    "url": "https://www.invisible.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We provide practical and quality solutions to real-world problems.",
+    "url": "https://www.invisible.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Build the next generation of AI & computer vision products with Invisible AI.",
+    "url": "https://www.invisible.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "last places AI hasn't reached. We're changing that, one production line",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Our models run on live production lines, watching every station in real time. Not a demo, not a lab.",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We are taking a proven platform into new industries. The people who join now shape what comes next.",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Invisible AI exists to maximize the output of every business by providing",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "A single camera deployment helps prevent injuries, holds standard work and quality on new line launches, and gives teams the data to keep improving. The results show up on the floor, not just in a dashboard.",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "A proven platform with a long runway",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We ship practical, high-quality solutions to real-world problems. If it does not work on a Tuesday night shift, it does not work.",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Research, build and deploy the computer vision and deep learning models that power our Vision Execution System, from edge cameras on the factory floor to on-prem GPU clusters.",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous Improvement | Invisible AI",
+    "url": "https://www.invisible.ai/continuous-improvement/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous Improvement",
+    "url": "https://www.invisible.ai/continuous-improvement/",
+    "pass": 1
+   },
+   {
+    "quote": "Search by product number, station, or any tracked variable to see the lifecycle of a product in your plant. Review footage to identify the root-cause of delays, downtime, and more.",
+    "url": "https://www.invisible.ai/continuous-improvement/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI algorithms identify and flag outlier cycles based on your golden examples. Detect micro-stops, missed steps, and downtime to proactively identify and address bottlenecks.",
+    "url": "https://www.invisible.ai/continuous-improvement/",
+    "pass": 1
+   },
+   {
+    "quote": "View cycle times, throughput, and wait time with intuitive graphics linked to video. Alert key operators to real-time issues anytime, anywhere, and on any device.",
+    "url": "https://www.invisible.ai/continuous-improvement/",
+    "pass": 1
+   },
+   {
+    "quote": "Invisible AI breaks down cycle and wait times to help you understand exactly what's happening on the floor. Our AI Coach then makes smart suggestions to improve productivity.",
+    "url": "https://www.invisible.ai/continuous-improvement/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Production line downtime is expensive, especially during the final",
+    "url": "https://www.invisible.ai/continuous-improvement/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure smooth onboarding and partner with your team to identify quick wins.",
+    "url": "https://www.invisible.ai/continuous-improvement/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Invisible AI helps top OEMs boost FPY, OEE, and workforce safety through real-time visual intelligence.",
+    "url": "https://www.invisible.ai/continuous-improvement/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Management | Invisible AI",
+    "url": "https://www.invisible.ai/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify and Eliminate Hidden Production Loss",
+    "url": "https://www.invisible.ai/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Invisible AI gives supervisors instant visibility into where time is actually lost on the line, with every cycle time, wait state, and interruption linked to the video that shows why.",
+    "url": "https://www.invisible.ai/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Our 3D edge device tracks workforce and machine movement, providing full visibility and powering the Vision Execution System to link cycle time analysis with real-time operator coaching.",
+    "url": "https://www.invisible.ai/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Our technology accurately tracks human movement, giving you access to previously unavailable workforce performance data.",
+    "url": "https://www.invisible.ai/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Combine workforce performance data with existing manufacturing execution systems for complete visibility into your operations.",
+    "url": "https://www.invisible.ai/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve Overall Labor Effectiveness",
+    "url": "https://www.invisible.ai/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce Downtime and Improve Throughput",
+    "url": "https://www.invisible.ai/production/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Visual Intelligence for Manufacturing | Invisible AI",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Leading Automakers",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "See if improvements stick — across all conditions, shifts, and operators with statistical confidence.",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our vision execution system analyzes human motion and objects on the factory floor in real time to help your team operate more efficiently.",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Step Into the Future of Manufacturing",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Give your industrial engineering team cycle-level data across every line and shift — replacing manual time studies with always-on visibility, so IEs can spend more time improving processes and less time collecting data.",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for Industrial Engineering Teams",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "collecting data. Invisible AI gives your industrial engineering team continuous,",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Multiply your team's impact across the entire plant",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Invisible AI has been a great partner for Toyota as we work toward building the manufacturing processes of the future.\"",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "See how manufacturing leaders use Invisible AI to drive measurable results",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Co. Cuts Repairs 58%, Saves $2.47M",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive OEM Root Cause Analysis",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "A leading automotive OEM expedited defect resolution time while increasing the daily defect investigation rate with Invisible AI.",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Supplier Case Study",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive OEM Case Study",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "We're building state of the art AI solutions for manufacturing.",
+    "url": "https://www.invisible.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Born from the challenging demands of implementing computer vision algorithms for use in self driving cars. Our leadership teamed up to introduce this groundbreaking technology to the manufacturing industry.",
+    "url": "https://www.invisible.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We have raised our Series A fundraising round and are rapidly scaling our business. If you are interested in building the future of computer vision and manufacturing technology, check out our careers page.",
+    "url": "https://www.invisible.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "sees the factory floor",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing makes everything the world runs on, and it is one of the",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "last places AI hasn't reached. We're changing that, one production line",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "at a time. Come build the frontier of industrial AI with us.",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Our models run on live production lines, watching every station in real time. Not a demo, not a lab.",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Ford, GM, Toyota and Nissan started with pilots and expanded to more lines, plants and countries.",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "The frontier of AI isn't only on a screen. It's on the factory floor.",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "visibility and insight into the physical world. We give manufacturers a",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Factories are loud, fast and unforgiving. Our computer vision has to work on every shift, at every station, in real time. Solving that is some of the most meaningful applied AI work there is.",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We move like a startup and sell to some of the largest manufacturers on earth.",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We build for the operators, engineers and leaders on the floor. Technology should make people safer and better at their work, never replace their judgment.",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Time on the factory floor",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "See your work running in plants at world-class manufacturers and hear directly from the people using it.",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Research, build and deploy the computer vision and deep learning models that power our Vision Execution System, from edge cameras on the factory floor to on-prem GPU clusters.",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Open and own two new verticals for Invisible AI, electronics manufacturing and data center infrastructure, and take our automotive success to a new set of manufacturers.",
+    "url": "https://www.invisible.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify and complete Kaizen events more effectively than ever with Invisible AI's manufacturing VES platform.",
+    "url": "https://www.invisible.ai/continuous-improvement/",
+    "pass": 1
+   },
+   {
+    "quote": "Search by product number, station, or any tracked variable to see the lifecycle of a product in your plant. Review footage to identify the root-cause of delays, downtime, and more.",
+    "url": "https://www.invisible.ai/continuous-improvement/",
+    "pass": 1
+   },
+   {
+    "quote": "View cycle times, throughput, and wait time with intuitive graphics linked to video. Alert key operators to real-time issues anytime, anywhere, and on any device.",
+    "url": "https://www.invisible.ai/continuous-improvement/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Production line downtime is expensive, especially during the final",
+    "url": "https://www.invisible.ai/continuous-improvement/",
+    "pass": 1
+   },
+   {
+    "quote": "Invisible AI's devices are equipped with 3D cameras and a built-in AI chipset, allowing you to create a digital twin of your plant.",
+    "url": "https://www.invisible.ai/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Combine workforce performance data with existing manufacturing execution systems for complete visibility into your operations.",
+    "url": "https://www.invisible.ai/production/",
+    "pass": 1
+   },
+   {
+    "quote": "View cycle times, throughput, and wait time with intuitive graphics linked to video. Alert key operators to real-time issues anytime, anywhere, and on any device.",
+    "url": "https://www.invisible.ai/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Our precision search tools allows operators to search any metric in our system (product number, plc signal, shift, etc) and will pull up all associated videos for easy root-cause analysis.",
+    "url": "https://www.invisible.ai/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Create Industrial Athletes with Computer Vision & AI",
+    "url": "https://www.invisible.ai/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI Coach makes smart recommendations to help you improve your operators' performance, from line balancing to layout optimization to missed step detection.",
+    "url": "https://www.invisible.ai/production/",
+    "pass": 1
+   },
+   {
+    "quote": "Compare videos of the same or subsequent workstations side-by-side, and share best practices with your team. Give your operators a voice with video playback.",
+    "url": "https://www.invisible.ai/production/",
+    "pass": 1
+   },
+   {
+    "quote": "For Operators & Supervisors",
+    "url": "https://www.invisible.ai/production/",
+    "pass": 1
+   },
+   {
+    "quote": "We integrate with all manufacturing execution systems to provide a holistic view of plant floor activities from a centralized platform.",
+    "url": "https://www.invisible.ai/quality/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactively address potential hazards and promote a safety-conscious culture with our manufacturing VES platform.",
+    "url": "https://www.invisible.ai/safety/",
+    "pass": 1
+   },
+   {
+    "quote": "Invisible AI operates with the intensity of a startup and the footprint of a global enterprise. We’re trusted by some of the world’s most complex companies to operate at the core of their business. That kind of responsibility only goes to people who earn it; and if you’re here, we believe you can.",
+    "url": "https://invisibletech.ai/join-us",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible AI: Building the Eyes of the Factory - RealSense",
+    "url": "https://www.realsenseai.com/case-studies/invisible-ai-building-the-eyes-of-the-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Long-range, PoE stereo depth for networked industrial, inspection, and mobile robotics applications.",
+    "url": "https://www.realsenseai.com/case-studies/invisible-ai-building-the-eyes-of-the-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial GMSL 3D Vision",
+    "url": "https://www.realsenseai.com/case-studies/invisible-ai-building-the-eyes-of-the-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Automation",
+    "url": "https://www.realsenseai.com/case-studies/invisible-ai-building-the-eyes-of-the-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible AI: Building the Eyes of the Factory",
+    "url": "https://www.realsenseai.com/case-studies/invisible-ai-building-the-eyes-of-the-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible AI’s platform is used by leading manufacturers including Toyota and spans automotive, heavy equipment, and electronics industries. The system delivers immediate visual feedback to operators within seconds, enabling faster learning and behavior change, while providing factory leadership with complete visual context for coaching and continuous improvement.",
+    "url": "https://www.realsenseai.com/case-studies/invisible-ai-building-the-eyes-of-the-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Across the Entire Factory Floor",
+    "url": "https://www.realsenseai.com/case-studies/invisible-ai-building-the-eyes-of-the-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible AI transforms raw visual data into actionable insight by deploying hundreds of intelligent agent cameras across production lines. Each device integrates RealSense D455 depth cameras with onboard AI processing and up to 4TB of storage, functioning as self-contained units that don’t require cloud streaming or coding and can be installed in days, often between shifts.",
+    "url": "https://www.realsenseai.com/case-studies/invisible-ai-building-the-eyes-of-the-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "What began as a tool for immediate return on investment has evolved into a new category: the Factory Operating System. With massive volumes of spatial-temporal data, Invisible AI is becoming the system of record for how factories actually function, enabling manufacturers to design and optimize processes using real data rather than theoretical assumptions throughout the entire workflow lifecycle.",
+    "url": "https://www.realsenseai.com/case-studies/invisible-ai-building-the-eyes-of-the-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how RightHand Robotics is using RealSense™ computer vision technology to revolutionize automated warehouse order fulfillment.",
+    "url": "https://www.realsenseai.com/case-studies/invisible-ai-building-the-eyes-of-the-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial 3D Vision",
+    "url": "https://www.realsenseai.com/case-studies/invisible-ai-building-the-eyes-of-the-factory/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "See how Invisible AI helps top OEMs boost FPY, OEE, and workforce safety through real-time visual intelligence.",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "OEM Cuts Root Cause Time, Saves Millions",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Invisible AI helped a top OEM save $1.5M per 10 minutes of eliminated downtime and slash root cause analysis time by 65% through AI-powered motion analytics on their EV battery line.",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive OEM Root Cause Analysis",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "A leading automotive OEM expedited defect resolution time while increasing the daily defect investigation rate with Invisible AI.",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive OEM Case Study",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "This OEM faced significant challenges in training and efficiently utilizing staff on critical lines until they partnered with Invisible AI.",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Invisible AI helps top OEMs boost FPY, OEE, and workforce safety through real-time visual intelligence.",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Invisible AI helps top OEMs boost FPY, OEE, and workforce safety through real-time visual intelligence.",
+    "url": "https://www.invisible.ai/continuous-improvement/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Invisible AI helps top OEMs boost FPY, OEE, and workforce safety through real-time visual intelligence.",
+    "url": "https://www.invisible.ai/production/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Invisible AI helps top OEMs boost FPY, OEE, and workforce safety through real-time visual intelligence.",
+    "url": "https://www.invisible.ai/quality/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Invisible AI helps top OEMs boost FPY, OEE, and workforce safety through real-time visual intelligence.",
+    "url": "https://www.invisible.ai/safety/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "\"The Invisible AI system is something I use every day, whether for defects or to perform various audits. The system is leaps and bounds better than our old cameras. The Invisible AI system is smart and can track a vehicle by using Sequence or Body number. This saved us tons of time when trying to narrow down or find a defect.\"",
+    "url": "https://www.invisible.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Saving Nasdaq 10,000 developer hours",
+    "url": "https://invisibletech.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Implementing an integration solution that saved Nasdaq thousands of developer hours and supported a product launch.",
+    "url": "https://invisibletech.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible AI Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/invisible-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Invisible AI",
+    "url": "https://prospeo.io/c/invisible-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/invisible-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/invisible-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/invisible-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Invisible AI?",
+    "url": "https://prospeo.io/c/invisible-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible AI generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/invisible-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/invisible-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/invisible-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Invisible AI have?",
+    "url": "https://prospeo.io/c/invisible-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/invisible-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/294501-25",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/294501-25",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible AI’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/294501-25",
+    "pass": 3
+   },
+   {
+    "quote": "To view Invisible AI’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/294501-25",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible AI has 20 total employees.",
+    "url": "https://pitchbook.com/profiles/company/294501-25",
+    "pass": 3
+   },
+   {
+    "quote": "What is Invisible AI’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/294501-25",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Invisible AI is",
+    "url": "https://pitchbook.com/profiles/company/294501-25",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "「目に見えないAI（Invisible AI）」の浸透 - 2026年におけるAI活用の構造的変化 - 株式会社Japan Technology [株式会社ジャパンテクノロジー]",
+    "url": "https://j-tech.co.jp/2026/01/post_20260107/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都台東区台東2-21-13",
+    "url": "https://j-tech.co.jp/2026/01/post_20260107/",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible AIの導入事例と日本での相談｜作業分析・ライン改善（米国・2018年）｜GAMATCH",
+    "url": "https://ga-match.co.jp/ai-catalog/invisible-ai/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "「目に見えないAI（Invisible AI）」の浸透 - 2026年におけるAI活用の... — Jan 7, 2026 · 「目に見えないAI（Invisible AI）」の浸透 – 2026年におけるAI活用の構造的変化 – 2026年現在、IT業界における主要なトレンドは、ユーザーインターフェースとしてのAIから、システムや環境の背後で機能する「目に見えないAI（Invisible AI）」へと移行しています。",
+    "url": "https://j-tech.co.jp/2026/01/post_20260107/",
+    "pass": 3
+   },
+   {
+    "quote": "Visual Intelligence for Manufacturing | Invisible AI — From reactive to proactive with Invisible AI. \"Invisible AI is not only helping us find opportunities for improvement on the assembly lines, but we're also constantly finding new use cases for their technology such as ergonomics analysis to proactively prevent injuries.\"",
+    "url": "https://www.invisible.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible AI（米国・2018年）｜作業分析・ライン改善｜海外AI・DXカ... — Invisible AI（米国・2018年設立）：カメラで現場の作業を解析し、工程の正確さとサイクルタイムを可視化。 公開事例の成果は「スループット+63%」です。 自動車部品メーカーで、導入4時間で目標タクトタイムを達成。",
+    "url": "https://ga-match.co.jp/ai-catalog/invisible-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible AI - LinkedIn 日本 — Invisible AI – is an on-premise computer vision platform that captures data from manual assembly work and uses AI to make smart recommendations to improve plant productivity, quality, and...",
+    "url": "https://jp.linkedin.com/company/invisibleai",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible AI | LinkedIn — Invisible AI – is an on-premise computer vision platform that captures data from manual assembly work and uses AI to make smart recommendations to improve plant productivity, quality, and...",
+    "url": "https://jp.linkedin.com/company/invisibleai",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Invisible AI — Oct 30, 2025 · See how manufacturing leaders use Invisible AI to cut quality flow-outs, reduce downtime, and save millions.",
+    "url": "https://www.invisible.ai/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Co. Cuts Repairs 58%, Saves $2.47M | Case Studies — Nov 3, 2025 · Invisible AI helped a global automaker transform production with real-time motion analytics, reducing safety incidents, downtime, and repairs while saving $2.47M annually.",
+    "url": "https://www.invisible.ai/case-study/how-a-leading-automotive-cut-repairs-by-58-downtime-by-41-and-safety-incidents-by-36---saving-2-47m-annually/",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible AI: Building the Eyes of the Factory - RealSense — With massive volumes of spatial-temporal data, Invisible AI is becoming the system of record for how factories actually function, enabling manufacturers to design and optimize processes using real data rather than theoretical assumptions throughout the entire workflow lifecycle.",
+    "url": "https://www.realsenseai.com/case-studies/invisible-ai-building-the-eyes-of-the-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible AI Revenue, Funding & Valuation - prospeo.ioInvisible AI – Business Snapshot & Rival Analysis – 2026Invisible AI 2026 Company Profile: Valuation, Funding ...Invisible Technologies: Funding, Team & Investors | Startup ...Invisible - 2026 Company Profile, Team, Funding, Competitors ...Invisible Intelligence Revenue, Funding & ValuationInvisible AI - 2026 Company Profile, Team, Funding ... ",
+    "url": "https://prospeo.io/c/invisible-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible AI – Business Snapshot & Rival Analysis – 2026 — Discover Invisible AI's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/invisible-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible AI 2026 Company Profile: Valuation, Funding ...Invisible Technologies: Funding, Team & Investors | Startup ...Invisible - 2026 Company Profile, Team, Funding, Competitors ...Invisible Intelligence Revenue, Funding & ValuationInvisible AI - 2026 Company Profile, Team, Funding ... - Tracxn — Information on valuation, funding, acquisitions, investors, and executives for Invisible AI. Use th",
+    "url": "https://pitchbook.com/profiles/company/294501-25",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible - 2026 Company Profile, Team, Funding, Competitors ...Invisible Intelligence Revenue, Funding & ValuationInvisible AI - 2026 Company Profile, Team, Funding ... - Tracxn — Aug 13, 2026 · Invisible is an acquired company based in San Francisco (United States), founded in 2015 by Francisa Pedraza. It operates as a Provider of artificial intelligence systems and process automation for enterp",
+    "url": "https://tracxn.com/d/companies/invisible/__wnz_JzIM_7vOA096UMtlG3jVPtzIKYGbkVUw4r9f9HM",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Business Email Address",
+    "url": "https://www.realsenseai.com/case-studies/invisible-ai-building-the-eyes-of-the-factory/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/invisible-ai-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/294501-25",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Invisible Watermarks in AI Text: What OpenAI's textGrain Can ... Oct 18, 2026 · According to OpenAI, textGrain is a mechanism that adds invisible statistical patterns to the way a model chooses words and tokens when generating text. It is not a method that displays “AI-generated” on the screen or embeds invisible whitespace characters in the text.",
+    "url": "https://note.com/nagomi97/n/n058a301728c6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Is Your Hospital Being Invaded by \"Invisible AI\"? — The ... What is Shadow AI, and why is it particularly dangerous in healthcare? Shadow AI refers to AI services that medical staff use personally without obtaining approval from the IT department or management.",
+    "url": "https://note.com/secureailab/n/n2554a5792d17?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible watermarks in AI text, and opting out of AI ... 6 days ago · An AI text watermark is a mark that looks like normal text to the eye, but can be identified as \"likely written by AI\" only with special tools. It is not a visible print or hidden text (this is important, so I will explain it in detail later).",
+    "url": "https://note.com/clean_hina0/n/nc801beba1077?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Is Your Hospital Being Invaded by \"Invisible AI\"? — The ... 医療AIと情報セキュリティを、分子生物学・規制科学の実務から検証するラボ。 医療機関で「生成AIをどこまで使っていいか」を判断するためのチェックリストと 院内規程のひな形を作っています。 運営: 丸山智久（Envirome, Inc. CEO）。",
+    "url": "https://note.com/secureailab/n/n5c0eb6a30743?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Invisible AI (@Invisible_ai) / X Invisible AI @Invisible_ai AI Startup Silicon Valley, CA Invisible.ai Joined May 2016",
+    "url": "https://x.com/Invisible_ai",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible Technologies (@InvTechInc) / X Invisible Technologies is the AI training and scaling partner for the leading foundation model providers, enterprises, and governments.",
+    "url": "https://x.com/invtechinc",
+    "pass": 3
+   },
+   {
+    "quote": "AI Firms Add Invisible Watermarks to Text Outputs Worldwide JUST IN: SpaceXSI announces Grok will begin embedding invisible watermarks into AI-generated text starting November 7 comply with the EU AI Act.",
+    "url": "https://x.com/i/trending/2116508820818022767",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible Artの華 on X: \"GrokImagine （趣味投稿） 人工太陽 ＃歪ん... Jul 18, 2026 · Invisible Artの華 @Invisible_Note GrokImagine （趣味投稿） 人工太陽 #歪んだ世界 00:00 Made with AI 3:42 PM · Jul 18, 2026 41Views",
+    "url": "https://x.com/Invisible_Note/status/2078505615387959432",
+    "pass": 3
+   },
+   {
+    "quote": "@invisibleai | X The latest posts from @invisibleai",
+    "url": "https://x.com/invisibleai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Invisible AI - LinkedIn Invisible AI – is an on-premise computer vision platform that captures data from manual assembly work and uses AI to make smart recommendations to improve plant productivity, quality, and...",
+    "url": "https://www.linkedin.com/company/invisibleai",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible Technologies - LinkedIn Invisible, profitable for over half a decade, reached $134m in revenue and ranked #2 fastest-growing AI company in 2024, and recently raised $100M to advance its platform technology.",
+    "url": "https://www.linkedin.com/company/invisible-technologies-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible AI - LinkedIn Invisible AI helps organizations eliminate manual, admin-heavy workflows by embedding AI systems directly into their operations — quietly, securely, and measurably",
+    "url": "https://za.linkedin.com/company/invisibleai-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible Technologies - LinkedIn Our platform cleans, labels, and structures company data so it’s ready for AI. It adapts models to each business and adds human expertise when needed — the same approach used to improve models...",
+    "url": "https://uk.linkedin.com/company/invisible-technologies-inc-",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "We’re happy to present a new shot of our recent case called ...The most powerful AI in your home might be the one ... - FacebookFacebook is building the future of connection with lifelike ...Spaceve - The Rise of \"Invisible AI\" (Focus on Smart Spaces ...AI is becoming invisible | Ryan Kennedy - FacebookEsprit-ai Inc - FacebookInvisible Laws™ Masterclass: AI & Superintelligence ... We’re happy to p",
+    "url": "https://www.facebook.com/explainninja/videos/invisible-ai/2408582716196416/",
+    "pass": 3
+   },
+   {
+    "quote": "Spaceve - The Rise of \"Invisible AI\" (Focus on Smart Spaces ... Jan 12, 2026 · The Rise of \"Invisible AI\" (Focus on Smart Spaces) In 2026, the best technology isn't the kind you see—it’s the kind you feel. 🏢 We’ve moved past simple \"smart\" gadgets.",
+    "url": "https://www.facebook.com/spaceve.spaceve/photos/the-rise-of-invisible-ai-focus-on-smart-spacesin-2026-the-best-technology-isnt-t/1579387626902776/",
+    "pass": 3
+   },
+   {
+    "quote": "AI is becoming invisible | Ryan Kennedy - Facebook Oct 5, 2026 · AI. When AI first came out, we've heard about AI labels, AI this, AI that but now it's taking a different direction. It's becoming sort of invisible and a lot of people who complain about AI the most which is the younger generation and a lot of the baby boomers are the ones who are using it the most without realizing that it's actual",
+    "url": "https://www.facebook.com/realryankennedy/videos/ai-is-becoming-invisible/1817227512765110/",
+    "pass": 3
+   },
+   {
+    "quote": "Esprit-ai Inc - Facebook Oct 22, 2025 · The Esprit-ai Sense Invisible Caregiver™ offers a seamless blend of all our solutions; discreet, camera- free AI-driven monitoring and proactive alerts, supporting seniors in living confidently at their environment.",
+    "url": "https://www.facebook.com/invisiblecaregiver/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.invisible.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.invisible.ai/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.invisible.ai/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.invisible.ai/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.invisible.ai/continuous-improvement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.invisible.ai/production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.invisible.ai/quality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.invisible.ai/safety/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.invisible.ai/_astro/hero-factory.DEsu6KfU_Zf0BiL.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://j-tech.co.jp/2026/01/post_20260107/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ga-match.co.jp/ai-catalog/invisible-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.opensourcelab.jp/articles/invisible-dots-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/invisibleai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/invisible-technologies-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://invisibletech.ai/join-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://invisibletech.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.realsenseai.com/case-studies/invisible-ai-building-the-eyes-of-the-factory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nebius.com/nebius-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://customgpt.ai/ai-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.wiz.io/Japanese/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/invisible-ai-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/invisible-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/294501-25",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/invisible-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nagomi97/n/n058a301728c6?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/secureailab/n/n2554a5792d17?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/clean_hina0/n/nc801beba1077?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/secureailab/n/n5c0eb6a30743?hl=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/Invisible_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/invtechinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/trending/2116508820818022767",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/invisibleai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/invisible-technologies-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://za.linkedin.com/company/invisibleai-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/invisible-technologies-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/explainninja/videos/invisible-ai/2408582716196416/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/spaceve.spaceve/photos/the-rise-of-invisible-ai-focus-on-smart-spacesin-2026-the-best-technology-isnt-t/1579387626902776/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/realryankennedy/videos/ai-is-becoming-invisible/1817227512765110/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/invisiblecaregiver/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Invisible_Note/status/2078505615387959432",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/invisibleai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Invisible AI 日本 導入",
+   "results": [
+    "https://j-tech.co.jp/2026/01/post_20260107/",
+    "https://www.invisible.ai/",
+    "https://ga-match.co.jp/ai-catalog/invisible-ai/",
+    "https://www.opensourcelab.jp/articles/invisible-dots-guide",
+    "https://jp.linkedin.com/company/invisibleai",
+    "https://skesketch.com/ai_web/post/73/",
+    "https://aikurabe.com/stats/ai-adoption-japan/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invisible AI 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Invisible AI Japan",
+   "results": [
+    "https://www.invisible.ai/",
+    "https://jp.linkedin.com/company/invisibleai",
+    "https://jp.linkedin.com/company/invisible-technologies-inc-",
+    "https://invisibletech.ai/join-us",
+    "https://www.linkedin.com/jobs/view/ai-trainer-japanese-korean-at-invisible-technologies-4303034976",
+    "https://invisibletech.ai/",
+    "https://www.invisible.ai/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invisible AI manufacturing customer case study",
+   "results": [
+    "https://www.invisible.ai/case-study/",
+    "https://invisibletech.ai/case-studies",
+    "https://www.invisible.ai/case-study/how-a-leading-automotive-cut-repairs-by-58-downtime-by-41-and-safety-incidents-by-36---saving-2-47m-annually/",
+    "https://www.realsenseai.com/case-studies/invisible-ai-building-the-eyes-of-the-factory/",
+    "https://www.casestudies.com/company/invisible-technologies",
+    "https://www.cisco.com/c/en/us/solutions/collateral/industries/manufacturing/industrial-iot/accelerating-ai-driven-mv-wp.pdf",
+    "https://aimfg.us/case-study-ai-boosts-takt-times/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invisible AI white label OR reseller OR partner program",
+   "results": [
+    "https://nebius.com/nebius-partner-program",
+    "https://partner.vw.com/",
+    "https://customgpt.ai/ai-reseller-program/",
+    "https://partners.wiz.io/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.nextiva.com/company/partners"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invisible AI founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/invisible-ai-revenue",
+    "https://compworth.com/company/invisible-ai",
+    "https://pitchbook.com/profiles/company/294501-25",
+    "https://startupintros.com/orgs/invisible-technologies",
+    "https://tracxn.com/d/companies/invisible/__wnz_JzIM_7vOA096UMtlG3jVPtzIKYGbkVUw4r9f9HM",
+    "https://prospeo.io/c/invisible-intelligence-revenue",
+    "https://tracxn.com/d/companies/invisibleai/__cGRw50_MJYBWSzqadwLADXbT1TY0j-cGEek9B3gzDCc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Invisible AI",
+   "results": [
+    "https://note.com/nagomi97/n/n058a301728c6?hl=en",
+    "https://note.com/secureailab/n/n2554a5792d17?hl=en",
+    "https://note.com/clean_hina0/n/nc801beba1077?hl=en",
+    "https://note.com/secureailab/n/n5c0eb6a30743?hl=en",
+    "https://note.com/yhkito/n/ndff6c2dc7f68?hl=en",
+    "https://tales.note.com/grok_penspirits/wj3pew9d90pnb",
+    "https://tales.note.com/free_reef/wxk839k72sxk7"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Invisible AI",
+   "results": [
+    "https://x.com/Invisible_ai",
+    "https://x.com/invtechinc",
+    "https://x.com/i/trending/2116508820818022767",
+    "https://x.com/liam_fallen/status/2100555547892125968",
+    "https://x.com/InvisibleStui",
+    "https://x.com/guardiansonbnb",
+    "https://x.com/VaibhavSisinty/status/2094278011063619779"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Invisible AI",
+   "results": [
+    "https://www.linkedin.com/company/invisibleai",
+    "https://www.linkedin.com/company/invisible-technologies-inc-",
+    "https://za.linkedin.com/company/invisibleai-ai",
+    "https://uk.linkedin.com/company/invisible-technologies-inc-",
+    "https://in.linkedin.com/jobs/view/ai-trainer-generalist-and-many-roles-at-invisible-technologies-4475691259",
+    "https://www.linkedin.com/pulse/invisible-ai-what-means-where-its-taking-us-gary-willmott--5dbef",
+    "https://www.linkedin.com/jobs/invisible-ai-jobs-worldwide"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Invisible AI",
+   "results": [
+    "https://www.facebook.com/explainninja/videos/invisible-ai/2408582716196416/",
+    "https://www.facebook.com/spaceve.spaceve/photos/the-rise-of-invisible-ai-focus-on-smart-spacesin-2026-the-best-technology-isnt-t/1579387626902776/",
+    "https://www.facebook.com/realryankennedy/videos/ai-is-becoming-invisible/1817227512765110/",
+    "https://www.facebook.com/invisiblecaregiver/",
+    "https://www.facebook.com/RobotNationHQ/videos/the-invisible-ai-quietly-managing-your-homes-energy-use/1458918992278156/",
+    "https://tech.facebook.com/reality-labs/2019/3/codec-avatars-facebook-reality-labs/",
+    "https://www.facebook.com/events/tampa-fl-united-states-florida-33647/invisible-laws-masterclass-ai-superintelligence-governance-continuity-architectu/986411991177686/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invisible AI note 社長",
+   "results": [
+    "https://en.wikipedia.org/wiki/Invisible_Technologies",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.invisible.ai/",
+    "https://invisibletech.ai/blog/invisible-technologies-appoints-matt-fitzpatrick-chief-executive-officer",
+    "https://www.insideorg.com/org/invisible-ai",
+    "https://jp.linkedin.com/company/invisibleai",
+    "https://www.invisible.ai/company/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Invisible AI X 投稿",
+   "results": [
+    "https://www.invisible.ai/",
+    "https://x.com/Invisible_Note/status/2078505615387959432",
+    "https://x.com/invisibleai",
+    "https://invisibletech.ai/",
+    "https://www.invisible.ai/how-it-works/",
+    "https://ledge.ai/articles/invisible_prompt_ai_trap_keio",
+    "https://note.com/munou_ac/n/n3489f9572885"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部33頁・検索12回）"
+ }
+}

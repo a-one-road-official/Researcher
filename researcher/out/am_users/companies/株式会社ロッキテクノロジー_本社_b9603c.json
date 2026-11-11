@@ -1,0 +1,235 @@
+{
+ "name": "株式会社ロッキテクノロジー 本社",
+ "aliases": [],
+ "context": "ipros_all:多品種",
+ "researched_at": "2026-11-11T19:10:48.236139+00:00",
+ "official_url": "http://www.rokkisya.co.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "ロッキテクノロジーの製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2116013/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://mono.ipros.com/company/detail/2116013/category/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足・ご多忙な設計開発者の支援ツールとして、製品化！",
+    "url": "https://mono.ipros.com/company/detail/2116013/category/",
+    "pass": 3
+   },
+   {
+    "quote": "ロッキテクノロジーの製品・サービス一覧｜イプロス",
+    "url": "https://www.ipros.com/company/detail/2116013/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://www.ipros.com/company/detail/2116013/category/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足・ご多忙な設計開発者の支援ツールとして、製品化！",
+    "url": "https://www.ipros.com/company/detail/2116013/category/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.rokkisya.co.jp",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://rokki-tech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2116013/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/company/detail/2116013/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rokki-tech.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rokki-tech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/3410001008329",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rokitechno.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkrocky.com/contact/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ロッキテクノロジー 本社 取扱製品 試作 小ロット",
+   "results": [
+    "https://rokki-tech.com/",
+    "https://mono.ipros.com/company/detail/2116013/category/",
+    "https://www.ipros.com/company/detail/2116013/category/",
+    "https://www.rokkisya.co.jp/merchandise/",
+    "https://www.rokkisya.co.jp/merchandise/power.html",
+    "https://rokki-tech.com/company/",
+    "https://www.rokitechno.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ロッキテクノロジー 本社 会社概要 事業内容",
+   "results": [
+    "https://rokki-tech.com/company/",
+    "https://rokki-tech.com/",
+    "https://compalyze.co.jp/company/3410001008329",
+    "https://www.rokkisya.co.jp/company",
+    "https://www.rokitechno.com/",
+    "https://www.rokitechno.com/about/locations/",
+    "https://www.kkrocky.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ロッキテクノロジー 本社 お問い合わせ メール",
+   "results": [
+    "https://www.rokitechno.com/contact/",
+    "https://www.kkrocky.com/contact/",
+    "https://www.rokkisya.co.jp/contact/cgi/webform.cgi",
+    "https://www.rook.co.jp/contact/",
+    "https://ja.nc-net.or.jp/company/74776/inquiry/",
+    "https://www.rocky.ne.jp/support/contact/",
+    "https://rokki-tech.com/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ロッキテクノロジー 本社",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com ロッキテクノロジー 本社",
+   "results": [
+    "https://x.com/",
+    "https://x.com/6Roki_stronger/status/2081537108959797735",
+    "https://x.com/6Roki_stronger/status/2102072398652518464",
+    "https://x.com/6Roki_stronger",
+    "https://x.com/FIRE2025sep/status/2090780878578598182",
+    "https://x.com/rokki_46",
+    "https://x.com/6Roki_stronger/status/2095033536428290459"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ロッキテクノロジー 本社",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com ロッキテクノロジー 本社",
+   "results": [
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/akitabank.official/photos/d41d8cd9/1211157244449849/",
+    "https://www.facebook.com/modeetmode/",
+    "https://www.facebook.com/akitabank.official/posts/あきぎんｓｄｇｓ応援私募債寄贈式を開催しましたこんにちは秋田銀行-広報担当です当行は株式会社ロッキテクノロジー様秋田市が発行するあきぎんｓｄｇｓ応援私募債を受託/1214814550750785/",
+    "https://www.facebook.com/akitabank.official/photos/あきぎんｓｄｇｓ応援私募債寄贈式を開催しましたこんにちは秋田銀行-広報担当です当行は株式会社ロッキテクノロジー様秋田市が発行するあきぎんｓｄｇｓ応援私募債を受託/1214814194084154/",
+    "https://www.facebook.com/akitabank.official/posts/あきぎんｃｓｒ私募債寄贈式を開催しましたこんにちは秋田銀行-広報担当です７月15日大雪林業株式会社様北海道旭川市が発行するあきぎんｃｓｒ私募債を受託し発行手数料/182118550637624/",
+    "https://www.facebook.com/akitabank.official/posts/本店ロビーに竿燈展示中こんにちは秋田銀行-広報担当です現在秋田銀行本店営業部にて当行竿燈会の竿燈を展示中です一番上まで見上げてみると首が痛くなるほどの大迫力長さ/388329366732645/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ロッキテクノロジー 本社 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://rokki-tech.com/",
+    "https://www.rokkisya.co.jp/company",
+    "https://www.rokitechno.com/",
+    "https://www.kkrocky.com/company2/",
+    "https://www.kkrocky.com/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ロッキテクノロジー 本社 X 投稿",
+   "results": [
+    "https://rokki-tech.com/",
+    "https://rokki-tech.com/company/",
+    "https://www.rokitechno.com/",
+    "https://x.com/6Roki_stronger/status/2102072398652518464",
+    "https://x.com/rockinon_com",
+    "https://www.rokitechno.com/about/locations/",
+    "https://locotech.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "一点物・少量多品種": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "製品分野": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部8頁・検索9回）"
+ }
+}
