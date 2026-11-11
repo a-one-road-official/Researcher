@@ -1,0 +1,1040 @@
+{
+ "name": "Sweet Security",
+ "aliases": [],
+ "context": "旧営業リスト｜Cybersecurity｜AUMS不適合",
+ "researched_at": "2026-11-11T00:26:22.028034+00:00",
+ "official_url": "https://sweet.security/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Not established from our sources",
+    "url": "https://www.cisotribune.com/companies/sweet-security",
+    "pass": 3
+   },
+   {
+    "label": "Headquarters",
+    "value": "Tel Aviv, Israel San Francisco, California, United States Tel Aviv, Israel",
+    "url": "https://dexteragent.ai/companies/sweet-security-1771746250",
+    "pass": 3
+   },
+   {
+    "label": "Headquarters",
+    "value": "Israel",
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Preferred Seed",
+    "value": "1,224,489   $4.9 $4.9 1x $4.9 20.95%",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "label": "Investors",
+    "value": "Evolution Equity Partners, Munich Re Ventures, Glilot Capital Partners, Key1 Capital",
+    "url": "https://dexteragent.ai/companies/sweet-security-1771746250",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$45,000,000",
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded year",
+    "value": "Founded year：2022",
+    "url": "https://dexteragent.ai/companies/sweet-security-1771746250",
+    "pass": 3
+   },
+   {
+    "label": "Founded Year",
+    "value": "Founded Year：2022 2022 2022",
+    "url": "https://dexteragent.ai/companies/sweet-security-1771746250",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue (Annual)",
+    "value": "$11.4 Million(2025)",
+    "url": "https://dexteragent.ai/companies/sweet-security-1771746250",
+    "pass": 3
+   },
+   {
+    "label": "Revenue per employee",
+    "value": "$13,000",
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Sweet Security: Autonomous Protection for the AI Enterprise",
+    "url": "https://www.sweet.security",
+    "pass": 1
+   },
+   {
+    "quote": "See what’s real. Protect your cloud, apps, and AI from within.",
+    "url": "https://www.sweet.security",
+    "pass": 1
+   },
+   {
+    "quote": "Security teams run Sweet across cloud and AI, in production",
+    "url": "https://www.sweet.security",
+    "pass": 1
+   },
+   {
+    "quote": "Sweet lives in runtime, where intent turns into action. It catches ill behavior as it happens, then acts in the moment so nothing breaks in live production.",
+    "url": "https://www.sweet.security",
+    "pass": 1
+   },
+   {
+    "quote": "Detect threats the moment they act, and turn every fix into a real-time guardrail that stops them returning, across cloud workloads and autonomous AI agents alike.",
+    "url": "https://www.sweet.security",
+    "pass": 1
+   },
+   {
+    "quote": "that prior engagements missed — paired with a prioritized remediation plan we could action immediately. The depth and usability set it apart.\"",
+    "url": "https://www.sweet.security",
+    "pass": 1
+   },
+   {
+    "quote": "remediating vulnerabilities to preventing breaches.",
+    "url": "https://www.sweet.security",
+    "pass": 1
+   },
+   {
+    "quote": "\"Sweet’s eBPF-based approach was the game changer. It’s so lean and efficient that we could implement it without worrying about performance degradation.\"",
+    "url": "https://www.sweet.security",
+    "pass": 1
+   },
+   {
+    "quote": "Sweet doesn't just flag AI risk, it blocks a rogue agent the moment it acts, traces the full attack path from prompt to data, and turns the fix into a one-click runtime guardrail. Every finding comes with the action that resolves it.",
+    "url": "https://www.sweet.security",
+    "pass": 1
+   },
+   {
+    "quote": "We believe that cloud security can be delightful, and we wake up every morning with a purpose of building the most precise, relevant, and intuitive security solution for the cloud. More so, we believe we are critically positioned to address cloud security’s sweet spot, with the evolution of runtime and cloud technologies.",
+    "url": "https://www.sweet.security/about",
+    "pass": 1
+   },
+   {
+    "quote": "SecurityScorecard President",
+    "url": "https://www.sweet.security/about",
+    "pass": 1
+   },
+   {
+    "quote": "Sweet Security is redefining enterprise cloud protection. As the leading provider of Runtime CNAPP and AI Security solutions, Sweet unifies runtime context with advanced AI intelligence to protect the modern enterprise.",
+    "url": "https://www.sweet.security/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The best security is effortless, smooth, and leaves you with peace of mind—just like a perfectly made dessert. At Sweet Security, we craft cloud protection that’s powerful, seamless, and built to be enjoyed.",
+    "url": "https://www.sweet.security/career",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Product Marketing",
+    "url": "https://www.sweet.security/career",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Manager",
+    "url": "https://www.sweet.security/career",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Account Executive (West USA)",
+    "url": "https://www.sweet.security/career",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Account Executive (Central USA)",
+    "url": "https://www.sweet.security/career",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Account Executive (East USA)",
+    "url": "https://www.sweet.security/career",
+    "pass": 1
+   },
+   {
+    "quote": "Sweet Security: Autonomous Protection for the AI Enterprise",
+    "url": "https://www.sweet.security/",
+    "pass": 3
+   },
+   {
+    "quote": "See what’s real. Protect your cloud, apps, and AI from within.",
+    "url": "https://www.sweet.security/",
+    "pass": 3
+   },
+   {
+    "quote": "Security teams run Sweet across cloud and AI, in production",
+    "url": "https://www.sweet.security/",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet lives in runtime, where intent turns into action. It catches ill behavior as it happens, then acts in the moment so nothing breaks in live production.",
+    "url": "https://www.sweet.security/",
+    "pass": 3
+   },
+   {
+    "quote": "Detect threats the moment they act, and turn every fix into a real-time guardrail that stops them returning, across cloud workloads and autonomous AI agents alike.",
+    "url": "https://www.sweet.security/",
+    "pass": 3
+   },
+   {
+    "quote": "that prior engagements missed — paired with a prioritized remediation plan we could action immediately. The depth and usability set it apart.\"",
+    "url": "https://www.sweet.security/",
+    "pass": 3
+   },
+   {
+    "quote": "remediating vulnerabilities to preventing breaches.",
+    "url": "https://www.sweet.security/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Sweet’s eBPF-based approach was the game changer. It’s so lean and efficient that we could implement it without worrying about performance degradation.\"",
+    "url": "https://www.sweet.security/",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet doesn't just flag AI risk, it blocks a rogue agent the moment it acts, traces the full attack path from prompt to data, and turns the fix into a one-click runtime guardrail. Every finding comes with the action that resolves it.",
+    "url": "https://www.sweet.security/",
+    "pass": 3
+   },
+   {
+    "quote": "I agree to receive marketing emails and calls in line with Sweet’s",
+    "url": "https://www.sweet.security/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security is redefining enterprise cloud protection. As the leading provider of Runtime CNAPP and AI Security solutions, Sweet unifies runtime context with advanced AI intelligence to protect the modern enterprise.",
+    "url": "https://www.sweet.security/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud-native application protection (CNAPP) vendors",
+    "url": "https://www.cisotribune.com/companies/sweet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security agents learn how each application, agent and workload should behave. Sweet Security blocks a rogue agent the moment it acts and traces the full attack path from prompt to data.",
+    "url": "https://www.cisotribune.com/companies/sweet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud-native application protection (CNAPP)",
+    "url": "https://www.cisotribune.com/companies/sweet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Products and services",
+    "url": "https://www.cisotribune.com/companies/sweet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Product names as the company writes them; what each does, in our words, from the company's own product pages. Never how well it does it.",
+    "url": "https://www.cisotribune.com/companies/sweet-security",
+    "pass": 3
+   },
+   {
+    "quote": "cloud-native application protection (cnapp)",
+    "url": "https://www.cisotribune.com/companies/sweet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Every fact above cites one of these by number. Tier A is the company itself, a regulator or a filing; tier B is trade or business press.",
+    "url": "https://www.cisotribune.com/companies/sweet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security: Autonomous Protection for the AI Enterprise",
+    "url": "https://www.cisotribune.com/companies/sweet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Runtime Vulnerability Management for Cloud Workloads | Sweet Security",
+    "url": "https://www.cisotribune.com/companies/sweet-security",
+    "pass": 3
+   },
+   {
+    "quote": "API Security Solutions | Protect Your APIs with Sweet",
+    "url": "https://www.cisotribune.com/companies/sweet-security",
+    "pass": 3
+   },
+   {
+    "quote": "CISO Tribune files Sweet Security under Cloud-native application protection (CNAPP), with AI model and agent security, Cloud detection and response and API security as secondary categories.",
+    "url": "https://www.cisotribune.com/companies/sweet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security is privately held.",
+    "url": "https://www.cisotribune.com/companies/sweet-security",
+    "pass": 3
+   },
+   {
+    "quote": "CISO Tribune records every CISO appointment and departure as a sourced, dated entry, not a column: 466 moves to date, each with a primary source and a confirmed-or-reported label.",
+    "url": "https://www.cisotribune.com/companies/sweet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a cloud-native security platform designed for real-time threat detection and response across distributed environments. The company's platform offers a cloud runtime security suite for defending cloud workloads and shifting cloud security right, enabling security teams to shut down cloud attacks with maximum precision and minimal business disruption.",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "Preferred A-1",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security’s primary industry is Network Management Software.",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "Is Sweet Security a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security Company Profile and Key Stats",
+    "url": "https://fundediq.co/sweet-security-sweet-security-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Sweet Security team: 3 of 3 have an email address on file, 1 has a LinkedIn profile.",
+    "url": "https://fundediq.co/sweet-security-sweet-security-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "HyperGuest’s technology platform empowers hotels and travel providers to deliver rooms with maximum…",
+    "url": "https://fundediq.co/sweet-security-sweet-security-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Lasso Security is a pioneering comprehensive LLM cybersecurity startup that is committed to addressing the…",
+    "url": "https://fundediq.co/sweet-security-sweet-security-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Sweet SecurityがクラウドおよびAIセキュリティのために7,500万ドルを調達 – TokyoBlackHatNews",
+    "url": "https://blackhatnews.tokyo/archives/20164",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Sweet Security: Autonomous Protection for the AI Enterprise — Sweet Security is redefining enterprise cloud protection. As the leading provider of Runtime CNAPP and AI Security solutions, Sweet unifies runtime context with advanced AI intelligence to protect the modern enterprise.",
+    "url": "https://www.sweet.security/",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet SecurityがクラウドおよびAIセキュリティのために7,500万ドルを... — Nov 12, 2025 · AIの全ライフサイクルを対象とした新たなセキュリティ機能の導入直後、Sweet Securityは新たな投資を活用してグローバル展開と製品イノベーションを加速する計画です。 「クラウド攻撃はもはや予測可能なパターンには従いません。",
+    "url": "https://blackhatnews.tokyo/archives/20164",
+    "pass": 3
+   },
+   {
+    "quote": "About Sweet Security | Runtime Cloud & AI Security Platform — Learn about Sweet Security, the runtime security platform protecting cloud and AI applications. Detect real threats, reduce noise, and resolve incidents in minutes.",
+    "url": "https://www.sweet.security/about",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Sweet Security | Cloud & AI Security Platform — Contact Sweet Security to learn how our runtime cloud security platform helps teams gain visibility across cloud and AI workloads, detect real threats, and respond faster.",
+    "url": "https://www.sweet.security/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security - LinkedIn — Sweet Security delivers proactive runtime enforcement for cloud and AI. Through its Learning Loop, Sweet enables organizations to Attack, Fix, and Defend by proactively proving real attack paths ...",
+    "url": "https://www.linkedin.com/company/sweet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security: what the company sells, headquarters and ... — What the company sells Sweet Security sells a Runtime CNAPP platform that combines cloud visibility, vulnerability management, posture management, identity threat detection and API security with an AI Security Platform for securing models and agents. The company is privately funded, backed by investors including Evolution Equity Partne",
+    "url": "https://www.cisotribune.com/companies/sweet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security 2026 Company Profile: Valuation, Funding ...Sweet Security: Funding, Investors & Team (Nov 2026)Sweet Security Profile 2026: Revenue, Competitors & StrategySweet Security Revenue, Funding & Valuation - prospeo.ioSweet Security: Funding, Team & Investors | Startup IntrosSweet Security: $120M Funding & 131 Employees | MandosSweet Security Funding History: $108.0M | Indexed.vc — Inform",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security: Funding, Investors & Team (Nov 2026) — Sweet Security: Funding, Investors & Team (Nov 2026) Sweet’s Cloud Runtime Security Suite delivers first-to-market capabilities for defending cloud workloads, shifting cloud security right. Founded by retired, elite IDF commanders with prodigious expertise in offensive and defensive cloud security, Sweet’s approach elevates the ability of secu",
+    "url": "https://fundediq.co/sweet-security-sweet-security-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security Profile 2026: Revenue, Competitors & Strategy — What is Sweet Security's business focus and history? Sweet Security is a funded company based in Tel Aviv (Israel), founded in 2022 by Dror Kashti, Eyal Fisher, and Orel Ben Ishay. It operates in the Cybersecurity industry, specializing in Runtime CNAPP and AI security solutions. Sweet Security has raised a total of $120 million in fun",
+    "url": "https://dexteragent.ai/companies/sweet-security-1771746250",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security Revenue, Funding & Valuation - prospeo.io — Sweet Security has revenue of $1,000,000, estimated valuation of $3,200,000, $45,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Sweet Security was founded by elite Israeli cyber veterans, including the former CISO of the IDF and experts in offensive and defensive cloud security, who identified gaps in traditional static scanning tools that fail in dynamic cloud settings.",
+    "url": "https://startupintros.com/orgs/sweet-security",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "I agree to receive marketing emails and calls in line with Sweet’s",
+    "url": "https://www.sweet.security/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Sweet Security team: 3 of 3 have an email address on file, 1 has a LinkedIn profile.",
+    "url": "https://fundediq.co/sweet-security-sweet-security-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/sweet-security-sweet-security-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Every page on CISO Tribune and its network that carries this company, 105 in all.",
+    "url": "https://www.cisotribune.com/companies/sweet-security",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security has 86 total employees.",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "What is Sweet Security’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Sweet Security is",
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Sweet Security have?",
+    "url": "https://fundediq.co/sweet-security-sweet-security-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/sweet-security-sweet-security-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/sweet-security-sweet-security-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security Profile 2026: Revenue, Competitors & Strategy",
+    "url": "https://dexteragent.ai/companies/sweet-security-1771746250",
+    "pass": 3
+   },
+   {
+    "quote": "What is Sweet Security's annual revenue history?",
+    "url": "https://dexteragent.ai/companies/sweet-security-1771746250",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security Revenue",
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Sweet Security",
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Sweet Security?",
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Sweet Security have?",
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "ALD Automotive France",
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Sweet Security (@Sweet_cloud_sec) / Posts / X Sweet Attack is already making headlines. 🗞️ SecurityWeek covers the shift behind our launch: AI red teaming only works when the agent understands the real environment.",
+    "url": "https://x.com/Sweet_cloud_sec",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security (@SweetSecurity) / Posts / X Sweet Security (@SweetSecurity) - Posts - Sweet Security Software. | X (formerly Twitter)",
+    "url": "https://x.com/sweetsecurity",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security Launches Agentic AI Red Teaming to Counter ... The Cyber Security Hub™ (@TheCyberSecHub). 297 views. Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment’",
+    "url": "https://x.com/TheCyberSecHub/status/2054575299082519016",
+    "pass": 3
+   },
+   {
+    "quote": "Sofia Sweet on X: \"Jensen Huang getting caught with a ... Jensen Huang getting caught with a suspected Chinese spy is not a national security crisis. It's the greatest liquidity event in market history. He's running the Lou ...",
+    "url": "https://x.com/iluvusofia_xo/status/2120185739711328306",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security (@SweetSecurity) / Posts / X Apr 11, 2012 · Sweet Security (@SweetSecurity) - Posts - Sweet Security Software. | X (formerly Twitter)",
+    "url": "https://x.com/sweetsecurity",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security (@Sweet_cloud_sec) / Posts / X Jul 27, 2023 · Sweet Security (@Sweet_cloud_sec) - Posts - Proactive runtime enforcement for cloud and AI | X (formerly Twitter)",
+    "url": "https://x.com/Sweet_cloud_sec",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sweet Security - LinkedIn Sweet Security delivers proactive runtime enforcement for cloud and AI. Through its Learning Loop, Sweet enables organizations to Attack, Fix, and Defend by proactively proving real attack paths ...",
+    "url": "https://www.linkedin.com/company/sweet-security",
+    "pass": 3
+   },
+   {
+    "quote": "Saving some Sweet time with the new Sweet MCP server ... 🎉 Saving some Sweet time with the new Sweet MCP server. Connect Claude, ChatGPT, Codex or your own agent to Sweet. It runs on your own Sweet Security permissions, so your assistant only sees ...",
+    "url": "https://www.linkedin.com/posts/sweet-security_saving-some-sweet-time-with-the-new-sweet-activity-7525932130476920832-qjYW",
+    "pass": 3
+   },
+   {
+    "quote": "Dror Kashti - Co-Founder and CEO, Sweet Security | LinkedInOrel Ben Ishay - Co-Founder & CPEO at Sweet Security ...Sweet Security's Autonomous Protection tops Black Hat 2026 ...Sweet Security, led by ex-IDF cyber chiefs, secures $75M ...Sweet Security Jobs in United States (11,000+ Open Roles ... Co-Founder and CEO, Sweet Security · * An entrepreneur with success in turning technological innovatio",
+    "url": "https://il.linkedin.com/in/dror-kashti",
+    "pass": 3
+   },
+   {
+    "quote": "Orel Ben Ishay - Co-Founder & CPEO at Sweet Security ...Sweet Security's Autonomous Protection tops Black Hat 2026 ...Sweet Security, led by ex-IDF cyber chiefs, secures $75M ...Sweet Security Jobs in United States (11,000+ Open Roles ... Co-Founder & CPEO at Sweet Security · ניסיון: Sweet Security · חינוך: Tel Aviv University · מיקום: Israel · 500+ חיבורים על LinkedIn. צפה Orel Ben Ishay בפרופיל ",
+    "url": "https://il.linkedin.com/in/orelbenishay",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Sweet Security - Facebook Jul 7, 2025 · 💚💖Sweet + Jit: Identify which CVEs are actively loaded in an application’s memory, so you can stop wasting time on redundant issues. We're thrilled to announce a partnership between Sweet and Jit combining our strengths to enhance application security.",
+    "url": "https://www.facebook.com/p/Sweet-Security-61573614868894/",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security - Facebook We're thrilled to announce a partnership between Sweet and Jit combining our strengths to enhance application security. This collaboration bridges the gap between static code analysis and runtime insights, ensuring vulnerabilities aren’t just detected but prioritized and remediated efficiently.",
+    "url": "https://www.facebook.com/61573614868894/",
+    "pass": 3
+   },
+   {
+    "quote": "Sweet Security Cameras & Intercom Solutions | Waltham Cross Oct 21, 2025 · Posts Sweet Security Cameras & Intercom Solutions 1y · Public Safety made easy — install reliable cameras and intercoms to protect your loved ones and business.",
+    "url": "https://www.facebook.com/p/Sweet-Security-Cameras-Intercom-Solutions-61582724516431/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sweet.security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweet.security/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweet.security/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweet.security/career",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/671e67b935e33231695d5a63/6739d4791c22434577c877f1_Evolution%20partners.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.sweet.security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blackhatnews.tokyo/archives/20164",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweet.security/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hackernoon.com/lang/ja/sweet-security-brings-autonomous-protection-to-the-ai-enterprise-with-new-blocking-capabilities",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweet.security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sweet.security/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sweet-security",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cisotribune.com/companies/sweet-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforce.com/partners/become-a-partner/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databricks.com/blog/introducing-new-databricks-partner-program-and-well-architected-framework-isvs-and-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/533226-79",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/sweet-security-sweet-security-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dexteragent.ai/companies/sweet-security-1771746250",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/sweet-security-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Sweet_cloud_sec",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sweetsecurity",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TheCyberSecHub/status/2054575299082519016",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/iluvusofia_xo/status/2120185739711328306",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sweet-security",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/sweet-security_saving-some-sweet-time-with-the-new-sweet-activity-7525932130476920832-qjYW",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/dror-kashti",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/orelbenishay",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Sweet-Security-61573614868894/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61573614868894/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Sweet-Security-Cameras-Intercom-Solutions-61582724516431/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sweetsecurity",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Sweet_cloud_sec",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sweet Security 日本 導入",
+   "results": [
+    "https://www.sweet.security/",
+    "https://blackhatnews.tokyo/archives/20164",
+    "https://www.sweet.security/about",
+    "https://hackernoon.com/lang/ja/sweet-security-brings-autonomous-protection-to-the-ai-enterprise-with-new-blocking-capabilities",
+    "https://atmarkit.itmedia.co.jp/ait/articles/2506/27/news001.html",
+    "https://security-king.jp/securitysoft-share/",
+    "https://www.softbank.jp/biz/news/security/20260323/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sweet Security 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.anthropic.com/news/opening-our-tokyo-office"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sweet Security Japan",
+   "results": [
+    "https://www.sweet.security/",
+    "https://www.sweet.security/contact",
+    "https://www.linkedin.com/company/sweet-security",
+    "https://www.cisotribune.com/companies/sweet-security",
+    "https://www.f6s.com/companies/security/japan/co",
+    "https://www.cbinsights.com/company/sweet-security",
+    "https://www.cybersecurityintelligence.com/sweet-security-9929.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sweet Security manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Sweet Security white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.salesforce.com/partners/become-a-partner/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.databricks.com/blog/introducing-new-databricks-partner-program-and-well-architected-framework-isvs-and-data",
+    "https://www.facebook.com/groups/1390590848697838/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.canva.com/partners/reseller/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sweet Security founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/533226-79",
+    "https://fundediq.co/sweet-security-sweet-security-funding/",
+    "https://dexteragent.ai/companies/sweet-security-1771746250",
+    "https://prospeo.io/c/sweet-security-revenue",
+    "https://startupintros.com/orgs/sweet-security",
+    "https://mandos.io/data/companies/sweet-security",
+    "https://indexed.vc/companies/sweet-security"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Sweet Security",
+   "results": [
+    "https://note.com/incrementum/n/nb8987cfe72c1?hl=en",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/luciferlove",
+    "https://note.com/tag/秋冬ファッション",
+    "https://note.com/minato_kame/n/n2a11c73f4507"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Sweet Security",
+   "results": [
+    "https://x.com/Sweet_cloud_sec",
+    "https://x.com/sweetsecurity",
+    "https://x.com/TheCyberSecHub/status/2054575299082519016",
+    "https://x.com/iluvusofia_xo/status/2120185739711328306",
+    "https://x.com/Sweet_Bee1972/status/2120186969476968804",
+    "https://x.com/SweetBrownMMA/status/2120221098641948942",
+    "https://x.com/GroundhogStrat/status/2120250846705234051"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Sweet Security",
+   "results": [
+    "https://www.linkedin.com/company/sweet-security",
+    "https://www.linkedin.com/posts/sweet-security_saving-some-sweet-time-with-the-new-sweet-activity-7525932130476920832-qjYW",
+    "https://il.linkedin.com/in/dror-kashti",
+    "https://il.linkedin.com/in/orelbenishay",
+    "https://www.linkedin.com/posts/sweet-security_agentsecurity-runtimesecurity-aisecurity-activity-7492580273709199360-JkD4",
+    "https://www.linkedin.com/pulse/sweet-security-led-ex-idf-cyber-chiefs-secures-75m-bkade",
+    "https://www.linkedin.com/jobs/sweet-security-jobs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Sweet Security",
+   "results": [
+    "https://www.facebook.com/p/Sweet-Security-61573614868894/",
+    "https://www.facebook.com/61573614868894/",
+    "https://www.facebook.com/Sweet-Security-104040032235631/",
+    "https://www.facebook.com/p/Sweet-Security-Cameras-Intercom-Solutions-61582724516431/",
+    "https://www.facebook.com/secboulevard/posts/sweet-securitys-new-ai-agent-conducts-continuous-penetration-testing-by-indexing/1603496158445865/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/tinylegend01/videos/she-filled-a-stroller-with-bread-milk-for-her-hungry-baby-sister-then-security-s/1858264015144508/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Sweet Security note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Sweet Security X 投稿",
+   "results": [
+    "https://x.com/sweetsecurity",
+    "https://x.com/Sweet_cloud_sec",
+    "https://www.sweet.security/",
+    "https://x.com/sweet_twjp",
+    "https://mosoclub.com/archives/8714970.html",
+    "https://x.com/mayumi_ss1227/status/2076889304195117519",
+    "https://x.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部33頁・検索12回）"
+ }
+}

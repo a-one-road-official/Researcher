@@ -1,0 +1,1258 @@
+{
+ "name": "Alitheon",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜リマイン1",
+ "researched_at": "2026-11-11T00:22:18.502290+00:00",
+ "official_url": "https://www.alitheon.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2017, Bellevue, WA",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Alitheon — FeaturePrint® Optical-AI Object Authentication",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FeaturePrint® Optical-AI Technology",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FeaturePrint uses machine vision to identify, verify, and trace physical items from their inherent surface features. No labels, no barcodes, no tags, no chips — just a photo from a standard camera, even a mobile phone.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FeaturePrint® identifying and authenticating physical items from a single photograph.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Across every industry, organizations rely on barcodes, tags, labels, and etchings to identify and serialize physical items. These proxies can be damaged, removed, transferred, or counterfeited. When the wrong item enters your supply chain — either by mistake or through fraudulent activity — the consequences can be severe, ranging from financial loss to health & safety hazards.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FeaturePrint leverages the inherent micro-variations in every manufactured object — like a fingerprint for physical items. No modification. No special equipment. No training data.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our optical-AI analyzes the object’s unique surface micro-features and creates a compact digital fingerprint — no larger than 500KB. No Training Data needed. Object agnostic.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At any point in the value chain, take another photo. FeaturePrint matches it with >99.9% accuracy and zero false positives.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No training data needed — works on any object, out of the box.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why FeaturePrint Is Better",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No training data needed",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Anti-Counterfeit & Brand Protection",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Authenticate the specific item — not just its class. FeaturePrint irrefutably verifies that the product in hand is the exact product that was manufactured, eliminating counterfeits, grey-market diversion, and fraudulent substitution at the individual item level. Full traceability and provenance from origin to end user. Think of it as Zero Trust for Things.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FeaturePrint operates in high-consequence environments where misidentification or fraud can result in financial loss, reputational damage, and health & safety risks.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Luxury Goods, Collectibles & Precious Metals",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect brand integrity, verify provenance, and eliminate counterfeiting in high-value consumer markets.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline inventory management and prevent fraudulent parts from entering sensitive government and military systems.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From circuit boards to server hardware, FeaturePrint serializes and authenticates electronic components without labels or markings.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FeaturePrint provides the certainty these environments demand: a tamper-proof, inherent digital identity that cannot be faked, removed, or transferred.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tamper-proof by design",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built on a foundation that protects you too.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FeaturePrint is backed by a robust patent portfolio spanning 55+ issued patents across optical-AI identification, authentication, and traceability. When you deploy FeaturePrint, you are not just adopting a technology — you are building on an IP-protected foundation that shields your operations, your partnerships, and your competitive position.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deep IP coverage across optical-AI identification, item authentication, serialization, and supply chain traceability — protecting the core technology that underpins your deployment.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protection from Imitation",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partners and customers deploying FeaturePrint operate under the umbrella of Alitheon’s IP. Third parties cannot legally replicate the approach, safeguarding your competitive advantage.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Studies | Alitheon® FeaturePrint®",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Deployments where FeaturePrint® solved a specific problem. Each one sets out",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "These are real-world scenarios showing how FeaturePrint applies to problems like these.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "1 / 7 · Healthcare & Personal Care · Product diversion",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A global skincare brand was losing control of its authorized distribution. Genuine product intended for one channel was appearing at unauthorized sellers, and because the goods were real, no authenticity test flagged them. FeaturePrint gave each unit an identity taken from its own surface, so the brand could establish which specific units had left the authorized path and where they left it.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Individual units identified at unauthorized sellers, not just the production lots they came from",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "No change to the product, its packaging or the production line",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The brand suspected it had a diversion problem and could not prove where it started. Genuine product was surfacing through sellers it had never authorized, at prices that undercut the partners who played by the rules.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The brand had batch and lot coding, as most manufacturers do. That identifies a production run, not a unit.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Channel information printed on outer packaging is removed or discarded before resale.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Each unit was enrolled at manufacture from a photograph of its own surface, and that identity was recorded against its authorized destination and channel. Nothing was added to the product or the packaging.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The identity a diverter would need to remove is the product's own surface. There is nothing to peel off, reprint or discard, so the link between a unit and its intended destination survives everything that happens to the packaging.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The same enrolled identity that exposed the diversion also authenticates the product at retail and in the secondary market, using the same photograph and the same workflow.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "FeaturePrint for Healthcare",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How a Distributor Caught Expired Product Relabeled With Extended Dates",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Product that had passed its expiry date was being relabeled with extended dates and sold on. Every printed control on the package agreed with the fraud, because the fraud was the printing. FeaturePrint identified each unit from its own surface, which still matched the original enrollment and its true production record — regardless of what the new label said.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Relabeled units traced back to their original enrollment and true production record",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Detection independent of anything printed on the package",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Expired stock was re-entering the market with fresh labels showing later dates. To anyone inspecting the package, the product was in date. The label said so, and the label was new and clean.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "This is a harder problem than counterfeiting. The product inside is the real product, made by the real manufacturer. Only one fact about it has been falsified, and that fact lives entirely on a printed surface that has been replaced.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Why printed controls could not catch it",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Every conventional control for expiry is printed, which means relabeling defeats all of them at once.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The expiry date is printed, so a new label carries a new date.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Barcodes and serials are printed, so they are reprinted along with it.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Tamper-evident features protect the contents, not the accuracy of the date on the outside.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Alitheon | Linx Express | 株式会社リンクス 製品サイト",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "「LINX Express」はリンクスの登録型の無料電子メール配信サービスです",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "CODESYS Professional Developer Editionが大幅に機能拡張中！",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "本号では、CODESYS Professional Developer Edition（通称PDE）をご紹介します",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "いつも「LINX Express」をご愛読いただき、誠にありがとうございます",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに LINX Express Vol.582にて、産業用ドライブレコーダー「LINX Vision Station」をご紹介しました",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "HALCON Progress 26.05 – 進化したAI検出と自動最適化、新開発環境HDevelopEVOがもたらす次世代画像処理",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "HALCON Progress Editionは半年ごとに新しい画像処理機能が追加される、進化を続けるソフトウェアパッケージです",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "カメラの小型・低発熱と高性能を両立する新カメラソリューション「Proteus」",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "カメラで撮像した画像は、GigE Vision や USB3 Vision、Camera Link、CoaXPress といった標準インタフェースを介して PC に伝送され、PCに搭載されたCPU上で画像処理が行われます（図1）",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Capture an image using any standard off-the-shelf camera — a mobile phone or industrial camera. No special equipment needed.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Phones or standard industrial cameras are all that is needed.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly identify and trace every individual item through its entire lifecycle — from manufacturing to distribution, field use, returns, and reuse. Full traceability across the supply chain. Eliminate human error with no-touch, camera-based serialization at scale.",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Transportation — Automotive & Aerospace",
+    "url": "https://alitheon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No change to the product, its packaging or the production line",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The brand had batch and lot coding, as most manufacturers do. That identifies a production run, not a unit.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "This is a harder problem than counterfeiting. The product inside is the real product, made by the real manufacturer. Only one fact about it has been falsified, and that fact lives entirely on a printed surface that has been replaced.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Zero Trust architecture holds that nothing is trusted by default and everything is verified. The operator had applied that rigorously to software and, like most organizations, not at all to the hardware underneath it.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "and works with customers in aerospace, government and defense, healthcare, automotive, electronics, and",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": ", does two jobs. It catches fakes — confirming a product is the genuine one that left the factory, not a counterfeit or a swap. And it tracks real things — following each individual item through its life, from the factory to wherever it ends up. Alitheon focuses on places where getting this wrong is expensive or dangerous.",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "Six: aerospace, government and defense, healthcare, automotive, electronics and",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "Holograms, security labels and certificates of authenticity can all be copied or moved to a fake, and good counterfeits now come with convincing versions of all three. FeaturePrint makes the product itself the proof. Its own surface is recorded once at the factory and checked later from a phone photo. There is no label to copy, no certificate to forge and no hologram to fake.",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "FeaturePrint is object-agnostic and requires no training data, so it works on any object with a physical surface immediately. Documented applications span PCBAs and integrated circuits, aircraft structural parts, hydraulic components, avionics, vessel filters, engine and safety-critical automotive components,",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "implantable medical devices",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "No. FeaturePrint uses standard off-the-shelf cameras — a mobile phone or an ordinary industrial camera is sufficient. It requires no special lighting, no surface preparation and no dedicated scanner or reader hardware. This is a large part of why it deploys without new infrastructure.",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "FeaturePrint requires no new hardware. It operates as a camera service and mobile application that overlays on current workflows, using standard smartphones or existing industrial cameras. Alitheon's stated design goal is zero operational friction: deployment with the cameras and processes an organization already has.",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "Can FeaturePrint run on a manufacturing line at volume?",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. FeaturePrint integrates with industrial camera systems on manufacturing lines for high-throughput authentication, and handles the scale, speed and lighting variation of electronics manufacturing environments. In automotive manufacturing it works with standard industrial cameras and requires no special lighting or surface preparation.",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "Which aerospace standards does FeaturePrint support?",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "Most tracking works by batch: you know a shipment came from a particular production run. Item-level traceability follows one specific item instead — this exact part, not one of the fifty thousand made that week. FeaturePrint tracks at that level across the item's whole life, from factory to distribution, use, repair and disposal, and it does it without any barcode system underneath.",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "How is FeaturePrint used in aerospace?",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "In aerospace, FeaturePrint is used for AOG counterfeit prevention, MRO parts authentication, PMA parts verification, bogus parts detection and inventory integrity. Parts are authenticated before installation from a standard camera, confirming provenance, service history and authenticity before a wrench turns. It works on",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "How is FeaturePrint used in automotive?",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "FeaturePrint is used by manufacturers, OEMs, distributors, and marketplaces in several global industries including healthcare, transportation,",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Alitheon",
+    "url": "https://www.casestudies.com/customer/alitheon",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Alitheon achieves part traceability without costly marking with Wood’s AI-based FeaturePrint™ | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/wood/case-study/integrating-the-first-ai-based-featureprinttm-for-automotive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Alitheon achieves part traceability without costly marking with Wood’s AI-based FeaturePrint™",
+    "url": "https://www.casestudies.com/company/wood/case-study/integrating-the-first-ai-based-featureprinttm-for-automotive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Integrating the first AI-based FeaturePrint™ for automotive manufacturing",
+    "url": "https://www.casestudies.com/company/wood/case-study/integrating-the-first-ai-based-featureprinttm-for-automotive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/wood/case-study/integrating-the-first-ai-based-featureprinttm-for-automotive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/wood/case-study/integrating-the-first-ai-based-featureprinttm-for-automotive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "See why customers chose Alitheon's products and services. Alitheon's customers include",
+    "url": "https://www.cbinsights.com/company/alitheon/customers",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Authentication returns a result with zero false positives, so a confirmed unit is confirmed — the finding held up in conversations with channel partners rather than becoming a dispute about method.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "FeaturePrint is used for OEM parts authentication, gray market parts detection, warranty verification and",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "compliance for EV batteries. Genuine OEM parts are enrolled at manufacture and authenticated at any downstream point — dealer, service center, aftermarket or end of life. For warranty claims, it verifies that the part being claimed is the exact genuine enrolled item rather than a counterfeit, a substitute, or a part from a different vehicle.",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "FeaturePrint is used by manufacturers, OEMs, distributors, and marketplaces in several global industries including healthcare, transportation,",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "itself carried its identity.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A batch code covers thousands of units, so it narrows the source to a run rather than a shipment.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "When units were acquired from unauthorized sellers, a photograph was enough to establish which specific units they were. Because each identity was tied to an intended destination, the brand could work backwards from the recovered goods to the point where they left the authorized path.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The expiry date is printed, so a new label carries a new date.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "When a suspect unit was photographed, it matched an enrollment that carried the real dates. The relabeling had changed what the package claimed; it had not changed the item, and the item is what FeaturePrint reads.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The operator verified software continuously and trusted hardware on arrival. Boards were accepted because the shipment matched the purchase order and the asset tag matched the spreadsheet.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A substituted board carries whatever sticker was put on it and reconciles cleanly.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Purchase orders and packing lists describe what was ordered, not what arrived.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The same enrollment carries forward. An item authenticated on return can be authenticated again at its next sale, so each item accumulates a verifiable history rather than starting over with every transaction.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Gold arrives as doré, is refined, and leaves as finished or minted bars. At each step the metal changes form, and the identity assigned to it has to be re-established.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The refinery's customers — vaults and banks — need certainty that what they are holding came from a legitimate, documented supply chain. That certainty was carried entirely by stamps and paperwork, both of which travel alongside the metal rather than being part of it.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "An assay certificate describes a bar; it does not prove it belongs to the bar it arrives with.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A vault or bank receiving a bar can verify it from a photograph, against the refinery's enrollment, without trusting a stamp, a seal or a document that arrived in the same shipment.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A pass became a sequence of photographs taken with equipment personnel already carry. FeaturePrint requires no new hardware and operates as a camera service and mobile application over existing workflows, so the process changed without the surrounding system changing.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A defense supply chain was relying on certifications, approved suppliers and markings to keep fraudulent parts out — controls that describe the channel rather than the component that actually arrived. FeaturePrint authenticates each part against its own enrolled surface before acceptance, so a part that is not the enrolled part does not enter the chain.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "No. FeaturePrint uses standard off-the-shelf cameras — a mobile phone or an ordinary industrial camera is sufficient. It requires no special lighting, no surface preparation and no dedicated scanner or reader hardware. This is a large part of why it deploys without new infrastructure.",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "FeaturePrint is used for OEM parts authentication, gray market parts detection, warranty verification and",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "compliance for EV batteries. Genuine OEM parts are enrolled at manufacture and authenticated at any downstream point — dealer, service center, aftermarket or end of life. For warranty claims, it verifies that the part being claimed is the exact genuine enrolled item rather than a counterfeit, a substitute, or a part from a different vehicle.",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "Alitheon has 25 total employees.",
+    "url": "https://pitchbook.com/profiles/company/181890-10",
+    "pass": 3
+   },
+   {
+    "quote": "What is Alitheon’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/181890-10",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Alitheon is",
+    "url": "https://pitchbook.com/profiles/company/181890-10",
+    "pass": 3
+   },
+   {
+    "quote": "Roei Ganzarski is listed as CEO at Alitheon.",
+    "url": "https://fundediq.co/alitheon-alitheon-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Alitheon have?",
+    "url": "https://fundediq.co/alitheon-alitheon-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/alitheon-alitheon-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/alitheon-alitheon-com-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Alitheon | Linx Express | 株式会社リンクス 製品サイト",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "産業オープンネット展2026_東京開催レポート",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "7月に続き、9月11日に東京開催の産業オープンネット展に出展しました",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "東京開催では800名を超える多くの来場者がありました",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "― 3つの導入事例から見る、現場に合わせた活用方法 ―",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、「HDevEngine」「マッチング・OCR・3D」「ディープラーニング」という異なる技術を活用した3つの導入事例をご紹介します",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "来る9月8日（火）〜11日（金）、東京ビッグサイトにて開催される「国際物流総合展2026」に、リンクスも出展いたします",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "今年は7/7（火）に大阪、9/11（金）に東京にて開催です",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、日本製図器工業株式会社様でのTRITON活用事例を紹介いたします",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リンクスは、最先端の技術を世界中から",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "Alitheon | Linx Express | 株式会社リンクス 製品サイト",
+    "url": "https://linx.jp/linx_express/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リンクスは、Alitheon社の国内総代理店として、2021年11月より画像トレーサビリティソフトウェア「FeaturePrintTMシステム」の正式販売を開始いたしました",
+    "url": "https://linx.jp/linx_express/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社リンクスは、最先端の技術を世界中から",
+    "url": "https://linx.jp/linx_express/alitheon/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Alitheon — FeaturePrint® Optical-AI Object Authentication — Founded in 2017 by pioneers in advanced mathematics and machine vision, Alitheon set out to solve the $4 trillion problem of counterfeit goods, untraceable items, and poor physical identification.",
+    "url": "https://alitheon.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Alitheon | Linx Express | 株式会社リンクス 製品サイト — Sep 16, 2026 · では、これらの機能は実際の現場でどのように活用されているのでしょうか。 今回は、「HDevEngine」「マッチング・OCR・3D」「ディープラーニング」という異なる技術を活用した3つの導入事例をご紹介します。 それぞれの事例を通して、HALCONがさまざまな ...",
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "データコード・刻印不要でトレーサビリティを実現！ 「FeaturePrintシ... — Jan 26, 2022 · 画像トレーサビリティソフトウェアFeaturePrint TM システム 株式会社リンクスは、Alitheon社の国内総代理店として、2021年11月より画像トレーサビリティソフトウェア「FeaturePrint TM システム」の正式販売を開始いたしました。",
+    "url": "https://linx.jp/linx_express/395.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Alitheon | LinkedIn — Every physical object has a unique surface — a microscopic structure as distinctive as a human fingerprint. Alitheon's FeaturePrint turns that surface into the object's identity...with a...",
+    "url": "https://jp.linkedin.com/company/alitheon",
+    "pass": 3
+   },
+   {
+    "quote": "Alitheon | Linx Express | 株式会社リンクス 製品サイト — Jan 26, 2022 · Alitheon（アリセオン）は、40年以上にも及ぶ画像処理/検索アルゴリズム研究の成果をもとに開発した「FeaturePrintTMシステム」を取り扱う、米国のソフトウェアメーカーです。 製品の品質管理の観点でトレーサビリティの重要性が...",
+    "url": "https://linx.jp/linx_express/alitheon/",
+    "pass": 3
+   },
+   {
+    "quote": "FeaturePrint FAQ — Alitheon® Optical-AI Object Authentication — Sep 22, 2026 · What does Alitheon do? Alitheon solves a simple problem: proving that the object in front of you is the exact object it is supposed to be. Its technology, FeaturePrint, does two jobs. It catches fakes — confirming a product is the genuine one that left the factory, not a counterfeit or a swap.",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Alitheon Uses Software & Services — Explore case studies featuring Alitheon as the customer — learn how vendors and partners helped Alitheon solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/alitheon",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Alitheon achieves part traceability without ... — Alitheon, a software technology provider, was faced with the challenge of meeting the strict traceability requirements in automotive manufacturing, which traditionally required the costly and time-consuming process of marking each part with a unique number.",
+    "url": "https://www.casestudies.com/company/wood/case-study/integrating-the-first-ai-based-featureprinttm-for-automotive-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Alitheon Customers - CB Insights — Customers evaluate the quality of Alitheon’s products using the following success metrics. See why customers chose Alitheon's products and services. Alitheon's customers include The ORDRE Group, Art Legacy Institute, and LBMA.",
+    "url": "https://www.cbinsights.com/company/alitheon/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Alitheon® FeaturePrint® — Deployments where FeaturePrint® solved a specific problem. Each one sets out what was going wrong, why the controls already in place could not catch it, and what changed once the item itself carried its identity. These are real-world scenarios showing how FeaturePrint applies to problems like these.",
+    "url": "https://alitheon.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Alitheon – Revenue Estimate & Market Landscape – 2026 — Discover Alitheon's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/alitheon",
+    "pass": 3
+   },
+   {
+    "quote": "Alitheon 2026 Company Profile: Valuation, Funding & Investors ...Alitheon - 2026 Company Profile, Team, Funding & Competitors ...Alitheon: Funding, Investors & Team (Nov 2026) | FundedIQAlitheon Revenue 2023: $2.2M ARR (Bootstrapped)Alitheon — Company Profile | The Company CheckAlitheon Company Profile: SaaS & Technology | 2026 | PrimoDato — Information on valuation, funding, acquisitions, investo",
+    "url": "https://pitchbook.com/profiles/company/181890-10",
+    "pass": 3
+   },
+   {
+    "quote": "Alitheon - 2026 Company Profile, Team, Funding & Competitors ...Alitheon: Funding, Investors & Team (Nov 2026) | FundedIQAlitheon Revenue 2023: $2.2M ARR (Bootstrapped)Alitheon — Company Profile | The Company CheckAlitheon Company Profile: SaaS & Technology | 2026 | PrimoDato — Mar 4, 2026 · Alitheon - About the company Alitheon is a series A company based in Bellevue (United States), founded in 2",
+    "url": "https://tracxn.com/d/companies/alitheon/__Bvo7CCzYl50C24hsrQABf7NOs8aCTCWejn13etZgVx0",
+    "pass": 3
+   },
+   {
+    "quote": "Alitheon: Funding, Investors & Team (Nov 2026) | FundedIQ — Alitheon has raised $18.0M across 2 funding rounds on record, the most recent a Series A of $8.0M announced in May 2026. That round is in line with the $8.0M median round size for Consumer Electronics companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/alitheon-alitheon-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Alitheon Revenue 2023: $2.2M ARR (Bootstrapped) — Alitheon 2023 revenue: $2.2M ARR. Bootstrapped (no outside funding). 24 employees. Industry: Image Recognition Software. Founded 2016 Updated Dec 1, 2023.",
+    "url": "https://getlatka.com/companies/alitheon.com",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Alitheon asks prospective users to request a discussion with its specialists, who scope how FeaturePrint fits existing authentication, traceability and procurement workflows. Tests and trials of the technology are available, and the company can be reached at info@alitheon.com.",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "Alitheon is headquartered in Bellevue, Washington, United States, and can be reached at info@alitheon.com.",
+    "url": "https://alitheon.com/faq",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/181890-10",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/alitheon-alitheon-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#Alitheon\" - Results on X | Live Posts & Updates Das Startup #Alitheon will #FeaturePrint, eine Art optisch-digitalen Fingerabdruck von Objekten, für deren Erkennung nutzen. Sie sind überzeugt davon, #Barcode, #QRCode, #RFID und Co. ablösen zu können.",
+    "url": "https://x.com/hashtag/Alitheon",
+    "pass": 3
+   },
+   {
+    "quote": "#Alitheon, a Bellevue, Wash.-based optical A.I. technology ... #Alitheon, a Bellevue, Wash.-based optical A.I. technology company, raised $10 million in Series A funding co-led by BMW i Ventures and Imagine Ventures. #technology",
+    "url": "https://x.com/SECTORAdvisors/status/1572581187646001152",
+    "pass": 3
+   },
+   {
+    "quote": "Phil Derbyshire (@NanowireUK) / Posts / X @alitheon and aXedras to integrate tech to tackle #authentication, and #trackandtrace in precious metals. From fake #gold, to illegal gold, Alitheon's FeaturePrint tech in aXedras' digital ledger, offers a powerful solution.",
+    "url": "https://x.com/NanowireUK",
+    "pass": 3
+   },
+   {
+    "quote": "A full day at the Bullion Integrity Forum 2026 in Zürich ... @alitheon demoed FeaturePrint, a \"biometric\" treatment for objects that recognizes individual bars, even damaged. aXedras walked through new additions to their product suite for dealers and vaults.",
+    "url": "https://x.com/DGLD_Official/status/2045127715783659911",
+    "pass": 3
+   },
+   {
+    "quote": "@alitheon | X The latest posts from @alitheon",
+    "url": "https://x.com/alitheon",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Alitheon - LinkedIn Alitheon's FeaturePrint turns that surface into the object's identity...with a standard off-the-shelf camera. For decades, people identified physical products the way we once identified people ...",
+    "url": "https://www.linkedin.com/company/alitheon",
+    "pass": 3
+   },
+   {
+    "quote": "Roei G. - Alitheon, Inc. | LinkedInDan Firstenberg - SWE @ Alitheon | Prev @ Oracle | CS - LinkedInIris Nadir - Chief of Staff at Alitheon | LinkedInDavid Ross - Alitheon | LinkedInEpisode #71: Fighting Counterfeits: Alitheon CEO Roei ...Philip Derbyshire – Providing secure digital identities for ... Nov 25, 2021 · · Experience: Alitheon, Inc. · Education: SDA Bocconi · Location: Greater Seattle A",
+    "url": "https://www.linkedin.com/in/roeiganzarski",
+    "pass": 3
+   },
+   {
+    "quote": "Dan Firstenberg - SWE @ Alitheon | Prev @ Oracle | CS - LinkedIn SWE @ Alitheon | Prev @ Oracle | CS @ UC Davis Alum | TEDx Speaker · I’m a Computer Science & Statistics graduate focused on building systems, technical and personal, that turn uncertainty into...",
+    "url": "https://www.linkedin.com/in/dan-firstenberg",
+    "pass": 3
+   },
+   {
+    "quote": "Iris Nadir - Chief of Staff at Alitheon | LinkedIn Chief of Staff at Alitheon · Results-driven professional with a strong background in both project and configuration management.",
+    "url": "https://www.linkedin.com/in/iris-nadir-9435b5196",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Tomorrow on DEMO: Roei Ganzarski, CEO of Alitheon, joins ... Tomorrow on DEMO: Roei Ganzarski, CEO of Alitheon, joins Keith Shaw to talk tech, innovation, and what’s next. Don’t miss it on http://spr.ly/6181foiEN!...",
+    "url": "https://www.facebook.com/CIOfacebook/videos/dem25_025_alitheon_promomp4/1509459620415370/",
+    "pass": 3
+   },
+   {
+    "quote": "bizango - Alitheon is a new wave of innovation, developing ... Jun 14, 2022 · Alitheon is a new wave of innovation, developing technology that enables authentication of individual objects. This technology is advanced, portable, and...",
+    "url": "https://www.facebook.com/WeAreBizango/posts/alitheon-is-a-new-wave-of-innovation-developing-technology-that-enables-authenti/10161492438965730/",
+    "pass": 3
+   },
+   {
+    "quote": "Vanguard Vision - Alitheon’s optical artificial... | Facebook Jun 14, 2022 · Alitheon’s optical artificial intelligence system can authenticate products by simply taking a picture. #traceability #serialization #counterfeit...",
+    "url": "https://www.facebook.com/VanguardVision/posts/alitheons-optical-artificial-intelligence-system-can-authenticate-products-by-si/445331350926485/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://alitheon.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alitheon.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://alitheon.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://linx.jp/linx_express/395.html/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://usagi-giken.com/claude-mythos-japan-government-megabank-dod-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alitheon.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/alitheon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://linx.jp/linx_express/alitheon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alitheon.com/faq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/alitheon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/wood/case-study/integrating-the-first-ai-based-featureprinttm-for-automotive-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/alitheon/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/alitheon",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/181890-10",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/alitheon/__Bvo7CCzYl50C24hsrQABf7NOs8aCTCWejn13etZgVx0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/alitheon-alitheon-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/Alitheon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SECTORAdvisors/status/1572581187646001152",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NanowireUK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DGLD_Official/status/2045127715783659911",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/alitheon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/roeiganzarski",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/dan-firstenberg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/iris-nadir-9435b5196",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CIOfacebook/videos/dem25_025_alitheon_promomp4/1509459620415370/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/WeAreBizango/posts/alitheon-is-a-new-wave-of-innovation-developing-technology-that-enables-authenti/10161492438965730/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VanguardVision/posts/alitheons-optical-artificial-intelligence-system-can-authenticate-products-by-si/445331350926485/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/alitheon",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Alitheon 日本 導入",
+   "results": [
+    "https://alitheon.com/",
+    "https://linx.jp/linx_express/tax_linx_express/maker/alitheon/",
+    "https://linx.jp/linx_express/395.html/",
+    "https://usagi-giken.com/claude-mythos-japan-government-megabank-dod-2026/",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
+    "https://mainichi.jp/articles/20261107/k00/00m/010/253000c",
+    "https://www.sbbit.jp/article/fj/185383"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alitheon 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/アルテアエンジニアリング",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alitheon Japan",
+   "results": [
+    "https://alitheon.com/",
+    "https://jp.linkedin.com/company/alitheon",
+    "https://linx.jp/linx_express/alitheon/",
+    "https://alitheon.com/faq",
+    "https://www.alten-japan.com/",
+    "https://linx.jp/linx_express/395.html/",
+    "https://www.heraeus.com/ja/news-and-stories/digital-fingerprint-at-argor-alitheon/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alitheon manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/alitheon",
+    "https://www.casestudies.com/company/wood/case-study/integrating-the-first-ai-based-featureprinttm-for-automotive-manufacturing",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.cbinsights.com/company/alitheon/customers",
+    "https://alitheon.com/case-studies",
+    "https://alitheon.com/use-cases",
+    "https://www.woodgroup.com/solutions/case-studies/integrating-the-first-ai-based-peatureprint-for-automotive-manufacturing"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alitheon white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.seoreseller.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://opensrs.com/campaigns/become-a-domain-reseller",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alitheon founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/alitheon",
+    "https://pitchbook.com/profiles/company/181890-10",
+    "https://tracxn.com/d/companies/alitheon/__Bvo7CCzYl50C24hsrQABf7NOs8aCTCWejn13etZgVx0",
+    "https://fundediq.co/alitheon-alitheon-com-funding/",
+    "https://getlatka.com/companies/alitheon.com",
+    "https://www.thecompanycheck.com/company/b/alitheon/wh9prrmyzwthr3mmc",
+    "https://primodato.com/companies/alitheon-3279"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Alitheon",
+   "results": [
+    "https://note.com/shinonagi_write/n/nbdc4ba285e9b",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/r_tkhs/n/n7169c2d1ed8c",
+    "https://note.com/muratamasashi/n/n714eb61d1cc7",
+    "https://note.com/ueda_news24/n/n593474115c49",
+    "https://note.com/ikedanob/n/nc094e82438b1"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Alitheon",
+   "results": [
+    "https://x.com/hashtag/Alitheon",
+    "https://x.com/SECTORAdvisors/status/1572581187646001152",
+    "https://x.com/NanowireUK",
+    "https://x.com/DGLD_Official/status/2045127715783659911",
+    "https://x.com/Heraeus",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/x_mol_/status/2118928645742116883"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Alitheon",
+   "results": [
+    "https://www.linkedin.com/company/alitheon",
+    "https://www.linkedin.com/in/roeiganzarski",
+    "https://www.linkedin.com/in/dan-firstenberg",
+    "https://www.linkedin.com/in/iris-nadir-9435b5196",
+    "https://www.linkedin.com/in/david-ross-38698b1",
+    "https://www.linkedin.com/pulse/episode-71-fighting-counterfeits-alitheon-fyrmc",
+    "https://de.linkedin.com/in/philipderbyshire"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Alitheon",
+   "results": [
+    "https://www.facebook.com/CIOfacebook/videos/dem25_025_alitheon_promomp4/1509459620415370/",
+    "https://www.facebook.com/WeAreBizango/posts/alitheon-is-a-new-wave-of-innovation-developing-technology-that-enables-authenti/10161492438965730/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/VanguardVision/posts/alitheons-optical-artificial-intelligence-system-can-authenticate-products-by-si/445331350926485/",
+    "https://www.facebook.com/startuparound/posts/new-story-alitheon-raises-149m-startuparound-startup-startuplife-startupgrind-st/145717866849781/",
+    "https://www.facebook.com/AplesBlog/posts/the-featureprint-app-from-alitheon-powered-by-artificial-intelligence-ai-can-hel/638381098310701/",
+    "https://www.facebook.com/ciistaiwan/videos/alitheon-的-featureprint-技術是一種先進的光學-ai-技術它為物品和產品創建了一種獨特的數字指紋就像指紋對人類一樣是一種不需要標記修改或添/429872936262177/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alitheon note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Alitheon X 投稿",
+   "results": [
+    "https://x.com/alitheon",
+    "https://docs.alitheon.com/docs/user-guide/9thid5p81kyai-getting-started",
+    "https://portal.platform.alitheon.com/",
+    "https://x-sou.com/ja",
+    "https://note.com/munou_ac/n/n3489f9572885",
+    "https://x.com/inaba_shin_/article/2071883073160147029",
+    "https://koubo.jp/article/95178"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

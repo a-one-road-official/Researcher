@@ -1,0 +1,382 @@
+{
+ "name": "株式会社ユニコン最新",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://www.dmgmori.co.jp/trend/detail/id=5234",
+ "researched_at": "2026-11-11T00:10:18.663140+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {},
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp222745/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=407A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unicon-holdings.co.jp/news/pdf/202509263.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.business.nikon.com/ja/solutions/l-pbf-3d-printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/metal-3dprinter/%E3%82%A8%E3%83%AC%E3%83%99%E3%83%BC%E3%82%BF%E3%81%A7%E6%90%AC%E5%85%A5%E3%81%A7%E3%81%8D%E3%82%8B%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%99%BB%E5%A0%B4%EF%BC%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/products/slm/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uniontech3d.com/ja/company-news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOCC286K20Y6A920C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kabutan.jp/stock/holder?code=407A",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nihon-ma.co.jp/news/20260825_1822-6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp268290/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/nkd/company/gaiyo/?scode=407A",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10193476333/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ユニコン最新",
+   "results": [
+    "https://un1con-official.com/",
+    "https://www.sma.co.jp/s/sma/news/detail/115143?ima=0000&link=ROBO004",
+    "https://x.com/UN1CON_OFFICIAL",
+    "https://www.sonymusic.co.jp/artist/Unicorn/info/585515",
+    "https://un1con-official.com/news/",
+    "https://www.youtube.com/@UN1CON_OFFICIAL",
+    "https://www.unicorn.jp/sp/info/",
+    "https://ja.wikipedia.org/wiki/ユニコント",
+    "https://www.sonymusic.co.jp/artist/Unicorn/info/587078",
+    "https://www.youtube.com/channel/UClryZHKxKYcpRSCNnSnTERg"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "株式会社ユニコン最新",
+   "results": [
+    "https://www.unicorn-sc.co.jp/",
+    "https://www.web-unicon.co.jp/",
+    "https://unicon-holdings.co.jp/ir/index.html",
+    "https://unique-on.com/",
+    "https://www.nikkei.com/article/DGXZQOCC2558R0V20C26A8000000/",
+    "https://www.unicon-intl.com/news/",
+    "https://www.unicorn-sc.co.jp/news/",
+    "https://unicon-holdings.co.jp/news/",
+    "https://www.instagram.com/unicon1947_09/",
+    "https://job.mynavi.jp/28/pc/search/corp222745/outline.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ユニコン最新 株式会社",
+   "results": [
+    "https://unicon-holdings.co.jp/news/",
+    "https://www.nikkei.com/nkd/company/news/?scode=407A",
+    "https://www.unicorn-sc.co.jp/",
+    "https://s.kabutan.jp/stocks/407A/news/",
+    "https://www.youtube.com/watch?v=kVQ-EVyBaDo&vl=ja",
+    "https://www.rakuten-sec.co.jp/smartphone/domestic/ipo/407A0.html",
+    "https://www.web-unicon.co.jp/",
+    "https://finance.matsui.co.jp/ipo/407A/index",
+    "https://job.mynavi.jp/28/pc/search/corp222745/outline.html",
+    "https://www.web-unicon.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ユニコン最新 会社概要 資本金 設立",
+   "results": [
+    "https://job.mynavi.jp/28/pc/search/corp222745/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=407A",
+    "https://unicon-holdings.co.jp/news/pdf/202509263.pdf",
+    "https://www.web-unicon.co.jp/company/",
+    "https://job.mynavi.jp/28/pc/search/corp268290/outline.html",
+    "https://www.unicorn-sc.co.jp/company/profile/",
+    "https://www.uniconcap.co.jp/about",
+    "https://kk-unicon.co.jp/7",
+    "https://compalyze.co.jp/company/5010001200089"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ユニコン最新 金属3Dプリンタ 導入",
+   "results": [
+    "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "https://www.business.nikon.com/ja/solutions/l-pbf-3d-printer/",
+    "https://news.sharelab.jp/3dp-news/metal-3dprinter/%E3%82%A8%E3%83%AC%E3%83%99%E3%83%BC%E3%82%BF%E3%81%A7%E6%90%AC%E5%85%A5%E3%81%A7%E3%81%8D%E3%82%8B%E9%87%91%E5%B1%9E%EF%BC%93d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%99%BB%E5%A0%B4%EF%BC%81/",
+    "https://www.youtube.com/watch?v=teF6HEZhdlo",
+    "https://skhonpo.com/blogs/blog/metal",
+    "https://business.nikkei.com/atcl/NBD/19/00109/00043/",
+    "https://3dlab.jp/blog/metal-3d-printer-mass-production-japan-2026",
+    "https://www.facebook.com/NikonGroupjp/videos/%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%8C%E7%9B%AE%E6%8C%87%E3%81%99%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AE%E9%9D%A9%E6%96%B0%E3%83%8B%E3%82%B3%E3%83%B3%E3%81%AF%E3%81%84%E3%81%BE%E9%87%91%E5%B1%9E3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E9%96%8B%E7%99%BA%E3%81%A8%E6%99%AE%E5%8F%8A%E3%81%AB%E5%8A%9B%E3%82%92%E6%B3%A8%E3%81%84%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%81%93%E3%81%AE%E8%A3%85%E7%BD%AE%E3%81%8C%E3%82%82%E3%81%9F%E3%82%89%E3%81%99%E4%BE%A1%E5%80%A4%E3%81%A8%E3%81%9D%E3%81%AE%E5%85%88%E3%81%AB%E3%81%82%E3%82%8B%E6%9C%AA%E6%9D%A5%E3%81%A8%E3%81%AF%E6%8A%80%E8%A1%93%E9%96%8B%E7%99%BA%E3%81%A8%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B5/910409805008105/",
+    "https://www.jeol.co.jp/column/detail001.html",
+    "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ユニコン最新 金属積層造形 設備",
+   "results": [
+    "https://www.jp.nikon.com/company/technology/stories/2509_metal_3d_printing/",
+    "https://www.aichi-sangyo.co.jp/products/slm/index.html",
+    "https://www.uniontech3d.com/ja/company-news/",
+    "https://www.unionfab.com/ja/services/metal-3d-printing",
+    "https://jampt.jp/equipment/",
+    "https://www.ricoh.co.jp/3dp/metal/column_nikon01",
+    "https://www.business.nikon.com/ja/products-and-services/material-processing-solutions/product-basic-info.additive-manufacturing-solution/",
+    "https://chuokatan.co.jp/products/3dp/",
+    "https://space-connect.jp/uchu-senryaku-3d/",
+    "https://www.itmedia.co.jp/keywords/kinzoku3d.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "ユニコン最新 株主 出資 親会社",
+   "results": [
+    "https://www.nikkei.com/article/DGXZQOCC286K20Y6A920C2000000/",
+    "https://kabutan.jp/stock/holder?code=407A",
+    "https://www.nihon-ma.co.jp/news/20260825_1822-6/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02746/",
+    "https://finance.biggo.jp/news/jpx_tdnet_140120260928540704",
+    "https://www.daiho.co.jp/wp/wp-content/uploads/2026/08/20260825-unicon-hd.pdf",
+    "https://www.buffett-code.com/company/407A/mainshareholder",
+    "https://shikiho.toyokeizai.net/news/0/955827"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "ユニコン最新 売上高 従業員数",
+   "results": [
+    "https://job.mynavi.jp/28/pc/search/corp268290/outline.html",
+    "https://www.nikkei.com/nkd/company/gaiyo/?scode=407A",
+    "https://doda.jp/DodaFront/View/Company/j_id__10193476333/",
+    "https://web.fisco.jp/platform/companies/0407A00",
+    "https://salesnow.jp/insights/earnings/jcbha1cc19hn6ytf/",
+    "https://kigyo-scope.jp/company/407A/",
+    "https://job.mynavi.jp/27/pc/search/corp222745/outline.html",
+    "https://www.ullet.com/%EF%BC%B5%EF%BC%AE%EF%BC%A9%EF%BC%A3%EF%BC%AF%EF%BC%AE%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9/%E6%A6%82%E8%A6%81",
+    "https://kaijiwire.jp/companies/5010001200089",
+    "https://job.mynavi.jp/28/pc/search/corp222745/outline.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com ユニコン最新",
+   "results": [
+    "https://note.com/bon0404/n/n53e64922b6a4",
+    "https://note.com/bon0404/n/na0b6456a0001",
+    "https://note.com/cien_insight/n/n1a08832b3929",
+    "https://note.com/bon0404/n/n8c791a8c7862",
+    "https://note.com/routexstartups/n/n7e38a85fb636",
+    "https://note.com/masa_cloud/n/ncd872e3523c4",
+    "https://note.com/glad_auklet4142/n/ne798a46a8792",
+    "https://note.com/unicorn_startup",
+    "https://note.com/teruhisa10/n/n01e70e51d064",
+    "https://note.com/kota995/n/nf92a24e61b6a"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com ユニコン最新",
+   "results": [
+    "https://x.com/i/trending/2112218014905221447",
+    "https://x.com/unicorntter/status/2112740675372691636",
+    "https://x.com/stepone813/status/2112758212437102890",
+    "https://x.com/unicorntter",
+    "https://x.com/unicorntter/status/2108754401292939342",
+    "https://x.com/unicorntter/status/2102956197125238891",
+    "https://x.com/COMIC__UNICORN",
+    "https://x.com/SHIBUYA_T_MUSIC/status/2112365686529864174/photo/1",
+    "https://x.com/unicorntter/reposts"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com ユニコン最新",
+   "results": [
+    "https://jp.linkedin.com/pulse/unicorns-geopolitics-28b-video-ai-tepi-weekly-briefing-tepiai-ra5gc?tl=ja",
+    "https://jp.linkedin.com/pulse/why-next-unicorns-built-inside-existing-companies-amir-jerdi-phd-wxx9c?tl=ja",
+    "https://jp.linkedin.com/pulse/unicorn-founders-go-ai-native-inc42-uoqbc?tl=ja",
+    "https://jp.linkedin.com/pulse/13-largest-unicorns-generative-ai-world-invento-robotics?tl=ja",
+    "https://jp.linkedin.com/pulse/surviving-graveyard-unicorns-thriving-rubble-ai-bubble-ian-tepoot-pte1e?tl=ja",
+    "https://www.linkedin.com/news/story/%E3%83%A6%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%B3%E4%BC%81%E6%A5%AD-%E4%B8%96%E7%95%8C%E3%81%A7500%E7%A4%BE%E3%81%AB-4274937/",
+    "https://jp.linkedin.com/pulse/how-long-does-take-build-usd-1-billion-company-ai-time-nowak-emba-pwipf?tl=ja",
+    "https://www.linkedin.com/posts/keisuke-goda-4018556a_%E3%81%99%E3%81%94%E3%81%84%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC1002023%E5%B9%B4%E6%9C%80%E6%96%B0%E7%89%88%E5%85%A8%E3%83%AA%E3%82%B9%E3%83%88-activity-7106959157471191041-z2Nz",
+    "https://jp.linkedin.com/posts/hidetoshitakano_2026%E5%B9%B4%E4%B8%96%E7%95%8C%E3%81%AF%E3%83%98%E3%82%AF%E3%83%88%E3%82%B3%E3%83%BC%E3%83%B3%E3%81%A8%E3%81%84%E3%81%86%E6%96%B0%E3%81%97%E3%81%84%E6%80%AA%E7%89%A9%E3%82%92%E7%9B%AE%E6%92%83%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AB%E3%81%AA%E3%82%8B-%E3%83%A6%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%B3-activity-7420317876764708864-Dx9F",
+    "https://jp.linkedin.com/company/yunikoninternationalinc"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com ユニコン最新",
+   "results": [
+    "https://www.facebook.com/unicooorn.jp/posts/10%E6%9C%8821%E6%97%A5%E6%B0%B4%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E3%81%82%E3%81%9F%E3%81%88%E3%81%A6%E3%81%93%E7%99%BA%E5%A3%B2%E3%83%A6%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%B3%E3%81%AE%E9%AD%85%E5%8A%9B%E3%81%8C%E8%A9%B0%E3%81%BE%E3%81%A3%E3%81%9F%E6%9C%80%E6%96%B0%E4%BD%9C%E3%82%92%E3%81%8A%E6%A5%BD%E3%81%97%E3%81%BF%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%9D%E3%81%97%E3%81%A6%E6%9C%AC%E4%BD%9C%E3%81%AE%E3%82%A2%E3%83%8A%E3%83%AD%E3%82%B0%E7%9B%A4%E3%81%8C12%E6%9C%882%E6%97%A5%E6%B0%B4%E3%81%AB%E5%AE%8C%E5%85%A8%E7%94%9F%E7%94%A3%E9%99%90%E5%AE%9A%E3%81%A7%E7%99%BA%E5%A3%B2%E6%B1%BA%E5%AE%9A%EF%B8%8F%E3%81%94%E4%BA%88%E7%B4%84/1682991126525998/",
+    "https://www.facebook.com/unicooorn.jp/posts/10%E6%9C%8821%E6%97%A5%E6%B0%B4%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E3%81%82%E3%81%9F%E3%81%88%E3%81%A6%E3%81%93%E3%83%84%E3%82%A2%E3%83%BC%E3%81%93%E3%81%88%E3%81%A6%E3%81%9F%E3%81%82%E3%81%AE%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%E3%82%92%E3%81%BE%E3%81%A8%E3%82%81%E3%81%9F%E7%89%B9%E8%A8%AD%E3%82%B5%E3%82%A4%E3%83%88%E3%81%8C%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E4%BC%81%E7%94%BB%E3%82%84%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%83%84%E3%82%A2%E3%83%BC%E3%81%AE%E3%83%81%E3%82%B1%E3%83%83%E3%83%88%E6%83%85%E5%A0%B1%E3%81%AA%E3%81%A9%E8%A6%8B%E9%80%83%E3%81%9B%E3%81%AA/1672539427571168/",
+    "https://www.facebook.com/tessytessy3623/posts/2143985079877232/",
+    "https://www.facebook.com/unicooorn.jp/",
+    "https://www.facebook.com/dendaidendai/posts/1714199827383182/",
+    "https://www.facebook.com/unicooorn.jp/posts/%E6%96%B0%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%84%E3%82%A2%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E8%A7%A3%E7%A6%81%E6%9C%AA%E5%AE%9A%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E5%85%A8%E5%9B%BD%E3%83%84%E3%82%A2%E3%83%BC%E3%81%AE%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%81%AFunicorn%E5%85%A8%E5%9B%BD%E3%83%84%E3%82%A2%E3%83%BC2026-2027%E3%81%93%E3%81%88%E3%81%A6%E3%81%9F%E3%81%82%E3%81%AB%E6%B1%BA%E5%AE%9A%EF%B8%8F%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1%E3%81%AF%E3%83%A6%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB/1657491595742618/",
+    "https://www.facebook.com/dendaidendai/posts/1708330941303404/",
+    "https://www.facebook.com/unicon2017/",
+    "https://www.facebook.com/unicon.m/",
+    "https://www.facebook.com/unicon.carservice/about/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "ユニコン最新 note 社長",
+   "results": [
+    "https://note.com/nakaharariku",
+    "https://note.com/myconsulting/n/n7a075733e641",
+    "https://note.com/teruhisa10/n/n5772aa73235a",
+    "https://unicorn.inc/about/leadership/",
+    "https://www.nikkei.com/article/DGXZQOCC262580W5A920C2000000/",
+    "https://note.com/super_cougar2103",
+    "https://shikiho.toyokeizai.net/news/0/907742",
+    "https://note.com/tag/%E3%83%A6%E3%83%8B%E3%82%B3%E3%83%BC%E3%83%B3%E4%BC%81%E6%A5%AD",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/unicon_official/all"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ユニコン最新 X 投稿",
+   "results": [
+    "https://x.com/UN1CON_OFFICIAL",
+    "https://x.com/COMIC__UNICORN/status/1907655712647557431",
+    "https://x.com/unicon",
+    "https://un1con-official.com/",
+    "https://x.com/To31Vu/status/2117933277260771765",
+    "https://x.com/yuniyuni_korn/status/2117221329376334292",
+    "https://x.com/unicorntter",
+    "https://natalie.mu/music/news/551671",
+    "https://search.yahoo.co.jp/realtime/search/ユニコン/",
+    "https://x.com/unicon1828/status/2119278794809000310"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "金属AM装置の保有（型番・製造元・台数・導入年）": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "用途・客の産業": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "資本金・株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）"
+ }
+}

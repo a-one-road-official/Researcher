@@ -1,0 +1,1157 @@
+{
+ "name": "Trella",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-11T00:28:21.859837+00:00",
+ "official_url": "https://www.trella.app/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$750K",
+    "url": "https://getlatka.com/companies/trella",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Instant, transparent pricing",
+    "url": "https://www.trella.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time GPS tracking with milestone alerts from pickup to proof of delivery — so you and your team always know where every load is, without chasing the driver.",
+    "url": "https://www.trella.app/",
+    "pass": 1
+   },
+   {
+    "quote": "All your loads, documents and financials in one place. Review on-time performance, costs and trends — and pull the reports your finance team needs without chasing PDFs.",
+    "url": "https://www.trella.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Find loads that keep your trucks earning.",
+    "url": "https://www.trella.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Join 30,000+ carriers across Egypt, Saudi Arabia and the UAE who use Trella to source steady work, choose loads that fit their routes, and get paid faster.",
+    "url": "https://www.trella.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Browse open loads, accept what fits your truck and routes, and run your operation from one app — with transparent pricing and faster payouts than the offline alternative.",
+    "url": "https://www.trella.app/",
+    "pass": 1
+   },
+   {
+    "quote": "A marketplace of loads, no hidden costs",
+    "url": "https://www.trella.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Choose loads that fit your routes",
+    "url": "https://www.trella.app/",
+    "pass": 1
+   },
+   {
+    "quote": "3 new loads",
+    "url": "https://www.trella.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Trella Health’s AI-enabled intelligence and connected workflows turn fragmented healthcare data into decisive action, helping post-acute providers grow and health systems coordinate care transitions.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Equip sales, operations, and leadership teams with insights that help prioritize accounts, manage relationships, and strengthen referral performance.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Connect hospitals, patients, and post-acute providers through discharge automation to support faster, more informed placement.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Unifying intelligence, workflows, and care teams to improve coordination, efficiency, and patient outcomes.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "See your market, target with precision, and grow with confidence. Trella customers grow admissions 10% faster than the national market.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mobile-ready, insights embedded, and clinically connected. Trella CRM cuts rep calendar admin time by 47%, simplifying the physician referral relationship and targeting process.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore solutions tailored to the unique needs of health systems, post-acute providers, and the people who support every care transition.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Coordinate care transitions within existing EHR workflows through intelligent discharge automation, patient placement, and stronger collaboration with PAC providers.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Use claims, Rx, payer rates, and referral intelligence to understand your market, prioritize high-value prescribers, and grow volume with confidence.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Identify referral opportunities, evaluate payer dynamics, and target the organizations and physicians driving demand for the products and services you provide.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Understand prescribing patterns, dispensing destinations, and market opportunity with pharmacy claims intelligence built for specialty pharmacy growth.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Connect patients to the right post-acute care providers faster with real-time visibility into provider capabilities, availability, and discharge options.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Coach teams, prioritize territories, measure activity, and align reps to the accounts with the greatest referral growth potential.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Improve visibility into referral activity, intake performance, patient flow, and operational efficiency across post-acute care workflows.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmark quality, evaluate outcomes, and use performance data to guide clinical strategy, referral conversations, and care delivery improvement.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Representatives",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Walk into every referral conversation prepared with data-backed insights, competitive positioning, and clear next steps for building stronger relationships.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Build more targeted campaigns using referral trends, market demand, service-line insights, and competitive data that align marketing with real growth opportunities.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“There’s a lot of data available, but Trella makes it easier to know where to look, what reports to run, how to interpret them, and where the true opportunity zones are.”",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "VP of Program Development · PruittHealth",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "PruittHealth has been a Trella customer since 2018, leveraging Trella Insights and CRM. The Trella team spoke with Adam Butler, VP of Program Development at PruittHealth, to learn how data-driven insights and CRM have empowered their teams to coach more effectively, streamline territory planning, and support strategic growth across their post-acute care services.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Kindful Health is a privately owned hospice organization with multiple locations across Texas, focused on delivering high-quality, patient-centered care. As the company continues to grow, its team uses Trella’s Insights and CRM solutions to organize sales strategy, prioritize accounts, support territory planning, and give sales leaders better visibility into execution and performance.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "More strategic territory planning and account prioritization",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "“We don’t just want to be driving around aimlessly, we want to have intention behind what we do. Trella helps us give the team structure and process to selling.”",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Stronger lead qualification and account prioritization",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trella Tech - Creators of the TrellaGro LST ™ the automated horizontal plant-training system",
+    "url": "https://www.trella.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Harness TrellaGro LST™ Sustainable Innovation for Modern Farming. Elevate your plant yield with our patented horizontal plant-training solutions.",
+    "url": "https://www.trella.io/",
+    "pass": 3
+   },
+   {
+    "quote": "More foliage, less waste—see how horizontal plant training improved our Callaloo harvest.",
+    "url": "https://www.trella.io/",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、私たちの使命は、“The mission of Trella is to provide our community with the technology and platform that reduces the costs of moving goods (Trellaの使命は商品の移動コストを削減するテクノロジーとプラットフォームをコミュニティに提供すること)」です",
+    "url": "https://note.com/uncovered_fund/n/nfa0be5b28827",
+    "pass": 3
+   },
+   {
+    "quote": "See your market. Target with precision. Grow with confidence.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "63,000+ Users Across 17,000+ Post-Acute Providers, HME/DME, Infusion, Specialty Pharmacy, and Health Systems",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Everything your team needs to find opportunity, prove value, and act on it.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "From rep-level referral targeting to executive market planning, Trella Insights helps teams prioritize the right accounts, strengthen referral relationships, and focus efforts where they can make the greatest impact.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Understand referral sources, patient flow, market share, and competitive positioning across your service areas. Teams can identify high-value physicians, facilities, and organizations, then prioritize outreach based on market activity instead of guesswork.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Identify and prioritize the physicians, facilities, and organizations driving patient volume, referrals, orders, or service demand in your market.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Users can analyze patient location and product usage down to the 3-digit ZIP code level, helping you identify high-usage, underserved markets for geographic expansion.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Help executive, sales, marketing, operations, and payer relations teams evaluate expansion opportunities, strengthen strategic partnerships, and stay ahead of market shifts. Leaders can assess geography, payer mix, parent networks, and emerging demand to build more focused growth plans.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Provides transparency into commercial negotiated rates across all providers. This empowers Payer Relations leaders to compare rates by code, identify lucrative adjacent products, and negotiate better contracts with payers.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Reveal how provider organizations connect under parent networks to better understand true market share, enterprise influence, and partnership opportunities.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "See how patients move across your post-acute network, evaluate PAC partners by quality and cost, and identify leakage outside owned or preferred providers.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Compare post-acute providers by quality, utilization, cost, patient volume, and outcomes to identify the strongest partners across your market.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "See where patients are going after discharge, identify leakage outside owned or preferred networks, and uncover opportunities to improve network alignment.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Whether your team is planning at the executive level or preparing for field conversations, Market Insights delivers the post-acute care insights needed to focus marketing efforts, guide outreach, and build stronger partnerships.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Coach teams, prioritize territories, measure activity, and align reps to the accounts with the greatest referral growth potential.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Improve visibility into referral activity, intake performance, patient flow, and operational efficiency across post-acute care workflows.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Sales Representatives",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Walk into every referral conversation prepared with data-backed insights, competitive positioning, and clear next steps for building stronger relationships.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Benchmark quality, evaluate outcomes, and use performance data to guide clinical strategy, referral conversations, and care delivery improvement.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Built on billions of healthcare data points, Trella Insights helps teams identify opportunities, prioritize accounts, benchmark performance, and accelerate growth.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "largest hospice providers are Trella customers",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "largest home health providers are Trella customers",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the region's leading shippers",
+    "url": "https://www.trella.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Serving the Kingdom's key industrial hubs.",
+    "url": "https://www.trella.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Trella Tech - Creators of the TrellaGro LST ™ the automated horizontal plant-training system",
+    "url": "https://www.trella.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Harness TrellaGro LST™ Sustainable Innovation for Modern Farming. Elevate your plant yield with our patented horizontal plant-training solutions.",
+    "url": "https://www.trella.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Witness how one plant made all the difference: Explore our series of grow trials with TrellaGro LST™.",
+    "url": "https://www.trella.io/",
+    "pass": 3
+   },
+   {
+    "quote": "More foliage, less waste—see how horizontal plant training improved our Callaloo harvest.",
+    "url": "https://www.trella.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Trella Green Education includes online educational courses as well as ongoing horticultural research, tree planting events at schools, trips to the Taizhou Super Center, Global Conferences and other offline programming.",
+    "url": "https://trellatrees.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Where We Grow and Plant",
+    "url": "https://trellatrees.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trella’s tree planting program is based in China. Trella’s mission is grow, plant and maintain trees that will become a part of China’s urban forestry and afforestation programs. Investing in nature through science, consumers, enterprises, education and partnerships forms the basis",
+    "url": "https://trellatrees.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore expert insights, market-leading reports, and practical strategies powered by the healthcare intelligence trusted by leading organizations across the care continuum — helping teams make smarter decisions and drive healthier outcomes.",
+    "url": "https://www.trellahealth.com/resource-center/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Trella.",
+    "url": "https://www.casestudies.com/customer/trella",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "From load creation to carrier matching, pick-up, tracking and payment — Trella's platform removes the friction that slows trucking down across the region.",
+    "url": "https://www.trella.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Carriers across the region",
+    "url": "https://www.trella.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Join 30,000+ carriers across Egypt, Saudi Arabia and the UAE who use Trella to source steady work, choose loads that fit their routes, and get paid faster.",
+    "url": "https://www.trella.app/",
+    "pass": 1
+   },
+   {
+    "quote": "A marketplace built for carriers.",
+    "url": "https://www.trella.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you ship goods or carry them, joining Trella takes minutes. Pick your side and let's get rolling.",
+    "url": "https://www.trella.app/",
+    "pass": 1
+   },
+   {
+    "quote": "The numbers tell part of the story. The experiences of healthcare leaders who use Trella every day tell the rest.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "As part of our commitment to advancing industry-wide performance visibility, Trella Health's annual Industry Trend Report provides in-depth analysis and actionable insights to support your strategic planning and decision-making processes.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trella’s tree planting program is based in China. Trella’s mission is grow, plant and maintain trees that will become a part of China’s urban forestry and afforestation programs. Investing in nature through science, consumers, enterprises, education and partnerships forms the basis",
+    "url": "https://trellatrees.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trella Revenue 2024: $35M Est., $750K Raised",
+    "url": "https://getlatka.com/companies/trella",
+    "pass": 3
+   },
+   {
+    "quote": "Trella is a platform that connects shippers to carriers",
+    "url": "https://getlatka.com/companies/trella",
+    "pass": 3
+   },
+   {
+    "quote": "Trella has not published its revenue. LeadIQ puts it at about $35M a year (November 2024).",
+    "url": "https://getlatka.com/companies/trella",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/trella",
+    "pass": 3
+   },
+   {
+    "quote": "Trella CEO, founders & employees",
+    "url": "https://getlatka.com/companies/trella",
+    "pass": 3
+   },
+   {
+    "quote": "Omar Hagrass founded Trella in 2019 and runs it as CEO. Trella had 272 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/trella",
+    "pass": 3
+   },
+   {
+    "quote": "What is Trella's revenue?",
+    "url": "https://getlatka.com/companies/trella",
+    "pass": 3
+   },
+   {
+    "quote": "LeadIQ estimates Trella's revenue at about",
+    "url": "https://getlatka.com/companies/trella",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Trella have?",
+    "url": "https://getlatka.com/companies/trella",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/trella",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/trella",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/trella",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/trella",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "The CMS enrollment moratoria on new hospice and home health agencies are scheduled to end on November 13,…",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Where Are New Hospice and Home Health Agencies Emerging?",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Automated GPS-verified mileage tracking within Trella CRM reduces administrative burden and helps agencies cut reimbursement costs by 10–20% …",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "東京都千代田区有楽町1-1-2 東京ミッドタウン日比谷 6F",
+    "url": "https://note.com/uncovered_fund/n/nfa0be5b28827",
+    "pass": 3
+   },
+   {
+    "quote": "その成長を牽引する最先端のデジタル技術を活用し、既存の枠組みに捉われることなく産業・社会基盤を一から構築していく新興国には、 日本が学ぶべきイノベーションの発想が多く存在します",
+    "url": "https://note.com/uncovered_fund/n/nfa0be5b28827",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Trella Health | Hospital Workflow & Post Acute Care Software — Trella Health turns fragmented healthcare data into intelligence that drives smarter growth and measurable patient results across post-acute care.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trella Tech - Creators of the TrellaGro LST ™ the automated ... — Follow us on Social: YouTube Patreon Instagram LinkedIn 991 Providence Hwy Unit 1098 Norwood, MA 02062 USA Copyright © 2017-2026 Trella Technologies Inc",
+    "url": "https://www.trella.io/",
+    "pass": 3
+   },
+   {
+    "quote": "【アフリカスタートアップ】大型物流トラック版Uberで、アフリカ運送... — Apr 19, 2023 · Trella はB2B物流のデジタルプラットフォームです。 荷送人とトラックドライバーをリアルタイムで結びつけることにより、荷送人のコスト削減、トラックドライバーの積載率改善を実現し、より良い運送コストの提供、価格の透明性を高めることができます。",
+    "url": "https://note.com/uncovered_fund/n/nfa0be5b28827",
+    "pass": 3
+   },
+   {
+    "quote": "Trella Insights: Market Intelligence | Trella Health — Trella Insights is purpose-built for healthcare organizations and combines market data, referral intelligence, competitive insights, and performance benchmarks in one platform.",
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "pass": 3
+   },
+   {
+    "quote": "Trella Tech - Creators of the TrellaGro LST ™ the automated ... — Witness how one plant made all the difference: Explore our series of grow trials with TrellaGro LST™. More foliage, less waste—see how horizontal plant training improved our Callaloo harvest. Venture into a world where innovative technology meets community-driven passion.",
+    "url": "https://www.trella.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Home - Trella — Trella offers a comprehensive, turnkey solution for corporate clients to decarbonize their operations and offset carbon emissions through large-scale afforestation and reforestation projects.",
+    "url": "https://trellatrees.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trella Health | Hospital Workflow & Post Acute Care Software — Explore solutions tailored to the unique needs of health systems, post-acute providers, and the people who support every care transition.",
+    "url": "https://www.trellahealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "TRELLA-J-XS クリアフラットトングサンダル LIME (Heel1.0) – Steve M... — クリア感がおしゃれ度をぐんとUPさせてくれるトングサンダル。 普段使いからビーチ・旅行のお供にも持ち運びしやすい軽量さもポイント 軽量かつフラットで、歩きやすいのも嬉しい。 ペディキュアにも映えるアイテムで、色違いで持ちたくなるアイテム！ ヒール 後部高さ：1.0cm 片足重量：140g ※海外製品の為、生産上多少の誤差が生じてしまいますが、日本サイズ上問題なく掲載させていただいております。 ※輸入時から靴箱が破損している場合がございます。 多少の箱潰れ、箱破れに関しては良品とさせていただいております。",
+    "url": "https://stevemadden.jp/products/trella-j-xs-クリアフラットトングサンダル-limeheel1-0",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies for Post-Acute & Value-Based Care Organizations ... — Explore Trella Health Case Studies: real-world success stories and proven strategies to help you drive smarter growth in post-acute and value-based care.",
+    "url": "https://www.trellahealth.com/resource-center/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Trella. Uses Software & Services — Explore case studies featuring Trella. as the customer — learn how vendors and partners helped Trella. solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/trella",
+    "pass": 3
+   },
+   {
+    "quote": "Trella Health B2B Case Studies & Customer Successes — See how Trella Health solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/trella-health",
+    "pass": 3
+   },
+   {
+    "quote": "Trella Case Study by Seif El-din Mostafa on Prezi — 2023 Sales Case Study Seif El-Araby trella OverView OverView Trella is a logistics platform that helps companies manage their supply chain. It allows them to track their goods in real-time, predict delivery times, and optimize routes. By using Trella, companies can reduce their",
+    "url": "https://prezi.com/p/w234nhgeic1a/trella-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Trella Revenue 2024: $35M Est., $750K Raised - LATKA — Oct 30, 2026 · Trella 2024 estimated revenue: $35M (up from $15.5M in 2023). Total funding: $750K across 2 rounds. 350 customers, 272 employees. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/trella",
+    "pass": 3
+   },
+   {
+    "quote": "Trella 2026 Company Profile: Valuation, Funding & Investors ...Trella - 2026 Company Profile, Team, Funding & Competitors ...Trella – Performance Metrics & Competitor Intelligence – 2026Trella: Funding, Team & Investors | Startup IntrosTrella: Company Profile, Funding & InvestorsCIK: 0001767862 CCC: xxxxxxxx Annual Report Financial Information — Information on valuation, funding, cap tables, inves",
+    "url": "https://pitchbook.com/profiles/company/265763-80",
+    "pass": 3
+   },
+   {
+    "quote": "Trella - 2026 Company Profile, Team, Funding & Competitors ...Trella – Performance Metrics & Competitor Intelligence – 2026Trella: Funding, Team & Investors | Startup IntrosTrella: Company Profile, Funding & InvestorsCIK: 0001767862 CCC: xxxxxxxx Annual Report Financial Information — Feb 5, 2026 · Trella is a series A company based in Cairo (Egypt), founded in 2018 by Muhammad El Garem, Omar Hagra",
+    "url": "https://tracxn.com/d/companies/trella/__XAHekDvaKy5a8M5gTX1RoRT0QDWBFBhN0D6f6b-4ClY",
+    "pass": 3
+   },
+   {
+    "quote": "Trella – Performance Metrics & Competitor Intelligence – 2026 — Discover Trella's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/trella",
+    "pass": 3
+   },
+   {
+    "quote": "Trella: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Trella is a technology platform that connects shippers to carriers. Trella empowers drivers, improves their efficiency, boosts their earnings and utilization as well as provide job opportunities.",
+    "url": "https://startupintros.com/orgs/trella",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【アフリカスタートアップ】大型物流トラック版Uberで、アフリカ運送... Apr 19, 2023 · Trella はB2B物流のデジタルプラットフォームです。 荷送人とトラックドライバーをリアルタイムで結びつけることにより、荷送人のコスト削減、トラックドライバーの積載率改善を実現し、より良い運送コストの提供、価格の透明性を高めることができます。",
+    "url": "https://note.com/uncovered_fund/n/nfa0be5b28827",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【アフリカスタートアップ】大型物流トラック版Uberで、アフリカ運送業を改革するTrellaの挑戦｜UNCOVERED FUND",
+    "url": "https://note.com/uncovered_fund/n/nfa0be5b28827",
+    "pass": 3
+   },
+   {
+    "quote": "【アフリカスタートアップ】大型物流トラック版Uberで、アフリカ運送業を改革するTrellaの挑戦",
+    "url": "https://note.com/uncovered_fund/n/nfa0be5b28827",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは、UNCOVERED FUNDインターンの小林です。",
+    "url": "https://note.com/uncovered_fund/n/nfa0be5b28827",
+    "pass": 3
+   },
+   {
+    "quote": "に来日予定のTrella社を紹介していきます！",
+    "url": "https://note.com/uncovered_fund/n/nfa0be5b28827",
+    "pass": 3
+   },
+   {
+    "quote": "※諸事情により来日キャンセルとなる場合もございますが、御了承下さい。",
+    "url": "https://note.com/uncovered_fund/n/nfa0be5b28827",
+    "pass": 3
+   },
+   {
+    "quote": "１. はじめにサービスの概要の紹介をお願いします。",
+    "url": "https://note.com/uncovered_fund/n/nfa0be5b28827",
+    "pass": 3
+   },
+   {
+    "quote": "はB2B物流のデジタルプラットフォームです。荷送人とトラックドライバーをリアルタイムで結びつけることにより、荷送人のコスト削減、トラックドライバーの積載率改善を実現し、より良い運送コストの提供、価格の透明性を高めることができます。",
+    "url": "https://note.com/uncovered_fund/n/nfa0be5b28827",
+    "pass": 3
+   },
+   {
+    "quote": "弊社のマーケットプレイスプラットフォームは、荷送人の輸送ニーズ（需要）とトラックドライバーの輸送能力（供給）を一致させることで、両者の需給を満たすことができ、市場をリードする信頼性と可用性を提供することで、MENA地域全体でモノの移動に係るコストを大幅に削減します。",
+    "url": "https://note.com/uncovered_fund/n/nfa0be5b28827",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Trella Advisory Group (@TrellaGroup) / X Family businesses have an opportunity to literally change the world by focusing on ESG and EDI initiatives. Kathy Bright at Trella Advisory Group explains why and outlines how to get started.",
+    "url": "https://x.com/TrellaGroup",
+    "pass": 3
+   },
+   {
+    "quote": "Trella (@trellar) / Posts / X Trella (@trellar) - Posts - senior social media manager @xxartists 💻 prev @minecraft @wbgames 👾 日本語学生📝 Exploring the Ba... | X (formerly Twitter)",
+    "url": "https://x.com/trellar",
+    "pass": 3
+   },
+   {
+    "quote": "Susan Trella (@susan_trella) / X Oh that was so much fun! Being the Mystery reader for a wonderful group of 1st grade students in U2 🐚 hope you enjoyed these books! @susan_trella",
+    "url": "https://x.com/susan_trella",
+    "pass": 3
+   },
+   {
+    "quote": "Trella Randolph-Cole (@trellaspeak) / Posts / X Trella Randolph-Cole (@trellaspeak) - Posts - Coach. Consultant. Changemaker. CEO/Founder of RanWalk Enterprises DBA Trella Walker Consulting | X (formerly Twitter)",
+    "url": "https://x.com/trellaspeak",
+    "pass": 3
+   },
+   {
+    "quote": "Trella (@trellar) / Posts / X Jul 11, 2008 · Trella (@trellar) - Posts - senior social media manager @xxartists 💻 prev @minecraft @wbgames 👾 日本語学生📝 Exploring the Ba... | X (formerly Twitter)",
+    "url": "https://x.com/trellar",
+    "pass": 3
+   },
+   {
+    "quote": "e$trella on X Sep 2, 2026 · e$trella (@estrellazaaa) on X See what’s happening and join the conversation",
+    "url": "https://x.com/estrellazaaa/status/2095310280775356880",
+    "pass": 3
+   },
+   {
+    "quote": "e$trella on X Oct 18, 2026 · e$trella (@itsestrellalv) on X e$trella @itsestrellalv 5:28 PM · Oct 18, 2026 · 234 Views 7 1",
+    "url": "https://x.com/itsestrellalv/status/2111872146355941389",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Trella - LinkedIn Trella is a technology platform that removes the trucking hassle by connecting shippers with qualified carriers to move and manage loads seamlessly. Currently operating in Egypt, Saudi Arabia and...",
+    "url": "https://www.linkedin.com/company/trellaapp/",
+    "pass": 3
+   },
+   {
+    "quote": "Trella Health - LinkedIn Smarter decisions. Healthier outcomes. | Trella Health is the AI-enabled intelligence layer that connects health systems and post-acute providers to drive smarter decisions across the care...",
+    "url": "https://www.linkedin.com/company/trellahealth/",
+    "pass": 3
+   },
+   {
+    "quote": "Trella Advisory Group - LinkedIn Trella Advisory Group is a global consultancy firm that works with enterprising families and the advisors that serve them. The Trella team consists of a highly skilled team of interdisciplinary...",
+    "url": "https://ca.linkedin.com/company/the-trella-group",
+    "pass": 3
+   },
+   {
+    "quote": "Trella Strategy | LinkedIn Trella Strategy | Trella Strategy gives executive leaders the intelligence to evaluate expansion opportunities, optimize post-acute networks, assess ACO partnerships, and understand total cost of care with confidence.",
+    "url": "https://ai.linkedin.com/products/trellahealth-mosaic/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Trella - FacebookTrella Brown - FacebookTrella Health - FacebookShaPean Trellah Mongwe - FacebookTrella Rae Heno - FacebookTrella | Cairo - FacebookTrella, LLC Design and Remodel | Grapevine TX - Facebook Oct 22, 2026 · ALSO, we have a new Trella t-shirt for pre -sale with new logo (designed by Mason Wilkes) if you wanna get merched up (she’s soft, she’s comfort colors). Click the link below if yo",
+    "url": "https://www.facebook.com/TrellaTunes/",
+    "pass": 3
+   },
+   {
+    "quote": "Trella Brown - FacebookTrella Health - FacebookShaPean Trellah Mongwe - FacebookTrella Rae Heno - FacebookTrella | Cairo - FacebookTrella, LLC Design and Remodel | Grapevine TX - Facebook Oct 21, 2026 · Trella Brown. 4,522 followers · 399 talking about this. Lifestyle|Family content creator Tiktok:@Trellzb IG:@itstrellz The Trella Health team is live at NASP inSPire2026 at the Gaylord National in ",
+    "url": "https://www.facebook.com/trella.trella/",
+    "pass": 3
+   },
+   {
+    "quote": "Trella Health - FacebookShaPean Trellah Mongwe - FacebookTrella Rae Heno - FacebookTrella | Cairo - FacebookTrella, LLC Design and Remodel | Grapevine TX - Facebook The Trella Health team is live at NASP inSPire2026 at the Gaylord National in National Harbor, MD! 👋 We're spending the week with specialty pharmacy leaders talking about what it takes to connect fragmented data and turn it into smarte",
+    "url": "https://www.facebook.com/trellahealth/",
+    "pass": 3
+   },
+   {
+    "quote": "ShaPean Trellah Mongwe - Facebook 17 hours ago · ShaPean Trellah Mongwe. 135,232 followers · 34,715 talking about this. With God I Believe I can Do anything IG: Trella Shapean Mongwe Twitter: Trella Shapean Mongwe!",
+    "url": "https://www.facebook.com/trella.shapean/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.trella.app/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.trella.app/logos/Trella_Logotype_Latin_WhiteOrange.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.trella.app/logos/Trella_Logotype_Latin_NavyOrange.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.trellahealth.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trella.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/uncovered_fund/n/nfa0be5b28827",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.www.ipros.com/tekla/product/detail/2001504250/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trellahealth.com/solutions/market-insights/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trella.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trellatrees.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trellahealth.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trellahealth.com/resource-center/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/trella",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/trella-health",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trellahealth.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/trella",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/265763-80",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/trella/__XAHekDvaKy5a8M5gTX1RoRT0QDWBFBhN0D6f6b-4ClY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/trella",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/uncovered_fund/n/nfa0be5b28827",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TrellaGroup",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/trellar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/susan_trella",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/trellaspeak",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/trellaapp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/trellahealth/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/the-trella-group",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ai.linkedin.com/products/trellahealth-mosaic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TrellaTunes/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/trella.trella/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/trellahealth/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/trella.shapean/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/trellar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/estrellazaaa/status/2095310280775356880",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/itsestrellalv/status/2111872146355941389",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Trella 日本 導入",
+   "results": [
+    "https://www.trellahealth.com/",
+    "https://www.trella.io/",
+    "https://note.com/uncovered_fund/n/nfa0be5b28827",
+    "https://pr.www.ipros.com/tekla/product/detail/2001504250/",
+    "https://prtimes.jp/main/html/rd/p/000000004.000185701.html",
+    "https://news.mynavi.jp/techplus/article/20261009-5100076/",
+    "https://bestcarweb.jp/news/entame/1669612"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trella 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://industrial.filtrationgroup.com/ja/联系我们/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trella Japan",
+   "results": [
+    "https://www.trellahealth.com/solutions/market-insights/",
+    "https://www.trella.io/",
+    "https://trellatrees.com/",
+    "https://www.trellahealth.com/",
+    "https://stevemadden.jp/products/trella-j-xs-クリアフラットトングサンダル-limeheel1-0",
+    "https://stevemadden.jp/products/trella-j-xs-クリアフラットトングサンダル-スモークheel1-0",
+    "https://www.trellamusic.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trella manufacturing customer case study",
+   "results": [
+    "https://www.trellahealth.com/resource-center/case-studies/",
+    "https://www.casestudies.com/customer/trella",
+    "https://www.casestudies.com/company/trella-health",
+    "https://www.trellahealth.com/",
+    "https://prezi.com/p/w234nhgeic1a/trella-case-study/",
+    "https://trellaindustrial.com/index",
+    "https://www.shopclasscreative.com/work/trellahealth"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trella white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trella founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/trella",
+    "https://pitchbook.com/profiles/company/265763-80",
+    "https://tracxn.com/d/companies/trella/__XAHekDvaKy5a8M5gTX1RoRT0QDWBFBhN0D6f6b-4ClY",
+    "https://compworth.com/company/trella",
+    "https://startupintros.com/orgs/trella",
+    "https://www.startuplist.africa/startups/trella",
+    "https://www.sec.gov/Archives/edgar/data/1767862/000109690625000616/form_c_ar.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Trella",
+   "results": [
+    "https://note.com/uncovered_fund/n/nfa0be5b28827",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/orange_witch/n/nead2e439e329",
+    "https://note.com/suits_ceo/n/nd9dbb581ca66",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/yuyadachi/n/n509ef67b2d6c",
+    "https://note.com/masashi3122/n/n6f41b990b137"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Trella",
+   "results": [
+    "https://x.com/TrellaGroup",
+    "https://x.com/trellar",
+    "https://x.com/susan_trella",
+    "https://x.com/trellaspeak",
+    "https://x.com/Andr000meda/status/2119922297557471498",
+    "https://x.com/trello",
+    "https://x.com/TrelloStatus"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Trella",
+   "results": [
+    "https://www.linkedin.com/company/trellaapp/",
+    "https://www.linkedin.com/company/trellahealth/",
+    "https://ca.linkedin.com/company/the-trella-group",
+    "https://ai.linkedin.com/products/trellahealth-mosaic/",
+    "https://www.linkedin.com/company/trellahealth/life",
+    "https://www.linkedin.com/company/trellatech",
+    "https://www.linkedin.com/products/atlassian-trello/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Trella",
+   "results": [
+    "https://www.facebook.com/TrellaTunes/",
+    "https://www.facebook.com/trella.trella/",
+    "https://www.facebook.com/trellahealth/",
+    "https://www.facebook.com/trella.shapean/",
+    "https://www.facebook.com/trella.toomer/",
+    "https://www.facebook.com/trellaapp/",
+    "https://www.facebook.com/trelladesignandremodel/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trella note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.jp/n/n10ae3b3f8acd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Trella X 投稿",
+   "results": [
+    "https://x.com/trellar",
+    "https://x.com/estrellazaaa/status/2095310280775356880",
+    "https://x.com/itsestrellalv/status/2111872146355941389",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://x-sou.com/ja",
+    "https://help.x.com/ja",
+    "https://kelu.jp/?lang=zh-TW"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部40頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部40頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像2件／外部40頁・検索12回）"
+ }
+}

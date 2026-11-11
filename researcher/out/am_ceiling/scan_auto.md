@@ -508,9 +508,9 @@
 - 独立の出どころ2か所以上が数字を持つ品目（突き合わせできる品目）：15件／数字のある品目 18件（83%）。残りは判定の一致を測る前に、別の出どころが同じ問いを扱っていない（選択の不一致）
   - www.voxelmatters.com と 調査会社：品目の重なり 2/6（33%）
   - www.voxelmatters.com と news.sharelab.jp：品目の重なり 2/6（33%）
+  - 調査会社 と www.persistencemarketresearch.com：品目の重なり 1/5（20%）
   - 調査会社 と www.nttdata-xam.com：品目の重なり 1/6（17%）
   - 調査会社 と news.sharelab.jp：品目の重なり 1/7（14%）
-  - 調査会社 と nvlpubs.nist.gov：品目の重なり 0/6（0%）
 
 ## 出どころが1か所だけの欄（裏が薄い。穴埋めの検索の対象・4-23）
 - WAAM・DEDの大型受託造形｜1件の単価［装置価格］

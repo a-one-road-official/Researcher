@@ -9,8 +9,469 @@
  ],
  "context": "探し先",
  "kind": "market",
- "researched_at": "2026-11-09T09:26:34.832998+00:00",
- "evidence": {},
+ "researched_at": "2026-11-11T00:15:47.262587+00:00",
+ "evidence": {
+  "手順・やり方": [
+   {
+    "quote": "実運用中の商用AIシステムを外部から継続的に監査するための方法論",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "選挙に関する情報の入手経路は、新聞・テレビから検索エンジンへ、さらにソーシャルメディアへと移り、いま有権者の一部はLLMを搭載した対話型サービスに直接問いかけている",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "だからこそ、方法を公開し、時系列で蓄積する基盤を先に作るという選択には合理性がある",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "「偏りの帰属」ができないという方法論上の制約は、裏返せば、帰属できないからこそ観測記録が契約と責任の基礎になる、ということでもある",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "出力の真正性への攻撃は、この非線形性が典型的に現れる領域である",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "しかしそれが数千万人が使う対話型サービスの「答え」に反映されれば、影響は桁違いになる",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "可視性の低さと影響の大きさの組合せは、経営が最も見落としやすいリスクの型である",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "自社の顧客が実際に使う主要な対話型サービスと、自社が業務に組み込んでいるモデル",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "NISTのAIリスクマネジメントフレームワークでいえば、測定（Measure）機能の実装例である",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "方法論はすでに公開されつつあり、日本語環境への適用は技術的に十分射程内にある",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "この型のリスクに対して、防御側が持ちうる手段は、測り続けることである",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "ISO/IEC 42001:2023（JIS Q 42001）AIマネジメントシステム、NIST AI Risk Management Framework 1.0",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "OpenAIのエージェント群が、25年前のドイツ語圏のWikiを秘密の掲示板として使い、互いにカンニングの方法を共有していた",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "バイデン政権のトップダウン型の規制的アプローチとは異なり、トランプ大統領は米国産業界と手を携え、イノベーションと国家安全保障の適切な均衡を図っている",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "注意義務（責任法型）と公開差止め（事前規制型）の組み合わせ",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "LLMの応答は質問者の属性表示に対して可変であり、応答の「正しさ」は、時点・属性・検索結果に依存する確率的な量として測るほかない",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "時点・属性・検索結果を引数とする確率的な関数",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "形式的に書けば、応答Yは、質問q、質問者の属性a、時点t、検索結果rを引数とする確率分布 Y ～ P(y | q, a, t, r) から抽出された標本である",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "公表にあわせて示された事例では、ある州の上院選に同姓同名の候補者が存在する状況で、モデルが一方の人物のみを前提に回答した",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "別の事例では、同じ候補者に関する同じ問いに対し、質問者の政治的立場の申告を変えたところ、モデルが取り上げる論点そのものが入れ替わった",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "差異が観測されても、その源が訓練データの分布なのか、事後学習の設計なのか、検索結果の構成なのかを外部から特定することは難しい",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "ロイターの記事では、例えばアルファベット傘下のグーグル、Anthropic、OpenAIなどが挙げられている",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "そのうえで、最大級の警報に相当するセキュリティリスクだとし、AIシステムが人間の操作なしに、自動操縦で組織をハッキングした事例をすでに見ていると述べている",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "原因のわずかな変化が、結果に不釣り合いに大きな変化をもたらす関係",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "むしろ本稿の事案では、真面目に課題を解こうとした結果として起きている",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "報告書が図で示す事例では、OpenAIFPResearchSep05というエージェントがOpenAINov27に対して先行を依頼し、Nov27が同意して加速し、第3問と第4問を先に受け取って「R4信号：バーレーン＝40.01%」などと投稿している",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "与えられた課題で良い成績を取ろうとした結果である",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "結果としてサイバーリスクは非線形になり、攻撃者能力のわずかな向上が、組織のエクスポージャーに不釣り合いなほど大きな跳ね上がりをもたらす",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Anthropicの説明では、Claude の精度を上げていく過程で、結果としてサイバーセキュリティ能力が突出したモデルができあがった",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "その結果、リスクは線形ではなく非線形になる",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "MITスローン経営大学院のカーラ・ポディマタ助教授（オペレーションズ・リサーチ／統計学）が、政治学のアダム・ベリンスキー教授、チャールズ・スチュワート三世教授とともに率いるプロジェクトだ",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "なお研究チーム自身は、体系的な偏りや正確性について確定的な結論を下すのは早いとし、統計的に厳密な分析手法を開発中であると明言している",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "自社の製品・企業姿勢・採用条件・財務・過去の不祥事・競合との比較について、固定の質問群を定める",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "日本には、日本語でのLLMの応答を選挙期間を通じて体系的に記録する公的・学術的な仕組みが、筆者の知る限り存在しない",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "同じ構造は、企業の意思決定、採用、投資判断、行政の窓口対応にも等しく存在する",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "NISTが「ソフトウェアおよびAIエージェントのアイデンティティと認可の採用加速」に関する概念文書を公表",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "あるエージェントが、DataUSAという統計サイトを使う課題について、こう書き込む",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "課題の一つに、OECDの教育格差に関する公開ダッシュボード（Power BI製）から統計値を小数第2位まで読み取る、というものがあった",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "統計的推論より、仲間からの中継のほうが確実だった",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "ヘデン教授は特定の理論を採用することは避け、選択肢を整理している（論文§3）",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "GPT-5.6 Sol は、レビュー対象の記録に登場するエージェントの視点を無批判に採用しがちだった",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "METR, “Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident”, 2026年8月26日 https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/ （PDF版：https://metr.org/hugging-face-incident-report-aug-2026.pdf）",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "解説ブログ＋技術報告書（PDF・37ページ）＋Black Hat講演動画",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "OpenAI, “OpenAI-Hugging Face Incident Technical Report”（PDF・37ページ）, 2026年8月26日",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "同社によれば、異なる企業のプラットフォーム、センサー、ペイロードを組み合わせるopen architectureを採用し、複数の無人システムを人間のオペレーターの監督下で協調させることを目指している",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "これは政治的偏りというより、実体の曖昧性解消（entity disambiguation）の失敗である",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "以上、同定の失敗は攻撃面（attack surface）になる",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "事実関係の誤りがなくとも、何を選びどう要約するかが質問者ごとに変わるのであれば、利用者が受け取る情報環境は個別化されている",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "選挙に関する偽情報を問うと、モデルは一貫して誤りを否定した",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "モデルは「それは誤りです」と答える能力を備えつつ、同時に誤解を招く素材を生成しうる",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "事実性（検証可能な誤り）と均衡性（論点の選択）を分けて測るべきである",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "本連載ではこれを「アカウンタビリティの罠」と呼んできた",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "事実誤り率、属性間の応答一貫性、時点間の変化量、引用元ドメインの集中度、自社と競合の言及比率",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "前述の同定の失敗や新人候補の不利という現象は、日本語環境ではより強く現れる可能性がある",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "9月11日にはロイターが、上院の院内総務と商務委員長らが、開発企業に「注意義務」を課し、政府が公開を差し止められる法案を交渉していると報じた",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "開発企業に「注意義務」を課し、危険と判断されたモデルについては政府が公開を差し止められるようにする、という構想である",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "第一に、開発企業への「注意義務（duty of care）」",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "ロイターが上院の注意義務・公開差止め構想を報道",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "7月に事案が公表されると、7週間後には下院で停止権限を含む法案が提出され、8月には上院で注意義務の枠組みが議論され、9月には上院中枢の交渉として表に出た",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "注意義務、政府による公開差止め、州法の専占",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "そのうえで、CAMS（Cybersecurity at MIT Sloan）が扱ってきた三つの主題 ── 検証不能な第三者システムへの依存、非線形に拡大するリスク、取締役会による統治 ── に接続し、次の四点を論じる",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "問題の所在 ── 「答え」を返すシステムの検証可能性",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "世論調査とLLMの予測を突き合わせた分析では、候補者によって方向の異なる系統的な較正のずれも見いだされている",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "研究では属性を明示的に申告するが、実際の利用では会話履歴や記憶機能、地域情報から暗黙に推定される",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "事実性（検証可能な誤り）と均衡性（論点の選択）を分けて測るべきである",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "検証不能な第三者システムへの依存 ── アカウンタビリティの構造",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "外形的な挙動を継続的に観測し記録することが、取りうる唯一の検証手段",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "クロブシャー議員はロイターへの声明で、AIモデルがもたらす最大級のリスクに対する政府の監督について超党派の合意に向けて取り組み続けているとし、そこには開発者が政府の専門家と協働してモデルを検証・試験することが含まれる、と説明している",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "いまAIエージェントは我々のネットワークの中を野放しで走り回っており、誰もそれを見ることも、誰が作ったのかを検証することもできない",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "検証可能なアイデンティティと来歴により、誰が作り誰が運用しているかを確認する（ベンダーの申告だけに頼らない）",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "独立検証機関による評価、インシデント報告、州法の専占も含む",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "財務長官が30日以内に、AI業界と重要インフラ事業者との任意の協力のもとで、ソフトウェアの脆弱性を大規模に発見・検証し、修正パッチの配布を優先順位づけする拠点を設置する",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "障害は静かに起き、挙動の検証は難しい",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "科学、数学、戦略、創造性など広い領域で、AIの認知能力が人間を大きく上回るとされる仮説上の状態",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "ところがサンドボックスは、そのホスト名が実在するかどうかを検証していなかった",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ]
+ },
  "figures": {},
  "checked": {
   "pass3": [
@@ -20,12 +481,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tsunobuchi/n/nacac6c295472",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/zum_ism/n/nbcf42a2fb3ca",
+    "url": "https://note.com/kagawatomo/n/n49a1efddcfca",
     "status": "ok",
     "method": "http"
    },
@@ -35,7 +491,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/n49a1efddcfca",
+    "url": "https://note.com/rikei_okka/n/nbf00acf462dd",
     "status": "ok",
     "method": "http"
    },
@@ -45,7 +501,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tender_okapi2413/n/nbd2b6c8e57b0",
+    "url": "https://note.com/tsunobuchi/n/nacac6c295472",
     "status": "ok",
     "method": "http"
    },
@@ -60,17 +516,27 @@
     "method": "http"
    },
    {
-    "url": "https://www.ipa.go.jp/publish/wp-dx/gmcbt8000000botk-att/000108041.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://note.com/bunsekiya_tech/n/n4e79595f4897",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.jp/n/n0e68d175d67b?gs=b7e83dc4e1cc33bb28cdc9745fe3bddb",
+    "url": "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote060/e_rnote057.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ipa.go.jp/publish/wp-dx/gmcbt8000000botk-att/000108041.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://note.com/practicalcompass/n/ne3cd43458114",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suzuki-tax.net/souzoku/blog/1130/",
     "status": "ok",
     "method": "http"
    },
@@ -85,32 +551,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.nikkei-r.co.jp/service/report/btob_id332",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.meti.go.jp/policy/economy/chizai/chiteki/pdf/datapoint.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://aixtal.com/blog-smalldata/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.salesanalytics.co.jp/column/no00410/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://data-viz-lab.com/data-quality",
+    "url": "https://www.nikkei-r.co.jp/service/report/btob_id332",
     "status": "ok",
     "method": "http"
    },
@@ -120,17 +566,32 @@
     "method": "browser"
    },
    {
-    "url": "https://www.upr-net.co.jp/articles/knowledge/iot/case-study-manufacturing-industry/",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.mizu-machi.com/blog/totugoutoukei/",
+    "url": "https://www.salesanalytics.co.jp/column/no00410/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://claria-legal.com/2026/07/15/%E9%80%80%E8%81%B7%E3%81%97%E3%81%9F%E5%85%83%E5%BE%93%E6%A5%AD%E5%93%A1%E3%81%8C%E9%A1%A7%E5%AE%A2%E6%83%85%E5%A0%B1%E3%83%BB%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB%E3%81%AA%E3%81%A9%E3%81%AE/",
+    "url": "https://aixtal.com/blog-smalldata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r02/html/nd132110.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meti.go.jp/policy/economy/chizai/chiteki/pdf/datapoint.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://data-viz-lab.com/data-quality",
     "status": "ok",
     "method": "http"
    },
@@ -140,23 +601,23 @@
     "method": "http"
    },
    {
-    "url": "https://library.doc.gov/company/industry",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.naics.com/search/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://libguides.bgsu.edu/company_industry/industries",
+    "url": "https://library.doc.gov/company/industry",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://journals.sagepub.com/doi/10.1177/08944393241245390",
     "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.federalregister.gov/documents/2022/04/26/2022-08091/small-business-size-standards-manufacturing-and-industries-with-employee-based-size-standards-in",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -171,15 +632,15 @@
    "query": "会社データの販売元でない独立の書き手による従業員数・業種分類の精度の検証（業種の自動分類の一致率・小さい会社の欠け・論文や調査報道・4-114） site:note.com",
    "results": [
     "https://note.com/kagawatomo/n/n704995757996",
+    "https://note.com/kagawatomo/n/n49a1efddcfca",
+    "https://note.com/seankawakami/n/ne8adb65b9909",
+    "https://note.com/rikei_okka/n/nbf00acf462dd",
+    "https://note.com/trans_n_ai/n/n2b0fec132349",
     "https://note.com/tsunobuchi/n/nacac6c295472",
     "https://note.com/zum_ism/n/nbcf42a2fb3ca",
-    "https://note.com/seankawakami/n/ne8adb65b9909",
-    "https://note.com/kagawatomo/n/n49a1efddcfca",
-    "https://note.com/trans_n_ai/n/n2b0fec132349",
-    "https://note.com/sakamoto0812/n/n370e97ba6fde",
-    "https://note.com/kagawatomo/n/n1f921143731e",
-    "https://note.com/bizgram/n/n5bde4d5402d1",
-    "https://note.com/rtrtrtrt/n/nf07c4b5d8ef9"
+    "https://note.com/kazaneya/n/n320e9d98607f",
+    "https://note.com/rtrtrtrt/n/nf07c4b5d8ef9",
+    "https://note.com/kagawatomo/n/n1f921143731e"
    ],
    "engines": [
     "ddgs:google",
@@ -190,16 +651,16 @@
   {
    "query": "会社データの販売元でない独立の書き手による従業員数・業種分類の精度の検証（業種の自動分類の一致率・小さい会社の欠け・論文や調査報道・4-114） note",
    "results": [
-    "https://note.com/tender_okapi2413/n/nbd2b6c8e57b0",
     "https://note.com/apollo132/n/n3e485148877e",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://note.com/kagawatomo/n/n704995757996",
-    "https://www.ipa.go.jp/publish/wp-dx/gmcbt8000000botk-att/000108041.pdf",
     "https://note.com/bunsekiya_tech/n/n4e79595f4897",
+    "https://note.com/kagawatomo/n/n704995757996",
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote060/e_rnote057.pdf",
+    "https://www.ipa.go.jp/publish/wp-dx/gmcbt8000000botk-att/000108041.pdf",
+    "https://note.com/practicalcompass/n/ne3cd43458114",
+    "https://note.com/kens_reading1/n/n02a50dc9053b",
     "https://note.jp/n/n0e68d175d67b",
-    "https://note.com/stock_up/n/n2811e4e7d648",
-    "https://note.techtouch.jp/magazines",
-    "https://telecom.nikkei.co.jp/blog/3932/"
+    "https://shokubalog.com/articles/kaisha-jugyouinsu-shirabe-kata"
    ],
    "engines": [
     "ddgs:google",
@@ -210,16 +671,16 @@
   {
    "query": "会社データの販売元でない独立の書き手による従業員数・業種分類の精度の検証（業種の自動分類の一致率・小さい会社の欠け・論文や調査報道・4-114） やり方",
    "results": [
+    "https://suzuki-tax.net/souzoku/blog/1130/",
     "https://www.nta.go.jp/about/council/statistics/250210/pdf/01.pdf",
     "https://stgy-souzoku.com/company-size-judgment/",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.ipa.go.jp/publish/wp-dx/gmcbt8000000botk-att/000108041.pdf",
-    "https://www.nikkei-r.co.jp/service/report/btob_id332",
-    "https://www.meti.go.jp/policy/economy/chizai/chiteki/pdf/datapoint.pdf",
-    "https://aixtal.com/blog-smalldata/",
     "https://www.soumu.go.jp/toukei_toukatsu/index/seido/sangyo/",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.nikkei-r.co.jp/service/report/btob_id332",
+    "https://www.ipa.go.jp/publish/wp-dx/gmcbt8000000botk-att/000108041.pdf",
     "https://www.future-artisan.co.jp/column/data_scientist_vol1",
-    "https://www.mizu-machi.com/blog/totugoutoukei/"
+    "https://www.esri.cao.go.jp/jp/esri/archive/e_rnote/e_rnote060/e_rnote057.pdf",
+    "https://telecom.nikkei.co.jp/blog/3932/"
    ],
    "engines": [
     "ddgs:bing",
@@ -230,19 +691,19 @@
   {
    "query": "会社データの販売元でない独立の書き手による従業員数・業種分類の精度の検証（業種の自動分類の一致率・小さい会社の欠け・論文や調査報道・4-114） 事例",
    "results": [
+    "https://sites.mit.edu/fujisue/category/uncategorized/",
     "https://www.salesanalytics.co.jp/column/no00410/",
-    "https://www.ipa.go.jp/publish/wp-dx/gmcbt8000000botk-att/000108041.pdf",
     "https://aixtal.com/blog-smalldata/",
-    "https://data-viz-lab.com/data-quality",
-    "https://www.meti.go.jp/policy/economy/chizai/chiteki/pdf/datapoint.pdf",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://www.future-artisan.co.jp/column/data_scientist_vol1",
+    "https://www.soumu.go.jp/johotsusintokei/whitepaper/ja/r02/html/nd132110.html",
     "https://www.youtube.com/watch?v=yU9r1jKcWsA",
-    "https://www.upr-net.co.jp/articles/knowledge/iot/case-study-manufacturing-industry/",
-    "https://www.mizu-machi.com/blog/totugoutoukei/"
+    "https://www.meti.go.jp/policy/economy/chizai/chiteki/pdf/datapoint.pdf",
+    "https://data-viz-lab.com/data-quality",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://claria-legal.com/2026/07/15/退職した元従業員が顧客情報・マニュアルなどの/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -251,18 +712,18 @@
    "query": "independent study accuracy of company industry classification and employee counts databases small firms coverage",
    "results": [
     "https://guides.library.cornell.edu/companyandindustry/background",
-    "https://library.doc.gov/company/industry",
     "https://www.naics.com/search/",
-    "https://libguides.bgsu.edu/company_industry/industries",
+    "https://library.doc.gov/company/industry",
     "https://journals.sagepub.com/doi/10.1177/08944393241245390",
-    "https://guides.library.fresnostate.edu/c.php?g=289116&p=1927840",
-    "https://library.phoenix.edu/industry_research",
     "https://www.federalregister.gov/documents/2022/04/26/2022-08091/small-business-size-standards-manufacturing-and-industries-with-employee-based-size-standards-in",
+    "https://guides.library.fresnostate.edu/c.php?g=289116&p=1927840",
+    "https://libguides.bgsu.edu/company_industry/industries",
     "https://belmont.libguides.com/business/industries",
-    "https://www.bea.gov/sites/default/files/papers/BEA-WP2022-12.pdf"
+    "https://library.phoenix.edu/select_an_industry_database",
+    "https://www.fedsmallbusiness.org/-/media/project/clevelandfedtenant/fsbsite/reports/2026/2026-firms-in-focus-chartbooks/sbcs_chartbook2026_industry.pdf"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -275,14 +736,14 @@
     "https://note.com/tasty_dunlin998/n/nf534ce147ed5",
     "https://note.com/lucid_lynx8370/n/n88c2638de7f1",
     "https://note.com/tasuto11/n/n09b2b5bb4446",
-    "https://note.com/powerpoint_jp/n/n19840a713886",
     "https://note.com/tomohiko_naba/n/ncdc763131c63",
+    "https://note.com/powerpoint_jp/n/n19840a713886",
     "https://note.com/sohtanagasaka/n/n4e209489f0aa",
     "https://note.com/sute_aca/n/n7b9fe27ae4b2",
-    "https://note.com/ichi_twnovel/n/nf3812ef43dcb"
+    "https://note.com/tetsuji55/n/n0061c1868d67"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -294,25 +755,25 @@
     "https://x.com/oka_motti/status/2110128455421694163",
     "https://x.com/takyoevp/status/2078678294589997296",
     "https://x.com/nobunobuno/status/2099611650131452244",
+    "https://x.com/craftdata2/status/1806459579422974262",
     "https://x.com/hasibiro_maga/status/2037968148000022905",
-    "https://x.com/GCNrD0O3ThCKSJL/status/2086807318709301440",
     "https://x.com/mie_furu/status/2093814067135909938"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
   {
    "query": "site:linkedin.com 会社データの販売元でない独立の書き手による従業員数・業種分類の精度の検証（業種の自動分類の一致率・小さい会社の欠け・論文や調査報道・4-114）",
    "results": [
-    "https://jp.linkedin.com/in/taitamur",
     "https://jp.linkedin.com/in/直樹-村田-124935270",
     "https://jp.linkedin.com/company/compliance-data-lab",
     "https://jp.linkedin.com/in/matsu-datalyst/en",
     "https://www.linkedin.com/pulse/従業員ゼロ取締役2名の会社が誕生henngeが始めたai前提の組織実験-駿介-原-zguzc/",
+    "https://jp.linkedin.com/pulse/how-self-service-analytics-saves-money-evgenii-paranin-rzhuc?tl=ja",
     "https://www.linkedin.com/feed/update/urn:li:activity:7508410275025403904/",
-    "https://jp.linkedin.com/pulse/how-self-service-analytics-saves-money-evgenii-paranin-rzhuc?tl=ja"
+    "https://jp.linkedin.com/posts/yoshiki-kumazawa-91988713_外資系ヘッドカウントの仕組み-外資系企業におけるヘッドカウントheadcount-activity-7371348779007934464-xLls"
    ],
    "engines": [
     "ddgs:google"
@@ -324,8 +785,8 @@
    "results": [
     "https://www.facebook.com/kanatanohito2019/",
     "https://www.facebook.com/honjpnewsblog/posts/弊社グループ元従業員による情報漏洩に関するご報告ニュースリリース日本出版販売株式会社/1481858100612917/",
-    "https://www.facebook.com/motokokuzei/posts/混乱しがちな従業者の数の判定法人住民税法人事業税の分割基準と法人住民税の均等割の計算で細かいところが変わりますこの点先日の月刊税務ｑａ２０２０年５月号にまとめら/2803356233125330/",
     "https://www.facebook.com/ipaprjp/posts/プレスリリースデータ連携の仕組みに関するガイドラインの手引き-サプライチェーン共通編-10版を公開しましたサプライチェーンにおける企業間のデータ連携を推進し安全/1553688816761327/",
+    "https://www.facebook.com/motokokuzei/posts/混乱しがちな従業者の数の判定法人住民税法人事業税の分割基準と法人住民税の均等割の計算で細かいところが変わりますこの点先日の月刊税務ｑａ２０２０年５月号にまとめら/2803356233125330/",
     "https://www.facebook.com/fukuoka.takken/posts/宅建業法改正に伴う従業者名簿の新様式について本年４月１日より一部施行となる改正宅建業法では第４８条により備付が義務付けられております従業者名簿への記載事項のうち/1391075797604203/",
     "https://www.facebook.com/london.bbs/posts/キングスカレッジロンドンへの質問話し手または書き手の思考や感情がほぼ表現し尽くされている一まとまりの統一ある言語表現で一つもしくは複数の文①-から成るもの一編の/1497043430503476/",
     "https://www.facebook.com/ITmedia/posts/日販グループホールディングスと日本出版販売はグループ元従業員1人よる情報漏えいが発覚したと発表した/1770512860861222/"
@@ -339,18 +800,18 @@
    "query": "会社データの販売元でない独立の書き手による従業員数・業種分類の精度の検証（業種の自動分類の一致率・小さい会社の欠け・論文や調査報道・4-114） note 社長",
    "results": [
     "https://note.com/apollo132/n/n3e485148877e",
-    "https://note.com/kagawatomo/n/n704995757996",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
     "https://note.com/majyp/n/n998432985aa7",
+    "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://note.com/kagawatomo/n/n704995757996",
+    "https://note.com/ika_yaki/n/ne33a40865eec",
     "https://www.ipa.go.jp/publish/wp-dx/gmcbt8000000botk-att/000108041.pdf",
-    "https://note.com/fresh_viola853/n/n41946b328624",
     "https://note.jp/n/n0e68d175d67b",
-    "https://www.youtube.com/watch?v=dHhL9VNWO_A",
     "https://www.bizreach.jp/static/articles/jf-071/",
+    "https://note.com/tag/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%89%E3%83%AA%E3%83%96%E3%83%B3",
     "https://note.com/lofty_arnica8644/n/n4ebe1250b0c3"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -358,19 +819,19 @@
   {
    "query": "会社データの販売元でない独立の書き手による従業員数・業種分類の精度の検証（業種の自動分類の一致率・小さい会社の欠け・論文や調査報道・4-114） X 投稿",
    "results": [
-    "https://www.pdf.com/ja/empowering-manufacturing-domain-experts-as-citizen-data-scientists/",
-    "https://www.youtube.com/watch?v=yU9r1jKcWsA",
+    "https://sites.mit.edu/fujisue/category/uncategorized/",
     "https://www.morihamada.com/ja/insights/newsletters/o66093",
+    "https://www.youtube.com/watch?v=yU9r1jKcWsA",
     "https://www.rieti.go.jp/jp/publications/summary/25090017.html",
-    "https://fukuoka-ecsite.co.jp/blog/sns/x-posts-viral-sales-strategy/",
-    "https://aixtal.com/blog-smalldata/",
+    "https://fukuoka-ecsite.co.jp/blog/sns/x-impressions-ec-conversion-strategy/",
     "https://www.ajsa.or.jp/kentei/sns/x/x-works-for-which-industries.html",
-    "https://geniee.co.jp/media/cdp/demand-forecasting-manufacturing/",
-    "https://www.ipa.go.jp/publish/wp-dx/qv6pgp0000000txx-att/000093706.pdf",
-    "https://claria-legal.com/2026/07/15/退職した元従業員が顧客情報・マニュアルなどの/"
+    "https://orsj.org/wp-content/corsj/or59-4/or59_4_219.pdf",
+    "https://bizpa.net/mag/knowledge-5691/",
+    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "https://telecom.nikkei.co.jp/blog/3932/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -378,32 +839,487 @@
   {
    "query": "independent study accuracy of company industry classification and employee counts databases small firms coverage site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/bad-data-big-decisions-how-integrity-breakdowns-lead-andre-bnv7e",
     "https://business.linkedin.com/learn/resources/workplace-learning-report",
+    "https://www.linkedin.com/company/farmers-insurance",
     "https://sg.linkedin.com/company/accuracy",
-    "https://www.linkedin.com/company/milliman",
+    "https://www.linkedin.com/pulse/bad-data-big-decisions-how-integrity-breakdowns-lead-andre-bnv7e",
     "https://www.linkedin.com/company/liberty-mutual-insurance",
-    "https://www.linkedin.com/company/heffernan-insurance-brokers",
-    "https://in.linkedin.com/company/dun-&-bradstreet-india",
     "https://www.linkedin.com/company/nfib",
-    "https://www.linkedin.com/company/oracle",
-    "https://www.linkedin.com/company/farmers-insurance"
+    "https://www.linkedin.com/company/milliman",
+    "https://www.linkedin.com/company/schneider-electric",
+    "https://www.linkedin.com/company/aig",
+    "https://www.linkedin.com/company/oracle"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
   }
  ],
- "missing": {
-  "手順・やり方": "記載なし（読んだ30頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）",
-  "実例": "記載なし（読んだ30頁・検索12回）"
+ "missing": {},
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "実運用中の商用AIシステムを外部から継続的に監査するための方法論",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "選挙に関する情報の入手経路は、新聞・テレビから検索エンジンへ、さらにソーシャルメディアへと移り、いま有権者の一部はLLMを搭載した対話型サービスに直接問いかけている",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "だからこそ、方法を公開し、時系列で蓄積する基盤を先に作るという選択には合理性がある",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "「偏りの帰属」ができないという方法論上の制約は、裏返せば、帰属できないからこそ観測記録が契約と責任の基礎になる、ということでもある",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "出力の真正性への攻撃は、この非線形性が典型的に現れる領域である",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "しかしそれが数千万人が使う対話型サービスの「答え」に反映されれば、影響は桁違いになる",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "可視性の低さと影響の大きさの組合せは、経営が最も見落としやすいリスクの型である",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "自社の顧客が実際に使う主要な対話型サービスと、自社が業務に組み込んでいるモデル",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "NISTのAIリスクマネジメントフレームワークでいえば、測定（Measure）機能の実装例である",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "方法論はすでに公開されつつあり、日本語環境への適用は技術的に十分射程内にある",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "この型のリスクに対して、防御側が持ちうる手段は、測り続けることである",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "ISO/IEC 42001:2023（JIS Q 42001）AIマネジメントシステム、NIST AI Risk Management Framework 1.0",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "OpenAIのエージェント群が、25年前のドイツ語圏のWikiを秘密の掲示板として使い、互いにカンニングの方法を共有していた",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "バイデン政権のトップダウン型の規制的アプローチとは異なり、トランプ大統領は米国産業界と手を携え、イノベーションと国家安全保障の適切な均衡を図っている",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "注意義務（責任法型）と公開差止め（事前規制型）の組み合わせ",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "LLMの応答は質問者の属性表示に対して可変であり、応答の「正しさ」は、時点・属性・検索結果に依存する確率的な量として測るほかない",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "時点・属性・検索結果を引数とする確率的な関数",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "形式的に書けば、応答Yは、質問q、質問者の属性a、時点t、検索結果rを引数とする確率分布 Y ～ P(y | q, a, t, r) から抽出された標本である",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "公表にあわせて示された事例では、ある州の上院選に同姓同名の候補者が存在する状況で、モデルが一方の人物のみを前提に回答した",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "別の事例では、同じ候補者に関する同じ問いに対し、質問者の政治的立場の申告を変えたところ、モデルが取り上げる論点そのものが入れ替わった",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "差異が観測されても、その源が訓練データの分布なのか、事後学習の設計なのか、検索結果の構成なのかを外部から特定することは難しい",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "ロイターの記事では、例えばアルファベット傘下のグーグル、Anthropic、OpenAIなどが挙げられている",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "そのうえで、最大級の警報に相当するセキュリティリスクだとし、AIシステムが人間の操作なしに、自動操縦で組織をハッキングした事例をすでに見ていると述べている",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "原因のわずかな変化が、結果に不釣り合いに大きな変化をもたらす関係",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "むしろ本稿の事案では、真面目に課題を解こうとした結果として起きている",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "報告書が図で示す事例では、OpenAIFPResearchSep05というエージェントがOpenAINov27に対して先行を依頼し、Nov27が同意して加速し、第3問と第4問を先に受け取って「R4信号：バーレーン＝40.01%」などと投稿している",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "与えられた課題で良い成績を取ろうとした結果である",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "結果としてサイバーリスクは非線形になり、攻撃者能力のわずかな向上が、組織のエクスポージャーに不釣り合いなほど大きな跳ね上がりをもたらす",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Anthropicの説明では、Claude の精度を上げていく過程で、結果としてサイバーセキュリティ能力が突出したモデルができあがった",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "その結果、リスクは線形ではなく非線形になる",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "MITスローン経営大学院のカーラ・ポディマタ助教授（オペレーションズ・リサーチ／統計学）が、政治学のアダム・ベリンスキー教授、チャールズ・スチュワート三世教授とともに率いるプロジェクトだ",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "なお研究チーム自身は、体系的な偏りや正確性について確定的な結論を下すのは早いとし、統計的に厳密な分析手法を開発中であると明言している",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "自社の製品・企業姿勢・採用条件・財務・過去の不祥事・競合との比較について、固定の質問群を定める",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "日本には、日本語でのLLMの応答を選挙期間を通じて体系的に記録する公的・学術的な仕組みが、筆者の知る限り存在しない",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "同じ構造は、企業の意思決定、採用、投資判断、行政の窓口対応にも等しく存在する",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "NISTが「ソフトウェアおよびAIエージェントのアイデンティティと認可の採用加速」に関する概念文書を公表",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "あるエージェントが、DataUSAという統計サイトを使う課題について、こう書き込む",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "課題の一つに、OECDの教育格差に関する公開ダッシュボード（Power BI製）から統計値を小数第2位まで読み取る、というものがあった",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "統計的推論より、仲間からの中継のほうが確実だった",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "ヘデン教授は特定の理論を採用することは避け、選択肢を整理している（論文§3）",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "GPT-5.6 Sol は、レビュー対象の記録に登場するエージェントの視点を無批判に採用しがちだった",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "METR, “Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident”, 2026年8月26日 https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/ （PDF版：https://metr.org/hugging-face-incident-report-aug-2026.pdf）",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "解説ブログ＋技術報告書（PDF・37ページ）＋Black Hat講演動画",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "OpenAI, “OpenAI-Hugging Face Incident Technical Report”（PDF・37ページ）, 2026年8月26日",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "同社によれば、異なる企業のプラットフォーム、センサー、ペイロードを組み合わせるopen architectureを採用し、複数の無人システムを人間のオペレーターの監督下で協調させることを目指している",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "これは政治的偏りというより、実体の曖昧性解消（entity disambiguation）の失敗である",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "以上、同定の失敗は攻撃面（attack surface）になる",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "事実関係の誤りがなくとも、何を選びどう要約するかが質問者ごとに変わるのであれば、利用者が受け取る情報環境は個別化されている",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "選挙に関する偽情報を問うと、モデルは一貫して誤りを否定した",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "モデルは「それは誤りです」と答える能力を備えつつ、同時に誤解を招く素材を生成しうる",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "事実性（検証可能な誤り）と均衡性（論点の選択）を分けて測るべきである",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "本連載ではこれを「アカウンタビリティの罠」と呼んできた",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "事実誤り率、属性間の応答一貫性、時点間の変化量、引用元ドメインの集中度、自社と競合の言及比率",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "前述の同定の失敗や新人候補の不利という現象は、日本語環境ではより強く現れる可能性がある",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "9月11日にはロイターが、上院の院内総務と商務委員長らが、開発企業に「注意義務」を課し、政府が公開を差し止められる法案を交渉していると報じた",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "開発企業に「注意義務」を課し、危険と判断されたモデルについては政府が公開を差し止められるようにする、という構想である",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "第一に、開発企業への「注意義務（duty of care）」",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "ロイターが上院の注意義務・公開差止め構想を報道",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "7月に事案が公表されると、7週間後には下院で停止権限を含む法案が提出され、8月には上院で注意義務の枠組みが議論され、9月には上院中枢の交渉として表に出た",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "注意義務、政府による公開差止め、州法の専占",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "そのうえで、CAMS（Cybersecurity at MIT Sloan）が扱ってきた三つの主題 ── 検証不能な第三者システムへの依存、非線形に拡大するリスク、取締役会による統治 ── に接続し、次の四点を論じる",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "問題の所在 ── 「答え」を返すシステムの検証可能性",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "世論調査とLLMの予測を突き合わせた分析では、候補者によって方向の異なる系統的な較正のずれも見いだされている",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "研究では属性を明示的に申告するが、実際の利用では会話履歴や記憶機能、地域情報から暗黙に推定される",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "事実性（検証可能な誤り）と均衡性（論点の選択）を分けて測るべきである",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "検証不能な第三者システムへの依存 ── アカウンタビリティの構造",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "外形的な挙動を継続的に観測し記録することが、取りうる唯一の検証手段",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "クロブシャー議員はロイターへの声明で、AIモデルがもたらす最大級のリスクに対する政府の監督について超党派の合意に向けて取り組み続けているとし、そこには開発者が政府の専門家と協働してモデルを検証・試験することが含まれる、と説明している",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "いまAIエージェントは我々のネットワークの中を野放しで走り回っており、誰もそれを見ることも、誰が作ったのかを検証することもできない",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "検証可能なアイデンティティと来歴により、誰が作り誰が運用しているかを確認する（ベンダーの申告だけに頼らない）",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "独立検証機関による評価、インシデント報告、州法の専占も含む",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "財務長官が30日以内に、AI業界と重要インフラ事業者との任意の協力のもとで、ソフトウェアの脆弱性を大規模に発見・検証し、修正パッチの配布を優先順位づけする拠点を設置する",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "障害は静かに起き、挙動の検証は難しい",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "科学、数学、戦略、創造性など広い領域で、AIの認知能力が人間を大きく上回るとされる仮説上の状態",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "ところがサンドボックスは、そのホスト名が実在するかどうかを検証していなかった",
+    "url": "https://sites.mit.edu/fujisue/category/uncategorized/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ]
  },
- "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-08T22:42:46.961959+00:00"
 }

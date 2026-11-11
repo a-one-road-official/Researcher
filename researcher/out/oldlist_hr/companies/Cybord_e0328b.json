@@ -1,0 +1,1518 @@
+{
+ "name": "Cybord",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン1",
+ "researched_at": "2026-11-11T00:26:47.905982+00:00",
+ "official_url": "https://www.cybord.ai",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "デラウェア州ウィルミントン",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/Cybord_FUJI.pdf",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒472-8686 愛知県知立市山町茶碓山 19",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/Cybord_FUJI.pdf",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "デラウェア州ウィルミントン",
+    "url": "https://kikai-news.net/2025/03/18/fuji%E3%80%81%E7%B1%B3%E5%9B%BD-cybord-%E7%A4%BE%E3%81%A8%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E3%82%92%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒472-8686 愛知県知立市山町茶碓山 19",
+    "url": "https://kikai-news.net/2025/03/18/fuji%E3%80%81%E7%B1%B3%E5%9B%BD-cybord-%E7%A4%BE%E3%81%A8%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E3%82%92%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "愛知県知立市山町茶碓山19番地",
+    "url": "https://prtimes.jp/main/html/rd/p/000000060.000101249.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "デラウェア州ウィルミントン",
+    "url": "https://prtimes.jp/main/html/rd/p/000000060.000101249.html",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒472-8686 愛知県知立市山町茶碓山19",
+    "url": "https://prtimes.jp/main/html/rd/p/000000060.000101249.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：1959年04月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000060.000101249.html",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "9. Seed Round",
+    "value": "10-Jan-2022    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/433156-51",
+    "pass": 3
+   },
+   {
+    "label": "5. Seed Round",
+    "value": "01-Apr-2020    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/433156-51",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1 Preferred",
+    "value": "246,820 $0.000100  $3.32 $3.32 1x $3.32 11.69%",
+    "url": "https://pitchbook.com/profiles/company/433156-51",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Enforce. Authenticate. Predict: AI-Driven Component Inspection | Cybord AI",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Tap the power of AI to enforce standards, authenticate components, and predict supply chain trends",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Line Images",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI analyzes, validates and classifies every component image captured on the production line.",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect data across MPN, Approved Vendor Lists, lot, date code, board, product and site to uncover trends and systemic issues, accelerate root cause analysis and contain recalls.",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Big data analytics reveal supply chain trends and patterns across components, products, sites, and time.",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From Production Line to Boardroom",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure only approved components make it into your products.",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Provenance & Traceability",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Maintain audit-ready evidence for provenance and compliance.",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn production data into intelligence for smarter sourcing and risk decisions.",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-trained models ready for use and scalability on day-one",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Cybord aligns perfectly with our commitment to enhance product integrity",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "President of Fuji America Corporation",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "In manufacturing supply chains, it’s critically important to have a competitive edge in both hardware integrity and efficiency. Cybord not only affords these advantages, but also provides enhanced security and visibility.",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Cybord’s state-of-the-art AI technology, provides our customers with an unparalleled ability to detect and resolve issues quickly and efficiently at production scale.",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Manager at Siemens Digital Industries Software",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fuji America and Cybord Form Strategic Partnership to Deliver Visual AI-Powered Technology to SMT Production Lines Across the Americas",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "actually inside your electronic products",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "In aerospace and defense, product integrity and traceability are critical for AS9100D compliance. Cybord’s AI-driven visual inspection integrates with SMT, P&P, and AOI systems to deliver real-time component verification and unmatched traceability—without additional hardware.",
+    "url": "https://cybord.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMs in the data center industry face critical challenges around component authenticity, quality variability, and lack of traceability—all of which can lead to costly failures and downtime. With strict compliance demands and zero tolerance for defects, they must ensure every chip meets the highest standards without compromising speed or scalability.",
+    "url": "https://cybord.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "No Compromise on Trust",
+    "url": "https://cybord.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "In the high-stakes world of medical device manufacturing, even the smallest component flaw can lead to critical safety risks or regulatory setbacks. As devices become more complex and digitized, OEMs must adopt advanced inspection solutions to ensure full compliance, traceability, and product integrity from the inside out.",
+    "url": "https://cybord.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "To allow real-time processing Cybord requires an edge computer to be installed. A single edge computer can support multiple SMT lines.",
+    "url": "https://cybord.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "The data is processed on the local edge computer. The analyzed data is stored in AWS.",
+    "url": "https://cybord.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Does Cybord require training on specific component types or text formats to effectively identify markings with inconsistencies?",
+    "url": "https://cybord.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "actually inside your electronic products",
+    "url": "https://cybord.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Through real-time bottom-side, top-side, and complete board inspection, Cybord provides manufacturers with unmatched traceability, risk mitigation, and compliance assurance at every stage of production.",
+    "url": "https://cybord.ai/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensuring Product Integrity and Process Efficiency in Avionics",
+    "url": "https://cybord.ai/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "To allow real-time processing Cybord requires an edge computer to be installed. A single edge computer can support multiple SMT lines.",
+    "url": "https://cybord.ai/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "The data is processed on the local edge computer. The analyzed data is stored in AWS.",
+    "url": "https://cybord.ai/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "We inspect both the bottom-side and top-side of every component. The platform detects issues like body defects, tampering, authenticity, contaminations, bent leads, and setup failures. Additionally, we collect information such as country of origin, lot code, date code, MPNs and more. All this is stored in a data repository and accessed via our console.",
+    "url": "https://cybord.ai/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "actually inside your electronic products",
+    "url": "https://cybord.ai/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "See how leading manufacturers use Cybord to strengthen product integrity, traceability, and supply chain security — at scale.",
+    "url": "https://cybord.ai/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Avoiding a $9M Mistake: A Case for Proactive Traceability",
+    "url": "https://cybord.ai/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Preventing a Critical Component Mismatch - EV Manufacturer",
+    "url": "https://cybord.ai/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Preventing a Critical Component Mismatch at a Leading Electric Vehicle Manufacturer",
+    "url": "https://cybord.ai/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "To allow real-time processing Cybord requires an edge computer to be installed. A single edge computer can support multiple SMT lines.",
+    "url": "https://cybord.ai/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "The data is processed on the local edge computer. The analyzed data is stored in AWS.",
+    "url": "https://cybord.ai/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "We inspect both the bottom-side and top-side of every component. The platform detects issues like body defects, tampering, authenticity, contaminations, bent leads, and setup failures. Additionally, we collect information such as country of origin, lot code, date code, MPNs and more. All this is stored in a data repository and accessed via our console.",
+    "url": "https://cybord.ai/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "actually inside your electronic products",
+    "url": "https://cybord.ai/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMs in the data center industry face critical challenges around component authenticity, quality variability, and lack of traceability—all of which can lead to costly failures and downtime. With strict compliance demands and zero tolerance for defects, they must ensure every chip meets the highest standards without compromising speed or scalability.",
+    "url": "https://cybord.ai/industries/datacenter/",
+    "pass": 1
+   },
+   {
+    "quote": "Cybord’s Visual AI is essential for OEMs building datacenter solutions, enabling real-time inspection of every electronic component to ensure IPC-A-610 compliance and superior product reliability. Enhanced with unmatched full-PCBA inspection, Cybord empowers manufacturers to deliver verified, secure, and fully traceable systems—built for performance and trust.",
+    "url": "https://cybord.ai/industries/datacenter/",
+    "pass": 1
+   },
+   {
+    "quote": "See how leading manufacturers use Cybord to strengthen product integrity, traceability, and supply chain security — at scale.",
+    "url": "https://cybord.ai/industries/datacenter/",
+    "pass": 1
+   },
+   {
+    "quote": "Enhancing Product Integrity with AI-Powered Visual Inspection",
+    "url": "https://cybord.ai/industries/datacenter/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Many customers prefer to have this data “injected” into their existing MES or BI systems by API.",
+    "url": "https://cybord.ai/industries/datacenter/",
+    "pass": 1
+   },
+   {
+    "quote": "actually inside your electronic products",
+    "url": "https://cybord.ai/industries/datacenter/",
+    "pass": 1
+   },
+   {
+    "quote": "See how leading manufacturers use Cybord to strengthen product integrity, traceability, and supply chain security — at scale.",
+    "url": "https://cybord.ai/industries/military-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "The data is processed on the local edge computer. The analyzed data is stored in AWS.",
+    "url": "https://cybord.ai/industries/military-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "We inspect both the bottom-side and top-side of every component. The platform detects issues like body defects, tampering, authenticity, contaminations, bent leads, and setup failures. Additionally, we collect information such as country of origin, lot code, date code, MPNs and more. All this is stored in a data repository and accessed via our console.",
+    "url": "https://cybord.ai/industries/military-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Is the data encrypted or protected to ensure security and privacy?",
+    "url": "https://cybord.ai/industries/military-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "actually inside your electronic products",
+    "url": "https://cybord.ai/industries/military-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Cybord was founded by Dr. Eyal Weiss following a crisis in a defense mega project caused by counterfeit electronic components. It took his team months to trace the problem down to a three-cent faulty capacitor.",
+    "url": "https://cybord.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "This incident, along with a deep understanding of the widespread issue of defective and counterfeit components, led to founding of Cybord.",
+    "url": "https://cybord.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The Cybord Deep Visual-AI platform aggregates and analyzes images and data from 100% of electronic components before, during and after assembly. By combining existing production data with unique, real-time visual data collection, it ensures product quality, authenticity, traceability, and end-to-end hardware security for OEMs and EMSs.",
+    "url": "https://cybord.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "A future where AI empowers manufacturers to build products with uncompromised integrity — secure, traceable, and free from counterfeits or defects.",
+    "url": "https://cybord.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Secure the integrity of every electronic product by harnessing advanced AI to inspect and validate every component, ensuring unmatched quality, traceability, and protection against counterfeits and cyber risks.",
+    "url": "https://cybord.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "An expert in technology development with over 20 years of experience in successful multidisciplinary research and development management. Eyal was the R&D department manager at the Soreq Nuclear Research Center, where he managed large projects involving over 25 experts before starting Cybord. Eyal is a specialist in entrepreneurship, from concept to product, and has won two Israel Security prizes.",
+    "url": "https://cybord.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Tyler York is the Chief Business Officer at Cybord, where he leads global revenue growth, go-to-market strategy, and U.S. expansion. He holds an MBA and brings experience across enterprise sales, marketing, and full P&L ownership, including time in the electronics and semiconductor ecosystem at Altium and Octopart, where he worked closely with engineers, manufacturers, and component supply chains.",
+    "url": "https://cybord.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to joining Cybord, Tyler acquired, scaled, and successfully exited a digital marketing firm, leading strategy, client acquisition, and operational execution. He is known for his practical, data-driven approach to aligning product, positioning, and pipeline to drive measurable growth.",
+    "url": "https://cybord.ai/about-us/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by Global Electronics Manufacturers",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Line Images",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI analyzes, validates and classifies every component image captured on the production line.",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "From Production Line to Boardroom",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Electronics Manufacturing",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "In manufacturing supply chains, it’s critically important to have a competitive edge in both hardware integrity and efficiency. Cybord not only affords these advantages, but also provides enhanced security and visibility.",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fuji America and Cybord Form Strategic Partnership to Deliver Visual AI-Powered Technology to SMT Production Lines Across the Americas",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "In aerospace and defense, product integrity and traceability are critical for AS9100D compliance. Cybord’s AI-driven visual inspection integrates with SMT, P&P, and AOI systems to deliver real-time component verification and unmatched traceability—without additional hardware.",
+    "url": "https://cybord.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "In the high-stakes world of medical device manufacturing, even the smallest component flaw can lead to critical safety risks or regulatory setbacks. As devices become more complex and digitized, OEMs must adopt advanced inspection solutions to ensure full compliance, traceability, and product integrity from the inside out.",
+    "url": "https://cybord.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace: Ensure AS9100D Compliance with Visual AI",
+    "url": "https://cybord.ai/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Cybord’s AI-driven visual inspection solution transforms how manufacturers verify component authenticity and reliability by integrating seamlessly with existing SMT lines, Pick and Place (P&P) systems, and Automated Optical Inspection (AOI) machines – without requiring additional hardware",
+    "url": "https://cybord.ai/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Through real-time bottom-side, top-side, and complete board inspection, Cybord provides manufacturers with unmatched traceability, risk mitigation, and compliance assurance at every stage of production.",
+    "url": "https://cybord.ai/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive: Visual AI enables 100% inspection of every chip in your vehicle",
+    "url": "https://cybord.ai/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "See how leading manufacturers use Cybord to strengthen product integrity, traceability, and supply chain security — at scale.",
+    "url": "https://cybord.ai/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "How a Tier 1 Automotive Supplier Resolved Hidden Component Placement Issues",
+    "url": "https://cybord.ai/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Preventing a Critical Component Mismatch - EV Manufacturer",
+    "url": "https://cybord.ai/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Preventing a Critical Component Mismatch at a Leading Electric Vehicle Manufacturer",
+    "url": "https://cybord.ai/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO 26262 Compliance in Automotive Electronics: Ensuring Functional Safety with Advanced Component Inspection",
+    "url": "https://cybord.ai/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "Cybord’s Visual AI is essential for OEMs building datacenter solutions, enabling real-time inspection of every electronic component to ensure IPC-A-610 compliance and superior product reliability. Enhanced with unmatched full-PCBA inspection, Cybord empowers manufacturers to deliver verified, secure, and fully traceable systems—built for performance and trust.",
+    "url": "https://cybord.ai/industries/datacenter/",
+    "pass": 1
+   },
+   {
+    "quote": "See how leading manufacturers use Cybord to strengthen product integrity, traceability, and supply chain security — at scale.",
+    "url": "https://cybord.ai/industries/datacenter/",
+    "pass": 1
+   },
+   {
+    "quote": "Enabling Trusted Electronics for a Government-Facing Communications Equipment Manufacturer",
+    "url": "https://cybord.ai/industries/datacenter/",
+    "pass": 1
+   },
+   {
+    "quote": "See how leading manufacturers use Cybord to strengthen product integrity, traceability, and supply chain security — at scale.",
+    "url": "https://cybord.ai/industries/military-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Enabling Trusted Electronics for a Government-facing Communications Equipment Manufacturer",
+    "url": "https://cybord.ai/industries/military-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "Cybord was founded by Dr. Eyal Weiss following a crisis in a defense mega project caused by counterfeit electronic components. It took his team months to trace the problem down to a three-cent faulty capacitor.",
+    "url": "https://cybord.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "A future where AI empowers manufacturers to build products with uncompromised integrity — secure, traceable, and free from counterfeits or defects.",
+    "url": "https://cybord.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Tyler York is the Chief Business Officer at Cybord, where he leads global revenue growth, go-to-market strategy, and U.S. expansion. He holds an MBA and brings experience across enterprise sales, marketing, and full P&L ownership, including time in the electronics and semiconductor ecosystem at Altium and Octopart, where he worked closely with engineers, manufacturers, and component supply chains.",
+    "url": "https://cybord.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "—Yaniv brings deep expertise in hardware manufacturing, supply chain, quality, and procurement. His background spans development, program management, and operations, delivering value from production to deployment.",
+    "url": "https://cybord.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Cybord is transforming the electronics industry with cutting-edge visual AI that inspects every component on every board — in real time. As global demand grows for supply chain security, product integrity, and hardware trust, our technology is becoming a critical layer in modern electronics manufacturing.",
+    "url": "https://cybord.ai/career/",
+    "pass": 1
+   },
+   {
+    "quote": "Enforcing AVL for a Government-Facing Communications Equipment Manufacturer",
+    "url": "https://cybord.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Preventing a Critical Component Mismatch at a Leading Electric Vehicle Manufacturer",
+    "url": "https://cybord.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How a Tier 1 Automotive Supplier Resolved Hidden Component Placement Issues",
+    "url": "https://cybord.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical device OEMs face mounting pressure to ensure product safety, regulatory compliance, and traceability at the component level. Cybord’s Visual AI empowers manufacturers to meet ISO 13485 and IEC 60601 requirements by providing 100% real-time inspection of every electronic component—detecting defects, contamination, aging, and counterfeit risks that traditional testing methods often miss.",
+    "url": "https://cybord.ai/industries/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "A leading North American aerospace manufacturer specializing in civilian and military applications, producing flight systems, power and control units, and mission-critical safety systems.",
+    "url": "https://cybord.ai/resources/case-studies/ensuring-product-integrity-and-process-efficiency-in-avionics/",
+    "pass": 1
+   },
+   {
+    "quote": "As one of the world’s most respected aerospace electronics manufacturers, the customer faced a familiar, but growing, set of challenges:",
+    "url": "https://cybord.ai/resources/case-studies/ensuring-product-integrity-and-process-efficiency-in-avionics/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2025, the company deployed the full Cybord visual AI platform, seamlessly integrating it into its production lines within just two days.",
+    "url": "https://cybord.ai/resources/case-studies/ensuring-product-integrity-and-process-efficiency-in-avionics/",
+    "pass": 1
+   },
+   {
+    "quote": "Cybord is an AI-powered electronics supply chain risk mitigation platform helping the world’s leading manufacturers detect counterfeit, defective, and non-compliant electronic components before they enter production. Our customers operate in some of the most demanding industries, including aerospace, defense, electronics, telecommunications, and advanced manufacturing.",
+    "url": "https://cybord.ai/careers/account-exec-us-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Develop relationships across engineering, manufacturing, quality, procurement, operations, IT, and executive leadership.",
+    "url": "https://cybord.ai/careers/account-exec-us-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Experience selling software, industrial technology, manufacturing solutions, automation, or technical products is preferred.",
+    "url": "https://cybord.ai/careers/account-exec-us-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Our sales cycles typically range from 6-12 months and involve multiple stakeholders across engineering, manufacturing, quality, procurement, operations, IT, and executive leadership. The ideal candidate is comfortable navigating complex buying processes, building consensus across organizations, and staying engaged throughout long sales cycles.",
+    "url": "https://cybord.ai/careers/account-exec-us-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Experience selling into aerospace, defense, electronics manufacturing, industrial automation, or semiconductor markets.",
+    "url": "https://cybord.ai/careers/account-exec-us-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Sell cutting-edge AI technology solving real manufacturing challenges.",
+    "url": "https://cybord.ai/careers/account-exec-us-market/",
+    "pass": 1
+   },
+   {
+    "quote": "At Cybord, an industry-leading technology company based in Tel Aviv, we are seeking a skilled Data Scientist to join our dynamic team. As a Data Scientist specializing in image analysis and text reading, you will play a pivotal role in developing and enhancing our AI-driven solutions for quick and accurate component inspection in electronic manufacturing.",
+    "url": "https://cybord.ai/careers/median-senior-data-scientist/",
+    "pass": 1
+   },
+   {
+    "quote": "The manufacturing line offers a unique opportunity — often the first and only chance — to validate that the components assembled match the Bill of Materials (BOM) and the Approved Vendor List (AVL). Cybord’s bottom-side inspection solution captures this critical moment, helping to make sure that only authorized, high-quality components make it into production.",
+    "url": "https://cybord.ai/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Top-side inspection is essential because it provides a verified, single source of truth for each component assembled. Cybord reads and deciphers component markings — accurately interpreting the manufacturer’s specific coding, conventions, and variations. This empowers OEMs with unmatched traceability and full control over the composition their finished products.",
+    "url": "https://cybord.ai/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Cybord develops AI-based quality control and counterfeit detection systems for electronic components used in production lines.",
+    "url": "https://www.casestudies.com/customer/cybord",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Cybord",
+    "url": "https://www.casestudies.com/customer/cybord",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Cybord achieves AI-powered counterfeit detection and component traceability with Go Wombat | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/gowombat/case-study/cybord-processes-a-few-million-images-a-day-with-go-wombat",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Cybord achieves AI-powered counterfeit detection and component traceability with Go Wombat",
+    "url": "https://www.casestudies.com/company/gowombat/case-study/cybord-processes-a-few-million-images-a-day-with-go-wombat",
+    "pass": 3
+   },
+   {
+    "quote": "Cybord faced the challenge of counterfeit and defective electronic components entering their manufacturing process from dishonest suppliers, which damaged final products and took months to trace. To address this, they engaged GoWombat to develop an AI and machine learning solution to quickly detect and prevent the use of these faulty components, ensuring product integrity.",
+    "url": "https://www.casestudies.com/company/gowombat/case-study/cybord-processes-a-few-million-images-a-day-with-go-wombat",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/gowombat/case-study/cybord-processes-a-few-million-images-a-day-with-go-wombat",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/gowombat/case-study/cybord-processes-a-few-million-images-a-day-with-go-wombat",
+    "pass": 3
+   },
+   {
+    "quote": "A leading international data-center equipment manufacturer.",
+    "url": "https://cybord.ai/resources/case-studies/enhancing-product-integrity-with-ai-powered-visual-inspection/",
+    "pass": 3
+   },
+   {
+    "quote": "A leading Tier 1 OEM supplying data center systems faced a widespread quality issue after multiple unit malfunctions were reported across customer sites. Root cause analysis traced the issue to defective components used in systems assembled at a specific contract manufacturing site.",
+    "url": "https://cybord.ai/resources/case-studies/enhancing-product-integrity-with-ai-powered-visual-inspection/",
+    "pass": 3
+   },
+   {
+    "quote": "The OEM deployed Cybord’s visual AI platform, integrating both top-side and bottom-side inspection modules directly into the SMT production line at the identified facility.",
+    "url": "https://cybord.ai/resources/case-studies/enhancing-product-integrity-with-ai-powered-visual-inspection/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Discover what FCC 26-50 means for OEMs and why component-level visibility is becoming a strategic imperative",
+    "url": "https://cybord.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMs in the data center industry face critical challenges around component authenticity, quality variability, and lack of traceability—all of which can lead to costly failures and downtime. With strict compliance demands and zero tolerance for defects, they must ensure every chip meets the highest standards without compromising speed or scalability.",
+    "url": "https://cybord.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "In the high-stakes world of medical device manufacturing, even the smallest component flaw can lead to critical safety risks or regulatory setbacks. As devices become more complex and digitized, OEMs must adopt advanced inspection solutions to ensure full compliance, traceability, and product integrity from the inside out.",
+    "url": "https://cybord.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover what FCC 26-50 means for OEMs and why component-level visibility is becoming a strategic imperative",
+    "url": "https://cybord.ai/industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover what FCC 26-50 means for OEMs and why component-level visibility is becoming a strategic imperative",
+    "url": "https://cybord.ai/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover what FCC 26-50 means for OEMs and why component-level visibility is becoming a strategic imperative",
+    "url": "https://cybord.ai/industries/automotive/",
+    "pass": 1
+   },
+   {
+    "quote": "OEMs in the data center industry face critical challenges around component authenticity, quality variability, and lack of traceability—all of which can lead to costly failures and downtime. With strict compliance demands and zero tolerance for defects, they must ensure every chip meets the highest standards without compromising speed or scalability.",
+    "url": "https://cybord.ai/industries/datacenter/",
+    "pass": 1
+   },
+   {
+    "quote": "Cybord’s Visual AI is essential for OEMs building datacenter solutions, enabling real-time inspection of every electronic component to ensure IPC-A-610 compliance and superior product reliability. Enhanced with unmatched full-PCBA inspection, Cybord empowers manufacturers to deliver verified, secure, and fully traceable systems—built for performance and trust.",
+    "url": "https://cybord.ai/industries/datacenter/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover what FCC 26-50 means for OEMs and why component-level visibility is becoming a strategic imperative",
+    "url": "https://cybord.ai/industries/datacenter/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover what FCC 26-50 means for OEMs and why component-level visibility is becoming a strategic imperative",
+    "url": "https://cybord.ai/industries/military-defense/",
+    "pass": 1
+   },
+   {
+    "quote": "The Cybord Deep Visual-AI platform aggregates and analyzes images and data from 100% of electronic components before, during and after assembly. By combining existing production data with unique, real-time visual data collection, it ensures product quality, authenticity, traceability, and end-to-end hardware security for OEMs and EMSs.",
+    "url": "https://cybord.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover what FCC 26-50 means for OEMs and why component-level visibility is becoming a strategic imperative",
+    "url": "https://cybord.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover what FCC 26-50 means for OEMs and why component-level visibility is becoming a strategic imperative",
+    "url": "https://cybord.ai/career/",
+    "pass": 1
+   },
+   {
+    "quote": "How a leading OEM improved quality, efficiency and traceability with Cybord's visual-AI.",
+    "url": "https://cybord.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover what FCC 26-50 means for OEMs and why component-level visibility is becoming a strategic imperative",
+    "url": "https://cybord.ai/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Medical device OEMs face mounting pressure to ensure product safety, regulatory compliance, and traceability at the component level. Cybord’s Visual AI empowers manufacturers to meet ISO 13485 and IEC 60601 requirements by providing 100% real-time inspection of every electronic component—detecting defects, contamination, aging, and counterfeit risks that traditional testing methods often miss.",
+    "url": "https://cybord.ai/industries/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover what FCC 26-50 means for OEMs and why component-level visibility is becoming a strategic imperative",
+    "url": "https://cybord.ai/industries/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "Cybord’s micro-traceability capabilities are truly impressive. Their solution delivered exactly what we needed – full traceability and the ability to pinpoint issues with 100% accuracy. Thanks to this, our OEM customer avoided a major recall and saved significant time and cost.",
+    "url": "https://cybord.ai/resources/case-studies/ensuring-product-integrity-and-process-efficiency-in-avionics/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover what FCC 26-50 means for OEMs and why component-level visibility is becoming a strategic imperative",
+    "url": "https://cybord.ai/resources/case-studies/ensuring-product-integrity-and-process-efficiency-in-avionics/",
+    "pass": 1
+   },
+   {
+    "quote": "Prospect into target OEMs through outbound outreach, networking, referrals, and industry events.",
+    "url": "https://cybord.ai/careers/account-exec-us-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover what FCC 26-50 means for OEMs and why component-level visibility is becoming a strategic imperative",
+    "url": "https://cybord.ai/careers/account-exec-us-market/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover what FCC 26-50 means for OEMs and why component-level visibility is becoming a strategic imperative",
+    "url": "https://cybord.ai/careers/median-senior-data-scientist/",
+    "pass": 1
+   },
+   {
+    "quote": "部品の 100％分析を可能にし、品質、真偽判定、 フォレンジックトレーサビリティを確保し、OEM と",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/Cybord_FUJI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Cybord のソリューションは、PCBA に配置されたすべての電子部品の 100％分析を可能にし、 品質、 真偽判定、フォレンジックトレーサビリティを確保し、 OEM とEMS をグローバルにサポートする",
+    "url": "https://kikai-news.net/2025/03/18/fuji%E3%80%81%E7%B1%B3%E5%9B%BD-cybord-%E7%A4%BE%E3%81%A8%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E3%82%92%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "quote": "Cybordのソリューションは、PCBAに配置されたすべての電子部品の100％分析を可能にし、品質、真偽判定、フォレンジックトレーサビリティを確保し、OEMとEMSをグローバルにサポートします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000060.000101249.html",
+    "pass": 3
+   },
+   {
+    "quote": "Top-side inspection is essential because it provides a verified, single source of truth for each component assembled. Cybord reads and deciphers component markings — accurately interpreting the manufacturer’s specific coding, conventions, and variations. This empowers OEMs with unmatched traceability and full control over the composition their finished products.",
+    "url": "https://cybord.ai/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover what FCC 26-50 means for OEMs and why component-level visibility is becoming a strategic imperative",
+    "url": "https://cybord.ai/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "A leading Tier 1 OEM supplying data center systems faced a widespread quality issue after multiple unit malfunctions were reported across customer sites. Root cause analysis traced the issue to defective components used in systems assembled at a specific contract manufacturing site.",
+    "url": "https://cybord.ai/resources/case-studies/enhancing-product-integrity-with-ai-powered-visual-inspection/",
+    "pass": 3
+   },
+   {
+    "quote": "While production records and supplier declarations were in place, the OEM needed proof of what was actually assembled – not just what was documented. Trust in standard traceability processes had eroded.",
+    "url": "https://cybord.ai/resources/case-studies/enhancing-product-integrity-with-ai-powered-visual-inspection/",
+    "pass": 3
+   },
+   {
+    "quote": "With high-stakes customers and long deployment cycles, the OEM sought a real-time, component-level inspection solution that could detect physical defects, validate component authenticity, and ensure traceability at scale.",
+    "url": "https://cybord.ai/resources/case-studies/enhancing-product-integrity-with-ai-powered-visual-inspection/",
+    "pass": 3
+   },
+   {
+    "quote": "The OEM deployed Cybord’s visual AI platform, integrating both top-side and bottom-side inspection modules directly into the SMT production line at the identified facility.",
+    "url": "https://cybord.ai/resources/case-studies/enhancing-product-integrity-with-ai-powered-visual-inspection/",
+    "pass": 3
+   },
+   {
+    "quote": "This enabled the OEM to intervene in real time, stop faulty units from reaching customers, and restore confidence in the integrity of its production process. Additionaly, Cybord provided the OEM with full visual traceability for every component and board coming off the line.",
+    "url": "https://cybord.ai/resources/case-studies/enhancing-product-integrity-with-ai-powered-visual-inspection/",
+    "pass": 3
+   },
+   {
+    "quote": "Director of Operations, Tier 1 OEM.",
+    "url": "https://cybord.ai/resources/case-studies/enhancing-product-integrity-with-ai-powered-visual-inspection/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover what FCC 26-50 means for OEMs and why component-level visibility is becoming a strategic imperative",
+    "url": "https://cybord.ai/resources/case-studies/enhancing-product-integrity-with-ai-powered-visual-inspection/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Tyler York is the Chief Business Officer at Cybord, where he leads global revenue growth, go-to-market strategy, and U.S. expansion. He holds an MBA and brings experience across enterprise sales, marketing, and full P&L ownership, including time in the electronics and semiconductor ecosystem at Altium and Octopart, where he worked closely with engineers, manufacturers, and component supply chains.",
+    "url": "https://cybord.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to joining Cybord, Tyler acquired, scaled, and successfully exited a digital marketing firm, leading strategy, client acquisition, and operational execution. He is known for his practical, data-driven approach to aligning product, positioning, and pipeline to drive measurable growth.",
+    "url": "https://cybord.ai/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Be part of building the commercial organization from the ground up.",
+    "url": "https://cybord.ai/careers/account-exec-us-market/",
+    "pass": 1
+   },
+   {
+    "quote": "（愛知県知立市）は3月10日、連結子会社である Fuji America Corporation （米国イリノイ州、以下FAC）が、独自の AI 技術と電子部品のビッグデータを活用した高度な電子部品分析ソリューションを提供する",
+    "url": "https://kikai-news.net/2025/03/18/fuji%E3%80%81%E7%B1%B3%E5%9B%BD-cybord-%E7%A4%BE%E3%81%A8%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E3%82%92%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ＦＵＪＩ（本社：愛知県知立市、代表取締役社長：五十棲 丈二、以下「FUJI」）は、連結子会社であるFuji America Corporation（本社：米国イリノイ州、社長：吉見 寛文、以下「FAC」）が、独自のAI技術と電子部品のビッグデータを活用した高度な電子部品分析ソリューションを提供するCybord社（本社：米国デラウェア州）と2025年1月にパートナーシップを締結したことをお知らせします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000060.000101249.html",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/433156-51",
+    "pass": 3
+   },
+   {
+    "quote": "Cybord has 37 total employees.",
+    "url": "https://pitchbook.com/profiles/company/433156-51",
+    "pass": 3
+   },
+   {
+    "quote": "What is Cybord’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/433156-51",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Cybord is",
+    "url": "https://pitchbook.com/profiles/company/433156-51",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Cybord have?",
+    "url": "https://fundediq.co/cybord-cybord-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/cybord-cybord-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/cybord-cybord-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "株式会社ＦＵＪＩ（本社：愛知県知立市、代表取締役社長：五十棲 丈二、以下「FUJI」 ）は、連結子",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/Cybord_FUJI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ＦＵＪＩは、電子部品実装ロボットおよび工作機械を開発、製造、販売するグローバル企業",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/Cybord_FUJI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社FUJIは、電子部品実装ロボットおよび工作機械を開発、製造、販売するグローバル企業",
+    "url": "https://kikai-news.net/2025/03/18/fuji%E3%80%81%E7%B1%B3%E5%9B%BD-cybord-%E7%A4%BE%E3%81%A8%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E3%82%92%E7%B7%A0%E7%B5%90/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットメーカーのFUJI、Cybord社のAIソリューションと連携し、自社開発の実装システムの機能拡張により電子機器製造の品質を向上 | 株式会社ＦＵＪＩのプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000060.000101249.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ＦＵＪＩ（本社：愛知県知立市、代表取締役社長：五十棲 丈二、以下「FUJI」）は、連結子会社であるFuji America Corporation（本社：米国イリノイ州、社長：吉見 寛文、以下「FAC」）が、独自のAI技術と電子部品のビッグデータを活用した高度な電子部品分析ソリューションを提供するCybord社（本社：米国デラウェア州）と2025年1月にパートナーシップを締結したことをお知らせします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000060.000101249.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ＦＵＪＩは、電子部品実装ロボットおよび工作機械を開発、製造、販売するグローバル企業です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000060.000101249.html",
+    "pass": 3
+   },
+   {
+    "quote": "愛知県知立市に本社を構えるロボットメーカー、株式会社FUJIは、米国のCybord社と2025年1月に新たなパートナーシップを締結すると発表しました",
+    "url": "https://news.3rd-in.co.jp/article/087365ac-fd97-11ef-b7c3-9ca3ba083d71",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "FUJI Cybord 社の AI ソリューションと連携し、 自社開発の実装システ... — 製品の信頼性や性能に直結する要素であるため、安定した製造品質を確保するための対策が求められています。 FUJI は、製造現場の課題解決を支援するため、 Cybord 社との協業を通じて、独自の実装",
+    "url": "https://www.fuji.co.jp/news/assets/pdf/Cybord_FUJI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "FUJI、米国 Cybord 社とパートナーシップを締結 | kikai-news.net — Mar 18, 2025 · FUJI （愛知県知立市）は3月10日、連結子会社である Fuji America Corporation （米国イリノイ州、以下FAC）が、独自の AI 技術と電子部品のビッグデータを活用した高度な電子部品分析ソリューションを提供する Cybord 社 （米国デラウェア州）と 2025 年 1 月に ...",
+    "url": "https://kikai-news.net/2025/03/18/fuji、米国-cybord-社とパートナーシップを締結/",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットメーカーのFUJI、Cybord社のAIソリューションと連携し、自社... — Mar 10, 2025 · Cybordのソリューションは、PCBAに配置されたすべての電子部品の100％分析を可能にし、品質、真偽判定、フォレンジックトレーサビリティを確保し ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000060.000101249.html",
+    "pass": 3
+   },
+   {
+    "quote": "FUJIとCybord、AI技術で電子機器製造の品質向上を実現 - サードニュー... — FUJIは今後、Cybord社のAI技術を組み込んだ実装システムを開発し、実装時の吸着画像を分析することで、より高精度な品質管理を実現します。 このシステムでは、同社の電子部品がリアルタイムに監視されるため、真正性の確認や不良品の早期発見が可能です。",
+    "url": "https://news.3rd-in.co.jp/article/087365ac-fd97-11ef-b7c3-9ca3ba083d71",
+    "pass": 3
+   },
+   {
+    "quote": "ロボットメーカーのFUJI、Cybord社のAIソリューションと連携し、自社... — Mar 10, 2025 · 株式会社FUJIのプレスリリース（2025年3月10日 18時50分）ロボットメーカーのFUJI、Cybord社のAIソリューションと連携し、自社開発の実装システムの機能拡張により電子機器製造の品質を向上",
+    "url": "https://ai-watch.jp/latest/11799/",
+    "pass": 3
+   },
+   {
+    "quote": "Visual AI Technology Solutions | Cybord — Cybord reads and deciphers component markings — accurately interpreting the manufacturer’s specific coding, conventions, and variations. This empowers OEMs with unmatched traceability and full control over the composition their finished products.",
+    "url": "https://cybord.ai/technology/",
+    "pass": 3
+   },
+   {
+    "quote": "About Cybord | Deep Visual AI Platform | Cybord — Cybord was founded by Dr. Eyal Weiss following a crisis in a defense mega project caused by counterfeit electronic components. It took his team months to trace the problem down to a three-cent faulty capacitor.",
+    "url": "https://cybord.ai/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Cybord - LinkedIn — Using AI and big data, Cybord's technology detects counterfeit, defective and tampered components, including hardware-based cyber security threats. Component defects are addressed during...",
+    "url": "https://www.linkedin.com/company/cybord",
+    "pass": 3
+   },
+   {
+    "quote": "FUJI、米国 Cybord 社とパートナーシップを締結 | kikai-news.net — Mar 18, 2025 · Cybord のソリューションは、PCBA に配置されたすべての電子部品の 100％分析を可能にし、 品質、 真偽判定、フォレンジックトレーサビリティを確保し、 OEM とEMS をグローバルにサポートする。 株式会社FUJIは、電子部品実装ロボットおよび工作機械を開発、製造、販売するグローバル企業。 1959 年の創業以来、深化を続けるロボティクスと自動化技術を礎に、来たるべき未来を見据えてイノベーションを起こし続け、ロボットカンパニーとして持続的な成長を目指している。",
+    "url": "https://kikai-news.net/2025/03/18/fuji、米国-cybord-社とパートナーシップを締結/",
+    "pass": 3
+   },
+   {
+    "quote": "FUJI Cybord 社の AI ソリューションと連携し、 自社開発の実装システ... — 会社概要 Cybord 社について エコシステム向けのビジュアル AI 技術を搭載した電子部品分析ソリューションのリーディングカンパニーです。 Cybord のソリューションは、PCBA に配置されたすべての電子部品の 100%分析を可",
+    "url": "https://www.fuji.co.jp/news/pdf/Cybord_FUJI.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Cybord Uses Software & Services — Explore case studies featuring Cybord as the customer — learn how vendors and partners helped Cybord solve real business challenges. Cybord develops AI-based quality control and counterfeit detection systems for electronic components used in production lines.",
+    "url": "https://www.casestudies.com/customer/cybord",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Cybord achieves AI-powered counterfeit detection ... — Cybord faced the challenge of counterfeit and defective electronic components entering their manufacturing process from dishonest suppliers, which damaged final products and took months to trace.",
+    "url": "https://www.casestudies.com/company/gowombat/case-study/cybord-processes-a-few-million-images-a-day-with-go-wombat",
+    "pass": 3
+   },
+   {
+    "quote": "Resource Library - Expand Your Knowledge | Cybord.ai — Discover valuable insights and information in Cybord.ai's resource library. Explore a wealth of knowledge on component traceability technology.",
+    "url": "https://cybord.ai/resources/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Resource Library Center | Cybord.ai — A leading Tier 1 OEM supplying data center systems faced a widespread quality issue after multiple unit malfunctions were reported across customer sites. Root cause analysis traced the issue to defective components used in systems assembled at a specific contract manufacturing site.",
+    "url": "https://cybord.ai/resources/case-studies/enhancing-product-integrity-with-ai-powered-visual-inspection/",
+    "pass": 3
+   },
+   {
+    "quote": "Cybord Case Study: AI Component Inspection | Go Wombat — We developed an AI system that checks the quality of SMT components from the supply chain to the customer. It records where each component came from and where it was installed. Initially a proof of concept, it has grown into a complete product that integrates all software components.",
+    "url": "https://gowombat.team/cases/cybord/",
+    "pass": 3
+   },
+   {
+    "quote": "Cybord – Business Snapshot & Rival Analysis – 2026 — Cybord Revenue & Valuation Cybord's estimated annual revenue is currently $7.8M per year. At Cybord, each employee is estimated to contribute about $211.9K in annual revenue. Cybord has secured approximately $14M through various funding rounds.",
+    "url": "https://compworth.com/company/cybord",
+    "pass": 3
+   },
+   {
+    "quote": "Cybord 2026 Company Profile: Valuation, Funding & Investors ...Cybord — Company Profile & Funding | Indexed.vcCybord: Funding, Investors & Team (Oct 2026) | FundedIQCybord Raises $7M Extended Series A; Establishes U.S. Sales ...Cybord: Funding, Team & Investors | Startup IntrosCybord — investors & funding | gritt.io — Information on valuation, funding, cap tables, investors, and executives for Cyb",
+    "url": "https://pitchbook.com/profiles/company/433156-51",
+    "pass": 3
+   },
+   {
+    "quote": "Cybord — Company Profile & Funding | Indexed.vc — Oct 20, 2026 · Cybord is a Cybersecurity company based in Tel Aviv, Israel, founded in 2018. It has raised $19.7M in total across 3 rounds, most recently a $7.0M Extension Round round in Apr 2026.",
+    "url": "https://indexed.vc/companies/cybord",
+    "pass": 3
+   },
+   {
+    "quote": "Cybord: Funding, Investors & Team (Oct 2026) | FundedIQ — Cybord is an Artificial Intelligence company in Tel Aviv, Israel. Raised $15.7M across 2 rounds; latest a Series A in Apr 2026. Investors and funding history.",
+    "url": "https://fundediq.co/cybord-cybord-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Cybord Raises $7M Extended Series A; Establishes U.S. Sales ... — Apr 28, 2026 · The new funding will be used to accelerate Cybord’s expansion across key industries where product integrity and supply chain trust are mission-critical, including data center infrastructure, aerospace & defense, automotive, telecom equipment, and medical devices.",
+    "url": "https://cybord.ai/news_events/press-releases/cybord-raises-7m-extended-series-a/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/433156-51",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Cybord team: 2 of 2 have an email address on file.",
+    "url": "https://fundediq.co/cybord-cybord-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Platform enabling enterprises to create, test, and deploy AI agents for voice, chat, and email.",
+    "url": "https://fundediq.co/cybord-cybord-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/cybord-cybord-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Cybord (@CybordDeployed) / Posts / X Cybord (@CybordDeployed) - Posts - | X (formerly Twitter)",
+    "url": "https://x.com/CybordDeployed",
+    "pass": 3
+   },
+   {
+    "quote": "cybord on X: \"Updating website with token info and ca now\" 1 9 722 cybord @CyborgDeployed Updating website with token info and ca now 10:22 PM · Sep 24, 2026 ·",
+    "url": "https://x.com/CyborgDeployed/status/2103354455324569701",
+    "pass": 3
+   },
+   {
+    "quote": "cybord (@CyborgDeployed) / Posts and Replies / X cybord (@CyborgDeployed) - Posts and Replies - Dev of $Tradition $Solvivor $Solhouse $Chibilana #Bagworker | X (formerly Twitter)",
+    "url": "https://x.com/CyborgDeployed/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "cybord on X Meet Jumanne (Relunched as I had ticker and fees wrong, he shout out my $5 test send) Internet sensation, degenerate gambler of the century that's LIVE on tiktok talking about his HUGE loss !!!! Jumanne is known for his serious gambling addiction, at times over drafting to Show more 2 84 cybord @CyborgDeployed 00:00 2:11 AM · Sep 30, 2026 ...",
+    "url": "https://x.com/CyborgDeployed/status/2105118311361249739",
+    "pass": 3
+   },
+   {
+    "quote": "cybord on X Aug 31, 2026 · cybord @CyborgDeployed 3h One of the most used #'s on TikTok With the influx of girls joining the trenches and going LIVE on pumpfun and tiktok it only makes sense $ GRWM - The perfect ticker to appeal to all Get Rich With Memes 7 3 365 cybord @CyborgDeployed 11:36 PM · Aug 31, 2026 62Views",
+    "url": "https://x.com/CyborgDeployed/status/2094570082626306296",
+    "pass": 3
+   },
+   {
+    "quote": "cybord on X: \"@doxpadfun ... Sep 16, 2026 · cybord @CyborgDeployed 18m With the new @ doxpadfun we can finally launch tokens with full trust in our developers Meaning when can finally Make Pump Great Again Going LIVE right away fully DOXXED to recruit community members to make a change in the trenches Will also be throwing a 100x BOOST at 50k Show more 1 82 cybord @CyborgDeployed",
+    "url": "https://x.com/CyborgDeployed/status/2100365281248133165",
+    "pass": 3
+   },
+   {
+    "quote": "cybord on X: \"Filling out dex now SEND IT\" / X - x.com Sep 30, 2026 · We have Human Intelligence and Artificial Intelligence But are we forgetting about our ancestors? How they gained all the knowledge we have now THOUSANDS of years ago? All through Spiritual Intelligence Plus it has a nice ticker SI 3 70 cybord @CyborgDeployed Filling out dex now SEND IT 3:06 AM · Sep 30, 2026 · 11 Views",
+    "url": "https://x.com/CyborgDeployed/status/2105132114228498583",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "The cybord - Facebook The cybord is on Facebook. Join Facebook to connect with The cybord and others you may know. Facebook gives people the power to share and makes the world...",
+    "url": "https://www.facebook.com/the.cybord/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://cybord.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybord.ai/industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybord.ai/industries/aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybord.ai/industries/automotive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybord.ai/industries/datacenter/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybord.ai/industries/military-defense/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybord.ai/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybord.ai/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybord.ai/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybord.ai/industries/medical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybord.ai/resources/case-studies/ensuring-product-integrity-and-process-efficiency-in-avionics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybord.ai/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybord.ai/careers/account-exec-us-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybord.ai/careers/median-senior-data-scientist/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.fuji.co.jp/news/assets/pdf/Cybord_FUJI.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kikai-news.net/2025/03/18/fuji%E3%80%81%E7%B1%B3%E5%9B%BD-cybord-%E7%A4%BE%E3%81%A8%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E3%82%92%E7%B7%A0%E7%B5%90/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000060.000101249.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.3rd-in.co.jp/article/087365ac-fd97-11ef-b7c3-9ca3ba083d71",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybord.ai/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybord.ai/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/cybord",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kikai-news.net/2025/03/18/fuji%E3%80%81%E7%B1%B3%E5%9B%BD-cybord-%E7%A4%BE%E3%81%A8%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E3%82%92%E7%B7%A0%E7%B5%90/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/cybord",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/gowombat/case-study/cybord-processes-a-few-million-images-a-day-with-go-wombat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybord.ai/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cybord.ai/resources/case-studies/enhancing-product-integrity-with-ai-powered-visual-inspection/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/cybord",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/433156-51",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://indexed.vc/companies/cybord",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/cybord-cybord-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/CybordDeployed",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CyborgDeployed/status/2103354455324569701",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CyborgDeployed/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CyborgDeployed/status/2105118311361249739",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/the.cybord/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CyborgDeployed/status/2094570082626306296",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CyborgDeployed/status/2103354455324569701",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CyborgDeployed/status/2100365281248133165",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CyborgDeployed/status/2105132114228498583",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Cybord 日本 導入",
+   "results": [
+    "https://www.fuji.co.jp/news/assets/pdf/Cybord_FUJI.pdf",
+    "https://kikai-news.net/2025/03/18/fuji、米国-cybord-社とパートナーシップを締結/",
+    "https://prtimes.jp/main/html/rd/p/000000060.000101249.html",
+    "https://news.3rd-in.co.jp/article/087365ac-fd97-11ef-b7c3-9ca3ba083d71",
+    "https://ai-watch.jp/latest/11799/",
+    "https://mainichi.jp/articles/20261107/k00/00m/010/253000c",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cybord 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.cosmobio.co.jp/agency/brevitycode.asp",
+    "https://www.ipsen.com/japan/会社/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cybord Japan",
+   "results": [
+    "https://cybord.ai/technology/",
+    "https://cybord.ai/about-us/",
+    "https://www.linkedin.com/company/cybord",
+    "https://kikai-news.net/2025/03/18/fuji、米国-cybord-社とパートナーシップを締結/",
+    "https://www.fuji.co.jp/news/pdf/Cybord_FUJI.pdf",
+    "https://the-gadgeteer.com/2026/10/06/google-japan-gboard-kurukuru-conveyor-belt-keyboard/",
+    "https://www.fujiamerica.com/news/46"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cybord manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/cybord",
+    "https://www.casestudies.com/company/gowombat/case-study/cybord-processes-a-few-million-images-a-day-with-go-wombat",
+    "https://cybord.ai/resources/case-studies/",
+    "https://cybord.ai/resources/case-studies/enhancing-product-integrity-with-ai-powered-visual-inspection/",
+    "https://gowombat.team/cases/cybord/",
+    "https://www.linkedin.com/posts/arch-systems_archsystems-cybord-manufacturing-activity-7458289855073243137-_iUh",
+    "https://www.youtube.com/watch?v=CGVA4-oC-sg"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cybord white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://upcloud.com/partner-program/",
+    "https://www.nmi.com/blog/understanding-the-reseller-model-a-complete-guide-for-payments-companies/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cybord founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/cybord",
+    "https://pitchbook.com/profiles/company/433156-51",
+    "https://indexed.vc/companies/cybord",
+    "https://fundediq.co/cybord-cybord-ai-funding/",
+    "https://cybord.ai/news_events/press-releases/cybord-raises-7m-extended-series-a/",
+    "https://startupintros.com/orgs/cybord",
+    "https://www.gritt.io/company/cybord/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Cybord",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Cybord",
+   "results": [
+    "https://x.com/CybordDeployed",
+    "https://x.com/CyborgDeployed/status/2103354455324569701",
+    "https://x.com/CyborgDeployed/with_replies",
+    "https://x.com/CyborgDeployed/status/2105118311361249739",
+    "https://x.com/CyborgDeployed/status/2094570082626306296",
+    "https://x.com/CybordFrog",
+    "https://x.com/CyborgDeployed/status/2082573628399587454"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Cybord",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Cybord",
+   "results": [
+    "https://www.facebook.com/cybord/",
+    "https://www.facebook.com/the.cybord/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/belik.ajax/photos/",
+    "https://www.facebook.com/GabinCybord/",
+    "https://www.facebook.com/belik.ajax/posts/1848931819813977/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cybord note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Cybord X 投稿",
+   "results": [
+    "https://x.com/CyborgDeployed/status/2094570082626306296",
+    "https://x.com/CyborgDeployed/status/2103354455324569701",
+    "https://x.com/CyborgDeployed/status/2100365281248133165",
+    "https://x.com/CyborgDeployed/status/2105132114228498583",
+    "https://x.com/CybordDeployed",
+    "https://x.com/cyborg",
+    "https://cyborg.fanbox.cc/posts"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

@@ -1,0 +1,1608 @@
+{
+ "name": "Sunfire",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Energy / Equipment｜AUMS不適合",
+ "researched_at": "2026-11-11T00:15:49.673342+00:00",
+ "official_url": "https://www.sunfire.de/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Pressurized Alkaline Electrolyzer",
+    "url": "https://sunfire.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "applicable provisions of the FAR and its supplements.",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Java Enterprise System ソフトウェア 19",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "OpenBoot PROM 診断 20",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ PCI-Express I/O ボード",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "(OS)、Java™ Enterprise System 、および Advanced Lights Out Manager (ALOM) ソ",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ル』および『Sun Fire V215 and V245 Servers Product Notes 』をダウンロードす",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "http://www.sun.com/software/preinstall/index.xml",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サーバーには、Solaris OS および Java Enterprise System ソフトウェアがプリイン",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "9. 必要な OpenBoot™ PROM 構成オプションを設定します",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "OpenBoot PROM コマンドおよび構成変数を使用します",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "よびその他の起動変数を変更するには、『 OpenBoot PROM Enhancements for",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このポートは、 Solaris OS および OpenBoot PROM",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "PROM のプロンプトが表示されているとき、またはシステムの起動が完了する前",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "NVRAM または SEEPROM デバイスと同様に機能します",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "および Java Enterprise System ソフトウェアとともに出荷されます",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "http://www.sun.com/software/preinstall/",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Java Enterprise System ソフトウェア",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Java Enterprise System ソフトウェアには、次の Java Enterprise System ソフトウェ",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "開発および配信に使用する、 Java 2 Platform, Enterprise Edition (J2EE™ プラット",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ Directory Proxy Server – ディレクトリサーバーに対して、セキュリティー保護さ",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Java Enterprise System の利点を活かすために、 Java Enterprise System Suite のサブ",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "OpenBoot PROM 4.18.5 またはそれ以降の互換性のあるバージョンの OpenBoot",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "PROM にアップグレードすると、診断がデフォルトで使用可能になります",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "PROM Enhancements for Diagnostic Operation 』(817-6957) を参照してください",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "http://www.sun.com/products-n-solutions/hardware/docs/",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "provided in DFARS 227.7202-1(a) and 227.7202-3(a) (1995), DFARS 252.227-7013(c)(1)(ii) (Oct. 1998), FAR 12.212(a) (1995), FAR 52.227-19, or",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "このマニュアルでは Sun Enterprise™ 280R サーバーを Sun の拡張キャビネット、ま",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この章では Sun Enterprise 280R サーバーを Sun 拡張キャビネットまたは EIA 標準の",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Sun Enterprise 280R サーバーのラックマウントの際には、次の手順に従って適切に作",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": ", I created Sunfire, who is pretty much the character I had wanted to do some years earlier. I didn't make him an X-Man right away. By that time, Stan gave me a little more free",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": ", precisely because I had gone around creating some 'international mutants,' with the goal of expanding the team at some time. I thought the X-Men shouldn't all be white Americans.",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "In a future interview Thomas noted the unique mask of the character \"Don Heck gave him that mask — kind of a weird dragony kind of mask — it wasn't just a standard mask.\"",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": ", presenting Sunfire's brief membership in a new superhero team sanctioned by the Japanese government.",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-government organization devoted to the protection of mutant rights.",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "program who had made his way to Earth after being brainwashed by an alien race to serve as their ultimate weapon. Attempting to contain Titannus, Sunfire summons the Japanese army to confront him, but the powerful foe defeats them army with ease, and is only barely beaten by a new team hastily assembled by",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": ", who had the power to erase and restore memories. The four were on a mission to steal the process to bond",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "The two ran into Lady Deathstrike who, in a heated battle, cut off Sunfire's legs, leaving him in critical condition. Rogue surrendered to Deathstrike, who imprisoned the two.",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "While imprisoned, Rogue met Blindspot, who restored Rogue's memories and explained what was going on.",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "When Deathstrike discovers that the three were not responsible for stealing the adamantium, she attempted kill them to destroy any evidence of what she had done. A weak Sunfire asks Rogue to absorb his powers so she could properly battle Deathstrike. Rogue had previously lost the powers of",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "approaches him to join the",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": ". In the final fight against Kang, Sunfire's body is destroyed but due being in prior contact with a",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "\", which reverses their morality into becoming villains, with Sunfire joining the affected X-Men into declaring mutant supremacy.",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire eventually regains his reputation and standing as Japan's prime hero and is invited by",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "resurrection protocols",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "\" storyline, Sunfire leads a resistance group based out of Asia against",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": ". Sunfire has the ability to form a psionic force field while using his plasma as protection from heat and radiation, both that of his own generation and that from outside sources. In a similar fashion to the",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": ". He has displayed impressive",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": ", he is highly proficient in deploying his superhuman abilities in combat.",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "After the regular reality's X-Force crosses over into the Age of Apocalypse, Sunfire is one of the few X-Men to return to prevent the destruction of Earth-616 by",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": ". This version is the emperor of Japan and a leading member of Project: Genesis, a project sanctioned by the Japanese branch of",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "imprint. This version is a member of",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "imprint. This version is the \"Sun Emperor\" of the Harada-Yoshida Alliance, a consolidated union of three clans that rule over the power bloc Hi no Kuni.",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "(vol. 2) #182 (April 2006)",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "Experienced Professionals",
+    "url": "https://sunfire.de/en/cases/",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire Customer Projects",
+    "url": "https://sunfire.de/en/cases/",
+    "pass": 3
+   },
+   {
+    "quote": "For product inquiries please fill out our product form. So your request will be directly transmitted to our product experts.",
+    "url": "https://sunfire.de/en/cases/",
+    "pass": 3
+   },
+   {
+    "quote": "Which product are you interested in?",
+    "url": "https://sunfire.de/en/cases/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the use case for your electrolysis project?",
+    "url": "https://sunfire.de/en/cases/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "employees,",
+    "url": "https://sunfire.de/en/",
+    "pass": 1
+   },
+   {
+    "quote": "and fly, Sunfire was briefly a member of the second X-Men team but quit after their first mission as he was not suited for teamwork due to his temperament and arrogance. Since then he has kept his distance from the team, but at times has returned to aid them as an occasional ally.",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire became part of the",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "appears, kills Sunfire by absorbing his soul with a kiss, and has Doom's Division arrested for treason.",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "Franich, Darren (June 9, 2022).",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "\"What better way to ring in the new year than to recruit Sunfire to melt the ice away. Sunfire will arrive soon in MAA\"",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "Today, Sunfire is scaling to become one of the world’s leading electrolyzer manufacturers. With over 650 employees, a major order backlog of over 800 MW, and €1 billion of private and public financing secured, the company is on a solid path to profitability. But its accomplishments required resilience.",
+    "url": "https://www.climatebrick.com/stories/sunfire-scaling-journey",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire’s investment heavily in technology validation, long before the market was mature enough to generate real revenue, speaks to a critical issue — what mattered most to early partners: “Salzgitter didn’t bring huge revenues but it answered a key question: whether the product works and how it performs — building a minimum viable product is key.”",
+    "url": "https://www.climatebrick.com/stories/sunfire-scaling-journey",
+    "pass": 3
+   },
+   {
+    "quote": "While revenue generation began early, true business viability took nearly nine years to materialize due to policy lags and immature markets. While Sunfire’s technology is cutting-edge, Christian is refreshingly blunt about the challenges of disrupting a fossil-dominated energy market.",
+    "url": "https://www.climatebrick.com/stories/sunfire-scaling-journey",
+    "pass": 3
+   },
+   {
+    "quote": "Starting without a clear business model is risky: “If you start early, be ready to invest in market development and technology validation long before generating real revenue.”",
+    "url": "https://www.climatebrick.com/stories/sunfire-scaling-journey",
+    "pass": 3
+   },
+   {
+    "quote": "Stay humble and lean: “build a minimum viable product (MVP). Showcase your expertise to earn trust and credibility. Get early revenue...”",
+    "url": "https://www.climatebrick.com/stories/sunfire-scaling-journey",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to be a part of our growing community",
+    "url": "https://www.climatebrick.com/stories/sunfire-scaling-journey",
+    "pass": 3
+   },
+   {
+    "quote": ", 2023 | Energy-intensive industries are increasingly opting for green hydrogen as part of their decarbonization efforts – however, the necessary equipment to produce the gas is still in short supply. Sunfire is now one of the first companies to start series production of electrolyzers. To this end, the Dresden-based manufacturer is automating its most important production step: electroplating.",
+    "url": "https://sunfire.de/en/news/sunfire-launches-serial-production/",
+    "pass": 3
+   },
+   {
+    "quote": "acquired electroplating specialist MTV NT GmbH",
+    "url": "https://sunfire.de/en/news/sunfire-launches-serial-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire is a German electrolyzer manufacturer based in Dresden, specializing in industrial electrolysis technology for large-scale green hydrogen production, including solid oxide electrolyzers to decarbonize hard-to-abate industries. Founded in 2010, the company has around 350-400 employees and focuses on delivering reliable electrolysis solutions at scale.",
+    "url": "https://multiples.vc/private-comps/sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire competitors include listed companies like First Solar, Jinko Solar, Nextracker and LONGi, and private ones like 1Komma5° and SFCC.",
+    "url": "https://multiples.vc/private-comps/sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "Is Sunfire publicly listed?",
+    "url": "https://multiples.vc/private-comps/sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "LONGi Green Energy Technology is one of the largest integrated solar company in the world. It produced 106 gigawatts of solar silicon wafers and 70 GW of solar modules in 2024. Solar silicon wafer and solar module contributed 10% and 80% of revenue in 2024, respectively. LONGi’s products are sold in more than 150 countries and regions.",
+    "url": "https://multiples.vc/private-comps/sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/60513-49",
+    "pass": 3
+   },
+   {
+    "quote": ", a Corporate Backed or Acquired company based in Augsburg, Germany.",
+    "url": "https://pitchbook.com/profiles/company/60513-49",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/60513-49",
+    "pass": 3
+   },
+   {
+    "quote": "Heater-reformer arrangement",
+    "url": "https://pitchbook.com/profiles/company/60513-49",
+    "pass": 3
+   },
+   {
+    "quote": "Investments & Acquisitions (6)",
+    "url": "https://pitchbook.com/profiles/company/60513-49",
+    "pass": 3
+   },
+   {
+    "quote": "You’re viewing 5 of 6 investments and acquisitions. Get the full list »",
+    "url": "https://pitchbook.com/profiles/company/60513-49",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire has 700 total employees.",
+    "url": "https://pitchbook.com/profiles/company/60513-49",
+    "pass": 3
+   },
+   {
+    "quote": "What is Sunfire’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/60513-49",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Sunfire is",
+    "url": "https://pitchbook.com/profiles/company/60513-49",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "url": "https://www.cbinsights.com/company/sunfire/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Funding, Valuation & Revenue",
+    "url": "https://www.cbinsights.com/company/sunfire/financials",
+    "pass": 3
+   },
+   {
+    "quote": "2024 revenue",
+    "url": "https://www.cbinsights.com/company/sunfire/financials",
+    "pass": 3
+   },
+   {
+    "quote": "to see revenue data from 2024 and more.",
+    "url": "https://www.cbinsights.com/company/sunfire/financials",
+    "pass": 3
+   },
+   {
+    "quote": "2 Acquisitions",
+    "url": "https://www.cbinsights.com/company/sunfire/financials",
+    "pass": 3
+   },
+   {
+    "quote": ". Their latest acquisition was",
+    "url": "https://www.cbinsights.com/company/sunfire/financials",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "サン、エントリーモデルのワークグループサーバ「Sun Fire V」新モデルを販売開始 - ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/20262827/",
+    "pass": 3
+   },
+   {
+    "quote": "Continue to ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/20262827/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japan 記事を毎朝メールでまとめ読み（登録無料）",
+    "url": "https://japan.zdnet.com/article/20262827/",
+    "pass": 3
+   },
+   {
+    "quote": "PDF Report at ZDNET Japan",
+    "url": "https://japan.zdnet.com/article/20262827/",
+    "pass": 3
+   },
+   {
+    "quote": "Google検索の「AIモード」、日本で飲食店の空席検索に対応 複数サイトを横断",
+    "url": "https://japan.zdnet.com/article/20262827/",
+    "pass": 3
+   },
+   {
+    "quote": "東京で27年無人タクシー運行、既存の運転手はどうなる？--失業懸念に川鍋会長が回答",
+    "url": "https://japan.zdnet.com/article/20262827/",
+    "pass": 3
+   },
+   {
+    "quote": "「便利だけど手応えがない」のはなぜ？ データから見る日本企業のAI活用と課題",
+    "url": "https://japan.zdnet.com/article/20262827/",
+    "pass": 3
+   },
+   {
+    "quote": "ZDNET Japanは、CIOとITマネージャーを対象に、ビジネス課題の解決とITを活用した新たな価値創造を支援します",
+    "url": "https://japan.zdnet.com/article/20262827/",
+    "pass": 3
+   },
+   {
+    "quote": "サン・マイクロシステムズ株式会社の書面による事前の許可なく、本製品および本書のいかなる部分も、いかなる",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本製品は、株式会社モリサワからライセンス供与されたリュウミン L-KL (Ryumin-Light) および中ゴシック BBB (GothicBBB-Medium) の",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本製品に含まれる HG 明朝 L と HG ゴシック B は、株式会社リコーがリョービイマジクス株式会社からライセンス供与されたタイプフェー",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成明朝体 W3 は、株式会社リコーが財団法人 日本規格協会 文字フォント開発・普及センターから",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "OPENLOOK、OpenBoot、JLE は、サン・マイクロシステムズ株式会社の登録商標です",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ATOK は、株式会社ジャストシステムの登録商標です",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ATOK8 は、株式会社ジャストシステムの著作物であり、 ATOK8 にかかる著作権そ",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の他の権利は、すべて株式会社ジャストシステムに帰属します",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ATOK Server/ATOK12 は、株式会社ジャストシステムの著作物であり、",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ATOK Server/ATOK12 にかかる著作権その他の権利は、株式会社ジャストシステムおよび各権利者に帰属します",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、米国サンまたは日本サンは、本書に記載された製品またはプログラムを、予告なく改良または変更す",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本製品が、外国為替および外国貿易管理法 (外為法) に定められる戦略物資等 (貨物または役務) に該当する場合、本製品を輸出または日本国",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外へ持ち出す際には、サン・マイクロシステムズ株式会社の事前の書面による承諾を得ることのほか、外為法および関連法規に基づく輸出",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "サン・マイクロシステムズ株式会社の書面による事前の許可なく、本製品および本書のいかなる部分も、いかなる",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本製品は、株式会社モリサワからライセンス供与されたリュウミン L-KL (Ryumin-Light) および中ゴシック BBB (GothicBBB-Medium) の",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本製品に含まれる HG 明朝 L と HG ゴシック B は、株式会社リコーがリョービイマジクス株式会社からライセンス供与されたタイプフェー",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "平成明朝体 W3 は、株式会社リコーが財団法人 日本規格協会 文字フォント開発・普及センターから",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "OPENLOOK、OpenBoot、JLE は、サン・マイクロシステムズ株式会社の登録商標です",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ATOK は、株式会社ジャストシステムの登録商標です",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ATOK8 は、株式会社ジャストシステムの著作物であり、 ATOK8 にかかる著作権そ",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "の他の権利は、すべて株式会社ジャストシステムに帰属します",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ATOK Server/ATOK12 は、株式会社ジャストシステムの著作物であり、",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ATOK Server/ATOK12 にかかる著作権その他の権利は、株式会社ジャストシステムおよび各権利者に帰属します",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、米国サンまたは日本サンは、本書に記載された製品またはプログラムを、予告なく改良または変更す",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本製品が、外国為替および外国貿易管理法 (外為法) に定められる戦略物資等 (貨物または役務) に該当する場合、本製品を輸出または日本国",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "外へ持ち出す際には、サン・マイクロシステムズ株式会社の事前の書面による承諾を得ることのほか、外為法および関連法規に基づく輸出",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "運送代理店に連絡し、代理店の立ち会いのもとで開梱してください",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "むすべての内容物はそのまま保管し、代理店による適正な検査を受けられる状態にし",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "システムを接続する電源コンセントには、日本および北米では 15A",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "A Japanese mutant who can generate superheated",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "I wanted to add a young Japanese or Japanese-American whose mother had been at",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "design the character from my verbal suggestion of a costume that was an embodiment of the imperial Japanese",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": ", as Japanese or Japanese-American.",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": ", presenting Sunfire's brief membership in a new superhero team sanctioned by the Japanese government.",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "program who had made his way to Earth after being brainwashed by an alien race to serve as their ultimate weapon. Attempting to contain Titannus, Sunfire summons the Japanese army to confront him, but the powerful foe defeats them army with ease, and is only barely beaten by a new team hastily assembled by",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "Feeling disgraced and humiliated, Sunfire retires his mantle and wanders around Tokyo in a drunken stupor until",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire eventually regains his reputation and standing as Japan's prime hero and is invited by",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "'s devastation of Japan. He was subjected to experimentation by",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": ". This version is the emperor of Japan and a leading member of Project: Genesis, a project sanctioned by the Japanese branch of",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "in the Japanese version and",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "Articles containing Japanese-language text",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "サン、エントリーモデルのワークグループサーバ「 Sun Fire V ... — サン、エントリーモデルのワークグループサーバ「 Sun Fire V ... ZDNET Japan https://japan.zdnet.com > クラウド基盤 > 製品解説",
+    "url": "https://japan.zdnet.com/article/20262827/",
+    "pass": 3
+   },
+   {
+    "quote": "Sun Fire V215 および V245 サーバーご使用の手引き — Sun Fire V215 および V245 サーバーご使用の手引き Oracle Help Center PDF https://docs.oracle.com > v245.srvr",
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ様式 - 薪ストーブ、サンファイヤー — お問い合わせ様式 - 薪ストーブ、サンファイヤー 薪ストーブ、サンファイヤー https://sunfire-ltd.jp > contact",
+    "url": "https://sunfire-ltd.jp/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sun Fire 280R サーバー 設定とラックマウントの手引き — Sun Fire 280R サーバー 設定とラックマウントの手引き Oracle Help Center PDF https://docs.oracle.com > ...",
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire (character) - Wikipedia — Sunfire (character) - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Sunf...",
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire references Real-World Green Hydrogen Applications — Sunfire references Real-World Green Hydrogen Applications Sunfire.de https://sunfire.de > cases",
+    "url": "https://sunfire.de/en/cases/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese mutant superhero Sunfire appears in ... - Facebook — Japanese mutant superhero Sunfire appears in ... - Facebook Facebook https://www.facebook.com > SecretHQph > posts > japane...",
+    "url": "https://www.facebook.com/SecretHQph/posts/japanese-mutant-superhero-sunfire-appears-in-insomniacs-wolverine-in-the-comics-/1629434738749436/",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire's Journey: What It Takes to Scale a Disruptive Climate ... — Sunfire's Journey: What It Takes to Scale a Disruptive Climate ... The Climate Brick https://www.climatebrick.com > stories",
+    "url": "https://www.climatebrick.com/stories/sunfire-scaling-journey",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire Launches Serial Production — Sunfire Launches Serial Production Sunfire.de https://sunfire.de > news > sunfire-lau...",
+    "url": "https://sunfire.de/en/news/sunfire-launches-serial-production/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO White Label Our POS or Partner As a ISV Reseller Referral — ISO White Label Our POS or Partner As a ISV Reseller Referral Sunfire POS https://www.sunfirepos.com > becom...",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire : Revenue , Competitors, Alternatives - Growjo — Sunfire : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Sunfire",
+    "url": "https://growjo.com/company/Sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire Funding , Investors & Competitors - Multiples.vc — Sunfire Funding , Investors & Competitors - Multiples.vc Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire 2026 Company Profile: Valuation, Funding & Investors — Sunfire 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/60513-49",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire Stock Price, Funding , Valuation, Revenue & Financial ... — Sunfire Stock Price, Funding , Valuation, Revenue & Financial ... CB Insights https://www.cbinsights.com > financials",
+    "url": "https://www.cbinsights.com/company/sunfire/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire Secures More Than EUR 500 Million to Accelerate its ... — Sunfire Secures More Than EUR 500 Million to Accelerate its ... Sunfire.de https://sunfire.de > news > sunfire-sec...",
+    "url": "https://sunfire.de/en/news/sunfire-secures-more-than-eur-500-million-to-accelerate-its-growth/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "In which country will the electrolysis plant be located?",
+    "url": "https://sunfire.de/en/cases/",
+    "pass": 3
+   },
+   {
+    "quote": "Christian von Olshausen, Sunfire's Co-Founder & CTO (left), plant in Dresden (right). All photos © Sunfire.",
+    "url": "https://www.climatebrick.com/stories/sunfire-scaling-journey",
+    "pass": 3
+   },
+   {
+    "quote": "Disruption in climate tech isn’t always about speed. It’s often about sustained determination over a long period. Few companies characterize this better than Sunfire, the German electrolysis pioneer that has spent over a decade building, proving, and scaling high-efficiency solid oxide and pressurized alkaline electrolyzers to unlock green hydrogen at industrial scale.",
+    "url": "https://www.climatebrick.com/stories/sunfire-scaling-journey",
+    "pass": 3
+   },
+   {
+    "quote": "Today, Sunfire is scaling to become one of the world’s leading electrolyzer manufacturers. With over 650 employees, a major order backlog of over 800 MW, and €1 billion of private and public financing secured, the company is on a solid path to profitability. But its accomplishments required resilience.",
+    "url": "https://www.climatebrick.com/stories/sunfire-scaling-journey",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire’s investment into technical validation proved critical. Notable was its plant at Salzgitter, Germany — one of the world’s first industrial-scale solid oxide electrolyzer pilot projects, demonstrating high-efficiency green hydrogen production integrated directly into steel manufacturing processes.",
+    "url": "https://www.climatebrick.com/stories/sunfire-scaling-journey",
+    "pass": 3
+   },
+   {
+    "quote": "“Our industrial partners’ commitment to saying we believe in this kind of future was something that raised so much attention. Gradually, politicians see this investment into the pilot projects and it brings them confidence.”",
+    "url": "https://www.climatebrick.com/stories/sunfire-scaling-journey",
+    "pass": 3
+   },
+   {
+    "quote": "In this case, the true disruptor isn’t just technology — it’s policy. Without carbon pricing, regulation, or quotas, green hydrogen struggles to compete with fossil alternatives. Sunfire’s commercial success was only unlocked once politicians saw industrial players backing the tech and responded with supportive policy frameworks.",
+    "url": "https://www.climatebrick.com/stories/sunfire-scaling-journey",
+    "pass": 3
+   },
+   {
+    "quote": "Each requires different skill sets and strategies, from lobbying policymakers, to recruiting industrial leadership, to reorganizing internal processes at every stage of scale. “A startup journey is really one of evolution… you need to staff your team accordingly for that and you need patience.”",
+    "url": "https://www.climatebrick.com/stories/sunfire-scaling-journey",
+    "pass": 3
+   },
+   {
+    "quote": ", 2023 | Energy-intensive industries are increasingly opting for green hydrogen as part of their decarbonization efforts – however, the necessary equipment to produce the gas is still in short supply. Sunfire is now one of the first companies to start series production of electrolyzers. To this end, the Dresden-based manufacturer is automating its most important production step: electroplating.",
+    "url": "https://sunfire.de/en/news/sunfire-launches-serial-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Together with top-level guests from industry and politics – among them Mona Neubaur, Deputy Minister President of the State of North Rhine-Westphalia – Sunfire officially inaugurated an expansion of the proven electroplating line on March 7. In parallel, a state-of-the-art, fully automated 500 MW plant is already in preparation, which will start operation as early as this year.",
+    "url": "https://sunfire.de/en/news/sunfire-launches-serial-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire will reach its annual production capacity for alkaline electrolyzers of 500 MW before the end of 2023. Expansion into the gigawatt scale is already in planning. One reason for the rapid expansion of Sunfire’s manufacturing capacity is the hydrogen pioneer’s forward-looking scaling strategy:",
+    "url": "https://sunfire.de/en/news/sunfire-launches-serial-production/",
+    "pass": 3
+   },
+   {
+    "quote": "“We’re not starting from scratch by constructing a greenfield factory but are initially building on existing expertise and facilities along the entire value chain,” explains",
+    "url": "https://sunfire.de/en/news/sunfire-launches-serial-production/",
+    "pass": 3
+   },
+   {
+    "quote": "To bring the core process of manufacturing alkaline electrolyzers in-house, Sunfire",
+    "url": "https://sunfire.de/en/news/sunfire-launches-serial-production/",
+    "pass": 3
+   },
+   {
+    "quote": "Specialty Tag & Label supplies weatherproof, UV‑stable tag and label printers tailored for garden centers, nurseries, and greenhouses, enabling durable, outdoor-ready labels for plant stakes, pricing, and inventory. These printers integrate seamlessly with Sunfire POS’s inventory management module—allowing real-time label printing directly from the system for streamlined inventory and check out.",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   },
+   {
+    "quote": "NetPS offers garden centers and nurseries a powerful online plant database and When paired with Sunfire POS, garden centers can seamlessly connect engaging plant information with our inventory solutions making set up simple and detailed.",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   },
+   {
+    "quote": "NetPS Online Plant Database",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   },
+   {
+    "quote": "(38,000+ plant varieties for garden centers),",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire is a German electrolyzer manufacturer based in Dresd…",
+    "url": "https://multiples.vc/private-comps/sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire is a German electrolyzer manufacturer based in Dresden, specializing in industrial electrolysis technology for large-scale green hydrogen production, including solid oxide electrolyzers to decarbonize hard-to-abate industries. Founded in 2010, the company has around 350-400 employees and focuses on delivering reliable electrolysis solutions at scale.",
+    "url": "https://multiples.vc/private-comps/sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "The transaction was subject to regulatory approvals and expected to close in Q2 2024. By end of 2024, Sunfire reported an order backlog exceeding 800 megawatts, launched a FEED study for a 500 MW green hydrogen project in Europe, and emphasized partnerships for industrial-scale projects.",
+    "url": "https://multiples.vc/private-comps/sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "The investment positions Sunfire at the intersection of energy security and net-zero transition, with backers like CIP—the world's largest greenfield renewable energy fund manager with €16 billion AUM—and Blue Earth focusing on industrializing electrolyzer production to reduce green hydrogen costs.",
+    "url": "https://multiples.vc/private-comps/sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "Jinko Solar is the largest Chinese solar module manufacturer by global shipment in 2024. Jinko's products are distributed across nearly 200 countries and regions. The company operates a vertically integrated production process, spanning from solar wafer and cell manufacturing to module production. Jinko's N-type cell capacity is industry-leading in scale.",
+    "url": "https://multiples.vc/private-comps/sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "SFCC is a Shenzhen-based high-tech enterprise pioneering hydrogen fuel cell vehicle commercialization. Founded on April 8, 2016, in Guangdong province, the company conducts research, develops power systems, and industrializes core technologies for buses and commercial fleets in China.",
+    "url": "https://multiples.vc/private-comps/sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "Climeworks is a Zurich-based direct air capture company operating modular plants like Orca and Mammoth in Iceland. The technology extracts CO2 from ambient air for permanent underground storage via mineralization with Carbfix, serving corporate net-zero commitments under Puro.earth certification standards.",
+    "url": "https://multiples.vc/private-comps/sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "Twelve is a carbon transformation company that converts captured CO2 into chemicals, fuels, and materials through advanced electrocatalysis and electrochemical processes, replacing fossil fuel-derived products while eliminating emissions. Based in the San Francisco Bay Area, it collaborates with industrial partners on sustainable manufacturing.",
+    "url": "https://multiples.vc/private-comps/sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "Vestas is a leading manufacturer of wind turbines with the highest installed capacity under service in the world. The firm operates two business segments: power solutions and services. The power solutions segment designs, manufactures, and installs onshore and offshore wind turbines. The services segment performs operating and maintenance service work on wind turbines.",
+    "url": "https://multiples.vc/private-comps/sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "SK on is a Seoul-headquartered battery maker producing prismatic and pouch lithium-ion cells for electric vehicles from its Gwangmyeong and Seosan plants. Spun off from SK Innovation in 2021, it supplies packs to Ford Mustang Mach-E and Hyundai Ioniq 5. The company advances 46-series cells with NCM cathodes and partners with Solid Power on solid-state tech. SK on targets 200 GWh capacity by 2025.",
+    "url": "https://multiples.vc/private-comps/sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of industrial electrolyzers designed to convert renewable electricity into green hydrogen, syngas, and e-fuels.",
+    "url": "https://pitchbook.com/profiles/company/60513-49",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of industrial electrolyzers designed to convert renewable electricity into green hydrogen, syngas, and e-fu",
+    "url": "https://pitchbook.com/profiles/company/60513-49",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Become a Sunfire POS Partner: ISO White Label Our POS or Partner As a ISV Reseller Referral",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   },
+   {
+    "quote": "Join our ISO / Agent / Reseller Program",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   },
+   {
+    "quote": "ISO White Label Partner",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   },
+   {
+    "quote": "ISV/Reseller/Dealers/Agent Referral Program",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   },
+   {
+    "quote": "What types of partner programs does Sunfire POS offer?",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   },
+   {
+    "quote": "ISO White Label Partner Program",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   },
+   {
+    "quote": "ISV, Reseller, Dealer, and Agent Referral Program",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   },
+   {
+    "quote": "What are the benefits of the Sunfire POS ISO White Label Partner Program?",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   },
+   {
+    "quote": "ISO White Label Partner benefits include special ISO rates, hands-on installation and training for merchants, equipment deployment and setup, a dedicated support team for the ISO and their merchants, effective communication channels, and robust reporting tools to monitor merchant activity. White-label partners can brand the entire Sunfire POS platform under their own identity.",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Sunfire POS offers an ISV, Reseller, Dealer, and Agent Referral Program with special referral rates and access to agent benefits through the",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   },
+   {
+    "quote": ". This program is designed for technology resellers, independent sales agents, dealers, and ISVs who want to offer Sunfire POS to their merchant clients.",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   },
+   {
+    "quote": "Can ISOs white-label Sunfire POS under their own brand?",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Sunfire POS is fully white-label capable, allowing ISOs to brand the platform — including all features such as",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   },
+   {
+    "quote": "to discuss the right partner program for your business.",
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Sunfire",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/60513-49",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "SunFire グローバルグリーンテック ドイツ - note SunFire グローバルグリーンテック ドイツ - note note https://note.com > 科学・テクノロジー > エネルギー",
+    "url": "https://note.com/vueloo_blog/n/n8fabc4065cdd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "SunFire グローバルグリーンテック ドイツ｜MasaT. 武富 正人",
+    "url": "https://note.com/vueloo_blog/n/n8fabc4065cdd",
+    "pass": 3
+   },
+   {
+    "quote": "SunFire グローバルグリーンテック ドイツ",
+    "url": "https://note.com/vueloo_blog/n/n8fabc4065cdd",
+    "pass": 3
+   },
+   {
+    "quote": "2010年に設立され、ドイツのドレスデンを拠点とする",
+    "url": "https://note.com/vueloo_blog/n/n8fabc4065cdd",
+    "pass": 3
+   },
+   {
+    "quote": "は、2つの差別化された技術を持つ世界有数の産業用電解会社です。SOECとアルカリ技術に基づく電解槽を開発・製造し、再生可能な水素、合成ガス、e-Fuelの真に持続可能でコスト効率の高い製造を可能にしています。",
+    "url": "https://note.com/vueloo_blog/n/n8fabc4065cdd",
+    "pass": 3
+   },
+   {
+    "quote": "サンファイア社は、6年連続でグローバル・クリーンテック100社に選ばれており、再生可能燃料と鉄鋼事業の世界的リーダーであるネステ社やSMSグループなどの有力な戦略的・財務的投資家の支援を受けています。ドイツとスイスに500人以上の従業員を擁し、確立されたパートナーネットワークにより、「化石燃料のない世界を創る」という約束を実現するための大規模な電解プロジェクトを実現しています！",
+    "url": "https://note.com/vueloo_blog/n/n8fabc4065cdd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Sunfire Aegis is completely underwhelming as an item for ... - X Sunfire Aegis is completely underwhelming as an item for ... - X X https://x.com > @zac_gaming__",
+    "url": "https://x.com/zac_gaming__/status/1938509961820021109",
+    "pass": 3
+   },
+   {
+    "quote": "SunFIRE (@Not_Sunn) / X SunFIRE (@Not_Sunn) / X X https://x.com > Not_Sunn",
+    "url": "https://x.com/Not_Sunn",
+    "pass": 3
+   },
+   {
+    "quote": "VMware on X: \" Sunfire Technologies modernizes enterprise ... VMware on X: \" Sunfire Technologies modernizes enterprise ... X https://x.com > @VMware",
+    "url": "https://x.com/VMware/status/2102023061398601861",
+    "pass": 3
+   },
+   {
+    "quote": "Spideraxe on X: \" Sunfire Aegis changes: - X Spideraxe on X: \" Sunfire Aegis changes: - X X https://x.com > @Spideraxe30",
+    "url": "https://x.com/Spideraxe30/status/2084419704228048996",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SunFire - LinkedIn SunFire - LinkedIn LinkedIn https://www.linkedin.com > sunfireinc",
+    "url": "https://www.linkedin.com/company/sunfireinc",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire - LinkedIn Sunfire - LinkedIn LinkedIn https://de.linkedin.com > sunfire-group",
+    "url": "https://de.linkedin.com/company/sunfire-group",
+    "pass": 3
+   },
+   {
+    "quote": "Charles Philip - VP of Technology at SunFire Inc | LinkedIn Charles Philip - VP of Technology at SunFire Inc | LinkedIn LinkedIn https://www.linkedin.com > charles-p...",
+    "url": "https://www.linkedin.com/in/charles-philip-a2325313",
+    "pass": 3
+   },
+   {
+    "quote": "SunFire Heaters - LinkedIn SunFire Heaters - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/sunfireheaters",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Sunfire (@officialsunfire) - Facebook Sunfire (@officialsunfire) - Facebook Facebook https://www.facebook.com > Pages > Public figure > Band",
+    "url": "https://www.facebook.com/officialsunfire/",
+    "pass": 3
+   },
+   {
+    "quote": "SunFire | Janesville WI - Facebook SunFire | Janesville WI - Facebook Facebook https://www.facebook.com > sunfireheaters",
+    "url": "https://www.facebook.com/sunfireheaters/",
+    "pass": 3
+   },
+   {
+    "quote": "Sunfire Energy Solutions | Martinsburg WV - Facebook Sunfire Energy Solutions | Martinsburg WV - Facebook Facebook https://www.facebook.com > sunfireenergysolutions",
+    "url": "https://www.facebook.com/sunfireenergysolutions/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sunfire.de/en/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://japan.zdnet.com/article/20262827/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.proface.com/ja/support/distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunfire-ltd.jp/contact.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinkoh-elecs.jp/business/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marvel.fandom.com/wiki/Shiro_Yoshida_(Earth-616)",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://sunfire.de/en/cases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/SecretHQph/posts/japanese-mutant-superhero-sunfire-appears-in-insomniacs-wolverine-in-the-comics-/1629434738749436/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJQazl_ojlmjppxz_E1eZZQpHLhd6xDAZ2oSpusyFFmeA59jIfv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.climatebrick.com/stories/sunfire-scaling-journey",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://archive.epa.gov/sustainablemanufacturing/web/html/case-studies.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sunfire.de/en/news/sunfire-launches-serial-production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sunfirepos.com/become-a-partner.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Sunfire",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/sunfire",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/60513-49",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/sunfire/financials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vueloo_blog/n/n8fabc4065cdd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/zac_gaming__/status/1938509961820021109",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Not_Sunn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/VMware/status/2102023061398601861",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Spideraxe30/status/2084419704228048996",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sunfireinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/sunfire-group",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/charles-philip-a2325313",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/sunfireheaters",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/officialsunfire/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sunfireheaters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sunfireenergysolutions/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Sunfire 日本 導入",
+   "results": [
+    "https://japan.zdnet.com/article/20262827/",
+    "https://www.stellantis.jp/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://docs.oracle.com/cd/E19088-01/v245.srvr/819-6870-10/819-6870-10.pdf",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.webcg.net/articles/-/54501",
+    "https://www.reddit.com/r/WeirdWheels/comments/kvlr8d/the_as%C3%BCna_sunfire_a_rebadged_isuzu_impulse_as%C3%BCna/?tl=ja",
+    "https://www.parkplacetechnologies.com/ja/eosl/sun-oracle/sunfire-v125/",
+    "https://www.waters.com/nextgen/jp/ja/products/columns/sunfire-columns.html",
+    "https://jp.linkedin.com/company/sunfire-group"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sunfire 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.proface.com/ja/support/distributor",
+    "https://sunfire-ltd.jp/contact.html",
+    "https://www.shinkoh-elecs.jp/business/agency/",
+    "https://docs.oracle.com/cd/E19088-01/280r.srvr/817-0421-10/817-0421-10.pdf",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.nisshinfire.co.jp/agency/shop/ibaraki.html",
+    "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "https://san-tech.biz/distributor/index.html",
+    "https://fp-sunrise.co.jp/partner-agencies/",
+    "https://jomon.group/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 22
+  },
+  {
+   "query": "Sunfire Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Sunfire_(character)",
+    "https://marvel.fandom.com/wiki/Shiro_Yoshida_(Earth-616)",
+    "https://sunfire.de/en/cases/",
+    "https://www.facebook.com/SecretHQph/posts/japanese-mutant-superhero-sunfire-appears-in-insomniacs-wolverine-in-the-comics-/1629434738749436/",
+    "https://forums.playcontestofchampions.com/en/discussion/398559/bring-to-japanese-heritage-to-mcoc-welcome-to-the-duality-of-sunfire-and-silver-samurai",
+    "https://www.reddit.com/r/xmen/comments/1ahgom9/why_is_sunfire_such_a_dick/",
+    "https://yamatomagazine.home.blog/2023/03/25/exploring-the-role-of-sunfire-and-his-status-as-japans-premier-superhero-in-the-marvel-universe/",
+    "https://www.marvel.com/characters/sunfire-shiro-yoshida",
+    "https://sunfiretravelgroup.wetravel.com/trips/sunfire-travel-group-tokyo-2027-sunfire-travel-group-3691374696",
+    "https://bighero6.fandom.com/wiki/Sunfire"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Sunfire manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJQazl_ojlmjppxz_E1eZZQpHLhd6xDAZ2oSpusyFFmeA59jIfv",
+    "https://www.climatebrick.com/stories/sunfire-scaling-journey",
+    "https://archive.epa.gov/sustainablemanufacturing/web/html/case-studies.html",
+    "https://sunfire.de/en/news/sunfire-launches-serial-production/",
+    "https://www.hpe.com/us/en/customer-case-studies.html",
+    "https://sustainability.solenis.com/en/resource-library/success-stories/",
+    "https://c3.ai/customers",
+    "https://safetychain.com/resources/case-studies",
+    "https://www.insightsoftware.com/resources/case-studies",
+    "https://www.theprojectgroup.com/en/case-study/project-online-sunfire"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sunfire white label OR reseller OR partner program",
+   "results": [
+    "https://www.sunfirepos.com/become-a-partner.html",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.intermedia.com/resellers",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://journeybee.io/resources/top-100-reseller-programs",
+    "https://help.salesplay.com/help/introducing-the-salesplay-partner-white-label-program/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://www.sunfireinc.com/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Sunfire founded funding employees revenue",
+   "results": [
+    "https://growjo.com/company/Sunfire",
+    "https://multiples.vc/private-comps/sunfire",
+    "https://pitchbook.com/profiles/company/60513-49",
+    "https://www.cbinsights.com/company/sunfire/financials",
+    "https://sunfire.de/en/news/sunfire-secures-more-than-eur-500-million-to-accelerate-its-growth/",
+    "https://www.zeliq.com/company/germany/manufacturing/renewable-energy-equipment-manufacturing/sunfire",
+    "https://www.crunchbase.com/organization/sunfire",
+    "https://dealroom.co/companies/sunfire/",
+    "https://www.zoominfo.com/c/sunfire-gmbh/559161536",
+    "https://compworth.com/company/sunfire"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Sunfire",
+   "results": [
+    "https://note.com/vueloo_blog/n/n8fabc4065cdd",
+    "https://note.com/major_flea4923/n/nee7ec381acdf?hl=en",
+    "https://note.com/alive_human726/n/nfd7f0900e59b?hl=en",
+    "https://note.com/iisakenaganoya/n/n539e96496e37?hl=en",
+    "https://note.com/lively_cougar611/n/n1ed073db0107?hl=en",
+    "https://note.com/assessmentlol/n/naf595b533836?hl=en",
+    "https://note.com/cozy_raven4480/n/n44e0dc3a37f5?hl=en",
+    "https://note.com/maruumi_teram/n/ne307bd3d63c6?hl=en",
+    "https://note.com/howasaba_inu/n/nadb57e94a21b?hl=en",
+    "https://note.com/tag/渡部海"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Sunfire",
+   "results": [
+    "https://x.com/zac_gaming__/status/1938509961820021109",
+    "https://x.com/Not_Sunn",
+    "https://x.com/VMware/status/2102023061398601861",
+    "https://x.com/Spideraxe30/status/2084419704228048996",
+    "https://x.com/Altorina4/status/2083880614843830695",
+    "https://x.com/genjyuro/status/1832049540339548231",
+    "https://x.com/HlNOMARUSUMO/status/2101929915688120321",
+    "https://x.com/Spideraxe30/status/1988419424869920840",
+    "https://x.com/nib95_/status/2095602788000555095",
+    "https://x.com/sunfi_re"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Sunfire",
+   "results": [
+    "https://www.linkedin.com/company/sunfireinc",
+    "https://de.linkedin.com/company/sunfire-group",
+    "https://www.linkedin.com/in/charles-philip-a2325313",
+    "https://www.linkedin.com/company/sunfireheaters",
+    "https://www.linkedin.com/in/michaelperleberg",
+    "https://www.linkedin.com/company/sunfiremarketing",
+    "https://www.linkedin.com/in/david-graf-46abb6a9",
+    "https://www.linkedin.com/posts/kkr_sunfire-announces-investment-from-kkr-activity-7180913228267302913-xAgM",
+    "https://www.linkedin.com/in/pleasereed",
+    "https://www.linkedin.com/company/sunfire-group"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Sunfire",
+   "results": [
+    "https://www.facebook.com/officialsunfire/",
+    "https://www.facebook.com/sunfireheaters/",
+    "https://www.facebook.com/sunfireenergysolutions/",
+    "https://www.facebook.com/MarvelStrikeForce/videos/who-is-sunfire-new-character-review-marvel-strike-force/431660658810093/",
+    "https://www.facebook.com/groups/avengersforevergroup/posts/10160581946996128/",
+    "https://www.facebook.com/groups/carveraudioforum/posts/27509108195359471/",
+    "https://www.facebook.com/groups/221484758316623/posts/2640325449765863/",
+    "https://www.facebook.com/groups/carveraudioforum/posts/26900230656247231/",
+    "https://apps.facebook.com/marketplace/category/pontiac-sunfire/",
+    "https://l.facebook.com/marketplace/greenbay/pontiac-sunfire/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Sunfire note 社長",
+   "results": [
+    "https://note.com/sumire_grareco",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/sadaaki",
+    "https://www.ug-inc.net/blog/sudanote",
+    "https://sunfire.de/en/about/",
+    "https://x.com/sadaaki",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://notice.co/c/sunfire-de",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Sunfire X 投稿",
+   "results": [
+    "https://x-men.fandom.com/wiki/Sunfire",
+    "https://www.reddit.com/r/xmen/comments/1totfhk/the_average_sunfire_xmen_membership_experience/",
+    "https://www.pinterest.com/pin/sunfire-shiro-yoshida-x-men--308707749476041183/",
+    "https://www.deviantart.com/green-mamba/art/M168--Sunfire-892670981",
+    "https://www.youtube.com/watch?v=r7FSrjjdKzw",
+    "https://www.facebook.com/alexcouchpotatoes/posts/sunfire-is-alive-/1656630523135916/",
+    "https://x.com/Not_Sunn",
+    "https://www.instagram.com/p/Db9SQASFQXm/",
+    "https://x.com/SUNFIRE_X",
+    "https://www.patreon.com/sunfire?l=ja-JP"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

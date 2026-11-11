@@ -1,0 +1,385 @@
+{
+ "name": "公設試験研究所",
+ "aliases": [],
+ "context": "PBF=unknown 装置= 出典=https://news.sharelab.jp/3dp-news/metal-3dprinter/shizuoka-3dprinter-230227/",
+ "researched_at": "2026-11-11T00:10:41.891563+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {},
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.city.edogawa.tokyo.jp/e093/shigotosangyo/jigyosha_oen/sangyo_jigyosya/jyosei/seihinkaihatsu/iraishiken.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jri.co.jp/MediaLibrary/file/report/jrireview/pdf/14959.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://itabashi-kohsha.com/subsidies/5981g74qa0jjxrpx.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mag.iri-tokyo.jp/n/n1135160ac93c?gs=35dd482566a3582a83c3771eda465998",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jstage.jst.go.jp/article/jspmee/10/4/10_187/_pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://orist.jp/gaiyou/facility_izumi/tri3d/event/article/147412.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iri-tokyo.jp/research/field/sekiso-zokei/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kousetsushi.go.jp/kousetsushi/top",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://unit.aist.go.jp/nmij/collab/bb_kai/ZenKikan2020.htm",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jri.co.jp/MediaLibrary/file/report/jrireview/pdf/14959.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.jri.co.jp/MediaLibrary/file/report/jrireview/pdf/14959.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tdb.co.jp/report/economic/articlespe09/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rieti.go.jp/jp/projects/innovation-system/pdf/03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "公設試験研究所",
+   "results": [
+    "https://kousetsushi.go.jp/kousetsushi/kousetsushiList",
+    "https://unit.aist.go.jp/nmij/collab/bb_kai/ZenKikan2020.htm",
+    "https://ja.wikipedia.org/wiki/%E5%85%AC%E8%A8%AD%E8%A9%A6%E9%A8%93%E7%A0%94%E7%A9%B6%E6%A9%9F%E9%96%A2",
+    "https://www.kouiki-kansai.jp/koikirengo/jisijimu/sanshin/omonatorikumi/platform/9334.html",
+    "https://www.jri.co.jp/file/report/jrireview/pdf/14959.pdf",
+    "https://www.chubu.meti.go.jp/b31technology/kirari/index.html",
+    "https://www.iri-tokyo.jp/",
+    "https://www.jrcm.or.jp/kousetusi/b_kousetusi.htm",
+    "https://www.k-labsearch.jp/labo_archive/136/",
+    "https://ja.wikipedia.org/wiki/公設試験研究機関"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "株式会社公設試験研究所",
+   "results": [
+    "https://kousetsushi.go.jp/kousetsushi/kousetsushiList",
+    "https://www.kouiki-kansai.jp/koikirengo/jisijimu/sanshin/omonatorikumi/platform/9334.html",
+    "https://www.jri.co.jp/file/report/jrireview/pdf/14959.pdf",
+    "https://www.iri-tokyo.jp/",
+    "https://j-net21.smrj.go.jp/publicsupport/2020012701.html",
+    "https://www.k-labsearch.jp/labo_archive/136/",
+    "https://www.chubu.meti.go.jp/b31technology/kirari/index.html",
+    "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/%E4%BB%A4%E5%92%8C5%E5%B9%B4%E5%BA%A6%E5%85%AC%E8%A8%AD%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%AE%E8%A8%AD%E5%82%99%E6%8B%A1%E5%85%85%E8%A3%9C%E5%8A%A9%E4%BA%8B%E6%A5%AD/",
+    "https://unit.aist.go.jp/shikoku/kaihou-kiki/",
+    "https://ja.wikipedia.org/wiki/公設試験研究機関"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "公設試験研究所 株式会社",
+   "results": [
+    "https://www.iri-tokyo.jp/",
+    "https://kousetsushi.go.jp/kousetsushi/kousetsushiList",
+    "https://itabashi-kohsha.com/subsidies/5981g74qa0jjxrpx.html",
+    "https://www.kouiki-kansai.jp/koikirengo/jisijimu/sanshin/omonatorikumi/platform/9334.html",
+    "https://orist.jp/link.html",
+    "https://www.chugoku.meti.go.jp/chizai/sodan/study.html",
+    "https://www.jri.co.jp/file/report/jrireview/pdf/14959.pdf",
+    "https://www.jka-cycle.jp/_tags/%E5%85%AC%E8%A8%AD%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E7%A0%94%E7%A9%B6%E6%89%80%EF%BC%88%E6%A9%9F%E6%A2%B0%E8%A8%AD%E5%82%99%E6%8B%A1%E5%85%85%EF%BC%89",
+    "https://www.jpo.go.jp/system/process/tesuryo/genmen/kousetu24_4.html",
+    "https://ja.wikipedia.org/wiki/公設試験研究機関"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "公設試験研究所 会社概要 資本金 設立",
+   "results": [
+    "https://www.city.edogawa.tokyo.jp/e093/shigotosangyo/jigyosha_oen/sangyo_jigyosya/jyosei/seihinkaihatsu/iraishiken.html",
+    "https://www.jri.co.jp/file/report/jrireview/pdf/14959.pdf",
+    "https://itabashi-kohsha.com/subsidies/5981g74qa0jjxrpx.html",
+    "https://kousetsushi.go.jp/kousetsushi/kousetsushiList",
+    "https://www.sangyo-rodo.metro.tokyo.lg.jp/documents/d/sangyo-rodo/200826siryou5",
+    "https://www.city.machida.tokyo.jp/jigyousha/shien/yushi/shikenkikanhojo.html",
+    "https://www.pref.gunma.jp/site/houdou/27881.html",
+    "https://www.kansai.meti.go.jp/1-9chushoresearch/jirei/jirei23.html",
+    "https://job.mynavi.jp/27/pc/search/corp250048/outline.html",
+    "https://ja.wikipedia.org/wiki/公設試験研究機関"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "公設試験研究所 金属3Dプリンタ 導入",
+   "results": [
+    "https://mag.iri-tokyo.jp/n/n1135160ac93c",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "https://www.jstage.jst.go.jp/article/jspmee/10/4/10_187/_pdf",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://www.iri.pref.shizuoka.jp/printer/",
+    "https://www.aist.go.jp/aist_j/magazine/20260311.html",
+    "https://www.youtube.com/watch?v=Byfy7tsLawE",
+    "https://news.sharelab.jp/study/usageguide-use-publicfacility/",
+    "https://orist.jp/gaiyou/facility_izumi/tri3d/",
+    "https://www.iri.pref.shizuoka.jp/printer_info/31673/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "公設試験研究所 金属積層造形 設備",
+   "results": [
+    "https://orist.jp/gaiyou/facility_izumi/tri3d/event/article/147412.html",
+    "https://www.iri-tokyo.jp/research/field/sekiso-zokei/",
+    "https://www.fitc.pref.fukuoka.jp/facility/setsubi/dep-list/meri/kinzoku-sekisou-zoukei.php",
+    "https://www-mat.eng.osaka-u.ac.jp/msp6/nakano/182_kosetushi%20kinzoku3D.pdf",
+    "https://jampt.jp/",
+    "https://www.meti.go.jp/policy/mono_info_service/mono/sokeizai/pdf/am-houkokusyo.pdf",
+    "https://www.iri.pref.shizuoka.jp/printer/",
+    "https://www.jstage.jst.go.jp/article/jspmee/10/4/10_187/_pdf",
+    "https://kyoukai-osaka.org/2023/05/11/%E3%80%8E%E9%96%A2%E8%A5%BF%E5%85%AC%E8%A8%AD%E8%A9%A6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E3%81%AE%E6%B4%BB%E7%94%A8%E7%8A%B6%E6%B3%81%E3%81%A8/",
+    "https://orist.jp/orist/whatsnew/147326/147559.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "公設試験研究所 株主 出資 親会社",
+   "results": [
+    "https://kousetsushi.go.jp/kousetsushi/top",
+    "https://unit.aist.go.jp/nmij/collab/bb_kai/ZenKikan2020.htm",
+    "https://www.jri.co.jp/file/report/jrireview/pdf/14959.pdf",
+    "https://www.kansai.meti.go.jp/1-9chushoresearch/jirei/jirei23.html",
+    "https://mag.iri-tokyo.jp/n/ne9d29323bc84",
+    "https://www.tec-lab.pref.gunma.jp/wp-content/uploads/2023/02/20141118-1.pdf",
+    "https://ja.wikipedia.org/wiki/%E5%85%AC%E8%A8%AD%E8%A9%A6%E9%A8%93%E7%A0%94%E7%A9%B6%E6%A9%9F%E9%96%A2",
+    "http://www.mmc.or.jp/fsic/kousetsushi/",
+    "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/065/530/sangiken.pdf",
+    "https://ja.wikipedia.org/wiki/公設試験研究機関"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "公設試験研究所 売上高 従業員数",
+   "results": [
+    "https://www.jri.co.jp/file/report/jrireview/pdf/14959.pdf",
+    "https://www.tdb.co.jp/report/economic/articlespe09/",
+    "https://www.rieti.go.jp/jp/projects/innovation-system/pdf/03.pdf",
+    "https://kousetsushi.go.jp/kousetsushi/kousetsushiList",
+    "https://www.iri-tokyo.jp/",
+    "https://job.mynavi.jp/27/pc/search/corp250048/outline.html",
+    "https://www.pref.gunma.jp/site/houdou/27881.html",
+    "https://www.city.machida.tokyo.jp/jigyousha/shien/yushi/shikenkikanhojo.html",
+    "https://unit.aist.go.jp/nmij/collab/bb_kai/ZenKikan2020.htm",
+    "https://ja.wikipedia.org/wiki/公設試験研究機関"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 公設試験研究所",
+   "results": [
+    "https://note.com/epolicy_actvst/n/ne25f7e3f4a6e",
+    "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "https://note.com/dyresti/n/n793c76bb98aa",
+    "https://note.com/safe_dove1291/n/n69b497b8fc97",
+    "https://note.com/eager_yarrow305/n/n2794753e3d0d",
+    "https://note.com/mochan_en0123/n/ne8f3dddbd3fe",
+    "https://note.com/chushohakusho/n/nca69991275ba",
+    "https://note.com/local_gover_res3/n/n8f57203989bc",
+    "https://note.com/mobio_osaka/n/n587aa8e156bc",
+    "https://note.com/mobio_osaka/n/na294768896bc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 公設試験研究所",
+   "results": [
+    "https://x.com/jspmi_official/status/2038504567852446149",
+    "https://x.com/jspmi_official/status/2026510073535803630",
+    "https://x.com/jnet21_smrj/status/2115367975448678431",
+    "https://x.com/JKASocialAction/status/1976211060786069645",
+    "https://x.com/KISTEC_O_PR",
+    "https://x.com/iwate_iarc",
+    "https://x.com/iwate_iftc/status/1930873703778386339",
+    "https://x.com/hashtag/%E3%82%AD%E3%83%A9%E3%83%AA%E5%85%AC%E8%A8%AD%E8%A9%A6",
+    "https://x.com/AIST_JP/status/1712422864249401352",
+    "https://x.com/orist_pr"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 公設試験研究所",
+   "results": [
+    "https://jp.linkedin.com/in/shigerukurosawa20240404",
+    "https://jp.linkedin.com/in/%E8%8A%B3%E4%B8%80-%E5%BE%8C%E8%97%A4-513675a6",
+    "https://jp.linkedin.com/pulse/%E6%96%B0%E3%81%97%E3%81%84%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%81%8C%E3%83%8D%E3%83%95%E3%82%A7%E3%83%AD%E3%83%A1%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%82%A4%E3%83%A0%E3%83%8E%E3%82%A2%E3%83%83%E3%82%BB%E3%82%A4%E3%82%A2%E3%83%8A%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC%E5%B8%82%E5%A0%B4%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%BD%A2%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4-7516747515455561730-swgie",
+    "https://sg.linkedin.com/in/akihiro-mochizuki-b1ba94152/ja",
+    "https://jp.linkedin.com/in/etsushi-kitamura-ph-d-1893b64",
+    "https://jp.linkedin.com/in/ogatataiyo",
+    "https://jp.linkedin.com/in/%E5%8B%87%E7%A3%A8-%E8%8D%92%E6%9C%A8-32971a210",
+    "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%80%A5%E9%80%9F%E4%BD%8E%E6%B8%A9%E5%BE%AA%E7%92%B0%E6%A7%BD%E5%B8%82%E5%A0%B4%E3%81%A8%E4%B8%BB%E8%A6%81%E4%BC%81%E6%A5%AD-red-dragon-cars-edeze",
+    "https://jp.linkedin.com/pulse/%E3%83%95%E3%83%AD%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%90%E3%82%B9%E5%B8%82%E5%A0%B4%E3%81%AE%E7%A0%94%E7%A9%B6%E3%81%AF2026%E5%B9%B4%E3%81%8B%E3%82%892033%E5%B9%B4%E3%81%BE%E3%81%A7%E3%81%AE119%E3%81%AEcagr%E4%BA%88%E6%B8%AC%E3%82%92%E5%88%86%E6%9E%90-7467436610419159040-k1ise",
+    "https://jp.linkedin.com/in/cobo-mizu-968088235"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 公設試験研究所",
+   "results": [
+    "https://www.facebook.com/hyogo.kg/posts/%E5%85%AC%E8%A8%AD%E8%A9%A6%E9%A8%93%E7%A0%94%E7%A9%B6%E6%A9%9F%E9%96%A2%E5%90%88%E5%90%8C%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%83%A9%E3%83%9C%E3%81%AE%E3%81%A8%E3%81%B3%E3%82%89-%E7%9F%A5%E3%82%8D%E3%81%86%E6%B4%BB%E3%81%8B%E3%81%9D%E3%81%86-%E5%85%AC%E8%A8%AD%E8%A9%A6%E3%81%AE%E9%AD%85%E5%8A%9B%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E9%96%A2%E8%A5%BF%E5%9C%B0%E5%9F%9F%E3%81%AB%E3%81%AF%E7%A4%BE%E4%BC%9A%E8%AA%B2%E9%A1%8C%E3%81%AE%E8%A7%A3%E6%B1%BA%E3%82%84%E7%94%A3%E6%A5%AD%E3%81%AE%E7%99%BA%E5%B1%95%E3%81%AB%E8%B2%A2%E7%8C%AE%E3%81%99%E3%82%8B%E5%A4%9A%E5%BD%A9%E3%81%AA%E5%85%AC%E8%A8%AD%E8%A9%A6%E9%A8%93%E7%A0%94%E7%A9%B6%E6%9C%9F%E9%96%93%E7%95%A5%E7%A7%B0%E5%85%AC%E8%A8%AD/1782769373850819/",
+    "https://www.facebook.com/TIIT.tottori/posts/11%E6%9C%882%E6%97%A5%E6%B0%B4%E3%81%A8%E3%82%8A%E3%81%8E%E3%82%93%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8%E9%B3%A5%E5%8F%96%E5%B8%82%E3%81%A7%E5%85%AC%E8%A8%AD%E8%A9%A6%E7%AD%89%E5%A5%B3%E6%80%A7%E7%A0%94%E7%A9%B6%E8%80%85%E6%8A%80%E8%A1%93%E4%BA%A4%E6%B5%81%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E5%9F%BA%E8%AA%BF%E8%AC%9B%E6%BC%94%E3%82%92%E6%9D%B1%E4%BA%AC%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6%E5%87%86%E6%95%99%E6%8E%88-%E6%98%9F%E9%87%8E%E6%AD%A9%E5%AD%90%E5%85%88%E7%94%9F%E3%81%AB%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%82%A8%E3%82%AF%E3%82%BD%E3%82%BD%E3%83%BC%E3%83%A0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%85%88%E9%80%B2%E7%9A%84%E3%81%AA/200920298991989/",
+    "https://www.facebook.com/jnet21/posts/%E8%A3%9C%E5%8A%A9%E9%87%91%E5%8A%A9%E6%88%90%E9%87%91%E3%81%A0%E3%81%91%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%EF%B8%8F%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E6%94%AF%E6%8F%B4%E6%96%BD%E7%AD%96%E5%89%B5%E6%A5%AD%E3%81%8B%E3%82%89%E4%BA%8B%E6%A5%AD%E6%89%BF%E7%B6%99%E3%81%BE%E3%81%A7%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E6%94%AF%E6%8F%B4%E6%96%BD%E7%AD%96%E3%81%AE%E6%B4%BB%E7%94%A8%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%82%92%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E7%AD%89%E3%81%8C%E5%A4%A7%E5%AD%A6%E5%85%AC%E8%A8%AD%E8%A9%A6%E9%A8%93%E7%A0%94%E7%A9%B6%E6%A9%9F%E9%96%A2%E7%AD%89%E3%81%A8%E9%80%A3%E6%90%BA%E3%81%97%E3%81%A6%E8%A1%8C%E3%81%86-%E7%A0%94%E7%A9%B6%E9%96%8B/1574123068066145/",
+    "https://www.facebook.com/iwate.iftc/posts/%E4%BB%8A%E5%B9%B4%E5%BA%A6%E3%82%82%E5%BA%95%E3%81%B3%E3%81%8D%E7%B6%B2%E3%81%A7%E5%A4%A7%E9%87%8F%E3%81%AB%E6%BC%81%E7%8D%B2%E3%81%95%E3%82%8C%E3%82%8B%E3%83%86%E3%83%8A%E3%82%AC%E3%83%80%E3%83%A9%E3%81%AE%E5%8A%A0%E5%B7%A5%E8%A9%A6%E9%A8%93%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99-%E6%98%A8%E5%B9%B4%E5%BA%A6%E3%81%8B%E3%82%89%E5%BC%95%E3%81%8D%E7%B6%9A%E3%81%8D%E7%B7%B4%E3%82%8A%E8%A3%BD%E5%93%81%E3%81%AB%E7%94%A8%E3%81%84%E3%82%8B%E3%81%99%E3%82%8A%E8%BA%AB%E5%8E%9F%E6%96%99%E3%81%A8%E3%81%97%E3%81%A6%E9%81%A9%E6%80%A7%E8%A9%95%E4%BE%A1%E3%82%92%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E5%88%A9%E7%94%A8%E5%8A%A0%E5%B7%A5%E9%83%A8-%E5%B2%A9/122247502586224232/",
+    "https://www.facebook.com/orikincenter/videos/%E5%BD%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E6%8A%80%E8%A1%93%E6%94%AF%E6%8F%B4%E6%8A%80%E8%A1%93%E7%9B%B8%E8%AB%87%E4%BE%9D%E9%A0%BC%E8%A9%A6%E9%A8%93%E6%A9%9F%E5%99%A8%E8%B2%B8%E4%BB%98%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E5%BD%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A7%E3%81%AF%E4%BC%81%E6%A5%AD%E3%81%AE%E7%9A%86%E3%81%95%E3%81%BE%E3%81%8C%E6%8A%B1%E3%81%88%E3%82%8B%E6%96%B0%E8%A3%BD%E5%93%81%E6%96%B0%E6%8A%80%E8%A1%93%E3%81%AE%E9%96%8B%E7%99%BA%E5%93%81%E8%B3%AA%E7%AE%A1%E7%90%86%E6%8A%80%E8%A1%93%E6%94%B9%E5%96%84%E3%81%AA%E3%81%A9%E6%A7%98%E3%80%85%E3%81%AA%E6%8A%80%E8%A1%93%E7%9A%84%E8%AA%B2%E9%A1%8C%E3%81%AB%E5%AF%BE%E3%81%97%E3%81%A6%E8%81%B7%E5%93%A1%E3%81%8C%E3%82%A2%E3%83%89%E3%83%90/24102766172741212/",
+    "https://www.facebook.com/tckyoto/posts/%E8%BF%91%E7%95%BF%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E5%B1%80%E3%81%AEweb%E9%80%A3%E8%BC%89new-focus%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E8%BF%91%E7%95%BF%E7%B5%8C%E6%B8%88%E7%94%A3%E6%A5%AD%E5%B1%80%E3%81%AEweb%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A6%E9%80%A3%E8%BC%89%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E4%BC%81%E7%94%BBnew-focus%E5%9C%B0%E5%9F%9F%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%88%E3%82%8B%E6%96%B0%E3%81%9F%E3%81%AA%E8%A6%96%E7%82%B9%E3%81%AB%E5%BC%8A%E6%89%80%E3%81%A8/1764234335711979/",
+    "https://www.facebook.com/100009532504197/videos/%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E9%87%91%E6%9B%9C%E3%81%BE%E3%81%A7%E7%A0%94%E4%BF%AE%E6%99%AE%E6%AE%B5%E3%81%AF%E9%A3%9F%E3%81%B9%E3%81%AA%E3%81%84%E6%9C%9D%E3%81%94%E3%81%AF%E3%82%93%E3%82%82%E9%A3%9F%E3%81%B9%E3%81%9F%E3%81%97%E3%81%8C%E3%82%93%E3%81%B0%E3%82%8A%E3%81%BE%E3%81%99%E7%AC%91%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E5%A4%A7%E5%AD%A6%E6%A0%A1%E5%85%AC%E8%A8%AD%E8%A9%A6%E9%A8%93%E7%A0%94%E7%A9%B6%E6%A9%9F%E9%96%A2%E7%A0%94%E7%A9%B6%E5%93%A1%E7%A0%94%E4%BF%AE/1143150848197812/",
+    "https://www.facebook.com/FukuiKougi/",
+    "https://www.facebook.com/tottori.pref.ringyoshiken/posts/%E7%B5%8C%E5%96%B6%E6%A9%9F%E4%BC%9A%E9%83%A8%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E9%96%A2%E8%A5%BF%E5%9C%B0%E5%8C%BA%E6%9E%97%E6%A5%AD%E8%A9%A6%E9%A8%93%E7%A0%94%E7%A9%B6%E6%A9%9F%E9%96%A2%E9%80%A3%E7%B5%A1%E5%8D%94%E8%AD%B0%E4%BC%9A%E3%81%AE%E7%B5%8C%E5%96%B6%E6%A9%9F%E6%A2%B0%E9%83%A8%E4%BC%9A%E3%82%92%EF%BC%96%E6%9C%88%EF%BC%91%EF%BC%99%E6%97%A5%EF%BC%92%EF%BC%90%E6%97%A5%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E7%B1%B3%E5%AD%90%E5%B8%82%E3%81%A8%E6%97%A5%E5%8D%97%E7%94%BA%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E9%96%A2%E8%A5%BF%E5%9C%B0%E5%8C%BA%E6%9E%97%E6%A5%AD%E8%A9%A6%E9%A8%93%E7%A0%94%E7%A9%B6%E6%A9%9F%E9%96%A2%E9%80%A3%E7%B5%A1/1174081421428533/",
+    "https://www.facebook.com/TIIT.tottori/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "公設試験研究所 note 社長",
+   "results": [
+    "https://mag.iri-tokyo.jp/n/ne9d29323bc84",
+    "https://note.com/hro_iri/n/n3cc49e7022dd",
+    "https://note.com/hyogo_kg/n/nef7ac5401de0",
+    "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%88%3A%E5%85%AC%E7%9A%84%E8%A9%A6%E9%A8%93%E7%A0%94%E7%A9%B6%E6%A9%9F%E9%96%A2",
+    "https://note.com/epolicy_actvst/n/ne25f7e3f4a6e",
+    "https://www.projectdesign.jp/articles/news/9d978fc7-3c2d-4f96-bfd4-73b6adda76cb",
+    "https://www.hro.or.jp/hro/info-headquarters/transmission-information/facebook.html",
+    "https://note.com/hro_iri/n/n3f83e361558f",
+    "https://ja.wikipedia.org/wiki/公設試験研究機関",
+    "https://note.com/local_gover_res3/n/nea761264e0b2"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "公設試験研究所 X 投稿",
+   "results": [
+    "https://www.iri-tokyo.jp/information/sns/",
+    "https://www.kistec.jp/aboutus/official_sns/",
+    "https://x.com/AIST_JP",
+    "https://www.aist.go.jp/aist_j/public/aist_sns/twitter_aist_jp_policy.html",
+    "https://orist.jp/orist/events/seminar/2026/162054/2026120701.html",
+    "https://www.kouiki-kansai.jp/koikirengo/jisijimu/sanshin/omonatorikumi/platform/9334.html",
+    "https://www.mit.pref.miyagi.jp/equipment/%E5%85%AC%E7%9B%8A%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BAjka%E3%81%8B%E3%82%89%E3%81%AE%E8%A3%9C%E5%8A%A9%E9%87%91%E3%81%AB%E3%82%88%E3%82%8A%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%9F%E8%A8%AD%E5%82%99/%E4%BB%A4%E5%92%8C5%E5%B9%B4%E5%BA%A6%E5%85%AC%E8%A8%AD%E5%B7%A5%E6%A5%AD%E8%A9%A6%E9%A8%93%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%AE%E8%A8%AD%E5%82%99%E6%8B%A1%E5%85%85%E8%A3%9C%E5%8A%A9%E4%BA%8B%E6%A5%AD/",
+    "https://www.kansai.meti.go.jp/2giki/sangiren/susume/2023kousetsushinosusume.pdf",
+    "https://kousetsushi.go.jp/kousetsushi/top"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "金属AM装置の保有（型番・製造元・台数・導入年）": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "用途・客の産業": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）",
+  "資本金・株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索14回）"
+ }
+}

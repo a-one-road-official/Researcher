@@ -1,0 +1,2159 @@
+{
+ "name": "Tech",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-11T00:18:26.579390+00:00",
+ "official_url": "https://www.happyrobot.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Build & orchestrate agents that automate communication-heavy work at enterprise scale.",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Production-ready in 4 weeks",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Agent performance is tested end-to-end before deployment and audited in production.",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-world experience builds context that is leveraged for insight and constant improvement.",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Self-improving agents",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "When one agent learns and improves anywhere, every agent gets better everywhere.",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "This is Enterprise Superintelligence.",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The context your agents capture compounds into a living model of your business that improves with every task.",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Put agents to work in your enterprise.",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot chases suppliers, monitors production and keeps shipments on track, so nothing stops the line.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor production schedules and delivery timelines, and notify customers of delays or changes before they ask.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "of production cycles.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize PO processing",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Automate supplier communications, modifications, confirmations, approvals, and record updates.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Coordinate product specification",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent a supplier delay from becoming a stockout.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "A late supplier does not just affect one PO. It breaks the production schedule, misses the replenishment window, and leaves planners, procurement, and store teams running on a plan that has already changed.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Our orchestration layer connects every stakeholder to the same live status. When a supplier misses an ECD, our agent calls for the updated date, alerts procurement, notifies planning, and logs the exception - before it throws production off schedule.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline candidate screening, interview coordination, and onboarding workflows.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for enterprise.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Define and measure success with enterprise-grade observability and version control.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Not a black box – AI auditor ensures tasks are completed as intended & proposes improvements.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "No data sharing. SOC 2 and GDPR compliant with safe staging environments and robust guardrails.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "For freight brokers and 3PLs, HappyRobot's AI agents book more loads, negotiate better rates, track every shipment, and collect documents without adding headcount.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Book more loads at better rates.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Capture inbound loads",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Counter offers with live market data and log every offered and accepted rate to find the ideal price range for every load.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Reactivate dormant leads",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Generate growth by re-engaging dormant leads and following up on open opportunities.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "It also logs negotiated prices - rate offered, rate accepted, lane - so over time, your team knows what the market will bear before they dial.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Notify on at-risk loads",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent a missed milestone from costing a delivery.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for enterprise.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Define and measure success with enterprise-grade observability and version control.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Not a black box – AI auditor ensures tasks are completed as intended & proposes improvements.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "No data sharing. SOC 2 and GDPR compliant with safe staging environments and robust guardrails.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Process service connections and moves",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Compare readings against history, accept customer submissions, and trigger re-reads when needed.",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Dispatch technicians faster & fully prepared",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Reach out before payments are due, confirm promise to pay or route to a plan, and escalate non-responses.",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Present eligible repayment options, capture agreements, monitor adherence, and chase missed installments.",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for enterprise.",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Define and measure success with enterprise-grade observability and version control.",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Not a black box – AI auditor ensures tasks are completed as intended & proposes improvements.",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "No data sharing. SOC 2 and GDPR compliant with safe staging environments and robust guardrails.",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Price the lane, send a quote, and book, amend or cancel the shipment in one thread.",
+    "url": "https://www.happyrobot.ai/solutions/industries/airlines",
+    "pass": 1
+   },
+   {
+    "quote": "Track shipments with proactive updates",
+    "url": "https://www.happyrobot.ai/solutions/industries/airlines",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for enterprise.",
+    "url": "https://www.happyrobot.ai/solutions/industries/airlines",
+    "pass": 1
+   },
+   {
+    "quote": "Define and measure success with enterprise-grade observability and version control.",
+    "url": "https://www.happyrobot.ai/solutions/industries/airlines",
+    "pass": 1
+   },
+   {
+    "quote": "Not a black box – AI auditor ensures tasks are completed as intended & proposes improvements.",
+    "url": "https://www.happyrobot.ai/solutions/industries/airlines",
+    "pass": 1
+   },
+   {
+    "quote": "No data sharing. SOC 2 and GDPR compliant with safe staging environments and robust guardrails.",
+    "url": "https://www.happyrobot.ai/solutions/industries/airlines",
+    "pass": 1
+   },
+   {
+    "quote": "Freeze compromised cards, activate new ones, reset PINs, and update limits within policy.",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Qualify corporate prospects",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Run outbound qualification, collect key business details, and hand off warm leads with full context.",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Submit AML cases, enforce GDPR and DORA process steps, log every action, and escalate breaches with full context.",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for enterprise.",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Define and measure success with enterprise-grade observability and version control.",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Not a black box – AI auditor ensures tasks are completed as intended & proposes improvements.",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "No data sharing. SOC 2 and GDPR compliant with safe staging environments and robust guardrails.",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot's AI agents settle claims faster, resolve policyholder requests on the first call, and recover premium before policies lapse.",
+    "url": "https://www.happyrobot.ai/solutions/industries/insurance",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Carrier sales · track & trace",
+    "url": "https://www.happyrobot.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Call customer locations to confirm pickup readiness, lock the time slot, and surface any conflicts before the driver arrives.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Answer parts, warranty and service inquiries",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Follow up on outstanding invoices, chase payment, and handle warranty claim conversations through to resolution.",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Nurture your carrier network",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Build relationships with carriers to to secure committed capacity at better rates in the future.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Match carrier ETAs to dock availability and confirm slots with both parties.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Contact the carrier, rebook the slot, and notify every affected party.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Call carriers at every milestone; log updated ETAs, flag exceptions, and alert the team before a delay becomes a miss.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "A missed carrier check-in does not stay with the dispatcher. It breaks the dock schedule, misses the delivery commitment, and leaves the shipper, DC, and ops team running on a plan that has already changed.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Our orchestration layer connects every stakeholder to the same live status. When a carrier misses a check-in, our agent calls the driver for an updated ETA, alerts the shipper, adjusts the dock appointment, and logs the exception before a human notices the gap.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Identify gaps post-delivery, chase carriers, and trigger billing once the file is complete.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Investigate disputed charges, correct billing errors, and arrange payments.",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Our orchestration layer spots, chases and escalates missing confirmations before they cascade. When a crew member drops, our agent finds a replacement and informs the gate when the substitute will arrive so the gate can time boarding.",
+    "url": "https://www.happyrobot.ai/solutions/industries/airlines",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot handles customer requests, automates compliance and back-office workflows, and drives revenue through renewals and collections.",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot's AI agents track orders, update customers, coordinate carriers, and fill store shifts without adding headcount.",
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Confirm vendor visits, track arrival, and flag missed marks to store leadership.",
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Our orchestration layer absorbs setbacks while keeping your teams informed. When a carrier misses a check-in, our agents contact the driver for an updated ETA, alert the dock team, adjust the receiving schedule, and flag affected SKUs to the store manager before the gap reaches the shelf.",
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier communications",
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "moving from carrier to shelf.",
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Check in with carriers at key milestones, collect live ETAs, and push updates to the dock team before anyone has to ask.",
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Align carrier and facility availability and confirm the slot — eliminating scheduling conflicts before they delay the unload.",
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Schedule carrier pickups, collect return documentation, and confirm the handoff — without the manual chase.",
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot's AI agents close subscriber requests on the first call, resolve faults on first contact, and grow revenue through every renewal.",
+    "url": "https://www.happyrobot.ai/solutions/industries/telecom",
+    "pass": 1
+   },
+   {
+    "quote": "200,000 Calls. Zero Extra Headcount. How Circle Logistics Scaled Carrier Sales with HappyRobot",
+    "url": "https://www.happyrobot.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "My order hasn't arrived and I'm away on Friday.",
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue from accounts that had gone quiet.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue creation, not just cost reduction",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Most AI sales tools optimize what your team already does. HappyRobot activates work your team can't get to — dormant accounts untouched for months, overflow leads that expire before anyone responds, deal volume that exceeds rep capacity. This isn't automation of existing workflows. It's revenue that didn't exist before.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Directly. Credits represent execution — every call made, every lead qualified, every deal booked. You compare the cost of credits against the revenue generated. The math is straightforward.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Outbound tracking workflows that reach every carrier, confirm every status, and flag every exception. No load goes untracked because of team capacity.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Vendor & Carrier Communication",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Every call, check-in, and status update adds to what your AI workforce knows about your carriers, vendors, and partners. HappyRobot captures behavior patterns, response preferences, and performance history — building persistent memory that makes every subsequent interaction more effective. When carriers know every load gets consistent, exception-free follow-up, their behavior changes.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "When carriers know every load receives consistent, exception-free follow-up, their behavior changes. When vendors know every repair gets tracked until resolution, response times improve. The systematic pressure of a system that never misses reshapes how your entire ecosystem operates.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "AI workers don't just execute — they learn. Carrier behavior patterns, vendor response times, scheduling preferences. The platform captures context from every interaction and applies it to the next. Operating procedures improve continuously at every touchpoint.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "delighting employees.",
+    "url": "https://www.happyrobot.ai/solutions/functions/hr-recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Structured interviews via phone or messaging when employees depart. AI workers capture detailed feedback on experience, departure drivers, and improvement opportunities.",
+    "url": "https://www.happyrobot.ai/solutions/functions/hr-recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "通知の要約から旅行の提案まで、「arrows Alpha」のarrows AIは“気が利くAI”だった",
+    "url": "https://news.mynavi.jp/article/20260224-4148070/",
+    "pass": 3
+   },
+   {
+    "quote": "Inzer developed a lifelong passion for drawing and graphic novels beginning in childhood, which shaped her creative pursuits as a bicultural Japanese-American. She drew inspiration from graphic novelists such as Lucy Knisley, whose travelogues influenced her approach to combining illustration and personal narrative.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Through interactions with family members and other individuals, as well as observations of contemporary Japanese culture, the narrative emphasizes the process of rediscovering personal roots while navigating the pleasures and challenges of independent exploration from a youthful viewpoint.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The illustrations are widely described as cute, expressive, and fitting for an adolescent narrator, with a youthful energy that balances humor and sincerity without appearing overly polished or amateurish.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Narrative structure and media mix",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Rather than following a traditional linear plot, the book adopts a loose, vignette-based narrative, with each section centering on specific locations, fleeting moments, personal anecdotes, and quirky observations from daily life.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Inzer's charming, colorful illustrations receive consistent acclaim for their visual appeal and ability to bring stories to life, with the combination of drawings and photographs adding authenticity and emotional depth to the narrative.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The book has appeared in library collections and teen reading recommendations, including digital lending platforms and diverse book lists aimed at young readers exploring cultural narratives.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "\"WIPO Global Innovation Index 2026: Switzerland, Sweden, US, Republic of Korea and Singapore Top Ranking; AI Reshaping Innovation Investments as Deep Science Startups Top $7.6 Trillion\"",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "When relocation is a challenge, we support the HR and payroll services for your full time employees so that you can focus on building great things together!",
+    "url": "https://www.talendy.world/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive OEM Drives $605K in Revenue with AI-Powered Salesforce Support",
+    "url": "https://www.techmahindra.com/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "about Automotive OEM Drives $605K in Revenue with AI-Powered Salesforce Support",
+    "url": "https://www.techmahindra.com/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "could lead to significant warranty costs and delivery delays. Traditional inspection methods, which relied heavily on human supervisors and post-production audits, struggled to keep up with the velocity and complexity of manufacturing operations. Moreover,",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Paper-based systems slowed production and compliance, with delays costing millions annually in lost revenue.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Leveraging TechInsights' array of technical analysis and cost models to gain valuable insights into advanced packaging and interposer technologies",
+    "url": "https://www.techinsights.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how a company's strategic acquisition aimed at expanding into high-growth sectors like security and smart home led to integration of vendors, pricing, and supply chain optimization.",
+    "url": "https://www.techinsights.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Opportunity to build additional revenue streams around the products through professional services.",
+    "url": "https://www.vizrt.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Meta acquired \"Conductor,\" an app that runs multiple AI coding agents in parallel (Nov 4). The acquisition price was not disclosed.",
+    "url": "https://note.com/noridea/n/n7a7ed1f48167?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A major tech company has acquired software that acts as a \"controller\" to manage and bundle AI from other companies (Multiple reports; TechCrunch stated that Meta confirmed the acquisition).",
+    "url": "https://note.com/noridea/n/n7a7ed1f48167?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "US Market Summary November 6, 2026: Tech stocks rebound with Nasdaq up 1.09%, employment statistics significantly exceed expectations｜元金融系夫婦が叶える1億円投資",
+    "url": "https://note.com/moto_kinyu_fufu/n/nbf37a24905b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "US Market Summary November 6, 2026: Tech stocks rebound with Nasdaq up 1.09%, employment statistics significantly exceed expectations",
+    "url": "https://note.com/moto_kinyu_fufu/n/nbf37a24905b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The US market on Friday, November 6, saw a rebound in the S&P 500 and Nasdaq as tech stocks, which had plummeted the previous day, saw buying interest.",
+    "url": "https://note.com/moto_kinyu_fufu/n/nbf37a24905b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NASDAQ Composite: 24,579.43 (+1.09%)",
+    "url": "https://note.com/moto_kinyu_fufu/n/nbf37a24905b2?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "AI Agents for Manufacturers & Suppliers | HappyRobot",
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "pass": 1
+   },
+   {
+    "quote": "Dispatch technicians faster & fully prepared",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Match technicians to jobs by skill and availability, manage appointments, and send access instructions.",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "Support technicians on the job",
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "pass": 1
+   },
+   {
+    "quote": "A missed delivery window does not stay in the warehouse. It hits the dock schedule, pulls inventory off the shelf, breaks the online availability count, and triggers customer contacts — all without teams in charge realizing it.",
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "pass": 1
+   },
+   {
+    "quote": "AI Agents for Telecom Operators | HappyRobot",
+    "url": "https://www.happyrobot.ai/solutions/industries/telecom",
+    "pass": 1
+   },
+   {
+    "quote": "Triage incidents & dispatch technicians",
+    "url": "https://www.happyrobot.ai/solutions/industries/telecom",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 150+ Enterprise Customers",
+    "url": "https://www.happyrobot.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 150+ Enterprise Customers",
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 150+ Enterprise Customers",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 150+ Enterprise Customers",
+    "url": "https://www.happyrobot.ai/solutions/functions/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Am I speaking with the accounts payable lead at Quorlen Industrial?",
+    "url": "https://www.happyrobot.ai/solutions/functions/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 150+ Enterprise Customers",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot integrates natively with major transportation and warehouse management systems, dispatch platforms, and any system your team uses. AI workers operate within your existing stack.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 150+ Enterprise Customers",
+    "url": "https://www.happyrobot.ai/solutions/functions/hr-recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse shift, Saturday 06:00. 3 of 12 unconfirmed.",
+    "url": "https://www.happyrobot.ai/solutions/functions/hr-recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse associate · Screened on Aug 12",
+    "url": "https://www.happyrobot.ai/solutions/functions/hr-recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "has helped fuel the rapid industrial and economic development of the country.",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", and many other fields. Japan is also advanced and a global leader in the robotics, natural sciences, aerospace exploration and biomedical research areas. In 2025, Japan was ranked 12th in the",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2003 through the merging of three aerospace organisations (Institute of Space and Astronautical Science, National Aerospace Laboratory, and the National Space Development Agency of Japan), the",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Aerospace Exploration Agency",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". JAXA has developed a series of rockets in conjunction with Japanese heavy manufacturers such as",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Onagawa Nuclear Power Plant",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", a 3-unit BWR site typical of Japan's nuclear plants",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Fukushima I Nuclear Power Plant",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "km of the plant were evacuated. See",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "On the centennial anniversary of the creation of the industrial rights system in 1985, the Japan Patent Office selected ten Japanese inventors whose inventions helped contribute to Japan's rapid industrial development and scientific research. These inventors are:",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese automotive industry",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial policy of Japan",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Automobile Manufacturers Association",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive OEM Drives $605K in Revenue with AI-Powered Salesforce Support",
+    "url": "https://www.techmahindra.com/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "about Automotive OEM Drives $605K in Revenue with AI-Powered Salesforce Support",
+    "url": "https://www.techmahindra.com/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Global Logistics Provider Unifies Warehouse Operations and Unlocks $2M+ in Annual Savings",
+    "url": "https://www.techmahindra.com/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "about Leading Global Logistics Provider Unifies Warehouse Operations and Unlocks $2M+ in Annual Savings",
+    "url": "https://www.techmahindra.com/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "10 Manufacturing Case Studies [Detailed Review] [2026] - DigitalDefynd Education",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "10 Manufacturing Case Studies [Detailed Review] [2026]",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The manufacturing sector is undergoing a seismic transformation, driven by digital innovation, sustainability imperatives, and the need for operational resilience. In this fast-evolving landscape,",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": ", offering valuable insights into how global leaders are solving complex challenges using cutting-edge technology. From aerospace and automotive to consumer goods and pharmaceuticals, the",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "10 compelling manufacturing case studies",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "By examining these success stories, manufacturing leaders, engineers, and digital transformation teams can extract",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "in real production environments. If you’re looking to future-proof your manufacturing operations, these case studies are a powerful starting point.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 1: Tesla’s AI‑Enhanced Smart Factory and Predictive Quality Control",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Tesla’s Gigafactories achieved over 92% production automation by 2025, reducing defect rates by 34% and improving line efficiency by 27% across key manufacturing hubs globally.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "As Tesla scaled up its Gigafactory operations to meet soaring demand for electric vehicles, a major challenge emerged:",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": ". With thousands of vehicles rolling off production lines weekly, even a",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "could lead to significant warranty costs and delivery delays. Traditional inspection methods, which relied heavily on human supervisors and post-production audits, struggled to keep up with the velocity and complexity of manufacturing operations. Moreover,",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-enhanced manufacturing system",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "at over 500 inspection points across its Gigafactories. These systems could detect microscopic surface defects, alignment errors, and part mismatches in real time—achieving up to",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "to analyze operational data across the supply chain and shop floors. Each Gigafactory was equipped with a",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Data from manufacturing sensors, cameras, and supplier feedback were aggregated through Tesla’s proprietary AI cloud platform. This allowed cross-functional teams to",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Within a year of deployment, Tesla’s AI-driven smart manufacturing ecosystem yielded substantial results.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": ", directly contributing to improved customer satisfaction scores. The integration of smart factory systems also translated into",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "across three primary Gigafactories.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "redefine modern manufacturing standards",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "High Paying Jobs in Manufacturing Industry",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study 2: Siemens & Foxconn – Smart Manufacturing and Digital Factory Optimization",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "By 2025, Foxconn operated more than 200 smart production lines globally, while Siemens’ industrial automation technologies supported over 75% of the world’s top electronics manufacturers.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Complex, high-mix electronics manufacturing resulted in rising defect rates and productivity gaps exceeding 15%.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Foxconn, the world’s largest electronics manufacturer, faced growing pressure from",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how a leading EV manufacturer used TechInsights' Semiconductor Manufacturing Economics (SME) to reduce chip costs, benchmark suppliers, and strengthen negotiation strategies. Learn how SME can support your sourcing decisions.",
+    "url": "https://www.techinsights.com/case-studies",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Reply to email quote requests within seconds to increase win rates on time-sensitive lanes.",
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "pass": 1
+   },
+   {
+    "quote": "Triage emails, extract document data, and reconcile trades - without adding headcount.",
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot AI workers operate across voice, web chat, email, and messaging — handling conversations in your customers' language, on their schedule. They integrate directly with your ticketing systems, CRMs, and databases to take action, not just answer questions.",
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Every call, chat, and email adds to what your AI workforce knows about your customers. When a customer reaches out, your AI worker already knows who they are, what they called about last time, and what's still outstanding. No repeated explanations. No cold handoffs. The longer it runs, the better it gets.",
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Email · Return label sent",
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike point solutions built for one channel or one function, HappyRobot operates across voice, chat, email, and SMS in any language from a single platform. A customer who calls about an outage gets their ticket created, their technician scheduled, and their follow-up sent. One interaction. Full resolution. Point solutions can't do this — they're architecturally incapable of it.",
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "Chatbots follow scripts and deflect to humans when things get complex. HappyRobot's AI workers reason through problems, take action across systems, and resolve issues end-to-end — across voice, chat, email, and SMS.",
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot's AI workers reengage accounts, qualify inbound leads, and book deals autonomously — across voice, email, and messaging. Your reps focus on the relationships that need them.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot AI workers run outbound prospecting, inbound qualification, and autonomous booking across phone, email, and messaging. They integrate directly with your CRM and quoting systems to take action — not just pass along information.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Quote sent by email: $2,150 per load, inside the approved rate range.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Wants every quote confirmed by email.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Email · Lane quote sent · DAL–ATL",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike point solutions built for one channel, HappyRobot operates across voice, email, and messaging from a single platform. A prospect who calls gets qualified, quoted, and booked in one interaction. A dormant account gets a phone call, a follow-up email, and a scheduled meeting — all coordinated by the same AI worker with full context.",
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot AI workers run collections workflows across voice, email, and messaging — verifying identities, presenting invoices, capturing payment commitments, and recovering documents. They integrate directly with your ERP and billing systems to take action, not just send reminders.",
+    "url": "https://www.happyrobot.ai/solutions/functions/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Every call, email, and message adds to what your AI workforce knows about your accounts. HappyRobot captures payment patterns, contact preferences, and dispute history — building persistent memory that improves every subsequent interaction. When an AI worker reaches out about a past-due invoice, it already knows the customer's payment behavior, preferred channel, and what worked last time.",
+    "url": "https://www.happyrobot.ai/solutions/functions/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Pays within days of a call, rarely after email alone.",
+    "url": "https://www.happyrobot.ai/solutions/functions/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Email · Statement sent",
+    "url": "https://www.happyrobot.ai/solutions/functions/finance",
+    "pass": 1
+   },
+   {
+    "quote": "HappyRobot AI workers handle the coordination-heavy work that keeps operations running — scheduling appointments, tracking deliveries, and managing maintenance across phone, email, and messaging. They integrate directly with your TMS, WMS, and dispatch systems to take action, not just send updates.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "AI workers manage full scheduling interactions — outreach, availability confirmation, booking, reschedules, and system updates. Across phone, email, message, or portal.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Wants rate confirmations by email, PDF attached.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Phone, email, SMS, web chat, WhatsApp, and API integrations with third-party portals. AI workers use whatever channel your partners and vendors prefer.",
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "pass": 1
+   },
+   {
+    "quote": "Shift scheduling · Email",
+    "url": "https://www.happyrobot.ai/solutions/functions/hr-recruiting",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Yes. Conversations are tailored to your culture, tone, and communication standards. AI workers sound like your organization — warm, professional, and consistent with your brand.",
+    "url": "https://www.happyrobot.ai/solutions/functions/hr-recruiting",
+    "pass": 1
+   },
+   {
+    "quote": "through various institutes and agencies including the",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive OEM Drives $605K in Revenue with AI-Powered Salesforce Support",
+    "url": "https://www.techmahindra.com/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "about Automotive OEM Drives $605K in Revenue with AI-Powered Salesforce Support",
+    "url": "https://www.techmahindra.com/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Predictive models were customized for each machine type based on historical maintenance logs, OEM guidelines, and operational context. When abnormal patterns were detected, the system generated alerts for preemptive interventions. Maintenance teams received real-time diagnostics, enabling them to schedule repairs during planned downtime windows rather than react to emergencies.",
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A market-leading 5G smartphone OEM needed to understand leading-edge sensor technology used in competitive handsets to determine the best products to include in their upcoming smartphone launches.",
+    "url": "https://www.techinsights.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how a market leader in 5G mobile platforms uses competitive benchmarking to identify growth opportunities and maintain an edge in the smartphone OEM market.",
+    "url": "https://www.techinsights.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program - Resellers, Integrators & Tech Partners | Vizrt",
+    "url": "https://www.vizrt.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Vizrt Partner Program",
+    "url": "https://www.vizrt.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Attractive reseller discounts with performance rebates and additional discounts, marketing development funds, marketing support and lead distribution from Vizrt.",
+    "url": "https://www.vizrt.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "A Partner Program for",
+    "url": "https://www.vizrt.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "The partner program is segmented into the following categories, and you can certify to sell the categories that fit your target customers",
+    "url": "https://www.vizrt.com/partner-program/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Tech Trends 2026 日本版 | デロイト トーマツ グループ",
+    "url": "https://www.deloitte.com/jp/ja/services/consulting/about/tech-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、各テーマに対応する日本企業に向けた見解を、別冊の日本版Perspectiveにて日本のコンサルタントが解説しています",
+    "url": "https://www.deloitte.com/jp/ja/services/consulting/about/tech-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル版は17回目、日本版は12回目の発行となる本レポートを通して、日本企業がテクノロジー活用の加速に向けたプランの検討に活用されることを期待しています",
+    "url": "https://www.deloitte.com/jp/ja/services/consulting/about/tech-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Trends 2026 日本版 本編",
+    "url": "https://www.deloitte.com/jp/ja/services/consulting/about/tech-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Trends 2026 日本版 Perspective（抜粋版）",
+    "url": "https://www.deloitte.com/jp/ja/services/consulting/about/tech-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の経営層は、デロイトの『Tech Trends 2026』をどう読み、自社の変革にどう引き寄せるべきなのか",
+    "url": "https://www.deloitte.com/jp/ja/services/consulting/about/tech-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "パナソニック ホールディングス株式会社 執行役員 グループCIOの近田英靖氏と、デロイト トーマツの中川貴雄、武野淳、木下達也が議論を交わした",
+    "url": "https://www.deloitte.com/jp/ja/services/consulting/about/tech-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tech Trends 2025 日本版",
+    "url": "https://www.deloitte.com/jp/ja/services/consulting/about/tech-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "「Tech Trends 2025 日本版」では生成AI時代のテクノロジートレンドを分析",
+    "url": "https://www.deloitte.com/jp/ja/services/consulting/about/tech-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "高い競争優位性をもたらすであろう生成AIの活用における日本企業への示唆を独自の視座から展望する",
+    "url": "https://www.deloitte.com/jp/ja/services/consulting/about/tech-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "デロイト トーマツ パートナーの下川憲一、ディレクターの上平安紘、高田普丈に、日本企業が抱える課題とCoE 2.0の要諦について話を聞いた",
+    "url": "https://www.deloitte.com/jp/ja/services/consulting/about/tech-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIの導入はいっそう進展、遅れていた日本企業での投資も増加へ - Lenovo Tech World Japan 2026 | マイナビニュース",
+    "url": "https://news.mynavi.jp/article/20260224-4148070/",
+    "pass": 3
+   },
+   {
+    "quote": "AIの導入はいっそう進展、遅れていた日本企業での投資も増加へ - Lenovo Tech World Japan 2026",
+    "url": "https://news.mynavi.jp/article/20260224-4148070/",
+    "pass": 3
+   },
+   {
+    "quote": "レノボ・ジャパンは2月17日、都内で「Lenovo Tech World Japan 2026」を開催し、先駆けてメディア向けの説明会が行われた",
+    "url": "https://news.mynavi.jp/article/20260224-4148070/",
+    "pass": 3
+   },
+   {
+    "quote": "展開中の「Smarter AI for All」について解説するというもので、これまで遅れが目立っていた日本のAI導入にも大きな波が来つつあると言及された",
+    "url": "https://news.mynavi.jp/article/20260224-4148070/",
+    "pass": 3
+   },
+   {
+    "quote": "レノボは2005年から20年以上にわたって日本事業に注力してきたと述べ、ThinkPadのグローバル開発拠点である大和ラボについて言及",
+    "url": "https://news.mynavi.jp/article/20260224-4148070/",
+    "pass": 3
+   },
+   {
+    "quote": "日本での事業も20年を超えた",
+    "url": "https://news.mynavi.jp/article/20260224-4148070/",
+    "pass": 3
+   },
+   {
+    "quote": "また、これまで導入が遅々として進んでいないといわれてきた日本企業においても、AIの導入がいよいよ本格化してきたとのこと",
+    "url": "https://news.mynavi.jp/article/20260224-4148070/",
+    "pass": 3
+   },
+   {
+    "quote": "Diary of a Tokyo Teen: A Japanese-American Girl Draws Her Way Across the Land of Trendy Fashion, High-Tech Toilets and Maid Cafes (book) — Grokipedia",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Diary of a Tokyo Teen: A Japanese-American Girl Travels to the Land of Trendy Fashion, High-Tech Toilets and Maid Cafes",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Born in Tokyo in 1997 to a Japanese mother and an American father, Inzer spent her early years in Japan before relocating to the United States in 2003.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "At age fifteen, during the summer before turning sixteen, she returned to Japan alone for an eight-week trip to reconnect with her birthplace, documenting her experiences through handwritten musings, original full-color illustrations, photographs, and personal anecdotes.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The book offers a humorous and candid teenage perspective on modern Japanese culture, blending cultural observations with lighthearted reflections on rediscovering her Japanese roots.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Inzer's journey takes her through Tokyo's Harajuku district for cutting-edge fashion, the Tsukiji fish market for exceptional sushi, Kyoto in search of geisha, and various other urban and rural locations, while encountering quirky elements like high-tech toilets and maid cafés along the way.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The work combines self-deprecating humor, vivid drawings, and honest accounts of travel challenges and joys, appealing to comic enthusiasts, Japanophiles, and young adult readers interested in personal cultural exploration.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Christine Mari Inzer was born in Tokyo in 1997 to a Japanese mother and an American father.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "She spent her early childhood in Japan before relocating to the United States with her family in 2003 at the age of 5.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Inzer developed a lifelong passion for drawing and graphic novels beginning in childhood, which shaped her creative pursuits as a bicultural Japanese-American. She drew inspiration from graphic novelists such as Lucy Knisley, whose travelogues influenced her approach to combining illustration and personal narrative.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "At age 15, Inzer took a solo trip to Japan that inspired Diary of a Tokyo Teen; she self-published an early version of the work at age 17 before its official release by Tuttle Publishing in 2016 when she was 19.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Diary of a Tokyo Teen",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "originated as an illustrated journal that Christine Mari Inzer created during an eight-week solo trip to Japan the summer before she turned sixteen.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Her father encouraged her to document the experience in a travelogue format to help her reconnect with her Japanese heritage.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Halfway Home: Drawing My Way Through Japan",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "is an illustrated travelogue that documents the solo summer journey of a 15-year-old Japanese-American girl to Japan, undertaken to reconnect with her birthplace after her family relocated to the United States when she was six years old.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Born in Tokyo in 1997 to a Japanese mother and an American father, the author, Christine Mari Inzer, returns to explore the country independently nearly a decade later, blending nostalgia for her early childhood with fresh discoveries as a teenager.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The book structures her experiences as a mix of reflective musings, anecdotes, illustrations, and photographs that capture both the excitements and occasional difficulties of solo travel across Tokyo and other regions.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Through interactions with family members and other individuals, as well as observations of contemporary Japanese culture, the narrative emphasizes the process of rediscovering personal roots while navigating the pleasures and challenges of independent exploration from a youthful viewpoint.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The overall tone remains humorous, honest, and distinctly personal, offering an accessible teenage perspective on cultural reconnection and self-discovery in modern Japan.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Inzer's two-month trip to Japan the summer before her sixteenth birthday centered on staying with her grandparents in Kashiwa, Chiba Prefecture, a suburban area outside Tokyo, where she participated in a local summer matsuri festival and shared family meals such as fresh sashimi and katsudon.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "From this base, she made excursions into Tokyo, immersing herself in the vibrant Harajuku district to observe and document its cutting-edge street fashion, crossing the iconic Shibuya scramble at night (one of her favorite experiences), and visiting the Tsukiji fish market to eat what she called the best sushi of her life.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "explores the author's bicultural identity as a Japanese-American who was born in Tokyo but raised primarily in the United States after moving there at age five.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Inzer describes the challenges of her mixed heritage, noting that it can be difficult to feel fully at home in either country: in Japan, people notice she is not entirely Japanese, while in America her Japanese background sometimes makes her feel different.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "The trip to Japan becomes an emotional journey of reconnecting with her Japanese roots, which she previously understood only peripherally due to her American upbringing.",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Science and technology in Japan - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Ten Japanese Great Inventors",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Science and technology in Japan",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Experiment Module",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". Japan's educational system as well as its higher education institutions help contribute to the country's acceptance for technological innovation and aid",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "High levels of support for research and development have enabled Japan to produce advances in",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", and many other fields. Japan is also advanced and a global leader in the robotics, natural sciences, aerospace exploration and biomedical research areas. In 2025, Japan was ranked 12th in the",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Scientific research in Japan is supported and promoted by the",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Science and Technology Agency",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Science Council of Japan",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2003 through the merging of three aerospace organisations (Institute of Space and Astronautical Science, National Aerospace Laboratory, and the National Space Development Agency of Japan), the",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Aerospace Exploration Agency",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ". JAXA has developed a series of rockets in conjunction with Japanese heavy manufacturers such as",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan also sends several astronauts to work in the ISS and help other international collaborators with space research and technology transfers. Since 1990, twelve Japanese individuals have participated in space flights, two of whom were women. Two Japanese astronauts also served as commanders of the ISS, with the last being",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "In recent years, Japan's Hayabusa2 spacecraft has been used to collect samples from a near-Earth asteroid called Ryugu and back to Earth for research and analysis. The 6-year mission ended in 2020.",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Nuclear power in Japan",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": ", a 3-unit BWR site typical of Japan's nuclear plants",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Tech Trends 2026 日本版 | デロイト トーマツ グループ — 日本企業の経営層は、デロイトの『Tech Trends 2026』をどう読み、自社の変革にどう引き寄せるべきなのか。パナソニック ホールディングス株式会社 執行役員 グループCIOの近田英靖氏と、デロイト トーマツの中川貴雄、武野淳、木下達也が議論を交わした。",
+    "url": "https://www.deloitte.com/jp/ja/services/consulting/about/tech-trends.html",
+    "pass": 3
+   },
+   {
+    "quote": "AIの導入はいっそう進展、遅れていた日本企業での投資も増加へ - Leno... — Feb 24, 2026 · レノボ・ジャパンは2月17日、都内で「Lenovo Tech World Japan 2026」を開催し、先駆けてメディア向けの説明会が行われた。",
+    "url": "https://news.mynavi.jp/article/20260224-4148070/",
+    "pass": 3
+   },
+   {
+    "quote": "Diary of a Tokyo Teen: A Japanese-American Girl Draws Her Way Across the Land of Trendy Fashion, High-Tech Toilets and Maid Cafes (book) — Diary of a Tokyo Teen: A Japanese-American Girl Travels to the Land of Trendy Fashion, High-Tech Toilets and Maid Cafes is a graphic travel memoir written and illustrated by Christine Mari Inzer, published by Tuttle Publishing in 2016. Born in Tokyo…",
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "pass": 3
+   },
+   {
+    "quote": "Science and technology in Japan - Wikipedia — Japan has a long history and tradition for research and development, stretching as far back as the Meiji period. However, science and technology developed rapidly after the Second World War, which has affected the advancement of vehicle technology, consumer electronics, robotics, medical devices, space exploration, and film industry.",
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Talendy by Tech Japan — After the internship program, we decided to offer full-time positions to two of them. Considering their technical skills and contributions to our projects, we believe they possess a level of talent that would be nearly impossible to find within Japan.",
+    "url": "https://www.talendy.world/",
+    "pass": 3
+   },
+   {
+    "quote": "Science & Technology | The Government of Japan - JapanGov - — Jun 5, 2026 · Reporting developments in Japan’s cutting-edge tech such as robotics, AI, and quantum computing, and including interviews with Nobel laureates.",
+    "url": "https://www.japan.go.jp/kizuna/category/science_technology.html",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Tech Mahindra — Explore Tech Mahindra case studies to see how AI, cloud and digital transformation solve industry challenges and deliver business results.",
+    "url": "https://www.techmahindra.com/insights/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | TechInsights — Oct 28, 2026 · Using TechInsights Advanced Packaging to Distinguish Product Offerings from Competitors TechInsights’ data-rich content, delivered through white papers, case studies, and webinars, enabled the customer's marketing department to demonstrate thought leadership in Advanced Packaging.",
+    "url": "https://www.techinsights.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "10 Digital Transformation in Manufacturing Case Studies [2026] — Explore Digital Transformation in Manufacturing case studies showcasing success stories across various industries and technologies.",
+    "url": "https://digitaldefynd.com/IQ/digital-transformation-in-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program - Resellers, Integrators & Tech Partners | Vizrt — Join the Vizrt Partner Network. Access exclusive sales resources, training, and certification for authorized resellers, system integrators, and tech partners.",
+    "url": "https://www.vizrt.com/partner-program/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Tech News Daily: Thursday, November 5, 2026｜nori 5 days ago · A major tech company has acquired software that acts as a \"controller\" to manage and bundle AI from other companies (Multiple reports; TechCrunch stated that Meta confirmed the acquisition). Uber explained during its earnings call (Nov 4) that bookings via AI agents amounted to only 4 rides and 500 food deliveries during Halloween week.",
+    "url": "https://note.com/noridea/n/n7a7ed1f48167?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "US Market Summary November 6, 2026: Tech stocks rebound with ... 4 days ago · US Market Summary November 6, 2026: Tech stocks rebound with Nasdaq up 1.09%, employment statistics significantly exceed expectations",
+    "url": "https://note.com/moto_kinyu_fufu/n/nbf37a24905b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2026.11.9｜mitateca - note（ノート） 3. Silicon Valley Tech Moving on to Silicon Valley and tech news. AI company Anthropic has announced its new models, \"Claude Fable 5.2\" and \"Claude Mythos 5.2.\" They are a two-pronged release that uses the same base model but can be used for different purposes. According to the company, reasoning and coding are clearer than in previous versions, response speeds are u",
+    "url": "https://note.com/mitateca/n/n98651aec4367?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Tech News Daily: Thursday, November 5, 2026｜nori",
+    "url": "https://note.com/noridea/n/n7a7ed1f48167?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tech News Daily: Thursday, November 5, 2026",
+    "url": "https://note.com/noridea/n/n7a7ed1f48167?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While it is said that we are in an era where AI does our shopping for us, there were only four ride bookings made via AI during Uber's busiest week. Meanwhile, attacks targeting AI keys are spreading, and global semiconductor sales have increased by 24% in a single quarter. This daily report summarizes the developments of the past day, focusing on generative AI investments and new trends, includin",
+    "url": "https://note.com/noridea/n/n7a7ed1f48167?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Coverage period: Morning of Nov 4 to morning of Nov 5 (Japan Standard Time) (there are few articles dated Nov 5, so this effectively covers up to Nov 4). Follow-ups to stories included in previous reports are marked as [Follow-up].",
+    "url": "https://note.com/noridea/n/n7a7ed1f48167?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Accuracy notation: Official announcement / Confirmed by multiple reports / Single report.",
+    "url": "https://note.com/noridea/n/n7a7ed1f48167?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Items where the original official website could not be opened are explicitly noted as being based on media reports.",
+    "url": "https://note.com/noridea/n/n7a7ed1f48167?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Meta acquired \"Conductor,\" an app that runs multiple AI coding agents in parallel (Nov 4). The acquisition price was not disclosed.",
+    "url": "https://note.com/noridea/n/n7a7ed1f48167?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A major tech company has acquired software that acts as a \"controller\" to manage and bundle AI from other companies (Multiple reports; TechCrunch stated that Meta confirmed the acquisition).",
+    "url": "https://note.com/noridea/n/n7a7ed1f48167?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "US Market Summary November 6, 2026: Tech stocks rebound with Nasdaq up 1.09%, employment statistics significantly exceed expectations｜元金融系夫婦が叶える1億円投資",
+    "url": "https://note.com/moto_kinyu_fufu/n/nbf37a24905b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "US Market Summary November 6, 2026: Tech stocks rebound with Nasdaq up 1.09%, employment statistics significantly exceed expectations",
+    "url": "https://note.com/moto_kinyu_fufu/n/nbf37a24905b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is \"100 Million Yen Investment Realized by a Former Financial Couple.\"",
+    "url": "https://note.com/moto_kinyu_fufu/n/nbf37a24905b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We are currently a couple in our 40s continuing to build assets with the goal of reaching 100 million yen in financial assets and traveling around the world.",
+    "url": "https://note.com/moto_kinyu_fufu/n/nbf37a24905b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The US market on November 6 in a nutshell",
+    "url": "https://note.com/moto_kinyu_fufu/n/nbf37a24905b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The US market on Friday, November 6, saw a rebound in the S&P 500 and Nasdaq as tech stocks, which had plummeted the previous day, saw buying interest.",
+    "url": "https://note.com/moto_kinyu_fufu/n/nbf37a24905b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On the other hand, the NY Dow fell slightly, making it a day where fortunes varied by index.",
+    "url": "https://note.com/moto_kinyu_fufu/n/nbf37a24905b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Although things calmed down the day after a large drop, it was a tough week overall.",
+    "url": "https://note.com/moto_kinyu_fufu/n/nbf37a24905b2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Good morning! It is Monday, November 9th, and time for the \"California Update.\" Today, we are bringing you a packed summary covering California state politics, local Bay Area news, Silicon Valley tech developments, and culture! Let's get started right away.",
+    "url": "https://note.com/mitateca/n/n98651aec4367?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "TechCrunch (@TechCrunch) / X Technology news and analysis with a focus on founders and startup teams. Got a tip? https://t.co/J0WxnZxSRY",
+    "url": "https://x.com/techcrunch",
+    "pass": 3
+   },
+   {
+    "quote": "Bloomberg Technology (@technology) / X News on the global tech industry Watch Bloomberg Tech weekdays on Bloomberg TV at 11 am ET Podcast: bloom.bg/2jjIAPG Newsletter: bloom.bg/3E0V5LV",
+    "url": "https://x.com/technology",
+    "pass": 3
+   },
+   {
+    "quote": "Engineering - blog.x.com Oct 27, 2021 · Information from Twitter's engineering team about our tools, technology and services.",
+    "url": "https://blog.x.com/engineering/en_us",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tech Jobs in United States (11,000+ Open Roles) | LinkedIn Today’s top 11,000+ Tech jobs in United States. Leverage your professional network, and get hired. New Tech jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/tech-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Technology Jobs in United States (11,000+ Open Roles) | LinkedIn Today’s top 11,000+ Technology jobs in United States. Leverage your professional network, and get hired. New Technology jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/technology-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Paul Mozur - Global Tech Correspondent at The New York Times ...Damien Lefebvre - Head of Sales at Prizmal and Tech ...Saurabh Jha - SVP | Global P&L Leader | Business ...Project Management Trainee tại EON TECH — Ho Chi Minh City ... Global Tech Correspondent at The New York Times · Technology is reshaping power and politics around the world. As the global technology correspondent for The New York",
+    "url": "https://tw.linkedin.com/in/paulmozur",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "The Tech Interactive | San Jose CA - FacebookTech at Meta: AI, AR/VR, Connectivity, Innovation - Tech at MetaTech at MetaInsider Tech - FacebookSilicon Valley Tech | FacebookTech Providers - Meta for DevelopersTechcliques - Facebook Oct 23, 2026 · The Tech Interactive, San Jose. 30,180 followers · 187 talking about this · 100,306 were here. San Jose's Science Center since '98 李⚗️ News about the te",
+    "url": "https://www.facebook.com/TheTechInteractive/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech at Meta: AI, AR/VR, Connectivity, Innovation - Tech at Meta News about the technology Meta researchers and engineers are building, in particular AI, virtual reality, augmented reality, engineering, and gaming.",
+    "url": "https://tech.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Tech at Meta https://tech.facebook.com/Stay up to date on the latest tech Meta is building and hear from top thought leaders across AI, AR/VR, engineering, connectivity and gaming ...",
+    "url": "https://tech.facebook.com/feed/",
+    "pass": 3
+   },
+   {
+    "quote": "Insider Tech - FacebookSilicon Valley Tech | FacebookTech Providers - Meta for DevelopersTechcliques - Facebook Oct 23, 2026 · Insider Tech. 14,457,427 followers · 11,751 talking about this. Tech Insider is brought to you by Business Insider, a global newsroom covering business, technology, and the economy. We break down... Aug 27, 2020 · Silicon Valley Tech Networking Hub Welcome to the Silicon V",
+    "url": "https://www.facebook.com/techinsider/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・本文）": [
+   {
+    "quote": "Tech at Meta: AI, AR/VR, Connectivity, Innovation - Tech at Meta",
+    "url": "https://tech.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Bringing the future into focus",
+    "url": "https://tech.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Meta CTO & Head of Reality Labs Andrew Bosworth reflects on how far our industry has come — and on why things are about to accelerate once again.",
+    "url": "https://tech.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Boz to the Future Episode 14: The Future According to Jason Rubin",
+    "url": "https://tech.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The Making of Ray-Ban Stories",
+    "url": "https://tech.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ray-Ban Stories Adds New Features and Support for Meta Accounts",
+    "url": "https://tech.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "From servers to silicon, how Meta infrastructure VP Alexis Bjorlin is building the foundation for the company’s A.I.-driven future",
+    "url": "https://tech.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Meta x BMW Research Update: Taking AR/VR Experiences on the Road",
+    "url": "https://tech.facebook.com/",
+    "pass": 3
+   },
+   {
+    "quote": "https://tech.facebook.com/",
+    "url": "https://tech.facebook.com/feed/",
+    "pass": 3
+   },
+   {
+    "quote": "Stay up to date on the latest tech Meta is building and hear from top",
+    "url": "https://tech.facebook.com/feed/",
+    "pass": 3
+   },
+   {
+    "quote": "thought leaders across AI, AR/VR, engineering, connectivity and gaming.",
+    "url": "https://tech.facebook.com/feed/",
+    "pass": 3
+   },
+   {
+    "quote": "Wed, 07 Jun 2023 07:40:56 -0700",
+    "url": "https://tech.facebook.com/feed/",
+    "pass": 3
+   },
+   {
+    "quote": "Boz to the Future Episode 14: The Future According to Jason Rubin",
+    "url": "https://tech.facebook.com/feed/",
+    "pass": 3
+   },
+   {
+    "quote": "https://tech.facebook.com/reality-labs/2023/6/boz-to-the-future-episode-14-the-future-according-to-jason-rubin/",
+    "url": "https://tech.facebook.com/feed/",
+    "pass": 3
+   },
+   {
+    "quote": "Wed, 07 Jun 2023 02:40:56",
+    "url": "https://tech.facebook.com/feed/",
+    "pass": 3
+   },
+   {
+    "quote": "<![CDATA['dept/ar-vr']]>",
+    "url": "https://tech.facebook.com/feed/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.happyrobot.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/industries/manufacturers-suppliers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/industries/logistics-providers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/industries/utilities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/industries/airlines",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/industries/financial-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/industries/insurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/industries/retail",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/industries/telecom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/functions/customer-support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/functions/sales",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/functions/finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/functions/operations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.happyrobot.ai/solutions/functions/hr-recruiting",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.happyrobot.ai/_next/image?url=https%3A%2F%2Fhappyrobot.b-cdn.net%2FCustomers_CMA_logo_01-3.png%3F2026-10-13T23%253A43%253A10.894Z&w=3840&q=100",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.happyrobot.ai/_next/image?url=https%3A%2F%2Fhappyrobot.b-cdn.net%2FCustomers_DHL_logo_01-1.png%3F2026-10-13T09%253A44%253A42.894Z&w=3840&q=100",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.happyrobot.ai/_next/image?url=%2Fimages%2Fcareers%2Flogos%2Fapple.png&w=3840&q=75&dpl=dpl_9eLv41rfJDsuiq6qbcKrEJbCLDtz",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.happyrobot.ai/_next/image?url=%2Fimages%2Fcareers%2Flogos%2Fuber.png&w=3840&q=75&dpl=dpl_9eLv41rfJDsuiq6qbcKrEJbCLDtz",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.deloitte.com/jp/ja/services/consulting/about/tech-trends.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.mynavi.jp/article/20260224-4148070/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ai-souken.com/article/ai-adoption-japan-status",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news032.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/TCC_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.talendy.world/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techmahindra.com/insights/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techinsights.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/noridea/n/n7a7ed1f48167?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/moto_kinyu_fufu/n/nbf37a24905b2?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mitateca/n/n98651aec4367?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/techcrunch",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/technology",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://blog.x.com/engineering/en_us",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/tech-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/technology-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tw.linkedin.com/in/paulmozur",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheTechInteractive/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tech.facebook.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tech.facebook.com/feed/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/techinsider/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tech 日本 導入",
+   "results": [
+    "https://www.deloitte.com/jp/ja/services/consulting/about/tech-trends.html",
+    "https://news.mynavi.jp/article/20260224-4148070/",
+    "https://www.ai-souken.com/article/ai-adoption-japan-status",
+    "https://www.itmedia.co.jp/enterprise/articles/2610/28/news032.html",
+    "https://www.generativeai.tokyo/media/ai-adoption-survey-2026-sme/",
+    "https://www.ai-news.biz/article/feature-67378873",
+    "https://kpmg.com/jp/ja/insights/2026/05/global-tech-report.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tech 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://www.tokyotechsales.com/?lang=jp",
+    "https://www.madgetech.jp/abouts/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Tech Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/TCC_Japan",
+    "https://grokipedia.com/page/diary_of_a_tokyo_teen_a_japanese_american_girl_draws_her_way_across_the_land_of_trendy_fashio_(book)",
+    "https://en.wikipedia.org/wiki/Science_and_technology_in_Japan",
+    "https://www.talendy.world/",
+    "https://www.japan.go.jp/kizuna/category/science_technology.html",
+    "https://www.techjapan.work/",
+    "https://www.talendy.world/candidates",
+    "https://hub.techjapan.work/",
+    "https://www.techjapan.work/about-us"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Tech manufacturing customer case study",
+   "results": [
+    "https://www.techmahindra.com/insights/case-studies/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://www.techinsights.com/case-studies",
+    "https://digitaldefynd.com/IQ/digital-transformation-in-manufacturing/",
+    "https://www.hcltech.com/case-studies",
+    "https://www.mckinsey.com/capabilities/tech-and-ai/case-studies"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tech white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partner.vw.com/partner",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.extremenetworks.com/partners",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tech founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Tech",
+   "results": [
+    "https://note.com/noridea/n/n7a7ed1f48167?hl=en",
+    "https://note.com/moto_kinyu_fufu/n/nbf37a24905b2?hl=en",
+    "https://note.com/carbon4322/n/nccbeea9cce02?hl=en",
+    "https://note.com/mitateca/n/n98651aec4367?hl=en",
+    "https://note.com/local_ai/n/n784d7bccfd94?hl=en",
+    "https://note.com/minato_20260000/n/nb1aca6e8ec44?hl=en",
+    "https://note.com/startup_now0708/n/nebaf8d03ad05?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tech",
+   "results": [
+    "https://x.com/techcrunch",
+    "https://x.com/technology",
+    "https://blog.x.com/engineering/en_us",
+    "https://about.x.com/en",
+    "https://blog.x.com/en/engineering",
+    "https://help.x.com/en",
+    "https://help.x.com/en/using-x/about-chat"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tech",
+   "results": [
+    "https://www.linkedin.com/jobs/tech-jobs",
+    "https://www.linkedin.com/jobs/technology-jobs",
+    "https://news.linkedin.com/2026/top-startups-2026",
+    "https://tw.linkedin.com/in/paulmozur",
+    "https://ca.linkedin.com/in/damienlefebvre",
+    "https://vn.linkedin.com/jobs/view/project-management-trainee-at-eon-tech-4479964984",
+    "https://in.linkedin.com/in/saurabhjha"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tech",
+   "results": [
+    "https://www.facebook.com/TheTechInteractive/",
+    "https://tech.facebook.com/",
+    "https://tech.facebook.com/feed/",
+    "https://www.facebook.com/techinsider/",
+    "https://business.facebook.com/groups/siliconvalleytech/",
+    "https://developers.facebook.com/docs/development/release/tech-providers/",
+    "https://business.facebook.com/groups/769532647506621/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tech note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/tech_boss",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tech X 投稿",
+   "results": [
+    "https://tech-x.jp/",
+    "https://tech-x.global/",
+    "https://zhuanlan.zhihu.com/p/660460090",
+    "https://photo-tools.tech/",
+    "https://techgym.jp/column/x-twitter/",
+    "https://poco-tech.blog/x-tweet-timing-japan/",
+    "https://x-sou.com/ja"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部33頁・検索12回）"
+ }
+}

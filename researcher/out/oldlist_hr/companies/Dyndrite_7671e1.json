@@ -1,0 +1,1403 @@
+{
+ "name": "Dyndrite",
+ "aliases": [],
+ "context": "旧営業リスト｜AM / Additive Manufacturing｜NG",
+ "researched_at": "2026-11-11T00:31:04.953026+00:00",
+ "official_url": "https://www.dyndrite.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$179,000",
+    "url": "https://prospeo.io/c/dyndrite-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$10,000,000",
+    "url": "https://prospeo.io/c/dyndrite-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "2025 1st Ave, Suite 1140, Seattle, Washington 98121, US",
+    "url": "https://prospeo.io/c/dyndrite-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://prospeo.io/c/dyndrite-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Eliminate laborious, error-prone manual build prep. Leverage AI Coding, GUI and Python programmable tools to develop new parameter strategies and optimize routines. Streamline materials & process development, accelerate agile qualification processes, and enable lights-out production.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about LPBF Pro →",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Ready since Day One. Engineers need powerful tools that give them an edge, and Dyndrite LPBF Pro delivers exactly that. With AI-assisted coding, you don’t need to be an expert programmer to use it: just describe what you want and build it. From rocketry and aerospace to automotive, medical, consumer, and energy production, LPBF Pro puts more power in every engineer’s hands.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Go beyond build preparation with essential tools and the performance for rapid iteration.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Control the laser for quicker, better parts and creative precision through fine-grain settings.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline operations through automation, from core processes to the machine toolpaths.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyndrite is a powerful new path to additive production. Our GPU-accelerated engine and toolkit empower manufacturers to efficiently scale up their production processes.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Effortlessly handle a broad range of file types and machines natively. Leverage our advanced toolpath APIs to access advanced materials and parameter development across various additive processes including",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": ". Use Dyndrite to achieve controlled, repeatable, and scalable AM processes.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Products for LPBF Users",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Products for Machine Builders →",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How impossible objects supercharged 3D data preparation with Dyndrite",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial 3D printers needed better software",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Today's build prep software, built on legacy kernels, not only ignore modern computing, but struggles to handle the datasets and processing needs of present day industrial printers. To make matters worse, every year 3D printers get larger and require more data.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyndrite was created to reverse the “hardware has outpaced the software” frustration in manufacturing and fulfill the production promise of digital manufacturing.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Products for Machine Builders",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In what world is the speed of the hardware process faster than the speed of the software process?",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Listen to the April 2021 DDC Talk",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use multi-threaded CPU cores and scalable GPUs so your customers and technicians speed through workflows easily. Handle massive datasets, reduce build prep time, and lower part costs.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stand out using Dyndrite’s APIs, without revealing your know-how or intellectual property to anyone outside your organization.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protection: Secure your IP",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Develop on Dyndrite without having to reveal your intellectual property to anyone outside your organization",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn About Our Engagement Process",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Machine Builder Engagement Process",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The Dyndrite Accelerated Geometry Engine is a great example of innovation enabled by using the latest NVIDIA GPU programming techniques and the RTX platform. ”",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Additive Manufacturing industry is transforming. What was previously enabling technology for brands to “rapid prototype” their products, is now being used to digitally manufacture those same products.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "The companies behind the digital transformation of the manufacturing industry are being created today. Dyndite’s Digital Manufacturing Investor Day (DMID) is a platform for these companies to interface with and educate the investor community on their technologies, products and vision.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Presenters are traditionally co-founders and CEOs of Series B+ companies. Our audience is comprised of venture capitalists, institutional investors, private investors, the financial press, industry influencers and leading enterprises supporting the digital manufacturing industry.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Axtra3D is a leading-edge technology company comprised of AM industry experts with years of experience in multiple disciplines, dedicated to developing innovative solutions in additive manufacturing processes that utilize opto-electronics.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Fast Radius is a cloud manufacturing company, providing end-to-end solutions for manufacturers to more efficiently and sustainably design, make, and move parts.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Founder & President",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Holo is driving adoption of metal additive manufacturing (AM) for volume production. Holo’s Pureform™ platform of proprietary hardware, materials and software produces high resolution geometries with features down to 50µm that cannot be made any other way.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Nexa3D is a 3D printer manufacturer enabling ultrafast and scaled additive production, offering unrivaled throughput, validated workflows, superb surface finish, and an open material platform.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "PrinterPrezz’s Silicon Valley headquarters will continue to primarily focus on medical devices, leveraging in-house regulatory experience, clinician-driven design, additive manufacturing expertise, and in-house nanotechnology development.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "SLM Solutions Group AG is an inventor of the selective laser melting process and focuses on the development and distribution of the most innovative, production-oriented metal additive manufacturing systems.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Uniformity Labs develops breakthrough material and software solutions to accelerate and expand global commercial/industrial 3D printing (AM) markets. Its patented technology uniquely enables groundbreaking improvements in throughput and reductions in residual stress across materials and platforms in laser powder bed fusion printing.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Determined to advance the additive industry, Xerox Elem Additive provides hardware and software solutions that equip manufacturers with the tools to reduce costs, eliminate long lead times, and improve part performance.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Shri Shetty, PrinterPrezz",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Qualified investors, press, and industry experts are welcome at #DMID2022",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "to presentations and founder contact information through a private guide.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "of sifting through this rising space by accessing presentations curated by Digital Manufacturing experts.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Arian Aghababaie, Ph.D., President & Chief Strategy Officer",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Avi Reichental, President & CEO",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Wells Fargo Principal Technology Investments",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Dyndrite provides foundational software that enable machine builders, software developers and enterprise companies create hyper-performance next-generation additive manufacturing solutions that deliver quality parts - accurately and repeatably.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "“Elevate” is Dyndrite’s umbrella brand for social initiatives focusing on growing and supporting digital manufacturing communities and workforce development efforts. Through our activities, including DMID and our Dyndrite Developer Conference, we aim to build a strong and vibrant development community.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "We welcome digital manufacturing entrepreneurs, investors, press and industry experts to attend DMID. As this is a curated event, we do reserve the right to refuse attendance.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Will there be a Q&A with presenting companies?",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, there will be a scheduled Q&A period after each presentation. Attendees are encouraged to engage in conversations and ask questions through the provided channels.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "How do I report inappropriate conduct?",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Impossible Objects Supercharges 3D Data Preparation",
+    "url": "https://www.dyndrite.com/case-study/impossible-objects-supercharges-3d-data-preparation",
+    "pass": 1
+   },
+   {
+    "quote": "Impossible Objects Supercharges 3D Data Preparation, Improves Repeatability and Optimizes Build Block Utilization With Dyndrite Software Engine",
+    "url": "https://www.dyndrite.com/case-study/impossible-objects-supercharges-3d-data-preparation",
+    "pass": 1
+   },
+   {
+    "quote": "ON-RAMP Powered by Dyndrite, delivers an automated CAD-to-print workflow for Impossible Objects’ CBAM production process. Integrated automation tools provide benefits including much faster processing of 3D data that reduces tedious manual labor, automated nesting that optimizes build space and minimizes scrap, and customizable workflows that allow significantly faster time to first part.",
+    "url": "https://www.dyndrite.com/case-study/impossible-objects-supercharges-3d-data-preparation",
+    "pass": 1
+   },
+   {
+    "quote": "Impossible Objects is a 3D printer and materials company pioneering advancements in the additive manufacturing and composites manufacturing industries. Based on years of research and development, our composite-based additive manufacturing technology (CBAM) is an entirely new process that is fundamentally different from conventional additive manufacturing technologies.",
+    "url": "https://www.dyndrite.com/case-study/impossible-objects-supercharges-3d-data-preparation",
+    "pass": 1
+   },
+   {
+    "quote": "\"Dyndrite is revolutionizing the user experience in the production of CBAM parts. As quickly as 2 weeks into the project we realized a huge time savings, and suspect this is just the tip of the iceberg.\"",
+    "url": "https://www.dyndrite.com/case-study/impossible-objects-supercharges-3d-data-preparation",
+    "pass": 1
+   },
+   {
+    "quote": "“The improvement to overall workflow is remarkable,” commented Wanger. “Manual build prep is reduced from 3 hours to a few minutes with automation, and 3D data processing benchmarks go from 56 minutes to 5 minutes, meaning that the entire 4 hour process is now completed in less than 10 minutes,",
+    "url": "https://www.dyndrite.com/case-study/impossible-objects-supercharges-3d-data-preparation",
+    "pass": 1
+   },
+   {
+    "quote": "Driving Towards Repeatability, Traceability and Improved Quality",
+    "url": "https://www.dyndrite.com/case-study/impossible-objects-supercharges-3d-data-preparation",
+    "pass": 1
+   },
+   {
+    "quote": "The observed results of ON-RAMP powered by Dyndrite are not limited to processing speeds and performance. ON-RAMP is also helping build repeatability, quality and traceability.",
+    "url": "https://www.dyndrite.com/case-study/impossible-objects-supercharges-3d-data-preparation",
+    "pass": 1
+   },
+   {
+    "quote": "Through automated Python scripts, the exact same settings, parameters and rules can be consistently used, every time, to improve repeatability. This also reduces the amount of failed builds and helps with traceability when a part does fail.",
+    "url": "https://www.dyndrite.com/case-study/impossible-objects-supercharges-3d-data-preparation",
+    "pass": 1
+   },
+   {
+    "quote": "“The number one factor preventing true serial production in additive is the software,” said Wanger. “With Dyndrite we are finding new ways to deliver much-needed repeatability and traceability, helping to overcome a key bottleneck in the production of composite parts.",
+    "url": "https://www.dyndrite.com/case-study/impossible-objects-supercharges-3d-data-preparation",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Dyndrite | Powering the Future of Digital Manufacturing",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Ready since Day One. Engineers need powerful tools that give them an edge, and Dyndrite LPBF Pro delivers exactly that. With AI-assisted coding, you don’t need to be an expert programmer to use it: just describe what you want and build it. From rocketry and aerospace to automotive, medical, consumer, and energy production, LPBF Pro puts more power in every engineer’s hands.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give yourself power, freedom and control over your manufacturing software.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyndrite is a powerful new path to additive production. Our GPU-accelerated engine and toolkit empower manufacturers to efficiently scale up their production processes.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial 3D printers needed better software",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Today's build prep software, built on legacy kernels, not only ignore modern computing, but struggles to handle the datasets and processing needs of present day industrial printers. To make matters worse, every year 3D printers get larger and require more data.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "To overcome this, Dyndrite created a modern development environment built to harness the power of multi-threaded CPUS, and GPUs, and geared toward the needs of the digital manufacturing industry.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Dyndrite Engine and App Development Kit (ADK) brings together all the pieces for engineers to easily create and deploy high-performance industrial 3D applications.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyndrite was created to reverse the “hardware has outpaced the software” frustration in manufacturing and fulfill the production promise of digital manufacturing.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use multi-threaded CPU cores and scalable GPUs so your customers and technicians speed through workflows easily. Handle massive datasets, reduce build prep time, and lower part costs.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Just about anyone can create powerful apps and automate workflows. Speed development and lower costs in your industrial applications.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Add on a Digital Manufacturing Maths Department",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Dyndrite is pushing boundaries in areas that can expand the possibilities of additive manufacturing.”",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyndrite Selected to Support $5.5M America Makes GOTHAAM Program to Advance Qualification of High-Strength Aluminum for Additive Manufacturing",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyndrite Team Selected for America Makes AIM-4AM Program to Advance AI-Driven Qualification of Additive Manufacturing Materials",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyndrite Sponsors ASTM ICAM 2026 at the Leader Level, Launches $10,000 Student Grant Competition to Accelerate Metal Additive Manufacturing Adoption",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyndrite Announces 2026 World Tour, Giving AM Engineers Hands-On Experience with Dyndrite LPBF Pro and an Agile Materials and Process Development Framework for Scalable Metal Additive Manufacturing",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "years of 3D industrial printing",
+    "url": "https://www.dyndrite.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Manufacturing Investor Day 2022 (DMID 2022)",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "An Industry-Wide Online Digital Manufacturing Event",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Dyndrite is hosting a virtual investor-focused event featuring companies transforming the digital manufacturing landscape.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "The Additive Manufacturing industry is transforming. What was previously enabling technology for brands to “rapid prototype” their products, is now being used to digitally manufacture those same products.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "The companies behind the digital transformation of the manufacturing industry are being created today. Dyndite’s Digital Manufacturing Investor Day (DMID) is a platform for these companies to interface with and educate the investor community on their technologies, products and vision.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Presenters are traditionally co-founders and CEOs of Series B+ companies. Our audience is comprised of venture capitalists, institutional investors, private investors, the financial press, industry influencers and leading enterprises supporting the digital manufacturing industry.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Manufacturing Investor Day (DMID)",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Axtra3D is a leading-edge technology company comprised of AM industry experts with years of experience in multiple disciplines, dedicated to developing innovative solutions in additive manufacturing processes that utilize opto-electronics.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Evolve Additive Solutions understands the power of traditional manufacturing as it stands today, that’s why we’re building upon the best of both – the flexibility of additive manufacturing with the quality, volume and scale of traditional manufacturing.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Fast Radius is a cloud manufacturing company, providing end-to-end solutions for manufacturers to more efficiently and sustainably design, make, and move parts.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Holo is driving adoption of metal additive manufacturing (AM) for volume production. Holo’s Pureform™ platform of proprietary hardware, materials and software produces high resolution geometries with features down to 50µm that cannot be made any other way.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Nexa3D is a 3D printer manufacturer enabling ultrafast and scaled additive production, offering unrivaled throughput, validated workflows, superb surface finish, and an open material platform.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "PrinterPrezz’s Silicon Valley headquarters will continue to primarily focus on medical devices, leveraging in-house regulatory experience, clinician-driven design, additive manufacturing expertise, and in-house nanotechnology development.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "SLM Solutions Group AG is an inventor of the selective laser melting process and focuses on the development and distribution of the most innovative, production-oriented metal additive manufacturing systems.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Uniformity Labs develops breakthrough material and software solutions to accelerate and expand global commercial/industrial 3D printing (AM) markets. Its patented technology uniquely enables groundbreaking improvements in throughput and reductions in residual stress across materials and platforms in laser powder bed fusion printing.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Determined to advance the additive industry, Xerox Elem Additive provides hardware and software solutions that equip manufacturers with the tools to reduce costs, eliminate long lead times, and improve part performance.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Calling all emerging companies ready to build the future of Digital Manufacturing.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "on rising trends and innovations in the Digital Manufacturing space.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Meet with the latest Digital Manufacturing companies",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "of sifting through this rising space by accessing presentations curated by Digital Manufacturing experts.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Christian Hartenberger, Head of Industrial Technology",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "About Digital Manufacturing Investor Day:",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Dyndrite provides foundational software that enable machine builders, software developers and enterprise companies create hyper-performance next-generation additive manufacturing solutions that deliver quality parts - accurately and repeatably.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "DMID was conceived as a way to overcome the Covid-19 in-person restrictions that interfered with early stage companies meeting and building relationships with capital markets. During the pandemic, digital manufacturing companies not only",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "but were resilient in the face of supply chain disruptions. The future of manufacturing is “Digital Manufacturing”. Now more than ever, education, capitalization, and development of the digital manufacturing industry is a necessity.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Impossible Objects is a 3D printer and materials company pioneering advancements in the additive manufacturing and composites manufacturing industries. Based on years of research and development, our composite-based additive manufacturing technology (CBAM) is an entirely new process that is fundamentally different from conventional additive manufacturing technologies.",
+    "url": "https://www.dyndrite.com/case-study/impossible-objects-supercharges-3d-data-preparation",
+    "pass": 1
+   },
+   {
+    "quote": "Equispheres x Aconity x Dyndrite Case Study",
+    "url": "https://www.dyndrite.com/equispheres-x-aconity-x-dyndrite-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "There is a well-known adage in manufacturing, namely, “You can have Speed, Quality or Price, Pick any Two.” - In additive some say, \"Pick one!\"",
+    "url": "https://www.dyndrite.com/equispheres-x-aconity-x-dyndrite-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "This case study shows how engineered material, fit for purpose hardware, and modern software, comes together to change all this. Now you can have metal AM parts at speed, at a low price, without sacrificing quality.",
+    "url": "https://www.dyndrite.com/equispheres-x-aconity-x-dyndrite-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "If you are an LPBF materials scientist, process engineer, quality engineer, or application engineer, this case study is for you:",
+    "url": "https://www.dyndrite.com/equispheres-x-aconity-x-dyndrite-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "2. Understand the role of advanced software, powder and hardware technologies in improving the efficiency and surface quality of aerospace parts.",
+    "url": "https://www.dyndrite.com/equispheres-x-aconity-x-dyndrite-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Download the case study:",
+    "url": "https://www.dyndrite.com/equispheres-x-aconity-x-dyndrite-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "To help guide our roadmap, establish standards, and promote multi-vendor solutions we host the Dyndrite Developer Council (DDC), which consists of the industry’s leading digital manufacturing brands, including 3D Systems, Altair, Ansys, EOS, HP, NVIDIA, Renishaw and SLM to name a few.",
+    "url": "https://www.dyndrite.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Dyndrite’s mission is to fundamentally affect how geometry is created, transformed, and transmitted on a computer. In short, we want to revolutionize the manufacturing value chain by solving the most complicated geometry and compute problems that prevent greater productivity, efficiency and innovation. Our goal is to be the math department you call when you need a new tool in your toolbelt.",
+    "url": "https://www.dyndrite.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "DMID2020 - Dyndrite Digital Manufacturing Investor Day (DMID) Event (Online)",
+    "url": "https://www.dyndrite.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Third Annual Digital Manufacturing Investor Day (Online)",
+    "url": "https://www.dyndrite.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing is transforming. New digital technologies are being developed and applied to enable digital factories, and, for that to be successful, the industry needs a new software standard to enable full integration of those technologies.",
+    "url": "https://www.dyndrite.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Dyndrite has embarked on providing a new Digital Nervous System for companies and partners seeking to define, develop and deliver digital transformation for the manufacturing ecosystem.",
+    "url": "https://www.dyndrite.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Original Equipment Manufacturers (OEMs)",
+    "url": "https://www.dyndrite.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The Dyndrite Developer Council (DDC) is an invite-only, CTO-led organization that uses its technical and business expertise to advance the state of the digital manufacturing industry. The DDC includes over 25 members representing OEMs and ISVs that account for over 90% of the industrial 3D printers sold each year, and close to 1 million jobs around the world.",
+    "url": "https://www.dyndrite.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Manufacturing Investors Day (DMID) Event",
+    "url": "https://www.dyndrite.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Automated Production Lines",
+    "url": "https://www.dyndrite.com/careers",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Any stage company can apply. That said, we lean toward product-ready or revenue-positive companies that are seeking Series B or higher funding.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "Project is part of a $2 million America Makes initiative focused on accelerating qualification and reducing testing burden for LPBF-produced 17-4PH stainless steel through AI-driven risk modeling and statistically informed material allowables development",
+    "url": "https://www.dyndrite.com/press-releases/dyndrite-selected-by-america-makes-for-ai-driven-qualification-of-additive-manufacturing-materials",
+    "pass": 1
+   },
+   {
+    "quote": "As part of the program, the Dyndrite team will:",
+    "url": "https://www.dyndrite.com/press-releases/dyndrite-selected-by-america-makes-for-ai-driven-qualification-of-additive-manufacturing-materials",
+    "pass": 1
+   },
+   {
+    "quote": "Quickly arrange, orient, and serialize a specimen build",
+    "url": "https://www.dyndrite.com/lpbf/laser-powder-bed-fusion-process-qualification-calibration",
+    "pass": 1
+   },
+   {
+    "quote": "Dyndrite provides software that specifically overcomes barriers to traceability and repeatable quality:",
+    "url": "https://www.dyndrite.com/lpbf/laser-powder-bed-fusion-production-usage",
+    "pass": 1
+   },
+   {
+    "quote": "Meteor社は、産業用印刷製造のためのエンタープライズソフトウェアの主要開発企業であるHybrid Software Group PLC（Euronext：HYSG）の完全子会社です",
+    "url": "https://www.meteorinkjet.com/ja/news-events/news/meteor-and-dyndrite-announce-meteoryte-software-for-industrial-inkjet-3d-printers/",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/dyndrite-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Dyndrite",
+    "url": "https://prospeo.io/c/dyndrite-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/dyndrite-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/dyndrite-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/dyndrite-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Dyndrite?",
+    "url": "https://prospeo.io/c/dyndrite-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/dyndrite-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/dyndrite-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/dyndrite-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Dyndrite have?",
+    "url": "https://prospeo.io/c/dyndrite-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/dyndrite-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact our conference staff immediately, or email elevate@dyndrite.com.",
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "pass": 1
+   },
+   {
+    "quote": "For general inquiries, please contact us at",
+    "url": "https://www.dyndrite.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Phone/Email/Slack access to our talented Product Applications team who will map your requirements to an optimized Engine workflow.",
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to request password.",
+    "url": "https://www.dyndrite.com/app-development-kit-adk",
+    "pass": 1
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/dyndrite-revenue",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "THREE (3) NEW OEMS SELECT DYNDRITE TO DRIVE THEIR AM PROCESS",
+    "url": "https://www.dyndrite.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Original Equipment Manufacturers (OEMs)",
+    "url": "https://www.dyndrite.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The Dyndrite Developer Council (DDC) is an invite-only, CTO-led organization that uses its technical and business expertise to advance the state of the digital manufacturing industry. The DDC includes over 25 members representing OEMs and ISVs that account for over 90% of the industrial 3D printers sold each year, and close to 1 million jobs around the world.",
+    "url": "https://www.dyndrite.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "*Functionality is contingent on the machine OEM's 'openness'",
+    "url": "https://www.dyndrite.com/lpbf-product",
+    "pass": 1
+   },
+   {
+    "quote": "relationship with our OEM partners.",
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "pass": 1
+   },
+   {
+    "quote": "After years of working with startups and established machine manufactures, Dyndrite has developed an OEM relationship methodology, split across six broad phases. Technical and commercial discussions proceed in parallel to ensure requirements are understood, technical value is quickly shown, and commercial objectives agreed upon.",
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "pass": 1
+   },
+   {
+    "quote": "Most factories, even OEM-specific ones, rely on numerous and complementary tools working in unison to produce a final product. Dyndrite’s built-in plug-in system fosters multi-vendor integrations allowing tools to be extended by in-house, or a third party, including, physics solvers, Manufacturing Execution Systems (MES), topology optimization, or latticing systems.",
+    "url": "https://www.dyndrite.com/technology/engine",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about Dyndrite's Solutions for OEM, Enterprise and ISV",
+    "url": "https://www.dyndrite.com/technology/engine",
+    "pass": 1
+   },
+   {
+    "quote": "Dyndrite LPBF software provides native format compatibility or Direct-To-OEM Print for leading 3D metal printing machines, eliminating the need for third-party software. This includes:",
+    "url": "https://www.dyndrite.com/lpbf/additive-cam-for-laser-powder-bed-fusion",
+    "pass": 1
+   },
+   {
+    "quote": "Solutions for Machine Makers/OEMs",
+    "url": "https://www.dyndrite.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your application to a variety of Machine OEM output",
+    "url": "https://www.dyndrite.com/technology/architecture",
+    "pass": 1
+   },
+   {
+    "quote": "Dyndrite Raises the Bar in Additive Manufacturing Machine and Software Development with Release of New Advanced Toolpathing API. Enables OEMS and End-Users to Develop Print Recipes for Previously Impossible or Difficult-to-Print Builds. | Dyndrite",
+    "url": "https://www.dyndrite.com/press-releases/dyndrite-raises-the-bar-in-additive-manufacturing-machine-and-software-development-with-release-of-new-advanced-toolpathing-api",
+    "pass": 1
+   },
+   {
+    "quote": "Dyndrite Raises the Bar in Additive Manufacturing Machine and Software Development with Release of New Advanced Toolpathing API. Enables OEMS and End-Users to Develop Print Recipes for Previously Impossible or Difficult-to-Print Builds.",
+    "url": "https://www.dyndrite.com/press-releases/dyndrite-raises-the-bar-in-additive-manufacturing-machine-and-software-development-with-release-of-new-advanced-toolpathing-api",
+    "pass": 1
+   },
+   {
+    "quote": "Meteor社の主要なプリントヘッドに対応したスケーラブルなデータパスソリューションとMeteoryteを組み合わせることで、OEMのお客様は開発コスト、時間、リスクを大幅に削減し、3Dや積層造形用途にインクジェットの力を活用できるようになるでしょう",
+    "url": "https://www.meteorinkjet.com/ja/news-events/news/meteor-and-dyndrite-announce-meteoryte-software-for-industrial-inkjet-3d-printers/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Meteor社とDyndrite社が産業用インクジェット3Dプリンター向けソフトウェアMeteoryte™を発表｜Meteor Inkjet Japan",
+    "url": "https://www.meteorinkjet.com/ja/news-events/news/meteor-and-dyndrite-announce-meteoryte-software-for-industrial-inkjet-3d-printers/",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite社がLPBF方式金属3Dプリント用ソフトウェア「LPBF Pro」をリリース | CAD Japan.com（大塚商会）",
+    "url": "https://www.cadjapan.com/news/2023/d20231110_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite社がNikon SLM Solutions社と提携 | CAD Japan.com（大塚商会）",
+    "url": "https://www.cadjapan.com/news/2024/d20241121_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite社、Constellium社、Elementum 3D社、Sandviks社が3Dプリント用材料のコンソーシアムを設立 | CAD Japan.com（大塚商会）",
+    "url": "https://www.cadjapan.com/news/2023/d20231107_03.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Dyndrite | Powering the Future of Digital Manufacturing — Dyndrite makes an accelerated computation engine, a tool that gives hardware and software companies the power, freedom and control necessary to deliver the future of digital manufacturing.",
+    "url": "https://www.dyndrite.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Meteor社とDyndrite社が産業用インクジェット3Dプリンター向けソフト... — May 17, 2022 · Meteoryte powered by Dyndriteは、川下顧客の成功への道を加速させるツールの好例です。 \" MeteorのマネージングディレクターであるClive Aylingは、「産業用インクジェットシステムの開発・導入は困難であり、新しい3Dアプリケーションや企業が常に出現しています。",
+    "url": "https://www.meteorinkjet.com/ja/news-events/news/meteor-and-dyndrite-announce-meteoryte-software-for-industrial-inkjet-3d-printers/",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite社がLPBF方式金属3Dプリント用ソフトウェア「LPBF Pro」をリ... — Nov 7, 2023 · Dyndrite社は2023年11月7日、粉末床溶融結合法（LPBF）方式の金属3Dプリント用ソフトウェア「LPBF Pro」をリリースした。",
+    "url": "https://www.cadjapan.com/news/2023/d20231110_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite社がNikon SLM Solutions社と提携 | CAD Japan.com（大塚商会... — Nov 18, 2024 · Dyndrite社は2024年11月18日、SLM方式3Dプリントソリューション企業であるNikon SLM Solutions社との提携を発表した。 この提携では、Dyndrite社の3DプリントソフトウェアLPBF Proを統合することで、Nikon SLM Solutionsの金属3Dプリンター製品全体の機能強化を図る。",
+    "url": "https://www.cadjapan.com/news/2024/d20241121_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "第6回 名古屋次世代3Dプリンタ展の出展社セミナーで国内初発表のAM用C... — 独Formnextで注目されたAM用CAMソフトメーカー Dyndrite 社。 LPBF方式のAM装置の限界性能を引き出し、異次元のパラメータ自由度により品質向上、材料開発に向けたソリューションを提供します。 出展者セミナーでは、国内初発表の最新情報をお伝えいたします。",
+    "url": "https://aichi-sangyo.co.jp/inquiry/news/news_240331_Nagoya3DP_Seminar.html",
+    "pass": 3
+   },
+   {
+    "quote": "About Dyndrite — Dyndrite makes an accelerated computation engine, a tool that gives hardware and software companies the power, freedom and control necessary to deliver the future of digital manufacturing.",
+    "url": "https://www.dyndrite.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite | LinkedIn — コンピューター支援製造 (CAM) ソフトウェア The Dyndrite Accelerated Computation Engine (ACE) has been purpose-built to solve your additive software development challenges and overcome the issues caused when using legacy CAD/CAM software components. It is the world’s first multi-threaded CPU- and GPU-powered hybrid geometry toolkit, featuring Python-based automation, APIs ...",
+    "url": "https://jp.linkedin.com/company/dyndrite",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite社、Constellium社、Elementum 3D社、Sandviks社が3Dプリント... — Nov 3, 2023 · Dyndrite社は2023年11月3日、3Dプリント用材料メーカーのConstellium社、Elementum 3D社、Sandvik社と共同で、業界初となる積層造形向け材料のコンソーシアム「Materials Consortium」の設立を発表した。",
+    "url": "https://www.cadjapan.com/news/2023/d20231107_03.html",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite Partnership - Phasio — Phasio integrates with Dyndrite for round-trip MJF nesting with camspec and 3MF, connecting CAM and production into one workflow.",
+    "url": "https://www.phas.io/partnerships/dyndrite-corp",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Faster Builds w/Excellent Surface Finish A4 — Dyndrite LPBF Pro is an advanced software solution designed to optimize additive manufacturing processes through control and automation. Specifically built for laser powder bed fusion, it provides advanced tools for interrogating geometry and assigning parameters tuned to that unique, and often challenging aspect of a design such as low-ove",
+    "url": "https://docs.dyndrite.com/hubfs/Dyndrite+Case+Study+-+Faster+Builds+with+Excellent+Surface+Finish.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Equispheres x Aconity x Dyndrite Case Study — Equispheres, Aconity3D and Dyndrite collaborated on how to increase print productivity of LPBF parts, without sacrificing surface roughness and thus adding post processing time. Learn how the team successfully produced production-grade metal AM parts 7-9x faster, at 80% lower costs, while maintaining a quality surface finish.",
+    "url": "https://www.dyndrite.com/equispheres-x-aconity-x-dyndrite-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "CFAA ITP Renishaw Case Study - Final — Case Study Description This design study was conducted through a collaboration between the Aeronautics Advanced Manufacturing Center (CFAA) of the University of the Basque Country (UPV/EHU), ITP Aero, Renishaw, and Dyndrite. The goal was to improve the surface finish of Inconel 718 (IN718) components, produced via Laser Powder Bed Fusion (LPBF) through segmen",
+    "url": "https://cdn.prod.website-files.com/5ebb245e7c0ec5487ee78bf0/6914dd3d9ed00783db40e236_CFAA+ITP+Renishaw+Case+Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Equispheres x Aconity x Dyndrite Case Study | Equispheres Inc. — New Dyndrite Case Study 🚨 There is a well-known adage in manufacturing, namely, “You can have Speed, Quality or Price, Pick any Two.” - In additive some say, \"Pick one!\" This case study ...",
+    "url": "https://www.linkedin.com/posts/equispheres_equispheres-x-aconity-x-dyndrite-case-study-activity-7288979992972062721-TZY0",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite – Funding, Acquisitions & Key Rivals – 2026 — Dyndrite drives value with estimated revenue of $5.2M, team of around 30+ employees, operating from Seattle, staying aligned with industry needs.",
+    "url": "https://compworth.com/company/dyndrite",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite Revenue, Funding & Valuation - prospeo.io — Dyndrite has revenue of $5,000,000, estimated valuation of $16,000,000, $10,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/dyndrite-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite - 2026 Company Profile, Team, Funding & Competitors ...Dyndrite 2026 Company Profile: Valuation, Funding & Investors ...Dyndrite Information - RocketReachDyndrite - Overview, News & Similar companies | ZoomInfo.comDyndrite Funding History, Valuation and Investors - aVenture — Jan 20, 2026 · Dyndrite is a series A company based in Seattle (United States), founded in 2016. It operates as a ",
+    "url": "https://tracxn.com/d/companies/dyndrite/__EC-lNgOafSF7NKclpp8h9Xr-rS2PMrtbRkRYVpQ_LxA",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite 2026 Company Profile: Valuation, Funding & Investors ...Dyndrite Information - RocketReachDyndrite - Overview, News & Similar companies | ZoomInfo.comDyndrite Funding History, Valuation and Investors - aVenture — Dyndrite FAQs When was Dyndrite founded? Dyndrite was founded in 2016. Where is Dyndrite headquartered? Dyndrite is headquartered in Seattle, WA. What is the size of Dyndrite? Dy",
+    "url": "https://pitchbook.com/profiles/company/183209-77",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite Information - RocketReach — Dyndrite is a Software Development, Business Services General, and Computer company located in Seattle, Washington with $6.6 million in revenue and 21 employees. Find top employees, contact details and business statistics at RocketReach.",
+    "url": "https://rocketreach.co/dyndrite-profile_b4511b6ffc731874",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Dyndrite (@Dyndrite) / Posts / X May 27, 2018 · Dyndrite has joined @NMIS. Our membership opens collaborations with world-leading experts, new technical capability, and opportunities to innovate together on the global stage.",
+    "url": "https://x.com/Dyndrite",
+    "pass": 3
+   },
+   {
+    "quote": "Dyndrite Developer Council (@DyndriteCouncil) / Posts / X Oct 19, 2020 · The Dyndrite Developer Council (DDC) is an exclusive, CTO-led organization that uses its technical and business expertise to advance the state of the industry.",
+    "url": "https://x.com/DyndriteCouncil",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Dyndrite - LinkedIn Dyndrite’s team of mathematicians, computer scientists, and engineers exist to help our partners and licensees solve the toughest geometry, compute and automation problems so they can deliver ...",
+    "url": "https://www.linkedin.com/company/dyndrite",
+    "pass": 3
+   },
+   {
+    "quote": "Harshil Goel - CEO, Inventor, Mathematician, Mechanical ...Stephen Anderson - Dyndrite | LinkedInDyndrite Accelerated Computation Engine - LinkedInDyndrite Joins America Makes GOTHAAM Program for Scalable ... CEO, Inventor, Mathematician, Mechanical Engineer · I am a mathematician, engineer, founder, and entrepreneur. I view the world around me through the lens of mathematics. In 2016 I founded Dy",
+    "url": "https://aq.linkedin.com/in/harshil-goel-7b089349",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.dyndrite.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/digital-manufacturing-investor-day-2022",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/case-study/impossible-objects-supercharges-3d-data-preparation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/equispheres-x-aconity-x-dyndrite-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/lpbf-product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/customer-engagement-process",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/press-releases/dyndrite-selected-by-america-makes-for-ai-driven-qualification-of-additive-manufacturing-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/technology/engine",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/lpbf/additive-cam-for-laser-powder-bed-fusion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/lpbf/laser-powder-bed-fusion-process-qualification-calibration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/lpbf/laser-powder-bed-fusion-production-usage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/technology/architecture",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/press-releases/dyndrite-raises-the-bar-in-additive-manufacturing-machine-and-software-development-with-release-of-new-advanced-toolpathing-api",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/blog/the-next-30-years-of-additive-manufacturing-will-be-defined-by-production",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/app-development-kit-adk",
+    "status": "http_401",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dyndrite.com/request-lpbf-password",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/5ebb245e7c0ec5487ee78bf0/670f04dac99a0d5b01a255a6_Webinar%20Logos%20(2).png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/5ebb245e7c0ec5487ee78bf0/67ab932b0f694616a4a168d3_Dyndrite%20Developer%20Council%20Logos%20for%20Web%202025-01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/5ebb245e7c0ec5487ee78bf0/67ab9316a0b2d39659e83edd_Dyndrite%20Developer%20Council%20Logos%20for%20Web%202025-02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/5ebb245e7c0ec5487ee78bf0/653c0e885a8f35c0d4834888_machine-compatibility-logos.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.meteorinkjet.com/ja/news-events/news/meteor-and-dyndrite-announce-meteoryte-software-for-industrial-inkjet-3d-printers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/news/2023/d20231110_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cadjapan.com/news/2024/d20241121_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/dyndrite",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cadjapan.com/news/2023/d20231107_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.dyndrite.com/hubfs/Dyndrite+Case+Study+-+Faster+Builds+with+Excellent+Surface+Finish.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/5ebb245e7c0ec5487ee78bf0/6914dd3d9ed00783db40e236_CFAA+ITP+Renishaw+Case+Study.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/dyndrite",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/dyndrite-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/dyndrite/__EC-lNgOafSF7NKclpp8h9Xr-rS2PMrtbRkRYVpQ_LxA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/183209-77",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Dyndrite",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DyndriteCouncil",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/dyndrite",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://aq.linkedin.com/in/harshil-goel-7b089349",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Dyndrite",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DyndriteCouncil",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Dyndrite 日本 導入",
+   "results": [
+    "https://www.dyndrite.com/",
+    "https://www.meteorinkjet.com/ja/news-events/news/meteor-and-dyndrite-announce-meteoryte-software-for-industrial-inkjet-3d-printers/",
+    "https://www.cadjapan.com/news/2023/d20231110_03.html",
+    "https://www.cadjapan.com/news/2024/d20241121_03.html",
+    "https://aichi-sangyo.co.jp/inquiry/news/news_240331_Nagoya3DP_Seminar.html",
+    "https://www.aichi-sangyo.co.jp/inquiry/news/news_250825_Formnextforum.html",
+    "https://www.lsj.or.jp/wp-content/uploads/IndustryAwardWinner/18/aichisangyo.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyndrite 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.endy-toko.jp/",
+    "https://www.n-denkei.co.jp/search/results/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyndrite Japan",
+   "results": [
+    "https://www.dyndrite.com/",
+    "https://www.dyndrite.com/about",
+    "https://jp.linkedin.com/company/dyndrite",
+    "https://www.cadjapan.com/news/2023/d20231107_03.html",
+    "https://www.phas.io/partnerships/dyndrite-corp",
+    "https://ex-press.jp/ilsj/ilsj-news/ilsj-biz-market/72163/",
+    "https://www.linkedin.com/posts/dyndrite_dyndrite-world-tour-is-headed-to-japan-activity-7418005307592847360-Vg55"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyndrite manufacturing customer case study",
+   "results": [
+    "https://www.dyndrite.com/",
+    "https://docs.dyndrite.com/hubfs/Dyndrite+Case+Study+-+Faster+Builds+with+Excellent+Surface+Finish.pdf",
+    "https://www.dyndrite.com/equispheres-x-aconity-x-dyndrite-case-study",
+    "https://cdn.prod.website-files.com/5ebb245e7c0ec5487ee78bf0/6914dd3d9ed00783db40e236_CFAA+ITP+Renishaw+Case+Study.pdf",
+    "https://www.linkedin.com/posts/equispheres_equispheres-x-aconity-x-dyndrite-case-study-activity-7288979992972062721-TZY0",
+    "https://www.linkedin.com/posts/dyndrite_accelerating-material-design-studies-elementum3d-activity-7219664713318547457-KAqY",
+    "https://3dprint.com/320358/inside-ams-quiet-strategic-revolution-an-interview-with-dyndrite-founder-harshil-goel/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyndrite white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.dyndrite.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.dyndrite.com/delta-qual-white-paper"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyndrite founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/dyndrite",
+    "https://prospeo.io/c/dyndrite-revenue",
+    "https://tracxn.com/d/companies/dyndrite/__EC-lNgOafSF7NKclpp8h9Xr-rS2PMrtbRkRYVpQ_LxA",
+    "https://pitchbook.com/profiles/company/183209-77",
+    "https://rocketreach.co/dyndrite-profile_b4511b6ffc731874",
+    "https://www.zoominfo.com/c/dyndrite-corp/443853104",
+    "https://aventure.vc/companies/dyndrite-seattle-wa-us/fundraising"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Dyndrite",
+   "results": [
+    "https://note.com/dendrite_/n/nbe41bcc92173",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/dendrite_/n/nf377f6d47583",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/kakimotogenki/n/n6e6b88904300"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Dyndrite",
+   "results": [
+    "https://x.com/Dyndrite",
+    "https://x.com/DyndriteCouncil",
+    "https://x.com/ninglong/status/2113103480839975418",
+    "https://x.com/ElasticDendrite/status/2119774400547295502",
+    "https://x.com/ElasticDendrite/status/2108472334432834040",
+    "https://x.com/oleksandr_now/status/2120254052374401102",
+    "https://x.com/MrDendri/status/2119475896595685700"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Dyndrite",
+   "results": [
+    "https://www.linkedin.com/company/dyndrite",
+    "https://www.linkedin.com/company/dendriteai",
+    "https://in.linkedin.com/company/dendrite-ai",
+    "https://aq.linkedin.com/in/harshil-goel-7b089349",
+    "https://uk.linkedin.com/in/stephen-anderson-1479564",
+    "https://www.linkedin.com/products/dyndrite-accelerated-computation-engine/",
+    "https://www.linkedin.com/posts/dyndrite_additivemanufacturing-lpbf-scalmalloy-activity-7495533803415732225-Z3PX"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Dyndrite",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Dyndrite note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://rocketreach.co/dyndrite-profile_b4511b6ffc731874",
+    "https://www.dyndrite.com/",
+    "https://tracxn.com/d/companies/dyndrite/__EC-lNgOafSF7NKclpp8h9Xr-rS2PMrtbRkRYVpQ_LxA",
+    "https://jp.linkedin.com/company/dyndrite",
+    "https://www.dyndrite.com/people/shawn-hopwood",
+    "https://aq.linkedin.com/in/harshil-goel-7b089349"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Dyndrite X 投稿",
+   "results": [
+    "https://x.com/Dyndrite",
+    "https://www.dyndrite.com/",
+    "https://www.instagram.com/dyndrite/",
+    "https://x.com/DyndriteCouncil",
+    "https://www.dyndrite.com/sign-up",
+    "https://x.com/Dendrite_alpha/with_replies",
+    "https://x.com/dendrite_liv/status/2096820730113749431"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部24頁・検索12回）"
+ }
+}

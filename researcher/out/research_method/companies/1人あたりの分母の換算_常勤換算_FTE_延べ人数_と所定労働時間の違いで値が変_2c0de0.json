@@ -8,132 +8,8 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-09T09:47:52.431190+00:00",
+ "researched_at": "2026-11-11T00:24:53.417162+00:00",
  "evidence": {
-  "一次情報の探し方": [
-   {
-    "quote": "例えば、月64時間以上勤務できる非常勤看護職員を1名採用すれば、64÷160＝0.4人が加算され、合計2.7人となります",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "月112時間以上勤務できる非常勤看護職員を1名採用すれば、112÷160＝0.7人が加算され、合計3.0人となり、ようやく基準を満たすことができます",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "具体的には、産休・育休に入った常勤職員の代わりに、複数のパート職員を採用し、その合計勤務時間が常勤1人分以上になるように配置すれば、人員配置基準を満たすことができます",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "毎月の常勤換算数の推移を確認することで、人員不足の兆候を早期に発見し、採用活動やシフト調整などの対策を先手で打つことが可能になります",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "手計算によるミスを防ぐためにも、こうした公的なツールを積極的に活用することをおすすめします",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "https://www.mhlw.go.jp/content/12200000/001205322.pdf",
-    "url": "https://note.com/yuwa_office/n/ndd4f1677286a",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "「常勤の看護師が辞めてしまったけど、代わりの職員の採用がうまくいっていない」など、常勤の看護師が退職することがわかり、人員基準を満たせない状態になった場合は、なるべく早い段階で指定権者（都道府県・市の介護保険課等）に報告・相談をしましょう",
-    "url": "https://zest.jp/column/personnel-standards",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "また、採用活動を継続して新たに人員を確保できた際の報告が必要かどうかについても、あらかじめ確認しておきましょう",
-    "url": "https://zest.jp/column/personnel-standards",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "基準を下回らないよう、日ごろから看護職員の採用や定着に取り組んでおくことも大切です",
-    "url": "https://zest.jp/column/personnel-standards",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "採用や定着に向けた取り組みの全体像は、以下の記事で解説しています",
-    "url": "https://zest.jp/column/personnel-standards",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "希望に合った求人”だけ”を厳選してお届け！",
-    "url": "https://www.co-medical.com/knowledge/article543/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "主にクリニックを中心に医療介護向け求人メディア「コメディカルドットコム」の採用課題のサポートを行う",
-    "url": "https://www.co-medical.com/knowledge/article543/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "https://www.mhlw.go.jp/content/12401000/001204019.pdf",
-    "url": "https://note.com/yuwa_office/n/n2b5ac9c7e2be",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "https://www.mhlw.go.jp/bunya/shougaihoken/service/dl/qa08.pdf",
-    "url": "https://note.com/yuwa_office/n/n2b5ac9c7e2be",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "希望に合った求人”だけ”を厳選してお届け！",
-    "url": "https://www.co-medical.com/knowledge/article704/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "コメディカルドットコムで介護福祉士求人を探してみる",
-    "url": "https://www.co-medical.com/knowledge/article704/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "コメディカルドットコムで介護職求人を探してみる",
-    "url": "https://www.co-medical.com/knowledge/article704/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "計算シートには、職種ごとの常勤換算数を自動集計する機能や、人員配置基準との照合機能が備わっているものもあります",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "認知・リード獲得に加え、事業開発の仮説検証や講演・勉強会など、",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "常勤換算では、対象業務や休暇の扱いをそろえたうえで、シフトの予定時間と勤怠実績を照合します",
-    "url": "https://shiftta.com/blog/jokin-kanzan-calculation/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   }
-  ],
   "手順・やり方": [
    {
     "quote": "Step2. 職員全員の「1ヶ月の合計勤務時間」を算出する",
@@ -1014,6 +890,130 @@
     "first_seen": "2026-11-07"
    }
   ],
+  "一次情報の探し方": [
+   {
+    "quote": "例えば、月64時間以上勤務できる非常勤看護職員を1名採用すれば、64÷160＝0.4人が加算され、合計2.7人となります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "月112時間以上勤務できる非常勤看護職員を1名採用すれば、112÷160＝0.7人が加算され、合計3.0人となり、ようやく基準を満たすことができます",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "具体的には、産休・育休に入った常勤職員の代わりに、複数のパート職員を採用し、その合計勤務時間が常勤1人分以上になるように配置すれば、人員配置基準を満たすことができます",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "毎月の常勤換算数の推移を確認することで、人員不足の兆候を早期に発見し、採用活動やシフト調整などの対策を先手で打つことが可能になります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "手計算によるミスを防ぐためにも、こうした公的なツールを積極的に活用することをおすすめします",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "https://www.mhlw.go.jp/content/12200000/001205322.pdf",
+    "url": "https://note.com/yuwa_office/n/ndd4f1677286a",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「常勤の看護師が辞めてしまったけど、代わりの職員の採用がうまくいっていない」など、常勤の看護師が退職することがわかり、人員基準を満たせない状態になった場合は、なるべく早い段階で指定権者（都道府県・市の介護保険課等）に報告・相談をしましょう",
+    "url": "https://zest.jp/column/personnel-standards",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "また、採用活動を継続して新たに人員を確保できた際の報告が必要かどうかについても、あらかじめ確認しておきましょう",
+    "url": "https://zest.jp/column/personnel-standards",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "基準を下回らないよう、日ごろから看護職員の採用や定着に取り組んでおくことも大切です",
+    "url": "https://zest.jp/column/personnel-standards",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "採用や定着に向けた取り組みの全体像は、以下の記事で解説しています",
+    "url": "https://zest.jp/column/personnel-standards",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "希望に合った求人”だけ”を厳選してお届け！",
+    "url": "https://www.co-medical.com/knowledge/article543/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "主にクリニックを中心に医療介護向け求人メディア「コメディカルドットコム」の採用課題のサポートを行う",
+    "url": "https://www.co-medical.com/knowledge/article543/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://www.mhlw.go.jp/content/12401000/001204019.pdf",
+    "url": "https://note.com/yuwa_office/n/n2b5ac9c7e2be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "https://www.mhlw.go.jp/bunya/shougaihoken/service/dl/qa08.pdf",
+    "url": "https://note.com/yuwa_office/n/n2b5ac9c7e2be",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "希望に合った求人”だけ”を厳選してお届け！",
+    "url": "https://www.co-medical.com/knowledge/article704/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "コメディカルドットコムで介護福祉士求人を探してみる",
+    "url": "https://www.co-medical.com/knowledge/article704/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "コメディカルドットコムで介護職求人を探してみる",
+    "url": "https://www.co-medical.com/knowledge/article704/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "計算シートには、職種ごとの常勤換算数を自動集計する機能や、人員配置基準との照合機能が備わっているものもあります",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "認知・リード獲得に加え、事業開発の仮説検証や講演・勉強会など、",
+    "url": "https://comimi.jp/archives/column/fte-kaigo",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "常勤換算では、対象業務や休暇の扱いをそろえたうえで、シフトの予定時間と勤怠実績を照合します",
+    "url": "https://shiftta.com/blog/jokin-kanzan-calculation/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   }
+  ],
   "実例": [
    {
     "quote": "常勤換算でよくある計算ミスと運営指導での指摘事例",
@@ -1447,17 +1447,7 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/hide95097103/n/n7d8b1546ebc1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/oboreru_tanuki/n/ned31fcca76b6",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/haruhi_tool/n/n96a5a5b5b26c",
+    "url": "https://note.com/yuwa_office/n/n2b5ac9c7e2be",
     "status": "ok",
     "method": "http"
    },
@@ -1472,7 +1462,32 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/grgrdds/n/n79f3958b9d93",
+    "url": "https://note.com/haruhi_tool/n/n96a5a5b5b26c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yuwa_office/n/ndd4f1677286a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hide95097103/n/n7d8b1546ebc1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shiftta.com/blog/jokin-kanzan-calculation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fukushi.ai/docs/staffing-user-count-fte-rules",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/",
     "status": "ok",
     "method": "http"
    },
@@ -1492,32 +1507,17 @@
     "method": "http"
    },
    {
-    "url": "https://fukushi.ai/docs/staffing-user-count-fte-rules",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://fukushi-kaizen.com/shogai-fukushi-jokin-kansan/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://shiftta.com/blog/jokin-kanzan-calculation/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/hakumaigenki/n/n3108b78d86c0?hl=en",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://www.paychex.com/glossary/what-is-fte",
+    "url": "https://www.metrichq.org/human-resources/full-time-equivalents/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://peopleforce.io/hr-glossary/full-time-equivalent",
+    "url": "https://www.new-dynamics.com/blog/full-time-equivalent/",
     "status": "ok",
     "method": "http"
    },
@@ -1527,12 +1527,12 @@
     "method": "http"
    },
    {
-    "url": "https://best-calculators.com/finance/revenue-per-employee-calculator/",
+    "url": "https://www.numetix.ai/glossary/full-time-equivalent",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.metrichq.org/human-resources/full-time-equivalents/",
+    "url": "https://peopleforce.io/hr-glossary/full-time-equivalent",
     "status": "ok",
     "method": "http"
    }
@@ -1542,13 +1542,13 @@
   {
    "query": "1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例 site:note.com",
    "results": [
-    "https://note.com/hide95097103/n/n7d8b1546ebc1",
-    "https://note.com/oboreru_tanuki/n/ned31fcca76b6",
-    "https://note.com/haruhi_tool/n/n96a5a5b5b26c",
+    "https://note.com/yuwa_office/n/n2b5ac9c7e2be",
     "https://note.com/yudai_ops/n/nb01da119aaf4",
     "https://note.com/clean_canna4042/n/n0213ec93cbb5",
-    "https://note.com/grgrdds/n/n79f3958b9d93",
-    "https://note.com/yuwa_office/n/n2b5ac9c7e2be"
+    "https://note.com/haruhi_tool/n/n96a5a5b5b26c",
+    "https://note.com/yuwa_office/n/ndd4f1677286a",
+    "https://note.com/hide95097103/n/n7d8b1546ebc1",
+    "https://note.com/oboreru_tanuki/n/ned31fcca76b6"
    ],
    "engines": [
     "ddgs:google"
@@ -1570,13 +1570,13 @@
   {
    "query": "1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例 事例",
    "results": [
+    "https://shiftta.com/blog/jokin-kanzan-calculation/",
+    "https://fukushi.ai/docs/staffing-user-count-fte-rules",
+    "https://www.palette-tech.com/kinmu-keitai-ichiranhyo/",
     "https://wazabako.com/column/jokin-kansan",
     "https://knowbe.jp/media/i906ihl5m8h-jokinkansan-keisan",
     "https://comimi.jp/archives/column/fte-kaigo",
-    "https://fukushi.ai/docs/staffing-user-count-fte-rules",
-    "https://fukushi-kaizen.com/shogai-fukushi-jokin-kansan/",
-    "https://shiftta.com/blog/jokin-kanzan-calculation/",
-    "https://kaigo-staffing-guide.com/articles/fte-calculation"
+    "https://fukushi-kaizen.com/shogai-fukushi-jokin-kansan/"
    ],
    "engines": [
     "ddgs:bing"
@@ -1587,11 +1587,11 @@
    "query": "full-time equivalent conversion denominator per employee comparison pitfalls",
    "results": [
     "https://note.com/hakumaigenki/n/n3108b78d86c0?hl=en",
-    "https://www.paychex.com/glossary/what-is-fte",
-    "https://peopleforce.io/hr-glossary/full-time-equivalent",
-    "https://startupfortune.com/your-revenue-per-employee-benchmark-for-startups-before-investors-ask/",
-    "https://best-calculators.com/finance/revenue-per-employee-calculator/",
     "https://www.metrichq.org/human-resources/full-time-equivalents/",
+    "https://www.new-dynamics.com/blog/full-time-equivalent/",
+    "https://startupfortune.com/your-revenue-per-employee-benchmark-for-startups-before-investors-ask/",
+    "https://www.numetix.ai/glossary/full-time-equivalent",
+    "https://peopleforce.io/hr-glossary/full-time-equivalent",
     "https://www.thehumancapitalhub.com/articles/the-definitive-guide-to-fte-calculation-formula"
    ],
    "engines": [
@@ -1602,16 +1602,16 @@
   {
    "query": "site:note.com 1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例",
    "results": [
-    "https://note.com/hide95097103/n/n7d8b1546ebc1",
     "https://note.com/yudai_ops/n/nb01da119aaf4",
-    "https://note.com/oboreru_tanuki/n/ned31fcca76b6",
-    "https://note.com/alz_20250611/n/nf03961b6fb75",
+    "https://note.com/yuwa_office/n/n2b5ac9c7e2be",
     "https://note.com/clean_canna4042/n/n0213ec93cbb5",
-    "https://note.com/haruhi_tool/n/n96a5a5b5b26c",
-    "https://note.com/yuwa_office/n/n2b5ac9c7e2be"
+    "https://note.com/yuwa_office/n/n6e51e9503644",
+    "https://note.com/hide95097103/n/n7d8b1546ebc1",
+    "https://note.com/oboreru_tanuki/n/ned31fcca76b6",
+    "https://note.com/alz_20250611/n/nf03961b6fb75"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1620,46 +1620,46 @@
    "results": [
     "https://x.com/hashtag/常勤換算",
     "https://x.com/sr_nishiyama/status/1906517204658786533",
-    "https://x.com/mextjapan/status/1143819912646807552",
     "https://x.com/kame_hm/status/2096965533765869698",
-    "https://x.com/kanrisyacare1/status/2076977505110466609",
     "https://x.com/yosuke_araki/status/2046758645929828535",
-    "https://x.com/fm_suisinkyo/status/2039220716113993898"
+    "https://x.com/fm_suisinkyo/status/2039220716113993898",
+    "https://x.com/kanrisyacare1/status/2076977505110466609",
+    "https://x.com/mextjapan/status/1143819912646807552"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "site:linkedin.com 1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例",
    "results": [
-    "https://jp.linkedin.com/pulse/new-engine-labor-why-ai-ftes-horsepower-agentic-era-ba9me?tl=ja",
     "https://www.linkedin.com/feed/update/urn:li:activity:7344320718936887300/",
     "https://www.linkedin.com/pulse/full-time-equivalent-fte-strategic-tool-resource-goal-villalobos-axbfc",
+    "https://jp.linkedin.com/pulse/new-engine-labor-why-ai-ftes-horsepower-agentic-era-ba9me?tl=ja",
     "https://jp.linkedin.com/pulse/full-time-equivalent-fte-strategic-tool-resource-goal-villalobos-axbfc?tl=ja",
     "https://jp.linkedin.com/pulse/understanding-fte-maintenance-why-matters-gabriel-fagade-cmrp-mnse-ssi3f?tl=ja",
     "https://jp.linkedin.com/pulse/intelligent-automation-basics-how-measure-savings-ramnath-natarajan-pktuc?tl=ja",
     "https://jp.linkedin.com/posts/yoshiki-kumazawa-91988713_外資系ヘッドカウントの仕組み-外資系企業におけるヘッドカウントheadcount-activity-7371348779007934464-xLls"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "site:facebook.com 1人あたりの分母の換算（常勤換算・FTE・延べ人数）と所定労働時間の違いで値が変わる例",
    "results": [
-    "https://www.facebook.com/mugiwarahoukan/videos/介護事業所の常勤換算常勤換算計算法訪問介護訪問看護介護事業所看護師ヘルパー介護福祉士理学療法士作業療法士リハビリケアマネ/7046201942134016/",
     "https://www.facebook.com/groups/627324771859424/posts/1328749891716905/",
+    "https://www.facebook.com/mugiwarahoukan/videos/介護事業所の常勤換算常勤換算計算法訪問介護訪問看護介護事業所看護師ヘルパー介護福祉士理学療法士作業療法士リハビリケアマネ/7046201942134016/",
+    "https://www.facebook.com/nistep.japan/photos/研究専従換算係数を考慮した日本の大学の研究開発費及び研究者数の詳細分析調査資料-297の公表-nistepでは日本の大学の研究開発費及び研究者数について研究専従/3139054472871665/",
     "https://www.facebook.com/groups/627324771859424/posts/1101008754491021/",
     "https://www.facebook.com/groups/627324771859424/posts/649701889621712/",
-    "https://www.facebook.com/nistep.japan/photos/研究専従換算係数を考慮した日本の大学の研究開発費及び研究者数の詳細分析調査資料-297の公表-nistepでは日本の大学の研究開発費及び研究者数について研究専従/3139054472871665/",
-    "https://www.facebook.com/minnanokaigo/videos/ケアマネの担当件数に上限はある2024年度介護報酬改定による影響を解説/957712149334697/",
-    "https://www.facebook.com/autosubsidy/photos/16回持続化補助金の公募が始まりましたので今回は事業者様から多く質問をいただく常時使用する従業員とはについてまとめ解説しますまず持続化補助金は常時使用する従業員/457547603451913/"
+    "https://www.facebook.com/autosubsidy/photos/16回持続化補助金の公募が始まりましたので今回は事業者様から多く質問をいただく常時使用する従業員とはについてまとめ解説しますまず持続化補助金は常時使用する従業員/457547603451913/",
+    "https://www.facebook.com/tetsuji.kubota.50/posts/分母の意味を理解出来ていない元教員人口10万人当たりってしっかり分母揃えてるじゃねーかよコレだからパヨクは笑/3588149944677451/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -1683,58 +1683,7 @@
   }
  ],
  "missing": {},
- "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "Step2. 職員全員の「1ヶ月の合計勤務時間」を算出する",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Step3. 計算式に当てはめて計算する",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "最後に、Step1とStep2で算出した数値を計算式に当てはめます",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ここでは、具体的な事業所の例を使って、計算方法をシミュレーションしてみましょう",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "新型コロナウイルス感染症の流行をきっかけに、介護業界でもテレワークの活用が注目されています",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "なお、2024年度の改定では、生産性向上に先進的に取り組む特定施設入居者生活介護や地域密着型特定施設入居者生活介護において、一定の要件の下で人員配置基準の特例的な柔軟化が認められました",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ここでは、その負担を軽減し、正確な管理を実現する方法を紹介します",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "最も効果的な方法が、",
-    "url": "https://comimi.jp/archives/column/fte-kaigo",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ]
- },
- "runs": 8,
+ "new_this_run": {},
+ "runs": 9,
  "first_researched_at": "2026-11-07T08:57:44.501954+00:00"
 }

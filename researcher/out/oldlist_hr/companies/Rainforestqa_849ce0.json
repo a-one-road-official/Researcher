@@ -1,0 +1,954 @@
+{
+ "name": "Rainforestqa",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-11T00:10:54.397591+00:00",
+ "official_url": "https://www.rainforestqa.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$41.2M",
+    "url": "https://getlatka.com/companies/rainforestqa",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "For teams fed up with manual, ad-hoc testing, Rainforest uses AI to create, maintain, and manage tests better — without sacrificing predictability.",
+    "url": "https://www.rainforestqa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "with no months‑long buildout or specialized hiring required. Ownership can sit with Dev, Product, or QA.",
+    "url": "https://www.rainforestqa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Try it with your product",
+    "url": "https://www.rainforestqa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No bandwidth for tools or process",
+    "url": "https://www.rainforestqa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fuzzy coverage; late surprises",
+    "url": "https://www.rainforestqa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quick setup; AI reduces upkeep; flexible ownership (Dev, Product, or QA)",
+    "url": "https://www.rainforestqa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Powerhouse",
+    "url": "https://www.rainforestqa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Code‑first frameworks (Cypress, Playwright, Selenium), powerful, takes a lot to maintain",
+    "url": "https://www.rainforestqa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated automation engineers/SDETs; ongoing maintenance and training",
+    "url": "https://www.rainforestqa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proof you can point to",
+    "url": "https://www.rainforestqa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Innovative approach to QA that allowed us to get coverage in record time.”",
+    "url": "https://www.rainforestqa.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Rainforest QA Helps Qualpay Ship Faster—Without Hiring a QA Team",
+    "url": "https://www.rainforestqa.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "YNAB avoids expensive hiring and gets peace of mind with a Rainforest Test Manager",
+    "url": "https://www.rainforestqa.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Rainforest QA empowers JustProtect to perform 1.5 months of QA testing in 45 minutes",
+    "url": "https://www.rainforestqa.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Rainforest QA took a huge amount of our QA burden and made it virtually hands off. The AI test cases were impressive and significantly decreased our flakiness. Setup was simple and once environments were setup required little effort on our side, Rainforest managed it all. Contacting the Rainforest team was incredibly easy and their response time was always fast. Loved the product and the team.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "VP of Engineering at Prado",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product & Technology Officer at Netchex",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "Rainforest's AI addresses two major obstacles for maintaining a healthy QA program — creating tests and, more importantly, fixing broken tests.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "Rainforest has been invaluable in identifying bugs for us here at Shadow Health. Because of Rainforest our dev teams have been able to spend more time on developing products.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "Great product. Generative AI has become very helpful for creating and maintaining existing tests.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "The platform's intuitive design and comprehensive features have significantly streamlined our testing processes. The customer support team is exceptionally responsive and helpful, always ready to address any questions or concerns. Overall, Rainforest has been a game-changer for our testing strategy, and I highly recommend it to any team looking to enhance their QA processes.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "We used to have a huge, impossible-to-maintain set of tests in Cypress, and now we let Rainforest do all the work for us. Much better.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "Rainforest QA has truly revolutionized my approach to quality assurance. The tool’s AI-driven features have not only simplified test creation and maintenance but also enhanced the accuracy and reliability of our tests.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "Amazing product, able to do what we couldn't before! Being able to automate testing our website has been instrumental in building confidence before we go live.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "Rainforest QA has significantly enhanced our testing process by providing a user-friendly platform with efficient test creation and execution, allowing us to achieve comprehensive test coverage and ensure the quality of our software.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "The fact that the Rainforest Test Manager is very specialized, very efficient, knows Rainforest incredibly well, and knows our product incredibly well means she can just focus on this one area and do an incredibly good job of it.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "We'd probably have to hire two or three more people to manage all the tests ourselves.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "Super easy to build MVP QA flows and get them integrated with your PRs so your dev team can ship quickly and consistently! I've used Rainforest at several small startups and it's always a game changer.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "It's transformed our testing process. We can focus on higher-value tasks and get faster and more reliable releases.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "- really awesome product. Highly recommend.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "Super easy and quick-to-learn platform. Our product has a lot of features and with every production deployment, all of those features have to be tested. So Rainforest QA allows us to establish a baseline and test the base features quickly.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "Rainforest is a great product that can improve test coverage in less time than traditional testing.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "If you are a product manager and want your product to succeed, you need Rainforest.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "Product Manager at a startup",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "Rainforest has been very effective in giving us confidence throughout the entire process. We run it every time we release. It's every single time.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "We are putting our new portal through QA automated by @rainforestqa. Picking this platform was the easiest decision I’ve made all year. Thanks Rainforest team for an amazingly easy product to use and for helping us deliver an amazing service!",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "and am very impressed 👏",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "Maker / Founder / CEO at Shoprocket",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "Rainforest is a great tool for small teams to deliver high-quality software. I'll definitely continue to promote you to friends and associates.",
+    "url": "https://www.rainforestqa.com/testimonials",
+    "pass": 1
+   },
+   {
+    "quote": "Teams are left choosing between slow, manual testing that doesn’t scale, fragile automated tests that break as products evolve, or AI QA tools that promise speed without explaining their decisions. None of those paths lead to real confidence. They just increase risk and complexity.",
+    "url": "https://www.rainforestqa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "From the beginning, our goal has been to make QA fast, trustworthy, and practical to run, without requiring a massive QA organization behind it.",
+    "url": "https://www.rainforestqa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Most teams are taught to treat QA as a phase, a gate, or a hiring problem. That framing breaks quality at scale. QA isn’t something you bolt on when risk increases. QA determines how confidently teams ship every change.",
+    "url": "https://www.rainforestqa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "AI shines when it removes the setup, maintenance, and rework that often bogs down QA. Your team finally has the time to focus on decisions that actually improve quality.",
+    "url": "https://www.rainforestqa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "These beliefs guide our product, our future, and how we work with customers.",
+    "url": "https://www.rainforestqa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "It’s fewer surprises.",
+    "url": "https://www.rainforestqa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "After years of testing real production software at scale, we’ve learned where QA systems fail—often quietly and at the worst times.",
+    "url": "https://www.rainforestqa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Everything we build prioritizes visibility over false confidence and surfaces risk early instead of hiding it, so teams can trust what they ship.",
+    "url": "https://www.rainforestqa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Over 10,000 startups and product teams have used Rainforest",
+    "url": "https://www.rainforestqa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "More than 42 million tests have been run on real production software",
+    "url": "https://www.rainforestqa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We aim to operate the same way we build our product: thoughtfully and transparently",
+    "url": "https://www.rainforestqa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how customers improve velocity and quality with Rainforest",
+    "url": "https://www.rainforestqa.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product guides to help you get set up for success",
+    "url": "https://www.rainforestqa.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Update your tests and create runs programmatically with the Rainforest API",
+    "url": "https://www.rainforestqa.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about QA strategy and best practices",
+    "url": "https://www.rainforestqa.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "See the latest product updates and releases",
+    "url": "https://www.rainforestqa.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We're not hiring at the moment, but that changes! Check back soon or follow us on LinkedIn to be the first to know when new roles open up.",
+    "url": "https://www.rainforestqa.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Rainforest\" is a registered U.S. & E.U. trademark. Unauthorized use is prohibited.",
+    "url": "https://www.rainforestqa.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Rainforest QA offers QA services for companies. Their headquarters is in San Francisco, but they've been known to hire developers to work remotely from Japan (for those with visas that support this).",
+    "url": "https://japan-dev.com/companies/rainforest-qa?lang=jp",
+    "pass": 3
+   },
+   {
+    "quote": "Heavybit is hands down the best community and program for technical founders.",
+    "url": "https://www.heavybit.com/portfolio/spotlights/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "During his time at Heavybit, Fred learned some hard lessons about hiring, qualifying customers, sales development strategy, and increasing pricing.",
+    "url": "https://www.heavybit.com/portfolio/spotlights/rainforestqa",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Software teams are expected to move faster every year. Release cycles are getting shorter. Expectations keep rising. And when quality slips, the impact is immediate—on customers, on revenue, and on the people doing the work.",
+    "url": "https://www.rainforestqa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Growth In 2016",
+    "url": "https://www.heavybit.com/portfolio/spotlights/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "When we left YC, we thought we were ready to take on the world. But two years later, we were stalled at $500k ARR and every sale was closed by my sheer will to survive. Those years between our Seed and Series A fundraise, were particularly painful.",
+    "url": "https://www.heavybit.com/portfolio/spotlights/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "Rainforestqa Revenue 2024: $25.7M Est., $41.2M Raised",
+    "url": "https://getlatka.com/companies/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "Rainforestqa has not published its revenue. GetLatka estimates it at about $25.7M a year (October 2024).",
+    "url": "https://getlatka.com/companies/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "Rainforestqa CEO, founders & employees",
+    "url": "https://getlatka.com/companies/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "Fred Stevens-Smith founded Rainforestqa in 2012 and runs it as CEO. Rainforestqa had 141 employees (December 2024, LinkedIn), down from 154 a year earlier.",
+    "url": "https://getlatka.com/companies/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "What is Rainforestqa's revenue?",
+    "url": "https://getlatka.com/companies/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Rainforestqa's revenue at about",
+    "url": "https://getlatka.com/companies/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Rainforestqa have?",
+    "url": "https://getlatka.com/companies/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/rainforestqa",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Get email notifications whenever Rainforest QA",
+    "url": "https://status.rainforestqa.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Didn't receive the password reset email? Reach out to us at",
+    "url": "https://portal.rainforestqa.com/reset_password",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Rainforest QAの求人・カルチャー｜Japan Dev",
+    "url": "https://japan-dev.com/companies/rainforest-qa?lang=jp",
+    "pass": 3
+   },
+   {
+    "quote": "Rainforest QA offers QA services for companies. Their headquarters is in San Francisco, but they've been known to hire developers to work remotely from Japan (for those with visas that support this).",
+    "url": "https://japan-dev.com/companies/rainforest-qa?lang=jp",
+    "pass": 3
+   },
+   {
+    "quote": "に登録して、厳選した日本のIT求人をメールで受け取りましょう",
+    "url": "https://japan-dev.com/companies/rainforest-qa?lang=jp",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Rainforest QA Status — Rainforest QA Status Rainforest QA https://status.rainforestqa.com",
+    "url": "https://status.rainforestqa.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Rainforest QA - LinkedIn — Rainforest QA - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "Rainforest QAの求人・カルチャー - Japan Dev — Rainforest QAの求人・カルチャー - Japan Dev Japan Dev https://japan-dev.com > companies > rainforest-qa",
+    "url": "https://japan-dev.com/companies/rainforest-qa?lang=jp",
+    "pass": 3
+   },
+   {
+    "quote": "Reset password - Rainforest QA — Reset password - Rainforest QA Rainforest QA https://portal.rainforestqa.com > reset...",
+    "url": "https://portal.rainforestqa.com/reset_password",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Rainforest QA — Case Studies | Rainforest QA Rainforest QA https://www.rainforestqa.com > case-s...",
+    "url": "https://www.rainforestqa.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "The Access Group Case Study - Rainforest QA — The Access Group Case Study - Rainforest QA Rainforest QA https://www.rainforestqa.com > access...",
+    "url": "https://www.rainforestqa.com/case-studies/access-group",
+    "pass": 3
+   },
+   {
+    "quote": "Rainforest QA : AI Test Automation for Growing SaaS Companies — Rainforest QA : AI Test Automation for Growing SaaS Companies Rainforest QA https://www.rainforestqa.com",
+    "url": "https://www.rainforestqa.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Rainforest QA - Heavybit — Rainforest QA - Heavybit Heavybit https://www.heavybit.com > spotlights",
+    "url": "https://www.heavybit.com/portfolio/spotlights/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "Rainforestqa Revenue 2024: $25.7M Est., $41.2M Raised — Rainforestqa Revenue 2024: $25.7M Est., $41.2M Raised GetLatka https://getlatka.com > rainforestqa",
+    "url": "https://getlatka.com/companies/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "About - Rainforest QA — About - Rainforest QA Rainforest QA https://www.rainforestqa.com > about",
+    "url": "https://www.rainforestqa.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Rainforest QA - 2026 Company Profile & Team - Tracxn — Rainforest QA - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/rainforest-qa/__TTRfsH_WzAugUrrRL6M96M9trM-mm3wmzyxRSHX34jM",
+    "pass": 3
+   },
+   {
+    "quote": "What Is Rainforest QA ? No-Code Testing Platform Guide 2026 — What Is Rainforest QA ? No-Code Testing Platform Guide 2026 Bug0 https://bug0.com > knowledge-base",
+    "url": "https://bug0.com/knowledge-base/what-is-rainforest-qa",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "A Strong Network: Investors, Operators and Advisors",
+    "url": "https://www.heavybit.com/portfolio/spotlights/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "Heavybit’s alumni and operators are there to support others in the community. Rather than offering simple “thought-leadership” advice, they’re all too willing to discuss the tactical realities required to run a developer company.",
+    "url": "https://www.heavybit.com/portfolio/spotlights/rainforestqa",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Rainforest QA - X Rainforest QA - X X https://x.com > @rainforestqa",
+    "url": "https://x.com/rainforestqa/status/892832610912808960",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Rainforest QA - LinkedIn Rainforest QA - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/rainforestqa",
+    "pass": 3
+   },
+   {
+    "quote": "James Palmer - Rainforest QA Duke University - LinkedIn James Palmer - Rainforest QA Duke University - LinkedIn LinkedIn https://www.linkedin.com > jpalmer718",
+    "url": "https://www.linkedin.com/in/jpalmer718",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Rainforest QA (@ RainforestQA ) - Facebook Rainforest QA (@ RainforestQA ) - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/RainforestQA/",
+    "pass": 3
+   },
+   {
+    "quote": "Rainforest QA updated their cover photo. - Facebook Rainforest QA updated their cover photo. - Facebook Facebook https://www.facebook.com > RainforestQA > photos",
+    "url": "https://www.facebook.com/RainforestQA/photos/2090188547786165/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rainforestqa.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rainforestqa.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rainforestqa.com/testimonials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rainforestqa.com/blog/",
+    "status": "http_530",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rainforestqa.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rainforestqa.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://response.jp/article/2026/11/07/418712.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://alpc.tokyo/pages/business-d2c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.digima-japan.com/knowhow/world/19787.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.greensleeves21.com/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://status.rainforestqa.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/rainforestqa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://japan-dev.com/companies/rainforest-qa?lang=jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://portal.rainforestqa.com/reset_password",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://highqa.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.heavybit.com/portfolio/spotlights/rainforestqa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/rainforestqa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/rainforest-qa/__TTRfsH_WzAugUrrRL6M96M9trM-mm3wmzyxRSHX34jM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/rainforestqa/status/892832610912808960",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rainforestqa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jpalmer718",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RainforestQA/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RainforestQA/photos/2090188547786165/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rainforestqa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rainforestqa",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rainforestqa 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://response.jp/article/2026/11/07/418712.html",
+    "https://www.webcg.net/articles/-/54501",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160144/",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.caranddriver.co.jp/newcar/114898/",
+    "https://www.facebook.com/jeepyokohamakonanofficial/videos/stellantis_jp-%E3%81%AF%E6%98%A8%E6%97%A511%E6%9C%883%E6%97%A5ram-%E3%83%A9%E3%83%A0%E3%81%AE%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E3%82%92%E6%97%A5%E6%9C%AC%E3%81%AB%E5%B0%8E%E5%85%A5%E4%BA%88%E5%AE%9A%E3%81%A7%E3%81%82%E3%82%8B%E3%81%A8%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%9Fram-/2537611416760787/",
+    "https://www.rainforestqa.com/",
+    "https://motor-fan.jp/article/1330061/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Rainforestqa 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://alpc.tokyo/pages/business-d2c",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://www.greensleeves21.com/partner/",
+    "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "https://trst.bz/kaigai-dairiten-kaitaku/",
+    "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "https://gerbera.co.jp/blog/p03/b01/theme-21098/",
+    "https://deepforest-tech.co.jp/agency/",
+    "https://www.moriroku.co.jp/business/chemicals/business_field/Japan_exclusive_distributor.html",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Rainforestqa Japan",
+   "results": [
+    "https://status.rainforestqa.com/",
+    "https://www.linkedin.com/company/rainforestqa",
+    "https://japan-dev.com/companies/rainforest-qa?lang=jp",
+    "https://portal.rainforestqa.com/reset_password",
+    "https://www.japan.travel/national-parks/plan-your-visit/guides-and-stories/natural-world-heritage-biodiversity-japans-national-parks/",
+    "https://www.youtube.com/watch?v=rkbJw0CwJ0s",
+    "https://www.instagram.com/reel/DK51q22y-Q1/",
+    "https://www.rinya.maff.go.jp/e/national_forest/recreation_forest/index.html",
+    "https://databasin.org/datasets/cca44fa62b7c4265977bc00b3a678b0a/",
+    "https://en.wikipedia.org/wiki/Japanese_temperate_rainforest"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Rainforestqa manufacturing customer case study",
+   "results": [
+    "https://www.rainforestqa.com/case-studies",
+    "https://www.rainforestqa.com/case-studies/access-group",
+    "https://highqa.com/case-studies/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.reddit.com/r/QualityAssurance/comments/1cnlb3b/has_anyone_here_worked_on_the_other_end_as_a/",
+    "https://www.infor.com/customer-stories",
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vLeCX115e84EbUHoh-LhjtAvv2DE1-cqJt7sF6-D2NvXMeUNMDF",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://kt.team/cases/manufacturing",
+    "https://www.casestudies.com/company/rainforest-qa"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Rainforestqa white label OR reseller OR partner program",
+   "results": [
+    "https://www.rainforestqa.com/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://sales-mind.ai/en/white-label/saas",
+    "https://journeybee.io/resources/top-100-reseller-programs",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Rainforestqa founded funding employees revenue",
+   "results": [
+    "https://www.heavybit.com/portfolio/spotlights/rainforestqa",
+    "https://getlatka.com/companies/rainforestqa",
+    "https://www.rainforestqa.com/about",
+    "https://tracxn.com/d/companies/rainforest-qa/__TTRfsH_WzAugUrrRL6M96M9trM-mm3wmzyxRSHX34jM",
+    "https://bug0.com/knowledge-base/what-is-rainforest-qa",
+    "https://techcrunch.com/2018/01/23/rainforest-qa-rakes-in-25-million-series-b-to-expand-on-demand-qa-biz/",
+    "https://www.crunchbase.com/organization/rainforest",
+    "https://www.forbes.com/sites/alexkonrad/2018/01/23/rainforest-qa-raises-25-million-and-talks-ai/",
+    "https://www.finsmes.com/2018/01/rainforest-qa-raises-25m-in-series-b-funding.html",
+    "https://www.thecompanycheck.com/company/b/rainforest-qa/s2u35et7utuhqpfil"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Rainforestqa",
+   "results": [
+    "https://note.com/kengomori/n/n63f96b04a656",
+    "https://note.com/panda_lab/n/n8b3f132c4fba",
+    "https://note.com/tag/未来人の忘れ物",
+    "https://note.com/tag/CVE-2026-109618",
+    "https://note.com/on_consul/n/n2e1165fffbb0",
+    "https://note.com/studish/n/n6febf66f7f49",
+    "https://note.com/maxmatsuura/n/n04f20fbdce8e",
+    "https://note.com/thunder88/n/n4a218f022c48",
+    "https://note.com/saeki2020/n/n1477c0955205"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com Rainforestqa",
+   "results": [
+    "https://x.com/rainforestqa/status/892832610912808960",
+    "https://x.com/arnetim/status/486223582687932416",
+    "https://x.com/fredsters_s",
+    "https://x.com/chriseyin",
+    "https://x.com/rhs/status/2094993654800642180",
+    "https://x.com/rhs/status/2096026276918100128",
+    "https://x.com/rhs",
+    "https://x.com/brampitoyo/status/834224989570150400",
+    "https://x.com/mjburnsy",
+    "https://x.com/rainforestqa"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Rainforestqa",
+   "results": [
+    "https://www.linkedin.com/company/rainforestqa",
+    "https://www.linkedin.com/in/fredstevenssmith",
+    "https://www.linkedin.com/in/jpalmer718",
+    "https://www.linkedin.com/posts/rainforestqa_why-transparent-ai-is-the-only-ai-you-can-activity-7429557934222794753-7n3H",
+    "https://www.linkedin.com/in/derekhchoy",
+    "https://www.linkedin.com/in/lauren-harold",
+    "https://in.linkedin.com/in/akshay-saxena-21feb1984",
+    "https://www.linkedin.com/posts/lauren-harold_your-qa-environment-needs-cattle-not-activity-7397012075421679617-OMEL",
+    "https://ca.linkedin.com/in/anton-pikhteryev",
+    "https://in.linkedin.com/in/mk-rayeesuddin-29103a111"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Rainforestqa",
+   "results": [
+    "https://www.facebook.com/RainforestQA/",
+    "https://www.facebook.com/RainforestQA/photos/2090188547786165/",
+    "https://www.facebook.com/gotsnacksusa/",
+    "https://www.facebook.com/qa.rainforest.1/",
+    "https://www.facebook.com/ciklop28/",
+    "https://www.facebook.com/93wibc/posts/6-ai-testing-services-for-multi-market-products/1862332065616386/",
+    "https://www.facebook.com/paul.padier/",
+    "https://www.facebook.com/groups/qaengineers/posts/966885538944541/",
+    "https://www.facebook.com/testiocommunity/posts/theres-more-to-love-about-test-io-building-on-our-legacy-of-crowdtesting-weve-ex/4485515231546071/",
+    "https://business.facebook.com/groups/1591812191048666/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Rainforestqa note 社長",
+   "results": [
+    "https://note.com/shacho_homon/m/m1bd972cc202e",
+    "https://status.rainforestqa.com/",
+    "https://www.linkedin.com/company/rainforestqa",
+    "https://nipponia.or.jp/blog/3571/",
+    "https://note.com/trex_ai",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/nekopresi",
+    "https://note.jp/m/m4917544e3b31",
+    "https://soundforest.life/news/20260803-01/",
+    "https://www.rainforestqa.com/about"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Rainforestqa X 投稿",
+   "results": [
+    "https://status.rainforestqa.com/",
+    "https://www.linkedin.com/company/rainforestqa",
+    "https://rfcx.org/",
+    "https://x.com/RainforestTrust",
+    "https://portal.rainforestqa.com/",
+    "https://www.xprize.org/competitions/rainforest",
+    "https://www.youtube.com/watch?v=Wwzu4D3qrcw",
+    "https://www.reddit.com/r/QualityAssurance/comments/1cnlb3b/has_anyone_here_worked_on_the_other_end_as_a/",
+    "https://hive.blog/@x-rain",
+    "https://x.com/rainforestqa"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

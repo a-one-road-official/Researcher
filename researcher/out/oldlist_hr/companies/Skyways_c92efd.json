@@ -1,0 +1,1769 @@
+{
+ "name": "Skyways",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-11T00:13:29.284073+00:00",
+ "official_url": "https://www.skyways.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "Texas Headquarters",
+    "value": "Austin",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "5. Seed Round",
+    "value": "01-Mar-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/185180-41",
+    "pass": 3
+   },
+   {
+    "label": "3. Seed Round",
+    "value": "17-Oct-2017    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/185180-41",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Critical payloads still wait on trucks, convoys, charters, and",
+    "url": "https://www.skyways.com/",
+    "pass": 1
+   },
+   {
+    "quote": "When storms or infrastructure failures cut normal access, critical loads may still need to reach a clinic, repair site, or isolated community. Skyways qualifies the sites, cargo, approvals, weather rules, communications, fallback site, and receiver handoff before launch. That preparation gives the response team another time-sensitive cargo option.",
+    "url": "https://www.skyways.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A remote asset needs inspection before a crew or maintenance action is committed. Skyways qualifies the sensor, route, collection window, data handoff, recovery plan, and approvals as one mission. Once qualified, the mission is built to return the information needed to continue monitoring, schedule another inspection, or send the right crew and equipment.",
+    "url": "https://www.skyways.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A unit beyond line of sight or a town with its towers down needs a link. The aircraft's bay takes a relay or another connectivity device on up to 2.5 kW of bay power to provide uplink and communications from altitude.",
+    "url": "https://www.skyways.com/",
+    "pass": 1
+   },
+   {
+    "quote": "customers define what moves, where and when. Skyways designs, builds and flies the aircraft and provides the hubs, SkyNav and the flight team. No fleet to buy. No crew to train.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "The proof is already flying: cold-chain containers, aircraft parts and medical supplies have moved through the cargo bay.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "A Skyways Hub brings launch and landing to the route: under an acre to start, no runway required, configured to the site and the operating program.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Skyways aircraft have already launched and recovered from ship decks, carrier decks, harbor pads and open fields, and the planned network spans 17 countries and territories with 50+ hubs worldwide by 2030.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "The proof flew in July 2021, when a Navy UX-24 test team operated V2 ship-to-ship with no Skyways employees aboard either vessel.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "The U.S. Navy selected Skyways at ANTX 2019 from a field of more than 65 platforms, opening the Navy relationship and pulling the aircraft line toward long-range hybrid propulsion.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "In February 2021 the Navy's UX-24 squadron flew a Skyways V2 from shore to USS Gerald R. Ford, delivering cargo to the flight deck by air drop and by deck landing. Naval Aviation News called it the Navy's first practical demonstration of the potential for unmanned ship-to-ship and ship-to-shore cargo transport.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Into Fleet Battle Problem 23-1",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "A Skyways aircraft became the first unmanned logistics aircraft in a Navy Fleet Battle Problem, operating inside a live fleet exercise.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "The full-scale V3 B1 made its first flight in early 2024. It incorporates lessons from V3 B0 and prepares the platform for customer demonstrations.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "In a 2024 demonstration for the U.S. Navy, a Skyways V2 acquired the vessel visually and flew a triangular intercept pattern, with no GPS beacon on the target ship guiding it. Hovering over the ship, it handed the landing to Skyways precision-landing software. The aircraft found the ship on its own.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "DSV and Skyways announced a partnership in September 2026: Skyways provides aircraft, pilot training and technical, maintenance and regulatory support for DSV's offshore energy operations, starting in the North Sea from Norden.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Charles co-founded Skyways to reinvent how the world moves cargo, and leads company vision and strategy across engineering, product, and growth. He was previously a senior software engineer at Google and CEO of Elixir Labs, and is a Y Combinator alum based in Austin.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Isaac leads Skyways' strategy and defense and government programs. He previously co-founded Scythe Robotics and Replica Labs, began his career in the U.S. Navy, and holds degrees in chemistry from Western Carolina University.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Bill leads Skyways' global commercial strategy and business development. His prior leadership roles include Wingcopter and Air Methods/Spright.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Marketing Officer",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Jessica leads Skyways' brand, communications, and investor communications and shapes the company narrative that anchors its industry leadership. Her career spans senior roles at deep tech and manufacturing startups and work for global brands including American Airlines, BP, BASF, and Subaru of America.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Grace leads Skyways' finance function, building the controls and infrastructure the company needs as it grows. She brings more than 15 years across supply chain and finance at Amazon and Chevron and holds an MBA from UT Austin's McCombs School.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Gabrielle leads Skyways' regulatory, policy, and government affairs, shaping the path for safe, scalable beyond-visual-line-of-sight operations. She previously ran her own policy consultancy, with State and local government affairs and regulatory work for Zipline's P2 aircraft, was VP of Global Policy and Government Affairs at Iris Automation, and earlier served as a political lobbyist in the UK.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Stephen leads Skyways' developmental manufacturing, supply chain and facilities as the company scales. He brings more than 17 years of aerospace experience, much of it at Scaled Composites on programs including Stratolaunch and Model 401.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Kevin leads Skyways' defense business development across military logistics and government customers. A U.S. Air Force veteran and former C-17 instructor pilot, he holds degrees from Notre Dame, the Air Force Institute of Technology, and National Defense University.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "This industry is still new and malleable, clay taking shape in the hands of the people building it. At Skyways, you have the rare opportunity to leave your fingerprints on what it becomes.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our people are ambitious about the problem and humble about how it gets solved. They ask direct questions, share what they know and care more about the best idea than who had it. When the work gets hard, they help each other through it.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Build the hybrid VTOL aircraft, test hardware and production systems behind long-range autonomous flight.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Build the hubs, routes and field processes behind Flight-as-a-Service.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Impossible problems are the exciting ones. Never give up.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Meet the hiring manager or a team member and go deeper on the work.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Finalists visit Austin, see the aircraft and the office, and interview with",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Recruiting coordinates the decision, offer details and",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Approximately 11 paid holidays",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Peer bonus and recognition program",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Relocation assistance is available for candidates moving to Austin.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Due to U.S. government contract requirements, roles are limited to U.S. citizens, U.S. permanent residents, or candidates from specific countries authorized under applicable export control regulations.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "As a Flight Test Operator on the Flight Test team, you will be one of the people who prove Skyways aircraft in the air. You will plan and execute flight tests, operate aircraft across new conditions and mission profiles, troubleshoot in real time, and feed what you see back into our systems and procedures. Your work directly impacts the safety, reliability, and performance of our aircraft.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Operate aircraft safely and effectively across a variety of conditions and mission profiles.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Conduct preflight and postflight inspections and ensure compliance with FAA regulations.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Turn flight test findings into training materials, flight procedures, and operational best practices.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Technical skills in maintenance, troubleshooting, or data processing.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Due to U.S. government contract requirements, this role is limited to U.S. citizens, U.S. permanent residents, or candidates from specific countries authorized under applicable export control regulations.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Skyways is an Equal Opportunity employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, national origin, sex, sexual orientation, gender identity, disability, protected veteran status or any other factor protected by applicable local, state or federal laws.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "UAS Field Service Representative",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "This is the job that keeps our aircraft flying after the sale. As a UAS Field Service Representative, you're Skyways on the ground at a customer's site: deploying the aircraft, maintaining it, and fixing what breaks so their missions stay on schedule. When an aircraft goes down, you're the one who gets it back up.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Some days you're at our Austin shop or flight test site. Most days you're on the road, often internationally, running a customer site with limited backup and owning the outcome. It's hands-on, it's high-trust, and it moves. If you want a predictable desk job, this isn't it. If you like being the person customers rely on when it matters, you'll do well here.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Feed what you learn in the field back to Engineering so the same problem doesn't keep coming back",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Be the customer's trusted point of contact and represent their needs back inside Skyways",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Prior military UAS, aviation-maintenance, or operations experience (15-series MOS, AV/AT/AE, TACP, or SOF aviation)",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Skyways and ANA are proving how autonomous cargo operations can build a new logistics backbone for Japan’s remote",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "\"We wanted long distance, large payload, and the ability to fly to moving ships,\" Yuji Hirose, who leads ANA's drone operations, explains. \"We researched all around the world. I found Skyways through articles in the media.\"",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "– proven technology, real operations. ANA sent crews to the United States for training. Skyways deployed teams to Japan. They flew the missions: ship resupply, 150-kilometer island runs, operations in distant waters off the coast of Japan. The aircraft, autonomy, and procedures all held.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "That validation opened commercial doors. The same aircraft, routes, and trained crews could serve cargo delivery. Defense proved the technology in demanding conditions. Commercial operations would drive sustainable economics.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "Japan comprises thousands of islands stretching from Hokkaido to Okinawa. Many lack airports. Ferry service is infrequent. Conventional logistics can take days or weeks.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "The hybrid powerplant also provides critical safety over water. Electric systems handle vertical flight; an internal combustion engine powers cruise. The systems operate independently. If the cruise engine fails, VTOL systems still function for controlled landing.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomy reduces operational footprint. Computer vision handles navigation and precision landing. One trained operator can oversee operations from a flight center without extensive ground crews at every destination.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "The reason autonomous cargo works now comes down to cost structure. Traditional helicopter logistics – like an MH-60 Seahawk sortie – drive significant cost per flight hour and a full crew. For small payloads, the economics don't work. Most missions don't fly because they can't pencil.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "A ground crew member prepares a Skyways V2 aircraft for launch near Okinawa, Japan.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": ", reducing human resource costs that represent 40-50% of operations in Japan. \"Having a single operator able to oversee five aircraft or 10 aircraft, 15 aircraft, we're able to reduce the human resource costs a lot,\" Yuji notes.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Kumejima Island, Japan · 2026",
+    "url": "https://www.skyways.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With ANA, Skyways completed long-distance medical-delivery trials serving Japan's remote island communities in Okinawa.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Skyways | Customer Story: ANA and Skyways Are Building a Logistics Backbone for Japan's Remote Islands",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "Customer Story: ANA and Skyways Are Building a Logistics Backbone for Japan's Remote Islands",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "Skyways and ANA are proving how autonomous cargo operations can build a new logistics backbone for Japan’s remote",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": ": Thousands of Japanese islands lack access to same-day delivery and basic goods that urban residents take for granted. Autonomous aircraft operations are changing that reality.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": ": Japan's remote islands often lack airports or suitable landing areas. Skyways' VTOL capability enables operations from parking lots or warehouse roofs, while fixed-wing cruise covers hundreds of kilometers between islands.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": ": Operations are already underway in Okinawa with expansion planned across multiple regions, building toward a distributed delivery network serving Japan's island communities.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "Thousands of Japanese islands operate this way. Pharmacies stock what they can store. Retailers skip locations that don't justify freight costs. Critical supplies move on ship schedules designed for bulk, not urgency.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "A Skyways V2 aircraft flies autonomously over reef flats near Okinawa, Japan, supporting operations across the island chain.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "A Skyways aircraft flies over coastal waters near Okinawa, Japan, supporting island logistics operations.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "The connection was made through Mitsui Bussan Aerospace, one of Japan's major trading firms. What convinced ANA once the conversation started? Skyways had already demonstrated",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "– proven technology, real operations. ANA sent crews to the United States for training. Skyways deployed teams to Japan. They flew the missions: ship resupply, 150-kilometer island runs, operations in distant waters off the coast of Japan. The aircraft, autonomy, and procedures all held.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "Japan comprises thousands of islands stretching from Hokkaido to Okinawa. Many lack airports. Ferry service is infrequent. Conventional logistics can take days or weeks.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "A Skyways V2 aircraft lands near an urban coastline in Okinawa, Japan.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "A ground crew member prepares a Skyways V2 aircraft for launch near Okinawa, Japan.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": ", reducing human resource costs that represent 40-50% of operations in Japan. \"Having a single operator able to oversee five aircraft or 10 aircraft, 15 aircraft, we're able to reduce the human resource costs a lot,\" Yuji notes.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "A Skyways V2 aircraft, marked with ANA Holdings branding, flies above a rocky coastline in Okinawa, Japan.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "\"It's going to be a new infrastructure in Japan,\" Yuji says. \"Skyways network will be a new infrastructure in Japan.\"",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "A Skyways V2 staged at a Japanese port, ready for the next island run.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "ANA and Skyways are working with Japan's aviation authorities on approvals for expanded operations, including type certification required for routes over populated areas. The operational model and technology proven in Japan become a template exportable to any island geography worldwide – Indonesia, the Philippines, Greece, the Caribbean, and so on.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "ANA operates Skyways aircraft for cargo delivery across Japan's island regions. ANA procures aircraft, trains operators, manages flight operations, and coordinates with logistics partners. Skyways provides the technology, autonomy systems, and software updates.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "Why do Japan's islands create logistics challenges?",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "Japan comprises thousands of islands, many lacking airports or frequent ferry service. Conventional logistics take days or weeks. The cost structure of traditional air transport makes small-payload deliveries unviable, leaving island communities underserved.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "海上自衛隊、日本初VTOL型ドローンで洋上の艦艇へ物資輸送を実施 – DRONE.jp",
+    "url": "https://drone.jp/news/20241028182919101826.html",
+    "pass": 3
+   },
+   {
+    "quote": "海上自衛隊、日本初VTOL型ドローンで洋上の艦艇へ物資輸送を実施",
+    "url": "https://drone.jp/news/20241028182919101826.html",
+    "pass": 3
+   },
+   {
+    "quote": "タイムラインを合わせる日本、次に必要なものは [相良静造のUnmanned World] Vol.14",
+    "url": "https://drone.jp/news/20241028182919101826.html",
+    "pass": 3
+   },
+   {
+    "quote": "DRONE.jp（https://drone.jp/、以下本サイト）は、ドローンやマルチコプターについての本格的な解説やおすすめ、最新情報を発信する日本初のメディアとして、「Explore the Future」をタグラインに2015年スタートしました",
+    "url": "https://drone.jp/news/20241028182919101826.html",
+    "pass": 3
+   },
+   {
+    "quote": "またWilhelmsen Ships Services代理店副営業部長であるマリウス・ヨハンセンはこう述べた",
+    "url": "https://drone.jp/news/2019041815005625651.html",
+    "pass": 3
+   },
+   {
+    "quote": "海運業界において無人航空機システムが使用されることによって、既存の運送代理店がサービスを拡大し、配達スピードを6倍にまで上げ、二酸化炭素排出量を削減し、ランチボートでの配達に関係した事故のリスクを著しく下げることができるための基礎が築かれる",
+    "url": "https://drone.jp/news/2019041815005625651.html",
+    "pass": 3
+   },
+   {
+    "quote": "この業務提携は、飛行術における垂直上昇法に関するエアバスの広範囲な専門技術と、ウィルヘルムセンの海運代理店サービスへの豊富な経験とを結びつけるものである",
+    "url": "https://drone.jp/news/2019041815005625651.html",
+    "pass": 3
+   },
+   {
+    "quote": "タイムラインを合わせる日本、次に必要なものは [相良静造のUnmanned World] Vol.14",
+    "url": "https://drone.jp/news/2019041815005625651.html",
+    "pass": 3
+   },
+   {
+    "quote": "DRONE.jp（https://drone.jp/、以下本サイト）は、ドローンやマルチコプターについての本格的な解説やおすすめ、最新情報を発信する日本初のメディアとして、「Explore the Future」をタグラインに2015年スタートしました",
+    "url": "https://drone.jp/news/2019041815005625651.html",
+    "pass": 3
+   },
+   {
+    "quote": "Skyways | Customer Story: ANA and Skyways Are Building a Logistics Backbone for Japan's Remote Islands",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Story: ANA and Skyways Are Building a Logistics Backbone for Japan's Remote Islands",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "Skyways and ANA are proving how autonomous cargo operations can build a new logistics backbone for Japan’s remote",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": ": Thousands of Japanese islands lack access to same-day delivery and basic goods that urban residents take for granted. Autonomous aircraft operations are changing that reality.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": ": Japan's remote islands often lack airports or suitable landing areas. Skyways' VTOL capability enables operations from parking lots or warehouse roofs, while fixed-wing cruise covers hundreds of kilometers between islands.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": ": Operations are already underway in Okinawa with expansion planned across multiple regions, building toward a distributed delivery network serving Japan's island communities.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "Thousands of Japanese islands operate this way. Pharmacies stock what they can store. Retailers skip locations that don't justify freight costs. Critical supplies move on ship schedules designed for bulk, not urgency.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "A Skyways V2 aircraft flies autonomously over reef flats near Okinawa, Japan, supporting operations across the island chain.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "A Skyways aircraft flies over coastal waters near Okinawa, Japan, supporting island logistics operations.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "The connection was made through Mitsui Bussan Aerospace, one of Japan's major trading firms. What convinced ANA once the conversation started? Skyways had already demonstrated",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "– proven technology, real operations. ANA sent crews to the United States for training. Skyways deployed teams to Japan. They flew the missions: ship resupply, 150-kilometer island runs, operations in distant waters off the coast of Japan. The aircraft, autonomy, and procedures all held.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan comprises thousands of islands stretching from Hokkaido to Okinawa. Many lack airports. Ferry service is infrequent. Conventional logistics can take days or weeks.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "A Skyways V2 aircraft lands near an urban coastline in Okinawa, Japan.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "A ground crew member prepares a Skyways V2 aircraft for launch near Okinawa, Japan.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": ", reducing human resource costs that represent 40-50% of operations in Japan. \"Having a single operator able to oversee five aircraft or 10 aircraft, 15 aircraft, we're able to reduce the human resource costs a lot,\" Yuji notes.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "A Skyways V2 aircraft, marked with ANA Holdings branding, flies above a rocky coastline in Okinawa, Japan.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "\"It's going to be a new infrastructure in Japan,\" Yuji says. \"Skyways network will be a new infrastructure in Japan.\"",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "A Skyways V2 staged at a Japanese port, ready for the next island run.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "ANA and Skyways are working with Japan's aviation authorities on approvals for expanded operations, including type certification required for routes over populated areas. The operational model and technology proven in Japan become a template exportable to any island geography worldwide – Indonesia, the Philippines, Greece, the Caribbean, and so on.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "ANA operates Skyways aircraft for cargo delivery across Japan's island regions. ANA procures aircraft, trains operators, manages flight operations, and coordinates with logistics partners. Skyways provides the technology, autonomy systems, and software updates.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "Why do Japan's islands create logistics challenges?",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan comprises thousands of islands, many lacking airports or frequent ferry service. Conventional logistics take days or weeks. The cost structure of traditional air transport makes small-payload deliveries unviable, leaving island communities underserved.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "Skyways was born in defense and is operating today. Its V2 aircraft already fly on three continents with customers that include the U.S. Air Force, the U.S. Navy, Japan's Self-Defense Forces, All Nippon Airways, and the global logistics group DSV.",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "Partnerships with ANA in Japan and RWE/Skyports in Germany demonstrate real‑world operations across APAC and Europe, including temperature‑controlled medical logistics and offshore wind BVLOS missions. DoD programs like Project ULTRA add U.S. operational depth.",
+    "url": "https://builtin.com/company/skyways/faq/stability-growth",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Critical parts, cold chain, supplies ride as they come. Between cargo flights, Skyreach's 7.0 cubic foot bay mounts sensors and comms. The same bay carries temperature-controlled medical cargo.",
+    "url": "https://www.skyways.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Skyreach bay carries them all: 7.0 cu ft, mission-configurable, with a defined interface for third-party sensor and mission-system integration.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Skyways aircraft have already launched and recovered from ship decks, carrier decks, harbor pads and open fields, and the planned network spans 17 countries and territories with 50+ hubs worldwide by 2030.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "The proof flew in July 2021, when a Navy UX-24 test team operated V2 ship-to-ship with no Skyways employees aboard either vessel.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "February 2021 · U.S. Navy · Carrier",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Skyways deployed three V2 aircraft aboard USS Curtis Wilbur (DDG-54) for Trident Warrior at RIMPAC 2024, flying seven sorties from its deck.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Beaconless Ship Acquisition",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "In a 2024 demonstration for the U.S. Navy, a Skyways V2 acquired the vessel visually and flew a triangular intercept pattern, with no GPS beacon on the target ship guiding it. Hovering over the ship, it handed the landing to Skyways precision-landing software. The aircraft found the ship on its own.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Jessica leads Skyways' brand, communications, and investor communications and shapes the company narrative that anchors its industry leadership. Her career spans senior roles at deep tech and manufacturing startups and work for global brands including American Airlines, BP, BASF, and Subaru of America.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Offers include stock options, so you own part of what you build.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to base salary, offers include stock options, so you own part of what you build. Benefits include medical, dental, and vision coverage, paid time off, paid holidays, a 401k, and life insurance.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You will build the infrastructure needed to test complex systems quickly and accurately, including fixtures, instrumentation, data acquisition systems, and automated test workflows. The role requires strong engineering fundamentals, hands-on execution, and the ability to diagnose problems across mechanical and electrical systems.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Design and build test fixtures, instrumentation setups, and data acquisition systems",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Hands-on experience with instrumentation, sensors, signal conditioning, and data acquisition systems",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Fabricate and work with composite parts (one part of the job, not the whole job)",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Own Systems Workstreams: Define scope, requirements, interfaces, acceptance criteria, dependencies, and verification plans. Carry assigned work through integration and closure, with clear evidence of delivered outcomes.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "On Kumejima Island, 90 kilometers west of Okinawa's main hub, a child's asthma inhaler isn't a pharmacy trip – it's a week-long wait. A birthday gift for your mother means a ferry ride, an overnight stay, and a day's wages lost. The manga magazine your son wants? It arrives two weeks after publication, if the distributor bothers shipping to a small island at all.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "For island residents, the impact is tangible. Pharmacies order supplies with confidence they'll arrive quickly. Families access goods without traveling to the main island. Local businesses have reliable logistics they can depend on.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "At DSV, our purpose is to keep customers' supply chains flowing. We move millions of shipments for our customers every year, ensuring reliable and efficient transport and logistics services by air, sea, road and rail around a world in constant change. Our vision is to create long-term, sustainable growth and value for our customers, employees, shareholders and society.",
+    "url": "https://www.skyways.com/newsroom/skyways-dsv-commercial-offshore-logistics-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Close to 150,000 employees in over 90 countries work diligently to deliver great customer experiences and high-quality services. Our commitment to sustainable business practices is a central element of our overall business strategy.",
+    "url": "https://www.skyways.com/newsroom/skyways-dsv-commercial-offshore-logistics-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "The real questions are not: How far can it fly? How much can it carry? How autonomous is it?",
+    "url": "https://www.skyways.com/newsroom/no-one-cares-about-the-damn-aircraft-part-ii",
+    "pass": 1
+   },
+   {
+    "quote": "On Kumejima Island, 90 kilometers west of Okinawa's main hub, a child's asthma inhaler isn't a pharmacy trip – it's a week-long wait. A birthday gift for your mother means a ferry ride, an overnight stay, and a day's wages lost. The manga magazine your son wants? It arrives two weeks after publication, if the distributor bothers shipping to a small island at all.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "For island residents, the impact is tangible. Pharmacies order supplies with confidence they'll arrive quickly. Families access goods without traveling to the main island. Local businesses have reliable logistics they can depend on.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "Location: Farson, Wyoming Award: Innovative Applications Project Team Owner/Engineer: U.S. Bureau of Reclamation Contractor: Geo-Solutions, Inc. Slag Cement: Skyway Cement Geo-Solutions, Inc., was subcontracted to install a cement-bentonite cutoff wall for the Big Sandy Dam Reservoir Enlargement Project to prevent seepage out of Big Sandy Reservoir in Farson, WY, USA. The project is owned by […]",
+    "url": "https://www.skywaycement.com/category/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Slag cement contributed to functional and aesthetic requirements on the Dublin Link pedestrian bridge. The Scioto River divides the growing city of Dublin, Ohio, so in 2017 the city announced a plan to build a bridge dedicated to pedestrian traffic and cyclists. Planners wanted the new bridge to be a compelling part of the pedestrian […]",
+    "url": "https://www.skywaycement.com/category/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Skyway Cement Company is the Eagle Materials subsidiary that manufactures and distributes 100% US-sourced slag cement. Eagle Materials (EGM), a NYSE-listed company is the largest US-headquartered portland cement manufacturer.",
+    "url": "https://www.skywaycement.com/category/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Skyways Stock Price, Valuation & IPO Outlook 2026 — IPO CLUB",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "The current V2 platform is operational and revenue-generating today. The next-generation V3 is described by the company as the only flight-proven long-range VTOL platform of its class, designed for mass-scale production.",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "Skyways is a private company and is not publicly traded on the NASDAQ or NYSE. For eligible investors, one way to gain exposure to Skyways is through America 2030, an IPO CLUB fund that currently holds Skyways as part of a portfolio of 12 private companies.",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "How can I invest in Skyways pre-IPO through IPO CLUB?",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "What are the key risks of buying Skyways pre-IPO shares?",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "What does the IPO CLUB page say about Skyways valuation and funding?",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "Skyways is shown on the page with its latest funding listed as a $37 million USAF AFWERX award (a government contract), while its valuation is listed as not disclosed.",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "Skyways leadership is listed on the page as Charles Acknin (Co-Founder & CEO, ex-Google) and Chris Craighill (Co-Founder & CTO).",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "SpaceX has stopped taking rideshare bookings beyond 2028. We map who can carry small satellites next, split between listed companies and private ones, by price per kilogram, flight record and valuation.",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "America 2030 is IPO CLUB's late-stage private markets fund backing Series B companies in Defense, Energy, AI Infrastructure, Robotics, Critical Minerals and Space.",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "Inside IPO CLUB Membership: Research & Deal Access",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "Take a visual tour of the IPO CLUB Data Room, including 132 company profiles, sector research, Club Letters and live private-market opportunities.",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "IPO CLUB is the brand of Higive Ltd., an exempt reporting adviser with the U.S. Securities and Exchange Commission. We select a small number of predominantly late-stage U.S. private companies and offer access through single-company vehicles and managed funds.",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "Fund I (IPO.CLUB LLC) and America 2030 (a series of IPO CLUB II LLC) are managed by Higive Ltd, an Exempt Reporting Adviser that files reports with the U.S. Securities and Exchange Commission (CRD No. 320736). Higive Ltd is a company registered in England and Wales (No. 07564656), registered office: 1 Beauchamp Court, 10 Victors Way, Barnet, Hertfordshire, EN5 5TZ, United Kingdom.",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "The inclusion of company logos on this website is for illustrative purposes only and does not imply any partnership, endorsement, or other formal association between IPO CLUB or America 2030 and the companies depicted. Logos cover both companies held in our funds and companies under research coverage; a logo alone does not indicate a current holding.",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "IPO CLUB and America 2030 do not claim any affiliation with these companies unless explicitly stated otherwise. Any investment decisions are subject to due diligence, and there is no guarantee that these companies will become part of our portfolio.",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/185180-41",
+    "pass": 3
+   },
+   {
+    "quote": "Skyways has 39 total employees.",
+    "url": "https://pitchbook.com/profiles/company/185180-41",
+    "pass": 3
+   },
+   {
+    "quote": "What is Skyways’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/185180-41",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Skyways is",
+    "url": "https://pitchbook.com/profiles/company/185180-41",
+    "pass": 3
+   },
+   {
+    "quote": "Skyway: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Skyway",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Skyway",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Skyway",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Skyway",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Skyway",
+    "pass": 3
+   },
+   {
+    "quote": "Product + Tech Employees",
+    "url": "https://builtin.com/company/skyways/faq/stability-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Project ULTRA BVLOS airport‑to‑airport flights and ANA Holdings' Oct 2025–Jan 2026 Okinawa medical trials codify a demo‑to‑deployment pipeline. Employees progress missions through defined gates—from prototype to repeated routes—accelerating learning, approvals, and revenue confidence.",
+    "url": "https://builtin.com/company/skyways/faq/stability-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Much of the momentum rests on converting awards, demos, and pilots into sustained programs, with defense work described as contract‑driven and potentially lumpy. Key unit volumes, backlog, and audited revenue are not publicly disclosed, adding execution risk to the near‑term scale narrative.",
+    "url": "https://builtin.com/company/skyways/faq/stability-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Undiversified Revenue Streams:",
+    "url": "https://builtin.com/company/skyways/faq/stability-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Public signals emphasize defense awards and a handful of early commercial trials, suggesting revenues may be concentrated in a few programs. Private company opacity limits confirmation of diversified, recurring revenue across multiple sectors or geographies.",
+    "url": "https://builtin.com/company/skyways/faq/stability-growth",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "SkyNav owns it: route planning, flight execution and live supervision of aircraft, hubs and operators in a single operating view.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Jessica leads Skyways' brand, communications, and investor communications and shapes the company narrative that anchors its industry leadership. Her career spans senior roles at deep tech and manufacturing startups and work for global brands including American Airlines, BP, BASF, and Subaru of America.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "VP, Developmental Manufacturing",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Stephen leads Skyways' developmental manufacturing, supply chain and facilities as the company scales. He brings more than 17 years of aerospace experience, much of it at Scaled Composites on programs including Stratolaunch and Model 401.",
+    "url": "https://www.skyways.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "operation. Engineers, operators and builders in Austin work close to",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Build mission planning, tasking and route-review software used by Skyways flight operations.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Background in aviation or aerospace.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A&P license or an equivalent airframe/powerplant background",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware, Manufacturing & Test",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You will work closely with flight, software, manufacturing, and supply chain to turn designs into reliable operational aircraft and improve them as the fleet scales.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Partner closely with manufacturing, supply chain, and flight test to close the loop between design, production, and operations.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Mechanical Engineers work across engineering, manufacturing, and flight operations to ensure hardware performs reliably and can be built efficiently. The role requires strong technical judgment, comfort working directly with hardware, and the ability to move quickly through design, build, and test cycles.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with manufacturing early in the design process to ensure systems are buildable and capable of scaling to production",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Strong collaboration skills across engineering, manufacturing, and operations teams",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Partner closely with manufacturing to ensure designs are buildable, testable, and capable of scaling from prototype to repeatable production",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Ability to collaborate across engineering, manufacturing, and flight operations teams",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Experience with composite structures or lightweight aerospace systems",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Experience leading hardware development in robotics, aerospace, or autonomous systems",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You will build the production system, not inherit one. That includes the factory, the processes, the team, and the operating cadence. This is a hands-on leadership role where execution matters more than strategy slides.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Stand up manufacturing systems that actually run under real conditions",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Build, staff, and lead production, manufacturing engineering, and quality as one organization, including hiring, development, and the management layer beneath you",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You have built manufacturing processes that were used daily, not just designed on paper",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Built a factory or production line from scratch",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You will work with everyone who touches the aircraft: engineers, technicians, flight crews, and leadership. When you find the answer, they will understand it and act on it.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Find Problems Before They Fly: Analyze flight logs, telemetry, manufacturing, and maintenance data to spot systemic failure modes and trends early.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Close the Loop: Feed what you learn into design, manufacturing, maintenance, and flight operations so each new aircraft is more reliable than the last.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Bachelor’s degree in Aerospace, Mechanical, Electrical, or Systems Engineering, or a related technical discipline.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Clear, direct communication with the whole organization: engineering, technicians, flight crews, and leadership.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "You will work closely with mechanical, electrical, software, manufacturing, and flight test teams to identify failures early, improve system reliability, and support rapid aircraft iteration.",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": ": Japan's remote islands often lack airports or suitable landing areas. Skyways' VTOL capability enables operations from parking lots or warehouse roofs, while fixed-wing cruise covers hundreds of kilometers between islands.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "The connection was made through Mitsui Bussan Aerospace, one of Japan's major trading firms. What convinced ANA once the conversation started? Skyways had already demonstrated",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "The hybrid powerplant also provides critical safety over water. Electric systems handle vertical flight; an internal combustion engine powers cruise. The systems operate independently. If the cruise engine fails, VTOL systems still function for controlled landing.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "ANA operates Skyways aircraft for cargo delivery across Japan's island regions. ANA procures aircraft, trains operators, manages flight operations, and coordinates with logistics partners. Skyways provides the technology, autonomy systems, and software updates.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Skyways' hybrid powerplant provides redundancy – if the cruise engine fails, VTOL electric systems still function for controlled landing. The aircraft uses computer vision for navigation and has demonstrated reliable operations over water across hundreds of kilometers.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "pass": 1
+   },
+   {
+    "quote": "medical and industrial payloads where time is the cost",
+    "url": "https://www.skyways.com/newsroom/no-one-cares-about-the-damn-aircraft-part-ii",
+    "pass": 1
+   },
+   {
+    "quote": ": Japan's remote islands often lack airports or suitable landing areas. Skyways' VTOL capability enables operations from parking lots or warehouse roofs, while fixed-wing cruise covers hundreds of kilometers between islands.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "The connection was made through Mitsui Bussan Aerospace, one of Japan's major trading firms. What convinced ANA once the conversation started? Skyways had already demonstrated",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "The hybrid powerplant also provides critical safety over water. Electric systems handle vertical flight; an internal combustion engine powers cruise. The systems operate independently. If the cruise engine fails, VTOL systems still function for controlled landing.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "ANA operates Skyways aircraft for cargo delivery across Japan's island regions. ANA procures aircraft, trains operators, manages flight operations, and coordinates with logistics partners. Skyways provides the technology, autonomy systems, and software updates.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Skyways' hybrid powerplant provides redundancy – if the cruise engine fails, VTOL electric systems still function for controlled landing. The aircraft uses computer vision for navigation and has demonstrated reliable operations over water across hundreds of kilometers.",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "Skyway Cement Company is the Eagle Materials subsidiary that manufactures and distributes 100% US-sourced slag cement. Eagle Materials (EGM), a NYSE-listed company is the largest US-headquartered portland cement manufacturer.",
+    "url": "https://www.skywaycement.com/category/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator, Capital Factory, Liquid 2 Ventures, Social Capital, Leonid Capital Partners",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "Prior backers shown: Y Combinator, Capital Factory, Liquid 2 Ventures, Social Capital, and a Leonid Capital Partners debt facility.",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://pitchbook.com/profiles/company/185180-41",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of advanced unmanned aerial systems designed to transform logistics and operational efficiency. The company offers drone hardware, software, and AI technology that enable fully autonomous operations, enabling defense, maritime, oil and gas, and manufacturing industries to achieve scalable, integrated aerial solutions.",
+    "url": "https://pitchbook.com/profiles/company/185180-41",
+    "pass": 3
+   },
+   {
+    "quote": "Skyways’s primary industry is Aerospace and Defense.",
+    "url": "https://pitchbook.com/profiles/company/185180-41",
+    "pass": 3
+   },
+   {
+    "quote": "Public contracting and financing in 2025 (a $37M AFWERX/USAF award plus a $5M debt facility) signal resources to move V3 from prototype toward full‑rate production and accelerate DoD builds. These deals indicate a shift from R&D to manufacturing scale.",
+    "url": "https://builtin.com/company/skyways/faq/stability-growth",
+    "pass": 3
+   },
+   {
+    "quote": "V2 is stated as in production and flying missions, while V3 targets 100+ lb payloads, 1,000+ miles, and 20+ hours with readiness aimed for 2026. Awards and test campaigns are positioned to transition V3 into mass manufacturing.",
+    "url": "https://builtin.com/company/skyways/faq/stability-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Evidence centers heavily on U.S. DoD logistics and select industrial/offshore use cases, with fewer indications of broad commercial networks. Compared with high‑volume consumer delivery leaders, the company does not claim comparable delivery counts.",
+    "url": "https://builtin.com/company/skyways/faq/stability-growth",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Prior OEM field-service or customer-facing technical-support experience",
+    "url": "https://www.skyways.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "So, what should aircraft OEMs care about?",
+    "url": "https://www.skyways.com/newsroom/no-one-cares-about-the-damn-aircraft-part-ii",
+    "pass": 1
+   },
+   {
+    "quote": "If an OEM cannot explain where it fits in the customer's supply chain and which KPI it affects, it is only selling an aircraft.",
+    "url": "https://www.skyways.com/newsroom/no-one-cares-about-the-damn-aircraft-part-ii",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Skyways 、自律型Skyreach貨物航空機の生産を開始 - Unite.AI — Skyways 、自律型Skyreach貨物航空機の生産を開始 - Unite.AI Unite.AI https://www.unite.ai > skyways-starts-production-of-its-au...",
+    "url": "https://www.unite.ai/ja/skyways-starts-production-of-its-autonomous-skyreach-cargo-aircraft/",
+    "pass": 3
+   },
+   {
+    "quote": "Airbus、 Skyways による岸から船までの配達の試み - DRONE.jp — Airbus、 Skyways による岸から船までの配達の試み - DRONE.jp DRONE.jp https://drone.jp > news",
+    "url": "https://drone.jp/news/2019041815005625651.html",
+    "pass": 3
+   },
+   {
+    "quote": "Skyways Hotel（ロサンゼルス）：（最新料金 - Booking.com — Skyways Hotel（ロサンゼルス）：（最新料金 - Booking.com Booking.com https://www.booking.com > ... > ロサンゼルスのホテル",
+    "url": "https://www.booking.com/hotel/us/super-8-los-angeles-airport-lax.ja.html",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Story: ANA and Skyways Are Building a Logistics ... — Customer Story: ANA and Skyways Are Building a Logistics ... Skyways Air Transportation https://skyways.com > newsroom > cu...",
+    "url": "https://skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "pass": 3
+   },
+   {
+    "quote": "Skyways | Long-Range Autonomous Logistics for Commercial ... — Skyways | Long-Range Autonomous Logistics for Commercial ... skyways.com https://www.skyways.com",
+    "url": "https://www.skyways.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Skyways | LinkedIn — Skyways | LinkedIn LinkedIn https://jp.linkedin.com > company > s...",
+    "url": "https://jp.linkedin.com/company/skyways-air-transportation-inc",
+    "pass": 3
+   },
+   {
+    "quote": "skyways air transportation inc - Firm | SBIR — skyways air transportation inc - Firm | SBIR | SBIR (.gov) https://www.sbir.gov > portfolio",
+    "url": "https://www.sbir.gov/portfolio/1542801",
+    "pass": 3
+   },
+   {
+    "quote": "SKYWAYS – AUTONOMOUS AERIAL SYSTEMS FOR ... — SKYWAYS – AUTONOMOUS AERIAL SYSTEMS FOR ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/DefenseAdvancement/videos/skyways-autonomous-aerial-systems-for-defense-logistics-and-rapid-supply-operati/1454461049479123/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Story: Skyports and Skyways : Turning Autonomy ... — Customer Story: Skyports and Skyways : Turning Autonomy ... skyways.com https://www.skyways.com > newsroom",
+    "url": "https://www.skyways.com/newsroom/customer-story-skyports-and-skyways-turning-autonomy-into-customer-advantage",
+    "pass": 3
+   },
+   {
+    "quote": "Skyways Stock Price, Valuation & IPO Outlook 2026 — Skyways Stock Price, Valuation & IPO Outlook 2026 IPO CLUB https://www.ipo.club > deals > skyways",
+    "url": "https://www.ipo.club/deals/skyways",
+    "pass": 3
+   },
+   {
+    "quote": "Skyways 2026 Company Profile: Valuation, Funding & Investors — Skyways 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/185180-41",
+    "pass": 3
+   },
+   {
+    "quote": "Skyways Company Growth, Stability & Outlook 2026 | Built In — Skyways Company Growth, Stability & Outlook 2026 | Built In Built In https://builtin.com > ... > Skyways",
+    "url": "https://builtin.com/company/skyways/faq/stability-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Skyways Air Services Limited revenue doubled as funding rose — Skyways Air Services Limited revenue doubled as funding rose Multibagg AI https://www.multibagg.ai > ... > Articles",
+    "url": "https://www.multibagg.ai/market-pulse/articles/skyways-air-services-revenue-funding-rhp-cmu8ydbxu001r5qnt9a0qljxo",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/185180-41",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Skyway",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Skyway",
+    "pass": 3
+   },
+   {
+    "quote": "contact us via this form",
+    "url": "https://builtin.com/company/skyways/faq/stability-growth",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Skyways on X Skyways on X X https://x.com > @skyways",
+    "url": "https://x.com/skyways/status/2119806351262060961",
+    "pass": 3
+   },
+   {
+    "quote": "Ronald van Loon on X: \" Skyways V2 #Autonomous Aircraft ... Ronald van Loon on X: \" Skyways V2 #Autonomous Aircraft ... X https://x.com > @Ronald_vanLoon",
+    "url": "https://x.com/Ronald_vanLoon/status/2094868697554809127",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Skyways | LinkedIn Skyways | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/skyways-air-transportation-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Charles Acknin - CEO & Co-Founder at Skyways - LinkedIn Charles Acknin - CEO & Co-Founder at Skyways - LinkedIn LinkedIn https://www.linkedin.com > charlesac...",
+    "url": "https://www.linkedin.com/in/charlesacknin",
+    "pass": 3
+   },
+   {
+    "quote": "Jessica Hogan - CMO @ Skyways - LinkedIn Jessica Hogan - CMO @ Skyways - LinkedIn LinkedIn https://www.linkedin.com > jhogan11",
+    "url": "https://www.linkedin.com/in/jhogan11",
+    "pass": 3
+   },
+   {
+    "quote": "Isaac Roberts - Skyways | LinkedIn Isaac Roberts - Skyways | LinkedIn LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/isaac-roberts-0409a97",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SKYWAYS – AUTONOMOUS AERIAL SYSTEMS FOR ... SKYWAYS – AUTONOMOUS AERIAL SYSTEMS FOR ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/DefenseAdvancement/videos/skyways-autonomous-aerial-systems-for-defense-logistics-and-rapid-supply-operati/1454461049479123/",
+    "pass": 3
+   },
+   {
+    "quote": "SKYWAYS CARGO UAV – LONG RANGE HYBRID ... SKYWAYS CARGO UAV – LONG RANGE HYBRID ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/unmannedsystem/videos/skyways-cargo-uav-long-range-hybrid-aircraft-for-payload-deliverythe-third-versi/3396055770603256/",
+    "pass": 3
+   },
+   {
+    "quote": "Texas Skyways Cessna 182 conversion costs? - Facebook Texas Skyways Cessna 182 conversion costs? - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/6182392538/posts/10162375271242539/",
+    "pass": 3
+   },
+   {
+    "quote": "Skyways SLS Logistik Co., Ltd. - Facebook Skyways SLS Logistik Co., Ltd. - Facebook Facebook https://www.facebook.com > skyways.vietnam",
+    "url": "https://www.facebook.com/skyways.vietnam/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.skyways.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyways.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyways.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyways.com/newsroom/skyways-dsv-commercial-offshore-logistics-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skyways.com/newsroom/no-one-cares-about-the-damn-aircraft-part-ii",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://x.com/iw_toshiki/status/1850855031744151584",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://skyway.ntt.com/ja/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://emira-t.jp/topics/10971/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drone.jp/news/20241028182919101826.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drone.jp/news/2019041815005625651.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.booking.com/hotel/us/super-8-los-angeles-airport-lax.ja.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sky-sola.com/distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/383/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/skyways-air-transportation-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sbir.gov/portfolio/1542801",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJtm0vpYG72rjQQKFkLQxcVDGybDr3g15fXQIGgbbwdRCN5vV65",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.skywaycement.com/category/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.3ds.com/industries/transportation-mobility/redefining-urban-mobility-with-the-3dexperience-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://skyswitch.com/blog/become-a-whitelabel-voip-reseller-full-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipo.club/deals/skyways",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/185180-41",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://growjo.com/company/Skyway",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://builtin.com/company/skyways/faq/stability-growth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/skyways/status/2119806351262060961",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Ronald_vanLoon/status/2094868697554809127",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/skyways-air-transportation-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/charlesacknin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jhogan11",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/isaac-roberts-0409a97",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DefenseAdvancement/videos/skyways-autonomous-aerial-systems-for-defense-logistics-and-rapid-supply-operati/1454461049479123/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/unmannedsystem/videos/skyways-cargo-uav-long-range-hybrid-aircraft-for-payload-deliverythe-third-versi/3396055770603256/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/6182392538/posts/10162375271242539/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/skyways.vietnam/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/skyways-air-transportation-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Skyways 日本 導入",
+   "results": [
+    "https://x.com/iw_toshiki/status/1850855031744151584",
+    "https://skyway.ntt.com/ja/about/",
+    "https://emira-t.jp/topics/10971/",
+    "https://drone.jp/news/20241028182919101826.html",
+    "https://www.unite.ai/ja/skyways-starts-production-of-its-autonomous-skyreach-cargo-aircraft/",
+    "https://note.com/skyway/n/n51e7d8d32162",
+    "https://japan.zdnet.com/article/35199383/",
+    "https://www.facebook.com/JMSDF.PAO.fp/videos/%E8%BC%B8%E9%80%81%E7%94%A8uav%E4%BA%8B%E6%A5%AD/539560132203026/",
+    "https://finance.biggo.jp/news/T-PfoZsB_-qFsEgikqY7",
+    "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Skyways 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://drone.jp/news/2019041815005625651.html",
+    "https://www.booking.com/hotel/us/super-8-los-angeles-airport-lax.ja.html",
+    "https://sky-sola.com/distributor/",
+    "https://metoree.com/companies/383/distributors/",
+    "https://skyway.ntt.com/blog/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=2946",
+    "https://jp.vcube.com/sdk/blog/summary-of-webrtc-commercial-services.-twilio-skyway-sora-agora.io-etc.html",
+    "https://zendistro.com/category/ridersinfo/skyway-%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E6%83%85%E5%A0%B1",
+    "https://ier.co.jp/partner/",
+    "https://www.skyways.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Skyways Japan",
+   "results": [
+    "https://skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "https://www.skyways.com/",
+    "https://jp.linkedin.com/company/skyways-air-transportation-inc",
+    "https://www.sbir.gov/portfolio/1542801",
+    "https://www.facebook.com/DefenseAdvancement/videos/skyways-autonomous-aerial-systems-for-defense-logistics-and-rapid-supply-operati/1454461049479123/",
+    "https://bavovna.ai/manufactures/skyways/",
+    "https://www.thedronegirl.com/2025/11/21/skyways/",
+    "https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone/",
+    "https://go.skyways.com/",
+    "https://www.dnb.com/business-directory/company-profiles.skyway_japan_inc.c4680059bbe266f04bf8faa0a909d935.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Skyways manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJtm0vpYG72rjQQKFkLQxcVDGybDr3g15fXQIGgbbwdRCN5vV65",
+    "https://www.skywaycement.com/category/case-studies/",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://blog.3ds.com/industries/transportation-mobility/redefining-urban-mobility-with-the-3dexperience-platform/",
+    "https://www.skyways.com/newsroom/customer-story-skyports-and-skyways-turning-autonomy-into-customer-advantage",
+    "https://www.insightsoftware.com/resources/case-studies",
+    "https://www.factory-twin.com/casestudies",
+    "https://www.athenaswc.com/case-studies/",
+    "https://www.hpe.com/us/en/customer-case-studies.html",
+    "https://www.casestudies.com/customer/skyways"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Skyways white label OR reseller OR partner program",
+   "results": [
+    "https://www.intermedia.com/resellers",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://skyswitch.com/blog/become-a-whitelabel-voip-reseller-full-guide/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://payproglobal.com/how-to/start-white-label-saas/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Skyways founded funding employees revenue",
+   "results": [
+    "https://www.ipo.club/deals/skyways",
+    "https://pitchbook.com/profiles/company/185180-41",
+    "https://growjo.com/company/Skyway",
+    "https://builtin.com/company/skyways/faq/stability-growth",
+    "https://www.multibagg.ai/market-pulse/articles/skyways-air-services-revenue-funding-rhp-cmu8ydbxu001r5qnt9a0qljxo",
+    "https://skyways.com/newsroom/skyways-secures-5m-debt-facility-to-accelerate-production-of-autonomous-cargo-drones-for-us-dod/",
+    "https://www.dcvelocity.com/transportation/drone-deliveries/texas-firm-gains-37-million-air-force-backing-for-unmanned-cargo-planes",
+    "https://www.crunchbase.com/organization/skyways",
+    "https://tracxn.com/d/companies/skyways/__e-kRlmjzxL7dNCp7Kran28UqJhUO0hQ0EX2BxGihR0w",
+    "https://rocketreach.co/skyways-profile_b7b4f1f9c53bc156"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Skyways",
+   "results": [
+    "https://note.com/skyway",
+    "https://note.com/skyway/n/nf47b7f8bf282?hl=en",
+    "https://note.com/skyway/n/n9141ca2db61e",
+    "https://note.com/skyway/n/nd82fcefd5e5e",
+    "https://note.com/skyway/n/ne0064921035a",
+    "https://note.com/skyway/n/n9a84bb7533dc",
+    "https://note.com/skyway/n/ncf33ced91154?hl=en",
+    "https://note.com/skyway/n/n6bdf58c08af2",
+    "https://note.com/skyway/n/nd58a69e51be3",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Skyways",
+   "results": [
+    "https://x.com/skyways/status/2119806351262060961",
+    "https://x.com/Ronald_vanLoon/status/2094868697554809127",
+    "https://x.com/AUVSI/status/2115451018984980623",
+    "https://x.com/tectonicdefense/status/2119915769223954588",
+    "https://x.com/PRN_TopStories/status/2119898208591573312",
+    "https://x.com/droneslanding/status/2120112289864913227",
+    "https://x.com/Ronald_vanLoon/status/2104442756449939953",
+    "https://x.com/Fly_Airlink/status/2117167028620394767",
+    "https://x.com/wegro_app/status/2110765266502369469",
+    "https://x.com/skyways"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Skyways",
+   "results": [
+    "https://www.linkedin.com/company/skyways-air-transportation-inc",
+    "https://www.linkedin.com/in/charlesacknin",
+    "https://www.linkedin.com/in/jhogan11",
+    "https://www.linkedin.com/in/isaac-roberts-0409a97",
+    "https://www.linkedin.com/company/go-skyway",
+    "https://www.linkedin.com/company/skyways-air-transportation-inc/jobs",
+    "https://www.linkedin.com/company/skyways-media",
+    "https://www.linkedin.com/company/skyways-charter-llc",
+    "https://www.linkedin.com/in/williamswimberley",
+    "https://www.linkedin.com/company/skyways-technics-a-s/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Skyways",
+   "results": [
+    "https://www.facebook.com/DefenseAdvancement/videos/skyways-autonomous-aerial-systems-for-defense-logistics-and-rapid-supply-operati/1454461049479123/",
+    "https://www.facebook.com/unmannedsystem/videos/skyways-cargo-uav-long-range-hybrid-aircraft-for-payload-deliverythe-third-versi/3396055770603256/",
+    "https://www.facebook.com/groups/6182392538/posts/10162375271242539/",
+    "https://www.facebook.com/skyways.vietnam/",
+    "https://www.facebook.com/ieexplains/videos/skyways-is-an-austin-based-company-building-long-range-autonomous-cargo-aircraft/1558918248702232/",
+    "https://www.facebook.com/unmannedsystem/posts/skyways-cargo-uav-long-range-hybrid-aircraft-for-payload-deliverythe-third-versi/1847410300208099/",
+    "https://www.facebook.com/SpaceTechnologyPage/videos/skyways-v2-autonomous-cargo-aircraft/1526658448439621/",
+    "https://www.facebook.com/skywayslogisticsgroup/",
+    "https://www.facebook.com/groups/1631274990712456/posts/2463048417535105/",
+    "https://www.facebook.com/p/SkywaysOfficial-100092743297284/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Skyways note 社長",
+   "results": [
+    "https://www.skyways.com/newsroom/",
+    "https://www.youtube.com/watch?v=_6AGhC-L7BA",
+    "https://www.globenewswire.com/news-release/2026/01/22/3223911/0/en/skyways-strengthens-leadership-team-to-accelerate-rapid-growth.html",
+    "https://www.autonomyglobal.co/skyways-powers-historic-cargo-deliveries-to-offshore-windfarm/",
+    "https://www.statesman.com/business/technology/article/austin-skyways-autonomous-drone-aircraft-21311896.php",
+    "https://www.facebook.com/SpaceTechnologyPage/videos/skyways-v2-autonomous-cargo-aircraft/1526658448439621/",
+    "https://note.com/flightsinc",
+    "https://www.youtube.com/watch?v=eIQr2P6Cezc",
+    "https://www.commercialuavnews.com/infrastructure/skyways-and-the-pursuit-of-fully-autonomous-drone-deliveries",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Skyways X 投稿",
+   "results": [
+    "https://www.skyways.com/newsroom/",
+    "https://www.linkedin.com/company/skyways-air-transportation-inc",
+    "https://www.youtube.com/@skyways_official",
+    "https://www.youtube.com/watch?v=MTsfOkG3UVs",
+    "https://www.facebook.com/DefenseAdvancement/videos/skyways-autonomous-aerial-systems-for-defense-logistics-and-rapid-supply-operati/1454461049479123/",
+    "https://x.com/hashtag/Skyway",
+    "https://www.instagram.com/reel/Dc8fPWKieDT/",
+    "https://www.sbir.gov/portfolio/1542801",
+    "https://x.com/skyways",
+    "https://x.com/skyways2/with_replies"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

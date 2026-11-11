@@ -1,0 +1,438 @@
+{
+ "name": "Socialconstructco",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜NG",
+ "researched_at": "2026-11-11T00:47:54.123449+00:00",
+ "official_url": "http://socialconstructco.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Social Construct Co. — Digital Product Studio",
+    "url": "https://socialconstructco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most products fail in the seams — the places where data, logic, and people meet. We start there, mapping how information should move before we draw a single pixel.",
+    "url": "https://socialconstructco.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If you have any questions about working on a project together or partnering, please fill out the form below. We’ll get back to you as soon as possible.",
+    "url": "https://socialconstruct.com/contact/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Social Construct - FacebookSocial Construct (@socialconstructco) - InstagramContact - SOCIAL CONSTRUCTProptech startup Social Construct shutting down - GPAMSocial Construct 2026 Company Profile: Valuation, Funding ...Social Construct - LinkedInProptech Startup Social Construct Closing Down - The Real Deal — Jul 14, 2020 · Social Construct is a technology company that designs better buildings. Our ",
+    "url": "https://www.facebook.com/socialconstructco/",
+    "pass": 3
+   },
+   {
+    "quote": "Social Construct (@socialconstructco) - Instagram — 58 Followers, 2 Following, 8 Posts - Social Construct (@socialconstructco) on Instagram: \"\"",
+    "url": "https://www.instagram.com/socialconstructco/",
+    "pass": 3
+   },
+   {
+    "quote": "Social Construct - 2026 Company Profile, Team, Funding ...Social Construct 2026 Company Profile: Valuation, Funding ...Social Construct — Company Profile & Funding | Indexed.vcSocial Construct: Funding, Team & Investors | Startup IntrosSocial Construct - Crunchbase Company Profile & FundingSocial Construct Company Company Overview, Contact Details ...Annual Report on Social Construct's Revenue, Gr",
+    "url": "https://tracxn.com/d/companies/social-construct/__ygAGo5zQzjA8slFx0EB3K1UI8kvvgAW_6BFJngxCSb8",
+    "pass": 3
+   },
+   {
+    "quote": "Social Construct 2026 Company Profile: Valuation, Funding ...Social Construct — Company Profile & Funding | Indexed.vcSocial Construct: Funding, Team & Investors | Startup IntrosSocial Construct - Crunchbase Company Profile & FundingSocial Construct Company Company Overview, Contact Details ...Annual Report on Social Construct's Revenue, Growth, SWOT ... — Information on valuation, funding, cap ta",
+    "url": "https://pitchbook.com/profiles/company/265549-06",
+    "pass": 3
+   },
+   {
+    "quote": "Social Construct - Crunchbase Company Profile & FundingSocial Construct Company Company Overview, Contact Details ...Annual Report on Social Construct's Revenue, Growth, SWOT ... — Unlock company funding data, including rounds, dates, amounts, and investors. Access a complete feed of recent news and press, from product launches to leadership changes. $8.8M This year, Social Construct is projected ",
+    "url": "https://www.crunchbase.com/organization/social-construct-company",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Social Construct (@socialconstco) / Posts / X Location: San Francisco, CA Website: http://socialconstructco.com Joined: May 19, 2017 7 Posts 25 Following",
+    "url": "https://x.com/socialconstco",
+    "pass": 3
+   },
+   {
+    "quote": "Social Construct Consulting (@scconsultingfsj) / X Update with @ FinditFirstco: first sales are coming in, live on 5 platforms, new short videos, and a weekly Christmas gift series starts tomorrow. AI + social + simple systems. linktr.ee/finditfirstco #AI #FortStJohn 2 Social Construct Consulting @scconsultingfsj 5h",
+    "url": "https://x.com/scconsultingfsj",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Social Construct - FacebookSocial Construction Company - FacebookSocial Construct Media & Design - FacebookThe Social Construct - FacebookYCR New Cities - The New Cities project spun out of Y...The Social Construct - FacebookThe Social Status Co - Facebook Jul 14, 2020 · Social Construct. 17 followers. Social Construct is a technology company that designs better buildings. Our system delivers high",
+    "url": "https://www.facebook.com/socialconstructco/",
+    "pass": 3
+   },
+   {
+    "quote": "Social Construction Company - FacebookSocial Construct Media & Design - FacebookThe Social Construct - FacebookYCR New Cities - The New Cities project spun out of Y...The Social Construct - FacebookThe Social Status Co - Facebook Jun 2, 2026 · Social Construction Company. 377 followers. We are a Metro Detroit interior renovation company. We specalize in delivering our clients high quality, design ",
+    "url": "https://www.facebook.com/socialconstructioncompany/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://socialconstructco.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "http://rinnsyou.com/archives/114",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://core.ac.uk/download/pdf/70368592.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://viuoscience.com/social-constructionism/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nihongo-appliedlinguistics.net/wp/archives/138",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/socialconstructco/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/socialconstructco/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://socialconstruct.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://globalpropertyinc.com/2021/07/30/proptech-startup-social-construct-shutting-down/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/364756849_A_Case_Study_in_Social_Manufacturing_From_Social_Manufacturing_to_Social_Value_Chain",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mdpi.com/2075-1702/10/11/978",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/325255409_Social_informatics_of_intelligent_manufacturing_ecosystems_A_case_study_of_KuteSmart",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.strikingly.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/social-construct/__ygAGo5zQzjA8slFx0EB3K1UI8kvvgAW_6BFJngxCSb8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/265549-06",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/social-construct-company",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/social-construct",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/socialconstco",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/scconsultingfsj",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/socialconstructco/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/socialconstructioncompany/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Socialconstructco 日本 導入",
+   "results": [
+    "http://rinnsyou.com/archives/114",
+    "https://core.ac.uk/download/pdf/70368592.pdf",
+    "https://viuoscience.com/social-constructionism/",
+    "https://www.nihongo-appliedlinguistics.net/wp/archives/138",
+    "https://psycho-psycho.com/social-constructionism/",
+    "https://japan.zdnet.com/article/35253419/",
+    "https://www.linkedin.com/company/social-constrct"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Socialconstructco 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Socialconstructco Japan",
+   "results": [
+    "https://www.facebook.com/socialconstructco/",
+    "https://www.instagram.com/socialconstructco/",
+    "https://socialconstruct.com/contact/",
+    "https://globalpropertyinc.com/2021/07/30/proptech-startup-social-construct-shutting-down/",
+    "https://pitchbook.com/profiles/company/265549-06",
+    "https://www.linkedin.com/company/social-constrct",
+    "https://therealdeal.com/national/2021/07/30/proptech-startup-social-construct-shutting-down/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Socialconstructco manufacturing customer case study",
+   "results": [
+    "https://www.researchgate.net/publication/364756849_A_Case_Study_in_Social_Manufacturing_From_Social_Manufacturing_to_Social_Value_Chain",
+    "https://www.mdpi.com/2075-1702/10/11/978",
+    "https://www.researchgate.net/publication/325255409_Social_informatics_of_intelligent_manufacturing_ecosystems_A_case_study_of_KuteSmart",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://link.springer.com/chapter/10.1007/978-981-16-8074-8_17",
+    "https://www.loot-drop.io/startup/1424-social-construct",
+    "https://www.grantthornton.com/insights/case-studies/manufacturing/2025/customer-experience-transformation-at-a-global-manufacturer"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Socialconstructco white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.strikingly.com/reseller-program",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Socialconstructco founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/social-construct/__ygAGo5zQzjA8slFx0EB3K1UI8kvvgAW_6BFJngxCSb8",
+    "https://pitchbook.com/profiles/company/265549-06",
+    "https://indexed.vc/companies/social-construct-company",
+    "https://startupintros.com/orgs/social-construct",
+    "https://www.crunchbase.com/organization/social-construct-company",
+    "https://incfact.com/company/socialconstruct-sanfrancisco-ca/",
+    "https://leadiq.com/c/social-construct-company/5c588a0f2000008249c500ad"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Socialconstructco",
+   "results": [
+    "https://note.com/akira_umapro",
+    "https://note.com/koei_juken/n/ndcc4833d25aa?hl=en",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/masa_cloud/n/n1fc93c6da79a",
+    "https://note.com/noted_dove6010/n/n9ee8da1e0357",
+    "https://note.com/power_uncovered/n/n7fbd3966fdff",
+    "https://note.com/masashi3122/n/n6f41b990b137"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Socialconstructco",
+   "results": [
+    "https://x.com/socialconstco",
+    "https://x.com/scconsultingfsj",
+    "https://x.com/ntandomatini_/status/2120113498680066242",
+    "https://x.com/ntandomatini_/status/2111038116307911051",
+    "https://x.com/ThreeHatsInARow/status/2119879668514070874",
+    "https://x.com/grotesqueperv/status/2110121197455245542",
+    "https://x.com/uwu_anime_lover/status/2120260376847864230"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Socialconstructco",
+   "results": [
+    "https://www.linkedin.com/company/social-constrct",
+    "https://www.linkedin.com/company/the-social-construct-ltd/",
+    "https://uk.linkedin.com/in/callum-byfield-aa280070",
+    "https://uk.linkedin.com/showcase/social-construct-ltd/",
+    "https://cn.linkedin.com/in/haobibo/zh-cn",
+    "https://www.linkedin.com/in/john-lindquist-93466721",
+    "https://www.linkedin.com/company/social-construct-media-design"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Socialconstructco",
+   "results": [
+    "https://www.facebook.com/socialconstructco/",
+    "https://www.facebook.com/socialconstructioncompany/",
+    "https://www.facebook.com/socialconstructmn/",
+    "https://www.facebook.com/p/The-Social-Construct-100092543934987/",
+    "https://www.facebook.com/thesocialconstructband/",
+    "https://www.facebook.com/thesocialstatusco/",
+    "https://www.facebook.com/cities.ycr.org/posts/the-new-cities-project-spun-out-of-y-combinator-in-2017-follow-us-at-httpswwwfac/3246468455412985/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Socialconstructco note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.wantedly.com/companies/company_1284824/members",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://www.cbinsights.com/company/social-construct/people"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Socialconstructco X 投稿",
+   "results": [
+    "https://www.instagram.com/socialconstructco/",
+    "https://x.com/socialconstco",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://x.com/matsu04100410/status/2119749480576901303",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://x.com/twitcasting_jp/status/2100831269575868441",
+    "https://x.com/tsuuuukocotsu/status/2119768930873192704"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

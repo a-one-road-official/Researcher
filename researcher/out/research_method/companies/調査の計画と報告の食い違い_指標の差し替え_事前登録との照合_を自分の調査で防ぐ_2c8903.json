@@ -8,143 +8,45 @@
  ],
  "context": "失敗",
  "kind": "market",
- "researched_at": "2026-11-09T10:02:02.675864+00:00",
+ "researched_at": "2026-11-11T00:19:05.742623+00:00",
  "evidence": {
-  "失敗・落とし穴": [
+  "実例": [
    {
-    "quote": "Like randomised controlled trials, cohort studies of interventions should be guided by a protocol that prespecifies the main study outcomes. Changing these outcomes in the final publication, known as outcome switching, can reflect legitimate refinement; however, switching based on the direction or statistical significance of the findings introduces selective outcome reporting bias.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "quote": "Previous meta-research involving observational studies has been limited to specific specialty areas, outcome types, or high impact journals, and often included retrospectively registered studies. For example, Baudart and colleagues found 114 (85.7%) of 133 observational studies adequately reported the registered outcomes; however, their analysis focused exclusively on harms.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
     "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "If performed to highlight favourable results, outcome switching can introduce reporting bias that leads to research waste, a distorted evidence base, and misguided clinical decision making.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-11"
    },
    {
     "quote": "For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "Additionally, protocols should be made publicly available. Beyond promoting transparency, access to protocols that clearly outline the predefined methods facilitates study replication, informed risk of bias assessment, and evaluation of the external applicability of study findings in practice.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "quote": "Outcome pre-specification requires sufficient detail to guard against outcome switching in clinical trials: a case study",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "Outcome reporting bias should be evaluated using risk-of-bias assessment tools.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "quote": "Advertising presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type or which content you are (or have been) interacting with (for example, to limit the number of times an ad is presented to you).",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "When reporting bias is suspected, sensitivity analyses can be conducted for key outcomes to assess the robustness of conclusions to outcome reporting bias.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "quote": "Content presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type, or which content you are (or have been) interacting with (for example, to limit the number of times a video or an article is presented to you).",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "Outcome switching is a potential source of bias whereby prespecified primary outcomes differ from those reported in publications of results, but its prevalence is unclear for cohort studies",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "quote": "Your data can be used to monitor for and prevent unusual and possibly fraudulent activity (for example, regarding advertising, ad clicks by bots), and ensure systems and processes work properly and securely. It can also be used to correct any problems you, the publisher or the advertiser may encounter in the delivery of content and ads and in your interaction with them.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
     "pass": 3,
-    "first_seen": "2026-11-07"
+    "first_seen": "2026-11-11"
    },
-   {
-    "quote": "Thomas ET, Heneghan C. Catalogue of bias: selective outcome reporting bias. BMJ Evid Based Med",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Paul M, Olchowski J, Leibovici L. Systematic reviews of observational studies frequently conclude based on meta-analyses of biased results: standards must be improved. J Clin Epidemiol",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Kirkham JJ, Dwan KM, Altman DG, et al. The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews. BMJ",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Sterne JA, Hernán MA, Reeves BC, et al. ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions. BMJ",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Kirkham JJ, Altman DG, Chan A-W, Gamble C, Dwan KM, Williamson PR. Outcome reporting bias in trials: a methodological approach for assessment and adjustment in systematic reviews. BMJ",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Undisclosed discrepancies often exist between study registrations and their associated publications. Discrepancies can increase risk of bias, and when undisclosed, they disguise this increased risk of bias from readers. To remedy this issue, we developed an intervention called",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "]. For example, registration can mitigate or disclose activities that increase risk of bias, including selective reporting, outcome switching and data dredging.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Reducing bias, increasing transparency, and calibrating confidence with preregistration. ( 10.31222/osf.io/d7bcu)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Why it matters: the reporting-bias mechanism",
-    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". Publication bias filters which studies get published at all, based on whether the overall result was positive; outcome switching filters which",
-    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "risk-of-bias assessment",
-    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": RoB 2’s fifth domain covers exactly this — “bias in selection of the reported result.” A registry-versus-publication mismatch you find while extracting data is directly reportable evidence for that domain judgement, not a separate side note.",
-    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ": a discrepancy is still worth a letter to the editor or a comment through the journal’s post-publication commenting system; several of the corrections publicly documented in the reporting-bias literature originated exactly this way.",
-    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". Selecting only results from high-impact journals might bias results towards certain journals",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "it is probable that industry funded research is more well planned at the time of trial registration. However, for-profit funded research has also been associated with non-publication of trials and publication bias favoring positive results. Hence, the negative association between for-profit RCTs and outcome switching could be due to publication bias rather than superior study quality",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "実例": [
    {
     "quote": "Examples in publication",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
@@ -206,107 +108,61 @@
     "first_seen": "2026-11-06"
    }
   ],
-  "一次情報の探し方": [
-   {
-    "quote": "sonz087975.ww.pdf",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "(157.5KB, pdf)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "PDF (418.3 KB)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "[REPORTED — the project’s existence, timeframe, institutional home, and methodology are confirmed directly against the project’s own site; this page does not cite a specific discrepancy percentage or letter-publication count, since those weren’t independently re-verified this session — re-confirm the exact figures against a COMPare/BMJ primary source before citing a specific number.]",
-    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "PDF (1.5 MB)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "We estimated that 60 events (ie, studies with outcome switching) were required for the logistic regression analysis to achieve 10 events per covariate. We conservatively assumed a 50% prevalence of outcome switching that produces the widest possible confidence interval and is close to the reported median prevalence of 54% observed in clinical trials,",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "and therefore targeted a sample of 120 registered studies with published results. Under this assumption, the sample size provides an upper bound of ±9% for the 95% confidence interval width for the estimated prevalence. We started with a convenience sample of studies with start dates in 2014-15 to allow sufficient time for publication, and expanded to 2016 to reach the target sample size.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "We found a higher prevalence of outcome switching (48%) than reported in previous reviews of observational studies, and our estimate falls within the range reported for randomised controlled trials (10-68%).",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Nonetheless, caution is warranted when comparing estimates across studies using different criteria.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Four high impact medical journal groups in 2024 published 63 systematic reviews of interventions that included observational studies, 33 of which relied exclusively on observational evidence. Of the remaining 30 reviews that included both observational studies and randomised controlled trials, 19 meta-analyses synthesised crude estimates from across designs.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Among the 64 studies classified as having consistent outcome reporting, 10 (16%) may have undetected discrepancies because of inadequately prespecified outcomes. We retained these studies to generate a conservative estimate of outcome switching. Similar challenges were also noted in studies of outcome switching in trials.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "Both power and precision analyses require assumptions about the proportion of manuscripts with discrepancies in both the control and experimental group. For the control group, we assume a base-rate of 33% of manuscripts with at least one primary outcome discrepancy, which is the point estimate from a relevant meta-analysis [",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "= 0.05, power = 0.80). Alternatively, to estimate the difference between the two groups within a range of 20% (e.g. to show the experimental group has between 10% and 30% fewer manuscripts with primary outcome discrepancies), would require 120 manuscripts per group (95% confidence interval).",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/",
-    "pass": 3,
-    "first_seen": "2026-11-07"
-   },
-   {
-    "quote": "State the amendment explicitly in the published paper, per CONSORT item 6b, rather than leaving a reader to discover it by cross-checking the registry independently.",
-    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". Outcome switching towards positive results might overestimate treatment effects for published data.",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "手順・やり方": [
+   {
+    "quote": "Open Science Framework (",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "The study sample was created, and analytical methods were prespecified in a registered protocol (",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "We retrieved the corresponding publications through a stepwise search (figure S1), starting with the registration number. If no match was found, additional searches used combinations of intervention terms, health conditions, and the principal investigator’s name.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "This meta-epidemiological study analysed methodological rather than clinical data (ie, outcome reporting practices). No patients or members of the public were involved in setting the research question, selecting outcome measures, developing plans, analysing or interpreting the findings, or writing up the results.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Additionally, 25 (20%) studies introduced a total of 35 new primary outcomes that had not been registered as primary or secondary. These new outcomes differed from the registered ones mainly in the measurement variable (28/35, 80%), followed by the time point (21/35, 60%), analysis metric (4/35, 11%), and method of aggregation (2/35, 6%).",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Additionally, protocols should be made publicly available. Beyond promoting transparency, access to protocols that clearly outline the predefined methods facilitates study replication, informed risk of bias assessment, and evaluation of the external applicability of study findings in practice.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Lastly, editors and reviewers should not only evaluate the methods prespecified in the protocol, but also compare them to the submitted reports of results. Authors should be required to explain any major discrepancies.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Out of sight but not out of mind: how to search for unpublished clinical trial evidence",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Outcome reporting bias in trials: a methodological approach for assessment and adjustment in systematic reviews",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
    {
     "quote": "Open Science Framework (",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
@@ -457,123 +313,386 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "sonz087975.ww.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "(157.5KB, pdf)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "PDF (418.3 KB)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "[REPORTED — the project’s existence, timeframe, institutional home, and methodology are confirmed directly against the project’s own site; this page does not cite a specific discrepancy percentage or letter-publication count, since those weren’t independently re-verified this session — re-confirm the exact figures against a COMPare/BMJ primary source before citing a specific number.]",
+    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "PDF (1.5 MB)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Like randomised controlled trials, cohort studies of interventions should be guided by a protocol that prespecifies the main study outcomes. Changing these outcomes in the final publication, known as outcome switching, can reflect legitimate refinement; however, switching based on the direction or statistical significance of the findings introduces selective outcome reporting bias.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "If performed to highlight favourable results, outcome switching can introduce reporting bias that leads to research waste, a distorted evidence base, and misguided clinical decision making.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Additionally, protocols should be made publicly available. Beyond promoting transparency, access to protocols that clearly outline the predefined methods facilitates study replication, informed risk of bias assessment, and evaluation of the external applicability of study findings in practice.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Outcome reporting bias should be evaluated using risk-of-bias assessment tools.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "When reporting bias is suspected, sensitivity analyses can be conducted for key outcomes to assess the robustness of conclusions to outcome reporting bias.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Outcome switching is a potential source of bias whereby prespecified primary outcomes differ from those reported in publications of results, but its prevalence is unclear for cohort studies",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Catalogue of bias: selective outcome reporting bias",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Systematic reviews of observational studies frequently conclude based on meta-analyses of biased results: standards must be improved",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Outcome reporting bias in trials: a methodological approach for assessment and adjustment in systematic reviews",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Like randomised controlled trials, cohort studies of interventions should be guided by a protocol that prespecifies the main study outcomes. Changing these outcomes in the final publication, known as outcome switching, can reflect legitimate refinement; however, switching based on the direction or statistical significance of the findings introduces selective outcome reporting bias.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "If performed to highlight favourable results, outcome switching can introduce reporting bias that leads to research waste, a distorted evidence base, and misguided clinical decision making.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Additionally, protocols should be made publicly available. Beyond promoting transparency, access to protocols that clearly outline the predefined methods facilitates study replication, informed risk of bias assessment, and evaluation of the external applicability of study findings in practice.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Outcome reporting bias should be evaluated using risk-of-bias assessment tools.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "When reporting bias is suspected, sensitivity analyses can be conducted for key outcomes to assess the robustness of conclusions to outcome reporting bias.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Outcome switching is a potential source of bias whereby prespecified primary outcomes differ from those reported in publications of results, but its prevalence is unclear for cohort studies",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Thomas ET, Heneghan C. Catalogue of bias: selective outcome reporting bias. BMJ Evid Based Med",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Paul M, Olchowski J, Leibovici L. Systematic reviews of observational studies frequently conclude based on meta-analyses of biased results: standards must be improved. J Clin Epidemiol",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Kirkham JJ, Dwan KM, Altman DG, et al. The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews. BMJ",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Sterne JA, Hernán MA, Reeves BC, et al. ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions. BMJ",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Kirkham JJ, Altman DG, Chan A-W, Gamble C, Dwan KM, Williamson PR. Outcome reporting bias in trials: a methodological approach for assessment and adjustment in systematic reviews. BMJ",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Undisclosed discrepancies often exist between study registrations and their associated publications. Discrepancies can increase risk of bias, and when undisclosed, they disguise this increased risk of bias from readers. To remedy this issue, we developed an intervention called",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "]. For example, registration can mitigate or disclose activities that increase risk of bias, including selective reporting, outcome switching and data dredging.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Reducing bias, increasing transparency, and calibrating confidence with preregistration. ( 10.31222/osf.io/d7bcu)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Why it matters: the reporting-bias mechanism",
+    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". Publication bias filters which studies get published at all, based on whether the overall result was positive; outcome switching filters which",
+    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "risk-of-bias assessment",
+    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": RoB 2’s fifth domain covers exactly this — “bias in selection of the reported result.” A registry-versus-publication mismatch you find while extracting data is directly reportable evidence for that domain judgement, not a separate side note.",
+    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ": a discrepancy is still worth a letter to the editor or a comment through the journal’s post-publication commenting system; several of the corrections publicly documented in the reporting-bias literature originated exactly this way.",
+    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". Selecting only results from high-impact journals might bias results towards certain journals",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "it is probable that industry funded research is more well planned at the time of trial registration. However, for-profit funded research has also been associated with non-publication of trials and publication bias favoring positive results. Hence, the negative association between for-profit RCTs and outcome switching could be due to publication bias rather than superior study quality",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "We estimated that 60 events (ie, studies with outcome switching) were required for the logistic regression analysis to achieve 10 events per covariate. We conservatively assumed a 50% prevalence of outcome switching that produces the widest possible confidence interval and is close to the reported median prevalence of 54% observed in clinical trials,",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "and therefore targeted a sample of 120 registered studies with published results. Under this assumption, the sample size provides an upper bound of ±9% for the 95% confidence interval width for the estimated prevalence. We started with a convenience sample of studies with start dates in 2014-15 to allow sufficient time for publication, and expanded to 2016 to reach the target sample size.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "We found a higher prevalence of outcome switching (48%) than reported in previous reviews of observational studies, and our estimate falls within the range reported for randomised controlled trials (10-68%).",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Nonetheless, caution is warranted when comparing estimates across studies using different criteria.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Four high impact medical journal groups in 2024 published 63 systematic reviews of interventions that included observational studies, 33 of which relied exclusively on observational evidence. Of the remaining 30 reviews that included both observational studies and randomised controlled trials, 19 meta-analyses synthesised crude estimates from across designs.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Among the 64 studies classified as having consistent outcome reporting, 10 (16%) may have undetected discrepancies because of inadequately prespecified outcomes. We retained these studies to generate a conservative estimate of outcome switching. Similar challenges were also noted in studies of outcome switching in trials.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "We estimated that 60 events (ie, studies with outcome switching) were required for the logistic regression analysis to achieve 10 events per covariate. We conservatively assumed a 50% prevalence of outcome switching that produces the widest possible confidence interval and is close to the reported median prevalence of 54% observed in clinical trials,",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "and therefore targeted a sample of 120 registered studies with published results. Under this assumption, the sample size provides an upper bound of ±9% for the 95% confidence interval width for the estimated prevalence. We started with a convenience sample of studies with start dates in 2014-15 to allow sufficient time for publication, and expanded to 2016 to reach the target sample size.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "We found a higher prevalence of outcome switching (48%) than reported in previous reviews of observational studies, and our estimate falls within the range reported for randomised controlled trials (10-68%).",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Nonetheless, caution is warranted when comparing estimates across studies using different criteria.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Four high impact medical journal groups in 2024 published 63 systematic reviews of interventions that included observational studies, 33 of which relied exclusively on observational evidence. Of the remaining 30 reviews that included both observational studies and randomised controlled trials, 19 meta-analyses synthesised crude estimates from across designs.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Among the 64 studies classified as having consistent outcome reporting, 10 (16%) may have undetected discrepancies because of inadequately prespecified outcomes. We retained these studies to generate a conservative estimate of outcome switching. Similar challenges were also noted in studies of outcome switching in trials.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "Both power and precision analyses require assumptions about the proportion of manuscripts with discrepancies in both the control and experimental group. For the control group, we assume a base-rate of 33% of manuscripts with at least one primary outcome discrepancy, which is the point estimate from a relevant meta-analysis [",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "= 0.05, power = 0.80). Alternatively, to estimate the difference between the two groups within a range of 20% (e.g. to show the experimental group has between 10% and 30% fewer manuscripts with primary outcome discrepancies), would require 120 manuscripts per group (95% confidence interval).",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/",
+    "pass": 3,
+    "first_seen": "2026-11-07"
+   },
+   {
+    "quote": "State the amendment explicitly in the published paper, per CONSORT item 6b, rather than leaving a reader to discover it by cross-checking the registry independently.",
+    "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". Outcome switching towards positive results might overestimate treatment effects for published data.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/gtminami/n/ndbb3ffda04a1",
+    "url": "https://note.com/limber_tucan9226/n/nfda40c16afb5",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/modern_flea8708/n/nde1c36e50e00",
+    "url": "https://note.com/m31_l204/n/n10c569b51025",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/reading_monkey/n/nd296c3a4db64",
+    "url": "https://note.com/ogata_legal/n/n98da1a8ab2f8",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/kagawatomo/n/n42d0b810bb1b",
+    "url": "https://note.com/rakka3070/n/n77ddd12d450d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/gtminami/n/na86c288c1b46",
+    "url": "https://note.com/goldmist1959/n/nbf8f332ed70d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/engikoumu/n/n88d87d17413b",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tsunobuchi/n/n14a67db1074a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/studymemot/n/n81a41357b8c2",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/macromill/n/nbf9e14608d06",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/qiqumo/n/nfc3adb6b93c1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.piano.io/ja/resources/why-personalization-can-backfire",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://blog.marvelsupply.jp/way-of-smart-survey",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.asmarq.co.jp/column/column-cat/how_to/pre_post_survey/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://u-site.jp/alertbox/10-survey-challenges",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://r-portal.gmo-research.ai/trendnavi/articles/case-nrc-online-research/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://qork.ai/blog/survey-research-guide",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://trademark.jp/report/trademark/namingresearch",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.intage.co.jp/gallery/research-kotsu-2/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://researto.com/column/market-research-bias/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.rjc.co.jp/column/207",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://surveroid.jp/mr-journal/interview/tkbA5",
+    "url": "https://note.com/kaizenlab/n/na68123c3898e",
     "status": "ok",
     "method": "http"
    },
@@ -583,33 +702,68 @@
     "method": "http"
    },
    {
+    "url": "https://shinji.design/preregistration-deviation-reporting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nier.go.jp/jissen/chosa/h23_handbook03_02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.soumu.go.jp/main_content/000728342.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://daigakukan-renkei.jp/lab/research-proposal-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nier.go.jp/jissen/chosa/h23_handbook03_05.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pmda.go.jp/files/000198053.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pmda.go.jp/files/000156923.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://peerreviewcongress.org/abstract/outcome-switching-in-observational-studies-of-interventions-comparison-of-registration-records-and-published-articles",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://zenodo.org/records/23965233",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://beyondtheabstract.substack.com/p/swing-miss-rewrite-the-story-of-outcome",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S0895435625002914",
     "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.bmj.com/content/393/bmj-2025-087975.full.pdf",
-    "status": "http_403",
-    "method": "pdf"
-   },
-   {
-    "url": "https://en.wikipedia.org/wiki/Outcome_switching",
-    "status": "ok",
     "method": "http"
    }
   ]
@@ -618,147 +772,120 @@
   {
    "query": "調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法 site:note.com",
    "results": [
-    "https://note.com/gtminami/n/ndbb3ffda04a1",
-    "https://note.com/modern_flea8708/n/nde1c36e50e00",
-    "https://note.com/reading_monkey/n/nd296c3a4db64",
-    "https://note.com/kagawatomo/n/n42d0b810bb1b",
-    "https://note.com/gtminami/n/na86c288c1b46",
-    "https://note.com/engikoumu/n/n88d87d17413b",
-    "https://note.com/comix_ceo162230/n/n6d056c7b9122",
-    "https://note.com/chihou_keizai/n/nde0c99652331",
-    "https://note.com/kagawatomo/n/n8d34f285f63a",
-    "https://note.com/betaitohuman/n/n3c1ec4aa9ad6"
+    "https://note.com/limber_tucan9226/n/nfda40c16afb5",
+    "https://note.com/m31_l204/n/n10c569b51025",
+    "https://note.com/ogata_legal/n/n98da1a8ab2f8",
+    "https://note.com/rakka3070/n/n77ddd12d450d",
+    "https://note.com/goldmist1959/n/nbf8f332ed70d",
+    "https://note.com/kaizenlab/n/na68123c3898e",
+    "https://note.com/radyuki_research/n/nc03dc3ade77f"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法 note",
    "results": [
-    "https://note.com/tsunobuchi/n/n14a67db1074a",
-    "https://note.com/studymemot/n/n81a41357b8c2",
-    "https://note.com/macromill/n/nbf9e14608d06",
-    "https://note.com/qiqumo/n/nfc3adb6b93c1",
-    "https://www.piano.io/ja/resources/why-personalization-can-backfire",
-    "https://blog.marvelsupply.jp/way-of-smart-survey",
-    "https://u-site.jp/alertbox/better-diary-studies",
-    "https://note.com/shintaku0707/n/ne0d4b9206189",
-    "https://researto.com/column/brand-tracking-survey-design/",
-    "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence"
+    "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence",
+    "https://shinji.design/preregistration-deviation-reporting/",
+    "https://www.nier.go.jp/jissen/chosa/h23_handbook03_02.pdf",
+    "https://www.soumu.go.jp/main_content/000728342.pdf",
+    "https://daigakukan-renkei.jp/lab/research-proposal-guide",
+    "https://www.nier.go.jp/jissen/chosa/h23_handbook03_05.pdf",
+    "https://www.pmda.go.jp/files/000156923.pdf"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法 やり方",
    "results": [
-    "https://www.asmarq.co.jp/column/column-cat/how_to/pre_post_survey/",
-    "https://u-site.jp/alertbox/10-survey-challenges",
-    "https://r-portal.gmo-research.ai/trendnavi/articles/case-nrc-online-research/",
-    "https://qork.ai/blog/survey-research-guide",
-    "https://trademark.jp/report/trademark/namingresearch",
-    "https://jp.surveymonkey.com/learn/survey-best-practices/how-to-avoid-common-types-survey-bias/",
-    "https://researto.com/column/qualitative-research-pre-task-homework/",
-    "https://www.macromill.com/service/column/entry-063/",
-    "https://www.nttcoms.com/service/nps/column/20230310/",
-    "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence"
+    "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence",
+    "https://www.soumu.go.jp/main_content/000728342.pdf",
+    "https://shinji.design/preregistration-deviation-reporting/",
+    "https://www.nier.go.jp/jissen/chosa/h23_handbook03_02.pdf",
+    "https://www.nier.go.jp/jissen/chosa/h23_handbook03_05.pdf",
+    "https://daigakukan-renkei.jp/lab/research-proposal-guide",
+    "https://www.pmda.go.jp/files/000198053.pdf"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法 事例",
    "results": [
-    "https://www.asmarq.co.jp/column/column-cat/how_to/pre_post_survey/",
-    "https://www.intage.co.jp/gallery/research-kotsu-2/",
-    "https://r-portal.gmo-research.ai/trendnavi/articles/case-nrc-online-research/",
-    "https://trademark.jp/report/trademark/namingresearch",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://researto.com/column/market-research-bias/",
-    "https://u-site.jp/alertbox/10-survey-challenges",
-    "https://www.rjc.co.jp/column/207",
-    "https://surveroid.jp/mr-journal/interview/tkbA5",
-    "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence"
+    "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence",
+    "https://shinji.design/preregistration-deviation-reporting/",
+    "https://www.nier.go.jp/jissen/chosa/h23_handbook03_02.pdf",
+    "https://www.soumu.go.jp/main_content/000728342.pdf",
+    "https://www.nier.go.jp/jissen/chosa/h23_handbook03_05.pdf",
+    "https://daigakukan-renkei.jp/lab/research-proposal-guide",
+    "https://www.pmda.go.jp/files/000156923.pdf"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "outcome switching pre-registration discrepancy detection research",
    "results": [
     "https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/",
-    "https://peerreviewcongress.org/abstract/outcome-switching-in-observational-studies-of-interventions-comparison-of-registration-records-and-published-articles/",
-    "https://beyondtheabstract.substack.com/p/swing-miss-rewrite-the-story-of-outcome",
-    "https://www.bmj.com/content/393/bmj-2025-087975.full.pdf",
-    "https://en.wikipedia.org/wiki/Outcome_switching",
-    "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2738347",
-    "https://www.transparimed.org/single-post/outcome-switching-research-misconduct",
-    "https://www.compare-trials.org/blog/are-your-results-unusual-or-how-often-are-outcomes-switched/index.html",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/"
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/",
+    "https://www.bmj.com/content/393/bmj-2025-087975",
+    "https://zenodo.org/records/23965233",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/",
+    "https://www.sciencedirect.com/science/article/pii/S0895435625002914",
+    "https://www.serumresearch.com/research-library/trial-registration-outcome-switching/"
    ],
    "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "site:note.com 調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法",
    "results": [
-    "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
-    "https://note.com/loyal_condor224/n/nae321f95f5ca",
-    "https://note.com/modern_flea8708/n/n4cb0a9cf14b7",
-    "https://note.com/aymix117/n/n45ece81fcb94",
-    "https://note.com/hidetoshi_h_/n/ne2921ea57407",
-    "https://note.com/fujikawa/n/na7fc99ddbd3d?magazine_key=m3dd7e2846369",
-    "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "https://note.com/platypus2000jp/n/n51ee55d311eb",
-    "https://note.com/jack4manastalk/n/ne65c687f3069",
-    "https://note.com/jack4manastalk/n/n0901b43af62b"
+    "https://note.com/limber_tucan9226/n/nfda40c16afb5",
+    "https://note.com/m31_l204/n/n10c569b51025",
+    "https://note.com/rakka3070/n/n77ddd12d450d",
+    "https://note.com/ogata_legal/n/n98da1a8ab2f8",
+    "https://note.com/kaizenlab/n/na68123c3898e",
+    "https://note.com/goldmist1959/n/nbf8f332ed70d",
+    "https://note.com/apotheke_umschau/n/n2fafe85986cf"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "site:x.com 調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法",
    "results": [
-    "https://x.com/i/article/2113752054435123491",
     "https://x.com/ai_hacks_akira/status/2114369650003956015",
     "https://x.com/ai_hacks_akira/status/2115353193681236215",
     "https://x.com/kiriwake_ai/status/2110494856913309920",
-    "https://x.com/VAIZO_commit/status/2107419181335630172",
     "https://x.com/aidatapartner/status/2112777792299352550",
     "https://x.com/kakinotane_life/status/2102140836805022033",
+    "https://x.com/isobeatsuhiko/status/2060223975809307127",
     "https://x.com/tsukiokabunko/status/1774434473880515046"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:linkedin.com 調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法",
    "results": [
-    "https://jp.linkedin.com/in/koyo-katsuki-23032016b",
     "https://az.linkedin.com/company/queensite?trk=ppro_cprof",
-    "https://at.linkedin.com/company/ortner-rrt",
+    "https://il.linkedin.com/company/shiloh-cyber",
     "https://www.linkedin.com/in/takis-georgakopoulos-bb97b48",
     "https://jp.linkedin.com/pulse/提案書の数字どれが最新か迷わないために食い違いを溜めないai活用4つのコツ-hiroaki-mori-vlj2c",
     "https://jp.linkedin.com/pulse/品質管理の指標を単なる報告で終わらせないためのデータ活用-美徳-鈴木-pibkc",
@@ -766,10 +893,9 @@
     "https://www.linkedin.com/pulse/話の食い違いがなくなりウィンウィンを生み出すコミュニケーションの習慣-junsuke-iida"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:yahoo"
    ],
-   "n_hits": 8
+   "n_hits": 7
   },
   {
    "query": "site:facebook.com 調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法",
@@ -778,9 +904,9 @@
     "https://www.facebook.com/kanazawa.nikken/photos/自社で石綿調査を実施している企業様へ朗報石綿調査でこんな経験ありませんか社内で正しい情報共有がない抜けモレ食い違いが発生調査報告の入力に四苦八苦するこのような悩/972873094542017/",
     "https://www.facebook.com/horei.gis/posts/中小受託事業者との取引に関する調査令和8年度中小受託事業者との取引に関する調査を実施しています-中小企業庁-特設サイト-中小企業庁は取適法の規定に基づき受託取引/1653107256686060/",
     "https://www.facebook.com/ryukyushimpo/posts/浦添市の元部長市長に報告した-建設費増めぐり食い違い-百条委-沖縄/1751901616942506/",
-    "https://www.facebook.com/sports.instructor.support/posts/日本高野連不祥事報告書の様式変更-広陵問題での食い違い受け-毎日新聞/1294582316043600/",
+    "https://www.facebook.com/groups/627324771859424/permalink/1466822431242983/",
     "https://www.facebook.com/kyugi.mlit.go.jp/videos/新技術活用計画書実施報告書活用効果調査表web作業に変更/1305445412987570/",
-    "https://www.facebook.com/groups/627324771859424/permalink/1466822431242983/"
+    "https://www.facebook.com/ngoyui/videos/毎日報告熊本色んなカタチ色んなカタチがありますが活動をする前に依頼があってから事前調査や現調などがあって活動をすることができます今回は以前別で活動してた時にうち/931439513041778/"
    ],
    "engines": [
     "ddgs:google"
@@ -790,66 +916,259 @@
   {
    "query": "調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法 note 社長",
    "results": [
-    "https://note.com/macromill/n/nbf9e14608d06",
-    "https://note.com/tsunobuchi/n/n14a67db1074a",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://note.com/qiqumo/n/nfc3adb6b93c1",
-    "https://note.com/art_reflection/n/n14c9cb6520a0",
-    "https://www.piano.io/ja/resources/why-personalization-can-backfire",
-    "https://u-site.jp/alertbox/better-diary-studies",
-    "https://blog.marvelsupply.jp/way-of-smart-survey",
-    "https://note.com/yuru_business/n/n66bb9ee0b867",
-    "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence"
+    "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence",
+    "https://shinji.design/preregistration-deviation-reporting/",
+    "https://www.soumu.go.jp/main_content/000728342.pdf",
+    "https://www.nier.go.jp/jissen/chosa/h23_handbook03_02.pdf",
+    "https://www.nier.go.jp/jissen/chosa/h23_handbook03_05.pdf",
+    "https://www.pmda.go.jp/review-services/trials/0005.html",
+    "https://daigakukan-renkei.jp/lab/research-proposal-guide",
+    "https://www.mhlw.go.jp/content/12400000/001709927.pdf"
    ],
    "engines": [
     "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 8
   },
   {
    "query": "調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法 X 投稿",
    "results": [
-    "https://help.x.com/ja/safety-and-security/report-abusive-behavior",
-    "https://zenn.dev/ats030/articles/how-to-prevent-x-account",
-    "https://www.morihamada.com/ja/insights/newsletters/o66093",
-    "https://www.tribalmedia.co.jp/note/twitter-210929/",
-    "https://www.nikkei.com/article/DGXZQOGN207K50Q6A120C2000000/",
-    "https://yoshikazunomori.com/blog/digitalmarketing/x-algorithm/?srsltid=AYCX9vKMElSmTei-47ColULmYwxfTL1uY6I2gNV7OyNllg09Pm0MafE4",
-    "https://note.com/oyuwari_life/n/n6d9526b2012b",
-    "https://webtan.impress.co.jp/e/2025/06/26/49535",
-    "https://www.koukoku.jp/service/suketto/marketer/sns/%E3%80%902025%E5%B9%B4%E6%9C%80%E6%96%B0%E3%80%91x%EF%BC%88%E6%97%A7twitter%EF%BC%89%E5%87%8D%E7%B5%90%E3%81%A8%E3%81%AF%EF%BC%9F%E5%8E%9F%E5%9B%A0%E3%81%8B%E3%82%89%E8%A7%A3%E9%99%A4%E6%96%B9/",
-    "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence"
+    "https://gaah.co.jp/en/blogs/column/clinical-trials-registration-selective-reporting-evidence",
+    "https://www.soumu.go.jp/main_content/000728342.pdf",
+    "https://shinji.design/preregistration-deviation-reporting/",
+    "https://www.nier.go.jp/jissen/chosa/h23_handbook03_02.pdf",
+    "https://www.nier.go.jp/jissen/chosa/h23_handbook03_05.pdf",
+    "https://daigakukan-renkei.jp/lab/research-proposal-guide",
+    "https://www.mhlw.go.jp/content/12400000/001709927.pdf"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "outcome switching pre-registration discrepancy detection research site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/posts/siterollc_ai-in-clinical-trials-sounds-promising-but-activity-7511742101466955776-gCKi",
-    "https://www.linkedin.com/top-content/healthcare/clinical-trial-management/blinding-and-randomization-techniques/",
-    "https://www.linkedin.com/top-content/workplace-trends/trends-in-healthcare-innovation/trends-in-clinical-research-technology/",
-    "https://www.linkedin.com/posts/schopfel_open-science-policies-and-practices-among-activity-7503378820675133440-kAOy",
-    "https://www.linkedin.com/posts/jennifer-lehman-rn-ccrp-38152526_great-post-misunderstanding-about-the-roles-activity-7515762612962336768-eoJF",
-    "https://www.linkedin.com/posts/jehirsch_ai-could-bring-clinical-trials-to-rural-america-activity-7519086174129266688-mNTs",
-    "https://www.linkedin.com/in/cheryl-coon-51048b7",
-    "https://www.linkedin.com/pulse/role-frequentist-framework-p-values-statistical-trials-olszewski-igy3f",
-    "https://www.linkedin.com/posts/francois-clement-bidard_tailorswitch-aka-pada-2-is-launched-activity-7505544456788484096-xMdx",
-    "https://www.linkedin.com/posts/rossjacksonconsulting_a-recent-survey-of-120-sponsors-cros-and-activity-7513976172196708352-rcTr"
-   ],
-   "engines": [
-    "ddgs:yahoo",
-    "yahoo_jp"
-   ],
-   "n_hits": 17
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 14,
+ "new_this_run": {
+  "実例": [
+   {
+    "quote": "Previous meta-research involving observational studies has been limited to specific specialty areas, outcome types, or high impact journals, and often included retrospectively registered studies. For example, Baudart and colleagues found 114 (85.7%) of 133 observational studies adequately reported the registered outcomes; however, their analysis focused exclusively on harms.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Outcome pre-specification requires sufficient detail to guard against outcome switching in clinical trials: a case study",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Advertising presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type or which content you are (or have been) interacting with (for example, to limit the number of times an ad is presented to you).",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Content presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type, or which content you are (or have been) interacting with (for example, to limit the number of times a video or an article is presented to you).",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Your data can be used to monitor for and prevent unusual and possibly fraudulent activity (for example, regarding advertising, ad clicks by bots), and ensure systems and processes work properly and securely. It can also be used to correct any problems you, the publisher or the advertiser may encounter in the delivery of content and ads and in your interaction with them.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "Open Science Framework (",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "The study sample was created, and analytical methods were prespecified in a registered protocol (",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "We retrieved the corresponding publications through a stepwise search (figure S1), starting with the registration number. If no match was found, additional searches used combinations of intervention terms, health conditions, and the principal investigator’s name.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "This meta-epidemiological study analysed methodological rather than clinical data (ie, outcome reporting practices). No patients or members of the public were involved in setting the research question, selecting outcome measures, developing plans, analysing or interpreting the findings, or writing up the results.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Additionally, 25 (20%) studies introduced a total of 35 new primary outcomes that had not been registered as primary or secondary. These new outcomes differed from the registered ones mainly in the measurement variable (28/35, 80%), followed by the time point (21/35, 60%), analysis metric (4/35, 11%), and method of aggregation (2/35, 6%).",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Additionally, protocols should be made publicly available. Beyond promoting transparency, access to protocols that clearly outline the predefined methods facilitates study replication, informed risk of bias assessment, and evaluation of the external applicability of study findings in practice.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Lastly, editors and reviewers should not only evaluate the methods prespecified in the protocol, but also compare them to the submitted reports of results. Authors should be required to explain any major discrepancies.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Out of sight but not out of mind: how to search for unpublished clinical trial evidence",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Outcome reporting bias in trials: a methodological approach for assessment and adjustment in systematic reviews",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "Like randomised controlled trials, cohort studies of interventions should be guided by a protocol that prespecifies the main study outcomes. Changing these outcomes in the final publication, known as outcome switching, can reflect legitimate refinement; however, switching based on the direction or statistical significance of the findings introduces selective outcome reporting bias.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "If performed to highlight favourable results, outcome switching can introduce reporting bias that leads to research waste, a distorted evidence base, and misguided clinical decision making.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Additionally, protocols should be made publicly available. Beyond promoting transparency, access to protocols that clearly outline the predefined methods facilitates study replication, informed risk of bias assessment, and evaluation of the external applicability of study findings in practice.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Outcome reporting bias should be evaluated using risk-of-bias assessment tools.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "When reporting bias is suspected, sensitivity analyses can be conducted for key outcomes to assess the robustness of conclusions to outcome reporting bias.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Outcome switching is a potential source of bias whereby prespecified primary outcomes differ from those reported in publications of results, but its prevalence is unclear for cohort studies",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Catalogue of bias: selective outcome reporting bias",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Systematic reviews of observational studies frequently conclude based on meta-analyses of biased results: standards must be improved",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Outcome reporting bias in trials: a methodological approach for assessment and adjustment in systematic reviews",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "We estimated that 60 events (ie, studies with outcome switching) were required for the logistic regression analysis to achieve 10 events per covariate. We conservatively assumed a 50% prevalence of outcome switching that produces the widest possible confidence interval and is close to the reported median prevalence of 54% observed in clinical trials,",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "and therefore targeted a sample of 120 registered studies with published results. Under this assumption, the sample size provides an upper bound of ±9% for the 95% confidence interval width for the estimated prevalence. We started with a convenience sample of studies with start dates in 2014-15 to allow sufficient time for publication, and expanded to 2016 to reach the target sample size.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "We found a higher prevalence of outcome switching (48%) than reported in previous reviews of observational studies, and our estimate falls within the range reported for randomised controlled trials (10-68%).",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Nonetheless, caution is warranted when comparing estimates across studies using different criteria.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Four high impact medical journal groups in 2024 published 63 systematic reviews of interventions that included observational studies, 33 of which relied exclusively on observational evidence. Of the remaining 30 reviews that included both observational studies and randomised controlled trials, 19 meta-analyses synthesised crude estimates from across designs.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Among the 64 studies classified as having consistent outcome reporting, 10 (16%) may have undetected discrepancies because of inadequately prespecified outcomes. We retained these studies to generate a conservative estimate of outcome switching. Similar challenges were also noted in studies of outcome switching in trials.",
+    "url": "https://www.bmj.com/content/393/bmj-2025-087975",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ]
+ },
+ "runs": 15,
  "first_researched_at": "2026-11-06T05:56:44.683092+00:00"
 }

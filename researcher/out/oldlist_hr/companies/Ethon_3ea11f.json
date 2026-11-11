@@ -1,0 +1,1308 @@
+{
+ "name": "Ethon",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜商談中",
+ "researched_at": "2026-11-11T00:51:33.684955+00:00",
+ "official_url": "https://www.ethon.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Ethon’s AI Platform understands how your production processes behave in real-time, surfacing deviations and explaining what drives variation. It guides teams to optimize cost, quality, and speed while keeping operations under control across factories.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Same process, different outcomes.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Factories run the same process with different outcomes. Output and yield swing for reasons teams can’t clearly explain. Fixes that work in one site don’t reliably transfer to the next.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Teams are forced to piece together the truth across Historians, SCADA, MES, spreadsheets, and experience. What’s missing is clear visibility into cause and effect at the process level.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "When conditions change and no system explains why, teams react late and enterprises pay for it – in scrap, rework, downtime, and missed targets.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The world’s top manufacturers use Ethon to understand, improve, and control their production processes.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon connects production data from every source and learns how processes behave in real-time, including the sources of variation that cause outcomes to drift from run to run, line to line, and factory to factory.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most tools show what changed. Ethon explains why it changed and what to do next. Using agentic workflows with causal reasoning, Ethon identifies which combinations of process settings, materials, equipment, and environmental conditions are driving productivity loss and which changes will stabilize outcomes.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "More operator productivity",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore our workflows that turn disparate production data into a",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Traceability",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Uncover the root causes of production issues in minutes, not days. When something goes wrong, Ethon instantly runs a root cause analysis across all process data and surfaces the parameters driving the issue.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver step-change productivity across your lines. Ethon continuously scans all process data, spots hidden inefficiencies, and recommends the optimal parameter setpoints to optimize quality and throughput.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep production stable as conditions change",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Close the loop on process control. Ethon monitors every critical parameter in real time, automatically adjusts setpoints when processes drift, and keeps lines running at peak performance.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Collect in-line quality measurements with the industry’s most scalable computer vision software, compatible with any industrial camera. Ethon detects and counts defects, connects them to process data, and reveals the factors that drive product quality.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Predict downtime and quality losses",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay ahead of process deviations and equipment failures with real-time awareness. Ethon continuously monitors live production data, flags anomalies, and prescribes the right actions to prevent downtime and quality losses before they happen.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trace every product and batch",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reconstruct the true flow of every part and batch across production. Ethon assigns data to each unit, traces it through every process step, and reveals deviations, rework loops, and bottlenecks from real production behavior.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Establishing a global standard for optimizing and controlling chocolate production lines. Saved millions of chocolate truffles through data-driven setpoint recommendations.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stabilizing processed food production with data-driven centerlining and setpoint recommendations. Delivered ~$100k in cost savings per line per year by reducing material usage.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Identified critical quality drivers across 3,000+ transistor manufacturing process parameters, resulting in a 51% scrap reduction. Delivered $1M+ in increased sales.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Supporting complex assembly operations amid labor shortages. Enabling (junior) engineers to deliver reliable root cause analysis across hundreds of process parameters.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Increasing first-time-right in chemical production through data-driven centerlining. Reduced manual batch rework by 72%, lowering unit costs and improving productivity.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The famous “Lindor” truffles have been sold since 1969, when they were introduced as a seasonal treat. Half a century later, billions of Lindor truffles are made every year. To produce at such a large scale while maintaining quality excellence, Lindt & Sprüngli runs several high-​end factories in Europe and the US.",
+    "url": "https://www.ethon.com/customers/case-study-lindt",
+    "pass": 1
+   },
+   {
+    "quote": ": Millions of Lindor balls produced first time right, at more consistent quality.",
+    "url": "https://www.ethon.com/customers/case-study-lindt",
+    "pass": 1
+   },
+   {
+    "quote": "Improved process stability, reduced the need for operator interventions.",
+    "url": "https://www.ethon.com/customers/case-study-lindt",
+    "pass": 1
+   },
+   {
+    "quote": "Stop chasing problems.",
+    "url": "https://www.ethon.com/customers/case-study-lindt",
+    "pass": 1
+   },
+   {
+    "quote": "Meet our engineers to explore how Ethon supports your operational excellence programs.",
+    "url": "https://www.ethon.com/customers/case-study-lindt",
+    "pass": 1
+   },
+   {
+    "quote": "Siemens building products are widely used in residential and commercial environments. Many of these products are safety-critical, making rigorous quality standards a top priority. This places high demands on visual inspection systems - demands that must be consistently met.",
+    "url": "https://www.ethon.com/customers/case-study-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Growing product variety made it hard for Siemens to scale traditional visual inspection systems. Setting up and calibrating vision jobs for new product variants took significant time and effort. Missing defect images led to false negatives, wasting time on investigating issues that did not exist.",
+    "url": "https://www.ethon.com/customers/case-study-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon’s visual quality solution integrated plug & play across Siemens plants, despite varying environmental conditions such as lighting. It enabled real-time defect identification for new product variants within minutes, without complex reconfiguration. In addition, the system supports structured root cause analysis and end-to-end traceability for every unit across all product variants.",
+    "url": "https://www.ethon.com/customers/case-study-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Stop chasing problems.",
+    "url": "https://www.ethon.com/customers/case-study-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Meet our engineers to explore how Ethon supports your operational excellence programs.",
+    "url": "https://www.ethon.com/customers/case-study-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon: Case Study - Fortune 500 Food Producer",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-food-producer",
+    "pass": 1
+   },
+   {
+    "quote": "Food producers operate in a high-volume, low-margin environment. Even minor inefficiencies, like a few grams of excess material per unit or inconsistent process settings, can scale into major costs across millions of units produced.",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-food-producer",
+    "pass": 1
+   },
+   {
+    "quote": "A leading food producer sought to reduce process variation. Its centerlining was suboptimal due to a lack of reliable tools that allowed for real-time line improvements.",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-food-producer",
+    "pass": 1
+   },
+   {
+    "quote": "Built end-to-end pipeline to give live recommendations for improved line stability.",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-food-producer",
+    "pass": 1
+   },
+   {
+    "quote": "Identified critical drivers of process variation and provided operators with setpoint recommendations.",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-food-producer",
+    "pass": 1
+   },
+   {
+    "quote": "Stop chasing problems.",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-food-producer",
+    "pass": 1
+   },
+   {
+    "quote": "Meet our engineers to explore how Ethon supports your operational excellence programs.",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-food-producer",
+    "pass": 1
+   },
+   {
+    "quote": "Assembly manufacturers, especially in automotive and electronics, often run multiple factories that produce subcomponents assembled later. While each factory drives its own problem-solving efforts, they rarely adjust parameters based on upstream production conditions.",
+    "url": "https://www.ethon.com/customers/case-study-bosch",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon was implemented at Bosch’s Bühl and Blaichach factories, with support from Corporate Research and the local engineering teams. Using Ethon, the Bosch team identified upstream root causes of product test failures. It also enabled cross-factory traceability, transparency, and custom analyses on a single source of truth.",
+    "url": "https://www.ethon.com/customers/case-study-bosch",
+    "pass": 1
+   },
+   {
+    "quote": "Enhanced cross-plant visibility and problem-solving efficiency.",
+    "url": "https://www.ethon.com/customers/case-study-bosch",
+    "pass": 1
+   },
+   {
+    "quote": "Stop chasing problems.",
+    "url": "https://www.ethon.com/customers/case-study-bosch",
+    "pass": 1
+   },
+   {
+    "quote": "Meet our engineers to explore how Ethon supports your operational excellence programs.",
+    "url": "https://www.ethon.com/customers/case-study-bosch",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon: Case Study - Fortune 500 Transistor Producer",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-transistor-producer",
+    "pass": 1
+   },
+   {
+    "quote": "The deployment focused on products with low and poorly understood yield. Process engineers combined equipment routing data, in-process measurements, and yield data to analyze the production flow. They uncovered previously hidden process relationships driving yield losses which enabled targeted corrective actions.",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-transistor-producer",
+    "pass": 1
+   },
+   {
+    "quote": "by uncovering critical process drivers missed by traditional quality tools.",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-transistor-producer",
+    "pass": 1
+   },
+   {
+    "quote": "with redesigned analytics pipelines and a data-driven approach to root cause analysis.",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-transistor-producer",
+    "pass": 1
+   },
+   {
+    "quote": "with higher yield, improved supply stability, and measurable economic gains.",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-transistor-producer",
+    "pass": 1
+   },
+   {
+    "quote": "Stop chasing problems.",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-transistor-producer",
+    "pass": 1
+   },
+   {
+    "quote": "Meet our engineers to explore how Ethon supports your operational excellence programs.",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-transistor-producer",
+    "pass": 1
+   },
+   {
+    "quote": "SFS produces high-quality components for demanding industries such as automotive, aerospace, and medical technology at high-volumes. They have previously invested in data collection initiatives and started realizing measurable benefits.",
+    "url": "https://www.ethon.com/customers/case-study-sfs",
+    "pass": 1
+   },
+   {
+    "quote": "Increasing margin pressure and tight order deadlines make it essential to quickly reach stable and high yield during ongoing production and especially ramp-up periods to avoid costly overproduction. At the same time the growing volume of data makes it increasingly difficult to extract business critical insights. Think more than 200 influence factors per produced part.",
+    "url": "https://www.ethon.com/customers/case-study-sfs",
+    "pass": 1
+   },
+   {
+    "quote": "SFS decided to use Ethon and help its engineering team identify complex root causes with greater reliability, supported by custom live dashboards for fast actions. In collaboration with Ethon's dedicated forward deployed team, a small group of engineers committed one day per week to establish live streaming of the production data and test the solution until go-live.",
+    "url": "https://www.ethon.com/customers/case-study-sfs",
+    "pass": 1
+   },
+   {
+    "quote": "By embedding domain knowledge into the software setup provided by experienced engineers, junior engineers drive line improvements without requiring decades of experience.",
+    "url": "https://www.ethon.com/customers/case-study-sfs",
+    "pass": 1
+   },
+   {
+    "quote": "Causal AI not only pinpoints root causes but also shows where additional data will deliver the greatest business value, helping prioritize and maximize data investments.",
+    "url": "https://www.ethon.com/customers/case-study-sfs",
+    "pass": 1
+   },
+   {
+    "quote": "Productivity on autopilot:",
+    "url": "https://www.ethon.com/customers/case-study-sfs",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Ethon: #1 Industrial AI Platform",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon’s AI Platform understands how your production processes behave in real-time, surfacing deviations and explaining what drives variation. It guides teams to optimize cost, quality, and speed while keeping operations under control across factories.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Factories run the same process with different outcomes. Output and yield swing for reasons teams can’t clearly explain. Fixes that work in one site don’t reliably transfer to the next.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The world’s top manufacturers use Ethon to understand, improve, and control their production processes.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon connects production data from every source and learns how processes behave in real-time, including the sources of variation that cause outcomes to drift from run to run, line to line, and factory to factory.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What works on one line can be reused on another and adapted to local context, allowing gains to scale without forcing plants to be identical.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leading manufacturers use Ethon",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Collect in-line quality measurements with the industry’s most scalable computer vision software, compatible with any industrial camera. Ethon detects and counts defects, connects them to process data, and reveals the factors that drive product quality.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Establishing a global standard for optimizing and controlling chocolate production lines. Saved millions of chocolate truffles through data-driven setpoint recommendations.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Powering visual inspection workflows across 20 factories. Delivered $10M+ in savings by replacing legacy quality systems and supporting a zero customer-complaint target.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enabling cross-factory root cause analysis. Awarded with the 2024 Open Bosch Award for significant reductions in CO₂ emissions, scrap, and rework.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Identified critical quality drivers across 3,000+ transistor manufacturing process parameters, resulting in a 51% scrap reduction. Delivered $1M+ in increased sales.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recognized for enabling manufacturing teams to build and operationalize Causal AI models through a no-code platform. Ethon replaces reactive analytics with prescriptive workflows that can be deployed in production in hours instead of weeks.",
+    "url": "https://www.ethon.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon: Case Study - Lindt",
+    "url": "https://www.ethon.com/customers/case-study-lindt",
+    "pass": 1
+   },
+   {
+    "quote": "The famous “Lindor” truffles have been sold since 1969, when they were introduced as a seasonal treat. Half a century later, billions of Lindor truffles are made every year. To produce at such a large scale while maintaining quality excellence, Lindt & Sprüngli runs several high-​end factories in Europe and the US.",
+    "url": "https://www.ethon.com/customers/case-study-lindt",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon's unified platform enables factories to carry insights from one factory across the entire factory network.",
+    "url": "https://www.ethon.com/customers/case-study-lindt",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon: Case Study - Siemens",
+    "url": "https://www.ethon.com/customers/case-study-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon’s visual quality solution integrated plug & play across Siemens plants, despite varying environmental conditions such as lighting. It enabled real-time defect identification for new product variants within minutes, without complex reconfiguration. In addition, the system supports structured root cause analysis and end-to-end traceability for every unit across all product variants.",
+    "url": "https://www.ethon.com/customers/case-study-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Through deployment of Ethon's Industrial AI platfrom across 20 factories with further expansion planed.",
+    "url": "https://www.ethon.com/customers/case-study-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon: Case Study - Fortune 500 Food Producer",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-food-producer",
+    "pass": 1
+   },
+   {
+    "quote": "Identified critical drivers of process variation and provided operators with setpoint recommendations.",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-food-producer",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon: Case Study - Bosch",
+    "url": "https://www.ethon.com/customers/case-study-bosch",
+    "pass": 1
+   },
+   {
+    "quote": "Assembly manufacturers, especially in automotive and electronics, often run multiple factories that produce subcomponents assembled later. While each factory drives its own problem-solving efforts, they rarely adjust parameters based on upstream production conditions.",
+    "url": "https://www.ethon.com/customers/case-study-bosch",
+    "pass": 1
+   },
+   {
+    "quote": "Bosch asked Ethon to implement AI-assisted root cause analysis at its Bühl and Blaichach factories to tackle occurring cross-factory root causes.",
+    "url": "https://www.ethon.com/customers/case-study-bosch",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon was implemented at Bosch’s Bühl and Blaichach factories, with support from Corporate Research and the local engineering teams. Using Ethon, the Bosch team identified upstream root causes of product test failures. It also enabled cross-factory traceability, transparency, and custom analyses on a single source of truth.",
+    "url": "https://www.ethon.com/customers/case-study-bosch",
+    "pass": 1
+   },
+   {
+    "quote": "Cross-plant visibility:",
+    "url": "https://www.ethon.com/customers/case-study-bosch",
+    "pass": 1
+   },
+   {
+    "quote": "Enhanced cross-plant visibility and problem-solving efficiency.",
+    "url": "https://www.ethon.com/customers/case-study-bosch",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon: Case Study - Fortune 500 Transistor Producer",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-transistor-producer",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon: Case Study - SFS",
+    "url": "https://www.ethon.com/customers/case-study-sfs",
+    "pass": 1
+   },
+   {
+    "quote": "SFS produces high-quality components for demanding industries such as automotive, aerospace, and medical technology at high-volumes. They have previously invested in data collection initiatives and started realizing measurable benefits.",
+    "url": "https://www.ethon.com/customers/case-study-sfs",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon: Case Study - Fortune 500 Chemicals Producer",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-chemicals-producer",
+    "pass": 1
+   },
+   {
+    "quote": "Identified critical drivers of process variation and provided operators with recommended actions.",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-chemicals-producer",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon: Ethon for Manufacturing Technology",
+    "url": "https://www.ethon.com/ethonai-for-manufacturing-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Technology",
+    "url": "https://www.ethon.com/ethonai-for-manufacturing-technology",
+    "pass": 1
+   },
+   {
+    "quote": "The first factory tech stack that actually scales",
+    "url": "https://www.ethon.com/ethonai-for-manufacturing-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Standardize the architecture for how factories analyze, optimize, and control their processes.",
+    "url": "https://www.ethon.com/ethonai-for-manufacturing-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Standardize your factory tech landscape",
+    "url": "https://www.ethon.com/ethonai-for-manufacturing-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy proven Industrial AI workflows across sites and show clear financial impact within weeks.",
+    "url": "https://www.ethon.com/ethonai-for-manufacturing-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Use the same proven workflows across factories so every site can operate at the level of your top performers.",
+    "url": "https://www.ethon.com/ethonai-for-manufacturing-technology",
+    "pass": 1
+   },
+   {
+    "quote": "by eliminating fragmentation before it drains factory performance",
+    "url": "https://www.ethon.com/ethonai-for-manufacturing-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Use a unified industrial data and model layer that works with the systems you already run — not a greenfield rebuild.",
+    "url": "https://www.ethon.com/ethonai-for-manufacturing-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Stop maintaining different analytics and optimization setups in every factory. Use a single, standard way to analyze, improve, and control processes.",
+    "url": "https://www.ethon.com/ethonai-for-manufacturing-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy applications that deliver measurable impact within weeks, so you can defend your roadmap and roll out one repeatable approach across all factories.",
+    "url": "https://www.ethon.com/ethonai-for-manufacturing-technology",
+    "pass": 1
+   },
+   {
+    "quote": "\"We didn’t need to be ‘ready’ for Ethon. They met us where we were and gave us a standardized way to optimize and control processes across our factories.\"",
+    "url": "https://www.ethon.com/ethonai-for-manufacturing-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by manufacturers",
+    "url": "https://www.ethon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Establishing a global standard for optimizing and controlling chocolate production lines. Saved millions of chocolate truffles through data-driven setpoint recommendations.",
+    "url": "https://www.ethon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Powering visual inspection workflows across 20 factories. Delivered $10M+ in savings by replacing legacy quality systems and supporting a zero customer-complaint target.",
+    "url": "https://www.ethon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Enabling cross-factory root cause analysis. Awarded with the 2024 Open Bosch Award for significant reductions in CO₂ emissions, scrap, and rework.",
+    "url": "https://www.ethon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Improving process understanding across complex metal manufacturing operations. Identified significant savings potential through increased first-pass yield.",
+    "url": "https://www.ethon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Stabilizing formulated product manufacturing with data-driven centerlining. Reduced manual batch rework by 72%, improving first-pass yield across lines.",
+    "url": "https://www.ethon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerating troubleshooting in electric motor manufacturing. Enabled 4× faster identification of failure drivers, reducing field returns.",
+    "url": "https://www.ethon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Identified critical quality drivers across 3,000+ transistor manufacturing process parameters, resulting in a 51% scrap reduction. Delivered $1M+ in increased sales.",
+    "url": "https://www.ethon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Leading manufacturers use Ethon",
+    "url": "https://www.ethon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The world’s top manufacturers use Ethon to understand, improve, and control their production processes.",
+    "url": "https://www.ethon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Why do the world’s top manufacturers trust Ethon?",
+    "url": "https://www.ethon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon is the technology leader in Industrial AI. The platform is backed by 100+ scientific publications and used by many Fortune 500 manufacturers worldwide. Ethon is consistently recognized by independent institutions such as the World Economic Forum, Gartner, and Forbes for its leadership in applied AI.",
+    "url": "https://www.ethon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond recognition, Ethon is proven in large-scale, multi-factory deployments, with a forward-deployed team that helps customers move from first use cases to global rollouts with multi-million–dollar impact.",
+    "url": "https://www.ethon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon operates globally, with offices in Zurich and New York City. We serve manufacturing customers across Europe, North America, Asia, and Africa, supporting both regional deployments and large, multi-factory rollouts worldwide.",
+    "url": "https://www.ethon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon is used across discrete, continuous, batch, and hybrid manufacturing. Customers include leaders in automotive, industrial equipment, food & beverage, chemicals, pharmaceuticals, and consumer goods.",
+    "url": "https://www.ethon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Customers see measurable operational impact: up to 5%+ throughput increases, up to 80% scrap reduction, and $20M+ in factory cost savings across deployments.",
+    "url": "https://www.ethon.com/customers",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Ethon's unified platform enables factories to carry insights from one factory across the entire factory network.",
+    "url": "https://www.ethon.com/customers/case-study-lindt",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon: Case Study - Fortune 500 Food Producer",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-food-producer",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon: Case Study - Fortune 500 Transistor Producer",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-transistor-producer",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon: Case Study - Fortune 500 Chemicals Producer",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-chemicals-producer",
+    "pass": 1
+   },
+   {
+    "quote": "Chemical production involves tightly coupled process parameters that must stay within narrow limits to meet customer quality requirements. When these interactions drift, manual rework becomes common, putting pressure on capacity, productivity, and gross margins.",
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-chemicals-producer",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500",
+    "url": "https://www.ethon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Ethon is the technology leader in Industrial AI. The platform is backed by 100+ scientific publications and used by many Fortune 500 manufacturers worldwide. Ethon is consistently recognized by independent institutions such as the World Economic Forum, Gartner, and Forbes for its leadership in applied AI.",
+    "url": "https://www.ethon.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "EthonAI is named a Rising Star as part of Sifted's B2B Rising 100",
+    "url": "https://www.ethon.com/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "EthonAI joins EU AI Champions initiative as part of over 60 leading European companies",
+    "url": "https://www.ethon.com/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "EthonAI is named one of 20 Rising Stars as part of Forbes’ Cloud 100",
+    "url": "https://www.ethon.com/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "2000万ドル以上の価値を生み出しているFortune 500のメーカーで実証されています",
+    "url": "https://www.siemens.com/ja-jp/products/ethon-industrial-ai-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon’s enterprise-grade, modular & secure architecture ensures robustness, data integrity, and uptime in demanding production environments. Operating reliably across multi-site & -region deployments. Proven with Fortune 500 manufacturers generating $20M+ in value.",
+    "url": "https://www.siemens.com/en-us/products/ethon-industrial-ai-platform/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Ethon: #1 Industrial AI Platform — Collect in-line quality measurements with the industry’s most scalable computer vision software, compatible with any industrial camera. Ethon detects and counts defects, connects them to process data, and reveals the factors that drive product quality.",
+    "url": "https://www.ethon.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon Industrial AI Platform - Siemens — なぜでしょうか Industrial AI で生産性を引き出す。 EthonのAIプラットフォームは、生産の偏差をリアルタイムで理解して説明し、チームがコスト、品質、スピードを最適化できるように導きます。",
+    "url": "https://www.siemens.com/ja-jp/products/ethon-industrial-ai-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon - Siemens — 入手可能な製品 Ethon Industrial AI Platform より少ないリソースでより多くを生産します。 当社のIndustrial AI プラットフォームでは、因果的AIを使用してプロセスの偏差をリアルタイムで説明します。",
+    "url": "https://www.siemens.com/ja-jp/ecosystem/ethon/",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon: Industrial AI Platform — Ethon integrates into the reality of your factory landscape. We can implement a Unified Namespace (UNS) for you or run Ethon on top of your existing UNS and data stack, depending on what you already have in place.",
+    "url": "https://www.ethon.com/platform-overview",
+    "pass": 3
+   },
+   {
+    "quote": "EthonAI、AI駆動型製造分析でシリーズAに1,530万ユーロを調達 — 」 EthonAI は、企業の動きを加速し、新しい AI 機能を追加するために新たな資金を投入します。 リード画像: Ethon AI の Bernhard Kratzwald 氏と Julian Senoner 氏。 写真: クレジットなし。",
+    "url": "https://www3.to/ethonai、ai駆動型製造分析でシリーズaに1530万ユーロを調/",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon: About us — Ethon’s mission is to eliminate the trillion-dollar waste problem in manufacturing with technology that makes factories run more effectively and efficiently. By enabling a step-change in productivity, we aim to strengthen entire industries and the economies they support.",
+    "url": "https://www.ethon.com/about-ethonai",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon: #1 Industrial AI Platform — Ethon is the #1 Industrial AI platform, built to turn production data into business value. It empowers engineers and operators with agentic workflows to understand, improve, and control their production processes.",
+    "url": "https://www.ethon.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ETHON — Built for those who create, feel deeply, and keep moving forward, ETHON embraces the beauty of becoming. Every piece is designed to reflect individuality, self-expression, and the journey of finding who you are.",
+    "url": "https://ethon.store/",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon Technologies Inc. | Trust Built on Technology. Service ... — At Ethon Technologies Inc., our mission is to empower businesses, government agencies, and consumers with innovative and reliable IT solutions. We specialize in delivering high-quality consulting services and implementing cutting-edge SaaS, PaaS, and IaaS platforms.",
+    "url": "https://ethontech.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon: Customer Case Studies — Our team will understand your production setup, discuss your use cases, and walk you through how Ethon can be applied in your environment. From there, we’ll outline next steps for a proof of value or rollout tailored to your situation.",
+    "url": "https://www.ethon.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon Industrial AI Platform - Siemens — Ethon’s Industrial AI Platform solves a key challenge: small process deviations that spiral into multi-million dollar losses. Our platform understands how production processes behave in real-time, surfacing deviations and explaining what drives variation.",
+    "url": "https://www.siemens.com/en-us/products/ethon-industrial-ai-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "SX_UseCase_Description_EthonAI — • Initial Situation: Manufacturers face high production waste and underutilized sensor data (~90% unused). • Verticals: CPG, Electronics, Mechanics, Process Industries and many more • Customer Challenges: Scrap, quality deviations, inefficiencies, siloed data. • Target Audience: COOs, factory leaders, process engineers, IT & data ...",
+    "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6354768d-41e1-418c-aefe-0e0df038a7aa/ethonai-industrialaiplatform-summary.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon: Case Study - Bosch — Ethon was implemented at Bosch’s Bühl and Blaichach factories, with support from Corporate Research and the local engineering teams. Using Ethon, the Bosch team identified upstream root causes of product test failures.",
+    "url": "https://www.ethon.com/customers/case-study-bosch",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon: Case Study - Lindt — Meet our engineers to explore how Ethon supports your operational excellence programs. Learn how Lindt established a global standard for optimizing and controlling chocolate production lines, and saved millions of Lindor truffles.",
+    "url": "https://www.ethon.com/customers/case-study-lindt",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon - 2026 Company Profile, Team, Funding & Competitors ... — Apr 6, 2026 · Ethon - About the company Ethon is a series A company based in Switzerland, founded in 2021 by Torbjørn Netland and Julian Senoner. It operates as a Provider of AI diversified services. Ethon has raised $23.4M in funding from investors like Index Ventures, Earlybird and La Famiglia.",
+    "url": "https://tracxn.com/d/companies/ethon/__iAbvXxsoAi_I1RuHsoa1xuIA0VTehmS5xpIC34qYko0",
+    "pass": 3
+   },
+   {
+    "quote": "EthonAI 2026 Company Profile: Valuation, Funding & Investors ...Ethon: About usEthonAI - Crunchbase Company Profile & FundingEthon GmbH Information - RocketReachEthonAI Funding History: $23.3M | Indexed.vcEthonAI Revenue, Funding & Valuation — Information on valuation, funding, cap tables, investors, and executives for EthonAI. Use the PitchBook Platform to explore the full profile. Founderful is ",
+    "url": "https://pitchbook.com/profiles/company/491282-20",
+    "pass": 3
+   },
+   {
+    "quote": "EthonAI - Crunchbase Company Profile & Funding — Unlock company funding data, including rounds, dates, amounts, and investors. Access a complete feed of recent news and press, from product launches to leadership changes. $2.2M This year, EthonAI is projected to spend $2.2M on IT, according to Aberdeen. 10 EthonAI is actively using 10 technologies for its website, according to BuiltWith.",
+    "url": "https://www.crunchbase.com/organization/ethonai",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon GmbH Information - RocketReachEthonAI Funding History: $23.3M | Indexed.vcEthonAI Revenue, Funding & Valuation — Ethon GmbH is an Information Technology and Services company located in Ulm, Baden-Wuerttemberg with $4 million in revenue and 1 employees. Find top employees, contact details and business statistics at RocketReach. Oct 8, 2026 · EthonAI is an artificial intelligence company in Zu",
+    "url": "https://rocketreach.co/ethon-gmbh-profile_b46d376bfc5c8513",
+    "pass": 3
+   },
+   {
+    "quote": "EthonAI Funding History: $23.3M | Indexed.vc — Oct 8, 2026 · EthonAI is an artificial intelligence company in Zurich, Switzerland, founded in 2021. It has raised $23.3M across 2 rounds, most recently a $16.5M Series A in May 2024.",
+    "url": "https://indexed.vc/companies/ethonai",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us for sales and pricing information.",
+    "url": "https://www.siemens.com/en-us/products/ethon-industrial-ai-platform/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Ethon (@ItsEthon) / X Ethon @ItsEthon the one piece is real 🌎 twitch.tv/ethon Born October 29 Joined August 2014 411 Following",
+    "url": "https://x.com/ItsEthon",
+    "pass": 3
+   },
+   {
+    "quote": "ethan (@Ethon__) / Posts / X ethan (@Ethon__) - Posts - 1-time Olive Garden trivia champion | X (formerly Twitter)",
+    "url": "https://x.com/Ethon__",
+    "pass": 3
+   },
+   {
+    "quote": "ethon (@EthonRT) / Posts / X ethon (@EthonRT) - Posts - this account it to rt giveaways so it doesnt interfere my main account @ItsEthon and no I don't ju... | X (formerly Twitter)",
+    "url": "https://x.com/EthonRT",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon (@EthonSpectator) / Posts / X Ethon (@EthonSpectator) - Posts - Ex-Google AI PM | Specializing in the field of AI and robotics. | X (formerly Twitter)",
+    "url": "https://x.com/EthonSpectator",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon on X: \"@SitechPoken 来\" 想认识一些认真做X的蓝V朋友 ，价值投资🤝 主要关注 AI、web3、投资 和一些思考 从0开始认真做自己的个人IP，目标1000粉。 内容正常、对胃口的就互关认识一下。 不接受黄推 长期交流 #蓝V互关 #蓝朋友",
+    "url": "https://x.com/Gabriiin/status/2100061435439313263",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Ethon - LinkedIn Produce more with less | Ethon’s AI Platform understands how your production processes behave in real-time, surfacing deviations and explaining what drives variation.",
+    "url": "https://www.linkedin.com/company/ethonai",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon Technologies, Inc. - LinkedIn At Ethon Technologies Inc., we are dedicated to providing top-notch IT consulting, SaaS, PaaS, and IaaS implementation, project management, software design, technology implementation, and other...",
+    "url": "https://www.linkedin.com/company/ethontech",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon | LinkedIn Ethon’s AI Platform understands how your production processes behave in real-time, surfacing deviations and explaining what drives variation. It guides teams to optimize cost, quality, and speed...",
+    "url": "https://jp.linkedin.com/company/ethonai",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon Technologies | LinkedIn Ethon Technologies | 701 followers on LinkedIn. Embracing the Technology | Ethon Technologies is one of the leading Digital Marketing Companies in Pune.",
+    "url": "https://in.linkedin.com/company/ethon",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Ethon Strayer - Facebook Oct 24, 2026 · Ethon Strayer. 376 followers · 225 talking about this. Rock / Pop artist. Business owner.",
+    "url": "https://www.facebook.com/ethonstrayer/",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon Burns - Facebook May 10, 2026 · Ethon Burns is at Alchemy Strength and Conditioning. Workouts don’t need to be complicated to be effective!want! Want a challenge? Something simple? Very little equipment? Something that you’ll remember for days when you wake up, yet not going to actually hurt you? Try the KettleBell mile!!",
+    "url": "https://www.facebook.com/ethon.burns/",
+    "pass": 3
+   },
+   {
+    "quote": "Ethon Stear Racing - Facebook Ethon Stear Racing. 224 followers. I am a 16 year old sprint car driver, here is where you will find everything that has to do with my racing career, I...",
+    "url": "https://www.facebook.com/p/Ethon-Stear-Racing-61585345426642/",
+    "pass": 3
+   },
+   {
+    "quote": "ETHON Srl | Torreano - FacebookEthon Technologies | Pune - FacebookEthon A. Baltar - FacebookEthon Varian - Facebook ETHON affianca designer e aziende nello sviluppo di prototipi in legno massello, mettendo a disposizione competenze produttive e tecnologie che permettono di passare dal disegno al primo pezzo concreto. Aug 26, 2025 · By embracing the above given trends, brands can enhance their dig",
+    "url": "https://www.facebook.com/ETHONSrl/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ethon.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ethon.com/customers/case-study-lindt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ethon.com/customers/case-study-siemens",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-food-producer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ethon.com/customers/case-study-bosch",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-transistor-producer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ethon.com/customers/case-study-sfs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ethon.com/customers/case-study-fortune-500-chemicals-producer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ethon.com/ethonai-for-manufacturing-technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ethon.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ethon.com/about-ethonai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ethon.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ethon.com/company-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ethon.com/articles/ethonai-was-recognized-in-gartner-manufacturing-operations-strategy-report",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ethon.com/articles/ethonai-is-recognized-with-the-open-bosch-award-for-bringing-causal-ai-to-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ethon.com/articles/ai-in-manufacturing-summit-2024",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.siemens.com/ja-jp/products/ethon-industrial-ai-platform/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.siemens.com/ja-jp/ecosystem/ethon/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.eaton.com/jp/ja-jp/support/support-jp/eej.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.houjin.info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/ja-jp/ecosystem/ethon/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ethon.store/",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.siemens.com/en-us/products/ethon-industrial-ai-platform/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:6354768d-41e1-418c-aefe-0e0df038a7aa/ethonai-industrialaiplatform-summary.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/ethon/__iAbvXxsoAi_I1RuHsoa1xuIA0VTehmS5xpIC34qYko0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/491282-20",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/ethonai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/ethon-gmbh-profile_b46d376bfc5c8513",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ItsEthon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Ethon__",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/EthonRT",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/EthonSpectator",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ethonai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ethontech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/ethonai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/ethon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ethonstrayer/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ethon.burns/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Ethon-Stear-Racing-61585345426642/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ETHONSrl/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ItsEthon",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/EthonSpectator",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Gabriiin/status/2100061435439313263",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ethon 日本 導入",
+   "results": [
+    "https://www.ethon.com/",
+    "https://www.siemens.com/ja-jp/products/ethon-industrial-ai-platform/",
+    "https://www.siemens.com/ja-jp/ecosystem/ethon/",
+    "https://www.ethon.com/platform-overview",
+    "https://www3.to/ethonai、ai駆動型製造分析でシリーズaに1530万ユーロを調/",
+    "https://jp.linkedin.com/company/ethonai",
+    "https://bestcarweb.jp/news/entame/1669612"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ethon 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.eaton.com/jp/ja-jp/support/support-jp/eej.html",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.houjin.info/",
+    "https://eto.co.jp/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ethon Japan",
+   "results": [
+    "https://www.ethon.com/about-ethonai",
+    "https://www.ethon.com/",
+    "https://www.siemens.com/ja-jp/ecosystem/ethon/",
+    "https://ethon.store/",
+    "https://ethontech.com/",
+    "https://www.etonhouse.co.jp/",
+    "https://www.etonhouse.co.jp/etonhouse-tokyo/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ethon manufacturing customer case study",
+   "results": [
+    "https://www.ethon.com/customers",
+    "https://www.siemens.com/en-us/products/ethon-industrial-ai-platform/",
+    "https://assets.new.siemens.com/siemens/assets/api/uuid:6354768d-41e1-418c-aefe-0e0df038a7aa/ethonai-industrialaiplatform-summary.pdf",
+    "https://www.ethon.com/customers/case-study-bosch",
+    "https://www.ethon.com/customers/case-study-lindt",
+    "https://www.ethon.com/customers/case-study-fortune-500-chemicals-producer",
+    "https://www.ethon.com/customers/case-study-sfs"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ethon white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.seoreseller.com/",
+    "https://www.canva.com/partners/reseller/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ethon founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/ethon/__iAbvXxsoAi_I1RuHsoa1xuIA0VTehmS5xpIC34qYko0",
+    "https://pitchbook.com/profiles/company/491282-20",
+    "https://www.crunchbase.com/organization/ethonai",
+    "https://rocketreach.co/ethon-gmbh-profile_b46d376bfc5c8513",
+    "https://indexed.vc/companies/ethonai",
+    "https://prospeo.io/c/ethonai-revenue",
+    "https://www.ethon.com/about-ethonai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Ethon",
+   "results": [
+    "https://note.com/akiduki/n/n7708f2b8578f",
+    "https://note.com/asabamiyuki",
+    "https://note.com/wise_turtle184",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/yumekanryo/n/nc22863cf7867",
+    "https://note.com/huugon/n/n8be1360ed2de",
+    "https://note.com/legit_lupine1168/n/ne408a214b074"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Ethon",
+   "results": [
+    "https://x.com/ItsEthon",
+    "https://x.com/Ethon__",
+    "https://x.com/EthonRT",
+    "https://x.com/EthonSpectator",
+    "https://x.com/TesmerEthon",
+    "https://x.com/ewillz",
+    "https://x.com/EthonRodriguez"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Ethon",
+   "results": [
+    "https://www.linkedin.com/company/ethonai",
+    "https://www.linkedin.com/company/ethontech",
+    "https://jp.linkedin.com/company/ethonai",
+    "https://in.linkedin.com/company/ethon",
+    "https://cl.linkedin.com/company/ethon-pharmaceuticals",
+    "https://in.linkedin.com/company/ethon-healthcare-solutions-pvt-ltd-",
+    "https://www.linkedin.com/in/bernhard-kratzwald"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Ethon",
+   "results": [
+    "https://www.facebook.com/ethonstrayer/",
+    "https://www.facebook.com/ethon.burns/",
+    "https://www.facebook.com/p/Ethon-Stear-Racing-61585345426642/",
+    "https://www.facebook.com/ETHONSrl/",
+    "https://www.facebook.com/EthonTechnologies/",
+    "https://www.facebook.com/edeysown24/",
+    "https://www.facebook.com/ethon.varian/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ethon note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.jp/n/ncc37a1d4aa0b"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ethon X 投稿",
+   "results": [
+    "https://x.com/ItsEthon",
+    "https://x.com/EthonSpectator",
+    "https://www.ethon.com/",
+    "https://x.com/Gabriiin/status/2100061435439313263",
+    "https://www.facebook.com/EthanXshow/",
+    "https://x.com/XEthanai",
+    "https://x-sou.com/ja"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部33頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式16頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

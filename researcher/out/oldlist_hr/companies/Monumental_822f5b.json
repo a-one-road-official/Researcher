@@ -1,0 +1,1290 @@
+{
+ "name": "Monumental",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-11T00:16:02.917058+00:00",
+ "official_url": "https://www.monumental.co/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://www.monumental.co/",
+    "pass": 1
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://www.monumental.co/about/",
+    "pass": 1
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://www.monumental.co/jobs/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Amsterdam, Netherlands",
+    "url": "https://www.monumental.co/",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "Amsterdam, Netherlands",
+    "url": "https://www.monumental.co/about/",
+    "pass": 1
+   },
+   {
+    "label": "Headquarters",
+    "value": "Amsterdam, Netherlands",
+    "url": "https://www.monumental.co/jobs/",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "Funding raised",
+    "value": "$60M+",
+    "url": "https://www.monumental.co/",
+    "pass": 1
+   },
+   {
+    "label": "Funding raised",
+    "value": "$60M+",
+    "url": "https://www.monumental.co/about/",
+    "pass": 1
+   },
+   {
+    "label": "Funding raised",
+    "value": "$60M+",
+    "url": "https://www.monumental.co/jobs/",
+    "pass": 1
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "01-Jan-2022    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": ", on the idea that high-quality housing should stay affordable even as skilled labor becomes harder to find. Since then, we’ve built a vertically-integrated product with our own robot hardware, software, and machine vision pipeline and deployed it with real customers.",
+    "url": "https://www.monumental.co/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Software Engineer, Product",
+    "url": "https://www.monumental.co/jobs/",
+    "pass": 1
+   },
+   {
+    "quote": "Received Pronunciation",
+    "url": "https://ejje.weblio.jp/content/monumental..",
+    "pass": 3
+   },
+   {
+    "quote": "March-April, Terrence",
+    "url": "https://ejje.weblio.jp/content/monumental..",
+    "pass": 3
+   },
+   {
+    "quote": "São Tomé and Príncipe",
+    "url": "https://podcasts.apple.com/vu/podcast/monumental-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%92%E5%A3%B2%E3%82%89%E3%81%9A-%E5%AE%8C%E6%88%90%E3%81%97%E3%81%9F%E5%A3%81-%E3%82%92%E5%A3%B2%E3%82%8B-%E5%B0%8F%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E7%BE%A4%E3%81%AB%E3%82%88%E3%82%8B%E5%BB%BA%E8%A8%AD%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/id1493965499?i=1000783705707",
+    "pass": 3
+   },
+   {
+    "quote": "Person A: I mean it's huge and impressive! The architecture is amazing.",
+    "url": "https://dictionary.scandict.com/ja/dictionary/monumental-JZoQv",
+    "pass": 3
+   },
+   {
+    "quote": "Discover the beauty of Klondike Corten, the rust-effect paint for indoors and outdoors from Valpaint: an exclusive product that will elevate any design solution!",
+    "url": "https://www.valpaint.it/jp/blog/art/198-corten-effect-paint-the-elegance-of-a-rusty-glow/",
+    "pass": 3
+   },
+   {
+    "quote": "sector has produced a slew of",
+    "url": "https://www.valpaint.it/jp/blog/art/198-corten-effect-paint-the-elegance-of-a-rusty-glow/",
+    "pass": 3
+   },
+   {
+    "quote": "; it naturally forms a film of rust, but the oxidation process stops once the protective patina has developed, preventing further deterioration and keeping it smooth beneath the surface;",
+    "url": "https://www.valpaint.it/jp/blog/art/198-corten-effect-paint-the-elegance-of-a-rusty-glow/",
+    "pass": 3
+   },
+   {
+    "quote": "Being endowed with unique physical and mechanical properties as well as an attractive tawny colour,",
+    "url": "https://www.valpaint.it/jp/blog/art/198-corten-effect-paint-the-elegance-of-a-rusty-glow/",
+    "pass": 3
+   },
+   {
+    "quote": "has cast over both designers and architects has caused companies to focus their attention on this product and",
+    "url": "https://www.valpaint.it/jp/blog/art/198-corten-effect-paint-the-elegance-of-a-rusty-glow/",
+    "pass": 3
+   },
+   {
+    "quote": "an especially appealing product is a combination of its mechanical properties",
+    "url": "https://www.valpaint.it/jp/blog/art/198-corten-effect-paint-the-elegance-of-a-rusty-glow/",
+    "pass": 3
+   },
+   {
+    "quote": "(high levels of product performance",
+    "url": "https://www.valpaint.it/jp/blog/art/198-corten-effect-paint-the-elegance-of-a-rusty-glow/",
+    "pass": 3
+   },
+   {
+    "quote": "as a product, it is very",
+    "url": "https://www.valpaint.it/jp/blog/art/198-corten-effect-paint-the-elegance-of-a-rusty-glow/",
+    "pass": 3
+   },
+   {
+    "quote": "March 29-April 6, 2027 or April 4-12, 2027",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan-2027",
+    "pass": 3
+   },
+   {
+    "quote": "will focus on WMF's 25 years of preservation work throughout Japan with exclusive access to architecture, gardens, and special spaces, and culminating in a grand gala celebration at Tokyo National Museum.",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan-2027",
+    "pass": 3
+   },
+   {
+    "quote": "The impressive sites on this itinerary range from medieval to modern and touch upon Japan’s imperial and equally-rich vernacular history. In Kanazawa, you will have the opportunity to see WMF’s work to help revive",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan-2027",
+    "pass": 3
+   },
+   {
+    "quote": "will take place during two separate consecutive time periods: Group One will travel from March 29 to April 6, 2027 and Group Two will travel from April 4 to 12, 2027. Both trips are limited to 25 travelers and will have the same visits and experiences.",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan-2027",
+    "pass": 3
+   },
+   {
+    "quote": "Help us improve the site",
+    "url": "https://en.japantravel.com/photostory/monumental-art-of-japan/59564",
+    "pass": 3
+   },
+   {
+    "quote": "Opinions expressed by Japan Travel community members are their own.",
+    "url": "https://en.japantravel.com/photostory/monumental-art-of-japan/59564",
+    "pass": 3
+   },
+   {
+    "quote": "The impressive sites on this itinerary range from medieval to modern and touch upon Japan’s imperial and equally-rich vernacular history. Their survival is a testament to their importance within Japan’s long history and the country’s diligent efforts to preserve heritage in the face of challenges including urbanism, environment, and natural disaster.",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan",
+    "pass": 3
+   },
+   {
+    "quote": "• All special events, entrance fees, and private tours",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2021",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Games' annual revenue was $377.7K in April 2021, its last figure before Codemasters Birmingham bought it (source not recorded).",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "Codemasters Birmingham owns Monumental Games. The date and price of the deal are not on record.",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Wheelwright founded Monumental Games in 2005 and led it as CEO. Monumental Games had 6 employees (April 2021).",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "in April 2021 (source not recorded).",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "employees in April 2021.",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental (Hardware) 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of on-site construction robotics designed to make construction software-defined and autonomous. The company's robotics uses a suite of autonomous electric robots to speed up the process and provide sustainable and safe construction, enabling clients to build homes within a day using minimal labor.",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental (Hardware)’s primary industry is Other Hardware.",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "Is Monumental (Hardware) a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental (Hardware) is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "The 25th monumental invention probably won't stop｜NPO法人あおもりIT活用サポートセンター（AOIT）",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The 25th monumental invention probably won't stop",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Also, an AI called \"Jev\" that returns only judgments by probability without writing text has been getting a lot of attention in the last week. It's fast, cheap, and convenient—an AI like the Yoshinoya of yesteryear.",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you were running a business providing horse-drawn carriages, you'd be in trouble if automobiles suddenly became widespread, right? I can understand the backlash against the shift to an automobile society.",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Furthermore, when such monumental general-purpose technologies spread to the world, social structures (including norms, ethics, and common sense) are inevitably transformed in a chain reaction, much like the saying \"when the wind blows, the bucket maker prospers.\"",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The app description makes it sound like it's publicly available and ready to download, but it's a private app exclusively for Honda.",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What I wanted was an app that could display formatted text just by pressing the space key in Finder (Quick Look function), and allow me to edit it as is when opened. I couldn't find one that fit perfectly, so I made it. It's a program of about 7,800 lines, and",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As the representative of AOIT, I help people and companies in Aomori Prefecture use digital technology appropriately.",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Monumental is based near the Artis zoo in the Plantage, in the city center of Amsterdam. We have a beautiful office with an in-house workshop and robot testing facility. We’re explicitly not a hybrid or remote-first company: we enjoy collaborating 5 days a week at the office.",
+    "url": "https://www.monumental.co/about/",
+    "pass": 1
+   },
+   {
+    "quote": "the most recent 10 were born in the last 150 years or so, since the Industrial Revolution",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本語WordNet(英和)での「monumental..」の意味",
+    "url": "https://ejje.weblio.jp/content/monumental..",
+    "pass": 3
+   },
+   {
+    "quote": "東京大学FoundX 164回視聴 2 か月前",
+    "url": "https://www.youtube.com/watch?v=rW7MQKi9NuM",
+    "pass": 3
+   },
+   {
+    "quote": "「フィジカルAI」開発の現場に潜入！世界が注目する日本発ユニコーン企業「Mujin」が物流センターの省人化に挑む！【ガイアの夜明け】",
+    "url": "https://www.youtube.com/watch?v=rW7MQKi9NuM",
+    "pass": 3
+   },
+   {
+    "quote": "【フィジカルAI】建設業界はこう変わる｜元・現場監督が語るロボットの脳の正体|株式会社log build 中堀健一さま",
+    "url": "https://www.youtube.com/watch?v=rW7MQKi9NuM",
+    "pass": 3
+   },
+   {
+    "quote": "建設不動産ビジネスチャンネル【株式会社リブ・コンサルティング】",
+    "url": "https://www.youtube.com/watch?v=rW7MQKi9NuM",
+    "pass": 3
+   },
+   {
+    "quote": "GRIC PITCH 2025 「株式会社Space Quarters」THEME2：FRONTIER TECH",
+    "url": "https://www.youtube.com/watch?v=rW7MQKi9NuM",
+    "pass": 3
+   },
+   {
+    "quote": "日本への応用：木造、基礎工事、狭小地の外壁施工",
+    "url": "https://www.youtube.com/watch?v=rW7MQKi9NuM",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、レンガ積み以外のどの工程に応用できるのでしょうか？",
+    "url": "https://www.youtube.com/watch?v=rW7MQKi9NuM",
+    "pass": 3
+   },
+   {
+    "quote": "・木造住宅、基礎工事、狭小地施工など日本市場への応用可能性",
+    "url": "https://www.youtube.com/watch?v=rW7MQKi9NuM",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental とは何ですか? | Monumental という単語の翻訳、文法、英語辞書 - 日本語",
+    "url": "https://dictionary.scandict.com/ja/dictionary/monumental-JZoQv",
+    "pass": 3
+   },
+   {
+    "quote": "1.) 対話の日本語訳:",
+    "url": "https://dictionary.scandict.com/ja/dictionary/monumental-JZoQv",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Journeys: Japan",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan-2027",
+    "pass": 3
+   },
+   {
+    "quote": "Travel with WMF to Japan",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan-2027",
+    "pass": 3
+   },
+   {
+    "quote": "will focus on WMF's 25 years of preservation work throughout Japan with exclusive access to architecture, gardens, and special spaces, and culminating in a grand gala celebration at Tokyo National Museum.",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan-2027",
+    "pass": 3
+   },
+   {
+    "quote": "The impressive sites on this itinerary range from medieval to modern and touch upon Japan’s imperial and equally-rich vernacular history. In Kanazawa, you will have the opportunity to see WMF’s work to help revive",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan-2027",
+    "pass": 3
+   },
+   {
+    "quote": "and traditional houses unique to this region of Japan. Along the way you will experience traditional Japanese culture through music, dance, and cuisine, all coinciding with one of the most magical seasons in Japan, when",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan-2027",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Art of Japan - Culture - Japan Travel",
+    "url": "https://en.japantravel.com/photostory/monumental-art-of-japan/59564",
+    "pass": 3
+   },
+   {
+    "quote": "en.japantravel.com/photostory/monumental-art-of-japan/59564",
+    "url": "https://en.japantravel.com/photostory/monumental-art-of-japan/59564",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Art of Japan",
+    "url": "https://en.japantravel.com/photostory/monumental-art-of-japan/59564",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental art can include sculptures, compositions, mosaic panels, building decorations, stained glass, street clocks and so on. Perhaps influenced by overseas designers, the style of monumental art in Japan leans towards the international rather than purely Japanese.",
+    "url": "https://en.japantravel.com/photostory/monumental-art-of-japan/59564",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Metropolitan Government",
+    "url": "https://en.japantravel.com/photostory/monumental-art-of-japan/59564",
+    "pass": 3
+   },
+   {
+    "quote": "That's a really interesting observation about Japan's public art leaning towards the international and not traditional Japanese.",
+    "url": "https://en.japantravel.com/photostory/monumental-art-of-japan/59564",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Pottery Tour: Hands-On Workshops & Artisan Encounters",
+    "url": "https://en.japantravel.com/photostory/monumental-art-of-japan/59564",
+    "pass": 3
+   },
+   {
+    "quote": "An immersive 11-day journey through Japan's renowned pottery villages: Mashiko, Bizen, Tamba, Hagi, Arita and Karatsu.",
+    "url": "https://en.japantravel.com/photostory/monumental-art-of-japan/59564",
+    "pass": 3
+   },
+   {
+    "quote": "© 2026 Japan Travel K.K.",
+    "url": "https://en.japantravel.com/photostory/monumental-art-of-japan/59564",
+    "pass": 3
+   },
+   {
+    "quote": "Opinions expressed by Japan Travel community members are their own.",
+    "url": "https://en.japantravel.com/photostory/monumental-art-of-japan/59564",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Journeys: Japan",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Kyoto, Nara, Shikoku, and an optional extension to Tokyo",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s modernity and the central role it plays in today’s world have made the country and its rich cultural heritage increasingly accessible to world travelers seeking an introductory visit. World Monuments Fund’s 2019 tour, however, is designed for those visitors seeking a deeper level of engagement with the country, its built heritage, and its renowned cultural and artistic traditions.",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan",
+    "pass": 3
+   },
+   {
+    "quote": "The impressive sites on this itinerary range from medieval to modern and touch upon Japan’s imperial and equally-rich vernacular history. Their survival is a testament to their importance within Japan’s long history and the country’s diligent efforts to preserve heritage in the face of challenges including urbanism, environment, and natural disaster.",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan",
+    "pass": 3
+   },
+   {
+    "quote": "• Travel to and from Japan",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "英語「 monumental ..」の意味・読み方・表現 | Weblio英和辞書 — 英語「 monumental ..」の意味・読み方・表現 | Weblio英和辞書 Weblio英和和英辞典 https://ejje.weblio.jp > 英和辞典・和英辞典 > 英和辞典",
+    "url": "https://ejje.weblio.jp/content/monumental..",
+    "pass": 3
+   },
+   {
+    "quote": "【 Monumental 】ロボットを売らず「完成した壁」を売る… — 【 Monumental 】ロボットを売らず「完成した壁」を売る… Apple Podcasts https://podcasts.apple.com > podcast > monumental-ロボ...",
+    "url": "https://podcasts.apple.com/vu/podcast/monumental-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%92%E5%A3%B2%E3%82%89%E3%81%9A-%E5%AE%8C%E6%88%90%E3%81%97%E3%81%9F%E5%A3%81-%E3%82%92%E5%A3%B2%E3%82%8B-%E5%B0%8F%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E7%BE%A4%E3%81%AB%E3%82%88%E3%82%8B%E5%BB%BA%E8%A8%AD%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/id1493965499?i=1000783705707",
+    "pass": 3
+   },
+   {
+    "quote": "【 Monumental 】ロボットを売らず「完成した壁」を売る — 【 Monumental 】ロボットを売らず「完成した壁」を売る YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=rW7MQKi9NuM",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental という単語の翻訳、文法、英語辞書 - ScanDict — Monumental という単語の翻訳、文法、英語辞書 - ScanDict ScanDict https://dictionary.scandict.com > monumental-JZoQv",
+    "url": "https://dictionary.scandict.com/ja/dictionary/monumental-JZoQv",
+    "pass": 3
+   },
+   {
+    "quote": "monumental で「途方もなく」?! 強意用法の monumental の ... — monumental で「途方もなく」?! 強意用法の monumental の ... lion-eigo.com https://lion-eigo.com > ボキャブラリー",
+    "url": "https://lion-eigo.com/vocab/monumental/",
+    "pass": 3
+   },
+   {
+    "quote": "MONUMENTAL 株式会社｜法人番号 3020001149063 — MONUMENTAL 株式会社｜法人番号 3020001149063 法律人 LawPlayer https://lawplayer.com > 日本法令検索 > 法人情報",
+    "url": "https://lawplayer.com/jp/company/3020001149063",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Canal House Historic City Centre Gouda — Monumental Canal House Historic City Centre Gouda Booking.com https://www.booking.com > ... > ゴーダのアパートメント",
+    "url": "https://www.booking.com/hotel/nl/monumental-canal-house-historic-city-centre-gouda.ja.html",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Journeys: Japan — Monumental Journeys: Japan World Monuments Fund https://www.wmf.org > events > mon...",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan-2027",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Art of Japan - Culture — Monumental Art of Japan - Culture JapanTravel https://en.japantravel.com > photostory",
+    "url": "https://en.japantravel.com/photostory/monumental-art-of-japan/59564",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Journeys: Japan — Monumental Journeys: Japan World Monuments Fund https://www.wmf.org > events > mon...",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Games Revenue 2021: $377.7K - GetLatka — Monumental Games Revenue 2021: $377.7K - GetLatka GetLatka https://getlatka.com > companies > m...",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental · Announcing our $32 million fundraise — Monumental · Announcing our $32 million fundraise monumental.co https://www.monumental.co > press",
+    "url": "https://www.monumental.co/press/announcing-our-32-million-fundraise",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental , an Amsterdam-based construction robotics ... — Monumental , an Amsterdam-based construction robotics ... Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/Da286TgEVkT/",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental (Hardware) 2026 Company Profile - PitchBook — Monumental (Hardware) 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental raises $25m to bring builder bots to Europe — Monumental raises $25m to bring builder bots to Europe Silicon Republic https://www.siliconrepublic.com > mo...",
+    "url": "https://www.siliconrepublic.com/start-ups/monumental-funding-builder-robots-construction",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "VALPAINT, an Italian company and market leader in the sector of paint-and-decorative-coating manufacture, has carried out in-depth research into Corten as a material and come up with",
+    "url": "https://www.valpaint.it/jp/blog/art/198-corten-effect-paint-the-elegance-of-a-rusty-glow/",
+    "pass": 3
+   },
+   {
+    "quote": "Some of these benefits are listed below:",
+    "url": "https://www.valpaint.it/jp/blog/art/198-corten-effect-paint-the-elegance-of-a-rusty-glow/",
+    "pass": 3
+   },
+   {
+    "quote": "This experience is part of our",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan-2027",
+    "pass": 3
+   },
+   {
+    "quote": "• Transfers to/from the airport on arrival and departure (B&R will be happy to go over options and take care of reservations)",
+    "url": "https://www.wmf.org/events/monumental-journeys-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Games Revenue 2021: $377.7K",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "revenue & acquisition",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Games was acquired by Codemasters Birmingham.",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Games revenue",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Games' annual revenue was $377.7K in April 2021, its last figure before Codemasters Birmingham bought it (source not recorded).",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Games CEO, founders & employees",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Wheelwright founded Monumental Games in 2005 and led it as CEO. Monumental Games had 6 employees (April 2021).",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "What was Monumental Games' revenue?",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "Before Codemasters Birmingham bought it, Monumental Games' annual revenue was",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Monumental Games have?",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "employees in April 2021.",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/monumental-games",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental (Hardware) has 102 total employees.",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "What is Monumental (Hardware)’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Monumental (Hardware) is",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   },
+   {
+    "quote": "If you were running a business providing horse-drawn carriages, you'd be in trouble if automobiles suddenly became widespread, right? I can understand the backlash against the shift to an automobile society.",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "The 25th monumental invention probably won't stop - note The 25th monumental invention probably won't stop - note note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "The 25th monumental invention probably won't stop｜NPO法人あおもりIT活用サポートセンター（AOIT）",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The 25th monumental invention probably won't stop",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NPO法人あおもりIT活用サポートセンター（AOIT）",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "But the news about AI just keeps coming, doesn't it...",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On September 23rd, when I am writing this manuscript, a model called \"Claude Opus 5.5\" was released, which is as high-performance as Claude Fable 5.1 and incredibly cheap. I tried using it, and it's super good.",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Also, an AI called \"Jev\" that returns only judgments by probability without writing text has been getting a lot of attention in the last week. It's fast, cheap, and convenient—an AI like the Yoshinoya of yesteryear.",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Two weeks ago, it was big news that \"AI might destroy humanity.\"",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The latest model of yesterday is already outdated today.",
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Monumental Sports & Entertainment (@MSE) / X Monumental Sports & Entertainment (@MSE) / X X https://x.com > MSE",
+    "url": "https://x.com/MSE",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Sports Network (@MonSportsNet) / X Monumental Sports Network (@MonSportsNet) / X X https://x.com > MonSportsNet",
+    "url": "https://x.com/MonSportsNet",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Labs (@Monumental_Labs) / X Monumental Labs (@Monumental_Labs) / X X https://x.com > Monumental_Labs",
+    "url": "https://x.com/Monumental_Labs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Monumental Sports & Entertainment | LinkedIn Monumental Sports & Entertainment | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/monumental-sports-&-entertainment",
+    "pass": 3
+   },
+   {
+    "quote": "Zachary Leonsis - President & Vice Chairman at Monumental ... Zachary Leonsis - President & Vice Chairman at Monumental ... LinkedIn https://www.linkedin.com > zacharyle...",
+    "url": "https://www.linkedin.com/in/zacharyleonsis",
+    "pass": 3
+   },
+   {
+    "quote": "Alycen McAuley - Monumental Sports & Entertainment - LinkedIn Alycen McAuley - Monumental Sports & Entertainment - LinkedIn LinkedIn https://www.linkedin.com > alycenmc...",
+    "url": "https://www.linkedin.com/in/alycenmcauley",
+    "pass": 3
+   },
+   {
+    "quote": "Grant Hastings - Monumental Sports & Entertainment - LinkedIn Grant Hastings - Monumental Sports & Entertainment - LinkedIn LinkedIn https://www.linkedin.com > grant-has...",
+    "url": "https://www.linkedin.com/in/grant-hastings-96802217",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Monumental Sports Network | Washington D.C. DC - Facebook Monumental Sports Network | Washington D.C. DC - Facebook Facebook https://www.facebook.com > ... > TV network",
+    "url": "https://www.facebook.com/MonSportsNet/",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Sports & Entertainment | Washington D.C. DC Monumental Sports & Entertainment | Washington D.C. DC Facebook https://www.facebook.com > ... > Arts & entertainment",
+    "url": "https://www.facebook.com/MonumentalSports/",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental Shows | Spokane WA - Facebook Monumental Shows | Spokane WA - Facebook Facebook https://www.facebook.com > ... > Event Planner",
+    "url": "https://www.facebook.com/monumentalshows/",
+    "pass": 3
+   },
+   {
+    "quote": "Monumental app enhancements for DMV fans 2026 - Facebook Monumental app enhancements for DMV fans 2026 - Facebook Facebook https://www.facebook.com > MonumentalSports > posts",
+    "url": "https://www.facebook.com/MonumentalSports/posts/-today-monumental-sports-network-has-announced-enhancements-to-monumental-reflec/2012140283455037/",
+    "pass": 3
+   },
+   {
+    "quote": "W Monumental (@ monumental .video) - Facebook W Monumental (@ monumental .video) - Facebook Facebook https://www.facebook.com > ... > Digital creator",
+    "url": "https://www.facebook.com/monumental.video/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.monumental.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monumental.co/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monumental.co/jobs/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ejje.weblio.jp/content/monumental..",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://podcasts.apple.com/vu/podcast/monumental-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%92%E5%A3%B2%E3%82%89%E3%81%9A-%E5%AE%8C%E6%88%90%E3%81%97%E3%81%9F%E5%A3%81-%E3%82%92%E5%A3%B2%E3%82%8B-%E5%B0%8F%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E7%BE%A4%E3%81%AB%E3%82%88%E3%82%8B%E5%BB%BA%E8%A8%AD%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/id1493965499?i=1000783705707",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rW7MQKi9NuM",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dictionary.scandict.com/ja/dictionary/monumental-JZoQv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lawplayer.com/jp/company/3020001149063",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.booking.com/hotel/nl/monumental-canal-house-historic-city-centre-gouda.ja.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.valpaint.it/jp/blog/art/198-corten-effect-paint-the-elegance-of-a-rusty-glow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nobletraders.jp/business/distribution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wmf.org/events/monumental-journeys-japan-2027",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.japantravel.com/photostory/monumental-art-of-japan/59564",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tripadvisor.com/Attractions-g294232-Activities-c47-t26-Japan.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.wmf.org/events/monumental-journeys-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vI_sm6Y5ydsBehdksZlvRmPMY01AhGMjnF4I-BL4HimMvrHcRkK",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/customer-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/case-studies/caldwell-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/monumental-games",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/p/Da286TgEVkT/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/484822-00",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MSE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MonSportsNet",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Monumental_Labs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/monumental-sports-&-entertainment",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/zacharyleonsis",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/alycenmcauley",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/grant-hastings-96802217",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MonSportsNet/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MonumentalSports/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/monumentalshows/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MonumentalSports/posts/-today-monumental-sports-network-has-announced-enhancements-to-monumental-reflec/2012140283455037/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MSE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/monumental.video/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Monumental_Labs",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Monumental 日本 導入",
+   "results": [
+    "https://ejje.weblio.jp/content/monumental..",
+    "https://podcasts.apple.com/vu/podcast/monumental-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%92%E5%A3%B2%E3%82%89%E3%81%9A-%E5%AE%8C%E6%88%90%E3%81%97%E3%81%9F%E5%A3%81-%E3%82%92%E5%A3%B2%E3%82%8B-%E5%B0%8F%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E7%BE%A4%E3%81%AB%E3%82%88%E3%82%8B%E5%BB%BA%E8%A8%AD%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/id1493965499?i=1000783705707",
+    "https://www.youtube.com/watch?v=rW7MQKi9NuM",
+    "https://dictionary.scandict.com/ja/dictionary/monumental-JZoQv",
+    "https://lion-eigo.com/vocab/monumental/",
+    "https://dictionary.cambridge.org/ja/dictionary/english/monumental",
+    "https://www.linguee.jp/%E8%8B%B1%E8%AA%9E-%E6%97%A5%E6%9C%AC%E8%AA%9E/%E7%BF%BB%E8%A8%B3/monumental.html",
+    "https://context.reverso.net/%E7%BF%BB%E8%A8%B3/%E8%8B%B1%E8%AA%9E-%E6%97%A5%E6%9C%AC%E8%AA%9E/monumental",
+    "https://eow.alc.co.jp/search?q=monumental",
+    "https://generative-ai.co.jp/usecase/medical-healthcare-ai/ai-startup-usecase-monumental/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Monumental 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://lawplayer.com/jp/company/3020001149063",
+    "https://www.booking.com/hotel/nl/monumental-canal-house-historic-city-centre-gouda.ja.html",
+    "https://www.valpaint.it/jp/blog/art/198-corten-effect-paint-the-elegance-of-a-rusty-glow/",
+    "https://nobletraders.jp/business/distribution",
+    "http://www.smg-world.com/",
+    "https://www.youtube.com/watch?v=Z0qbqoMya_M",
+    "https://www.fullspeedahead.com/ja/fsa-revolution-continues-monumental-victory",
+    "https://www.youtube.com/watch?v=7kUjC_zqMaE",
+    "https://note.com/wild_orange/n/n123ea36e363e?hl=en",
+    "https://about.montbell.jp/profile/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Monumental Japan",
+   "results": [
+    "https://www.wmf.org/events/monumental-journeys-japan-2027",
+    "https://en.japantravel.com/photostory/monumental-art-of-japan/59564",
+    "https://www.tripadvisor.com/Attractions-g294232-Activities-c47-t26-Japan.html",
+    "https://www.wmf.org/events/monumental-journeys-japan",
+    "https://en.wikipedia.org/wiki/Monuments_of_Japan",
+    "https://shs.cairn.info/journal-espaces-et-societes-2007-4-page-153?lang=en",
+    "https://archive.nyu.edu/handle/2451/30266",
+    "https://www.facebook.com/61565244002554/posts/top-brutalism-in-japan-japanese-brutalism-often-feels-precise-quiet-and-deeply-c/122208054482508133/",
+    "https://en.wikipedia.org/wiki/List_of_Special_Places_of_Scenic_Beauty,_Special_Historic_Sites_and_Special_Natural_Monuments",
+    "https://www.atlasobscura.com/things-to-do/japan/monuments"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Monumental manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vI_sm6Y5ydsBehdksZlvRmPMY01AhGMjnF4I-BL4HimMvrHcRkK",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://markforged.com/resources/case-studies/caldwell-manufacturing",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://monumentchemical.com/our-stories-events/how-monument-chemical-is-putting-data-and-ai-to-work-for-customers",
+    "https://www.athenaswc.com/case-studies/",
+    "https://663810.fs1.hubspotusercontent-na1.net/hubfs/663810/2022%20-%20CLEVR%20Success%20Stories%20EBooks/CLEVR%20Success%20Stories%20-%20Manufacturing%20-%20ENG.pdf",
+    "https://www.casestudies.com/company/monumental"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Monumental white label OR reseller OR partner program",
+   "results": [
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://www.reddit.com/r/webdesign/comments/1ow0ykg/white_label_reseller/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Monumental founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/monumental-games",
+    "https://www.monumental.co/press/announcing-our-32-million-fundraise",
+    "https://www.instagram.com/p/Da286TgEVkT/",
+    "https://pitchbook.com/profiles/company/484822-00",
+    "https://www.siliconrepublic.com/start-ups/monumental-funding-builder-robots-construction",
+    "https://www.crunchbase.com/organization/monumental-6b94",
+    "https://www.dutchstartup.ai/en/news/monumental-raises-32-million-to-expand-robot-fleet-and-take-first-steps-in-the",
+    "https://www.linkedin.com/posts/raphael-levy_monumental-just-raised-32m-led-by-khosla-activity-7483163053585264640-6CqJ",
+    "https://www.influencewatch.org/non-profit/monument-lab/",
+    "https://compworth.com/company/monumental"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Monumental",
+   "results": [
+    "https://note.com/aomori_itsupport/n/ndeeea24f322c?hl=en",
+    "https://note.com/krichards/n/n9d4a916d7220?hl=en",
+    "https://note.com/zatsunenmamire/n/n7bbc974a11c8?hl=en",
+    "https://note.com/n18kanazawa/n/na88c1ee2844b?hl=en",
+    "https://note.com/dokusyo_daigaku/n/n1e6866729465?hl=en",
+    "https://note.com/holiday_records/n/n34e0032d6531?hl=en",
+    "https://note.com/chitose_ark/n/nc86276e657a8?hl=en",
+    "https://note.com/nongenre_zinsei/n/n5bb55776df94?hl=en",
+    "https://note.com/ray520/n/n64711a5e7f07?hl=en",
+    "https://note.com/bookcoaching/n/n80a789121191?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Monumental",
+   "results": [
+    "https://x.com/MSE",
+    "https://x.com/MonSportsNet",
+    "https://x.com/Monumental_Labs",
+    "https://x.com/MSEFndn",
+    "https://x.com/MSE/status/2118708748139028765",
+    "https://x.com/MonSportsNet/status/2117663223646130610",
+    "https://x.com/MSE/status/2117648141650444743",
+    "https://x.com/MonSportsNet/status/2119179972518560075",
+    "https://x.com/MonSportsNet/status/2101806187096236301",
+    "https://x.com/mse"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Monumental",
+   "results": [
+    "https://www.linkedin.com/company/monumental-sports-&-entertainment",
+    "https://www.linkedin.com/in/zacharyleonsis",
+    "https://www.linkedin.com/in/alycenmcauley",
+    "https://www.linkedin.com/in/grant-hastings-96802217",
+    "https://www.linkedin.com/in/adamheintz",
+    "https://www.linkedin.com/company/monumentalio",
+    "https://www.linkedin.com/in/jarrettnobles",
+    "https://www.linkedin.com/jobs/monumental-sports-%26-entertainment-jobs",
+    "https://www.linkedin.com/in/leah-royer-23908a24",
+    "https://www.linkedin.com/company/monumental-games"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Monumental",
+   "results": [
+    "https://www.facebook.com/MonSportsNet/",
+    "https://www.facebook.com/MonumentalSports/",
+    "https://www.facebook.com/monumentalshows/",
+    "https://www.facebook.com/MonumentalSports/posts/-today-monumental-sports-network-has-announced-enhancements-to-monumental-reflec/2012140283455037/",
+    "https://www.facebook.com/groups/2204734069/posts/10162989401339070/",
+    "https://www.facebook.com/groups/boardgamerevolution/posts/3703258913299353/",
+    "https://www.facebook.com/MonSportsNet/videos/monumental-sports-entertainment-and-sherwin-williams-are-keeping-fans-updated-on/791955520484523/",
+    "https://www.facebook.com/groups/2204734069/posts/10163450142394070/",
+    "https://www.facebook.com/groups/2204734069/posts/10163058456404070/",
+    "https://www.facebook.com/groups/theboardgamegroup/posts/9800599136660684/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Monumental note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://shachomeikan.jp/industry_article/5902",
+    "https://nipponia.or.jp/blog/3571/",
+    "https://dimension-note.jp/",
+    "https://plus-note.jp/en/ceo-message/",
+    "https://note.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://online.nikkei-cnbc.co.jp/vod/58940",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Monumental X 投稿",
+   "results": [
+    "https://x.com/MSE",
+    "https://www.facebook.com/monumental.video/",
+    "https://www.instagram.com/monumental.video/",
+    "https://x.com/Monumental_Labs",
+    "https://monumental.playanywhere.com/",
+    "https://podcasts.apple.com/us/podcast/monumental/id1709713467",
+    "https://www.monumentalfoundation.org/",
+    "https://www.xhbt.org/exhibit/la-monumental-the-ranch",
+    "https://x.com/BuildMonumental",
+    "https://www.instagram.com/monumental_x/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部38頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部38頁・検索12回）"
+ }
+}

@@ -1,0 +1,1183 @@
+{
+ "name": "Chargerobotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン1",
+ "researched_at": "2026-11-11T00:46:54.503264+00:00",
+ "official_url": "https://chargerobotics.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$17,000,000",
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "San Leandro, California, United States",
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "Oakland, CA, USA",
+    "url": "https://startupintros.com/orgs/charge-robotics",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://startupintros.com/orgs/charge-robotics",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Material Prep + Loading",
+    "url": "https://chargerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Materials prepped and loaded for assembly",
+    "url": "https://chargerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Charge handles all material prep and loading, from unbundling torque tubes to loading modules and mounting brackets.",
+    "url": "https://chargerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The dual-track conveyor system precisely moves, orients, and positions torque tubes for assembly.",
+    "url": "https://chargerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Weatherproof Assembly",
+    "url": "https://chargerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The sheltered main bay assembly line is flexibly programmed to build dozens of bay configurations.",
+    "url": "https://chargerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Charge automates all structural assembly, from factory loading through row installation and QA/QC Handoff. EPC retains responsibility for civil prep and electrical balance-of-system work.",
+    "url": "https://chargerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for real construction conditions, standard project sites, and the demands of utility-scale production.",
+    "url": "https://chargerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Charge provides a trained crew to operate each Sunrise factory, reducing the overhead of hiring a crew to work in remote locations.",
+    "url": "https://chargerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototypes of machines from Charge Robotics’ autonomously assemble sections of a solar farm as part of a pilot project in partnership with SOLV Energy.",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Looking for a reprint of this article?",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Jennifer Pierce was previously a multimedia editor for ASSEMBLY Magazine.",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Consumer Products Manufacturing: Made in the USA",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Best Practices for Press-Fit Assembly",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Engineers at Tesla Inc. have developed a new process that...",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Manage My Preferences",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. PCB Factory Says It Now Matches China on Price — and Builds Boards in Half the Time",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "How to Foster a Culture of Continuous Improvement: A Lean Leader's Journey",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Attendees will learn how to use Gemba walks and observation to see the real work, solve problems with teams using PDCA and visible data, and sustain improvements through team standardization and leader standard work.",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Which assembly process gives you the most difficulty?",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Making solar projects cheaper and faster with portable factories | MIT Department of Mechanical Engineering",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Degree Programs and Classes",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "News, Press, Video and Photos",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Making Solar Projects Cheaper And Faster Portable Factories",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Making solar projects cheaper and faster with portable factories",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "As the price of solar panels has",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "of the technology’s overall price tag. The long installation process for solar farms is also emerging as a key bottleneck in the deployment of solar energy.",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Prototypes of machines from Charge Robotics’ autonomously assemble sections of a solar farm as part of a pilot project in partnership with SOLV Energy. Credit: Courtesy of Charge Robotics",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "The founders say they were met with skepticism when they first unveiled their plans. But in the beginning of last year, they deployed a prototype system that successfully built a solar farm with SOLV Energy, one of the largest solar installers in the U.S. Now, Charge has raised $22 million for its first commercial deployments later this year.",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "While majoring in mechanical engineering at MIT, Hunter found plenty of excuses to build things. One such excuse was Course 2.009 (Produce Engineering Processes), where he and his classmates built a smart watch for communication in remote areas.",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "“A lot of really hands on, project-based classes at MIT translated directly into my first roles coming out of school and set me up to be very independent and run large engineering projects,” Banks says, “Course 2.009, in particular, was a big launch point for me. The founders of Vicarious Surgical got in touch with me through the 2.009 network.”",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "As early as 2017, Hunter and Justicz, who majored in mechanical engineering and computer science, had discussed starting a company together. But they had to decide where to apply their broad engineering and product skillsets.",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "“Both of us care a lot about climate change. We see climate change as the biggest problem impacting the greatest number of people on the planet,” Hunter says. “Our mentality was if we can build anything, we might as well build something that really matters.”",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "In the process of cold calling hundreds of people in the energy industry, the founders decided solar was the future of energy production because its price was decreasing so quickly.",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "“It’s becoming cheaper faster than any other form of energy production in human history,” Hunter says.",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Hunter says he heard from each of the largest solar companies in the U.S. that their biggest limitation for scaling was labor shortages. The problem was slowing growth and killing projects.",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "“From there, we came up with this portable assembly line that we could ship out to construction sites and then feed in the entire solar system, including the steel tracks, mounting brackets, fasteners, and the solar panels,” Hunter explains. “The assembly line robotically assembles all those pieces to produce completed solar bays, which are chunks of a solar farm.”",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Each bay represents a 40-foot piece of the solar farm and weighs about 800 pounds. A robotic vehicle brings it to its final location in the field. Banks says Charge’s system automates all mechanical installation except for the process of pile driving the first metal stakes into the ground.",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "From pilot to product",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Since that first deployment, Charge’s team has been making its system faster and easier to operate. The company plans to set up its factories at project sites and run them in partnership with solar construction companies. The factories could even run alongside human workers.",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Hunter says multiple factories could be deployed at the same site and could also operate 24/7 to dramatically speed up projects.",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Streamlining metal parts production to revitalize American industry",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Making solar projects cheaper and faster with portable factories | Article Page",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "View Privacy Policy page",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "Learn more about this provider",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "Preserves users states across page requests.",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "Used to track user’s interaction with embedded content.",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "Stores the user's video player preferences using embedded YouTube video",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "Necessary for the implementation and functionality of YouTube video-content on the website.",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "Tries to estimate the users' bandwidth on pages with integrated YouTube videos.",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "Registers a unique ID to keep statistics of what videos from YouTube the user has seen.",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "[#IABV2_BODY_PREFERENCE_INTRO#]",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "embraces the whole energy industry as it connects and converges to address the decarbonisation challenge. It covers progress being made across the industry, from the dynamics under way to reduce emissions in oil and gas, through improvements to the efficiency of energy conversion and use, to cutting-edge initiatives in renewable and low-carbon technologies.",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "Making solar projects cheaper and faster with portable factories",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "Prototypes of machines from Charge Robotics autonomously assemble sections of a solar farm as part of a pilot project in partnership with SOLV Energy",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "The founders say they were met with scepticism when they first unveiled their plans. But in the beginning of last year, they deployed a prototype system that successfully built a solar farm with SOLV Energy, one of the largest solar installers in the US. Now, Charge has raised $22mn for its first commercial deployments later this year.",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The Factory That Builds Gigawatts",
+    "url": "https://chargerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A turnkey crew and factory that brings your site from piles to mechanical completion.",
+    "url": "https://chargerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How the Sunrise factory works",
+    "url": "https://chargerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Charge automates all structural assembly, from factory loading through row installation and QA/QC Handoff. EPC retains responsibility for civil prep and electrical balance-of-system work.",
+    "url": "https://chargerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Charge provides a trained crew to operate each Sunrise factory, reducing the overhead of hiring a crew to work in remote locations.",
+    "url": "https://chargerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Robotics Start-Up Revolutionizes Solar Installation with Portable Factories | ASSEMBLY",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Management",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Software",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics Start-Up Revolutionizes Solar Installation with Portable Factories",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Looking for quick answers on assembly and manufacturing topics?",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Consumer Products Manufacturing: Made in the USA",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "In manufacturing, ironclad formulas for success are hard...",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Ford Rethinks Vehicle Assembly With $2 Billion Factory Overhaul",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "U.S. PCB Factory Says It Now Matches China on Price — and Builds Boards in Half the Time",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Start-up to Open World’s First Factory for Humanoid Robots",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Never miss the latest news and trends driving the manufacturing industry",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Division",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Making solar projects cheaper and faster with portable factories | MIT Department of Mechanical Engineering",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Making Solar Projects Cheaper And Faster Portable Factories",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Making solar projects cheaper and faster with portable factories",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "81 percent of new electric capacity in the U.S., and Hunter and Justicz see their factories as necessary for continued acceleration in the industry.",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Since that first deployment, Charge’s team has been making its system faster and easier to operate. The company plans to set up its factories at project sites and run them in partnership with solar construction companies. The factories could even run alongside human workers.",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Hunter says multiple factories could be deployed at the same site and could also operate 24/7 to dramatically speed up projects.",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "are hitting the limits of solar growth because these companies don’t have enough people,” Hunter says. “We can build much bigger sites much faster with the same number of people by just shipping out more of our factories. It’s a fundamentally new way of scaling solar energy.”",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Making solar projects cheaper and faster with portable factories | Article Page",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "Making solar projects cheaper and faster with portable factories",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "‘We are hitting the limits of solar growth because these companies don’t have enough people,’ Hunter says. ‘We can build much bigger sites much faster with the same number of people by just shipping out more of our factories. It’s a fundamentally new way of scaling solar energy.’",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "Art's Way Manufacturing",
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "The company evolved from a concept into a robotics pioneer by deploying portable solar installation factories that autonomously assemble and install solar farm sections, integrating machine vision for quality control and compatibility with common solar components. This innovation positioned Charge Robotics as a key enabler of scalable renewable energy infrastructure[5][8].",
+    "url": "https://startupintros.com/orgs/charge-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Portable robotic factories that automate assembly and installation of solar farm sections, reducing manual labor to primarily pile driving[5].",
+    "url": "https://startupintros.com/orgs/charge-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Enables 24/7 operation and multiple factories on-site, dramatically accelerating project timelines and lowering costs compared to traditional labor-intensive methods[5].",
+    "url": "https://startupintros.com/orgs/charge-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "news.mit.edu/2025/charge-robotics-makes-solar-projects-cheaper-faster-portable-factories-0312",
+    "url": "https://startupintros.com/orgs/charge-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "url": "https://startupintros.com/orgs/charge-robotics",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "By automating 75% of array assembly and installation, Charge reduces the exposure and costs of a large manual crew.",
+    "url": "https://chargerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototypes of machines from Charge Robotics’ autonomously assemble sections of a solar farm as part of a pilot project in partnership with SOLV Energy.",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Prototypes of machines from Charge Robotics’ autonomously assemble sections of a solar farm as part of a pilot project in partnership with SOLV Energy. Credit: Courtesy of Charge Robotics",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Prototypes of machines from Charge Robotics autonomously assemble sections of a solar farm as part of a pilot project in partnership with SOLV Energy",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/494439-13",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics has 29 total employees.",
+    "url": "https://pitchbook.com/profiles/company/494439-13",
+    "pass": 3
+   },
+   {
+    "quote": "What is Charge Robotics’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/494439-13",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Charge Robotics is",
+    "url": "https://pitchbook.com/profiles/company/494439-13",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics Revenue",
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Charge Robotics",
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Charge Robotics?",
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Charge Robotics have?",
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by leading investors and part of the Y Combinator network, Charge Robotics benefits from strong industry connections and partnerships with major solar installers[1][4][6].",
+    "url": "https://startupintros.com/orgs/charge-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics Revenue 2024: $2M Est.",
+    "url": "https://getlatka.com/companies/chargerobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics revenue",
+    "url": "https://getlatka.com/companies/chargerobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics has not published its revenue. GetLatka estimates it at about $2M a year (June 2024).",
+    "url": "https://getlatka.com/companies/chargerobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics CEO, founders & employees",
+    "url": "https://getlatka.com/companies/chargerobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Banks Hunter founded Charge Robotics in 2021 and runs it as CEO. Charge Robotics had 13 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/chargerobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Charge Robotics' revenue?",
+    "url": "https://getlatka.com/companies/chargerobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Charge Robotics' revenue at about",
+    "url": "https://getlatka.com/companies/chargerobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Charge Robotics have?",
+    "url": "https://getlatka.com/companies/chargerobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/chargerobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/chargerobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/chargerobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/chargerobotics.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Charge Robotics | The Assembly Line For Solar Is Here — 1 Centralized Assembly Charge handles all material prep and loading, from unbundling torque tubes to loading modules and mounting brackets. 2 Consistent Throughput The dual-track conveyor system precisely moves, orients, and positions torque tubes for assembly. 3 Weatherproof Assembly The sheltered main bay assembly line is flexibly programme",
+    "url": "https://chargerobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics | LinkedIn — Charge Robotics is building robots that automate the most labor-intensive parts of solar construction. Solar has rapidly become the cheapest form of power generation in many regions, and demand is ...",
+    "url": "https://www.linkedin.com/company/charge-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics | The Assembly Line For Solar Is Here — Meet the Sunrise factory: a turnkey crew and automated factory bringing utility-scale solar sites from piles to mechanical completion.",
+    "url": "https://chargerobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics - LinkedIn — Charge Robotics is building robots that automate the most labor-intensive parts of solar construction. Solar has rapidly become the cheapest form of power generation in many regions, and demand is ...",
+    "url": "https://www.linkedin.com/company/charge-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Contact | Charge Robotics — Connect with Charge Robotics about solar automation and the Sunrise factory.",
+    "url": "https://www.chargerobotics.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Robotics Start-Up Revolutionizes Solar Installation with ...Making Solar Projects Cheaper and Faster with Portable ...Making solar projects cheaper and faster with portable ...Making solar projects cheaper and faster with portable ...Making solar projects cheaper and faster with portable ...Charge Robotics Completes First Deployment of Sunrise Solar ... — Mar 12, 2025 · After a successful prototyp",
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Making solar projects cheaper and faster with portable ... — Credit: Courtesy of Charge Robotics “We think of this as the Henry Ford moment for solar,” says CEO Banks Hunter ’15, who founded Charge Robotics with fellow MIT alumnus Max Justicz ’17. “We’re going from a very bespoke, hands on, manual installation process to something much more streamlined and set up for mass manufacturing.",
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Making solar projects cheaper and faster with portable ... — ‘We think of this as the Henry Ford moment for solar,’ says Chief Executive Officer Banks Hunter, who founded Charge Robotics with fellow Massachusetts Institute of Technology alumnus Max Justicz. ‘We’re going from a very bespoke, hands on, manual installation process to something much more streamlined and set up for mass manufacturing.",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "Making Solar Projects Cheaper and Faster with Portable ... — Apr 22, 2025 · Charge Robotics’ machine transports an autonomously assembled portion of solar farm to its final place in a solar farm. Photo courtesy of Charge Robotics In the process of cold calling hundreds of people in the energy industry, the founders decided solar was the future of energy production because its price was decreasing ",
+    "url": "https://alum.mit.edu/slice/making-solar-projects-cheaper-and-faster-portable-factories",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics 2026 Company Profile: Valuation, Funding ...Charge Robotics Revenue, Funding & Valuation - prospeo.ioCharge Robotics: Funding, Team & Investors | Startup IntrosCharge Robotics — Company Profile | The Company CheckCharge Robotics Revenue 2024: $2M Est. - getlatka.comCharge Robotics: Funding, Rounds, and Investors Overview — Information on valuation, funding, cap tables, investors, a",
+    "url": "https://pitchbook.com/profiles/company/494439-13",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics Revenue, Funding & Valuation - prospeo.io — Charge Robotics has revenue of $2,395,540, estimated valuation of $7,700,000, $17,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Founded in 2021 and backed by top investors including Y Combinator, Founders Fund, and Energy Impact Partners, Charge Robotics serves solar construction companies by providing robotic assembly lines—portable factories—that assemble and install completed solar farm sections on-site.",
+    "url": "https://startupintros.com/orgs/charge-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics Revenue 2024: $2M Est. - getlatka.com — Aug 10, 2026 · Charge Robotics 2024 estimated revenue: $2M. 13 employees. Founded 2021. HQ: United States. Updated Aug 10, 2026.",
+    "url": "https://getlatka.com/companies/chargerobotics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics: Funding, Rounds, and Investors Overview — Oct 12, 2026 · Charge Robotics Inc, founded in 2021 by Banks Hunter and Max Justicz, is a robotics company based in Oakland, California, with around 20 employees.",
+    "url": "https://exa.ai/websets/directory/charge-robotics-funding",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "Please state your consent ID and date when you contact us regarding your consent.",
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/494439-13",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Charge Robotics on X: \"Robots that build solar farms ... Charge Robotics @charge_robotics Oct 2 Join the pilot program at chargerobotics.com",
+    "url": "https://x.com/charge_robotics/status/2106044035689562320",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics (@charge_robotics) / Posts / X Charge Robotics (@charge_robotics) - Posts - We build robots that build solar farms. | X (formerly Twitter)",
+    "url": "https://x.com/charge_robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics on X: \"Robots that build solar farms ... Oct 2, 2026 · Charge Robotics @charge_robotics Oct 2 Join the pilot program at chargerobotics.com",
+    "url": "https://x.com/charge_robotics/status/2106044035689562320",
+    "pass": 3
+   },
+   {
+    "quote": "Charge Robotics (@charge_robotics) / Posts / X - x.com Mar 25, 2022 · Charge Robotics (@charge_robotics) - Posts - We build robots that build solar farms. | X (formerly Twitter)",
+    "url": "https://x.com/charge_robotics",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Charge Robotics - LinkedIn Charge Robotics is building robots that automate the most labor-intensive parts of solar construction. Solar has rapidly become the cheapest form of power generation in many regions, and demand is ...",
+    "url": "https://www.linkedin.com/company/charge-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Banks Hunter - Charge Robotics | LinkedInMechanical Engineer (all levels) at Charge Robotics — San ...Peter H. Dang - full speed ahead with Charge Robotics | LinkedInAlec Page - Charge Robotics | LinkedInMathias Ramirez - Mechanical Engineer - Charge Robotics ...We've been busy deploying our first commercial system to ... Experience: Charge Robotics · Education: Massachusetts Institute of Technolo",
+    "url": "https://www.linkedin.com/in/banksh",
+    "pass": 3
+   },
+   {
+    "quote": "Peter H. Dang - full speed ahead with Charge Robotics | LinkedInAlec Page - Charge Robotics | LinkedInMathias Ramirez - Mechanical Engineer - Charge Robotics ...We've been busy deploying our first commercial system to ... full speed ahead with Charge Robotics · Founding Recruiter at Charge Robotics (YC S21), where we build autonomous systems for utility-scale solar construction. I hire robotics ha",
+    "url": "https://www.linkedin.com/in/phdang",
+    "pass": 3
+   },
+   {
+    "quote": "Alec Page - Charge Robotics | LinkedInMathias Ramirez - Mechanical Engineer - Charge Robotics ...We've been busy deploying our first commercial system to ... Managing Partner @ Sun Road Syndicate - investing in transformative seed-stage climate… · Experience: Charge Robotics · Education: The University of Chicago · Location: Salt Lake City · 500 ... Dec 9, 2021 · Mechanical Engineer - Charge Robot",
+    "url": "https://www.linkedin.com/in/alecpage",
+    "pass": 3
+   },
+   {
+    "quote": "Banks Hunter - Charge Robotics | LinkedInnoteの歴代社長 - the-shashi.com経営チーム｜note株式会社Charge Robotics - LinkedInnote株式会社 on X: \"| メディア掲載 || 新潟日報 @niigata_nippo に... Experience: Charge Robotics · Education: Massachusetts Institute of Technology · Location: Berkeley · 500+ connections on LinkedIn. View Banks Hunter’s profile on LinkedIn, a professional ... Oct 26, 2026 · noteの歴代社長一覧。現在の社長は加藤貞顕（2011年就任）。2",
+    "url": "https://www.linkedin.com/in/banksh",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Charger Robotics Robotics Team 3786 | Kent WA - FacebookCharger Robotics - FacebookFacebookCharger Robotics 5348 - FacebookRobotics is so much fun!!!!!! Join our Charger Robotics!!! ...It is with heavy hearts that we share... - Charger Robotics ...The Charge Robotics added a new photo. - Facebook Sep 24, 2026 · Charger Robotics Robotics Team 3786, Kent. 160 followers · 3 talking about this. FRC Te",
+    "url": "https://www.facebook.com/chargerrobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Charger Robotics - FacebookFacebookCharger Robotics 5348 - FacebookRobotics is so much fun!!!!!! Join our Charger Robotics!!! ...It is with heavy hearts that we share... - Charger Robotics ...The Charge Robotics added a new photo. - Facebook Charger Robotics. 734 followers. Charger Robotics, a FIRST Robotics organization in Sussex, Wisconsin comprised of FRC #537, FTC #16208, #16217, #16322, #1632",
+    "url": "https://www.facebook.com/team537/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://chargerobotics.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/agile_iris8985/n/n2fed60d6cf0b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://terra-charge.co.jp/press-release/20260827/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://terra-charge.co.jp/press-release/20260227/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lowcarb.style/2026/08/30/terra-charge-nacs-adoption-2500-chargers-chademo-free/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chargerrobotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/charge-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.chargerobotics.com/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/494439-13",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/charge-robotics-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/charge-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/chargerobotics.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/charge_robotics/status/2106044035689562320",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/charge_robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/charge-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/banksh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/phdang",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/alecpage",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/chargerrobotics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/team537/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/banksh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/charge_robotics/status/2106044035689562320",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/charge_robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Chargerobotics 日本 導入",
+   "results": [
+    "https://note.com/agile_iris8985/n/n2fed60d6cf0b",
+    "https://terra-charge.co.jp/press-release/20260827/",
+    "https://terra-charge.co.jp/press-release/20260227/",
+    "https://lowcarb.style/2026/08/30/terra-charge-nacs-adoption-2500-chargers-chademo-free/",
+    "https://lowcarb.style/2026/10/17/tesla-new-130kw-chademo-adapter-japan-2027-cost-benefit/",
+    "https://research.nicoxz.com/articles/tesla-nacs-chademo-japan-ev-charging",
+    "https://chargerobotics.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Chargerobotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://chargerobotics.com/",
+    "https://www.linkedin.com/company/charge-robotics",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Chargerobotics Japan",
+   "results": [
+    "https://chargerobotics.com/",
+    "https://www.chargerrobotics.com/",
+    "https://www.linkedin.com/company/charge-robotics",
+    "https://www.chargerobotics.com/contact",
+    "https://www.chargingrobotics.com/",
+    "https://www.chargerobotics.org/",
+    "https://www.chargerrobotics.com/about"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Chargerobotics manufacturing customer case study",
+   "results": [
+    "https://www.assemblymag.com/articles/99117-robotics-start-up-revolutionizes-solar-installation-with-portable-factories",
+    "https://meche.mit.edu/news-media/making-solar-projects-cheaper-and-faster-portable-factories",
+    "https://knowledge.energyinst.org/new-energy-world/article?id=139476",
+    "https://chargerobotics.com/",
+    "https://alum.mit.edu/slice/making-solar-projects-cheaper-and-faster-portable-factories",
+    "https://news.mit.edu/2025/charge-robotics-makes-solar-projects-cheaper-faster-portable-factories-0312",
+    "https://www.newswire.com/view/content/charge-robotics-completes-first-deployment-of-sunrise-solar-22249671"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Chargerobotics white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Chargerobotics founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/494439-13",
+    "https://prospeo.io/c/charge-robotics-revenue",
+    "https://startupintros.com/orgs/charge-robotics",
+    "https://getlatka.com/companies/chargerobotics.com",
+    "https://exa.ai/websets/directory/charge-robotics-funding",
+    "https://compworth.com/company/charge-robotics",
+    "https://www.thecompanycheck.com/company/b/charge-robotics/ws47tu0d1uhrrsa7h"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Chargerobotics",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/xmatome/n/n8974ab59bcef?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://tales.note.com/",
+    "https://note.com/maxmatsuura/n/n5184b760199e",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Chargerobotics",
+   "results": [
+    "https://x.com/MemMidTulsa/status/1906783594896408924",
+    "https://x.com/charge_robotics/status/2106044035689562320",
+    "https://x.com/CreekRobotics/status/1094325356461322240",
+    "https://x.com/charge_robotics",
+    "https://x.com/team_7174",
+    "https://x.com/PincheOgro1/status/2116020589349535778",
+    "https://x.com/aihackerjobs/status/2117811676208656691"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Chargerobotics",
+   "results": [
+    "https://www.linkedin.com/company/charge-robotics",
+    "https://www.linkedin.com/in/banksh",
+    "https://www.linkedin.com/in/phdang",
+    "https://www.linkedin.com/in/alecpage",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7403872464419880960/",
+    "https://www.linkedin.com/jobs/view/mechanical-engineer-all-levels-at-charge-robotics-4473040300",
+    "https://www.linkedin.com/in/mathias-ramirez-5330a4148"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Chargerobotics",
+   "results": [
+    "https://www.facebook.com/chargerrobotics/",
+    "https://www.facebook.com/team537/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/groups/941612301214911/",
+    "https://www.facebook.com/frc2619thecharge/photos/1390779099719733/",
+    "https://www.facebook.com/chargerrobotics/videos/robotics-is-so-much-fun-join-our-charger-roboticsno-experience-needed-meetings-a/1126372663412067/",
+    "https://www.facebook.com/team537/posts/it-is-with-heavy-hearts-that-we-share-the-news-of-the-death-of-our-beloved-mento/1336469994936795/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Chargerobotics note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.linkedin.com/in/banksh",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://exa.ai/websets/directory/charge-robotics-executives",
+    "https://www.linkedin.com/company/charge-robotics"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Chargerobotics X 投稿",
+   "results": [
+    "https://x.com/charge_robotics/status/2106044035689562320",
+    "https://x.com/charge_robotics",
+    "https://chargerobotics.com/",
+    "https://www.chargerobotics.org/",
+    "https://www.chargerobotics.org/join",
+    "https://www.linkedin.com/company/charge-robotics",
+    "https://note.com/munou_ac/n/n3489f9572885"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部28頁・検索12回）"
+ }
+}

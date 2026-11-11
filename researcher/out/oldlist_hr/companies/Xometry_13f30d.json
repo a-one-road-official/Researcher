@@ -1,0 +1,1177 @@
+{
+ "name": "Xometry",
+ "aliases": [],
+ "context": "旧営業リスト｜Manufacturing Network / Procurement｜NG",
+ "researched_at": "2026-11-11T00:52:36.762548+00:00",
+ "official_url": "https://www.xometry.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "Address",
+    "value": "Room 4225, Building 4, No. 735 Liyang Rd, Hongkou Dist., Shanghai, China. 200080",
+    "url": "https://xometry.asia/en/about-us/",
+    "pass": 3
+   },
+   {
+    "label": "Headquarters",
+    "value": "North Bethesda, Maryland , U.S. [ 1 ]",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2013 ; 13 years ago ( 2013 )",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue",
+    "value": "US$ 687 million (2025) [ 2 ]",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "日本の担い手": [
+   {
+    "quote": "本記事では、彼らが提唱する「製造業向けAIオペレーティングシステム」の仕組みと、それが我々日本の製造業に与える影響について考察します",
+    "url": "https://seisan-navi.com/20260121-xometryai/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の製造現場では、長年の取引関係に基づく信頼や、図面だけでは伝わらない「あうんの呼吸」といった要素が重視されてきました",
+    "url": "https://seisan-navi.com/20260121-xometryai/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry社の取り組みは、日本の製造業にとっても多くの示唆を与えてくれます",
+    "url": "https://seisan-navi.com/20260121-xometryai/",
+    "pass": 3
+   },
+   {
+    "quote": "部品加工のXometry＜ゾメトリー＞プラットフォームの成長から見る未来①＜切削加工・板金加工・レーザー・射出成形・３Dプリンタ等＞日本 ｜ 製造業専門コンサルタント｜部品加工業・メーカー・BtoB・製造業・ものづくり企業の経営戦略・WEBマーケティング・賃金評価制度など下請け型企業に強い経営コンサルタント（ものづくり経営総研）",
+    "url": "https://inouemasashi.com/perspective-of-consultants/%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BCxometry%E3%82%BE%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "部品加工のXometry＜ゾメトリー＞プラットフォームの成長から見る未来①＜切削加工・板金加工・レーザー・射出成形・３Dプリンタ等＞日本",
+    "url": "https://inouemasashi.com/perspective-of-consultants/%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BCxometry%E3%82%BE%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、アメリカのベンチャーである「Xometry」というマーケットプレイスの会社が成長をしており、遂に工業系のプラットフォーマーが誕生してか？また軒並み日本発の部品加工のプラットフォーマーが苦戦している中、Xometryが日本に進出して成り立つのか？などなど、考察していきます",
+    "url": "https://inouemasashi.com/perspective-of-consultants/%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BCxometry%E3%82%BE%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "「Xometry」の情報は日本には少ないので、SEC Edgar Filing Trackerの「Xometry」より考察してみることにする",
+    "url": "https://inouemasashi.com/perspective-of-consultants/%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BCxometry%E3%82%BE%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "ここまでは加工の種類に違いがあるが、日本では「meviy」や「プロトラブズ」「CADDi」などがある",
+    "url": "https://inouemasashi.com/perspective-of-consultants/%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BCxometry%E3%82%BE%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では「CADDi」が同様にビジネスモデルを取っている",
+    "url": "https://inouemasashi.com/perspective-of-consultants/%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BCxometry%E3%82%BE%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "部品加工の受発注プラットフォーマーがアメリカで成り立ち日本で成り立たないのか",
+    "url": "https://inouemasashi.com/perspective-of-consultants/%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BCxometry%E3%82%BE%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "日本に進出してきた場合「Xometry」は浸透するのか",
+    "url": "https://inouemasashi.com/perspective-of-consultants/%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BCxometry%E3%82%BE%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "IRから漏れ伝わる事業環境分析【参考レベルC】｜半導体製造装置・精密測定装置メーカー：（株）東京精密",
+    "url": "https://inouemasashi.com/perspective-of-consultants/%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BCxometry%E3%82%BE%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "電子工業生産実績（日本電子情報技術産業協会）",
+    "url": "https://inouemasashi.com/perspective-of-consultants/%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BCxometry%E3%82%BE%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車（四輪車）生産実績（日本自動車工業会）",
+    "url": "https://inouemasashi.com/perspective-of-consultants/%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BCxometry%E3%82%BE%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026】日本で3Dプリンターの家が実用化するのはいつ？日本や世界の事例・メリットデメリット",
+    "url": "https://cad-kenkyujo.com/dassaultsystemes-xometry/",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "To accelerate innovation by providing real time, equitable access to global manufacturing capacity and demand.",
+    "url": "https://inouemasashi.com/perspective-of-consultants/%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BCxometry%E3%82%BE%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry’s (NASDAQ: XMTR) AI-powered service provider, using its own artificial intelligence technology, buyers can efficiently purchase parts on demand and turn great ideas into reality faster.",
+    "url": "https://xometry.asia/en/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry's powerful manufacturing capabilities cover dozens of manufacturing processes (CNC processing, 3D printing, Sheet Metal, Injection Molding, Die casting, Surface Finishing, High-Volume Manufacturing, Rapid prototyping, etc.) and hundreds of materials, production and delivery can be completed in the shortest time.",
+    "url": "https://xometry.asia/en/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "asia.marketing@xometry.com",
+    "url": "https://xometry.asia/en/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Benefit from a dynamically growing global network of manufacturing partners and in-house data science pricing algorithms, the Xometry Instant Quoting Engine® gets smarter over time, providing better lead times and prices for our customers and growing the businesses of our manufacturing partners.",
+    "url": "https://xometry.asia/en/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry's powerful manufacturing capabilities cover dozens of manufacturing processes (CNC processing, 3D printing, Sheet metal, Injection Molding, etc.) and hundreds of materials, providing the production capabilities you need to help you with prototyping to production.",
+    "url": "https://xometry.asia/en/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Stories & Cases | Xometry Pro",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Log in to Xometry.Pro",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "You will be able to comment articles, participate in community discussions, bookmark content and take part in our free courses",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Login with Xometry Pro account",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Credentials for xometry.pro differ from those of your main Xometry account (the one used for quoting and ordering parts). To log in with your Xometry main account, click the link below:",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Ultimate 3D Printing Design Guide",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Stories from Engineers & Product Designers",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Share and discover real-world engineering, product design, and manufacturing stories from our subscribers, showcasing innovative engineering solutions and best practices.",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "The Rethink of 3D Printing Waste and the Next Chapter of the Desktop Filament Recycler Story",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Torx Robot: The Story Behind Accu’s Engineering and Xometry’s Precision CNC Machining",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "How Fly-Mi Team Prepares a Cargo UAV for the Air Cargo Challenge",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Turning 3D Printing Waste into New Filament: Engineering a Desktop Recycling Machine",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Share Your Engineering or Product Design Story",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Share your engineering and product design journey and get a €300 reward! Showcase your innovative solutions and best practices with our community.",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Do you have an exciting project you’ve completed or are currently working on? Here’s your chance to share it with fellow engineers, product designers, and technical enthusiasts around the world!",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "We’re looking for stories about innovative mechanical engineering solutions, the design and development of mechanical components, or the creation of cutting-edge hardware products.",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Our team will assist you in preparing your story and translating it into several languages.",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Simply fill out this brief form describing your project",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Your information will be securely sent to and stored in Google Sheets for the purpose of processing your form submission.",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Decision Guide",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Data Protection Policy",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Or link to existing content",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "large-scale production",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "and production tools.",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "Production methods include",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "It is available in 18 languages, processes transactions in six currencies,",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry was founded as a procurement platform for on-demand unique parts manufacturing, in 2013, by founding CEO Randy Altschuler and managing director Laurence Zuriff,",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "The company developed the patented processes of its instant quoting engine, which calculates factors such as volume, material, location and manufacturing type.",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "Prior to its June 29, 2021",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": ", Xometry had processed over six million component transactions since its founding, with over 43,000 buyers and 5,000 sellers on its platform, including about 30% of",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing. 2026-01-01",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "\"Xometry Europe – Manufacturing Services: CNC, Sheet Metal, 3D Printing, Injection Moulding\"",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "\"Xometry launches instant price & lead time generation app on Autodesk Fusion 360\"",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "\"Xometry's Transition to Profitability: A Structural Shift in a High-Growth Marketplace\"",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "\"Blockbuster IPO day produces big gains for Uber, Delta Air Lines and tech VCs\"",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "\"3D Printing Financials: Xometry's Diverse Strategy Pays Off in Q3\"",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "3DPrint.com | Additive Manufacturing Business",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "\"Xometry Co-Founder Laurence Zuriff to Step Down - TipRanks.com\"",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": ". 3D Printing Industry",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "Internet properties established in 2013",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "To accelerate innovation by providing real time, equitable access to global manufacturing capacity and demand.",
+    "url": "https://inouemasashi.com/perspective-of-consultants/%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BCxometry%E3%82%BE%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry's powerful manufacturing capabilities cover dozens of manufacturing processes (CNC processing, 3D printing, Sheet Metal, Injection Molding, Die casting, Surface Finishing, High-Volume Manufacturing, Rapid prototyping, etc.) and hundreds of materials, production and delivery can be completed in the shortest time.",
+    "url": "https://xometry.asia/en/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "On-demand manufacturing service based on AI",
+    "url": "https://xometry.asia/en/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Benefit from a dynamically growing global network of manufacturing partners and in-house data science pricing algorithms, the Xometry Instant Quoting Engine® gets smarter over time, providing better lead times and prices for our customers and growing the businesses of our manufacturing partners.",
+    "url": "https://xometry.asia/en/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry's powerful manufacturing capabilities cover dozens of manufacturing processes (CNC processing, 3D printing, Sheet metal, Injection Molding, etc.) and hundreds of materials, providing the production capabilities you need to help you with prototyping to production.",
+    "url": "https://xometry.asia/en/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Stories & Cases | Xometry Pro",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Services",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Stories & Cases",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Share and discover real-world engineering, product design, and manufacturing stories from our subscribers, showcasing innovative engineering solutions and best practices.",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Insights",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "One Day in the Life of a Manufacturing Workshop in Macedonia",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "*The €300 discount can be redeemed to order parts manufacturing at Xometry Europe, UK, and Türkiye.",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "American manufacturing company",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "NextLine Manufacturing Corp.",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "NextLine Manufacturing Corp",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "additive manufacturing",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "and is typically enlisted by engineers and designers in industries such as aerospace and defense, automotive, healthcare, consumer goods and industrial equipment.",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry was founded as a procurement platform for on-demand unique parts manufacturing, in 2013, by founding CEO Randy Altschuler and managing director Laurence Zuriff,",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "as NextLine Manufacturing Corp., changing its name to Xometry in 2015.",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "The company developed the patented processes of its instant quoting engine, which calculates factors such as volume, material, location and manufacturing type.",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2018, Xometry acquired MakeTime, a manufacturing platform based in",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "and began to offer cutting tools, metal, and other supplies for manufacturers via Xometry Supplies.",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "based on-demand manufacturing marketplace, renamed Xometry Europe.",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "B2B platform, with a network of over 500,000 commercial and industrial suppliers,",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "\"What Donald Trump Can Learn About Reviving Manufacturing From A Startup\"",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "\"Xometry Europe – Manufacturing Services: CNC, Sheet Metal, 3D Printing, Injection Moulding\"",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "\"Startup of the month, Xometry: The one-stop shop for manufacturing on demand\"",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "\"BMW, GE Commit Millions to Digital Manufacturing Marketplace\"",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "\"Xometry uses AI and algorithms to match manufacturers with hard-to-find parts\"",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "\"NextLine Manufacturing is now Xometry\"",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "\"Xometry IPO: Looking To Be The Airbnb Of On-Demand Manufacturing\"",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "\"Manufacturing as a Service Platforms: The New Efficiency Revolution\"",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Additive Manufacturing",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "3DPrint.com | Additive Manufacturing Business",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": ". Industrial Distribution. 2020-01-15",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "\"Xometry Expands to Europe, Signalling Growth in On-Demand Manufacturing Market\"",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "\"A One-Stop, AI-Driven Manufacturing Marketplace\"",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Xometryが構築する「製造業向けAIオペレーティングシステム」とは何か... — Jan 21, 2026 · 米国のXometry社が、AIを活用して設計者や調達担当者と製造業者を結びつけるプラットフォームを拡大しています。 本記事では、彼らが提唱する「製造業向けAIオペレーティングシステム」の仕組みと、それが我々日本の製造業に与える影響について考察し ...",
+    "url": "https://seisan-navi.com/20260121-xometryai/",
+    "pass": 3
+   },
+   {
+    "quote": "部品加工のXometry＜ゾメトリー＞プラットフォームの成長から見る未来... — Apr 10, 2022 · 部品加工業の経営コンサルタントの井上です。 今回は、アメリカのベンチャーである「Xometry」というマーケットプレイスの会社が成長をしており、遂に工業系のプラットフォーマーが誕生してか？ また軒並み日本発の部品加工のプラ …",
+    "url": "https://inouemasashi.com/perspective-of-consultants/部品加工のプラットフォーマーxometryゾメトリー/",
+    "pass": 3
+   },
+   {
+    "quote": "ダッソー・システムズがXometryとパートナーシップを締結！シームレス... — これにより、ダッソー・システムズのSOLIDWORKSやCATIAを使用するエンジニアは、部品を製造するために、設計画面から離れることなく、設計中のプロジェクトに必要な部品の見積りを、MAKE Marketplaceで簡単にXometryから即座にオーダが可能となりました。",
+    "url": "https://cad-kenkyujo.com/dassaultsystemes-xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "デジタル製造マーケットプレイス：Xometryの成功モデル — Jan 9, 2025 · デジタルマーケットプレイスは製造業において既にオンライン入札という形で浸透していましたが、 Xometry （ゾメトリー）は全く異なるアプローチを採用しています。 同社は、顧客が部品やサービスを発注する際、瞬時に見積もりを提示します。",
+    "url": "https://www.kinzokufocus.com/2025/01/xometry.html",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry、2027年製造業見通しレポートを発表 執筆： Investing.com — Oct 1, 2026 · 「AIは製造プロセスのより早い段階に組み込まれるようになっており、業界が必要とするスキルもそれに伴って変化している」と、XometryのCEOであるSanjeev Singh Sahni氏はプレスリリースの中で述べた。",
+    "url": "https://jp.investing.com/news/company-news/article-93CH-1698741",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry — Xometry is a leader in high-precision production part and prototyping manufacturing on demand. Get instant quotes on CNC machining, 3D printing, sheet metal fabrication, laser cutting, and more.",
+    "url": "https://www.xometry.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry Announces Distribution Partnership with Mitsubishi ...Xometryが構築する「製造業向けAIオペレーティングシステム」とは何か...About Xometry Asia | Xometry AsiaXometry | LinkedInXometry Asia｜Manufacturing Services: CNC, Sheet Metal, 3D ...部品加工のXometry＜ゾメトリー＞プラットフォームの成長から見る未来... — Sep 21, 2020 · Mitsubishi Materials is an industry-leading manufacturer of cutting tools & solutions for the manufacturing industry based in Tok",
+    "url": "https://www.xometry.com/resources/blog/xometry-announces-distribution-partnership-with-mitsubishi-materials-u-s-a/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometryが構築する「製造業向けAIオペレーティングシステム」とは何か... — Jan 21, 2026 · Xometry社は、部品の製造を依頼したい企業（設計者、技術者、調達部門など）と、製造能力を持つサプライヤーとを繋ぐ、オンラインマーケットプレイスを運営しています。 その最大の特徴は、AIを活用した即時見積もり機能にあります。",
+    "url": "https://seisan-navi.com/20260121-xometryai/",
+    "pass": 3
+   },
+   {
+    "quote": "About Xometry Asia | Xometry Asia — Xometry’s (NASDAQ: XMTR) AI-powered service provider, using its own artificial intelligence technology, buyers can efficiently purchase parts on demand and turn great ideas into reality faster.",
+    "url": "https://xometry.asia/en/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry | LinkedIn — Xometry is the digital engine behind the modern manufacturing revolution. By blending our AI-native platform with a massive global marketplace, we seamlessly connect enterprise buyers, from agile...",
+    "url": "https://jp.linkedin.com/company/xometry",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Xometry Manufacturing on Demand — Examples of Xometry's work with customers across various industries and manufacturing processes.",
+    "url": "https://www.xometry.com/resources/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Xometry’s Precise Laser Tube Cutting Helps Sea ... — Sep 27, 2024 · Learn how this New Jersey-based small business utilized Xometry’s sheet cutting and laser tube cutting services to build a custom structure from the ground up and quickly scale up production.",
+    "url": "https://www.xometry.com/resources/case-studies/sea-box-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Stories & Cases | Xometry Pro — Discover real-world manufacturing success stories and cases, showcasing innovative solutions and best practices.",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Stories & Cases - Xometry Pro — Discover real-world manufacturing success stories and cases, showcasing innovative solutions and best practices.",
+    "url": "https://xometry.pro/en/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Real-World Manufacturing Success Stories | Xometry Europe — Explore how Xometry’s on-demand manufacturing services help companies scale production and innovate across Europe.",
+    "url": "https://xometry.eu/en/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry - Wikipedia — Xometry was founded as a procurement platform for on-demand unique parts manufacturing, in 2013, by founding CEO Randy Altschuler and managing director Laurence Zuriff, [4][14] as NextLine Manufacturing Corp., changing its name to Xometry in 2015.",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Reports - Xometry, Inc. — 2023 Proxy Statement and Notice of 2023 Annual Meeting 2022 Annual Report +1-800-983-1959 support@xometry.com Mailing Address: 6116 Executive Blvd Ste. 800 North Bethesda, MD 20852 North America Offices Xometry Europe Xometry Asia",
+    "url": "https://investors.xometry.com/financials/annual-reports",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry - 2026 Company Profile, Team, Funding, Competitors ...Xometry – Overview – Funding, Revenue & Growth – 2026Xometry - WikipediaXometry (XMTR) Revenue 2019-2026 - Stock AnalysisXometry - Overview, News & Similar companies | ZoomInfo.comQuarterly Results - Xometry, Inc. — Oct 10, 2026 · Xometry has raised $200M in funding from investors like Highland Capital Partners, General Electric and Gre",
+    "url": "https://tracxn.com/d/companies/xometry/__P17TPrDmpCsEijtnFzbogaYSmCuwxOK9UUkmhM37hjs",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry – Overview – Funding, Revenue & Growth – 2026 — Among 6 competitors tracked, Xometry ranks in the upper tier with 433% above-average revenue. The 26% team expansion follows Xometry's Undisclosed capital raise. Based in Gaithersburg, the company is active in the 3D space. Funding history shows 4 rounds totaling $200M. Each of Xometry's 1,091 employees contributes approximately $629.3K to to",
+    "url": "https://compworth.com/company/xometry",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry (XMTR) Revenue 2019-2026 - Stock Analysis — 4 hours ago · Revenue, also called sales, is the amount of money a company receives from its business activities, such as sales of products or services. It does not take any expenses into account and is therefore different from profits.",
+    "url": "https://stockanalysis.com/stocks/xmtr/revenue/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Xometry’s (NASDAQ: XMTR) AI-powered service provider, using its own artificial intelligence technology, buyers can efficiently purchase parts on demand and turn great ideas into reality faster.",
+    "url": "https://xometry.asia/en/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Search or use up and down arrow keys to select an item.",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   },
+   {
+    "quote": "and is typically enlisted by engineers and designers in industries such as aerospace and defense, automotive, healthcare, consumer goods and industrial equipment.",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "Between 2018 and 2020, the company experienced a compound annual growth rate of 92%, with revenues of $141.4 million,",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "The IPO raised about $300 million,",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2018, Xometry acquired MakeTime, a manufacturing platform based in",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2019, the company acquired Machine Tool & Supply of",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "In December 2019, it acquired Shift, a",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "The acquisition added 12 countries to the company's roster.",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "In December 2021, Xometry acquired the",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "\"Xometry IPO: Looking To Be The Airbnb Of On-Demand Manufacturing\"",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "\"Blockbuster IPO day produces big gains for Uber, Delta Air Lines and tech VCs\"",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   },
+   {
+    "quote": "Companies listed on the Nasdaq",
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Login with your email address",
+    "url": "https://xometry.pro/en-eu/stories/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Xometry (@Xometry) / X Join Xometry on October 4 at 12 p.m. ET for a virtual facility tour of our quality assurance lab, machining center, flex assembly area, and additive manufacturing factory.",
+    "url": "https://x.com/xometry",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry Europe (@XometryEU) / X From prototypes to mass production, Xometry offers fast turnarounds, versatile materials, and rigorous quality checks. 📦 Get your instant quote now: get.xometry.eu",
+    "url": "https://x.com/XometryEU",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry Suppliers (@XometrySupplier) / Posts / X Xometry connects #manufacturing customers and suppliers to boost visibility, find work, and source raw materials and MRO for every step in the #supplychain.",
+    "url": "https://x.com/XometrySupplier",
+    "pass": 3
+   },
+   {
+    "quote": "Greg Paulsen (@XometryGreg) / Posts / X \"The idea behind Xometry was to bridge the gap in manufacturing, leveraging #digital tools and #AI to optimize processes and expand capabilities.\" Take a listen at the link below.",
+    "url": "https://x.com/XometryGreg",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry (@Xometry) / X Xometry's CEO and Co-founder, @randy_alt, joined @Nasdaq MarketSite to discuss how Xometry's platform optimizes manufacturing for small and large companies and profitability for manufacturers.",
+    "url": "https://x.com/xometry",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Xometry - LinkedIn Xometry | 113,326 followers on LinkedIn. Xometry is the digital engine behind the modern manufacturing revolution.",
+    "url": "https://www.linkedin.com/company/xometry",
+    "pass": 3
+   },
+   {
+    "quote": "James Miln - Chief Financial Officer at Xometry | Call it a ...Vivienne Xiang - General Manager, Asia Pacific, Xometry | 领英Sarvesh Rajagopal - General Manager - Xometry India ...Yernur Aitkazin - RFQ Specialist at Xometry EMEA & APAC ...Nikhil Kumar - Xometry is expanding fast! Be part of the ...Xometry Jobs in United States (11,000+ Open Roles) | LinkedIn Chief Financial Officer for Xometry, the ",
+    "url": "https://www.linkedin.com/in/jamesmiln",
+    "pass": 3
+   },
+   {
+    "quote": "Vivienne Xiang - General Manager, Asia Pacific, Xometry | 领英Sarvesh Rajagopal - General Manager - Xometry India ...Yernur Aitkazin - RFQ Specialist at Xometry EMEA & APAC ...Nikhil Kumar - Xometry is expanding fast! Be part of the ...Xometry Jobs in United States (11,000+ Open Roles) | LinkedIn General Manager, Asia Pacific, Xometry · Vivienne has over 20 years of experience working for both large",
+    "url": "https://cn.linkedin.com/in/viviennexiang",
+    "pass": 3
+   },
+   {
+    "quote": "Sarvesh Rajagopal - General Manager - Xometry India ...Yernur Aitkazin - RFQ Specialist at Xometry EMEA & APAC ...Nikhil Kumar - Xometry is expanding fast! Be part of the ...Xometry Jobs in United States (11,000+ Open Roles) | LinkedIn Xometry is a global AI-powered marketplace connecting enterprise buyers in the US and Europe to a vetted network of manufacturers for custom parts—CNC machining, sh",
+    "url": "https://in.linkedin.com/in/srajagopal12",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Xometry | Gaithersburg MD - FacebookXometry EMEA & APAC | Ottobrunn - FacebookXometry Manufacturing Partners I EMEA & APAC | HohenbrunnXometry Pro: Knowledge & Community For Engineers & Product ...We’re proud to share that Q2 2026 results are in and it was ...What Is Xometry - FacebookXometry - We're offering first-time customers ... - Facebook Oct 13, 2026 · Xometry’s AI-native marketplace is rap",
+    "url": "https://www.facebook.com/xometry/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry EMEA & APAC | Ottobrunn - FacebookXometry Manufacturing Partners I EMEA & APAC | HohenbrunnXometry Pro: Knowledge & Community For Engineers & Product ...We’re proud to share that Q2 2026 results are in and it was ...What Is Xometry - FacebookXometry - We're offering first-time customers ... - Facebook Oct 15, 2026 · Xometry gives fast-moving teams the scalable manufacturing capacity and pr",
+    "url": "https://www.facebook.com/xometryeurope/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry Manufacturing Partners I EMEA & APAC | HohenbrunnXometry Pro: Knowledge & Community For Engineers & Product ...We’re proud to share that Q2 2026 results are in and it was ...What Is Xometry - FacebookXometry - We're offering first-time customers ... - Facebook Nov 2, 2026 · From catching up with our existing partners to meeting talented manufacturers ready to expand their global reach with",
+    "url": "https://www.facebook.com/xometrypartners/",
+    "pass": 3
+   },
+   {
+    "quote": "Xometry Pro: Knowledge & Community For Engineers & Product ...We’re proud to share that Q2 2026 results are in and it was ...What Is Xometry - FacebookXometry - We're offering first-time customers ... - Facebook Jul 7, 2026 · Standard tap drill charts don't tell the whole story. Material, tapping method, and target thread engagement all affect the optimal drill size, and getting it wrong can lead ",
+    "url": "https://www.facebook.com/xometry.pro/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.xometry.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://seisan-navi.com/20260121-xometryai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inouemasashi.com/perspective-of-consultants/%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%81%AE%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%BCxometry%E3%82%BE%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cad-kenkyujo.com/dassaultsystemes-xometry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.google.com/sorry/index?continue=https://www.kinzokufocus.com/2025/01/xometry.html&q=EgSs0pYrGOv4ztcGIi3jgX-Rlwp23DKj8gWyGB5fA5hbH1eEMzSjEzRoWY3ddzT8Icne3nK2TlbPSUgyAnJSWgFDYLWdzYiQpP2sMw",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://chigai2.fromation.co.jp/archives/30533",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seisan-navi.com/20260121-xometryai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xometry.asia/en/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xometry.pro/en-eu/stories/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://xometry.pro/en/stories/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Xometry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://investors.xometry.com/financials/annual-reports",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/xometry/__P17TPrDmpCsEijtnFzbogaYSmCuwxOK9UUkmhM37hjs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/xometry",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/xometry",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/XometryEU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/XometrySupplier",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/XometryGreg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/xometry",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jamesmiln",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/in/viviennexiang",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/srajagopal12",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/xometry/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/xometryeurope/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/xometrypartners/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/xometry.pro/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/xometry",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/XometryEU",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Xometry 日本 導入",
+   "results": [
+    "https://seisan-navi.com/20260121-xometryai/",
+    "https://inouemasashi.com/perspective-of-consultants/部品加工のプラットフォーマーxometryゾメトリー/",
+    "https://cad-kenkyujo.com/dassaultsystemes-xometry/",
+    "https://www.kinzokufocus.com/2025/01/xometry.html",
+    "https://jp.investing.com/news/company-news/article-93CH-1698741",
+    "https://www.3ds.com/ja/newsroom/press-releases/dassault-systemes-and-xometry-partner-offer-instant-part-production-design-environment",
+    "https://note.com/g_green/n/ncd245de58324"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Xometry 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://chigai2.fromation.co.jp/archives/30533",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Xometry Japan",
+   "results": [
+    "https://www.xometry.com/",
+    "https://www.xometry.com/resources/blog/xometry-announces-distribution-partnership-with-mitsubishi-materials-u-s-a/",
+    "https://seisan-navi.com/20260121-xometryai/",
+    "https://xometry.asia/en/about-us/",
+    "https://jp.linkedin.com/company/xometry",
+    "https://xometry.asia/en/",
+    "https://inouemasashi.com/perspective-of-consultants/部品加工のプラットフォーマーxometryゾメトリー/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Xometry manufacturing customer case study",
+   "results": [
+    "https://www.xometry.com/resources/case-studies/",
+    "https://www.xometry.com/resources/case-studies/sea-box-case-study/",
+    "https://xometry.pro/en-eu/stories/",
+    "https://xometry.pro/en/stories/",
+    "https://xometry.eu/en/case-studies/",
+    "https://www.casestudies.com/customer/xometry",
+    "https://www.casestudies.com/company/xometry"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Xometry white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partner.vw.com/partner",
+    "https://www.extremenetworks.com/partners",
+    "https://www.seoreseller.com/",
+    "https://www.xometry.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Xometry founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/Xometry",
+    "https://investors.xometry.com/financials/annual-reports",
+    "https://tracxn.com/d/companies/xometry/__P17TPrDmpCsEijtnFzbogaYSmCuwxOK9UUkmhM37hjs",
+    "https://compworth.com/company/xometry",
+    "https://stockanalysis.com/stocks/xmtr/revenue/",
+    "https://www.zoominfo.com/c/xometry-inc/371661859",
+    "https://investors.xometry.com/financials/quarterly-results"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Xometry",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Xometry",
+   "results": [
+    "https://x.com/xometry",
+    "https://x.com/XometryEU",
+    "https://x.com/XometrySupplier",
+    "https://x.com/XometryGreg",
+    "https://x.com/Xometry/with_replies",
+    "https://x.com/fundspec/status/2117601560683274393",
+    "https://x.com/randy_alt"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Xometry",
+   "results": [
+    "https://www.linkedin.com/company/xometry",
+    "https://www.linkedin.com/in/jamesmiln",
+    "https://cn.linkedin.com/in/viviennexiang",
+    "https://in.linkedin.com/in/srajagopal12",
+    "https://kz.linkedin.com/in/yernur-aitkazin-1b947b8a",
+    "https://in.linkedin.com/in/nikhil-kumar-96838366",
+    "https://www.linkedin.com/jobs/xometry-jobs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Xometry",
+   "results": [
+    "https://www.facebook.com/xometry/",
+    "https://www.facebook.com/xometryeurope/",
+    "https://www.facebook.com/xometrypartners/",
+    "https://www.facebook.com/xometry.pro/",
+    "https://www.facebook.com/fb-answers/what-is-xometry/",
+    "https://www.facebook.com/xometry/posts/-were-offering-first-time-customers-50-off-orders-of-50-or-more️-to-get-started1/480812307794836/",
+    "https://www.facebook.com/xometry/videos/were-proud-to-share-that-q2-2026-results-are-in-and-it-was-another-amazing-quart/890738363681391/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Xometry note 社長",
+   "results": [
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.insidertrades.com/alerts/nasdaq-xmtr-insider-buying-and-selling-2026-10-15/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://www.fool.com/earnings/call-transcripts/2026/05/08/xometry-xmtr-q1-2026-earnings-transcript/",
+    "https://x.com/sadaaki"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Xometry X 投稿",
+   "results": [
+    "https://x.com/xometry",
+    "https://x.com/XometryEU",
+    "https://community.xometry.com/categories",
+    "https://xometry.pro/en/community/",
+    "https://www.xometry.com/",
+    "https://community.xometry.com/discussions",
+    "https://start.workcenter.xometry.com/inbox"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

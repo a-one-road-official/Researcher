@@ -1,0 +1,1146 @@
+{
+ "name": "Ipercept",
+ "aliases": [],
+ "context": "旧営業リスト｜Quality / Inspection / Metrology｜NG",
+ "researched_at": "2026-11-11T00:16:44.507340+00:00",
+ "official_url": "https://ipercept.tech",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "CNC Machine Condition & Process Monitoring | IPercept",
+    "url": "https://www.ipercept.io/en",
+    "pass": 3
+   },
+   {
+    "quote": "And surprises are expensive.",
+    "url": "https://www.ipercept.io/en",
+    "pass": 3
+   },
+   {
+    "quote": "No controller integration. No IT project.",
+    "url": "https://www.ipercept.io/en",
+    "pass": 3
+   },
+   {
+    "quote": "One patented device on the moving side of the machine, installed in a couple hours. It configures itself to any CNC machine. In production at defence and aerospace manufacturers.",
+    "url": "https://www.ipercept.io/en",
+    "pass": 3
+   },
+   {
+    "quote": "Bearings, ballscrews, guides or spindles — each with its own trend and a recommended action. New machine and process intelligence activates as a software update on the device already installed. No historical data needed.",
+    "url": "https://www.ipercept.io/en",
+    "pass": 3
+   },
+   {
+    "quote": "Lars-Henrik Jörnving, Vice President Global Industrial Development, Scania Group",
+    "url": "https://www.ipercept.io/en",
+    "pass": 3
+   },
+   {
+    "quote": "“In a world where knowledge determines success, IPercept gives us the ability to make decisions based on facts. Better and more sustainable machine utilization is a key factor for competitive production.”",
+    "url": "https://www.ipercept.io/en",
+    "pass": 3
+   },
+   {
+    "quote": "“What impressed me most is how detailed the insights from IPercept are - especially when it comes to failure modes and recommendations. It helps us catch issues early, plan ahead, and give our customers faster and more focused support.”",
+    "url": "https://www.ipercept.io/en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Integrating IPercept into our maintenance services means we can provide our customers with even better ability to perform the right maintenance activities on the right components at the right time. This allows us to optimize our customers’ maintenance and increase the availability of their machines in ways that previously have not been possible.\"",
+    "url": "https://www.ipercept.io/en",
+    "pass": 3
+   },
+   {
+    "quote": "Luca Sebastian Michels, Maintenance Project Manager Piepenbrock",
+    "url": "https://www.ipercept.io/en",
+    "pass": 3
+   },
+   {
+    "quote": "Customer-reported results across 50+ production sites.",
+    "url": "https://www.ipercept.io/en",
+    "pass": 3
+   },
+   {
+    "quote": "Improved operational effectiveness across industries",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Customers utilizing our solutions benefit from actionable insights that lead to optimized asset and process performance and increased stakeholder value.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Proactive Spindle Bearing Replacement",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Problem: A collision event initiated an accelerating spindle bearing degradation, putting production and quality at risk of unexpected failure.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Solution: IPercept’s continuous monitoring detected the defect and tracked the degradation over weeks. The customer used this insight to schedule a proactive spindle bearing renovation before failure occurred.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Impact: Prevented downtime and made component renovation (instead scraping) possible. Estimated financial impact: 70,000–90,000 EUR.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Problem: Heavy duty production in a roughing operation overloaded machine tool axes introducing backlash.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Solution: IPercept’s Loop Test-cycle identified gradual loss of preloading in ball-screw nuts of two linear axes due to heavy duty production. Repairs were scheduled two months in advance to avoid unexpected breakdown. The user verified findings on loss of backlash with ballbar test as well.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Impact: Prevented loss of machining accuracy and avoided unplanned downtime on a bottleneck machine. Estimated savings: 103,000–129,000 EUR.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Problem: Chip contamination under the shield of linear axis.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Solution: IPercept identified the wear progression over weeks. The frequency of axis cleaning was increased slowing down the wear progression and to extending the lifetime of the machine. Impact: Prevented premature replacement of carriages and unnecessary planned maintenance. Savings estimated at 10,000–20,000 EUR.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "5-Axis vertical milling machine for high precision component manufacturing",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Problem: Defect in guide rail has been escalating over normal utilization.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Solution: Already after deployment the IPercept system diagnosed an existing degradation on the rail, that was present since before the monitoring started. The degradation slowly escalated over time, but required no replacement for over a years time. Proactive replacement became necessary to eliminate the risk of quality deviations.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Impact: Prevented scrap and rework, while being able to schedule maintenance during already planned time window. Estimated value: 48,000-59,000 EUR.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Problem: Contamination in the lubrication system.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Solution: The IPercept monitoring system alerted the customer and corrective lubrication measures were immediately implemented. Later the lubrication cycles were optimized to sustain the improved state.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Impact: Extended component life, prevented costly replacements, and avoided unplanned downtime. Estimated savings: 70,000–90,000 EUR.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Problem: A sudden localized defect emerged on the drive-side bearing of one of the linear axes, due to a collision. The severe defect could have propagated further to other components in the feeddrive.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Solution: The defect was identified via IPercept system alerting the maintenance team to inspect and replace the bearing. No damage was found in other components, but the early alert prevented further escalation. Later part inspection identified that the machine started to produce scrap after the collision (high load intensity event).",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Impact: Prevented large volume scrap production. Avoided fault escalation. Estimated impact: 150,000-180,000 EUR saved.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Prioritization & Optimization",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Problem: The customer lacked objective data to prioritize which spindle required replacement first. Risk of premature or delayed maintenance existed.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Problem: Localized defects in axis guideways carried a future risk of worsening. Replacement requires extensive planned downtime. Without monitoring, escalation could trigger expensive unplanned downtime.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Solution: Defects were continuously tracked by the IPercept system, and later inspections confirmed precise positions, validating the insights.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "We provide a completely revolutionary solution for how complex machinery can be maintained and operated. We have been selling our solution commercially for two years now and amongst our customers we count 6 of the biggest manufacturers in Sweden.",
+    "url": "https://www.sustainabilitycircle.se/post/start-up-scale-up-meet-ipercept-and-karoly-szipka",
+    "pass": 3
+   },
+   {
+    "quote": "We provide our customers with actionable insights into remaining useful lifetime (RUL), optimized and prescriptive maintenance activities and much more. We also have a full set of services for operational improvement, utilization tracking, energy monitoring etc. We provide all of this Plug and Play, completely Cyber Secure and highly customizable.",
+    "url": "https://www.sustainabilitycircle.se/post/start-up-scale-up-meet-ipercept-and-karoly-szipka",
+    "pass": 3
+   },
+   {
+    "quote": "So IPercept – offers a fitness tracker for machines. When reading about it, sounds great. But what is it that this device does compare to smart sensors and advanced programs with highly skilled staff?",
+    "url": "https://www.sustainabilitycircle.se/post/start-up-scale-up-meet-ipercept-and-karoly-szipka",
+    "pass": 3
+   },
+   {
+    "quote": "The Fitness Tracker is an analogy for keeping track of health, activity, stress - in this case not for humans but rather for machines. In practical terms it’s an IIoT Device consisting of 15+ sensors, 1000x more sensitive than anything else used on the shop floors and with edge computing capabilities - it’s a little monster of unique design.",
+    "url": "https://www.sustainabilitycircle.se/post/start-up-scale-up-meet-ipercept-and-karoly-szipka",
+    "pass": 3
+   },
+   {
+    "quote": "But the true mass market application for us comes by integrating our technology with the machine manufacturers themselves as a SaaS. We’ve commenced this already through a number of exciting partnerships with such OEMs. We boldly predict that in five years, most new industrial machines will come with IPercept already inside.",
+    "url": "https://www.sustainabilitycircle.se/post/start-up-scale-up-meet-ipercept-and-karoly-szipka",
+    "pass": 3
+   },
+   {
+    "quote": "2026-11-01, Söndagar kl.15: Nu har det gått drygt en vecka sedan mässan, och jag har hunnit fundera lite på alla samtal, presentationer och workshops. Jag höll i flera olika programpunkter på scen. Äm",
+    "url": "https://www.sustainabilitycircle.se/post/start-up-scale-up-meet-ipercept-and-karoly-szipka",
+    "pass": 3
+   },
+   {
+    "quote": "Prenumerera på vårt Nyhetsbrev,",
+    "url": "https://www.sustainabilitycircle.se/post/start-up-scale-up-meet-ipercept-and-karoly-szipka",
+    "pass": 3
+   },
+   {
+    "quote": "explains Stina Lantz, Program Manager at Ignite and VP at SISP Swedish Incubators & Science Parks.",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "She highlights that the result of the startup-corporate matchmaking with focus on AI held during Sweden Innovation Days in 2020 proves that we have now entered the era of enabled AI.",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "“An important aspect of this specific case, is also the environmental impact when successful digitalization leads to concrete climate action,”",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "’s incubator program and it was through their business coach Magnus Rehn that they first heard about the",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "is the world leader in material handling with a product range that includes manual hand trucks, autonomous self-driving 1.5 tonne vehicles and innovative energy solutions. Its European headquarters are established in Mjölby, also in Östra Götaland, where approximately 4,000 employees work with material handling from development concepts to produced vehicles, sales and service.",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota Production System",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "a Proof of Concept (POC)",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "The POC concluded this spring with",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "“It is a privilege to work with a company like Toyota that has really invented modern industrial manufacturing. We thoroughly enjoyed the creative atmosphere of working and evolving together,”",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "“The team at Toyota helped us to understand the importance of implementing a fully automated process that is completely streamlined with their operations. Today, this is an important and integrated part of our offering. We look forward to continuing to develop this partnership for our mutual benefit,”",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "A project led by Avfall Sverige, Ignite and partners resulted in two pilot projects between the city of Mölndal and the startups Brighteco and Parlametric.",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "Ignite Nordic is a non-profit organization that aims to foster innovation by connecting startups to large companies and public entities. Since it began in spring 2017, Ignite has connected over 2000 startups with more than 470 corporates and public organizations, resulting in more than 9000‬ meetings and most importantly 788+ commercial collaborations.",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "Sign in to our digital platform Ignite Magic to join our program, check out our upcoming matchdays, update your company profile, and access useful resources such as legal templates and other material to help you prepare for your meetings.",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "IPercept works with machine tool service providers, machine builders, and industrial technology partners who believe the machine tool industry is ready for its biggest shift in decades — and want to lead it.",
+    "url": "https://www.ipercept.io/en/partner-page",
+    "pass": 3
+   },
+   {
+    "quote": "IPercept gives partners the ability to inspect, predict, and plan — remotely and continuously — on any CNC machine brand. Our partners use it to win new customers, upgrade existing contracts, and build service offerings that no traditional provider can match.",
+    "url": "https://www.ipercept.io/en/partner-page",
+    "pass": 3
+   },
+   {
+    "quote": "Finland's leading machine tool service provider rebuilt its entire service offering on IPercept. Their field teams run mechanical inspections remotely and arrive at every customer visit already knowing what needs attention.",
+    "url": "https://www.ipercept.io/en/partner-page",
+    "pass": 3
+   },
+   {
+    "quote": "Global maintenance leader uses IPercept to know the mechanical condition of every CNC machine they maintain — from precision manufacturing sites in Central Europe to the largest rollout ever undertaken in the Gulf.",
+    "url": "https://www.ipercept.io/en/partner-page",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "One patented device on the moving side of the machine, installed in a couple hours. It configures itself to any CNC machine. In production at defence and aerospace manufacturers.",
+    "url": "https://www.ipercept.io/en",
+    "pass": 3
+   },
+   {
+    "quote": "Lars-Henrik Jörnving, Vice President Global Industrial Development, Scania Group",
+    "url": "https://www.ipercept.io/en",
+    "pass": 3
+   },
+   {
+    "quote": "Thank You – Your Case Study Is on Its Way!",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "4-Axis horizontal milling machine used in engine parts manufacturing.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Industry: Equipment manufacturing",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "5-Axis vertical milling machine for high precision component manufacturing",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "5-Axis vertical milling machine used for component manufacturing",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "The name of our company, IPercept comes from the words “Integrated Perception” and it reflects our vision, \"Integrated Perception in industrial machinery fuels sustainable growth for the benefit of future generations\".",
+    "url": "https://www.sustainabilitycircle.se/post/start-up-scale-up-meet-ipercept-and-karoly-szipka",
+    "pass": 3
+   },
+   {
+    "quote": "We provide a completely revolutionary solution for how complex machinery can be maintained and operated. We have been selling our solution commercially for two years now and amongst our customers we count 6 of the biggest manufacturers in Sweden.",
+    "url": "https://www.sustainabilitycircle.se/post/start-up-scale-up-meet-ipercept-and-karoly-szipka",
+    "pass": 3
+   },
+   {
+    "quote": "In short, we’re revolutionizing how industrial machines have been maintained and operated since the 70’s.",
+    "url": "https://www.sustainabilitycircle.se/post/start-up-scale-up-meet-ipercept-and-karoly-szipka",
+    "pass": 3
+   },
+   {
+    "quote": "The Fitness Tracker is an analogy for keeping track of health, activity, stress - in this case not for humans but rather for machines. In practical terms it’s an IIoT Device consisting of 15+ sensors, 1000x more sensitive than anything else used on the shop floors and with edge computing capabilities - it’s a little monster of unique design.",
+    "url": "https://www.sustainabilitycircle.se/post/start-up-scale-up-meet-ipercept-and-karoly-szipka",
+    "pass": 3
+   },
+   {
+    "quote": "But the true mass market application for us comes by integrating our technology with the machine manufacturers themselves as a SaaS. We’ve commenced this already through a number of exciting partnerships with such OEMs. We boldly predict that in five years, most new industrial machines will come with IPercept already inside.",
+    "url": "https://www.sustainabilitycircle.se/post/start-up-scale-up-meet-ipercept-and-karoly-szipka",
+    "pass": 3
+   },
+   {
+    "quote": "From their initial meeting at Sweden Innovation Days to a successful POC, learn how IPercept’s solution helps minimize the risk of unforeseen breakdowns at Toyota Material Handling’s factory in Mjölby.",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "developing plug & play automation of diagnostics and condition monitoring of industrial machinery to increase control and transparency of factories.",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "began at Toyota Material Handling’ factory in Mjölby. Targeting two large robots, the objective was to explore how",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "Toyota Material Handling Europe’s factory in Mjölby, Sweden.",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "fitness tracker for industrial machines",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "“It is a privilege to work with a company like Toyota that has really invented modern industrial manufacturing. We thoroughly enjoyed the creative atmosphere of working and evolving together,”",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "IPercept works with machine tool service providers, machine builders, and industrial technology partners who believe the machine tool industry is ready for its biggest shift in decades — and want to lead it.",
+    "url": "https://www.ipercept.io/en/partner-page",
+    "pass": 3
+   },
+   {
+    "quote": "Global maintenance leader uses IPercept to know the mechanical condition of every CNC machine they maintain — from precision manufacturing sites in Central Europe to the largest rollout ever undertaken in the Gulf.",
+    "url": "https://www.ipercept.io/en/partner-page",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of machine monitoring software designed to assess equipment condition and improve operational performance without interrupting production. The company offers automated condition assessment, real-time monitoring, and data-driven insights for industrial machines, enabling manufacturers and production teams to reduce downtime and improve machine efficiency.",
+    "url": "https://pitchbook.com/profiles/company/468043-93",
+    "pass": 3
+   },
+   {
+    "quote": "Stockholm's IPercept nets $16.5M Series A to bring physical AI to factory floors — TFN",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   },
+   {
+    "quote": "Stockholm’s IPercept nets $16.5M Series A to bring physical AI to factory floors",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   },
+   {
+    "quote": "CNC machines are of great importance in the manufacturing process, but their average efficiency has remained at 50-60% for many decades.",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid robots and warehouse automation have attracted a great deal of investment this year, whereas CNC machine tools, used in the production of a wide variety of products, have not received similar attention. These machines have generally worked without any monitoring since the 1940s.",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   },
+   {
+    "quote": "“We have just completed an investment round which is large given the standards for Swedish industrial start-ups, and we are happy to be able to speed up our growth,” says",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   },
+   {
+    "quote": "Szipka obtained his PhD in CNC machine diagnostics from the KTH Royal Institute of Technology and has since worked in the field for over ten years. He relocated from Hungary to Sweden, inspired by the nation’s industrial achievements.",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   },
+   {
+    "quote": "The company was established to meet industry demand, rather than as a result of a sudden breakthrough. According to Szipka, the major Swedish manufacturers first attempted to address CNC monitoring by employing data scientists.",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   },
+   {
+    "quote": ", a chair professor at KTH in the field of industrial dependability, set up IPercept in 2019 and launched the technology to market in 2022.",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   },
+   {
+    "quote": "The solution makes no use of historical data, is compatible with around 300 CNC machine manufacturers, and takes only a few hours to install on each machine.",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   },
+   {
+    "quote": "Talking about competitors, Szipka says, “We regard all other companies as possible partners within the industrial ecosystem. That is the Swedish approach: you look at partnership rather than at competition.”",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   },
+   {
+    "quote": "Airbus, Bosch, Hitachi Energy, Scania and Volvo are among the company’s customers, together with various industrial service companies such as Konecranes, Quant, DynaMate and MTT, which resell IPercept’s monitoring as part of their maintenance agreements.",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   },
+   {
+    "quote": ", partner at 2150, added. “The next wave of AI will change how the physical world operates. IPercept is bringing intelligence directly to industrial equipment, helping manufacturers understand their equipment in real time, improve productivity and extend the life of critical assets.”",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   },
+   {
+    "quote": "IPercept had previously completed a €5 million seed round in May 2025, again led by Luminar Ventures. Szipka states that the new funding will aid in strengthening partnerships with industrial service companies and will help with expansion into the US market.",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   },
+   {
+    "quote": "He concludes, “Our aim is for our technology to enable Western manufacturers to speed up and get back to the top of the competitive landscape.”",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   },
+   {
+    "quote": "Pitch deck: Ex-Airbus engineer lands €30M for electric plane built in Lilium’s old battery plant",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "CNC Machine Condition & Process Monitoring | IPercept — IPercept’s smart device offers a promising solution for this: it enables monitoring the condition of a system with a significantly reduced need for maintenance and inspections, and allows for the derivation of preventive measures to avoid machine failures.”",
+    "url": "https://www.ipercept.io/",
+    "pass": 3
+   },
+   {
+    "quote": "IPerceptは、スウェーデン王立工科大学発の産業技術企業です。CNC工作... — IPerceptは、スウェーデン王立工科大学発の産業技術企業です。 CNC工作機械に後付けできる独自センサーとAI解析を組み合わせ、制御装置や社内ITへの接続なしで部品単位の状態を監視します。",
+    "url": "https://www.blackcrow.jp/3ee67c1256d880ce8136eff5a45603fa",
+    "pass": 3
+   },
+   {
+    "quote": "スウェーデンのマシンフィットネストラッカー IPercept が 1,650 万ド... — Sep 29, 2026 · IPercept のテクノロジーは、マシン自体の動きを読み取り、CNC マシンの可動部分に取り付けられた単一の IPercept デバイスが、マシン コントローラーや顧客の IT ネットワークに接続することなく、マイクロメートル スケールの動きをデータに変換します。",
+    "url": "https://www3.to/スウェーデンのマシンフィットネストラッカー-ipercept/",
+    "pass": 3
+   },
+   {
+    "quote": "IPercept は、スウェーデン王立工科大学発の産業技術企業です ... — IPercept は、スウェーデン王立工科大学発の産業技術企業です ... ブラッククローキャピタル https://www.blackcrow.jp > ...",
+    "url": "https://www.blackcrow.jp/3ee67c1256d880ce8136eff5a45603fa",
+    "pass": 3
+   },
+   {
+    "quote": "IPercept Raises $16.5M in Series A, Expands to US - LinkedIn — IPercept Raises $16.5M in Series A, Expands to US - LinkedIn LinkedIn https://www.linkedin.com > posts > gr...",
+    "url": "https://www.linkedin.com/posts/grishinrobotics_ipercept-has-raised-165-million-in-a-series-activity-7510987482084196353-Dv0J",
+    "pass": 3
+   },
+   {
+    "quote": "Prevent CNC Machine Downtime with IPercept - LinkedIn — Prevent CNC Machine Downtime with IPercept - LinkedIn LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/amirroy_if-you-run-cnc-machines-in-the-us-give-me-activity-7513656558023716864-4eSD",
+    "pass": 3
+   },
+   {
+    "quote": "IPercept Raises $16.5 Million in Series A Led by Isogon ... — IPercept Raises $16.5 Million in Series A Led by Isogon ... Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/DeB8KxpiIO3/",
+    "pass": 3
+   },
+   {
+    "quote": "CNC machine condition monitoring from motion - IPercept — CNC machine condition monitoring from motion - IPercept IPercept https://www.ipercept.io > why-ipercept",
+    "url": "https://www.ipercept.io/en/why-ipercept",
+    "pass": 3
+   },
+   {
+    "quote": "CNC Machine Monitoring Use Cases | IPercept — CNC Machine Monitoring Use Cases | IPercept IPercept https://www.ipercept.io > use-cases",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Start-Up, Scale Up - meet IPercept , and the machine ... — Start-Up, Scale Up - meet IPercept , and the machine ... sustainabilitycircle.se https://www.sustainabilitycircle.se > st...",
+    "url": "https://www.sustainabilitycircle.se/post/start-up-scale-up-meet-ipercept-and-karoly-szipka",
+    "pass": 3
+   },
+   {
+    "quote": "Ignite Stories : IPercept & Toyota Material Handling — Ignite Stories : IPercept & Toyota Material Handling Ignite Nordic https://www.ignitenordic.org > ignite-...",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "iPercept Boosts Factory Efficiency with AI-Powered Machine ... — iPercept Boosts Factory Efficiency with AI-Powered Machine ... LinkedIn https://www.linkedin.com > posts > ra...",
+    "url": "https://www.linkedin.com/posts/rahul-parekh-85874a46_why-we-invested-in-ipercept-activity-7511408806627794944-9dWz",
+    "pass": 3
+   },
+   {
+    "quote": "IPercept Partner page — IPercept Partner page IPercept https://www.ipercept.io > partner-page",
+    "url": "https://www.ipercept.io/en/partner-page",
+    "pass": 3
+   },
+   {
+    "quote": "#studentwork IPercept builds AI that helps factories keep their ... — #studentwork IPercept builds AI that helps factories keep their ... Instagram https://www.instagram.com > ...",
+    "url": "https://www.instagram.com/p/Dc_mQZ6EesD/",
+    "pass": 3
+   },
+   {
+    "quote": "IPercept : CNC Machine Condition & Process Monitoring — IPercept : CNC Machine Condition & Process Monitoring IPercept https://www.ipercept.io",
+    "url": "https://www.ipercept.io/",
+    "pass": 3
+   },
+   {
+    "quote": "IPercept 2026 Company Profile: Valuation, Funding & Investors — IPercept 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/468043-93",
+    "pass": 3
+   },
+   {
+    "quote": "Stockholm's IPercept nets $16.5M Series A to bring physical AI ... — Stockholm's IPercept nets $16.5M Series A to bring physical AI ... Tech Funding News https://techfundingnews.com > iperce...",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   },
+   {
+    "quote": "Ipercept - 2026 Company Profile, Team, Funding & Competitors — Ipercept - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/ipercept/__J2lcQw-qNQ291NELI-6-3BgB2nTXGbvIkKqP_qsCW-8",
+    "pass": 3
+   },
+   {
+    "quote": "IPercept Raises $16.5M for CNC Machine Monitoring in US — IPercept Raises $16.5M for CNC Machine Monitoring in US LinkedIn https://www.linkedin.com > posts > a...",
+    "url": "https://www.linkedin.com/posts/autonomousevent_ipercept-has-raised-a-165-million-series-activity-7511051351905427456-B6S2",
+    "pass": 3
+   },
+   {
+    "quote": "IPercept raises $16.5m to bring physical AI to the machines ... — IPercept raises $16.5m to bring physical AI to the machines ... KTH VENTURES https://kthventures.se > blog-posts > i...",
+    "url": "https://kthventures.se/blog-posts/ipercept-raises-16-5m-to-bring-physical-ai-to-the-machines-that-make-every-other-machine",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Tracking defect in carriages",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Solution: IPercept identified the wear progression over weeks. The frequency of axis cleaning was increased slowing down the wear progression and to extending the lifetime of the machine. Impact: Prevented premature replacement of carriages and unnecessary planned maintenance. Savings estimated at 10,000–20,000 EUR.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Impact: Downtime avoided (315 hours) and warranty claims supported. Estimated financial effect: 101,000 EUR.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "Problem: Localized defects in axis guideways carried a future risk of worsening. Replacement requires extensive planned downtime. Without monitoring, escalation could trigger expensive unplanned downtime.",
+    "url": "https://www.ipercept.io/en/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "The startup was at that time part of our Founding Partner",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "is the world leader in material handling with a product range that includes manual hand trucks, autonomous self-driving 1.5 tonne vehicles and innovative energy solutions. Its European headquarters are established in Mjölby, also in Östra Götaland, where approximately 4,000 employees work with material handling from development concepts to produced vehicles, sales and service.",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "“The team at Toyota helped us to understand the importance of implementing a fully automated process that is completely streamlined with their operations. Today, this is an important and integrated part of our offering. We look forward to continuing to develop this partnership for our mutual benefit,”",
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "pass": 3
+   },
+   {
+    "quote": "Finland's leading machine tool service provider rebuilt its entire service offering on IPercept. Their field teams run mechanical inspections remotely and arrive at every customer visit already knowing what needs attention.",
+    "url": "https://www.ipercept.io/en/partner-page",
+    "pass": 3
+   },
+   {
+    "quote": "\"IPercept changes our business formula. We're moving from reactive service calls to proactive maintenance partnerships: enabling significant revenue growth, higher margins, better customer retention, and a true competitive differentiator.\"",
+    "url": "https://www.ipercept.io/en/partner-page",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/468043-93",
+    "pass": 3
+   },
+   {
+    "quote": "IPercept has 20 total employees.",
+    "url": "https://pitchbook.com/profiles/company/468043-93",
+    "pass": 3
+   },
+   {
+    "quote": "What is IPercept’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/468043-93",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for IPercept is",
+    "url": "https://pitchbook.com/profiles/company/468043-93",
+    "pass": 3
+   },
+   {
+    "quote": "Percept now has more than 20 employees and works with over 30 leading customers, including Airbus, Bosch, Hitachi Energy, Scania and Volvo.",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   },
+   {
+    "quote": "Airbus, Bosch, Hitachi Energy, Scania and Volvo are among the company’s customers, together with various industrial service companies such as Konecranes, Quant, DynaMate and MTT, which resell IPercept’s monitoring as part of their maintenance agreements.",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "But the true mass market application for us comes by integrating our technology with the machine manufacturers themselves as a SaaS. We’ve commenced this already through a number of exciting partnerships with such OEMs. We boldly predict that in five years, most new industrial machines will come with IPercept already inside.",
+    "url": "https://www.sustainabilitycircle.se/post/start-up-scale-up-meet-ipercept-and-karoly-szipka",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "info@sustainabilitycircle.se",
+    "url": "https://www.sustainabilitycircle.se/post/start-up-scale-up-meet-ipercept-and-karoly-szipka",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/468043-93",
+    "pass": 3
+   },
+   {
+    "quote": "By clicking submit, you agree to share your email address with TFN to receive marketing, updates, and other emails from the site owner. Use the unsubscribe link in the emails to opt out at any time.",
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "IPercept - LinkedIn IPercept - LinkedIn LinkedIn Sverige https://se.linkedin.com > company > i...",
+    "url": "https://se.linkedin.com/company/ipercept-technology-ab",
+    "pass": 3
+   },
+   {
+    "quote": "IPercept's Post - LinkedIn IPercept's Post - LinkedIn LinkedIn https://www.linkedin.com > posts > ip...",
+    "url": "https://www.linkedin.com/posts/ipercept-technology-ab_ipercept-has-raised-165m-to-bring-component-level-activity-7511698674998169600-4l07",
+    "pass": 3
+   },
+   {
+    "quote": "iPercept Boosts Factory Efficiency with AI-Powered Machine ... iPercept Boosts Factory Efficiency with AI-Powered Machine ... LinkedIn https://www.linkedin.com > posts > ra...",
+    "url": "https://www.linkedin.com/posts/rahul-parekh-85874a46_why-we-invested-in-ipercept-activity-7511408806627794944-9dWz",
+    "pass": 3
+   },
+   {
+    "quote": "IPercept Raises $16.5M for AI-Powered Predictive Maintenance IPercept Raises $16.5M for AI-Powered Predictive Maintenance LinkedIn https://www.linkedin.com > posts > k...",
+    "url": "https://www.linkedin.com/posts/konsulteer_industrialai-predictivemaintenance-swedishtech-activity-7510618054481981440-BHbg",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "How does career mentoring work? Part 1: Psychometric ... How does career mentoring work? Part 1: Psychometric ... Facebook https://www.facebook.com > ipercept2020 > posts",
+    "url": "https://www.facebook.com/ipercept2020/posts/-how-does-career-mentoring-work-part-1-psychometric-assessmentbefore-choosing-a-/1634126375392358/",
+    "pass": 3
+   },
+   {
+    "quote": "READY TO ACE YOUR IELTS GENERAL TRAINING? Your ... READY TO ACE YOUR IELTS GENERAL TRAINING? Your ... Facebook https://www.facebook.com > ipercept2020 > posts",
+    "url": "https://www.facebook.com/ipercept2020/posts/-ready-to-ace-your-ielts-general-trainingyour-journey-towards-a-better-ielts-sco/1660450546093274/",
+    "pass": 3
+   },
+   {
+    "quote": "YOUR UK UNIVERSITY JOURNEY STARTS HERE! Planning ... YOUR UK UNIVERSITY JOURNEY STARTS HERE! Planning ... Facebook https://www.facebook.com > ipercept2020 > posts",
+    "url": "https://www.facebook.com/ipercept2020/posts/-your-uk-university-journey-starts-here-planning-to-study-in-the-uk-start-prepar/1639522124852783/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ipercept.tech",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=GQPoJkCBjGI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.recog.works/ja/news/detail/114",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ipercept.io/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.blackcrow.jp/3ee67c1256d880ce8136eff5a45603fa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.blackcrow.jp/3ee67c1256d880ce8136eff5a45603fa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.blackcrow.jp/3ee67c1256d880ce8136eff5a45603fa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/grishinrobotics_ipercept-has-raised-165-million-in-a-series-activity-7510987482084196353-Dv0J",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/amirroy_if-you-run-cnc-machines-in-the-us-give-me-activity-7513656558023716864-4eSD",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/p/DeB8KxpiIO3/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ipercept.io/en/use-cases",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sustainabilitycircle.se/post/start-up-scale-up-meet-ipercept-and-karoly-szipka",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/rahul-parekh-85874a46_why-we-invested-in-ipercept-activity-7511408806627794944-9dWz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ipercept.io/en/partner-page",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/rahul-parekh-85874a46_why-we-invested-in-ipercept-activity-7511408806627794944-9dWz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/p/Dc_mQZ6EesD/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/468043-93",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/ipercept/__J2lcQw-qNQ291NELI-6-3BgB2nTXGbvIkKqP_qsCW-8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/autonomousevent_ipercept-has-raised-a-165-million-series-activity-7511051351905427456-B6S2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/company/ipercept-technology-ab",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ipercept-technology-ab_ipercept-has-raised-165m-to-bring-component-level-activity-7511698674998169600-4l07",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/rahul-parekh-85874a46_why-we-invested-in-ipercept-activity-7511408806627794944-9dWz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/konsulteer_industrialai-predictivemaintenance-swedishtech-activity-7510618054481981440-BHbg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ipercept2020/posts/-how-does-career-mentoring-work-part-1-psychometric-assessmentbefore-choosing-a-/1634126375392358/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ipercept2020/posts/-ready-to-ace-your-ielts-general-trainingyour-journey-towards-a-better-ielts-sco/1660450546093274/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ipercept2020/posts/-your-uk-university-journey-starts-here-planning-to-study-in-the-uk-start-prepar/1639522124852783/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ipercept 日本 導入",
+   "results": [
+    "https://www.youtube.com/watch?v=GQPoJkCBjGI",
+    "https://www.recog.works/ja/news/detail/114",
+    "https://www.ipercept.io/",
+    "https://www.blackcrow.jp/3ee67c1256d880ce8136eff5a45603fa",
+    "https://www3.to/スウェーデンのマシンフィットネストラッカー-ipercept/",
+    "https://www.ipercept.io/why-ipercept",
+    "https://www.webull.co.jp/news-detail/15662099609289728",
+    "https://www.studioglobal.ai/ja/discover/answers/what-is-stockholm-based-ipercept-s-16-5-million-series-6abb88dc405d9e929f7e5bd1",
+    "https://www.itmedia.co.jp/news/article/2611/11/2000002913/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Ipercept 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.blackcrow.jp/3ee67c1256d880ce8136eff5a45603fa",
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://j-dma.org/trouble",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.ipsen.com/japan/会社/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Ipercept Japan",
+   "results": [
+    "https://www.blackcrow.jp/3ee67c1256d880ce8136eff5a45603fa",
+    "https://www.linkedin.com/posts/grishinrobotics_ipercept-has-raised-165-million-in-a-series-activity-7510987482084196353-Dv0J",
+    "https://www.linkedin.com/posts/amirroy_if-you-run-cnc-machines-in-the-us-give-me-activity-7513656558023716864-4eSD",
+    "https://www.instagram.com/p/DeB8KxpiIO3/",
+    "https://www.ipercept.io/en/why-ipercept",
+    "https://se.linkedin.com/company/ipercept-technology-ab",
+    "https://www.swedishtechnews.com/swedish-tech-weekly-374/",
+    "https://www.ipercept.io/en/solutions-cnc-machine",
+    "https://www.linkedin.com/posts/tviguier_stockholm-based-ipercept-has-secured-activity-7510632168470126592-Gn_j",
+    "https://www.ipercept.io/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Ipercept manufacturing customer case study",
+   "results": [
+    "https://www.ipercept.io/en/use-cases",
+    "https://www.sustainabilitycircle.se/post/start-up-scale-up-meet-ipercept-and-karoly-szipka",
+    "https://www.ignitenordic.org/ignite-stories-ipercept-toyota-material-handling/",
+    "https://www.linkedin.com/posts/rahul-parekh-85874a46_why-we-invested-in-ipercept-activity-7511408806627794944-9dWz",
+    "https://www.ptc.com/en/case-studies?srsltid=AYCX9vK8H927-22eQ46SHqOqG0VaWcagjmHd-q4VnMwD41xgPqM1RBDe",
+    "https://vestbee.com/insights/articles/i-percept-secures-5-m",
+    "https://www.manufacturingtomorrow.com/news/2026/10/26/kth-spinout-ipercept-brings-physical-ai-to-the-machines-that-make-every-other-machine/28474",
+    "https://www.ipercept.io/en/news/the-health-app-for-industrial-machines",
+    "https://www.linkedin.com/posts/amirroy_if-you-run-cnc-machines-in-the-us-give-me-activity-7513656558023716864-4eSD",
+    "https://www.ipercept.io/use-cases"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Ipercept white label OR reseller OR partner program",
+   "results": [
+    "https://www.ipercept.io/en/partner-page",
+    "https://www.linkedin.com/posts/rahul-parekh-85874a46_why-we-invested-in-ipercept-activity-7511408806627794944-9dWz",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.instagram.com/p/Dc_mQZ6EesD/",
+    "https://www.ipercept.io/",
+    "https://www.linkedin.com/posts/arcticstartup_swedens-ipercept-secures-large-scale-gulf-activity-7427342930899595264-jI7D",
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.iqreseller.com/",
+    "https://partner.vw.com/partner"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Ipercept founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/468043-93",
+    "https://techfundingnews.com/ipercept-16-5m-series-a-cnc-diagnostics-2150-isogon/",
+    "https://tracxn.com/d/companies/ipercept/__J2lcQw-qNQ291NELI-6-3BgB2nTXGbvIkKqP_qsCW-8",
+    "https://www.linkedin.com/posts/autonomousevent_ipercept-has-raised-a-165-million-series-activity-7511051351905427456-B6S2",
+    "https://kthventures.se/blog-posts/ipercept-raises-16-5m-to-bring-physical-ai-to-the-machines-that-make-every-other-machine",
+    "https://aipressroom.com/ipercept-16m-cnc-diagnostics/",
+    "https://dealroom.co/news/157597-ipercept-raises-16-5m-to-give-factory-machines-a-health-check/",
+    "https://thehub.io/startups/ipercept-technology-ab",
+    "https://www.sesamers.com/funding/ipercept-raises-16-5m-series-a-cnc-machine-monitoring/",
+    "https://prospeo.io/c/ipercept-revenue"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Ipercept",
+   "results": [
+    "https://note.com/diparururun/n/n78c1fbc5e52d",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://tales.note.com/",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/t_words_c/n/ndfad4f7a2a16",
+    "https://note.com/harunatravel/n/n9be3e4d29b2a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Ipercept",
+   "results": [
+    "https://x.com/TFNBreakingNews",
+    "https://x.com/tech_eu",
+    "https://x.com/arcticstartup",
+    "https://x.com/IVA1919",
+    "https://x.com/TFNBreakingNews/status/2104833517091967274",
+    "https://x.com/hipercept",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/_InfoGram_/status/2118253289573949943",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/PunishedLuddite/status/2118301636518977878"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:linkedin.com Ipercept",
+   "results": [
+    "https://se.linkedin.com/company/ipercept-technology-ab",
+    "https://www.linkedin.com/posts/ipercept-technology-ab_ipercept-has-raised-165m-to-bring-component-level-activity-7511698674998169600-4l07",
+    "https://www.linkedin.com/posts/rahul-parekh-85874a46_why-we-invested-in-ipercept-activity-7511408806627794944-9dWz",
+    "https://www.linkedin.com/posts/konsulteer_industrialai-predictivemaintenance-swedishtech-activity-7510618054481981440-BHbg",
+    "https://www.linkedin.com/posts/ipercept-technology-ab_how-to-read-a-cnc-machine-health-report-activity-7506686526488055808-LRmQ",
+    "https://www.linkedin.com/posts/ipercept-technology-ab_predictivemaintenance-conditionmonitoring-activity-7524395428298010625-iEka",
+    "https://www.linkedin.com/posts/grishinrobotics_ipercept-has-raised-165-million-in-a-series-activity-7510987482084196353-Dv0J",
+    "https://www.linkedin.com/posts/tviguier_stockholm-based-ipercept-has-secured-activity-7510632168470126592-Gn_j",
+    "https://www.linkedin.com/posts/amirroy_if-you-run-cnc-machines-in-the-us-give-me-activity-7513656558023716864-4eSD",
+    "https://www.linkedin.com/company/ipercept-technology-ab/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Ipercept",
+   "results": [
+    "https://www.facebook.com/ipercept2020/posts/-how-does-career-mentoring-work-part-1-psychometric-assessmentbefore-choosing-a-/1634126375392358/",
+    "https://www.facebook.com/ipercept2020/posts/-ready-to-ace-your-ielts-general-trainingyour-journey-towards-a-better-ielts-sco/1660450546093274/",
+    "https://www.facebook.com/ipercept2020/videos/-linear-vs-modular-igcse-which-ones-for-you-choosing-between-linear-and-modular-/1466155038038332/",
+    "https://www.facebook.com/ipercept2020/posts/-your-uk-university-journey-starts-here-planning-to-study-in-the-uk-start-prepar/1639522124852783/",
+    "https://www.facebook.com/edoofa/posts/launchpad-program-start-before-you-even-startmost-students-prepare-after-reachin/1416625503813474/",
+    "https://www.facebook.com/meritbridgeofficial/posts/confused-about-your-next-career-step-youre-at-the-right-place-get-the-right-guid/122121409467277988/",
+    "https://www.facebook.com/LinkopingSciencePark/posts/link%C3%B6ping-science-park-to-lead-new-sweden-ukraine-cooperation-project-the-swedis/1758755659583559/",
+    "https://www.facebook.com/SlushHQ/posts/last-week-niki-and-charlotte-from-the-slush-team-visited-zurich-and-munich-two-c/1519975796146005/",
+    "https://www.facebook.com/DutchEmbassySweden/posts/job-alert-were-looking-for-a-senior-innovation-advisor-in-sweden-and-the-nordics/1591576503012053/",
+    "https://www.facebook.com/ipercept2020/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Ipercept note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://hutzper.com/news/notice/n261025/",
+    "https://dot.asahi.com/articles/-/292259?page=1",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.pss.co.jp/company/management.html",
+    "https://note.jp/n/n831c27926b3d",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Ipercept X 投稿",
+   "results": [
+    "https://x.com/munou_ac/article/2100542988556603887",
+    "https://note.com/doerstokyo_kb/n/na79ac3389253",
+    "https://tech-lab.sios.jp/archives/54667",
+    "https://www.ichiyajo.jp/notes/2026-05-18-x-auto-post-guide-2026/",
+    "https://www.youtube.com/watch?v=4tX-sQWOOdY",
+    "https://takumi-senpai.com/blog/x-know-how/",
+    "https://note.com/fujin_metaverse/n/n9b1df0403048",
+    "https://www.youtube.com/shorts/C596QipDqO0",
+    "https://note.com/hearty_peony3806/n/n41ade0671467"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

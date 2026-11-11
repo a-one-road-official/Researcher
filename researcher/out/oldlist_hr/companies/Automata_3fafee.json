@@ -1,0 +1,1943 @@
+{
+ "name": "Automata",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜AUMS不適合",
+ "researched_at": "2026-11-11T00:15:26.525294+00:00",
+ "official_url": "https://www.automata.tech/",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Automata Email Formats",
+    "value": "Example Percentage",
+    "url": "https://leadiq.com/c/automata/5a1d90d6540000530076387b",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://leadiq.com/c/automata/5a1d90d6540000530076387b",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Software-defined LINQ is a holistic process orchestration platform enabling parallel workflow execution and real-time, in-depth analytics. With MCP-enabled connectivity, it connects LINQ to AI models.",
+    "url": "https://www.automata.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "LINQ’s cloud platform enables teams to build and test workflows as workcells process samples—driving efficiency. With remote access, tags, and runtime instructions, streamline collaboration and simplifiy handovers.",
+    "url": "https://www.automata.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "LINQ enables custom code steps for seamless integration with external systems via REST API, supporting in-workflow data processing and transformation. Integrating with a lab’s software stack, enabling advanced customization and lab-specific tools.",
+    "url": "https://www.automata.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Define your workflow and Automation profiles",
+    "url": "https://www.automata.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Full Orchestration for multiple workflows simultaneously, providing end-to-end, fully-integrated automation.",
+    "url": "https://www.automata.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Thanks to Automata's innovative robotic technology, this UK-first clinical diagnostics installation will transform genomic testing at The Royal Marsden by streamlining our processes, substantially increasing our capacity without compromising accuracy.\"",
+    "url": "https://www.automata.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Professor Michael Hubank",
+    "url": "https://www.automata.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "read the full press release",
+    "url": "https://www.automata.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The major benefit of our walkaway workflows is the ability to prepare samples and generate data rapidly, accelerating the pace of discoveries at The Crick.\"",
+    "url": "https://www.automata.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in throughput in the same footprint",
+    "url": "https://www.automata.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "GDPR and Privacy Policy",
+    "url": "https://www.automata.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "through a new robotic sample processing platform.",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-royal-marsden",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to Automata’s innovative robotic technology, this UK-first clinical diagnostics installation will transform genomic testing at The Royal Marsden by streamlining our processes, substantially increasing our capacity without compromising accuracy.",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-royal-marsden",
+    "pass": 1
+   },
+   {
+    "quote": "Professor Michael Hubank",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-royal-marsden",
+    "pass": 1
+   },
+   {
+    "quote": "Scientific Director of Clinical Genomics at The Royal Marsden NHS Foundation Trust and Professor of Translational Genomics at the Institute of Cancer Research, London",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-royal-marsden",
+    "pass": 1
+   },
+   {
+    "quote": "features a unique laboratory smart bench, with integrated automation capabilities and accompanying powerful, proprietary lab orchestration software. As a result, labs can easily",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-royal-marsden",
+    "pass": 1
+   },
+   {
+    "quote": "to bulky equipment. The system is also flexible in design, providing the option to grow capacity based on future demand.",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-royal-marsden",
+    "pass": 1
+   },
+   {
+    "quote": "Professor Michael Hubank, Scientific Director of Clinical Genomics at The Royal Marsden NHS Foundation Trust and Professor of Translational Genomics at the Institute of Cancer Research, London, said:",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-royal-marsden",
+    "pass": 1
+   },
+   {
+    "quote": "“Thanks to Automata’s innovative robotic technology, this UK-first clinical diagnostics installation will transform genomic testing at The Royal Marsden by streamlining our processes, substantially increasing our capacity without compromising accuracy.",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-royal-marsden",
+    "pass": 1
+   },
+   {
+    "quote": "“Genomic testing is currently labour intensive and involves repetitive tasks, so fully automating the process will give our scientists and technicians more time to focus on quality and on the scientific aspects of their important work.”",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-royal-marsden",
+    "pass": 1
+   },
+   {
+    "quote": "“The insights and information that genomics testing provides, empower doctors and patients to make the right decisions for therapy. As well as the increased capacity, scientists in the laboratory now have more walk-away time to spend on analysis and research. We look forward to continuing to work closely with The Royal Marsden to shape the future of integrated automation for genomics.”",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-royal-marsden",
+    "pass": 1
+   },
+   {
+    "quote": "Today, together with its academic partner, The Institute of Cancer Research (ICR), it is the largest and most comprehensive cancer centre in Europe seeing and treating over 59,000 NHS and private patients every year. It is a centre of excellence with an international reputation for groundbreaking research and pioneering the very latest in cancer treatments and technologies.",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-royal-marsden",
+    "pass": 1
+   },
+   {
+    "quote": "Automata is the leading robotics and automation company powering the laboratories of the future. Our automated technology enables new and improved processes, empowers scientists with transformed ways of working and delivers faster translation of results from ‘bench to bedside’.",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-royal-marsden",
+    "pass": 1
+   },
+   {
+    "quote": "Our Lab Automation Platform meets labs where they are on their automation journey, and we are the trusted partner to improving efficiencies and freeing scientists to work on new and innovative discoveries.",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-royal-marsden",
+    "pass": 1
+   },
+   {
+    "quote": "GDPR and Privacy Policy",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-royal-marsden",
+    "pass": 1
+   },
+   {
+    "quote": "– Automata, a leading automation company powering life sciences labs, today announced it is partnering with the Advanced Sequencing Facility (ASF) at The Francis Crick Institute, a world-leading laboratory at the forefront of genomics, to unlock the power of open, integrated automation for genomics sample preparation.",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-francis-crick-institute",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership is based on the premise that automation can unlock a step change in the potential of genomics labs. Genomics sample preparation workflows are ideally suited for automation given the need for robustness and scalability, and together, the teams are automating three workflows to decrease manual touchpoints, increase throughput and optimise R&D flexibility.",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-francis-crick-institute",
+    "pass": 1
+   },
+   {
+    "quote": "In close collaboration, the teams have completed two walkaway workflows, with a further workflow in progress. These workflows use the first version of Automata’s lab bench solution, made up of four laboratory instruments, six benches and four robots.",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-francis-crick-institute",
+    "pass": 1
+   },
+   {
+    "quote": "Amplicon Library Preparation – an assay requiring",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-francis-crick-institute",
+    "pass": 1
+   },
+   {
+    "quote": ", typically for validation of CRISPR modifications by sequencing;",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-francis-crick-institute",
+    "pass": 1
+   },
+   {
+    "quote": "FFPE RNA Extraction – the process of extracting RNA from formalin-fixed paraffin-embedded tissues;",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-francis-crick-institute",
+    "pass": 1
+   },
+   {
+    "quote": "COVID-19 Sequencing – the globally-used ARTIC protocol to prepare samples for the sequencing of SARS-CoV-2 genomes",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-francis-crick-institute",
+    "pass": 1
+   },
+   {
+    "quote": "to these workflows has already eliminated the need for nearly all manual touchpoints, unlocked days of walkaway time and improved sample quality.",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-francis-crick-institute",
+    "pass": 1
+   },
+   {
+    "quote": "Automata and The Francis Crick Institute are partnering to unlock the power of open, integrated automation for genomics sample preparation.",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-francis-crick-institute",
+    "pass": 1
+   },
+   {
+    "quote": "As part of the collaboration between The Francis Crick Institute and Automata, the Crick enjoys early access to Automata demos, and is a key stakeholder in new product development. Automata is able to use the system to test new software and learn from user feedback and platform metrics.",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-francis-crick-institute",
+    "pass": 1
+   },
+   {
+    "quote": "The Francis Crick Institute is a biomedical discovery institute dedicated to understanding the fundamental biology underlying health and disease. Its work is helping to understand why disease develops and to translate discoveries into new ways to prevent, diagnose and treat illnesses such as cancer, heart disease, stroke, infections, and neurodegenerative diseases.",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-francis-crick-institute",
+    "pass": 1
+   },
+   {
+    "quote": "GDPR and Privacy Policy",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-francis-crick-institute",
+    "pass": 1
+   },
+   {
+    "quote": "Partnership integrates Automata’s LINQ™ lab automation platform with CellVoyant's FateDrive™ AI-platform for process optimization to enable an autonomous AI system that tightly couples in-silico optimization with automated, real-world bioprocess execution.",
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "Together, Automata and CellVoyant are enabling a new operating model for biology: closed-loop, adaptive cell culture that can run 24/7, reduce manual intervention, preserve sample integrity, accelerate decision-making from days to minutes and significantly improve process outcomes.",
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "“Being able to intervene adaptively, intelligently and autonomously, based on real biological signals, and to update experimental protocols as experiments unfold, is key to propel therapeutics development to the future. By combining CellVoyant’s AI with Automata’s flexible, modular, open LINQ platform we can make adaptive cell culture an operational reality.”",
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "CellVoyant’s FateDrive™is an AI-driven optimization platform that builds on FateView™ - the company’s predictive cell analytics platform - to explore vast cell process design spaces",
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "pass": 1
+   },
+   {
+    "quote": ", forecast outcomes, and recommend optimal protocols. It enables faster, more informed decision-making in cell differentiation and bioprocess development.",
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "The combined system enables truly autonomous adaptive operations, where AI interprets ongoing biology with FateView™ thereby enabling FateDrive™ to recommend optimized actions, LINQ™ automation executes those actions, new data is collected, and AI updates experimental protocols yielding significantly improved outcomes.",
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "Demonstrated Impact: Continuous Operation, Faster Decisions, Higher Reproducibility",
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "After nearly two years of integration and development, the partnership has demonstrated the viability of adaptive automation for demanding cell culture and process development workflows. Key outcomes include:",
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "Greater reproducibility, removing variability introduced by manual handling",
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "Scalable data acquisition, generating high-resolution time-series datasets that improve AI performance over time",
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "Higher process outcomes, leading to adaptive automation processes that are significantly more cost effective than static automation",
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "This capability also allows teams to terminate unsuccessful experiments earlier, reallocate resources faster, and optimize protocols across long-term horizons, such as multiday and multiweek processes.",
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "Automata and CellVoyant are jointly positioning the integrated FateDrive™ and LINQ™ solution for teams developing and scaling cell culture workflows across research and translational settings. The partnership enables customers to combine AI-driven process development and optimization with flexible lab automation in a single, connected workflow.",
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "Looking ahead, CellVoyant plans to work with clinical-stage biotech and pharma partners to apply autonomous capabilities for therapeutic derivation and process optimization, while Automata will enable scalable deployment through modular automation designed for rapid configuration and integration.",
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "By working together, the companies aim to help labs move beyond manual trial-and-error and static automation toward adaptive, data-driven bioprocess development and autonomous labs where experimental decisions are continuously monitored and guided by predictive AI and executed efficiently through automation.",
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "Automata is transforming lab automation for the AI era. The company delivers the only fully integrated, AI-ready platform that is modular, configurable, and open by design. While legacy systems fragment workflows and slow discovery, Automata modernizes lab operations—enabling scientists to program experiments, not robots. For more information, visit",
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "GDPR and Privacy Policy",
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "All things Automata-related, from investment, press releases to important hiring news.",
+    "url": "https://www.automata.tech/about-us/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "April 25, 2024",
+    "url": "https://www.automata.tech/about-us/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "Winner in the Product: Medicine/Health category",
+    "url": "https://www.automata.tech/about-us/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "bit.bio partners with Automata to automate a key aspect of its production of iPSC derived human cells",
+    "url": "https://www.automata.tech/about-us/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "GDPR and Privacy Policy",
+    "url": "https://www.automata.tech/about-us/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "When two architects from Zaha Hadid’s research lab first approached robotics, their idea was to explore applications specific to architectural engineering.",
+    "url": "https://www.automata.tech/about-us",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by our partners",
+    "url": "https://www.automata.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "“Genomic testing is currently labour intensive and involves repetitive tasks, so fully automating the process will give our scientists and technicians more time to focus on quality and on the scientific aspects of their important work.”",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-royal-marsden",
+    "pass": 1
+   },
+   {
+    "quote": "We are trusted by customers including trusts within the NHS, and are supporting advancements across Core Testing Labs, Academic Institutes, CDMOs, Pharmas and Biotechs. Learn more about our solutions here.",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-royal-marsden",
+    "pass": 1
+   },
+   {
+    "quote": "We are trusted by customers including trusts within the NHS, and are supporting advancements across Core Testing Labs, Academic Institutes, CDMOs, Pharmas and Biotechs.",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-francis-crick-institute",
+    "pass": 1
+   },
+   {
+    "quote": "He brings strong experience in business and corporate leadership, as well as engineering, manufacturing, finance, healthcare systems and health policy. He is an advisor to Healthcare UK, Chair of Protas, a not-for-profit clinical trials business, chair of the Cambridge Life Sciences Council, Chair of Science Capital Imperial and a Global Senior Advisor at Lazard.",
+    "url": "https://www.automata.tech/about-us/advisory-board",
+    "pass": 1
+   },
+   {
+    "quote": "download the full case study",
+    "url": "https://www.automata.tech/case-studies/reducing-human-interaction-in-a-genomics-testing-system",
+    "pass": 1
+   },
+   {
+    "quote": "Automating cell culture assays: a case study",
+    "url": "https://www.automata.tech/case-studies/how-we-made-a-6-hour-cell-culture-assay-into-a-70-minute-process",
+    "pass": 1
+   },
+   {
+    "quote": "Why taking learnings from manufacturing – and taking automation ‘off deck’ – resulted in a 5x increase in one biotech lab’s throughput",
+    "url": "https://www.automata.tech/case-studies/how-we-made-a-6-hour-cell-culture-assay-into-a-70-minute-process",
+    "pass": 1
+   },
+   {
+    "quote": "It’s clear that the impact automation has made to the manufacturing industry has yet to be realised in the lab space.",
+    "url": "https://www.automata.tech/case-studies/how-we-made-a-6-hour-cell-culture-assay-into-a-70-minute-process",
+    "pass": 1
+   },
+   {
+    "quote": "The manufacturing industry has long used automation to parallelise their workflows, allowing processes such as formulation, blending, packing and cleaning take place simultaneously, increasing efficiency.",
+    "url": "https://www.automata.tech/case-studies/how-we-made-a-6-hour-cell-culture-assay-into-a-70-minute-process",
+    "pass": 1
+   },
+   {
+    "quote": "If labs are able to take these lessons from manufacturing, they can utilise automation not only to improve the quality of results, but also to improve efficiency and better utilise staff by removing repetitive processes.",
+    "url": "https://www.automata.tech/case-studies/how-we-made-a-6-hour-cell-culture-assay-into-a-70-minute-process",
+    "pass": 1
+   },
+   {
+    "quote": "If labs are able to take lessons from manufacturing, they can utilise automation not only to improve the quality of results, but also to improve efficiency",
+    "url": "https://www.automata.tech/case-studies/how-we-made-a-6-hour-cell-culture-assay-into-a-70-minute-process",
+    "pass": 1
+   },
+   {
+    "quote": "How to bring the principles of manufacturing automation into your lab",
+    "url": "https://www.automata.tech/case-studies/how-we-made-a-6-hour-cell-culture-assay-into-a-70-minute-process",
+    "pass": 1
+   },
+   {
+    "quote": "The impact of taking on learnings from manufacturing",
+    "url": "https://www.automata.tech/case-studies/how-we-made-a-6-hour-cell-culture-assay-into-a-70-minute-process",
+    "pass": 1
+   },
+   {
+    "quote": "By taking on automation learnings from the manufacturing industry, SCB was able to revolutionise the way their lab operated.",
+    "url": "https://www.automata.tech/case-studies/how-we-made-a-6-hour-cell-culture-assay-into-a-70-minute-process",
+    "pass": 1
+   },
+   {
+    "quote": "download the full case study",
+    "url": "https://www.automata.tech/case-studies/how-we-made-a-6-hour-cell-culture-assay-into-a-70-minute-process",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by our partners",
+    "url": "https://www.automata.tech/linq",
+    "pass": 1
+   },
+   {
+    "quote": "download the full case study",
+    "url": "https://www.automata.tech/case-studies/increasing-genomic-testing-capacity",
+    "pass": 1
+   },
+   {
+    "quote": "Adaptive AI-Driven Cell Culture: Automata × CellVoyant Case Study",
+    "url": "https://www.automata.tech/case-studies/automata-cellvoyant-autonomous-workflows-for-cell-culture",
+    "pass": 1
+   },
+   {
+    "quote": "download the full case study",
+    "url": "https://www.automata.tech/case-studies/automata-cellvoyant-autonomous-workflows-for-cell-culture",
+    "pass": 1
+   },
+   {
+    "quote": "Automation will support bit.bio’s production of its scalable, consistent human cells for research and drug discovery with greater manufacturing capacity and speed than ever",
+    "url": "https://www.automata.tech/company-news/bit-bio-and-automata-partnership",
+    "pass": 1
+   },
+   {
+    "quote": ", to automate a key aspect of the manufacturing process of their iPSC (induced pluripotent stem cell)-derived human cell products.",
+    "url": "https://www.automata.tech/company-news/bit-bio-and-automata-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "This first step in automation will increase bit.bio’s capacity to manufacture human cell products for research and drug discovery by quadrupling manufacturing output and supports bit.bio’s lean manufacturing approach.",
+    "url": "https://www.automata.tech/company-news/bit-bio-and-automata-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "We are trusted by customers including trusts within the NHS, and are supporting advancements across Core Testing Labs, Academic Institutes, CDMOs, Pharmas and Biotechs.",
+    "url": "https://www.automata.tech/company-news/bit-bio-and-automata-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Automata’s Lab Automation Platform meets labs where they are on their automation journey, and is the trusted partner to improving efficiencies and freeing scientists to work on new and innovative discoveries. It is trusted by customers including NHS Trusts and are supporting advancements across core testing labs, academic institutions, CDMOs, pharma and biotech companies.",
+    "url": "https://www.automata.tech/company-news/iso-9001-certification",
+    "pass": 1
+   },
+   {
+    "quote": "Automata’s Lab Automation Platform meets labs where they are on their automation journey, and is the trusted partner to improving efficiencies and freeing scientists to work on new and innovative discoveries. It is trusted by customers including NHS Trusts and are supporting advancements across core testing labs, academic institutions, CDMOs, pharma and biotech companies.",
+    "url": "https://www.automata.tech/company-news/uks-first-robotic-genomic-testing-facility-for-cancer-patients",
+    "pass": 1
+   },
+   {
+    "quote": "Rather than tying automation to a single vendor or fixed workcell, LINQ connects compatible technologies across manufacturers, orchestrates workflows across the lab, and captures the data, metadata and context during execution. This open, adaptable architecture allows labs to build around the technology they already use, while creating the foundation for future scientific and AI requirements.",
+    "url": "https://www.automata.tech/company-news/automata-featured-in-best-of-british-business-2026",
+    "pass": 1
+   },
+   {
+    "quote": "Robotic Industrialization",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "Resident Evil Requiem: How to defeat Plant 43",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Here are some useful tips for taking down Resident Evil Requiem’s Plant 43, the monstrous flora at the bottom of the crater in Raccoon City.",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Today, Aichi is known as one of Japan’s leading centres of manufacturing and cutting-edge technology, producing around 25 percent of Japan’s robots and home to some of the country’s largest automotive companies. This event traces the roots of these precision manufacturing technologies back to the",
+    "url": "https://www.japanhouselondon.uk/whats-on/aichi-automata-the-craftsmanship-of-karakuri-ningyo/",
+    "pass": 3
+   },
+   {
+    "quote": "Fanuc’s primary products include industrial robots, computerized numerical control systems, and compact machining centers (Robodrills) globally. The company began as part of Fujitsu, developing early numerical control systems, and now holds the top global market share in CNC systems and industrial robots.",
+    "url": "https://multiples.vc/private-comps/automata",
+    "pass": 3
+   },
+   {
+    "quote": "Demant is a Denmark-based manufacturer and distributor of hearing solutions, such as hearing aid devices and diagnostic equipment. More than 80% of the company's sales come from North America and Europe.",
+    "url": "https://multiples.vc/private-comps/automata",
+    "pass": 3
+   },
+   {
+    "quote": "Director Industrial Design",
+    "url": "https://growjo.com/company/Automata",
+    "pass": 3
+   },
+   {
+    "quote": "Our first product, Eva, is an elegant, lightweight, affordable robot arm built for professionals: in a production line, in a lab, a home workshop or even in a classroom.",
+    "url": "https://growjo.com/company/Automata",
+    "pass": 3
+   },
+   {
+    "quote": "You want a front-row seat in an ambitious, talented team that's aiming to disrupt the industrial/ professional robotics industry.",
+    "url": "https://growjo.com/company/Automata",
+    "pass": 3
+   },
+   {
+    "quote": "Ruined cities, deserts, amusement parks, forests, factories, coasts, towers.",
+    "url": "https://note.com/natume20250208/n/n7cb52b7bc21b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you ask whether humanity perished along with its civilization out of remorse, that is not the case. Humanity created new humans—genetically modified bodies as a species that loves peace—along with information from the pre-destruction civilization and animals and plants from the old world, and only their consciousnesses went into a sleep lasting thousands of years in a place called the Crypt.",
+    "url": "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "During that time, the artificial plants created to purify the world's \"pollution\" became the forest known as the Sea of Corruption, and the artificial creatures created to protect that Sea of Corruption are creatures like the Ohmu. That is why the Ohmu become enraged when the forest is destroyed.",
+    "url": "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Automata is overhauling how lab automation is done by demolishing legacy barriers, obliterating complexity, and supercharging discovery, driving a seismic shift that pulls tomorrow's labs into today's reality.",
+    "url": "https://www.automata.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "As part of the collaboration between The Francis Crick Institute and Automata, the Crick enjoys early access to Automata demos, and is a key stakeholder in new product development. Automata is able to use the system to test new software and learn from user feedback and platform metrics.",
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-francis-crick-institute",
+    "pass": 1
+   },
+   {
+    "quote": "Scalable data acquisition, generating high-resolution time-series datasets that improve AI performance over time",
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "pass": 1
+   },
+   {
+    "quote": "Breaking Barriers in Genomics: Earlham Institute and Automata Redefine Lab Automation",
+    "url": "https://www.automata.tech/about-us/company-news",
+    "pass": 1
+   },
+   {
+    "quote": "Automata’s focus narrowed on an industry where they felt their expertise could have the most impact: the life sciences.",
+    "url": "https://www.automata.tech/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Lord Prior qualified as a barrister and worked in finance and industry before being elected an MP in 1997. He was Chair of Norfolk and Norwich University Hospitals NHS Foundation Trust before becoming Chair of the Care Quality Commission.",
+    "url": "https://www.automata.tech/about-us/advisory-board",
+    "pass": 1
+   },
+   {
+    "quote": "Annalisa Jenkins trained as a physician, spending her early career as a medical officer in the Royal Navy before moving into biopharma with Bristol Myers-Squibb and Merck Serono. She became President and Chief Executive of Nasdaq-listed Dimension Therapeutics in 2014 before being appointed Executive Chairman of Vium in 2016 which was later acquired by Recursion Therapeutics.",
+    "url": "https://www.automata.tech/about-us/advisory-board",
+    "pass": 1
+   },
+   {
+    "quote": "Samples received by the lab will be arranged into automation-friendly racks and loaded on to the Automata system transport layer. At this stage, sample tracking is initiated.",
+    "url": "https://www.automata.tech/case-studies/increasing-genomic-testing-capacity",
+    "pass": 1
+   },
+   {
+    "quote": ", to automate a key aspect of the manufacturing process of their iPSC (induced pluripotent stem cell)-derived human cell products.",
+    "url": "https://www.automata.tech/company-news/bit-bio-and-automata-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "It has raised over $150m in funding so far, has over 180 employees and is headquartered in Cambridge, UK and San Francisco, US.",
+    "url": "https://www.automata.tech/company-news/bit-bio-and-automata-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "The Royal Marsden, with the ICR, is the only National Institute for Health and Care Research Biomedical Research Centre for Cancer. This supports pioneering research work carried out over a number of different cancer themes.",
+    "url": "https://www.automata.tech/company-news/uks-first-robotic-genomic-testing-facility-for-cancer-patients",
+    "pass": 1
+   },
+   {
+    "quote": "(NASDAQ: NVDA) is the world leader in AI and accelerated computing.",
+    "url": "https://www.automata.tech/company-news/automata-nvidia-gtc-berlin-ai-lab-automation",
+    "pass": 1
+   },
+   {
+    "quote": "In the accompanying film, we explain why preparing labs for AI requires more than adding individual robots or automating isolated tasks. Instruments, workflows and data must operate as part of a connected system, producing the structured information and scientific context that AI applications need.",
+    "url": "https://www.automata.tech/company-news/automata-featured-in-best-of-british-business-2026",
+    "pass": 1
+   },
+   {
+    "quote": "gained widespread popularity through their use as part of floats during street festivals, such as the Toshogu Matsuri in",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": ", using mechanical power, a puppet shoots a target with a bow and arrow, and in the case of",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": ". These were significantly expensive, and usually owned by a",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "Atelier Karia’s protagonist can eat barrels and become one, developers reveal",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "1DaYs is a solo-developed narrative adventure game.",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The Who Needs Guns!? achievement in Pragmata can be acquired in different areas and ways, but here is one of the best spots to do so.",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "During the event, Tamaya Shōbei IX showcases his models including Chahakobi Ningyō, a tea-serving doll, and Yumihiki Dōji, an archer doll capable of firing arrows at a target.",
+    "url": "https://www.japanhouselondon.uk/whats-on/aichi-automata-the-craftsmanship-of-karakuri-ningyo/",
+    "pass": 3
+   },
+   {
+    "quote": "This talk forms part of a wider programme including family workshops to make your own simple",
+    "url": "https://www.japanhouselondon.uk/whats-on/aichi-automata-the-craftsmanship-of-karakuri-ningyo/",
+    "pass": 3
+   },
+   {
+    "quote": "The event series is presented as part of the",
+    "url": "https://www.japanhouselondon.uk/whats-on/aichi-automata-the-craftsmanship-of-karakuri-ningyo/",
+    "pass": 3
+   },
+   {
+    "quote": "Automata operates with 51-200 employees and has substantial funding (145M) with reported revenue up to 50M, indicating a capable organization with budget for platform expansion, integration projects, and enterprise-grade automation initiatives.",
+    "url": "https://leadiq.com/c/automata/5a1d90d6540000530076387b",
+    "pass": 3
+   },
+   {
+    "quote": "AUTOMATA France SAS, operating via Vancelian.com, has had its regulatory approval revoked by the French Autorité des Marchés Financiers (AMF). According to the AMF, AUTOMATA was the target of an enforcement action due to the platform carrying out crowdfunding activities without the mandated approvals.",
+    "url": "https://leadiq.com/c/automata/5a1d90d6540000530076387b",
+    "pass": 3
+   },
+   {
+    "quote": "How much revenue does",
+    "url": "https://leadiq.com/c/automata/5a1d90d6540000530076387b",
+    "pass": 3
+   },
+   {
+    "quote": "'s annual revenue is estimated to be",
+    "url": "https://leadiq.com/c/automata/5a1d90d6540000530076387b",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does",
+    "url": "https://leadiq.com/c/automata/5a1d90d6540000530076387b",
+    "pass": 3
+   },
+   {
+    "quote": "'s revenue is estimated to be in the range of",
+    "url": "https://leadiq.com/c/automata/5a1d90d6540000530076387b",
+    "pass": 3
+   },
+   {
+    "quote": "Danaher Ventures (lead); Dimension Capital (lead); Octopus Ventures; Entrepreneurs First; Tru Arrow Partners",
+    "url": "https://multiples.vc/private-comps/automata",
+    "pass": 3
+   },
+   {
+    "quote": "This followed a $7.4M Series A in 2019 led by Hummingbird Ventures with ABB, Hardware Club, LocalGlobe, Firstminute Capital, and Entrepreneur First; subsequent rounds included $40M in October 2023 (Series B-II with Dimension, AP Moller, Aldea, Hummingbird, Isomer, Octopus, Possible, Unilabs) and $45M Series C in January 2026 (Tru Arrow, Octopus, Danaher, Entrepreneur First).",
+    "url": "https://multiples.vc/private-comps/automata",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/automata",
+    "pass": 3
+   },
+   {
+    "quote": "Automata competitors include listed companies like OMRON, ABB, Johnson Controls and Honeywell, and private ones like Medrobotics and Hadrian.",
+    "url": "https://multiples.vc/private-comps/automata",
+    "pass": 3
+   },
+   {
+    "quote": "Is Automata publicly listed?",
+    "url": "https://multiples.vc/private-comps/automata",
+    "pass": 3
+   },
+   {
+    "quote": "Fanuc’s primary products include industrial robots, computerized numerical control systems, and compact machining centers (Robodrills) globally. The company began as part of Fujitsu, developing early numerical control systems, and now holds the top global market share in CNC systems and industrial robots.",
+    "url": "https://multiples.vc/private-comps/automata",
+    "pass": 3
+   },
+   {
+    "quote": "Automata: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Automata",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Automata",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Automata",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Automata",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Automata",
+    "pass": 3
+   },
+   {
+    "quote": "The less sign of life there is, the more beautifully the scenery is arranged.",
+    "url": "https://note.com/natume20250208/n/n7cb52b7bc21b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2B and 9S descend to the surface and carry out their mission while eliminating machine lifeforms.",
+    "url": "https://note.com/natume20250208/n/n7cb52b7bc21b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It's a form of choosing \"even so\" while carrying all of that.",
+    "url": "https://note.com/natume20250208/n/n7cb52b7bc21b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Devola and Popola carry the pain of the previous game into the future.",
+    "url": "https://note.com/natume20250208/n/n7cb52b7bc21b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"NieR: Automata\" (which I will refer to as \"NieR\" for brevity) is a PS4 game released in 2017. It received high acclaim, including being named Game of the Year at various awards worldwide. It has a loose narrative connection to its predecessor, \"NieR: Gestalt / Replicant.\"",
+    "url": "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Long ago, humanity possessed an advanced civilization. Humanity used the Giant Warriors, the power of that civilization, to kill each other in a war called the \"Seven Days of Fire,\" and \"polluted\" the Earth. The \"pollution\" is likely a metaphor for radiation. Realizing that they could no longer live on the \"polluted\" Earth, humanity used the Giant Warriors to completely destroy their civilization.",
+    "url": "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The consciousnesses of the old world's humans offer to re-modify the androids so they can live in the purified world, but Nausicaä rejects the proposal. She uses a Giant Warrior to destroy the bodies of the new humans, the consciousnesses of the old humans, and the crystallization of the old world's civilization, killing all the life forms sleeping inside the Crypt.",
+    "url": "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Because the future is not something given, but something to be acquired.",
+    "url": "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "She destroyed the cycle and chose a future to be acquired rather than a future that was given.",
+    "url": "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Traditional Japanese puppet",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "a machine-translated version of the Japanese article.",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "Content in this edit is translated from the existing Japanese Wikipedia article at [[:ja:からくり]]; see its history for attribution.",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "is thought to come from the Japanese verb",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "One of the earliest recorded references in Japan to similar automata devices is found in the",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "were further developed in Japan after the introduction of European clock-making technology sometime in the early 17th century, during the",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "were initially only known to upper-class Japanese, such as",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "puppet masters in Japan, the",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "that for a period were frequently made in Japan and sold for export were sometimes modeled after",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "Puppets of Nostalgia – The Life, Death and Rebirth of the Japanese Awaji Ningyo Tradition",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume 2, Book XXVI",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Cyberpunk: Posthumanism in Japanese Visual Culture",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "Technology in Medieval Japan",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "Performing arts in Japan",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "Articles needing translation from Japanese Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "Articles containing Japanese-language text",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "Culture articles needing translation from Japanese Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "pass": 3
+   },
+   {
+    "quote": "AUTOMATON WEST | JAPANESE VIDEOGAME NEWS - AUTOMATON WEST",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "LABYRINTHOS: The Depths Want You is a bishojo game that pursues “gameplay” beyond the visual novel format. We talk to developer Astronauts and publisher Shiravune about the genre and bringing niche Japanese games to Steam",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Super Real Mahjong Venus Returns gets new crowdfunding campaign to bring the series back to Japan’s arcades after 28 years, despite tight local regulations",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese horror medical sim Magical Girl ER sells over 10k units on Steam, dev considering potential major update or sequel",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese indie horror medical sim Magical Girl ER recently sold over 10,000 units, with a “Very Positive” Steam review score.",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Cool Japan Fund postmortem finds that video game, anime and manga investments were profitable, while live-action sector suffered losses",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese horror game about investigating the mysterious Big Titted Man urban legend is based on the solo developer’s real-life experience visiting girls’ bars",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Developed by Japanese solo creator Actor, The Big Titted Man is set to release for PC (Steam), with the launch date TBA.",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Major Japanese broadcaster Fuji TV plans to use generative AI in all its live-action series by the end of 2027, establishes dedicated “AI testing site”",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "New “Nippon Anime Awards” aim to become the Academy Awards of Japanese animation, with a shift to valuing creators",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The Association of Japanese Animations recently announced its brand-new animation awards event “Nippon Anime Awards.”",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Hello Kitty maker Sanrio cancels collaboration with controversial Japanese series VIVANT, says it wasn’t informed of storyline beforehand",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Is Japan really experiencing a manga readership decline? Survey of 3,000 finds only 6.7% of manga readers have dropped the medium over five years",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The publisher stated so in a response to Japan’s Association for Protecting Vulnerable Children and Adults.",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "A famously conservative manga artist is suing the Japanese government over changes to imperial law he believes discriminate against women and commoners",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s Ministry of Finance proposes shared manga platform where global fans can access multiple publishers in one place. The idea involves AI translation",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese manga platform LINE Manga launches AI character chats and fan fiction feature for “IPs approved by authors”",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Line MANGA is one of Japan’s major digital comic apps.",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Actors Union reveals new guidelines to combat unauthorized AI voice cloning, including strict ban on copying voices of deceased seiyuu",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "The Japan Actors Union announced a new set of guidelines to combat the unauthorized use of AI for generating voice content.",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese publishers reportedly outraged after domestic company admits to selling large volumes of books to AI developer Anthropic",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Aichi automata: The craftsmanship of karakuri ningyō – Japan House London",
+    "url": "https://www.japanhouselondon.uk/whats-on/aichi-automata-the-craftsmanship-of-karakuri-ningyo/",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan’s intricate mechanical puppets, with a talk and demonstration featuring ninth-generation",
+    "url": "https://www.japanhouselondon.uk/whats-on/aichi-automata-the-craftsmanship-of-karakuri-ningyo/",
+    "pass": 3
+   },
+   {
+    "quote": "Today, Aichi is known as one of Japan’s leading centres of manufacturing and cutting-edge technology, producing around 25 percent of Japan’s robots and home to some of the country’s largest automotive companies. This event traces the roots of these precision manufacturing technologies back to the",
+    "url": "https://www.japanhouselondon.uk/whats-on/aichi-automata-the-craftsmanship-of-karakuri-ningyo/",
+    "pass": 3
+   },
+   {
+    "quote": "culture, hosting around 70 percent of Japan’s",
+    "url": "https://www.japanhouselondon.uk/whats-on/aichi-automata-the-craftsmanship-of-karakuri-ningyo/",
+    "pass": 3
+   },
+   {
+    "quote": "Spotlight on Local Japan Programme",
+    "url": "https://www.japanhouselondon.uk/whats-on/aichi-automata-the-craftsmanship-of-karakuri-ningyo/",
+    "pass": 3
+   },
+   {
+    "quote": ", organized in collaboration with Japan National Tourism Organization (JNTO), which accepts applications from potential collaborators based in Japan to co-create cultural events presenting Japan’s regional diversity at Japan House London.",
+    "url": "https://www.japanhouselondon.uk/whats-on/aichi-automata-the-craftsmanship-of-karakuri-ningyo/",
+    "pass": 3
+   },
+   {
+    "quote": "Please note that filming and / or photography may take place at this event. Photos and footage of the event may then be used to promote Japan House London, helping more people to discover what we offer. If you have any concerns, please",
+    "url": "https://www.japanhouselondon.uk/whats-on/aichi-automata-the-craftsmanship-of-karakuri-ningyo/",
+    "pass": 3
+   },
+   {
+    "quote": "(Japanese mechanical puppets) from Aichi Prefecture. He inherited the Tamaya Shōbei name in 1995 and is dedicated to preserving and advancing the craft of",
+    "url": "https://www.japanhouselondon.uk/whats-on/aichi-automata-the-craftsmanship-of-karakuri-ningyo/",
+    "pass": 3
+   },
+   {
+    "quote": "Please note Japan House London is closed from 18:00 on 10 November 2026.",
+    "url": "https://www.japanhouselondon.uk/whats-on/aichi-automata-the-craftsmanship-of-karakuri-ningyo/",
+    "pass": 3
+   },
+   {
+    "quote": "This is the true story of \"Nausicaä of the Valley of the Wind.\" Since it is a story about androids who can only live in a dirty world killing all of humanity and destroying the Earth, there is no way this could be made into a movie in Japan. Although it is a work typical of Hayao Miyazaki, who has faced the concept of \"impurity.\"",
+    "url": "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Several government agencies have also requested a combined budget of 250 billion yen towards publisher subsidies.",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "SEGA reports over 2.19 million email addresses were compromised in cyberattack on its third-party provider. SEGA Accounts not affected",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "SEGA announced that over 2 million user email addresses were leaked following unauthorized access to Arara, its email provider.",
+    "url": "https://automaton-media.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "'s Email Address Formats",
+    "url": "https://leadiq.com/c/automata/5a1d90d6540000530076387b",
+    "pass": 3
+   },
+   {
+    "quote": "uses at least 4 email formats:",
+    "url": "https://leadiq.com/c/automata/5a1d90d6540000530076387b",
+    "pass": 3
+   },
+   {
+    "quote": "'s email format typically follows the pattern of First@automata.tech.",
+    "url": "https://leadiq.com/c/automata/5a1d90d6540000530076387b",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Automata",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Automata",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Aichi automata : The craftsmanship of karakuri ningyō — Aichi automata : The craftsmanship of karakuri ningyō Japan House London https://www.japanhouselondon.uk > a...",
+    "url": "https://www.japanhouselondon.uk/whats-on/aichi-automata-the-craftsmanship-of-karakuri-ningyo/",
+    "pass": 3
+   },
+   {
+    "quote": "AUTOMATA COMPLETE EDITION Japan NEW - eBay — AUTOMATA COMPLETE EDITION Japan NEW - eBay eBay https://www.ebay.com > itm",
+    "url": "https://www.ebay.com/itm/157325928974",
+    "pass": 3
+   },
+   {
+    "quote": "Karakuri Automata : A mechanical bridge from Japanese ... — Karakuri Automata : A mechanical bridge from Japanese ... Milwaukee Independent https://www.milwaukeeindependent.com > ...",
+    "url": "https://www.milwaukeeindependent.com/explainers/karakuri-automata-mechanical-bridge-japanese-craftsmanship-milwaukees-german-heritage/",
+    "pass": 3
+   },
+   {
+    "quote": "Automating cell culture assays: a case study - Automata — Automating cell culture assays: a case study - Automata Automata.tech https://www.automata.tech > how-we-...",
+    "url": "https://www.automata.tech/case-studies/how-we-made-a-6-hour-cell-culture-assay-into-a-70-minute-process",
+    "pass": 3
+   },
+   {
+    "quote": "Automata Company Overview, Contact Details & Competitors — Automata Company Overview, Contact Details & Competitors LeadIQ https://leadiq.com > automata",
+    "url": "https://leadiq.com/c/automata/5a1d90d6540000530076387b",
+    "pass": 3
+   },
+   {
+    "quote": "Automata Funding , Investors & Competitors - Multiples.vc — Automata Funding , Investors & Competitors - Multiples.vc Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/automata",
+    "pass": 3
+   },
+   {
+    "quote": "Automata : Revenue , Competitors, Alternatives - Growjo — Automata : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Automata",
+    "url": "https://growjo.com/company/Automata",
+    "pass": 3
+   },
+   {
+    "quote": "Automata - 2026 Company Profile & Team - Tracxn — Automata - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/automata/__vtzMrTh1JZ-G_YTywreHx0BO6sWPHMZuWkVuv2N7maM",
+    "pass": 3
+   },
+   {
+    "quote": "Automata raises $40m to accelerate growth and global presence — Automata raises $40m to accelerate growth and global presence Automata.tech https://www.automata.tech > automata...",
+    "url": "https://www.automata.tech/company-news/automata-technologies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "A Thorough Explanation and Analysis of \"NieR: Automata ... A Thorough Explanation and Analysis of \"NieR: Automata ... note https://note.com > natume20250208",
+    "url": "https://note.com/natume20250208/n/n7cb52b7bc21b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"NieR: Automata \" and \"Nausicaä of the Valley of the Wind\" - note \"NieR: Automata \" and \"Nausicaä of the Valley of the Wind\" - note note https://note.com > ゲーム > ゲーム",
+    "url": "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Nier: Automata \" Guide to Common Stumbling Blocks - note \"Nier: Automata \" Guide to Common Stumbling Blocks - note note https://note.com > life1994",
+    "url": "https://note.com/life1994/n/na358fc105a19?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My Thoughts After Playing NieR: Automata ｜raishin - note My Thoughts After Playing NieR: Automata ｜raishin - note note https://note.com > raishin_7773",
+    "url": "https://note.com/raishin_7773/n/n76a9b4eefebe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【NieR: Automata 】2026にして名作を初見プレイ＆ガチ考察 【NieR: Automata 】2026にして名作を初見プレイ＆ガチ考察 note https://note.com > ゲーム > ゲーム",
+    "url": "https://note.com/game_record1234/n/ndd178771c7a1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "A Thorough Explanation and Analysis of \"NieR:Automata\" *Spoiler Warning.｜なつめ",
+    "url": "https://note.com/natume20250208/n/n7cb52b7bc21b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A Thorough Explanation and Analysis of \"NieR:Automata\" *Spoiler Warning.",
+    "url": "https://note.com/natume20250208/n/n7cb52b7bc21b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Long after \"Replicant,\" why did the world become so beautiful and yet so empty?",
+    "url": "https://note.com/natume20250208/n/n7cb52b7bc21b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"NieR:Automata\" has this strangely polished look from the very beginning.",
+    "url": "https://note.com/natume20250208/n/n7cb52b7bc21b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Humanity having fled to the moon.",
+    "url": "https://note.com/natume20250208/n/n7cb52b7bc21b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Androids fighting in their stead.",
+    "url": "https://note.com/natume20250208/n/n7cb52b7bc21b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "An endless war against machine lifeforms.",
+    "url": "https://note.com/natume20250208/n/n7cb52b7bc21b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The visuals are refined, the music is beautiful, and the combat feels great.",
+    "url": "https://note.com/natume20250208/n/n7cb52b7bc21b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"NieR: Automata\" and \"Nausicaä of the Valley of the Wind\" — Does Existence Precede Essence?｜ライカ🚀",
+    "url": "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"NieR: Automata\" and \"Nausicaä of the Valley of the Wind\" — Does Existence Precede Essence?",
+    "url": "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since I started the title with \"Does existence precede essence?\", I may have already dampened your enthusiasm for reading, but this time I would like to think about the game \"NieR: Automata\" and Hayao Miyazaki's manga version of \"Nausicaä of the Valley of the Wind\".",
+    "url": "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The reason I am covering these two works is that \"NieR: Automata,\" which depicts a war between androids and machine lifeforms, is clearly based on the original \"Nausicaä of the Valley of the Wind\" manga, and the manga itself centers on the question posed by Jean-Paul Sartre, a representative philosopher of existentialism: \"Does existence precede essence?\"",
+    "url": "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I would like to break down these two works and existentialism as simply as possible.",
+    "url": "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "*The following contains spoilers for \"NieR: Automata\" and the \"Nausicaä of the Valley of the Wind\" manga.",
+    "url": "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"NieR: Automata\" — Is this a curse, or is it a punishment?",
+    "url": "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"NieR: Automata\" (which I will refer to as \"NieR\" for brevity) is a PS4 game released in 2017. It received high acclaim, including being named Game of the Year at various awards worldwide. It has a loose narrative connection to its predecessor, \"NieR: Gestalt / Replicant.\"",
+    "url": "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Nier:Automata\" Guide to Common Stumbling Blocks: 1. \"Tutorial\"｜Tommy",
+    "url": "https://note.com/life1994/n/na358fc105a19?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Nier:Automata\" Guide to Common Stumbling Blocks: 1. \"Tutorial\"",
+    "url": "https://note.com/life1994/n/na358fc105a19?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Having recently cleared Nier: Automata through the third playthrough and done a fair amount of completionist content, I, as a writer who had never played action games before, will share my experience in a series of posts to explain the parts of the game that are difficult or where beginners are likely to stumble.",
+    "url": "https://note.com/life1994/n/na358fc105a19?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, it's the \"Tutorial\".",
+    "url": "https://note.com/life1994/n/na358fc105a19?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I won't be writing too much, so I hope you'll go easy on me.",
+    "url": "https://note.com/life1994/n/na358fc105a19?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Beginning of the Game (Tutorial)",
+    "url": "https://note.com/life1994/n/na358fc105a19?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "After selecting New Game, entering your name, and getting excited about the masterpiece to come, the first thing that hits a beginner is a shoot-'em-up game that starts suddenly without any explanation.",
+    "url": "https://note.com/life1994/n/na358fc105a19?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Many people might imagine Nier as a 3D action game, but in reality, it is a single game composed of many different gameplay styles combined.",
+    "url": "https://note.com/life1994/n/na358fc105a19?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My Thoughts After Playing NieR:Automata｜raishin",
+    "url": "https://note.com/raishin_7773/n/n76a9b4eefebe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My Thoughts After Playing NieR:Automata",
+    "url": "https://note.com/raishin_7773/n/n76a9b4eefebe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is full of spoilers, so",
+    "url": "https://note.com/raishin_7773/n/n76a9b4eefebe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "if you don't want spoilers, I recommend hitting the back button.",
+    "url": "https://note.com/raishin_7773/n/n76a9b4eefebe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Thoughts on the characters",
+    "url": "https://note.com/raishin_7773/n/n76a9b4eefebe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Both her voice and appearance are beautiful.",
+    "url": "https://note.com/raishin_7773/n/n76a9b4eefebe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "She often told 9S that \"YoRHa units are forbidden from having emotions,\"",
+    "url": "https://note.com/raishin_7773/n/n76a9b4eefebe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "but it feels like she's just telling that to herself so she doesn't feel the pain of killing 9S over and over as 2E, which is heartbreaking.",
+    "url": "https://note.com/raishin_7773/n/n76a9b4eefebe?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【NieR:Automata】2026にして名作を初見プレイ＆ガチ考察｜Tom【ゲームレビュー】",
+    "url": "https://note.com/game_record1234/n/ndd178771c7a1",
+    "pass": 3
+   },
+   {
+    "quote": "【NieR:Automata】2026にして名作を初見プレイ＆ガチ考察",
+    "url": "https://note.com/game_record1234/n/ndd178771c7a1",
+    "pass": 3
+   },
+   {
+    "quote": "※ネタバレあり／筆者はシリーズ過去作や周辺設定に詳しくありません。見えている範囲の体験と言葉で書きます。今回はレビューテイストではなく、あえて名作の芯にできるだけ迫りたいという思いで、いつもと違う文章になっています。",
+    "url": "https://note.com/game_record1234/n/ndd178771c7a1",
+    "pass": 3
+   },
+   {
+    "quote": "ゲームを起動して最初に心を奪われたのは、廃墟都市の美しさだった。",
+    "url": "https://note.com/game_record1234/n/ndd178771c7a1",
+    "pass": 3
+   },
+   {
+    "quote": "崩れたビル群、植物に侵食されたコンクリート、遠くまで抜ける空気。そこには、破滅の後にしか立ち上がらない静謐がある。、無意識にこう思う。「この世界は、取り戻す価値がある」と。",
+    "url": "https://note.com/game_record1234/n/ndd178771c7a1",
+    "pass": 3
+   },
+   {
+    "quote": "今振り返ると、あの美しさは最初から罠だったのかもしれない。",
+    "url": "https://note.com/game_record1234/n/ndd178771c7a1",
+    "pass": 3
+   },
+   {
+    "quote": "「美しいものを守りたい」という感情は、暴力を正当化するために最も都合がいい。",
+    "url": "https://note.com/game_record1234/n/ndd178771c7a1",
+    "pass": 3
+   },
+   {
+    "quote": "地上の風景がしっかりと色を持っているのに対して、バンカーは彩度を失っている。ハッキングで入る仮想空間の話ではない。同じ現実のはずなのに、あそこだけが白黒のように脱色されている。そこには“生”がいない、そう感じた。",
+    "url": "https://note.com/game_record1234/n/ndd178771c7a1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Automata Network (@AutomataNetwork) / X Automata Network (@AutomataNetwork) / X X https://x.com > AutomataNetwork",
+    "url": "https://x.com/AutomataNetwork",
+    "pass": 3
+   },
+   {
+    "quote": "\"NieR: Automata to be continued...\" 10th anniversary is next year \"NieR: Automata to be continued...\" 10th anniversary is next year X https://x.com > @TropicalMaku",
+    "url": "https://x.com/TropicalMaku/status/2024847939911451093",
+    "pass": 3
+   },
+   {
+    "quote": "Arron Automata (@Arron_TK) / X Arron Automata (@Arron_TK) / X X https://x.com > Arron_TK",
+    "url": "https://x.com/Arron_TK",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Automata - LinkedIn Automata - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/automata-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Automata - LinkedIn Automata - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/automata-llc",
+    "pass": 3
+   },
+   {
+    "quote": "Mostafa ElSayed - Automata Technologies - LinkedIn Mostafa ElSayed - Automata Technologies - LinkedIn LinkedIn https://uk.linkedin.com > moselsayed",
+    "url": "https://uk.linkedin.com/in/moselsayed",
+    "pass": 3
+   },
+   {
+    "quote": "Veritas Automata | LinkedIn Veritas Automata | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/veritasautomata",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "The Automata / Automaton Group - Facebook The Automata / Automaton Group - Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/automata/",
+    "pass": 3
+   },
+   {
+    "quote": "Review of Automata , a 2014 sci-fi movie - Facebook Review of Automata , a 2014 sci-fi movie - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/288415079410335/posts/1610877967164033/",
+    "pass": 3
+   },
+   {
+    "quote": "Automata : The Series (@automataseries) - Facebook Automata : The Series (@automataseries) - Facebook Facebook https://www.facebook.com > ... > TV & Movies > TV show",
+    "url": "https://www.facebook.com/automataseries/",
+    "pass": 3
+   },
+   {
+    "quote": "Sci-fi movie Automata review and discussion - Facebook Sci-fi movie Automata review and discussion - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/288415079410335/posts/1518427533075744/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.automata.tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-royal-marsden",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/company-news/automata-partners-with-the-francis-crick-institute",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/company-news/automata-and-cellvoyant-announce-strategic-partnership-to-deliver-ai-powered-closed-loop-cell-culture-workflows",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/about-us/company-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/about-us/leadership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/about-us/advisory-board",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/case-studies/reducing-human-interaction-in-a-genomics-testing-system",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/case-studies/how-we-made-a-6-hour-cell-culture-assay-into-a-70-minute-process",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/about-us/public-sector",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/linq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/case-studies/increasing-genomic-testing-capacity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/case-studies/automata-cellvoyant-autonomous-workflows-for-cell-culture",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/company-news/duncan-nri-partners-with-automata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/company-news/bit-bio-and-automata-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/company-news/iso-9001-certification",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/company-news/uks-first-robotic-genomic-testing-facility-for-cancer-patients",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/company-news/automata-nvidia-gtc-berlin-ai-lab-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automata.tech/company-news/automata-featured-in-best-of-british-business-2026",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rockwellautomation.com/ja-jp/company/partnernetwork/authorized-distributors.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.altium.com/jp/p/authorized-vs-unauthorized-distributors-electronic-components-supply-chain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.famictech.com/ja/%E4%BC%9A%E7%A4%BE/%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%BE%E3%81%9F%E3%81%AF%E5%86%8D%E8%B2%A9%E6%A5%AD%E8%80%85",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://automaton-media.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanhouselondon.uk/whats-on/aichi-automata-the-craftsmanship-of-karakuri-ningyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ebay.com/itm/157325928974",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mceneryautomation.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://appliedmfg.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://leadiq.com/c/automata/5a1d90d6540000530076387b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/automata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Automata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/automata/__vtzMrTh1JZ-G_YTywreHx0BO6sWPHMZuWkVuv2N7maM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/natume20250208/n/n7cb52b7bc21b?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/life1994/n/na358fc105a19?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/raishin_7773/n/n76a9b4eefebe?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/AutomataNetwork",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TropicalMaku/status/2024847939911451093",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Arron_TK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/automata-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/automata-llc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/moselsayed",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/veritasautomata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/automata/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/288415079410335/posts/1610877967164033/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/automataseries/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/288415079410335/posts/1518427533075744/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/game_record1234/n/ndd178771c7a1",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Automata 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://www.webcg.net/articles/-/54501",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.jato.com/news-and-insights-japan/%E6%97%A5%E6%9C%AC%E3%81%AEota%E6%90%AD%E8%BC%89%E7%8E%87%E3%81%AF%E3%81%AA%E3%81%9C%E4%BD%8E%E3%81%84%E3%81%AE%E3%81%8B-%E4%B8%96%E7%95%8C4%E3%82%AB%E5%9B%BD%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83%E3%81%A7%E8%A6%8B%E3%81%88%E3%82%8B%E8%AA%B2%E9%A1%8C%E3%81%A8%E5%B1%95%E6%9C%9B",
+    "https://response.jp/article/2026/11/07/418712.html",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.netdenjd.com/archives/708202",
+    "https://www.asahi.com/articles/ASVCB2J93VCBUTIL00CM.html",
+    "https://www.watch.impress.co.jp/docs/news/2155153.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Automata 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.rockwellautomation.com/ja-jp/company/partnernetwork/authorized-distributors.html",
+    "https://resources.altium.com/jp/p/authorized-vs-unauthorized-distributors-electronic-components-supply-chain",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.famictech.com/ja/%E4%BC%9A%E7%A4%BE/%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%BE%E3%81%9F%E3%81%AF%E5%86%8D%E8%B2%A9%E6%A5%AD%E8%80%85",
+    "https://x.com/AUTOMATONJapan/status/2079452455209996516",
+    "https://www.powercms.jp/faq/4339.html",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.deex.co.jp/media/8uGKOPAJ",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Automata Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Karakuri_puppet",
+    "https://automaton-media.com/en/",
+    "https://www.japanhouselondon.uk/whats-on/aichi-automata-the-craftsmanship-of-karakuri-ningyo/",
+    "https://www.ebay.com/itm/157325928974",
+    "https://www.milwaukeeindependent.com/explainers/karakuri-automata-mechanical-bridge-japanese-craftsmanship-milwaukees-german-heritage/",
+    "http://www.swblabs.com/article/shishi-kaikan-automata-exhibits-in-takayama-japan",
+    "https://www.pinterest.com/ideas/japanese-automata/941599184800/",
+    "https://en.wikipedia.org/wiki/Nier:_Automata",
+    "https://www.automatesjapan.com/",
+    "https://www.smithsonianmag.com/smart-news/before-robots-japan-had-tiny-dolls-that-tumbled-down-stairs-and-served-tea-164834/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Automata manufacturing customer case study",
+   "results": [
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.automata.tech/case-studies/how-we-made-a-6-hour-cell-culture-assay-into-a-70-minute-process",
+    "https://www.mceneryautomation.com/case-studies",
+    "https://appliedmfg.com/case-studies/",
+    "https://www.automate.org/ai/industry-insights/case-studies-ai-advanced-manufacturing",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.sciencedirect.com/science/article/pii/S2212827124013945",
+    "https://www.casestudies.com/customer/automata"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Automata white label OR reseller OR partner program",
+   "results": [
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://sellful.com/",
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Automata founded funding employees revenue",
+   "results": [
+    "https://leadiq.com/c/automata/5a1d90d6540000530076387b",
+    "https://multiples.vc/private-comps/automata",
+    "https://growjo.com/company/Automata",
+    "https://tracxn.com/d/companies/automata/__vtzMrTh1JZ-G_YTywreHx0BO6sWPHMZuWkVuv2N7maM",
+    "https://www.automata.tech/company-news/automata-technologies",
+    "https://pitchbook.com/profiles/company/161550-82",
+    "https://getlatka.com/companies/automata.tech",
+    "https://www.reveliolabs.com/companies/automata/employees",
+    "https://www.cbinsights.com/company/automata-technologies/financials",
+    "https://compworth.com/company/automata"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Automata",
+   "results": [
+    "https://note.com/natume20250208/n/n7cb52b7bc21b?hl=en",
+    "https://note.com/iri_oh_juno1984/n/n0578b9394978?hl=en",
+    "https://note.com/life1994/n/na358fc105a19?hl=en",
+    "https://note.com/raishin_7773/n/n76a9b4eefebe?hl=en",
+    "https://note.com/chronoswiss_jp/n/n912ed5fd59ad?hl=en",
+    "https://note.com/shipsumb/n/nf32d6df357c2?hl=en",
+    "https://note.com/yomooog/n/ne2c9a93d2501?hl=en",
+    "https://note.com/enasan316/n/n308cfee55471?hl=en",
+    "https://note.com/tokugame/n/na4597119e717",
+    "https://note.com/number_twothree/n/n570d6352b8ab?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Automata",
+   "results": [
+    "https://x.com/AutomataNetwork",
+    "https://x.com/Genki_JPN/status/2026050945621348820",
+    "https://x.com/TropicalMaku/status/2024847939911451093",
+    "https://x.com/Arron_TK",
+    "https://x.com/KnuteAutomata",
+    "https://x.com/NieR_A_ANIME",
+    "https://x.com/Genki_JPN/status/2024822192563957790",
+    "https://x.com/Genki_JPN/status/2104522208383295899",
+    "https://x.com/aitaikimochi/status/2056017980576911707",
+    "https://x.com/automatanetwork"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Automata",
+   "results": [
+    "https://www.linkedin.com/company/automata-technologies",
+    "https://www.linkedin.com/company/automata-llc",
+    "https://uk.linkedin.com/in/moselsayed",
+    "https://www.linkedin.com/company/veritasautomata",
+    "https://www.linkedin.com/in/mayerjesse",
+    "https://www.linkedin.com/company/yuxiglobal",
+    "https://uk.linkedin.com/jobs/view/financial-accountant-at-automata-4486522963?position=10&pageNum=0&refId=QbUsqPhmfk5udi0RSY52Pw%3D%3D&trackingId=RWDaFPKj8YObnldv7yNcEw%3D%3D",
+    "https://www.linkedin.com/company/perceptiveautomata",
+    "https://sg.linkedin.com/company/automatanetwork",
+    "https://uk.linkedin.com/company/automata-technologies"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Automata",
+   "results": [
+    "https://www.facebook.com/groups/automata/",
+    "https://www.facebook.com/groups/288415079410335/posts/1610877967164033/",
+    "https://www.facebook.com/automataseries/",
+    "https://www.facebook.com/groups/288415079410335/posts/1518427533075744/",
+    "https://www.facebook.com/faithfulshepherd/videos/what-are-automata-%EF%B8%8Fan-automaton-is-a-self-operating-machine-designed-to-give-the/870611905311767/",
+    "https://www.facebook.com/mechmagic/",
+    "https://www.facebook.com/automatamagazine/",
+    "https://www.facebook.com/groups/558977328068750/posts/2013871075912694/",
+    "https://www.facebook.com/AutomataArts/",
+    "https://business.facebook.com/groups/289939861045437/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Automata note 社長",
+   "results": [
+    "https://note.com/game_record1234/n/ndd178771c7a1",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://x.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.com/ai_shacho",
+    "https://www.automata.tech/about-us/leadership",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Automata X 投稿",
+   "results": [
+    "https://x.com/NieR_JPN/status/1628418231798214656",
+    "https://www.reddit.com/r/nier/comments/1fous09/stellar_blade_x_nier_automata_collab_art_by/?tl=ja",
+    "https://www.reddit.com/r/nier/comments/1lpnckn/the_first_descendant_x_nier_automata_crossover/?tl=ja",
+    "https://blog.jp.square-enix.com/nier/2017/02/22/nierautomata_4.html",
+    "https://www.youtube.com/watch?v=wsr7_yyCMuE",
+    "https://x.com/NieR_A_ANIME/status/1775553093289279685",
+    "https://www.reddit.com/r/PS5/comments/1t5oynl/crystal_of_atlan_x_nierautomata_launch_trailer/",
+    "https://x.com/TryAutomata",
+    "https://x.com/i/trending/2053112070212669623",
+    "https://note.com/nexus_ai/n/ncc387b74dc66"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部39頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部39頁・検索12回）"
+ }
+}

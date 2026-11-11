@@ -1,0 +1,941 @@
+{
+ "name": "Submer",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜NG",
+ "researched_at": "2026-11-11T00:40:53.119567+00:00",
+ "official_url": "https://submer.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "5. Seed Round",
+    "value": "09-Oct-2019    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "label": "4. Seed Round",
+    "value": "05-Oct-2018 $582K $582K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://startupintros.com/orgs/submer",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Barcelona, Spain",
+    "url": "https://startupintros.com/orgs/submer",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The most demanding workloads, made possible. Proven liquid-cooling expertise that pushes density beyond conventional design.",
+    "url": "https://submer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Expertise earned at one layer informs the work at every other. That advantage deepens with every project the group delivers.",
+    "url": "https://submer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connected expertise removes the efficiency loss between layers. The result is lower cost, lower footprint, and stronger project outcomes.",
+    "url": "https://submer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced liquid cooling that makes dense compute physically possible. The thermal foundation of high-density AI, proven in live projects.",
+    "url": "https://submer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Infrastructure you control: governed locally, operated regionally, accountable in full, the expertise sovereign AI programs require.",
+    "url": "https://submer.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At Submer, we don’t just envision the future—we deliver it. From concept to deployment, from blueprint to breakthrough, we create solutions that scale smarter, run cleaner and cost less.",
+    "url": "https://submer.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Submer was founded by Daniel Pope and Pol Valls with the vision of building sustainable and future-proof digital infrastructure.",
+    "url": "https://submer.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Submer launched its first commercial product, the SmartPod: a modular immersion cooling solution designed for high-density datacenters.",
+    "url": "https://submer.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Submer expanded its global footprint by opening an R&D lab in Taipei, Taiwan.",
+    "url": "https://submer.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced liquid cooling that makes dense compute physically possible. The thermal foundation for high-density AI, proven across production deployments.",
+    "url": "https://submer.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "With our HQ in Barcelona, Spain, we’re also proud to have pins in the map in Houston, Texas and Taipei, Taiwan. Our state-of-the-art labs and cutting-edge R&D facilities elevate our strong global presence that empowers us to deliver innovative solutions to our customers worldwide.",
+    "url": "https://submer.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "While our home is in Barcelona, Spain, we’re also proud to have pins in the map in Houston, Texas and Taipei, Taiwan. Our state-of-the-art labs and cutting-edge R&D facilities elevate our strong global presence that empowers us to deliver innovative solutions to our customers worldwide.",
+    "url": "https://submer.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "the precision of regional application",
+    "url": "https://submer.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Submer designs and delivers end-to-end AI datacenter infrastructure built around industry-leading liquid cooling. We help organizations scale AI beyond the limits of traditional datacenters — enabling higher density, greater efficiency, and lower environmental impact — accelerating time-to-AI from first deployment to full production.",
+    "url": "https://submer.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for high-density compute and the demands of next-gen workloads, solving the hardest infrastructure problems",
+    "url": "https://submer.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "You'll work on real projects with real responsibility, backed by mentorship and a culture that encourages experimentation. We test, we learn, we move forward.",
+    "url": "https://submer.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "FSubmer designs and delivers complete AI datacenters from the ground up to cloud, engineered for performance and efficiency, under one accountable partner so organisations can move from plan to production in months, not years.",
+    "url": "https://submer.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "and carbon footprint is pitted against end users’ continual demand",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "immersion cooling solution. Compatible servers, microprocessors,",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive testing of Shell Immersion Cooling Fluids delivers the first-",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "sustainable computing practices",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "processors immersed in Shell Immersion",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturer that certifies its products",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "certification, Intel offers a Xeon Processor",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "processors. Intel complements this certification with a",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Xeon Processor Single -Phase Immersion Warranty Rider,",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "power supply to improve material compatibility, modifying",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "• 5th Generation Intel Xeon processors, which are purpose-",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "built for AI. These processors can help boost performance,",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "reduce costs, and improve power efficiency for today's",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "processor-based server boards into submersion tanks and",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "testing phases, which included comprehensive material",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "compatibility testing using Open Compute Project testing",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "cooling, data centers may be able to improve power",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "may experience fewer thermal hotspots, improving",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "“ Intel's processors are the best in the business—",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "and now they're immersion-ready. So, for this project,",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "have access to proven high-performance solutions",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "President of T echnology, Shell",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "center operators can skip lengthy proof-of-concept phases",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "and proceed directly to large-scale deployment, backed by",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Intel Xeon processors to run at their highest thermal design",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Submer 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a cooling technology designed to serve the data center industry. The company addresses thermal management challenges by submerging servers in a proprietary dielectric fluid that has higher heat-transfer efficiency than air, enabling clients to operate high-density computing systems in a compact space with reduced energy consumption compared to traditional air-cooled environments.",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "10. Secondary Transaction - Private",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "Submer’s primary industry is Electrical Equipment.",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "Is Submer a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "Submer is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Preference Center",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "The company was founded in 2015 by Daniel Pope and Pol Valls. Their initial insight stemmed from a shared vision to build sustainable and future-proof digital infrastructure capable of addressing the growing demands and environmental impact of traditional data centers. This foundational principle guided Submer’s early product development and strategic direction.",
+    "url": "https://startupintros.com/orgs/submer",
+    "pass": 3
+   },
+   {
+    "quote": "Submer is a Barcelona‑headquartered technology company that designs and delivers immersion liquid‑cooling systems and end‑to‑end datacenter hardware, services and turnkey builds aimed at high‑density, AI, HPC, hyperscale, edge and blockchain workloads[3][4].",
+    "url": "https://startupintros.com/orgs/submer",
+    "pass": 3
+   },
+   {
+    "quote": "submer.com/blog/press/growth-round-for-greener-ai-factories-and-datacenters",
+    "url": "https://startupintros.com/orgs/submer",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Connected intelligence for AI infrastructure | Submer Group — Submer Group is the connected intelligence across every layer of AI infrastructure: power, cooling, data centers, and compute. Deployed and operating worldwide.",
+    "url": "https://submer.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact - Submer Group — Get updates from Submer Suscribe to our newsletter I'd like to receive more content related to this one",
+    "url": "https://submer.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "Submer | LinkedIn — Submer | LinkedInのフォロワー数35,127人。Connected intelligence for AI infrastructure | Submer Group brings together specialist operating companies across the AI infrastructure stack to close the gap between AI ambition and AI reality. Built on a decade of infrastructure engineering, the group now spans from land and power to cloud and edge. The group is built to address the ...",
+    "url": "https://jp.linkedin.com/company/submer",
+    "pass": 3
+   },
+   {
+    "quote": "Submer - LinkedIn — Submer Group brings together specialist operating companies across the AI infrastructure stack to close the gap between AI ambition and AI reality. Built on a decade of infrastructure engineering ...",
+    "url": "https://www.linkedin.com/company/submer",
+    "pass": 3
+   },
+   {
+    "quote": "Submer Business Cases | Our most relevant Business Cases — Feb 2, 2023 · Submer's Business Cases and how we meet datacenter industry challenges through our liquid cooling tech. From ideas to deployments, check our business cases.",
+    "url": "https://submer.com/business-cases/",
+    "pass": 3
+   },
+   {
+    "quote": "Immersion Cooling High-Density Compute Workloads - submer.com — This Intel and Submer technological breakthrough stands to substantially reduce the quantity and costs of server components that deal with heat capture and dissipation, setting single-phase immersion cooling apart as a frontrunner among competitive liquid cooling technologies.",
+    "url": "https://submer.com/wp-content/uploads/2023/10/Intel-and-Submer-FCHS-Case-Study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Shell-Submer-Supermicro Case Study — In collaboration with Shell Global Solutions (US) Inc., Intel has validated the industry’s first Intel® Data Center Certified immersion cooling system—featuring Supermicro Big Twin servers powered by Intel® Xeon® processors immersed in Shell Immersion Cooling Fluids (ICFs) within a Submer SmartPod, boosting customer confidence in data center hardware compatibil",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Submer Technologies Uses Software ... — Explore case studies featuring Submer Technologies as the customer — learn how vendors and partners helped Submer Technologies solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/submer-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Submer | Infrastructure & Distribution Water Tech Company ... — Sep 23, 2026 · [8] The principal customer benefits are higher rack density, reduced cooling energy, modular deployment, and reduced or eliminated evaporative water use. A Shell case study states that Intel, Shell, Supermicro, and Submer worked for two years to develop and validate a full immersion solution. [7] [10]",
+    "url": "https://watertechintel.com/companies/submer",
+    "pass": 3
+   },
+   {
+    "quote": "Submer 2026 Company Profile: Valuation, Funding & Investors ...Submer - 2026 Company Profile, Funding & Competitors - TracxnSubmer – Business Snapshot & Rival Analysis – 2026Submer: Funding, Team & Investors | Startup IntrosSubmer - Overview, News & Similar companies | ZoomInfo.comSubmer - Crunchbase Company Profile & FundingAmara NZero vs Submer Comparison 2026 | Revenue, Employees & More — Infor",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "Submer - 2026 Company Profile, Funding & Competitors - TracxnSubmer – Business Snapshot & Rival Analysis – 2026Submer: Funding, Team & Investors | Startup IntrosSubmer - Overview, News & Similar companies | ZoomInfo.comSubmer - Crunchbase Company Profile & FundingAmara NZero vs Submer Comparison 2026 | Revenue, Employees & More — Jul 19, 2026 · Submer is a series C company based in Barcelona (Spai",
+    "url": "https://tracxn.com/d/companies/submer/__NjMhg1nIBsRsqjjhdeV4ghzWPXBew9KZEmoBrlrb8nI",
+    "pass": 3
+   },
+   {
+    "quote": "Submer – Business Snapshot & Rival Analysis – 2026 — Submer Revenue & Valuation The current projection for Submer's annual revenue is $18.4M. This translates to an estimated $117.3K in revenue per employee for Submer. Across all rounds, Submer has brought in $131M in funding. The most recent valuation figure for Submer is $500M.",
+    "url": "https://compworth.com/company/submer",
+    "pass": 3
+   },
+   {
+    "quote": "Submer: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Founders and founding year: Submer was founded in 2015 by Daniel Pope and Pol Valls (also referenced as Pol Soler in some profiles) in Barcelona, Spain [4] [1].u0001- How the idea emerged / early traction: The founders set out to commercialize immersion cooling and sustainable datacenter infrastructure; early product milestones in",
+    "url": "https://startupintros.com/orgs/submer",
+    "pass": 3
+   },
+   {
+    "quote": "Submer - Overview, News & Similar companies | ZoomInfo.com — View Submer (www.submer.com) location in Catalonia, Spain , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/submer/419466544",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "manufacturer that certifies its products",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case study | Trusted Liquid Cooling for Modern Data Centers",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "collaboration, ensuring that data center operators",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "center operators can skip lengthy proof-of-concept phases",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "certification, the laboratory gives data center operators",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Barcelona and a gigafactory in Houston, T exas,",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "4 Source for S5 LV fluid thermal conductivity: https://industrialfluidsmfg.twinoils.com/item/specialty-lubricants/alty-lubricants-dielectric-immersion-cooling-fluid/550056018 .",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "support data centre operators' goals of optimising performance sustainably. Figures based on: Global immersion cooling market in data centres - growth, trends and forecast (2019-2024)",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Submer Technologies",
+    "url": "https://www.casestudies.com/customer/submer-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "submer.com/blog/press/growth-round-for-greener-ai-factories-and-datacenters",
+    "url": "https://startupintros.com/orgs/submer",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "with server OEM Supermicro and immersion tank experts at",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "solution, backed by a warranty. With this",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Single-Phase Immersion Warranty Rider",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Xeon Processor Single -Phase Immersion Warranty Rider,",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "The system is backed by extensive testing and a warranty,",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Carrer Roma, 14",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "Investments & Acquisitions (2)",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "Submer’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "To view Submer’s complete investments and acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "Submer has 157 total employees.",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "What is Submer’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Submer is",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   },
+   {
+    "quote": "Carrierと提携し、AI時代向けの低排出冷却インフラを目指す",
+    "url": "https://note.com/kamunautahi369/n/n4f36709ca165",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "AIとのおしゃべりlog 】Claude との対話「AIの冷却とブラックスワン」 May 14, 2026 · 🟡 Intel → Submer × Supermicro Intelは Shell Global Solutions と連携し、SupermicroのハードウェアとSubmerの浸漬冷却を組み合わせた「Intel Data Center Certified for Immersion Cooling」を実現。 第4・第5世代Xeon向けの業界初の認定浸漬冷却ソリューションとなっています。",
+    "url": "https://note.com/kamunautahi369/n/n4f36709ca165",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【 AIとのおしゃべりlog 】Claude との対話「AIの冷却とブラックスワン」｜カムナ",
+    "url": "https://note.com/kamunautahi369/n/n4f36709ca165",
+    "pass": 3
+   },
+   {
+    "quote": "【 AIとのおしゃべりlog 】Claude との対話「AIの冷却とブラックスワン」",
+    "url": "https://note.com/kamunautahi369/n/n4f36709ca165",
+    "pass": 3
+   },
+   {
+    "quote": "AIの浸漬冷却技術を持つトップの会社はどこ？",
+    "url": "https://note.com/kamunautahi369/n/n4f36709ca165",
+    "pass": 3
+   },
+   {
+    "quote": "AIデータセンター向け**浸漬冷却（イマージョンクーリング）**のトップ企業をカテゴリ別にまとめました。",
+    "url": "https://note.com/kamunautahi369/n/n4f36709ca165",
+    "pass": 3
+   },
+   {
+    "quote": "スペイン 大手浸漬冷却ベンダーの一つで、独自のAIクラウドビジネスも立ち上げ、自社でイマージョン冷却データセンターの建設も目指している",
+    "url": "https://note.com/kamunautahi369/n/n4f36709ca165",
+    "pass": 3
+   },
+   {
+    "quote": "GRC（Green Revolution Cooling）",
+    "url": "https://note.com/kamunautahi369/n/n4f36709ca165",
+    "pass": 3
+   },
+   {
+    "quote": "米国 サンフランシスコ拠点。シングルフェーズ浸漬冷却システムを提供するパイオニア的存在",
+    "url": "https://note.com/kamunautahi369/n/n4f36709ca165",
+    "pass": 3
+   },
+   {
+    "quote": "オランダ 実稼働規模の浸漬ソリューションを展開し、省電力と信頼性向上を実証",
+    "url": "https://note.com/kamunautahi369/n/n4f36709ca165",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Submer (@submertech) / X Submer @submertech Feb 9 Submer acquires Radian Arc Operations Pty Ltd, the established provider of an infrastructure-as-a-service (IaaS) platform for running sovereign, telco-focused GPU cloud services. goo.su/f7Uyyxl #Radianarc #Submer #Datacenters #AIInfrastructure #SovereignAI #TelcoEdge 2 1 6",
+    "url": "https://x.com/submertech",
+    "pass": 3
+   },
+   {
+    "quote": "Submer has an active pilot with a hyperscaler for immersion ... Submer has an active pilot with a hyperscaler for immersion cooling of GPU's. It's possible that $CLSK, hyperscaler, and Submer are designing/deploying the first immersion cooling AI facility at scale.",
+    "url": "https://x.com/edvestments/status/2038262524424880336",
+    "pass": 3
+   },
+   {
+    "quote": "Alexandre (@SubMer) / Posts / X Alexandre. SubMer. Joined: May 20, 2010. 0 Posts. 0 Following. 6 Followers. Posts. Explore Trending Stories Go to Home Search X News",
+    "url": "https://x.com/Submer",
+    "pass": 3
+   },
+   {
+    "quote": "Submer (@submertech) / X Submer @submertech Jun 5, 2024 We've arrived at #DatacloudGlobalCongress 🚀 At booth 31, we'll have the SmartPod X on show, complete with cutting-edge servers from @ bostonlimited and @ Castrol On #immersioncooling fluid!⚗️ 151 Submer @submertech",
+    "url": "https://x.com/submertech",
+    "pass": 3
+   },
+   {
+    "quote": "mel ⊹ ࣪ ˖ (@submer_mel73) / Posts / X Aug 3, 2026 · 漫画家Vtuberが仕事してホラゲ配信した1日Vlog",
+    "url": "https://x.com/submer_mel73",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Submer - Our heroes are heading to San José, California,... Our heroes are heading to San José, California, for Opencompute global summit (14-15 March). Discover #SmartPodX, the first #ocp #immersioncooling solution by Submer Technologies at booth A25....",
+    "url": "https://www.facebook.com/submertech/posts/our-heroes-are-heading-to-san-josé-california-for-opencompute-global-summit-14-1/2088827201236901/",
+    "pass": 3
+   },
+   {
+    "quote": "Submer - Submer Technologies - a leader in hyper-efficient... Submer Technologies - a leader in hyper-efficient immersion cooling systems - has chosen Ashburn, Virginia, in the heart of Data Center Alley as the location for its new North American headquarters.",
+    "url": "https://www.facebook.com/submertech/posts/submer-technologies-a-leader-in-hyper-efficient-immersion-cooling-systems-has-ch/2320893301363622/",
+    "pass": 3
+   },
+   {
+    "quote": "Submer - This is just a preview of Submer Technologies... Submer · dsSetonprou5ctgu40iJu10t6182fm1gn0m4a,3ae780am791ctia9tuhf · Shared with Public",
+    "url": "https://www.facebook.com/submertech/posts/this-is-just-a-preview-of-submer-technologies-webinar-of-today-with-merima-dzani/2246073575512262/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://submer.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://submer.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://submer.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://submer.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/submer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/submer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/submer-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/234055-45",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/submer/__NjMhg1nIBsRsqjjhdeV4ghzWPXBew9KZEmoBrlrb8nI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/submer",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/submer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kamunautahi369/n/n4f36709ca165",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/submertech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/edvestments/status/2038262524424880336",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Submer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/submertech/posts/our-heroes-are-heading-to-san-josé-california-for-opencompute-global-summit-14-1/2088827201236901/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/submertech/posts/submer-technologies-a-leader-in-hyper-efficient-immersion-cooling-systems-has-ch/2320893301363622/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/submertech/posts/this-is-just-a-preview-of-submer-technologies-webinar-of-today-with-merima-dzani/2246073575512262/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/submertech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/submer_mel73",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Submer 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Submer 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://submer.com/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.nb.com/who-we-are/japan-overview",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Submer Japan",
+   "results": [
+    "https://submer.com/",
+    "https://submer.com/contact/",
+    "https://jp.linkedin.com/company/submer",
+    "https://www.linkedin.com/company/submer",
+    "https://www.theinvisibletourist.com/japan-in-summer/",
+    "https://www.gigabyte.com/jp/Solutions/submer-single-phase",
+    "https://techcrunch.com/2024/10/02/as-data-center-usage-heats-up-submer-raises-55-5m-to-cool-things-down/",
+    "https://simscale.kke.co.jp/application-cases/submer-technologies/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Submer manufacturing customer case study",
+   "results": [
+    "https://submer.com/business-cases/",
+    "https://submer.com/wp-content/uploads/2023/10/Intel-and-Submer-FCHS-Case-Study.pdf",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/shell-submer-supermicro-case-study.pdf",
+    "https://www.casestudies.com/customer/submer-technologies",
+    "https://watertechintel.com/companies/submer",
+    "https://www.macquariedatacentres.com/assets/wp-content/uploads/sites/5/2025/08/Macquarie-Data-Centres-Liquid-Cooling-Casestudy.pdf",
+    "https://www.casestudies.com/company/simscale/case-study/submer-technologies-sl-validated-their-electronics-cooling-solutions-with-cfd-from-simscale"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Submer white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Submer founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/234055-45",
+    "https://tracxn.com/d/companies/submer/__NjMhg1nIBsRsqjjhdeV4ghzWPXBew9KZEmoBrlrb8nI",
+    "https://compworth.com/company/submer",
+    "https://startupintros.com/orgs/submer",
+    "https://www.zoominfo.com/c/submer/419466544",
+    "https://www.crunchbase.com/organization/submer",
+    "https://compworth.com/compare/amara-nzero-vs-submer"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Submer",
+   "results": [
+    "https://note.com/diparururun",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/hirokimiyano/n/nd5ac0300cf62?hl=en",
+    "https://note.com/kamunautahi369/n/n4f36709ca165",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/kannsou_dustbox/n/n560c8384d4bf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Submer",
+   "results": [
+    "https://x.com/submertech",
+    "https://x.com/edvestments/status/2038262524424880336",
+    "https://x.com/Submer",
+    "https://x.com:8443/submertech/status/1726968787331871015",
+    "https://x.com/submertech/status/1730593027322700252",
+    "https://x.com/submertech/status/1725074170499813532",
+    "https://x.com/BhopalIndex/status/2076881460586516760"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Submer",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Submer",
+   "results": [
+    "https://www.facebook.com/submertech/posts/our-heroes-are-heading-to-san-josé-california-for-opencompute-global-summit-14-1/2088827201236901/",
+    "https://www.facebook.com/submertech/posts/submer-technologies-a-leader-in-hyper-efficient-immersion-cooling-systems-has-ch/2320893301363622/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/submertech/posts/this-is-just-a-preview-of-submer-technologies-webinar-of-today-with-merima-dzani/2246073575512262/",
+    "https://www.facebook.com/submertech/posts/4463815267071404/",
+    "https://www.facebook.com/Mariemckenzieartwork/videos/just-four-years-ago-i-had-my-phone-pressed-up-against-the-glass-of-the-monterey-/1005153495348319/",
+    "https://www.facebook.com/badassmotherPage/videos/one-thing-i-see-providers-do-almost-immediately-after-a-baby-is-born-is-grab-a-t/1614469523814175/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Submer note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://www.buffett-code.com/company/5243/governance",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Submer X 投稿",
+   "results": [
+    "https://x.com/submertech",
+    "https://submer.com/",
+    "https://x.com/submer_mel73",
+    "https://evolvingvillage.com/personal-brand-submit/",
+    "https://www.xvideos.com/?k=素人投稿",
+    "https://www.xvideos.com/tags/素人-投稿",
+    "https://help.x.com/ja/using-x/mentions-and-replies"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部20頁・検索12回）"
+ }
+}

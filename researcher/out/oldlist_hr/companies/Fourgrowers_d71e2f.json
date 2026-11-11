@@ -1,0 +1,1183 @@
+{
+ "name": "Fourgrowers",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン1",
+ "researched_at": "2026-11-11T00:51:00.979794+00:00",
+ "official_url": "https://fourgrowers.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "アメリカ合衆国 ペンシルベニア州 ピッツバーグ",
+    "url": "https://smartagri.jp/p/1894/",
+    "pass": 3
+   },
+   {
+    "label": "Headquarters",
+    "value": "7371 Thomas Blvd, Suite 201, Pittsburgh, Pennsylvania 15208, US",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "Pittsburgh, PA, USA",
+    "url": "https://startupintros.com/orgs/four-growers",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2016年",
+    "url": "https://smartagri.jp/p/1894/",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2018",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2018",
+    "url": "https://startupintros.com/orgs/four-growers",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "推定売上",
+    "value": "約260万ドル",
+    "url": "https://smartagri.jp/p/1894/",
+    "pass": 3
+   },
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$18,100,000",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Home - Video | Four Growers",
+    "url": "https://fourgrowers.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Four Growers was founded to provide",
+    "url": "https://fourgrowers.com/",
+    "pass": 1
+   },
+   {
+    "quote": "healthy, affordable, local produce",
+    "url": "https://fourgrowers.com/",
+    "pass": 1
+   },
+   {
+    "quote": "by reducing the production costs of greenhouse growers through robotics technology.",
+    "url": "https://fourgrowers.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We provide automated solutions for greenhouse crop management",
+    "url": "https://fourgrowers.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are working closely with various greenhouse growers to develop a tomato harvesting robot. Two filed patents protect our technology. Our solution not only harvests but it performs quality checks and stores the tomatoes.",
+    "url": "https://fourgrowers.com/",
+    "pass": 1
+   },
+   {
+    "quote": "When you work here, it means that you’re willing to be a part of a group of ambitious, future-focused professionals who are dedicated to solving the most challenging issues facing food production.",
+    "url": "https://fourgrowers.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We are a close-knit team of people who love food, robotics, and understand the importance of making sure everyone has access to fresh produce.",
+    "url": "https://fourgrowers.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Sitting at the intersection of hardware and software, we bring together the best and brightest from around the world to create innovative products that redefine the agriculture industry.",
+    "url": "https://fourgrowers.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Invest in healthy, affordable, local produce for everyone",
+    "url": "https://fourgrowers.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The Pittsburgh-based company just raised a $9 million Series A round led by Basset Capital with participation from Y Combinator, Ospraie Ag Science, and other existing investors.",
+    "url": "https://fourgrowers.com/about/media/",
+    "pass": 1
+   },
+   {
+    "quote": "IFPA Takes on Tech Podcast Live from the Global Produce & Floral Show",
+    "url": "https://fourgrowers.com/about/media/",
+    "pass": 1
+   },
+   {
+    "quote": "IFPA’s Vonnie Estes broadcasts live from the Global Produce and Floral Show interviewing Four Growers Co-Founder & CEO, Brandon Contino.",
+    "url": "https://fourgrowers.com/about/media/",
+    "pass": 1
+   },
+   {
+    "quote": "For our featured interview this week, we sit down with Brandon Contino, CEO and co-founder of Four Growers, a startup building robots to harvest foods grown in greenhouses. Brandon talks about the technical and business challenges related to the robot and how focusing on greenhouses helps product evolution.",
+    "url": "https://fourgrowers.com/about/media/",
+    "pass": 1
+   },
+   {
+    "quote": "This site is protected by reCAPTCHA and the Google",
+    "url": "https://fourgrowers.com/about/media/",
+    "pass": 1
+   },
+   {
+    "quote": "We are a group of entrepreneurs, technologists, engineers, and innovators who are passionate about solving the most challenging issues within the food production industry.",
+    "url": "https://fourgrowers.com/about/our-team/",
+    "pass": 1
+   },
+   {
+    "quote": "to help greenhouse farmers lower their production costs while increasing the accessibility & the affordability of produce for all walks of life.",
+    "url": "https://fourgrowers.com/about/our-team/",
+    "pass": 1
+   },
+   {
+    "quote": "What began as a group of students at the University of Pittsburgh has transformed into a future forward thinking company that is focused on providing a net benefit to the world.",
+    "url": "https://fourgrowers.com/about/our-team/",
+    "pass": 1
+   },
+   {
+    "quote": "Consider joining our team! For a full list of open positions, please visit our careers page.",
+    "url": "https://fourgrowers.com/about/our-team/",
+    "pass": 1
+   },
+   {
+    "quote": "P150 Pro",
+    "url": "https://smartagri.jp/p/1894/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Agriculture",
+    "url": "https://smartagri.jp/p/1894/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Livestock Farming",
+    "url": "https://smartagri.jp/p/1894/",
+    "pass": 3
+   },
+   {
+    "quote": "P150 Pro",
+    "url": "https://smartagri.jp/p/9175/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Agriculture",
+    "url": "https://smartagri.jp/p/9175/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Livestock Farming",
+    "url": "https://smartagri.jp/p/9175/",
+    "pass": 3
+   },
+   {
+    "quote": "「未来への耐性（future-proof）」を高めることが目的とされています",
+    "url": "https://smartagri.jp/p/9175/",
+    "pass": 3
+   },
+   {
+    "quote": "Four Growers was founded to provide healthy, affordable, local produce by reducing the production costs of greenhouse growers through robotics technology. We are positioning ourselves to be the automated solutions provider for greenhouse crop management.",
+    "url": "https://o0taiwan0o.wixsite.com/fourgrowers/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "​We are working closely with various greenhouse growers to develop a tomato harvesting robot. Our technology relies on two layers of protection, patents filed protecting the physical design of the robot and a proprietary algorithm that controls the robot’s decision",
+    "url": "https://o0taiwan0o.wixsite.com/fourgrowers/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Model-Prime & Four Growers",
+    "url": "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Four Growers is an innovative company trying to revolutionize agriculture. When it came to handling their robotics data, they chose the Model-Prime platform to help accelerate their software development.",
+    "url": "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Model-Prime Accelerates Four Growers’ Greenhouse Robotics",
+    "url": "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "A company at the forefront of automated greenhouse crop management, Four Growers was founded in 2018 with a mission to revolutionize farming and agriculture. Their autonomous robots navigate greenhouse rows and swiftly select ripe produce for harvest at the right time, reducing labor costs and enabling the supply of healthy, affordable local produce to consumers.",
+    "url": "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Four Growers robots collect and analyze vast amounts of valuable data daily. Through this data, robot performance is continually improved, and greenhouses can learn about their production enabling them to increase their yields.",
+    "url": "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The Solution: Model-Prime’s platform saves time and adds depth to log analysis",
+    "url": "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Model-Prime provided Four Growers with a cloud-based data platform specifically designed to address its data issues. Adopting Model-Prime’s secure and scalable cloud platform allowed Four Growers to unlock a new level of data management and solve the challenges it was facing thanks to a two-pronged solution.",
+    "url": "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "To reduce manual efforts to understand and locate relevant log files, Model-Prime provided both an intuitive RQT plugin and a web-based application. Both allow Four Growers engineers to browse through and search a catalog of its log files. This enables the engineers to not only quickly view results from robot runs but also to search based on patterns of interest.",
+    "url": "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "In this case, Model-Prime provided a user-friendly interface so engineers can view their entire log catalog, allowing them to:",
+    "url": "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "pass": 3
+   },
+   {
+    "quote": ": View and add crucial contextual notes made by operators during testing or production runs. No more missing insights due to absent human observations.",
+    "url": "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "This intuitive system streamlined log search and retrieval, saving Four Growers a staggering 5-10x in time compared to their previous methods. Now, valuable insights are just a click away, critical for faster decision-making.",
+    "url": "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Model-Prime also provides API access so Four Growers could build a custom application to help monitor performance annotations in the field and write them to the log. This allowed for",
+    "url": "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Model-Prime also understood Four Growers’ need to transform raw data into actionable knowledge. Their solution included:",
+    "url": "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "pass": 3
+   },
+   {
+    "quote": ". No more manual calculations or lengthy spreadsheets to extract insights from data.",
+    "url": "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Find a solution that provides the flexibility to keep up with rapid expansion.",
+    "url": "https://www.fanucamerica.com/case-studies/nature-fresh-farms-revolutionizes-tomato-harvesting-with-robots-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Analytics provide valuable crop data",
+    "url": "https://www.fanucamerica.com/case-studies/nature-fresh-farms-revolutionizes-tomato-harvesting-with-robots-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Established in 1999 by President & CEO Peter Quiring, Nature Fresh is committed to providing safe, healthy, and sustainably grown food through innovation, creativity, and development.",
+    "url": "https://www.fanucamerica.com/case-studies/nature-fresh-farms-revolutionizes-tomato-harvesting-with-robots-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Recently, significant expansion, and a lack of available labor prompted Nature Fresh to consider a more innovative method to harvest tomatoes. The harvesting area is particularly humid, labor intensive and tedious, which can lead to repetitive motion injuries. Also, given the current labor market, it’s difficult to find people willing to take jobs they consider dull or physically demanding.",
+    "url": "https://www.fanucamerica.com/case-studies/nature-fresh-farms-revolutionizes-tomato-harvesting-with-robots-ai",
+    "pass": 3
+   },
+   {
+    "quote": "robot running HandlingTool software. The FANUC robot was selected based on its performance capabilities and ease of use. Four Grower’s proprietary AI provides analytics to detect the ripeness and overall health of the tomatoes, and the optimal path the robot needs to take for harvesting.",
+    "url": "https://www.fanucamerica.com/case-studies/nature-fresh-farms-revolutionizes-tomato-harvesting-with-robots-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Executive Vice President – Nature Fresh Farms",
+    "url": "https://www.fanucamerica.com/case-studies/nature-fresh-farms-revolutionizes-tomato-harvesting-with-robots-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Fast at handling small payloads, the",
+    "url": "https://www.fanucamerica.com/case-studies/nature-fresh-farms-revolutionizes-tomato-harvesting-with-robots-ai",
+    "pass": 3
+   },
+   {
+    "quote": "compact multi-purpose industrial robot offers an enhanced reach at 911mm and payloads of up to 7 kg.",
+    "url": "https://www.fanucamerica.com/case-studies/nature-fresh-farms-revolutionizes-tomato-harvesting-with-robots-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Four Growers, a FANUC Authorized System Integrator, was founded to provide healthy, affordable, local produce by reducing the production costs of greenhouse growers through robotic technology. Our technology currently optimizes autonomous tomato harvesting and will soon be available for pepper and cucumber crops.",
+    "url": "https://www.fanucamerica.com/case-studies/nature-fresh-farms-revolutionizes-tomato-harvesting-with-robots-ai",
+    "pass": 3
+   },
+   {
+    "quote": "As a family owned and operated farm, we pride ourselves on providing your family with the same high-quality, clean, healthy produce we feed our own families. We nurture nature in smarter ways, providing you and your family with sustainably grown produce you can feel good about eating.",
+    "url": "https://www.fanucamerica.com/case-studies/nature-fresh-farms-revolutionizes-tomato-harvesting-with-robots-ai",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Programming languages",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Four Growers has approximately",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "to reduce production costs for greenhouse growers. Their flagship product, the",
+    "url": "https://startupintros.com/orgs/four-growers",
+    "pass": 3
+   },
+   {
+    "quote": "by Brandon Contino (CEO) and Dan Chi (CTO), Four Growers emerged from the vision to provide",
+    "url": "https://startupintros.com/orgs/four-growers",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Robotic harvesting and plant analytics",
+    "url": "https://fourgrowers.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revolutionizing Agriculture with AI-powered Robotic platform Solutions for Industrial Greenhouses.",
+    "url": "https://fourgrowers.com/about/media/",
+    "pass": 1
+   },
+   {
+    "quote": "VP of Hardware Engineering and Manufacturing",
+    "url": "https://fourgrowers.com/about/our-team/",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Four Growers",
+    "url": "https://www.casestudies.com/customer/four-growers",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Model-Prime & Four Growers",
+    "url": "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "pass": 3
+   },
+   {
+    "quote": ": View and add crucial contextual notes made by operators during testing or production runs. No more missing insights due to absent human observations.",
+    "url": "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "compact multi-purpose industrial robot offers an enhanced reach at 911mm and payloads of up to 7 kg.",
+    "url": "https://www.fanucamerica.com/case-studies/nature-fresh-farms-revolutionizes-tomato-harvesting-with-robots-ai",
+    "pass": 3
+   },
+   {
+    "quote": "robotic harvesting and plant analytics",
+    "url": "https://startupintros.com/orgs/four-growers",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "When you work here, it means that you’re willing to be a part of a group of ambitious, future-focused professionals who are dedicated to solving the most challenging issues facing food production.",
+    "url": "https://fourgrowers.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a part of the Four Growers team",
+    "url": "https://fourgrowers.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "スイスの農薬・種苗会社シンジェンタの子会社シンジェンタ・シーズと戦略的提携を結び、ロボットが収穫しやすい品種のブリーディング（育種）から共同で進める垂直統合型のモデルを構築",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "Our employees sometimes think they will be replaced by the automation, but that's never the case. In agriculture, you still need the human touch. Nature Fresh Farms is growing for a kinder future.",
+    "url": "https://www.fanucamerica.com/case-studies/nature-fresh-farms-revolutionizes-tomato-harvesting-with-robots-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Four Growers Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Four Growers",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Four Growers?",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Four Growers generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Four Growers have?",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "同社が開発したトマト収穫ロボットは、日本のファナック製ロボットアームをベースに、独自のAI視覚システムを統合",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "「人間と同等」の収穫スピードを実現し、既に北米、欧州、豪州で数千万個もの収穫実績を積み上げており、日本からの熱烈なオファーも届き始めているという",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "オランダのTTA、日本のデンソーといった大手企業もこの領域に取り組んでいますが、収穫スピードと、一株あたりの収穫完了率において、私たちは業界をリードしている自負があります",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "人手不足に悩む日本の農家からも「収穫の担い手が見つからない」という切実な声をいただいていますが、私たちのソリューションはまさにその解決策となります",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "彼らはチェリートマトとグレープトマトの市場リーダーであり、実は日本の農場でも、彼らの開発した品種が多く採用されています",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "シンジェンタの施設では、新しい品種の育種研究と並行して私たちのロボットが稼働しており、日本から視察に来た農家の方がそこで実機を目にし、導入を検討されるというケースも増えています",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "―日本市場の現状と可能性について、どのように見ていますか",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "日本からは、すでに「収穫の担い手が見つからない」という切実な問い合わせを数多くいただいています",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした過酷な労働環境を抱える日本市場にとって、私たちの自動化ソリューションは非常に高い親和性があると確信しています",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "日本展開においては、既存の拠点のような直販体制ではなく、現地の販売パートナーやディストリビューターとの協業を検討しています",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "適切なパートナーを見つけ、万全のサポート体制を整えることが、日本市場における成功の鍵になると考えています",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "―日本企業との協業については、具体的にどのような形態を想定していますか",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、私たちはファナック社のアームを採用していますが、デンソーやヤマハなど、日本には世界屈指のロボティクス技術があります",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場を深く理解し、私たちのAI技術を現場に実装できる戦略的パートナーとの出会いを期待しています",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "―最後に、日本の読者に向けてメッセージをお願いします",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場には多大なる関心を持っており、どのようなコラボレーションが可能か、対話を始めたいと考えています",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちのフィジカルAIが、日本の農業に新たな機会をもたらすと信じています",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組み",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組みの詳細を見る",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "人件費の高騰は確かに日本の農業でも共通の悩みです",
+    "url": "https://smartagri.jp/p/9175/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、日本の小規模な農家がこのモデルをそのまま導入するのは、ハードルが高そうです",
+    "url": "https://smartagri.jp/p/9175/",
+    "pass": 3
+   },
+   {
+    "quote": "オランダの農業企業Westburgは、1990年に設立され、14万平方メートル（約14ヘクタール、東京ドーム約3個分）の温室でスナックトマトを栽培しています",
+    "url": "https://smartagri.jp/p/9175/",
+    "pass": 3
+   },
+   {
+    "quote": "海外の事例ですが、日本でも農林水産省が推進する「スマート農業」の文脈で、収穫ロボットの導入が進んでいます",
+    "url": "https://smartagri.jp/p/9175/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではJAや自治体による補助金制度もあり、初期投資のハードルを下げる支援が行われています",
+    "url": "https://smartagri.jp/p/9175/",
+    "pass": 3
+   },
+   {
+    "quote": "日本でも、労働力不足が深刻化する中、こうした自動化技術は「将来にわたって持続可能な農業」を実現するための重要な選択肢となります",
+    "url": "https://smartagri.jp/p/9175/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "FourGrowers：AI搭載トマト収穫ロボットでオランダの温室から世界へ — Oct 2, 2026 · FourGrowersのバキュームグリップ技術は、果実を傷つけない繊細な収穫を可能にしており、品質を重視する温室栽培に適したアプローチといえます。 オランダでの導入実績は、ヨーロッパの先進的な温室農業との親和性を示しており、今後の拡大が注目され ...",
+    "url": "https://smartagri.jp/p/1894/",
+    "pass": 3
+   },
+   {
+    "quote": "Home - Video | Four Growers — Robotic harvesting and plant analytics Four Growers was founded to provide healthy, affordable, local produce by reducing the production costs of greenhouse growers through robotics technology.",
+    "url": "https://fourgrowers.com/",
+    "pass": 3
+   },
+   {
+    "quote": "温室トマト収穫ロボット｜FANUCとFour Growersの自動化事例 — Oct 1, 2026 · オランダの温室栽培企業Westburgが、FANUC製ロボットアームとFour GrowersのAI技術を活用し、スナックトマトの収穫を自動化しました。導入1週間で稼働開始し、昼夜を問わず作業可能に。労働力不足への対策として、最大50%の省人化を見込み、キュウリへの展開も予定しています。",
+    "url": "https://smartagri.jp/p/9175/",
+    "pass": 3
+   },
+   {
+    "quote": "Four Growersの資金調達、評価額、投資家、ロボット | MEKAWIRE — Dec 26, 2018 · Four Growersは2018年12月26日以降、5件の公表済みの資金調達ラウンドで1320万ドルを調達しており、直近のラウンドは2024年9月23日に発表されたPrivate offering (Form D, partial)です。 2026年10月2日時点のデータです。 本社はアメリカ合衆国、2018年設立。",
+    "url": "https://mekawire.com/ja/companies/four-growers",
+    "pass": 3
+   },
+   {
+    "quote": "FourGrowers：AI搭載トマト収穫ロボットでオランダの温室から世界へ — Oct 2, 2026 · FourGrowersのアプローチ FourGrowersは、AIとロボティクスを組み合わせることでこれらの課題に取り組んでいます。 コンピュータビジョンがトマトの色・サイズ・位置をリアルタイムで認識し、バキュームグリップが果実を優しく把持して収穫します。",
+    "url": "https://smartagri.jp/p/1894/",
+    "pass": 3
+   },
+   {
+    "quote": "ABOUT US | fourgrowers — Four Growers was founded to provide healthy, affordable, local produce by reducing the production costs of greenhouse growers through robotics technology. We are positioning ourselves to be the automated solutions provider for greenhouse crop management.",
+    "url": "https://o0taiwan0o.wixsite.com/fourgrowers/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "About | Four Growers — Our adventure began with genuine curiosity and a passion for food.",
+    "url": "https://fourgrowers.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "自動収穫ロボで目指す「特殊作物のクボタ」 シンジェンタとロボ向け品... — Mar 17, 2026 · Image : Four Growers ―競合他社と比較した際、最大の差別化要因はどこにあるのでしょうか。 一言で言えば「収穫スピード」です。他社の収穫ロボットの中には、トマト1つの収穫に20秒ほど要するものもあり、これでは人間の作業スピードの10分の1程度に留まります。一方、私たちのシステムは ...",
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring Four Growers as the Customer — Explore case studies featuring Four Growers as the customer — learn how vendors and partners helped Four Growers solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/four-growers",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Model-Prime & Four Growers — Feb 27, 2024 · Case Study: Model-Prime & Four Growers Four Growers is an innovative company trying to revolutionize agriculture. When it came to handling their robotics data, they chose the Model-Prime platform to help accelerate their software development.",
+    "url": "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Powered Tomato Harvesting in Greenhouses | FANUC America — Dec 14, 2023 · Four Growers Four Growers, a FANUC Authorized System Integrator, was founded to provide healthy, affordable, local produce by reducing the production costs of greenhouse growers through robotic technology. Our technology currently optimizes autonomous tomato harvesting and will soon be available for pepper and cucumber cr",
+    "url": "https://www.fanucamerica.com/case-studies/nature-fresh-farms-revolutionizes-tomato-harvesting-with-robots-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Tomato Harvesting with FANUC Robots | FANUC America — Oct 27, 2025 · Westburg Greenhouse used Four Growers' FANUC LR Mate robots to automate tomato harvesting 24/7, cutting labor costs and freeing staff for other crop tasks.",
+    "url": "https://www.fanucamerica.com/case-studies/automating-agriculture-greenhouse-turns-to-robots-for-tomato-harvesting",
+    "pass": 3
+   },
+   {
+    "quote": "Four Growers - 2025 Company Profile, Team, Funding ... - TracxnFour Growers 2026 Company Profile: Valuation, Funding ...Four Growers Revenue, Funding & Valuation - prospeo.ioFour Growers: Funding, Team & Investors | Startup IntrosFour Growers: Funding, Investors & Team (Oct 2026) | FundedIQFour Growers: Funding, Investors & Team (Nov 2026) | FundedIQ — Oct 31, 2025 · Four Growers is a series A com",
+    "url": "https://tracxn.com/d/companies/four-growers/__AfhPUdh4O94yzYl-ydo4DzOi1dbQq2m3U4SQwGuAOnw",
+    "pass": 3
+   },
+   {
+    "quote": "Four Growers 2026 Company Profile: Valuation, Funding ...Four Growers Revenue, Funding & Valuation - prospeo.ioFour Growers: Funding, Team & Investors | Startup IntrosFour Growers: Funding, Investors & Team (Oct 2026) | FundedIQFour Growers: Funding, Investors & Team (Nov 2026) | FundedIQ — Information on valuation, funding, cap tables, investors, and executives for Four Growers. Use the PitchBook",
+    "url": "https://pitchbook.com/profiles/company/228324-88",
+    "pass": 3
+   },
+   {
+    "quote": "Four Growers Revenue, Funding & Valuation - prospeo.io — Four Growers has revenue of $2,224,430, estimated valuation of $7,200,000, $18,100,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Four Growers: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · To scale its hardware manufacturing and commercial deployment, Four Growers has secured $9 million in Series A funding, drawing financial backing from recognizable industry investors such as John Overbeck and Basset Capital. The enterprise was originally founded in 2017 by entrepreneurs Dan Chi and Brandon Contino.",
+    "url": "https://startupintros.com/orgs/four-growers",
+    "pass": 3
+   },
+   {
+    "quote": "Four Growers: Funding, Investors & Team (Oct 2026) | FundedIQ — Four Growers is a Hardware company in Pittsburgh, United States. Raised $4.0M across 1 round; latest round Jun 2021. Investors, founders and funding history.",
+    "url": "https://fundediq.co/four-growers-fourgrowers-co-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Sinochem on X: \"Syngenta Group has partnered with FourGrowers ... Syngenta Group has partnered with FourGrowers to optimize tomato seeds for robotic harvesting. This breakthrough will address the challenges of rising production costs while improving tomato quality. By doing so, it aims at providing consumers with nutritious tomatoes through more sustainable pract…",
+    "url": "https://x.com/SinochemNews/status/1673953805451563008",
+    "pass": 3
+   },
+   {
+    "quote": "The Future of Farming Rolls Itself Into the Fields Four ... Four Growers: Multi-Crop Harvesting Robot Four Growers is a robotics and artificial intelligence company focused on developing autonomous systems for harvesting and crop analytics in agricultural settings.",
+    "url": "https://x.com/dylan_curious/status/1946455781919830307",
+    "pass": 3
+   },
+   {
+    "quote": "5 ways stereo vision transforms harvesting robotics. ... 5 ways stereo vision transforms harvesting robotics. 🌾🔗 Explore how Four Growers and FRAMOS achieved it: bit.ly/4oafYX6?utm_ca… #FRAMOS #FourGrowers #agriculture #harvesting",
+    "url": "https://x.com/framosimaging/status/1993970956130292031",
+    "pass": 3
+   },
+   {
+    "quote": "Four Growers | Autonomous harvest at the press of a button ... Four Growers | Autonomous harvest at the press of a buttonVideo Credit: Four Growerts--- Four Growers is one of the innovative companies profiled in the Agricultural Technology Report, published in collaboration with @MouserElec and @NordicTweets, that uses robotics technology to improve agriculture.",
+    "url": "https://x.com/WevolverApp/status/2028943838945882271",
+    "pass": 3
+   },
+   {
+    "quote": "@FourGrowers | X The latest posts from @FourGrowers",
+    "url": "https://x.com/FourGrowers",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Four Growers, Inc. - LinkedIn Four Growers, Inc. | 9,108 followers on LinkedIn. Revolutionizing the way we farm; Enabling farmers to grow anywhere | Four Growers is a YCombinator-backed, Pittsburgh-based robotics startup that ...",
+    "url": "https://www.linkedin.com/company/four-growers-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Brandon Contino - CEO and Co-Founder at Four Growers, Inc ...Deepak Jayaraj - VP of Robotics Hardware & Manufacturing ...Dan Chi - CTO at Four Growers, Inc. | LinkedInMeet the founder: Four Growers on what it takes to build ag ...Four Growers, Inc. on LinkedIn: #startup #agtech #roboticsNick Boelen - Sales Director Four Growers : Robots that feed ... CEO and Co-Founder at Four Growers, Inc. · Focu",
+    "url": "https://www.linkedin.com/in/brandon-contino",
+    "pass": 3
+   },
+   {
+    "quote": "Deepak Jayaraj - VP of Robotics Hardware & Manufacturing ...Dan Chi - CTO at Four Growers, Inc. | LinkedInMeet the founder: Four Growers on what it takes to build ag ...Four Growers, Inc. on LinkedIn: #startup #agtech #roboticsNick Boelen - Sales Director Four Growers : Robots that feed ... VP of Robotics Hardware & Manufacturing @ Four Growers | Scaling complex robotics from concept to production",
+    "url": "https://www.linkedin.com/in/deepakjayaraj",
+    "pass": 3
+   },
+   {
+    "quote": "Four Growers, Inc. on LinkedIn: #startup #agtech #robotics Look, in the office! It's a tomato; it's a harvester; it's a visit from John Deere! We were thrilled to welcome and host their team last week as part of our participation in the 2022 John Deere Startup Collaborator. Over a few days, our teams collaborated and had deep discussions on robotics, product cycles, team building, and so much more",
+    "url": "https://ir.linkedin.com/posts/four-growers-inc_startup-agtech-robotics-activity-6975105946763042816-3rFp",
+    "pass": 3
+   },
+   {
+    "quote": "Brandon Contino - CEO and Co-Founder at Four Growers, Inc ...Four Growers融资、估值、投资机构与机器人 | MEKAWIREFour Growers, Inc. - LinkedInBrandon Contino - Robotics Summit & ExpoFour Growers: Funding, Investors & Team (Nov 2026) | FundedIQ CEO and Co-Founder at Four Growers, Inc. · Focused on building robots to feed the world sustainably and to increase the accessibility of healthy fruits and vegetables. To ",
+    "url": "https://www.linkedin.com/in/brandon-contino",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Four Growers - FacebookFour Growers - @fourgrowers is honored to be a first time ...Four Growers - Four Growers presenting at the Pittsburgh ...Pitt Startup Four Growers is hiring! Do you know an ambitious ...YC-backed Four Growers builds produce-harvesting autonomous ...The Future of Farming is Here Westburg BV ... - FacebookFacebook Aug 10, 2019 · Four Growers is currently in search of talented ",
+    "url": "https://www.facebook.com/FourGrowers/",
+    "pass": 3
+   },
+   {
+    "quote": "Four Growers - @fourgrowers is honored to be a first time ... Aug 10, 2019 · @fourgrowers is honored to be a first time finalist for #tech50. Congrats to other startups of the year! #startups #pittsburgh...",
+    "url": "https://www.facebook.com/FourGrowers/photos/fourgrowers-is-honored-to-be-a-first-time-finalist-for-tech50-congrats-to-other-/389678185086077/",
+    "pass": 3
+   },
+   {
+    "quote": "YC-backed Four Growers builds produce-harvesting autonomous ...The Future of Farming is Here Westburg BV ... - FacebookFacebook Dec 23, 2024 · YC-backed Four Growers builds produce-harvesting autonomous robots to help solve greenhouse labor shortages. Nov 11, 2025 · The Future of Farming is Here 🌱 Westburg BV Greenhouse in the Netherlands is taking automation to the next level. Thanks to Four Grow",
+    "url": "https://www.facebook.com/techcrunch/videos/this-startup-builds-robots-to-autonomously-harvest-plants-in-greenhouses-four-gr/2081943975604437/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://fourgrowers.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fourgrowers.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fourgrowers.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fourgrowers.com/about/media/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fourgrowers.com/about/our-team/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://smartagri.jp/p/1894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techblitz.com/startup-interview/four-growers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smartagri.jp/p/9175/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smartagri.jp/p/1894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://o0taiwan0o.wixsite.com/fourgrowers/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/four-growers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fanucamerica.com/case-studies/nature-fresh-farms-revolutionizes-tomato-harvesting-with-robots-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partnerportal.fortinet.com/English/?ReturnUrl=%2FEnglish%2FNAReseller%2Fhome.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/four-growers/__AfhPUdh4O94yzYl-ydo4DzOi1dbQq2m3U4SQwGuAOnw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/228324-88",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/four-growers-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/four-growers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SinochemNews/status/1673953805451563008",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/dylan_curious/status/1946455781919830307",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/framosimaging/status/1993970956130292031",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/WevolverApp/status/2028943838945882271",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/four-growers-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/brandon-contino",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/deepakjayaraj",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ir.linkedin.com/posts/four-growers-inc_startup-agtech-robotics-activity-6975105946763042816-3rFp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FourGrowers/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FourGrowers/photos/fourgrowers-is-honored-to-be-a-first-time-finalist-for-tech50-congrats-to-other-/389678185086077/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/techcrunch/videos/this-startup-builds-robots-to-autonomously-harvest-plants-in-greenhouses-four-gr/2081943975604437/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/brandon-contino",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FourGrowers",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Fourgrowers 日本 導入",
+   "results": [
+    "https://smartagri.jp/p/1894/",
+    "https://fourgrowers.com/",
+    "https://techblitz.com/startup-interview/four-growers/",
+    "https://smartagri.jp/p/9175/",
+    "https://mekawire.com/ja/companies/four-growers",
+    "https://hirobotmap.com/landing/four-growers/",
+    "https://physicalainews.jp/companies/four-growers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fourgrowers 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://fourgrowers.com/",
+    "https://fourgrowers.com/about/",
+    "https://houjin-data.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fourgrowers Japan",
+   "results": [
+    "https://smartagri.jp/p/1894/",
+    "https://o0taiwan0o.wixsite.com/fourgrowers/about-us",
+    "https://fourgrowers.com/",
+    "https://fourgrowers.com/about/",
+    "https://techblitz.com/startup-interview/four-growers/",
+    "https://jp.linkedin.com/company/four-growers-inc",
+    "https://mekawire.com/ja/companies/four-growers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fourgrowers manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/four-growers",
+    "https://www.model-prime.com/blog/model-prime-x-four-growers-case-study",
+    "https://fourgrowers.com/",
+    "https://www.fanucamerica.com/case-studies/nature-fresh-farms-revolutionizes-tomato-harvesting-with-robots-ai",
+    "https://www.fanucamerica.com/case-studies/automating-agriculture-greenhouse-turns-to-robots-for-tomato-harvesting",
+    "https://techcrunch.com/2024/11/20/yc-backed-four-growers-builds-robots-to-help-solve-greenhouse-labor-shortages/",
+    "https://encord.com/customers/four-growers-customer-story/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fourgrowers white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fourgrowers founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/four-growers/__AfhPUdh4O94yzYl-ydo4DzOi1dbQq2m3U4SQwGuAOnw",
+    "https://pitchbook.com/profiles/company/228324-88",
+    "https://prospeo.io/c/four-growers-revenue",
+    "https://startupintros.com/orgs/four-growers",
+    "https://fundediq.co/four-growers-fourgrowers-co-funding/",
+    "https://fundediq.co/four-growers-fourgrowers-com-funding/",
+    "https://compworth.com/company/four-growers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Fourgrowers",
+   "results": [
+    "https://note.com/tnpn/n/n0eea0876099d?hl=en",
+    "https://note.com/wise_turtle184",
+    "https://note.com/hanna_iwanuma33/n/n2b3923473e75?hl=en",
+    "https://note.com/diparururun",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/kaien/n/nb24dbf543911"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Fourgrowers",
+   "results": [
+    "https://x.com/SinochemNews/status/1673953805451563008",
+    "https://x.com/dylan_curious/status/1946455781919830307",
+    "https://x.com/framosimaging/status/1993970956130292031",
+    "https://x.com/WevolverApp/status/2028943838945882271",
+    "https://x.com/robtrice3",
+    "https://help.x.com/en/using-x/create-x-account",
+    "https://x.com/spaceandtech_/status/2050263921379192843"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Fourgrowers",
+   "results": [
+    "https://www.linkedin.com/company/four-growers-inc",
+    "https://www.linkedin.com/in/brandon-contino",
+    "https://www.linkedin.com/in/deepakjayaraj",
+    "https://ir.linkedin.com/posts/four-growers-inc_startup-agtech-robotics-activity-6975105946763042816-3rFp",
+    "https://www.linkedin.com/in/dan-chi",
+    "https://gy.linkedin.com/posts/cpapouras_meet-the-founder-four-growers-on-what-it-activity-7072673831764545536-tYPn",
+    "https://nl.linkedin.com/in/nick-boelen-363245b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Fourgrowers",
+   "results": [
+    "https://www.facebook.com/FourGrowers/",
+    "https://www.facebook.com/FourGrowers/photos/fourgrowers-is-honored-to-be-a-first-time-finalist-for-tech50-congrats-to-other-/389678185086077/",
+    "https://www.facebook.com/techcrunch/videos/this-startup-builds-robots-to-autonomously-harvest-plants-in-greenhouses-four-gr/2081943975604437/",
+    "https://www.facebook.com/\u0000jperes88/",
+    "https://www.facebook.com/reel/2050939752356699/",
+    "https://www.facebook.com/pittinnovates/posts/pitt-startup-four-growers-is-hiring-do-you-know-an-ambitious-and-committed-profe/4153568464753675/",
+    "https://www.facebook.com/FourGrowers/posts/four-growers-presenting-at-the-pittsburgh-robotics-and-ai-showcase-pittsburgh-ro/180176689369562/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fourgrowers note 社長",
+   "results": [
+    "https://fourgrowers.com/about/our-team/",
+    "https://fourgrowers.com/about/media/5-qs-for-brandon-contino-co-founder-and-ceo-of-four-growers/",
+    "https://www.linkedin.com/in/brandon-contino",
+    "https://mekawire.com/zh/companies/four-growers",
+    "https://www.linkedin.com/company/four-growers-inc",
+    "https://www.roboticssummit.com/speaker/brandon-contino/",
+    "https://fundediq.co/four-growers-fourgrowers-com-funding/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Fourgrowers X 投稿",
+   "results": [
+    "https://x.com/FourGrowers",
+    "https://smartagri.jp/p/1894/",
+    "https://www.instagram.com/fourgrowers/",
+    "https://fourgrowers.com/",
+    "https://x.com/tanany_vc/status/2050609369109422492",
+    "https://fourgrowers.com/about/",
+    "https://x.com/felixrieseberg/status/2119925633564463609"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

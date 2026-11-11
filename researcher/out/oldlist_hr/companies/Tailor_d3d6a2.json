@@ -1,0 +1,1686 @@
+{
+ "name": "Tailor",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜NG",
+ "researched_at": "2026-11-11T00:36:41.596143+00:00",
+ "official_url": "https://www.tailor.tech/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都港区虎ノ門4-1-1",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都港区虎ノ門4-1-1",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000101637.html",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "Tokyo, Japan",
+    "url": "https://startupintros.com/orgs/tailor",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2021年07月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2021年7月19日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2021年07月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000101637.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2021年7月19日",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000101637.html",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://startupintros.com/orgs/tailor",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Headless and composable ERP designed for humans and AI agents alike. Tailor provides flexible and customizable integrations and modules for fast-growing ecommerce and omnichannel brands.",
+    "url": "https://www.tailor.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Tailor’s agentic AI compares purchase orders with supplier PDFs, reconciles the information, updates ERP records, and triggers the appropriate workflows — automatically.",
+    "url": "https://www.tailor.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Transparent, right-sized pricing",
+    "url": "https://www.tailor.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Pay only for what you use — no user fees or hidden costs. Just one clear rate for the modules you need, including hands-on implementation, training, maintenance, and support.",
+    "url": "https://www.tailor.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Unify every sales channel, optimize inventory, automate fulfillment, and manage products on one customizable ERP platform.",
+    "url": "https://www.tailor.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Track inventory levels precisely, forecast demand spikes, and automate replenishment, so you’ll always have the right products on hand.",
+    "url": "https://www.tailor.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage products in one place to offer custom product bundles and channel-specific pricing, while tailoring product details to each audience.",
+    "url": "https://www.tailor.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Provide real-time order status and accurate delivery promises. Offer flexible returns and multiple payment options.",
+    "url": "https://www.tailor.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Minimize stockouts, maximize inventory turnover, and get accurate inventory costs with the easiest enterprise-ready platform.",
+    "url": "https://www.tailor.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Management",
+    "url": "https://www.tailor.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether make-to-stock or make-to-order, adapt to any production method to cut costs and ramp up throughput.",
+    "url": "https://www.tailor.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline stock transfers, picking, packing, and shipping with precise inventory tracking, an optimized warehouse app with barcode scanning and label printing support.",
+    "url": "https://www.tailor.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of waiting weeks for fixes or explanations, we’re solving problems together in real time.”",
+    "url": "https://www.tailor.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "The Purchase Order Process From Reorder to Receipt",
+    "url": "https://www.tailor.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Swap out modules without disrupting operations. Tailor is SOC 2 compliant and built for fast processing at scale.",
+    "url": "https://www.tailor.tech/about",
+    "pass": 1
+   },
+   {
+    "quote": "We’re supported by world-class startup programs that help us scale faster and build better.",
+    "url": "https://www.tailor.tech/about",
+    "pass": 1
+   },
+   {
+    "quote": "Stripe Startup Program",
+    "url": "https://www.tailor.tech/about",
+    "pass": 1
+   },
+   {
+    "quote": "Nvidia Inception Program for Startups",
+    "url": "https://www.tailor.tech/about",
+    "pass": 1
+   },
+   {
+    "quote": "We’re a proud distributed team, but we maintain a local presence wherever our customers operate.",
+    "url": "https://www.tailor.tech/about",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise insight meets startup speed",
+    "url": "https://www.tailor.tech/about",
+    "pass": 1
+   },
+   {
+    "quote": "Yo Shibata and Misato Takahashi are serial entrepreneurs with a shared belief- ERP is long overdue for an upgrade.",
+    "url": "https://www.tailor.tech/about",
+    "pass": 1
+   },
+   {
+    "quote": "After selling their last startup to Rakuten, Yo and Misato set out to reinvent ERP with the speed and flexibility modern businesses need. Yo previously advised global enterprises at McKinsey and has had multiple successful exits as a founder. Misato was Head of R&R at Mercari and also co-founded multiple tech ventures.",
+    "url": "https://www.tailor.tech/about",
+    "pass": 1
+   },
+   {
+    "quote": "Production Management",
+    "url": "https://www.tailor.tech/about",
+    "pass": 1
+   },
+   {
+    "quote": "Usage-based Pricing: Pay only for the resources that you use",
+    "url": "https://www.tailor.tech/demo",
+    "pass": 1
+   },
+   {
+    "quote": "For technical or product support, email us at",
+    "url": "https://www.tailor.tech/demo",
+    "pass": 1
+   },
+   {
+    "quote": "Production Management",
+    "url": "https://www.tailor.tech/demo",
+    "pass": 1
+   },
+   {
+    "quote": "started with a simple mission: to provide unique, personalized men's wedding bands in a sea of sameness. Now, the California-based company is an omnichannel wholesaler providing made-to-order jewelry in a wide range of metals and styles.",
+    "url": "https://www.tailor.tech/resources/posts/case-study-universal-jewelry",
+    "pass": 1
+   },
+   {
+    "quote": ", previously run as a separate entity, now consolidated for operational simplicity and unified reporting",
+    "url": "https://www.tailor.tech/resources/posts/case-study-universal-jewelry",
+    "pass": 1
+   },
+   {
+    "quote": "to run its day-to-day operations. Universal Jewelry's products are sourced and imported directly — and the team juggles both retail and wholesale orders, complex pricing structures, and inventory across multiple product lines and fulfillment channels.",
+    "url": "https://www.tailor.tech/resources/posts/case-study-universal-jewelry",
+    "pass": 1
+   },
+   {
+    "quote": "Given Universal Jewelry's unique operational structure — plus with customers on various marketplaces and channels like Etsy, TikTok Shop and Pinterest — the ops team found itself unable to scale order processing as the business grew.",
+    "url": "https://www.tailor.tech/resources/posts/case-study-universal-jewelry",
+    "pass": 1
+   },
+   {
+    "quote": "Like many growing brands, Universal Jewelry relied on a single IT admin to handle the day-to-day systems issues. Matthew Laskowski, Order Processing Representative and Engraver at Universal Jewelry, frequently found himself caught between their Odoo implementation partner and the connector's support team — which made dealing with constant order and accounting issues even more painful.",
+    "url": "https://www.tailor.tech/resources/posts/case-study-universal-jewelry",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike other third-party connectors, Tailor provides both the product and hands-on support — which means faster iteration, tighter alignment with business needs, and direct access to engineers and retail ops expertise.",
+    "url": "https://www.tailor.tech/resources/posts/case-study-universal-jewelry",
+    "pass": 1
+   },
+   {
+    "quote": "\"With our old connector, we were manually fixing edge cases every single day, but the problem was that these edge cases were actually nuances of our operational model. From day one with Tailor, the number of manual fixes dropped significantly.\"",
+    "url": "https://www.tailor.tech/resources/posts/case-study-universal-jewelry",
+    "pass": 1
+   },
+   {
+    "quote": "— Matthew Laskowski, Order Processing Representative and Engraver, Universal Jewelry",
+    "url": "https://www.tailor.tech/resources/posts/case-study-universal-jewelry",
+    "pass": 1
+   },
+   {
+    "quote": "\"With Tailor, it actually feels like we have a partner — not just a vendor. Their team understands both the tech and the day-to-day reality of running a retail business. Instead of waiting weeks for fixes or explanations, we're solving problems together in real time.\"",
+    "url": "https://www.tailor.tech/resources/posts/case-study-universal-jewelry",
+    "pass": 1
+   },
+   {
+    "quote": "Universal Jewelry is especially interested in improving:",
+    "url": "https://www.tailor.tech/resources/posts/case-study-universal-jewelry",
+    "pass": 1
+   },
+   {
+    "quote": "Production Management",
+    "url": "https://www.tailor.tech/resources/posts/case-study-universal-jewelry",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify Your Production Workshop.",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline complex production workflows with tools that adapt to your operations — and keep costs low and quality high.",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Start today with Tailor’s composable apps to manufacture any product, boost throughput, and optimize cost and quality. Scale tomorrow with our low-code, API-first platform that adapts to your needs.",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Handle Any Production Process",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Make-to-stock, make-to-order to job shop, or batch production — Tailor’s retail manufacturing system supports every method. Automatically generate Manufacturing Orders from Sales Orders, manage multi-tier sub-assemblies, and seamlessly modify workflows for even the most complex production cycles",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Drive productivity with a user-friendly shop-floor interface that allows workers to batch complete tasks while capturing cycle time. Use throughput metrics to identify possible bottlenecks and automatically assign tasks according to worker capabilities, machine capacity, and shift hours.",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Gain clarity on future inventory needs by factoring in sales velocity, raw material required for final products, and production lead time. Receive automated alerts for stock-outs, overstock, or expiring materials, and leverage real-time data to adjust schedules or resource allocation without disrupting overall workflow.",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Pinpoint Product Costing",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Tailor’s retail manufacturing system accurately tracks production costs — even rolling up expenses from multi-tier sub-assemblies and factoring in outsourced production steps. Coupled with Tailor’s Inventory Management solution—which handles complex material costs like landed cost, freight, duty, and various pricing methods—you gain real-time product margins to optimize your bottom line.",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Plug & Play integrations for your production workshop",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Shorter production cycle times, fewer material shortages, clearer margin visibility, and cleaner handoffs between purchasing, shop floor, and fulfillment — because data lives in one composable model instead of scattered sheets.",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How is Tailor priced for Manufacturing, and what drives total cost?",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing scales with the modules and automation depth you enable (BOMs, work orders, costing, inventory, procurement). You pay for platform capability and usage, not per user; implementation and support are included.",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "We start with one flow (e.g., BOM → work order tracking) in weeks, then layer routing, costing, capacity, or variance logic. You provide process definitions and data; we configure schemas, events, and guardrails — phased rollout is standard.",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Composable blocks for multi‑level BOMs, work order lifecycle, material allocation, routing steps, production costing, variance capture, and exception alerting. Extend with events, pipelines, or state machines as needs grow.",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Connect to commerce demand (Shopify, Amazon), inventory and procurement, shipping (ShipStation), finance (QuickBooks, NetSuite sync), quality/MES via open API, and data/BI (Snowflake). Event-driven sync keeps status and material movements current — keep existing tools and retire later if desired.",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Role and record-level access, environment separation, audit trails on BOM/routing and cost changes, encrypted in transit and at rest, and resilient event architecture. Built to align with modern frameworks (e.g., SOC 2) with human review where precision matters.",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Production Management",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Serviceについて",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業の技術力や内製化度合いに関わらず、Tailor Platformを活用できるよう、Tailor JapanはProfessional Serviceを提供しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "Professional Serviceではインテグレーションやコンサルテーションのサービスを提供しており、プラットフォームのスムーズな導入と効率的な運用をサポートします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "Professional Service責任者からのコメント",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor JapanのProfessional Service責任者でありCOOの伊藤 勇輝は、次のように述べています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "ERP built for operators",
+    "url": "https://www.tailor.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline stock transfers, picking, packing, and shipping with precise inventory tracking, an optimized warehouse app with barcode scanning and label printing support.",
+    "url": "https://www.tailor.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Seamlessly sync orders, inventory, and financials between Shopify and Odoo. Trusted by high-growth brands.",
+    "url": "https://www.tailor.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Universal Jewelry Case Study: Shopify + Odoo Sync | Tailor",
+    "url": "https://www.tailor.tech/resources/posts/case-study-universal-jewelry",
+    "pass": 1
+   },
+   {
+    "quote": "Tailor handled the full implementation and supported Universal Jewelry with onsite configuration sessions and custom logic builds to support their specific order flows, warehouse setup, and refund logic.",
+    "url": "https://www.tailor.tech/resources/posts/case-study-universal-jewelry",
+    "pass": 1
+   },
+   {
+    "quote": "Retail Manufacturing System | Planning to Fulfillment | Tailor",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Make-to-stock, make-to-order to job shop, or batch production — Tailor’s retail manufacturing system supports every method. Automatically generate Manufacturing Orders from Sales Orders, manage multi-tier sub-assemblies, and seamlessly modify workflows for even the most complex production cycles",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Tailor’s retail manufacturing system accurately tracks production costs — even rolling up expenses from multi-tier sub-assemblies and factoring in outsourced production steps. Coupled with Tailor’s Inventory Management solution—which handles complex material costs like landed cost, freight, duty, and various pricing methods—you gain real-time product margins to optimize your bottom line.",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What outcomes can Tailor deliver for Manufacturing?",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Shorter production cycle times, fewer material shortages, clearer margin visibility, and cleaner handoffs between purchasing, shop floor, and fulfillment — because data lives in one composable model instead of scattered sheets.",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How is Tailor priced for Manufacturing, and what drives total cost?",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What does implementation look like for Manufacturing — timeline, responsibilities on our side, and can we phase rollout?",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "How do we migrate data for Manufacturing and manage change without downtime?",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Which Manufacturing workflows are supported out of the box?",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What integrations power Manufacturing, how real‑time is the sync, and can we keep current tooling?",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "What security, reliability, and compliance assurances apply to Manufacturing?",
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Shirohige Cream Puff Factory",
+    "url": "https://tokyocheapo.com/shopping-2/tokyo-suit-shops/",
+    "pass": 3
+   },
+   {
+    "quote": "Raymond Custom Tailoring Case Study",
+    "url": "https://www.yourretailcoach.in/case-studies/raymond-custom-tailoring-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Warehouse Design Consulting",
+    "url": "https://www.yourretailcoach.in/case-studies/raymond-custom-tailoring-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Strategy Implementation: The company was seeking retail consulting services to implement a new business model focused on manufacturing hubs directly for the end user and e-tailoring. Raymond Apparel Ltd. required standardization and streamlining of operations, as well as IT integration for the new model.",
+    "url": "https://www.yourretailcoach.in/case-studies/raymond-custom-tailoring-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "YRC also assisted the Raymond team with the standardization of garment production. Raymond was keen to take the online route and there were no standard measurements for styling, customized trims and more across the various franchise retail outlets of the company. YRC helped the Raymond team to adapt to online models and evolved garment manufacturing SOPs.",
+    "url": "https://www.yourretailcoach.in/case-studies/raymond-custom-tailoring-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "For Raymond’s unique e-tailoring service, SOPs in terms of specifics and workflows were incorporated right from the receipt of the order to the manufacturing of the product and the final delivery of the apparel.",
+    "url": "https://www.yourretailcoach.in/case-studies/raymond-custom-tailoring-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Right from reports generated at different levels and designations to reporting formats for everyone from the head tailor to the stylist, YRC worked on mapping operations, developing operating manuals and engaging with the team to facilitate franchise management for manufacturing hubs. Going online was one part of the challenge; managing its strategic implications was another.",
+    "url": "https://www.yourretailcoach.in/case-studies/raymond-custom-tailoring-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "VeryCreative Case Study: Tailor Factory – Tailor Factory - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/verycreative/case-study/tailor-factory-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor Factory - Customer Case Study",
+    "url": "https://www.casestudies.com/company/verycreative/case-study/tailor-factory-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Tailor Factory used VeryCreative",
+    "url": "https://www.casestudies.com/company/verycreative/case-study/tailor-factory-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/verycreative/case-study/tailor-factory-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/verycreative/case-study/tailor-factory-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Lovely Creative Case Study: The Tailor – The Tailor - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/lovely-creative/case-study/the-tailor-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The Tailor - Customer Case Study",
+    "url": "https://www.casestudies.com/company/lovely-creative/case-study/the-tailor-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how The Tailor used Lovely Creative",
+    "url": "https://www.casestudies.com/company/lovely-creative/case-study/the-tailor-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/lovely-creative/case-study/the-tailor-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/lovely-creative/case-study/the-tailor-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Select a case study to read full technical breakdown, before/after workflows, and operational metrics.",
+    "url": "https://tailors.duodev.in/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "⚡️ Complex workflows need custom logic: Whether it's multi-location inventory, DTC + B2B orders, or light manufacturing (like kitting or lot tracking), Tailor supports flexible automations out of the box.",
+    "url": "https://startupintros.com/orgs/tailor",
+    "pass": 3
+   },
+   {
+    "quote": "👟 Operators can move faster: Launch backend modules in minutes, not months. Tailor's low-code tools let teams build, automate, and adapt without waiting on engineering or implementation agencies.",
+    "url": "https://startupintros.com/orgs/tailor",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor is already powering operations at fast-growing omnichannel brands and modern manufacturers.",
+    "url": "https://startupintros.com/orgs/tailor",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Founded in Japan. Headquartered in San Francisco. Working from everywhere.",
+    "url": "https://www.tailor.tech/about",
+    "pass": 1
+   },
+   {
+    "quote": "Offices: San Francisco HQ | Tokyo HQ",
+    "url": "https://www.tailor.tech/about",
+    "pass": 1
+   },
+   {
+    "quote": "Their vision for headless ERP earned backing from Y Combinator, making Tailor the first YC company based in Japan. Today, they lead Tailor's US-based team, delivering solutions designed for composability, automation and scale.",
+    "url": "https://www.tailor.tech/about",
+    "pass": 1
+   },
+   {
+    "quote": "業務システムの開発基盤を提供するTailor Technologiesが日本市場向け事業Tailor Japanを発足 | テイラー株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務システムの開発基盤を提供するTailor Technologiesが日本市場向��け事業Tailor Japanを発足",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務システムを従来の10倍の速さで開発できる基盤「Tailor Platform（テイラープラットフォーム）」を提供するTailor Technologies, Inc.（本社: 米国カリフォルニア州、代表：柴田 陽）は、日本市場向けのビジネス拡大に伴いTailor Japan（テイラージャパン）を発足し、設立事業責任者には金谷 篤典が就任いたしました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場におけるデジタル化のニーズが急速に高まる中、Tailor Technologiesは日本企業の特有のニーズに応えるためにTailor Japanを設立しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor Japanは、以下の目的を掲げています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "・日本企業向けのカスタマイズされたソリューションの提供",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "・日本語サポートを含む包括的なカスタマーサポート体制の強化",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業の技術力や内製化度合いに関わらず、Tailor Platformを活用できるよう、Tailor JapanはProfessional Serviceを提供しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor Technologiesは、今後も日本市場において積極的な展開を図り、日本企業のデジタル化推進に貢献してまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor Japanの事業責任者 金谷 篤典のは次のように述べています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "「日本市場において、デジタル化の波がますます加速する中で、Tailor Platformが日本企業の競争力強化に貢献できることを非常に嬉しく思います",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor Japanの発足により、日本のお客様に対するサポートを一層充実させ、革新的なソリューションを迅速に提供してまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor JapanのProfessional Service責任者でありCOOの伊藤 勇輝は、次のように述べています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "「Tailor Japanとして体制を強化することにより、Professional Servicesをより広く日本地域のお客さまに提供できることを大変喜ばしく思います",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "※２：Tailr Japanの情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年6月には日本拠点の会社として初めて、世界的なスタートアップ・アクセラレータ・プログラム「Yコンビネーター」に採択されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "店舗集客サービス「スマポ」、タクシー配車アプリ「日本交通タクシー配車」など、数々のヒットアプリを手がける",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年11月に株式会社クラウドポート（現ファンズ株式会社）共同創業",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年テイラー株式会社を設立",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "楽天株式会社（2004年〜）等を経てGREE株式会社の創業期にエンジニアとして参画、Speee株式会社（東証スタンダード市場上場）、スポットライト（現楽天ペイメント）等のCTOとしての創業を経て、2017年メルカリ入社、AI、HCI、ブロックチェーン、量子コンピューターなど最先端の研究からELSIなど社会科学分野まで幅広く研究開発を行うmercari R4Dの立ち上げに参画",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区虎ノ門4-1-1",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor Japanが取り組む未来とは｜テイラー(YC S22)",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor Japanが取り組む未来とは",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは、Tailor Japan COOの@yukiです",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、新たに発足したTailor Japanについて、お届けします！",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "テイラーは、アメリカ西海岸の著名なY Combinatorというベンチャーキャピタルのプログラムにも採択された日本発のグローバルカンパニーとして、世界中のお客さまにサービスを展開する会社です",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "をメインに、日本地域向けのバーチャルカンパニーとして、Tailor Japanを発足し、より日本地域の事業に注力していくこととしました！",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "@kanayaman ：Head of Business, Japan",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "2024年3月にTailorへ入社し、同年4月よりHead of Business, Tailor Japanに就任",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "@yuki：COO、Tailor Japan",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "：まだまだメンバーも募集しているわけですが、そんな方にも情報をお伝えできるように、今日はTailor Japanの話していきましょうか",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "メンバーもだんだん集まってきて、Tailor Platformも進化してきて、日本でこのProfessional Service事業が、よりアクセルを踏める状態になったということですよね",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "ーどうしてTailor Japanは立ち上がったのですか？",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "日本の企業カルチャーや社会の仕組みに適したものを作っていくということを考えると、ビジネスプロセスや、事業を一緒に創っていくメンバーっていうのも、これまでのテイラーとは違う人を求める必要がでてくると思います",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "：そうですね、今回Tailor Japanとして再スタートする背景には、これまでのテイラーをベースにしつつも、多様なメンバーをさらに迎えたいという思いもありますね",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "テイラーで様々なエンジニア以外のメンバーや、日本の様々なお客さまとご一緒する上で、現状の仕組みでは限界があり、ギアチェンジの必要性があるのではないかと感じていました",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "ーTailor Japanは今後どのようなことをしていくのですか",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "：私が入って驚いたのは、Tailor Japanとなる前から、この会社では、基幹系パッケージソフトウェアの刷新プロジェクト、紙で運用していた業務をシステムに刷新するプロジェクト・新しいシステムをお客さまとの共同のスクラムで開発するっていう3つの異なる性質、プロセスの業務を同時にやっちゃってたことです（笑）お客さまの満足度も高くて、その後PMOなど他の領域の仕事もお任せしていただけるようになりました",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "日本品質みたいにいわれることもありますが、日本だけではなく、グローバルで見ても、自分たちの商習慣に合わせたいっていう話は多いと思います",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor Japanの取り組みっていうのは、今後グローバルに展開していきたいですね",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "：そうですね、素晴らしいチームで、日本のシステムを変えていきましょう！",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor Technologies、日本市場向けに新たな基盤ソリューション展開プログラム「Rapid Foundation Rollout」を発表 | テイラー株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor Technologies、日本市場向けに新たな基盤ソリューション展開��プログラム「Rapid Foundation Rollout」を発表",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "業務システムを従来の10倍の速さで開発できる基盤「Tailor Platform（テイラープラットフォーム）」を提供するTailor Technologies, Inc.（本社: 米国カリフォルニア州、代表：柴田陽）は、日本市場向けに新たな基盤ソリューション展開プログラム「Rapid Foundation Rollout（RFR）」を発表しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "このプログラムは、Tailor Japanを通じて日本市場に提供され、ユーザー部門が主体となりTailor Japanが伴走することで、業務システムをわずか8週間で開発・実��戦投入することを可能にします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "※２：Tailor Japanの情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "2022年6月には日本拠点の会社として初めて、世界的なスタートアップ・アクセラレータ・プログラム「Yコンビネーター」に採択されています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "店舗集客サービス「スマポ」、タクシー配車アプリ「日本交通タクシー配車」など、数々のヒットアプリを手がける",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "2016年11月に株式会社クラウドポート（現ファンズ株式会社）共同創業",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "2021年テイラー株式会社を設立",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "楽天株式会社（2004年〜）等を経てGREE株式会社の創業期にエンジニアとして参画、Speee株式会社（東証スタンダード市場上場）、スポットライト（現楽天ペイメント）等のCTOとしての創業を経て、2017年メルカリ入社、AI、HCI、ブロックチェーン、量子コンピューターなど最先端の研究からELSIなど社会科学分野まで幅広く研究開発を行うmercari R4Dの立ち上げに参画",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区虎ノ門4-1-1",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】TAILOR JAPAN（テイラージャパン）",
+    "url": "https://americanlife.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【初心者必見】サバゲーは「TAILOR JAPAN デューティーベルト」1本で始められる！",
+    "url": "https://americanlife.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "公式【TAILOR JAPAN/テイラージャパン】ラピッドエッジアサルトセット（単色） プレートキャリア エラスティックマガジンポーチセット マガジン6本収納可能 タクティカルベスト サバゲー装備 MOLLE対応 クイックリリース搭載",
+    "url": "https://americanlife.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "公式【TAILOR JAPAN/テイラージャパン】ラピッドエッジアサルトセット(迷彩) プレートキャリア スペクターエディション エラスティックマガジンポーチセット マガジン6本収納可能 タクティカルベスト サバゲー装備 MOLLE対応 クイックリリース搭載",
+    "url": "https://americanlife.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】TAILOR JAPAN 公式限定！ バックパネルセット ラピッドエッジプレートキャリア バッグパネルセット プレートキャリア タクティカルベスト クイックリリース対応 MOLLE対応 1000Dナイロン サバゲー 装備",
+    "url": "https://americanlife.theshop.jp/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "For technical or product support, email us at",
+    "url": "https://www.tailor.tech/demo",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": ", including acquisitions and spin-offs, and relies on platforms like",
+    "url": "https://www.tailor.tech/resources/posts/case-study-universal-jewelry",
+    "pass": 1
+   },
+   {
+    "quote": "1 SolarReviews",
+    "url": "https://www.tailor.tech/_next/image?url=https%3A%2F%2Fproud-diamond-9f85b9c627.media.strapiapp.com%2Fusecases_integrations_4b131f1629.png&w=3840&q=75",
+    "pass": 2
+   },
+   {
+    "quote": "楽天株式会社（2004年〜）等を経てGREE株式会社の創業期にエンジニアとして参画、Speee株式会社（東証スタンダード市場上場）、スポットライト（現楽天ペイメント）等のCTOとしての創業を経て、2017年メルカリ入社、AI、HCI、ブロックチェーン、量子コンピューターなど最先端の研究からELSIなど社会科学分野まで幅広く研究開発を行うmercari R4Dの立ち上げに参画",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "楽天株式会社（2004年〜）等を経てGREE株式会社の創業期にエンジニアとして参画、Speee株式会社（東証スタンダード市場上場）、スポットライト（現楽天ペイメント）等のCTOとしての創業を経て、2017年メルカリ入社、AI、HCI、ブロックチェーン、量子コンピューターなど最先端の研究からELSIなど社会科学分野まで幅広く研究開発を行うmercari R4Dの立ち上げに参画",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rapid Edge Plate Carrierに、",
+    "url": "https://americanlife.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "公式【TAILOR JAPAN/テイラージャパン】ラピッドエッジプレートキャリア プレートキャリア タクティカルベスト サバゲーベスト モールシステム対応 クイックリリース搭載 プレキャリ 3連マガジンポーチ搭載 Rapid Edge Plate Carrier 1000Dナイロン製（ブラック/ブラウン/グリーン） UB-XZQL-D1Z0",
+    "url": "https://americanlife.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "公式【TAILOR JAPAN/テイラージャパン】 ラピッドエッジプレートキャリア プレートキャリア タクティカルベスト サバゲーベスト モールシステム対応 クイックリリース搭載 プレキャリ 3連マガジンポーチ搭載 Rapid Edge Plate Carrier 1000Dナイロン製（マルチカム/ブラックマルチカム） UB-XZQL-D1Z0",
+    "url": "https://americanlife.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Evaluating the new business model and business plan, YRC specialists also carried out the strategic integration of the e-tailoring initiative with existing systems and facilities. From existing models of operations, to understanding the investment involved in the new business model, recurring costs and financials were analyzed by YRC retail consultants for Raymond.",
+    "url": "https://www.yourretailcoach.in/case-studies/raymond-custom-tailoring-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Right from reports generated at different levels and designations to reporting formats for everyone from the head tailor to the stylist, YRC worked on mapping operations, developing operating manuals and engaging with the team to facilitate franchise management for manufacturing hubs. Going online was one part of the challenge; managing its strategic implications was another.",
+    "url": "https://www.yourretailcoach.in/case-studies/raymond-custom-tailoring-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "A lifetime warranty on alteration further sweetens the deal. The focus should be on a unique look with garments that are well crafted. Raymond offers a perfect fit guarantee and full refund in case clients are not satisfied with the apparel.",
+    "url": "https://www.yourretailcoach.in/case-studies/raymond-custom-tailoring-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "See how eliminating double-entry between manual paper receipt books and order ledger notebooks plugged revenue leaks and made end-of-day cash reconciliation instantaneous.",
+    "url": "https://tailors.duodev.in/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "They had spent a great deal of time gazing at the sky, the clouds, the starry heavens, and many other beautiful things.",
+    "url": "https://note.com/gensouno_sitauke/n/n7259da67776c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When you set the week to start on Tuesday, the weekly page will be arranged in the order of \"Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, Monday,\" with Monday on the far right grayed out. This allows your work week to flow from left to right, ending with your day off.",
+    "url": "https://note.com/techotailor/n/nbc6bb7735138?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "業務システムの開発基盤を提供するTailor Technologiesが日本市場向け... — May 30, 2024 · テイラー株式会社のプレスリリース（2024年5月30日 11時00分）業務システムの開発基盤を提供するTailor Technologiesが日本市場向け事業Tailor Japanを発足",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor Japanが取り組む未来とは｜テイラー (YC S22) — May 30, 2024 · こんにちは、Tailor Japan COOの@yukiです。今回は、新たに発足したTailor Japanについて、お届けします！ 業務システムの開発基盤を提供するTailor Technologiesが日本市場向け事業Tailor Japanを発足 テイラー株式会社のプレスリリース（2024年5月30日 11時00分）業務システムの開発基盤を提供するTailor Tec prtimes ...",
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor Technologies、日本市場向けに新たな基盤ソリューション展開プ... — Jul 25, 2024 · テイラー株式会社のプレスリリース（2024年7月25日 11時00分）Tailor Technologies、日本市場向けに新たな基盤ソリューション展開プログラム「Rapid ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000101637.html",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】TAILOR JAPAN（テイラージャパン） — 公式【TAILOR JAPAN/テイラージャパン】 プレートキャリア (SWAT.ver) タクティカルベスト サバゲーベスト スワット 仕様 ミドルグレードモデル RA-R725-6NML ¥21,980",
+    "url": "https://americanlife.theshop.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "IBM/オラクル外資セールス出身の金谷氏が、Tailor社に入ったワケ ～Ta... — May 24, 2024 · 第1回は2024年3月にTailor JapanにHead of Businessとしてジョインした金谷さんにフォーカス。 IBM/オラクル/ユニシスなど、外資系大手企業でのセールスバッググラウンドの金谷さんが、なぜこのタイミングでグでTailor社に入社したのか。 その背景をお伺いしています！",
+    "url": "https://www.globiscapital.co.jp/ja/podcast/00075",
+    "pass": 3
+   },
+   {
+    "quote": "Where to Find Tailor-Made Suits in Tokyo - Japan Living Guide — Jan 9, 2024 · Whether you are looking for a bespoke or made-to-measure suit, or just need some alterations made, these tailor services in Tokyo can get you looking right.",
+    "url": "https://www.japanlivingguide.com/lifestyle/shopping/tokyo-tailor-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Suit Shops: Where to Buy High-Quality, Tailor-Made ... — May 5, 2018 · Japanese's love of quality and skill mean you can buy some pretty impressive suits at these 5 Tokyo suit shops - with prices to fit any budget.",
+    "url": "https://tokyocheapo.com/shopping-2/tokyo-suit-shops/",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.co.jp: 【TAILOR JAPAN】タクティカルポーチ ミリタリーポーチ...【ポーチ】 | 【公式】TAILOR JAPAN（テイラージャパン）テイラー株式会社 採用情報 | 誰もがデプロイできる社会を創る楽天市場 | TAILOR JAPAN 楽天市場店 - ミリタリー用品の専門店 — オンライン通販のAmazon公式サイトなら、【TAILOR JAPAN】タクティカルポーチ ミリタリーポーチ サバゲーポーチ スマホ サバゲー ベルクロ ミリタリーバッグ アウトドア スポーツ 小物入れ 緑 OD (グリーン)を ホビーストアで、いつでもお安く。当日お急ぎ便対象商品は、当日お届け可能です ... 公式【TAILOR JAPAN/テイラージャパン】コンパクトキーユーティリティポーチ | 小型ポーチ ミニポーチ キーケース 小銭入れ ベルトループ付き カラビナ対応 | Y",
+    "url": "https://www.amazon.co.jp/【TAILOR-JAPAN】タクティカルポーチ-ミリタリーポーチ-サバゲーポーチ-ミリタリーバッグ/dp/B08V8J876P",
+    "pass": 3
+   },
+   {
+    "quote": "【ポーチ】 | 【公式】TAILOR JAPAN（テイラージャパン） — 公式【TAILOR JAPAN/テイラージャパン】コンパクトキーユーティリティポーチ | 小型ポーチ ミニポーチ キーケース 小銭入れ ベルトループ付き カラビナ対応 | YD-OUB3-BZJM ¥1,598",
+    "url": "https://americanlife.theshop.jp/categories/2201882",
+    "pass": 3
+   },
+   {
+    "quote": "Raymond Custom Tailoring Case Study - yourretailcoach.in — Devising the Right Strategy Right from reports generated at different levels and designations to reporting formats for everyone from the head tailor to the stylist, YRC worked on mapping operations, developing operating manuals and engaging with the team to facilitate franchise management for manufacturing hubs.",
+    "url": "https://www.yourretailcoach.in/case-studies/raymond-custom-tailoring-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor Factory - Customer Case Study — Tailor Factory partnered with VeryCreative (Internet) to solve key challenges. \"Tailor Factory - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/verycreative/case-study/tailor-factory-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "The Tailor - Customer Case Study — The Tailor partnered with Lovely Creative to solve key challenges. \"The Tailor - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/lovely-creative/case-study/the-tailor-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Tailoring Success Stories & Case Studies | Real Shop Results ... — Explore real-world case studies of tailoring shops, bridal boutiques, and multi-branch tailor chains that scaled operations, cut delivery delays, and grew profits with DD Tailors.",
+    "url": "https://tailors.duodev.in/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "World Tailors: Stitching Together a Plan for Growth — Mar 5, 2019 · The director of World Tailors, a small Canadian manufacturer that employed immigrant and refugee women to sew high-quality aprons, napkins, and market bags, wondered how all of the needed products would be completed for the 2017 December holiday season. During the past seven years, demand for World Tailor products had steadily inc",
+    "url": "https://hbsp.harvard.edu/product/W18862-PDF-ENG",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Who founded Tailor? Tailor was founded in 2021 by Misato Takahashi (Founder) and Yo Shibata (Founder). How much funding has Tailor raised? Tailor has raised $49.3M in total across 4 funding rounds. Who are Tailor's investors? Tailor's investors include Junichiro Kono, Alpha Partners, Global Brain, i-nest capital, JPS Growth Invest",
+    "url": "https://startupintros.com/orgs/tailor",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor - 2026 Company Profile, Team, Funding & Competitors ...Tailor - 2026 Company Profile, Funding & Investors | The ...Tailor — Company Profile, Funding & InvestorsTailor Revenue 2024: $14.6M Est. ARR - getlatka.comTailor: Funding, Investors & Team (Nov 2026) | FundedIQTailor 2026 Company Profile: Valuation, Funding & Investors ... — Feb 24, 2026 · Tailor is a series A company based in San Fran",
+    "url": "https://tracxn.com/d/companies/tailor/__jjU3s_lyskJZo8bDKOL_deEuvtBXtzCSZBuBTsy6Sao",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor - 2026 Company Profile, Funding & Investors | The ... — Oct 15, 2026 · Tailor is a Technology company based in San Francisco (United States) founded in 2020 by Yo Shibata and Misato Takahashi. Cloud-based ERP software is offered for enterprise operations management. It operates on a SaaS (Software-as-a-Service) and Pay-per-Use / Usage-Based model. Tailor has raised $40.43 million across 5 f",
+    "url": "https://www.thecompanycheck.com/company/b/tailor/4ju75bbbtpfd6o7fv",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor — Company Profile, Funding & Investors — Tailor company profile with $41.3M raised across 3 funding rounds, HQ in Tokyo, Japan, founded 2021. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/tailor-356473",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor Revenue 2024: $14.6M Est. ARR - getlatka.com — Sep 2, 2026 · Tailor 2024 estimated revenue: $14.6M ARR. 100 employees. Industry: ERP Systems. Founded 2021. HQ: Japan Updated Sep 2, 2026.",
+    "url": "https://getlatka.com/companies/tailor.tech",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Private Label Brand Consulting",
+    "url": "https://www.yourretailcoach.in/case-studies/raymond-custom-tailoring-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "👟 Operators can move faster: Launch backend modules in minutes, not months. Tailor's low-code tools let teams build, automate, and adapt without waiting on engineering or implementation agencies.",
+    "url": "https://startupintros.com/orgs/tailor",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Fantasy Novel] The Tailor｜幻想の下請け 幻想の下請け Nov 9, 2026 19:00 Near the center of town, there was a popular tailor. They were skilled at making cotton or linen dresses look exactly like dresses made of silk or lace. There was an endless selection of colors. Pearls, diamonds, or even jewels that do not exist in this world—they could use as many as they liked. If you wore them for just a few hours durin",
+    "url": "https://note.com/gensouno_sitauke/n/n7259da67776c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you are closed on Mondays, start on Tuesday. Examples of ... At Techo Tailor, you can set the start of the week to any of the seven days, and you can include your shop or company's regular holidays on the pages from the start. In this article, I will summarize how to set these two things for ease of use, using examples for different types of work.",
+    "url": "https://note.com/techotailor/n/nbc6bb7735138?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "バンコクで本格オーダーメイドスーツ！安心と信頼の『Class Bespoke T... Jan 31, 2025 · 『Class Bespoke Tailor』の特徴 スーツは最短3日で仕立て可能（通常は約1週間、仮縫いあり） バンコク市内ならホテルやコンドミニアムへの訪問採寸OK。ベテランのテイラーが訪問採寸までしてくれるVIP級のサービス！ 忙しいビジネスマンにとっても便利ですね。 日本への海外配送対応。日本や ...",
+    "url": "https://note.com/bua_17/n/nc97854d9d8ee",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[Fantasy Novel] The Tailor｜幻想の下請け",
+    "url": "https://note.com/gensouno_sitauke/n/n7259da67776c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Fantasy Novel] The Tailor",
+    "url": "https://note.com/gensouno_sitauke/n/n7259da67776c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Near the center of town, there was a popular tailor.",
+    "url": "https://note.com/gensouno_sitauke/n/n7259da67776c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "They were skilled at making cotton or linen dresses look exactly like dresses made of silk or lace.",
+    "url": "https://note.com/gensouno_sitauke/n/n7259da67776c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There was an endless selection of colors.",
+    "url": "https://note.com/gensouno_sitauke/n/n7259da67776c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pearls, diamonds, or even jewels that do not exist in this world—they could use as many as they liked.",
+    "url": "https://note.com/gensouno_sitauke/n/n7259da67776c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you wore them for just a few hours during a celebration, nothing would remain afterward.",
+    "url": "https://note.com/gensouno_sitauke/n/n7259da67776c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It was only natural, as they didn't use any pearls taken from opened shells, nor any fabric made by unraveling and reweaving silkworm cocoons; they simply made it look as if they existed.",
+    "url": "https://note.com/gensouno_sitauke/n/n7259da67776c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you are closed on Mondays, start on Tuesday. Examples of setting your day off and the start of the week (hair salons, restaurants, shift work)｜手帳テイラー",
+    "url": "https://note.com/techotailor/n/nbc6bb7735138?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you are closed on Mondays, start on Tuesday. Examples of setting your day off and the start of the week (hair salons, restaurants, shift work)",
+    "url": "https://note.com/techotailor/n/nbc6bb7735138?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "you can set the start of the week to any of the seven days, and you can include your shop or company's regular holidays on the pages from the start.",
+    "url": "https://note.com/techotailor/n/nbc6bb7735138?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I will summarize how to set these two things for ease of use, using examples for different types of work.",
+    "url": "https://note.com/techotailor/n/nbc6bb7735138?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "All examples are based on common work styles. Please use the one closest to your own week as a reference.",
+    "url": "https://note.com/techotailor/n/nbc6bb7735138?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "First, what you can do with these two settings",
+    "url": "https://note.com/techotailor/n/nbc6bb7735138?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You can choose the day of the week for the start of the week from the seven days, Sunday through Saturday. You can also create a planner that starts on Tuesday or Wednesday.",
+    "url": "https://note.com/techotailor/n/nbc6bb7735138?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The weekly page displays one week starting from the day on the far left.",
+    "url": "https://note.com/techotailor/n/nbc6bb7735138?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "バンコクで本格オーダーメイドスーツ！安心と信頼の『Class Bespoke Tailor』の魅力に迫る🧥｜Bua in Thailand",
+    "url": "https://note.com/bua_17/n/nc97854d9d8ee",
+    "pass": 3
+   },
+   {
+    "quote": "バンコクで本格オーダーメイドスーツ！安心と信頼の『Class Bespoke Tailor』の魅力に迫る🧥",
+    "url": "https://note.com/bua_17/n/nc97854d9d8ee",
+    "pass": 3
+   },
+   {
+    "quote": "です。今回は新しい年を迎え、バンコクで評判のいいスーツ店に取材に行ってきました🇹🇭",
+    "url": "https://note.com/bua_17/n/nc97854d9d8ee",
+    "pass": 3
+   },
+   {
+    "quote": "View this post on Instagram",
+    "url": "https://note.com/bua_17/n/nc97854d9d8ee",
+    "pass": 3
+   },
+   {
+    "quote": "A post shared by Class Bespoke Tailor (@classbespoke)",
+    "url": "https://note.com/bua_17/n/nc97854d9d8ee",
+    "pass": 3
+   },
+   {
+    "quote": "日本でオーダーメイドと聞くと、「高級」「敷居が高い」と感じる方も多いかもしれません。ですが、タイのバンコクでは比較的手頃な価格で高品質な洋服を仕立てることができるんですよね。",
+    "url": "https://note.com/bua_17/n/nc97854d9d8ee",
+    "pass": 3
+   },
+   {
+    "quote": "今回ご紹介するのは、バンコク・プロンポンエリアにある 『",
+    "url": "https://note.com/bua_17/n/nc97854d9d8ee",
+    "pass": 3
+   },
+   {
+    "quote": "創業24年の実績を持ち、日本人にも人気のオーダーメイド専門店です。",
+    "url": "https://note.com/bua_17/n/nc97854d9d8ee",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "anastaxia on X: \"Your favorite tailor ️\" / X anastaxia on X: \"Your favorite tailor ️\" / X Your favorite tailor ️",
+    "url": "https://x.com/Anastazia1960/status/2117950026924085395",
+    "pass": 3
+   },
+   {
+    "quote": "Tailor On Tap (@Tailor_On_Tap) / X Custom suiting with a side of oysters. 🦪 All set up and ready for the client! At Tailor On Tap, we enjoy bringing our fabrics, expertise, and personalized service right to the table. Whether at your home, office, or one of our locations, we make custom clothing convenient by Show more",
+    "url": "https://x.com/Tailor_On_Tap",
+    "pass": 3
+   },
+   {
+    "quote": "MG作品用/アトリエtailorbird on X: \"お試しで垢分けしてみました。 ... お試しで垢分けしてみました。 今後創作物 (特に販売予定の物など)や参加予定イベントの告知はこのアカウントをメインに行おうと思います。 #アトリエtailorbird 07 Nov 2026 12:38:54",
+    "url": "https://x.com/MG_made_doll/status/2119046938742174202",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "29,000+ Tailor Des Moines Iowa jobs in United States - LinkedIn Today's top 29,000+ Tailor Des Moines Iowa jobs in United States. Leverage your professional network, and get hired. New Tailor Des Moines Iowa jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/tailor-des-moines-iowa-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Highlander & Co. | LinkedIn Highlander & Co. is an independent, appointment-only custom tailoring and wardrobe consulting lounge based in Des Moines, Iowa. Founded by custom tailor and wardrobe consultant Jared Amundson, the ...",
+    "url": "https://www.linkedin.com/company/highlander-and-co",
+    "pass": 3
+   },
+   {
+    "quote": "Knox Hart - So our kids inherit the intelligence economy, not ...Runtailor - LinkedInKATJA VAN DER STEEN, PhD - Bespoke tailor and educator | LinkedInAna Miranda - Director & Partner | Senior Headhunter at ...MR TAILOR - Suitsupply | LinkedIn So our kids inherit the intelligence economy, not rent it tailor · aukus.si · aloom · I'm Co-Founder of Tailor, Aloom and aukus.si, working across AI applica",
+    "url": "https://au.linkedin.com/in/knox-hart",
+    "pass": 3
+   },
+   {
+    "quote": "Runtailor - LinkedIn Runtailor | 943 followers on LinkedIn. Transforming wardrobes and empowering individuals through personalised fashion advice and styling services. | At Runtailor, we provide personalised fashion advice and styling services to help individuals look and feel their best. Our expert consultants work closely with each client to understand their unique needs, preferences, and lifest",
+    "url": "https://in.linkedin.com/company/run-tailor",
+    "pass": 3
+   },
+   {
+    "quote": "TailorNote - LinkedIn With TailorNote you will get a digital book for all your tailoring jobs. TailorNote is designed to help fashion designers to effectively organize jobs, properly manage customer details and improve ...",
+    "url": "https://www.linkedin.com/company/tailornote",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Lou's Tailoring | Des Moines IA - FacebookLal Tailoring | Des Moines IA - FacebookBusy Bee Tailor | Des Moines IA - FacebookHana Tailor | Des Moines IA - FacebookKeo's Tailoring | Des Moines IA - FacebookGlorious Alterations | Ankeny IA - FacebookHickman Tailors | Windsor Heights IA - Facebook Sep 26, 2026 · Lou Tailor provides for all tailoring & alteration needs. Serving the Des Moines, IA area,",
+    "url": "https://www.facebook.com/loustailoring/",
+    "pass": 3
+   },
+   {
+    "quote": "Lal Tailoring | Des Moines IA - FacebookBusy Bee Tailor | Des Moines IA - FacebookHana Tailor | Des Moines IA - FacebookKeo's Tailoring | Des Moines IA - FacebookGlorious Alterations | Ankeny IA - FacebookHickman Tailors | Windsor Heights IA - Facebook Lal Tailoring, Des Moines. 201 followers. Alterations, Mens and Women's Clothes, Quality Price, Good Service. May 20, 2020 · Busy Bee Tailor, Des M",
+    "url": "https://www.facebook.com/madingipa/",
+    "pass": 3
+   },
+   {
+    "quote": "Busy Bee Tailor | Des Moines IA - FacebookHana Tailor | Des Moines IA - FacebookKeo's Tailoring | Des Moines IA - FacebookGlorious Alterations | Ankeny IA - FacebookHickman Tailors | Windsor Heights IA - Facebook May 20, 2020 · Busy Bee Tailor, Des Moines. 1,054 followers · 1 talking about this · 5 were here. we bring for community custom face mask , every 5 face mask we sell we will donation one ",
+    "url": "https://www.facebook.com/busybeetailor/",
+    "pass": 3
+   },
+   {
+    "quote": "Hana Tailor | Des Moines IA - Facebook Aug 5, 2024 · Hana Tailor, Des Moines. 31 likes · 1 talking about this. - Tailor in the Des Moines, IA. - By-appointment service via text or call. - Alterations, repairs, and custom fittings for all your clothing...",
+    "url": "https://www.facebook.com/hanatailoralteration/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tailor.tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tailor.tech/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tailor.tech/demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tailor.tech/resources/posts/case-study-universal-jewelry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tailor.tech/use-cases/manufacturing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tailor.tech/_next/image?url=https%3A%2F%2Fproud-diamond-9f85b9c627.media.strapiapp.com%2Fmanufacturing_8c10a51dc5.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tailor.tech/_next/image?url=https%3A%2F%2Fproud-diamond-9f85b9c627.media.strapiapp.com%2Fusecases_integrations_4b131f1629.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://proud-diamond-9f85b9c627.media.strapiapp.com/customers_7b736f7a3a.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tailortech/n/nb9a05b1ee192",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000010.000101637.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://americanlife.theshop.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://americanlife.theshop.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanlivingguide.com/lifestyle/shopping/tokyo-tailor-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyocheapo.com/shopping-2/tokyo-suit-shops/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%80%90TAILOR-JAPAN%E3%80%91%E3%82%BF%E3%82%AF%E3%83%86%E3%82%A3%E3%82%AB%E3%83%AB%E3%83%9D%E3%83%BC%E3%83%81-%E3%83%9F%E3%83%AA%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%9D%E3%83%BC%E3%83%81-%E3%82%B5%E3%83%90%E3%82%B2%E3%83%BC%E3%83%9D%E3%83%BC%E3%83%81-%E3%83%9F%E3%83%AA%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%90%E3%83%83%E3%82%B0/dp/B08V8J876P",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yourretailcoach.in/case-studies/raymond-custom-tailoring-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/verycreative/case-study/tailor-factory-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/lovely-creative/case-study/the-tailor-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tailors.duodev.in/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/tailor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/tailor/__jjU3s_lyskJZo8bDKOL_deEuvtBXtzCSZBuBTsy6Sao",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/tailor/4ju75bbbtpfd6o7fv",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://acquirezy.com/organization/tailor-356473",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gensouno_sitauke/n/n7259da67776c?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/techotailor/n/nbc6bb7735138?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bua_17/n/nc97854d9d8ee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Anastazia1960/status/2117950026924085395",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Tailor_On_Tap",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/tailor-des-moines-iowa-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/highlander-and-co",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/knox-hart",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/run-tailor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/loustailoring/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/madingipa/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/busybeetailor/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hanatailoralteration/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/tailornote",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MG_made_doll/status/2119046938742174202",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Tailor 日本 導入",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000006.000101637.html",
+    "https://note.com/tailortech/n/nb9a05b1ee192",
+    "https://prtimes.jp/main/html/rd/p/000000010.000101637.html",
+    "https://americanlife.theshop.jp/",
+    "https://www.globiscapital.co.jp/ja/podcast/00075",
+    "https://jp.tailor.tech/",
+    "https://note.com/tailortech/n/necdcad3e0c57"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tailor 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tailor Japan",
+   "results": [
+    "https://americanlife.theshop.jp/",
+    "https://www.japanlivingguide.com/lifestyle/shopping/tokyo-tailor-services/",
+    "https://tokyocheapo.com/shopping-2/tokyo-suit-shops/",
+    "https://www.amazon.co.jp/【TAILOR-JAPAN】タクティカルポーチ-ミリタリーポーチ-サバゲーポーチ-ミリタリーバッグ/dp/B08V8J876P",
+    "https://americanlife.theshop.jp/categories/2201882",
+    "https://www.rakuten.co.jp/tailor-japan/",
+    "https://careers.tailor.tech/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tailor manufacturing customer case study",
+   "results": [
+    "https://www.yourretailcoach.in/case-studies/raymond-custom-tailoring-case-study/",
+    "https://www.casestudies.com/company/verycreative/case-study/tailor-factory-customer-case-study",
+    "https://www.casestudies.com/company/lovely-creative/case-study/the-tailor-customer-case-study",
+    "https://tailors.duodev.in/case-studies",
+    "https://hbsp.harvard.edu/product/W18862-PDF-ENG",
+    "https://www.scribd.com/document/815870697/Case-Study-Tailor-Store",
+    "https://www.ijert.org/development-of-tailor-shop-management-system-for-order-tracking-and-customer-measurement-recording"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tailor white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.brandability.co.za/reseller"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tailor founded funding employees revenue",
+   "results": [
+    "https://startupintros.com/orgs/tailor",
+    "https://tracxn.com/d/companies/tailor/__jjU3s_lyskJZo8bDKOL_deEuvtBXtzCSZBuBTsy6Sao",
+    "https://www.thecompanycheck.com/company/b/tailor/4ju75bbbtpfd6o7fv",
+    "https://acquirezy.com/organization/tailor-356473",
+    "https://getlatka.com/companies/tailor.tech",
+    "https://fundediq.co/tailor-tailor-tech-funding/",
+    "https://pitchbook.com/profiles/company/1462303-36"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Tailor",
+   "results": [
+    "https://note.com/gensouno_sitauke/n/n7259da67776c?hl=en",
+    "https://note.com/yudaitanaka",
+    "https://note.com/techotailor/n/nbc6bb7735138?hl=en",
+    "https://note.com/bua_17/n/nc97854d9d8ee",
+    "https://note.com/ai_kaigo_nao2/n/n5c3b47e16a31?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Tailor",
+   "results": [
+    "https://x.com/Anastazia1960/status/2117950026924085395",
+    "https://x.com/Tailor_On_Tap",
+    "https://help.x.com/en/using-x/x-advanced-search",
+    "https://help.x.com/en",
+    "https://x.com/rab_ag/status/2106558519860183078",
+    "https://business.x.com/en/help/overview/twitter-ads-glossary",
+    "https://business.x.com/en/help/ads-policies/brand-safety"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Tailor",
+   "results": [
+    "https://www.linkedin.com/jobs/tailor-des-moines-iowa-jobs",
+    "https://www.linkedin.com/company/highlander-and-co",
+    "https://au.linkedin.com/in/knox-hart",
+    "https://in.linkedin.com/company/run-tailor",
+    "https://nl.linkedin.com/in/katjavandersteen/nl",
+    "https://za.linkedin.com/in/mr-tailor-a01b75363",
+    "https://br.linkedin.com/in/anaclaudiamiranda"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Tailor",
+   "results": [
+    "https://www.facebook.com/loustailoring/",
+    "https://www.facebook.com/madingipa/",
+    "https://www.facebook.com/busybeetailor/",
+    "https://www.facebook.com/hanatailoralteration/",
+    "https://www.facebook.com/keostailordsm/",
+    "https://www.facebook.com/hickmantailors/",
+    "https://www.facebook.com/GloriousAlterations/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tailor note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.linkedin.com/company/tailornote",
+    "https://note.com/tailortech/n/n4eba78159c49",
+    "https://note.com/tailortech/n/n5e3a50324b5d",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Tailor X 投稿",
+   "results": [
+    "https://x.com/MG_made_doll/status/2119046938742174202",
+    "https://www.instagram.com/tailor_x_atelier/",
+    "http://tailor-x.com/",
+    "https://x.com/",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://help.x.com/ja/resources/new-user-faq",
+    "https://www.pixiv.net/users/66739067"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像3件／外部39頁・検索12回）"
+ }
+}

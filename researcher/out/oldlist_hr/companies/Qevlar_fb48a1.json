@@ -1,0 +1,957 @@
+{
+ "name": "Qevlar",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial IT / Software｜AUMS不適合",
+ "researched_at": "2026-11-11T00:12:54.939878+00:00",
+ "official_url": "https://www.qevlar.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI SOC for self-improving defense",
+    "url": "https://www.qevlar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Qevlar AI transforms your SOC's daily activity into a self-improving defense system that continuously sharpens investigation, detection, response, threat hunting, and vulnerability prioritization",
+    "url": "https://www.qevlar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Live in production at 1,500 organizations globally",
+    "url": "https://www.qevlar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most security teams act like firefighters, investigating individual alerts, but their defenses don’t get stronger. The problem is that knowledge disappears when tickets close, analysts leave, and teams work in silos.",
+    "url": "https://www.qevlar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Qevlar investigates every alert across your stack, connects related activity into a single incident story, maps the full blast radius and moves containment forward, following your procedures, with analyst control.",
+    "url": "https://www.qevlar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Qevlar drives the next action: containment for malicious activity, tuning for false positives, and policy or compliance follow-up for benign violations. So every outcome improves your defences.",
+    "url": "https://www.qevlar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A shared intelligence layer for prioritising real risk. Confirmed exploitation elevates vulnerable assets in the remediation queue immediately, and critical exposures on high-value systems become new hunt priorities for the SOC.",
+    "url": "https://www.qevlar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A security posture that improves with every action",
+    "url": "https://www.qevlar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every alert makes your defenses stronger. Detections improve. Coverage expands. Threats get prioritized. Faster and more intelligently each time.",
+    "url": "https://www.qevlar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The integration of Qevlar's autonomous, adaptive agentic AI with Atos cybersecurity delivers incremental operational excellence to protect customer business.”",
+    "url": "https://www.qevlar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The business case was easy to validate due to the immediate ROI. We not only reduced operational costs significantly but also improved our operational security efficiency and excellence.",
+    "url": "https://www.qevlar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With Qevlar AI, our SOC analysts are now “augmented analysts”, capable of accelerating response times while maintaining quality. This partnership equips us to better protect our clients against evolving cyber threats.",
+    "url": "https://www.qevlar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven in real SOC environments. Recognized by the cybersecurity industry.",
+    "url": "https://www.qevlar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From Pilot to Production: What It Takes for Analysts to Trust an AI in the SOC",
+    "url": "https://www.qevlar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Qevlar doesn't let an LLM run the investigation. The core is a graph orchestrator — reasoning and decision paths are structured and reproducible — with LLMs used only for narrow, bounded tasks like enrichment and summarisation.",
+    "url": "https://www.qevlar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI物理セキュリティのCoram AI、既存カメラで侵入を検知し人が確認するVideo Alarmsを提供",
+    "url": "https://www.atpartners.co.jp/news/2024-08-04-cyber-security-s-qevlar-ai-autonomous-alert-investigation-platform-reduces-alert-fatigue",
+    "pass": 3
+   },
+   {
+    "quote": "Morpheus AI vs Qevlar: Key Differences & Pricing (2026)",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "The critical difference: Morpheus triages up to 95% of alerts at L2+ depth in under 2 minutes, generates playbooks from live evidence, runs across 800+ integrated tools, and executes the four autonomy tiers under one audit trail. Qevlar produces a triage verdict. Someone else must orchestrate and remediate.",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar’s commercial-LLM wrapper covers alert triage only. Morpheus delivers investigation, orchestration, and remediation in one platform, reducing time-to-remediation from hours to minutes and eliminating the second-vendor SOAR project.",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar produces verdicts, not response plans. Analysts must read the verdict and decide what to do next, or hand off to pre-built SOAR playbooks.",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar plus a SOAR platform plus integration glue equals three or more vendors, three training cycles, and three times the maintenance burden.",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar wraps a general-purpose model with prompt engineering. Morpheus runs on the Cybersecurity Triage Reasoning Graph, built over 24 months by 60 security specialists. The graph is the moat. The LLM is interchangeable.",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "After remediation, Morpheus verifies the fix worked. If not, it re-executes automatically. This closed-loop approach delivers 80% MTTR improvement and prevents adversaries from bouncing back. Qevlar stops at the triage verdict.",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "24 months of development, 60 security specialists, customer-extensible. The Cybersecurity Triage Reasoning Graph encodes attack progression, tool syntax, playbook logic, and escalation criteria as a graph the platform reasons over. The graph is the moat. The LLM is interchangeable. Qevlar wraps a commercial LLM with prompt engineering.",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "Morpheus runs across Tier 1 Deterministic, Tier 2 AI-Assisted, Tier 3 AI-Led, and Tier 4 Autonomous, with per-action approval gates and one audit trail. Regulated buyers get credible autonomy, not reckless autonomy. See",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial-LLM wrapper with prompt engineering",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "Evidence trees, logic chains, confidence scores — supports GDPR, EU AI Act, NIS2, SEC, CISA",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "Verdict rationale; multi-system audit trail not provided",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "One vendor, one API, one training program. No integration glue. No vendor finger-pointing when something breaks. Investigation feeds orchestration. Orchestration feeds remediation. Simple.",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "d3security.com/morpheus/pricing/",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "Morpheus is customer-extensible. Your organization can extend the Cybersecurity Triage Reasoning Graph with your own threats, your own tools, and your own playbooks. Reasoning runs inside deterministic governance, so analysts review and approve, and every action lands in one audit trail. Qevlar does not offer this level of extensibility.",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "No. Qevlar produces triage verdicts and investigation summaries. It does not generate response playbooks. Any remediation requires manual analyst action or a separate SOAR platform. Morpheus generates playbooks at runtime from live evidence, so each response is tailored to the specific attack, the customer’s environment, and the available tools. No waiting, no guesswork, no stale templates.",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "How does Morpheus pricing compare to Qevlar?",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "Morpheus AI produces documentation for every autonomous decision: evidence trees, logic chains, and confidence scores. The artifacts support audit and reporting requirements under GDPR, EU AI Act, NIS2, SEC, and CISA. Every AI action is traceable and every decision is explainable. D3 holds a SOC 2 Type 2 report.",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "Is the company profitable?",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "What share of revenue goes to product development?",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "Was the product built for this, or adapted from something older?",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "D3 Security is not affiliated with Qevlar. All trademarks are the property of their respective owners. This comparison reflects publicly available information and our team’s evaluation as of May 2026.",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover why Vancord chose Qevlar AI over building its own AI SOC, reducing false positives by 68% while scaling its security operations without compromising the quality of service.",
+    "url": "https://www.qevlar.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how Almond improves their alert responses and reduces mean time to remediation to under 5 minutes.",
+    "url": "https://www.qevlar.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "With Qevlar AI, Nomios elevated 60 analysts from manual to proactive threat defense by automating L2 investigations",
+    "url": "https://www.qevlar.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Get started with our pilot program. See results immediately",
+    "url": "https://www.qevlar.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar AI has raised $14M across two rounds since 2023. The latest was a $10M Seed round in April 2025.",
+    "url": "https://getlatka.com/companies/qevlar.com",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2025",
+    "url": "https://getlatka.com/companies/qevlar.com",
+    "pass": 3
+   },
+   {
+    "quote": "across two funding rounds. The latest was a $10M Seed round in April 2025.",
+    "url": "https://getlatka.com/companies/qevlar.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/qevlar.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/qevlar.com",
+    "pass": 3
+   },
+   {
+    "quote": "April 8, 2025",
+    "url": "https://forgepointcap.com/perspectives/qevlar-ai-why-we-invested/",
+    "pass": 3
+   },
+   {
+    "quote": "found that Qevlar AI achieved 99.8% accuracy with just 0.3% false positives and 0.1% false negatives at 5 minutes per investigation, an improvement in every metric compared to expert SOC analysts.",
+    "url": "https://forgepointcap.com/perspectives/qevlar-ai-why-we-invested/",
+    "pass": 3
+   },
+   {
+    "quote": "Just as impressive as Qevlar AI’s technology is its team. When I first met",
+    "url": "https://forgepointcap.com/perspectives/qevlar-ai-why-we-invested/",
+    "pass": 3
+   },
+   {
+    "quote": "– I was deeply impressed by their extensive AI expertise, strong communication and coachability, drive, and global ambitions.",
+    "url": "https://forgepointcap.com/perspectives/qevlar-ai-why-we-invested/",
+    "pass": 3
+   },
+   {
+    "quote": "In response to Qevlar AI’s explosive growth after less than two years in the SOC automation market, the team has quickly grown from 4 to 25+ with recent additions including seasoned product, sales, and marketing leaders to support go-to-market objectives. The expanding team’s combination of technical and commercial expertise is a winning combination.",
+    "url": "https://forgepointcap.com/perspectives/qevlar-ai-why-we-invested/",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar AI is backed by a deep bench of successful entrepreneurs, investors, and enterprise partners. Supporters include",
+    "url": "https://forgepointcap.com/perspectives/qevlar-ai-why-we-invested/",
+    "pass": 3
+   },
+   {
+    "quote": "previous Seed round leader EQT Ventures",
+    "url": "https://forgepointcap.com/perspectives/qevlar-ai-why-we-invested/",
+    "pass": 3
+   },
+   {
+    "quote": "and angel investors Olivier Pomel (CEO of Datadog), Florian Douetteau (CEO of Dataiku), and Mehdi Ghissassi (ex-Director of Product at Google DeepMind) in addition to an advisory board with strong cybersecurity operations expertise. The company has also been selected to several high-profile startup accelerators including",
+    "url": "https://forgepointcap.com/perspectives/qevlar-ai-why-we-invested/",
+    "pass": 3
+   },
+   {
+    "quote": "Meta and Hugging Face’s joint AI startup program",
+    "url": "https://forgepointcap.com/perspectives/qevlar-ai-why-we-invested/",
+    "pass": 3
+   },
+   {
+    "quote": ". Forgepoint Capital International is honored to be a part of this exceptional community of support as we work together to help propel Qevlar AI forward at scale.",
+    "url": "https://forgepointcap.com/perspectives/qevlar-ai-why-we-invested/",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar AI 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/527272-30",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/527272-30",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/527272-30",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Qevlar doesn't let an LLM run the investigation. The core is a graph orchestrator — reasoning and decision paths are structured and reproducible — with LLMs used only for narrow, bounded tasks like enrichment and summarisation.",
+    "url": "https://www.qevlar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No. D3 is employee-owned and funds development from customer revenue.",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "What share of revenue goes to product development?",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar AI Revenue 2025: $4.5M Est., $14M Raised",
+    "url": "https://getlatka.com/companies/qevlar.com",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar AI has not published its revenue. GetLatka estimates it at about $4.5M a year (October 2025).",
+    "url": "https://getlatka.com/companies/qevlar.com",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar AI CEO, founders & employees",
+    "url": "https://getlatka.com/companies/qevlar.com",
+    "pass": 3
+   },
+   {
+    "quote": "Ahmed Achchak founded Qevlar AI in 2023 and runs it as CEO. Qevlar AI has 41 employees (October 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/qevlar.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Qevlar AI's revenue?",
+    "url": "https://getlatka.com/companies/qevlar.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Qevlar AI's revenue at about",
+    "url": "https://getlatka.com/companies/qevlar.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Qevlar AI have?",
+    "url": "https://getlatka.com/companies/qevlar.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of October 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/qevlar.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/qevlar.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/qevlar.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/qevlar.com",
+    "pass": 3
+   },
+   {
+    "quote": ". Forgepoint Capital International is honored to be a part of this exceptional community of support as we work together to help propel Qevlar AI forward at scale.",
+    "url": "https://forgepointcap.com/perspectives/qevlar-ai-why-we-invested/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/527272-30",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar AI has 70 total employees.",
+    "url": "https://pitchbook.com/profiles/company/527272-30",
+    "pass": 3
+   },
+   {
+    "quote": "What is Qevlar AI’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/527272-30",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Qevlar AI is",
+    "url": "https://pitchbook.com/profiles/company/527272-30",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "“Qevlar was first deployed to enhance our email security investigations. Its impact was immediate and measurable, leading us to expand it across our entire security perimeter.”",
+    "url": "https://www.qevlar.com/",
+    "pass": 1
+   },
+   {
+    "quote": "GlobalConnect automates 100% of email security investigations to continue securing its critical global infrastructure",
+    "url": "https://www.qevlar.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "a recent benchmark study of real-world email alerts",
+    "url": "https://forgepointcap.com/perspectives/qevlar-ai-why-we-invested/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/527272-30",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Cyber Securityの Qevlar AI、自律的アラート調査 ... — Cyber Securityの Qevlar AI、自律的アラート調査 ... AT PARTNERS https://www.atpartners.co.jp > news > 2024-08-04-cyber-s...",
+    "url": "https://www.atpartners.co.jp/news/2024-08-04-cyber-security-s-qevlar-ai-autonomous-alert-investigation-platform-reduces-alert-fatigue",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar AI | Autonomous SOC Platform — Qevlar AI | Autonomous SOC Platform Qevlar AI https://www.qevlar.com",
+    "url": "https://www.qevlar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar AI - LinkedIn — Qevlar AI - LinkedIn LinkedIn https://www.linkedin.com > qevlar",
+    "url": "https://www.linkedin.com/company/qevlar",
+    "pass": 3
+   },
+   {
+    "quote": "Morpheus AI vs Qevlar : Key Differences & Pricing (2026) — Morpheus AI vs Qevlar : Key Differences & Pricing (2026) D3 Security https://d3security.com > qevlar",
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar AI - Partech — Qevlar AI - Partech Partech https://partechpartners.com > qevlar-ai",
+    "url": "https://partechpartners.com/companies/qevlar-ai",
+    "pass": 3
+   },
+   {
+    "quote": "QEVLAR Radiology: mobile and web-based app to ... - IMAIOS — QEVLAR Radiology: mobile and web-based app to ... - IMAIOS IMAIOS https://www.imaios.com > qevlar",
+    "url": "https://www.imaios.com/en/qevlar",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories - Qevlar AI — Customer Stories - Qevlar AI Qevlar AI https://www.qevlar.com > customer-st...",
+    "url": "https://www.qevlar.com/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar AI Reviews & Ratings 2026 | Gartner Peer Insights — Qevlar AI Reviews & Ratings 2026 | Gartner Peer Insights Gartner https://www.gartner.com > product",
+    "url": "https://www.gartner.com/reviews/product/qevlar-ai-1408070617",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar AI Revenue 2025: $4.5M Est., $14M Raised - GetLatka — Qevlar AI Revenue 2025: $4.5M Est., $14M Raised - GetLatka GetLatka https://getlatka.com > qevlar",
+    "url": "https://getlatka.com/companies/qevlar.com",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar AI - 2026 Company Profile & Team - Tracxn — Qevlar AI - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/qevlar-ai/__ectWQcCoY6qbC-rpNTlQMRTaaNGWUDnBpKIdh0d1Zu8",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar AI: Why We Invested - Forgepoint Capital — Qevlar AI: Why We Invested - Forgepoint Capital Forgepoint Capital https://forgepointcap.com > qevlar-ai-...",
+    "url": "https://forgepointcap.com/perspectives/qevlar-ai-why-we-invested/",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar AI 2026 Company Profile: Valuation, Funding & Investors — Qevlar AI 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/527272-30",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar AI Raises $14M to Supercharge Security Operations ... — Qevlar AI Raises $14M to Supercharge Security Operations ... Qevlar AI https://www.qevlar.com > Post",
+    "url": "https://www.qevlar.com/post/qevlar-ai-raises-14m-to-supercharge-security-operations-centres-with-agentic-ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "qevlar AI (@qevlarAI) / X Amplifying SOC team capabilities with smart algorithms and AI models. At qevlar AI, we filter noise, sharpen threat detection and ensure your defenses evolve.",
+    "url": "https://x.com/qevlarAI",
+    "pass": 3
+   },
+   {
+    "quote": "Qevlar AI has raised $30 million in funding for its ... 💸 Qevlar AI has raised $30 million in funding for its autonomous AI security operations centres (SOCs) platform. The funding will be used to turn alert investigations into security insights that help SOC teams strengthen their overall security posture.",
+    "url": "https://x.com/TheStartupsMag/status/2031399834628902989",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Qevlar AI - LinkedIn Qevlar AI - LinkedIn LinkedIn https://www.linkedin.com > qevlar",
+    "url": "https://www.linkedin.com/company/qevlar",
+    "pass": 3
+   },
+   {
+    "quote": "Ahmed Achchak - Co-founder and CEO @ Qevlar AI - LinkedIn Ahmed Achchak - Co-founder and CEO @ Qevlar AI - LinkedIn LinkedIn https://fr.linkedin.com > ahmed-achc...",
+    "url": "https://fr.linkedin.com/in/ahmed-achchak-872554109",
+    "pass": 3
+   },
+   {
+    "quote": "Hamza Sayah - Co-founder and CTO @ Qevlar AI - LinkedIn Hamza Sayah - Co-founder and CTO @ Qevlar AI - LinkedIn LinkedIn https://fr.linkedin.com > hamza-sayah",
+    "url": "https://fr.linkedin.com/in/hamza-sayah",
+    "pass": 3
+   },
+   {
+    "quote": "Before you commit to building an AI investigation tool in-house ... Before you commit to building an AI investigation tool in-house ... LinkedIn https://www.linkedin.com > posts > qevlar_before-you-co...",
+    "url": "https://www.linkedin.com/posts/qevlar_before-you-commit-to-building-an-ai-investigation-activity-7516048429471596544-Q5wj",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Välkommen till oss Qevlar NW1 RLD N RLD F SheltieFun's ... Välkommen till oss Qevlar NW1 RLD N RLD F SheltieFun's ... Facebook https://www.facebook.com > posts > välkommen-till-oss-q...",
+    "url": "https://www.facebook.com/100064378434135/posts/v%C3%A4lkommen-till-oss-qevlar-nw1-rld-n-rld-f-sheltiefuns-adorable-qevlarhd-aed0-%C3%B6ga/1062274612595143/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.qevlar.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://blog.evsmart.net/t/cybertruck-delivery-event-hope-for-japan-introduction/1462",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gqjapan.jp/article/20261107-cybertruck-dead-news",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jato.com/news-and-insights-japan/%E6%97%A5%E6%9C%AC%E3%81%AEota%E6%90%AD%E8%BC%89%E7%8E%87%E3%81%AF%E3%81%AA%E3%81%9C%E4%BD%8E%E3%81%84%E3%81%AE%E3%81%8B-%E4%B8%96%E7%95%8C4%E3%82%AB%E5%9B%BD%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83%E3%81%A7%E8%A6%8B%E3%81%88%E3%82%8B%E8%AA%B2%E9%A1%8C%E3%81%A8%E5%B1%95%E6%9C%9B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ncsol.co.jp/news/column/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.atpartners.co.jp/news/2024-08-04-cyber-security-s-qevlar-ai-autonomous-alert-investigation-platform-reduces-alert-fatigue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idtechproducts.com/ja/company/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fuva-brain.co.jp/inquiry/partner_contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qubo.jp/agency",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.qevlar.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/qevlar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://d3security.com/morpheus/vs/qevlar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partechpartners.com/companies/qevlar-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qevlar.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vectra.ai/resource-type/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gartner.com/reviews/product/qevlar-ai-1408070617",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/qevlar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/qevlar.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/qevlar-ai/__ectWQcCoY6qbC-rpNTlQMRTaaNGWUDnBpKIdh0d1Zu8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://forgepointcap.com/perspectives/qevlar-ai-why-we-invested/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/527272-30",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/qevlarAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TheStartupsMag/status/2031399834628902989",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/qevlar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/in/ahmed-achchak-872554109",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/in/hamza-sayah",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/qevlar_before-you-commit-to-building-an-ai-investigation-activity-7516048429471596544-Q5wj",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100064378434135/posts/v%C3%A4lkommen-till-oss-qevlar-nw1-rld-n-rld-f-sheltiefuns-adorable-qevlarhd-aed0-%C3%B6ga/1062274612595143/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Qevlar 日本 導入",
+   "results": [
+    "https://blog.evsmart.net/t/cybertruck-delivery-event-hope-for-japan-introduction/1462",
+    "https://www.gqjapan.jp/article/20261107-cybertruck-dead-news",
+    "https://www.jato.com/news-and-insights-japan/%E6%97%A5%E6%9C%AC%E3%81%AEota%E6%90%AD%E8%BC%89%E7%8E%87%E3%81%AF%E3%81%AA%E3%81%9C%E4%BD%8E%E3%81%84%E3%81%AE%E3%81%8B-%E4%B8%96%E7%95%8C4%E3%82%AB%E5%9B%BD%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83%E3%81%A7%E8%A6%8B%E3%81%88%E3%82%8B%E8%AA%B2%E9%A1%8C%E3%81%A8%E5%B1%95%E6%9C%9B",
+    "https://www.ncsol.co.jp/news/column/",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.facebook.com/evsmart.net/videos/%E3%83%86%E3%82%B9%E3%83%A9%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E7%A4%BE%E9%95%B7%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E7%A7%81%E3%81%8C%E4%B9%97%E3%82%8A%E3%81%9F%E3%81%84%E6%97%A5%E6%9C%AC%E7%99%BA%E5%A3%B2%E3%81%AF%E3%81%82%E3%82%8B%E3%81%AE%E3%81%8B%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3ev%E3%82%AA%E3%83%96%E3%82%B6%E3%82%A4%E3%83%A4%E3%83%BC-%E3%83%86%E3%82%B9%E3%83%A9-%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-cybertruck/1366595618726204/",
+    "https://www.youtube.com/watch?v=NPXcGzcqcQo",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=138288/",
+    "https://www.qevlar.com/",
+    "https://www.firstcvc.jp/global/qevlar.com"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Qevlar 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.atpartners.co.jp/news/2024-08-04-cyber-security-s-qevlar-ai-autonomous-alert-investigation-platform-reduces-alert-fatigue",
+    "https://idtechproducts.com/ja/company/distributors/",
+    "https://www.fuva-brain.co.jp/inquiry/partner_contact/",
+    "https://www.qubo.jp/agency",
+    "https://www.cybernet.co.jp/itasset/service/partner.html",
+    "https://questvision.co.jp/case7/",
+    "https://www.viavisolutions.com/ja-jp/how-buy/locate-partner",
+    "https://digivery.jp/app/agency_list.html",
+    "https://www.wadax.ne.jp/company/agent/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Qevlar Japan",
+   "results": [
+    "https://www.qevlar.com/",
+    "https://www.linkedin.com/company/qevlar",
+    "https://d3security.com/morpheus/vs/qevlar/",
+    "https://partechpartners.com/companies/qevlar-ai",
+    "https://www.imaios.com/en/qevlar",
+    "https://thesasig.com/supporters/qevlar-ai/",
+    "https://forgepointcap.com/companies/qevlar-ai/",
+    "https://www.qevlar.com/about",
+    "https://www.atpartners.co.jp/news/2024-08-04-cyber-security-s-qevlar-ai-autonomous-alert-investigation-platform-reduces-alert-fatigue",
+    "https://en.wikipedia.org/wiki/Kevlar"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Qevlar manufacturing customer case study",
+   "results": [
+    "https://www.qevlar.com/customer-stories",
+    "https://www.vectra.ai/resource-type/customer-stories",
+    "https://www.gartner.com/reviews/product/qevlar-ai-1408070617",
+    "https://www.linkedin.com/company/qevlar",
+    "https://c3.ai/customers",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.cbinsights.com/company/qevlar-ai",
+    "https://www.rezolve.ai/case-studies",
+    "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "https://www.qevlar.com/customer-stories/vancord"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Qevlar white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://customgpt.ai/white-label-software-to-resell/",
+    "https://www.reddit.com/r/ycombinator/comments/1hsdufh/anyone_offering_a_white_label_reseller_version_of/",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://www.nuwebgroup.com/blog/entrepreneur/everything-you-need-to-know-about-white-label-reseller-programs",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Qevlar founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/qevlar.com",
+    "https://tracxn.com/d/companies/qevlar-ai/__ectWQcCoY6qbC-rpNTlQMRTaaNGWUDnBpKIdh0d1Zu8",
+    "https://forgepointcap.com/perspectives/qevlar-ai-why-we-invested/",
+    "https://pitchbook.com/profiles/company/527272-30",
+    "https://www.qevlar.com/post/qevlar-ai-raises-14m-to-supercharge-security-operations-centres-with-agentic-ai",
+    "https://www.securityweek.com/qevlar-ai-raises-10-million-for-autonomous-investigation-platform/",
+    "https://www.reveliolabs.com/companies/qevlar-ai/employees",
+    "https://www.linkedin.com/posts/tviguier_cybersecurity-ai-venturecapital-activity-7437062582827454465-YR1f",
+    "https://financialit.net/news/fundraising-news/qevlar-ai-raises-14m-supercharge-security-operations-centres-agentic-ai",
+    "https://prospeo.io/c/qevlar-ai-revenue"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Qevlar",
+   "results": [
+    "https://note.com/masaki_arimoto/n/n534c12016d8a",
+    "https://note.com/masaki_arimoto/n/n0e6c3f02ae59",
+    "https://note.com/ripla_business/n/n1b465c6764ce",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/torikarafever/n/na1a38be675e6",
+    "https://note.com/genial_quince1/n/nfa82b3b404bc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Qevlar",
+   "results": [
+    "https://x.com/PartechPartners",
+    "https://x.com/ITSecurityWire",
+    "https://x.com/qevlarAI",
+    "https://x.com/TheStartupsMag/status/2031399834628902989",
+    "https://x.com/TheSaaSNews/status/2031322422662803774",
+    "https://x.com/joinstationf/status/2031301145952452683",
+    "https://x.com/l_fintech",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com Qevlar",
+   "results": [
+    "https://www.linkedin.com/company/qevlar",
+    "https://fr.linkedin.com/in/ahmed-achchak-872554109",
+    "https://fr.linkedin.com/in/hamza-sayah",
+    "https://www.linkedin.com/posts/qevlar_before-you-commit-to-building-an-ai-investigation-activity-7516048429471596544-Q5wj",
+    "https://www.linkedin.com/jobs/qevlar-ai-jobs-worldwide?f_C=93830328",
+    "https://www.linkedin.com/in/corentinlr",
+    "https://www.linkedin.com/posts/mikebutcher_breaking-paris-based-qevlar-ai-raises-30m-activity-7437049268944732160-gBSd",
+    "https://uk.linkedin.com/jobs/view/sales-enablement-lead-cybersecurity-at-qevlar-ai-4469699644",
+    "https://uk.linkedin.com/in/fraser-whitfield-278a2261",
+    "https://fr.linkedin.com/company/qevlar"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Qevlar",
+   "results": [
+    "https://www.facebook.com/100064378434135/posts/v%C3%A4lkommen-till-oss-qevlar-nw1-rld-n-rld-f-sheltiefuns-adorable-qevlarhd-aed0-%C3%B6ga/1062274612595143/",
+    "https://www.facebook.com/EUStartups/posts/the-worlds-biggest-startup-campus-station-f-has-revealed-its-top-40-companies-fo/1553781370109800/",
+    "https://www.facebook.com/gotsole/posts/fat-joe-paid-500-for-timbs-would-you-watch-the-full-video-now-at-gotsolecomfatjo/1324540939707418/",
+    "https://www.facebook.com/pillart.ai.art/videos/%F0%9D%93%A5%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%BD%F0%9D%93%B8%F0%9D%93%BB%F0%9D%93%B2%F0%9D%93%AA%F0%9D%93%B7-%F0%9D%93%90%F0%9D%93%BD%F0%9D%93%B5%F0%9D%93%AA%F0%9D%93%BC-%F0%9D%93%94%F0%9D%94%81%F0%9D%93%B9%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%BB%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%BC-created-on-syntx-syntx_global-syntx_creatorspillartai/1967702287489623/",
+    "https://www.facebook.com/skratchbastid/videos/dont-i-make-it-look-ez-one-of-my-fave-routines-to-rock-to-this-day-its-different/1265560145255636/",
+    "https://www.facebook.com/gugafoods/videos/i-soaked-meats-in-chic-fil-a-sauce-/821399360933442/",
+    "https://www.facebook.com/fb-answers/what-celebrities-wear-baccarat-rouge-540/",
+    "https://www.facebook.com/sneakercon/posts/10000-for-these-air-jordan-4-speakers-o/1144606287707896/",
+    "https://www.facebook.com/AIatMeta/posts/-just-announced-in-paris-together-with-hugging-face-scaleway-were-launching-a-ne/777111247921639/",
+    "https://www.facebook.com/pages/DJ-Qevlar/10408895355/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Qevlar note 社長",
+   "results": [
+    "https://www.qevlar.com/about",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/sadaaki",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Qevlar X 投稿",
+   "results": [
+    "https://www.qevlar.com/post/from-pilot-to-production-what-it-takes-for-analysts-to-trust-an-ai-in-the-soc",
+    "https://publish.x.com/",
+    "https://ledge.ai/articles/x_revises_privacy_policy",
+    "https://www.youtube.com/watch?v=melgSv5_meo",
+    "https://note.com/super_human/n/nbe9b423193a5",
+    "https://www.danielpovey.com/files/2018_icassp_xvectors.pdf",
+    "https://qiita.com/miriwo/items/b80f9db156e1de4e5ca9",
+    "https://zenn.dev/edom18/articles/post-media-with-twitter-api",
+    "https://uepon.hatenadiary.com/entry/2024/12/03/151205",
+    "https://x.com/qevlarAI"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

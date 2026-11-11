@@ -1,0 +1,1023 @@
+{
+ "name": "Verkor",
+ "aliases": [],
+ "context": "旧営業リスト｜Energy Storage｜AUMS不適合",
+ "researched_at": "2026-11-11T00:23:13.652888+00:00",
+ "official_url": "https://verkor.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Verkor l Batteries. Now. For the future. l Production de batteries",
+    "url": "https://verkor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Verkor fait évoluer son leadership pour son passage à une production industrielle à grande échelle",
+    "url": "https://verkor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Créée en 2020, Verkor porte une ambition : accélérer la dynamique industrielle de production de batteries bas-carbone en France afin de servir le marché européen. Forte d’une équipe d’experts internationaux de la filière batterie et de l’automobile, elle vise l’excellence de fabrication via l’optimisation de technologies éprouvées.",
+    "url": "https://verkor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Co‑fondateur & Vice-président du board",
+    "url": "https://verkor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "« La création de Verkor est pour moi le prolongement d’un engagement en faveur de la décarbonation de la mobilité. »",
+    "url": "https://verkor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nos produits & solutions",
+    "url": "https://verkor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nos cellules de batteries sont conçues pour s’adapter à une grande diversité d’usages de la mobilité électrique. Performantes et durables, elles répondent aux contraintes spécifiques de la mobilité, tout en s’appuyant sur une production ‘Made in Europe’.",
+    "url": "https://verkor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Découvrir nos produits",
+    "url": "https://verkor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Le Verkor Engineering Services s’appuie sur l’expertise de nos équipes et sur le Verkor Innovation Centre combinant R&D avancée, ligne pilote industrielle et outils digitaux de pointe. De la conception à l’industrialisation — en passant par la validation et l’optimisation — nos équipes vous accompagnent pour accélérer vos projets batteries.",
+    "url": "https://verkor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "capacité annuelle cible de production de cellules",
+    "url": "https://verkor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Le stockage d’énergie taillé pour les projets d’envergure",
+    "url": "https://verkor.com/applications-stationnaires/",
+    "pass": 1
+   },
+   {
+    "quote": "Face à l’essor des énergies renouvelables, les réseaux électriques ont besoin de davantage de flexibilité et de stabilité. Nous développons des solutions ESS Utility Scale visant à fournir un stockage d’énergie fiable et durable, pour sécuriser l’équilibre du réseau et optimiser les projets énergétiques de grande ampleur.",
+    "url": "https://verkor.com/applications-stationnaires/",
+    "pass": 1
+   },
+   {
+    "quote": "Nos cellules sont conçues pour offrir une polyvalence exceptionnelle, en combinant réactivité instantanée et restitution prolongée. Cette robustesse permettra de lisser parfaitement la production solaire et éolienne, garantissant un équilibrage du réseau d'une fiabilité absolue, même sur de longues durées.",
+    "url": "https://verkor.com/applications-stationnaires/",
+    "pass": 1
+   },
+   {
+    "quote": "S’appuyer sur une production européenne",
+    "url": "https://verkor.com/applications-stationnaires/",
+    "pass": 1
+   },
+   {
+    "quote": "Nos solutions seront 'Made in Europe' et répondront aux exigences de qualité et de conformité réglementaire. Choisir notre technologie, c’est privilégier une souveraineté industrielle européenne.",
+    "url": "https://verkor.com/applications-stationnaires/",
+    "pass": 1
+   },
+   {
+    "quote": "Les data centers dédiés à l’IA, au machine learning et à l’entraînement de modèles sont confrontés à des pics de consommation soudains et imprévisibles. Nous développons des solutions ESS destinées à fournir une puissance fiable et réactive pour répondre à ces nouveaux besoins énergétiques.",
+    "url": "https://verkor.com/applications-stationnaires/",
+    "pass": 1
+   },
+   {
+    "quote": "Fabriquées en Europe, nos solutions garantiront une qualité industrielle élevée, une chaîne d’approvisionnement sécurisée et une conformité aux standards techniques et réglementaires les plus stricts.",
+    "url": "https://verkor.com/applications-stationnaires/",
+    "pass": 1
+   },
+   {
+    "quote": "Vous avez un projet de stockage d’énergie ?",
+    "url": "https://verkor.com/applications-stationnaires/",
+    "pass": 1
+   },
+   {
+    "quote": "L'innovation Verkor au service de vos projets batteries",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Une offre sur mesure qui réunit expertise batterie, capacités industrielles de premier plan et solutions digitales intégrées pour concevoir, valider, industrialiser et optimiser vos projets.",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "capacité de production",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "experts digital, produit & process",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Accélérer la vitesse de conception produit tout en maîtrisant les risques techniques et industriels en concevant des batteries optimisées, fiables et industrialisables.",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Nos équipes d’ingénieurs produits et d’experts en chimie batterie conçoivent des architectures cellule et module adaptées à votre application et vos process industriels.",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Design chimie : analyse des compromis performance / durabilité / sécurité / coûts, définition de la chimie et formulation électrodes et électrolyte",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Design mécanique : cylindrique, pouch, prismatique, module",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Modélisation et simulation prédictive : étude thermique, multiphysique, prédiction de durée de vie",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Accélérer votre développement grâce au prototypage et aux démonstrateurs",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Passer rapidement du concept à une batterie fonctionnelle et représentative des conditions industrielles réelles.",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Grâce à notre centre de R&D avancé et à notre ligne pilote, nous développons vos prototypes sur tous les formats.",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototypage d'électrodes et de cellules",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototypage des modules batterie",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Fabrication de prototypes pre A, A et B-samples",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Proof of Concept : cellule, module, pack & système",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Valider les performances, la sécurité et la durabilité de vos produits : cellules, modules, systèmes et matériaux selon les standards industriels les plus exigeants.",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Le Verkor Innovation Centre dispose de laboratoires de test et de validation de pointe pour éprouver vos produits dans des conditions réelles.",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Des produits éprouvés, sûrs et durables, prêts à répondre aux exigences du marché et des certifications.",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Produire vos batteries",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Produire vos batteries sans investissement industriel lourd, en vous appuyant sur une ligne de production éprouvée et l’expertise Verkor.",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Pré-industrialisation & montée en maturité industrielle",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Capacités de production flexibles de 10 à 150 MWh",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Validation et optimisation des procédés de fabrication",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Une production sécurisée et maîtrisée, facilitant l’industrialisation et la montée en volume.",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Verkor achieves top-tier media coverage with Aspectus Group’s PR and media campaign",
+    "url": "https://www.casestudies.com/customer/verkor",
+    "pass": 3
+   },
+   {
+    "quote": "Verkor 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of battery cells intended to increase the production of low-carbon batteries to meet the growing demand for electric vehicles.",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of battery cells intended to increase the production of low-carbon batteries to meet the growing demand for",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   },
+   {
+    "quote": "Verkor’s primary industry is Electrical Equipment.",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   },
+   {
+    "quote": "Is Verkor a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   },
+   {
+    "quote": "Verkor is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Automotive et autres mobilités",
+    "url": "https://verkor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Le Verkor Engineering Services s’appuie sur l’expertise de nos équipes et sur le Verkor Innovation Centre combinant R&D avancée, ligne pilote industrielle et outils digitaux de pointe. De la conception à l’industrialisation — en passant par la validation et l’optimisation — nos équipes vous accompagnent pour accélérer vos projets batteries.",
+    "url": "https://verkor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Une offre sur mesure qui réunit expertise batterie, capacités industrielles de premier plan et solutions digitales intégrées pour concevoir, valider, industrialiser et optimiser vos projets.",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Concevoir une batterie performante, fiable et industrialisable est un",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Accélérer la vitesse de conception produit tout en maîtrisant les risques techniques et industriels en concevant des batteries optimisées, fiables et industrialisables.",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Pré-industrialisation & montée en maturité industrielle",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Une production sécurisée et maîtrisée, facilitant l’industrialisation et la montée en volume.",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "De la conception à l’industrialisation, en passant par la validation et l’optimisation, nos équipes vous accompagnent, avec une approche sur mesure adaptée à vos besoins.",
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Verkor",
+    "url": "https://www.casestudies.com/customer/verkor",
+    "pass": 3
+   },
+   {
+    "quote": "Hogan Lovells Case Study: Verkor – Accelerating the future of sustainable mobility with start-up Verkor | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/hogan-lovells/case-study/accelerating-the-future-of-sustainable-mobility-with-start-up-verkor",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Verkor used Hogan Lovells",
+    "url": "https://www.casestudies.com/company/hogan-lovells/case-study/accelerating-the-future-of-sustainable-mobility-with-start-up-verkor",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/hogan-lovells/case-study/accelerating-the-future-of-sustainable-mobility-with-start-up-verkor",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/hogan-lovells/case-study/accelerating-the-future-of-sustainable-mobility-with-start-up-verkor",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of battery cells intended to increase the production of low-carbon batteries to meet the growing demand for electric vehicles.",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of battery cells intended to increase the production of low-carbon batteries to meet the growing demand for",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本にも車載電池のメーカーがあり、製造時のCO2をどう管理するかという同じ論点を持ちます",
+    "url": "https://frontjour.com/column/global/verkor",
+    "pass": 3
+   },
+   {
+    "quote": "※本リリースは、仏ヴェリジー＝ヴィラクブレーにて現地時間2022年10月21日に発表したリリースの日本語参考訳です",
+    "url": "https://www.3ds.com/ja/newsroom/press-releases/dassault-systemes-and-verkor-sign-mou-advance-next-generation-low-carbon-battery-development-and-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "（日本語）、",
+    "url": "https://www.3ds.com/ja/newsroom/press-releases/dassault-systemes-and-verkor-sign-mou-advance-next-generation-low-carbon-battery-development-and-manufacturing",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "車載電池のCO2を減らす「低炭素バッテリーセル」を研究｜Verkor｜Fron... — Aug 25, 2026 · 製造時のCO2を抑えた「低炭素バッテリーセル」を量産するフランスのVerkor。 原子力と排熱回収でCO2を減らす仕組み、EU電池規則への対応、ダンケルクのギガファクトリー開所、累計30億ユーロ超の調達までを解説します。",
+    "url": "https://frontjour.com/column/global/verkor",
+    "pass": 3
+   },
+   {
+    "quote": "ダッソー・システムズとVerkor社が次世代の低炭素型バッテリーの開発...Verkor l Batteries. Now. For the future. l Production de ...Verkor | About usVerkor、欧州のバッテリー主権を確立へ：ダンケルクに16GWhギガファク...AIがたった12時間で「CPU」を完全設計。219語の仕様書から製造データ...AIが12時間でRISC-V CPUを完全設計──Verkor.ioの衝撃と組み込みエンジ... — 3DEXPERIENCEプラットフォームとバーチャルツインの活用により、材料の化学組成の検討からギガファクトリ―の運用まで、開発と製造に関わるプロセスを包括的に管理、Verkor社のバッテリー開発を新次元へ Verkor designs and manufactures low-carbon lithiu",
+    "url": "https://www.3ds.com/ja/newsroom/press-releases/dassault-systemes-and-verkor-sign-mou-advance-next-generation-low-carbon-battery-development-and-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Verkor l Batteries. Now. For the future. l Production de ... — Verkor designs and manufactures low-carbon lithium-ion battery cells and modules to meet our customers’ specific requirements. We offer a diverse range of cells designed to meet a variety of mobility needs, from passenger and commercial vehicles to off-road vehicles and stationary storage systems.",
+    "url": "https://verkor.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Verkor | About us — In 2020, against the backdrop of extraordinary circumstances – a global health crisis coupled with a growing realisation that profound change was needed – six change-makers from different backgrounds came together to found Verkor.",
+    "url": "https://verkor.com/en/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Verkor、欧州のバッテリー主権を確立へ：ダンケルクに16GWhギガファク... — Dec 17, 2025 · リチウムイオン低炭素バッテリーセル製造を手掛けるフランスの企業 Verkor は、 2025年12月11日 、フランス共和国大統領エマニュエル・マクロン氏の支援の下、同社初のギガファクトリーをフランスの ブルブール（ダンケルク） に開設しました。",
+    "url": "https://www.lartnec.jp/blog/?p=693",
+    "pass": 3
+   },
+   {
+    "quote": "Verkor | About us — Verkor designs and manufactures low-carbon lithium-ion battery cells and modules to meet the specific requirements of our partners. A diverse range of cells, designed to meet a variety of mobility needs, from passenger and commercial vehicles to off-road vehicles and stationary storage systems.",
+    "url": "https://verkor.com/en/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Verkor | LinkedIn — Backed by a strong ecosystem of industrial, financial and institutional partners, the company is helping build a competitive and sustainable battery industry in France and Europe. Verkor combines...",
+    "url": "https://jp.linkedin.com/company/verkor",
+    "pass": 3
+   },
+   {
+    "quote": "Verkor - 2026 Company Profile & Team - TracxnArkema acquires a stake in Verkor capital and accelerates its ...ダッソー・システムズとVerkor社が次世代の低炭素型バッテリーの開発...アルケマは Verkor 社の株式 - Arkema — Aug 26, 2026 · Explore Verkor's in-depth company profile, including funding details, key investors, leadership, and competitors. Jul 6, 2021 · The Verkor Innovation Center, which should be operational in 2022, will provide ",
+    "url": "https://tracxn.com/d/companies/verkor/__65WMD08xN57PgLIKPfuTJ0ZAoAhVl4OjRTCXV88LoJs",
+    "pass": 3
+   },
+   {
+    "quote": "Arkema acquires a stake in Verkor capital and accelerates its ... — Jul 6, 2021 · The Verkor Innovation Center, which should be operational in 2022, will provide a collaborative space to optimize smart industrial processes and create new generations of batteries.",
+    "url": "https://www.arkema.com/files/live/sites/shared_arkema/files/downloads/countries/Japan/20210706_Arkema-acquires-a-stake-in-verkor-for-batteries-development.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Verkor Uses Software & Services — Explore case studies featuring Verkor as the customer — learn how vendors and partners helped Verkor solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/verkor",
+    "pass": 3
+   },
+   {
+    "quote": "Individual Assignment: Verkor Case Study in B2B Marketing ... — Explore Verkor's innovative strategies in sustainable battery production and supply chain management, positioning itself as a leader in the European market.",
+    "url": "https://www.studocu.com/sv/document/stockholms-universitet/b2b-marketing-and-sales/individual-assignment-verkor-case-study-in-b2b-marketing-sales-spring-2025/143472386",
+    "pass": 3
+   },
+   {
+    "quote": "Hogan Lovells Case Study: Verkor – Accelerating the future of ... — Verkor partnered with Hogan Lovells (Law Practice) to solve key challenges. \"Accelerating the future of sustainable mobility with start-up Verkor\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/hogan-lovells/case-study/accelerating-the-future-of-sustainable-mobility-with-start-up-verkor",
+    "pass": 3
+   },
+   {
+    "quote": "Verkor | Automotive and other mobility solutions — Verkor offers battery cells and modules specifically designed to meet the technical, energy, and industrial requirements of each customer. Whether it’s chemistry, form factors, performance, durability or integration, our bespoke solutions enable our partners to optimise their applications.",
+    "url": "https://verkor.com/en/automotive-and-other-mobility-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "Verkor - 2026 Company Profile, Team, Funding & Competitors ...Verkor 2026 Company Profile: Valuation, Funding & Investors ...Verkor – Company Insights & Financial Strength – 2026Verkor - Overview, News & Similar companies | ZoomInfo.comVerkor: Funding, Team & Investors | Startup IntrosVerkor: Funding, Investors & Team (Nov 2026) | FundedIQVerkor — Company Profile | The Company Check — Aug 26, 2026",
+    "url": "https://tracxn.com/d/companies/verkor/__65WMD08xN57PgLIKPfuTJ0ZAoAhVl4OjRTCXV88LoJs",
+    "pass": 3
+   },
+   {
+    "quote": "Verkor 2026 Company Profile: Valuation, Funding & Investors ...Verkor – Company Insights & Financial Strength – 2026Verkor - Overview, News & Similar companies | ZoomInfo.comVerkor: Funding, Team & Investors | Startup IntrosVerkor: Funding, Investors & Team (Nov 2026) | FundedIQVerkor — Company Profile | The Company Check — Information on valuation, funding, cap tables, investors, and executives f",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   },
+   {
+    "quote": "Verkor – Company Insights & Financial Strength – 2026 — Discover Verkor's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/verkor",
+    "pass": 3
+   },
+   {
+    "quote": "Verkor - Overview, News & Similar companies | ZoomInfo.com — Gather financial insights about Verkor, including details on funding rounds, investors, total funding, and acquisitions, to gain a comprehensive understanding of their financial strategy.",
+    "url": "https://www.zoominfo.com/c/verkor/447047711",
+    "pass": 3
+   },
+   {
+    "quote": "Verkor: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Verkor was co-founded in 2020 by Benoit Lemaignan, Christophe Mille, and Philippe Chain. The trio established the company based on the strategic insight that Europe required sovereign control over its battery production capabilities.",
+    "url": "https://startupintros.com/orgs/verkor",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   },
+   {
+    "quote": "Verkor has 1,000 total employees.",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   },
+   {
+    "quote": "What is Verkor’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Verkor is",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "フランスのギガファクトリースタートアップ企業ヴェルコール、13億ユ... Jul 22, 2024 · フランスのバッテリースタートアップ企業Verkorは、フランス北部のギガファクトリー工場建設のため、13億ユーロの融資を確保した。 この工場は欧州の電気自動車サプライチェーン強化の一環で、2025年に生産開始予定である。",
+    "url": "https://note.com/bright_mango111/n/n921927c3af04",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "フランスのギガファクトリースタートアップ企業ヴェルコール、13億ユーロの融資を確保 ヴェルコール社は、フランス北部のギガファクトリー工場の資金調達のため、13億ユーロの融資を確保した。｜Ao",
+    "url": "https://note.com/bright_mango111/n/n921927c3af04",
+    "pass": 3
+   },
+   {
+    "quote": "フランスのギガファクトリースタートアップ企業ヴェルコール、13億ユーロの融資を確保 ヴェルコール社は、フランス北部のギガファクトリー工場の資金調達のため、13億ユーロの融資を確保した。",
+    "url": "https://note.com/bright_mango111/n/n921927c3af04",
+    "pass": 3
+   },
+   {
+    "quote": "電気自動車（EV）や再生可能エネルギーシステムには、リチウムイオンバッテリーが欠かせない。フランスのバッテリースタートアップ企業Verkorは、フランス北部のギガファクトリー工場建設のため、13億ユーロの融資を確保した。この工場は欧州の電気自動車サプライチェーン強化の一環で、2025年に生産開始予定である。新たな融資は欧州投資銀行や商業銀行などから行われ、15億ユーロを投じるダンケルクの工場は毎年20万台の自動車に必要なバッテリーを製造する予定である。他のフランスのギガファクトリープロジェクトとはどう差別化していくのだろうか。",
+    "url": "https://note.com/bright_mango111/n/n921927c3af04",
+    "pass": 3
+   },
+   {
+    "quote": "フランスのバッテリー・スタートアップ企業Verkor（ヴェルコール）は、フランス北部のギガファクトリー工場の資金調達のため、13億ユーロの融資を確保した。ヴェルコーの工場は、フランスに建設される5つのギガファクトリーのうちの1つで、電気自動車のサプライチェーンを確保するための欧州の取り組みの一環である。",
+    "url": "https://note.com/bright_mango111/n/n921927c3af04",
+    "pass": 3
+   },
+   {
+    "quote": "新たな融資は、欧州投資銀行、Bpifrance（フランス石油公社）、ING BANK NV（アイエヌジー バンク エヌブイ）、Banco Santander（サンタンデール銀行）を含む16の商業銀行と3つの公的銀行から行われる。",
+    "url": "https://note.com/bright_mango111/n/n921927c3af04",
+    "pass": 3
+   },
+   {
+    "quote": "2020年に操業を開始したヴェルコールは、ダンケルクに15億ユーロを投じる初のギガファクトリーを建設中だ。ギガファクトリーは、グリーン転換に必要なバッテリーを製造する大規模施設である。",
+    "url": "https://note.com/bright_mango111/n/n921927c3af04",
+    "pass": 3
+   },
+   {
+    "quote": "生産開始は2025年で、その時点で毎年20万台の自動車を駆動するのに十分なバッテリーを製造することになると同社は述べている。",
+    "url": "https://note.com/bright_mango111/n/n921927c3af04",
+    "pass": 3
+   },
+   {
+    "quote": "ギガファクトリーは資本集約型であるため、これを建設する企業は、資金調達のために非拡大的な資金調達を行うようになってきている。ヨーロッパで最も資本力のあるギガファクトリー企業であるスウェーデンのスタートアップ企業Northvolt（ノースボルト）は、今年1月に50億ドルの負債を確保した。",
+    "url": "https://note.com/bright_mango111/n/n921927c3af04",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#Verkor\" - Results on X | Live Posts & Updates Verkor are Europe’s new battery cell producer who are building a new Gigafactory in France. They will be producing the batteries that will power the future of mobility in Europe! 👇",
+    "url": "https://x.com/hashtag/Verkor",
+    "pass": 3
+   },
+   {
+    "quote": "#VerkorTeam - Search / X With over 20 years' experience in the automotive sector, his expertise will be a major asset to Verkor's development. We are delighted to welcome him to our team.",
+    "url": "https://x.com/hashtag/VerkorTeam?f=live",
+    "pass": 3
+   },
+   {
+    "quote": "verkor (@verkor) / Posts / X Каждый человек хотя бы пять минут в день бывает дураком. Настоящая мудрость состоит в том, чтобы не превышать этот временной лимит. 💬0 🔄1 🤍0 0 📎 🔁Reposted by verkor РуПол | РыжевскийRuPol555 Jul 17",
+    "url": "https://x.com/verkor",
+    "pass": 3
+   },
+   {
+    "quote": "#VerkorStories - Search / X #VerkorStories Discover Elisa's adventure in the Procurement department at Verkor.🍃 \"Verkor is a daily adventure, with new challenges every day, and I find it very stimulating.\"",
+    "url": "https://x.com/hashtag/VerkorStories?f=live",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Verkor (@VerkorSAS) / X Today at Verkor, we're celebrating this auspicious festival of lights which symbolizes the spiritual victory of light over darkness, good over evil, and knowledge over ignorance.",
+    "url": "https://x.com/VerkorSAS/with_replies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Verkor - LinkedIn Founded in 2020 and headquartered in Grenoble, France, Verkor specialises in high-performance, low-carbon batteries for electric mobility and stationary energy storage.",
+    "url": "https://www.linkedin.com/company/verkor/",
+    "pass": 3
+   },
+   {
+    "quote": "David Chin - Entreprenuer, Marketing and Engineering ...Laurent Debrue - Verkor | LinkedInBenoit Lemaignan - Co founder & Vice Chairman of the ...Why Verkor Is Pivotal to Europe’s Battery Independence PushFrance’s Battery Boom: Verkor Secures €800M to ... - LinkedInVERKOR Consulting - LinkedIn Entreprenuer, Marketing and Engineering Executive · Experience: Verkor Inc. · Location: Los Altos · 500+ ",
+    "url": "https://www.linkedin.com/in/david-chin-a5092a",
+    "pass": 3
+   },
+   {
+    "quote": "Laurent Debrue - Verkor | LinkedInBenoit Lemaignan - Co founder & Vice Chairman of the ...Why Verkor Is Pivotal to Europe’s Battery Independence PushFrance’s Battery Boom: Verkor Secures €800M to ... - LinkedInVERKOR Consulting - LinkedIn Expérience : Verkor · Formation : Ecole nationale supérieure d'Arts et Métiers / ENSAM · Lieu : Lille · 500 relations ou plus sur LinkedIn. Consultez le profil d",
+    "url": "https://fr.linkedin.com/in/laurent-debrue-44881423",
+    "pass": 3
+   },
+   {
+    "quote": "Benoit Lemaignan - Co founder & Vice Chairman of the ...Why Verkor Is Pivotal to Europe’s Battery Independence PushFrance’s Battery Boom: Verkor Secures €800M to ... - LinkedInVERKOR Consulting - LinkedIn As the Co-Founder and CEO of Verkor since 2020, I lead efforts in advancing battery manufacturing in Europe with a focus on addressing energy and climate change challenges. Apr 15, 2026 · Verkor ",
+    "url": "https://fr.linkedin.com/in/benoit-lemaignan",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VerKor OÜ - Facebook Sep 26, 2026 · VerKor OÜ. 400 followers · 2 talking about this. Kodu ja äripindade koristus. ☆Suurpuhastus ☆Hoolduskoristus ☆Tekstiilmööbli keemiline puhastus...",
+    "url": "https://www.facebook.com/p/VerKor-OÜ-100064177118582/",
+    "pass": 3
+   },
+   {
+    "quote": "Vérkör | Oroszlány - FacebookFacebookShepherd Verkor - FacebookVerkor Activist Footwear - FacebookShepherd Verkor on Reels - FacebookShepherd Verkor | Facebook Oct 10, 2026 · Az időjárás tökéletes lesz! Mi már nagyon várjuk a holnapi napot. És Ti? www.verkor.hu/tt Újdonság! Örökítsd meg a Vérkör TT-n nyújtott teljesítményedet egy egyedi 3D élménytérképpel! Idén a Vérkör TT útvonalát egy különleges",
+    "url": "https://www.facebook.com/verkor.hu/",
+    "pass": 3
+   },
+   {
+    "quote": "Shepherd Verkor - Facebook Oct 22, 2026 · Shepherd Verkor and Dix Doode Ancient Vault Society The Ancient Sumerian Tablet Allegedly Reveals a War Between Two Species for Earth — And Who Ultimately Won Sumerian Tablet, Ancient Sumerians, Two Species War, Ancient Mysteries, Lost Civilization #SumerianTablet #AncientMysteries #Sumerians #AncientCivilizations #UnexplainedHistory",
+    "url": "https://www.facebook.com/shep.verkor.33/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://verkor.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://verkor.com/applications-stationnaires/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://verkor.com/verkor-engineering-services/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://frontjour.com/column/global/verkor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3ds.com/ja/newsroom/press-releases/dassault-systemes-and-verkor-sign-mou-advance-next-generation-low-carbon-battery-development-and-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/verkor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/verkor/__65WMD08xN57PgLIKPfuTJ0ZAoAhVl4OjRTCXV88LoJs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/customer/verkor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.studocu.com/sv/document/stockholms-universitet/b2b-marketing-and-sales/individual-assignment-verkor-case-study-in-b2b-marketing-sales-spring-2025/143472386",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/hogan-lovells/case-study/accelerating-the-future-of-sustainable-mobility-with-start-up-verkor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verkada.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/verkor/__65WMD08xN57PgLIKPfuTJ0ZAoAhVl4OjRTCXV88LoJs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/453525-76",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/verkor",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/verkor/447047711",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bright_mango111/n/n921927c3af04",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/Verkor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/VerkorTeam?f=live",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/verkor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/VerkorStories?f=live",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/verkor/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/david-chin-a5092a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/in/laurent-debrue-44881423",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/in/benoit-lemaignan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/VerKor-OÜ-100064177118582/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/verkor.hu/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shep.verkor.33/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/verkor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/VerkorSAS/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Verkor 日本 導入",
+   "results": [
+    "https://frontjour.com/column/global/verkor",
+    "https://www.3ds.com/ja/newsroom/press-releases/dassault-systemes-and-verkor-sign-mou-advance-next-generation-low-carbon-battery-development-and-manufacturing",
+    "https://verkor.com/en/",
+    "https://verkor.com/en/about-us/",
+    "https://www.lartnec.jp/blog/?p=693",
+    "https://engineer-go.net/ai-designs-risc-v-cpu-12-hours-verkor-io-2026/",
+    "https://xenospectrum.com/ai-autonomous-agent-designs-risc-v-cpu-in-12-hours-verkor/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Verkor 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.linguee.com/japanese-english/translation/総代理店.html",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Verkor Japan",
+   "results": [
+    "https://verkor.com/en/",
+    "https://verkor.com/en/about-us/",
+    "https://jp.linkedin.com/company/verkor",
+    "https://tracxn.com/d/companies/verkor/__65WMD08xN57PgLIKPfuTJ0ZAoAhVl4OjRTCXV88LoJs",
+    "https://www.arkema.com/files/live/sites/shared_arkema/files/downloads/countries/Japan/20210706_Arkema-acquires-a-stake-in-verkor-for-batteries-development.pdf",
+    "https://www.3ds.com/ja/newsroom/press-releases/dassault-systemes-and-verkor-sign-mou-advance-next-generation-low-carbon-battery-development-and-manufacturing",
+    "https://www.arkema.com/files/live/sites/shared_arkema/files/downloads/countries/Japan/20210706_Arkema-acquires-a-stake-in-verkor-for-batteries-development-PR-JP.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Verkor manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/verkor",
+    "https://verkor.com/en/",
+    "https://www.studocu.com/sv/document/stockholms-universitet/b2b-marketing-and-sales/individual-assignment-verkor-case-study-in-b2b-marketing-sales-spring-2025/143472386",
+    "https://www.casestudies.com/company/hogan-lovells/case-study/accelerating-the-future-of-sustainable-mobility-with-start-up-verkor",
+    "https://verkor.com/en/automotive-and-other-mobility-solutions/",
+    "https://sytec2025.crittm2a.com/wp-content/uploads/2025/10/251007-Verkor-Presentation-Critt.pdf",
+    "https://www.hlc.com/en/case-studies/accelerating-the-future-of-sustainable-mobility-with-start-up-verkor"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Verkor white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.verkada.com/partners/",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Verkor founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/verkor/__65WMD08xN57PgLIKPfuTJ0ZAoAhVl4OjRTCXV88LoJs",
+    "https://pitchbook.com/profiles/company/453525-76",
+    "https://compworth.com/company/verkor",
+    "https://www.zoominfo.com/c/verkor/447047711",
+    "https://startupintros.com/orgs/verkor",
+    "https://fundediq.co/verkor-verkor-com-funding/",
+    "https://www.thecompanycheck.com/company/b/verkor/am37xrl41tuut0xsf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Verkor",
+   "results": [
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/seigo77",
+    "https://note.com/bright_mango111/n/n921927c3af04",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/arrows_column/n/nc266340c0609",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/kentabright/n/nb116f899a6ac"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Verkor",
+   "results": [
+    "https://x.com/hashtag/Verkor",
+    "https://x.com/hashtag/VerkorTeam?f=live",
+    "https://x.com/verkor",
+    "https://x.com/hashtag/VerkorStories?f=live",
+    "https://x.com/WWVY/status/2031762920778940899",
+    "https://x.com/InardLaura",
+    "https://x.com/Kulmaso/status/2119613381967581537"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Verkor",
+   "results": [
+    "https://www.linkedin.com/company/verkor/",
+    "https://www.linkedin.com/in/david-chin-a5092a",
+    "https://fr.linkedin.com/in/laurent-debrue-44881423",
+    "https://fr.linkedin.com/in/benoit-lemaignan",
+    "https://www.linkedin.com/pulse/why-verkor-pivotal-europes-battery-independence-push-renpenning-fgxwf/",
+    "https://www.linkedin.com/pulse/frances-battery-boom-verkor-secures-800m-power-europes-ev-future-4iesf",
+    "https://www.linkedin.com/company/verkor-consulting"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Verkor",
+   "results": [
+    "https://www.facebook.com/p/VerKor-OÜ-100064177118582/",
+    "https://www.facebook.com/verkor.hu/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/shep.verkor.33/",
+    "https://www.facebook.com/verkorshoes/",
+    "https://www.facebook.com/shep.verkor.33/videos/1448111227511375/",
+    "https://www.facebook.com/shep.verkor.33/posts/2246126222981626/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Verkor note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://verkor.com/en/the-team/",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Verkor X 投稿",
+   "results": [
+    "https://x.com/verkor",
+    "https://x.com/VerkorSAS/with_replies",
+    "http://verkor.co/",
+    "https://engineer-go.net/ai-designs-risc-v-cpu-12-hours-verkor-io-2026/",
+    "https://www.instagram.com/p/DJJXfnHgbDW/",
+    "https://x.com/cor_ocoro/status/2118642874401386732",
+    "https://search.yahoo.co.jp/realtime/search/投稿/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

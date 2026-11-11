@@ -1,0 +1,1489 @@
+{
+ "name": "Toolio",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-11T00:18:55.045841+00:00",
+ "official_url": "https://www.toolio.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$10.3M",
+    "url": "https://getlatka.com/companies/toolio",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "22-Mar-2019    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/343413-01",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "4,396,135 $0.000010 8% $0.52 $0.52 1x $0.52 19.13%",
+    "url": "https://pitchbook.com/profiles/company/343413-01",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI-driven demand forecasting and scenario planning. Account for out-of-stocks, promotions, holiday shifts, and one-off anomalies. Accurate down to the SKU, whether you're planning for hundreds or thousands of doors.",
+    "url": "https://www.toolio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise depth, without the wait",
+    "url": "https://www.toolio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically distribute, replenish, and maximize inventory with precision.",
+    "url": "https://www.toolio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AKA Brands, a prominent player in the fashion industry known for its portfolio of successful digital native brands, has revolutionized its inventory management strategy and achieved remarkable results since implementing Toolio's integrated inventory management solution.",
+    "url": "https://www.toolio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President Inventory Planning",
+    "url": "https://www.toolio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"There are so many metrics that have given us the data we need to feel more confident about buying deeper into merchandise. The weeks of supply metric has helped us see potential to reorder styles if they are selling at a fast rate or pivot with additional marketing tools if a style is moving at a slower rate.\"",
+    "url": "https://www.toolio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Weezie Towels, celebrated for its artisanal approach to crafting luxurious, personalized towels, has elevated its inventory management to new heights with Toolio.",
+    "url": "https://www.toolio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Merchandising & Business Development",
+    "url": "https://www.toolio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Toolio works with an established network of partners across the globe. We provide them with the right training and tools. This ensures they can effectively support our mutual customers using their expertise, ensuring consistent and quality results.",
+    "url": "https://www.toolio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Accenture is a global professional services company that helps organizations improve their performance and create sustainable value by providing services in strategy, consulting, digital, technology, and operations",
+    "url": "https://www.toolio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "CapNexus is a U.S. based technology transformation partner helping enterprise and retail organizations modernize operations, implement mission-critical systems, and scale securely in the cloud.",
+    "url": "https://www.toolio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Founded by retailers for retailers, Columbus Consulting has spent 24+ years delivering practical, results-driven solutions to business problems. Our team of former retail executives works alongside you, providing unbiased, tailored recommendations—not sales pitches.",
+    "url": "https://www.toolio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Deloitte is a global professional services firm that provides audit, consulting, tax, and financial advisory services. They work with corporations, governments, and other organizations to help them solve problems and achieve their goals.",
+    "url": "https://www.toolio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The Parker Avery Group is a leading retail and consumer goods consulting firm that specializes in transforming organizations and optimizing operational execution through the development of competitive strategies, business process design, deep analytics expertise, change management leadership, and implementation of solutions that enable key capabilities.",
+    "url": "https://www.toolio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Driving Profitable Growth in a Competitive, Unpredictable Market.",
+    "url": "https://www.toolio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We help brands and retailers modernize technology, connect data, and apply AI to improve product, marketing, merchandising, fulfillment, and customer experiences. The result is faster execution, better visibility, increased margin, and more agile responses to changing consumer demand.",
+    "url": "https://www.toolio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Ready is a consultancy created to meet the evolving needs of modern business. We focus on using technology to build forward-looking solutions. We streamline operational systems into a cohesive, integrated framework that improves clarity and enhances collaboration.",
+    "url": "https://www.toolio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our implementations are based on providing solutions instead of strictly technical implementations. We are able to do this with our Hybrid Implementation Methodology, which puts the focus on giving the end users access to the solution early and often and therefore increasing user adoption.",
+    "url": "https://www.toolio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "All-in-One Enterprise Solutions",
+    "url": "https://www.toolio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Leading enterprises rely on the AI Data Cloud to power the end-to-end data lifecycle, from ingestion to sharing, so they can innovate faster and do more with their data.",
+    "url": "https://www.toolio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Do more with your Product Lifecycle Management tool",
+    "url": "https://www.toolio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "WFX helps brands and manufacturers digitize operations across product development, sourcing, production, and beyond.",
+    "url": "https://www.toolio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "From our initial in-depth training to our ongoing support, Toolio delivers major benefits to the companies that join our partner network.",
+    "url": "https://www.toolio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "About Toolio | Retail Planning Software for Mid-Market & Enterprise Retailers",
+    "url": "https://www.toolio.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Toolio is a merchandise planning platform from mid-market to enterprise retailers. Through modern technology, a customer-obsessed team and a community built for planners and merchants, we make sophisticated retail planning easy and accessible.",
+    "url": "https://www.toolio.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Toolio is headquartered in New York with offices in Istanbul and customers across the US and UK. Our team brings decades of experience from Walmart, NetSuite, Facebook, Microsoft and McKinsey, paired with engineers who build intuitive, data-driven technology. We’re backed by top VCs, Stanford professors and retail industry executives.",
+    "url": "https://www.toolio.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "From data to decision making across the company to interpersonal relationships, being open and direct drives our day to day interactions. We ensure we are proactively documenting how our departments operate so that anyone can step in and easily understand or quickly get the information they need to move forward.",
+    "url": "https://www.toolio.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We are a young growing company with room for improvement. Don’t hesitate to call out errors or suggest changes that stand to propel us forward. We love to see Toolions take the initiative while pushing themselves and the business to new levels.",
+    "url": "https://www.toolio.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Toolions are smart about how to get the most out of an investment. Whether it’s an investment of time or money, we’re always asking if we can reduce the input or get more output. We invest in systems and processes to get outsized returns.",
+    "url": "https://www.toolio.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "However, we don’t want these achievements to come at the expense of overall health and well-being. A rocket ship that loses its propulsion will fall back to earth. Therefore, Toolions need to manage the right balance of short term success with longevity because we want this company around for the long-run.",
+    "url": "https://www.toolio.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "In-Season & Pre -Season Planning",
+    "url": "https://www.toolio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Initial Allocation & Product Launch",
+    "url": "https://www.toolio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Toolio works with an established network of partners across the globe. We provide them with the right training and tools.",
+    "url": "https://www.toolio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Toolio vs. Spreadsheets",
+    "url": "https://www.toolio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Toolio vs Spreadsheets",
+    "url": "https://www.toolio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Boston Proper Boosts Turnover 5% and Cut Buy Cycles by 30% with Toolio",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "SVP of Product Strategy",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We finally have a comprehensive view into our plans and results across regions and normalized for currency. Not having to manage this data frees up our time to analyze, create different forecasts and scenarios, and ultimately make more informed decisions about inventory.",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "\"There are so many metrics that have given us the data we need to feel more confident about buying deeper into merchandise. The weeks of supply metric has helped us see potential to reorder styles if they are selling at a fast rate or pivot with additional marketing tools if a style is moving at a slower rate.\"",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Toolio replaced this setup with a single system for merchandise and assortment planning. The team gained faster access to data, more reliable forecasts, and the ability to reforecast weekly without manually updating multiple forecast templates. This shift improved decision-making and freed up time for higher-value analysis.",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Boston Proper is a 30-year-old women’s apparel brand, now operating as an online-only business with about $90M in annual revenue. The brand serves women 40+ who want bold, vibrant collections that let them stand out and express confidence.",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "As part of a larger digital transformation, Boston Proper needed a planning tool that could modernize their processes, improve collaboration across teams, and replace the “set it and forget it” cycle with agile, data-driven decision-making.",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "— Chad, VP of Merch Planning, Boston Proper",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": ", a fast-growing men's apparel brand with a significant presence on Amazon.",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Before adopting Toolio, Emazing relied heavily on Excel spreadsheets, which consumed significant time and limited their ability to scale effectively.",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "As Alie McCaskill, VP of Merchandise, states, \"Toolio has been a game changer for us, especially with reporting and reorder processes, helping us streamline and focus more on profitability and growth.\"",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Needed is a leading nutrition brand specializing in scientifically-backed supplements designed for long-term health and wellness. Operating primarily as a subscription-based business, Needed’s success depends on precise inventory forecasting, effective cost management, and seamless collaboration between planning, finance, and marketing teams.",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Before implementing Toolio, Needed’s inventory and financial planning were largely managed through Excel, making it difficult to track margins, analyze cost trends, and quickly answer leadership questions about profitability shifts.",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Since adopting Toolio, Needed has achieved a significant increase in gross margins. By leveraging Toolio’s real-time SKU-level insights and scenario planning capabilities, the team can now quickly identify cost fluctuations, optimize procurement strategies, and ensure that every inventory decision supports margin improvement.",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "“Toolio has been instrumental in helping us understand where our margin gains are coming from. When leadership asks why margins improved or dropped, we can instantly drill down by category and SKU to explain the shifts—something that used to take much longer when we were working in Excel.”",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Stio is an outdoor lifestyle brand offering functional and versatile apparel, outerwear, and footwear. The company has evolved from a DTC eCommerce business into a multi-channel retailer, including eCommerce, retail, wholesale, outlet, corporate, and closeout. Over the past two years, Stio has doubled its brick-and-mortar presence, expanding to 10 stores, including two outlet locations.",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Since adopting Toolio, mnml has achieved a 40% reduction in on-hand inventory, significantly improving cash flow while maintaining in-stock availability for key products. With more accurate demand forecasting and real-time insights, mnml has minimized overstock, reduced inefficiencies, and gained greater control over its inventory strategy.",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Boston Proper Increases Turnover 5% and Cut Buy Cycles by 30% with Toolio",
+    "url": "https://www.toolio.com/customer-stories/boston-proper-increases-turnover-5-and-cut-buy-cycles-by-30-with-toolio",
+    "pass": 1
+   },
+   {
+    "quote": "Boston Proper Boosts Turnover 5% and Cut Buy Cycles by 30% with Toolio",
+    "url": "https://www.toolio.com/customer-stories/boston-proper-increases-turnover-5-and-cut-buy-cycles-by-30-with-toolio",
+    "pass": 1
+   },
+   {
+    "quote": "Boston Proper is a 30-year-old women’s apparel brand, now operating as an online-only business with about $90M in annual revenue. The brand serves women 40+ who want bold, vibrant collections that let them stand out and express confidence.",
+    "url": "https://www.toolio.com/customer-stories/boston-proper-increases-turnover-5-and-cut-buy-cycles-by-30-with-toolio",
+    "pass": 1
+   },
+   {
+    "quote": "As part of a larger digital transformation, Boston Proper needed a planning tool that could modernize their processes, improve collaboration across teams, and replace the “set it and forget it” cycle with agile, data-driven decision-making.",
+    "url": "https://www.toolio.com/customer-stories/boston-proper-increases-turnover-5-and-cut-buy-cycles-by-30-with-toolio",
+    "pass": 1
+   },
+   {
+    "quote": "— Chad, VP of Merch Planning, Boston Proper",
+    "url": "https://www.toolio.com/customer-stories/boston-proper-increases-turnover-5-and-cut-buy-cycles-by-30-with-toolio",
+    "pass": 1
+   },
+   {
+    "quote": "Boston Proper’s planning process was tied to a legacy catalog cadence, with assortments built one drop at a time and no continuous performance tracking. Plans lived in Excel, formats varied by user, and data definitions were inconsistent.",
+    "url": "https://www.toolio.com/customer-stories/boston-proper-increases-turnover-5-and-cut-buy-cycles-by-30-with-toolio",
+    "pass": 1
+   },
+   {
+    "quote": "Toolio became the foundation for this change. Since onboarding in January 2024, Boston Proper has shifted to a digital-first, consumer-focused planning model, built a single integrated data set for cross-team collaboration, and introduced real-time visibility into inventory productivity, profit, and lifecycle performance.",
+    "url": "https://www.toolio.com/customer-stories/boston-proper-increases-turnover-5-and-cut-buy-cycles-by-30-with-toolio",
+    "pass": 1
+   },
+   {
+    "quote": "Guided workflows ensure consistency across processes, while integrated tools and data make it easy to move seamlessly from preseason strategy to in-season execution with greater accuracy and efficiency.",
+    "url": "https://www.toolio.com/customer-stories/boston-proper-increases-turnover-5-and-cut-buy-cycles-by-30-with-toolio",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The first AI-powered retail OS built for Shopify Brands. GoodDay is an alternative to traditional ERPs and centralizes management of Inventory, Supply Chain and Off-Shopify sales. GoodDay is where your operators get their work done. And, coming soon, GoodAI agents will actually help operators get more work done.",
+    "url": "https://www.toolio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "WFX helps brands and manufacturers digitize operations across product development, sourcing, production, and beyond.",
+    "url": "https://www.toolio.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Apparel Manufacturing",
+    "url": "https://www.casestudies.com/company/toolio",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/toolio/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Outerknown becomes more data-driven in planning and merchandising with Toolio | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/toolio/case-study/outerknown-joins-toolio-to-become-more-dynamic-and-data-driven-in-planning-and-merchandising",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Outerknown becomes more data-driven in planning and merchandising with Toolio",
+    "url": "https://www.casestudies.com/company/toolio/case-study/outerknown-joins-toolio-to-become-more-dynamic-and-data-driven-in-planning-and-merchandising",
+    "pass": 3
+   },
+   {
+    "quote": "Using the Toolio merchandising platform, Outerknown gained greater visibility, automation, and insights to plan more dynamically and make faster, more data-driven decisions. Toolio’s solution is intended to help Outerknown react in real time and support its mission to achieve full circularity by 2030, though the case study does not include specific quantitative results yet.",
+    "url": "https://www.casestudies.com/company/toolio/case-study/outerknown-joins-toolio-to-become-more-dynamic-and-data-driven-in-planning-and-merchandising",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/toolio/case-study/outerknown-joins-toolio-to-become-more-dynamic-and-data-driven-in-planning-and-merchandising",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/toolio/case-study/outerknown-joins-toolio-to-become-more-dynamic-and-data-driven-in-planning-and-merchandising",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/343413-01",
+    "pass": 3
+   },
+   {
+    "quote": "SendCutSend is an online custom manufacturing service specializing in rapid, high-precision sheet metal…",
+    "url": "https://fundediq.co/toolio-toolio-com-funding/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Want to be part of a fast-growing startup? You’re in the right place!",
+    "url": "https://www.toolio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Boston Proper is a 30-year-old women’s apparel brand, now operating as an online-only business with about $90M in annual revenue. The brand serves women 40+ who want bold, vibrant collections that let them stand out and express confidence.",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "As part of a larger digital transformation, Boston Proper needed a planning tool that could modernize their processes, improve collaboration across teams, and replace the “set it and forget it” cycle with agile, data-driven decision-making.",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Boston Proper is a 30-year-old women’s apparel brand, now operating as an online-only business with about $90M in annual revenue. The brand serves women 40+ who want bold, vibrant collections that let them stand out and express confidence.",
+    "url": "https://www.toolio.com/customer-stories/boston-proper-increases-turnover-5-and-cut-buy-cycles-by-30-with-toolio",
+    "pass": 1
+   },
+   {
+    "quote": "As part of a larger digital transformation, Boston Proper needed a planning tool that could modernize their processes, improve collaboration across teams, and replace the “set it and forget it” cycle with agile, data-driven decision-making.",
+    "url": "https://www.toolio.com/customer-stories/boston-proper-increases-turnover-5-and-cut-buy-cycles-by-30-with-toolio",
+    "pass": 1
+   },
+   {
+    "quote": "“We’re still young in our implementation, but Toolio has already reshaped our process, our team culture, and our ability to grow. It’s not just a planning tool, it’s part of how we run the business now.”",
+    "url": "https://www.toolio.com/customer-stories/boston-proper-increases-turnover-5-and-cut-buy-cycles-by-30-with-toolio",
+    "pass": 1
+   },
+   {
+    "quote": "When Michael Carrozza, SVP of Product Strategy, joined Boll & Branch, his team was managing a 1,000+ SKU business in Excel—and the cracks were showing.",
+    "url": "https://www.toolio.com/customer-stories/boll-and-branchs-journey-to-smart-agile-planning",
+    "pass": 1
+   },
+   {
+    "quote": "“It’s very typical for companies in the nine-figure revenue range to still be planning in Excel. But when you want to look beyond just revenue—to margin, inventory turns, and true productivity—you need a better system,\"",
+    "url": "https://www.toolio.com/customer-stories/boll-and-branchs-journey-to-smart-agile-planning",
+    "pass": 1
+   },
+   {
+    "quote": "Carrozza cites replacing manual Excel planning with Toolio, automating margin forecasting to eliminate lengthy cost analysis meetings, and using real-time scorecards to quickly track performance and drive faster, data-informed decisions.",
+    "url": "https://www.toolio.com/customer-stories/boll-and-branchs-journey-to-smart-agile-planning",
+    "pass": 1
+   },
+   {
+    "quote": "Boston Proper is a 30-year-old women’s apparel brand, now operating as an online-only business with about $90M in annual revenue. The brand serves women 40+ who want bold, vibrant collections that let them stand out and express confidence.",
+    "url": "https://www.toolio.com/customer-stories/boll-and-branchs-journey-to-smart-agile-planning",
+    "pass": 1
+   },
+   {
+    "quote": "As part of a larger digital transformation, Boston Proper needed a planning tool that could modernize their processes, improve collaboration across teams, and replace the “set it and forget it” cycle with agile, data-driven decision-making.",
+    "url": "https://www.toolio.com/customer-stories/boll-and-branchs-journey-to-smart-agile-planning",
+    "pass": 1
+   },
+   {
+    "quote": "Boston Proper is a 30-year-old women’s apparel brand, now operating as an online-only business with about $90M in annual revenue. The brand serves women 40+ who want bold, vibrant collections that let them stand out and express confidence.",
+    "url": "https://www.toolio.com/customer-stories/knix-invests-in-toolio-to-bring-agility-and-scale-to-planning",
+    "pass": 1
+   },
+   {
+    "quote": "As part of a larger digital transformation, Boston Proper needed a planning tool that could modernize their processes, improve collaboration across teams, and replace the “set it and forget it” cycle with agile, data-driven decision-making.",
+    "url": "https://www.toolio.com/customer-stories/knix-invests-in-toolio-to-bring-agility-and-scale-to-planning",
+    "pass": 1
+   },
+   {
+    "quote": "Boston Proper is a 30-year-old women’s apparel brand, now operating as an online-only business with about $90M in annual revenue. The brand serves women 40+ who want bold, vibrant collections that let them stand out and express confidence.",
+    "url": "https://www.toolio.com/customer-stories/hunter-bells-journey-to-efficient-inventory-management-with-toolio",
+    "pass": 1
+   },
+   {
+    "quote": "As part of a larger digital transformation, Boston Proper needed a planning tool that could modernize their processes, improve collaboration across teams, and replace the “set it and forget it” cycle with agile, data-driven decision-making.",
+    "url": "https://www.toolio.com/customer-stories/hunter-bells-journey-to-efficient-inventory-management-with-toolio",
+    "pass": 1
+   },
+   {
+    "quote": "Boston Proper is a 30-year-old women’s apparel brand, now operating as an online-only business with about $90M in annual revenue. The brand serves women 40+ who want bold, vibrant collections that let them stand out and express confidence.",
+    "url": "https://www.toolio.com/customer-stories/mcgee-co-boosts-forecast-accuracy-by-10-percent-and-in-stock-rate-by-15-percent-with-toolio",
+    "pass": 1
+   },
+   {
+    "quote": "As part of a larger digital transformation, Boston Proper needed a planning tool that could modernize their processes, improve collaboration across teams, and replace the “set it and forget it” cycle with agile, data-driven decision-making.",
+    "url": "https://www.toolio.com/customer-stories/mcgee-co-boosts-forecast-accuracy-by-10-percent-and-in-stock-rate-by-15-percent-with-toolio",
+    "pass": 1
+   },
+   {
+    "quote": "Boston Proper is a 30-year-old women’s apparel brand, now operating as an online-only business with about $90M in annual revenue. The brand serves women 40+ who want bold, vibrant collections that let them stand out and express confidence.",
+    "url": "https://www.toolio.com/customer-stories/how-emazing-group-unlocked-545k-in-savings-through-optimized-inventory-planning",
+    "pass": 1
+   },
+   {
+    "quote": "As part of a larger digital transformation, Boston Proper needed a planning tool that could modernize their processes, improve collaboration across teams, and replace the “set it and forget it” cycle with agile, data-driven decision-making.",
+    "url": "https://www.toolio.com/customer-stories/how-emazing-group-unlocked-545k-in-savings-through-optimized-inventory-planning",
+    "pass": 1
+   },
+   {
+    "quote": "Boston Proper is a 30-year-old women’s apparel brand, now operating as an online-only business with about $90M in annual revenue. The brand serves women 40+ who want bold, vibrant collections that let them stand out and express confidence.",
+    "url": "https://www.toolio.com/customer-stories/how-needed-increased-gross-margin-through-optimized-inventory-planning",
+    "pass": 1
+   },
+   {
+    "quote": "As part of a larger digital transformation, Boston Proper needed a planning tool that could modernize their processes, improve collaboration across teams, and replace the “set it and forget it” cycle with agile, data-driven decision-making.",
+    "url": "https://www.toolio.com/customer-stories/how-needed-increased-gross-margin-through-optimized-inventory-planning",
+    "pass": 1
+   },
+   {
+    "quote": "The below terms and conditions, together with any policies referenced herein (these \"Terms of Service\") describe your rights and responsibilities when you use the Services. Please read these Terms of Service carefully, as they include important information about your legal rights and cover areas such as warranty disclaimers and limitations of liability.",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": ". This does not limit any rights you may have under applicable law. You represent and warrant that your purchases are for your own personal or household use and not for commercial resale or export.",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "16. Disclaimer of warranties",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/toolio/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio Revenue 2024: $6.6M Est., $10.3M Raised",
+    "url": "https://getlatka.com/companies/toolio",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio has not published its revenue. GetLatka estimates it at about $6.6M a year (October 2024).",
+    "url": "https://getlatka.com/companies/toolio",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/toolio",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio CEO, founders & employees",
+    "url": "https://getlatka.com/companies/toolio",
+    "pass": 3
+   },
+   {
+    "quote": "Eytan Daniyalzade founded Toolio in 2019 and runs it as CEO. Toolio had 68 employees (December 2024, LinkedIn), up from 51 a year earlier.",
+    "url": "https://getlatka.com/companies/toolio",
+    "pass": 3
+   },
+   {
+    "quote": "What is Toolio's revenue?",
+    "url": "https://getlatka.com/companies/toolio",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Toolio's revenue at about",
+    "url": "https://getlatka.com/companies/toolio",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Toolio have?",
+    "url": "https://getlatka.com/companies/toolio",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/toolio",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/toolio",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/toolio",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/toolio",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/343413-01",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio has 79 total employees.",
+    "url": "https://pitchbook.com/profiles/company/343413-01",
+    "pass": 3
+   },
+   {
+    "quote": "What is Toolio’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/343413-01",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Toolio is",
+    "url": "https://pitchbook.com/profiles/company/343413-01",
+    "pass": 3
+   },
+   {
+    "quote": "Eytan Daniyalzade is listed as CEO at Toolio.",
+    "url": "https://fundediq.co/toolio-toolio-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Toolio have?",
+    "url": "https://fundediq.co/toolio-toolio-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/toolio-toolio-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/toolio-toolio-com-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "toolioは、日本語教育に携わるすべての人のためのサービスです",
+    "url": "https://nihongo-tool.com/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "pass": 3
+   },
+   {
+    "quote": "日本語を学ぶ人には、もっと楽しい日本語学習を提供したい、日本語を教える人には、授業づくりの力になりたいという思いからつくられました",
+    "url": "https://nihongo-tool.com/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "pass": 3
+   },
+   {
+    "quote": "Make Japanese More FUN.",
+    "url": "https://nihongo-tool.com/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "pass": 3
+   },
+   {
+    "quote": "先生方も、楽しく、長く日本語を教えられるように教材提供を通してサポートしていきます",
+    "url": "https://nihongo-tool.com/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "pass": 3
+   },
+   {
+    "quote": "Make our Japanese Leaning more fun for everyone. For the smiles of people who dedicate Japanese Learning.",
+    "url": "https://nihongo-tool.com/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "pass": 3
+   },
+   {
+    "quote": "toolio is a service for everyone involved in Japanese language education. It was created with the desire to provide more enjoyable Japanese language learning for students and to support teachers in lesson planning.",
+    "url": "https://nihongo-tool.com/en/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "pass": 3
+   },
+   {
+    "quote": "Make Japanese More FUN.",
+    "url": "https://nihongo-tool.com/en/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "pass": 3
+   },
+   {
+    "quote": "The greatest energy source for studying Japanese comes from feelings of \"I want to do it,\" \"it's fun,\" and \"I'm glad I did it.\"",
+    "url": "https://nihongo-tool.com/en/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "pass": 3
+   },
+   {
+    "quote": "Because you can immediately speak after studying and experience that feeling of accomplishment, you can continue your Japanese studies.",
+    "url": "https://nihongo-tool.com/en/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "pass": 3
+   },
+   {
+    "quote": "Minimizing the burden on instructors. We will support teachers through the provision of teaching materials, so that they can enjoy teaching Japanese for many years to come.",
+    "url": "https://nihongo-tool.com/en/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "pass": 3
+   },
+   {
+    "quote": "Make Japanese Learning more fun for everyone. For the smiles of those who dedicate themselves to Japanese Learning.",
+    "url": "https://nihongo-tool.com/en/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "pass": 3
+   },
+   {
+    "quote": "Free Life Consultation in Japan | toolio (Atsugi & Online)",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "toolio's free life consultation service in Japan",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Living in Japan,",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Work, resumes (CVs), Japanese documents and letters.",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "A Japanese person living in Japan will help you for free.",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Easy Japanese / English",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Is anything troubling you in your daily life in Japan?",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Format your resume / CV the Japanese way",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "I worked as a teacher in my home country, so I would like to work in education in Japan as well.",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "I have created a resume for working in Japan. Could you please take a look and see if it is okay?",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Explained the key points of the letter in easy Japanese",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "It doesn't have to be in Japanese",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Registered Japanese Teacher",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "toolio, Japanese Language Instructor",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "I have taught Japanese at language schools and elementary and junior high schools. I currently work at an elementary school, supporting children with foreign roots and their parents. I am here to help address the \"little troubles\" faced by those living in Japan.",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "toolio is a Japanese language school in Atsugi",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "toolio also runs Japanese lessons. If you'd like, we can tell you about them, but you don't have to study with us.",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "See toolio's Japanese lessons →",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "You can consult with us in easy Japanese or English.",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "・無料相談のお申し込みフォームでご入力いただく情報（お名前、メールアドレス、お住まいの地域、ご希望の日程、日本語のレベル、学習の目的、ご希望のレッスン形式・時間・頻度、ご質問の内容など）",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Specified Commercial Transactions Act Disclosure",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Business Address: toolio, 243-0204, Kanagawa 厚木市 鳶尾1-15-18, Japan",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Business address: toolio, 243-0204, Kanagawa 厚木市 鳶尾1-15-18, Japan",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us anytime. We are always here.",
+    "url": "https://nihongo-tool.com/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us anytime. We are always here.",
+    "url": "https://nihongo-tool.com/en/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "pass": 3
+   },
+   {
+    "quote": "You can ask questions about the teaching materials and anything else. Contact us here.",
+    "url": "https://nihongo-tool.com/en/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "pass": 3
+   },
+   {
+    "quote": "Wrote the application email together",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us to ask about return options and how to start a return.",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us before returning an item.",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Please inspect your order when you receive it and contact us immediately if an item is defective or damaged, or if you received the wrong item.",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us if you have questions about whether a specific item can be returned.",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us to ask about exchange options before returning your item.",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "If you do not see your refund within a reasonable period of time since your refund was approved, contact us.",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "To request a cancellation, start a return, inquire about a return, ask about an exchange or report damaged items, please contact us at support@nihongo-tool.com.",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Support Email Address: support@nihongo-tool.com",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/toolio/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/toolio/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/343413-01",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Toolio team: 1 of 1 has an email address on file.",
+    "url": "https://fundediq.co/toolio-toolio-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/toolio-toolio-com-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "toolioについて - nihongo-tool.com — toolioは、日本語教育に携わるすべての方のための教材販売サービスです。 すぐに使えるダウンロード教材や、授業が楽しみになるような物理教材などを取り扱っています。 皆さまの授業づくりの力になることが、私たちtoolioの願いです。",
+    "url": "https://nihongo-tool.com/pages/toolioについて",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio - Automating Merchandising Workflows | Microsoft ...AI Retail Planning Platform | Merchandising ... - ToolioAbout Toolio – toolio - nihongo-tool.com日本初のデジタルトランスフォーメーション(DX)情報メディア | DX Nav...Toolio - AI Platform for Merchandise Planning, Assortment ... — Turn-key Integrations: Save time and avoid costly errors by automating transfer order creation in your ERP directly from Toolio. Store Mana",
+    "url": "https://marketplace.microsoft.com/ja-jp/product/toolio.toolio_1",
+    "pass": 3
+   },
+   {
+    "quote": "AI Retail Planning Platform | Merchandising ... - Toolio — One connected platform for MFP, assortment, and allocation. See how Toolio automates forecasting, surfaces exceptions, and keeps your whole team working from the same plan.",
+    "url": "https://www.toolio.com/platform-overview",
+    "pass": 3
+   },
+   {
+    "quote": "About Toolio – toolio - nihongo-tool.com — toolio is a service for everyone involved in Japanese language education. It was created with the desire to provide more enjoyable Japanese language learning for students and to support teachers in lesson planning.",
+    "url": "https://nihongo-tool.com/en/pages/toolioについて",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio - AI Platform for Merchandise Planning, Assortment ... — Toolio unifies merchandise planning, open-to-buy, assortment, and allocation in one AI-powered platform so retail teams plan from a single number, at any scale.",
+    "url": "https://www.toolio.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About Toolio – toolio - nihongo-tool.com — Toolio is a teaching material sales service for everyone involved in Japanese language education. We offer immediately usable downloadable materials and physical teaching materials that will make classes more enjoyable.",
+    "url": "https://nihongo-tool.com/en/pages/toolioについて",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio — Toolio unifies merchandise planning, open-to-buy, assortment, and allocation in one AI-powered platform so retail teams plan from a single number, at any scale.",
+    "url": "https://www.toolio.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Life Consultation in Japan | toolio (Atsugi & Online) — Get free help with life in Japan: job hunting, resumes (CVs), school and hospital paperwork, and more. Easy Japanese or English. Just message us on LINE.",
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "pass": 3
+   },
+   {
+    "quote": "Inventory Management Success: Real-Time Insights with Toolio — Explore how Toolio's inventory management success stories empower retailers with real-time insights and automated workflows. See the impact on efficiency today!",
+    "url": "https://www.toolio.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio B2B Case Studies & Customer Successes — See how Toolio solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/toolio",
+    "pass": 3
+   },
+   {
+    "quote": "5 Toolio Case Studies, Success Stories, & Customer StoriesCase Study: Outerknown becomes more data-driven in planning ...Login - customer2.toolio.comToolio — HigherPeople — Learn what their customers think, get 5 free case studies and more. Outerknown (Apparel & Fashion) partnered with Toolio (Computer Software) to solve key challenges. \"Outerknown joins Toolio to become more dynamic and data-driv",
+    "url": "https://www.featuredcustomers.com/vendor/toolio/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Outerknown becomes more data-driven in planning ... — Outerknown (Apparel & Fashion) partnered with Toolio (Computer Software) to solve key challenges. \"Outerknown joins Toolio to become more dynamic and data-driven in planning and merchandising\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/toolio/case-study/outerknown-joins-toolio-to-become-more-dynamic-and-data-driven-in-planning-and-merchandising",
+    "pass": 3
+   },
+   {
+    "quote": "Login - customer2.toolio.com — To learn your workspace URL or for any login questions, please reach out to support@toolio.com",
+    "url": "https://customer2.toolio.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio Revenue 2024: $6.6M Est., $10.3M Raised - LATKA — Oct 30, 2026 · Toolio 2024 estimated revenue: $6.6M (up from $4.3M in 2023). Total funding: $10.3M across 2 rounds. 68 employees. Founded 2019. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/toolio",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio 2026 Company Profile: Valuation, Funding & Investors ...Toolio - 2025 Company Profile, Team, Funding & Competitors ...Toolio: Funding, Investors & Team (Oct 2026) | FundedIQToolio – Industry Ranking & Company Valuation – 2026Toolio — Company Profile, Funding & InvestorsToolio: Funding, Team & Investors | Startup Intros — Information on valuation, funding, cap tables, investors, and executiv",
+    "url": "https://pitchbook.com/profiles/company/343413-01",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio - 2025 Company Profile, Team, Funding & Competitors ...Toolio: Funding, Investors & Team (Oct 2026) | FundedIQToolio – Industry Ranking & Company Valuation – 2026Toolio — Company Profile, Funding & InvestorsToolio: Funding, Team & Investors | Startup Intros — Jul 31, 2025 · Toolio - About the company Toolio is a series A company based in Brooklyn (United States), founded in 2019 by Eytan Da",
+    "url": "https://tracxn.com/d/companies/toolio/__dWCTh-NT_LRn6TdhCKu3ioScuO7RYuxKIZ19GsWQ3e0",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio: Funding, Investors & Team (Oct 2026) | FundedIQ — Toolio has raised $8.0M across 1 funding round on record, the most recent a Series A of $8.0M announced in Oct 2021. That round is above the $3.6M median round size for Commerce and Shopping companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/toolio-toolio-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio – Industry Ranking & Company Valuation – 2026 — Discover Toolio's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/toolio",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Toolio (@Toolio127) / Posts / X Mar 19, 2010 · Toolio (@Toolio127) - Posts - Established 1985, IHL is a one-stop-shop for industrial & construction supplies, located in Woodbri... | X (formerly Twitter)",
+    "url": "https://x.com/toolio127",
+    "pass": 3
+   },
+   {
+    "quote": "toolio (@HOTDl0l) / X @HOTDl0l May 4, 2020 Smash bro’s ultimate needs to fucking fix its fucking servers I’m lagging hard as hell and I pay good money for this shit @ smashultimate toolio @HOTDl0l Apr 11, 2020 This is me in Spider-Man right now😭😭😭😭",
+    "url": "https://x.com/HOTDl0l",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio (@ToolioMX) / X Toolio gives retail planners AI forecasting, real-time OTB, and connected MFP, assortment, and allocation so your whole team plans from one number.",
+    "url": "https://x.com/tooliomx",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio (@Toolio_co) / Posts / X Nov 30, 2016 · Toolio. Toolio_co. Joined: Nov 30, 2016. 0 Posts. 29 Following. 1 Followers. Posts. Explore Trending Stories Go to Home Search X News",
+    "url": "https://x.com/Toolio_co",
+    "pass": 3
+   },
+   {
+    "quote": "@toolio | X The latest posts from @toolio",
+    "url": "https://x.com/toolio",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Toolio - LinkedIn Toolio is a merchandise planning platform for mid-market and enterprise retailers.",
+    "url": "https://www.linkedin.com/company/toolio-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio - LinkedIn From project-based tool rentals to the know-how that makes them work, Toolio removes the cost, complexity, and guesswork from home improvement.",
+    "url": "https://www.linkedin.com/company/toolio-us",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio - LinkedIn Toolio is a merchandise planning platform for mid-market and enterprise retailers. It connects financial planning, open-to-buy, assortment and allocation in one platform, so merchants, planners...",
+    "url": "https://tr.linkedin.com/company/toolio-retail",
+    "pass": 3
+   },
+   {
+    "quote": "Dustin Oliver - Toolio | LinkedInZack Quinn - Co-Founder, Toolio | LinkedInMerchandise Planning - LinkedInEytan Daniyalzade - New York City Metropolitan Area ... · Experience: Toolio · Education: University of Southern California · Location: Greater Fayetteville, AR Area · 500+ connections on LinkedIn. Co-Founder, Toolio · Building Toolio to solve a growing problem: even with an ocean of online DI",
+    "url": "https://www.linkedin.com/in/dustinwoliver",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Toolio - Facebook Oct 30, 2026 · What is Toolio? 🛠️ Toolio is a local tool-sharing app built for Aberdeen and Aberdeenshire. Borrow the tools you need for DIY, gardening or one-off jobs, or list tools you already own and earn from kit that would otherwise be sitting in the shed or garage.",
+    "url": "https://www.facebook.com/p/Toolio-61591830403674/",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio - Facebook Jun 17, 2022 · @rocketsofawesome @little_bipsy Toolio May 4, 2022 We're always looking for great people to join our growing team. If you are: - Entrepreneurial - Love to work in teams of smart humans - Want to work with customers who truly love the value of the product Then, we're probably for you! Check out our open positions here ...",
+    "url": "https://www.facebook.com/tooliocompany/",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio - Facebook Aug 28, 2025 · 1 Toolio 1y · Public Husa Longmen – Hand-Forged Knives & Iron WoksCrafted with traditional blacksmithing techniques, every knife and wok is made by hand with precision and durability in mind. 🌏 Worldwide shipping available! Follow us for more:#HandForgedKnife#KitchenKnife#Handmade#TraditionalCraft#ChefKnife#KitchenEssentials#Bladesmith# ...",
+    "url": "https://www.facebook.com/p/Toolio-61550654283260/",
+    "pass": 3
+   },
+   {
+    "quote": "Toolio - Facebook Toolio. 2 likes · 4 talking about this. Get the tools you need for your DIY project delivered to your door! Access expert guidance, complete tool kits,...",
+    "url": "https://www.facebook.com/61567834178073/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.toolio.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolio.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolio.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolio.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolio.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolio.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolio.com/customer-stories/boston-proper-increases-turnover-5-and-cut-buy-cycles-by-30-with-toolio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolio.com/customer-stories/boll-and-branchs-journey-to-smart-agile-planning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolio.com/customer-stories/knix-invests-in-toolio-to-bring-agility-and-scale-to-planning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolio.com/customer-stories/hunter-bells-journey-to-efficient-inventory-management-with-toolio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolio.com/customer-stories/mcgee-co-boosts-forecast-accuracy-by-10-percent-and-in-stock-rate-by-15-percent-with-toolio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolio.com/customer-stories/how-emazing-group-unlocked-545k-in-savings-through-optimized-inventory-planning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolio.com/customer-stories/how-needed-increased-gross-margin-through-optimized-inventory-planning",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://nihongo-tool.com/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketplace.microsoft.com/ja-jp/product/toolio.toolio_1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nihongo-tool.com/en/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.toolai.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nihongo-tool.com/en/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nihongo-tool.com/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/toolio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/toolio/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/toolio/case-study/outerknown-joins-toolio-to-become-more-dynamic-and-data-driven-in-planning-and-merchandising",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.namesilo.com/reseller",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://opensrs.com/campaigns/become-a-domain-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/toolio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/343413-01",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/toolio/__dWCTh-NT_LRn6TdhCKu3ioScuO7RYuxKIZ19GsWQ3e0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/toolio-toolio-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/toolio127",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HOTDl0l",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/tooliomx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Toolio_co",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/toolio-retail",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/toolio-us",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tr.linkedin.com/company/toolio-retail",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/dustinwoliver",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Toolio-61591830403674/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tooliocompany/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Toolio-61550654283260/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61567834178073/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/toolio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/toolio127",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Toolio 日本 導入",
+   "results": [
+    "https://nihongo-tool.com/pages/toolioについて",
+    "https://marketplace.microsoft.com/ja-jp/product/toolio.toolio_1",
+    "https://www.toolio.com/platform-overview",
+    "https://nihongo-tool.com/en/pages/toolioについて",
+    "https://www.toolio.com/",
+    "https://nihongo-tool.com/",
+    "https://dx-navigator.com/tag/toolio"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Toolio 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "http://www.toolai.net/",
+    "https://kikaiya.shop/",
+    "https://www.toyo.vc/product/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Toolio Japan",
+   "results": [
+    "https://nihongo-tool.com/en/pages/toolioについて",
+    "https://nihongo-tool.com/pages/toolioについて",
+    "https://www.toolio.com/",
+    "https://nihongo-lesson.com/en/pages/seikatsu-soudan",
+    "https://www.tooljapan.jp/",
+    "https://nihongo-tool.com/en",
+    "https://nihongo-tool.com/en/policies/contact-information"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Toolio manufacturing customer case study",
+   "results": [
+    "https://www.toolio.com/case-studies",
+    "https://www.casestudies.com/company/toolio",
+    "https://www.featuredcustomers.com/vendor/toolio/case-studies",
+    "https://www.casestudies.com/company/toolio/case-study/outerknown-joins-toolio-to-become-more-dynamic-and-data-driven-in-planning-and-merchandising",
+    "https://customer2.toolio.com/case-studies",
+    "https://www.higherpeople.co/toolio",
+    "https://www.toolio.com/customer-stories/how-emazing-group-unlocked-545k-in-savings-through-optimized-inventory-planning"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Toolio white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.namesilo.com/reseller",
+    "https://partner.vw.com/partner",
+    "https://opensrs.com/campaigns/become-a-domain-reseller",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.20i.com/us/reseller-hosting",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Toolio founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/toolio",
+    "https://pitchbook.com/profiles/company/343413-01",
+    "https://tracxn.com/d/companies/toolio/__dWCTh-NT_LRn6TdhCKu3ioScuO7RYuxKIZ19GsWQ3e0",
+    "https://fundediq.co/toolio-toolio-com-funding/",
+    "https://compworth.com/company/toolio",
+    "https://acquirezy.com/organization/toolio",
+    "https://startupintros.com/orgs/toolio"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Toolio",
+   "results": [
+    "https://note.com/beloved_tomoka",
+    "https://note.com/tag/映画ちいかわ",
+    "https://note.com/mio_adviser_8888/n/n7d3f9597f090",
+    "https://note.com/nosuke0607/n/n09d02c47e173",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/ymmt_reality/n/n2cf648bfa5d6",
+    "https://note.com/sskrq/n/n76aedac2b322"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Toolio",
+   "results": [
+    "https://x.com/toolio127",
+    "https://x.com/HOTDl0l",
+    "https://x.com/tooliomx",
+    "https://x.com/Toolio_co",
+    "https://x.com/ilysmithy",
+    "https://x.com/hashtag/Toolio",
+    "https://x.com/ThumpyBrewster"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Toolio",
+   "results": [
+    "https://www.linkedin.com/company/toolio-retail",
+    "https://www.linkedin.com/company/toolio-us",
+    "https://tr.linkedin.com/company/toolio-retail",
+    "https://www.linkedin.com/in/dustinwoliver",
+    "https://www.linkedin.com/in/zacharyaquinn",
+    "https://www.linkedin.com/products/toolio-retail-merchandise-planning/",
+    "https://www.linkedin.com/in/daniyalzade"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Toolio",
+   "results": [
+    "https://www.facebook.com/p/Toolio-61591830403674/",
+    "https://www.facebook.com/tooliocompany/",
+    "https://www.facebook.com/p/Toolio-61550654283260/",
+    "https://www.facebook.com/61567834178073/",
+    "https://www.facebook.com/tooliofanpage/",
+    "https://www.facebook.com/toolio_us/",
+    "https://www.facebook.com/people/Toolio/61592110135377/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Toolio note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/toolio",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Toolio X 投稿",
+   "results": [
+    "https://x.com/toolio",
+    "https://submitmap.com/platform/toolio/",
+    "https://www.toolio.com/",
+    "https://x.com/toolio127",
+    "https://toolio-ai.com/submit",
+    "https://x.com/HOTDl0l",
+    "https://x.com/Toolio226/status/2095682418015383771"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部35頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

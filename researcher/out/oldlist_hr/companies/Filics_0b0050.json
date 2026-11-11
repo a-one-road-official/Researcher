@@ -1,0 +1,999 @@
+{
+ "name": "Filics",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜拒否",
+ "researched_at": "2026-11-11T00:46:13.532480+00:00",
+ "official_url": "https://www.filics.eu/en",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$31,800,000",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Balanstraße 73, Gebäude 9, Munich, Bavaria 81541, DE",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The double-runner system moves different load carriers flexibly and integrates seamlessly into existing processes.",
+    "url": "https://www.filics.eu/en",
+    "pass": 1
+   },
+   {
+    "quote": "Improve workforce efficiency",
+    "url": "https://www.filics.eu/en",
+    "pass": 1
+   },
+   {
+    "quote": "The double-runner system enables load carriers to move in any direction, significantly improving process efficiency.",
+    "url": "https://www.filics.eu/en",
+    "pass": 1
+   },
+   {
+    "quote": "Smallest turning radius, minimal footprint, and operates in the tightest aisles. More pallets in the same space without additional parking or charging areas.",
+    "url": "https://www.filics.eu/en",
+    "pass": 1
+   },
+   {
+    "quote": "Extends the Streamliner with intelligent process logic for demanding material flows.",
+    "url": "https://www.filics.eu/en",
+    "pass": 1
+   },
+   {
+    "quote": "Wherever space, time and workforce are limited – the Filics Streamliner automates pallet transport without structural modifications, compromises, or long project timelines.",
+    "url": "https://www.filics.eu/en",
+    "pass": 1
+   },
+   {
+    "quote": "Processes & applications",
+    "url": "https://www.filics.eu/en",
+    "pass": 1
+   },
+   {
+    "quote": "More about the product",
+    "url": "https://www.filics.eu/en",
+    "pass": 1
+   },
+   {
+    "quote": "In der Intralogistik ist Transport selten das Problem – sondern die Art, wie er umgesetzt wird. Klassische Staplersysteme brauchen Platz, Wendemanöver und manuelle Eingriffe. Das kostet Durchsatz, bindet Personal und verhindert Automatisierung im Bestand:",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Manuelle Übergaben und fehleranfällige Prozesse",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Der Filics Streamliner ist ein autonomer, mobiler Roboter (AMR) für den bodennahen Palettentransport in Produktion und Intralogistik. Er wurde entwickelt, um klassische Transportlogiken zu durchbrechen, ohne bestehende Prozesse, Gebäude oder Layouts umbauen zu müssen.",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Keine Rangiermanöver oder 180°-Drehungen notwendig. Die Fähigkeit Ladungsträger von beiden Seiten ein- und auszufahren ermöglicht kürzere Wege und schnellere Prozesse.",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Da der Streamliner Paletten von unten aufnimmt, bleibt ihre Zugänglichkeit rundum erhalten. Es ist keine feste Frontausrichtung erforderlich – das erhöht Flexibilität und Ergonomie im Arbeitsprozess.",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Parallele Prozessleistung",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Der geringe Footprint erlaubt den gleichzeitigen Einsatz mehrerer Fahrzeuge in engen Gängen. So entsteht mehr Parallelisierung im Materialfluss – ohne zusätzliche Infrastruktur oder Flächenerweiterung.",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Ideal für beengte Produktions- und Logistikflächen",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Erweitert den Streamliner per Software um intelligente Prozesslogik für anspruchsvolle Materialflüsse.",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Der Filics Streamliner ist von Grund auf für Brownfield-Umgebungen und historisch gewachsene Gebäudestrukturen entwickelt. Flach, präzise und kompromisslos funktional – jede technische Eigenschaft zahlt auf effizienten Materialfluss ein.",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Bewegungsprinzip & Robotik",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Präzise Positionsbestimmung auch in dynamischen Umgebungen",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Skalierbar für unterschiedliche Layouts und Prozesse",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Prozesse & Anwendungen",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Für Einzeltransporte, Value Added Service Prozesse und flexible Materialflüsse. Der Filics Streamliner automatisiert den Boden-zu-Boden-Transport von EPAL-Europaletten – und künftig auch vieler weiterer palettenähnlicher Ladungsträger – in dynamischen intralogistischen Umgebungen.",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "VAS-Prozesse wie Umpacken, Etikettieren, Kommissionieren oder Qualitätsprüfungen",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Materialbereitstellung an Produktions- und Montagestationen",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Puffer- und Umlagerprozesse in Lager- und Produktionsnähe",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Transport vom Wareneingang / LKW-Bereich zu Lager- oder Produktionszonen",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Materialfluss zwischen Produktion, Lager, Versand und VAS-Flächen",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Filics Software ist gemacht für den schnellen Einsatz im echten Lageralltag – ohne Projektaufwand, ohne Komplexität.",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Produktdatenblatt (PDF)",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "in Schweden. Beide Teams sind von uns geschult und ausgestattet, um Ihren Use Case für autonomen Palettentransport direkt vor Ort umzusetzen, egal ob es um einen komplett neuen Prozess geht oder um die Integration in bestehende Abläufe, inklusive Service und Support danach.",
+    "url": "https://www.filics.eu/partner",
+    "pass": 1
+   },
+   {
+    "quote": "– wir schauen uns gemeinsam an, wie sich Ihre Transportprozesse automatisieren lassen.",
+    "url": "https://www.filics.eu/partner",
+    "pass": 1
+   },
+   {
+    "quote": "Mit ONIRO Solutions in Ankona haben wir einen Partner an unserer Seite, der Automatisierung und Intralogistik seit 2014 lebt: über 100 realisierte Projekte, von robotergestützten Fertigungsinseln über Verpackungslösungen bis zur kompletten Lagerautomatisierung.",
+    "url": "https://www.filics.eu/oniro-solutions-italien",
+    "pass": 1
+   },
+   {
+    "quote": "Für unsere Kunden in Italien bedeutet das: lokaler Service und Support, kürzere Reaktionszeiten und ein fester Ansprechpartner, der den Markt kennt und die Sprache spricht.",
+    "url": "https://www.filics.eu/oniro-solutions-italien",
+    "pass": 1
+   },
+   {
+    "quote": "Erzählen Sie uns von Ihren Prozessen, Ihrem Layout und Ihren Zielen. Wir arbeiten mit ONIRO Solutions, unserem lokalen Partner, zusammen, um Ihren Palettentransport erfolgreich zu automatisieren. Füllen Sie einfach unser Kontaktformular aus, und wir melden uns schnellstmöglich bei Ihnen.",
+    "url": "https://www.filics.eu/oniro-solutions-italien",
+    "pass": 1
+   },
+   {
+    "quote": "Innovation in action: young robotics start-up and experienced sensor technology expert present novel logistics solution | SICK",
+    "url": "https://www.sick.com/jp/ja/blog/sick-sensor-blog/innovation-in-action-young-robotics-start-up-and-experienced-sensor-technology-expert-present-novel-logistics-solution/w/blog-autonomous-pallet-transport",
+    "pass": 3
+   },
+   {
+    "quote": "Innovation in action: young robotics start-up and experienced sensor technology expert present novel logistics solution",
+    "url": "https://www.sick.com/jp/ja/blog/sick-sensor-blog/innovation-in-action-young-robotics-start-up-and-experienced-sensor-technology-expert-present-novel-logistics-solution/w/blog-autonomous-pallet-transport",
+    "pass": 3
+   },
+   {
+    "quote": "Safe autonomous pallet transportation, maximum space utilization and high process efficiency – the robotics start-up",
+    "url": "https://www.sick.com/jp/ja/blog/sick-sensor-blog/innovation-in-action-young-robotics-start-up-and-experienced-sensor-technology-expert-present-novel-logistics-solution/w/blog-autonomous-pallet-transport",
+    "pass": 3
+   },
+   {
+    "quote": "Maximum space utilization for increased productivity",
+    "url": "https://www.sick.com/jp/ja/blog/sick-sensor-blog/innovation-in-action-young-robotics-start-up-and-experienced-sensor-technology-expert-present-novel-logistics-solution/w/blog-autonomous-pallet-transport",
+    "pass": 3
+   },
+   {
+    "quote": "software from SICK and import them into the laser scanner. This import function of the nanoScan3 makes it possible to provide it with a large number of fields and thereby fine-tune the move in, move through and move out operations.",
+    "url": "https://www.sick.com/jp/ja/blog/sick-sensor-blog/innovation-in-action-young-robotics-start-up-and-experienced-sensor-technology-expert-present-novel-logistics-solution/w/blog-autonomous-pallet-transport",
+    "pass": 3
+   },
+   {
+    "quote": ". He is proud of the successful initial pilot applications of the Filics Unit, including at the world's biggest logistics specialist",
+    "url": "https://www.sick.com/jp/ja/blog/sick-sensor-blog/innovation-in-action-young-robotics-start-up-and-experienced-sensor-technology-expert-present-novel-logistics-solution/w/blog-autonomous-pallet-transport",
+    "pass": 3
+   },
+   {
+    "quote": ". The collaboration with this logistics specialist impressively demonstrates how the advantages of the Filics Unit can come to the fore in real-life, demanding logistics environments.",
+    "url": "https://www.sick.com/jp/ja/blog/sick-sensor-blog/innovation-in-action-young-robotics-start-up-and-experienced-sensor-technology-expert-present-novel-logistics-solution/w/blog-autonomous-pallet-transport",
+    "pass": 3
+   },
+   {
+    "quote": "Filics was heading into their most important trade show of the year with a website that no longer reflected the company they'd become. We delivered a complete new web presence in 14 days, just in time for the show.",
+    "url": "https://www.designbase.studio/cases/filics",
+    "pass": 3
+   },
+   {
+    "quote": "From greenlight to live, including build, QA, and content",
+    "url": "https://www.designbase.studio/cases/filics",
+    "pass": 3
+   },
+   {
+    "quote": "Working in parallel to compress timeline without compromising quality",
+    "url": "https://www.designbase.studio/cases/filics",
+    "pass": 3
+   },
+   {
+    "quote": "Filics is in a strong growth phase, expanding the team and sharpening their market position. With their most important industry trade show of the year approaching, the existing website had become a problem.",
+    "url": "https://www.designbase.studio/cases/filics",
+    "pass": 3
+   },
+   {
+    "quote": "The design was outdated, user flows were unclear, and the site no longer represented the company or the product accurately. The site wasn't ready to meet a technical audience arriving with high expectations.",
+    "url": "https://www.designbase.studio/cases/filics",
+    "pass": 3
+   },
+   {
+    "quote": "Perfect presentation at the trade show",
+    "url": "https://www.designbase.studio/cases/filics",
+    "pass": 3
+   },
+   {
+    "quote": "Three developers working in parallel to compress the timeline. Daily syncs and a hard launch date held without compromising quality.",
+    "url": "https://www.designbase.studio/cases/filics",
+    "pass": 3
+   },
+   {
+    "quote": "Trade show-ready content and structure",
+    "url": "https://www.designbase.studio/cases/filics",
+    "pass": 3
+   },
+   {
+    "quote": "Updated content and a structure designed to inform and convert the technical visitor profile the show would drive.",
+    "url": "https://www.designbase.studio/cases/filics",
+    "pass": 3
+   },
+   {
+    "quote": "Real projects. Real results.",
+    "url": "https://www.designbase.studio/cases/filics",
+    "pass": 3
+   },
+   {
+    "quote": "Four-year partnership with the tech-recruiting platform, including two full relaunches and 120+ landing pages migrated. €10M funding round closed shortly after the final launch.",
+    "url": "https://www.designbase.studio/cases/filics",
+    "pass": 3
+   },
+   {
+    "quote": "Component-first rebuild for the workforce-management platform, validated in a phased launch and built for self-serve growth. Conversion rate up 50% within six months.",
+    "url": "https://www.designbase.studio/cases/filics",
+    "pass": 3
+   },
+   {
+    "quote": "Filics defines a new generation of autonomous mobile robots by reducing current solutions to a minimum. Our platform provides a simple, flexible and fast solution to automate all ground-based intra-logistics processes.",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Showforce Services Event Crew, Event Staff and Production & Technical Personnel",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Comrade Digital Marketing Agency",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Filics has approximately",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Filics develops autonomous transport solutions for industrial and intralogistics environments. The Filics Streamliner redefines movement – putting value creation back at the center of operations.",
+    "url": "https://www.filics.eu/en",
+    "pass": 1
+   },
+   {
+    "quote": "Transportaufträge werden über ein benutzerfreundliches Front-End auf jedem Endgerät mit wenigen Klicks erstellt. Eine Anbindung an ein WMS-System ist geplant. Der Filics Streamliner unterstützt zudem den innerbetrieblichen Milk Run, bei dem sie regelmäßig vordefinierte Zonen anfährt, und bei Bedarf zum Zielort zu transportiert.",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "Filics Case Study: 14-Day Website Relaunch | Designbase",
+    "url": "https://www.designbase.studio/cases/filics",
+    "pass": 3
+   },
+   {
+    "quote": "Automation Machinery Manufacturing",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The double-runner system moves different load carriers flexibly and integrates seamlessly into existing processes.",
+    "url": "https://www.filics.eu/en",
+    "pass": 1
+   },
+   {
+    "quote": "The Filics Streamliner takes over manual transport tasks and supports employees – safely, intuitively and collaboratively.",
+    "url": "https://www.filics.eu/en",
+    "pass": 1
+   },
+   {
+    "quote": "The double-runner system enables load carriers to move in any direction, significantly improving process efficiency.",
+    "url": "https://www.filics.eu/en",
+    "pass": 1
+   },
+   {
+    "quote": "Extends the Streamliner through software for maximum flexibility across different load carriers.",
+    "url": "https://www.filics.eu/en",
+    "pass": 1
+   },
+   {
+    "quote": "The compact design and the ability to move through load carriers enable pallets to be pushed forward – for example in picking operations.",
+    "url": "https://www.filics.eu/en",
+    "pass": 1
+   },
+   {
+    "quote": "Statische und dynamische Load Carrier",
+    "url": "https://www.filics.eu/produkt",
+    "pass": 1
+   },
+   {
+    "quote": "The design was outdated, user flows were unclear, and the site no longer represented the company or the product accurately. The site wasn't ready to meet a technical audience arriving with high expectations.",
+    "url": "https://www.designbase.studio/cases/filics",
+    "pass": 3
+   },
+   {
+    "quote": "Filics Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Filics",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Filics?",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Filics generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Filics have?",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Filics | Autonomous pallet transport in tight spaces — Pallet transport reinvented. Filics develops autonomous transport solutions for industrial and intralogistics environments. The Filics Streamliner redefines movement – putting value creation back at the center of operations.",
+    "url": "https://www.filics.eu/en",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon支援のFilicsが自律型パレット移動ロボットの拡大のために1600... — Jul 7, 2025 · おそらくAmazonのチームはフィ Filics に自分たちの歴史を見出したのでしょう。 ミュンヘンを拠点とするこのスタートアップは、2012年に買収されて Amazon Fulfillment Technologies & Robotics 立ち上げた倉庫自動化会社Kiva Systemsを彷彿とさせます。",
+    "url": "https://jp.linkedin.com/pulse/amazon-backed-filics-raises-16m-scale-autonomous-robots-brian-heater-g0qye?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "亚马逊领投1.05亿，Filics双AGV筷子模式引爆仓储自动化新赛道 — 对于中国市场而言，随着电商、快递及 第三方物流 对高效密集型仓储需求的爆发，Filics “低改造成本＋高频次运行”的“双跑者”模式尤为契合国内“快速部署＋ 降本增效 ”的两大核心诉求。",
+    "url": "https://zhuanlan.zhihu.com/p/1927317144258974581",
+    "pass": 3
+   },
+   {
+    "quote": "Innovation in action: young robotics start-up and experienced ... — Safe autonomous pallet transportation, maximum space utilization and high process efficiency – the robotics start-up Filics has developed a double skid system for logistics applications that is setting new standards.",
+    "url": "https://www.sick.com/jp/ja/blog/sick-sensor-blog/innovation-in-action-young-robotics-start-up-and-experienced-sensor-technology-expert-present-novel-logistics-solution/w/blog-autonomous-pallet-transport",
+    "pass": 3
+   },
+   {
+    "quote": "Filics | LinkedIn — Filics defines a new generation of autonomous mobile robots by reducing current solutions to a minimum. Our platform provides a simple, flexible and fast solution to automate all ground-based...",
+    "url": "https://jp.linkedin.com/company/filics",
+    "pass": 3
+   },
+   {
+    "quote": "About Filics | Autonomous pallet transport in tight spaces — Filics develops autonomous transport solutions for intralogistics. The Filics Streamliner, an ultra-flat double-runner system, enables efficient pallet transport without maneuvering – even in existing facilities, tight layouts and complex processes.",
+    "url": "https://www.filics.eu/en/company",
+    "pass": 3
+   },
+   {
+    "quote": "Filics 2026 Company Profile: Valuation, Funding & Investors ...The Most Radical AMR Design Ever? // Julius Lutzer (Filics)Filics - Crunchbase Company Profile & Funding【物流ロボット】Filics - パレット搬送システム | LogiMAT2025 — Information on valuation, funding, cap tables, investors, and executives for Filics. Use the PitchBook Platform to explore the full profile. Apr 20, 2025 · In this Automation Awakenings epi",
+    "url": "https://pitchbook.com/profiles/company/481717-72",
+    "pass": 3
+   },
+   {
+    "quote": "The Most Radical AMR Design Ever? // Julius Lutzer (Filics)Filics - Crunchbase Company Profile & Funding【物流ロボット】Filics - パレット搬送システム | LogiMAT2025 — Apr 20, 2025 · In this Automation Awakenings episode, we go behind the scenes of one of the most innovative startups in logistics automation: Filics. Filics provides an automated double runner system for intralogistics, specializing in pallet transport",
+    "url": "https://www.youtube.com/watch?v=RRvhHWJ7_SA",
+    "pass": 3
+   },
+   {
+    "quote": "Filics Case Study: 14-Day Website Relaunch | Designbase — Filics was heading into their most important trade show of the year with a website that no longer reflected the company they'd become. We delivered a complete new web presence in 14 days, just in time for the show.",
+    "url": "https://www.designbase.studio/cases/filics",
+    "pass": 3
+   },
+   {
+    "quote": "Forklift innovation: Filics' omni directional system ... — Filics built a battery powered omni directional system that can carry up to a ton and move any way it wants. It’s not just spinning on the spot.",
+    "url": "https://www.linkedin.com/posts/keesjanengelen_electronics-technology-innovation-activity-7377235822481154048-UeOz",
+    "pass": 3
+   },
+   {
+    "quote": "Filics 2026 Company Profile: Valuation, Funding & Investors ...Filics Revenue, Funding & Valuation - prospeo.ioFilics - 2026 Company Profile, Team, Funding, Competitors ...Filics — Company Profile, Funding & InvestorsFilics - Products, Competitors, Financials, Employees ...Filics Funding | FundedIQM-Files Revenue 2025: $78.4M Est., $159.2M Raised — Information on valuation, funding, cap tables, in",
+    "url": "https://pitchbook.com/profiles/company/481717-72",
+    "pass": 3
+   },
+   {
+    "quote": "Filics Revenue, Funding & Valuation - prospeo.io — Filics has revenue of $3,165,535, estimated valuation of $10,200,000, $31,800,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Filics - 2026 Company Profile, Team, Funding, Competitors ... — Aug 25, 2026 · Explore Filics' in-depth company profile, including funding details, key investors, leadership, and competitors.",
+    "url": "https://tracxn.com/d/companies/filics/__6zBpAGATHO4PP7gpY-87xMLFuYndMPY94CNSSOJzJmk",
+    "pass": 3
+   },
+   {
+    "quote": "Filics — Company Profile, Funding & Investors — Filics company profile with $15.83M raised across 2 funding rounds, HQ in Munich, Germany, founded 2019. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/filics",
+    "pass": 3
+   },
+   {
+    "quote": "Filics - Products, Competitors, Financials, Employees ... — Filics was founded in 2019. Where is Filics's headquarters? Filics's headquarters is located at Balanstrasse 73, Munich. What is Filics's latest funding round? How much did Filics raise? Filics raised a total of $15.83M. Who are the investors of Filics?",
+    "url": "https://www.cbinsights.com/company/filics",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": ", who led the visual rebrand and design, we delivered the complete Webflow build in parallel to the design phase, hitting the trade show deadline.",
+    "url": "https://www.designbase.studio/cases/filics",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/filics-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "These are Filics Units by Filics, a Munich-based German ... These are Filics Units by Filics, a Munich-based German robotics startup. They're autonomous mobile robots that slide under pallets, lift loads up to 1 ton, and move omnidirectionally with lights for navigation.",
+    "url": "https://x.com/TansuYegen/status/2032112007520960962",
+    "pass": 3
+   },
+   {
+    "quote": "MAGA Global 47 on X: \"The end of forklift These are Filics ... The end of forklift🧐 These are Filics Units by Filics, a Munich-based German robotics startup. They're autonomous mobile robots that slide under pallets, lift loads up to 1 ton, and move omnidirectionally with lights for navigation.",
+    "url": "https://x.com/MAGAGlobal47/status/2104698801269170256",
+    "pass": 3
+   },
+   {
+    "quote": "CTO ROBOTICS Media on X: \"This robot moves pallets without a ... This robot moves pallets without a forklift. 🤖📦 Meet Filics Streamliner an autonomous pallet transport system designed for tight warehouse spaces.",
+    "url": "https://x.com/ctorobotics/status/2088128482161132015",
+    "pass": 3
+   },
+   {
+    "quote": "The forklift hasn't changed much in decades. That may be ... The forklift hasn't changed much in decades. That may be about to change. 📦🤖 Filics Units are autonomous robots that slide underneath pallets, lift loads up to 1 ton, and move in any direction. No forks. No driver. No wasted space. For warehouses, that's a big deal. Because https://t.co/9dSxRLf2or",
+    "url": "https://x.com/ctorobotics/status/2078162820693426612",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Filics - LinkedIn Filics defines a new generation of autonomous mobile robots by reducing current solutions to a minimum. Our platform provides a simple, flexible and fast solution to automate all ground-based ...",
+    "url": "https://www.linkedin.com/company/filics",
+    "pass": 3
+   },
+   {
+    "quote": "Gregor Kolls – Co-Founder & CEO at Filics | LinkedInSecuring €13.5 M in financing to expand and roll out the ...Filippo Brizzi - Filics | LinkedInFelix Volz – Go to Market Lead @ Filics | Bitte per Du | LinkedInJonas Lauener – Robotics engineer with 5+ years’ experience ...Julyo Saisai - CEO of July-o Flexifund | LinkedIn Co-Founder & CEO at Filics · Filics - a place where autonomous mobile robots",
+    "url": "https://de.linkedin.com/in/gregorfilics",
+    "pass": 3
+   },
+   {
+    "quote": "Filippo Brizzi - Filics | LinkedInFelix Volz – Go to Market Lead @ Filics | Bitte per Du | LinkedInJonas Lauener – Robotics engineer with 5+ years’ experience ...Julyo Saisai - CEO of July-o Flexifund | LinkedIn · Experience: Filics · Education: Scuola Superiore Sant'Anna / Università di Pisa · Location: United Kingdom · 500+ connections on LinkedIn. View Filippo Brizzi’s profile on LinkedIn, a...",
+    "url": "https://uk.linkedin.com/in/filippo-brizzi-6709b76a",
+    "pass": 3
+   },
+   {
+    "quote": "Felix Volz – Go to Market Lead @ Filics | Bitte per Du | LinkedInJonas Lauener – Robotics engineer with 5+ years’ experience ...Julyo Saisai - CEO of July-o Flexifund | LinkedIn Filics entwickelt autonome mobile Roboter für die Intralogistik, die mit ihrem einzigartigen Doppelkufensystem bestehende Grenzen überwinden und völlig neue Materialflussprozesse ermöglichen. Explore my projects at jolau.c",
+    "url": "https://de.linkedin.com/in/felix-volz",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Filics - Facebook Jun 2, 2020 · An der Filics-Unit begeistern mich die reduzierte Erscheinungsform und die simple Grundidee, die trotz ihrer Simplizität - oder grade aufgrund dieser - das Potenzial birgt, eine alteingesessene Industrie von Grund auf zu verändern.",
+    "url": "https://www.facebook.com/p/Filics-100069754163688/",
+    "pass": 3
+   },
+   {
+    "quote": "Filics Double Runner System, an autonomous mobile robot (AMR ...Facebook - log in or sign upFilics invented a replacement for the forklift They're ...Filics Man (@filics.man) • Facebook, Connect with friendsThese Filics Units replace the bulky forklift in warehouses ...These Filics Units replace the... - Interesting Engineering ... Jan 13, 2026 · Filics Double Runner System, an autonomous mobile r",
+    "url": "https://www.facebook.com/GIGadgets.Fans/videos/filics-double-runner-system/846495848224692/",
+    "pass": 3
+   },
+   {
+    "quote": "Filics invented a replacement for the forklift They're ... Apr 24, 2026 · Filics invented a replacement for the forklift They're autonomous mobile robots that slide under pallets, lift loads up to 1 ton, and move...",
+    "url": "https://www.facebook.com/ctorobotics/videos/filics-invented-a-replacement-for-the-forklifttheyre-autonomous-mobile-robots-th/1279551527041014/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.filics.eu/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.filics.eu/produkt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.filics.eu/partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.filics.eu/oniro-solutions-italien",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/69a209d59b7affa099fef165/69ac19488cd49bf2d2da7dd0_Logo_CocaCola.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.linkedin.com/pulse/amazon-backed-filics-raises-16m-scale-autonomous-robots-brian-heater-g0qye?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://zhuanlan.zhihu.com/p/1927317144258974581",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.sick.com/jp/ja/blog/sick-sensor-blog/innovation-in-action-young-robotics-start-up-and-experienced-sensor-technology-expert-present-novel-logistics-solution/w/blog-autonomous-pallet-transport",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smith-nephew.com/en-us/contact-us/companyinfo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/filics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/481717-72",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fictiv.com/reviews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.designbase.studio/cases/filics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/keesjanengelen_electronics-technology-innovation-activity-7377235822481154048-UeOz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.canva.com/partners/reseller/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/481717-72",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/filics-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/filics/__6zBpAGATHO4PP7gpY-87xMLFuYndMPY94CNSSOJzJmk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://acquirezy.com/organization/filics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TansuYegen/status/2032112007520960962",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MAGAGlobal47/status/2104698801269170256",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ctorobotics/status/2088128482161132015",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ctorobotics/status/2078162820693426612",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/filics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/gregorfilics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/filippo-brizzi-6709b76a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/in/felix-volz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Filics-100069754163688/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GIGadgets.Fans/videos/filics-double-runner-system/846495848224692/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ctorobotics/videos/filics-invented-a-replacement-for-the-forklifttheyre-autonomous-mobile-robots-th/1279551527041014/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Filics 日本 導入",
+   "results": [
+    "https://www.filics.eu/en",
+    "https://jp.linkedin.com/pulse/amazon-backed-filics-raises-16m-scale-autonomous-robots-brian-heater-g0qye?tl=ja",
+    "https://zhuanlan.zhihu.com/p/1927317144258974581",
+    "https://www.sick.com/jp/ja/blog/sick-sensor-blog/innovation-in-action-young-robotics-start-up-and-experienced-sensor-technology-expert-present-novel-logistics-solution/w/blog-autonomous-pallet-transport",
+    "https://monoist.itmedia.co.jp/mn/articles/2610/20/news044.html",
+    "https://www.iij.ad.jp/svcsol/case/hirose-fx2.html",
+    "https://www.jbs.co.jp/news/2024/1105"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Filics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.aon.com/japan/company-overview",
+    "https://industrial.filtrationgroup.com/ja/联系我们/",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Filics Japan",
+   "results": [
+    "https://www.filics.eu/en",
+    "https://jp.linkedin.com/company/filics",
+    "https://www.filics.eu/en/company",
+    "https://pitchbook.com/profiles/company/481717-72",
+    "https://www.youtube.com/watch?v=RRvhHWJ7_SA",
+    "https://www.crunchbase.com/organization/filics",
+    "https://www.youtube.com/watch?v=tInI9nP1oMU"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Filics manufacturing customer case study",
+   "results": [
+    "https://www.filics.eu/en",
+    "https://www.fictiv.com/reviews",
+    "https://www.designbase.studio/cases/filics",
+    "https://www.linkedin.com/posts/keesjanengelen_electronics-technology-innovation-activity-7377235822481154048-UeOz",
+    "https://www.filics.eu/en/company",
+    "https://www.youtube.com/watch?v=RRvhHWJ7_SA",
+    "https://sickconnect.com/pioneering-logistics-robotics-start-up-and-sick-unveil-groundbreaking-autonomous-pallet-transport-solution/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Filics white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.canva.com/partners/reseller/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.appspace.com/resellers-alliances/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Filics founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/481717-72",
+    "https://prospeo.io/c/filics-revenue",
+    "https://tracxn.com/d/companies/filics/__6zBpAGATHO4PP7gpY-87xMLFuYndMPY94CNSSOJzJmk",
+    "https://acquirezy.com/organization/filics",
+    "https://www.cbinsights.com/company/filics",
+    "https://fundediq.co/filics-filics-eu-funding/",
+    "https://getlatka.com/companies/m-files.com"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Filics",
+   "results": [
+    "https://note.com/tag/ヴァイスシュヴァルツ",
+    "https://note.com/tag/ジュディノート",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/miurakota/n/nb1539ab5123d",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Filics",
+   "results": [
+    "https://x.com/TansuYegen/status/2032112007520960962",
+    "https://x.com/MAGAGlobal47/status/2104698801269170256",
+    "https://x.com/ctorobotics/status/2088128482161132015",
+    "https://x.com/ctorobotics/status/2078162820693426612",
+    "https://x.com/eustartup",
+    "https://x.com/tashiprotocol/status/2090504609894678710",
+    "https://x.com/jettrecruitsgeo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Filics",
+   "results": [
+    "https://www.linkedin.com/company/filics",
+    "https://de.linkedin.com/in/gregorfilics",
+    "https://uk.linkedin.com/in/filippo-brizzi-6709b76a",
+    "https://de.linkedin.com/in/felix-volz",
+    "https://fm.linkedin.com/in/julyo-saisai-207058338",
+    "https://www.linkedin.com/posts/filics_securing-135-m-in-financing-to-expand-and-activity-7347900144362618880-4wcv",
+    "https://ch.linkedin.com/in/jonaslauener"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Filics",
+   "results": [
+    "https://www.facebook.com/p/Filics-100069754163688/",
+    "https://www.facebook.com/GIGadgets.Fans/videos/filics-double-runner-system/846495848224692/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/ctorobotics/videos/filics-invented-a-replacement-for-the-forklifttheyre-autonomous-mobile-robots-th/1279551527041014/",
+    "https://www.facebook.com/filics.man/",
+    "https://www.facebook.com/interestingengineering/videos/robot-pair-lift-one-ton-palettes-through-storehouse/2365407110612397/",
+    "https://www.facebook.com/interestingengineering/posts/these-filics-units-replace-the-bulky-forklift-in-warehouses-allowing-for-palette/1397875885717178/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Filics note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://investors.fiscalnote.com/news/news-details/2026/FiscalNote-Appoints-Key-Compton-as-President-and-Chief-Executive-Officer/default.aspx",
+    "https://japanir.jp/wp-content/uploads/2026/11/3687-20261106-04.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Filics X 投稿",
+   "results": [
+    "https://x.com/leefelixjapan_",
+    "https://x.com/LeeFelixJapan",
+    "https://x-sou.com/ja/u/Felixlinf",
+    "https://space.bilibili.com/14439840/video",
+    "https://help.x.com/ja",
+    "https://help.x.com/ja/using-x/how-to-post",
+    "https://www.instagram.com/p/DeWhyYHCVl6/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部31頁・検索12回）"
+ }
+}

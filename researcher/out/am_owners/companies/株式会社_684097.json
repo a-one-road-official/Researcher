@@ -1,0 +1,329 @@
+{
+ "name": "株式会社",
+ "aliases": [],
+ "context": "PBF=yes 装置=L-PBF;Nikon SLM;PBF;SLM 280;SLM280;ニコンSLM 出典=https://j3d.co.jp/",
+ "researched_at": "2026-11-11T00:13:00.725856+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {},
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.mizuhobank.co.jp/corporate/account/tips/topic_159.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://sue-tax.com/column/kaisyasetsuritsu-shihonkin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moj.go.jp/MINJI/minji06_00134.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://doho.co.jp/3d-print-business/service-install/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jampt.jp/column/column_453/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j3d.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jampt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E6%A9%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.businesslawyers.jp/practices/761",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alesia.jp/investing-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/establish/basic/70750/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://doda.jp/DodaFront/View/CompanyRanking/j_rank__2/-ne__2/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crex-data.com/ranking/employees",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://companydata.tsujigawa.com/human-capital/ranking/productivity/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "株式会社 会社概要 資本金 設立",
+   "results": [
+    "https://www.mizuhobank.co.jp/corporate/account/tips/topic_159.html",
+    "https://sue-tax.com/column/kaisyasetsuritsu-shihonkin/",
+    "https://www.moj.go.jp/MINJI/minji06_00134.html",
+    "https://www.yayoi-kk.co.jp/kigyo/oyakudachi/shihonkin-point/",
+    "https://kurosaka-office.com/blog/capital-and-composition-of-officers/",
+    "https://www.ht-tax.or.jp/kigyou-guide/capital",
+    "https://www.freee.co.jp/kb/kb-launch/capital/",
+    "https://leapal.jp/blog/establishment/capital/",
+    "https://www.utokyo-ipc.co.jp/ja/column/flow-of-establishing-company/",
+    "https://biz.moneyforward.com/establish/basic/85045/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "株式会社 金属3Dプリンタ 導入",
+   "results": [
+    "https://doho.co.jp/3d-print-business/service-install/",
+    "https://jampt.jp/column/column_453/",
+    "https://j3d.co.jp/",
+    "https://metoree.com/categories/9277/",
+    "https://kk-ariga.co.jp/metal_3d_printer/%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B/",
+    "https://www.j-tic.co.jp/R80728.html",
+    "https://jgoodtech.smrj.go.jp/api/v1/documents/VDdtT2VLbmprYWxVa1FBR19LWGd2dw==",
+    "https://www.fuji-mold.co.jp/equipments/3d_metal_printer.html",
+    "https://3dprinter.co.jp/cms3d/wp-content/themes/3dprinter-wp_new/images/product/markforged/metal-x/Metal-3dprinter.pdf",
+    "https://doho.co.jp/3d-print-business/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "株式会社 金属積層造形 設備",
+   "results": [
+    "https://jampt.jp/",
+    "https://mono.ipros.com/cg3/%E9%87%91%E5%B1%9E%E7%A9%8D%E5%B1%A4%E9%80%A0%E5%BD%A2%E6%A9%9F/",
+    "https://www.kinzoku.co.jp/core_technology/additive_manufacturing.html",
+    "https://jampt.jp/equipment/",
+    "https://j3d.co.jp/feature/%E9%87%91%E5%B1%9E%E7%B2%89%E6%9C%AB%E7%A9%8D%E5%B1%A4/",
+    "https://kyowa-industrial.jp/am/capabilities",
+    "https://metoree.com/categories/5523/",
+    "https://www.kk-co.jp/use/3dprinter/",
+    "https://www.jfe-steel.co.jp/products/solution/metal-3d-printing/index.html",
+    "https://chuokatan.co.jp/products/3dp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "株式会社 株主 出資 親会社",
+   "results": [
+    "https://www.businesslawyers.jp/practices/761",
+    "https://www.alesia.jp/investing-company/",
+    "https://biz.moneyforward.com/establish/basic/70750/",
+    "https://keiriplus.jp/tips/kanren_kankei_ko_chigai/",
+    "https://www.anamachigroup.com/%E4%BC%81%E6%A5%AD-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91/%E8%B5%B7%E6%A5%AD%E6%94%AF%E6%8F%B4/%E5%AD%90%E4%BC%9A%E7%A4%BE-%E9%96%A2%E9%80%A3%E4%BC%9A%E7%A4%BE%E8%A8%AD%E7%AB%8B-%E5%88%A5%E4%BC%9A%E7%A4%BE%E8%A8%AD%E7%AB%8B%E3%81%AE%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88%E3%81%A8-%E5%88%A5%E4%BC%9A%E7%A4%BE%E3%82%92%E8%A8%AD%E7%AB%8B%E3%81%99%E3%82%8B%E5%A0%B4%E5%90%88%E3%81%AB%E2%91%A0%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AB%E3%81%99%E3%82%8B%E3%81%B9%E3%81%8D%E3%81%8B%E2%91%A1%E7%A4%BE%E9%95%B7%E5%87%BA%E8%B3%87%E3%81%A7%E8%A8%AD%E7%AB%8B%E3%81%99%E3%82%8B%E3%81%B9%E3%81%8D%E3%81%8B/",
+    "https://www.homemate-research-stock.com/useful/12221_stock_026/",
+    "https://www.smd-am.co.jp/glossary/YST0189/",
+    "https://www.keidanren.or.jp/japanese/policy/pol191/p1-1.html",
+    "https://keiyaku-watch.jp/media/hourei/oyakokaisya/",
+    "https://chigai2.fromation.co.jp/archives/25409"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "株式会社 売上高 従業員数",
+   "results": [
+    "https://doda.jp/DodaFront/View/CompanyRanking/j_rank__2/-ne__2/",
+    "https://www.crex-data.com/ranking/employees",
+    "https://companydata.tsujigawa.com/human-capital/ranking/productivity/",
+    "https://media.finasee.jp/articles/-/11947?page=2",
+    "https://toyokeizai.net/articles/-/959046?display=b",
+    "https://kinmyakucode.com/ja/rankings/employee-count/",
+    "https://bixid.net/Blog/Article/20220908",
+    "https://www.geekly.co.jp/column/cat-preparation/japan_major_company_ranking/",
+    "https://yuho-nenshu.com/ranking/sales-per-employee",
+    "https://zukaikeizai.com/ranking/revper/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 株式会社",
+   "results": [
+    "https://note.com/ryutakvc/n/n4404466554d5",
+    "https://note.com/gyosei_shoshi/n/n67d06cf0ff62",
+    "https://note.com/mitsuwapump/n/n695929dbec9b",
+    "https://note.com/kurosonosuke/n/n990c1fdc3af6",
+    "https://note.com/keirimanx/n/nb43889bf90da",
+    "https://note.com/miko_recht/n/nbfc8de828249",
+    "https://note.com/rokutanjuku/n/n4df7991f2dec",
+    "https://note.com/theprofessional/n/nd82e52bd158e",
+    "https://note.com/mahyan_3k/n/n7e058db11a25",
+    "https://note.com/fine_orchid999/n/nabae73e39806"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 株式会社",
+   "results": [
+    "https://about.x.com/ja",
+    "https://x.com/FIG4392",
+    "https://x.com/Members_corp",
+    "https://x.com/crux_anime",
+    "https://x.com/DENSO_Corp",
+    "https://x.com/gift_news",
+    "https://x.com/cover_corp",
+    "https://x.com/KYOCERA_JP",
+    "https://x.com/Plott_Inc",
+    "https://x.com/TANITAofficial"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 株式会社",
+   "results": [
+    "https://fr.linkedin.com/company/bandai-co.-ltd",
+    "https://www.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEdts/",
+    "https://jp.linkedin.com/company/carta-holdings",
+    "https://www.linkedin.com/company/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AE%E3%82%B0%E3%83%BC",
+    "https://www.linkedin.com/company/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B3%E3%83%A0",
+    "https://jp.linkedin.com/showcase/mastercontrol-japan/",
+    "https://jp.linkedin.com/company/toyota",
+    "https://jp.linkedin.com/company/dentsujapan",
+    "https://kr.linkedin.com/company/lasertec-corporation",
+    "https://jp.linkedin.com/company/sharp"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 株式会社",
+   "results": [
+    "https://www.facebook.com/Icom.Incorporated/",
+    "https://www.facebook.com/fonfun2323/",
+    "https://www.facebook.com/KUBOTACorporation/",
+    "https://www.facebook.com/DENSOCorporation/",
+    "https://www.facebook.com/kawahara.enjoylife/",
+    "https://www.facebook.com/UNITED.jp.inc/",
+    "https://www.facebook.com/rescons.official/",
+    "https://www.facebook.com/atox.jp/",
+    "https://www.facebook.com/glocal.jp/",
+    "https://www.facebook.com/mitsuiandco/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "株式会社 note 社長",
+   "results": [
+    "https://shachomeikan.jp/industry_article/5902",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://plus-note.jp/message.html",
+    "https://x.com/sadaaki",
+    "https://www.smrj.go.jp/supporter/fund_investment/funding/case/aihbak0000001wv3.html",
+    "https://nipponia.or.jp/blog/3571/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.wantedly.com/companies/company_1284824/post_articles/483167",
+    "https://note.jp/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "株式会社 X 投稿",
+   "results": [
+    "https://malna.co.jp/blog/x-kigyou-account-jirei/",
+    "https://lynq-company.jp/2026/10/28/x-business-account-how-to-operate/",
+    "https://note.com/yusuke_motoyama/n/n4dd3c56c7df1",
+    "https://colet-lab.jp/column/sns/x-corporate-account-post-format-thread-guide/",
+    "https://x.com/MarketingJP",
+    "https://x-x.co.jp/business/sns-marketing/",
+    "https://flagout.co.jp/btob-x-twitter-guide/",
+    "https://coco-and.jp/blog/x-empathy-posting/",
+    "https://www.buzzsol.com/column/1773218233-573426",
+    "https://x.com/i/trending/2026189677410058314"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "資本金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "保有設備": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "金属AM装置の保有（型番・製造元・台数・導入年）": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "使っている金属粉（材質）": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "用途・客の産業": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）",
+  "資本金・株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部15頁・検索11回）"
+ }
+}

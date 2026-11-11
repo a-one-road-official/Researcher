@@ -1,0 +1,1690 @@
+{
+ "name": "Asm",
+ "aliases": [],
+ "context": "旧営業リスト｜Semiconductors / Electronics｜NG",
+ "researched_at": "2026-11-11T00:27:58.340034+00:00",
+ "official_url": "https://asm.co/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：1968",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Almere , Netherlands",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue",
+    "value": "€1.7 billion (2021) [ 1 ]",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "日本の担い手": [
+   {
+    "quote": "ASMIの日本法人「日本エー・エス・エム株式会社」（",
+    "url": "https://ja.wikipedia.org/wiki/ASM%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "かつては長岡に工場を持っていたが、2021年に長岡工場は閉鎖され、日本で開発された枚葉式プラズマCVD装置の名器 Eagle10 含めレガシーツールの保守・サービス業務については",
+    "url": "https://ja.wikipedia.org/wiki/ASM%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "1982年の設立以来、私たちの日本拠点は、未来を形づくる技術を切り拓く、主要な研究開発拠点のひとつへと進化してきました",
+    "url": "https://www.asm.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるASMでは、グローバルチームの一員として、イノベーションの最先端で活躍することができます",
+    "url": "https://www.asm.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "東京と神奈川のR&Dセンターを含む７つの戦略拠点を擁する日本は、PEALDおよびPECVDの進化をけん引するプラズマ製品開発の中核拠点であり、又、全てのASM製品におけるプラットフォームの設計、ソフトウエアの構築も担っています",
+    "url": "https://www.asm.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "更に、日本のチームはお客様に革新的な半導体製造装置を提供し、高品質なアフターサービスを通じて、お客様が当社製品を最大限に活用し、ビジネスの成長を実現できるよう支援しています",
+    "url": "https://www.asm.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "日本の拠点は、ASMの革新的なアイデアが形となり、半導体技術の未来が築かれる場所です",
+    "url": "https://www.asm.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "博士課程終了後に研究開発職として東京本社に勤務しています",
+    "url": "https://www.asm.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "未来のイノベーションを形づくる準備はできていますか？日本拠点で、あなたの未来を見つけましょう",
+    "url": "https://www.asm.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "〒206-0025 東京都多摩市永山6丁目23番1",
+    "url": "https://www.asm.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "日本の組織は頻繁に悪用されている脆弱性にセキュリティパッチを適用できているのか？",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/25/e/securitytrend-20250527-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "ARTEXだけではない：日本を狙う3つの攻撃基盤に見るAI関与の実態",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/25/e/securitytrend-20250527-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本語対応、CSIRT連携",
+    "url": "https://gxo.co.jp/column/attack-surface-management-asm-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本語サポート、国内実績豊富",
+    "url": "https://gxo.co.jp/column/attack-surface-management-asm-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業向け、低価格帯",
+    "url": "https://gxo.co.jp/column/attack-surface-management-asm-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "日本から世界へ、そして世界から日本へ",
+    "url": "https://semi.asmpt.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "From Japan to the world,and From the world to Japan.",
+    "url": "https://semi.asmpt.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "〒190-0022 東京都立川市錦町1-7-18 立川エフビル5 階",
+    "url": "https://semi.asmpt.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "(Japan), and Dongtan (",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "in May 1981, the company expands. In 1982 ASM Japan is established.",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "by ASM Japan and single wafer",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "Your U.S.-based company is ready to expand into Japan. Rather than staffing up an office and negotiating distribution deals with Japanese companies, you can find a channel partner there. They handle your rollout in exchange for 30% of the yearly contracts they close. You grow faster with less investment, and they can get a new revenue source. Everyone wins.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "を買収し子会社化、ウェハー処理における",
+    "url": "https://ja.wikipedia.org/wiki/ASM%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "以降はユーロネクスト・アムステルダムでの上場となっている",
+    "url": "https://ja.wikipedia.org/wiki/ASM%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "に単独で上場しており、ASMIが株式の25％を保有している",
+    "url": "https://ja.wikipedia.org/wiki/ASM%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "pass": 3
+   },
+   {
+    "quote": "子会社・グループ会社のIT資産が把握できない",
+    "url": "https://gxo.co.jp/column/attack-surface-management-asm-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "自社・子会社・グループ会社のドメイン一覧作成",
+    "url": "https://gxo.co.jp/column/attack-surface-management-asm-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "The shares of the company are listed on the",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "During the past 15 years, an increasing array of new materials has been introduced in the fabrication of chips.",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "is critical in that effort. In 2021, the company spent 151 million euro on R&D (or 9% of its annual revenues).",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "Initially the company operates as a sales agent in semiconductor fabrication technology in Europe. In 1968, the company was formally listed as a private limited company.",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "by ASM America. From 1996 onwards, the company is also listed on the",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": ". which includes the top-25 of companies listed on the Euronext Amsterdam stock exchange.",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "from Asian customers. In 2021, 1.41 billion euro of the total 1.73 billion euro in revenues was generated through equipment sales, the rest came from spares and service.",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "The market capitalization of ASM Pacific Technology is no longer consolidated after ASM's interest in ASM Pacific Technology decreased to 25 percent in 2013. Between 1981 and 2015 ASM was also listed on the",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "Companies listed on Euronext Amsterdam",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "Companies formerly listed on the Nasdaq",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "1,000-9,999 employees",
+    "url": "https://www.microsoft.com/en/customers/story/25967-asm-front-end-manufacturing-microsoft-security-copilot/",
+    "pass": 3
+   },
+   {
+    "quote": "From industry giants like Salesforce and HubSpot to fast-scaling disruptors, companies are increasingly relying on partner ecosystems to accelerate revenue, expand market reach, and maximize customer value.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Generous commissions and performance-based incentives for hitting revenue milestones (",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Your U.S.-based company is ready to expand into Japan. Rather than staffing up an office and negotiating distribution deals with Japanese companies, you can find a channel partner there. They handle your rollout in exchange for 30% of the yearly contracts they close. You grow faster with less investment, and they can get a new revenue source. Everyone wins.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "managing content management systems for clients as part of a website redesign project.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "These are often long-term arrangements that can sometimes result in one company acquiring another.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Partnerships take 9 to 12 months to deliver revenue",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Starting a partner program is a commitment of one to three years and you should expect not to see any revenue until around the ninth month at minimum. If your executive team can’t give you this runway, you won’t be successful. This is why so many partnership professionals demand",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "How long does it take for a new partner program to generate revenue?",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "is a SaaS product that allows you to manage, track, and share data with your partner ecosystem. A good PEP will typically also include tools to attribute revenue to your partners, track ecosystem-qualified leads, and keep your data secure.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "\"I love how it pulls everything partner-related into one spot, from getting new folks on board to seeing how they're performing – it just makes working with partners so much smoother. Plus, it really greases the wheels for sales, making things like deal registration and co-selling way easier, which means more revenue for us.\"",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Operating Revenue 2025",
+    "url": "https://asm.org/about-asm/asm-financials",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "M.G. R&D Senior Process Engineer 開発部門・プロセス開発エンジニア",
+    "url": "https://www.asm.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "K.O. R&D Senior Process Engineer 開発部門・プロセス開発エンジニア",
+    "url": "https://www.asm.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Content has been added to your Folio",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/25/e/securitytrend-20250527-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "※正規名称は「NIST SP 800-53 Rev. 5（Security and Privacy Controls for Information Systems and Organizations）」",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/25/e/securitytrend-20250527-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "This article is about a Netherlands-based company. For the professional organization formerly known as the American Society for Metals, see",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": ". Its products are utilized by",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "for processes such as",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "The company was founded by Arthur del Prado (1931–2016) in 1964.",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "From 2008 until 2020, son of Arthur del Prado, Chuck del Prado was",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "ASM pioneered important aspects of many established wafer-processing technologies used in industry, including",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "). Manufacturing primarily occurs in",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": ". In March 2020, ASM was promoted to the",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": ", and other steps. ASM's systems are designed for deposition processes, when",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": ", or layers, of various materials are grown or deposited onto the wafer. Many different thin-film layers are deposited to complete the full sequence of process steps necessary to manufacture a chip.",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "materials. ASM also develops deposition processes for new materials to be used in semiconductor fabrication.",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "These new materials were required to achieve the necessary performance improvements of chips, as outlined by Moore's Law. For instance, in 2007 in a",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": ", a material that has a higher dielectric constant than silicon oxide. In this particular case, ASM pioneered the chemical process and a new deposition method called atomic layer deposition after nearly a decade of R&D.",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "In addition, increasingly precise deposition methods are required as components on a chip such as transistors moved from",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "ASM designs and sells both single-wafer deposition tools, in which the process is performed one",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "tools, in which the deposition is performed on multiple wafers at a time. The prices of the company's systems varies, but typically are multiple of million",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "The products of ASM can be categorized by deposition method:",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "is a layer-by-layer process that results in the deposition of thin films one atomic layer at a time in a highly controlled manner. Layers are formed during reaction cycles by alternately pulsing",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "is a chemical deposition process in which the wafer is exposed to one or more volatile precursors, which react and/or decompose on the",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "surface to produce the desired film. Within Chemical Vapor Deposition (CVD) ASM offers two types of tools: single-wafer",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "(PECVD) and batch low pressure CVD (LPCVD). ASM provides single-wafer PECVD processes on the Dragon XP8 tool. ASM provides batch LPCVD/diffusion processes on the vertical furnace A400 DUO and novel Sonora tools.",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "Initially the company operates as a sales agent in semiconductor fabrication technology in Europe. In 1968, the company was formally listed as a private limited company.",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": ". ASM focusses on vertical low-pressure",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": ". In 2007, the company successfully brings atomic layer deposition from R&D to high-volume production via the",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Advertising",
+    "url": "https://www.microsoft.com/en/customers/story/25967-asm-front-end-manufacturing-microsoft-security-copilot/",
+    "pass": 3
+   },
+   {
+    "quote": "“You can’t possibly send a recruit to the frontlines without support. With our intellectual property at stake, it is clear we need more than a traditional defense. We need solutions that are intelligent and adaptive. Security Copilot is like having a military advisor standing right beside you.”",
+    "url": "https://www.microsoft.com/en/customers/story/25967-asm-front-end-manufacturing-microsoft-security-copilot/",
+    "pass": 3
+   },
+   {
+    "quote": "These results compound when Security Copilot agents enter the picture. ASM is conducting early trials of agents that facilitate telemetry processing across the Microsoft stack. Omar emphasizes the team’s belief that agents “help with a lot of complex workflows. They reduce a lot of manual and repetitive work, especially in areas like vulnerability management.”",
+    "url": "https://www.microsoft.com/en/customers/story/25967-asm-front-end-manufacturing-microsoft-security-copilot/",
+    "pass": 3
+   },
+   {
+    "quote": "By blending human judgment and AI precision, ASM is redefining what it means to protect intellectual property in the semiconductor era: faster, smarter, and more secure.",
+    "url": "https://www.microsoft.com/en/customers/story/25967-asm-front-end-manufacturing-microsoft-security-copilot/",
+    "pass": 3
+   },
+   {
+    "quote": "Find out how customers are achieving more with Microsoft products and solutions.",
+    "url": "https://www.microsoft.com/en/customers/story/25967-asm-front-end-manufacturing-microsoft-security-copilot/",
+    "pass": 3
+   },
+   {
+    "quote": "Capmatic is known for their high-quality monoblocks, fillers, and labelers. The company, in their goal to increase efficiency, has sought ways to improve their machinery’s performance.",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Project Background: Capmatic",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 1964 and headquartered in Quebec, Capmatic boasts a history and a strong presence in the packaging machinery sector. Their comprehensive range of packaging equipment caters to industries such as pharmaceuticals, food and beverage, cosmetics, and beyond.",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Capmatic’s commitment to innovation and quality has solidified their reputation as a go-to solution provider, consistently tailoring their offerings to meet their clients’ unique needs.",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "The Problem: The Need for Precision Frames",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "In the company’s industry, precision and durability are paramount. Recognizing this, Capmatic sought to develop exceptionally sturdy frames for their capsule-filling machines.",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "These frames are needed to not only withstand the rigorous demands of pharmaceutical and other industries but also maintain precision to ensure the accurate filling of capsules.",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Benefits of the Project",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Engineering:",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "American Sheet Metal (ASM) delivered on its promise of precision engineering, ensuring that the frames they fabricated for Capmatic’s machinery were crafted to exact specifications.",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Enhanced Productivity:",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "With ASM’s frames in place, Capmatic’s capsule-filling machines exhibited improved stability, resulting in reduced machine downtime and a significant increase in production efficiency.",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Capmatic’s commitment to delivering high-quality packaging solutions was bolstered by ASM’s precision frame fabrication, enhancing the overall performance and durability of their machinery.",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Capmatic’s capsule filling machines, equipped with ASM’s precision-engineered frames, continue to provide reliable and efficient solutions to their clients in various industries. This project highlights the value of having the right fabrication partner in achieving goals within your industry.",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: ASM Industries’ Stainless Steel Solutions for the NTT USP 800 Pharmacy Project",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Burbank Bridge Infrastructure Project",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Need a quote on an upcoming project?",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Like what you see? let's talk about your project!",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "ASM digitalizes production of electronics manufacturing…",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "ASM digitalizes production of electronics manufacturing equipment [VIDEO]",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "70% improvement",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "in producing efficiency and quality attributed to feature-based machining and PMI automation",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "Significant reduction in manual NC programming errors through ISV simulation and verification",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "The standardization of NC programs also reduced variability across machining processes and freed engineering time previously spent on rework and error correction.",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "CAD/CAM integration is a prerequisite for smart manufacturing",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "— disconnected design and production systems create compounding inefficiencies that scale poorly with product complexity.",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ASMインターナショナル - Wikipedia — 日本法人 ASMIの日本法人「日本エー・エス・エム株式会社」（ASM Japan K.K.）は、 1982年 に設立され、現在は 多摩市 に本社オフィスを持つほか、 川崎市 麻生区 にテクノロジーセンターを持つ [1]。",
+    "url": "https://ja.wikipedia.org/wiki/ASMインターナショナル",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるASM | ASM — 東京と神奈川のR&Dセンターを含む7つの戦略拠点を擁する日本は、PEALDおよびPECVDの進化をけん引するプラズマ製品開発の中核拠点であり、又、全てのASM製品におけるプラットフォームの設計、ソフトウエアの構築も担っています。",
+    "url": "https://www.asm.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "経済産業省「ASM（Attack Surface Management）導入ガイダンス」を解... — May 27, 2025 · サイバー攻撃から自社のIT資産を保護するための方法について、経産産業省がまとめたASM（Attack Surface Management）導入ガイダンスについて解説します。",
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/25/e/securitytrend-20250527-01.html",
+    "pass": 3
+   },
+   {
+    "quote": "ASM（Attack Surface Management）導入ガイド | GXO — ASM(Attack Surface Management/外部攻撃面管理)の導入を解説。経産省推奨の背景・主要ツール比較・費用・導入ステップ・中小企業の対応方法",
+    "url": "https://gxo.co.jp/column/attack-surface-management-asm-guide-2026",
+    "pass": 3
+   },
+   {
+    "quote": "ASM（Attack Surface Management）とは？概要や必要性、ソリューショ... — Apr 10, 2025 · ASM（Attack Surface Management）とは、サイバー攻撃の標的となるIT資産を把握し、脆弱性などのリスクをに継続的に対処する、セキュリティ強化に向けた取り組みです。 ASMとは何か、必要性や脆弱性診断との違い、ソリューション選定のポイントなどを紹介します。",
+    "url": "https://mnb.macnica.co.jp/2025/04/asm/basic.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本におけるASM | ASM — 日本におけるASM 日本におけるASMでは、グローバルチームの一員として、イノベーションの最先端で活躍することができます。東京と神奈川のR&Dセンターを含む7つの戦略拠点を擁する日本は、PEALDおよびPECVDの進化をけん引するプラズマ製品開発の中核拠点であり、又、全てのASM製品における ...",
+    "url": "https://www.asm.com/japan",
+    "pass": 3
+   },
+   {
+    "quote": "ASMPT Japan 株式会社 — 弊社はシンガポールに本社を置くASMPTグループの一員として、半導体およびSMT製造のためのハードウェアおよびソフトウェアソリューションを提供するグローバルな装置サプライヤーです。 ASMPTのソリューションはウェハ成膜やレーザーダイシング・グルービングから半導体組立 ...",
+    "url": "https://semi.asmpt.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ASMインターナショナル - Wikipedia — ASMインターナショナル （ASM International N.V. 、通称 ASM）は、 ウェハー 処理用の 半導体 プロセス装置を開発・製造する多国籍企業。 オランダ ・ フレヴォラント州 ・ アルメレ に本拠を置き、世界14カ国に拠点を持つ。 日本法人は 日本エー・エス・エム株式会社。 ユーロネクスト・アムステルダム 上場企業（Euronext: ASM ）。 1968年 、起業家の Arthur del Prado により設立され、ウェハー処理装置の販売を開始した [1]。",
+    "url": "https://ja.wikipedia.org/wiki/ASMインターナショナル",
+    "pass": 3
+   },
+   {
+    "quote": "ASM International - Wikipedia — ASM also has sales & service offices across the globe, including United States, South Korea, China, Taiwan, Japan, Singapore and Israel. As of 2021, it has 3,312 staff, located in 14 countries.",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "Home | ASM — From deposition to surface modification, we enable the functional layers that define performance, power, and reliability across modern devices. From atom to impact, innovation at ASM starts with our people.",
+    "url": "https://www.asm.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ASM strengthens semiconductor security with AI-driven defense ... — The complexity of ASM’s global operations compounds the challenge. Each of its manufacturing sites is a potential target, and the company must guard against insider risk, espionage, and advanced phishing campaigns.",
+    "url": "https://www.microsoft.com/en/customers/story/25967-asm-front-end-manufacturing-microsoft-security-copilot/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Capmatic's Success with ASM's Frame Fabrication — Sep 18, 2023 · In this case study, we explore how ASM played a pivotal role in assisting Capmatic by fabricating frames for their state-of-the-art capsule-filling machines and structures.",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "ASM digitalizes production of electronics manufacturing… — ASM Pacific Technology, the world's largest supplier of semiconductor and LED manufacturing and assembly equipment, faced a significant bottleneck between product development and production.",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "ASM Annual Report 2023 — Supported by new customer wins, we expect strong revenue growth for this business in 2024. The acquisition of Reno Sub-Systems in 2022, albeit smaller, is also delivering on expectations and contributing to the improved performance of our new generations of plasma tools.",
+    "url": "https://www.asm.com/media/1fcpm1px/asm-annual-report-2023.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Manufacturing Using NX CAM | ASM Pacific - prolim.com — Case Study ASM Pacific Technology Improves Smart Manufacturing Using NX CAM Abstract ASM Pacific Technology Ltd., a global supplier of semiconductor and LED manufacturing equipment, sought to improve production efficiency by eliminating the disconnect between product design and manufacturing.",
+    "url": "https://www.prolim.com/case-study/nx-cam/asm-pacific-technology-improves-smart-manufacturing-using-nx-cam/",
+    "pass": 3
+   },
+   {
+    "quote": "ASM Finances - ASM.org — In addition to Form 990, ASM is required to file form 990T to report any unrelated business income. Information in these returns is presented in accordance with IRS regulations, which in some cases are at variance with generally accepted accounting principles.",
+    "url": "https://asm.org/about-asm/asm-financials",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Report 2025 | ASM — In 2025, ASM’s vision to strengthen its global manufacturing and technology capabilities in Korea became a reality. ASM launched the \"From sand to stars\" exhibition, sponsored low-income-school field trips, and invested in \"Girls in STEM\".",
+    "url": "https://www.asm.com/investors/highlights-annual-report-2025",
+    "pass": 3
+   },
+   {
+    "quote": "ASM Annual Report 2023 — The synergies in leveraging ASM’s scale and capabilities have already been paying off. We can now, for example, offer (new) SiC customers enhanced support around the world. We increased development and manufacturing capacity, and we tripled our headcount to almost 200 in Italy.",
+    "url": "https://www.asm.com/media/1fcpm1px/asm-annual-report-2023.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ASM - 2026 Company Profile, Team, Funding & Competitors - Tracxn — Explore ASM's in-depth company profile, including funding details, key investors, leadership, and competitors.",
+    "url": "https://tracxn.com/d/companies/asm/__cumOAeVkFmySZrQGK46gJZXbAREy8vGZGmBTFFIjBmI",
+    "pass": 3
+   },
+   {
+    "quote": "ASM Research 2026 Company Profile: Valuation, Investors ...ASM Global Parent 2026 Company Profile: Valuation, Investors ...Official ASM Global – Market Position & Workforce Comparison –… — Information on acquisition, funding, investors, and executives for ASM Research. Use the PitchBook Platform to explore the full profile. May 2, 2024 · Information on acquisition, funding, investors, and executiv",
+    "url": "https://pitchbook.com/profiles/company/99956-89",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": ". For the other Netherlands-based semiconductor equipment manufacturer with a similar name, see",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "semiconductor manufacturers",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "). Manufacturing primarily occurs in",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "of new materials to the application of new materials in chip manufacturing.",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "In 1974 it acquires Fico Toolings, a Dutch manufacturer of semiconductor",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "ASM invests in new semiconductor fabrication technologies, like lithography, ion implantation, epitaxy, and",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": ", ASM Ion Implant, and it lists its Hong Kong–based activities as ASM Pacific Technology on the",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": ": The company returns to structural profitability after execution of a worldwide restructuring program, that includes the implementation of a product driven organization, a single global sales organization, consolidation of manufacturing in Singapore, and the establishment of a global",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "ASM sells its equipment to semiconductor manufacturers worldwide, with the majority of its",
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "pass": 3
+   },
+   {
+    "quote": "ASM Front-End Manufacturing",
+    "url": "https://www.microsoft.com/en/customers/story/25967-asm-front-end-manufacturing-microsoft-security-copilot/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Capmatic's Success with ASM's Frame Fabrication",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Capmatic’s Success with ASM’s Frame Fabrication",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "In this case study, we explore how ASM played a pivotal role in assisting Capmatic by fabricating frames for their state-of-the-art capsule-filling machines and structures.",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Beckman in Fullerton, CA",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: ASM Industries’ Stainless Steel Solutions for the NTT USP 800 Pharmacy Project",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Burbank Bridge Infrastructure Project",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Enhancing Disneyland’s Tomorrowland Kiosk",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: ASM on The Metro Crenshaw/LAX Transit Corridor",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet Metal Fabrication Solutions for Food Manufacturing",
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "pass": 3
+   },
+   {
+    "quote": "ASM digitalizes production of electronics manufacturing…",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "ASM digitalizes production of electronics manufacturing equipment [VIDEO]",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "The impact of integrating FBM and PMI automation was quantified directly by ASM's manufacturing leadership. According to Hu Dewen, Senior CAD/CAM Manufacturing Manager at ASM Pacific Technology:",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "CAD/CAM integration is a prerequisite for smart manufacturing",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "— ISV-style verification catches programming errors before they reach the shop floor, protecting equipment and reducing scrap.",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "— FBM's automatic program generation creates repeatable, auditable processes suited for high-mix electronics manufacturing environments.",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "Submit a case study →",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "Eight workflows in your plant where AI would pay back this quarter. We know which. 12 pages, in 72 hours.",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "Dental Products Manufacturer",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "Dental manufacturer's $25K AI vision POC avoids $150K+ failed pilot, pivots to Andon system",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "Global Medical Device Manufacturer",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "Global medical device manufacturer achieves 57% efficiency gain in AI-assisted complaint reviews with zero missed defects",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "DELIN Elettronica Implements PlantPAx DCS",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "California Electronics Manufacturer",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "California Electronics Manufacturer Saves Over $50 Million with Supply Chain Simulation",
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "pass": 3
+   },
+   {
+    "quote": "Your place in your market will be defined by how well you integrate with the other solutions used by your customers. While it may seem daunting, see it for what it is: a career opportunity.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "In 2025, ASM’s vision to strengthen its global manufacturing and technology capabilities in Korea became a reality.",
+    "url": "https://www.asm.com/investors/highlights-annual-report-2025",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Partner Program: Types, Benefits, and How to Launch",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "The market is demanding more integrated, flexible solutions, and collaborative go-to-market strategies have become a competitive necessity. For business leaders, understanding how to build, scale, and optimize a partner program can mean the difference between stagnation and outsized success.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "What is a partner program?",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "A partner program is a strategy that helps a business connect with sales and marketing channel partners who sell the company's products and services. Partners are also known as referral partners, resellers, and marketing partners.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the most successful SaaS companies, such as Salesforce, HubSpot, and Stripe, have built massive businesses leveraging partnerships. And yet advice on how to build your own partner program is hard to come by.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "In this guide, we’ll break down what a partner program is, the major types, actionable launch steps, and critical lessons from the world’s most successful software companies — so you can unlock new growth channels and future-proof your business.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Partner programs drive SaaS growth by connecting companies with tech, channel, and strategic partners. This article covers definitions, key types (tech, channel, strategic), and actionable tips to launch your own program. Expect a long-term investment — success depends on ecosystem thinking, executive buy-in, and a clear understanding of your business goals.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Why do partner programs matter?",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "What types of partner programs are there?",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "These are the partners that sell and service your product on your behalf. These are sometimes called “resellers” or “service integrators”",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "A channel partnership occurs when a vendor – typically a SaaS company (often referred to as an independent software vendor, or ISV) – collaborates with a third party that promotes, sells, and distributes the vendor’s product. Put simply, a",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "channel partner program",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Companies use channel partners to quickly grow their reach. SaaS vendors often hit a growth ceiling with a purely direct sales motion. Enter channel partners, who can be in more places and handle the heavy lifting in exchange for a cut of the sale.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partners can cover geographic areas, market segments, or types of customers your direct sales can’t serve efficiently.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Your U.S.-based company is ready to expand into Japan. Rather than staffing up an office and negotiating distribution deals with Japanese companies, you can find a channel partner there. They handle your rollout in exchange for 30% of the yearly contracts they close. You grow faster with less investment, and they can get a new revenue source. Everyone wins.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Channel partnership examples:",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Deloitte acts as a value-added reseller (VAR) to resell and implement SAP products to their clients and customers.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic partnerships can (and often do) involve elements of tech and channel partnerships, but tend to be recurring, long-term commitments. They can also include co-branding, product roadmap development, and/or public relations.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "What to keep in mind before launching a partner program",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Here’s the tricky part about building a partner program: there’s no guidebook for partnerships. Good advice is hard to come by – especially when each partnership hinges on the unique offerings, cultures, structures, and maturity of each partner company.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "Starting a partner program is a commitment of one to three years and you should expect not to see any revenue until around the ninth month at minimum. If your executive team can’t give you this runway, you won’t be successful. This is why so many partnership professionals demand",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "It’s best if your C-suite understands the commitment and that the partner program may take some time to bear some fruit.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "How long does it take for a new partner program to generate revenue?",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "No matter your partnership strategy, you will be exchanging data with your partner. Channel partners exchange leads, contact lists, and opportunities. Integration partners also exchange product data via bidirectional APIs.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "A modern partnership professional uses all three of these tools in concert to scale a partner program. And in true “meta” fashion, these tools often integrate with one another ensuring your sales team can get the partnership data when they need it to help close deals and avoid conflicts. Even if you can't use all the tools, it's important to at least employ the",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Years ago, software was a monolith. Your email, word processor, and payment solution were all made by the same company that likely charged your company a massive yearly bill.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "In a modern business, you can use one tool to send emails, one to close deals, and another to communicate with your teammates.",
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "地方版ASM（Attack Surface Management）― 自治体の外部公開資産を守... Dec 3, 2025 · 1. 地方版ASMとは何か ASM（Attack Surface Management）とは、組織を外側から覗き込むように、外部公開されたIT資産を継続的に発見・監視し、リスクを評価する仕組みのことです。",
+    "url": "https://note.com/hiroron838861/n/n7372c824525c",
+    "pass": 3
+   },
+   {
+    "quote": "ASM（Attack Surface Management）とは？情シスが考えたい「攻撃面」... Jun 30, 2025 · 近年、企業のIT資産を狙ったサイバー攻撃が増加する中で、「ASM（Attack Surface Management）」というキーワードに注目が集まっています。 ASMは、継続的にIT資産を発見・評価し、その情報を活用して攻撃対象領域を縮小・強化する取り組みを指します。",
+    "url": "https://note.com/infosys_rescue/n/n5b2c8b76d6f5",
+    "pass": 3
+   },
+   {
+    "quote": "【専門用語を解きほぐす：ASM連載 第1回】なぜ今、自治体で「ASM（攻... Aug 18, 2026 · 単に「ASMのツール（SaaS）を買いませんか？ 」と提案しても、自治体の予算は動きません。 「貴庁の外部公開資産が今どう見えているか、一緒に裏口のチェック（現状把握）から始めませんか？ 」と寄り添うアプローチこそが、契約への最短ルートです。",
+    "url": "https://note.com/dx_navi_tsubasa/n/n7c7ecb167d4c",
+    "pass": 3
+   },
+   {
+    "quote": "【要点抽出】ASM (Attack Surface Management）導⼊ガイダンス May 30, 2023 · 2章 ASM（Attack Surface Management）とは 本書ではASMを以下のように定義しています。 組織の外部（インターネット）からアクセス可能なIT資産を発⾒し、それらに存在する脆弱性などのリスクを継続的に検出・評価する⼀連のプロセス",
+    "url": "https://note.com/nikinusu318/n/n3e12b00528f0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "地方版ASM（Attack Surface Management）― 自治体の外部公開資産を守る「デジタル外壁検査士」 ―｜つばさ",
+    "url": "https://note.com/hiroron838861/n/n7372c824525c",
+    "pass": 3
+   },
+   {
+    "quote": "地方版ASM（Attack Surface Management）― 自治体の外部公開資産を守る「デジタル外壁検査士」 ―",
+    "url": "https://note.com/hiroron838861/n/n7372c824525c",
+    "pass": 3
+   },
+   {
+    "quote": "ASM（Attack Surface Management）とは、",
+    "url": "https://note.com/hiroron838861/n/n7372c824525c",
+    "pass": 3
+   },
+   {
+    "quote": "組織を外側から覗き込むように、外部公開されたIT資産を継続的に発見・監視し、リスクを評価する仕組み",
+    "url": "https://note.com/hiroron838861/n/n7372c824525c",
+    "pass": 3
+   },
+   {
+    "quote": "ファイルでは、国（NISC/GSOC）の横断的ASM導入や、経済産業省のASMガイダンスが根拠として示されていました。",
+    "url": "https://note.com/hiroron838861/n/n7372c824525c",
+    "pass": 3
+   },
+   {
+    "quote": "（Web、クラウド、テスト環境、サブドメインなど）",
+    "url": "https://note.com/hiroron838861/n/n7372c824525c",
+    "pass": 3
+   },
+   {
+    "quote": "三層分離（αモデル）からβ/β’モデル等への移行",
+    "url": "https://note.com/hiroron838861/n/n7372c824525c",
+    "pass": 3
+   },
+   {
+    "quote": "インターネット側の「弱点」が増え、把握が困難になっている",
+    "url": "https://note.com/hiroron838861/n/n7372c824525c",
+    "pass": 3
+   },
+   {
+    "quote": "ASM（Attack Surface Management）とは？情シスが考えたい「攻撃面」へのセキュリティ対策｜ソフトクリエイトのノート",
+    "url": "https://note.com/infosys_rescue/n/n5b2c8b76d6f5",
+    "pass": 3
+   },
+   {
+    "quote": "ASM（Attack Surface Management）とは？情シスが考えたい「攻撃面」へのセキュリティ対策",
+    "url": "https://note.com/infosys_rescue/n/n5b2c8b76d6f5",
+    "pass": 3
+   },
+   {
+    "quote": "近年、企業のIT資産を狙ったサイバー攻撃が増加する中で、「ASM（Attack Surface Management）」というキーワードに注目が集まっています。ASMは、継続的にIT資産を発見・評価し、その情報を活用して攻撃対象領域を縮小・強化する取り組みを指します。クラウド化やリモートワーク拡大により、意図せず攻撃者にとっての“入り口”が増えている今。このnoteでは、ASMの基本的な考え方について紹介します。",
+    "url": "https://note.com/infosys_rescue/n/n5b2c8b76d6f5",
+    "pass": 3
+   },
+   {
+    "quote": "なお、このnoteは主に中堅・中小規模の企業の新任情シスや兼任情シス向けの内容です。",
+    "url": "https://note.com/infosys_rescue/n/n5b2c8b76d6f5",
+    "pass": 3
+   },
+   {
+    "quote": "1. いま注目されているASMとは？ その背景と重要性",
+    "url": "https://note.com/infosys_rescue/n/n5b2c8b76d6f5",
+    "pass": 3
+   },
+   {
+    "quote": "働き方や業務のデジタル化が進むなかで、リモートワークやクラウドサービスの導入が企業にとって当たり前のものとなりつつあります。その一方で、IT資産は社内ネットワークの外にまで広がり、管理の手が届きにくい箇所が増えています。その結果、攻撃者にとって“狙いやすい入口”となる箇所も増えており、企業のセキュリティ対策が追いついていないケースも少なくありません。",
+    "url": "https://note.com/infosys_rescue/n/n5b2c8b76d6f5",
+    "pass": 3
+   },
+   {
+    "quote": "こうした中で注目されているのが「アタックサーフェス（攻撃面）」という考え方です。この「アタックサーフェス」は、しばしば「家とその入口」に例えられます。例えば、あなたの家を思い浮かべてみてください。出入口が1つで、しっかりと鍵がかけられていれば、悪意ある者が侵入するのは難しいでしょう。しかし、窓や扉が増えるほど、それぞれに施錠が必要となり、施錠が手薄な窓や出入口からは侵入されやすい状態になります。このように、窓や扉が増えるほど、外部からの「侵入のリスク」も増えてしまいます。",
+    "url": "https://note.com/infosys_rescue/n/n5b2c8b76d6f5",
+    "pass": 3
+   },
+   {
+    "quote": "企業のIT資産も同様に考えることができます。社内ネットワークだけでなく、クラウド、外部サービス、リモート接続など多様な「出入口」が存在する現代では、それぞれがサイバー攻撃者にとっての「入口」、つまり「アタックサーフェス」となり得ます。",
+    "url": "https://note.com/infosys_rescue/n/n5b2c8b76d6f5",
+    "pass": 3
+   },
+   {
+    "quote": "【専門用語を解きほぐす：ASM連載 第1回】なぜ今、自治体で「ASM（攻撃表面管理）」の予算が通るのか？〜ベンダー営業と上席職員をつなぐ『意識ギャップ』の解明〜｜自治体DXの航海士_つばさ",
+    "url": "https://note.com/dx_navi_tsubasa/n/n7c7ecb167d4c",
+    "pass": 3
+   },
+   {
+    "quote": "【専門用語を解きほぐす：ASM連載 第1回】なぜ今、自治体で「ASM（攻撃表面管理）」の予算が通るのか？〜ベンダー営業と上席職員をつなぐ『意識ギャップ』の解明〜",
+    "url": "https://note.com/dx_navi_tsubasa/n/n7c7ecb167d4c",
+    "pass": 3
+   },
+   {
+    "quote": "【実務担当者の方へ：調達・起案を急ぐ方向け】",
+    "url": "https://note.com/dx_navi_tsubasa/n/n7c7ecb167d4c",
+    "pass": 3
+   },
+   {
+    "quote": "「ASMの必要性は理解できたが、仕様書（RFP）や庁内説明資料をゼロから作る時間がない…」という現場のために、そのままコピペして使える",
+    "url": "https://note.com/dx_navi_tsubasa/n/n7c7ecb167d4c",
+    "pass": 3
+   },
+   {
+    "quote": "『ASM調達仕様書3大特約（条項文案） ＆ 庁内プレゼンスライド全12枚の構成案』**を以下の実践ガイド（有料Note）で公開しています。",
+    "url": "https://note.com/dx_navi_tsubasa/n/n7c7ecb167d4c",
+    "pass": 3
+   },
+   {
+    "quote": "【コピペで使える】自治体向けASM調達・庁内合意形成パーフェクトパックはこちら",
+    "url": "https://note.com/dx_navi_tsubasa/n/n7c7ecb167d4c",
+    "pass": 3
+   },
+   {
+    "quote": "導入：かみ合わない3人の会話（自治体の現場あるある）",
+    "url": "https://note.com/dx_navi_tsubasa/n/n7c7ecb167d4c",
+    "pass": 3
+   },
+   {
+    "quote": "：「課長、来年度の予算要求に『ASM（Attack Surface Management）』の導入費用を入れさせてください！ 庁外に露出しているIPやサブドメインの脆弱性を常時モニタリングしないと危険です！」",
+    "url": "https://note.com/dx_navi_tsubasa/n/n7c7ecb167d4c",
+    "pass": 3
+   },
+   {
+    "quote": "【要点抽出】ASM (Attack Surface Management）導⼊ガイダンス｜ニキヌス",
+    "url": "https://note.com/nikinusu318/n/n3e12b00528f0",
+    "pass": 3
+   },
+   {
+    "quote": "【要点抽出】ASM (Attack Surface Management）導⼊ガイダンス",
+    "url": "https://note.com/nikinusu318/n/n3e12b00528f0",
+    "pass": 3
+   },
+   {
+    "quote": "最近よく聞くASM(アタックサーフェスマネジメント)。その導入のためのガイダンスが経済産業省のサイバーセキュリティ課から出ました。",
+    "url": "https://note.com/nikinusu318/n/n3e12b00528f0",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.meti.go.jp/press/2023/05/20230529001/20230529001.html",
+    "url": "https://note.com/nikinusu318/n/n3e12b00528f0",
+    "pass": 3
+   },
+   {
+    "quote": "セキュリティ管理において資産管理や構成管理は基本のキ",
+    "url": "https://note.com/nikinusu318/n/n3e12b00528f0",
+    "pass": 3
+   },
+   {
+    "quote": "が、それが抜け漏れなくできている企業はほぼ見たことがありません。",
+    "url": "https://note.com/nikinusu318/n/n3e12b00528f0",
+    "pass": 3
+   },
+   {
+    "quote": "その精度をあげる取り組みは引き続き行いつつも、取り急ぎ、",
+    "url": "https://note.com/nikinusu318/n/n3e12b00528f0",
+    "pass": 3
+   },
+   {
+    "quote": "インターネットごしにアクセス可能なIT資産だけでもしっかり洗い出す",
+    "url": "https://note.com/nikinusu318/n/n3e12b00528f0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ASM (@ASMicrobiology) / X ASM honors the work of Native American and Indigenous microbiologists whose research and leadership continue to shape the field, strengthen the scientific community and pave the way for innovation and inclusion.",
+    "url": "https://x.com/ASMicrobiology",
+    "pass": 3
+   },
+   {
+    "quote": "ASM (@ASMofficialco) / Posts / X Sep 13, 2022 · ASM is a leading supplier of #semiconductor wafer processing equipment delivering innovative solutions to the world’s semiconductor manufacturers - asm.com",
+    "url": "https://x.com/ASMofficialco",
+    "pass": 3
+   },
+   {
+    "quote": "ASM International (@ASMInternatnl) / X ASM, the world's largest materials information society, engages members through a global network of peers and provides access to trusted resources.",
+    "url": "https://x.com/asminternatnl",
+    "pass": 3
+   },
+   {
+    "quote": "ASM (@asmclips) / X J. 7 1.8K ASM🫧 @asmclips 20h Bro gave him exactly what he asked for — a jaw that won't forget the lesson. 💀",
+    "url": "https://x.com/asmclips",
+    "pass": 3
+   },
+   {
+    "quote": "投稿制限 on X: \"@asm_ino このアイデアは以前snsで見かけたものをそ... Nov 3, 2026 · 投稿制限 on X: \"@asm_ino このアイデアは以前snsで見かけたものをそのまま真似させてもらってるだけなので、これを最初に思いついた方ほんとに天才だと思います🥹 \"",
+    "url": "https://x.com/wolv_68/status/2117520533021663640",
+    "pass": 3
+   },
+   {
+    "quote": "あすみ (@asm_x_) / X These posts are protected Only approved followers can see @asm_x_’s posts. To request access, click Follow. Learn more",
+    "url": "https://x.com/asm_x_",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ASM - LinkedIn At ASM, we’re shaping the future at the atomic level. We enable the next generation of microchips by empowering leading semiconductor manufacturers with advanced wafer processing equipment.",
+    "url": "https://www.linkedin.com/company/asm/",
+    "pass": 3
+   },
+   {
+    "quote": "ASM - LinkedIn Established in 1899, ASM is the home for microbial scientists from around the globe to connect, learn, discover and prepare for the future.",
+    "url": "https://www.linkedin.com/company/american-society-for-microbiology",
+    "pass": 3
+   },
+   {
+    "quote": "ASM | LinkedIn At ASM, we’re shaping the future at the atomic level. We enable the next generation of microchips by empowering leading semiconductor manufacturers with advanced wafer processing equipment.",
+    "url": "https://in.linkedin.com/company/asm",
+    "pass": 3
+   },
+   {
+    "quote": "ASM Technologies Ltd | LinkedIn ASM Technologies Limited was founded in 1992, and listed as a Public Limited company in 1994. Today, we are one of India’s most reliable name in the field of engineering and technological...",
+    "url": "https://in.linkedin.com/company/asm-technologies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ASM - FacebookASM | Washington D.C. DC - FacebookASM-Rugby | Clermont-Ferrand - FacebookASM - FacebookASM - A State of Mind - FacebookASM TUNIS - FacebookASM Auto Upholstery | Dallas TX - Facebook Oct 28, 2026 · At ASM, we engineer the materials behind AI, clean energy and next-generation devices and we’re looking for the minds who will take us further. We’re heading to a range of recruitment even",
+    "url": "https://www.facebook.com/ASMOfficialCompany/",
+    "pass": 3
+   },
+   {
+    "quote": "ASM | Washington D.C. DC - FacebookASM-Rugby | Clermont-Ferrand - FacebookASM - FacebookASM - A State of Mind - FacebookASM TUNIS - FacebookASM Auto Upholstery | Dallas TX - Facebook Oct 23, 2026 · Dive into ASM’s latest video for a clear, step-by- step guide on decoding a multivariable logistic regression. Learn how to take stats from a research framework to clinical lab application. 2 days ago ·",
+    "url": "https://www.facebook.com/asmfan/",
+    "pass": 3
+   },
+   {
+    "quote": "ASM-Rugby | Clermont-Ferrand - FacebookASM - FacebookASM - A State of Mind - FacebookASM TUNIS - FacebookASM Auto Upholstery | Dallas TX - Facebook 2 days ago · Découvrez L’Appartement ASM by GRAND MESS Clermont-Ferrand, une expérience unique et une première mondiale dans le rugby. 🤩 Un appartement haut de gamme niché au cœur du stade Marcel-Michelin, pour vivre l’ASM autrement, au plus près du te",
+    "url": "https://www.facebook.com/asm.clermont.auvergne/",
+    "pass": 3
+   },
+   {
+    "quote": "ASM - FacebookASM - A State of Mind - FacebookASM TUNIS - FacebookASM Auto Upholstery | Dallas TX - Facebook Jun 20, 2026 · He formed the band ASM in 2018, releasing albums like 'ASM-I' (2021) and 'ASM II' (2024), featuring tracks such as \"Anubhav\" and \"Paapi\". He is active in the Nepali rock scene, associated with projects like Spirit X LeoAries & 2 Gunslingers. ASM - A State of Mind. 27,554 foll",
+    "url": "https://www.facebook.com/asmmusic/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://asm.co/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/ASM%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asm.com/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trendmicro.com/ja_jp/jp-security/25/e/securitytrend-20250527-01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gxo.co.jp/column/attack-surface-management-asm-guide-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asm.com/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://semi.asmpt.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/All_Japan_Goith",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/ASM%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/ASM_International",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asm.com/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en/customers/story/25967-asm-front-end-manufacturing-microsoft-security-copilot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asm.com/media/1fcpm1px/asm-annual-report-2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aws.amazon.com/jp/partners/programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://asm.org/about-asm/asm-financials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asm.com/investors/highlights-annual-report-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asm.com/media/1fcpm1px/asm-annual-report-2023.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/asm/__cumOAeVkFmySZrQGK46gJZXbAREy8vGZGmBTFFIjBmI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/hiroron838861/n/n7372c824525c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/infosys_rescue/n/n5b2c8b76d6f5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dx_navi_tsubasa/n/n7c7ecb167d4c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nikinusu318/n/n3e12b00528f0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ASMicrobiology",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ASMofficialco",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/asminternatnl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/asmclips",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/asm/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/american-society-for-microbiology",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/asm",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/asm-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ASMOfficialCompany/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/asmfan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/asm.clermont.auvergne/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/asmmusic/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/wolv_68/status/2117520533021663640",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/asm_x_",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Asm 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ASMインターナショナル",
+    "https://www.asm.com/japan",
+    "https://www.trendmicro.com/ja_jp/jp-security/25/e/securitytrend-20250527-01.html",
+    "https://gxo.co.jp/column/attack-surface-management-asm-guide-2026",
+    "https://mnb.macnica.co.jp/2025/04/asm/basic.html",
+    "https://resources.trendaisecurity.com/jp-docdownload-form-m761-sem-crem.html",
+    "https://www.meti.go.jp/policy/netsecurity/wg1/ASMguidance.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Asm 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://www.asm.com/japan",
+    "https://semi.asmpt.jp/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://industrial.filtrationgroup.com/ja/联系我们/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Asm Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/All_Japan_Goith",
+    "https://ja.wikipedia.org/wiki/ASMインターナショナル",
+    "https://en.wikipedia.org/wiki/ASM_International",
+    "https://www.asm.com/japan",
+    "https://www.asm.com/",
+    "https://jpn.bizdirlib.com/node/693324",
+    "https://www.dnb.com/business-directory/company-profiles/asm-japan-kk.8e59864e258c99673920f2c01130d584",
+    "https://japan.asmltd.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Asm manufacturing customer case study",
+   "results": [
+    "https://www.microsoft.com/en/customers/story/25967-asm-front-end-manufacturing-microsoft-security-copilot/",
+    "https://asmsheetmetal.com/capmatic-asm-frame-fabrication/",
+    "https://aiformanufacturing.org/case-studies/asm-digitalizes-production-of-electronics-manufacturing-equipment-video",
+    "https://www.asm.com/media/1fcpm1px/asm-annual-report-2023.pdf",
+    "https://www.prolim.com/case-study/nx-cam/asm-pacific-technology-improves-smart-manufacturing-using-nx-cam/",
+    "https://www.approvedsheetmetal.com/sheet-metal-fabrication-case-studies",
+    "https://resources.sw.siemens.com/en-US/case-study-asm-pacific-technology/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Asm white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://aws.amazon.com/partners/programs/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.arista.com/en/partner/partner-program"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Asm founded funding employees revenue",
+   "results": [
+    "https://asm.org/about-asm/asm-financials",
+    "https://www.asm.com/investors/highlights-annual-report-2025",
+    "https://www.asm.com/media/1fcpm1px/asm-annual-report-2023.pdf",
+    "https://tracxn.com/d/companies/asm/__cumOAeVkFmySZrQGK46gJZXbAREy8vGZGmBTFFIjBmI",
+    "https://pitchbook.com/profiles/company/99956-89",
+    "https://pitchbook.com/profiles/company/265296-16",
+    "https://compworth.com/company/official-asm-global"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Asm",
+   "results": [
+    "https://note.com/hiroron838861/n/n7372c824525c",
+    "https://note.com/infosys_rescue/n/n5b2c8b76d6f5",
+    "https://note.com/dx_navi_tsubasa/n/n7c7ecb167d4c",
+    "https://note.com/nikinusu318/n/n3e12b00528f0",
+    "https://note.com/yuki_kapi/n/nb2f2a2a7786b",
+    "https://note.com/wmilitary/n/n7e6b1e4a7176",
+    "https://note.com/u17da/n/ndf79cdb83999"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Asm",
+   "results": [
+    "https://x.com/ASMicrobiology",
+    "https://x.com/ASMofficialco",
+    "https://x.com/asminternatnl",
+    "https://x.com/asmclips",
+    "https://x.com/asm2cdotxyz",
+    "https://x.com/asmclips/status/2109392811623649340",
+    "https://x.com/Koi_asm/status/2120232622303367671"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Asm",
+   "results": [
+    "https://www.linkedin.com/company/asm/",
+    "https://www.linkedin.com/company/american-society-for-microbiology",
+    "https://in.linkedin.com/company/asm",
+    "https://in.linkedin.com/company/asm-technologies",
+    "https://cn.linkedin.com/company/asm"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 5
+  },
+  {
+   "query": "site:facebook.com Asm",
+   "results": [
+    "https://www.facebook.com/ASMOfficialCompany/",
+    "https://www.facebook.com/asmfan/",
+    "https://www.facebook.com/asm.clermont.auvergne/",
+    "https://www.facebook.com/asmmusic/",
+    "https://www.facebook.com/ASMastateofmind/",
+    "https://www.facebook.com/asmtunis01/",
+    "https://www.facebook.com/ASMAutoUpholstery/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Asm note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/asm_note/n/n401a81439140",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://www.nikkei.com/nkd/disclosure/tdnr/20260121536475/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Asm X 投稿",
+   "results": [
+    "https://x.com/wolv_68/status/2117520533021663640",
+    "https://x.com/asm_x_",
+    "https://journals.asm.org/submitting-your-manuscript",
+    "https://twicomi.com/author/asm_x_/page/1",
+    "https://twpf.jp/asm_x_",
+    "https://journals.asm.org/journal/jvi/submit",
+    "https://asm0x0.fanbox.cc/posts"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索12回）"
+ }
+}

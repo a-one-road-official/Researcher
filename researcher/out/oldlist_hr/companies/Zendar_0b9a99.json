@@ -1,0 +1,1034 @@
+{
+ "name": "Zendar",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜AUMS不適合",
+ "researched_at": "2026-11-11T00:27:47.320300+00:00",
+ "official_url": "http://www.zendar.io",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$43,000",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Berkeley, California, United States",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2017",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Zendar's RF models provide an efficient temporal-spatial perception foundation for sensor-fusion, capturing many of the benefits of Lidar with the addition of reliable intelligence in any weather and lighting condition.",
+    "url": "https://zendar.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Zendar provides sensors, compute hardware, and foundational models that enable robots to engage with the real world safely",
+    "url": "https://zendar.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Helps us understand which pages and content actually help people.",
+    "url": "https://zendar.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lets us measure ad campaigns and personalize content for return visits.",
+    "url": "https://zendar.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We provide builders with a production-ready perception stack so they can focus on their application, not rebuilding the same foundational systems from scratch.",
+    "url": "https://zendar.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Over time, the team realized that if they could open up the perception systems they had built, they could dramatically lower the barrier to entry for others building robotics applications, preventing teams from having to repeat years of foundational work just to reach a starting line.",
+    "url": "https://zendar.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "We provide a perception platform that includes:",
+    "url": "https://zendar.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-trained, extensible models to accelerate development",
+    "url": "https://zendar.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Tooling to support training, deployment, and iteration",
+    "url": "https://zendar.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Efficient execution on small, affordable processors",
+    "url": "https://zendar.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar's models are designed to deliver strong perception performance while running on efficient hardware, allowing systems to be deployed on more affordable chips and across a wider range of platforms. This reduces cost, power consumption, and complexity, making large-scale deployment practical rather than theoretical.",
+    "url": "https://zendar.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "When builders don't have to spend years recreating foundational perception systems, they can focus on what matters: solving real problems, iterating quickly, and deploying systems that work in the real world.",
+    "url": "https://zendar.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar's role is to provide the perception layer that makes that possible, so robotics teams can build faster today and scale further tomorrow.",
+    "url": "https://zendar.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Chief Product Officer",
+    "url": "https://zendar.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Helps us understand which pages and content actually help people.",
+    "url": "https://zendar.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Lets us measure ad campaigns and personalize content for return visits.",
+    "url": "https://zendar.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President of Engineering",
+    "url": "https://www.casestudies.com/customer/zendar",
+    "pass": 3
+   },
+   {
+    "quote": "- Consistent, high-quality datasets: Standardized annotations improve model reliability",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "- Faster experimentation cycles: Run \"what-if\" training scenarios on demand",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "- Seamless pipeline integration: Structured outputs flow directly into model training workflows",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "1. Customer Profile",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "to automate data curation and annotation for sensor fusion training.",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "With NomadicML’s AI-driven video annotation platform, Zendar’s engineers can:",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "NomadicML’s batch processing lets Zendar annotate",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "thousands of videos at once",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Training radar and lidar models at scale is difficult due to:",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Each experiment requires new manual datasets, slowing testing and progress",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar needed fast, consistent, automated curation with human-level precision.",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "NomadicML integrated directly into Zendar's radar training pipeline with:",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar uploads to Google Cloud; NomadicML outputs annotations and structured JSON automatically",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar's SDK retrieves reviewed annotations for immediate model training",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Engineers and researchers review and approve results in one shared workspace",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "1️⃣ Agentic Annotations for Radar Training",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "NomadicML's models find turns, lane changes, vehicle following, and occlusions, feeding them into radar training automatically.",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Each new batch of driving data improves Zendar's radar perception models and surfaces fresh edge cases for the next upload, creating a true continuous learning loop.",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Through NomadicML's customized workflows, this means taking your prior curated data and running a lightweight",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "to update the model’s weights, so performance steadily improves with every cycle.",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Engineers can compare training runs instantly by generating curated subsets on demand.",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Videos are tagged by context (lanes, weather, road type) and synced with Zendar’s internal dashboards.",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Parallel training and fast experiment turnaround",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "See the following image, from a previous",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": ", about how augmenting models using NomadicML's motion data can dramatically improve model performance.",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President of Engineering",
+    "url": "https://www.casestudies.com/company/nomadicai/case-study/410c-how-zendar-curates-data-for-next-gen-adas-radar-models",
+    "pass": 3
+   },
+   {
+    "quote": "Today, Zendar combines its innovative signal processing and sensor fusion techniques with artificial intelligence for highly-accurate, real-time object mapping that enables autonomous systems to see the world and interact with it safely and effectively.",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar is committed to supporting our employees through professional growth, competitive benefits, and by fostering a fun, exciting and rewarding work culture where individuals can thrive.",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar has approximately",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "自動車技術者のための情報サイト Automotive Engineers’ Guide",
+    "url": "https://guide.jsae.or.jp/topics/415188/",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Zendar",
+    "url": "https://www.casestudies.com/customer/zendar",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: How Zendar Curates Data for Next-Gen ADAS Radar Models | Nomadic AI",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: How Zendar Curates Data for Next-Gen ADAS Radar Models",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Zendar accelerates radar data curation and annotation with NomadicML | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/nomadicai/case-study/410c-how-zendar-curates-data-for-next-gen-adas-radar-models",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Zendar accelerates radar data curation and annotation with NomadicML",
+    "url": "https://www.casestudies.com/company/nomadicai/case-study/410c-how-zendar-curates-data-for-next-gen-adas-radar-models",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/nomadicai/case-study/410c-how-zendar-curates-data-for-next-gen-adas-radar-models",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/nomadicai/case-study/410c-how-zendar-curates-data-for-next-gen-adas-radar-models",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "・開口長を増やして角度分解能を向上させ、LiDAR並の性能を実現するZendarの分散開口レーダー（DAP）ソリューションはOEMにシステムの簡素化、複雑さの軽減、レーダーのフットプリントの小型化などのメリットを提供",
+    "url": "https://guide.jsae.or.jp/topics/415188/",
+    "pass": 3
+   },
+   {
+    "quote": "これらは車載OEMの多様化する車両アーキテクチャに合わせてカスタマイズ可能なため、分散型アーキテクチャへの移行が加速します",
+    "url": "https://guide.jsae.or.jp/topics/415188/",
+    "pass": 3
+   },
+   {
+    "quote": "「Zendarの革新的な技術とNXPの最先端レーダー製品ラインナップとの組み合わせることにより、エッジ・アーキテクチャと今後の分散型車両アーキテクチャの両方において、高分解能のレーダー・センシングを実現したいと考えていますZendarと協力し、このエキサイティングな新技術をOEMやTier1サプライヤに提供することになります",
+    "url": "https://guide.jsae.or.jp/topics/415188/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の発売は次世代OEMプラットフォーム向けに予定されています",
+    "url": "https://guide.jsae.or.jp/topics/415188/",
+    "pass": 3
+   },
+   {
+    "quote": "拡張性に優れたこのセンシング・ソリューションはコーナーレーダーから高分解能4Dイメージング・レーダーまで、自動車OEM企業の多様化するユースケースとアーキテクチャに対応しています",
+    "url": "https://guide.jsae.or.jp/topics/415188/",
+    "pass": 3
+   },
+   {
+    "quote": "このレーダー・ソリューションはNXPのS32Rレーダー・プロセッサ・プラットフォームとRFCMOS SAF8x SoCをベースに構成される予定で、車載OEMの多様化する車両アーキテクチャに合わせてカスタマイズ可能なため、分散型アーキテクチャへの移行が加速することになるとNXPでは説明しており、これにより自動車メーカーやTier 1サプライヤは熱的な課題の軽減、レーダーのフットプリント小型化による設置の柔軟性と利便性の向上を含む、簡素化された標準レーダーで開発された高分解能システムのメリットを提供できるようになるとしている",
+    "url": "https://news.mynavi.jp/techplus/article/20231107-2812576/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "NXPジャパンはNXP Semiconductorsが開発および製造するプロセッシング・ソリューション、認証技術、コネクティビティ、高出力RFやアナログ製品などを日本市場に提供しています",
+    "url": "https://guide.jsae.or.jp/topics/415188/",
+    "pass": 3
+   },
+   {
+    "quote": "本社は東京都渋谷区で、名古屋および大阪に営業所があります",
+    "url": "https://guide.jsae.or.jp/topics/415188/",
+    "pass": 3
+   },
+   {
+    "quote": "〒150-6024 東京都渋谷区恵比寿4-20-3恵比寿ガーデンプレイスタワー24F",
+    "url": "https://guide.jsae.or.jp/topics/415188/",
+    "pass": 3
+   },
+   {
+    "quote": "“NVIDIAスキャンダル”は米中AI覇権競争にどう影響する? 日本企業への教訓とは",
+    "url": "https://news.mynavi.jp/techplus/article/20231107-2812576/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "NXP Semiconductors N.V.（NASDAQ: NXPI）には、より良く、安全・安心なコネクテッド・ワールドを実現する画期的なテクノロジーを生み出すために優秀な頭脳がそろっています",
+    "url": "https://guide.jsae.or.jp/topics/415188/",
+    "pass": 3
+   },
+   {
+    "quote": "Over time, the team realized that if they could open up the perception systems they had built, they could dramatically lower the barrier to entry for others building robotics applications, preventing teams from having to repeat years of foundational work just to reach a starting line.",
+    "url": "https://zendar.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "We believe the future of robotics depends on lowering the barrier to entry.",
+    "url": "https://zendar.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Zendar",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar is committed to supporting our employees through professional growth, competitive benefits, and by fostering a fun, exciting and rewarding work culture where individuals can thrive.",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Zendar?",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Zendar have?",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "NXPとZendar、高分解能レーダーの開発を加速 — Nov 2, 2023 · NXPとZendarはシステムソリューションのアプローチを簡素化するZendar製の分散開口レーダー（DAR: Distributed Aperture Radar）技術を活用することにより、車載レーダー・アプリケーション向け高分解能レーダー・システムの強化に向けて協力することになります。",
+    "url": "https://www.nxp.jp/company/about-nxp/newsroom/NW-UPDATE-NXP-AND-ZENDAR-INC-PR",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar | The Launchpad for Physical AI — Discover Zendar's breakthrough distributed aperture radar technology that delivers unprecedented resolution and accuracy for autonomous systems.",
+    "url": "https://zendar.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "NXPとZendar、高分解能レーダーの開発を加速 | AEG 自動車技術者のた... — Nov 6, 2023 · 2023年11月6日 NXPとZendar、高分解能レーダーの開発を加速 ・NXPは自律走行／先進運転支援システム（ADAS）向けの高分解能かつ高性能のレーダー・システムの開発を推進するため、Zendar Inc.に出資 ・開口長を増やして角度分解能を向上させ、LiDAR並の性能を実現するZendarの分散開口レーダー（DAP ...",
+    "url": "https://guide.jsae.or.jp/topics/415188/",
+    "pass": 3
+   },
+   {
+    "quote": "NXPがZendarに出資、ADAS向け高分解能レーダーの開発を加速 — Nov 7, 2023 · NXP Semiconductorsは11月2日、高分解能レーダー向けソフトウェアのスタートアップ企業である米Zendarへの出資と協業を発表した。",
+    "url": "https://news.mynavi.jp/techplus/article/20231107-2812576/",
+    "pass": 3
+   },
+   {
+    "quote": "NXP、自動運転車システムの革新に取り組むソフトウェアのスタートアッ... — Nov 6, 2023 · NXPとZendarはシステムソリューションのアプローチを簡素化するZendar製の分散開口レーダー（DAR : Distributed Aperture Radar）技術を活用することにより ...",
+    "url": "https://www.nikkei.com/article/DGXZRSP664087_W3A101C2000000/",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar | The Launchpad for Physical AI — Built for builders Zendar is designed to be the starting point for real-world robotics and autonomy. We provide a perception platform that includes: Robust scene understanding across lighting and weather conditions Pre-trained, extensible models to accelerate development Tooling to support training, deployment, and iteration Efficient execution on small, af",
+    "url": "https://zendar.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar - LinkedIn — Zendar develops perception technology that enables autonomous systems to accurately understand and interact with the physical world. Zendar began as a pioneer in radar science, developing first of ...",
+    "url": "https://www.linkedin.com/company/zendar",
+    "pass": 3
+   },
+   {
+    "quote": "NXP and Zendar Inc. Accelerate the Development of High ... — Nov 2, 2023 · NXP Semiconductors today announced the investment in and collaboration with Zendar Inc., a software start-up dedicated to revolutionizing autonomous vehicle systems with high-resolution radar.",
+    "url": "https://www.nxp.com/company/about-nxp/newsroom/NW-UPDATE-NXP-AND-ZENDAR-INC-PR",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Zendar Uses Software & Services — Explore case studies featuring Zendar as the customer — learn how vendors and partners helped Zendar solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/zendar",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: How Zendar Curates Data for Next-Gen ADAS Radar ... — Oct 31, 2025 · Learn how Zendar uses NomadicML to automate data curation and annotation for sensor fusion training, reducing data prep time from weeks to hours while improving radar model accuracy for next-generation ADAS systems.",
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Zendar accelerates radar data curation and ... — How Zendar Curates Data for Next-Gen ADAS Radar Models Zendar, a developer of AI-first imaging radar systems for ADAS and autonomous driving, faced significant bottlenecks in training its perception models. The manual process of aligning and annotating radar and camera data was extremely slow, taking weeks to label just a few hours of fo",
+    "url": "https://www.casestudies.com/company/nomadicai/case-study/410c-how-zendar-curates-data-for-next-gen-adas-radar-models",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar - 2026 Company Profile, Team, Funding & Competitors ... — Feb 1, 2026 · Zendar is a series B company based in Berkeley (United States), founded in 2017 by Vinayak Nagpal and Jimmy Wang. It operates as a Provider of radar-based sensors for autonomous vehicles. Zendar has raised $22.7M in funding from Hyundai Mobis and Alumni Ventures. The company has 79 active competitors, including 34 funde",
+    "url": "https://tracxn.com/d/companies/zendar/__JCM2XtT0ZuOXsHSF6TPkwkiuNkBeyYS_NhsOEdZZ0hI",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar - 2026 Company Profile, Funding & Investors | The ... — Oct 15, 2026 · Zendar is a Technology company based in Berkeley, United States, founded in 2017. High-resolution imaging radar for autonomous vehicles is developed.",
+    "url": "https://www.thecompanycheck.com/company/b/zendar/epp4phs416beijqal",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar Revenue, Funding & Valuation - prospeo.io — Zendar has revenue of $2,700,000, estimated valuation of $8,700,000. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar — Company Profile, Funding & Investors — Zendar company profile with $8M raised across 4 funding rounds, HQ in Berkeley, United States, founded 2017. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/zendar-2007420",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar – Market Position & Workforce Comparison – 2026 — Zendar Revenue & Valuation An estimated $34.3M in revenue is attributed to Zendar each year. Zendar's estimated revenue per employee stands at $423.7K. Zendar has raised a total of $59M in funding.",
+    "url": "https://compworth.com/company/zendar",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Zendar Universe (@ZendarUniverse) / X Zendar Universe @ZendarUniverse Oct 17, 2025 Check out this research from Zendar Universe: A Spectroscopic Survey of the TRAPPIST-1 System: Atmospheric Characterization of Seven Terrestrial Worlds Atmospheric Analysis of the TRAPPIST-1 System From zendaruniverse.com 26",
+    "url": "https://x.com/zendaruniverse",
+    "pass": 3
+   },
+   {
+    "quote": "zendar (@zendar) / Posts / X zendar (@zendar) - Posts - | X (formerly Twitter) zendar Joined: Feb 5, 2008 0Posts 0Following 2Followers",
+    "url": "https://x.com/zendar",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar (@sgdigi) / X 2 4 26 Zendar @sgdigi Mar 24, 2022 #FLOKI TG stickers as gifs, use for raiding Vikings!! 🚀🚀🚀 @ RealFlokiInu Design by Floki Artist @kokigamestudio",
+    "url": "https://x.com/sgdigi",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar (@_Zendar_) / Posts / X Zendar (@_Zendar_) - Posts - Escribo por y para mí | X (formerly Twitter)",
+    "url": "https://x.com/_Zendar_",
+    "pass": 3
+   },
+   {
+    "quote": "zendar (@zendar) / Posts / X Feb 5, 2008 · zendar (@zendar) - Posts - | X (formerly Twitter) zendar Joined: Feb 5, 2008 0Posts 0Following 2Followers",
+    "url": "https://x.com/zendar",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar (@Zendar1q) / Posts / X Jul 17, 2025 · Zendar (@Zendar1q) - Posts - | X (formerly Twitter) tnt.tnt69 on Snapchat www.snapchat.com",
+    "url": "https://x.com/Zendar1q",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Zendar - LinkedIn Zendar | 4,040 followers on LinkedIn. Advanced Perception Technology For Autonomous Systems | Zendar develops perception technology that enables autonomous systems to accurately understand and ...",
+    "url": "https://www.linkedin.com/company/zendar",
+    "pass": 3
+   },
+   {
+    "quote": "Vinayak N. - Co-founder Zendar | LinkedInZendar - LinkedInZendar | LinkedInHow Zendar's AI improves radar perception with raw data ...Product / Data Science Intern at Zendar — Berkeley, CA ...Zendar Universe - LinkedIn Co-founder Zendar · Experience: Zendar · Education: University of California, Berkeley · Location: Berkeley · 500+ connections on LinkedIn. View Vinayak N.’s profile on LinkedIn, a ",
+    "url": "https://www.linkedin.com/in/vinayak-n-45087b",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar - LinkedIn Zendar develops perception technology that enables autonomous systems to accurately understand and interact with the physical world. Zendar began as a pioneer in radar science, developing first of its kind \"Distributed Aperture Radar\" which enabled high-resolution 4D imaging (3D + Velocity) with small, affordable radar sensors. Today, Zendar combines its innovative signal process",
+    "url": "https://fr.linkedin.com/company/zendar",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar | LinkedInHow Zendar's AI improves radar perception with raw data ...Product / Data Science Intern at Zendar — Berkeley, CA ...Zendar Universe - LinkedIn Zendar develops perception technology that enables autonomous systems to accurately understand and interact with the physical world. Zendar began as a pioneer in radar science, developing first of its kind \"Distributed Aperture Radar\" whic",
+    "url": "https://de.linkedin.com/company/zendar",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Zendar Bag Manufacturer - Facebook Zendar Bag Manufacturer. 6,037 followers · 4,599 talking about this. Leading China Bag Manufacturer | Wholesale Only | OEM & ODM Services | Custom Bags...",
+    "url": "https://www.facebook.com/p/Zendar-Bag-Manufacturer-61589443416767/",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar A. Rivera - Facebook Zendar A. Rivera. 100,146 followers · 25,217 talking about this. Muchas veces la esperanza.!!! ☺️ es lo primero que se debería perder. ️",
+    "url": "https://www.facebook.com/zendar.rivera/",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar Bag Manufacturer on Reels - Facebook Sep 11, 2026 · Video by Zendar Bag Manufacturer Last viewed on: Sep 11, 2026",
+    "url": "https://www.facebook.com/61589443416767/videos/1374577428160612/",
+    "pass": 3
+   },
+   {
+    "quote": "Zendar Off - Facebook Zendar Off live - Frida nel parco 11 ottobre 2026 ore 19.30 #zendaroff #fridanelparco #bologna #cantautore#musicaitaliana",
+    "url": "https://www.facebook.com/zendaroff/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://zendar.ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.nxp.jp/company/about-nxp/newsroom/NW-UPDATE-NXP-AND-ZENDAR-INC-PR",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://zendar.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://guide.jsae.or.jp/topics/415188/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.mynavi.jp/techplus/article/20231107-2812576/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zendar.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zendar.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/zendar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.nxp.jp/company/about-nxp/newsroom/NW-UPDATE-NXP-AND-ZENDAR-INC-PR",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/zendar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nomadicai.com/blog/zendar-case-study",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/company/nomadicai/case-study/410c-how-zendar-curates-data-for-next-gen-adas-radar-models",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zendar.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/zendar/__JCM2XtT0ZuOXsHSF6TPkwkiuNkBeyYS_NhsOEdZZ0hI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/zendar/epp4phs416beijqal",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/zendar-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acquirezy.com/organization/zendar-2007420",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/zendaruniverse",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zendar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sgdigi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/_Zendar_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/zendar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/vinayak-n-45087b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/company/zendar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/zendar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Zendar-Bag-Manufacturer-61589443416767/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zendar.rivera/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61589443416767/videos/1374577428160612/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zendaroff/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zendar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Zendar1q",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Zendar 日本 導入",
+   "results": [
+    "https://www.nxp.jp/company/about-nxp/newsroom/NW-UPDATE-NXP-AND-ZENDAR-INC-PR",
+    "https://zendar.ai/",
+    "https://guide.jsae.or.jp/topics/415188/",
+    "https://news.mynavi.jp/techplus/article/20231107-2812576/",
+    "https://www.nikkei.com/article/DGXZRSP664087_W3A101C2000000/",
+    "https://www.ti.com/partner/ja-jp/ZEN",
+    "https://news.mynavi.jp/techplus/article/20261009-5091768/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zendar 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://zanter.jp/",
+    "https://genda.jp/en/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zendar Japan",
+   "results": [
+    "https://zendar.ai/",
+    "https://zendar.ai/about",
+    "https://www.linkedin.com/company/zendar",
+    "https://www.nxp.jp/company/about-nxp/newsroom/NW-UPDATE-NXP-AND-ZENDAR-INC-PR",
+    "https://www.nxp.com/company/about-nxp/newsroom/NW-UPDATE-NXP-AND-ZENDAR-INC-PR",
+    "https://zendar.pinpointhq.com/",
+    "https://www.egonzehnder.com/office/tokyo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zendar manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/zendar",
+    "https://www.nomadicai.com/blog/zendar-case-study",
+    "https://www.casestudies.com/company/nomadicai/case-study/410c-how-zendar-curates-data-for-next-gen-adas-radar-models",
+    "https://zendar.ai/",
+    "https://www.nxp.com/company/about-nxp/newsroom/NW-UPDATE-NXP-AND-ZENDAR-INC-PR",
+    "https://zendar.ai/about",
+    "https://www.plugandplaytechcenter.com/startup/zendar-io"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zendar white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zendar founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/zendar/__JCM2XtT0ZuOXsHSF6TPkwkiuNkBeyYS_NhsOEdZZ0hI",
+    "https://www.thecompanycheck.com/company/b/zendar/epp4phs416beijqal",
+    "https://prospeo.io/c/zendar-revenue",
+    "https://acquirezy.com/organization/zendar-2007420",
+    "https://compworth.com/company/zendar",
+    "https://fundediq.co/zendar-zendar-io-funding/",
+    "https://startupintros.com/orgs/zendar"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Zendar",
+   "results": [
+    "https://note.com/wise_turtle184",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/yumekanryo/n/nc22863cf7867",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/hata_hajime2648/n/nf6df56996a15",
+    "https://note.com/3121okotas/n/n8ed4cce2bace"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Zendar",
+   "results": [
+    "https://x.com/zendaruniverse",
+    "https://x.com/zendar",
+    "https://x.com/sgdigi",
+    "https://x.com/_Zendar_",
+    "https://x.com/zendarwizard",
+    "https://x.com/RiveraZendar",
+    "https://x.com/sgdigi/with_replies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Zendar",
+   "results": [
+    "https://www.linkedin.com/company/zendar",
+    "https://www.linkedin.com/in/vinayak-n-45087b",
+    "https://fr.linkedin.com/company/zendar",
+    "https://de.linkedin.com/company/zendar",
+    "https://www.linkedin.com/posts/zendar_radar-ai-adas-activity-7321231474429509634-V32R",
+    "https://www.linkedin.com/jobs/view/product-data-science-intern-at-zendar-4480813650",
+    "https://www.linkedin.com/company/zendar-universe"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Zendar",
+   "results": [
+    "https://www.facebook.com/p/Zendar-Bag-Manufacturer-61589443416767/",
+    "https://www.facebook.com/zendar.rivera/",
+    "https://www.facebook.com/61589443416767/videos/1374577428160612/",
+    "https://www.facebook.com/zendaroff/",
+    "https://www.facebook.com/zendar.rivera/photos/d41d8cd9/25599463106416575/",
+    "https://www.facebook.com/zendar.alek/",
+    "https://www.facebook.com/zendar.rivera.5/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zendar note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.linkedin.com/in/vinayak-n-45087b",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Zendar X 投稿",
+   "results": [
+    "https://x.com/zendar",
+    "https://x.com/Zendar1q",
+    "https://www.instagram.com/zendar._.x/",
+    "https://zendar.ai/",
+    "https://www.youtube.com/channel/UCdK3FU-Lf6AdbrrIDkOxW4A",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://help.x.com/ja/using-x/how-to-post"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）"
+ }
+}

@@ -1,0 +1,688 @@
+{
+ "name": "Epic Aerospace",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜NG",
+ "researched_at": "2026-11-11T00:10:23.261832+00:00",
+ "official_url": "https://epic-aerospace.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "United States",
+    "url": "https://www.spacebandits.io/startups/epic-aerospace",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2014",
+    "url": "https://www.spacebandits.io/startups/epic-aerospace",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Disclosed funding",
+    "value": "$150K",
+    "url": "https://www.spacebandits.io/startups/epic-aerospace",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Watch a video recap of the construction of CHIMERA LEO 1, our first orbit transfer vehicle, and its launch onboard the SpaceX Transporter 6 Mission.",
+    "url": "https://epic-aerospace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about how you can leverage our infrastructure and technology to further complex missions beyond just precise orbital deployment; helping you end-to-end from the design of your satellite to actual operation in space.",
+    "url": "https://epic-aerospace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "EPIC Aerospace builds Chimera, a chemical-propulsion space tug for delivering small satellites to orbits that rideshare launches cannot reach, up to and including geostationary orbit. Founded in 2019 by Ignacio Belieres Montero, an Argentine who left Stanford on a Thiel Fellowship, and backed through Y Combinator, it works between Buenos Aires and the United States and says very little in public.",
+    "url": "https://www.spacebandits.io/startups/epic-aerospace",
+    "pass": 3
+   },
+   {
+    "quote": "It has flown twice. Chimera LEO-1 went up on a SpaceX rideshare in January 2023 as a free-flying satellite deployer; how that mission ended was never clearly reported. Chimera GEO-1, a 301 kilogram tug with enough propellant to change its velocity by 1.7 kilometres per second, launched in February 2025 carrying a customer's classified cubesat toward geostationary orbit.",
+    "url": "https://www.spacebandits.io/startups/epic-aerospace",
+    "pass": 3
+   },
+   {
+    "quote": "Founder interviews and the most promising space startups, straight to your inbox. Free, no spam, unsubscribe anytime.",
+    "url": "https://www.spacebandits.io/startups/epic-aerospace",
+    "pass": 3
+   },
+   {
+    "quote": "Other productive sectors",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "Product-Destination worksheet",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "Guides and programs »",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "Promotional material »",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "The equipment was acquired with support from the National Agency for Research and Innovation (ANII) through the Orestes Fiandra Trust. The inauguration, held on August 27, was attended by President Yamandú Orsi; Minister of Industry, Energy, and Mining Fernanda Cardona; officials from ANII, Uruguay XXI, and Zonamerica; and representatives of the technology sector.",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "The company also unveiled the Chimera GEO 2, a 780-kilogram orbital transfer vehicle designed to carry payloads into geostationary orbit. According to information presented at the event, the technology will provide Uruguay with space transportation capabilities that are not currently available elsewhere in Latin America and could significantly reduce the cost of certain missions.",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "Orsi highlighted Uruguay’s progress in space technology manufacturing and testing and identified the continued expansion of these capabilities as a key challenge.",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "Projects involving greater technological complexity broaden this foundation and reinforce Uruguay’s position as a platform for investing in, developing, and testing technology for global markets.",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "Uruguay Presented Investment Opportunities in Food, Energy, and Infrastructure in Qatar",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "Rincón 518-528. Montevideo-Uruguay",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Epic Aerospace - Connecting Space",
+    "url": "https://epic-aerospace.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Epic Aerospace: Space transportation network | Space Bandits",
+    "url": "https://www.spacebandits.io/startups/epic-aerospace",
+    "pass": 3
+   },
+   {
+    "quote": "Epic Aerospace operates in the logistics sector of the space industry, is headquartered in United States, was founded in 2014, raised $150K (Seed), employs 1-10 people.",
+    "url": "https://www.spacebandits.io/startups/epic-aerospace",
+    "pass": 3
+   },
+   {
+    "quote": "Epic Aerospace at a glance",
+    "url": "https://www.spacebandits.io/startups/epic-aerospace",
+    "pass": 3
+   },
+   {
+    "quote": "EPIC Aerospace builds Chimera, a chemical-propulsion space tug for delivering small satellites to orbits that rideshare launches cannot reach, up to and including geostationary orbit. Founded in 2019 by Ignacio Belieres Montero, an Argentine who left Stanford on a Thiel Fellowship, and backed through Y Combinator, it works between Buenos Aires and the United States and says very little in public.",
+    "url": "https://www.spacebandits.io/startups/epic-aerospace",
+    "pass": 3
+   },
+   {
+    "quote": "Follow startups like Epic Aerospace",
+    "url": "https://www.spacebandits.io/startups/epic-aerospace",
+    "pass": 3
+   },
+   {
+    "quote": "Epic Aerospace Expands Its Investment in Uruguay, Adding New Space Industry Capabilities - News",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "Epic Aerospace Expands Its Investment in Uruguay, Adding New Space Industry Capabilities",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "Epic Aerospace, a US aerospace company founded by Argentine engineer Ignacio Belieres Montero, has expanded its investment in Uruguay with the opening of new facilities at Zonamerica. The company manufactures, assembles, and tests orbital transfer vehicles at the site, incorporating specialized technology and deepening Uruguay’s participation in a knowledge-intensive global value chain.",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "Orsi highlighted Uruguay’s progress in space technology manufacturing and testing and identified the continued expansion of these capabilities as a key challenge.",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "Epic Aerospace’s investment also forms part of Uruguay’s internationally oriented technology economy. In 2024, the country’s ICT sector recorded US$2.323 billion in international sales, equivalent to 63% of its total revenue, while 76% of companies reported sales to international customers.",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "Uruguay is ready to take off in the aerospace industry: experts highlighted advantages and opportunities",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Epic Aerospace - Connecting Space — Epic Aerospace - Connecting Space Epic Aerospace https://epic-aerospace.com",
+    "url": "https://epic-aerospace.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Epic Aerospace : Space transportation network — Epic Aerospace : Space transportation network spacebandits.io https://www.spacebandits.io > startups",
+    "url": "https://www.spacebandits.io/startups/epic-aerospace",
+    "pass": 3
+   },
+   {
+    "quote": "EPIC AEROSPACE - LinkedIn — EPIC AEROSPACE - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/epic-aerospace",
+    "pass": 3
+   },
+   {
+    "quote": "Epic Aerospace Expands Its Investment in Uruguay, Adding ... — Epic Aerospace Expands Its Investment in Uruguay, Adding ... uruguayxxi.gub.uy https://www.uruguayxxi.gub.uy > news",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "Epic Aerospace , A Y Combinator Space Startup, Is Building A ... — Epic Aerospace , A Y Combinator Space Startup, Is Building A ... Forbes https://www.forbes.com > 2020/01/07",
+    "url": "https://www.forbes.com/sites/frederickdaso/2020/01/07/epic-aerospace-a-y-combinator-space-startup-is-building-a-satellite-transportation-network/",
+    "pass": 3
+   },
+   {
+    "quote": "Epic Aerospace 2026 Company Profile - PitchBook — Epic Aerospace 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/279625-24",
+    "pass": 3
+   },
+   {
+    "quote": "Epic Aerospace - 2026 Company Profile & Team - Tracxn — Epic Aerospace - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/epic-aerospace/__b5ZXKfoWkJIaMhib24uGVSZSXMmNSQ5QZHgEcDMizYw",
+    "pass": 3
+   },
+   {
+    "quote": "EPIC AEROSPACE - Crunchbase Company Profile & Funding — EPIC AEROSPACE - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > epic-a...",
+    "url": "https://www.crunchbase.com/organization/epic-aerospace",
+    "pass": 3
+   },
+   {
+    "quote": "EPIC AEROSPACE Information | SignalHire Company Profile — EPIC AEROSPACE Information | SignalHire Company Profile SignalHire https://www.signalhire.com > epic-aer...",
+    "url": "https://www.signalhire.com/companies/epic-aerospace",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Chimera GEO-1 launches as a rideshare on the Falcon 9 carrying Intuitive Machines' IM-2 lander",
+    "url": "https://www.spacebandits.io/startups/epic-aerospace",
+    "pass": 3
+   },
+   {
+    "quote": "It has flown twice. Chimera LEO-1 went up on a SpaceX rideshare in January 2023 as a free-flying satellite deployer; how that mission ended was never clearly reported. Chimera GEO-1, a 301 kilogram tug with enough propellant to change its velocity by 1.7 kilometres per second, launched in February 2025 carrying a customer's classified cubesat toward geostationary orbit.",
+    "url": "https://www.spacebandits.io/startups/epic-aerospace",
+    "pass": 3
+   },
+   {
+    "quote": "The equipment was acquired with support from the National Agency for Research and Innovation (ANII) through the Orestes Fiandra Trust. The inauguration, held on August 27, was attended by President Yamandú Orsi; Minister of Industry, Energy, and Mining Fernanda Cardona; officials from ANII, Uruguay XXI, and Zonamerica; and representatives of the technology sector.",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "The company also unveiled the Chimera GEO 2, a 780-kilogram orbital transfer vehicle designed to carry payloads into geostationary orbit. According to information presented at the event, the technology will provide Uruguay with space transportation capabilities that are not currently available elsewhere in Latin America and could significantly reduce the cost of certain missions.",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   },
+   {
+    "quote": "Epic Aerospace’s investment also forms part of Uruguay’s internationally oriented technology economy. In 2024, the country’s ICT sector recorded US$2.323 billion in international sales, equivalent to 63% of its total revenue, while 76% of companies reported sales to international customers.",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "The expansion includes a 300-kilonewton vibration testing system capable of testing satellite equipment weighing up to 2,500 kilograms. The new infrastructure enables space vehicles to be manufactured, assembled, and validated in Uruguay using capabilities comparable to those available at the space agencies of Brazil and Argentina.",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "info@uruguayxxi.gub.uy",
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "EPIC AEROSPACE (@epicaerospace) / X EPIC AEROSPACE (@epicaerospace) / X X https://x.com > epicaerospace",
+    "url": "https://x.com/epicaerospace",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "EPIC AEROSPACE - LinkedIn EPIC AEROSPACE - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/epic-aerospace",
+    "pass": 3
+   },
+   {
+    "quote": "EPIC AEROSPACE Expands Orbital Transfer Vehicle Portfolio EPIC AEROSPACE Expands Orbital Transfer Vehicle Portfolio LinkedIn https://www.linkedin.com > posts > sa...",
+    "url": "https://www.linkedin.com/posts/satnow_satellite-space-launch-activity-7441873960612528128-ycl9",
+    "pass": 3
+   },
+   {
+    "quote": "Epic Aerospace Expands Testing Capabilities in Uruguay Epic Aerospace Expands Testing Capabilities in Uruguay LinkedIn https://www.linkedin.com > posts > jo...",
+    "url": "https://www.linkedin.com/posts/jonathan-sellers_epic-aerospace-ampl%C3%ADa-su-inversi%C3%B3n-en-uruguay-activity-7510344722784251906-49wC",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Epic Aircraft | Bend OR - Facebook Epic Aircraft | Bend OR - Facebook Facebook https://www.facebook.com > ... > Aerospace Company",
+    "url": "https://www.facebook.com/epicaircraft/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://epic-aerospace.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.mext.go.jp/content/20240820-mxt_uchukai01-000019567_75.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.dbj.jp/topics/region/industry/files/0000027266_file2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.meti.go.jp/meti_lib/report/2021FY/000043.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.learn-atc.com/ja/tools/software/honeywell-primus-epic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/8010401007156",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/cambridgeaerospace.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zaikostore.com/zaikostore/cStockSpecList?cid1=ct100010&cid2=ct201003&cid3=ct301545&pv1=TE%20Connectivity%20Aerospace,%20Defense%20and%20Marine&pv2=IE&pv2=Han%C2%AE%20M23%20Power&srsltid=AYCX9vIyvgs4tOZT6lKPdFuqufiPHVTamGjPdUu5T2Ka3JGLdJasfEF1",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spacebandits.io/startups/epic-aerospace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Epic_Aircraft",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://epicaircraft.com/e1000-ax/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://epicsysinc.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.epicio.com/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.forbes.com/sites/frederickdaso/2020/01/07/epic-aerospace-a-y-combinator-space-startup-is-building-a-satellite-transportation-network/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.epicio.com/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorservices.epic.com/FAQ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://epicaircraft.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/279625-24",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/epic-aerospace/__b5ZXKfoWkJIaMhib24uGVSZSXMmNSQ5QZHgEcDMizYw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/epic-aerospace",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zippia.com/epic-aircraft-careers-1171003/revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/epicaerospace",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/epic-aerospace",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/satnow_satellite-space-launch-activity-7441873960612528128-ycl9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/jonathan-sellers_epic-aerospace-ampl%C3%ADa-su-inversi%C3%B3n-en-uruguay-activity-7510344722784251906-49wC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/epicaircraft/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/epicaerospace",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Epic Aerospace 日本 導入",
+   "results": [
+    "https://www.mext.go.jp/content/20240820-mxt_uchukai01-000019567_75.pdf",
+    "https://www.dbj.jp/topics/region/industry/files/0000027266_file2.pdf",
+    "https://www.meti.go.jp/meti_lib/report/2021FY/000043.pdf",
+    "https://www.learn-atc.com/ja/tools/software/honeywell-primus-epic",
+    "https://www.teradyne.com/ja/defense-aerospace-services-support/",
+    "https://www.unrealengine.com/spotlights/lockheed-martin-engages-unreal-engine-for-aerospace-simulation-r-d?lang=ja",
+    "https://www.mod.go.jp/msdf/navcol/assets/pdf/column279_01.pdf",
+    "https://cesium.com/events/cesium-epic-seminar-2",
+    "https://www.mext.go.jp/content/20240625-mxt_uchukai02-000026968_25.pdf",
+    "https://newsroom.equinix.com/2026-10-22-EPIC"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Epic Aerospace 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://epic-aerospace.com/",
+    "https://compalyze.co.jp/company/8010401007156",
+    "https://www.firstcvc.jp/global/cambridgeaerospace.com",
+    "https://www.zaikostore.com/zaikostore/cStockSpecList?cid1=ct100010&cid2=ct201003&cid3=ct301545&pv1=TE%20Connectivity%20Aerospace,%20Defense%20and%20Marine&pv2=IE&pv2=Han%C2%AE%20M23%20Power&srsltid=AYCX9vIyvgs4tOZT6lKPdFuqufiPHVTamGjPdUu5T2Ka3JGLdJasfEF1",
+    "https://hoveringonline.com/products/list?category_id=437",
+    "https://compalyze.co.jp/company/6010401043888",
+    "https://www.zaikostore.com/zaikostore/cStockSpecList?cid1=ct100010&cid2=ct201003&pv1=TE%20Connectivity%20Aerospace,%20Defense%20and%20Marine&pv2=CDM1204&pv2=QUIK-LOQ%E2%84%A2%208P1P&srsltid=AYCX9vL5R65nUxFKIyLDHiJvaEgmJtsRYaTwrA642bPP5oMYZuq6uRp2",
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://pitchbook.com/profiles/company/279625-24"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Epic Aerospace Japan",
+   "results": [
+    "https://epic-aerospace.com/",
+    "https://www.spacebandits.io/startups/epic-aerospace",
+    "https://en.wikipedia.org/wiki/Epic_Aircraft",
+    "https://epicaircraft.com/e1000-ax/",
+    "https://www.linkedin.com/company/epic-aerospace",
+    "https://epic-aerospace-web.netlify.app/team",
+    "https://www.forbes.com/sites/frederickdaso/2020/01/07/epic-aerospace-a-y-combinator-space-startup-is-building-a-satellite-transportation-network/",
+    "https://epic-photonics.com/events/epic-members-delegation-to-japan/",
+    "https://epic-aerospace.com/capabilities",
+    "https://tracxn.com/d/companies/epic-aerospace/__b5ZXKfoWkJIaMhib24uGVSZSXMmNSQ5QZHgEcDMizYw"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Epic Aerospace manufacturing customer case study",
+   "results": [
+    "https://epicsysinc.com/case-studies/",
+    "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "https://www.epicio.com/customer-stories/",
+    "https://www.forbes.com/sites/frederickdaso/2020/01/07/epic-aerospace-a-y-combinator-space-startup-is-building-a-satellite-transportation-network/",
+    "https://www.epicor.com/en-us/blog/technology-and-data/manufacturing-case-study/",
+    "https://epicsysinc.com/case-study/page/4/",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/manufacturing-aerospace.pdf",
+    "https://www.leandna.com/resource/case-study-aerospace-manufacturer-saves-20m-in-90-days-with-leandna/",
+    "https://aiformanufacturing.org/industries/aerospace",
+    "https://www.casestudies.com/company/better-image/case-study/epic-manufacturing-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Epic Aerospace white label OR reseller OR partner program",
+   "results": [
+    "https://www.epicio.com/partner/",
+    "https://vendorservices.epic.com/FAQ",
+    "https://epicaircraft.com/",
+    "https://epic-aerospace.com/",
+    "https://www.linkedin.com/company/epic-aerospace",
+    "https://www.uruguayxxi.gub.uy/en/news/article/epic-aerospace-expands-its-investment-in-uruguay-adding-new-space-industry-capabilities/",
+    "https://www.epicbrokers.com/services/aviation-aerospace/",
+    "https://showroom.epic.com/stage?id=6",
+    "https://epicflightacademy.com/airline-partners-2/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Epic Aerospace founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/279625-24",
+    "https://tracxn.com/d/companies/epic-aerospace/__b5ZXKfoWkJIaMhib24uGVSZSXMmNSQ5QZHgEcDMizYw",
+    "https://www.crunchbase.com/organization/epic-aerospace",
+    "https://www.zippia.com/epic-aircraft-careers-1171003/revenue/",
+    "https://www.signalhire.com/companies/epic-aerospace",
+    "https://www.zoominfo.com/c/epic-aircraft-llc/6412636",
+    "https://www.ycombinator.com/companies/epic-aerospace",
+    "https://finance.yahoo.com/news/epic-ceo-judy-faulkner-says-020634997.html",
+    "https://privatejetcardcomparisons.com/aircraft/epic-aircraft/",
+    "https://prospeo.io/c/epic-aerospace-revenue"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Epic Aerospace",
+   "results": [
+    "https://note.com/lucid_lynx8370/n/ncb4e81692b4c",
+    "https://note.com/ichi_twnovel/n/nefb3b6c86d61",
+    "https://note.com/hirokimiyano/n/n5c209a9a9bd5",
+    "https://note.com/everprogress/n/nf346913f2dde",
+    "https://note.com/good_dill292/n/nccd43b160876",
+    "https://note.com/scra/n/n8b220c070248",
+    "https://note.com/kagawatomo/n/nea604eaa2d6c",
+    "https://note.com/scra/n/n62dc3221a2b9",
+    "https://note.com/rakkun_aviation/m/mfd7d5ed66ed5",
+    "https://note.com/tag/渋皮煮"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Epic Aerospace",
+   "results": [
+    "https://x.com/epicaerospace",
+    "https://x.com/ignaciobelieres",
+    "https://x.com/NGCNews/status/1950588820363075970",
+    "https://x.com/AINonline",
+    "https://x.com/JoeTegtmeyer/status/2116939721913897152",
+    "https://x.com/leosarro/status/2092970096079581615",
+    "https://x.com/adamgoldstein13",
+    "https://x.com/leosarro/status/2092970096079581615?lang=cs",
+    "https://x.com/compresidencia/status/2093040146476077341",
+    "https://x.com/epicaerospace/status/1513587447715667974"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Epic Aerospace",
+   "results": [
+    "https://www.linkedin.com/company/epic-aerospace",
+    "https://www.linkedin.com/company/epic-aircraft",
+    "https://www.linkedin.com/posts/satnow_satellite-space-launch-activity-7441873960612528128-ycl9",
+    "https://www.linkedin.com/posts/jonathan-sellers_epic-aerospace-ampl%C3%ADa-su-inversi%C3%B3n-en-uruguay-activity-7510344722784251906-49wC",
+    "https://www.linkedin.com/in/ignacio-belieres-montero-14b457b6",
+    "https://www.linkedin.com/jobs/epic-aircraft-jobs",
+    "https://tr.linkedin.com/company/epic-aerospace",
+    "https://www.linkedin.com/jobs/aerospace-jobs-bend-or",
+    "https://uy.linkedin.com/company/epic-aerospace",
+    "https://ar.linkedin.com/company/epic-aerospace"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Epic Aerospace",
+   "results": [
+    "https://www.facebook.com/epicaircraft/",
+    "https://www.facebook.com/epicaircraft/photos/",
+    "https://www.facebook.com/epicaircraft/about/",
+    "https://www.facebook.com/epicaircraft/mentions/",
+    "https://www.facebook.com/epicaircraft/posts/as-our-fleet-grows-so-does-our-network-of-authorized-service-centers-stevens-aer/1659967392800194/",
+    "https://www.facebook.com/epicaircraft/videos/2025-was-a-year-of-epic-achievements-the-successful-launch-and-certification-of-/4479060902325825/",
+    "https://www.facebook.com/epicaircraft/posts/in-september-more-than-700-attendees-including-epic-employees-aircraft-owners-au/1728766159253650/",
+    "https://www.facebook.com/epicaircraft/posts/building-an-award-winning-airplane-with-over-550-carbon-fiber-parts-requires-a-t/1922762874578588/",
+    "https://www.facebook.com/epicaircraft/videos/hear-why-this-former-cirrus-owner-calls-his-new-epic-e1000-ax-the-most-impressiv/920774357633142/",
+    "https://www.facebook.com/epicaircraft00af/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Epic Aerospace note 社長",
+   "results": [
+    "https://www.roundfunded.com/ja/yc-startup/epic-aerospace",
+    "https://www.linkedin.com/in/ignacio-belieres-montero-14b457b6",
+    "https://epic-aerospace.com/team",
+    "https://yespress.io/ignacio-belieres-montero",
+    "https://tracxn.com/d/companies/epic-aerospace/__b5ZXKfoWkJIaMhib24uGVSZSXMmNSQ5QZHgEcDMizYw",
+    "https://www.cbinsights.com/company/epic-aerospace/people",
+    "https://www.crunchbase.com/person/ignacio-belieres",
+    "https://theorg.com/org/epic-aerospace/org-chart/ignacio-belieres-montero",
+    "https://epic-aerospace.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Epic Aerospace X 投稿",
+   "results": [
+    "https://x.com/epicaerospace",
+    "https://www.instagram.com/epicaerospace/",
+    "https://x.com/EpicAircraft",
+    "https://epic-aerospace.com/",
+    "https://epicaircraft.com/",
+    "https://www.spacex.com/updates",
+    "https://butonchaumetnathalie-psychologue.fr/amphtml/news/articles/apwfb79zs4eq",
+    "https://www.reddit.com/r/smallstreetbets/comments/1p54z9a/cetx_cemtrex_739k_float_pending_aerospace_and/?tl=ja",
+    "https://www.sotwe.com/epicaerospace",
+    "https://x.com/epicaerospace/status/1362896053402554374"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

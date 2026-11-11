@@ -1110,6 +1110,11 @@
 - 「Continue to ZDNET Japan」（https://japan.zdnet.com/release/31166502/）
 - 「電話：03-4563-9129（日本）／ 0081-34 563 9129（グローバル）／ 0086-176 6505 2062」（https://japan.zdnet.com/release/31166502/）
 
+## Mahr Metrology（https://metrology.mahr.com/）
+- 「日本, 日本語」（https://metrology.mahr.com/）
+- 「日本, 日本語」（https://metrology.mahr.com/ja/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/engineered-solutions/engineered%E3%81%A8%E3%81%AF/）
+- 「日本, 日本語」（https://metrology.mahr.com/ja/service/mahr-academy/about/）
+
 ## Tangshan Weihao Magnesium Powder Co. , Ltd.（https://www.tswhmf.com）
 - 「Learn what the bulk density vs. tap density gap reveals about atomized magnesium alloy powder quality, flowability, and sintering performance. Covers AZ91, WE43, safety regulations, JIS/GB standards, and supplier guidance for Japanese engineers in 2026.」（https://www.tswhmf.com/）
 - 「Learn what the bulk density vs. tap density gap reveals about atomized magnesium alloy powder quality, flowability, and sintering performance. Covers AZ91, WE43, safety regulations, JIS/GB standards, and supplier guidance for Japanese engineers in 2026.」（https://www.tswhmf.com/atomized-magnesium-alloy-powder-bulk-density-vs.tap-density-what-the-gap-tells-you）
@@ -1272,18 +1277,110 @@
 - 「プロキシサーバー日本で活用する最適解は？2026最新解説」（https://www.kujoproxy.jp/japan-proxy-server/）
 - 「プロキシサーバー日本国内での利用は、単なる通信の中継という枠を超え、データ収集、セキュリティ強化、そしてマーケティングの精度向上に欠かせないインフラとなっています」（https://www.kujoproxy.jp/japan-proxy-server/）
 
+## Rainforestqa（https://www.rainforestqa.com）
+- 「Rainforest QAの求人・カルチャー｜Japan Dev」（https://japan-dev.com/companies/rainforest-qa?lang=jp）
+- 「Rainforest QA offers QA services for companies. Their headquarters is in San Francisco, but they've been known to hire developers to work remotely from Japan (for those with visas that support this).」（https://japan-dev.com/companies/rainforest-qa?lang=jp）
+- 「に登録して、厳選した日本のIT求人をメールで受け取りましょう」（https://japan-dev.com/companies/rainforest-qa?lang=jp）
+
+## Shopvida（https://shopvida.com）
+- 「Great Gardens of Japan」（https://www.digitalfieldguide.com/blog/15162）
+- 「Japan Photography and Garden Tour (NOV)」（https://www.digitalfieldguide.com/blog/15162）
+- 「Last Call for Great Gardens of Japan」（https://www.digitalfieldguide.com/blog/15162）
+
+## Skyways（https://www.skyways.com/）
+- 「Kumejima Island, Japan · 2026」（https://www.skyways.com/）
+- 「With ANA, Skyways completed long-distance medical-delivery trials serving Japan's remote island communities in Okinawa.」（https://www.skyways.com/company）
+- 「Skyways | Customer Story: ANA and Skyways Are Building a Logistics Backbone for Japan's Remote Islands」（https://www.skyways.com/newsroom/customer-story-skyways-ana-holdings-partnership-japan-long-range-vtol-hybrid-uav-drone）
+- 「Close to 150,000 employees in over 90 countries work diligently to deliver great customer experiences and high-quality services. Our commitment to sustainable business practices is a central element of our overall business strategy.」（https://www.skyways.com/newsroom/skyways-dsv-commercial-offshore-logistics-partnership）
+
+## Smarterdx（https://www.smarterdx.com/）
+- 「AIツールの情報を、日本のユーザーに向けて紹介しませんか」（https://my-best.ai/ai-tools/smarterdx/）
+
+## Smarthelio（https://www.smarthelio.com/）
+- 「SmartHelio、初の日本訪問 変わりゆく太陽光発電市場を現地で見て、聞いて、学ぶ」（https://smarthelio.com/jp/）
+- 「さらに、日本においてデータが不足しがちなアレイ側・PCS側のレベルで異常を迅速に特定できるため、現場対応の効率化と発電ロスの最小化を実現し、発電所の安定運営と収益性向上に貢献しています」（https://smarthelio.com/jp/）
+- 「SmartHelio at Smart Energy Week Japan: Meet us at booth E5-6 - SmartHelio」（https://smarthelio.com/smarthelio-at-smart-energy-week-meet-us-at-our-booth/）
+
+## Automata（https://www.automata.tech/）
+- 「Traditional Japanese puppet」（https://en.wikipedia.org/wiki/Karakuri_puppet）
+- 「a machine-translated version of the Japanese article.」（https://en.wikipedia.org/wiki/Karakuri_puppet）
+- 「Content in this edit is translated from the existing Japanese Wikipedia article at [[:ja:からくり]]; see its history for attribution.」（https://en.wikipedia.org/wiki/Karakuri_puppet）
+- 「Annalisa Jenkins trained as a physician, spending her early career as a medical officer in the Royal Navy before moving into biopharma with Bristol Myers-Squibb and Merck Serono. She became President and Chief Executive of Nasdaq-listed Dimension Therapeutics in 2014 before being appointed Executive」（https://www.automata.tech/about-us/advisory-board）
+
 ## SiPearl（https://sipearl.com/）
 - 「文部科学省が進める次世代計算基盤「富岳NEXT」の仕様策定において、汎用CPUと量子アクセラレータの結合強度が問われる日本の計算機アーキテクトにとっても、直接参照すべき先行事例となります」（https://techshift.jp/2026/10/12/post-2543/）
 - 「日本のHPC・半導体エコシステムへの波及効果」（https://techshift.jp/2026/10/12/post-2543/）
 - 「欧州におけるCPUとQPUの垂直統合の動きは、日本国内の計算機アーキテクチャ戦略に対して具体的な論点を投げかけています」（https://techshift.jp/2026/10/12/post-2543/）
+
+## Talyn（https://www.talyn.aero）
+- 「COP17参加の日本農林水産省代表団「持続可能な土地再生には利益還元と現場意識の改革が不可欠」」（https://montsame.mn/jp/read/387468）
 
 ## Thinkbright（https://www.thinkbright.mx）
 - 「Japanese Family Crests (Kamon)」（https://www.teacherspayteachers.com/Product/World-History-Projects-Bundle-14605675）
 - 「– Investigate symbolism and family heritage by creating unique Japanese-inspired crests.」（https://www.teacherspayteachers.com/Product/World-History-Projects-Bundle-14605675）
 - 「Cogeco Peer 1 is a wholly owned subsidiary of Cogeco Communications Inc. (TSX:CCA) and is a global」（https://cdn.featuredcustomers.com/CustomerCaseStudy.document/cogeco-peer-1_thinkbright_None.pdf）
 
+## Toolio（https://www.toolio.com）
+- 「toolioは、日本語教育に携わるすべての人のためのサービスです」（https://nihongo-tool.com/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6）
+- 「日本語を学ぶ人には、もっと楽しい日本語学習を提供したい、日本語を教える人には、授業づくりの力になりたいという思いからつくられました」（https://nihongo-tool.com/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6）
+- 「Make Japanese More FUN.」（https://nihongo-tool.com/pages/toolio%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/toolio/case-studies）
+
+## Trella（https://www.trella.app/）
+- 「その成長を牽引する最先端のデジタル技術を活用し、既存の枠組みに捉われることなく産業・社会基盤を一から構築していく新興国には、 日本が学ぶべきイノベーションの発想が多く存在します」（https://note.com/uncovered_fund/n/nfa0be5b28827）
+
+## Vendease（https://vendease.com/）
+- 「Inspired by the success and popularity of vending in countries like Japan and the USA, they came up with the idea of using vending machines in hotels to sell those essential, often forgotten items – just like a mechanical concierge.」（https://www.vendease.co.uk/about-us/）
+- 「“We stayed in midrange hotels with no concierge service. If we had forgotten something—a toothbrush or deodorant, for example–we’d usually need to leave our hotel to buy it,” said Berman. “We were inspired by the success of vending in countries like Japan and the U.S., and came up with the idea of u」（https://togo.hotelbusiness.com/article/vendeases-touch-free-vending-machine-offers-alcohol/）
+
+## Verkor（https://verkor.com/）
+- 「日本にも車載電池のメーカーがあり、製造時のCO2をどう管理するかという同じ論点を持ちます」（https://frontjour.com/column/global/verkor）
+- 「※本リリースは、仏ヴェリジー＝ヴィラクブレーにて現地時間2022年10月21日に発表したリリースの日本語参考訳です」（https://www.3ds.com/ja/newsroom/press-releases/dassault-systemes-and-verkor-sign-mou-advance-next-generation-low-carbon-battery-development-and-manufacturing）
+- 「（日本語）、」（https://www.3ds.com/ja/newsroom/press-releases/dassault-systemes-and-verkor-sign-mou-advance-next-generation-low-carbon-battery-development-and-manufacturing）
+
 ## Voltfang（https://voltfang.de/）
 - 「技術的優位性・市場背景・TRL×調達ステージ・日本産業との接続は、Deep会員が読めます」（https://deeptech.nextblue.com/startups/voltfang）
+
+## Zendar（http://www.zendar.io）
+- 「NXPジャパンはNXP Semiconductorsが開発および製造するプロセッシング・ソリューション、認証技術、コネクティビティ、高出力RFやアナログ製品などを日本市場に提供しています」（https://guide.jsae.or.jp/topics/415188/）
+- 「“NVIDIAスキャンダル”は米中AI覇権競争にどう影響する? 日本企業への教訓とは」（https://news.mynavi.jp/techplus/article/20231107-2812576/）
+- 「NXP Semiconductors N.V.（NASDAQ: NXPI）には、より良く、安全・安心なコネクテッド・ワールドを実現する画期的なテクノロジーを生み出すために優秀な頭脳がそろっています」（https://guide.jsae.or.jp/topics/415188/）
+
+## Alterya（https://www.alterya.dev/）
+- 「Gate[.]ioが日本市場進出へ、「c0ban取引所」運営のCoin Master買収で」（https://www.neweconomy.jp/posts/444700）
+- 「【11/10話題】NYSE関連のトークン化証券基盤にアバランチ、デジガレの決済基盤がアーク上のUSDCに対応、バイナンス流出資産を北朝鮮が自作ミームコインで洗浄かなど（音声ニュース）」（https://www.neweconomy.jp/posts/444700）
+
+## Ampup（https://ampup.io）
+- 「EV用充電サービス運営「ampUp」、上海汽車と現代自動車などから資金調達 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア」（https://36kr.jp/75359/）
+- 「日本企業のDXを促進するプラットフォーム「CONNECTO」」（https://36kr.jp/75359/）
+
+## Dyndrite（https://www.dyndrite.com/）
+- 「Meteor社とDyndrite社が産業用インクジェット3Dプリンター向けソフトウェアMeteoryte™を発表｜Meteor Inkjet Japan」（https://www.meteorinkjet.com/ja/news-events/news/meteor-and-dyndrite-announce-meteoryte-software-for-industrial-inkjet-3d-printers/）
+- 「Dyndrite社がLPBF方式金属3Dプリント用ソフトウェア「LPBF Pro」をリリース | CAD Japan.com（大塚商会）」（https://www.cadjapan.com/news/2023/d20231110_03.html）
+- 「Dyndrite社がNikon SLM Solutions社と提携 | CAD Japan.com（大塚商会）」（https://www.cadjapan.com/news/2024/d20241121_03.html）
+- 「Meteor社は、産業用印刷製造のためのエンタープライズソフトウェアの主要開発企業であるHybrid Software Group PLC（Euronext：HYSG）の完全子会社です」（https://www.meteorinkjet.com/ja/news-events/news/meteor-and-dyndrite-announce-meteoryte-software-for-industrial-inkjet-3d-printers/）
+
+## Xometry（https://www.xometry.com）
+- 「本記事では、彼らが提唱する「製造業向けAIオペレーティングシステム」の仕組みと、それが我々日本の製造業に与える影響について考察します」（https://seisan-navi.com/20260121-xometryai/）
+- 「日本の製造現場では、長年の取引関係に基づく信頼や、図面だけでは伝わらない「あうんの呼吸」といった要素が重視されてきました」（https://seisan-navi.com/20260121-xometryai/）
+- 「Xometry社の取り組みは、日本の製造業にとっても多くの示唆を与えてくれます」（https://seisan-navi.com/20260121-xometryai/）
+- 「Xometry’s (NASDAQ: XMTR) AI-powered service provider, using its own artificial intelligence technology, buyers can efficiently purchase parts on demand and turn great ideas into reality faster.」（https://xometry.asia/en/about-us/）
+
+## AML3D（https://aml3d.com）
+- 「Japanese Patent 7225501.」（https://aml3d.com/）
+- 「Japanese Patent 7225501.」（https://aml3d.com/about-us）
+- 「Japanese Patent 7225501.」（https://aml3d.com/industries/manufacturing）
+
+## Fourgrowers（https://fourgrowers.com）
+- 「同社が開発したトマト収穫ロボットは、日本のファナック製ロボットアームをベースに、独自のAI視覚システムを統合」（https://techblitz.com/startup-interview/four-growers/）
+- 「「人間と同等」の収穫スピードを実現し、既に北米、欧州、豪州で数千万個もの収穫実績を積み上げており、日本からの熱烈なオファーも届き始めているという」（https://techblitz.com/startup-interview/four-growers/）
+- 「オランダのTTA、日本のデンソーといった大手企業もこの領域に取り組んでいますが、収穫スピードと、一株あたりの収穫完了率において、私たちは業界をリードしている自負があります」（https://techblitz.com/startup-interview/four-growers/）
+- 「スイスの農薬・種苗会社シンジェンタの子会社シンジェンタ・シーズと戦略的提携を結び、ロボットが収穫しやすい品種のブリーディング（育種）から共同で進める垂直統合型のモデルを構築」（https://techblitz.com/startup-interview/four-growers/）
+
+## Getsomatic（https://getsomatic.com）
+- 「ユーキャンロボット(Youcan Robot) ポケットロボット 簡単 英語 おしゃべり ロボット おもちゃ 知育玩具 コミュニケーションロボット 誕生日プレゼント 子供 【日本語パッケージ 日本語説明書】 (白)」（https://posfie.com/@cari_ura/p/uSqcWMs）
+- 「人口減少社会で、テクノロジーが実体験として一番進むのは日本かもしれません」（https://posfie.com/@cari_ura/p/uSqcWMs）
+- 「Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...」（https://www.firstcvc.jp/global/getsomatic.com）
 
 ## Metalpine GmbH（https://www.metalpine.at）
 - 「METALPINE is part of the internationally represented htm Group (hightech metal invest) with locations in Germany, Austria, Bahrain and Japan.」（https://metalpine.at/）

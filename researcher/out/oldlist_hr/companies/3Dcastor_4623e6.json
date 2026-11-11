@@ -1,0 +1,544 @@
+{
+ "name": "3Dcastor",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜NG",
+ "researched_at": "2026-11-11T00:36:11.202104+00:00",
+ "official_url": "https://www.3dcastor.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$2.4M",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Asahi Kasei has decided to invest in Castor Technologies Ltd. (CASTOR), an Israeli startup specialized in the development of 3D printing software. In addition to utilizing CASTOR’s software and services, the investment will allow Asahi Kasei to pursue synergies between its",
+    "url": "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "pass": 3
+   },
+   {
+    "quote": "CAE (Computer Aided Engineering) technical service for plastic products",
+    "url": "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "pass": 3
+   },
+   {
+    "quote": "The 3D printing market has grown by an annual average of over 20% since 2015. Through the emergence of rapid prototyping and manufacturing, this annual growth rate is likely to rise to 24%, increasing the need for an optimized technical service and faster response times to customer requests.（*",
+    "url": "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "pass": 3
+   },
+   {
+    "quote": "The 2022 3D Printing Trend Report published by HUBS B.V.）",
+    "url": "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "pass": 3
+   },
+   {
+    "quote": "Asahi Kasei has been providing comprehensive, high precision support for its customers’ product design and development through",
+    "url": "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "pass": 3
+   },
+   {
+    "quote": ". CASTOR’s service for simple judgement of part formability and simulation of manufacturing costs is expected to enable an even swifter response to customer inquiries. Applying CASTOR’s software and service prior to",
+    "url": "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "pass": 3
+   },
+   {
+    "quote": "Operations: Development of software for 3D printing",
+    "url": "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "pass": 3
+   },
+   {
+    "quote": "Adding this site as a preferred source in Google search results will make it easier to find articles from Asahi Kasei engineering plastics Comprehensive Information Site.",
+    "url": "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "pass": 3
+   },
+   {
+    "quote": "launch joint demonstration project for chemical recycling of",
+    "url": "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "pass": 3
+   },
+   {
+    "quote": "Please feel free to contact us with any questions regarding our products and technologies, or if you would like to request samples.",
+    "url": "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "pass": 3
+   },
+   {
+    "quote": "We will provide a more detailed introduction to Asahi Kasei 's engineering plastics products and technologies.",
+    "url": "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "pass": 3
+   },
+   {
+    "quote": "We will regularly deliver product and industry information. Please use this for your information gathering.",
+    "url": "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "pass": 3
+   },
+   {
+    "quote": "Asahi Kasei engineering plastics and functional resin products. We mainly handle polyacetal (POM) resin, polyamide (PA, nylon) resin, and modified polyphenylene ether (PPE) resin, providing resin design reference information, case studies, and industry trends.",
+    "url": "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2021",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "3D Printing Software",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The 3D printing market has grown by an annual average of over 20% since 2015. Through the emergence of rapid prototyping and manufacturing, this annual growth rate is likely to rise to 24%, increasing the need for an optimized technical service and faster response times to customer requests.（*",
+    "url": "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "pass": 3
+   },
+   {
+    "quote": ". CASTOR’s service for simple judgement of part formability and simulation of manufacturing costs is expected to enable an even swifter response to customer inquiries. Applying CASTOR’s software and service prior to",
+    "url": "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "pass": 3
+   },
+   {
+    "quote": "Position of CASTOR’s service and Asahi Kasei’s service in the parts manufacturing flow",
+    "url": "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Please feel free to contact us with any questions regarding our products and technologies, or if you would like to request samples.",
+    "url": "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Techin The first 3D website of castor industry in China — Techin Castor,3DCastor Company Introduction TECHIN,established castor business in 2002, is a professional group for castors and related products with guaranteed quality,competitive price,timely delivery,product variety and superior highspeed service. Rolling ideas with Techin, is our solgan and target. Just show us your idea, Techin will se",
+    "url": "http://www.techin.cc/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - CASTOR & Tech Soft 3D — CASTOR licenses both HOOPS Exchange and Polygonica from Tech Soft 3D for their work with large assemblies and for CAD data access. Learn more about their partnership with Tech Soft 3D here.",
+    "url": "https://www.techsoft3d.com/resources/case-studies/castor/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Castor: Revenue, Worth, Valuation & Competitors 2026 — 3D Castor’s core strength lies in estimated revenue of $6.7M, team of around 40+ employees, operating in Israel, underpinning its market reputation.",
+    "url": "https://compworth.com/company/3d-castor",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Castor Technologies Revenue 2023: $13.8M Est., $2.4M Raised",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Castor Technologies revenue",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Castor Technologies has not published its revenue. GetLatka estimates it at about $13.8M a year (December 2023).",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Castor Technologies CEO, founders & employees",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Omer Blaier founded Castor Technologies in 2012 with Elad Schiller and runs it as CEO. Castor Technologies had 31 employees (December 2024, LinkedIn), down from 33 a year earlier.",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "What is Castor Technologies' revenue?",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Castor Technologies' revenue at about",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Castor Technologies have?",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "CASTOR on LinkedIn: What Castor’s Report Reveals About 3D ... Another article covering CASTOR's 2023 Sustainability in AM report. Thank you engineering.com for sharing!Download your free copy from our website: https://www.3dcastor.com https://lnkd.in/dP4_c8tX",
+    "url": "https://in.linkedin.com/posts/3dcastor_what-castors-report-reveals-about-3d-printed-activity-7021388579973046272-xkSL",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "3D Castor - Facebook Jan 4, 2022 · 3D Castor will be live in Barcelona! To learn how CASTOR enables manufacturers to reduce costs and lead time through industrial 3D printing, join Angeliki Malizou, CASTOR’s Business Development Manager, on June 8-10 at Advanced Factories the 100% face-to-face event at the CCIB in Barcelona.",
+    "url": "https://www.facebook.com/3DCastor/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Castor - Today, more than ever, is the time for... | Facebook Apr 20, 2020 · Today, more than ever, is the time for digitization. Most manufacturers are facing serious difficulties producing their parts regularly these days. We are happy to present our new offering, which...",
+    "url": "https://www.facebook.com/3DCastor/posts/today-more-than-ever-is-the-time-for-digitization-most-manufacturers-are-facing-/2618444624932283/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Castor - Experience the 3D printing ecosystem of... - Facebook 3D Castor is a proud partner of Ultimaker and we are happy to participate in the Transformation Summit on April 20th.",
+    "url": "https://www.facebook.com/3DCastor/posts/experience-the-3d-printing-ecosystem-of-tomorrow-at-ultimakertransformationsummi/3550132618430141/",
+    "pass": 3
+   },
+   {
+    "quote": "3D Castor - Everything you need to know about 3D Printing ... May 27, 2020 · Everything you need to know about 3D Printing Software is here! A great informative overview by Alex Huckstepp of various Software Solutions in #AdditiveManufacturing, including CASTOR. We are...",
+    "url": "https://www.facebook.com/3DCastor/posts/everything-you-need-to-know-about-3d-printing-software-is-herea-great-informativ/2702797879830290/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.3dcastor.com/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.altech.co.jp/item_news/castor-202405",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-printer.jp/news-release/castor.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.163.com/dy/article/I58EKDJ8051186GP.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/3dcastor_2024-cost-reduction-case-studies-castor-activity-7272934303867559936-cI2h",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.castoreng.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maxionwheels.com/fileadmin/Corporate/Download_Center/Case_Studies/Case_Study_Maxion_CASTOR_FINAL_21.02.2022.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.techsoft3d.com/resources/case-studies/castor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/3d-castor",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/castor-technologies-3dcastor-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/castor-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/castor-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://in.linkedin.com/posts/3dcastor_what-castors-report-reveals-about-3d-printed-activity-7021388579973046272-xkSL",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3DCastor/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3DCastor/posts/today-more-than-ever-is-the-time-for-digitization-most-manufacturers-are-facing-/2618444624932283/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3DCastor/posts/experience-the-3d-printing-ecosystem-of-tomorrow-at-ultimakertransformationsummi/3550132618430141/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3DCastor/posts/everything-you-need-to-know-about-3d-printing-software-is-herea-great-informativ/2702797879830290/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "3Dcastor 日本 導入",
+   "results": [
+    "https://www.altech.co.jp/item_news/castor-202405",
+    "https://www.3d-printer.jp/news-release/castor.html",
+    "https://www.163.com/dy/article/I58EKDJ8051186GP.html",
+    "https://www.asahi-kasei-plastics.com/en/topics/press_14/",
+    "https://www.3ds.com/ja/insights/customer-stories/",
+    "https://www.asahi-kasei.com/jp/news/2023/ze230516",
+    "https://www.asahi-kasei-plastics.com/topics/press_14/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "3Dcastor 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "http://www.techin.cc/en/",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://www.linkedin.com/company/3dcastor"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "3Dcastor Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "3Dcastor manufacturing customer case study",
+   "results": [
+    "https://www.linkedin.com/posts/3dcastor_2024-cost-reduction-case-studies-castor-activity-7272934303867559936-cI2h",
+    "https://www.castoreng.com/case-studies/",
+    "https://www.maxionwheels.com/fileadmin/Corporate/Download_Center/Case_Studies/Case_Study_Maxion_CASTOR_FINAL_21.02.2022.pdf",
+    "https://www.techsoft3d.com/resources/case-studies/castor/",
+    "https://www.linkedin.com/posts/3dcastor_maxion-wheels-castor-case-study-activity-6902144167468699648-UvIu",
+    "https://www.centrepolisaccelerator.com/Clients/castor",
+    "https://vc.linkedin.com/company/3dcastor"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "3Dcastor white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://www.3cx.com/partners/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "3Dcastor founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/3d-castor",
+    "https://fundediq.co/castor-technologies-3dcastor-com-funding/",
+    "https://www.cbinsights.com/company/castor-technologies",
+    "https://getlatka.com/companies/castor-technologies",
+    "https://seedtable.com/companies/castor-company",
+    "https://www.zoominfo.com/c/castor/542654507",
+    "https://crackthedeck.com/startups/3dcastor/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 3Dcastor",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com 3Dcastor",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 3Dcastor",
+   "results": [
+    "https://in.linkedin.com/posts/3dcastor_what-castors-report-reveals-about-3d-printed-activity-7021388579973046272-xkSL",
+    "https://in.linkedin.com/posts/3dcastor_oqton-integrates-castors-software-into-its-activity-7057372988630777857-G6FD",
+    "https://www.linkedin.com/company/3dcastor",
+    "https://www.linkedin.com/posts/3dcastor_can-i-3d-print-this-activity-7090325841112383488-115s",
+    "https://www.linkedin.com/posts/3dcastor_3dprinting-activity-7242076701340430337-ef4s",
+    "https://www.linkedin.com/posts/3dcastor_from-trial-to-transformation-castor-accelerates-activity-7150494568931659778-ClNp",
+    "https://www.linkedin.com/posts/3dcastor_one-part-free-trial-activity-7165995705147277312-4z-f"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 3Dcastor",
+   "results": [
+    "https://www.facebook.com/3DCastor/",
+    "https://www.facebook.com/3DCastor/posts/today-more-than-ever-is-the-time-for-digitization-most-manufacturers-are-facing-/2618444624932283/",
+    "https://www.facebook.com/3DCastor/posts/experience-the-3d-printing-ecosystem-of-tomorrow-at-ultimakertransformationsummi/3550132618430141/",
+    "https://www.facebook.com/3DCastor/posts/everything-you-need-to-know-about-3d-printing-software-is-herea-great-informativ/2702797879830290/",
+    "https://www.facebook.com/3DCastor/posts/we-are-extremely-proud-to-be-selected-as-3d-startup-of-the-month-by-3dnativesche/2811015545675189/",
+    "https://www.facebook.com/3DCastor/posts/why-is-additive-manufacturing-so-appealing-and-valuable-for-the-aerospace-indust/2489038947872852/",
+    "https://www.facebook.com/3DCastor/photos/we-are-thrilled-to-announce-that-castor-led-by-elad-schiller-and-omer-blaier-has/3827377334039000/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "3Dcastor note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "3Dcastor X 投稿",
+   "results": [
+    "https://www.instagram.com/3dcastor/",
+    "https://x.com/atemoyacoding/status/2111051979812401165",
+    "https://x.com/CastorAI430/status/2114675823060070460",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "http://3dcustom.xyz/",
+    "https://jp.xhamster.com/categories/homemade/newest",
+    "https://www.xvideos.com/?k=素人投稿"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）"
+ }
+}

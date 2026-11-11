@@ -1,0 +1,1405 @@
+{
+ "name": "Einride",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-11T00:10:24.069667+00:00",
+ "official_url": "https://www.einride.tech/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2016年",
+    "url": "https://mlc-ventures.co.jp/posts/YyP5DHic",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2023年4月24日",
+    "url": "https://mlc-ventures.co.jp/posts/YyP5DHic",
+    "pass": 3
+   },
+   {
+    "label": "設立日",
+    "value": "設立日：2023年6月20日",
+    "url": "https://mlc-ventures.co.jp/posts/YyP5DHic",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "Regeringsgatan 65 Stockholm, Sweden",
+    "url": "https://mlc-ventures.co.jp/posts/YyP5DHic",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "東京都中央区日本橋兜町5番1号",
+    "url": "https://mlc-ventures.co.jp/posts/YyP5DHic",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "E-mail",
+    "value": "info@mlc-ventures.co.jp",
+    "url": "https://mlc-ventures.co.jp/posts/YyP5DHic",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Transport goods using real autonomous vehicles. Einride’s trucks are cabless and AI-powered—ready to be deployed on public roads.",
+    "url": "https://www.einride.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Einride is a proud partner to some of the world’s largest companies, taking the first steps together towards smart road freight. PepsiCo, Heineken, DP World, GE Appliances, Philips, Mars, Carlsberg, Lidl, and more have already decided to make the transition, and are live in operations.",
+    "url": "https://www.einride.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Real driverless autonomous trucks. Approved for public roads.",
+    "url": "https://www.einride.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Intellectual Property",
+    "url": "https://www.einride.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Intellectual Property",
+    "url": "https://www.einride.tech/about",
+    "pass": 1
+   },
+   {
+    "quote": "テレビの先にある新たなリーチ サテライトオフィスがPrime Video広告を選んだ理由",
+    "url": "https://forbesjapan.com/articles/detail/52945",
+    "pass": 3
+   },
+   {
+    "quote": "移動時間の価値を高める──JR東海が「Supreme Class」に込めた思い",
+    "url": "https://forbesjapan.com/articles/detail/52945",
+    "pass": 3
+   },
+   {
+    "quote": "“Einride’s solution in transportation solves the environmental, safety and manpower problems that have haunted the industry for years. Moreover, their fleet system has a unique potential to make long distance ground transport as reliable as water. This is truly revolutionary.” says Marek Kiisa, the Managing Partner of NordicNinja VC.",
+    "url": "https://nordicninja.com/investment-to-eindire/",
+    "pass": 3
+   },
+   {
+    "quote": "“Nowadays the road freight industry faces a lot of difficulty including driver shortage and it is forced to be disrupted. We are deeply impressed with what the team of Einride has achieved and we believe that their solution is essential in this industry all over the world.” says Tomosaku Sohara, the Managing Partner of NordicNinja VC.",
+    "url": "https://nordicninja.com/investment-to-eindire/",
+    "pass": 3
+   },
+   {
+    "quote": "Redpine will use the funding to scale its network of proprietary data partnerships, securing access to high-value, non-public datasets across key industries to strengthen the breadth and quality of data available through the platform.",
+    "url": "https://nordicninja.com/investment-to-eindire/",
+    "pass": 3
+   },
+   {
+    "quote": "NordicNinja co-leads €15M Series A in Photoncycle to scale seasonal energy storage",
+    "url": "https://nordicninja.com/investment-to-eindire/",
+    "pass": 3
+   },
+   {
+    "quote": "The Series A funding will be used to scale manufacturing and early commercial deployment in Europe and preparing for opportunities to scale in Asia, including Japan, and in the US.",
+    "url": "https://nordicninja.com/investment-to-eindire/",
+    "pass": 3
+   },
+   {
+    "quote": "Einride provides autonomous and all-electric freight transportation.",
+    "url": "https://japan.plugandplaytechcenter.com/startup/einride-tech",
+    "pass": 3
+   },
+   {
+    "quote": "Einride is a Swedish transport company pioneering electric and autonomous freight solutions. Founded in 2016, Einride develops self-driving electric trucks known as \"Einride Pods\" that are remotely operated by human drivers. By leveraging advanced robotics, AI, and electric powertrains, Einride is enabling businesses to reduce their carbon footprint and optimize their supply chain operations.",
+    "url": "https://japan.plugandplaytechcenter.com/startup/einride-tech",
+    "pass": 3
+   },
+   {
+    "quote": "Einride's key offerings include its Saga freight mobility platform, which coordinates electric and autonomous vehicle operations, as well as its fleet of electric trucks. The company was accelerated through Plug and Play's mobility and supply chain programs, which helped it rapidly scale its innovative electric and autonomous transportation solutions.",
+    "url": "https://japan.plugandplaytechcenter.com/startup/einride-tech",
+    "pass": 3
+   },
+   {
+    "quote": "Einride is revolutionizing the way goods are shipped across Europe thanks to their “Pod”, an autonomous electric vehicle that promises to cut down on both costs and emissions.",
+    "url": "https://www.eif.org/case-study/all/einride-autonomous-freight-transportation",
+    "pass": 3
+   },
+   {
+    "quote": "“Autonomous vehicles are perfectly suited to goods, it makes shipping safer and smarter – and our freight doesn’t complain!” says Robert Falck, CEO of Einride. “Freight is where you’ll find the greatest potential for change. It’s easier to roll out infrastructure for repetitive and predictable vehicles.”",
+    "url": "https://www.eif.org/case-study/all/einride-autonomous-freight-transportation",
+    "pass": 3
+   },
+   {
+    "quote": "InvestEU Equity products",
+    "url": "https://www.eif.org/case-study/all/einride-autonomous-freight-transportation",
+    "pass": 3
+   },
+   {
+    "quote": "The approach has attracted some of the world’s biggest companies. In the U.S., GE Appliances is using",
+    "url": "https://eqtgroup.com/thinq/case-study/swedens-einride-aims-to-lead-a-driverless-revolution",
+    "pass": 3
+   },
+   {
+    "quote": "“What we have tried to do is have a model that lends itself to local adaptation,” Charli says. “EQT’s presence in many of these markets has helped us a lot in understanding those differences and using them to our advantage.”",
+    "url": "https://eqtgroup.com/thinq/case-study/swedens-einride-aims-to-lead-a-driverless-revolution",
+    "pass": 3
+   },
+   {
+    "quote": "The Sweden-to-Norway border crossing was, therefore, an important test. It required not only a truck that could drive itself but also a system that could digitally navigate two different sets of customs procedures, integrating with Norway’s “Digitoll” system to clear goods before they even arrived.",
+    "url": "https://eqtgroup.com/thinq/case-study/swedens-einride-aims-to-lead-a-driverless-revolution",
+    "pass": 3
+   },
+   {
+    "quote": "Einride’s ability to work constructively with regulators across multiple countries, and its participation in EU-backed projects, such as the public-private partnership called",
+    "url": "https://eqtgroup.com/thinq/case-study/swedens-einride-aims-to-lead-a-driverless-revolution",
+    "pass": 3
+   },
+   {
+    "quote": "ThinQ by EQT: A publication where private markets meet open minds. Join the conversation –",
+    "url": "https://eqtgroup.com/thinq/case-study/swedens-einride-aims-to-lead-a-driverless-revolution",
+    "pass": 3
+   },
+   {
+    "quote": "How Does Private Capital Create Value?",
+    "url": "https://eqtgroup.com/thinq/case-study/swedens-einride-aims-to-lead-a-driverless-revolution",
+    "pass": 3
+   },
+   {
+    "quote": "4. To understand how the cofounders of a start-up can protect themselves when partnering issues arise.",
+    "url": "https://thunderbird.asu.edu/thought-leadership/journals-case-series/case-series-listing/einrides-autonomous-electric-trucks-and",
+    "pass": 3
+   },
+   {
+    "quote": "Associate Professor of Operations Management",
+    "url": "https://thunderbird.asu.edu/thought-leadership/journals-case-series/case-series-listing/einrides-autonomous-electric-trucks-and",
+    "pass": 3
+   },
+   {
+    "quote": "Einride retains full responsibility for developing and integrating the autonomous driving system, including safety validation, regulatory approvals, and customer fleet deployments. NVIDIA will supply the underlying computing platform along with AI development tools.",
+    "url": "https://www.iaa-transportation.com/en/newsroom/einride-nvidia-autonomous-trucks-partnership",
+    "pass": 3
+   },
+   {
+    "quote": "AI Training via NVIDIA Blackwell and Cosmos",
+    "url": "https://www.iaa-transportation.com/en/newsroom/einride-nvidia-autonomous-trucks-partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Real-world footage can also be augmented with photorealistic synthetic scenarios. This expands the variety of training and validation data, especially for edge-case traffic situations that rarely occur during standard driving operations.",
+    "url": "https://www.iaa-transportation.com/en/newsroom/einride-nvidia-autonomous-trucks-partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Fleet Projected to Grow Up to 2,000 Vehicles by 2028",
+    "url": "https://www.iaa-transportation.com/en/newsroom/einride-nvidia-autonomous-trucks-partnership",
+    "pass": 3
+   },
+   {
+    "quote": "Einride AB is a Swedish transport company based in Stockholm, Sweden, specializing in electric and self-driving vehicles. The company provides an intelligent shipping platform to plan, order, and track sustainable transport.",
+    "url": "https://getlatka.com/companies/einride.tech",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/einride.tech",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/einride.tech",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "It's time to reinvent a 75-year-old industry. By connecting every part of road freight, Einride has created a system that works as one.",
+    "url": "https://www.einride.tech/",
+    "pass": 1
+   },
+   {
+    "quote": "無人配送車「CarriRo（キャリロ）」など、物流業界における自動化を推進する製品を提供しています",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "【日本】三菱電機、自動車部品子会社の株式50%を鴻海に譲渡",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "A major milestone for Einride as the company begins trading on Nasdaq (NASDAQ: ENRD) following its business combination with Legato Merger Corp. III.",
+    "url": "https://nordicninja.com/investment-to-eindire/",
+    "pass": 3
+   },
+   {
+    "quote": "Just after sunrise on a frosty September morning, a sleek white vehicle carrying parcels",
+    "url": "https://eqtgroup.com/thinq/case-study/swedens-einride-aims-to-lead-a-driverless-revolution",
+    "pass": 3
+   },
+   {
+    "quote": "The Sweden-to-Norway border crossing was, therefore, an important test. It required not only a truck that could drive itself but also a system that could digitally navigate two different sets of customs procedures, integrating with Norway’s “Digitoll” system to clear goods before they even arrived.",
+    "url": "https://eqtgroup.com/thinq/case-study/swedens-einride-aims-to-lead-a-driverless-revolution",
+    "pass": 3
+   },
+   {
+    "quote": "Ellab: How Raising Temperatures Tripled Revenues",
+    "url": "https://eqtgroup.com/thinq/case-study/swedens-einride-aims-to-lead-a-driverless-revolution",
+    "pass": 3
+   },
+   {
+    "quote": "Einride has not published its revenue, and GetLatka has no sourced estimate yet.",
+    "url": "https://getlatka.com/companies/einride.tech",
+    "pass": 3
+   },
+   {
+    "quote": "Rounds before the IPO",
+    "url": "https://getlatka.com/companies/einride.tech",
+    "pass": 3
+   },
+   {
+    "quote": "Einride CEO, founders & employees",
+    "url": "https://getlatka.com/companies/einride.tech",
+    "pass": 3
+   },
+   {
+    "quote": "Roozbeh Charli founded Einride in 2016 and runs it as CEO. Einride has 322 employees (November 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/einride.tech",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Einride have?",
+    "url": "https://getlatka.com/companies/einride.tech",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of November 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/einride.tech",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/einride.tech",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/einride.tech",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/einride.tech",
+    "pass": 3
+   },
+   {
+    "quote": "Einride、上場目前に2.13億ドルの資金を確保｜Suzuken0331",
+    "url": "https://note.com/suzuken0331/n/n87e98bf5ad3b",
+    "pass": 3
+   },
+   {
+    "quote": "Einride、上場目前に2.13億ドルの資金を確保",
+    "url": "https://note.com/suzuken0331/n/n87e98bf5ad3b",
+    "pass": 3
+   },
+   {
+    "quote": "スウェーデン発の自動運転トラックメーカー;Einrideが26年上半期の上場に向けて2.13億ドルの資金調達を実施",
+    "url": "https://note.com/suzuken0331/n/n87e98bf5ad3b",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転トラック;Einrideは26年上半期に予定される上場を前に、応募超過で1.13億ドルのPIPE(上場株式への私募投資)をEQT Venturesを筆頭に欧米の機関投資家から確保したと発表",
+    "url": "https://note.com/suzuken0331/n/n87e98bf5ad3b",
+    "pass": 3
+   },
+   {
+    "quote": "EinrideはNYSEに上場するSPACを通じてLegatoの信託口座から2.2億ドルを調達する予定",
+    "url": "https://note.com/suzuken0331/n/n87e98bf5ad3b",
+    "pass": 3
+   },
+   {
+    "quote": "25/11にSPACであるLegato Merger Corp.との合併を通じて上場する計画を発表していた",
+    "url": "https://note.com/suzuken0331/n/n87e98bf5ad3b",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転企業は多くSPAC合併/上場を行っており、2021年のAuroraInnovation(130億ドル)を筆頭に2025年のKodiakAIなどが続く",
+    "url": "https://note.com/suzuken0331/n/n87e98bf5ad3b",
+    "pass": 3
+   },
+   {
+    "quote": "電動/自動運転トラック新興企業;Einrideの創業者であるRobertFalck氏が、技術拡大/資金調達強化/IPO模索に向けてCEOを退任、取締役会の執行会長に就任して長期戦略に注力すると発表",
+    "url": "https://note.com/suzuken0331/n/ndece3a1fdaba",
+    "pass": 3
+   },
+   {
+    "quote": "[取締役会長として、適切な時期にEinrieを上場すべく会社全体の戦略構築に注力する]",
+    "url": "https://note.com/suzuken0331/n/ndece3a1fdaba",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "【物流業界の黒船】日本物流の未来を変える”Einride”｜みっこ 【論理的思考士/ビジネスマネジメント 他】",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "【物流業界の黒船】日本物流の未来を変える”Einride”",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "日本の物流業界は、そのほとんどが中小企業によって支えられています",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "日本の物流業界には、",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "Einrideが日本に進出することで、私たちの物流システムが大きく変わる可能性があります",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "特に、労働力不足や運送コストの上昇が課題となっている日本にとって、Einrideの技術は非常に魅力的です",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "Einrideが日本で成功するためには、巨大な荷主との提携が重要となります",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "日本の物流業界は、労働力不足や高齢化といった課題に直面しています",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "Einrideの技術は、こうした日本の物流業界の課題を解決する大きな力となるでしょう",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "無人トラックや輸送キャパシティの提供に特化した日本企業",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "ZMPは、自動運転技術の開発を行う日本のスタートアップ企業で、自動運転トラックや物流ロボットの開発を手掛けています",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "また、自動運転技術を用いた物流ソリューションの提供も行っており、日本国内での導入が進んでいます",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "日本では、Einrideのように完全に無人の電動トラックを用いた物流ソリューションを提供する企業はまだ少数",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "Einrideの登場は、日本の物流業界にとって大きな転機となる可能性があります",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "今後、Einrideがどのように日本市場に進出し、どのような企業と提携していくのか、その動向に注目していきましょう！",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "再エネ電力充電も | Sustainable Japan",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainable Japanに登録している",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ニューラル サステナビリティ研究所",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "【日本】経産省、再生プラ材利用率目標設定をPETボトル先行導入へ",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "【国際】「男女平等ランキング2026」、日本は117位で前年1上げ",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "【日本】IEA、日本のエネルギー政策に10の改善提言",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "【日本】サステナビリティ部門専任者の中央値は9人",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "【日本】JPX、TOPIX構成銘柄を2028年7月末から986社に段階削減へ",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "【日本】10月に相次ぐサイバー攻撃と情報漏洩",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "【日本・アメリカ】政府、日本の対米投資1.6兆円の第3弾発表",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "【日本】三菱電機、自動車部品子会社の株式50%を鴻海に譲渡",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "【日本】政府、循環経済世論調査発表",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "【インタビュー】日本学生支援機構、国内社会的課題に対応の初のソーシャルボンド発行予定〜奨学金制度の状況〜",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "【エネルギー】日本の発電電力量の電源構成[2026年版]（火力・水力・原子力・太陽光・風力・地熱・バイオマス）",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "【戦略】2030年以降、SDGsはどうなるか ～ポストSDGsを巡る国際議論と日本企業への示唆～",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "主要市場との比較で見る日本GX-ETSの立ち位置",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "【東京・研修】環境省「企業向け環境経営力研修 - 価値創造の環境経営実践講座」受講者募集",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "【10/8・東京 セミナー】「戦略的CSRコミュニケーション－ImpactとValueの伝え方」",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "【4/21.22 東京・研修】「ビジネスと人権」研修の開催",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "【6/14 セミナー@東京】国連気候変動枠組条約ボン会議（COP23）報告会（SB48/APA1-5）",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainable Japanは、",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "MLCベンチャーズ株式会社 読み込まれました",
+    "url": "https://mlc-ventures.co.jp/posts/YyP5DHic",
+    "pass": 3
+   },
+   {
+    "quote": "MLCベンチャーズ株式会社（本社：東京都中央区、代表取締役：清水 康史）が運用するファンド「MLCイノベーション1号投資事業有限責任組合」は、電動トラック（以下、EV トラック）を用いた貨物運送を手掛けるEinride AB（本社：ストックホルム、CEO：Robert Falck）に出資いたしましたのでお知らせいたします",
+    "url": "https://mlc-ventures.co.jp/posts/YyP5DHic",
+    "pass": 3
+   },
+   {
+    "quote": "所在地：東京都中央区日本橋兜町5番1号",
+    "url": "https://mlc-ventures.co.jp/posts/YyP5DHic",
+    "pass": 3
+   },
+   {
+    "quote": "無限責任組合員：MLCベンチャーズ株式会社、結キャピタル・パートナーズ株式会社",
+    "url": "https://mlc-ventures.co.jp/posts/YyP5DHic",
+    "pass": 3
+   },
+   {
+    "quote": "レベル4自動運転トラックによる幹線輸送サービスの実現を目指す株式会社T2に出資",
+    "url": "https://mlc-ventures.co.jp/posts/YyP5DHic",
+    "pass": 3
+   },
+   {
+    "quote": "スウェーデンの自動運転Einrideが5億ドル調達、米国事業を拡大 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/52945",
+    "pass": 3
+   },
+   {
+    "quote": "KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来",
+    "url": "https://forbesjapan.com/articles/detail/52945",
+    "pass": 3
+   },
+   {
+    "quote": "上智大学×タキヒヨーの共創が生んだサステナブルTシャツ――「TOKYOエシカル」がつなぐ新たな可能性",
+    "url": "https://forbesjapan.com/articles/detail/52945",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像",
+    "url": "https://forbesjapan.com/articles/detail/52945",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPANの最新のニュースをお届けします",
+    "url": "https://forbesjapan.com/articles/detail/52945",
+    "pass": 3
+   },
+   {
+    "quote": "NordicNinja VC started with over 100 million euros in January 2019 and is backed by Japanese blue-chip companies, Honda, Omron, and Panasonic, as well as the Japan Bank for International Cooperation. It aims to support scale-up goals in the Nordic and Baltic region through supporting the region’s startups expand into and develop business opportunities in Japan.",
+    "url": "https://nordicninja.com/investment-to-eindire/",
+    "pass": 3
+   },
+   {
+    "quote": "The Series A funding will be used to scale manufacturing and early commercial deployment in Europe and preparing for opportunities to scale in Asia, including Japan, and in the US.",
+    "url": "https://nordicninja.com/investment-to-eindire/",
+    "pass": 3
+   },
+   {
+    "quote": "日本ではなかなか見られない動きですが、通常業務/現業から一旦退いて長期的な目線での戦略構築に注力するようです",
+    "url": "https://note.com/suzuken0331/n/ndece3a1fdaba",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【物流業界の黒船】 日本 物流の未来を変える” Einride ” - note — 【物流業界の黒船】 日本 物流の未来を変える” Einride ” - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "【オランダ・ドイツ】ハイネケンと Einride 、物流EVトラック ... — 【オランダ・ドイツ】ハイネケンと Einride 、物流EVトラック ... Sustainable Japan https://sustainablejapan.jp > heineken-einride-ev",
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "pass": 3
+   },
+   {
+    "quote": "ハイネケンと Einride 、再生可能エネルギー電力を活用したEV ... — ハイネケンと Einride 、再生可能エネルギー電力を活用したEV ... ESG Journal https://esgjournaljapan.com > 海外ニュース",
+    "url": "https://esgjournaljapan.com/world-news/37061",
+    "pass": 3
+   },
+   {
+    "quote": "EVトラックによる貨物運送を手掛ける Einride ABに出資 — EVトラックによる貨物運送を手掛ける Einride ABに出資 MLCベンチャーズ株式会社 https://mlc-ventures.co.jp > posts",
+    "url": "https://mlc-ventures.co.jp/posts/YyP5DHic",
+    "pass": 3
+   },
+   {
+    "quote": "スウェーデンの自動運転 Einride が5億ドル調達、米国事業を拡大 — スウェーデンの自動運転 Einride が5億ドル調達、米国事業を拡大 Forbes JAPAN https://forbesjapan.com > ビジネス",
+    "url": "https://forbesjapan.com/articles/detail/52945",
+    "pass": 3
+   },
+   {
+    "quote": "Einride - Intelligent movement — Einride - Intelligent movement Einride https://www.einride.tech",
+    "url": "https://www.einride.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Einride - LinkedIn — Einride - LinkedIn LinkedIn https://www.linkedin.com > einride",
+    "url": "https://www.linkedin.com/company/einride",
+    "pass": 3
+   },
+   {
+    "quote": "Investment into Einride - NordicNinja VC — Investment into Einride - NordicNinja VC NordicNinja https://nordicninja.com > investment-t...",
+    "url": "https://nordicninja.com/investment-to-eindire/",
+    "pass": 3
+   },
+   {
+    "quote": "Einride - Startup - Plug and Play Japan — Einride - Startup - Plug and Play Japan Plug and Play Japan https://japan.plugandplaytechcenter.com > ...",
+    "url": "https://japan.plugandplaytechcenter.com/startup/einride-tech",
+    "pass": 3
+   },
+   {
+    "quote": "Einride (@ einride ) • Instagram photos and videos — Einride (@ einride ) • Instagram photos and videos Instagram https://www.instagram.com > einride",
+    "url": "https://www.instagram.com/einride/",
+    "pass": 3
+   },
+   {
+    "quote": "Einride : autonomous freight transportation | Discover — Einride : autonomous freight transportation | Discover European Investment Fund (EIF) https://www.eif.org > case-study > all",
+    "url": "https://www.eif.org/case-study/all/einride-autonomous-freight-transportation",
+    "pass": 3
+   },
+   {
+    "quote": "Sweden's Einride Aims to Lead a Driverless Revolution — Sweden's Einride Aims to Lead a Driverless Revolution EQT Group https://eqtgroup.com > ... > Case Study",
+    "url": "https://eqtgroup.com/thinq/case-study/swedens-einride-aims-to-lead-a-driverless-revolution",
+    "pass": 3
+   },
+   {
+    "quote": "Einride's Autonomous Electric Trucks and Freight Mobility ... — Einride's Autonomous Electric Trucks and Freight Mobility ... Thunderbird School of Global Management https://thunderbird.asu.edu > einrides-...",
+    "url": "https://thunderbird.asu.edu/thought-leadership/journals-case-series/case-series-listing/einrides-autonomous-electric-trucks-and",
+    "pass": 3
+   },
+   {
+    "quote": "Efficiently Deploying Safe Autonomous Trucks — Efficiently Deploying Safe Autonomous Trucks Einride Engineering https://einride.engineering > blog > ef...",
+    "url": "https://einride.engineering/blog/efficiently-deploying-safe-autonomous-trucks-einrides-approach",
+    "pass": 3
+   },
+   {
+    "quote": "Einride and DAF Partner to Accelerate Scale-up of ... — Einride and DAF Partner to Accelerate Scale-up of ... Einride https://www.einride.tech > press",
+    "url": "https://www.einride.tech/press/3343474",
+    "pass": 3
+   },
+   {
+    "quote": "Einride and NVIDIA: Advancing Autonomous Trucks — Einride and NVIDIA: Advancing Autonomous Trucks IAA Transportation https://www.iaa-transportation.com > ...",
+    "url": "https://www.iaa-transportation.com/en/newsroom/einride-nvidia-autonomous-trucks-partnership",
+    "pass": 3
+   },
+   {
+    "quote": "DAF and Einride partner to accelerate scale-up of ... — DAF and Einride partner to accelerate scale-up of ... DAF Trucks N.V. https://www.daf.com > global > 12-0...",
+    "url": "https://www.daf.com/en/news-and-media/news-articles/global/2026/12-08-2026-einride-and-daf-partner-to-accelerate-scaleup-of-autonomous-electric-freight",
+    "pass": 3
+   },
+   {
+    "quote": "Einride Revenue 2025: $65M, $1.4B Valuation - GetLatka — Einride Revenue 2025: $65M, $1.4B Valuation - GetLatka GetLatka https://getlatka.com > einride",
+    "url": "https://getlatka.com/companies/einride.tech",
+    "pass": 3
+   },
+   {
+    "quote": "Einride Reports First Half 2026 Results — Einride Reports First Half 2026 Results Einride https://www.einride.tech > press",
+    "url": "https://www.einride.tech/press/3346669",
+    "pass": 3
+   },
+   {
+    "quote": "Einride's Competitors, Revenue , Number of Employees ... — Einride's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > einride",
+    "url": "https://www.owler.com/company/einride",
+    "pass": 3
+   },
+   {
+    "quote": "Einride CEO on Surviving Autonomous Trucking Startup ... — Einride CEO on Surviving Autonomous Trucking Startup ... Facebook https://www.facebook.com > FreightWaves > Videos",
+    "url": "https://www.facebook.com/FreightWaves/videos/einride-ceo-on-surviving-autonomous-trucking-startup-washout/947484684305012/",
+    "pass": 3
+   },
+   {
+    "quote": "Einride - 2026 Company Profile & Team - Tracxn — Einride - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/einride/__kn6coIjx_O8el0SOUl6E1q_pTMdec-Zo-Bl9S2l59B8",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "E-mail：info@mlc-ventures.co.jp",
+    "url": "https://mlc-ventures.co.jp/posts/YyP5DHic",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The Series A funding will be used to scale manufacturing and early commercial deployment in Europe and preparing for opportunities to scale in Asia, including Japan, and in the US.",
+    "url": "https://nordicninja.com/investment-to-eindire/",
+    "pass": 3
+   },
+   {
+    "quote": "Einride is a Stockholm-based company that develops autonomous electric vehicles used mainly for freight applications. Einride is best known for its ‘Pod’ an autonomous electric truck that is controlled remotely. It can be used in ports, airports, warehouses and wherever speedy delivery is needed.",
+    "url": "https://www.eif.org/case-study/all/einride-autonomous-freight-transportation",
+    "pass": 3
+   },
+   {
+    "quote": "While the trucks drive themselves, they are not unsupervised. From a control tower, human operators monitor the fleet like air traffic controllers. Through a remote interface, these",
+    "url": "https://eqtgroup.com/thinq/case-study/swedens-einride-aims-to-lead-a-driverless-revolution",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【物流業界の黒船】日本物流の未来を変える” Einride ” - note 【物流業界の黒船】日本物流の未来を変える” Einride ” - note note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "Einride 、上場目前に2.13億ドルの資金を確保｜Suzuken0331 Einride 、上場目前に2.13億ドルの資金を確保｜Suzuken0331 note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/suzuken0331/n/n87e98bf5ad3b",
+    "pass": 3
+   },
+   {
+    "quote": "Einride のCEOが長期戦略構築にむけて退任｜Suzuken0331 Einride のCEOが長期戦略構築にむけて退任｜Suzuken0331 note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/suzuken0331/n/ndece3a1fdaba",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【物流業界の黒船】日本物流の未来を変える”Einride”｜みっこ 【論理的思考士/ビジネスマネジメント 他】",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "【物流業界の黒船】日本物流の未来を変える”Einride”",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "みっこ 【論理的思考士/ビジネスマネジメント 他】",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "近年、物流業界において急速に注目を集めている企業が存在します。その名は",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "です。スウェーデン発のスタートアップ企業でありながら、",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "既に世界中でその革新的な技術とビジネスモデルが高く評価されています。",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、Einrideがどのようにして物流業界に革命をもたらしているのか、その戦略や技術について解説します。",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "Einrideは2016年に北欧スウェーデンで誕生したスタートアップ企業です。設立からわずか数年で、時価総額は",
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "pass": 3
+   },
+   {
+    "quote": "Einride、上場目前に2.13億ドルの資金を確保｜Suzuken0331",
+    "url": "https://note.com/suzuken0331/n/n87e98bf5ad3b",
+    "pass": 3
+   },
+   {
+    "quote": "Einride、上場目前に2.13億ドルの資金を確保",
+    "url": "https://note.com/suzuken0331/n/n87e98bf5ad3b",
+    "pass": 3
+   },
+   {
+    "quote": "スウェーデン発の自動運転トラックメーカー;Einrideが26年上半期の上場に向けて2.13億ドルの資金調達を実施。評価額は当初の18億ドルから13.5億ドルへ下方修正されたものの、目標を上回るPIPE投資を獲得。運転席のない革新的なPod型車両を武器に、北米や中東での事業拡大を加速させます。先行するAuroraやKodiakに続き、自律走行トラック市場の覇権を狙う同社の動きが注目されます。",
+    "url": "https://note.com/suzuken0331/n/n87e98bf5ad3b",
+    "pass": 3
+   },
+   {
+    "quote": "自動運転トラック;Einrideは26年上半期に予定される上場を前に、応募超過で1.13億ドルのPIPE(上場株式への私募投資)をEQT Venturesを筆頭に欧米の機関投資家から確保したと発表。PIPEに加えて1億ドルのクロスオーバーファイナンスを実施しており、今回の総調達額は2.13億ドルに。",
+    "url": "https://note.com/suzuken0331/n/n87e98bf5ad3b",
+    "pass": 3
+   },
+   {
+    "quote": "EinrideはNYSEに上場するSPACを通じてLegatoの信託口座から2.2億ドルを調達する予定。今回の1.13億ドルのPIPEが加わって3.33億ドルの調達を見込むが、取引完了前に追加資金を調達する可能性があるとする。",
+    "url": "https://note.com/suzuken0331/n/n87e98bf5ad3b",
+    "pass": 3
+   },
+   {
+    "quote": "調達資金は、Einrideの技術開発/グローバル展開、北米/欧州/中東における自律型システムの展開を支援するために使用される。",
+    "url": "https://note.com/suzuken0331/n/n87e98bf5ad3b",
+    "pass": 3
+   },
+   {
+    "quote": "今回のPIPEを通じてプレバリュエーションは13.5億ドルとなり、SPAC買収時の当初提示額;18億ドルからは減少。バリュエーションは下落したが依然として投資家の関心は高いことは明らかで、今回のPIPEは当初目標である最大1億ドルを上回って着地した。",
+    "url": "https://note.com/suzuken0331/n/n87e98bf5ad3b",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、人間運転手が乗るスペース不要で貨物輸送できるように設計されたEVトラック/自動運転ポッドの開発で知られる。25/11にSPACであるLegato Merger Corp.との合併を通じて上場する計画を発表していた。",
+    "url": "https://note.com/suzuken0331/n/n87e98bf5ad3b",
+    "pass": 3
+   },
+   {
+    "quote": "電動/自動運転トラック新興;EinrideのCEOが長期戦略構築にむけて退任｜Suzuken0331",
+    "url": "https://note.com/suzuken0331/n/ndece3a1fdaba",
+    "pass": 3
+   },
+   {
+    "quote": "電動/自動運転トラック新興;EinrideのCEOが長期戦略構築にむけて退任",
+    "url": "https://note.com/suzuken0331/n/ndece3a1fdaba",
+    "pass": 3
+   },
+   {
+    "quote": "電動/自動運転トラック新興;Eidenrideの創業者/CEOであるRobertFalck氏が長期戦略の構築に向けてCEOを退任して取締役会の執行会長に就任すると発表。日本ではなかなか見られない動きですが、通常業務/現業から一旦退いて長期的な目線での戦略構築に注力するようです。",
+    "url": "https://note.com/suzuken0331/n/ndece3a1fdaba",
+    "pass": 3
+   },
+   {
+    "quote": "1;EidenrideのCEOが取締会会長へ",
+    "url": "https://note.com/suzuken0331/n/ndece3a1fdaba",
+    "pass": 3
+   },
+   {
+    "quote": "電動/自動運転トラック新興企業;Einrideの創業者であるRobertFalck氏が、技術拡大/資金調達強化/IPO模索に向けてCEOを退任、取締役会の執行会長に就任して長期戦略に注力すると発表",
+    "url": "https://note.com/suzuken0331/n/ndece3a1fdaba",
+    "pass": 3
+   },
+   {
+    "quote": "後任CEOには現在CFOを務めるRoozbehCharli氏が就任。Einride社は声明の中で[Charli氏は過去5年間に欧州/北米におけるEinrideの事業基盤構築と事業推進に貢献してきた]とする",
+    "url": "https://note.com/suzuken0331/n/ndece3a1fdaba",
+    "pass": 3
+   },
+   {
+    "quote": "Falck氏はシリアルアントレプレナー(ナイトクラブの顧客リストを扱う新興企業を設立したり、VolvoGTO-PowerTrainでは製造技術/組立部門のディレクターを務めていた)として知られ2016年に7社目となるEinrideを設立、同社ではCO2排出量が最も大きいトラック業界の変革を使命とする",
+    "url": "https://note.com/suzuken0331/n/ndece3a1fdaba",
+    "pass": 3
+   },
+   {
+    "quote": "Falck氏はメディアとのインタビューでビジョンを熱く語っていた",
+    "url": "https://note.com/suzuken0331/n/ndece3a1fdaba",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Einride (@einrideofficial) / X Einride (@einrideofficial) / X X https://x.com > einrideofficial",
+    "url": "https://x.com/einrideofficial",
+    "pass": 3
+   },
+   {
+    "quote": "Einride on X Einride on X X https://x.com > @einrideofficial",
+    "url": "https://x.com/einrideofficial/status/2101999336489898473",
+    "pass": 3
+   },
+   {
+    "quote": "Post - X Post - X X https://x.com > @einrideofficial",
+    "url": "https://x.com/einrideofficial/status/2099770766346666409",
+    "pass": 3
+   },
+   {
+    "quote": "Post - X Post - X X https://x.com > @einrideofficial",
+    "url": "https://x.com/einrideofficial/status/2118259995594608861",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Einride - LinkedIn Einride - LinkedIn LinkedIn https://www.linkedin.com > einride",
+    "url": "https://www.linkedin.com/company/einride",
+    "pass": 3
+   },
+   {
+    "quote": "#electricfreight #supplychain #sustainability #ai # einride ... #electricfreight #supplychain #sustainability #ai # einride ... LinkedIn https://www.linkedin.com > posts > einride_electricfreight...",
+    "url": "https://www.linkedin.com/posts/einride_electricfreight-supplychain-sustainability-activity-7452325374895734784-ZXkP",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon partners with Einride to deploy EV trucks in US Amazon partners with Einride to deploy EV trucks in US LinkedIn https://www.linkedin.com > story > a...",
+    "url": "https://www.linkedin.com/news/story/amazon-partners-with-einride-to-deploy-ev-trucks-in-us-8728602/",
+    "pass": 3
+   },
+   {
+    "quote": "Henrik Green – Einride - LinkedIn Henrik Green – Einride - LinkedIn LinkedIn Sverige https://se.linkedin.com > henrik-green",
+    "url": "https://se.linkedin.com/in/henrik-green",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Einride is tripling its electric fleet with a massive 500- truck ... Einride is tripling its electric fleet with a massive 500- truck ... Facebook https://www.facebook.com > ... > FreightWaves > Videos",
+    "url": "https://www.facebook.com/FreightWaves/videos/einride-teslas-electric-truck-plans/1075586955368819/",
+    "pass": 3
+   },
+   {
+    "quote": "Einride enters a strategic collaboration with @nvidia to ... Einride enters a strategic collaboration with @nvidia to ... Facebook https://www.facebook.com > Einride > Videos",
+    "url": "https://www.facebook.com/Einrideofficial/videos/einride-enters-a-strategic-collaboration-with-nvidia-to-accelerate-autonomous-tr/1649657346588320/",
+    "pass": 3
+   },
+   {
+    "quote": "Einride (@Einrideofficial) - Facebook Einride (@Einrideofficial) - Facebook Facebook https://www.facebook.com > ... > Brand > Product/service",
+    "url": "https://www.facebook.com/Einrideofficial/",
+    "pass": 3
+   },
+   {
+    "quote": "Austin-based Einride's electric truck rollout begins soon and ... Austin-based Einride's electric truck rollout begins soon and ... Facebook https://www.facebook.com > statesman > posts > austin-ba...",
+    "url": "https://www.facebook.com/statesman/posts/austin-based-einrides-electric-truck-rollout-begins-soon-and-will-continue-in-ph/1520980923402923/",
+    "pass": 3
+   },
+   {
+    "quote": "Einride CEO on Autonomous Trucks & Tesla Partnership Einride CEO on Autonomous Trucks & Tesla Partnership Facebook https://www.facebook.com > ... > FreightWaves > Videos",
+    "url": "https://www.facebook.com/FreightWaves/videos/einride-ceo-on-autonomous-trucks-tesla-partnership/4613006682315347/",
+    "pass": 3
+   },
+   {
+    "quote": "A Swedish company specializing in freight technology, Einride ... A Swedish company specializing in freight technology, Einride ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/interestingengineering/videos/a-swedish-company-specializing-in-freight-technology-einride-has-showcased-the-a/127882200420403/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.einride.tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.einride.tech/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://tomoruba.eiicon.net/articles/2845",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://esgjournaljapan.com/world-news/37061",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.weforum.org/stories/supply-chains-and-transportation/driverless-electric-truck-starts-deliveries-on-swedish-public-road-6425e6ece2",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tomoruba.eiicon.net/articles/2845",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mlc-ventures.co.jp/posts/YyP5DHic",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/52945",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/einride",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nordicninja.com/investment-to-eindire/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.plugandplaytechcenter.com/startup/einride-tech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eif.org/case-study/all/einride-autonomous-freight-transportation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eqtgroup.com/thinq/case-study/swedens-einride-aims-to-lead-a-driverless-revolution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thunderbird.asu.edu/thought-leadership/journals-case-series/case-series-listing/einrides-autonomous-electric-trucks-and",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://comotion.substack.com/p/how-a-swedish-company-is-leading",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/einride",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.eldmandate.biz/partner-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iaa-transportation.com/en/newsroom/einride-nvidia-autonomous-trucks-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/einride.tech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/einride",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/FreightWaves/videos/einride-ceo-on-surviving-autonomous-trucking-startup-washout/947484684305012/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/misato8330/n/n54cf30d4f10e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/suzuken0331/n/n87e98bf5ad3b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/suzuken0331/n/ndece3a1fdaba",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/einrideofficial",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/einrideofficial/status/2101999336489898473",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/einrideofficial/status/2099770766346666409",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/einrideofficial/status/2118259995594608861",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/einride",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/einride_electricfreight-supplychain-sustainability-activity-7452325374895734784-ZXkP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/news/story/amazon-partners-with-einride-to-deploy-ev-trucks-in-us-8728602/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://se.linkedin.com/in/henrik-green",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FreightWaves/videos/einride-teslas-electric-truck-plans/1075586955368819/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Einrideofficial/videos/einride-enters-a-strategic-collaboration-with-nvidia-to-accelerate-autonomous-tr/1649657346588320/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Einrideofficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/statesman/posts/austin-based-einrides-electric-truck-rollout-begins-soon-and-will-continue-in-ph/1520980923402923/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/FreightWaves/videos/einride-ceo-on-autonomous-trucks-tesla-partnership/4613006682315347/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/einrideofficial",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/interestingengineering/videos/a-swedish-company-specializing-in-freight-technology-einride-has-showcased-the-a/127882200420403/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Einride 日本 導入",
+   "results": [
+    "https://tomoruba.eiicon.net/articles/2845",
+    "https://note.com/misato8330/n/n54cf30d4f10e",
+    "https://sustainablejapan.jp/2024/02/20/heineken-einride-ev/99542",
+    "https://esgjournaljapan.com/world-news/37061",
+    "https://www.marklines.com/ja/news/350990",
+    "https://japan.cnet.com/article/35189822/",
+    "https://mezha.net/jp/news/d602f7e3_einride_plans_to/",
+    "https://motorcars.jp/einride-and-norwegian-mail-giant-accelerate-bev-adoption-in-transport-operations20251010",
+    "https://forbesjapan.com/articles/detail/44254",
+    "https://logishift.net/2026/08/27/post-8532/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Einride 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://jp.weforum.org/stories/supply-chains-and-transportation/driverless-electric-truck-starts-deliveries-on-swedish-public-road-6425e6ece2",
+    "https://tomoruba.eiicon.net/articles/2845",
+    "https://mlc-ventures.co.jp/posts/YyP5DHic",
+    "https://forbesjapan.com/articles/detail/52945",
+    "https://www.instagram.com/p/CY3tkMnFXY5/",
+    "https://japan.cnet.com/article/35189822/",
+    "https://www.moomoo.com/ja/news/post/71336286/einride-a-global-leader-in-autonomous-and-electric-freight-commences",
+    "https://www.youtube.com/watch?v=AGhG4aj2ir4",
+    "https://note.com/suzuken0331/n/ndece3a1fdaba",
+    "https://ja.wikipedia.org/wiki/日本サムスン"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Einride Japan",
+   "results": [
+    "https://www.einride.tech/",
+    "https://www.linkedin.com/company/einride",
+    "https://nordicninja.com/investment-to-eindire/",
+    "https://japan.plugandplaytechcenter.com/startup/einride-tech",
+    "https://www.instagram.com/einride/",
+    "https://en.wikipedia.org/wiki/Einride",
+    "https://note.com/misato8330/n/n54cf30d4f10e",
+    "https://forbesjapan.com/articles/detail/52945",
+    "https://tomoruba.eiicon.net/articles/2845",
+    "https://www.einride.tech/live"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Einride manufacturing customer case study",
+   "results": [
+    "https://www.eif.org/case-study/all/einride-autonomous-freight-transportation",
+    "https://eqtgroup.com/thinq/case-study/swedens-einride-aims-to-lead-a-driverless-revolution",
+    "https://thunderbird.asu.edu/thought-leadership/journals-case-series/case-series-listing/einrides-autonomous-electric-trucks-and",
+    "https://comotion.substack.com/p/how-a-swedish-company-is-leading",
+    "https://einride.engineering/blog/efficiently-deploying-safe-autonomous-trucks-einrides-approach",
+    "https://www.facebook.com/FreightWaves/videos/einride-teslas-electric-truck-plans/1075586955368819/",
+    "https://pressroom.geappliances.com/news/einride-deploys-first-full-time-daily-commercial-autonomous-operations-in-partnership-with-ge-appliances",
+    "https://www.einride.tech/insights/how-to-maximize-the-efficiency-of-electric-freight",
+    "https://www.scribd.com/document/886367901/Einride-Case",
+    "https://www.casestudies.com/company/manifest-group/case-study/einride-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Einride white label OR reseller OR partner program",
+   "results": [
+    "https://www.einride.tech/press/3343474",
+    "https://www.linkedin.com/company/einride",
+    "https://www.eldmandate.biz/partner-programs",
+    "https://www.iaa-transportation.com/en/newsroom/einride-nvidia-autonomous-trucks-partnership",
+    "https://www.daf.com/en/news-and-media/news-articles/global/2026/12-08-2026-einride-and-daf-partner-to-accelerate-scaleup-of-autonomous-electric-freight",
+    "https://www.facebook.com/FreightWaves/videos/einride-teslas-electric-truck-plans/1075586955368819/",
+    "https://finance.yahoo.com/technology/ai/articles/einride-daf-partner-accelerate-scale-103000093.html",
+    "https://webinone.com/reseller-program",
+    "https://www.forbes.com/sites/richardbishop1/2025/11/12/einride-to-go-public-powering-deployment-of-evav-freight-services/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Einride founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/einride.tech",
+    "https://www.einride.tech/press/3346669",
+    "https://www.owler.com/company/einride",
+    "https://www.facebook.com/FreightWaves/videos/einride-ceo-on-surviving-autonomous-trucking-startup-washout/947484684305012/",
+    "https://tracxn.com/d/companies/einride/__kn6coIjx_O8el0SOUl6E1q_pTMdec-Zo-Bl9S2l59B8",
+    "https://equipmentfinancenews.com/news/transportation/einride-ceo-financing-is-key-to-autonomous-trucking-growth/",
+    "https://www.therobotreport.com/einride-pods-generate-revenue-autonomous-freight-raises-10m/",
+    "https://www.linkedin.com/posts/einride_einride-just-reported-its-first-earnings-activity-7495464881907920896-u8mZ",
+    "https://www.reuters.com/business/self-driving-truck-firm-einride-go-public-via-spac-deal-18-billion-valuation-2025-11-12/",
+    "https://tracxn.com/d/companies/einride/__kn6coIjx_O8el0SOUl6E1q_pTMdec-Zo-Bl9S2l59B8/founders-and-board-of-directors"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Einride",
+   "results": [
+    "https://note.com/misato8330/n/n54cf30d4f10e",
+    "https://note.com/andykondo/n/n2fc4cb241b8a",
+    "https://note.com/suzuken0331/n/n87e98bf5ad3b",
+    "https://note.com/suzuken0331/n/ndece3a1fdaba",
+    "https://note.com/george9999/n/n5d01181dd063",
+    "https://note.com/suzuken0331/n/n80f307f0b1bb",
+    "https://note.com/tag/vm/investment_money/us_company-ENRD",
+    "https://note.com/yasuhitoo/n/n220eb1c967d1",
+    "https://note.com/kagawatomo/n/n736f13d75451",
+    "https://note.com/misato8330/n/n54cf30d4f10e?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com Einride",
+   "results": [
+    "https://x.com/einrideofficial",
+    "https://x.com/einrideofficial/status/2101999336489898473",
+    "https://x.com/einrideofficial/status/2099770766346666409",
+    "https://x.com/einrideofficial/status/2118259995594608861",
+    "https://x.com/herbertong/status/2089701730397340043",
+    "https://x.com/wallstengine/status/2101994546955698650",
+    "https://x.com/einrideofficial/status/2101999336489898473/history",
+    "https://x.com/FreightWaves/status/2113275558947627223",
+    "https://x.com/wallstengine/status/2089666899256983771",
+    "https://x.com/einrideofficial/status/2112888629794164804"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:linkedin.com Einride",
+   "results": [
+    "https://www.linkedin.com/company/einride",
+    "https://www.linkedin.com/posts/einride_electricfreight-supplychain-sustainability-activity-7452325374895734784-ZXkP",
+    "https://www.linkedin.com/news/story/amazon-partners-with-einride-to-deploy-ev-trucks-in-us-8728602/",
+    "https://se.linkedin.com/in/henrik-green",
+    "https://www.linkedin.com/posts/einride_today-einride-and-lidl-in-germany-put-a-activity-7505536042423373824-Wg98",
+    "https://www.linkedin.com/posts/nvidia_congrats-to-einride-on-taking-autonomous-activity-7507756773462700032-mg1l",
+    "https://www.linkedin.com/posts/einride_einride-to-co-lead-development-of-a-dual-use-activity-7457397270020448256-7LlD",
+    "https://www.linkedin.com/pulse/einride-change-future-transport-worlds-first-t-pod-robert-falck",
+    "https://www.linkedin.com/posts/rickyproy_swedish-company-einride-just-achieved-something-activity-7478209664896225280-Jm6k"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Einride",
+   "results": [
+    "https://www.facebook.com/FreightWaves/videos/einride-teslas-electric-truck-plans/1075586955368819/",
+    "https://www.facebook.com/Einrideofficial/videos/einride-enters-a-strategic-collaboration-with-nvidia-to-accelerate-autonomous-tr/1649657346588320/",
+    "https://www.facebook.com/Einrideofficial/",
+    "https://www.facebook.com/statesman/posts/austin-based-einrides-electric-truck-rollout-begins-soon-and-will-continue-in-ph/1520980923402923/",
+    "https://www.facebook.com/bloombergbusiness/videos/roozbeh-charli-ceo-of-swedish-firm-einride-tells-tom-mackenzie-how-autonomous-sy/3892429651059575/",
+    "https://www.facebook.com/TechnologyInnovation1/posts/swedish-tech-company-einride-has-operated-a-fully-autonomous-heavy-duty-electric/1113135420973103/",
+    "https://www.facebook.com/FreightWaves/videos/autonomous-trucking-rail-mergers-fuel-savings/1860056812069828/",
+    "https://www.facebook.com/Newsweek/posts/swedish-company-einride-has-put-this-new-innovative-self-driving-truck-that-coul/10159931125216101/",
+    "https://www.facebook.com/FreightWaves/videos/autonomous-vehicles-saving-soldiers-from-danger/1990974378398923/",
+    "https://www.facebook.com/Einrideofficial/videos/lorenz-a-fourth-generation-family-company-has-the-einride-driver-our-autonomous-/1478012404274052/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Einride note 社長",
+   "results": [
+    "https://www.thedriverlessdigest.com/p/einrides-autonomous-freight-strategy",
+    "https://www.einride.tech/press/3343474",
+    "https://www.cnbc.com/video/2026/06/10/einride-ceo-combining-electric-and-autonomous-is-the-cheapest-way-to-run-freight-in-most-cases.html",
+    "https://www.facebook.com/FreightWaves/videos/einride-ceo-on-autonomous-trucks-tesla-partnership/4613006682315347/",
+    "https://note.com/suzuken0331/n/ndece3a1fdaba",
+    "https://se.linkedin.com/company/einride",
+    "https://x.com/einrideofficial",
+    "https://eqtgroup.com/thinq/case-study/swedens-einride-aims-to-lead-a-driverless-revolution",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Einride X 投稿",
+   "results": [
+    "https://x.com/einrideofficial",
+    "https://www.einride.tech/",
+    "https://www.youtube.com/c/Einride/videos",
+    "https://www.facebook.com/interestingengineering/videos/a-swedish-company-specializing-in-freight-technology-einride-has-showcased-the-a/127882200420403/",
+    "https://www.truckinginfo.com/news/einride-brings-autonomous-electric-vehicles-to-u-s",
+    "https://www.instagram.com/einride/",
+    "https://www.youtube.com/watch?v=s0dmgxFaQFQ",
+    "https://www.ttnews.com/articles/einride-joins-nasdaq",
+    "https://www.einride.tech/live",
+    "https://x.com/einrideofficial/status/2089699507290112442"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部39頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部39頁・検索12回）"
+ }
+}

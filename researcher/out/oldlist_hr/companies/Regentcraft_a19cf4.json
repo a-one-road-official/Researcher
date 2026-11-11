@@ -1,0 +1,1760 @@
+{
+ "name": "Regentcraft",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AUMS不適合",
+ "researched_at": "2026-11-11T00:10:34.215861+00:00",
+ "official_url": "https://www.regentcraft.com/",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Contact",
+    "value": "REGENT Craft Press Team | regent@boldspace.com",
+    "url": "https://www.regentcraft.com/news/regent-announces-the-twenty-five-as-first-u-s-delivery-and-launch-partner",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "日本航空株式会社（所在地",
+    "value": "東京都品川区、代表取締役社長：赤坂祐二、以下「JAL」）とREGENT Craft Inc.（本社：アメリカ、CEO：Billy Thalheimer、以下「REGENT」）は、人々が安全・快適に移動でき、また、交通渋滞の解消やゼロエミッションの実現など、現在の交通課題の解決が期待されるネクストモビリティとして、REGENTの開発する電動シーグライダーの社会実装に向けた包括連携協定を締結しました",
+    "url": "https://www.kankokeizai.com/jal%E3%80%81%E9%9B%BB%E5%8B%95%E3%82%B7%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%81%AE%E7%A4%BE%E4%BC%9A%E5%AE%9F%E8%A3%85%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6regent-craft%E3%81%A8/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The Seaglider vessel combines the high speed of an aircraft with the convenience of a boat. Building on real-world proven tech, the new craft operates exclusively over water on its hull, hydrofoils, or wings.",
+    "url": "https://www.regentcraft.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mike is Co-Founder and CTO of REGENT, leading the company’s efforts in developing the Seaglider. He oversaw the first successful flight demonstrations of the Viceroy Seaglider prototype and Squire Seaglider drone, and manages Seaglider engineering and test operations. Mike has a background in flight controls and autonomous flight software.",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Product Manager, Avidyne",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Military Professor, U.S. Naval War College",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "VP, Programs",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "VP, Commercial Programs (Aurora/Boeing)",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Co-founders Billy Thalheimer and Mike Klinker founded REGENT to drastically improve regional coastal transportation.",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "First flight of quarter-scale prototype",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT’s quarter-scale Seaglider prototype achieved its first series of flights, proving its full ‘float, foil, fly’ mission.",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "April 2023",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Start of sea trials of full-scale Seaglider prototype",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT completes the first on-water tests of the full-scale Viceroy Seaglider prototype with humans onboard.",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT reveals new Seaglider product line designed for military applications",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "April 2026",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Successful Flight of Viceroy Seaglider Prototype",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT announces first flight of the human-crewed Viceroy Seaglider prototype.",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We’re looking for motivated candidates who are passionate about designing and developing a new mode of transportation. Join our world-class team of experts to reinvent coastal mobility.",
+    "url": "https://www.regentcraft.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "No compromises on human safety",
+    "url": "https://www.regentcraft.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We continuously look for ways to win as a team and improve as individuals and as a company.",
+    "url": "https://www.regentcraft.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Healthcare",
+    "url": "https://www.regentcraft.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Take care of yourself and your family with medical, dental, and vision coverage, including a fully paid premium option for employees and dependents.",
+    "url": "https://www.regentcraft.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "If you’re moving to join us, we provide relocation assistance, including staggered relocation options, to make the transition easier for you and your family.",
+    "url": "https://www.regentcraft.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We know job searching takes real time and effort, and we respect the investment you’re making. Our interviews are a chance for you to get to know us and our work, just as much as it’s a chance for us to get to know you. We move quickly and aim to keep you updated along the way so you always know where things stand.",
+    "url": "https://www.regentcraft.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT interns and co-ops work on real projects that help build the Seaglider, on teams from engineering to business.",
+    "url": "https://www.regentcraft.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT raises $240 million in Series B funding co-led by Mare Liberum and AE Ventures, with debt capital provided by Erebor Bank, to accelerate manufacturing in response to growing defense contracts and commercial demand across the Viceroy and Squire Seaglider™ product lines.",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "Funding comes in anticipation of a series of imminent company milestones, including the first human flight of the Viceroy Seaglider prototype and commencement of production at REGENT's 255,000-square-foot Seaglider Manufacturing Facility.",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "and explore images and video",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": ", the developer and manufacturer of Seaglider™ vessels, announced today it has raised $240 million, an equal mix of equity and debt, in a Series B funding round co-led by Mare Liberum and AE Ventures, with debt capital provided by Erebor Bank, marking a major milestone in REGENT's growth as it transitions from early-stage development toward full-scale manufacturing.",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "Reflecting strong investor conviction in REGENT’s future, the round closes in anticipation of a series of imminent milestones for the company, including the first human flight of its Viceroy prototype, new military partnerships, and commencement of manufacturing operations from its recently completed 255,000-square-foot Seaglider Manufacturing Facility.",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "The investment follows a year of significant technical and commercial progress for REGENT, including the completion of its 255,000-square-foot",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "is an investment firm dedicated to advancing stability and strategic advantage at sea. The firm invests at the intersection of critical technologies and the maritime domain, reflecting the growing strategic importance of REGENT’s Seaglider technology to the future of maritime defense. Mare Liberum is deepening its commitment to REGENT, having participated in prior financing rounds.",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "'s participation as the debt provider reflects a broader bet on the U.S. reclaiming manufacturing leadership in critical, dual-use technologies, and on REGENT as one of the companies poised to lead it.",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "\"Rebuilding America's industrial base means banking the companies actually willing to build things again,\" said Owen Rapaport, co-founder and CEO of Erebor Bank. “REGENT is proof that American manufacturing can still move at startup speed. We're proud to back a team turning a bold engineering bet into the real production lines this country needs.\"",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT Craft Press Team:",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "Mare Liberum Press Contact: Alexa Borislow,",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "press@mareliberum.com",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "AE Ventures Press Contact: Matt Conroy, Stanton Public Relations & Marketing,",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "mconroy@stantonprm.com,",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "Providing needed flexibility to the fleet",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT opens world's first Seaglider factory, moving from prototype to production.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT’s Viceroy Seaglider prototype has completed its first human-crewed flight.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "MOL, JAL, Lloyd’s Register, and REGENT Announce Joint Development Project on Seaglider Certification in Japan",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "April 13, 2026",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Advancing sea trials of full-scale Viceroy Seaglider prototype and Squire Seaglider drone",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT announces Seaglider order from private member club ‘XXV’ for U.S. East Coast",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Private members club XXV has ordered 30 Seaglider vessels for U.S. East Coast.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT and DHL Express Sign Agreement for Sustainable Cargo Logistics",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "This represents a significant investment in America’s shipbuilding workforce and infrastructure.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT Defense Squire Prototype Cleared for Testing in Rhode Island",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "U.S. Coast Guard clears REGENT Squire Seaglider prototype for testing.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT Announces Seaglider Crew Training Process and Partner, FAAC Incorporated",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT's seaglider crew program will be U.S.Coast Guard-approved and will focus on simulation training and classroom material.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT Craft reveals the first full-scale seaglider prototype, a novel high-speed maritime vessel that connects coastal destinations.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT Begins Next Phase of Full-Scale Seaglider Prototype Development",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT announces the start of hardware and systems integration of its full-scale seaglider prototype.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "The survey evaluated transportation habits and preferences of more than 4,000 coastal residents.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT Receives U.S. Coast Guard Approval for Seaglider Prototype Testing",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "This approval allows REGENT to test its full-scale seaglider prototype in Narragansett Bay and Rhode Island Sound.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Lloyd’s Register will provide certification and advisory services for REGENT’s 12-passenger Viceroy seagliders.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT and MONTE announce a $300 million deal that will provide financing solutions for seagliders.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "REGENT secures $240 million Series B funding to scale Seaglider manufacturing and transform maritime mobility",
+    "url": "https://www.regentcraft.com/",
+    "pass": 1
+   },
+   {
+    "quote": "VP, Manufacturing",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Director, Tesla",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "SVP Manufacturing, Byton",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "SVP Manufacturing, Northvolt",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "B.S. Aerospace Engineering, Boston University",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Groundbreaking of U.S. Seaglider Manufacturing Facility",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT and Rhode Island leaders broke ground on the 255,000 square-foot manufacturing center in Quonset Business Park.",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Announcement of UAE joint venture for Seaglider manufacturing",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT and Strategic Development Fund (SDF) signed an agreement to bring Seaglider manufacturing and aftermarket services to the UAE.",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Demo Day Factory Opening",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT’s headquarters in North Kingstown, Rhode Island, bring together our manufacturing facility, testing facility, and office space in one campus, creating a hands-on environment where teams collaborate to design, build, and bring Seagliders to life.",
+    "url": "https://www.regentcraft.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT secures $240 million Series B funding to scale Seaglider manufacturing and transform maritime mobility | REGENT",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT secures $240 million Series B funding to scale Seaglider manufacturing and transform maritime mobility",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT raises $240 million in Series B funding co-led by Mare Liberum and AE Ventures, with debt capital provided by Erebor Bank, to accelerate manufacturing in response to growing defense contracts and commercial demand across the Viceroy and Squire Seaglider™ product lines.",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "Funding comes in anticipation of a series of imminent company milestones, including the first human flight of the Viceroy Seaglider prototype and commencement of production at REGENT's 255,000-square-foot Seaglider Manufacturing Facility.",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": ", the developer and manufacturer of Seaglider™ vessels, announced today it has raised $240 million, an equal mix of equity and debt, in a Series B funding round co-led by Mare Liberum and AE Ventures, with debt capital provided by Erebor Bank, marking a major milestone in REGENT's growth as it transitions from early-stage development toward full-scale manufacturing.",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "Reflecting strong investor conviction in REGENT’s future, the round closes in anticipation of a series of imminent milestones for the company, including the first human flight of its Viceroy prototype, new military partnerships, and commencement of manufacturing operations from its recently completed 255,000-square-foot Seaglider Manufacturing Facility.",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "Seaglider Manufacturing Facility",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": ", the venture capital platform of AE Industrial Partners, brings extensive expertise built over many years supporting businesses that develop mission-critical capabilities across the aerospace and national security markets. REGENT joins an AE Ventures portfolio of early-stage companies tackling some of the most complex challenges across these markets.",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "As a national bank built to serve the companies rebuilding America's industrial base — from defense and manufacturing to AI and advanced technology —",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "'s participation as the debt provider reflects a broader bet on the U.S. reclaiming manufacturing leadership in critical, dual-use technologies, and on REGENT as one of the companies poised to lead it.",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "\"Rebuilding America's industrial base means banking the companies actually willing to build things again,\" said Owen Rapaport, co-founder and CEO of Erebor Bank. “REGENT is proof that American manufacturing can still move at startup speed. We're proud to back a team turning a bold engineering bet into the real production lines this country needs.\"",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT marks opening of world's first Seaglider Manufacturing Facility with ribbon-cutting ceremony and flight demonstration",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT opens world's first Seaglider factory, moving from prototype to production.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT secures $240 million Series B funding to scale Seaglider manufacturing and transform maritime mobility",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT completes world's first Seaglider Manufacturing Facility, anchoring America's lead in maritime innovation",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Landmark 255,000-square-foot Seaglider Manufacturing Facility at 1 Seaglider Way is now complete.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT announces breakthrough year marked by milestones across technology, business, and manufacturing",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Final Beam Installed at World’s First Seaglider Manufacturing Facility",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT Reveals Visuals of World’s First Seaglider Manufacturing Facility",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT's Seaglider Manufacturing Facility will be located at 1 Seaglider Way.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT Signs Initial Agreement with Strategic Development Fund to Set Up a Joint Venture for Seaglider Manufacturing and Services in the UAE",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "The Joint Venture will bring manufacturing and aftermarket services for seagliders to the UAE.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Groundbreaking: World’s First Seaglider Manufacturing Facility Takes Shape in Rhode Island",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT broke ground on its Seaglider Manufacturing Facility in an event with Rhode Island public officials and QDC.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "The incentives will support the seaglider manufacturer's expansion in the state.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT Unveils Full-Scale Mock-Up of Revolutionary Seaglider, Plans for Manufacturing Facilities",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT Names Aerospace Titans Dennis Muilenburg and David Neeleman to Board of Advisors",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "eVTOL Insights: Mark Duchesne on scaling manufacturing",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Mark Duchesne talks to eVTOL Insights about what it takes to transform a revolutionary concept into a scalable manufacturing operation.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Tom Huntley, GM of REGENT Defense, discusses what it takes to strengthen the maritime industrial base.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Aerospace Global: REGENT Viceroy Seaglider in spotlight at Dubai Airshow",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "New York Times: Factory Towns Revive as Defense Tech Makers Arrive",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Start-ups like REGENT are revitalizing American manufacturing.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Defense One: Flying boats pitched at 'Reindustrialize' event",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "The New York Times: Two Days Inside the Movement to ‘Reindustrialize,’ and Rearm, America",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Feature on Reindustrialize Summit 2025 included our Viceroy interior cabin mock-up.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT Unveils Full-Scale Mock-Up of Revolutionary Seaglider, Plans for Manufacturing Facilities | REGENT",
+    "url": "https://www.regentcraft.com/news/regent-unveils-full-scale-mock-up-of-revolutionary-seaglider-plans-for-manufacturing-facilities",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT Unveils Full-Scale Mock-Up of Revolutionary Seaglider, Plans for Manufacturing Facilities",
+    "url": "https://www.regentcraft.com/news/regent-unveils-full-scale-mock-up-of-revolutionary-seaglider-plans-for-manufacturing-facilities",
+    "pass": 1
+   },
+   {
+    "quote": "Groundbreaking: World’s First Seaglider Manufacturing Facility Takes Shape in Rhode Island | REGENT",
+    "url": "https://www.regentcraft.com/news/groundbreaking-worlds-first-seaglider-manufacturing-facility-takes-shape-in-rhode-island",
+    "pass": 1
+   },
+   {
+    "quote": "Groundbreaking: World’s First Seaglider Manufacturing Facility Takes Shape in Rhode Island",
+    "url": "https://www.regentcraft.com/news/groundbreaking-worlds-first-seaglider-manufacturing-facility-takes-shape-in-rhode-island",
+    "pass": 1
+   },
+   {
+    "quote": "We celebrated the groundbreaking of the world’s first Seaglider Manufacturing Facility today, marking a pivotal moment in REGENT’s history and a critical step toward transforming transportation for coastal communities around the globe.",
+    "url": "https://www.regentcraft.com/news/groundbreaking-worlds-first-seaglider-manufacturing-facility-takes-shape-in-rhode-island",
+    "pass": 1
+   },
+   {
+    "quote": "Coming online in 2026, the facility will house seaglider component manufacturing, vehicle final assembly, and pre-delivery testing for our 12-passenger Viceroy seaglider.",
+    "url": "https://www.regentcraft.com/news/groundbreaking-worlds-first-seaglider-manufacturing-facility-takes-shape-in-rhode-island",
+    "pass": 1
+   },
+   {
+    "quote": "\"Thanks to companies like REGENT, Rhode Island is becoming a destination for innovation,\" said RI Gov. Dan McKee. \"This new manufacturing facility not only bolsters our economy through good-paying jobs, but reaffirms our state's position as the epicenter of the blue economy.”",
+    "url": "https://www.regentcraft.com/news/groundbreaking-worlds-first-seaglider-manufacturing-facility-takes-shape-in-rhode-island",
+    "pass": 1
+   },
+   {
+    "quote": "Our path to manufacturing",
+    "url": "https://www.regentcraft.com/news/groundbreaking-worlds-first-seaglider-manufacturing-facility-takes-shape-in-rhode-island",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve attracted the top experts across maritime, aviation, and technology industries to Rhode Island to develop seaglider technology, creating a blueprint for reinvigorating American-made manufacturing.",
+    "url": "https://www.regentcraft.com/news/groundbreaking-worlds-first-seaglider-manufacturing-facility-takes-shape-in-rhode-island",
+    "pass": 1
+   },
+   {
+    "quote": "The 255,000 square foot Seaglider Manufacturing Facility will come online in Rhode Island in 2026.",
+    "url": "https://www.regentcraft.com/news/groundbreaking-worlds-first-seaglider-manufacturing-facility-takes-shape-in-rhode-island",
+    "pass": 1
+   },
+   {
+    "quote": "“REGENT Craft is leading the way toward a future of clean, fast coastal travel, and we are thrilled that they’ve chosen to do it here in the Ocean State, where we are experts in composites manufacturing,” said U.S. Sen. Sheldon Whitehouse.",
+    "url": "https://www.regentcraft.com/news/groundbreaking-worlds-first-seaglider-manufacturing-facility-takes-shape-in-rhode-island",
+    "pass": 1
+   },
+   {
+    "quote": "We’re contributing to amplifying the state’s maritime manufacturing industry, helping anchor Rhode Island as the global hub for the Blue Economy.",
+    "url": "https://www.regentcraft.com/news/groundbreaking-worlds-first-seaglider-manufacturing-facility-takes-shape-in-rhode-island",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "All employees receive equity in REGENT, so we all share in the growth we help create.",
+    "url": "https://www.regentcraft.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Take care of yourself and your family with medical, dental, and vision coverage, including a fully paid premium option for employees and dependents.",
+    "url": "https://www.regentcraft.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT Begins Sea Trials of First Passenger-Carrying Seaglider",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "This approval allows REGENT to test its full-scale seaglider prototype in Narragansett Bay and Rhode Island Sound.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT unveiled the full-scale mock-up of its human carrying seaglider prototype.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT and Pacific Current, a subsidiary of Hawaiian Electric Industries, Announce the Development of a Seaglider Transportation Network in the State of Hawai‘i",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "NYSE Space & Defense Market Update: broadcast interview with Larry.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "New York Times: Factory Towns Revive as Defense Tech Makers Arrive",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "ABC News: Watch this winged ferry on Narragansett Bay",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Washington Post: Regent Craft is testing a new type of winged passenger ferry on Narragansett Bay",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "The winged passenger ferry gliding over the surface of Narragansett Bay could be a new method of transportation or a new kind of warship.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT seaglider prepares to take flight on Narragansett Bay.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "NBC: First look at REGENT Seaglider prototype testing in Narragansett Bay",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "The Financial Times featured REGENT's dual-use capabilities as part of story about the rise of defense tech companies.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Providence Journal: Will seagliders be the future of travel on Narragansett Bay?",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Watch the Seaglider prototype navigate through Narragansett Bay.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "The REGENT team conducts a \"dangle test\" of the Viceroy seaglider prototype as part of sea trials.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Adam Triolo shared seaglider updates at Interferry 2024 in Marrakech, Morocco.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Since arriving in the Ocean State, REGENT has achieved seven key milestones.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT’s seaglider achieved its first series of flights on August 15, 2022 in Narragansett Bay, Rhode Island",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT tests hydrofoiling in Narragansett Bay",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT seagliders are a new category of maritime vehicle that combine the high speed of an airplane with the low operating cost of a boat. These all-electric, zero-emission vessels operate exclusively over water and leverage existing dock infrastructure to carry people and goods up to 180 miles with current battery technology.",
+    "url": "https://www.regentcraft.com/news/regent-unveils-full-scale-mock-up-of-revolutionary-seaglider-plans-for-manufacturing-facilities",
+    "pass": 1
+   },
+   {
+    "quote": "More than 100 guests, including Rhode Island public officials, members of the Quonset Development Corporation, and local community members gathered under an American flag on the facility site, located just steps from Narragansett Bay. The event included remarks and a ceremonial breaking of the ground.",
+    "url": "https://www.regentcraft.com/news/groundbreaking-worlds-first-seaglider-manufacturing-facility-takes-shape-in-rhode-island",
+    "pass": 1
+   },
+   {
+    "quote": "And we’ve created our full-scale, passenger-carrying seaglider prototype, which will start sea trials in the coming months and make history with the first-ever human flight on a seaglider this year.",
+    "url": "https://www.regentcraft.com/news/groundbreaking-worlds-first-seaglider-manufacturing-facility-takes-shape-in-rhode-island",
+    "pass": 1
+   },
+   {
+    "quote": "Guests boarded ferries on Narragansett Bay to watch REGENT Craft's two Seagliders vessels in action: the full-scale Viceroy prototype and the Squire Seaglider drone. During the on-water demonstration, both vessels showed all three modes of operation: float, foil, and fly. The event marked the fifth flight of the Viceroy prototype.",
+    "url": "https://www.regentcraft.com/news/regent-opening-worlds-first-seaglider-manufacturing-facility-ribbon-cutting-ceremony-flight-demonstration",
+    "pass": 1
+   },
+   {
+    "quote": "Captain Hussam Farrouq Suyyagh, Manager of Business Excellence, ADNOC L&S",
+    "url": "https://www.regentcraft.com/news/regent-opening-worlds-first-seaglider-manufacturing-facility-ribbon-cutting-ceremony-flight-demonstration",
+    "pass": 1
+   },
+   {
+    "quote": "NYSE Space & Defense Market Update: broadcast interview with Larry.",
+    "url": "https://www.regentcraft.com/news/regent-demonstrates-seaglider-rescue-capabilities-in-support-of-u-s-marine-corps-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "— REGENT Craft, the developer and manufacturer of Seaglider vessels, today announced the successful completion of Seaglider rescue demonstrations as part of its ongoing partnership with the U.S. Marine Corps. The operations showcased how Seaglider technology can support MEDEVAC and CASEVAC mission needs by closing critical gaps in today’s maritime defense capabilities.",
+    "url": "https://www.regentcraft.com/news/regent-demonstrates-seaglider-rescue-capabilities-in-support-of-u-s-marine-corps-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "As part of the demonstration, REGENT carried out three missions: dockside litter boarding of a non-ambulatory patient, a beach extraction simulating the recovery of an injured person directly from the shore, and an open-water life raft rescue, demonstrating the ability to approach, secure, and recover survivors in challenging sea conditions.",
+    "url": "https://www.regentcraft.com/news/regent-demonstrates-seaglider-rescue-capabilities-in-support-of-u-s-marine-corps-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "The Viceroy Seaglider vessel will travel at speeds up to 160 knots (180mph), carry up to 3,500 pounds of payload, and cover up to 1,400 nautical miles in its hybrid form. It operates in three modes: floating on the hull, rising above the water’s surface on hydrofoils, and flying in ground effect, about 30ft off the surface of the water.",
+    "url": "https://www.regentcraft.com/news/regent-demonstrates-seaglider-rescue-capabilities-in-support-of-u-s-marine-corps-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Earlier this year, Strategic Development Fund (SDF), an Abu Dhabi based investment company, wholly owned by EDGE Group, signed an",
+    "url": "https://www.regentcraft.com/news/adnoc-l-s-regent-seagliders-for-offshore-transportation",
+    "pass": 1
+   },
+   {
+    "quote": "“The Hawai‘i Department of Transportation is proud to collaborate with the Hawai‘i Seaglider Initiative as part of the state’s long-term efforts to build resilience into our transportation systems,” said",
+    "url": "https://www.regentcraft.com/news/hawai-i-seaglider-initiative-launches-with-airlines-and-other-local-partners-to-provide-affordable-accessible-kama-aina-transportation",
+    "pass": 1
+   },
+   {
+    "quote": ". “We are excited to be part of this group and to work together to meet the unique needs of Hawaiʻi residents.”",
+    "url": "https://www.regentcraft.com/news/hawai-i-seaglider-initiative-launches-with-airlines-and-other-local-partners-to-provide-affordable-accessible-kama-aina-transportation",
+    "pass": 1
+   },
+   {
+    "quote": "Lloyd’s Register Group is wholly owned by the Lloyd’s Register Foundation, a politically and financially independent global charity that promotes safety and education.",
+    "url": "https://www.regentcraft.com/news/lloyds-register-and-regent-partner-on-certification-for-all-electric-seaglider",
+    "pass": 1
+   },
+   {
+    "quote": "of the full-size Viceroy prototype, flying the vessel for 30 seconds above the surface of Narragansett Bay near the company’s headquarters.",
+    "url": "https://aerospaceamerica.aiaa.org/regent-craft-plans-to-build-electric-seagliders-by-the-end-of-2027/",
+    "pass": 3
+   },
+   {
+    "quote": "REGENT Craft IPO Timeline and Financing Details - Forge",
+    "url": "https://forgeglobal.com/regent_ipo/",
+    "pass": 3
+   },
+   {
+    "quote": "REGENT Craft IPO date and status",
+    "url": "https://forgeglobal.com/regent_ipo/",
+    "pass": 3
+   },
+   {
+    "quote": "REGENT Craft pre-IPO valuation and funding rounds",
+    "url": "https://forgeglobal.com/regent_ipo/",
+    "pass": 3
+   },
+   {
+    "quote": "REGENT Craft IPO news and media highlights",
+    "url": "https://forgeglobal.com/regent_ipo/",
+    "pass": 3
+   },
+   {
+    "quote": "Independent IPO news coverage",
+    "url": "https://forgeglobal.com/regent_ipo/",
+    "pass": 3
+   },
+   {
+    "quote": "Private companies exploring an IPO",
+    "url": "https://forgeglobal.com/regent_ipo/",
+    "pass": 3
+   },
+   {
+    "quote": "See Tech IPO Calendar",
+    "url": "https://forgeglobal.com/regent_ipo/",
+    "pass": 3
+   },
+   {
+    "quote": "REGENT Craft Funding | $25-100M Revenue | Complete Analysis | Extruct AI",
+    "url": "https://www.extruct.ai/hub/regentcraft-com-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Thank you! Your email has been added!",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you! Your email has been added!",
+    "url": "https://www.regentcraft.com/news/regent-unveils-full-scale-mock-up-of-revolutionary-seaglider-plans-for-manufacturing-facilities",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you! Your email has been added!",
+    "url": "https://www.regentcraft.com/news/groundbreaking-worlds-first-seaglider-manufacturing-facility-takes-shape-in-rhode-island",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you! Your email has been added!",
+    "url": "https://www.regentcraft.com/news/regent-signs-initial-agreement-with-strategic-development-fund-to-set-up-a-joint-venture-for-seaglider-manufacturing-and-services-in-the-uae",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you! Your email has been added!",
+    "url": "https://www.regentcraft.com/news/regent-opening-worlds-first-seaglider-manufacturing-facility-ribbon-cutting-ceremony-flight-demonstration",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you! Your email has been added!",
+    "url": "https://www.regentcraft.com/news/regent-announces-the-twenty-five-as-first-u-s-delivery-and-launch-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you! Your email has been added!",
+    "url": "https://www.regentcraft.com/news/regent-newsletter-new-partnerships-seaglider-prototype-progress",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you! Your email has been added!",
+    "url": "https://www.regentcraft.com/news/regent-demonstrates-seaglider-rescue-capabilities-in-support-of-u-s-marine-corps-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you! Your email has been added!",
+    "url": "https://www.regentcraft.com/news/adnoc-l-s-regent-seagliders-for-offshore-transportation",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you! Your email has been added!",
+    "url": "https://www.regentcraft.com/news/regent-and-monte-announce-300-million-seaglider-partnership-to-advance-sustainable-maritime-travel",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you! Your email has been added!",
+    "url": "https://www.regentcraft.com/news/hawai-i-seaglider-initiative-launches-with-airlines-and-other-local-partners-to-provide-affordable-accessible-kama-aina-transportation",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you! Your email has been added!",
+    "url": "https://www.regentcraft.com/news/regent-announces-breakthrough-year-marked-by-milestones-across-technology-business-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you! Your email has been added!",
+    "url": "https://www.regentcraft.com/news/lloyds-register-and-regent-partner-on-certification-for-all-electric-seaglider",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you! Your email has been added!",
+    "url": "https://www.regentcraft.com/news/how-airlines-can-scale-with-seagliders-oneworld-japan-airlines-alaska-airlines",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you! Your email has been added!",
+    "url": "https://www.regentcraft.com/news/hydrofoiling-in-focus",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you! Your email has been added!",
+    "url": "https://www.regentcraft.com/news/hawaii-tribune-herald-state-agencies-show-interest-in-proposed-seacraft",
+    "pass": 1
+   },
+   {
+    "quote": "Submit your email address to receive the latest industry and Aerospace America news.",
+    "url": "https://aerospaceamerica.aiaa.org/regent-craft-plans-to-build-electric-seagliders-by-the-end-of-2027/",
+    "pass": 3
+   },
+   {
+    "quote": "Submit your email address to receive the latest industry and",
+    "url": "https://aerospaceamerica.aiaa.org/regent-craft-plans-to-build-electric-seagliders-by-the-end-of-2027/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "REGENT announced a strategic investment from H.I.S. Group, one of Japan’s largest travel agencies.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Hawaii Tribune Herald: State agencies show interest in proposed seacraft",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Three state agencies have joined the Hawaii Seaglider Initiative.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT, which makes all-electric seagliders, is the first OEM partner for MONTE Maritime, a sustainable maritime financing company for decarbonized vessels.",
+    "url": "https://www.regentcraft.com/news/regent-and-monte-announce-300-million-seaglider-partnership-to-advance-sustainable-maritime-travel",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT represents the first original equipment manufacturer (OEM) of",
+    "url": "https://www.regentcraft.com/news/regent-and-monte-announce-300-million-seaglider-partnership-to-advance-sustainable-maritime-travel",
+    "pass": 1
+   },
+   {
+    "quote": "Hawaii Tribune Herald: State agencies show interest in proposed seacraft",
+    "url": "https://www.regentcraft.com/news/hawai-i-seaglider-initiative-launches-with-airlines-and-other-local-partners-to-provide-affordable-accessible-kama-aina-transportation",
+    "pass": 1
+   },
+   {
+    "quote": "HSI has also signed a memorandum of understanding with the Hawai‘i Department of Transportation (HDOT). HDOT is supportive of alternative forms of interisland transportation using renewable energy for passenger and freight services. The initiative will collaborate with HDOT and engage with other state and local government agencies to support the state’s 2045 decarbonization goals.",
+    "url": "https://www.regentcraft.com/news/hawai-i-seaglider-initiative-launches-with-airlines-and-other-local-partners-to-provide-affordable-accessible-kama-aina-transportation",
+    "pass": 1
+   },
+   {
+    "quote": "Hawaii Tribune Herald: State agencies show interest in proposed seacraft | REGENT",
+    "url": "https://www.regentcraft.com/news/hawaii-tribune-herald-state-agencies-show-interest-in-proposed-seacraft",
+    "pass": 1
+   },
+   {
+    "quote": "Hawaii Tribune Herald: State agencies show interest in proposed seacraft",
+    "url": "https://www.regentcraft.com/news/hawaii-tribune-herald-state-agencies-show-interest-in-proposed-seacraft",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT, the manufacturer of all-electric seagliders for sustainable maritime mobility, today announced a strategic investment from H.I.S. Group, one of Japan’s largest travel agencies. This investment marks a significant step forward in advancing sustainable travel and enhancing regional travel experiences for customers in Japan and beyond.",
+    "url": "https://forgeglobal.com/regent_ipo/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "MOL, JAL, Lloyd’s Register, and REGENT Announce Joint Development Project on Seaglider Certification in Japan",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "The partnership supports Seaglider commercial introduction in Japan.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT announced a strategic investment from H.I.S. Group, one of Japan’s largest travel agencies.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT announced a strategic investment from Yamato Holdings, Japan’s largest parcel delivery and logistics company.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT Secures Strategic Investment from Japan Airlines Innovation Fund",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "REGENT announced a strategic investment from Japan Airlines Innovation Fund, the venture arm of Japan Airlines.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "CNBC: REGENT aims to fly its electric seagliders in Japan",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "How Airlines Can Scale with Seagliders | Oneworld, Japan Airlines & Alaska Airlines",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "Blending tradition with innovation: seaglider opportunity in Japan",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "A growing interest in seagliders in Japan reveals a significant opportunity to develop a robust ecosystem.",
+    "url": "https://www.regentcraft.com/category/company",
+    "pass": 1
+   },
+   {
+    "quote": "How Airlines Can Scale with Seagliders | Oneworld, Japan Airlines & Alaska Airlines",
+    "url": "https://www.regentcraft.com/news/regent-opening-worlds-first-seaglider-manufacturing-facility-ribbon-cutting-ceremony-flight-demonstration",
+    "pass": 1
+   },
+   {
+    "quote": "Kamio Ao, Japan Airlines",
+    "url": "https://www.regentcraft.com/news/regent-opening-worlds-first-seaglider-manufacturing-facility-ribbon-cutting-ceremony-flight-demonstration",
+    "pass": 1
+   },
+   {
+    "quote": "How Airlines Can Scale with Seagliders | Oneworld, Japan Airlines & Alaska Airlines",
+    "url": "https://www.regentcraft.com/news/regent-announces-breakthrough-year-marked-by-milestones-across-technology-business-and-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "MOL, JAL, Lloyd’s Register, and REGENT Announce Joint Development Project on Seaglider Certification in Japan",
+    "url": "https://www.regentcraft.com/news/lloyds-register-and-regent-partner-on-certification-for-all-electric-seaglider",
+    "pass": 1
+   },
+   {
+    "quote": "How Airlines Can Scale with Seagliders | Oneworld, Japan Airlines & Alaska Airlines | REGENT",
+    "url": "https://www.regentcraft.com/news/how-airlines-can-scale-with-seagliders-oneworld-japan-airlines-alaska-airlines",
+    "pass": 1
+   },
+   {
+    "quote": "How Airlines Can Scale with Seagliders | Oneworld, Japan Airlines & Alaska Airlines",
+    "url": "https://www.regentcraft.com/news/how-airlines-can-scale-with-seagliders-oneworld-japan-airlines-alaska-airlines",
+    "pass": 1
+   },
+   {
+    "quote": "How Airlines Can Scale with Seagliders | Oneworld, Japan Airlines & Alaska Airlines",
+    "url": "https://www.regentcraft.com/news/hydrofoiling-in-focus",
+    "pass": 1
+   },
+   {
+    "quote": "日本航空株式会社（所在地：東京都品川区、代表取締役社長：赤坂祐二、以下「JAL」）とREGENT Craft Inc.（本社：アメリカ、CEO：Billy Thalheimer、以下「REGENT」）は、人々が安全・快適に移動でき、また、交通渋滞の解消やゼロエミッションの実現など、現在の交通課題の解決が期待されるネクストモビリティとして、REGENTの開発する電動シーグライダーの社会実装に向けた包括連携協定を締結しました",
+    "url": "https://www.kankokeizai.com/jal%E3%80%81%E9%9B%BB%E5%8B%95%E3%82%B7%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%81%AE%E7%A4%BE%E4%BC%9A%E5%AE%9F%E8%A3%85%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6regent-craft%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "また、機体の販売代理店としての機能は株式会社JALUX（所在地：東京都港区、代表取締役社長：髙濱悟、以下「JALUX」）が担います",
+    "url": "https://www.kankokeizai.com/jal%E3%80%81%E9%9B%BB%E5%8B%95%E3%82%B7%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%81%AE%E7%A4%BE%E4%BC%9A%E5%AE%9F%E8%A3%85%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6regent-craft%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "電動シーグライダーの販売代理店としての連携（JALUX）",
+    "url": "https://www.kankokeizai.com/jal%E3%80%81%E9%9B%BB%E5%8B%95%E3%82%B7%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%81%AE%E7%A4%BE%E4%BC%9A%E5%AE%9F%E8%A3%85%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6regent-craft%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "中国が猛反発した日本の国産ミサイル｜国産38年の地対艦誘導弾、最新の25式とは",
+    "url": "https://www.youtube.com/watch?v=Ot3wt7wRb8g",
+    "pass": 3
+   },
+   {
+    "quote": "AE Ventures, Balnord, Caffeinated Capital, DCVC, Dolby Family Ventures, East X Ventures, Founders Fund, Future Planet Capital, Giant Step Capital, iGrow Venture Partners, Inceptional Partners, Japan Airlines, Lockheed Martin Ventures, Mare Liberum, Mark Cuban Companies, Solene, Strategic Development Fund, Vanderbilt University",
+    "url": "https://forgeglobal.com/regent_ipo/",
+    "pass": 3
+   },
+   {
+    "quote": "8090 Industries, Caffeinated Capital, Founders Fund, Future Planet Capital, Japan Airlines Innovation Fund, Lockheed Martin Ventures, Mark Cuban Companies, Point72 Ventures, Strategic Development Fund, Yamato Holdings",
+    "url": "https://forgeglobal.com/regent_ipo/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese shipping company Mitsui O.S.K. Lines made a strategic investment in REGENT Craft, a manufacturer of electric seagliders, through its corporate venture capital firm. The investment will support bringing REGENT's sustainable transportation solutions to market in Japan and other coastal areas globally.",
+    "url": "https://forgeglobal.com/regent_ipo/",
+    "pass": 3
+   },
+   {
+    "quote": "REGENT, the manufacturer of all-electric seagliders for sustainable maritime mobility, today announced a strategic investment from H.I.S. Group, one of Japan’s largest travel agencies. This investment marks a significant step forward in advancing sustainable travel and enhancing regional travel experiences for customers in Japan and beyond.",
+    "url": "https://forgeglobal.com/regent_ipo/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "REGENT Announces Strategic Investment from Mitsui O.S.K. ... — REGENT Announces Strategic Investment from Mitsui O.S.K. ... REGENT Craft https://www.regentcraft.com > news",
+    "url": "https://www.regentcraft.com/news/regent-announces-strategic-investment-from-mitsui-o-s-k-lines-mol",
+    "pass": 3
+   },
+   {
+    "quote": "Big news for Seagliders in Japan : @ regentcraft is proud to ... — Big news for Seagliders in Japan : @ regentcraft is proud to ... Instagram https://www.instagram.com > DZaDm...",
+    "url": "https://www.instagram.com/p/DZaDmTWke4_/",
+    "pass": 3
+   },
+   {
+    "quote": "REGENT | The Future of Maritime Mobility — REGENT | The Future of Maritime Mobility REGENT Craft https://www.regentcraft.com",
+    "url": "https://www.regentcraft.com/",
+    "pass": 3
+   },
+   {
+    "quote": "REGENT | Company — REGENT | Company REGENT Craft https://www.regentcraft.com > compa...",
+    "url": "https://www.regentcraft.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "JAL、電動シーグライダーの社会実装に向けてRegent Craftと ... — JAL、電動シーグライダーの社会実装に向けてRegent Craftと ... 観光経済新聞 https://www.kankokeizai.com > トラベル",
+    "url": "https://www.kankokeizai.com/jal%E3%80%81%E9%9B%BB%E5%8B%95%E3%82%B7%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%81%AE%E7%A4%BE%E4%BC%9A%E5%AE%9F%E8%A3%85%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6regent-craft%E3%81%A8/",
+    "pass": 3
+   },
+   {
+    "quote": "米・REGENT Craft社「電動シーグライダー」の日本とASEAN ... — 米・REGENT Craft社「電動シーグライダー」の日本とASEAN ... JALUX https://www.jalux.com > news > regent-craft-asean",
+    "url": "https://www.jalux.com/news/2023/regent-craft-asean.html",
+    "pass": 3
+   },
+   {
+    "quote": "REGENT Seaglider Achieves First Flight — REGENT Seaglider Achieves First Flight REGENT Craft https://www.regentcraft.com > video > regent-seaglider-ac...",
+    "url": "https://www.regentcraft.com/video/regent-seaglider-achieves-first-flight",
+    "pass": 3
+   },
+   {
+    "quote": "REGENT Craft - YouTube — REGENT Craft - YouTube YouTube https://www.youtube.com > channel",
+    "url": "https://www.youtube.com/channel/UC8LiOhPIbGAz5IsVCtM7m9g",
+    "pass": 3
+   },
+   {
+    "quote": "REGENT marks opening of world's first Seaglider ... — REGENT marks opening of world's first Seaglider ... REGENT Craft https://www.regentcraft.com > news",
+    "url": "https://www.regentcraft.com/news/regent-opening-worlds-first-seaglider-manufacturing-facility-ribbon-cutting-ceremony-flight-demonstration",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study : REGENT Craft - Concurrent Real-Time — Case Study : REGENT Craft - Concurrent Real-Time Concurrent Real-Time https://concurrent-rt.com > case-study",
+    "url": "https://concurrent-rt.com/case-study/case-study-regent-craft/",
+    "pass": 3
+   },
+   {
+    "quote": "Regent Craft plans to build electric seagliders by the end of ... — Regent Craft plans to build electric seagliders by the end of ... Aerospace America https://aerospaceamerica.aiaa.org > re...",
+    "url": "https://aerospaceamerica.aiaa.org/regent-craft-plans-to-build-electric-seagliders-by-the-end-of-2027/",
+    "pass": 3
+   },
+   {
+    "quote": "Careers - REGENT Craft — Careers - REGENT Craft REGENT Craft https://www.regentcraft.com > careers",
+    "url": "https://www.regentcraft.com/careers",
+    "pass": 3
+   },
+   {
+    "quote": "REGENT - LinkedIn — REGENT - LinkedIn LinkedIn https://www.linkedin.com > regentcraft",
+    "url": "https://www.linkedin.com/company/regentcraft",
+    "pass": 3
+   },
+   {
+    "quote": "REGENT Craft IPO Timeline and Financing Details - Forge — REGENT Craft IPO Timeline and Financing Details - Forge Forge Global https://forgeglobal.com > regent_ipo",
+    "url": "https://forgeglobal.com/regent_ipo/",
+    "pass": 3
+   },
+   {
+    "quote": "REGENT Craft | NAVAIR OSBP - Navy.mil — REGENT Craft | NAVAIR OSBP - Navy.mil NAVAIR (.mil) https://www.navair.navy.mil > node",
+    "url": "https://www.navair.navy.mil/osbp/node/9766",
+    "pass": 3
+   },
+   {
+    "quote": "REGENT secures $240 million Series B funding to scale ... — REGENT secures $240 million Series B funding to scale ... REGENT Craft https://www.regentcraft.com > news",
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "pass": 3
+   },
+   {
+    "quote": "REGENT Craft 2026 Company Profile - PitchBook — REGENT Craft 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/463258-18",
+    "pass": 3
+   },
+   {
+    "quote": "REGENT Craft Funding | $25-100M Revenue - Extruct AI — REGENT Craft Funding | $25-100M Revenue - Extruct AI Extruct AI https://www.extruct.ai > hub > regent...",
+    "url": "https://www.extruct.ai/hub/regentcraft-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "REGENT Craft - 2026 Company Profile & Team - Tracxn — REGENT Craft - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/regent-craft/__VO766kitDOh6Zcum3I2_61sMP1yQskNuNAQ8ZDk97KY",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "REGENT (@ regentcraft ) / X REGENT (@ regentcraft ) / X X https://x.com > regentcraft",
+    "url": "https://x.com/regentcraft",
+    "pass": 3
+   },
+   {
+    "quote": "Post - X Post - X X https://x.com > @regentcraft",
+    "url": "https://x.com/regentcraft/status/1961060810509177317",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "REGENT - LinkedIn REGENT - LinkedIn LinkedIn https://www.linkedin.com > regentcraft",
+    "url": "https://www.linkedin.com/company/regentcraft",
+    "pass": 3
+   },
+   {
+    "quote": "Christina Santos - Operations at REGENT Craft | LinkedIn Christina Santos - Operations at REGENT Craft | LinkedIn LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/christina-santos-198a9b61",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Exclusive NBC 10 WJAR. # RegentCraft test flight | Dan Jaehnig Exclusive NBC 10 WJAR. # RegentCraft test flight | Dan Jaehnig Facebook https://www.facebook.com > Dan Jaehnig > Videos",
+    "url": "https://www.facebook.com/DanJaehnig/videos/exclusive-nbc-10-wjar-regentcraft-test-flight/2170649450542086/",
+    "pass": 3
+   },
+   {
+    "quote": "Update. # RegentCraft test flight drone and glider photo op ... Update. # RegentCraft test flight drone and glider photo op ... Facebook https://www.facebook.com > ... > Dan Jaehnig > Videos",
+    "url": "https://www.facebook.com/DanJaehnig/videos/update-regentcraft-test-flight-drone-and-glider-photo-op-nbc-10-wjar/2339602273443510/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet REGENT Craft - a Rhode Island-based startup ... Meet REGENT Craft - a Rhode Island-based startup ... Facebook https://www.facebook.com > MATLAB > posts > meet-re...",
+    "url": "https://www.facebook.com/MATLAB/posts/meet-regent-craft-a-rhode-island-based-startup-reinventing-sea-travel-with-the-v/1544634431042231/",
+    "pass": 3
+   },
+   {
+    "quote": "Exclusive NBC 10 WJAR. # RegentCraft test flight - Facebook Exclusive NBC 10 WJAR. # RegentCraft test flight - Facebook Facebook https://www.facebook.com > DanJaehnig > posts > exclusi...",
+    "url": "https://www.facebook.com/DanJaehnig/posts/exclusive-nbc-10-wjar-regentcraft-test-flight/1491861919417175/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.regentcraft.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/category/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/news/regent-unveils-full-scale-mock-up-of-revolutionary-seaglider-plans-for-manufacturing-facilities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/news/groundbreaking-worlds-first-seaglider-manufacturing-facility-takes-shape-in-rhode-island",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/news/regent-signs-initial-agreement-with-strategic-development-fund-to-set-up-a-joint-venture-for-seaglider-manufacturing-and-services-in-the-uae",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/news/regent-opening-worlds-first-seaglider-manufacturing-facility-ribbon-cutting-ceremony-flight-demonstration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/news/regent-announces-the-twenty-five-as-first-u-s-delivery-and-launch-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/news/regent-newsletter-new-partnerships-seaglider-prototype-progress",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/news/regent-demonstrates-seaglider-rescue-capabilities-in-support-of-u-s-marine-corps-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/news/adnoc-l-s-regent-seagliders-for-offshore-transportation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/news/regent-and-monte-announce-300-million-seaglider-partnership-to-advance-sustainable-maritime-travel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/news/hawai-i-seaglider-initiative-launches-with-airlines-and-other-local-partners-to-provide-affordable-accessible-kama-aina-transportation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/news/regent-announces-breakthrough-year-marked-by-milestones-across-technology-business-and-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/news/lloyds-register-and-regent-partner-on-certification-for-all-electric-seaglider",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/news/how-airlines-can-scale-with-seagliders-oneworld-japan-airlines-alaska-airlines",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/news/hydrofoiling-in-focus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.regentcraft.com/news/hawaii-tribune-herald-state-agencies-show-interest-in-proposed-seacraft",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6036a36e49d4d01890282407/67e5cee6522f616ad81ba85e_250127_REGENT_GROUNDBREAKING_0408%20(1).avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/602ad05d28b6c66eb7baa871/6849c8a37a43493fa43a4c73_transparent%20pixel.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6036a36e49d4d01890282407/68434e41690aaf4ef0d75664_VICEROY_RENDER_ABU%20DHABI_1.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/602ad05d28b6c66eb7baa871/6849c8a37a43493fa43a4c73_transparent%20pixel.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.instagram.com/p/DZaDmTWke4_/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://press.jal.co.jp/en/release/202310/007662.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://press.jal.co.jp/en/release/202310/007662.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kankokeizai.com/jal%E3%80%81%E9%9B%BB%E5%8B%95%E3%82%B7%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%81%AE%E7%A4%BE%E4%BC%9A%E5%AE%9F%E8%A3%85%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6regent-craft%E3%81%A8/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/p/DZaDmTWke4_/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://concurrent-rt.com/case-study/case-study-regent-craft/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Ot3wt7wRb8g",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/reel/Dd9Oa1ixds7/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://aerospaceamerica.aiaa.org/regent-craft-plans-to-build-electric-seagliders-by-the-end-of-2027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/regentcraft",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://forgeglobal.com/regent_ipo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/463258-18",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.extruct.ai/hub/regentcraft-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/regent-craft/__VO766kitDOh6Zcum3I2_61sMP1yQskNuNAQ8ZDk97KY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/regentcraft",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/regentcraft/status/1961060810509177317",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/regentcraft",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/christina-santos-198a9b61",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DanJaehnig/videos/exclusive-nbc-10-wjar-regentcraft-test-flight/2170649450542086/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DanJaehnig/videos/update-regentcraft-test-flight-drone-and-glider-photo-op-nbc-10-wjar/2339602273443510/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MATLAB/posts/meet-regent-craft-a-rhode-island-based-startup-reinventing-sea-travel-with-the-v/1544634431042231/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DanJaehnig/posts/exclusive-nbc-10-wjar-regentcraft-test-flight/1491861919417175/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/DanJaehnig/videos/exclusive-nbc-10-wjar-regentcraft-test-flight/2170649450542086/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/regentcraft",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Regentcraft 日本 導入",
+   "results": [
+    "https://www.regentcraft.com/news/regent-announces-strategic-investment-from-mitsui-o-s-k-lines-mol",
+    "https://www.instagram.com/p/DZaDmTWke4_/",
+    "https://press.jal.co.jp/en/release/202310/007662.html",
+    "https://www.regentcraft.com/",
+    "https://www.youtube.com/watch?v=-Olgk-f19nM",
+    "https://www.youtube.com/watch?v=__is4z4o4NE",
+    "https://www.marinetechnologynews.com/news/regent-seaglider-japan-certification-663213",
+    "https://zagdaily.com/zag-air/regent-sets-path-to-seaglider-approval-in-japan/",
+    "https://www.regentcraft.com/category/japan",
+    "https://novaist.jp/articles/japan-seaglider-certification/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Regentcraft 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.regentcraft.com/",
+    "https://www.regentcraft.com/company",
+    "https://press.jal.co.jp/en/release/202310/007662.html",
+    "https://www.kankokeizai.com/jal%E3%80%81%E9%9B%BB%E5%8B%95%E3%82%B7%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%81%AE%E7%A4%BE%E4%BC%9A%E5%AE%9F%E8%A3%85%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6regent-craft%E3%81%A8/",
+    "https://www.jalux.com/news/2023/regent-craft-asean.html",
+    "https://www.yamato-hd.co.jp/news/2022/newsrelease_20230329_1.html",
+    "https://www.moldrybulk.co.jp/linerservice/agency/",
+    "https://www.geneq.co.jp/logistics/agent/",
+    "https://www.his.co.jp/news/16268.html",
+    "https://ja.wikipedia.org/wiki/REJECT"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Regentcraft Japan",
+   "results": [
+    "https://www.regentcraft.com/news/regent-announces-strategic-investment-from-mitsui-o-s-k-lines-mol",
+    "https://www.instagram.com/p/DZaDmTWke4_/",
+    "https://www.regentcraft.com/",
+    "https://www.regentcraft.com/video/regent-seaglider-achieves-first-flight",
+    "https://www.youtube.com/channel/UC8LiOhPIbGAz5IsVCtM7m9g",
+    "https://x.com/regentcraft",
+    "https://press.jal.co.jp/en/release/202310/007662.html",
+    "https://www.youtube.com/watch?v=-Olgk-f19nM",
+    "https://www.regentcraft.com/category/japan",
+    "https://www.regentcraft.com/news/regent-secures-strategic-investment-from-japan-airlines-innovation-fund"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Regentcraft manufacturing customer case study",
+   "results": [
+    "https://www.regentcraft.com/news/regent-opening-worlds-first-seaglider-manufacturing-facility-ribbon-cutting-ceremony-flight-demonstration",
+    "https://concurrent-rt.com/case-study/case-study-regent-craft/",
+    "https://www.youtube.com/watch?v=Ot3wt7wRb8g",
+    "https://www.instagram.com/reel/Dd9Oa1ixds7/",
+    "https://aerospaceamerica.aiaa.org/regent-craft-plans-to-build-electric-seagliders-by-the-end-of-2027/",
+    "https://www.facebook.com/repsethmagaziner/posts/today-i-visited-the-grand-opening-of-regents-new-seaglider-manufacturing-facilit/1101377106182530/",
+    "https://governor.ri.gov/press-releases/rhode-island-commerce-approves-incentive-agreements-regent-craft-grow-manufacturing",
+    "https://www.industrialsage.com/regent-seaglider-manufacturing-facility-rhode-island/",
+    "https://www.rti.com/blog/regent-craft-seaglider",
+    "https://concurrent-rt.com/wp-content/uploads/2025/10/Regent_Craft_case_Study.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Regentcraft white label OR reseller OR partner program",
+   "results": [
+    "https://www.regentcraft.com/careers",
+    "https://aerospaceamerica.aiaa.org/regent-craft-plans-to-build-electric-seagliders-by-the-end-of-2027/",
+    "https://www.linkedin.com/company/regentcraft",
+    "https://forgeglobal.com/regent_ipo/",
+    "https://www.navair.navy.mil/osbp/node/9766",
+    "https://pbn.com/regent-craft-secures-investment-from-mitsui-o-s-k-lines/",
+    "https://www.instagram.com/reel/DVvr0_-EbgZ/",
+    "https://www.rti.com/blog/regent-craft-seaglider",
+    "https://pitchbook.com/profiles/company/463258-18",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Regentcraft founded funding employees revenue",
+   "results": [
+    "https://www.regentcraft.com/news/regent-secures-240-million-series-b-funding-to-scale-seaglider-manufacturing-and-transform-maritime-mobility",
+    "https://pitchbook.com/profiles/company/463258-18",
+    "https://www.extruct.ai/hub/regentcraft-com-funding/",
+    "https://tracxn.com/d/companies/regent-craft/__VO766kitDOh6Zcum3I2_61sMP1yQskNuNAQ8ZDk97KY",
+    "https://forgeglobal.com/regent_ipo/",
+    "https://www.facebook.com/themilitarychannelusa/posts/read-rhode-island-based-startup-regent-craft-has-secured-240-million-in-series-b/122229765986902462/",
+    "https://pbn.com/seaglider-startup-regent-craft-inc-lands-60m-in-series-a-funding/",
+    "https://growjo.com/company/REGENT_Craft",
+    "https://resiliencemedia.co/regent-craft-raises-240m-to-put-the-wind-in-its-seaglider-sails/",
+    "https://tracxn.com/d/companies/regentcraft/__VO766kitDOh6Zcum3I2_61sMP1yQskNuNAQ8ZDk97KY"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Regentcraft",
+   "results": [
+    "https://note.com/suzuken0331/n/n9194fd746eaf",
+    "https://note.com/startup_now0708/n/n38f473b0e03d",
+    "https://note.com/startup_now0708/n/n4953c522edea?hl=en",
+    "https://note.com/farostar/n/n3215f5cf212b",
+    "https://note.com/hkbn/n/nc2ce1fd28547",
+    "https://note.com/bigdreamnet/n/n89b4eb42508f",
+    "https://note.com/waymarks_morio/n/nb6a28e027792",
+    "https://note.com/kotatsu_article/n/n285ef1a2e740",
+    "https://note.com/suzuken0331/n/n9194fd746eaf?hl=en",
+    "https://note.com/startup_now0708/n/n38f473b0e03d?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com Regentcraft",
+   "results": [
+    "https://x.com/regentcraft",
+    "https://x.com/ycombinator/status/2092996532232769576",
+    "https://x.com/billythalheimer",
+    "https://x.com/regentcraft/status/1961060810509177317",
+    "https://x.com/regentcraft/status/2118332605724508562",
+    "https://x.com/VanessaAlvarez1/status/2106192890921673029",
+    "https://x.com/alex/status/2097349685040099669",
+    "https://x.com/billythalheimer/status/2113353521974095910?lang=ar-x-fm",
+    "https://x.com/billythalheimer/status/2118012480131600694",
+    "https://x.com/regentcraft/status/1662458877105823749"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Regentcraft",
+   "results": [
+    "https://www.linkedin.com/company/regentcraft",
+    "https://www.linkedin.com/in/christina-santos-198a9b61",
+    "https://www.linkedin.com/in/williamthalheimer",
+    "https://www.linkedin.com/in/michael-klinker",
+    "https://www.linkedin.com/in/austin-mccollum",
+    "https://www.linkedin.com/in/lauryn-scott27",
+    "https://www.linkedin.com/posts/matlab-for-startups_the-all-electric-flying-machine-reinventing-activity-7491124604434989056-EbxJ",
+    "https://www.linkedin.com/in/maddie-macfarlane",
+    "https://www.linkedin.com/in/ben-mathews-7582582a9",
+    "https://pe.linkedin.com/posts/regentcraft_seaglider-crew-training-activity-7325867944817606656-90jX"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Regentcraft",
+   "results": [
+    "https://www.facebook.com/DanJaehnig/videos/exclusive-nbc-10-wjar-regentcraft-test-flight/2170649450542086/",
+    "https://www.facebook.com/DanJaehnig/videos/update-regentcraft-test-flight-drone-and-glider-photo-op-nbc-10-wjar/2339602273443510/",
+    "https://www.facebook.com/MATLAB/posts/meet-regent-craft-a-rhode-island-based-startup-reinventing-sea-travel-with-the-v/1544634431042231/",
+    "https://www.facebook.com/DanJaehnig/posts/exclusive-nbc-10-wjar-regentcraft-test-flight/1491861919417175/",
+    "https://www.facebook.com/SenatorWhitehouse/posts/rhode-islands-regent-craft-seaglider-takes-flight-so-fantastic/1650407559782963/",
+    "https://www.facebook.com/MATLAB/videos/the-all-electric-flying-machine-reinventing-sea-travel/1057277810424272/",
+    "https://www.facebook.com/regentcraft/",
+    "https://www.facebook.com/DanJaehnig/posts/update-regentcraft-test-flight-drone-and-glider-photo-op-nbc-10-wjar/1491921852744515/",
+    "https://www.facebook.com/DanJaehnig/videos/breaking-regentcraft-takes-off-on-round-2-nbc-10-wjar/2190602228170562/",
+    "https://www.facebook.com/groups/OurNK/posts/4344201359142423/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Regentcraft note 社長",
+   "results": [
+    "https://www.regentcraft.com/",
+    "https://www.regentcraft.com/video/regent-seaglider-achieves-first-flight",
+    "https://www.instagram.com/regentcraft/",
+    "https://www.facebook.com/DanJaehnig/videos/exclusive-nbc-10-wjar-regentcraft-test-flight/2170649450542086/",
+    "https://x.com/regentcraft",
+    "https://www.youtube.com/channel/UC8LiOhPIbGAz5IsVCtM7m9g",
+    "https://www.instagram.com/reel/Dd9Oa1ixds7/",
+    "https://www.youtube.com/watch?v=-Olgk-f19nM",
+    "https://www.tectonicdefense.com/regent-craft-raises-240m-series-b/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Regentcraft X 投稿",
+   "results": [
+    "https://x.com/regentcraft",
+    "https://www.regentcraft.com/",
+    "https://www.instagram.com/reel/DfYZpXiRb3C/",
+    "https://www.regentcraft.com/video/regent-seaglider-achieves-first-flight",
+    "https://www.instagram.com/regentcraft/",
+    "https://www.facebook.com/DanJaehnig/videos/exclusive-nbc-10-wjar-regentcraft-test-flight/2170649450542086/",
+    "https://www.youtube.com/channel/UC8LiOhPIbGAz5IsVCtM7m9g",
+    "https://aerospaceamerica.aiaa.org/regent-craft-plans-to-build-electric-seagliders-by-the-end-of-2027/",
+    "https://x.com/regentcraft/reposts",
+    "https://x.com/regentcraft/status/2112955915964232088"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部24頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部24頁・検索12回）"
+ }
+}

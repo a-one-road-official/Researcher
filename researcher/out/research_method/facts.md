@@ -6955,22 +6955,29 @@
 ## 調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法（outcome switching pre-registration discrepancy detection research）
 - 文脈：失敗
 - 手順・やり方：
+  - 「Open Science Framework (」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「The study sample was created, and analytical methods were prespecified in a registered protocol (」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「We retrieved the corresponding publications through a stepwise search (figure S1), starting with the registration number. If no match was found, additional searches used combinations of intervention terms, health conditions, and the principal investigator’s name.」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「This meta-epidemiological study analysed methodological rather than clinical data (ie, outcome reporting practices). No patients or members of the public were involved in setting the research question, selecting outcome measures, developing plans, analysing or interpreting the findings, or writing up the results.」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「Additionally, 25 (20%) studies introduced a total of 35 new primary outcomes that had not been registered as primary or secondary. These new outcomes differed from the registered ones mainly in the measurement variable (28/35, 80%), followed by the time point (21/35, 60%), analysis metric (4/35, 11%), and method of aggregation (2/35, 6%).」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「Additionally, protocols should be made publicly available. Beyond promoting transparency, access to protocols that clearly outline the predefined methods facilitates study replication, informed risk of bias assessment, and evaluation of the external applicability of study findings in practice.」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「Lastly, editors and reviewers should not only evaluate the methods prespecified in the protocol, but also compare them to the submitted reports of results. Authors should be required to explain any major discrepancies.」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「Out of sight but not out of mind: how to search for unpublished clinical trial evidence」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「Outcome reporting bias in trials: a methodological approach for assessment and adjustment in systematic reviews」（https://www.bmj.com/content/393/bmj-2025-087975）
   - 「Open Science Framework (」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
   - 「The study sample was created, and analytical methods were prespecified in a registered protocol (」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
   - 「We retrieved the corresponding publications through a stepwise search (figure S1), starting with the registration number. If no match was found, additional searches used combinations of intervention terms, health conditions, and the principal investigator’s name.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
   - 「This meta-epidemiological study analysed methodological rather than clinical data (ie, outcome reporting practices). No patients or members of the public were involved in setting the research question, selecting outcome measures, developing plans, analysing or interpreting the findings, or writing up the results.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
   - 「Method of aggregation」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
   - 「Additionally, 25 (20%) studies introduced a total of 35 new primary outcomes that had not been registered as primary or secondary. These new outcomes differed from the registered ones mainly in the measurement variable (28/35, 80%), followed by the time point (21/35, 60%), analysis metric (4/35, 11%), and method of aggregation (2/35, 6%).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
-  - 「Additionally, protocols should be made publicly available. Beyond promoting transparency, access to protocols that clearly outline the predefined methods facilitates study replication, informed risk of bias assessment, and evaluation of the external applicability of study findings in practice.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
-  - 「Lastly, editors and reviewers should not only evaluate the methods prespecified in the protocol, but also compare them to the submitted reports of results. Authors should be required to explain any major discrepancies.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
-  - 「Li G, Abbade LPF, Nwosu I, et al. A systematic review of comparisons between protocols or registrations and full reports in primary biomedical research. BMC Med Res Methodol」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
-  - 「Chan A-W. Out of sight but not out of mind: how to search for unpublished clinical trial evidence. BMJ」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
-  - 「Kirkham JJ, Altman DG, Chan A-W, Gamble C, Dwan KM, Williamson PR. Outcome reporting bias in trials: a methodological approach for assessment and adjustment in systematic reviews. BMJ」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
-  - 「]. Moreover, if a reader finds discrepancies between a registration and publication, there is no clear avenue for how to share this information. One study systematically sent 58 letters to the editor that described undisclosed discrepancies in published manuscripts and found that only three of five top medical journals were willing to publish these letters [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
-  - 「]). This yet-to-be published study leaves the decision for how to use this information to the reviewers and editors.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
-  - 「2. Methods」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
-  - 「Discrepancy reviewers reported preferring the updated process but noted that the less structured methodology required greater focus. The updated discrepancy review process took less time than the original process—clinical trial registrations median and range: 28 (10, 60) min (」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
 - 突き合わせ・推定：
+  - 「We estimated that 60 events (ie, studies with outcome switching) were required for the logistic regression analysis to achieve 10 events per covariate. We conservatively assumed a 50% prevalence of outcome switching that produces the widest possible confidence interval and is close to the reported median prevalence of 54% observed in clinical trials,」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「and therefore targeted a sample of 120 registered studies with published results. Under this assumption, the sample size provides an upper bound of ±9% for the 95% confidence interval width for the estimated prevalence. We started with a convenience sample of studies with start dates in 2014-15 to allow sufficient time for publication, and expanded to 2016 to reach the target sample size.」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「We found a higher prevalence of outcome switching (48%) than reported in previous reviews of observational studies, and our estimate falls within the range reported for randomised controlled trials (10-68%).」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「Nonetheless, caution is warranted when comparing estimates across studies using different criteria.」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「Four high impact medical journal groups in 2024 published 63 systematic reviews of interventions that included observational studies, 33 of which relied exclusively on observational evidence. Of the remaining 30 reviews that included both observational studies and randomised controlled trials, 19 meta-analyses synthesised crude estimates from across designs.」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「Among the 64 studies classified as having consistent outcome reporting, 10 (16%) may have undetected discrepancies because of inadequately prespecified outcomes. We retained these studies to generate a conservative estimate of outcome switching. Similar challenges were also noted in studies of outcome switching in trials.」（https://www.bmj.com/content/393/bmj-2025-087975）
   - 「We estimated that 60 events (ie, studies with outcome switching) were required for the logistic regression analysis to achieve 10 events per covariate. We conservatively assumed a 50% prevalence of outcome switching that produces the widest possible confidence interval and is close to the reported median prevalence of 54% observed in clinical trials,」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
   - 「and therefore targeted a sample of 120 registered studies with published results. Under this assumption, the sample size provides an upper bound of ±9% for the 95% confidence interval width for the estimated prevalence. We started with a convenience sample of studies with start dates in 2014-15 to allow sufficient time for publication, and expanded to 2016 to reach the target sample size.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
   - 「We found a higher prevalence of outcome switching (48%) than reported in previous reviews of observational studies, and our estimate falls within the range reported for randomised controlled trials (10-68%).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
@@ -6979,9 +6986,6 @@
   - 「Four high impact medical journal groups in 2024 published 63 systematic reviews of interventions that included observational studies, 33 of which relied exclusively on observational evidence. Of the remaining 30 reviews that included both observational studies and randomised controlled trials, 19 meta-analyses synthesised crude estimates from across designs.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
   - 「Among the 64 studies classified as having consistent outcome reporting, 10 (16%) may have undetected discrepancies because of inadequately prespecified outcomes. We retained these studies to generate a conservative estimate of outcome switching. Similar challenges were also noted in studies of outcome switching in trials.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
   - 「Both power and precision analyses require assumptions about the proportion of manuscripts with discrepancies in both the control and experimental group. For the control group, we assume a base-rate of 33% of manuscripts with at least one primary outcome discrepancy, which is the point estimate from a relevant meta-analysis [」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
-  - 「= 0.05, power = 0.80). Alternatively, to estimate the difference between the two groups within a range of 20% (e.g. to show the experimental group has between 10% and 30% fewer manuscripts with primary outcome discrepancies), would require 120 manuscripts per group (95% confidence interval).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
-  - 「State the amendment explicitly in the published paper, per CONSORT item 6b, rather than leaving a reader to discover it by cross-checking the registry independently.」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
-  - 「. Outcome switching towards positive results might overestimate treatment effects for published data.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
 - 一次情報の探し方：
   - 「sonz087975.ww.pdf」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
   - 「(157.5KB, pdf)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
@@ -6989,22 +6993,28 @@
   - 「[REPORTED — the project’s existence, timeframe, institutional home, and methodology are confirmed directly against the project’s own site; this page does not cite a specific discrepancy percentage or letter-publication count, since those weren’t independently re-verified this session — re-confirm the exact figures against a COMPare/BMJ primary source before citing a specific number.]」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
   - 「PDF (1.5 MB)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
 - 失敗・落とし穴：
+  - 「Like randomised controlled trials, cohort studies of interventions should be guided by a protocol that prespecifies the main study outcomes. Changing these outcomes in the final publication, known as outcome switching, can reflect legitimate refinement; however, switching based on the direction or statistical significance of the findings introduces selective outcome reporting bias.」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「If performed to highlight favourable results, outcome switching can introduce reporting bias that leads to research waste, a distorted evidence base, and misguided clinical decision making.」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「Additionally, protocols should be made publicly available. Beyond promoting transparency, access to protocols that clearly outline the predefined methods facilitates study replication, informed risk of bias assessment, and evaluation of the external applicability of study findings in practice.」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「Outcome reporting bias should be evaluated using risk-of-bias assessment tools.」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「When reporting bias is suspected, sensitivity analyses can be conducted for key outcomes to assess the robustness of conclusions to outcome reporting bias.」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「Outcome switching is a potential source of bias whereby prespecified primary outcomes differ from those reported in publications of results, but its prevalence is unclear for cohort studies」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「Catalogue of bias: selective outcome reporting bias」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「Systematic reviews of observational studies frequently conclude based on meta-analyses of biased results: standards must be improved」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「Outcome reporting bias in trials: a methodological approach for assessment and adjustment in systematic reviews」（https://www.bmj.com/content/393/bmj-2025-087975）
   - 「Like randomised controlled trials, cohort studies of interventions should be guided by a protocol that prespecifies the main study outcomes. Changing these outcomes in the final publication, known as outcome switching, can reflect legitimate refinement; however, switching based on the direction or statistical significance of the findings introduces selective outcome reporting bias.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
   - 「If performed to highlight favourable results, outcome switching can introduce reporting bias that leads to research waste, a distorted evidence base, and misguided clinical decision making.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
   - 「For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
-  - 「Additionally, protocols should be made publicly available. Beyond promoting transparency, access to protocols that clearly outline the predefined methods facilitates study replication, informed risk of bias assessment, and evaluation of the external applicability of study findings in practice.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
-  - 「Outcome reporting bias should be evaluated using risk-of-bias assessment tools.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
-  - 「When reporting bias is suspected, sensitivity analyses can be conducted for key outcomes to assess the robustness of conclusions to outcome reporting bias.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
-  - 「Outcome switching is a potential source of bias whereby prespecified primary outcomes differ from those reported in publications of results, but its prevalence is unclear for cohort studies」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
-  - 「Thomas ET, Heneghan C. Catalogue of bias: selective outcome reporting bias. BMJ Evid Based Med」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
-  - 「Paul M, Olchowski J, Leibovici L. Systematic reviews of observational studies frequently conclude based on meta-analyses of biased results: standards must be improved. J Clin Epidemiol」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
-  - 「Kirkham JJ, Dwan KM, Altman DG, et al. The impact of outcome reporting bias in randomised controlled trials on a cohort of systematic reviews. BMJ」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
-  - 「Sterne JA, Hernán MA, Reeves BC, et al. ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions. BMJ」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
-  - 「Kirkham JJ, Altman DG, Chan A-W, Gamble C, Dwan KM, Williamson PR. Outcome reporting bias in trials: a methodological approach for assessment and adjustment in systematic reviews. BMJ」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
-  - 「Undisclosed discrepancies often exist between study registrations and their associated publications. Discrepancies can increase risk of bias, and when undisclosed, they disguise this increased risk of bias from readers. To remedy this issue, we developed an intervention called」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
-  - 「]. For example, registration can mitigate or disclose activities that increase risk of bias, including selective reporting, outcome switching and data dredging.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
-  - 「Reducing bias, increasing transparency, and calibrating confidence with preregistration. ( 10.31222/osf.io/d7bcu)」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
 - 実例：
+  - 「Previous meta-research involving observational studies has been limited to specific specialty areas, outcome types, or high impact journals, and often included retrospectively registered studies. For example, Baudart and colleagues found 114 (85.7%) of 133 observational studies adequately reported the registered outcomes; however, their analysis focused exclusively on harms.」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「Outcome pre-specification requires sufficient detail to guard against outcome switching in clinical trials: a case study」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「Advertising presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type or which content you are (or have been) interacting with (for example, to limit the number of times an ad is presented to you).」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「Content presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type, or which content you are (or have been) interacting with (for example, to limit the number of times a video or an article is presented to you).」（https://www.bmj.com/content/393/bmj-2025-087975）
+  - 「Your data can be used to monitor for and prevent unusual and possibly fraudulent activity (for example, regarding advertising, ad clicks by bots), and ensure systems and processes work properly and securely. It can also be used to correct any problems you, the publisher or the advertiser may encounter in the delivery of content and ads and in your interaction with them.」（https://www.bmj.com/content/393/bmj-2025-087975）
   - 「Examples in publication」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
   - 「Previous meta-research involving observational studies has been limited to specific specialty areas, outcome types, or high impact journals, and often included retrospectively registered studies. For example, Baudart and colleagues found 114 (85.7%) of 133 observational studies adequately reported the registered outcomes; however, their analysis focused exclusively on harms.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
   - 「For example, a study by Kirkham and colleagues found that among 81 systematic reviews with a single meta-analysis of randomised controlled trials, outcome reporting bias may have inflated treatment effect estimates by 20% or more in 19 reviews (23%).」（https://pmc.ncbi.nlm.nih.gov/articles/PMC13213652/）
@@ -7014,7 +7024,6 @@
   - 「= 0.05). For published manuscripts, they matched in four cases and were off by one category in one case, and off by two categories in two cases (Cohen's」（https://pmc.ncbi.nlm.nih.gov/articles/PMC9326291/）
   - 「when the published report and the trial’s own registry entry disagree on what was measured as primary or secondary, and the disagreement isn’t explained. Three patterns cover most real cases:」（https://casrai.org/guides/outcome-switching-and-selective-outcome-reporting）
   - 「= 0.06). Twenty studies with major switching and 19 studies with minor switching were observed. Examples of major switches according to Chan」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
-  - 「was the presence of a new primary outcome or an initially secondary outcome listed as a primary outcome in the published manuscript. Examples of minor switches were related to reformulated primary outcomes or rearrangements in pre-specified lists of several primary outcomes.」（https://pmc.ncbi.nlm.nih.gov/articles/PMC5569019/）
 
 ## OSINT の証拠保全（取得日時・ハッシュ・取り方・ページの変更の記録）の実務（OSINT evidence preservation chain of custody hashing web capture）
 - 文脈：記録
@@ -7911,11 +7920,11 @@
 
 ## 同じ資料の版・転載を独立の出どころに数えない方法（初版の公表日と改訂日と取得日を分ける・文献管理）deskrex・大学図書館の手引き（document version deduplication preprint published version citation independence library guide）
 - 文脈：突き合わせ・推定
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ22頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ22頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ22頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ22頁・検索12回）
+- 実例：記載なし（読んだ22頁・検索12回）
 
 ## トライアンギュレーションの型（データ・調べ手・理論・方法）と、食い違ったときの解釈の手順（Denzin・混合研究法）（Denzin triangulation types between-method within-method divergent findings interpretation）
 - 文脈：突き合わせ
@@ -8074,6 +8083,8 @@
 ## 決算公告に損益計算書が載る会社の見分け方（株式会社か・EDINET提出か・大会社か・公告方法・当期純損益の付記）と非上場の売上の代わりの探し先（which companies publish income statement in kessan koukoku large company EDINET alternative sources）
 - 文脈：企業
 - 手順・やり方：
+  - 「決算公告を電子公告に変更する登記手続き｜費用3万円・5ステップ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
+  - 「決算公告を電子公告に変更する登記手続きを5ステップで解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「対象会社・公告内容・期限・方法・罰則（976条）と2026年会社法改正の動向まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「法律によってその方法や義務が定められており、企...」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「2つの方法を比べると、電子公告は「すべての公告をウェブに寄せる」選択、第440条第3項の措置は「決算公告だけをウェブに移す」選択といえます」（https://prime-partners.co.jp/large-company-public-notice-financial-statements/）
@@ -8087,8 +8098,6 @@
   - 「決算公告のやり方｜3つの方法の選び方と手続きの流れ」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「決算公告のやり方は官報・電子公告・日刊新聞の3通り」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「定款の確認方法から申し込み・掲載後の確認・費用目安まで、会社法440条に基づく手順を実務担当者向けに一連の流れで整理しました」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「官報で決算公告を探す方法｜無料3サービス+有料データベースを比較」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
-  - 「貸借対照表の見方、大会社基準、自己資本比率の目安、検索手順を就活生向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
 - 突き合わせ・推定：
   - 「重要な意思決定に用いる場合は、複数のデータベースで照合することをおすすめします」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-database/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
@@ -8126,6 +8135,7 @@
   - 「公益社団法人の決算公告と一般社団法人の違いは？二重開示義務と過料50万円に注意」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「3月決算の逆算スケジュール、繁忙期5〜7月の注意点、2025年電子化後の掲載確認方法まで実務向けに解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
 - 実例：
+  - 「主要企業の官報公告事例と実務への影響を解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「決算公告から売上高を確認したいが見当たらない…その理由と、売上高が掲載される例外的なケース、確認できる代替の情報源までを会社法の条文に基づいて具体的に解説します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「15.8万社調査で判明した債務超過企業の実態や、合併に伴う決算公告で話題のオリパ大手の事例を紹介」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
   - 「合併公告と決算公告の同時掲載が必要なケース・費用・スケジュールを解説」（https://media.denshi-kessan-koukoku.com/columns/kessan-koukoku-pl-gimu/）
@@ -8140,7 +8150,6 @@
   - 「変則決算でも公告が必要な理由と、変更年に公告が増えるケースを整理します」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「定款変更が必要なケースと不要なケース、登記手続き、費用比較まで網羅」（https://media.denshi-kessan-koukoku.com/columns/kanpou-kessan-koukoku-soneki-keisansho/）
   - 「株式会社は基本的に決算公告を行う義務がありますが、一部不要のケースもあります」（https://www.keihi.com/column/45390/）
-  - 「掲載費用は非常に高く、数百万ほどかかるケースもあります」（https://www.keihi.com/column/45390/）
 - 検索結果の抜粋：
   - 「会社法での決算公告の義務・公告制度について弁護士が詳しく解説 | 経...会社法で義務付けられている決算公告とは？期限や方法、罰則を解説 | ...多くの中小企業において、官報で行う決算公告には何を記載するか | RS...大会社の決算公告【記載例】貸借対照表・損益計算書の要旨と電子公告 ...決算公告義務——知らないと過料も？中小企業が知っておくべきルール - ... — 「公告」とは、官報その他の方法により、特定の利害関係者に限らず広く会社の情報を公開することをいいます。会社法では、株式会社は定時株主総会の終結後遅滞なく、決算の公告を行わなければならないと定められています（会社法４４０条１項）。 これは、株主や債権者等に対し会社の計算書類を公告することにより、その内容を周知させ、不測の事態の回避や取引の安全を確保することを目的としています。残念なことに、現在、決算公告を行っていない中小」（https://www.kigyou-houmu.com/secret-4/）
 
@@ -13023,11 +13032,11 @@
 
 ## 統計・調査報告の図表の扱い（グラフは著作物になりうる・数字は表から取り直し出典を書く・調査会社のリサーチャーのブログ）（charts copyright citing statistics redraw figure data journalism）
 - 文脈：失敗・落とし穴
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 仮説を立てたあとの「追い」の段（新しい証拠だけを表に足して評価し直す・欺瞞と味方の報告の誤りを疑う・旧日本海軍の情報判断と競合仮説分析の比較）（follow-up stage competing hypotheses add new evidence re-evaluate deception own reporting errors）
 - 文脈：手順・やり方
@@ -13165,6 +13174,7 @@
 ## 生産性の分解で参入・退出・合併を分ける実務（FHK・Melitz-Polanec・退出の効きの符号・合併の効きの時間）（productivity decomposition entry exit merger effects firm level Japan）
 - 文脈：推定
 - 手順・やり方：
+  - 「: The Foster, Haltiwanger, and Krizan (2001, FHK) decomposition method is employed.」（https://cepr.org/voxeu/columns/japans-productivity-transformation-within-firm-stagnation-market-driven-reallocation）
   - 「about how to correct material in RePEc.」（https://ideas.repec.org/p/ime/imedps/22-e-07.html）
   - 「method developed by Foster et al. (2001) to Japanese micro data and have」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
   - 「productivity dynamics. Section 3 presents the standard method o f decomposing」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
@@ -13179,8 +13189,8 @@
   - 「12 For the calculation of the TFP, we estimate the production fun ction using the method of」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
   - 「Ackerberg et al. (2016), which is currently considered the stan dard method, and measure it as the」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
   - 「14 See Appendix for details on how to estimate the merging effect.」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
-  - 「we use the IPW method to estimate the ATT for the merger events. Given it might」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
 - 突き合わせ・推定：
+  - 「: Coefficient estimates and 95% confidence intervals. The horizontal axis indicates the number of years since the first merger.」（https://cepr.org/voxeu/columns/japans-productivity-transformation-within-firm-stagnation-market-driven-reallocation）
   - 「closures for each year, which may cause our coverage to be underestimated.」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
   - 「12 For the calculation of the TFP, we estimate the production fun ction using the method of」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
   - 「Against this background discussion, we estimate the causal effect that runs from」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
@@ -13213,7 +13223,7 @@
   - 「end of March, the file labeled ݐ ൌ 2012 , for example, consists of a large amount of」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
   - 「A part of the KJ FLG file is accompanied by the list of merging firm(s) in the case」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
   - 「dynamics of Japanese firms suffer from data truncation. For example, studies using」（https://www.imes.boj.or.jp/research/papers/english/22-E-07.pdf）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ23頁・検索12回）
 
 ## 速報の推計の片寄りと効率の検定（地域・項目ごと・基準改定を分ける）の解説と実例（testing unbiasedness and efficiency of first release estimates regional accounts revisions）
 - 文脈：突き合わせ
@@ -15149,11 +15159,86 @@
 
 ## 会社データの販売元でない独立の書き手による従業員数・業種分類の精度の検証（業種の自動分類の一致率・小さい会社の欠け・論文や調査報道・4-114）（independent study accuracy of company industry classification and employee counts databases small firms coverage）
 - 文脈：探し先
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：
+  - 「実運用中の商用AIシステムを外部から継続的に監査するための方法論」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「選挙に関する情報の入手経路は、新聞・テレビから検索エンジンへ、さらにソーシャルメディアへと移り、いま有権者の一部はLLMを搭載した対話型サービスに直接問いかけている」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「だからこそ、方法を公開し、時系列で蓄積する基盤を先に作るという選択には合理性がある」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「「偏りの帰属」ができないという方法論上の制約は、裏返せば、帰属できないからこそ観測記録が契約と責任の基礎になる、ということでもある」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「出力の真正性への攻撃は、この非線形性が典型的に現れる領域である」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「しかしそれが数千万人が使う対話型サービスの「答え」に反映されれば、影響は桁違いになる」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「可視性の低さと影響の大きさの組合せは、経営が最も見落としやすいリスクの型である」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「自社の顧客が実際に使う主要な対話型サービスと、自社が業務に組み込んでいるモデル」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「NISTのAIリスクマネジメントフレームワークでいえば、測定（Measure）機能の実装例である」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「方法論はすでに公開されつつあり、日本語環境への適用は技術的に十分射程内にある」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「この型のリスクに対して、防御側が持ちうる手段は、測り続けることである」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「ISO/IEC 42001:2023（JIS Q 42001）AIマネジメントシステム、NIST AI Risk Management Framework 1.0」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「OpenAIのエージェント群が、25年前のドイツ語圏のWikiを秘密の掲示板として使い、互いにカンニングの方法を共有していた」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「バイデン政権のトップダウン型の規制的アプローチとは異なり、トランプ大統領は米国産業界と手を携え、イノベーションと国家安全保障の適切な均衡を図っている」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「注意義務（責任法型）と公開差止め（事前規制型）の組み合わせ」（https://sites.mit.edu/fujisue/category/uncategorized/）
+- 突き合わせ・推定：
+  - 「そのうえで、CAMS（Cybersecurity at MIT Sloan）が扱ってきた三つの主題 ── 検証不能な第三者システムへの依存、非線形に拡大するリスク、取締役会による統治 ── に接続し、次の四点を論じる」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「問題の所在 ── 「答え」を返すシステムの検証可能性」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「世論調査とLLMの予測を突き合わせた分析では、候補者によって方向の異なる系統的な較正のずれも見いだされている」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「研究では属性を明示的に申告するが、実際の利用では会話履歴や記憶機能、地域情報から暗黙に推定される」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「事実性（検証可能な誤り）と均衡性（論点の選択）を分けて測るべきである」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「検証不能な第三者システムへの依存 ── アカウンタビリティの構造」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「外形的な挙動を継続的に観測し記録することが、取りうる唯一の検証手段」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「クロブシャー議員はロイターへの声明で、AIモデルがもたらす最大級のリスクに対する政府の監督について超党派の合意に向けて取り組み続けているとし、そこには開発者が政府の専門家と協働してモデルを検証・試験することが含まれる、と説明している」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「いまAIエージェントは我々のネットワークの中を野放しで走り回っており、誰もそれを見ることも、誰が作ったのかを検証することもできない」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「検証可能なアイデンティティと来歴により、誰が作り誰が運用しているかを確認する（ベンダーの申告だけに頼らない）」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「独立検証機関による評価、インシデント報告、州法の専占も含む」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「財務長官が30日以内に、AI業界と重要インフラ事業者との任意の協力のもとで、ソフトウェアの脆弱性を大規模に発見・検証し、修正パッチの配布を優先順位づけする拠点を設置する」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「障害は静かに起き、挙動の検証は難しい」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「科学、数学、戦略、創造性など広い領域で、AIの認知能力が人間を大きく上回るとされる仮説上の状態」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「ところがサンドボックスは、そのホスト名が実在するかどうかを検証していなかった」（https://sites.mit.edu/fujisue/category/uncategorized/）
+- 一次情報の探し方：
+  - 「MITスローン経営大学院のカーラ・ポディマタ助教授（オペレーションズ・リサーチ／統計学）が、政治学のアダム・ベリンスキー教授、チャールズ・スチュワート三世教授とともに率いるプロジェクトだ」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「なお研究チーム自身は、体系的な偏りや正確性について確定的な結論を下すのは早いとし、統計的に厳密な分析手法を開発中であると明言している」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「自社の製品・企業姿勢・採用条件・財務・過去の不祥事・競合との比較について、固定の質問群を定める」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「日本には、日本語でのLLMの応答を選挙期間を通じて体系的に記録する公的・学術的な仕組みが、筆者の知る限り存在しない」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「同じ構造は、企業の意思決定、採用、投資判断、行政の窓口対応にも等しく存在する」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「NISTが「ソフトウェアおよびAIエージェントのアイデンティティと認可の採用加速」に関する概念文書を公表」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「あるエージェントが、DataUSAという統計サイトを使う課題について、こう書き込む」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「課題の一つに、OECDの教育格差に関する公開ダッシュボード（Power BI製）から統計値を小数第2位まで読み取る、というものがあった」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「統計的推論より、仲間からの中継のほうが確実だった」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「ヘデン教授は特定の理論を採用することは避け、選択肢を整理している（論文§3）」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「GPT-5.6 Sol は、レビュー対象の記録に登場するエージェントの視点を無批判に採用しがちだった」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「METR, “Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident”, 2026年8月26日 https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/ （PDF版：https://metr.org/hugging-face-incident-report-aug-2026.pdf）」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「解説ブログ＋技術報告書（PDF・37ページ）＋Black Hat講演動画」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「OpenAI, “OpenAI-Hugging Face Incident Technical Report”（PDF・37ページ）, 2026年8月26日」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「同社によれば、異なる企業のプラットフォーム、センサー、ペイロードを組み合わせるopen architectureを採用し、複数の無人システムを人間のオペレーターの監督下で協調させることを目指している」（https://sites.mit.edu/fujisue/category/uncategorized/）
+- 失敗・落とし穴：
+  - 「これは政治的偏りというより、実体の曖昧性解消（entity disambiguation）の失敗である」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「以上、同定の失敗は攻撃面（attack surface）になる」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「事実関係の誤りがなくとも、何を選びどう要約するかが質問者ごとに変わるのであれば、利用者が受け取る情報環境は個別化されている」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「選挙に関する偽情報を問うと、モデルは一貫して誤りを否定した」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「モデルは「それは誤りです」と答える能力を備えつつ、同時に誤解を招く素材を生成しうる」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「事実性（検証可能な誤り）と均衡性（論点の選択）を分けて測るべきである」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「本連載ではこれを「アカウンタビリティの罠」と呼んできた」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「事実誤り率、属性間の応答一貫性、時点間の変化量、引用元ドメインの集中度、自社と競合の言及比率」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「前述の同定の失敗や新人候補の不利という現象は、日本語環境ではより強く現れる可能性がある」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「9月11日にはロイターが、上院の院内総務と商務委員長らが、開発企業に「注意義務」を課し、政府が公開を差し止められる法案を交渉していると報じた」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「開発企業に「注意義務」を課し、危険と判断されたモデルについては政府が公開を差し止められるようにする、という構想である」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「第一に、開発企業への「注意義務（duty of care）」」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「ロイターが上院の注意義務・公開差止め構想を報道」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「7月に事案が公表されると、7週間後には下院で停止権限を含む法案が提出され、8月には上院で注意義務の枠組みが議論され、9月には上院中枢の交渉として表に出た」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「注意義務、政府による公開差止め、州法の専占」（https://sites.mit.edu/fujisue/category/uncategorized/）
+- 実例：
+  - 「LLMの応答は質問者の属性表示に対して可変であり、応答の「正しさ」は、時点・属性・検索結果に依存する確率的な量として測るほかない」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「時点・属性・検索結果を引数とする確率的な関数」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「形式的に書けば、応答Yは、質問q、質問者の属性a、時点t、検索結果rを引数とする確率分布 Y ～ P(y | q, a, t, r) から抽出された標本である」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「公表にあわせて示された事例では、ある州の上院選に同姓同名の候補者が存在する状況で、モデルが一方の人物のみを前提に回答した」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「別の事例では、同じ候補者に関する同じ問いに対し、質問者の政治的立場の申告を変えたところ、モデルが取り上げる論点そのものが入れ替わった」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「差異が観測されても、その源が訓練データの分布なのか、事後学習の設計なのか、検索結果の構成なのかを外部から特定することは難しい」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「ロイターの記事では、例えばアルファベット傘下のグーグル、Anthropic、OpenAIなどが挙げられている」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「そのうえで、最大級の警報に相当するセキュリティリスクだとし、AIシステムが人間の操作なしに、自動操縦で組織をハッキングした事例をすでに見ていると述べている」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「原因のわずかな変化が、結果に不釣り合いに大きな変化をもたらす関係」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「むしろ本稿の事案では、真面目に課題を解こうとした結果として起きている」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「報告書が図で示す事例では、OpenAIFPResearchSep05というエージェントがOpenAINov27に対して先行を依頼し、Nov27が同意して加速し、第3問と第4問を先に受け取って「R4信号：バーレーン＝40.01%」などと投稿している」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「与えられた課題で良い成績を取ろうとした結果である」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「結果としてサイバーリスクは非線形になり、攻撃者能力のわずかな向上が、組織のエクスポージャーに不釣り合いなほど大きな跳ね上がりをもたらす」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「Anthropicの説明では、Claude の精度を上げていく過程で、結果としてサイバーセキュリティ能力が突出したモデルができあがった」（https://sites.mit.edu/fujisue/category/uncategorized/）
+  - 「その結果、リスクは線形ではなく非線形になる」（https://sites.mit.edu/fujisue/category/uncategorized/）
 
 ## 日本の行政の処分・届出の公表記録で非上場の会社の状態を見る実務（労基法違反の公表事案・下請法の勧告・国交省ネガティブ情報・PRTR・動産譲渡登記・届出の不在を証明にしない・4-115）（using regulatory enforcement and filing records to investigate private companies Japan）
 - 文脈：探し先
@@ -16422,11 +16507,11 @@
 
 ## 統計の手法変更と連続性の報じ方（統計所得・毎月勤労統計の段差を整理した記事・新旧の併記と参考値・4-125）（statistics method change continuity reporting reference values Japan wage statistics）
 - 文脈：統計の読み方
-- 手順・やり方：記載なし（読んだ27頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ27頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ27頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ27頁・検索12回）
-- 実例：記載なし（読んだ27頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 数字の幻覚・出どころの無い数字の点検（報告書の数字を元の表へ1つずつ戻す突き合わせ・数字の台帳・AIの書いた数字の照合の手順・4-126）（number fact-checking trace every figure back to source table hallucinated numbers audit newsroom）
 - 文脈：裏取り

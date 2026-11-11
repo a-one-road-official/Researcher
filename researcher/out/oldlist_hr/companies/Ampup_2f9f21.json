@@ -1,0 +1,1696 @@
+{
+ "name": "Ampup",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜NG",
+ "researched_at": "2026-11-11T00:28:32.553690+00:00",
+ "official_url": "https://ampup.io",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AmpUp helps utilities run demand-response programs that cut costs and save energy.",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Control access, pricing, and usage at any site.",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Customize access, pricing, and availability to fit any charging scenario, whether public, private, or fleet-based.",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Attract and retain tenants with reliable charging designed to integrate with your existing property management system.",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "from all the top EV charger brands, giving you the flexibility to choose chargers proven for reliable performance.",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "50+ rebate programs",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Every project is a story of collaboration and sustainability. Learn how AmpUp is creating the future of electric mobility.",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "to deploy 50 chargers in four states, modernizing delivery operations with an electric-first approach.",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Six chargers at FNB Tower introduced tailored pricing for",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "chargers went live for county fleets, paired with analytics and fraud prevention to keep operations running smoothly.",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "installed at key sites kept running through harsh New England winters, proving durable and dependable for residents.",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "New parking facilities included EV chargers managed by AmpUp, improving the patient and staff experience while generating revenue.",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": ", with the city gaining better reliability, analytics, and control over pricing.",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Guests now plug in at Wynn properties with chargers tailored to access needs and aligned with the resort’s premium brand.",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "AmpUp actively supports 130+ different makes and models on our platform, including AC to ultra-fast DC and streetlight-mounted EV chargers for on-street parking. With full OCPP-compliance, AmpUp ensures seamless compatibility with proven, high-performance chargers, giving you the freedom to choose the best solution for your needs.",
+    "url": "https://www.ampup.io/resources/approved-ev-charger-manufacturers",
+    "pass": 1
+   },
+   {
+    "quote": "This page outlines approved EV charger manufacturers that have been tested, integrated, or verified to work with AmpUp across commercial, residential, and public charging environments.",
+    "url": "https://www.ampup.io/resources/approved-ev-charger-manufacturers",
+    "pass": 1
+   },
+   {
+    "quote": "Autel provides a range of AC and DC EV chargers featuring advanced technologies such as smart services suitable for a wide range of residential and commercial applications.",
+    "url": "https://www.ampup.io/resources/approved-ev-charger-manufacturers",
+    "pass": 1
+   },
+   {
+    "quote": "breezEV offers reliable L2 and DC charging hardware, tailored for commercial, municipalities, and multi-unit properties.",
+    "url": "https://www.ampup.io/resources/approved-ev-charger-manufacturers",
+    "pass": 1
+   },
+   {
+    "quote": "CyberSwitching provides scalable EV charging hardware solutions designed for public and private infrastructure needs.",
+    "url": "https://www.ampup.io/resources/approved-ev-charger-manufacturers",
+    "pass": 1
+   },
+   {
+    "quote": "Ledvance provides PHASE EV™ Level 2 charging stations built for efficiency and durability in commercial and multi-unit sites.",
+    "url": "https://www.ampup.io/resources/approved-ev-charger-manufacturers",
+    "pass": 1
+   },
+   {
+    "quote": "Legrand offers AC EV chargers for residential and commercial use. Built on decades of electrical expertise, Legrand's chargers prioritize safety, reliability, and quality.",
+    "url": "https://www.ampup.io/resources/approved-ev-charger-manufacturers",
+    "pass": 1
+   },
+   {
+    "quote": "Wallbox provides electric vehicle charging solutions that take EV charging to the next level. By developing state-of-the-art electric vehicle charging solutions, Wallbox makes possible more efficient and more sustainable ways of using and sharing energy.",
+    "url": "https://www.ampup.io/resources/approved-ev-charger-manufacturers",
+    "pass": 1
+   },
+   {
+    "quote": "Pulsar Plus 40A & 48A; Pulsar Pro",
+    "url": "https://www.ampup.io/resources/approved-ev-charger-manufacturers",
+    "pass": 1
+   },
+   {
+    "quote": "AmpUp helps employers deliver reliable, employee-friendly EV charging across offices, corporate campuses, and workplaces of any size. With access controls, pricing tools, and energy management, AmpUp makes it easy to deploy, monitor, and scale workplace charging programs.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Total Control Over Employee or Visitor Access & Pricing",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Create custom user tiers to adjust pricing, prioritize access during work hours, and reserve spaces for employees and the public.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Let your employees book charging in advance to reduce wait times and promote equitable access.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Oversee every aspect of your ecosystem with automated alerts, and comprehensive performance data.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Multi-Site Management",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor usage, uptime, and energy draw across properties from",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Budget & Pricing Controls for Employers",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Scalable Charging for Growing Workforces",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Take control of your energy spend with AmpUp’s load management tools and time-of-day pricing.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how AmpUp has helped top organizations like Under Armour and Citizens Bank implement workplace EV chargers to improve energy efficiency, sustainability metrics, and employee satisfaction.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "to install EV chargers, providing employees with a reliable and scalable workplace solution.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "upgraded to AmpUp-powered chargers, gaining improved reliability, access controls, and a reservation system to enhance employee charging experiences.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "partnered with AmpUp to equip Stamford’s new commuter garage with reliable EV chargers, promoting urban mobility and EV adoption.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "implemented AmpUp Core, activating 6 chargers with tailored pricing for residents and public users in downtown Charlotte.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "to install 104 EV chargers delivering enhanced analytics, fraud prevention, and reliable performance for their fleet vehicles.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "partnered with AmpUp to install chargers across their property, offering tailored access and pricing to enhance the guest experience.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "AmpUp helps employers identify eligible incentive programs and streamline the documentation required for rebates, reducing upfront costs and accelerating workplace charging rollouts.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "AmpUp is approved for over",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "50 incentive programs,",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": ". Give priority to staff during business hours, then open chargers to the public after hours. Change any setting remotely from one dashboard.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "caps the total power chargers can draw, and AmpUp Pro lets you schedule lower caps during your utility’s peak hours. Pair it with",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "That’s your call. AmpUp supports free charging as a perk, per-kWh or per-hour pricing, and time-of-use rates, and you can set different prices for employees and visitors. Many employers start free and add pricing as demand grows.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "AmpUp delivers 99.9% platform uptime. KlooBot AI diagnostics find the root cause of a fault and fix many issues remotely, so a charger problem doesn’t sit until someone files a facilities ticket.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Often, yes. AmpUp connects businesses to over 50 utility rebate programs and government incentives, and our team helps with the applications. See",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with AmpUp | EV Charging for Pros",
+    "url": "https://www.ampup.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Join AmpUp’s growing network of partners powering the future of EV charging. With commercial EV demand surging, we give you the tools, training, and support to meet the moment and grow",
+    "url": "https://www.ampup.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Get prioritized for client service needs and turn installs into repeat work.",
+    "url": "https://www.ampup.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "pre-configured hardware",
+    "url": "https://www.ampup.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Field Console training for contractor networks",
+    "url": "https://www.ampup.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Fulfillment support for compatible, pre-commissioned stations",
+    "url": "https://www.ampup.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "You bring innovation and product expertise. AmpUp guarantees your chargers are easy to deploy, reliable in the field, and backed by the industry’s most trusted charging management platform.",
+    "url": "https://www.ampup.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-commissioned software for faster go-to-market",
+    "url": "https://www.ampup.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Co-marketing and channel support to expand adoption",
+    "url": "https://www.ampup.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "You bring expertise and customer insight. AmpUp adds proven charging software, project tools, and flexible access control to help you deliver more value.",
+    "url": "https://www.ampup.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Offer consulting, project oversight, and integration services",
+    "url": "https://www.ampup.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Provide pre- and post-sales support for customer success",
+    "url": "https://www.ampup.io/become-a-partner",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "EV Charging Solutions for Grid Operators",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Smart Charging Solutions for Grid Operators",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "One platform for all: drivers, operators, and installers.",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Franchise operators adopted",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Certified & Compatible EV Charger Manufacturers",
+    "url": "https://www.ampup.io/resources/approved-ev-charger-manufacturers",
+    "pass": 1
+   },
+   {
+    "quote": "This page outlines approved EV charger manufacturers that have been tested, integrated, or verified to work with AmpUp across commercial, residential, and public charging environments.",
+    "url": "https://www.ampup.io/resources/approved-ev-charger-manufacturers",
+    "pass": 1
+   },
+   {
+    "quote": "LEOTEK manufacturers a powerful and intelligent EV charging solution delivering up to 11.5 kW for faster vehicle charging.",
+    "url": "https://www.ampup.io/resources/approved-ev-charger-manufacturers",
+    "pass": 1
+   },
+   {
+    "quote": "These chargers can be migrated to the AmpUp platform from existing networks, allowing operators to transition hardware without replacing equipment.",
+    "url": "https://www.ampup.io/resources/approved-ev-charger-manufacturers",
+    "pass": 1
+   },
+   {
+    "quote": "These manufacturers offer limited support or are no longer in the market. AmpUp might be able to perform a software takeover, though replacement may be the best option.",
+    "url": "https://www.ampup.io/resources/approved-ev-charger-manufacturers",
+    "pass": 1
+   },
+   {
+    "quote": "Nearly every EV on the road can use a standard Level 2 J1772 charger, and Tesla drivers can use a J1772 adapter. If you want NACS connectors, AmpUp runs on OCPP-compliant chargers from many manufacturers, including NACS options. See",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware Manufacturers",
+    "url": "https://www.ampup.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Fleet Charging Management Best Practices: A Complete Guide for Fleet Operators",
+    "url": "https://www.ampup.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "AmpUp Adapt & Earn is a managed EV charging program that helps utilities reduce peak demand up to 3× more efficiently than peaker plants, while rewarding the drivers and properties that make it possible.",
+    "url": "https://www.ampup.io/products/managed-ev-charging",
+    "pass": 1
+   },
+   {
+    "quote": "For Utilities & Grid Operators",
+    "url": "https://www.ampup.io/products/managed-ev-charging",
+    "pass": 1
+   },
+   {
+    "quote": "compared with peaker plants",
+    "url": "https://www.ampup.io/products/managed-ev-charging",
+    "pass": 1
+   },
+   {
+    "quote": "and site operators through a centralized cloud platform, AmpUp EV Cloud. Hosts use the dashboard to set access rules, pricing, and schedules, while AmpUp continuously monitors charger health, sessions, and energy use. Drivers access stations and payments through the",
+    "url": "https://www.ampup.io/products/ev-charging-management-software",
+    "pass": 1
+   },
+   {
+    "quote": ", and operators get real-time visibility, alerts, and reporting across their network.",
+    "url": "https://www.ampup.io/products/ev-charging-management-software",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. AmpUp is built for multi-site management, allowing operators to oversee chargers across",
+    "url": "https://www.ampup.io/products/ev-charging-management-software",
+    "pass": 1
+   },
+   {
+    "quote": "EV charging management software is used by",
+    "url": "https://www.ampup.io/products/ev-charging-management-software",
+    "pass": 1
+   },
+   {
+    "quote": "fleet operators,",
+    "url": "https://www.ampup.io/products/ev-charging-management-software",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Installers & Operators Across",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-installers",
+    "pass": 1
+   },
+   {
+    "quote": "is built for scalability. It allows installers and operators to manage multiple sites from a centralized dashboard, making it easy to oversee large portfolios of EV charger installs while tracking performance, energy usage, and user access",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-installers",
+    "pass": 1
+   },
+   {
+    "quote": "commonly used in multifamily and residential settings. Because the platform is hardware-agnostic, property owners can choose chargers that fit their electrical capacity, budget, and site constraints without being locked into a single manufacturer.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-residential",
+    "pass": 1
+   },
+   {
+    "quote": "AmpUp helps fleet operators deploy, manage, and scale EV charging across depots, distribution centers, and on-route locations. With real-time visibility, intelligent automation, and reliable performance, AmpUp ensures vehicles are charged, routes stay on schedule, and fleet electrification goals are met.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-fleets",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize electricity costs and capture new revenue streams from chargers used by both your fleet and the public.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-fleets",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted Fleet Charging Partner for Commercial Operators Nationwide",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-fleets",
+    "pass": 1
+   },
+   {
+    "quote": "AmpUp has partnered with top fleet operators to deliver",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-fleets",
+    "pass": 1
+   },
+   {
+    "quote": "AmpUp supports depot-based fleet EV charging through its centralized fleet charging platform, which gives operators control over charger availability, power distribution, and charging schedules at each site. Using the tools available in AmpUp’s fleet EV charging management solution, fleets can charge more vehicles overnight while avoiding electrical overloads and operational bottlenecks.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-fleets",
+    "pass": 1
+   },
+   {
+    "quote": "Can fleet operators manage multiple depots and locations in one platform?",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-fleets",
+    "pass": 1
+   },
+   {
+    "quote": ", operators can monitor charger status, manage access rules, and review usage data across all locations from a single dashboard, making it easier to scale operations as fleets grow.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-fleets",
+    "pass": 1
+   },
+   {
+    "quote": "AmpUp helps fleets keep vehicles ready for daily routes by combining scheduled charging, real-time monitoring, and automated alerts within its fleet charging platform. If a charger goes offline or a session is interrupted, operators are notified quickly, allowing issues to be resolved before vehicles miss a departure window.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-fleets",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond the depot, AmpUp supports on-route charging by connecting fleet drivers to public charging networks while keeping all activity visible in the fleet charging dashboard. Charging sessions and costs sync back automatically, giving operators full visibility even when vehicles are off-site.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-fleets",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Municipalities Across North America",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-municipalities",
+    "pass": 1
+   },
+   {
+    "quote": "AmpUp is hardware-agnostic. It runs on OCPP-compliant chargers from a wide range of manufacturers, so you’re never locked into one brand. If your property already has chargers on another network, AmpUp can often take them over. See our",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-hotels",
+    "pass": 1
+   },
+   {
+    "quote": "Another consideration is pricing based on the type of EV charger. Premium services like fast and ultra-fast DC chargers warrant higher prices due to their ability to charge vehicles quickly and efficiently. Parking operators might use this model to offer faster charging options for a premium fee, catering to customers who need a quick turnaround.",
+    "url": "https://www.ampup.io/blog/ev-charging-pricing-models",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Improving EV Charger Reliability | AmpUp",
+    "url": "https://www.ampup.io/blog/ev-charger-reliability-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: AmpUp’s EV Charger Reliability",
+    "url": "https://www.ampup.io/blog/ev-charger-reliability-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Network Connectivity Case Study: Rising to the Challenge",
+    "url": "https://www.ampup.io/blog/ev-charger-reliability-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "TOU pricing in AmpUp isn't new, but until now hosts configured it as percentage adjustments layered on a base rate. Feedback from site operators was consistent: percentages made it hard to know what drivers would actually pay. The updated feature removes the math entirely.",
+    "url": "https://www.ampup.io/blog/time-of-use-ev-charging-rates",
+    "pass": 1
+   },
+   {
+    "quote": ", so hosts get compliant TOU pricing without being locked into a single manufacturer.",
+    "url": "https://www.ampup.io/blog/time-of-use-ev-charging-rates",
+    "pass": 1
+   },
+   {
+    "quote": "Complete guide to multifamily EV charging. Learn installation strategies, resident billing, and ROI models for owners and operators.",
+    "url": "https://www.ampup.io/blog/multifamily-ev-charging-solutions-guide",
+    "pass": 1
+   },
+   {
+    "quote": "EV charging infrastructure involves electrical design, load management, and safety considerations that vary by site. Before finalizing system design or installation plans, property owners and operators should consult with a licensed electrician, a certified electrical engineer, or a qualified EV charging professional familiar with local codes and utility requirements.",
+    "url": "https://www.ampup.io/blog/multifamily-ev-charging-solutions-guide",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: AmpUp’s EV Charger Reliability",
+    "url": "https://www.ampup.io/blog-tag/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Leading U.S. EV Manufacturer",
+    "url": "https://www.ampup.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive / Direct-to-Consumer",
+    "url": "https://www.ampup.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "L&D Team, Leading U.S. EV Manufacturer",
+    "url": "https://www.ampup.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "EV Manufacturer Drives 30% Closing Uplift with AI Roleplay",
+    "url": "https://www.ampup.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "How a leading EV manufacturer scaled their direct-to-consumer sales motion and projected ~$100M in incremental revenue.",
+    "url": "https://www.ampup.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Leading U.S. EV Manufacturer",
+    "url": "https://www.ampup.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "AmpUp deployed a suite of AI roleplay agents mirroring the customer lifecycle (Pre-Drive, Post-Drive, and Closer agents) configured with the manufacturer's terminology, real customer personality traits, and objection patterns. An Adaptive Knowledge Loop replaced linear training for new feature launches.",
+    "url": "https://www.ampup.ai/case-studies",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Support employees and visitors with dependable EV charging, flexible access options, and simple tools to track usage.",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Elevate guest experiences with reliable EV chargers, easy access, and tools to drive revenue and customer loyalty.",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": ", strengthening reliability for both employees and residents.",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Streetlight-mounted chargers became part of a citywide initiative, bringing",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "New parking facilities included EV chargers managed by AmpUp, improving the patient and staff experience while generating revenue.",
+    "url": "https://www.ampup.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Create custom user tiers to adjust pricing, prioritize access during work hours, and reserve spaces for employees and the public.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Let your employees book charging in advance to reduce wait times and promote equitable access.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "99.9% Uptime Your Employees Can Rely On",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Offering EV charging shows employees and tenants that your workplace is forward-thinking and sustainable. It’s more than an amenity – it’s a reason to choose you over the competition.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "to install EV chargers, providing employees with a reliable and scalable workplace solution.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Workplace EV charging helps you recruit and keep employees who drive EVs, gives visitors a reason to stay longer, and turns charging sessions into data for sustainability reporting. Open chargers to the public after hours and they can earn revenue from visitors and nearby drivers.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Create access groups for employees, visitors, and executives in AmpUp’s",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Most employees arrive within the same hour, and that morning rush can set a new peak demand charge. AmpUp’s",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Should employers charge employees for EV charging?",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "That’s your call. AmpUp supports free charging as a perk, per-kWh or per-hour pricing, and time-of-use rates, and you can set different prices for employees and visitors. Many employers start free and add pricing as demand grows.",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Instant revenue tracking",
+    "url": "https://www.ampup.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Instant revenue tracking and payouts",
+    "url": "https://www.ampup.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Extra Revenue for Site Hosts",
+    "url": "https://www.ampup.io/products/managed-ev-charging",
+    "pass": 1
+   },
+   {
+    "quote": "Managed EV charging shifts charging sessions away from peak hours to balance grid demand, reduce costs, and create new revenue. AmpUp Adapt & Earn automates this process with instant driver rewards, host incentives, and tools built for helping utility programs scale.",
+    "url": "https://www.ampup.io/products/managed-ev-charging",
+    "pass": 1
+   },
+   {
+    "quote": "to participate in existing managed charging programs or event based demand response programs to earn additional revenue. Utilities can also use Adapt and Earn to launch their own managed charging and demand response pilots quickly, monitor performance in real time, and scale participation.",
+    "url": "https://www.ampup.io/products/managed-ev-charging",
+    "pass": 1
+   },
+   {
+    "quote": "Site hosts receive incentives as additional source of revenue for making chargers available during the program. Enrollment is automatic, with opt-out flexibility, and payments go directly into host accounts.",
+    "url": "https://www.ampup.io/products/managed-ev-charging",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue and Pricing Management",
+    "url": "https://www.ampup.io/products/ev-charging-management-software",
+    "pass": 1
+   },
+   {
+    "quote": "Generate revenue with flexible pricing that supports both public and private access models.",
+    "url": "https://www.ampup.io/products/ev-charging-management-software",
+    "pass": 1
+   },
+   {
+    "quote": "Manage charger access across apps, RFID cards, and groups across employees, residents, or the public.",
+    "url": "https://www.ampup.io/products/ev-charging-management-software",
+    "pass": 1
+   },
+   {
+    "quote": "Elevate guest experiences with reliable EV chargers, easy access, and tools to drive revenue and loyalty.",
+    "url": "https://www.ampup.io/products/ev-charging-management-software",
+    "pass": 1
+   },
+   {
+    "quote": "Support employees and visitors with dependable charging, flexible access options, and tools to track usage.",
+    "url": "https://www.ampup.io/products/ev-charging-management-software",
+    "pass": 1
+   },
+   {
+    "quote": "Use AmpUp’s EV Charging Calculator to estimate how much revenue you could generate with the right setup. From workplace chargers to multifamily stations, see the financial impact of AmpUp's smart EV tech.",
+    "url": "https://www.ampup.io/products/ev-charging-management-software",
+    "pass": 1
+   },
+   {
+    "quote": "Calculate Your EV Revenue",
+    "url": "https://www.ampup.io/products/ev-charging-management-software",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible Revenue Models for Your Clients",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-installers",
+    "pass": 1
+   },
+   {
+    "quote": "Explore EV Charging Client Revenue",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-installers",
+    "pass": 1
+   },
+   {
+    "quote": "With AmpUp’s revenue calculator, you can impress clients by demonstrating potential revenue, savings, and long-term value. Turn \"why install EV chargers?\" into \"how soon can we start?\"",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-installers",
+    "pass": 1
+   },
+   {
+    "quote": "St. Francis Hospital chose AmpUp to equip its new parking structure with reliable EV chargers, enhancing user experience and enabling revenue collection.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-installers",
+    "pass": 1
+   },
+   {
+    "quote": "EMWD partnered with AmpUp to manage 95 chargers for their fleet and employees, saving over $10,000 annually with smart energy management.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-installers",
+    "pass": 1
+   },
+   {
+    "quote": "AmpUp helps property owners recover costs, plan expansions, and improve asset value. Curious what EV charging could mean for your property? Use AmpUp’s revenue calculator to estimate how chargers can recover operational costs and increase your bottom line.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-residential",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're managing a single HOA, a mid-sized condo, or a multi-site portfolio, AmpUp offers tools to meet your needs. All plans come with our trusted platform, all you need to do is choose the right level of control, reporting, and revenue for your property.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-residential",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize electricity costs and capture new revenue streams from chargers used by both your fleet and the public.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-fleets",
+    "pass": 1
+   },
+   {
+    "quote": "to install EV chargers, providing employees with a reliable and scalable workplace solution.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-fleets",
+    "pass": 1
+   },
+   {
+    "quote": "Use AmpUp’s calculator to explore the potential revenue and environmental benefits of your EV charging investments. Empower your municipal stakeholders with data to back every decision.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-municipalities",
+    "pass": 1
+   },
+   {
+    "quote": "EMWD partnered with AmpUp to manage 95 chargers for their fleet and employees, saving over $10,000 annually with smart energy management.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-municipalities",
+    "pass": 1
+   },
+   {
+    "quote": "chose AmpUp to equip its new parking structure with reliable EV chargers, enhancing user experience and enabling revenue collection.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-municipalities",
+    "pass": 1
+   },
+   {
+    "quote": "MGM Springfield upgraded to AmpUp-powered EVSE chargers, enhancing EV driver experience while enabling reliable revenue collection for the casino.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-municipalities",
+    "pass": 1
+   },
+   {
+    "quote": "AmpUp delivers tailored EV charging solutions for hospitality venues, combining reliability, scalability, and revenue potential to enhance guest satisfaction and operational efficiency.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-hotels",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible pricing options let you set competitive rates for guests, visitors, and public users, turning EV charging into a consistent revenue stream without adding operational hassle.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-hotels",
+    "pass": 1
+   },
+   {
+    "quote": "Offer flexible pricing or set peak/off-peak rates to generate revenue and manage demand effectively.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-hotels",
+    "pass": 1
+   },
+   {
+    "quote": "Use AmpUp’s calculator to discover how EV chargers can generate revenue, improve guest satisfaction, and support your property’s sustainability goals.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-hotels",
+    "pass": 1
+   },
+   {
+    "quote": "MGM Springfield upgraded to AmpUp-powered EVSE chargers, enhancing EV driver experience while enabling reliable revenue collection for the casino.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-hotels",
+    "pass": 1
+   },
+   {
+    "quote": "St. Francis Hospital chose AmpUp to equip its new parking structure with reliable EV chargers, enhancing user experience and enabling revenue collection.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-hotels",
+    "pass": 1
+   },
+   {
+    "quote": ". Many properties use paid sessions to cover their costs and turn chargers into a revenue line. See what your property could earn with the",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-hotels",
+    "pass": 1
+   },
+   {
+    "quote": "Fill out the form and we’ll be in touch to talk about making EV charging a natural part of your guest experience.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-hotels",
+    "pass": 1
+   },
+   {
+    "quote": "Time-based pricing charges drivers based on the duration of the charging session. While straightforward, this method may need to account for variances in car battery capacities and charging speeds. For instance, a workplace installing EV chargers might use time-based pricing to encourage employees to move their cars once charging is complete, thus maximizing the availability of charging spots.",
+    "url": "https://www.ampup.io/blog/ev-charging-pricing-models",
+    "pass": 1
+   },
+   {
+    "quote": "Some advanced pricing models factor in peak and off-peak hours to manage demand and incentivize charging during off-peak times. This dynamic approach balances the load on the electricity grid and offers customers cost savings. Workplaces can adopt this model to encourage employees to charge their cars during off-peak hours, reducing overall energy costs.",
+    "url": "https://www.ampup.io/blog/ev-charging-pricing-models",
+    "pass": 1
+   },
+   {
+    "quote": "Another consideration is pricing based on the type of EV charger. Premium services like fast and ultra-fast DC chargers warrant higher prices due to their ability to charge vehicles quickly and efficiently. Parking operators might use this model to offer faster charging options for a premium fee, catering to customers who need a quick turnaround.",
+    "url": "https://www.ampup.io/blog/ev-charging-pricing-models",
+    "pass": 1
+   },
+   {
+    "quote": "Selecting the best pricing model depends on several factors, including location, charger type, customer needs, and business goals. For instance, organizations in areas with high electricity costs might prefer energy-based models to ensure fairness and transparency. Workplaces interested in driving early subscription rates might opt for a fixed-rate model to attract employees with EVs.",
+    "url": "https://www.ampup.io/blog/ev-charging-pricing-models",
+    "pass": 1
+   },
+   {
+    "quote": "can now set exact $/kWh prices for specific time windows, and drivers see the full day's rates in the app before they plug in. This post covers how TOU pricing works, why it matters for your revenue and your local grid, and how to set it up well. If you're still comparing pricing structures more broadly, start with our guide to",
+    "url": "https://www.ampup.io/blog/time-of-use-ev-charging-rates",
+    "pass": 1
+   },
+   {
+    "quote": "Now put a busy charging station on that meter with one flat price. Every session that runs through the evening peak costs you more to serve than the same session at 10 PM, but earns exactly the same revenue. Multiply that across ports and months, and flat pricing becomes a subsidy your property pays so drivers can charge at the most expensive hour of the day.",
+    "url": "https://www.ampup.io/blog/time-of-use-ev-charging-rates",
+    "pass": 1
+   },
+   {
+    "quote": "Removes a major barrier for residents who want an EV but do not want the “public charging scavenger hunt” lifestyle.",
+    "url": "https://www.ampup.io/blog/multifamily-ev-charging-solutions-guide",
+    "pass": 1
+   },
+   {
+    "quote": "Incentives are often the difference between “not this year” and “approved for this budget cycle.” While federal funding for new EV infrastructure has narrowed, multifamily EV charging is still actively supported at the state, utility, and local level, especially where EV adoption and grid planning are top priorities.",
+    "url": "https://www.ampup.io/blog/multifamily-ev-charging-solutions-guide",
+    "pass": 1
+   },
+   {
+    "quote": "The most successful projects treat incentives as part of the planning process, not a last-minute bonus. AmpUp maintains",
+    "url": "https://www.ampup.io/blog/multifamily-ev-charging-solutions-guide",
+    "pass": 1
+   },
+   {
+    "quote": "To estimate revenue potential and expansion timing, use AmpUp’s",
+    "url": "https://www.ampup.io/blog/multifamily-ev-charging-solutions-guide",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. While some federal programs have narrowed, many state, utility, and local incentives still support multifamily charging. These can include rebates for hardware, make-ready infrastructure, and participation in managed charging. Incentives vary by location and funding cycle.",
+    "url": "https://www.ampup.io/blog/multifamily-ev-charging-solutions-guide",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Send an email, give us a call, or submit the form and we'll be touch to discuss the perfect hardware to meet your EV charging needs.",
+    "url": "https://www.ampup.io/resources/approved-ev-charger-manufacturers",
+    "pass": 1
+   },
+   {
+    "quote": "Contact Us to Learn More",
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "With AmpUp at your side, it's easy to add, expand, or optimize EV charging at your site. Contact us to learn more or to schedule a demo of AmpUp's EV charging platform.",
+    "url": "https://www.ampup.io/products/ev-charging-management-software",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to learn more.",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-residential",
+    "pass": 1
+   },
+   {
+    "quote": "Email An AmpUp Expert",
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-hotels",
+    "pass": 1
+   },
+   {
+    "quote": "Submit your email address and check your inbox (or spam folder) for a message containing the confirmation code from notification@member-notifications.com.",
+    "url": "https://www.ampup.io/asset-library",
+    "pass": 1
+   },
+   {
+    "quote": "Oops! Something went wrong while submitting the form. Please email",
+    "url": "https://www.ampup.io/asset-library",
+    "pass": 1
+   },
+   {
+    "quote": "If you're ready to elevate your EV charging reliability? Submit the form below or send an email to",
+    "url": "https://www.ampup.io/blog/ev-charger-reliability-case-study",
+    "pass": 1
+   },
+   {
+    "quote": ", email",
+    "url": "https://www.ampup.io/blog/multifamily-ev-charging-solutions-guide",
+    "pass": 1
+   },
+   {
+    "quote": "Send an email, give us a call, or submit the form and we'll be touch to discuss your workplace EV charging needs.",
+    "url": "https://www.ampup.io/blog-tag/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "If you are interested in seeing if AmpUp can help you power a clean transportation future, please email",
+    "url": "https://www.ampup.io/blog/ev-charging-white-labeled-software-considerations",
+    "pass": 3
+   },
+   {
+    "quote": "Renewing Expired Licenses: If your chargers have expired licenses, you should have received an email with a renewal notice and invoice. If not, please reach out to our customer support at support@ampup.io for assistance.",
+    "url": "https://support.ampup.io/hc/en-us/articles/24152217327131-Understanding-AmpUp-Licenses-and-Subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/225982-36",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Value-Added Resellers (VARs)",
+    "url": "https://www.ampup.io/become-a-partner",
+    "pass": 1
+   },
+   {
+    "quote": "White Label EV Charging Software: What to Know | AmpUp",
+    "url": "https://www.ampup.io/blog/ev-charging-white-labeled-software-considerations",
+    "pass": 3
+   },
+   {
+    "quote": "White-Label EV Software: What to Know",
+    "url": "https://www.ampup.io/blog/ev-charging-white-labeled-software-considerations",
+    "pass": 3
+   },
+   {
+    "quote": "Explore five critical factors to weigh when choosing between white-labeled EV charging software and off-the-shelf solutions like AmpUp.",
+    "url": "https://www.ampup.io/blog/ev-charging-white-labeled-software-considerations",
+    "pass": 3
+   },
+   {
+    "quote": ", companies who are white-labeling should be prepared to hire and spend money to get these approvals themself. Additionally, the company using the white-labeled product may need to configure the software to work with hardware model(s) approved by the utility, which entails additional time and resources to execute.",
+    "url": "https://www.ampup.io/blog/ev-charging-white-labeled-software-considerations",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "EV用充電サービス運営「ampUp」、上海汽車と現代自動車などから資金調達 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
+    "url": "https://36kr.jp/75359/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業のDXを促進するプラットフォーム「CONNECTO」",
+    "url": "https://36kr.jp/75359/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AmpUpのレビュー、機能、価格、メリット・デメリット — AmpUpは、充電ステーション管理システム（CSMS）のカテゴリーに属する電気自動車の充電管理プラットフォームです。 ハードウェアに依存しない設計のSaaS（Software-as-a-Service）ソリューションであり、さまざまなOCPP認証済み充電ステーションに接続できます。",
+    "url": "https://apps.list.solar/ja/tools/ampup/",
+    "pass": 3
+   },
+   {
+    "quote": "AmpUp | Reliable EV Charging for Every Site — From choosing hardware and finding an installer to overseeing stations in a single charging management platform, AmpUp keeps your chargers online, energy costs under control, and drivers moving.",
+    "url": "https://www.ampup.io/",
+    "pass": 3
+   },
+   {
+    "quote": "光寶科技併購AmpUp主要為了強化什麼布局？ | 聯合新聞網 — 光寶科技近期公告，其美國子公司 Leotek Electronics U.S.A. Corporation 已取得電動車充電管理軟體服務公司 AmpUp, Inc. 100%股權。",
+    "url": "https://udn.com/news/ai/answer/光寶科技併購-58311608",
+    "pass": 3
+   },
+   {
+    "quote": "EV用充電サービス運営「ampUp」、上海汽車と現代自動車などから資金調... — May 26, 2020 · シリコンバレーに本社を置く電気自動車（EV）用充電ネットワークサービスのスタートアップ企業「ampUp」が新たに資金を調達した。 出資者は「上海汽車集団（SAIC）」、韓国「現代（ヒュンダイ）自動車」、「Forest Ventures」など。",
+    "url": "https://36kr.jp/75359/",
+    "pass": 3
+   },
+   {
+    "quote": "EV用充電スタンドアプリAmpUp、資金調達を発表 - ESG Journal — Aug 29, 2021 · 8月16日、EV用充電器のプロバイダーであるAmpUpは、Goodyear (NASDAQ: GT)、Foothill Ventures、TechNexus Venture Collaborativeら投資会社からの追加資本出資を発表した。",
+    "url": "https://esgjournaljapan.com/world-news/4408",
+    "pass": 3
+   },
+   {
+    "quote": "AMP UP (@ampupjp) / X — Japanese top guitarist Char and his drummer Tully Ryan's talk and session show \"LAID BACK SESSION\" will start on April 14th, thereafter, it will be updated every Sunday.",
+    "url": "https://x.com/ampupjp",
+    "pass": 3
+   },
+   {
+    "quote": "AMP UP (@ampup.jp) • Instagram photos and videosTICKET | AMP UP official shop - ampup.supersale.jpAMP UP - FacebookAbout AmpUp | Accessible EV Charging for All — 498 Followers, 218 Following, 289 Posts - AMP UP (@ampup.jp) on Instagram: \"AMP UP is a music / shooting studio in Tokyo,Japan owned by ITSUKA 音楽に特化した東京の撮影・生配信スタジオ•制作プロダクション。 本チケットは、【2026年12月12日 (土) 19:00-21:00 開催の「2nd Stage」】のチケットです。 以下の",
+    "url": "https://www.instagram.com/ampup.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "About AmpUp | Accessible EV Charging for All — AmpUp is on a mission to simplify EV charging with accessible, future-ready solutions. Learn how we’re shaping a sustainable, electric future for all.",
+    "url": "https://www.ampup.io/about",
+    "pass": 3
+   },
+   {
+    "quote": "TICKET | AMP UP official shop - ampup.supersale.jp — 本チケットは、【2026年12月12日 (土) 19:00-21:00 開催の「2nd Stage」】のチケットです。 以下の注意事項をご一読いただき、ご理解・ご了承の上でご購入ください。 ※チケットをご購入いただいた時点で、以下のすべての事項に同意したものとみなします。",
+    "url": "https://ampup.supersale.jp/categories/7757435",
+    "pass": 3
+   },
+   {
+    "quote": "AMP UP - Facebook — May 23, 2026 · Here’s a look at the AMP UP booth at Sound Messe this year. Our floor tours, interviews, and demo shorts are now archiving on the official Sound Messe YouTube channel. Stay tuned—some big-name content is still on the way! #SoundMesse #AMPUP #サウンドメッセ #TokyoCreative #streamingsetup. ゴルフのパッティング練習マットを頂戴しました⛳️ AMP UPでの制作の合間に練習はいかが？",
+    "url": "https://www.facebook.com/ampup.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Results: Real Outcomes, Real Teams | AmpUp — See what happens when sales teams actually change their behavior. Case studies across onboarding, coaching, deal execution, and knowledge transfer.",
+    "url": "https://www.ampup.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Results: Ramp Cut in Half, 28% More Wins | AmpUp — See how sales teams use AmpUp to cut ramp time in half, lift win rates 28%, and scale coaching to 200+ reps without adding managers.",
+    "url": "https://www.ampup.ai/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "AmpUp Blog | Case Studies — Explore real-world stories of how AmpUp solutions power EV charging success.",
+    "url": "https://www.ampup.io/blog-tag/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Improving EV Charger Reliability | AmpUp — AmpUp’s compatibility with top hardware brands, combined with our hands-on testing approach, helps us achieve an impressive 98.5% charging session success rate and 99.9% uptime — well above the industry norm. Even with such dependable systems, occasional challenges arise.",
+    "url": "https://www.ampup.io/blog/ev-charger-reliability-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "How AmpUp Makes EV Charging Effortless With Super SIM — AmpUp sought a communications partner whose API was flexible, developer-friendly, and whose SIM provided ultra-reliable connectivity options– regardless of where AmpUp-powered charging stations were being deployed.",
+    "url": "https://www.korewireless.com/resources/case-studies/ampup-makes-ev-charging-effortless/",
+    "pass": 3
+   },
+   {
+    "quote": "AmpUp | Reliable EV Charging for Every Site — AmpUp powers commercial, multifamily, and fleet EV charging networks with OCPP-certified management software. Book a demo or see pricing today.",
+    "url": "https://www.ampup.io/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label EV Charging Software: What to Know | AmpUp — Explore five critical factors to weigh when choosing between white-labeled EV charging software and off-the-shelf solutions like AmpUp.",
+    "url": "https://www.ampup.io/blog/ev-charging-white-labeled-software-considerations",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding AmpUp Licenses and Subscriptions - Support Center — Mar 25, 2024 · At AmpUp, we offer three different plan types: Starter, Core, and Pro. Each plan is designed to cater to different needs and usage levels. In this article, we'll explore what each plan includes and...",
+    "url": "https://support.ampup.io/hc/en-us/articles/24152217327131-Understanding-AmpUp-Licenses-and-Subscriptions",
+    "pass": 3
+   },
+   {
+    "quote": "AmpUp – Company Profile & Market Insights – 2026 – Cupertino — AmpUp’s team and funding include estimated revenue of $12.6M, team of around 60+ employees, based in Cupertino, helping drive core operations.",
+    "url": "https://compworth.com/company/ampup",
+    "pass": 3
+   },
+   {
+    "quote": "AmpUp - 2026 Company Profile, Team, Funding & Competitors ...AmpUp 2026 Company Profile: Valuation, Funding & Investors ...AmpUp — Company Profile | The Company CheckAmpUp - Overview, News & Similar companies | ZoomInfo.comAmpUp: Funding, Investors & Team (Nov 2026) | FundedIQAmpUp Revenue 2024: $11.7M Est. ARR (Bootstrapped) — Apr 4, 2026 · AmpUp has raised $15.2M in funding from investors like Y",
+    "url": "https://tracxn.com/d/companies/ampup/__wd6QZ9Tqd88bKoSNczLTa-iZP3cIq2e8xpPuJ9trmC0",
+    "pass": 3
+   },
+   {
+    "quote": "AmpUp 2026 Company Profile: Valuation, Funding & Investors ...AmpUp — Company Profile | The Company CheckAmpUp - Overview, News & Similar companies | ZoomInfo.comAmpUp: Funding, Investors & Team (Nov 2026) | FundedIQAmpUp Revenue 2024: $11.7M Est. ARR (Bootstrapped) — Information on valuation, funding, cap tables, investors, and executives for AmpUp. Use the PitchBook Platform to explore the full ",
+    "url": "https://pitchbook.com/profiles/company/225982-36",
+    "pass": 3
+   },
+   {
+    "quote": "AmpUp — Company Profile | The Company Check — Oct 15, 2026 · AmpUp is a company based in Cupertino (United States) founded in 2018 by Timotej Gavrilovic and Thomas Sun.. AmpUp has raised $15.15 million across 7 funding rounds from investors including Wright Express, Hyundai Motor Company and Goodyear.",
+    "url": "https://www.thecompanycheck.com/company/b/ampup/huwbdvyo6iqwvzxhb",
+    "pass": 3
+   },
+   {
+    "quote": "AmpUp - Overview, News & Similar companies | ZoomInfo.com — Compare insights from companies similar to AmpUp, focusing on performance, financial data, growth rates, and unique benchmarks to identify key industry trends and opportunities.",
+    "url": "https://www.zoominfo.com/c/ampup/467851425",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "AmpUp (@ampup_io) / X @CT_PURA selected AmpUp's Adapt & Earn to bring managed charging to public EV chargers across Connecticut. Peak relief at ~1/3 the cost, 91% of drivers reported zero inconvenience.",
+    "url": "https://x.com/ampup_io",
+    "pass": 3
+   },
+   {
+    "quote": "AMP UP (@ampupjp) / X Legends' signatures and iconic guitars, tucked away in the studio. A mini museum vibe that gets you hyped just by being here. スタジオに飾られているレジェンドたちのサインや愛用ギターがいつもスタジオにエネルギーを注入してくれます。 #AMPUP",
+    "url": "https://x.com/ampupjp",
+    "pass": 3
+   },
+   {
+    "quote": "ampup studios (@ampupstudios) / X RepostsMediaMedia ampup studios @ampupstudios Dec 6, 2023 Simple panning guideline Whatever is louder/leading should be panned more towards the center Quieter, backing instruments can be panned hard left or hard right Higher frequencies can be panned hard left or right Lowest frequencies should be near center 4 ampup studios @ampupstudios Dec 6 ...",
+    "url": "https://x.com/ampupstudios",
+    "pass": 3
+   },
+   {
+    "quote": "\"#ampup\" - Results on X | Live Posts & Updates Results for \"#ampup\" on X (Twitter). Find the latest posts, discussions, and updates about #ampup. 19 results found.",
+    "url": "https://x.com/hashtag/ampup",
+    "pass": 3
+   },
+   {
+    "quote": "AmpUp (@ampup_io) / X Our COO David Jackson will be taking the stage tomorrow at the @WEXIncNews VC Summit (July 7-8) at WEX HQ to demo our latest technology and share how AmpUp is delivering real value to fleets, partners, and the broader mobility ecosystem.",
+    "url": "https://x.com/ampup_io",
+    "pass": 3
+   },
+   {
+    "quote": "AMP UP (@ampupjp) / X お世話になっているミュージシャンや楽器ブランドなどのお力を借りて5周年記念イベント『LOOK UP! & POP UP!』を開催します。 準備や当日の様子などをSNSでバンバン発信していきますのでお楽しみに！ ampup.jp/5th #ampup #5周年 #5th",
+    "url": "https://x.com/ampupjp",
+    "pass": 3
+   },
+   {
+    "quote": "@ampup | X The latest posts from @ampup",
+    "url": "https://x.com/ampup",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by ampup studios (@ampupstudios) / X 0 followers · 15 following. Joined Nov 2022. See the latest conversations with @ampupstudios",
+    "url": "https://x.com/ampupstudios/with_replies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "AmpUp - LinkedIn AmpUp makes EV charging simple, reliable, and ready wherever your people park. Our platform connects workplaces, communities, fleets, and public sites with charging that’s easy to manage and ...",
+    "url": "https://www.linkedin.com/company/ampup-charging",
+    "pass": 3
+   },
+   {
+    "quote": "Tom Sun - Founder & CEO at AmpUp | LinkedInSaransh Anand - GTM Lead @AmpUp.ai | Ex Cofounder MarkitUp ...Neeraj Sharma - Head – People & Culture | HR Innovation ...AmpUp EV Charging - LinkedInAmpUp.Ai - LinkedInPaul Grudnitski - Founder, Amp-up.io | LinkedIn Founder & CEO at AmpUp · Technical, practical, product-focused entrepreneur in the EV space. · Experience: AmpUp · Education: Y Combinator · ",
+    "url": "https://www.linkedin.com/in/ts-ampup",
+    "pass": 3
+   },
+   {
+    "quote": "Saransh Anand - GTM Lead @AmpUp.ai | Ex Cofounder MarkitUp ...Neeraj Sharma - Head – People & Culture | HR Innovation ...AmpUp EV Charging - LinkedInAmpUp.Ai - LinkedInPaul Grudnitski - Founder, Amp-up.io | LinkedIn GTM Lead @AmpUp.ai | Ex Cofounder MarkitUp | CSE BITS ’23 · Experience: AmpUp.Ai · Education: Birla Institute of Technology and Science, Pilani · Location: Bengaluru · 500+ connections",
+    "url": "https://in.linkedin.com/in/saransh-anand",
+    "pass": 3
+   },
+   {
+    "quote": "Neeraj Sharma - Head – People & Culture | HR Innovation ...AmpUp EV Charging - LinkedInAmpUp.Ai - LinkedInPaul Grudnitski - Founder, Amp-up.io | LinkedIn At AmpUp Consulting, I empower organizations at all growth stages by offering strategic insights and fostering partnerships that enhance talent acquisition. My extensive lived experience with... About AmpUp is the leading electric vehicle (EV) ch",
+    "url": "https://in.linkedin.com/in/neeraj14thjan",
+    "pass": 3
+   },
+   {
+    "quote": "Tom Sun - Founder & CEO at AmpUp | LinkedInAbout | AmpUpAmpUp - 2026 Company Profile, Team, Funding & Competitors ...Rahul Balakavi - Co-founder, AmpUp | Memory for AI agents ...About AmpUp: The Company Brain That Learns | AmpUp経営チーム｜note株式会社 Founder & CEO at AmpUp · Technical, practical, product-focused entrepreneur in the EV space. · Experience: AmpUp · Education: Y Combinator · Location: San Fr",
+    "url": "https://www.linkedin.com/in/ts-ampup",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "AmpUp - FacebookAmpUp Energy | Kasur - FacebookAmp Up Electrical Solutions - FacebookAmpUp - Exciting News: AmpUp Secures $15M in Series A ...AmpUp - FacebookAmpUp - Tired of searching for an electric ... - FacebookAmpUp - Now Charging: Grand Canyon University ⚡️ We are ... Oct 22, 2026 · In the final Fast & The Curious clip, Mike DiNucci (AmpUp), Dario Pagani (Autel Energy - North America), and A",
+    "url": "https://www.facebook.com/ampup.io/",
+    "pass": 3
+   },
+   {
+    "quote": "AmpUp Energy | Kasur - FacebookAmp Up Electrical Solutions - FacebookAmpUp - Exciting News: AmpUp Secures $15M in Series A ...AmpUp - FacebookAmpUp - Tired of searching for an electric ... - FacebookAmpUp - Now Charging: Grand Canyon University ⚡️ We are ... Oct 7, 2026 · AmpUp Energy is proud to announce the signing of four solar power projects with a combined capacity of 590 kW, supporting indus",
+    "url": "https://www.facebook.com/AmpUpEnergyPK/",
+    "pass": 3
+   },
+   {
+    "quote": "Amp Up Electrical Solutions - Facebook Feb 20, 2026 · Amp Up Electrical Solutions Powering the Future: EV Charger Installations with AmpUp Electrical Solutions Ltd",
+    "url": "https://www.facebook.com/ampupelectricalsolutions/",
+    "pass": 3
+   },
+   {
+    "quote": "AmpUp - Exciting News: AmpUp Secures $15M in Series A ... Sep 26, 2024 · \"We chose AmpUp because they offer industry-leading reliability and provide more than just software - a complete operational solution that ensures maximum uptime for our mission-critical operations,\" says Dan Friedberg, founder and CEO of Roundtrip EV. Read the full announcement: https://www.ampup. io/blog/roundtrip-ev-partne",
+    "url": "https://www.facebook.com/ampup.io/posts/-exciting-news-ampup-secures-15m-in-series-a-funding-were-thrilled-to-announce-t/1053274126801205/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ampup.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/resources/approved-ev-charger-manufacturers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/use-cases/workplace-ev-charging-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/become-a-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/products/managed-ev-charging",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/products/ev-charging-management-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-installers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-residential",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-fleets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-municipalities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/use-cases/ev-charging-management-for-hotels",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/asset-library",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/blog/ev-charging-pricing-models",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/blog/ev-charger-reliability-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/blog/time-of-use-ev-charging-rates",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/blog/multifamily-ev-charging-solutions-guide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/blog-tag/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/resources/ev-charging-revenue-calculator",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6721430edeea100e231b3df2/6792cd7c172a007c8c11847d_ampup-for-multifamily-customer-logo-ks-partners.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://apps.list.solar/ja/tools/ampup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://udn.com/news/ai/answer/%E5%85%89%E5%AF%B6%E7%A7%91%E6%8A%80%E4%BD%B5%E8%B3%BC-58311608",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://36kr.jp/75359/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amp-lify.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ampeg.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ampupjp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/ampup.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ampup.io/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ampup.supersale.jp/categories/7757435",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/blog-tag/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/blog/ev-charger-reliability-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ampup.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ampup.io/blog/ev-charging-white-labeled-software-considerations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.ampup.io/hc/en-us/articles/24152217327131-Understanding-AmpUp-Licenses-and-Subscriptions",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/ampup",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/ampup/__wd6QZ9Tqd88bKoSNczLTa-iZP3cIq2e8xpPuJ9trmC0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/225982-36",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/ampup/huwbdvyo6iqwvzxhb",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ampup_io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ampupjp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ampupstudios",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/ampup",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ampup-charging",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ts-ampup",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/saransh-anand",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/neeraj14thjan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ampup.io/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AmpUpEnergyPK/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ampupelectricalsolutions/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ampup.io/posts/-exciting-news-ampup-secures-15m-in-series-a-funding-were-thrilled-to-announce-t/1053274126801205/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ts-ampup",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ampup_io",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ampupjp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ampup",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ampupstudios/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ampup 日本 導入",
+   "results": [
+    "https://apps.list.solar/ja/tools/ampup/",
+    "https://www.ampup.io/",
+    "https://udn.com/news/ai/answer/光寶科技併購-58311608",
+    "https://36kr.jp/75359/",
+    "https://esgjournaljapan.com/world-news/4408",
+    "https://sustainablejapan.jp/tag/ampup",
+    "https://www.ctee.com.tw/news/20261003700044-439901"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ampup 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.amp-lify.co.jp/",
+    "https://ampeg.jp/",
+    "https://www.ipsen.com/japan/会社/",
+    "https://zozo.jp/brand/ampjapan/",
+    "https://www.ampt.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ampup Japan",
+   "results": [
+    "https://x.com/ampupjp",
+    "https://www.instagram.com/ampup.jp/",
+    "https://www.ampup.io/about",
+    "https://ampup.supersale.jp/categories/7757435",
+    "https://www.facebook.com/ampup.jp/",
+    "https://ampup.jp/",
+    "https://ampup.jp/event/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ampup manufacturing customer case study",
+   "results": [
+    "https://www.ampup.ai/customers",
+    "https://www.ampup.ai/case-studies",
+    "https://www.ampup.io/blog-tag/case-studies",
+    "https://www.ampup.io/blog/ev-charger-reliability-case-study",
+    "https://www.korewireless.com/resources/case-studies/ampup-makes-ev-charging-effortless/",
+    "https://www.ampersand.ai/blog/when-mcp-is-not-enough",
+    "https://vuild.com/ampup"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ampup white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.ampup.io/",
+    "https://www.ampup.io/blog/ev-charging-white-labeled-software-considerations",
+    "https://support.ampup.io/hc/en-us/articles/24152217327131-Understanding-AmpUp-Licenses-and-Subscriptions",
+    "https://reseller.amazon.com/",
+    "https://leviton.com/company/press-releases/leviton-launches-pro-series-electric-vehicle-charging-stations-with-ampup-charging-management-software",
+    "https://www.ampedup.net/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ampup founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/ampup",
+    "https://tracxn.com/d/companies/ampup/__wd6QZ9Tqd88bKoSNczLTa-iZP3cIq2e8xpPuJ9trmC0",
+    "https://pitchbook.com/profiles/company/225982-36",
+    "https://www.thecompanycheck.com/company/b/ampup/huwbdvyo6iqwvzxhb",
+    "https://www.zoominfo.com/c/ampup/467851425",
+    "https://fundediq.co/ampup-ampup-io-funding/",
+    "https://getlatka.com/companies/ampup.io"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Ampup",
+   "results": [
+    "https://note.com/wise_turtle184",
+    "https://note.com/learn_english_1/n/n6d357f54c9a1",
+    "https://note.com/travelingfoodlab/n/nf496d1f35d7b",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/isomitsuo/n/nd6f66ed87bfd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Ampup",
+   "results": [
+    "https://x.com/ampup_io",
+    "https://x.com/ampupjp",
+    "https://x.com/ampupstudios",
+    "https://x.com/hashtag/ampup",
+    "https://x.com/AmazingChevVolt/status/1666503258293018635",
+    "https://x.com/theAmpUpDigital",
+    "https://x.com/unnaturaljp"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Ampup",
+   "results": [
+    "https://www.linkedin.com/company/ampup-charging",
+    "https://www.linkedin.com/in/ts-ampup",
+    "https://in.linkedin.com/in/saransh-anand",
+    "https://in.linkedin.com/in/neeraj14thjan",
+    "https://www.linkedin.com/products/ampup-charging-ampup-ev-charging/",
+    "https://www.linkedin.com/company/ampup-ai/",
+    "https://www.linkedin.com/in/paulgrudnitski"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Ampup",
+   "results": [
+    "https://www.facebook.com/ampup.io/",
+    "https://www.facebook.com/AmpUpEnergyPK/",
+    "https://www.facebook.com/ampupelectricalsolutions/",
+    "https://www.facebook.com/ampup.io/posts/-exciting-news-ampup-secures-15m-in-series-a-funding-were-thrilled-to-announce-t/1053274126801205/",
+    "https://www.facebook.com/AmpUp.CO/",
+    "https://www.facebook.com/ampup.io/posts/tired-of-searching-for-an-electric-vehicle-charging-spot-reserve-a-charger-ahead/2524093571158053/",
+    "https://www.facebook.com/ampup.io/posts/now-charging-grand-canyon-university-️-we-are-thrilled-to-see-the-university-ado/3151657655068305/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ampup note 社長",
+   "results": [
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.linkedin.com/in/ts-ampup",
+    "https://www.ampup.ai/wealth/about",
+    "https://tracxn.com/d/companies/ampup/__wd6QZ9Tqd88bKoSNczLTa-iZP3cIq2e8xpPuJ9trmC0",
+    "https://www.linkedin.com/in/rahul-balakavi-985bb615",
+    "https://www.ampup.ai/about",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ampup X 投稿",
+   "results": [
+    "https://x.com/ampup_io",
+    "https://x.com/ampupjp",
+    "https://x.com/ampup",
+    "https://x.com/ampupstudios/with_replies",
+    "https://x.com/ampupstudios",
+    "https://community.ampup.io/login",
+    "https://x.com/AMPCUP_OFFICIAL/status/2100128604629963231"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部41頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部41頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部41頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部41頁・検索12回）"
+ }
+}

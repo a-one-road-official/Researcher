@@ -1,0 +1,1583 @@
+{
+ "name": "Smarthelio",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AUMS不適合",
+ "researched_at": "2026-11-11T00:19:31.581173+00:00",
+ "official_url": "https://www.smarthelio.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "15. Seed Round",
+    "value": "14-Dec-2022    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/436114-90",
+    "pass": 3
+   },
+   {
+    "label": "13. Seed Round",
+    "value": "14-Apr-2022    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/436114-90",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://startupintros.com/orgs/smarthelio",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Lausanne, Switzerland",
+    "url": "https://startupintros.com/orgs/smarthelio",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Autopilot – Predictive Software",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "These results are driven by advanced analytics, predictive algorithms, and years of operational data.",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "GAIA is an AI Agent that acts as your Intelligent Partner, continuously analyzing your portfolio to detect issues early, automate ticketing and reporting, and prioritize the most impactful actions, securely and within your existing workflows.",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Autopilot is SmartHelio’s core platform, where performance models, diagnostics, predictions, and automation for solar and storage operations live.",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The software makes it easy to visualize what’s impacting performance, from shading and tracker issues to RISO faults. Recently, their analytics helped us investigate a morning startup issue, providing valuable direction and helping our team move quickly toward a resolution.",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "David Ebner, Project Engineer",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SmartHelio quickly proved to be the ideal solution for us. They not only identified all the errors we found with our current monitoring system but also uncovered additional failures we weren’t aware of.",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SmartHelio’s technology delivers two key benefits: increased PV panel power generation and enhanced safety through early detection of ground faults that could lead to overvoltage or fire risks. At Schneider, safety is our top priority, and we value these safety improvements tremendously.",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "After understanding your plant’s requirements, we’ll kick off the onboarding process, which simply requires an API access to your system and metadata. Within 1 week, you’ll already have results!",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, SmartHelio uses AI and machine learning to classify faults, but it’s not a black-box solution thanks to our physics-first approach. Our AI-driven algorithms analyze real-time data from your solar plant to",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "enables the system to be transparent. We provide",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "into how each fault is classified, offering you a detailed understanding of the underlying causes. This allows you to make informed decisions about maintenance and repairs without relying solely on automated predictions.",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "and provide insights, making integration easy and cost-effective.",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": ". Our physics-based approach enables our algorithms to identify and classify faults, regardless the plant’s specificities.",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimitrust Campus, route des Flumeaux 42, 1008 Prilly, Switzerland",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "12-13 A-Block, Noida Sector 16, Uttar Pradesh, 201301",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Autopilot – Predictive Software",
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "to identify specific-yield improvements after vegetation management, investigate the impact of shading on degradation, and validate degradation estimates against field measurements.",
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "Up to 14.86% improvement observed at one installation following vegetation management",
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify vegetation-related performance changes, understand shading impacts, and use plant data to prioritise maintenance activities.",
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimitrust Campus, route des Flumeaux 42, 1008 Prilly, Switzerland",
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "12-13 A-Block, Noida Sector 16, Uttar Pradesh, 201301",
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "Autopilot – Predictive Software",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": ", GAIA turns complex operational data into clear, day-to-day support for solar professionals. It learns assets’ behavior, adapts to defined workflows, and takes care of repetitive manual work while keeping you fully in control.",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "is evolving fast and already proving highly useful for",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "Fast, articulate, surprisingly capable. It can spot anomalies, rank faults by priority, and surface trends in your data.",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "need interpretation before they’re usable",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": ". It works inside your monitoring environment, no copy-pasting required, and translates faults into prioritized actions tied to your assets.",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuously scans your portfolio to detect underperformance, filter alerts and prioritize faults by severity.",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "Know what’s coming before it hits. Site-specific forecasts feed directly into your production planning.",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": ", using proven physics-based algorithms to generate",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "prioritize actions across your portfolio",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "diagnostics, reporting, and maintenance preparation",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "analyzes, prioritizes, and guides your next steps,",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": ", and produces",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "What is the pricing of GAIA?",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us to get a tailored pricing estimate:",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "identify and prioritize issues",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "explain performance problems",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "prepare maintenance actions",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimitrust Campus, route des Flumeaux 42, 1008 Prilly, Switzerland",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "12-13 A-Block, Noida Sector 16, Uttar Pradesh, 201301",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "Autopilot – Predictive Software",
+    "url": "https://smarthelio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "SmartHelio quickly proved to be the ideal solution for us. They not only identified all the errors we found with our current monitoring system but also uncovered additional failures we weren’t aware of.",
+    "url": "https://smarthelio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "David Ebner, Project Engineer",
+    "url": "https://smarthelio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "SmartHelio supports Verbund’s portfolio growth using predictive analytics",
+    "url": "https://smarthelio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "SmartHelio’s technology delivers two key benefits: increased PV panel power generation and enhanced safety through early detection of ground faults that could lead to overvoltage or fire risks. At Schneider, safety is our top priority, and we value these safety improvements tremendously.",
+    "url": "https://smarthelio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "pv magazine Webinar | Real-world case study and solar business growth outcomes from predictive analytics",
+    "url": "https://smarthelio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "The Reality of Predictive Analytics: Client Case Study with DayStar Power Group",
+    "url": "https://smarthelio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimitrust Campus, route des Flumeaux 42, 1008 Prilly, Switzerland",
+    "url": "https://smarthelio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "12-13 A-Block, Noida Sector 16, Uttar Pradesh, 201301",
+    "url": "https://smarthelio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "SmartHelio Pricing—Solar Asset Management Software",
+    "url": "https://smarthelio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Autopilot – Predictive Software",
+    "url": "https://smarthelio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Choose a Pricing Plan That Fits Your Solar Journey",
+    "url": "https://smarthelio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you’re an IPP, investor, or project developer, our flexible pricing models are designed to match your portfolio size, decision-making stage, and operational needs. All plans include access to our advanced AI engine, with no additional hardware required.",
+    "url": "https://smarthelio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Detailed single-report audit for solar assets, providing actionable recommendations, loss quantification, and root-cause insights.",
+    "url": "https://smarthelio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimitrust Campus, route des Flumeaux 42, 1008 Prilly, Switzerland",
+    "url": "https://smarthelio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "12-13 A-Block, Noida Sector 16, Uttar Pradesh, 201301",
+    "url": "https://smarthelio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Autopilot – Predictive Software",
+    "url": "https://smarthelio.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "To unlock the full potential of solar energy and de-risk investments through predictive analytics solutions",
+    "url": "https://smarthelio.com/about/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Commercial & Industrial",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for C&I and Utility-scale operators managing growing portfolios, tighter grids, and increasing operational complexity.",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: What vegetation and shading reveal about solar plant performance",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For Plant Operators & Asset Managers",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’ve really enjoyed working with the SmartHelio team. After a successful pilot last year, we expanded to eight solar sites. Their attention to the details we share and deep expertise in solar analytics and plant performance stand out in every interaction.",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "After understanding your plant’s requirements, we’ll kick off the onboarding process, which simply requires an API access to your system and metadata. Within 1 week, you’ll already have results!",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, SmartHelio uses AI and machine learning to classify faults, but it’s not a black-box solution thanks to our physics-first approach. Our AI-driven algorithms analyze real-time data from your solar plant to",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No, SmartHelio is a software-based platform that integrates seamlessly with your existing solar plant infrastructure. We work with your current devices and SCADA systems to collect data via",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Is SmartHelio compatible with different plant designs, inverters, and SCADA systems?",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, SmartHelio is highly adaptable and can be integrated with a wide variety of solar plant configurations, regardless of size or location.",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "compatibility with all major inverter and solar panel manufacturers",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": ". Our physics-based approach enables our algorithms to identify and classify faults, regardless the plant’s specificities.",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What is SmartHelio’s Fast Plant Diagnostic and how does it work?",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The SmartHelio Fast Diagnostic Tool allows you to get a detailed analysis of your plant’s performance within 10 seconds. By simply uploading your plant’s",
+    "url": "https://smarthelio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: What vegetation and shading reveal about solar plant performance - SmartHelio",
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial & Industrial",
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: What vegetation and shading reveal about solar plant performance",
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "What vegetation and shading reveal about solar plant performance",
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "How data-driven analysis helps solar operators understand vegetation growth, shading and module degradation to make better maintenance decisions.",
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "SmartHelio analysed solar plant performance data",
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "Turning plant data into clearer insights for solar performance and maintenance.",
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify vegetation-related performance changes, understand shading impacts, and use plant data to prioritise maintenance activities.",
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "💰 Solar Plant Owners and Investors:",
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "Understand how vegetation and shading can affect solar plant performance and make better-informed decisions about maintenance and asset management.",
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify potential vegetation-related yield changes, investigate shading-related degradation, and plan maintenance interventions to support long-term plant performance.",
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: AI Applications for Solar Operations",
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial & Industrial",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "on your specific plant.",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "which plant needs attention first",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "Your plant data deserves controlled AI",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "→ select date, plant, or portfolio",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "“Why is this plant underperforming?”",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "linked to plant performance, faults, and asset-level decisions.",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "Portfolio size (MW / number of plants)",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "— all outputs are grounded in real plant behavior",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: What vegetation and shading reveal about solar plant performance",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial & Industrial",
+    "url": "https://smarthelio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "pv magazine Webinar | Real-world case study and solar business growth outcomes from predictive analytics",
+    "url": "https://smarthelio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "The Reality of Predictive Analytics: Client Case Study with DayStar Power Group",
+    "url": "https://smarthelio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: What vegetation and shading reveal about solar plant performance",
+    "url": "https://smarthelio.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial & Industrial",
+    "url": "https://smarthelio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Annual subscription for monitoring large portfolios, tailored for utility-scale solar plants and long-term asset partnerships.",
+    "url": "https://smarthelio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Fixed fee based on plant size",
+    "url": "https://smarthelio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible, fault-based billing. Ideal for pilot runs or small plants. Get clarity per issue detected, no upfront commitment needed.",
+    "url": "https://smarthelio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: What vegetation and shading reveal about solar plant performance",
+    "url": "https://smarthelio.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial & Industrial",
+    "url": "https://smarthelio.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: What vegetation and shading reveal about solar plant performance",
+    "url": "https://smarthelio.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial & Industrial",
+    "url": "https://smarthelio.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "You’ll work directly on solar and storage plant performance, analyzing data, identifying root causes of losses, and translating AI-driven insights into concrete actions for operators. As part of a Y Combinator-backed cleantech startup, you’ll bridge engineering and customer impact, helping portfolios operate at their true potential across Europe, Asia, and North America.",
+    "url": "https://smarthelio.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: What vegetation and shading reveal about solar plant performance",
+    "url": "https://smarthelio.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial & Industrial",
+    "url": "https://smarthelio.com/gaia-architecture-article/",
+    "pass": 1
+   },
+   {
+    "quote": "Can ChatGPT reliably diagnose why your solar plant is underperforming?",
+    "url": "https://smarthelio.com/gaia-architecture-article/",
+    "pass": 1
+   },
+   {
+    "quote": "No. ChatGPT has no access to your plant data and generates answers based on training patterns, not your actual operational systems.",
+    "url": "https://smarthelio.com/gaia-architecture-article/",
+    "pass": 1
+   },
+   {
+    "quote": "You manage a solar portfolio, maybe a few plants, maybe a few hundred megawatts. Performance drops on a site. You open an AI assistant and type:",
+    "url": "https://smarthelio.com/gaia-architecture-article/",
+    "pass": 1
+   },
+   {
+    "quote": "Why is my plant in Spain underperforming this week?",
+    "url": "https://smarthelio.com/gaia-architecture-article/",
+    "pass": 1
+   },
+   {
+    "quote": "There is just one problem: it has no idea what your plant actually did this week. It has never seen your SCADA data, your fault tickets, your inverter logs, or your performance ratio history. It is pattern-matching against solar industry articles it read during training, and producing the most statistically plausible answer. Not the correct one. The plausible one.",
+    "url": "https://smarthelio.com/gaia-architecture-article/",
+    "pass": 1
+   },
+   {
+    "quote": "In most contexts, plausible is fine. Ask ChatGPT to write an email or summarise a document and plausible is exactly what you need. But ask it why your 50 MW plant dropped to 68% PR on Tuesday, and plausible is dangerous. You might dispatch a technician to check tracker alignment when the real cause is a firmware fault on three inverters sitting in an open ticket since last Thursday.",
+    "url": "https://smarthelio.com/gaia-architecture-article/",
+    "pass": 1
+   },
+   {
+    "quote": "GAIA fetches live data from your actual systems before composing any answer, ChatGPT generates from training patterns with no connection to your plant.",
+    "url": "https://smarthelio.com/gaia-architecture-article/",
+    "pass": 1
+   },
+   {
+    "quote": "“Why is my plant in Spain underperforming this week?”",
+    "url": "https://smarthelio.com/gaia-architecture-article/",
+    "pass": 1
+   },
+   {
+    "quote": "GAIA identifies the plant scope from your question and your portfolio context.",
+    "url": "https://smarthelio.com/gaia-architecture-article/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Yes, security is a core part of how GAIA operates.",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "SmartHelio is first and foremost a global and diverse family, whose each member comes from a different part of the world. What brings us together is our passion and high motivation to make solar energy easy for all.",
+    "url": "https://smarthelio.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "You’ll work directly on solar and storage plant performance, analyzing data, identifying root causes of losses, and translating AI-driven insights into concrete actions for operators. As part of a Y Combinator-backed cleantech startup, you’ll bridge engineering and customer impact, helping portfolios operate at their true potential across Europe, Asia, and North America.",
+    "url": "https://smarthelio.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": ". This is an opportunity to be at the forefront of accelerating the adoption of sustainable energy across the world. As part of our Y Combinator–backed startup, you’ll work alongside a passionate, international team that’s disrupting the solar energy sector. Together, we’re building a cleaner, smarter energy future, and we’d love for you to be part of it.",
+    "url": "https://smarthelio.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "As part of our Y Combinator-backed startup, you’ll work alongside a passionate, international team to help grow the adoption of AI solutions in the solar industry. Together, we’re building a cleaner, smarter energy future, and we’d love for you to be part of it.",
+    "url": "https://smarthelio.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "does it generate the narrative that explains what the data shows.",
+    "url": "https://smarthelio.com/gaia-architecture-article/",
+    "pass": 1
+   },
+   {
+    "quote": "Daystar Power, part of Shell group, operating numerous solar plants across Africa, exemplifies the transformative impact of SmartHelio.",
+    "url": "https://smarthelio.com/the-reality-of-predictive-analytics-client-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Develop new revenue models, such as insurance and production guarantees, leveraging their ability to fix faults faster.",
+    "url": "https://smarthelio.com/the-reality-of-predictive-analytics-client-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Husband | Father | Sustainability | Climate change warrior|",
+    "url": "https://www.ycombinator.com/companies/smarthelio",
+    "pass": 3
+   },
+   {
+    "quote": "identifying performance losses that may not trigger an alarm, reducing time spent reviewing data and preparing reports, and adapting operations as BESS becomes a bigger part of the market.",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "4. Cybersecurity is becoming part of the discussion",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/436114-90",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio has 31 total employees.",
+    "url": "https://pitchbook.com/profiles/company/436114-90",
+    "pass": 3
+   },
+   {
+    "quote": "What is SmartHelio’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/436114-90",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for SmartHelio is",
+    "url": "https://pitchbook.com/profiles/company/436114-90",
+    "pass": 3
+   },
+   {
+    "quote": "Helps reduce operational and replacement costs by up to 80%, while increasing revenue through fault prevention and optimized maintenance.",
+    "url": "https://startupintros.com/orgs/smarthelio",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us to get a tailored pricing estimate:",
+    "url": "https://smarthelio.com/gaia/",
+    "pass": 1
+   },
+   {
+    "quote": "If you are highly motivated to make an impact, passionate about renewable energies, and have a great team spirit, contact us now to join an exciting journey at SmartHelio!",
+    "url": "https://smarthelio.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "In most contexts, plausible is fine. Ask ChatGPT to write an email or summarise a document and plausible is exactly what you need. But ask it why your 50 MW plant dropped to 68% PR on Tuesday, and plausible is dangerous. You might dispatch a technician to check tracker alignment when the real cause is a firmware fault on three inverters sitting in an open ticket since last Thursday.",
+    "url": "https://smarthelio.com/gaia-architecture-article/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/436114-90",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Evaluate and select the best OEMs for inverters and panels based on efficiency and performance insights provided by SmartHelio.",
+    "url": "https://smarthelio.com/the-reality-of-predictive-analytics-client-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "“The insights we gained from SmartHelio about OEM performance were invaluable. It allowed us to make informed decisions and optimize our operations.”",
+    "url": "https://smarthelio.com/the-reality-of-predictive-analytics-client-case-study/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "SmartHelio、初の日本訪問 変わりゆく太陽光発電市場を現地で見て、聞いて、学ぶ",
+    "url": "https://smarthelio.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、日本においてデータが不足しがちなアレイ側・PCS側のレベルで異常を迅速に特定できるため、現場対応の効率化と発電ロスの最小化を実現し、発電所の安定運営と収益性向上に貢献しています",
+    "url": "https://smarthelio.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio at Smart Energy Week Japan: Meet us at booth E5-6 - SmartHelio",
+    "url": "https://smarthelio.com/smarthelio-at-smart-energy-week-meet-us-at-our-booth/",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio at Smart Energy Week Japan: Meet us at booth E5-6",
+    "url": "https://smarthelio.com/smarthelio-at-smart-energy-week-meet-us-at-our-booth/",
+    "pass": 3
+   },
+   {
+    "quote": "SMART ENERGY WEEK JapanでSmartHelioをご体験ください",
+    "url": "https://smarthelio.com/smarthelio-at-smart-energy-week-meet-us-at-our-booth/",
+    "pass": 3
+   },
+   {
+    "quote": "Meet SmartHelio at SMART ENERGY WEEK Japan!",
+    "url": "https://smarthelio.com/smarthelio-at-smart-energy-week-meet-us-at-our-booth/",
+    "pass": 3
+   },
+   {
+    "quote": "Let's connect in Tokyo!",
+    "url": "https://smarthelio.com/smarthelio-at-smart-energy-week-meet-us-at-our-booth/",
+    "pass": 3
+   },
+   {
+    "quote": "📍 Makuhari Messe, Chiba, Japan",
+    "url": "https://smarthelio.com/smarthelio-at-smart-energy-week-meet-us-at-our-booth/",
+    "pass": 3
+   },
+   {
+    "quote": "Our first trip to Japan: SmartHelio’s journey into a changing solar market - SmartHelio",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Our first trip to Japan: SmartHelio’s journey into a changing solar market",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Our first trip to Japan:",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "For more than a year, we had been working with our Japanese clients from a distance. This September, we finally had the chance to sit around the same table.",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "On SmartHelio’s first trip to Japan",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "the Swiss-Japan Energy Days in Osaka, and Smart Energy Week Japan in Tokyo",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "These discussions reflected a wider shift in Japan. As the market moves beyond the FIT-driven growth of the past, performance, operating costs, proactive O&M, and long-term asset value are becoming more important, alongside cybersecurity and data ownership.",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "For us, the takeaway was simple: Japan is not a copy-paste market.",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "GAIA needs to reflect how teams actually work in Japan, and what we learned during these workshops will directly shape what we build next.",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Not every conversation happened in a meeting room. From lunch in Tokyo to sharing a traditional Japanese meal with clients,",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Alongside our client workshops, we experienced two very different sides of Japan’s energy community.",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Swiss-Japan Energy Days",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Our trip started in Osaka at the Swiss-Japan Energy Days",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Govinda joined discussions on the future of energy and met the Swiss Ambassador to Japan, while Ohji gave his first-ever pitch, introducing SmartHelio to the audience. It was a memorable way to start our first trip to Japan.",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "meet executives from across Japan’s energy industry",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Osaka gave us a broader view of Japan’s energy ecosystem, while Chiba brought us closer to the industry itself.",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's solar market: from FIT to performance",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "helped Japan rapidly expand solar capacity. The priority was building assets and securing predictable returns",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "We see an opportunity to bring the experience and technology we have developed in Switzerland and Europe to Japan. But our workshops made one thing very clear:",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan is not a copy-paste market.",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "adapted to Japanese O&M workflows, asset-management practices, security requirements",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Building the next phase in Japan",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Our first trip to Japan gave us something that a year of online meetings could not:",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "the beginning of our next chapter in Japan.",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "Operating solar or BESS assets in Japan?",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "太陽光・蓄電池 (BESS) 運用のためのAIエージェント — 太陽光・蓄電池 (BESS) 運用のためのAIエージェント SmartHelio https://smarthelio.com > ...",
+    "url": "https://smarthelio.com/jp/",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio at Smart Energy Week Japan: Meet us at booth E5-6 — SmartHelio at Smart Energy Week Japan: Meet us at booth E5-6 SmartHelio https://smarthelio.com > smarthelio-at-smart-energy-week...",
+    "url": "https://smarthelio.com/smarthelio-at-smart-energy-week-meet-us-at-our-booth/",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio SARL - 出展社詳細 - スマートエネルギーWeek — SmartHelio SARL - 出展社詳細 - スマートエネルギーWeek スマートエネルギーWeek https://www.wsew.jp > 10月_秋展 > 出展社検索",
+    "url": "https://www.wsew.jp/autumn/ja-jp/search/2026sep0909/directory/directory-details.org-7d35e390-0b83-4df2-b089-90c329e4a103.html",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio — SmartHelio SmartHelio https://smarthelio.com",
+    "url": "https://smarthelio.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio : Software to prevent downtime in a solar plant — SmartHelio : Software to prevent downtime in a solar plant Y Combinator https://www.ycombinator.com > smar...",
+    "url": "https://www.ycombinator.com/companies/smarthelio",
+    "pass": 3
+   },
+   {
+    "quote": "Our first trip to Japan : SmartHelio's journey into a changing ... — Our first trip to Japan : SmartHelio's journey into a changing ... SmartHelio https://smarthelio.com > our-first-trip-...",
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio - YouTube — SmartHelio - YouTube YouTube https://www.youtube.com > @SmartH...",
+    "url": "https://www.youtube.com/@SmartHelio",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio — AI Agent for Solar & BESS - LinkedIn — SmartHelio — AI Agent for Solar & BESS - LinkedIn LinkedIn Schweiz https://ch.linkedin.com > smartheliotech",
+    "url": "https://ch.linkedin.com/company/smartheliotech",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study : AI Applications for Solar Operations - SmartHelio — Case Study : AI Applications for Solar Operations - SmartHelio SmartHelio https://smarthelio.com > case-study-fr...",
+    "url": "https://smarthelio.com/case-study-from-monitoring-to-intelligence-ai-applications-for-solar-operations/",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio - 2026 Company Profile, Team, Funding ... - Tracxn — Feb 17, 2026 · SmartHelio has raised $6.05M in funding from investors like Y Combinator, Banque Alternative Suisse and FIT. The company has 268 active competitors, including 49 funded and 38 that have exited.",
+    "url": "https://tracxn.com/d/companies/smarthelio/__Ty8qPsBg1SESBzkhqunui7fQxdLje401EgVcbXm4jWc",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio – Revenue, Valuation & Top Competitors – 2026 — Discover SmartHelio's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/smarthelio",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio 2026 Company Profile: Valuation, Funding ...SmartHelio: Funding, Team & Investors | Startup IntrosSmartHelio: Funding, Investors & Team (Oct 2026) | FundedIQSmartHelio Funding: $5.3M Raised, Investors & History (2026 ...SmartHelio Revenue 2024: $2.4M Est. - getlatka.com — Information on valuation, funding, cap tables, investors, and executives for SmartHelio. Use the PitchBook Platform ",
+    "url": "https://pitchbook.com/profiles/company/436114-90",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · SmartHelio serves large-scale solar developers and utilities primarily in Europe and Asia, leveraging over 25 billion data points from more than 3 GW of solar assets globally.",
+    "url": "https://startupintros.com/orgs/smarthelio",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio: Funding, Investors & Team (Oct 2026) | FundedIQ — SmartHelio is an Energy company in Lausanne, Switzerland. Raised $5.0M across 2 rounds; latest round Jun 2026. Investors, founders and funding history.",
+    "url": "https://fundediq.co/smarthelio-smarthelio-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "SmartHelio on X: \"Do you rely only on inverter-level & string ... SmartHelio on X: \"Do you rely only on inverter-level & string-level data for your analytics? Empower your system with module-level insights🧐on your solar asset 🗓 Book a demo with us: https://t.co/Qg4APlsV0i 🤝Meet us at @Intersolar 2022 Booth No. A4 655, Munich, Germany #solarpv #solarenergy\"",
+    "url": "https://x.com/smarthelioIOT/status/1521759436657676288",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio on X: \"Out of all the major renewable sources of ... Out of all the major renewable sources of energy such as #Wind, #Hydro, #Geothermal, etc., #Solar is certainly the fuel of the future. @ smarthelioIOT is committed to making this more accessible to you. smarthelio.com esi-africa.com/industry-secto… #smarthelio #renewables",
+    "url": "https://x.com/smarthelioIOT/status/1372114633520128004",
+    "pass": 3
+   },
+   {
+    "quote": "Govinda upadhyay (@goviupadhyay) / Posts / X Jul 9 #SmartHelio team is back to Himalayas for our mid year townhall. These mountains remind us: growth isn’t loud, it’s persistent. Layer by layer, thought by thought. #team 💬 0",
+    "url": "https://x.com/goviupadhyay",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio on X: \"Do you rely only on inverter-level & string ... May 4, 2022 · SmartHelio on X: \"Do you rely only on inverter-level & string-level data for your analytics? Empower your system with module-level insights🧐on your solar asset 🗓 Book a demo with us: https://t.co/Qg4APlsV0i 🤝Meet us at @Intersolar 2022 Booth No. A4 655, Munich, Germany #solarpv #solarenergy\"",
+    "url": "https://x.com/smarthelioIOT/status/1521759436657676288",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio on X: \"Out of all the major renewable sources of ... Mar 17, 2021 · Out of all the major renewable sources of energy such as #Wind, #Hydro, #Geothermal, etc., #Solar is certainly the fuel of the future. @ smarthelioIOT is committed to making this more accessible to you. smarthelio.com esi-africa.com/industry-secto… #smarthelio #renewables",
+    "url": "https://x.com/smarthelioIOT/status/1372114633520128004",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SmartHelio — AI Agent for Solar & BESS | LinkedIn SmartHelio, based in Switzerland, is an innovative leader in Predictive Solar Analytics, dedicated to improving the health and efficiency of solar plants worldwide.",
+    "url": "https://www.linkedin.com/company/smartheliotech",
+    "pass": 3
+   },
+   {
+    "quote": "Govinda Upadhyay – SmartHelio | LinkedInSmartHelio — AI Agent for Solar & BESS hiring Junior ...Neeraj Kumar Dasila - YC Founder (W22) | Deep-tech x Product ...How SmartHelio aims to fix solar panels before they break ...How SmartHelio aims to fix solar panels before they break ... · Berufserfahrung: SmartHelio · Ausbildung: Y Combinator · Ort: Schweiz · 500+ Kontakte auf LinkedIn. Sehen Sie sich ",
+    "url": "https://ch.linkedin.com/in/govindaupadhyay",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio — AI Agent for Solar & BESS hiring Junior ... Oct 6, 2026 · SmartHelio is a Y Combinator-backed deep-tech startup based in Lausanne, Switzerland, operating in the clean-tech space. We are working to make clean energy assets more profitable and...",
+    "url": "https://in.linkedin.com/jobs/view/junior-solar-pv-performance-engineer-intern-at-smarthelio-—-ai-agent-for-solar-bess-4474666978",
+    "pass": 3
+   },
+   {
+    "quote": "Neeraj Kumar Dasila - YC Founder (W22) | Deep-tech x Product ...How SmartHelio aims to fix solar panels before they break ...How SmartHelio aims to fix solar panels before they break ... Jan 6, 2015 · · Experience: SmartHelio · Education: Y Combinator · Location: New Delhi · 500+ connections on LinkedIn. View Neeraj Kumar Dasila’s profile on LinkedIn, a professional community of 1 billion... Using",
+    "url": "https://in.linkedin.com/in/neerajkumardasila",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SmartHelio | Prilly - FacebookSmartHelio - ☀️ Las Vegas, here we come! RE+ 2026 is just ...SmartHelio - How much can you really trust ... - FacebookSmartHelio - A company's most precious asset is its... | FacebookSmartHelio - SmartHelio updated their cover photo. - FacebookSmartHelio just turned 1, and here is what our Business ...SmartHelio - An advanced #realtime #analytics software ... Sep 28, ",
+    "url": "https://www.facebook.com/SmartHelioIOT/",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio - ☀️ Las Vegas, here we come! RE+ 2026 is just ... Nov 2, 2026 · ☀️ Las Vegas, here we come! RE+ 2026 is just around the corner, and the SmartHelio team is excited to connect with the solar and BESS community! From identifying performance issues to understanding...",
+    "url": "https://www.facebook.com/SmartHelioIOT/posts/️-las-vegas-here-we-comere-2026-is-just-around-the-corner-and-the-smarthelio-tea/1639908757930915/",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio - A company's most precious asset is its... | Facebook Jul 31, 2021 · A company's most precious asset is its employees and SmartHelio is blessed to have a diverse and expert team. Starting today, every week we will be sharing with you a brief introduction of our team members and their work.",
+    "url": "https://www.facebook.com/SmartHelioIOT/posts/550362139711854/",
+    "pass": 3
+   },
+   {
+    "quote": "SmartHelio - SmartHelio updated their cover photo. - Facebook Aug 27, 2026 · 伺うことができ、とても嬉しく思います。 SmartHelioのブースでもたくさんの方とお話しすることがで き、太陽光発電所のパフォーマンス向上に向けて、データと AIをどのように活用できるのか、私たちの取り組みをご紹介 することができました。 ブース E5-6",
+    "url": "https://www.facebook.com/SmartHelioIOT/photos/1577219464199845/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://smarthelio.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smarthelio.com/case-study-what-vegetation-and-shading-reveal-about-solar-plant-performance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smarthelio.com/gaia/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smarthelio.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smarthelio.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smarthelio.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smarthelio.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smarthelio.com/gaia-architecture-article/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smarthelio.com/the-reality-of-predictive-analytics-client-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smarthelio.com/wp-content/uploads/DSC_5009-EDIT-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://smarthelio.com/wp-content/uploads/76B9E0E3-57A7-4905-9160-07653E5F640F_1_105_c.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://smarthelio.com/wp-content/uploads/IMG_0245-scaled.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://smarthelio.com/wp-content/uploads/20210410_115306-scaled.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://smarthelio.com/wp-content/uploads/Team-retreat-in-Himalaya-scaled.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://smarthelio.com/wp-content/uploads/F5445298-DE02-4259-AC9F-22FF73D9FB17_1_105_c.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://smarthelio.com/wp-content/uploads/IMG_0109-scaled.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://smarthelio.com/tag/client-stories/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://smarthelio.com/wp-content/uploads/Frame-95.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://smarthelio.com/wp-content/uploads/TATA.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://smarthelio.com/wp-content/uploads/BKW.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://smarthelio.com/wp-content/uploads/ROMANDE.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://smarthelio.com/jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/govindaupadhyay_we-will-be-in-japan-for-two-exciting-activity-7498674346446589952-r4AJ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://smarthelio.com/smarthelio-at-smart-energy-week-meet-us-at-our-booth/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wsew.jp/autumn/ja-jp/search/2026sep0909/directory/directory-details.org-7d35e390-0b83-4df2-b089-90c329e4a103.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smarthelio.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wsew.jp/autumn/ja-jp/search/2026sep0909/directory/directory-details.org-7d35e390-0b83-4df2-b089-90c329e4a103.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smarthelio.com/smarthelio-at-smart-energy-week-meet-us-at-our-booth/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smarthelio.com/jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smarthelio.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/smarthelio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/@SmartHelio",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://smarthelio.com/case-study-from-monitoring-to-intelligence-ai-applications-for-solar-operations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.advantech.com/en-us/resources/case-study/explore-success-stories-for-smart-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2212827124013945",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/smarthelio/__Ty8qPsBg1SESBzkhqunui7fQxdLje401EgVcbXm4jWc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://compworth.com/company/smarthelio",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/436114-90",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/smarthelio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/smarthelioIOT/status/1521759436657676288",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/smarthelioIOT/status/1372114633520128004",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/goviupadhyay",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/smartheliotech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/in/govindaupadhyay",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/jobs/view/junior-solar-pv-performance-engineer-intern-at-smarthelio-—-ai-agent-for-solar-bess-4474666978",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/neerajkumardasila",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SmartHelioIOT/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SmartHelioIOT/posts/️-las-vegas-here-we-comere-2026-is-just-around-the-corner-and-the-smarthelio-tea/1639908757930915/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SmartHelioIOT/posts/550362139711854/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SmartHelioIOT/photos/1577219464199845/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/smarthelioIOT/status/1521759436657676288",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/smarthelioIOT/status/1372114633520128004",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Smarthelio 日本 導入",
+   "results": [
+    "https://smarthelio.com/jp/",
+    "https://www.linkedin.com/posts/govindaupadhyay_we-will-be-in-japan-for-two-exciting-activity-7498674346446589952-r4AJ",
+    "https://smarthelio.com/smarthelio-at-smart-energy-week-meet-us-at-our-booth/",
+    "https://www.wsew.jp/autumn/ja-jp/search/2026sep0909/directory/directory-details.org-7d35e390-0b83-4df2-b089-90c329e4a103.html",
+    "https://www.enegaeru.com/aiagent4solarbattery",
+    "https://smarthelio.com/smarthelio%E3%80%81%E5%88%9D%E3%81%AE%E6%97%A5%E6%9C%AC%E8%A8%AA%E5%95%8F-%E5%A4%89%E3%82%8F%E3%82%8A%E3%82%86%E3%81%8F%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BB%E5%B8%82%E5%A0%B4%E3%82%92/",
+    "https://www.youtube.com/shorts/adjP3K0pxCs",
+    "https://www.addlight.co.jp/news/20240202_2/",
+    "https://www.decarbonization-expo.jp/autumn/ja-jp/visit/feature/ov-new.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Smarthelio 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://smarthelio.com/",
+    "https://www.wsew.jp/autumn/ja-jp/search/2026sep0909/directory/directory-details.org-7d35e390-0b83-4df2-b089-90c329e4a103.html",
+    "https://smarthelio.com/smarthelio-at-smart-energy-week-meet-us-at-our-booth/",
+    "https://smarthelio.com/jp/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=4529",
+    "https://www.manageengine.jp/pace/",
+    "https://www.engeniustech.com/jp/where-to-buy/",
+    "https://motorai.jp/partners/",
+    "https://www.batop.de/japanese/sales-offices_jp.html",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Smarthelio Japan",
+   "results": [
+    "https://smarthelio.com/",
+    "https://www.ycombinator.com/companies/smarthelio",
+    "https://smarthelio.com/our-first-trip-to-japan-smarthelios-journey-into-a-changing-solar-market/",
+    "https://www.youtube.com/@SmartHelio",
+    "https://ch.linkedin.com/company/smartheliotech",
+    "https://smarthelio.com/we-are-smarthelio-the-doctors-of-solar-plants/",
+    "https://www.wsew.jp/autumn/ja-jp/search/2026sep0909/directory/directory-details.org-7d35e390-0b83-4df2-b089-90c329e4a103.html",
+    "https://www.facebook.com/SmartHelioIOT/",
+    "https://www.youtube.com/watch?v=yIEd-mjyOuQ",
+    "https://smarthelio.com/jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Smarthelio manufacturing customer case study",
+   "results": [
+    "https://smarthelio.com/case-study-from-monitoring-to-intelligence-ai-applications-for-solar-operations/",
+    "https://www.advantech.com/en-us/resources/case-study/explore-success-stories-for-smart-manufacturing",
+    "https://www.sciencedirect.com/science/article/pii/S2212827124013945",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://www.griddynamics.com/blog/case-studies",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLdsThIdPMhD-xoK5sAbelR-ormGacuMMgBxNPkOH4Wt8mcZKj5",
+    "https://www.rtinsights.com/3-smart-manufacturing-use-cases-that-improve-production/",
+    "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "https://www.youtube.com/watch?v=qHwK8ughSNk",
+    "https://smarthelio.com/search/Case+study"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Smarthelio white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://partners.spectrum.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smarthelio founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/smarthelio/__Ty8qPsBg1SESBzkhqunui7fQxdLje401EgVcbXm4jWc",
+    "https://compworth.com/company/smarthelio",
+    "https://pitchbook.com/profiles/company/436114-90",
+    "https://startupintros.com/orgs/smarthelio",
+    "https://fundediq.co/smarthelio-smarthelio-com-funding/",
+    "https://indexed.vc/companies/smartheliotech",
+    "https://getlatka.com/companies/smarthelio.com"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Smarthelio",
+   "results": [
+    "https://note.com/digital_sashimi/n/n573aa06058a6",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/chokuzen_note/n/n51144ff5ffda",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/sekasu/n/n985d4263a09c",
+    "https://note.com/powerpoint_jp/n/n13417981793d"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Smarthelio",
+   "results": [
+    "https://x.com/smarthelioIOT/status/1521759436657676288",
+    "https://x.com/smarthelioIOT/status/1372114633520128004",
+    "https://x.com/goviupadhyay",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/_InfoGram_/status/2118253289573949943",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/PicturesFoIder/status/2118185223867560198"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Smarthelio",
+   "results": [
+    "https://www.linkedin.com/company/smartheliotech",
+    "https://ch.linkedin.com/in/govindaupadhyay",
+    "https://in.linkedin.com/jobs/view/junior-solar-pv-performance-engineer-intern-at-smarthelio-—-ai-agent-for-solar-bess-4474666978",
+    "https://in.linkedin.com/in/neerajkumardasila",
+    "https://ca.linkedin.com/posts/y-combinator_how-smarthelio-aims-to-fix-solar-panels-before-activity-7008920341481754624--pZK",
+    "https://au.linkedin.com/posts/alessandraagnello_how-smarthelio-aims-to-fix-solar-panels-before-activity-7009107409361059840-MWHP",
+    "https://www.linkedin.com/pulse/from-startup-booth-heart-intersolar-our-five-year-journey-wn5vc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Smarthelio",
+   "results": [
+    "https://www.facebook.com/SmartHelioIOT/",
+    "https://www.facebook.com/SmartHelioIOT/posts/️-las-vegas-here-we-comere-2026-is-just-around-the-corner-and-the-smarthelio-tea/1639908757930915/",
+    "https://www.facebook.com/SmartHelioIOT/posts/550362139711854/",
+    "https://www.facebook.com/SmartHelioIOT/photos/1577219464199845/",
+    "https://www.facebook.com/SmartHelioIOT/videos/smarthelio-turns-1-maxine-cronier-business-development-manager/486410332338464/",
+    "https://www.facebook.com/SmartHelioIOT/posts/an-advanced-realtime-analytics-software-thats-first-choice-solar-of-assetmanager/785311896216876/",
+    "https://www.facebook.com/SmartHelioIOT/posts/-how-much-can-you-really-trust-your-batterys-state-of-charge-soc-estimateaccurat/1642754027646388/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smarthelio note 社長",
+   "results": [
+    "https://smarthelio.com/",
+    "https://smarthelio.com/about/",
+    "https://tracxn.com/d/companies/smarthelio/__Ty8qPsBg1SESBzkhqunui7fQxdLje401EgVcbXm4jWc",
+    "https://www.pv-tech.org/smarthelio-bags-investment-to-expand-ai-powered-solar-analytics-platform/",
+    "https://jp.linkedin.com/company/smartheliotech",
+    "https://fundediq.co/smarthelio-smarthelio-com-funding/",
+    "https://unreasonablegroup.com/ventures/smarthelio"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Smarthelio X 投稿",
+   "results": [
+    "https://smarthelio.com/",
+    "https://x.com/smarthelioIOT/status/1521759436657676288",
+    "https://x.com/smarthelioIOT/status/1372114633520128004",
+    "https://smarthelio.com/jp/",
+    "https://www.instagram.com/smarthelio/",
+    "https://www.facebook.com/SmartHelioIOT/",
+    "https://autopilot.prod.smarthelio.cloud/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式17頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

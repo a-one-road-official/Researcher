@@ -1,0 +1,1031 @@
+{
+ "name": "Flypyka",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜NG",
+ "researched_at": "2026-11-11T00:39:13.828009+00:00",
+ "official_url": "https://flypyka.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2017",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The world's most efficient spray aircraft.",
+    "url": "https://flypyka.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven supply chain and manufacturing.",
+    "url": "https://flypyka.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pyka and Grupo HAME Begin Guatemala’s First Autonomous Electric Aerial Crop Spraying Operation",
+    "url": "https://flypyka.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In classic startup-fashion, Pyka was started in Michael's parents' garage. The garage was not large enough to fit Pyka's proof of concept vehicle, \"Big Bird,\" so the company moved to the backyard, where they maintained a decidedly laid back 'shoes optional' corporate culture.",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "After raising a $3m round out of Y Combinator, the team set about designing and building its first product, the \"Egret,\" which was a 200lb payload 100% autonomous electric crop duster.",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Four months after raising their Seed+, Pyka flew its second generation electric autonomous ag airplane, the \"Pelican\". The new aircraft incorporated dozens of design and feature improvements and carried over 3x the liquid payload of its predecessor.",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Pelican Enters Production",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Pyka started serial production of the Pelican in late 2020, after completing structural load testing and flight testing programs. Most of the aircraft is manufactured at our facility in Oakland, California.",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "April 2021",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Pelican SN3 was delivered to one of two major launch customers in Costa Rica where the aircraft would soon go to work spraying Bananas.",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "The Pelican successfully completed the final stage of flight demonstration for commercial approval in the US.",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "April 2022",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Pyka secured the world's first approval for autonomous night spray operations in Costa Rica.",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "April 2023",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Pyka secured FAA 44807 Authorization for Commercial Operation of Pelican Spray in the United States.",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Pyka and Dole Successfully Complete Trial Phase of Pelican Spray",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Dole plans to expand Pelican Spray operations in LATAM to advance Smart Farming and Sustainability Goals.",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Skyports Drone Services demonstrated Pelican Cargo’s heavy payload capacity and extended range capabilities to an audience of senior members of the UK Ministry of Defence and the Royal Navy at the UASHLC test site in Predannack, Cornwall.",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Pyka Signs SLC Agrícola as Pelican Spray Customer",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Pyka set to deliver Pelican Spray aircraft to one of Brazil's largest agricultural producers.",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Pyka Announces First Major U.S. Customer for Pelican Spray",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Delivers Pelican Spray to Heinen Brothers Agra Services, one of the largest aerial spray services providers in North America.",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Pyka raised USD 40M to accelerate growth and further scale production of its autonomous aircraft for agriculture, defense, and commercial logistics.",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We're always looking for talented and motivated candidates to join our team. You'll help design, build, and test autonomous electric airplanes as well as deploy them to customers.",
+    "url": "https://flypyka.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Integration team training",
+    "url": "https://flypyka.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: FlyPyka replaces spreadsheets and establishes a single source of truth with OpenBOM | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/openbom/case-study/flypyka-is-replacing-google-spreadsheets-with-openbom-managing-one-source-of-truth-for-autonomous-electric-airplane-development",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: FlyPyka replaces spreadsheets and establishes a single source of truth with OpenBOM",
+    "url": "https://www.casestudies.com/company/openbom/case-study/flypyka-is-replacing-google-spreadsheets-with-openbom-managing-one-source-of-truth-for-autonomous-electric-airplane-development",
+    "pass": 3
+   },
+   {
+    "quote": "FlyPyka is Replacing Google Spreadsheets with OpenBOM Managing One Source of Truth For Autonomous Electric Airplane Development",
+    "url": "https://www.casestudies.com/company/openbom/case-study/flypyka-is-replacing-google-spreadsheets-with-openbom-managing-one-source-of-truth-for-autonomous-electric-airplane-development",
+    "pass": 3
+   },
+   {
+    "quote": "Pyka (flypyka.com): Autonomous electric aircraft | Present of AI",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous electric aircraft that spray crops and carry cargo without a pilot on board, built with the company's own flight control software, motors and airframes.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous electric aircraft that spray crops and carry cargo without a pilot on board, built with the company's own flight control software, motors and airframes. Crop spraying by piloted aircraft is expensive and puts a pilot at risk flying low over fields, while cargo delivery to remote or contested locations often depends on runways.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "https://presentofai.com/spotlight/flypyka.com",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Pyka | Present of AI Company Spotlight",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Piloted crop spraying is expensive and puts a pilot at risk flying low over fields; cargo delivery to remote areas often needs runways, fuel and crew that are not always available.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Pelican 2 sprays crops autonomously and DropShip targets long-range cargo and defense logistics, with a US Air Force contract awarded in October 2025.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Pyka says it holds industry-first regulatory approvals from the FAA, per its Y Combinator profile, and names customers including SLC Agricola, Dole Foods and Heinen Brothers Agra Services.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "US$40M Series B led by Obvious Ventures with Piva Capital, Prelude Ventures, Metaplanet Holdings and Y Combinator (September 2024, per TechCrunch)",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "SLC Agricola (Brazil), Dole Foods, Heinen Brothers Agra Services, US Air Force (named in press coverage and the company's site)",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Per a Michael Norcia profile on mbdart.org, the CEO contributed to electric aviation projects at Joby, Cora and Kittyhawk, and per eVTOL News (quoted by Sustainable Skies) he interned at Joby Aviation and spent two years as a power systems engineer at Wisk. That is direct prior technical work on electric and autonomous aircraft, the exact domain.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Hylio and DJI are also active in crop spraying by drone, but Pyka states its Pelican 2 carries a 300 L payload with a 20 m swath at about US$1 per hectare, per the company, and it has extended the same platform into defense cargo.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Pyka's aircraft fly and spray or drop cargo with no pilot on board, using its own PYKA.OS flight control and PYKA.PERCEPTION sensing software, a task that depends entirely on autonomous flight and perception software and could not exist without it.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "The FAA published its proposed Part 108 rule on 7 August 2025, aimed at normalizing beyond visual line of sight drone operations including precision agriculture and cargo delivery, a concrete, dated regulatory step toward the kind of routine autonomous flight Pyka's business depends on.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Three signals: Pyka reports industry-first regulatory approvals from the FAA, per its Y Combinator profile, a regulatory barrier any competitor must also clear, it designs and builds its own proprietary aircraft, motors, batteries and flight software rather than buying them in, and it holds a US Air Force AFWERX contract to develop its DropShip cargo aircraft.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "The company names customers across countries including SLC Agricola in Brazil, Dole Foods and Heinen Brothers Agra Services in the US, plus a US Air Force contract, backed by a priced US$40 million Series B in September 2024.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Three evidenced channels: direct international sales to large agricultural operators, a United States customer relationship with Heinen Brothers Agra Services, its first United States customer per Commercial UAV News, and government contracting through the US Air Force's AFWERX programme.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Pyka reports industry-first regulatory approvals from the FAA, per its Y Combinator profile, an aviation safety clearance rather than a data security certification.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Not applicable: Pyka sells aircraft and spraying services to agricultural operators and government customers, not a product an individual would try.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "US$40M Series B led by Obvious Ventures (September 2024); US$37M Series A (April 2022); Y Combinator",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Public material only: company site, press releases and funding coverage. Not founder-verified.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Crop spraying by manned aircraft is one of the more dangerous jobs in agriculture, flying low and fast over fields, and it is expensive to staff. At the same time, moving cargo, whether pesticide, food, or military supplies, to remote or damaged locations often depends on infrastructure like runways, fuel and trained crew that are not always available where the cargo is needed.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Both problems share a common shape: a flight that is repetitive, risky for a human pilot, or logistically constrained by needing a person and full-size airport infrastructure on board or on the ground.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Pyka's aircraft are built to remove the pilot from that equation entirely, flying spraying missions over farmland or long cargo routes autonomously, using aircraft the company designs and builds itself rather than retrofitting existing manned aircraft.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "An autonomous electric aircraft that sprays crops, with a stated 300-litre payload and an operating cost the company puts at about US$1 per hectare.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Pyka’s goal is to provide society with a new form of safe, clean, and cost-effective transportation enabled by autonomous electric aviation.",
+    "url": "https://www.gritt.io/company/flypyka/",
+    "pass": 3
+   },
+   {
+    "quote": "We design, develop and manufacture an ecosystem of technologies including proprietary flight control software, avionics, high power density motors, motor controllers, batteries, and custom carbon-fiber composite airframes.",
+    "url": "https://www.gritt.io/company/flypyka/",
+    "pass": 3
+   },
+   {
+    "quote": "Today, we supply autonomous electric aircraft for cargo transport and crop protection to real-world customers across four separate continents and have secured industry-first regulatory approvals from the FAA.",
+    "url": "https://www.gritt.io/company/flypyka/",
+    "pass": 3
+   },
+   {
+    "quote": "Managing Director, Prelude Ventures",
+    "url": "https://www.gritt.io/company/flypyka/",
+    "pass": 3
+   },
+   {
+    "quote": "President of Lunar Energy",
+    "url": "https://www.gritt.io/company/flypyka/",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2022",
+    "url": "https://www.gritt.io/company/flypyka/",
+    "pass": 3
+   },
+   {
+    "quote": "Entrepreneur | Investor | Board Member | Advisory Board | C-Suite | Asset Management | Founder & Managing Partner at TRIREC",
+    "url": "https://www.gritt.io/company/flypyka/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Manufacturing at Scale",
+    "url": "https://flypyka.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven supply chain and manufacturing.",
+    "url": "https://flypyka.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pyka is America's leading manufacturer of dual-use heavy-lift autonomous aircraft.",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Manufacturing",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Manufacturing Operations",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Pyka was awarded a $7m California Tax Credit with the California Governor’s Office of Business and Economic Development (“GO-Biz”) to expand manufacturing of zero-emission autonomous aircraft.",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: FlyPyka replaces spreadsheets and establishes a single source of truth with OpenBOM | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/openbom/case-study/flypyka-is-replacing-google-spreadsheets-with-openbom-managing-one-source-of-truth-for-autonomous-electric-airplane-development",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: FlyPyka replaces spreadsheets and establishes a single source of truth with OpenBOM",
+    "url": "https://www.casestudies.com/company/openbom/case-study/flypyka-is-replacing-google-spreadsheets-with-openbom-managing-one-source-of-truth-for-autonomous-electric-airplane-development",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/openbom/case-study/flypyka-is-replacing-google-spreadsheets-with-openbom-managing-one-source-of-truth-for-autonomous-electric-airplane-development",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/openbom/case-study/flypyka-is-replacing-google-spreadsheets-with-openbom-managing-one-source-of-truth-for-autonomous-electric-airplane-development",
+    "pass": 3
+   },
+   {
+    "quote": "regulatory, operations, manufacturing, Outreach, agriculture, business development",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Manufacturing and Design",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Three evidenced channels: direct international sales to large agricultural operators, a United States customer relationship with Heinen Brothers Agra Services, its first United States customer per Commercial UAV News, and government contracting through the US Air Force's AFWERX programme.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Not applicable: Pyka sells aircraft and spraying services to agricultural operators and government customers, not a product an individual would try.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "For agricultural operators and growers",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "For military and humanitarian logistics operators",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "For an aerospace company that already operates a different aircraft, Pelican 2, publishing a new platform's specifications around its first flights is a common industry pattern, particularly once a government contract is in place.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large agricultural operators needing crop spraying at scale, and government or humanitarian logistics operators needing long-range autonomous cargo delivery.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Commercial agricultural producers, aerial spray service providers, logistics operators, and military defense departments. Named customers appearing in text include Dole Foods, SLC Agricola, Heinen Brothers Agra Services, and the United States Air Force.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Four months after raising their Seed+, Pyka flew its second generation electric autonomous ag airplane, the \"Pelican\". The new aircraft incorporated dozens of design and feature improvements and carried over 3x the liquid payload of its predecessor.",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Pyka Surpasses 50 Employees",
+    "url": "https://flypyka.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Employee Spotlight: Larry Adamson",
+    "url": "https://flypyka.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous electric aircraft that spray crops and carry cargo without a pilot on board, built with the company's own flight control software, motors and airframes.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous electric aircraft that spray crops and carry cargo without a pilot on board, built with the company's own flight control software, motors and airframes. Crop spraying by piloted aircraft is expensive and puts a pilot at risk flying low over fields, while cargo delivery to remote or contested locations often depends on runways.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Hylio and DJI are also active in crop spraying by drone, but Pyka states its Pelican 2 carries a 300 L payload with a 20 m swath at about US$1 per hectare, per the company, and it has extended the same platform into defense cargo.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Three signals: Pyka reports industry-first regulatory approvals from the FAA, per its Y Combinator profile, a regulatory barrier any competitor must also clear, it designs and builds its own proprietary aircraft, motors, batteries and flight software rather than buying them in, and it holds a US Air Force AFWERX contract to develop its DropShip cargo aircraft.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "No public revenue or ARR figure found.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Valuation as a multiple of ARR",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "Not shown: it needs both a valuation and an ARR figure from a company, investor or named-press source, within 12 months of each other. We do not estimate either.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "We wrote this Spotlight from public material, as part of our series on the companies building with AI.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "👥 139 employees",
+    "url": "https://www.gritt.io/company/flypyka/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "flypyka.com - Pyka︱Real Missions. Real Customers. Real ... — Company Pyka Inc. 950 W. Tower Avenue, Alameda, CA 94501, USA Email: pyka@flypyka.com",
+    "url": "https://www.flypyka.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Media & Press - flypyka.com — Pyka in the news, press releases, and videos.",
+    "url": "https://www.flypyka.com/media",
+    "pass": 3
+   },
+   {
+    "quote": "パイカ（Pyka）｜militarist.jp（ミリタリスト） — Jun 29, 2026 · 防衛テック企業 パイカ（Pyka） 自律電動機を手がける米企業（防衛物流）。 公式： https://www.flypyka.com ｜出典：public reporting｜更新 2026-06-29",
+    "url": "https://militarist.jp/companies/pyka/",
+    "pass": 3
+   },
+   {
+    "quote": "このスタートアップは人間の脳細胞とシリコンチップを融合させた | AS... — Jun 2, 2026 · 私たちのウェブサイト flypyka.com で見つけることができます。 P-I-K-A ではなく P-Y-K-A です。 LinkedInで非常に活発に活動しています。 実はInstagramでも非常に活発です。 ほとんどがポルトガル語ですが、警告しておきます。",
+    "url": "https://asi.tokyo/2026/06/02/このスタートアップは人間の脳細胞とシリコンチ/",
+    "pass": 3
+   },
+   {
+    "quote": "flypyka.com - Pyka︱Real Missions. Real Customers. Real ... — We are harnessing automation and electrification to make aviation safer, cleaner, and more cost-effective than ever before.",
+    "url": "https://www.flypyka.com/",
+    "pass": 3
+   },
+   {
+    "quote": "DropShip - flypyka.com — DropShip is a Group 3+ multi-mission UAS designed to transport essential payloads into remote, contested, and infrastructure-limited environments—extending logistics beyond the reach of traditional ground and air transportation.",
+    "url": "https://www.flypyka.com/dropship",
+    "pass": 3
+   },
+   {
+    "quote": "Pyka (@flypyka) • Instagram photos and videos — America’s leading manufacturer of dual-use, heavy-lift autonomous aircraft. Flying in 🇺🇸 🇧🇷 🇬🇹\"",
+    "url": "https://www.instagram.com/flypyka/",
+    "pass": 3
+   },
+   {
+    "quote": "#flypyka #autonomousagriculture #worldagexpo #pelican2 | Pyka ... — With an expanded 300-liter payload and the ability to cover up to 90 hectares per hour with unmatched precision, Pelican 2 is the world’s largest and most productive autonomous agricultural...",
+    "url": "https://www.linkedin.com/posts/flypyka_flypyka-autonomousagriculture-worldagexpo-ugcPost-7294783517584936961-19GV",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: FlyPyka replaces spreadsheets and establishes a ... — FlyPyka, a developer of autonomous electric airplanes, faced significant challenges in managing complex product data as they transitioned from prototyping to production.",
+    "url": "https://www.casestudies.com/company/openbom/case-study/flypyka-is-replacing-google-spreadsheets-with-openbom-managing-one-source-of-truth-for-autonomous-electric-airplane-development",
+    "pass": 3
+   },
+   {
+    "quote": "Pyka (flypyka.com): Autonomous electric aircraft | Present of AI — Oct 26, 2026 · ·FAA approval for Pelican 2 reported in February 2025 (CompositesWorld); the company says Pelican was authorized in 2023. ·Described by the company as the world's largest autonomous crop protection aircraft. For military and humanitarian logistics operators flypyka.com",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "FlyPyka is Replacing Google Spreadsheets with OpenBOM ... — Founded in 2017 by experienced aviation experts, Pyka brings the reliability and high performance of short take-off and landing (STOL) airplanes to the agriculture industry in the form of an autonomous “crop dusting” airplane.",
+    "url": "https://www.openbom.com/user-stories/flypyka-is-replacing-google-spreadsheets-with-openbom-managing-one-source-of-truth-for-autonomous-electric-airplane-development",
+    "pass": 3
+   },
+   {
+    "quote": "2026 Company Profile, Team, Funding & Competitors - TracxnPyka — investors & funding | gritt.ioPyka’s Competitors, Revenue, Number of Employees, Funding ...Pyka 2026 Company Profile: Valuation, Funding & Investors ...About Us - flypyka.comPyka (USA) Funding: $88.1M - Military startups — Aug 10, 2026 · Pyka is a series B company based in Palo Alto (United States), founded in 2016 by Kyle Moore, Chu",
+    "url": "https://tracxn.com/d/companies/pyka/__DdJw2wKXkaUFrmp3TBlPVt1o9bumFxZbwOqD6j-iuTc",
+    "pass": 3
+   },
+   {
+    "quote": "Pyka 2026 Company Profile: Valuation, Funding & Investors ...About Us - flypyka.comPyka (USA) Funding: $88.1M - Military startups — Information on valuation, funding, cap tables, investors, and executives for Pyka. Use the PitchBook Platform to explore the full profile. Pyka raised $37m in Series A funding. Pyka secured the world's first approval for autonomous night spray operations in Costa Rica",
+    "url": "https://pitchbook.com/profiles/company/185192-38",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Get the AI Hiring Index data and new AI jobs in the daily digest, plus the daily Spotlight. Free, and every email has an unsubscribe link.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   },
+   {
+    "quote": "and we email you when new roles match.",
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Congrats @flypyka ! CargoDrop has great potential in defense ... CargoDrop has great potential in defense with a ferry range of more than 3,500 miles, a payload capacity of up to 550 pounds, and a precision airdrop system that can deliver supplies within 150 feet of target. @flypyka uses @ousterlidar $OUST .",
+    "url": "https://x.com/usppdd/status/2050614965867053457",
+    "pass": 3
+   },
+   {
+    "quote": "Just as I said on Jun 12 (https://t.co/2dJuzyoyqc), @flypyka ... Just as I said on Jun 12 (x.com/usppdd/status/…), @flypyka 's DropShip has tremendous potential in defense. @ousterlidar is the most critical sensor for its perception system, as highlighted on this page: flypyka.com/technology $OUST",
+    "url": "https://x.com/usppdd/status/2066768574702608488",
+    "pass": 3
+   },
+   {
+    "quote": "Army CASCOM testing the @flypyka DropShip hybrid VTOL drone Abraxas Spa (@AbraxasSpa). 32 likes. 🇺🇸 Army CASCOM testing the @flypyka DropShip hybrid VTOL drone",
+    "url": "https://x.com/AbraxasSpa/status/2066594432992915819",
+    "pass": 3
+   },
+   {
+    "quote": "@flypyka | X The latest posts from @flypyka",
+    "url": "https://x.com/flypyka",
+    "pass": 3
+   },
+   {
+    "quote": "Army CASCOM testing the @flypyka DropShip hybrid VTOL drone Jun 15, 2026 · Abraxas Spa (@AbraxasSpa). 32 likes. 🇺🇸 Army CASCOM testing the @flypyka DropShip hybrid VTOL drone",
+    "url": "https://x.com/AbraxasSpa/status/2066594432992915819",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Pyka - LinkedIn Website https://www.flypyka.com External link for Pyka Industry Robotics Engineering Company size 51-200 employees Headquarters Alameda, California",
+    "url": "https://www.linkedin.com/company/flypyka",
+    "pass": 3
+   },
+   {
+    "quote": "#flypyka #autonomousagriculture #worldagexpo #pelican2 | Pyka ... We believe Pelican 2 represents a new era in autonomous agriculture—where efficiency, precision, and reliability come together to deliver cost savings to growers like never before. ️ See it for...",
+    "url": "https://www.linkedin.com/posts/flypyka_flypyka-autonomousagriculture-worldagexpo-ugcPost-7294783517584936961-19GV",
+    "pass": 3
+   },
+   {
+    "quote": "#flypyka #electricaviation #autonomousflight # ... - LinkedIn Huge thanks to SF Bay Murals for helping us mark the moment in a real way. More to come! #FlyPyka #ElectricAviation #AutonomousFlight #AdvancedManufacturing #MadeInCalifornia | 29 comments on...",
+    "url": "https://www.linkedin.com/posts/flypyka_flypyka-electricaviation-autonomousflight-activity-7333913970036092928-Koda",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "OpenBOM - ️ Flypyka steps into the future by replacing... Flypyka steps into the future by replacing Google Spreadsheets with #OpenBOM for their pioneering autonomous electric airplane development. Dive into their story of creating a unified source of truth, enhancing collaboration and project management.",
+    "url": "https://www.facebook.com/openbom/posts/️-flypyka-steps-into-the-future-by-replacing-google-spreadsheets-with-openbom-fo/880422683627218/",
+    "pass": 3
+   },
+   {
+    "quote": "O Pelican 2 da @flypyka tem a capacidade de voar a noite ... Feb 1, 2026 · O Pelican 2 da @flypyka tem a capacidade de voar a noite carregando mais de 10.000 hectares de mapas 3D, contendo todos os obstáculos e talhões da...",
+    "url": "https://www.facebook.com/reel/26234263879513515/",
+    "pass": 3
+   },
+   {
+    "quote": "Pelican 2 coming in hot for its first ever LIVE flight ...New - https://www.flypyka.com/press-releases/pyka-secures-faa ...We had such a cool opportunity to host Kelly Hills USA and ... Pelican 2 coming in hot for its first ever LIVE flight demonstration at #showsafra2025! #Repost @flypyka Catch the IG live at 12pm Pacific on... Aug 11, 2024 · https://www.flypyka.com/press-releases/pyka-secures-fa",
+    "url": "https://www.facebook.com/avioesonline/videos/pelican-2-coming-in-hot-for-its-first-ever-live-flight-demonstration-at-showsafr/1605929689927234/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://flypyka.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://flypyka.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://flypyka.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/633e340e066c9116003e2ad3/6377bde94bd5254293d7591a_Embraer-Partnership.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.flypyka.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flypyka.com/media",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://militarist.jp/companies/pyka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asi.tokyo/2026/06/02/%E3%81%93%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%AF%E4%BA%BA%E9%96%93%E3%81%AE%E8%84%B3%E7%B4%B0%E8%83%9E%E3%81%A8%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%83%81/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taimen-eigyo.com/words/so-dairiten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flypyka.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flypyka.com/dropship",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/flypyka/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/flypyka_flypyka-autonomousagriculture-worldagexpo-ugcPost-7294783517584936961-19GV",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/openbom/case-study/flypyka-is-replacing-google-spreadsheets-with-openbom-managing-one-source-of-truth-for-autonomous-electric-airplane-development",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/flypyka_great-case-study-on-pykas-usage-of-custom-activity-7046612342586966016-0-qV",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://presentofai.com/spotlight/flypyka.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flypyka.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/pyka-flypyka-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/pyka/__DdJw2wKXkaUFrmp3TBlPVt1o9bumFxZbwOqD6j-iuTc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.gritt.io/company/flypyka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/flypyka",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/usppdd/status/2050614965867053457",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/usppdd/status/2066768574702608488",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AbraxasSpa/status/2066594432992915819",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/flypyka",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/flypyka_flypyka-autonomousagriculture-worldagexpo-ugcPost-7294783517584936961-19GV",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/flypyka_flypyka-electricaviation-autonomousflight-activity-7333913970036092928-Koda",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/openbom/posts/️-flypyka-steps-into-the-future-by-replacing-google-spreadsheets-with-openbom-fo/880422683627218/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reel/26234263879513515/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/avioesonline/videos/pelican-2-coming-in-hot-for-its-first-ever-live-flight-demonstration-at-showsafr/1605929689927234/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/flypyka",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AbraxasSpa/status/2066594432992915819",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Flypyka 日本 導入",
+   "results": [
+    "https://www.flypyka.com/",
+    "https://www.flypyka.com/media",
+    "https://militarist.jp/companies/pyka/",
+    "https://asi.tokyo/2026/06/02/このスタートアップは人間の脳細胞とシリコンチ/",
+    "https://travel.watch.impress.co.jp/docs/news/2131337.html",
+    "https://drone.jp/news/20250221135127111947.html",
+    "https://www.novartis.com/jp-ja/news/media-releases/prkk20260714"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Flypyka 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://partner-prop.com/lab/partner-business/agency/91/",
+    "https://dairiten-navi.jp/?p=439",
+    "https://gma-japan.com/service/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.flypyka.com/about-us",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Flypyka Japan",
+   "results": [
+    "https://www.flypyka.com/",
+    "https://www.flypyka.com/dropship",
+    "https://www.instagram.com/flypyka/",
+    "https://www.linkedin.com/posts/flypyka_flypyka-autonomousagriculture-worldagexpo-ugcPost-7294783517584936961-19GV",
+    "https://www.linkedin.com/company/flypyka",
+    "https://forbesjapan.com/articles/detail/60569",
+    "https://www.youtube.com/@PykaOfficial"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Flypyka manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/openbom/case-study/flypyka-is-replacing-google-spreadsheets-with-openbom-managing-one-source-of-truth-for-autonomous-electric-airplane-development",
+    "https://www.linkedin.com/posts/flypyka_great-case-study-on-pykas-usage-of-custom-activity-7046612342586966016-0-qV",
+    "https://presentofai.com/spotlight/flypyka.com",
+    "https://www.flypyka.com/",
+    "https://www.openbom.com/user-stories/flypyka-is-replacing-google-spreadsheets-with-openbom-managing-one-source-of-truth-for-autonomous-electric-airplane-development",
+    "https://www.flypyka.com/press-releases/oakland-based-pyka-awarded-7-million-california-tax-credit-to-expand-manufacturing-of-zero-emission-autonomous-aircraft",
+    "https://www.linkedin.com/posts/flypyka_a-glimpse-into-our-journey-from-it-flies-activity-7377383333502267393-TONm"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Flypyka white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.verkada.com/partners/",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Flypyka founded funding employees revenue",
+   "results": [
+    "https://fundediq.co/pyka-flypyka-com-funding/",
+    "https://tracxn.com/d/companies/pyka/__DdJw2wKXkaUFrmp3TBlPVt1o9bumFxZbwOqD6j-iuTc",
+    "https://www.gritt.io/company/flypyka/",
+    "https://www.owler.com/company/flypyka",
+    "https://pitchbook.com/profiles/company/185192-38",
+    "https://www.flypyka.com/about-us",
+    "https://www.militarystartups.pro/startup/flypyka/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Flypyka",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/chokuzen_note/n/n446b6ac7d01d",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/hatsumuradesu/n/n6c669815ff19",
+    "https://note.com/su_ec/n/ne4051db5361a",
+    "https://note.com/akih/n/n6cc428c21d80"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Flypyka",
+   "results": [
+    "https://x.com/usppdd/status/2050614965867053457",
+    "https://x.com/usppdd/status/2066768574702608488",
+    "https://x.com/AbraxasSpa/status/2066594432992915819",
+    "https://x.com/search-home",
+    "https://x.com/twistartups/status/2061562474915094592",
+    "https://x.com/twistartups/status/2061485084289466675",
+    "https://x.com/JVGKabala"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Flypyka",
+   "results": [
+    "https://www.linkedin.com/company/flypyka",
+    "https://www.linkedin.com/posts/flypyka_flypyka-autonomousagriculture-worldagexpo-ugcPost-7294783517584936961-19GV",
+    "https://www.linkedin.com/posts/flypyka_flypyka-electricaviation-autonomousflight-activity-7333913970036092928-Koda",
+    "https://www.linkedin.com/posts/flypyka_pcc6-projectconvergence-autonomoussystems-activity-7490522891340414976-rkv1",
+    "https://www.linkedin.com/posts/flypyka_flypyka-autonomousaircraft-aerialrobotics-activity-7364006843922206720-SsFC/",
+    "https://www.linkedin.com/posts/flypyka_life-at-pyka-join-our-team-activity-7178437313721430016-EPoK",
+    "https://www.linkedin.com/posts/flypyka_pyka-ceo-michael-norcia-on-cnns-first-move-activity-7034240940940685312-j62x"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Flypyka",
+   "results": [
+    "https://www.facebook.com/openbom/posts/️-flypyka-steps-into-the-future-by-replacing-google-spreadsheets-with-openbom-fo/880422683627218/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/reel/26234263879513515/",
+    "https://www.facebook.com/avioesonline/videos/pelican-2-coming-in-hot-for-its-first-ever-live-flight-demonstration-at-showsafr/1605929689927234/",
+    "https://www.facebook.com/nzagav/photos/httpswwwflypykacompress-releasespyka-secures-faa-authorization-for-commercial-op/818099183781240/",
+    "https://www.facebook.com/flypyka/",
+    "https://www.facebook.com/godseyprecisionag/videos/we-had-such-a-cool-opportunity-to-host-kelly-hills-usa-and-flypyka-to-demonstrat/1908195943245664/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Flypyka note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.flypyka.com/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://www.flypyka.com/about-us",
+    "https://rocketreach.co/pyka-management_b4579e19fca405b2",
+    "https://prtimes.jp/main/html/rd/p/000000097.000080389.html",
+    "https://www.theofficialboard.com/org-chart/pyka"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Flypyka X 投稿",
+   "results": [
+    "https://x.com/flypyka",
+    "https://www.flypyka.com/",
+    "https://www.instagram.com/flypyka/",
+    "https://x.com/AbraxasSpa/status/2066594432992915819",
+    "https://www.flypyka.com/dropship",
+    "https://www.flypyka.com/about-us",
+    "https://www.flypyka.com/press-releases/pyka-awarded-u-s-air-force-contract-for-dropship-long-range-multi-mission-uas-platform"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部35頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部35頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像1件／外部35頁・検索12回）"
+ }
+}
